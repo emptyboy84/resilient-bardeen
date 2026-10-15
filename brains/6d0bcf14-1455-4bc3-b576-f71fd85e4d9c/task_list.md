@@ -44,22 +44,22 @@
   - [x] `크레탑_부산CT산업현황_전화번호검증완료_전체3978개사_심층6차.xlsx` 생성 완료
   - [x] `크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt` (UTF-8 BOM TSV) 실시간 동기화 완료
 
-- [/] **Task 8: 전체 브레인 세션(156개) 대화록(JSONL -> Markdown `chat_history.md`) 일괄 변환 파서 실행**
-  - [ ] 세션별 JSONL 파싱 및 고품질 마크다운 대화록 변환
-  - [ ] 주요 팩트체크 및 도구 실행 요약 포함
+- [x] **Task 8: 전체 브레인 세션(156개) 대화록(JSONL -> Markdown `chat_history.md`) 일괄 변환 파서 실행**
+  - [x] 세션별 JSONL 파싱 및 고품질 마크다운 대화록 변환 완료
+  - [x] 질문/요청(USER) 및 실행도구/응답(ANTIGRAVITY) 블록 포맷팅 완료
 
-- [ ] **Task 9: main 워크트리에 전체 브레인 디렉토리(`brains/`) 미러링 및 `brains/README.md` 카탈로그 생성**
-  - [ ] 156개 세션 전수 미러링 (산출물, 스크래치, 대화록)
-  - [ ] 마스터 인덱스 `brains/README.md` 생성 (세션 ID, 일시, 첫 질문, 링크)
+- [x] **Task 9: main 워크트리에 전체 브레인 디렉토리(`brains/`) 미러링 및 `brains/README.md` 카탈로그 생성**
+  - [x] 156개 세션 전수 미러링 (산출물, 스크래치, 대화록) 완료
+  - [x] 마스터 인덱스 `brains/README.md` 생성 완료 (세션 번호, 세션 ID, 시작 일시, 요청 요약, 아티팩트 목록, 대화록 바로가기 링크)
 
-- [ ] **Task 10: 최신 세션(`6d0bcf14-...`) `brain_docs/` 루트 동기화**
-  - [ ] `brain_docs/chat_history.md` 최신 대화 기록 생성
-  - [ ] `brain_docs/task_list.md`, `implementation_plan.md`, `transcript.jsonl`, `scratch/` 동기화
+- [x] **Task 10: 최신 세션(`6d0bcf14-...`) `brain_docs/` 루트 동기화**
+  - [x] `brain_docs/chat_history.md` 최신 대화 기록 생성 완료
+  - [x] `brain_docs/task_list.md`, `implementation_plan.md`, `transcript.jsonl`, `scratch/` 동기화 완료
 
-- [ ] **Task 11: Git add, commit 및 `origin/main` 푸시 실행**
-  - [ ] `main` 브랜치에 전체 변경사항 스테이징
-  - [ ] 의미 있는 커밋 메시지 작성 후 `origin/main`으로 푸시
+- [x] **Task 11: Git add, commit 및 `origin/main` 푸시 실행**
+  - [x] `main` 브랜치에 전체 변경사항 스테이징 및 커밋 완료 (`b1642c93`, `fb767af6`)
+  - [x] `origin/main`으로 100% 정상 푸시 완료
 
-- [ ] **Task 12: 원격 반영 검수 및 QA 확인**
-  - [ ] `git status`, `git log`, `git diff` 확인
-  - [ ] GitHub 저장소 반영 최종 확인
+- [x] **Task 12: 원격 반영 검수 및 QA 확인**
+  - [x] `git status` clean 상태 확인
+  - [x] GitHub 원격 저장소(`https://github.com/emptyboy84/resilient-bardeen.git`) 반영 완료 확인
