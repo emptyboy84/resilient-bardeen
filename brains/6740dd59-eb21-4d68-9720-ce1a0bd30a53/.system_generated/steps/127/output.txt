@@ -1,0 +1,22 @@
+The search for "site:bizno.net "교보문고"" returned the following summary:
+**(주)교보문고 사업자 정보**
+
+비즈노(Bizno)에 등록된 (주)교보문고의 주요 정보는 다음과 같습니다[1]:
+
+*   **회사명:** (주)교보문고 (KYOBO BOOK CENTRE CO., LTD.)[1]
+*   **대표자명:** 허정도[1]
+*   **사업자등록번호:** 102-81-11670[1]
+*   **법인등록번호:** 110111-0286058[1]
+*   **설립일:** 1980-12-24[1]
+*   **전화번호:** 1544-1900[1]
+*   **주소:** 서울특별시 종로구 종로1가 (종로1가, 교보빌딩)[1]
+*   **업종:** 전자상거래 소매업 (서적 출판업)[1]
+*   **기업규모:** 대기업[1]
+*   **종업원수:** 2061명[1]
+*   **홈페이지:** www.kyobobook.co.kr[1]
+
+기타 비즈노 내 검색 결과에는 (주)교보문고 외에 '하함시'와 같이 교보문고를 언급하는 다른 업체 정보가 포함될 수 있습니다[2].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-RqWIdOKLuFANfmce0DRgaCKUdUNpY0azF_8Ed58FbI--aFVDkGHyagx_qqaPF2XeN-cpVJ3aBKz4v0dwL6jIlPZGLz5iUAWMFoqrGy0huQE5vOZDOWdLbXc=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW6szbgDUPUajsuFUzzEgpSpaa4ZNcTk34kUQ4J8woj51bGsZ4TrTFm61klur8CzdD9sZeEiXW2cw4dzRnidSnxhGXcxNdu8ihMNE9FotHpXbJ3o7DAW_vdsQ=)

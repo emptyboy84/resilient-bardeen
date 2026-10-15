@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Written test file.
+Row 2 Col 1: value="Black" font.color.argb="FF000000" bold=undefined
+Row 2 Col 2: value="Red B2" font.color.argb="FFFF0000" bold=true
+Row 2 Col 3: value="Red C2" font.color.argb="FFFF0000" bold=true
+Row 3 Col 1: value="Black R3" font.color.argb="FF000000" bold=undefined
+Row 3 Col 2: value="Red R3B" font.color.argb="FFFF0000" bold=true
+Row 3 Col 3: value="Red R3C" font.color.argb="FFFF0000" bold=true
+Row 4 Col 1: value="Black A4" font.color.argb="FF000000" bold=undefined
+Row 4 Col 2: value="Red B4" font.color.argb="FFFF0000" bold=true
+Row 4 Col 3: value="Red C4" font.color.argb="FFFF0000" bold=true
+

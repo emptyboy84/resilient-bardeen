@@ -1,0 +1,43 @@
+
+The command exited with code 1.
+Output:
+�ġ �:11 �:57
++   const jsonMatches = html.match(/\{[^{}]*"seller[^{}]*\}/gi);
++                                                         ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:11 �:61
++   const jsonMatches = html.match(/\{[^{}]*"seller[^{}]*\}/gi);
++                                                             ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:31
++   console.log('JSON matches:', jsonMatches);
++                               ~
+',' �ڿ� � �ϴ�.
+�ġ �:12 �:32
++   console.log('JSON matches:', jsonMatches);
++                                ~~~~~~~~~~~
+� �Ǵ� � �ġ � 'jsonMatches' �ū�Դϴ�.
+�ġ �:12 �:31
++   console.log('JSON matches:', jsonMatches);
++                               ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:12 �:43
++   console.log('JSON matches:', jsonMatches);
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:13 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:14 �:16
++ fetchSsgSeller();
++                ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:15 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

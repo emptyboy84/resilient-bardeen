@@ -1,0 +1,75 @@
+### Result
+[
+  {
+    "text": "발행자번호 신청 안내",
+    "href": "https://www.nl.go.kr/seoji/contents/S30101000000.do"
+  },
+  {
+    "text": "발행자번호 신청/정정",
+    "href": "https://www.nl.go.kr/seoji/contents/S30103000000.do"
+  },
+  {
+    "text": "발행자번호 신청(신규/추가)",
+    "href": "https://www.nl.go.kr/seoji/contents/S30102000000.do"
+  },
+  {
+    "text": "발행자번호 신청 조회",
+    "href": "https://www.nl.go.kr/seoji/contents/S30103000000.do"
+  },
+  {
+    "text": "발행자정보 정정신청 및 조회",
+    "href": "https://www.nl.go.kr/seoji/contents/S30104000000.do"
+  },
+  {
+    "text": "ISSN 발행자정보 정정신청",
+    "href": "https://www.nl.go.kr/seoji/contents/S40202000000.do"
+  },
+  {
+    "text": "발행처 정보 수정",
+    "href": "https://www.nl.go.kr/seoji/contents/S60103000000.do"
+  },
+  {
+    "text": "발행자번호 부여현황",
+    "href": "https://www.nl.go.kr/seoji/contents/S60301050000.do"
+  },
+  {
+    "text": "발행처그룹(KPI) 정보",
+    "href": "https://www.nl.go.kr/seoji/contents/S60401000000.do"
+  },
+  {
+    "text": "발행처그룹 신청",
+    "href": "https://www.nl.go.kr/seoji/contents/S60401000000.do"
+  },
+  {
+    "text": "발행처그룹 조회",
+    "href": "https://www.nl.go.kr/seoji/contents/S60402000000.do"
+  },
+  {
+    "text": "출판사/기관",
+    "href": "https://www.nl.go.kr/seoji/#publish"
+  },
+  {
+    "text": "발행자번호 신청",
+    "href": "https://www.nl.go.kr/seoji/contents/S30102000000.do"
+  },
+  {
+    "text": "발행자번호 신청",
+    "href": "https://www.nl.go.kr/seoji/contents/S30102000000.do"
+  },
+  {
+    "text": "발행자번호 신청",
+    "href": "https://www.nl.go.kr/seoji/resource/form/user/a1.hwp"
+  },
+  {
+    "text": "발행자정보 정정신청",
+    "href": "https://www.nl.go.kr/seoji/resource/form/user/a1_2.hwp"
+  },
+  {
+    "text": "출판사명이 바뀐 경우 어떻게 해야하나요?",
+    "href": "https://www.nl.go.kr/seoji/contents/FAQ_UCI.do?page=1&schM=view&id=18623&schBcid=FAQ_UCI"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'a\')).map(a => ({text: a.innerText.trim(), href: a.href})).filter(a => a.text.includes(\'출판사\') || a.text.includes(\'발행처\') || a.text.includes(\'발행자\'));\n}');
+```

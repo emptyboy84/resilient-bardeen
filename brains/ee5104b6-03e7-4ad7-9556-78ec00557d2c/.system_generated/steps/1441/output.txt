@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%8F%AC%EC%BB%A4%EC%8A%A4');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%8F%AC%EC%BB%A4%EC%8A%A4
+- Page Title: '포커스' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T02-25-08-579Z.yml)

@@ -1,0 +1,14 @@
+The search for ""7778800296" OR ("화성테크원" "전현식")" returned the following summary:
+**화성테크원**에 대한 기업 정보는 다음과 같습니다[1][2].
+
+*   **기업명:** 주식회사 화성테크원 (이전 상호: 화성테크)[2]
+*   **대표자:** 전현식[2]
+*   **사업자등록번호:** 777-88-00296[1][2]
+*   **업종:** 그 외 기타 특수목적용 기계 제조업[1][2]
+*   **개업일:** 2016년 2월 26일[2]
+*   **주소:** 부산광역시 금정구 공단로 68-2 (금사동)[2]
+*   **연락처:** 051-527-7230[2]
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9sF5YRVJeMp7B_hvwrIF6Ba8XF6sEvirLyXLtbSRkiYyKSRmA6mCxGfqu_LDNkaVyQvyB_lATLMS4zz8TXu9GJytuefTA9OIotRv18pe8uUGHpSc=)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9sF5YRVJeMp7B_hvwrIF6Ba8XF6sEvirLyXLtbSRkiYyKSRmA6mCxGfqu_LDNkaVyQvyB_lATLMS4zz8TXu9GJytuefTA9OIotRv18pe8uUGHpSc=)

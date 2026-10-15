@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Successfully saved to finalPath: C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_최종본_수정완료.xlsx
+Successfully synced to repoPath: c:/Users/lg/resilient-bardeen/data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+

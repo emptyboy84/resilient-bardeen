@@ -1,0 +1,17 @@
+The search for ""766-86-01501" OR "7668601501" OR ("에스텍" "이현기")" returned the following summary:
+검색하신 "766-86-01501" 또는 "7668601501"은 사업자등록번호로 추정되나, 해당 번호에 대한 직접적인 기업 정보는 공개된 검색 결과에서 확인되지 않았습니다 [1.3.1~1.3.9].
+
+"에스텍"과 "이현기"라는 키워드는 여러 문서에서 함께 언급되거나 각각 별도로 나타나고 있습니다[1][2][3]. 주요 관련 내용은 다음과 같습니다:
+
+*   **기업 관련:** "에스텍(주)"이라는 명칭의 기업이 존재하며, 이와 관련하여 이현기라는 이름이 대표자나 관계자로 언급된 사례가 있습니다[1]. 또한, 충청북도 지역의 '에스텍 주식회사'가 고액·상습 체납자 명단에 포함된 사례가 공고된 바 있습니다[3].
+*   **기타:** 연구개발 부서나 협력 업체 명단 등 다양한 문서에서 '에스텍' 혹은 '이현기'라는 이름이 각각 확인되지만, 특정 사업자번호와 직접적으로 연결된 정보는 찾을 수 없었습니다[4][5][2][6].
+
+더 정확한 정보를 원하신다면 국세청 '사업자등록상태조회' 서비스를 통해 해당 사업자번호의 등록 여부를 직접 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa_OqDt_qqATvogcgCe3hXLa-SsQLIzNTelhdWepd5XcHxU9J7MJpAI9mtEDGmVLjJIl3pT5EHke3NDjLDprHkcmVp2HEkL-C9r1_FhafejbkWdTc6z7WQXK2NE6TV70BF7JL5cg==)
+[2] [soundcom.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOo8gtYN8N-CkV_-F3I3K_0ctVj1zFOxBHKfVcV7dLrlMVPM4HgWYGnLcpLAV1hZKFleAgAHQT3_ZviQ45AcdywQbx7qp8K_zS4IpHTKHjWmEds1DORKqHEBh9VuH17F3FYUfuC2FIvQ==)
+[3] [chungbuk.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn4k4NDOhW93kPom0ecOVueq1QgEvRzRSPziw_TJY9B2BttON3maNfqpOt5n1jbOnpt50CUZi03-g12G_W9E2t3XQtzEckMb3P99nk4kY7UY81dxsa2XR_W_26y5T6lWSY530r68N88usS5DqbvqZe-gIsPndgQ70RisB36G_NxlibIojSHOjCE6RfQJ97u49vZAidmlT4vrMe-SC0NkxpDfnvXHdfBmjaTo241gFgBj9Djd5OULvWTUUrp-0tsWikGltrBrFEIDCSC6CkmxSOPsNZ8VcoDxTd9st45RAsUMCU_coyK4GNtnZRWMZcGg1A1cC2r3jbO3HCV5-fUD4KYIrgD9kG_HV08YF9D8EyFvt8n2CKxxkpp1QzTNUnFjN_LolbVoJh5AaDDkYxDGUxaiAFVcUxgv0tgibvGEc=)
+[4] [rnd.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHxIx7DXM_lUXMCFbQpdGFBQwldavSHLJ9xQt2z3Bckotqmrq55qPsBqfkKtlW_5HXfr2A2oxg-ohpzQRsCP1rd5nitBLVroyGKP6-jAbY_Exjnel775fK0uHeVNMXBtS2IQhGbnGGjC2Pba0hys8tRKrKYJKD8MDAXUMWzoClmyzITOvw41WHOsyxOtz0cl6eFfsRhet5Qothemi7IsErJs2swA2-Ze_Sy7bXw7Bidwkn3WFrH_0PmB3g3yr-qZG-uV2tAe-FTuZ4B5SzpO7CZsGQwmIMdzx7YWkjaIhWUYEkP-r1pJ_P9jtFTX01wEYI5SBM81etfdI9WYAobBfNgRUGlRb4LUUjVZxPYfwgGtmP3bZfD5h6Xqf_2BCFIjosz3JBbNn0EaTGB6_DMyW8fMeTjoix-j0FY59QoiDLiK2aE1efMs8ajw==)
+[5] [koita.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU70F_ZHcVPnY4ej4-62giWgKqAuhx1pzJTK4ArjxSSw8aJt2JI8x6rYpBJIczkYOcMpl14Sq7ccFo3SXIb4tKglVdVK_iNj0U57Ln_fD8VXtk2-9l7hXS8diMXDdbp1WFNW006F3fSEHj1Xe234hZsl9u_O_o)
+[6] [khu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8gDFOhgarMGwXr-yRYWpuJmrFCxv9bH9BNzu9tN7tag4CMtemJT8ZxQTCr7RAiY0WQU2Yw9T42gr3N1psXjXC8bUwSJWbUOhuhZI7bBShYb-MQMWXPG-iOi2btTgVCqvdzFo4H2JX3-uIZfIg0Tg8KkVD7Zst61ahm_H_brZI0K5GDdlx3jvb42dW6JawUB-pAJQ-VEKhGJfWIg9Tz2Y=)

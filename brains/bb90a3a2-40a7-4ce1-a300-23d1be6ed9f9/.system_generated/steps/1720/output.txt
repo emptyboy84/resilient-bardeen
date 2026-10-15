@@ -1,0 +1,17 @@
+The search for ""케이제이채움" "김규형" OR "685-87-01233" OR "6858701233"" returned the following summary:
+제시해주신 검색어는 **(주)케이제이채움** 기업 정보와 관련된 항목입니다[1]. 
+
+* **기업명:** 주식회사 케이제이채움 (KJ CHEWOOM CO., LTD.)[1]
+* **대표자:** 김규형[1]
+* **사업자등록번호:** 685-87-01233 (6858701233)[1][2]
+* **설립일:** 2019년 3월 19일[1]
+* **주요 사업:** 데이터베이스 및 온라인 정보 제공업(부동산 정보 등)[1][3]
+* **소재지:** 부산광역시 금정구 (부곡동 등)[2]
+
+해당 기업 및 대표자, 사업자번호와 관련된 상세 데이터나 신용평가 보고서, 채용 등의 정보를 찾으실 때 주로 활용되는 식별 정보입니다[2][4].
+
+Sources:
+[1] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLX2X9NYKLbYlPvhOcr8akwBuYK_qwvKwjdVRDpsb500s1kyXSJ0ZANp303qap9pOwA2sk94i8RxzXHbxKO0u7bHBgmK0zVvwz3Gai6DTdlVd4r5USlN8C5TDT3p3Y8dwglLFlLIWOtsmSidRGBt55zPfHNohHFy315x7qULikSs5B1RRnT6xS0J2Pz09sB6J-1RJbBz26GQwdnhI4cQ==)
+[2] [reportworld.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo6_XeEOjhaeOu-W8GgzuEo5Im2EBBf83nAiuJ8b73DcY3nRFzWUzlQUTrLRlDKPLBPRhORDd2uDmdO8sp3jEU48gVOK0A03hAF0qwv8BK_o2Zf5RE-TW37cw_i_i4fmoxjoZuNb0Qur4UjA6VI6ef3LltE-9dLW62IkualR6TUu9YJkIA5Nhp_Kxat8WDI9kHde7F3ozCAn-ilx9BB8_FYLIG49A2_pShmAXQYMmLiQ1xwXjjoKSrSqJ17zDOzTgsW40A9zf8IBwtJ67iBz4bJMoc0g==)
+[3] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLX2X9NYKLbYlPvhOcr8akwBuYK_qwvKwjdVRDpsb500s1kyXSJ0ZANp303qap9pOwA2sk94i8RxzXHbxKO0u7bHBgmK0zVvwz3Gai6DTdlVd4r5USlN8C5TDT3p3Y8dwglLFlLIWOtsmSidRGBt55zPfHNohHFy315x7qULikSs5B1RRnT6xS0J2Pz09sB6J-1RJbBz26GQwdnhI4cQ==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF47V2gEsTs0T_BBvyGpQIOdN63jND0KsaHISk3UvQ7I0WOrZ0dbf9Mpn-iK1h1A244FebFMOMZDgVF9fee36u-re-3OEpahnB1NbYHEmKOgZyS4cL66kSoVrM7kOSex4kUEi2wFCOVpoBOkRsG0-1_t9_eY826BYaW2IhlNYtKsU0F55FNRJHf5I92nNgzFEy4-0Y5FF8BLGe-JkccvUUDhnpyKBK8H0Cr1vyYXHWDUF684MLerVDuDYE8rwdoQwC1Ngl9qExk2fJJqLN8Ml4R6uWtxKvUKveI17zivGNldGYN8hhHT6_gUU=)

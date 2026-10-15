@@ -1,0 +1,16 @@
+The search for ""1577-7769" OR "15777769" "051" OR "010" OR "FAX"" returned the following summary:
+입력하신 번호 **1577-7769**는 대한민국에서 대부업, 금융 서비스 또는 공공·민원 안내 등의 용도로 사용되는 대표전화 번호 중 하나입니다[1][2][3]. 
+
+예를 들어:
+* 과거 현대캐피탈 등의 금융/대출 상품 관련 전용 ARS 번호로 사용된 이력이 있으며[3][4],
+* 일부 철도(지하철 급행열차 등) 관련 민원 및 고객센터 문자 접수 번호로도 알려져 있습니다[2].
+
+뒤에 조합하신 **051(부산 지역번호), 010(휴대폰 번호), FAX** 등의 키워드는 일반적으로 특정 기업이나 기관의 연락처, 지역 지점 번호, 팩스 번호 등을 검색하기 위해 함께 쓰이는 조건으로 보입니다. 
+
+혹시 특정 기업이나 기관의 상세 연락처(고객센터, 팩스 번호 등)를 찾고 계신가요? 찾고자 하는 곳의 상호명이나 구체적인 목적을 함께 알려주시면 더 정확한 정보를 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [hsnpl.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjd0DnG4EjmdZf8mpsJvzNCiZ-c7D2lzKKCU7SHn2X5k-RpsrOcv96Z0tku80FJsULjIr4DA3r4cqURuI5OxOTmzvKrsWj6ypJd_Z)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbhg3EaLtxqMYY2S182HbWPWFk8FJPr3elBZniBXUy61kEGzigXpteQONwvymdeRp5yZ95IisaskvDJhswZZuKmdUWTPmeO85F4ahSm8Znyv42QteQay2JK_g=)
+[3] [economist.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV6zBHtmDwo5rY8ViXARIXPigfAT6iXRl0y1-sCc9hU-UuE3EvP4K11vzeZ7sUHw1nrtl2QnXzetPSDF_uDsj0Lf2GZp_z8TfBE60o_n51nx4td48Wv6U2B_5a-O2_1qGe6-r2cGaKcFA=)
+[4] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRY5oTe5Ny4RB9-abHf4_A4kCaaQO1ox4r4c06ldp9FrXGOqQFWi-8nt5-UHxONuy4lQ9PDDMmuUav9CqqDE4WSEaloCAWZITJlFmN5fzkoT6tTw==)

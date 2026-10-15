@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94
+- Page Title: 우수경 만화 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-07-35-683Z.yml)

@@ -1,0 +1,997 @@
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소 - 상호검색
+### Snapshot
+```yaml
+- generic [ref=f7e1]:
+  - generic [ref=f7e1393]:
+    - generic:
+      - generic:
+        - link "주 메뉴 바로가기" [ref=f7e1394] [cursor=pointer]:
+          - /url: "#mf_wfm_potal_main_wf_header_contain-gnb"
+        - link "본문 바로가기" [ref=f7e1395] [cursor=pointer]:
+          - /url: "#mf_wfm_potal_main_wfm_content"
+    - banner [ref=f7e1397]:
+      - generic [ref=f7e1398]:
+        - link "대한민국 법원 인터넷 등기소" [ref=f7e1399] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - navigation [ref=f7e1400]:
+          - list [ref=f7e1401]:
+            - listitem [ref=f7e1402]:
+              - link "열람·발급" [ref=f7e1403] [cursor=pointer]:
+                - /url: javascript:void(null);
+              - list [ref=f7e1405]:
+                - listitem [ref=f7e1406]:
+                  - generic [ref=f7e1407]: 부동산
+                  - list [ref=f7e1409]:
+                    - listitem [ref=f7e1410]:
+                      - link "열람·발급" [ref=f7e1411] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1412]:
+                      - link "간편 열람·발급" [ref=f7e1413] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1414]:
+                      - link "일괄등록 열람·발급" [ref=f7e1415] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1416]:
+                      - link "이미지폐쇄등기부 열람" [ref=f7e1417] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1418]:
+                      - link "이미지폐쇄등기부 등 발급예약(사전음영화)" [ref=f7e1419] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1420]:
+                      - link "소유현황 열람" [ref=f7e1421] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1422]:
+                      - link "신청결과 확인 (미열람·미발급/재열람 등)" [ref=f7e1424] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1425]:
+                        - listitem [ref=f7e1426]:
+                          - link "열람·발급" [ref=f7e1427] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1428]:
+                          - link "이미지폐쇄등기부 열람" [ref=f7e1429] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1430]:
+                          - link "이미지폐쇄등기부 등 발급예약" [ref=f7e1431] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1432]:
+                          - link "소유현황 열람" [ref=f7e1433] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1434]:
+                  - generic [ref=f7e1435]: 법인
+                  - list [ref=f7e1437]:
+                    - listitem [ref=f7e1438]:
+                      - link "열람·발급" [ref=f7e1439] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1440]:
+                      - link "이미지폐쇄등기부 열람" [ref=f7e1441] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1442]:
+                      - link "이미지폐쇄등기부 발급예약(사전음영화)" [ref=f7e1443] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1444]:
+                      - link "다량발급예약" [ref=f7e1445] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1446]:
+                      - link "인감증명서 발급예약" [ref=f7e1447] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1448]:
+                      - link "전자법인인감증명서 발급" [ref=f7e1449] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1450]:
+                      - link "신청결과 확인 (미열람·미발급/재열람 등)" [ref=f7e1452] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1453]:
+                        - listitem [ref=f7e1454]:
+                          - link "열람·발급" [ref=f7e1455] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1456]:
+                          - link "이미지폐쇄등기부 열람" [ref=f7e1457] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1458]:
+                          - link "이미지폐쇄등기부 발급예약" [ref=f7e1459] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1460]:
+                          - link "발급예약" [ref=f7e1461] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1462]:
+                          - link "전자법인인감증명서 발급" [ref=f7e1463] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1464]:
+                      - link "법인인감증명서 발급지원" [ref=f7e1466] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1467]:
+                        - listitem [ref=f7e1468]:
+                          - link "매도용 매수자 등록" [ref=f7e1469] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1470]:
+                          - link "매도용 매수자 등록내역" [ref=f7e1471] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1472]:
+                          - link "인감증명서 발급 내역" [ref=f7e1473] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1474]:
+                  - generic [ref=f7e1475]: 동산·채권담보
+                  - list [ref=f7e1477]:
+                    - listitem [ref=f7e1478]:
+                      - link "열람·발급" [ref=f7e1479] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1480]:
+                      - link "집행관 발급" [ref=f7e1481] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1482]:
+                      - link "신청결과 확인 (미열람·미발급/재열람 등)" [ref=f7e1484] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1485]:
+                        - listitem [ref=f7e1486]:
+                          - link "열람·발급" [ref=f7e1487] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1488]:
+                          - link "집행관 발급" [ref=f7e1489] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1490]:
+                  - generic [ref=f7e1491]: 전자확정일자
+                  - list [ref=f7e1493]:
+                    - listitem [ref=f7e1494]:
+                      - link "정보제공(부여현황 열람)" [ref=f7e1495] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1496]:
+                      - link "계약증서 발급" [ref=f7e1497] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1498]:
+                      - link "신청결과 확인 (미열람/재열람/미발급 등)" [ref=f7e1500] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1501]:
+                        - listitem [ref=f7e1502]:
+                          - link "정보제공(부여현황 열람)" [ref=f7e1503] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1504]:
+                          - link "계약증서 발급" [ref=f7e1505] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1506]:
+                  - generic [ref=f7e1507]: 신청정보및첨부정보
+                  - list [ref=f7e1509]:
+                    - listitem [ref=f7e1510]:
+                      - link "부동산 열람" [ref=f7e1511] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1512]:
+                      - link "법인 열람" [ref=f7e1513] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1514]:
+                      - link "신청결과 확인 (미열람/재열람)" [ref=f7e1516] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1517]:
+                        - listitem [ref=f7e1518]:
+                          - link "부동산등기 신청 열람" [ref=f7e1519] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1520]:
+                          - link "법인등기 신청 열람" [ref=f7e1521] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1522]:
+                  - generic [ref=f7e1523]: 열람·발급 확인
+                  - list [ref=f7e1525]:
+                    - listitem [ref=f7e1526]:
+                      - link "열람·발급 내역확인" [ref=f7e1528] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1529]:
+                        - listitem [ref=f7e1530]:
+                          - link "부동산" [ref=f7e1531] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1532]:
+                          - link "법인" [ref=f7e1533] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1534]:
+                          - link "동산·채권담보" [ref=f7e1535] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1536]:
+                          - link "전자확정일자" [ref=f7e1537] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1538]:
+                          - link "신청정보및첨부정보" [ref=f7e1539] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1540]:
+                      - link "증명서 발급확인" [ref=f7e1541] [cursor=pointer]:
+                        - /url: javascript:void(null);
+            - listitem [ref=f7e1542]:
+              - link "신청" [ref=f7e1543] [cursor=pointer]:
+                - /url: javascript:void(null);
+              - list [ref=f7e1545]:
+                - listitem [ref=f7e1546]:
+                  - generic [ref=f7e1547]: 부동산
+                  - list [ref=f7e1549]:
+                    - listitem [ref=f7e1550]:
+                      - link "부동산등기 신청" [ref=f7e1552] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1553]:
+                        - listitem [ref=f7e1554]:
+                          - link "신청서 작성/제출" [ref=f7e1555] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1556]:
+                          - link "신청/취하 승인" [ref=f7e1557] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1558]:
+                          - link "신청사건 관리" [ref=f7e1559] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1560]:
+                      - link "지원관리" [ref=f7e1562] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1563]:
+                        - listitem [ref=f7e1564]:
+                          - link "등기필정보 관리" [ref=f7e1565] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1566]:
+                          - link "보정/각하결정문 진위 확인" [ref=f7e1567] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1568]:
+                          - link "신청현황" [ref=f7e1569] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1570]:
+                          - link "영구보존문서 등록" [ref=f7e1571] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1572]:
+                          - link "이의신청" [ref=f7e1573] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1574]:
+                          - link "이의신청사건번호 조회" [ref=f7e1575] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1576]:
+                          - link "인지세 미사용여부 확인" [ref=f7e1577] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1578]:
+                          - link "토지이용계획 조회" [ref=f7e1579] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1580]:
+                  - generic [ref=f7e1581]: 법인
+                  - list [ref=f7e1583]:
+                    - listitem [ref=f7e1584]:
+                      - link "법인등기 신청" [ref=f7e1586] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1587]:
+                        - listitem [ref=f7e1588]:
+                          - link "신청서 작성/제출" [ref=f7e1589] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1590]:
+                          - link "신청/취하 승인" [ref=f7e1591] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1592]:
+                          - link "신청사건 관리" [ref=f7e1593] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1594]:
+                      - link "간편 회사설립등기 신청" [ref=f7e1596] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1597]:
+                        - listitem [ref=f7e1598]:
+                          - link "신청서 작성/제출" [ref=f7e1599] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1600]:
+                          - link "신청/취하 승인" [ref=f7e1601] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1602]:
+                          - link "신청사건 관리" [ref=f7e1603] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1604]:
+                      - link "온라인 인감신고" [ref=f7e1606] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1607]:
+                        - listitem [ref=f7e1608]:
+                          - link "인감개폐인 신고서 작성/제출" [ref=f7e1609] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1610]:
+                          - link "인감개폐인 신고 처리내역" [ref=f7e1611] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1612]:
+                      - link "지원관리" [ref=f7e1614] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1615]:
+                        - listitem [ref=f7e1616]:
+                          - link "인감카드 관리" [ref=f7e1617] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1618]:
+                          - link "법인 잔고증명서 발급/조회" [ref=f7e1619] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1620]:
+                          - link "보정/각하결정문 진위 확인" [ref=f7e1621] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1622]:
+                          - link "온라인법인설립시스템 수수료 결제" [ref=f7e1623] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1624]:
+                          - link "이의신청" [ref=f7e1625] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1626]:
+                          - link "전자증명서 발급 및 관리" [ref=f7e1627] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1628]:
+                          - link "전자증명서용 보안매체 발급신청 및 관리" [ref=f7e1629] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1630]:
+                          - link "휴면법인 영업신고" [ref=f7e1631] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1632]:
+                  - generic [ref=f7e1633]: 동산·채권담보
+                  - list [ref=f7e1635]:
+                    - listitem [ref=f7e1636]:
+                      - link "동산·채권담보등기 신청" [ref=f7e1638] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1639]:
+                        - listitem [ref=f7e1640]:
+                          - link "신청서 작성/제출" [ref=f7e1641] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1642]:
+                          - link "신청/취하 승인" [ref=f7e1643] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1644]:
+                          - link "신청사건 관리" [ref=f7e1645] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1646]:
+                      - link "지원관리" [ref=f7e1648] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1649]:
+                        - listitem [ref=f7e1650]:
+                          - link "첨부서면 제출등기소 조회" [ref=f7e1651] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1652]:
+                          - link "담보목적물 목록 작성" [ref=f7e1653] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1654]:
+                          - link "등기필정보 관리" [ref=f7e1655] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                - listitem [ref=f7e1656]:
+                  - generic [ref=f7e1657]: 전자확정일자
+                  - list [ref=f7e1659]:
+                    - listitem [ref=f7e1660]:
+                      - link "신청서 작성/제출" [ref=f7e1661] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1662]:
+                      - link "신청사건 관리" [ref=f7e1663] [cursor=pointer]:
+                        - /url: javascript:void(null);
+            - listitem [ref=f7e1664]:
+              - link "등기지원 서비스" [ref=f7e1665] [cursor=pointer]:
+                - /url: javascript:void(null);
+              - list [ref=f7e1667]:
+                - listitem [ref=f7e1668]:
+                  - generic [ref=f7e1669]: 전자납부
+                  - list [ref=f7e1671]:
+                    - listitem [ref=f7e1672]:
+                      - link "부동산등기 신청수수료" [ref=f7e1673] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1674]:
+                      - link "법인등기 신청수수료" [ref=f7e1675] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1676]:
+                      - link "인감카드 발급수수료" [ref=f7e1677] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1678]:
+                      - link "기기형 OTP 발급수수료" [ref=f7e1679] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1680]:
+                      - link "동산·채권담보등기 신청수수료" [ref=f7e1681] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1682]:
+                      - link "기타등기 신청수수료" [ref=f7e1683] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1684]:
+                      - link "온라인환급 신청" [ref=f7e1685] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1686]:
+                  - generic [ref=f7e1687]: 전자서명자 승인
+                  - list [ref=f7e1689]:
+                    - listitem [ref=f7e1690]:
+                      - link "부동산 첨부서면 승인" [ref=f7e1691] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1692]:
+                      - link "법인 첨부서면 승인" [ref=f7e1693] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1694]:
+                      - link "온라인 인감신고" [ref=f7e1695] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1696]:
+                      - link "동산·채권담보 첨부서면 승인" [ref=f7e1697] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1698]:
+                      - link "신청정보및첨부정보 열람 위임장 승인" [ref=f7e1699] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1700]:
+                      - link "비등록문서 승인" [ref=f7e1701] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1702]:
+                      - link "휴면법인 영업신고서 승인" [ref=f7e1703] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1704]:
+                  - generic [ref=f7e1705]: 등기신청사건 조회
+                  - list [ref=f7e1707]:
+                    - listitem [ref=f7e1708]:
+                      - link "부동산등기 신청사건" [ref=f7e1709] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1710]:
+                      - link "법인등기 신청사건" [ref=f7e1711] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1712]:
+                      - link "동산·채권담보등기 신청사건" [ref=f7e1713] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1714]:
+                      - link "기타등기 신청사건" [ref=f7e1715] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1716]:
+                  - link "상호검색" [ref=f7e1717] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1718]:
+                  - link "등록면허세 정액분 신고" [ref=f7e1719] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1720]:
+                  - link "신용카드 매출 전표 발행" [ref=f7e1721] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+            - listitem [ref=f7e1722]:
+              - link "나의 등기정보" [ref=f7e1723] [cursor=pointer]:
+                - /url: javascript:void(null);
+              - list [ref=f7e1725]:
+                - listitem [ref=f7e1726]:
+                  - link "My Q&A" [ref=f7e1727] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1728]:
+                  - generic [ref=f7e1729]: 결제내역 조회
+                  - list [ref=f7e1731]:
+                    - listitem [ref=f7e1732]:
+                      - link "열람·발급 결제내역" [ref=f7e1733] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1734]:
+                      - link "전자신청 결제내역" [ref=f7e1735] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1736]:
+                      - link "전자납부 결제내역" [ref=f7e1737] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1738]:
+                  - generic [ref=f7e1739]: 알림 서비스
+                  - list [ref=f7e1741]:
+                    - listitem [ref=f7e1742]:
+                      - link "부동산 알리미 서비스" [ref=f7e1743] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1744]:
+                      - link "법인인감 문자전송 서비스" [ref=f7e1745] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1746]:
+                  - generic [ref=f7e1747]: 자주사용하는 정보
+                  - list [ref=f7e1749]:
+                    - listitem [ref=f7e1750]:
+                      - link "등기유형 등록" [ref=f7e1751] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1752]:
+                      - link "등기소 등록" [ref=f7e1753] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1754]:
+                      - link "법인 등록" [ref=f7e1755] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1756]:
+                      - link "첨부서면 등록" [ref=f7e1757] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1758]:
+                      - link "등기명의인 등록" [ref=f7e1759] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1760]:
+                  - generic [ref=f7e1761]: 신청사건 조회
+                  - list [ref=f7e1763]:
+                    - listitem [ref=f7e1764]:
+                      - link "나의 사건 조회" [ref=f7e1765] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1766]:
+                      - link "소속사용자 사건 조회" [ref=f7e1767] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1768]:
+                      - link "전자신청 등기필정보 수령" [ref=f7e1769] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1770]:
+                  - link "관심등기 관리" [ref=f7e1771] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+            - listitem [ref=f7e1772]:
+              - link "고객센터" [ref=f7e1773] [cursor=pointer]:
+                - /url: javascript:void(null);
+              - list [ref=f7e1775]:
+                - listitem [ref=f7e1776]:
+                  - generic [ref=f7e1777]: 등기서비스 안내
+                  - list [ref=f7e1779]:
+                    - listitem [ref=f7e1780]:
+                      - link "서비스 개요" [ref=f7e1781] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1782]:
+                      - link "부동산등기" [ref=f7e1783] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1784]:
+                      - link "법인등기" [ref=f7e1785] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1786]:
+                      - link "동산·채권담보등기" [ref=f7e1787] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1788]:
+                      - link "기타등기" [ref=f7e1789] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1790]:
+                      - link "유한책임신탁등기" [ref=f7e1791] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1792]:
+                  - link "자주묻는 질문" [ref=f7e1793] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - list [ref=f7e1795]:
+                    - listitem [ref=f7e1796]:
+                      - link "인터넷등기소" [ref=f7e1797] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1798]:
+                      - link "부동산등기 열람/발급" [ref=f7e1799] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1800]:
+                      - link "법인등기 열람/발급" [ref=f7e1801] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1802]:
+                      - link "전자신청" [ref=f7e1803] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1804]:
+                      - link "전자표준양식" [ref=f7e1805] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1806]:
+                  - link "Q&A" [ref=f7e1807] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1808]:
+                  - link "공지사항" [ref=f7e1809] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1810]:
+                  - generic [ref=f7e1811]: 지원안내
+                  - list [ref=f7e1813]:
+                    - listitem [ref=f7e1814]:
+                      - link "등기비용 안내" [ref=f7e1816] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                      - list [ref=f7e1817]:
+                        - listitem [ref=f7e1818]:
+                          - link "등기비용 안내" [ref=f7e1819] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                        - listitem [ref=f7e1820]:
+                          - link "등기비용 간편계산 서비스" [ref=f7e1821] [cursor=pointer]:
+                            - /url: javascript:void(null);
+                    - listitem [ref=f7e1822]:
+                      - link "등기신청양식" [ref=f7e1823] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1824]:
+                      - link "첨부서면예시" [ref=f7e1825] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1826]:
+                      - link "등기용어해설" [ref=f7e1827] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1828]:
+                      - link "등기 관련 법규(예규·선례 등)" [ref=f7e1829] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1830]:
+                      - link "소액임차인의 범위 등 안내" [ref=f7e1831] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1832]:
+                      - link "부동산거래 체크리스트" [ref=f7e1833] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1834]:
+                  - link "서비스 이용시간 안내" [ref=f7e1835] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1836]:
+                  - generic [ref=f7e1837]: 전국 등기소 안내
+                  - list [ref=f7e1839]:
+                    - listitem [ref=f7e1840]:
+                      - link "등기소 찾기" [ref=f7e1841] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                    - listitem [ref=f7e1842]:
+                      - link "무인발급기 찾기" [ref=f7e1843] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f7e1844]:
+                  - link "프로그램 설치" [ref=f7e1845] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+                - listitem [ref=f7e1846]:
+                  - link "오류시조치방안" [ref=f7e1847] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list
+        - generic [ref=f7e1848]:
+          - generic [ref=f7e1849]:
+            - link "로그인" [ref=f7e1851] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "KOR" [ref=f7e1853] [cursor=pointer]:
+              - /url: javascript:void(null);
+          - link "확대" [ref=f7e1855] [cursor=pointer]:
+            - /url: javascript:void(null);
+          - link "검색" [ref=f7e1857] [cursor=pointer]:
+            - /url: javascript:void(null);
+          - link "메뉴" [ref=f7e1859] [cursor=pointer]:
+            - /url: javascript:void(null);
+    - generic [ref=f7e1863]:
+      - link "홈" [ref=f7e1865] [cursor=pointer]:
+        - /url: javascript:void(null);
+      - link "등기지원 서비스" [ref=f7e1867] [cursor=pointer]:
+        - /url: "#"
+      - link "상호검색" [ref=f7e1869] [cursor=pointer]:
+        - /url: "#"
+      - link "도움말" [ref=f7e1871] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f7e1873]:
+      - generic [ref=f7e1874]:
+        - link "이용시간" [ref=f7e1876] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "등기소찾기" [ref=f7e1878] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "등기비용" [ref=f7e1880] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "등기양식" [ref=f7e1882] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "간편길잡이" [ref=f7e1884] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "FAQ" [ref=f7e1886] [cursor=pointer]:
+          - /url: javascript:void(null);
+      - generic [ref=f7e1887]:
+        - link "사용자지원센터" [ref=f7e1889] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "챗봇" [ref=f7e1891] [cursor=pointer]:
+          - /url: javascript:void(null);
+        - link "TOP" [ref=f7e1893] [cursor=pointer]:
+          - /url: javascript:void(null);
+    - generic [ref=f7e1899]:
+      - heading "상호검색" [level=3] [ref=f7e1903]
+      - generic [ref=f7e1905]:
+        - generic:
+          - tablist [ref=f7e1906]:
+            - link "상호(명칭)로 검색" [ref=f7e1908] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "성명으로 검색(미성년자·법정대리인·지배인)" [ref=f7e1912] [cursor=pointer]:
+              - /url: javascript:void(null);
+          - tabpanel "상호(명칭)로 검색" [ref=f7e1916]:
+            - heading "상호(명칭)로 검색" [level=3]
+            - generic [ref=f7e1917]:
+              - generic [ref=f7e1919]:
+                - list [ref=f7e1920]:
+                  - listitem [ref=f7e1921]:
+                    - heading "중요사항" [level=6] [ref=f7e1922]
+                  - listitem [ref=f7e1923]:
+                    - list [ref=f7e1924]:
+                      - listitem [ref=f7e1925]:
+                        - text: ·
+                        - generic [ref=f7e1926]: 본 상호(명칭)검색은 참조용이며, 상호(명칭)의 사용가능 여부는 관할등기소에서 관련 법령에 따라 심사 후 확정됩니다.
+                      - listitem [ref=f7e1927]:
+                        - text: ·
+                        - generic [ref=f7e1928]: 본·지점등기기록이 일원화(통합)됨에 따라 동일지역 내에서 동일상호 법인을 확인하기 위해서는 동일지역 내 본점을 둔 회사(또는 개인상인)현황 외에 타지역 내 본점을 둔 회사의 지점현황도 볼 수 있도록 조건포함기능에서 '등기소 관할구역 내 지점을 둔 타관할 법인포함'을 선택하여 검색하십시오.
+                      - listitem [ref=f7e1929]:
+                        - text: ·
+                        - generic [ref=f7e1930]: 본·지점등기기록 일원화로 지점관할등기소는 지점 소재지 관할등기소가 아닌 본점 소재지 관할등기소임을 유의하십시오.
+                - list [ref=f7e1931]:
+                  - listitem [ref=f7e1932]:
+                    - heading "검색방법" [level=6] [ref=f7e1933]
+                  - listitem [ref=f7e1934]:
+                    - list [ref=f7e1935]:
+                      - listitem [ref=f7e1936]:
+                        - text: ·
+                        - generic [ref=f7e1937]: 검색어 입력시 법인구분을 제외한 상호만 입력하며, 검색어에 '&', '+'을 넣을 경우 다양한 검색이 가능합니다.
+                      - listitem [ref=f7e1938]:
+                        - generic [ref=f7e1939]: "(예시) 검색어에 '인터넷&등기소'를 넣을 경우 : 상호에 '인터넷'과 '등기소'가 포함된 회사를 검색함"
+                      - listitem
+                - list [ref=f7e1940]:
+                  - listitem [ref=f7e1941]:
+                    - heading "검색결과" [level=6] [ref=f7e1942]
+                  - listitem [ref=f7e1943]:
+                    - list [ref=f7e1944]:
+                      - listitem [ref=f7e1945]:
+                        - text: ·
+                        - generic [ref=f7e1946]: 상호를 검색하는 경우 관할등기소에서 관리하고 있는 등기기록에 대하여, 우선 입력한 상호와 동일한 상호가 들어간 등기기록들을 순번에 '*'를 표시하여 보여주고(동일상호), 이어서 입력한 상호가 들어간 등기기록들을 순번을 붙여 보여줍니다(유사상호, 유사상호에는 동일상호도 포함됨).
+                      - listitem [ref=f7e1947]:
+                        - list [ref=f7e1948]:
+                          - listitem [ref=f7e1949]:
+                            - text: "-"
+                            - generic [ref=f7e1950]: 또한 검색조건에 '등기소 관할구역 내 지점을 둔 타관할 법인 포함'기능을 제공하여, 타관할에 본점을 두고 검색하는 등기소 관할구역 내 지점을 둔 동일상호 법인도 검색되도록 하였습니다.
+                          - listitem [ref=f7e1951]:
+                            - text: "-"
+                            - generic [ref=f7e1952]: 검색결과 이후 결과내 재검색을 할 수 있습니다(다만, 최초 검색결과에서 '*'표시된 결과는 검색대상이 아님).
+              - generic [ref=f7e1954]:
+                - list [ref=f7e1955]:
+                  - listitem [ref=f7e1956]:
+                    - generic [ref=f7e1957]:
+                      - paragraph [ref=f7e1958]:
+                        - text: 관할등기소
+                        - generic [ref=f7e1959]: "* 필수"
+                      - combobox "관할등기소 선택" [active] [ref=f7e1961]:
+                        - option "관할등기소를 선택하세요." [selected]
+                        - option "전체등기소"
+                        - option "서울중앙지방법원 등기국"
+                        - option "서울중앙지방법원 중부등기소"
+                        - option "인천지방법원 등기국"
+                        - option "인천지방법원 부천지원 등기과"
+                        - option "인천지방법원 부천지원 김포등기소"
+                        - option "인천지방법원 강화등기소"
+                        - option "수원지방법원 등기국"
+                        - option "수원지방법원 성남지원 등기과"
+                        - option "수원지방법원 여주지원 등기계"
+                        - option "수원지방법원 평택지원 등기과"
+                        - option "수원지방법원 안산지원 등기과"
+                        - option "수원지방법원 안양지원 안양등기소"
+                        - option "수원지방법원 성남지원 광주등기소"
+                        - option "수원지방법원 양평등기소"
+                        - option "수원지방법원 이천등기소"
+                        - option "수원지방법원 용인등기소"
+                        - option "수원지방법원 안성등기소"
+                        - option "수원지방법원 안산지원 광명등기소"
+                        - option "수원지방법원 송탄등기소"
+                        - option "수원지방법원 안산지원 시흥등기소"
+                        - option "수원지방법원 성남지원 분당등기소"
+                        - option "수원지방법원 성남지원 하남등기소"
+                        - option "수원지방법원 오산등기소"
+                        - option "춘천지방법원 등기과"
+                        - option "춘천지방법원 강릉지원 등기과"
+                        - option "춘천지방법원 원주지원 등기과"
+                        - option "춘천지방법원 속초지원 등기계"
+                        - option "춘천지방법원 영월지원 등기계"
+                        - option "춘천지방법원 화천등기소"
+                        - option "춘천지방법원 양구등기소"
+                        - option "춘천지방법원 인제등기소"
+                        - option "춘천지방법원 고성등기소"
+                        - option "춘천지방법원 양양등기소"
+                        - option "춘천지방법원 삼척등기소"
+                        - option "춘천지방법원 동해등기소"
+                        - option "춘천지방법원 태백등기소"
+                        - option "춘천지방법원 정선등기소"
+                        - option "춘천지방법원 평창등기소"
+                        - option "춘천지방법원 횡성등기소"
+                        - option "춘천지방법원 홍천등기소"
+                        - option "청주지방법원 등기과"
+                        - option "청주지방법원 충주지원 등기계"
+                        - option "청주지방법원 제천지원 등기계"
+                        - option "청주지방법원 영동지원 등기계"
+                        - option "청주지방법원 보은등기소"
+                        - option "청주지방법원 옥천등기소"
+                        - option "청주지방법원 진천등기소"
+                        - option "청주지방법원 괴산등기소"
+                        - option "청주지방법원 음성등기소"
+                        - option "청주지방법원 단양등기소"
+                        - option "대전지방법원 등기국"
+                        - option "대전지방법원 홍성지원 등기계"
+                        - option "대전지방법원 공주지원 등기계"
+                        - option "대전지방법원 논산지원 등기계"
+                        - option "대전지방법원 서산지원 등기과"
+                        - option "대전지방법원 천안지원 등기과"
+                        - option "대전지방법원 금산등기소"
+                        - option "대전지방법원 부여등기소"
+                        - option "대전지방법원 장항등기소"
+                        - option "대전지방법원 보령등기소"
+                        - option "대전지방법원 청양등기소"
+                        - option "대전지방법원 세종등기소"
+                        - option "대전지방법원 천안지원 아산등기소"
+                        - option "대전지방법원 예산등기소"
+                        - option "대전지방법원 당진등기소"
+                        - option "대전지방법원 태안등기소"
+                        - option "대구지방법원 등기국"
+                        - option "대구지방법원 안동지원 등기계"
+                        - option "대구지방법원 경주지원 등기계"
+                        - option "대구지방법원 김천지원 등기계"
+                        - option "대구지방법원 상주지원 등기계"
+                        - option "대구지방법원 의성지원 등기계"
+                        - option "대구지방법원 영덕지원 등기계"
+                        - option "대구지방법원 포항지원 등기과"
+                        - option "대구지방법원 서부지원 등기과"
+                        - option "대구지방법원 군위등기소"
+                        - option "대구지방법원 청송등기소"
+                        - option "대구지방법원 영양등기소"
+                        - option "대구지방법원 영천등기소"
+                        - option "대구지방법원 경산등기소"
+                        - option "대구지방법원 청도등기소"
+                        - option "대구지방법원 서부지원 고령등기소"
+                        - option "대구지방법원 서부지원 성주등기소"
+                        - option "대구지방법원 칠곡등기소"
+                        - option "대구지방법원 문경등기소"
+                        - option "대구지방법원 예천등기소"
+                        - option "대구지방법원 영주등기소"
+                        - option "대구지방법원 봉화등기소"
+                        - option "대구지방법원 울릉등기소"
+                        - option "대구지방법원 울진등기소"
+                        - option "대구지방법원 구미등기소"
+                        - option "부산지방법원 등기국"
+                        - option "부산지방법원 동부지원 등기과"
+                        - option "부산지방법원 동부지원 남부산등기소"
+                        - option "부산지방법원 서부지원 북부산등기소"
+                        - option "부산지방법원 서부지원 등기과"
+                        - option "창원지방법원 진주지원 등기과"
+                        - option "창원지방법원 통영지원 등기계"
+                        - option "창원지방법원 밀양지원 등기계"
+                        - option "창원지방법원 거창지원 등기계"
+                        - option "창원지방법원 마산지원 등기계"
+                        - option "창원지방법원 진해등기소"
+                        - option "창원지방법원 등기과"
+                        - option "창원지방법원 함안등기소"
+                        - option "창원지방법원 의령등기소"
+                        - option "창원지방법원 남해등기소"
+                        - option "창원지방법원 하동등기소"
+                        - option "창원지방법원 산청등기소"
+                        - option "창원지방법원 거제등기소"
+                        - option "창원지방법원 고성등기소"
+                        - option "창원지방법원 창녕등기소"
+                        - option "창원지방법원 함양등기소"
+                        - option "창원지방법원 합천등기소"
+                        - option "창원지방법원 사천등기소"
+                        - option "창원지방법원 김해등기소"
+                        - option "광주지방법원 등기국"
+                        - option "광주지방법원 목포지원 등기과"
+                        - option "광주지방법원 장흥지원 등기계"
+                        - option "광주지방법원 순천지원 등기과"
+                        - option "광주지방법원 해남지원 등기계"
+                        - option "광주지방법원 담양등기소"
+                        - option "광주지방법원 곡성등기소"
+                        - option "광주지방법원 순천지원 구례등기소"
+                        - option "광주지방법원 순천지원 광양등기소"
+                        - option "광주지방법원 순천지원 여수등기소"
+                        - option "광주지방법원 순천지원 고흥등기소"
+                        - option "광주지방법원 순천지원 보성등기소"
+                        - option "광주지방법원 화순등기소"
+                        - option "광주지방법원 강진등기소"
+                        - option "광주지방법원 영암등기소"
+                        - option "광주지방법원 나주등기소"
+                        - option "광주지방법원 함평등기소"
+                        - option "광주지방법원 무안등기소"
+                        - option "광주지방법원 영광등기소"
+                        - option "광주지방법원 장성등기소"
+                        - option "광주지방법원 완도등기소"
+                        - option "광주지방법원 진도등기소"
+                        - option "전주지방법원 등기과"
+                        - option "전주지방법원 군산지원 등기과"
+                        - option "전주지방법원 정읍지원 등기계"
+                        - option "전주지방법원 남원지원 등기계"
+                        - option "전주지방법원 진안등기소"
+                        - option "전주지방법원 무주등기소"
+                        - option "전주지방법원 장수등기소"
+                        - option "전주지방법원 임실등기소"
+                        - option "전주지방법원 순창등기소"
+                        - option "전주지방법원 고창등기소"
+                        - option "전주지방법원 부안등기소"
+                        - option "전주지방법원 김제등기소"
+                        - option "전주지방법원 익산등기소"
+                        - option "제주지방법원 등기과"
+                        - option "제주지방법원 서귀포등기소"
+                        - option "울산지방법원 등기과"
+                        - option "울산지방법원 양산등기소"
+                        - option "서울동부지방법원 등기국"
+                        - option "서울남부지방법원 등기국"
+                        - option "서울북부지방법원 등기국"
+                        - option "서울서부지방법원 등기국"
+                        - option "의정부지방법원 의정부등기소"
+                        - option "의정부지방법원 남양주지원 등기과"
+                        - option "의정부지방법원 연천등기소"
+                        - option "의정부지방법원 포천등기소"
+                        - option "의정부지방법원 남양주지원 가평등기소"
+                        - option "의정부지방법원 동두천등기소"
+                        - option "의정부지방법원 철원등기소"
+                        - option "의정부지방법원 고양지원 파주등기소"
+                        - option "의정부지방법원 고양지원 고양등기소"
+                    - generic [ref=f7e1962]:
+                      - paragraph [ref=f7e1963]:
+                        - text: 검색어
+                        - generic [ref=f7e1964]: "* 필수"
+                      - textbox "검색어" [ref=f7e1967]
+                  - listitem [ref=f7e1968]:
+                    - list [ref=f7e1972]:
+                      - listitem [ref=f7e1973]:
+                        - checkbox "등기소 관할구역 내 지점을 둔 타관할 법인 포함" [ref=f7e1974]
+                        - text: 등기소 관할구역 내 지점을 둔 타관할 법인 포함
+                    - list [ref=f7e1978]:
+                      - listitem [ref=f7e1979]:
+                        - checkbox "폐쇄등기기록 포함" [ref=f7e1980]
+                        - text: 폐쇄등기기록 포함
+                    - list [ref=f7e1984]:
+                      - listitem [ref=f7e1985]:
+                        - checkbox "주말된 상호(명칭) 포함" [ref=f7e1986]
+                        - text: 주말된 상호(명칭) 포함
+                    - list [ref=f7e1990]:
+                      - listitem [ref=f7e1991]:
+                        - checkbox "결과내 재검색" [disabled] [ref=f7e1992]
+                        - text: 결과내 재검색
+                - link "검색" [ref=f7e1995] [cursor=pointer]:
+                  - /url: javascript:void(null);
+    - generic [ref=f7e1996]:
+      - generic [ref=f7e1998]:
+        - generic [ref=f7e1999]:
+          - generic [ref=f7e2000]:
+            - link "이전" [ref=f7e2001] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "멈춤" [ref=f7e2002] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "다음" [ref=f7e2003] [cursor=pointer]:
+              - /url: javascript:void(null);
+          - generic [ref=f7e2005]:
+            - link [ref=f7e2006] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "전자가족관계등록" [ref=f7e2007]
+            - link [ref=f7e2008] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "법원경매정보" [ref=f7e2009]
+            - link [ref=f7e2010] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "도로명 주소" [ref=f7e2011]
+            - link [ref=f7e2012] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "등기정보광장" [ref=f7e2013]
+            - link [ref=f7e2014] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "대한민국 법원" [ref=f7e2015]
+            - link [ref=f7e2016] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "전자소송" [ref=f7e2017]
+            - link [ref=f7e2018] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "전자공탁" [ref=f7e2019]
+            - link [ref=f7e2020] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - img "등기소출입증신청관리" [ref=f7e2021]
+        - combobox "법원웹사이트" [ref=f7e2025]:
+          - option "법원웹사이트" [selected]
+          - option "대한민국법원"
+          - option "사법연수원"
+          - option "사법정책연구원"
+          - option "법원공무원교육원"
+          - option "법원도서관"
+          - option "양형위원회"
+          - option "특허법원"
+          - option "전자공탁"
+          - option "서울고등법원"
+          - option "대전고등법원"
+          - option "대구고등법원"
+          - option "부산고등법원"
+          - option "광주고등법원"
+          - option "수원고등법원"
+          - option "서울중앙지방법원"
+          - option "서울가정법원"
+          - option "서울행정법원"
+          - option "서울동부지방법원"
+          - option "서울남부지방법원"
+          - option "서울북부지방법원"
+          - option "서울서부지방법원"
+          - option "의정부지방법원"
+          - option "인천지방법원"
+          - option "인천가정법원"
+          - option "수원지방법원"
+          - option "수원가정법원"
+          - option "춘천지방법원"
+          - option "대전지방법원"
+          - option "대전가정법원"
+          - option "청주지방법원"
+          - option "대구지방법원"
+          - option "대구가정법원"
+          - option "부산지방법원"
+          - option "부산가정법원"
+          - option "울산지방법원"
+          - option "울산가정법원"
+          - option "창원지방법원"
+          - option "광주지방법원"
+          - option "광주가정법원"
+          - option "전주지방법원"
+          - option "제주지방법원"
+      - contentinfo [ref=f7e2026]:
+        - generic [ref=f7e2027]:
+          - generic [ref=f7e2028]:
+            - link "인터넷등기소 소개" [ref=f7e2029] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "이용약관" [ref=f7e2030] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "개인정보처리방침" [ref=f7e2031] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "링크시 전제조건" [ref=f7e2032] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "저작권보호정책" [ref=f7e2033] [cursor=pointer]:
+              - /url: javascript:void(null);
+            - link "공공기관" [ref=f7e2034] [cursor=pointer]:
+              - /url: javascript:void(null);
+          - paragraph [ref=f7e2035]: Copyright ⓒ Supreme Court of Korea. All rights reserved.
+  - textbox "IME_HIDDEN"
+```

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+=== Line 106 ===
+      entry.bootstrap(document.getElementById("fdr-3cbb5f1eec6347c589e6b4039b85d1cd"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","ssc":"tab.nx.all","ssuid":"web","ssuidExtra":"fender_renderer-web","xQuerySource":""},"refs":{"blockId":"web/prs_template_v2_web_basic_desk.ts"},"rootElementAttrs":{"className":"api_subject_bx fds-root-overflow-reset"},"body":{"props":{"children":[{"props":{"children":[{"props":{"aggregation":{"cont
+=== Line 158 ===
+      entry.bootstrap(document.getElementById("fdr-2323a3e3eaa8487ca5f0b77b1c487c5b"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","ssc":"tab.nx.all","ssuid":"web","ssuidExtra":"fender_renderer-web","xQuerySource":""},"refs":{"blockId":"web/prs_template_v2_web_basic_desk.ts"},"rootElementAttrs":{"className":"api_subject_bx fds-root-overflow-reset"},"body":{"props":{"children":[{"props":{"children":[{"props":{"aggregation":{"cont
+=== Line 262 ===
+      entry.bootstrap(document.getElementById("fdr-b7b6353a5e044ed7b8b4d7455817af06"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","ssc":"tab.nx.all","ssuid":"review","ssuidExtra":"fender_renderer-review","xQuerySource":""},"refs":{"blockId":"review/prs_template_v2_review_blog_rra_desk.ts"},"rootElementAttrs":{"className":"api_subject_bx fds-root-overflow-reset"},"body":{"props":{"children":[{"props":{"children":[{"props":{"clic
+

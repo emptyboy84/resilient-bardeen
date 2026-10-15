@@ -1,0 +1,28 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 5 lines>
+ PASS 2
+[3/421] Row 508 | "LINC" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[4/421] Row 536 | "김정보" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[5/421] Row 537 | "꿈해몽" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[6/421] Row 539 | "나래바람" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[7/421] Row 547 | "냉이영화" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[8/421] Row 552 | "녹생광고연합그린하우징" | 대표: "박명섭" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[9/421] Row 568 | "단디콤" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[10/421] Row 589 | "도서출판국제" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 10/421 | Matched: 0 | Unverifiable: 10 <<<
+[11/421] Row 593 | "도서출판일광" | 대표: "" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[12/421] Row 598 | "도성회" | 대표: "" | 구: "북구"
+
+Last progress: 1s ago

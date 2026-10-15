@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090658790');
+```
+### Page
+- Page URL: https://bizno.net/article/6090658790
+- Page Title: 선도
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T00-13-45-022Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T00-13-38-959Z.log#L1-L6

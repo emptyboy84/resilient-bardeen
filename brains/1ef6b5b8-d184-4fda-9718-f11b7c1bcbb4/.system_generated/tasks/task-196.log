@@ -1,0 +1,33 @@
+r12216 col 48 style: {
+  font: { charset: 129, family: 3, scheme: 'minor', size: 10, name: '맑은 고딕' },
+  border: {
+    left: { style: 'thin', color: [Object] },
+    right: { style: 'thin', color: [Object] },
+    top: { style: 'thin', color: [Object] },
+    bottom: { style: 'thin', color: [Object] }
+  },
+  fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } },
+  alignment: { horizontal: 'left', vertical: 'middle' }
+}
+r12216 col 49 style: {
+  font: { charset: 129, family: 3, scheme: 'minor', size: 10, name: '맑은 고딕' },
+  border: {
+    left: { style: 'thin', color: [Object] },
+    right: { style: 'thin', color: [Object] },
+    top: { style: 'thin', color: [Object] },
+    bottom: { style: 'thin', color: [Object] }
+  },
+  fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } },
+  alignment: { horizontal: 'left', vertical: 'middle' }
+}
+r12216 col 50 style: {
+  font: { charset: 129, family: 3, scheme: 'minor', size: 10, name: '맑은 고딕' },
+  border: {
+    left: { style: 'thin', color: [Object] },
+    right: { style: 'thin', color: [Object] },
+    top: { style: 'thin', color: [Object] },
+    bottom: { style: 'thin', color: [Object] }
+  },
+  fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } },
+  alignment: { horizontal: 'left', vertical: 'middle' }
+}

@@ -1,0 +1,21 @@
+The search for ""케이엘정보통신" OR "우리누리" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+요청하신 두 기업의 최신 매출액 정보는 다음과 같습니다.
+
+*   **케이엘정보통신**
+    *   **매출액:** 1,033억 원 (최신 기준)[1][2]
+    *   참고: 이전 자료에서는 2023년 기준 1,020억 원[3] 또는 766억 원[4] 등으로 기재된 바 있으나, 최근 캐치 등 채용 사이트를 통해 확인되는 최신 매출액은 1,033억 원입니다[1][2].
+
+*   **우리누리**
+    *   **매출액:** 62억 원 (최신 기준)[5]
+
+상세한 기업 정보 및 재무 평가는 사람인, 잡코리아, 캐치 등 각 채용 플랫폼의 기업 정보 페이지를 통해 확인하실 수 있습니다[6][7][5][8].
+
+Sources:
+[1] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3zZPOUrfdudCWJj7uNtzamNXMzV51l08mB8RU1hnFVxyy1Kpcr_PWsNd-X-_TwVCSl-jGdMQOt2HHqaN0zuT7SdbXf-4gHTev4X9MXlButDd9JduCi-wuT25pXJndHAKFsA==)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrXdM827odfz_RE_BEWRk9emAsSrGZTMWQ7pISCDmoLzSHCcRtY3CDWBpb-CEvKP1XiUXHX0_WkMO9kdfWFMiQSXC5o-d13LjCue0gSueUuZX27GPrUb8IWZXCqd3jG8fzdMvEg==)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgrIWdRpfa_KQJOqHXYIFenr2GVybas-oFubTmlL3L4etKrdK7Bq9IRsi4m1jOTA8Gl7jPLryNn6yisKL_rtNUccD1KoSPU6Lv6E9YP-OqGUZN44Wf84gE1g6WFa5NukNk0jBI7LZLjNX1Ucuzw61W47wu0L75SlVSEuGbfE26ldpoy4sVrs=)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTWgdOAY46GN6eGWcKCaEbb-OFbHFSRojTscVBF_cgyJRTUR-Fw7X40eBlxTf-VZEt88bY726Q9oj5dm_G-MJ4dYUfCtJba8fLPJjoJXAUwekOuBXlfuR577IgNb_HboXcBBLr_wU-0MBJdlAw6dF7-iX5jE_lVidOMpxZSkT96Hl435tHogfKwdLnn37lC3tI4TdzXkoRyrkze89v4RbIxAFMDevy4KCXCmyiFYUjrvQW7WuZMMqA5OfIzyj)
+[5] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDURPYwGpB_VAiEvpTlgk7mEr5mw8HKs4PKJ6LEpaCFnVNjxRXINiZ-d9RUdH9_vD3T5-DnE9-pSV0gNdpluPVDWCHeIjnkociJ1zfxTSCkJ0i_lbJKV6r86CkixkdeRp4k1Jgzg==)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrybU9DCJtMCQ001B1SaHaeGbXjYZpu9ZMChww2ePRg1jOUM5Fx6y1luz-rLiIb11p0MX3m_dyqfRm3nZvZ3sG0KbfbTMNkWXOQCtDvGqpfc1AMi3_BdjRTbXxQXyoqNvP_rb0mQcIuzNP9YUGfQyC)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoX0CVcjgNbq-u6D6dEUkCvMmsZulDjcx8Hkx0lnrL8CvIhL7gDOYzQkjBLDMjlXR7dftJ_xT2j67VpZZTqPt-8jRZI9nMHVx2zTnxg_nb2TH6ff8M6nXJZcUy9pv-tzK6mAvw9jJ72UufQFzqi8i54xNs1SonteyrZomTFqF5st2XzNYlmr8=)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxYMS0ENOy4RX0Q8DWEl_9BOrnoKCLnI7ugPp5-jFl5OiV40NnK6sbm5SToXYKYjd3cWi9mIq-GLuxPOpCZOL5TJ24L5trCwVWQy_K7ukox_kMoNuhPaLc689agu2psjOaRV9kLHjkyhDis-cYiRr_ZTRCodA6q1C2L21pEuBrnMNAymataoGambgf7ih7TlQw0SJrJIwC1zWPMfJUxb_MiVjt123b0a5SC-lPeYNG3VlLkBkqmtJle9O3og6OAvFdFGHl0GywcWcmGZ8KQDeHqRNdyKTG4A=)

@@ -1,0 +1,12 @@
+### Result
+"주메뉴\n업체등록\n스팸DB조회\n주요서비스\nOnDB판매\n114소개\n고객센터\n검색\n사이트맵\n전체메뉴\n홍보센터\n회원가입\n로그인\n서비스 이용에 불편을 드려 죄송합니다.\n\n요청하신 페이지를 바르게 표시할 수 없습니다.\n\n다음과 같은 경우 이 페이지가 표시됩니다.\n\n원하시는 웹페이지를 찾을 수 없거나 다른 메뉴로 이동한 경우\n서비스 수행 중 일시적인 장애가 발생한 경우\n이용 폭주로 서비스가 지연되는 경우\n홈으로 이동\n💬 챗봇상담\n서비스소개 이용약관 개인정보처리방침 공지사항 FAQ 문의/건의 제휴문의\nFamily Site\nkt is 대표이사 : 양율모 통신판매업신고 : 제2006-04260호(2006.06.05) 사업자등록번호 : 101-81-71660 \n(07320) 서울특별시 영등포구 여의대로 14, 10층(여의도동, 주식회사케이티여의도빌딩)\n 오류문의는 1:1이메일문의 또는 문의 게시판을 이용하세요. 1:1 이메일문의 오류 신고하기\n\nCopyright© 2020 kt is Corp. All rights reserved.\n\n페이스\n \n인스타그램\n \n네이버블로그\n \n유튜브"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText.substring(0, 2000)');
+```
+### Page
+- Page URL: https://www.114.co.kr/search/searchList.do?searchWord=%EB%A6%AC%EB%82%98%EA%B2%8C%EC%9D%B4%EB%B8%8C
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 194 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T01-15-50-043Z.log#L72-L944

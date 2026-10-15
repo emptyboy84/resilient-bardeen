@@ -1,0 +1,29 @@
+The search for ""주식회사 엘씨엠" "이혜진" OR "755-81-00415" 매출액 OR 잡코리아 OR 사람인" returned the following summary:
+**주식회사 엘씨엠**에 대한 정보는 다음과 같습니다.
+
+### 기업 개요
+*   **대표자:** 이혜진[1][2]
+*   **사업자등록번호:** 755-81-00415[1][2]
+*   **설립일:** 2016년 9월 7일[1] (일부 자료에는 2016년 5월 1일로 기재되어 있음[3][4])
+*   **주요 사업:** 국내 주요 유통 대기업 내 **레고스토어(LEGO STORE)** 운영[3][4][5]
+*   **본사 소재지:** 서울특별시 강서구 마곡중앙로 111, 101동 3층 304~308호 (마곡동, 롯데캐슬 르웨스트)[2][6]
+*   **규모:** 중소기업 (사원수 약 100명 규모)[1][7]
+
+### 매출액 및 경영 정보
+*   **매출액:** 잡코리아 등 기업 정보 사이트에 따르면 **약 300억 원** 규모로 기재되어 있습니다[7][8].
+
+### 채용 및 기타 정보
+*   **잡코리아/사람인:** 해당 기업은 레고스토어 운영과 관련하여 잡코리아 등 채용 플랫폼을 통해 영업 및 매장 관리 직무 등의 채용을 진행해 왔습니다[7][8]. 
+*   **참고:** '주식회사 엘씨엠코스메틱'과는 별개의 법인이므로 검색 시 혼동하지 않도록 유의하시기 바랍니다[9][10].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGp9v3EyWmE0QS4eY8hATZW_4HRtMvbmM8hHpty8pWuBJx5_k75O0ZyJY_vIFPj_H0R5Vaw6MD4xacC-e8Hapr2Az8yGIqH69XeEyu9hWqrSIBCG-ODkZ0Q==)
+[2] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTlatpEBbDkL3Mpub9muoXiiPwqktG0PYDcPR7_Cj9IYH3hdhObv9KCar6N9RpRiCA59DI0FTLQ9RNn3HiDLmFltVXnVSdXKZx1ZM=)
+[3] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVojtZics-wrHPIcOsZg69qGDxGftSvTjA9KdhcicdXrFHJMx-g-5Pd4OkKMi5ptkj2WkIB_BYLTPU_DK02FQ9HfERtMMwEiEsPDCInTmNyozYt4wW0Nt_IDLfbLeDXnWeFCdFqIGK2K5eK27pTFbh4J3IgS1xlsj)
+[4] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVojtZics-wrHPIcOsZg69qGDxGftSvTjA9KdhcicdXrFHJMx-g-5Pd4OkKMi5ptkj2WkIB_BYLTPU_DK02FQ9HfERtMMwEiEsPDCInTmNyozYt4wW0Nt_IDLfbLeDXnWeFCdFqIGK2K5eK27pTFbh4J3IgS1xlsj)
+[5] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVojtZics-wrHPIcOsZg69qGDxGftSvTjA9KdhcicdXrFHJMx-g-5Pd4OkKMi5ptkj2WkIB_BYLTPU_DK02FQ9HfERtMMwEiEsPDCInTmNyozYt4wW0Nt_IDLfbLeDXnWeFCdFqIGK2K5eK27pTFbh4J3IgS1xlsj)
+[6] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdEPGIBQ-2ZuL5Ztz3CHAbSRigzcpAxu7tLiAa6Wa7_X0rl5wuh3yquz80MjUtUUwVNacMlcMs1d_Y4TP1JWilFXjYu3IvOPaITiZMOF2S-IHiCBIp)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvb2TKJg1V__CX-sZFB-PyVhpH0Rjgln2XoegPwJixuAFimUDc-0uA1PzwkI9R0qAAtQHM5rFdVShI2ysvPgvgIYiL21hbtjH0MM0Ue2koTdLRlmL84dS1gomuyEEzp-ei-kSJlTw=)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvb2TKJg1V__CX-sZFB-PyVhpH0Rjgln2XoegPwJixuAFimUDc-0uA1PzwkI9R0qAAtQHM5rFdVShI2ysvPgvgIYiL21hbtjH0MM0Ue2koTdLRlmL84dS1gomuyEEzp-ei-kSJlTw=)
+[9] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYGkqy4-wScL6NHl1O7bRBhaFnaCy8_paPE5qq72ZT6fWHzQe2NePdY0d9jvWEbR0Xwbcb9GTuoW_rXNEE1Wq2Ikk01QQrqBr8FpJNR1wmP3hc5cDY5xB_TMuZoSOknq_d9eXAqZJLrI0xJXHEymHVIUwq-X1pGIrM)
+[10] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYGkqy4-wScL6NHl1O7bRBhaFnaCy8_paPE5qq72ZT6fWHzQe2NePdY0d9jvWEbR0Xwbcb9GTuoW_rXNEE1Wq2Ikk01QQrqBr8FpJNR1wmP3hc5cDY5xB_TMuZoSOknq_d9eXAqZJLrI0xJXHEymHVIUwq-X1pGIrM)

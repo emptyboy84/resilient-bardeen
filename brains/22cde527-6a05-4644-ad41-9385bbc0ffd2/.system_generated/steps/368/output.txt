@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Row 2260: { rowNumber: 2260, name: '모두싸인', bizno: null, reason: '미등록 또는 식별 불명' }
+

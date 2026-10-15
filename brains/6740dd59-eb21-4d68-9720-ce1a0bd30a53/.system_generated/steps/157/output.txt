@@ -1,0 +1,18 @@
+The search for ""교보문고" "사업자등록번호" "부산"" returned the following summary:
+(주)교보문고의 사업자등록번호는 **102-81-11670**입니다[1][2][3].
+
+교보문고는 별도의 지점별 사업자등록번호를 사용하지 않고, 전국 매장 및 온라인 몰 모두 본사의 사업자등록번호를 공통으로 사용합니다[2][4][5][3]. 따라서 부산점을 포함한 모든 교보문고 매장의 사업자 정보는 아래와 같습니다.
+
+*   **상호명:** (주)교보문고[6][7]
+*   **사업자등록번호:** 102-81-11670[1][2][3]
+*   **대표자:** 허정도[2][6][3]
+*   **본사 주소:** 서울특별시 종로구 종로 1 (종로1가)[2][6][7]
+
+Sources:
+[1] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lSJTvZpb78uuTWUcALUFyxrMloSufXFPwJE_J83pjxl0iR6i25sOkLIs3Zso4q2MfbpE8YnewdI6V1Hx7OTE5LFr2yedba0oMe5bJ2wnl-GEDgJ-sdw6oU1rKkHgO3Z-Zvzd)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfctrT00NilVv5pAs1Ot1PTNf5PCklMB-hSdHrhE2MZ1UE3hvJ7FBj9GeZeh-TK9JvJGeDqgqYp_DjJgaxzw134yKrMYt55yu0M1uf3r8gYbLF4hFL0hK6uh4=)
+[3] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNE3T1W4LBoRnS0HiWUa7WFpCSZej6sBH2zXAhen3KMEknXcnn_RkgUP9b-NSL6Z1PorOZvNArm2NSkoI_Dz9i9ceAiXUHNPAlcU-ULoLi-jovwZ4EqA==)
+[4] [bccard.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBeZR3WPQno3ipUAUq5HYcAq5b0bdDqfUOjA3Qwn-KlUDTcpW7qW_WVcrM2VD1fN3F1nUPSOA0GHiucb0CiIaeXybobnB9MDdtH7oue-8QMGEvyMi7zrkp7joYAPk7qhIc7EE9VFE9uiP1egiN2kH4lRIWDC3yRcj-iNnExBs=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfctrT00NilVv5pAs1Ot1PTNf5PCklMB-hSdHrhE2MZ1UE3hvJ7FBj9GeZeh-TK9JvJGeDqgqYp_DjJgaxzw134yKrMYt55yu0M1uf3r8gYbLF4hFL0hK6uh4=)
+[6] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMtAUZ8rB62MeSb1wl_pQwzNFzhktsMMUMrVQpgYZRcyK4o5-DWFUpVCWqd9KAbwY5K7i5ad9HJehO3cjUJPFE8ztfzHG2Ka-6HglqeZZX9ICEw4aMIir3wOhnKaii1Q3s8brYMGI5RhziPpB2Lbx0n2-lgY=)
+[7] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMtAUZ8rB62MeSb1wl_pQwzNFzhktsMMUMrVQpgYZRcyK4o5-DWFUpVCWqd9KAbwY5K7i5ad9HJehO3cjUJPFE8ztfzHG2Ka-6HglqeZZX9ICEw4aMIir3wOhnKaii1Q3s8brYMGI5RhziPpB2Lbx0n2-lgY=)

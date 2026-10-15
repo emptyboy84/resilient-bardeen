@@ -1,0 +1,18 @@
+The search for ""주식회사 삼주" OR "602-81-40485" "백승용" 매출액 OR 부산" returned the following summary:
+주식회사 삼주(대표이사 백승용)에 대한 정보는 다음과 같습니다.
+
+*   **기업 개요**: 부산을 거점으로 하는 기업으로, 대리운전 브랜드인 **'트리콜'**로 잘 알려져 있습니다[1][2][3]. 사업자등록번호는 **602-81-40485**입니다[4][3][5].
+*   **주요 사업**: 대리운전 서비스(트리콜)를 비롯해 요트 투어(다이아몬드베이) 등 다양한 사업을 운영하고 있습니다[6][1][3].
+*   **관련 정보**: 부산 지역의 대표적인 기업 중 하나로, 지역 사회 복지 유공 수상[7] 및 부산세계장애인대회 등 지역 행사 지원[8] 등의 활동 기록이 있습니다.
+
+요청하신 **매출액**에 관한 구체적인 최신 데이터는 공개된 검색 결과에서 확인되지 않습니다. 비상장 기업의 경우 상세 재무 정보는 금융감독원 전자공시시스템(DART)이나 기업 신용평가 보고서 등을 통해 확인해야 할 수 있습니다.
+
+Sources:
+[1] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICOY9Szf8CNOCvoB17PMqcs7nXlZ2KO6GegtY8-XtOnYubsgp6AEQipihTIBhGDUrEqYKWsX2Dzeh2-k3HJgKNVjECNAjuISZELRGbgg6oeqTo8PaLZjYrlF6_7MqDtljOHP6EIQsFD2MCBM=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHMEh4pgusNoEK2ySqUlGaCa5NM2s4pm1qHieK5ALDJDCcaESIcP2OfbXwjg6U0E8qLnNThVXpmFzn4dBKUC0jrvssxEuF7nrZB_0oExAUgfGh8lhiyqHZrJR3pvjBznKb0tIL)
+[3] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtPfdIhSld9SWKSB9NxqaPjLfPvrZk0I0qvjlNr4AvhdU_A_zxOV3w_ZNc9sHxk7J8Npi7V4XaS-tgFgi0Y2qvusFGX9od6OXMKAj_48b37uPNDUGSnUemwJ0II6w86CYBYtB2ECgh9RCIJYxcuW4f3VKTCvElGk3JNd2F66AWhg==)
+[4] [seoulexchange.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNWWIqNJLwB-RVbbcfTND_W9sI1KL0jWFsj_R0_XNn2vR5D4JhhErd6h6kbrdV837vwfafG-iyiHJ2PTd0ctSFdSPh5A4HevgH_NcXYDpJSeul22aMd4n0Bwe7y4RfVK6LMh5OfTzAWi1QD5mDNCzr7PM=)
+[5] [mlab.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL6IW6zCZJ1ra4y1-F2_4EcWOEqieRRfTTN5cWL59qKzx1-Nq2aOxiWW-1mA6gd0CMfs61T8qvtjBID79zOLDn8FMKw5XMjNYDfTqVOJ4HqWzweNBbvWh3lKM=)
+[6] [diamondbay.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqO9MJrEfXOR0hXYO3MNinLTtEl69WTn8CN_V9RPbHMZ609EdVhfuTpvnOKePGIQ2XxHon8oolTMhADN2ylKOnk7RjjHjH4RUD4RBB5hZJV7HzntzKy7Rs_jA=)
+[7] [ytn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx9c1plPheEJKSLjU4PiGytCDvPVEZU36DlurLlw_RG8bSbtu4vz3phKxDm5Va_SOBC7A24JsvdpeLfFVcZv9umZZO5V1kKbMmMDVwqTPL7x64UjP3l5cRn8AhG_SxnhG9uk4mzVME)
+[8] [knn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs7c9qQbEXikEkcMIMH9bMeqBMgHPPSs5Ty00pCNtz9IpOotIp_cqrZC0mpkbCWflEbGwdnKfXP4q7O6I9h8F6un41ppuyim0nl8DWDKwsJcPT66QyIilT_LCReFKJf1U=)

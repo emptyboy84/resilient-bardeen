@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+<form name="topSearchForm" method="post" class="topSearchForm" onsubmit="fnTopSearch();return false;">
+					<fieldset>
+						<legend class="blind">통합검색 영역</legend>
+						<input type="hidden" name="schType" value="simple">
+						<div class="topSearchWrap" id="topSearchWrap">
+							<select name="schFld" title="검색항목 선택">
+								<option value="">전체</option>
+								<option value="title">제목</option>
+								<option value="author">저자</option>
+								<option value="publisher">발행처</option>
+								<option value="ea_isbn">ISBN</option>
+								<option value="control_no">CIP제어번호</option>
+								<option value="issn">ISSN</option>
+							</select>
+							<input type="text" name="schStr" value="" placeholder="도서정보 통합검색" title="검색어 입력">
+							<a href="#none" onclick="fnTopSearch();return false;" class="btnSearch"><span>검색</span></a>
+						</div>
+					</fieldset>
+				</form>
+

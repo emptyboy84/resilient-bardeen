@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+--- Checking data row fills in 심층4차 ---
+Total data row fills found: 75
+R14 C10 (전화번호): val="1833-9119", color={"argb":"FFC6EFCE"}
+R24 C10 (전화번호): val="1833-6978", color={"argb":"FFC6EFCE"}
+R35 C10 (전화번호): val="02-362-9610", color={"argb":"FFC6EFCE"}
+R43 C10 (전화번호): val="010-7103-1***", color={"argb":"FFC6EFCE"}
+R46 C10 (전화번호): val="051-741-2754", color={"argb":"FFC6EFCE"}
+R47 C10 (전화번호): val="010-5757-9542", color={"argb":"FFC6EFCE"}
+R53 C10 (전화번호): val="070-4821-1130", color={"argb":"FFC6EFCE"}
+R56 C10 (전화번호): val="051-701-2812", color={"argb":"FFC6EFCE"}
+R57 C10 (전화번호): val="02-469-3282", color={"argb":"FFC6EFCE"}
+R61 C10 (전화번호): val="010-4000-1***", color={"argb":"FFC6EFCE"}
+R64 C10 (전화번호): val="051-931-1540", color={"argb":"FFC6EFCE"}
+R70 C10 (전화번호): val="055-757-0000", color={"argb":"FFC6EFCE"}
+R73 C10 (전화번호): val="070-7537-0201", color={"argb":"FFC6EFCE"}
+R79 C10 (전화번호): val="010-3789-0***", color={"argb":"FFC6EFCE"}
+R81 C10 (전화번호): val="070-4219-7808", color={"argb":"FFC6EFCE"}
+R97 C10 (전화번호): val="051-987-8000", color={"argb":"FFC6EFCE"}
+R104 C10 (전화번호): val="051-512-9931", color={"argb":"FFC6EFCE"}
+R107 C10 (전화번호): val="1800-9428", color={"argb":"FFC6EFCE"}
+R118 C10 (전화번호): val="070-7017-1117", color={"argb":"FFC6EFCE"}
+R119 C10 (전화번호): val="051-507-2782", color={"argb":"FFC6EFCE"}
+

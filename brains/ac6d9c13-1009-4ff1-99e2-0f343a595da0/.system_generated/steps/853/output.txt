@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\config
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-08   � 9:05                node_modules                                                         
+d-----      2026-10-13  � 12:17                plugins                                                              
+d-----      2026-10-13  � 12:06                projects                                                             
+d-----      2026-05-20   � 9:49                sidecars                                                             
+d-----      2026-10-13  � 12:24                skills                                                               
+-a----      2026-05-20   � 9:49              0 .migrated                                                            
+-a----      2026-09-07  � 12:17            624 AGENTS.md                                                            
+-a----      2026-10-13  � 12:24          13540 config.json                                                          
+-a----      2026-10-13  � 11:53           2257 mcp_config.json                                                      
+
+
+

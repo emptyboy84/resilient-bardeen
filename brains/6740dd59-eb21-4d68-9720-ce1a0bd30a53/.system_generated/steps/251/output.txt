@@ -1,0 +1,19 @@
+The search for ""레고스토어" "센텀시티" OR "센텀시티몰"" returned the following summary:
+**레고스토어 신세계백화점 센텀시티점**에 대한 정보는 다음과 같습니다.
+
+*   **위치:** 부산광역시 해운대구 센텀남대로 35 (우동 1493), **신세계 센텀시티몰 지하 2층**[1][2][3][4]
+*   **특징:**
+    *   최신 레고 제품부터 단종된 희귀 제품까지 다양한 라인업을 갖추고 있습니다[1][5].
+    *   나만의 미니 피규어를 만들 수 있는 커스터마이징 공간과 제품을 직접 만져볼 수 있는 체험존이 마련되어 있습니다[1][5].
+    *   대형 세트와 한정판 제품을 직접 보고 구매할 수 있는 공식 레고 전문 매장입니다[1][6][5].
+*   **문의:** 051-745-1927[3]
+
+방문 전 매장 운영 시간 등은 신세계 센텀시티점 공식 홈페이지나 매장으로 직접 확인하시는 것을 추천드립니다.
+
+Sources:
+[1] [trip.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZq0SMrczf7OT701MePsEWYd7DX8MeEm1gsavhJ1ADTi5pPEv42H4DsYpiZjWpZyQzVrEHoq85oDFi4m7jGFGAyQT-4e6gozf-U5g-BFe-Bq0ZCGUQgks1okVsahFXwIuke-alFnhquuYceFx4)
+[2] [hanchao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-xSFocfB5-Qwz6SDePGzATG283WxXPX7hur-RDuDFJpIYYQueByp9FhVzrmfI0na4LFwWLTuWlnJGMvu0auTvcCTblQG05h7irTYq3astPtfjlmX5gmZIYPi6WsoVYelMK3n31uBlw74OZsLNCe2l)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JY80zC1ZyA-K0Q4Q874LgiCHPCjcINQuruwllGvUCK9sI55Sh30q5gSUK7FOFcKcFGO8M4VSAiO6mdFYgo66CeAkn851ztN43Hrv7y_-h1VX4Jjz2GGyDWEhSiGfGzyyD0Ev9HyJxNynhX0Q-JpTG8-Espx1KA==)
+[4] [hanchao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOmG8iB1dlw_5HEu7p2ktnSnRfJHc-IeEJaTdV559GPi2CxaS3U6WKk7_BNKBZelosA7pTsqsdeIC91dRl-QuF3bulUA_eD8EgW6uofb9EOLtoiDtl4vkSbtVSYtS1OiZSO7twnkjy-IphfOmtA8QEsPzwj8WPtg==)
+[5] [trip.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8HqRV4gl35lvHuYVTWQsS2Uf13CvOnh3e5NmlJ-XjDCUfDjLWT_Nyhk_MCqKjSANRrMH5y8CIstoNKpfnPvyj_kM4WH7qN9luX1PrEfDmDIIcEiroSfohPo8qhTgaGgcBddG334-oZdAVwZOJRGTrf-4INPG6Q==)
+[6] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0-LNGQqMYHuo6tlm1eiGI52GJDo6flIT-WMn3nVWJpdvmJcyJuf3nRNt6I6fqMEVSkxq-5Aos25hfy8RTSUcYIbRBbP5Hq35CMasFQSyMBNc2-7O1)

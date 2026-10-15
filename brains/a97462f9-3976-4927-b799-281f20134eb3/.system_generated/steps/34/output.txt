@@ -1,0 +1,19 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:113
++ ...  = .Split("  \); for (=0; -lt .Length; ++) { Write-Output " : $($part ...
++                                                                 ~
+� �Ǵ� � �ġ � ':' �ū�Դϴ�.
+�ġ �:1 �:112
++ ... ;  = .Split("  \); for (=0; -lt .Length; ++) { Write-Output " : $($pa ...
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:131
++ ... "  \); for (=0; -lt .Length; ++) { Write-Output " : $($parts[$i]) \ }
++                                                                         ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

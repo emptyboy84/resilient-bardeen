@@ -1,0 +1,16 @@
+The search for ""제노레이" "부산" 사업자등록번호 OR 사업자번호" returned the following summary:
+(주)제노레이의 사업자등록번호는 **215-86-06482**입니다[1][2][3].
+
+제노레이는 부산광역시 금정구에 부산지사를 운영하고 있으나[4][5], 기업의 사업자등록번호는 본사 기준으로 통합 관리되므로 부산 지점 역시 위와 동일한 사업자번호를 사용합니다[2][6].
+
+*   **법인상호명:** (주)제노레이[1][3]
+*   **사업자등록번호:** 215-86-06482[1][5]
+*   **부산지사 주소:** 부산광역시 금정구 개좌로 273-20, 405호(회동동, 브이원타워)[4][5]
+
+Sources:
+[1] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhkpZcADo851DZhmI5dLrLs4IC5x9BDrULeI6ghDcKCXfSF1bHf7vxX9_tkY0rjD95kBMOEAWoOlRP2Gpja8_ZlQnhHfwaTshNwku6LfTH6FKyP2MwnDcyh55YwYwC5eNgtIiz9W-tT4MoLPxzmaQ4bjAjFdaIe3_V07yvpukSI75pduld6_qmORr91WY8uIoZAIcW)
+[2] [dartpoint.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5frSxoBg5PwDKob5kYolW1Wzqx2S-UYOqAKVYfokV_L9d-V_5B79Akv0v2SMbUYJSJUU6KGq8OB-SKMPqTKmZbY5DSAstAmWlPW0FGPUkpHT)
+[3] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhNIYvCGcMkXNlrMpddQ7XOufeK-lWJvQvd2NlPQcyqOKgc0aPKX9AIVZfpKcIIWdC09PmAjx6qINZDMG-XG8Rtd3mTEu0eztPxjulREEfDf1bzl7Z2QXKlq3lihnOmCFQU8AsyDxTPSNxnCBdY656dyWLJotgQzmyEku1)
+[4] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF17AskNSIDuTVoiUIL1LM6oviSueptgVdZANnCpbDMclWbKDn90VjVwgcJTVd5kjP9EEg8PPCFn8eNTy_pargKCo36B5kFsTSvhV-HPIFaSJg66JY0M4XflrBRJHY9ZjRSQLmot3pSsfQoCqAT8-l_Udwzekce)
+[5] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7RMaMA3h9tt0TB5uqC92PamxSY7CchCIRa_Gc5S3xGW9PiUBNUz43D2mb6pnd6Af9SVs3250lIpB0w8SwiyUhD5QxvVXphpimXViUwEePo2A4UBeBMPvYAudkTIm28zQ9N0UnExyGpnJALdWPow==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES9dQ_dK9RyaGDxdbPtH88L780PnrifjHskq7C8FvOWQArhrkUFf52ji4ZuSs7v7tKsnH9u3GVTdm7iwUcWnT9joo4xx8YLdAAaY6qo4Up7Gz_yn31LDSa3nMbKkAJ_Ho24ppjVoXe7Xpr8iiYpz9GUCa7Al0Bjjmzio5wt_sg0y27RuJJ2s2ucJsoEw775-b51E_BSbw9kqwcbM-GSZ1qXy_O7FT27lVjv23xoxJCGQeJqn-N3NJaLOuSbpD4KdunjPHpIKWcRJI=)

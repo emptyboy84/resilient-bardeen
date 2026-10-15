@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+- heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=e50]
+- textbox "키워드검색" [ref=e57]:
+- generic [ref=e58]: 키워드검색
+- button "검색하기" [ref=e60] [cursor=pointer]
+- button "조건검색" [ref=e63] [cursor=pointer]
+- img "NICE BizINFO가 추천하는 맞춤형 지원사업. 우리 기업에 적합한 정부지원사업부터 원하는 키워드에 맞는 지원사업까지 쉽게 찾아보세요. 기업맞춤추천 | 지원사업검색 | 최신 지원사업 정보" [ref=e876]
+- tab "검색 순위" [ref=e443] [cursor=pointer]
+- heading "조건검색" [level=2] [ref=e663]
+- textbox "결산단위 값" [disabled]:
+- textbox "재무구분제목" [disabled]:
+- textbox "매출액 시작금액(백만원단위)" [disabled]:
+- textbox "매출액 마지막금액(백만원단위)" [disabled]:
+- textbox "영업이익 시작금액(백만원단위)" [disabled]:
+- textbox "영업이익 마지막금액(백만원단위)" [disabled]:
+- button "검색" [ref=e871] [cursor=pointer]
+

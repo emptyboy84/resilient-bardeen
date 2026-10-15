@@ -1,0 +1,38 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -15,21 +15,17 @@
+ }
+ 
+ async function run() {
+-  const queries = ['비전조이', '0517476799', '051-747-6799', '이구창'];
+-  for (const q of queries) {
+-    const url = 'https://bizno.net/?query=' + encodeURIComponent(q);
+-    const r = await fetch(url);
+-    console.log(`\n=== Query: ${q} (Status: ${r.status}) ===`);
+-    if (r.data) {
+-      // Find matches in titles or company results
+-      const matches = [...r.data.matchAll(/<h4 class="titles">([\s\S]*?)<\/h4>/g)];
+-      console.log('Found titles:', matches.map(m => m[1].replace(/<[^>]+>/g, '').trim()));
+-      
+-      const tables = [...r.data.matchAll(/<table[\s\S]*?<\/table>/g)];
+-      for (const t of tables) {
+-        console.log('Table snippet:', t[0].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').substring(0, 300));
+-      }
+-    }
++  const url = 'https://bizno.net/?query=' + encodeURIComponent('비전조이');
++  const r = await fetch(url);
++  console.log('Status:', r.status);
++  console.log('Body length:', r.data ? r.data.length : 0);
++  // find form or posts
++  const postArea = r.data.indexOf('post-area');
++  if (postArea !== -1) {
++    console.log(r.data.substring(postArea, postArea + 1500));
++  } else {
++    console.log('post-area not found. First 500 chars:');
++    console.log(r.data.substring(0, 500));
+   }
+ }
+ run();
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

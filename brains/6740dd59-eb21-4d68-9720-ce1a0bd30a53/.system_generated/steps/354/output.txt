@@ -1,0 +1,17 @@
+The search for "site:jobkorea.co.kr inurl:Company "함께가는사람들"" returned the following summary:
+잡코리아(jobkorea.co.kr) 기업정보에서 확인되는 **(주)함께가는사람들**에 대한 정보는 다음과 같습니다[1].
+
+### 기업 정보
+*   **기업명:** (주)함께가는사람들 부산지점[1]
+*   **대표자:** 이상덕[1]
+*   **설립일:** 1999년 2월 2일 (28년차)[1]
+*   **주요사업:** 부동산 분양광고, 관공서 인쇄물 제작, 공고 디자인물 등[1]
+*   **기업구분:** 중소기업[1]
+*   **사원수:** 4명[1]
+*   **소재지:** 부산 부산진구 양정동 501-20 더퍼스트501빌딩 501호[1]
+
+더 자세한 채용 공고나 실시간 기업 정보는 잡코리아 홈페이지에서 회사명을 검색하여 확인하실 수 있습니다[1][2].
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7l5f9v37NIEolQE4qwuoxYg_1uPveKWH6TbF335HU7Dk8N0OTdYJMg-GE7cpkQYQv1RZN0yx7e2sTXk1_ZQga-UF9jSN-q_Uk43Tl0Nnj5M6VhXgQAPqBCMaLL9aPNU-SBPp_RP7JshFMlw==)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQSlvc25nYTnt1WRhRVS2KKY5PfMv0z87jrRU20lEbsCPqYEdmiBLLKIySr9IHTb2Vgq0q-6RQMNZ6lvjS5dRUqop220trq4RNnxp3qfQoN1qnR7ZtNdhtRFITiTQKPYONU-iFgoovsA==)

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Daum search len: 137
+Snippet: h.daum.net%2Fsearch%3Fw%3Dtot%26q%3D010-9226-0114"); 
+

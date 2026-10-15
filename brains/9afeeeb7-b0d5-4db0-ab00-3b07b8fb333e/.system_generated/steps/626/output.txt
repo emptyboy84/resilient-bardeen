@@ -1,0 +1,6 @@
+### Result
+"https://search.daum.net/search?w=tot&q=070-4172-9541"
+### Ran Playwright code
+```js
+await page.evaluate('() => location.href');
+```

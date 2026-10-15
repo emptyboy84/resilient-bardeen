@@ -1,0 +1,18 @@
+<h2>Read Sheet</h2>
+<h2>Sheet Data</h2>
+<table>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th><th>I</th><th>J</th><th>K</th><th>L</th><th>M</th><th>N</th><th>O</th><th>P</th><th>Q</th><th>R</th><th>S</th></tr>
+<tr><th>1</th><td>No</td><td>원본행</td><td>비고</td><td>회사명</td><td>사업자번호</td><td>대표자</td><td>우편번호</td><td>주소</td><td>전화번호</td><td>팩스번호</td><td>홈페이지</td><td>이메일</td><td>종업원수</td><td>업종(NICE BizINFO(업종)참고)</td><td>법인번호</td><td>결산월</td><td>업종_대</td><td>업종_중</td><td>업종_소</td></tr>
+<tr><th>2</th><td>1</td><td>707</td><td></td><td>와우미디어</td><td>6051599850</td><td>조성영</td><td>48496</td><td>부산광역시 남구 유엔로157번길 101</td><td>051-919-8567</td><td>070-7614-3434</td><td>http://www.wowsp.co.kr/</td><td>adway@hanmail.net</td><td>1명</td><td>산업디자인전문회사(환경디자인분야)</td><td></td><td>12월</td><td>전문, 과학 및 기술 서비스업</td><td>전문 서비스업</td><td>광고업</td></tr>
+<tr><th>3</th><td>2</td><td>708</td><td></td><td>사)극단맥</td><td>6178211451</td><td>이정남</td><td>47746</td><td>부산광역시 동래구 문화로 80, 생활문화관3층</td><td>051-625-2117</td><td>0303-0645-2110</td><td>http://www.mac1986.com</td><td></td><td>3</td><td>연극단체</td><td>184321-0002550</td><td>12월</td><td>예술, 스포츠 및 여가관련 서비스업</td><td>창작, 예술 및 여가관련 서비스업</td><td>창작 및 예술관련 서비스업</td></tr>
+<tr><th>4</th><td>3</td><td>709</td><td></td><td>재단법인천주교티없으신마리아성심수녀회아베마리아출판사</td><td>6178260307</td><td>김경희</td><td>48468</td><td>부산광역시 남구 장고개로16번길 13(우암동)</td><td>051-631-2009</td><td>051-644-4503</td><td>http://www.avemariabooks.kr/</td><td>pusanave@catholic.or.kr</td><td>7</td><td>출판</td><td>184322-0000618</td><td>12월</td><td>정보통신업</td><td>출판업</td><td>서적, 잡지 및 기타 인쇄물 출판업</td></tr>
+<tr><th>5</th><td>4</td><td>710</td><td></td><td>케미캐스트</td><td>7838800705</td><td>김효정</td><td>46974</td><td>부산광역시 사상구 새벽로202번길 25, 302호</td><td>051-731-3553</td><td></td><td>https://www.chemycast.com/</td><td>chemy.studios@gmail.com</td><td>11</td><td>컴퓨터 프로그래밍 서비스업</td><td>180111-1104726</td><td>12월</td><td>정보통신업</td><td>정보서비스업</td><td>기타 정보 서비스업</td></tr>
+</table>
+<h2>Metadata</h2>
+<ul>
+<li>backend: excelize</li>
+<li>sheet name: 배현명_전수검증완료</li>
+<li>read range: A1:S5</li>
+</ul>
+<h2>Notice</h2>
+<p>This is the last range or no more ranges available.</p>

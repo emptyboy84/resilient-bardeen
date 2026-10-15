@@ -1,0 +1,12 @@
+The search for ""미음산단로295번길 14" OR "미음동 1533-3"" returned the following summary:
+입력하신 주소는 동일한 장소의 **도로명 주소**와 **지번 주소**입니다[1][2]:
+
+* **도로명 주소:** 부산광역시 강서구 미음산단로295번길 14 (미음동, 사무동 등)[1][2]
+* **지번 주소:** 부산광역시 강서구 미음동 1533-3
+
+해당 주소 위치에는 기계 부품 제조, 복합소재 및 관련 산업 시설(예: (주)미래복합소재, 나연산업 등)이 위치하거나 입주해 있는 지역입니다[3][2]. 혹시 특정 기업 정보나 길찾기 등 구체적으로 필요한 내용이 있으신가요?
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1cSvlXoOQ7GYYBVypJE9kfzs6cCd5G867W2tsdp3_ZSY67_FT4LAXa7MrR-mx2YbirOkCp_v7Kn5ko7HN-jwdIdtkqmWBXsPGqmAH1thMFKq77AQNd126nfGPZm3aygM7GQ==)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvsXmsipeGGpA0EKKFL7IuTUPTAS8OydnkUc2UnveMnVDJYxakyvloKOhGDqBB0HyJd6RHjQtf9r-Hgbk99fX9zHHIidK-MfH3bXwIXJXUMxYjZUNxP3TdAA8jym0wcr7jsPtr)
+[3] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFkBENdhLvKusggTEbYrcuqU6O5LdMSQRqmqkLuO2z3OekDIqjiyuF3Wq36MRIetj5esAbLqLr-CQwNx4sdnafdjlMGMOeO5HabYTlpi08POEA2d_NhvN81bhI4ZbXetPGu-SAAqbtMJ4=)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=명지국제2로28번길 26');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%AA%85%EC%A7%80%EA%B5%AD%EC%A0%9C2%EB%A1%9C28%EB%B2%88%EA%B8%B8%2026
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-42-58-816Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-42-57-435Z.log#L1-L2

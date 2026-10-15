@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Total data rows: 2313
+Filled bizno: 2084
+  - Black (original): 1892
+  - Red (newly found): 192
+Blank bizno remaining: 229
+

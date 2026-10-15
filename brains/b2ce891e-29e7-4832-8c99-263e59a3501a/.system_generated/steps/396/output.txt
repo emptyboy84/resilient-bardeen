@@ -1,0 +1,27 @@
+The search for ""문현금융로 40" "55층" OR "D-Space" OR "위워크" OR "코워킹"" returned the following summary:
+제시해주신 검색어 조건(**"문현금융로 40"**, **"55층"**, **"D-Space"**, **"위워크"**, **"코워킹"**)은 부산광역시 남구 문현금융로 40에 위치한 **부산국제금융센터(BIFC)** 건물의 공유 오피스, 코워킹 스페이스, 그리고 주요 혁신 거점 공간들과 관련이 있습니다[1][2][3]. 
+
+해당 주소와 키워드와 연관된 주요 정보는 다음과 같습니다.
+
+1. **위워크 BIFC (WeWork BIFC)**
+   - **위치:** 부산광역시 남구 문현금융로 40, 부산국제금융센터(BIFC) 내에 입주해 있는 글로벌 공유 오피스(코워킹 스페이스)입니다[2][4].
+   - **특징:** 스타트업, 벤처기업, 금융 관련 기업 등을 위한 프라이빗 오피스, 전용 데스크, 코워킹 멤버십 및 각종 공용 라운지와 회의실 시설을 제공합니다[4].
+
+2. **BIFC 55층 코워킹 스페이스**
+   - **위치:** 부산 남구 문현금융로 40, 부산국제금융센터 **55층**[1]
+   - **특징:** BIFC 건물 내에 조성되어 있는 공유 오피스 및 코워킹 구역으로, 입주 스타트업이나 중소기업, 입주사 직원들이 근무하는 사무 공간(예: 코워킹 스페이스-2 등)으로 활용되고 있습니다[1][5].
+
+3. **D-Space (디스페이스)**
+   - **위치:** 부산국제금융센터 **63층**에 위치한 금융 혁신 거점 공간입니다[3][6].
+   - **특징:** 디지털금융, 해양금융, 혁신금융 등 부산 금융중심지의 3대 전략 분야를 이끌어갈 유망 기업 및 기관들이 입주하여 협력 네트워크를 구축하는 공간입니다[6].
+
+이처럼 해당 주소(문현금융로 40)는 한국자산관리공사 등 주요 금융 공공기관뿐만 아니라[7], 위워크를 비롯한 다양한 층별 코워킹 스페이스(공유 사무실) 및 혁신 허브(D-Space 등)가 밀집해 있는 부산의 대표적인 금융·비즈니스 클러스터입니다[2][6].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6lAAb4aex-cF62KwgBINQbUDmwp803glVllkQbt33DCLuR0iYv8NZQshiO1Bt_WbFY8O-Ca8GuizjUxrWpwsPRGbt3gbXrKwNwBOL51po2VKQRZFiQfkDz-t2v9e0-NZPix0MlUiK9AA4oCUtZ6Oiarbl_vkp5g=)
+[2] [wework.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBUtCMvcOax1gJAYUrOskul5ramb8Lnw9tJC9Id8ZXAdY7vLa_CsVC967mazza9FaqEjcObOG01hbonWU6ptzhbzmdCDm2-4NZcmEvGbDT-ydBcxYZintcFIoTOLb6LBFuyH2oclYtfw==)
+[3] [kbfc.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIz0USSJ9V5cI3qv4IvG_MDfrmYPGvxp3jE7NKR3gbB-uZtGuHCoI-erlV_yT2fcLy9-k8Oi16oyXSAMfe5pNrtDcXl1z0pRWcvVc5jI4wqNc8hsM2i46ZcN7-Ao9I8p5pXZk-exgZLH4KTVmjGSMlBKeIWq_3j5fk)
+[4] [wework.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBUtCMvcOax1gJAYUrOskul5ramb8Lnw9tJC9Id8ZXAdY7vLa_CsVC967mazza9FaqEjcObOG01hbonWU6ptzhbzmdCDm2-4NZcmEvGbDT-ydBcxYZintcFIoTOLb6LBFuyH2oclYtfw==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBVJX1dj6mnktkGo0STXz4QBgNJEVV2eXb_pTv-yxdAEXs1W5ZrrJXyfQvxB7AXhqJxyrDHOUSZ_FtuL-juyYPRD5_WIqk3Ah92dVtRR8B0OvcdNwxK1AC3I9ntSqDU-zN_Vl7Fh7d4KNgnirwQ7LeZH5SY9s6haNCmiufpXVSd5JC9vvNU3I=)
+[6] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl8JVfoKO3Pwd4sY41S3ie-2jyT9mGHGRNdw1NDCAE1xxSAA2hV8Aim4UGOFz799c3Z3xUYJO08sNWi2XrWsqvJF3emsm397WYTxprfm1ST5u7rb858WfaXhejPEMs7M_HZVv0zes=)
+[7] [kamco.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGidSNAYFQ-KDpOj0rMj1pFHLudSAuQOtxL-mYXCLbcsNGQgLKywYil0iEsFmteTEVYMjSAqJEIOV96dFLwTrS4r9Fegm5otZ-_bPF5HNaNJqPb6u3_4FagqijdHsRoemoXkgqlsrr1vdDEASXkzuk=)

@@ -1,0 +1,29 @@
+
+The command exited with code 1.
+Output:
+.LineNumber : '.LineNumber' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�.
+ �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:2 �:132
++ ... ing utf8 | Select-String '�ƽ�' | ForEach-Object { .LineNumber; .Line  ...
++                                                       ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.LineNumber:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.Line : '.Line' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ
+� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:2 �:145
++ ... ng utf8 | Select-String '�ƽ�' | ForEach-Object { .LineNumber; .Line }
++                                                                   ~~~~~
+    + CategoryInfo          : ObjectNotFound: (.Line:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Get-Content : 'C:\Users\lg\Desktop\Today\ũ�ž_�λ�CT�Ȳ_�ȭ�ȣ�Ϸ�_�ü3978�.txt' �δ� � �Ƿ� ã� 
+� �ϴ�.
+�ġ �:3 �:1
++ Get-Content -Path 'C:\Users\lg\Desktop\Today\ũ�ž_�λ�CT�Ȳ_�ȭ�ȣ�Ϸ�_�ü3978 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\lg\Des...ȣ�Ϸ�_�ü3978�.txt:String) [Get-Content], ItemNotFo
+undEx    ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+

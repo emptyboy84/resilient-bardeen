@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Matches: [ '116-81-15020' ]
+Title: 와이피엔터테인먼트(주) - 기업상세
+Snippet around 와이피: Yg7E65Y6C_Rs6ZPUv_t4gUBkWQHtPTP5vi_wNm0qLG80Cbct7P7W3GFQF9FqoJe2OOtKQZ86eBIOMS4fciqJ4O5So_gbPM8 --- 와이피엔터테인먼트(주) - 기업상세 (function(w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); const f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l !== 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.
+

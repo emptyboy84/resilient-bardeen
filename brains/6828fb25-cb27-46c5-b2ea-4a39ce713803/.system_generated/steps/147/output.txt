@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Row 19246 [
+  <3 empty items>,
+  '초록누리',
+  7653500720,
+  '채경희',
+  <5 empty items>,
+  'inskylake@naver.com',
+  <6 empty items>,
+  '온라인공동물류',
+  <5 empty items>,
+  '7653500720'
+]
+

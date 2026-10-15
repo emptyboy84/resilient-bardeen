@@ -1,0 +1,20 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 760 lines>
+: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[363/421] Row 2206 | "케이와이시스템" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 741-88-00400 ((주)케이와이시스템) | 주소: "부산광역시 남구 신선로 365, 203호 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "김순자" [계속사업자]
+[364/421] Row 2207 | "선민" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[365/421] Row 2208 | "지앨" | 대표: "" | 구: "사상구"
+  => MATCH CONFIRMED: 789-87-03154 (주식회사 지앨) | 주소: "부산광역시 사상구 대동로 303 (감전동) 부산디지털밸리 502호 303, Daedong-ro, Sasang-gu, Busan, Republic of Korea" | 대표: "박성수" [계속사업자]
+[366/421] Row 2209 | "가람스토어" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[367/421] Row 2210 | "하늘연" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[368/421] Row 2211 | "인코누스" | 대표: "" | 구: "사하구"
+
+Last progress: 11s ago

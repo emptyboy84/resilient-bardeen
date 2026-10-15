@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Matches found: 6
+am {string} channel
+   * @param {any} message
+   */
+  sendIpc(channel, message) {
+    this.electron.BrowserWindow?.getAllWindows()?.forEach((wnd) => {
+      if (
+        wnd.webContents?.isDestroyed() === false
+        && wnd.webContents?.isCrashed() === false
+      ) {
+        wnd.webContents.send(channel, message);
+      }
+    });
+  }
+
+  showErrorBox(title, message) {
+    this.electron.dialog?.s
+

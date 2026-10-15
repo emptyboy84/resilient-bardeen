@@ -1,0 +1,14 @@
+The search for ""씨에스물류" "센텀동로 99"" returned the following summary:
+문의하신 **(주)씨에스물류**의 정보는 다음과 같습니다[1].
+
+*   **주소**: 부산광역시 해운대구 센텀동로 99, 1207호 (재송동, 벽산이센텀클래스원)[1][2]
+*   **기업 형태**: 중소기업[1][2]
+*   **설립일**: 2009년 6월[1][2]
+*   **대표자**: 최석천[1][2]
+
+참고로, 동일한 명칭의 다른 물류 기업(예: 경기도 평택 소재 업체 등)이 존재할 수 있으나[3], '센텀동로 99' 주소지에 등록된 기업은 위와 같습니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkRWfi6Er6zI7ZMjC4snMKGOMRHVqPm6lYjHcf5vzOfceSHHrSgxqefikA71PD0dcy-8ugMyE0Qy3B6ZVz8wY5ANxN6cfYZOYUtj1C4qyzcHdBZURz0WO04wxpubofMo8C3qIxKsLsrl7jE4_YQSde7UYKKOonH0R8xpbb__gliwFqG25JFLIJN_2QYtuGilVmQGau_xca6o0SWM281PemsddEFbZWDPdHIjxMhPok1ZIX7buSESJ6zr2K73zu9lsqPGfkx5hibfXGfBYBECFFJyf)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkRWfi6Er6zI7ZMjC4snMKGOMRHVqPm6lYjHcf5vzOfceSHHrSgxqefikA71PD0dcy-8ugMyE0Qy3B6ZVz8wY5ANxN6cfYZOYUtj1C4qyzcHdBZURz0WO04wxpubofMo8C3qIxKsLsrl7jE4_YQSde7UYKKOonH0R8xpbb__gliwFqG25JFLIJN_2QYtuGilVmQGau_xca6o0SWM281PemsddEFbZWDPdHIjxMhPok1ZIX7buSESJ6zr2K73zu9lsqPGfkx5hibfXGfBYBECFFJyf)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2M9EzWOtUuPr2sfUxV28qp-Owp7SFp-Mq3onIVWVDKV3d4NxA1JsjMcpA8EeQi1Jm64LAvyqtdnHs7N7Qrcd1nuUyQKX9FqRqjjhUASKT_KQxJ6BflOx8bI0c_A==)

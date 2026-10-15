@@ -1,0 +1,6 @@
+### Result
+"no iframe"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframe = document.getElementById(\'searchIframe\') || document.getElementById(\'entryIframe\');\n  return iframe ? iframe.src : \'no iframe\';\n}');
+```

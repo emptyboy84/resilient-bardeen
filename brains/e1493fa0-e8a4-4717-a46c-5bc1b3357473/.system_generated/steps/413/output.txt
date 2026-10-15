@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Saved 50 items for batch 3.
+Found: 49 Not found: 1
+First 5 found:
+[101] 오리엔텍 (6090965574) => 산업명: '플라스틱 창호 제조업', source: bizno
+[102] 한국씨엠티 (6090968381) => 산업명: '구름베어링 제조업', source: bizno
+[103] 부평산업 (6090970437) => 산업명: '그 외 기타 특수목적용 기계 제조업', source: bizno
+[104] 평화기술 (6090971213) => 산업명: '금속 절삭기계 제조업', source: bizno
+[105] 영진제관 (6090972037) => 산업명: '가공 공작기계 제조업', source: bizno
+Not found list: [150] 선진광학 (6091156404)
+

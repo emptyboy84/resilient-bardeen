@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22%EC%9E%90%EC%84%B1%EB%A1%9C133%EB%B2%88%EA%B8%B8+6%22+%22%EC%A0%95%EC%84%9D%EC%9D%B8%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EC%9E%90%EC%84%B1%EB%A1%9C133%EB%B2%88%EA%B8%B8+6%22+%22%EC%A0%95%EC%84%9D%EC%9D%B8%22
+- Page Title: "자성로133번길 6" "정석인" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-26-03-061Z.yml)

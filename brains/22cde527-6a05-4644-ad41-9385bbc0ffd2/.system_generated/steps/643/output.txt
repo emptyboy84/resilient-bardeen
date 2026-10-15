@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+automation.xlsx lock status: EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_automation.xlsx'
+

@@ -1,0 +1,14 @@
+### Ran Playwright code
+```js
+// Press Enter
+await page.keyboard.press('Enter');
+```
+### Page
+- Page URL: https://moneypin.biz/bizno/?name=%ED%9D%AC%EC%9B%B9%ED%88%B0&cat=all
+- Page Title: Vercel Security Checkpoint
+- HTTP status: 403
+- Console: 2 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-04-54-320Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-04-37-879Z.log#L5-L14

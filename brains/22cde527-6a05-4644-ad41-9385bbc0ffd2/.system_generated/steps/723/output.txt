@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Desktop files: [
+  'Antigravity IDE.lnk',
+  'Antigravity.lnk',
+  'desktop.ini',
+  'Excel.lnk',
+  'Microsoft Edge.lnk',
+  'Outlook.lnk',
+  'Z.lnk',
+  '~$연구소_전문, 과학 및 기술 서비스업+배현명_314번~384번.xlsx',
+  '다운로드.lnk',
+  '오늘'
+]
+

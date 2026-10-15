@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-08-31T12:13:41+09:00
+Prompt: Check Excel file read status
+Early Termination: any
+
+[2026-08-31T12:13:41+09:00] Timer fired.

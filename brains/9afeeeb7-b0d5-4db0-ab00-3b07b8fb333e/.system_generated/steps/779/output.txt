@@ -1,0 +1,18 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-777
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-777.log
+Log output:
+
+Name                Source                                                                         
+----                ------                                                                         
+pyftmerge.exe       C:\Users\lg\AppData\Local\Programs\Python\Python313\Scripts\pyftmerge.exe      
+pyftsubset.exe      C:\Users\lg\AppData\Local\Programs\Python\Python313\Scripts\pyftsubset.exe     
+pygmentize.exe      C:\Users\lg\AppData\Local\Programs\Python\Python313\Scripts\pygmentize.exe     
+pyproject-build.exe C:\Users\lg\AppData\Local\Programs\Python\Python313\Scripts\pyproject-build.exe
+python.exe          C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python.exe                     
+python3.11.exe      C:\Users\lg\.local\bin\python3.11.exe                                          
+python3.exe         C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python3.exe                    
+
+
+
+Last progress: 1s ago

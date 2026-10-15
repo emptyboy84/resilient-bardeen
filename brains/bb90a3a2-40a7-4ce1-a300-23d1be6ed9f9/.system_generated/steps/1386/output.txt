@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Kakao map place links: [
+  'https://map.kakao.com/?from=total&amp;nil_suggest=btn&amp;tab=place&amp;q=%EB%8C%80%EA%B2%BD%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C&#43;%EC%84%BC%ED%85%80',
+  'http://map.kakao.com/?map_type=DEFAULT&map_hybrid=false&q=%EB%8C%80%EA%B2%BD%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C%20%EC%84%BC%ED%85%80&srcid=1079108826&from=total',
+  'http://place.map.kakao.com/1079108826?referrer=daumsearch_local',
+  'http://map.kakao.com/?q=%EB%8C%80%EA%B2%BD%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C%20%EC%84%BC%ED%85%80&srcid=1079108826&confirmid=1079108826&rv=on&from=total',
+  'http://map.kakao.com/?target=car&eX=983858&eY=471489&eName=%EB%8C%80%EA%B2%BD%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C&from=total&ids=%2CP1079108826&rtIds=%2CP1079108826',
+  'http://map.kakao.com/?from=total&nil_suggest=btn&q=%EB%8C%80%EA%B2%BD%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C%20%EC%84%BC%ED%85%80&tab=place'
+]
+Weseb length: 59600
+Weseb text:  (주)대경산업개발 벽산지점 (.) 부산 해운대구 공장찾기 기업정보 위세브 location.href='/SJB/board.php?board=facto&command=body&no=40725'; var this_url ="board.php?board=facto&call=m&command=body&no=40725"; var this_skin ="./skin_board/m"; var this_skin_uni_str=""; var this_method="GET"; var this_call ="m"; var is_Admin =""; var is_Member=""; var is_Category=""; var cmd_exe=""; var TnTimgurl="./img"; var fix_navi=""; var is_appbrowser=0; var naviConfDelimiter = "♠"; var naviConfString = ""; var mymenuOn_title = ""; var mymenuOn_img = ""; 부산 해운대구 공장찾기 기업정보 제공 : 위세브 &nbsp; 서울 부산 대구시 인천 (전남)광주 대전 울산 세종 제주 경기 강원 충북 충남 전북 전남(광주) 경북 경남 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; function search_action2(sh_form){ if(sh_form.q.value.length 검색 $(document).ready(function(){ }); function anchor_target_blank() { var id = "bodytextID40725"; try { var a_tags = document.getElem
+Phones in Weseb: []
+

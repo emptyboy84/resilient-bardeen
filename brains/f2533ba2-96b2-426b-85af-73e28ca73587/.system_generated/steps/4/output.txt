@@ -1,0 +1,119 @@
+
+The command exited with code 0.
+Output:
+<truncated 3748 lines>
+-a----      2026-10-06   � 9:33            274 regex.js                                                             
+-a----      2026-10-06   � 9:33           1156 rng-browser.js                                                       
+-a----      2026-10-06   � 9:33            572 rng.js                                                               
+-a----      2026-10-06   � 9:33           2712 sha1-browser.js                                                      
+-a----      2026-10-06   � 9:33            575 sha1.js                                                              
+-a----      2026-10-06   � 9:33           1705 stringify.js                                                         
+-a----      2026-10-06   � 9:33           2114 uuid-bin.js                                                          
+-a----      2026-10-06   � 9:33           3724 v1.js                                                                
+-a----      2026-10-06   � 9:33            429 v3.js                                                                
+-a----      2026-10-06   � 9:33           2085 v35.js                                                               
+-a----      2026-10-06   � 9:33            896 v4.js                                                                
+-a----      2026-10-06   � 9:33            432 v5.js                                                                
+-a----      2026-10-06   � 9:33            426 validate.js                                                          
+-a----      2026-10-06   � 9:33            494 version.js                                                           
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\uuid
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           4563 package.json                                                         
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\wrappy
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33            635 package.json                                                         
+-a----      2026-10-06   � 9:33            938 wrappy.js                                                            
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\xmlcha
+    rs\xml\1.0
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           4792 ed4.d.ts                                                             
+-a----      2026-10-06   � 9:33           5539 ed4.js                                                               
+-a----      2026-10-06   � 9:33           1847 ed5.d.ts                                                             
+-a----      2026-10-06   � 9:33           3446 ed5.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\xmlcha
+    rs\xml\1.1
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           2742 ed2.d.ts                                                             
+-a----      2026-10-06   � 9:33           4881 ed2.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\xmlcha
+    rs\xmlns\1.0
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           1009 ed3.d.ts                                                             
+-a----      2026-10-06   � 9:33           2317 ed3.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\xmlcha
+    rs
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           2115 package.json                                                         
+-a----      2026-10-06   � 9:33           9506 xmlchars.d.ts                                                        
+-a----      2026-10-06   � 9:33           7101 xmlchars.js                                                          
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\zip-st
+    ream\node_modules\archiver-utils
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           6814 file.js                                                              
+-a----      2026-10-06   � 9:33           3643 index.js                                                             
+-a----      2026-10-06   � 9:33           1263 package.json                                                         
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules\zip-st
+    ream
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33           5431 index.js                                                             
+-a----      2026-10-06   � 9:33           1112 package.json                                                         
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\node_modules
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33          41011 .package-lock.json                                                   
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33          41125 package-lock.json                                                    
+-a----      2026-10-06   � 9:33             85 package.json                                                         
+
+
+

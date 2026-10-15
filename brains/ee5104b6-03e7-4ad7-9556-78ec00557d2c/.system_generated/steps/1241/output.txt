@@ -1,0 +1,407 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EB%B9%84%EC%BC%80%EC%9D%B4%ED%94%BC
+- Page Title: '비케이피' - 검색상세
+### Snapshot
+```yaml
+- generic [ref=f3e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=f3e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=f3e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=f3e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=f3e6]:
+    - banner [ref=f3e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=f3e8]
+      - generic [ref=f3e9]:
+        - generic [ref=f3e10]:
+          - heading [level=1] [ref=f3e11]:
+            - link "나이스 비즈인포" [ref=f3e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=f3e14]:
+            - listitem [ref=f3e15]:
+              - button "쿠폰" [ref=f3e16] [cursor=pointer]
+            - listitem [ref=f3e18]:
+              - link "로그인" [ref=f3e19] [cursor=pointer]:
+                - /url: /cm/CM0200M001GE.nice
+            - listitem [ref=f3e20]:
+              - link "장바구니" [ref=f3e21] [cursor=pointer]:
+                - /url: /sp/SP0100M001GE.nice
+            - listitem [ref=f3e22]:
+              - button "추천 서비스 메뉴보기" [ref=f3e23] [cursor=pointer]
+        - navigation [ref=f3e26]:
+          - heading "주요 네비게이션" [level=2] [ref=f3e27]
+          - list [ref=f3e28]:
+            - listitem [ref=f3e29]:
+              - link "홈" [ref=f3e30] [cursor=pointer]:
+                - /url: /cm/CM0100M001GE.nice
+            - listitem [ref=f3e31]:
+              - button "내 사업장 관리" [ref=f3e32] [cursor=pointer]
+            - listitem [ref=f3e34]:
+              - link "비즈마켓" [ref=f3e35] [cursor=pointer]:
+                - /url: /bm/BM0100M001GE.nice
+            - listitem [ref=f3e36]:
+              - link "블로그 새 창 열림" [ref=f3e37] [cursor=pointer]:
+                - /url: https://nice-info.inblog.io/
+                - text: 블로그
+                - generic [ref=f3e38]: 새 창 열림
+            - listitem [ref=f3e39]:
+              - button "고객센터" [ref=f3e40] [cursor=pointer]
+    - main [ref=f3e44]:
+      - generic [ref=f3e45]:
+        - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=f3e46]
+        - generic [ref=f3e47]:
+          - generic [ref=f3e51]:
+            - generic [ref=f3e52]:
+              - textbox "키워드검색" [ref=f3e53]:
+                - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                - text: 비케이피
+              - generic [ref=f3e54]: 키워드검색
+            - button "검색하기" [ref=f3e56] [cursor=pointer]
+          - button "조건검색" [ref=f3e59] [cursor=pointer]
+      - button "결과 내 재검색" [ref=f3e62] [cursor=pointer]
+      - generic [ref=f3e65]:
+        - generic [ref=f3e113]:
+          - generic [ref=f3e114]:
+            - strong [ref=f3e115]: 25건
+            - text: 의 기업 검색 결과가 있습니다.
+          - generic [ref=f3e120] [cursor=pointer]:
+            - generic [ref=f3e121]:
+              - generic "목록 개수 선택" [ref=f3e122]:
+                - generic [ref=f3e123]: 10개씩 표시
+                - combobox "10개씩 표시" [ref=f3e124]
+              - generic [ref=f3e125]: 목록 개수 선택
+            - generic [aria-hidden] [ref=f3e127]: arrow_drop_down
+        - tooltip "범례표기 리스트 상 상장 관 관리 코 코스닥 넥 코넥스 OTC K-OTC 외 외부감사법인 일 일반법인 개 개인 공 공기관 비 비영리법인 피 피흡수합병 폐 폐업 기 기타" [ref=f3e128]:
+          - generic [ref=f3e130]:
+            - generic [ref=f3e131]: 범례표기 리스트
+            - list [ref=f3e132]:
+              - listitem [ref=f3e133]:
+                - generic [ref=f3e134]: 상
+                - text: 상장
+              - listitem [ref=f3e135]:
+                - generic [ref=f3e136]: 관
+                - text: 관리
+              - listitem [ref=f3e137]:
+                - generic [ref=f3e138]: 코
+                - text: 코스닥
+              - listitem [ref=f3e139]:
+                - generic [ref=f3e140]: 넥
+                - text: 코넥스
+              - listitem [ref=f3e141]:
+                - generic [ref=f3e142]: OTC
+                - text: K-OTC
+              - listitem [ref=f3e143]:
+                - generic [ref=f3e144]: 외
+                - text: 외부감사법인
+              - listitem [ref=f3e145]:
+                - generic [ref=f3e146]: 일
+                - text: 일반법인
+              - listitem [ref=f3e147]:
+                - generic [ref=f3e148]: 개
+                - text: 개인
+              - listitem [ref=f3e149]:
+                - generic [ref=f3e150]: 공
+                - text: 공기관
+              - listitem [ref=f3e151]:
+                - generic [ref=f3e152]: 비
+                - text: 비영리법인
+              - listitem [ref=f3e153]:
+                - generic [ref=f3e154]: 피
+                - text: 피흡수합병
+              - listitem [ref=f3e155]:
+                - generic [ref=f3e156]: 폐
+                - text: 폐업
+              - listitem [ref=f3e157]:
+                - generic [ref=f3e158]: 기
+                - text: 기타
+        - list [ref=f3e159]:
+          - listitem [ref=f3e160]:
+            - button "기업상세 범례 활성화 (주)비케이피 419-87-0**** 대표자명 최예나래/장준모 산업명 셔츠 및 블라우스 제조업 기업주소 서울 마포구 잔다리로 ***" [ref=f3e161] [cursor=pointer]:
+              - generic [ref=f3e162]:
+                - generic [ref=f3e163]:
+                  - generic "기업상세 범례 활성화" [ref=f3e165]: 외
+                  - paragraph [ref=f3e166]:
+                    - text: (주)
+                    - strong [ref=f3e167]: 비케이피
+                  - paragraph [ref=f3e168]: 419-87-0****
+                - generic [ref=f3e169]:
+                  - generic [ref=f3e170]:
+                    - term [ref=f3e171]:
+                      - generic [ref=f3e173]: 대표자명
+                    - definition [ref=f3e174]: 최예나래/장준모
+                  - generic [ref=f3e175]:
+                    - term [ref=f3e176]:
+                      - generic [ref=f3e178]: 산업명
+                    - definition [ref=f3e179]: 셔츠 및 블라우스 제조업
+                  - generic [ref=f3e180]:
+                    - term [ref=f3e181]:
+                      - generic [ref=f3e183]: 기업주소
+                    - definition [ref=f3e184]: 서울 마포구 잔다리로 ***
+          - listitem [ref=f3e185]:
+            - button "기업상세 범례 활성화 (주)비케이피 606-86-2**** 대표자명 방지현 산업명 주형 및 금형 제조업 기업주소 부산 강서구 식만로 ***" [ref=f3e186] [cursor=pointer]:
+              - generic [ref=f3e187]:
+                - generic [ref=f3e188]:
+                  - generic "기업상세 범례 활성화" [ref=f3e190]: 일
+                  - paragraph [ref=f3e191]:
+                    - text: (주)
+                    - strong [ref=f3e192]: 비케이피
+                  - paragraph [ref=f3e193]: 606-86-2****
+                - generic [ref=f3e194]:
+                  - generic [ref=f3e195]:
+                    - term [ref=f3e196]:
+                      - generic [ref=f3e198]: 대표자명
+                    - definition [ref=f3e199]: 방지현
+                  - generic [ref=f3e200]:
+                    - term [ref=f3e201]:
+                      - generic [ref=f3e203]: 산업명
+                    - definition [ref=f3e204]: 주형 및 금형 제조업
+                  - generic [ref=f3e205]:
+                    - term [ref=f3e206]:
+                      - generic [ref=f3e208]: 기업주소
+                    - definition [ref=f3e209]: 부산 강서구 식만로 ***
+          - listitem [ref=f3e210]:
+            - button "기업상세 범례 활성화 (주)비케이피 147-87-0**** 대표자명 민복기 산업명 고무 타이어 및 튜브 제조업 기업주소 경기 안양시 만안구 연현로**번길 **, ***동 ***호" [ref=f3e211] [cursor=pointer]:
+              - generic [ref=f3e212]:
+                - generic [ref=f3e213]:
+                  - generic "기업상세 범례 활성화" [ref=f3e215]: 일
+                  - paragraph [ref=f3e216]:
+                    - text: (주)
+                    - strong [ref=f3e217]: 비케이피
+                  - paragraph [ref=f3e218]: 147-87-0****
+                - generic [ref=f3e219]:
+                  - generic [ref=f3e220]:
+                    - term [ref=f3e221]:
+                      - generic [ref=f3e223]: 대표자명
+                    - definition [ref=f3e224]: 민복기
+                  - generic [ref=f3e225]:
+                    - term [ref=f3e226]:
+                      - generic [ref=f3e228]: 산업명
+                    - definition [ref=f3e229]: 고무 타이어 및 튜브 제조업
+                  - generic [ref=f3e230]:
+                    - term [ref=f3e231]:
+                      - generic [ref=f3e233]: 기업주소
+                    - definition [ref=f3e234]: 경기 안양시 만안구 연현로**번길 **, ***동 ***호
+          - listitem [ref=f3e235]:
+            - button "기업상세 범례 활성화 (주)비케이피컨설팅 - 대표자명 권수영 산업명 한식 일반 음식점업 기업주소 서울 광진구 아차산로 ***, B동 ****호" [ref=f3e236] [cursor=pointer]:
+              - generic [ref=f3e237]:
+                - generic [ref=f3e238]:
+                  - generic "기업상세 범례 활성화" [ref=f3e240]: 일
+                  - paragraph [ref=f3e241]:
+                    - text: (주)
+                    - strong [ref=f3e242]: 비케이피
+                    - text: 컨설팅
+                  - paragraph [ref=f3e243]: "-"
+                - generic [ref=f3e244]:
+                  - generic [ref=f3e245]:
+                    - term [ref=f3e246]:
+                      - generic [ref=f3e248]: 대표자명
+                    - definition [ref=f3e249]: 권수영
+                  - generic [ref=f3e250]:
+                    - term [ref=f3e251]:
+                      - generic [ref=f3e253]: 산업명
+                    - definition [ref=f3e254]: 한식 일반 음식점업
+                  - generic [ref=f3e255]:
+                    - term [ref=f3e256]:
+                      - generic [ref=f3e258]: 기업주소
+                    - definition [ref=f3e259]: 서울 광진구 아차산로 ***, B동 ****호
+          - listitem [ref=f3e260]:
+            - button "기업상세 범례 활성화 유암코아이비케이피에프제일차사모투자(자) - 대표자명 연합자산관리(주) 산업명 그 외 기타 분류 안된 금융업 기업주소 서울 중구 서소문로 **" [ref=f3e261] [cursor=pointer]:
+              - generic [ref=f3e262]:
+                - generic [ref=f3e263]:
+                  - generic "기업상세 범례 활성화" [ref=f3e265]: 일
+                  - paragraph [ref=f3e266]:
+                    - text: 유암코아이
+                    - strong [ref=f3e267]: 비케이피
+                    - text: 에프제일차사모투자(자)
+                  - paragraph [ref=f3e268]: "-"
+                - generic [ref=f3e269]:
+                  - generic [ref=f3e270]:
+                    - term [ref=f3e271]:
+                      - generic [ref=f3e273]: 대표자명
+                    - definition [ref=f3e274]: 연합자산관리(주)
+                  - generic [ref=f3e275]:
+                    - term [ref=f3e276]:
+                      - generic [ref=f3e278]: 산업명
+                    - definition [ref=f3e279]: 그 외 기타 분류 안된 금융업
+                  - generic [ref=f3e280]:
+                    - term [ref=f3e281]:
+                      - generic [ref=f3e283]: 기업주소
+                    - definition [ref=f3e284]: 서울 중구 서소문로 **
+          - listitem [ref=f3e285]:
+            - button "기업상세 범례 활성화 (주)비케이피앤씨 - 대표자명 배석진 산업명 기타 부동산 개발 및 공급업 기업주소 경기 고양시 일산동구 중앙로 ****, ***호" [ref=f3e286] [cursor=pointer]:
+              - generic [ref=f3e287]:
+                - generic [ref=f3e288]:
+                  - generic "기업상세 범례 활성화" [ref=f3e290]: 일
+                  - paragraph [ref=f3e291]:
+                    - text: (주)
+                    - strong [ref=f3e292]: 비케이피
+                    - text: 앤씨
+                  - paragraph [ref=f3e293]: "-"
+                - generic [ref=f3e294]:
+                  - generic [ref=f3e295]:
+                    - term [ref=f3e296]:
+                      - generic [ref=f3e298]: 대표자명
+                    - definition [ref=f3e299]: 배석진
+                  - generic [ref=f3e300]:
+                    - term [ref=f3e301]:
+                      - generic [ref=f3e303]: 산업명
+                    - definition [ref=f3e304]: 기타 부동산 개발 및 공급업
+                  - generic [ref=f3e305]:
+                    - term [ref=f3e306]:
+                      - generic [ref=f3e308]: 기업주소
+                    - definition [ref=f3e309]: 경기 고양시 일산동구 중앙로 ****, ***호
+          - listitem [ref=f3e310]:
+            - button "기업상세 범례 활성화 비케이피엘자산운용(주) 472-81-0**** 대표자명 박재민 산업명 신탁업 및 집합투자업 기업주소 서울 강남구 학동로 ***, *층" [ref=f3e311] [cursor=pointer]:
+              - generic [ref=f3e312]:
+                - generic [ref=f3e313]:
+                  - generic "기업상세 범례 활성화" [ref=f3e315]: 일
+                  - paragraph [ref=f3e316]:
+                    - strong [ref=f3e317]: 비케이피
+                    - text: 엘자산운용(주)
+                  - paragraph [ref=f3e318]: 472-81-0****
+                - generic [ref=f3e319]:
+                  - generic [ref=f3e320]:
+                    - term [ref=f3e321]:
+                      - generic [ref=f3e323]: 대표자명
+                    - definition [ref=f3e324]: 박재민
+                  - generic [ref=f3e325]:
+                    - term [ref=f3e326]:
+                      - generic [ref=f3e328]: 산업명
+                    - definition [ref=f3e329]: 신탁업 및 집합투자업
+                  - generic [ref=f3e330]:
+                    - term [ref=f3e331]:
+                      - generic [ref=f3e333]: 기업주소
+                    - definition [ref=f3e334]: 서울 강남구 학동로 ***, *층
+          - listitem [ref=f3e335]:
+            - button "기업상세 범례 활성화 (주)비케이피엠 180-88-0**** 대표자명 최경애 산업명 경영 컨설팅업 기업주소 경남 창원시 성산구 완암로 **, 넥스동 ***호" [ref=f3e336] [cursor=pointer]:
+              - generic [ref=f3e337]:
+                - generic [ref=f3e338]:
+                  - generic "기업상세 범례 활성화" [ref=f3e340]: 일
+                  - paragraph [ref=f3e341]:
+                    - text: (주)
+                    - strong [ref=f3e342]: 비케이피
+                    - text: 엠
+                  - paragraph [ref=f3e343]: 180-88-0****
+                - generic [ref=f3e344]:
+                  - generic [ref=f3e345]:
+                    - term [ref=f3e346]:
+                      - generic [ref=f3e348]: 대표자명
+                    - definition [ref=f3e349]: 최경애
+                  - generic [ref=f3e350]:
+                    - term [ref=f3e351]:
+                      - generic [ref=f3e353]: 산업명
+                    - definition [ref=f3e354]: 경영 컨설팅업
+                  - generic [ref=f3e355]:
+                    - term [ref=f3e356]:
+                      - generic [ref=f3e358]: 기업주소
+                    - definition [ref=f3e359]: 경남 창원시 성산구 완암로 **, 넥스동 ***호
+          - listitem [ref=f3e360]:
+            - button "기업상세 범례 활성화 (주)비케이피플 - 대표자명 윤용식 산업명 일반 창고업 기업주소 경기 화성시 효행구 비봉면 남이로 ***, *동 *층" [ref=f3e361] [cursor=pointer]:
+              - generic [ref=f3e362]:
+                - generic [ref=f3e363]:
+                  - generic "기업상세 범례 활성화" [ref=f3e365]: 일
+                  - paragraph [ref=f3e366]:
+                    - text: (주)
+                    - strong [ref=f3e367]: 비케이피
+                    - text: 플
+                  - paragraph [ref=f3e368]: "-"
+                - generic [ref=f3e369]:
+                  - generic [ref=f3e370]:
+                    - term [ref=f3e371]:
+                      - generic [ref=f3e373]: 대표자명
+                    - definition [ref=f3e374]: 윤용식
+                  - generic [ref=f3e375]:
+                    - term [ref=f3e376]:
+                      - generic [ref=f3e378]: 산업명
+                    - definition [ref=f3e379]: 일반 창고업
+                  - generic [ref=f3e380]:
+                    - term [ref=f3e381]:
+                      - generic [ref=f3e383]: 기업주소
+                    - definition [ref=f3e384]: 경기 화성시 효행구 비봉면 남이로 ***, *동 *층
+          - listitem [ref=f3e385]:
+            - button "기업상세 범례 활성화 유암코아이비케이피에프제이차사모투자(자) - 대표자명 연합자산관리주식회사 산업명 그 외 기타 금융업 기업주소 서울 중구 서소문로 **" [ref=f3e386] [cursor=pointer]:
+              - generic [ref=f3e387]:
+                - generic [ref=f3e388]:
+                  - generic "기업상세 범례 활성화" [ref=f3e390]: 일
+                  - paragraph [ref=f3e391]:
+                    - text: 유암코아이
+                    - strong [ref=f3e392]: 비케이피
+                    - text: 에프제이차사모투자(자)
+                  - paragraph [ref=f3e393]: "-"
+                - generic [ref=f3e394]:
+                  - generic [ref=f3e395]:
+                    - term [ref=f3e396]:
+                      - generic [ref=f3e398]: 대표자명
+                    - definition [ref=f3e399]: 연합자산관리주식회사
+                  - generic [ref=f3e400]:
+                    - term [ref=f3e401]:
+                      - generic [ref=f3e403]: 산업명
+                    - definition [ref=f3e404]: 그 외 기타 금융업
+                  - generic [ref=f3e405]:
+                    - term [ref=f3e406]:
+                      - generic [ref=f3e408]: 기업주소
+                    - definition [ref=f3e409]: 서울 중구 서소문로 **
+        - navigation [ref=f3e410]:
+          - generic [ref=f3e411]:
+            - button "첫 페이지" [disabled] [ref=f3e412]
+            - button "이전 페이지" [disabled] [ref=f3e414]
+            - generic [ref=f3e416]:
+              - button "1" [ref=f3e417] [cursor=pointer]
+              - button "2" [ref=f3e420] [cursor=pointer]
+              - button "3" [ref=f3e423] [cursor=pointer]
+            - button "다음 페이지" [ref=f3e426] [cursor=pointer]
+            - button "마지막 페이지" [ref=f3e428] [cursor=pointer]
+    - button "KakaoChannel" [ref=f3e70] [cursor=pointer]
+    - button "FAQ" [ref=f3e73] [cursor=pointer]
+    - contentinfo [ref=f3e76]:
+      - generic [ref=f3e77]:
+        - heading "NICE BizINFO" [level=2] [ref=f3e78]
+        - generic [ref=f3e79]:
+          - generic [ref=f3e80]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=f3e81]
+            - generic [ref=f3e82]:
+              - heading "고객 지원 및 정보" [level=4] [ref=f3e83]
+              - list [ref=f3e84]:
+                - listitem [ref=f3e85]:
+                  - link "회사소개" [ref=f3e86] [cursor=pointer]:
+                    - /url: https://www.niceinfo.co.kr/main.nice
+                - listitem [ref=f3e87]:
+                  - link "이용약관" [ref=f3e88] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=TRM
+                - listitem [ref=f3e89]:
+                  - link [ref=f3e90] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=PIP
+                    - strong [ref=f3e91]: 개인정보 처리방침
+                - listitem [ref=f3e92]:
+                  - link "법적근거" [ref=f3e93] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=LEG
+                - listitem [ref=f3e94]:
+                  - link "문의/도움말" [ref=f3e95] [cursor=pointer]:
+                    - /url: /cs/CS0100M007GE.nice?tab=Question
+                - listitem [ref=f3e96]:
+                  - link "사이트맵" [ref=f3e97] [cursor=pointer]:
+                    - /url: /cs/CS0100M008GE.nice
+            - generic [ref=f3e98]:
+              - generic [ref=f3e99]: 주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보
+              - generic [ref=f3e100]:
+                - paragraph [ref=f3e101]: 대표자 김종윤
+                - paragraph [ref=f3e102]: 사업자번호 116-81-15020
+                - paragraph [ref=f3e103]: 통신판매업신고번호 2024-서울영등포-1095
+              - generic [ref=f3e104]:
+                - paragraph [ref=f3e105]: TEL 02-3771-1514
+                - paragraph [ref=f3e106]:
+                  - text: Email
+                  - link "help@nicebizinfo.com" [ref=f3e107] [cursor=pointer]:
+                    - /url: mailto:help@nicebizinfo.com
+            - paragraph [ref=f3e108]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link [ref=f3e110] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=f3e111]
+        - paragraph [ref=f3e112]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

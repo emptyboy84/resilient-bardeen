@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ftc.go.kr/bizCommPop.do?wrkr_no=5600702488');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=5600702488
+- Page Title: 통신판매 사업자정보 조회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-08-47-163Z.yml)

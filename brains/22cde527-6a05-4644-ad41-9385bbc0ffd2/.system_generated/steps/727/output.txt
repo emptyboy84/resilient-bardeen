@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx size: 391637 mtime: 2026-09-14T00:03:31.916Z
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)추가기업 리스트_251203 크레탑 (1).xlsx size: 43485 mtime: 2025-12-04T04:50:46.480Z
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)추가기업 리스트_251203 크레탑 (2).xlsx size: 75563 mtime: 2025-12-05T05:29:32.439Z
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)추가기업 리스트_251203 크레탑 (3).xlsx size: 75408 mtime: 2025-12-05T08:52:29.538Z
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)추가기업 리스트_251203 크레탑.xlsx size: 58632 mtime: 2025-12-04T04:43:25.588Z
+

@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+Matches in Excel: 1 [
+  {
+    "rowNumber": 19648,
+    "values": [
+      null,
+      null,
+      null,
+      "쉬오트(CHIOT)",
+      8092000967,
+      "강민지",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "chiot_s@naver.com",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "글로벌쇼핑몰입점판매",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "8092000967"
+    ]
+  }
+]
+

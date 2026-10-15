@@ -1,0 +1,11 @@
+### Result
+{
+  "btnHtml": null,
+  "btnOnclick": null,
+  "inputHtml": "<input class=\"q-field__native q-placeholder\" style=\"\" tabindex=\"0\" placeholder=\"기업명, 사업자번호, 법인번호, 대표자명\" title=\"키워드검색\" type=\"text\" value=\"8990100125\" id=\"f_1ee876ac-fd55-46d3-b8ce-6a049edb1f7f\">",
+  "inputParent": "<div class=\"q-field__control relative-position row no-wrap\" tabindex=\"-1\"><div class=\"q-field__control-container col relative-position row no-wrap q-anchor--skip\"><input class=\"q-field__native q-placeholder\" style=\"\" tabindex=\"0\" placeholder=\"기업명, 사업자번호, 법인번호, 대표자명\" title=\"키워드검색\" type=\"text\" value=\"8990100125\" id=\"f_1ee876ac-fd55-46d3-b8ce-6a049edb1f7f\"><span class=\"blind\">키워드검색</span></div><div class=\"q-field__append q-field__marginal row no-wrap items-center\"><button class=\"q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-main-search\" style=\"\" tabindex=\"0\" type=\"button\" title=\"검색하기\"><span class=\"q-focus-helper\"></span><span class=\"q-btn__content text-center col items-center q-anchor--skip justify-center row\"></span></button></div></div>"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const btn = Array.from(document.querySelectorAll(\'button\')).find(b => b.innerText && b.innerText.includes(\'검색하기\'));\n    const input = Array.from(document.querySelectorAll(\'input\')).find(i => i.placeholder && i.placeholder.includes(\'기업명\'));\n    return {\n        btnHtml: btn ? btn.outerHTML : null,\n        btnOnclick: btn ? btn.getAttribute(\'onclick\') : null,\n        inputHtml: input ? input.outerHTML : null,\n        inputParent: input ? input.parentElement.parentElement.outerHTML : null\n    };\n}');
+```

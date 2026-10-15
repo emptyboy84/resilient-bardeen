@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.locator('#area').selectOption('부산');
+```
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=&query=%EC%9A%B0%EC%88%98%EA%B2%BD
+- Page Title: 우수경
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-03-28-730Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T01-02-35-281Z.log#L1-L2

@@ -1,0 +1,22 @@
+Task: 3245efe3-26d4-4970-be6c-ed23876ad2a7/task-12
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\3245efe3-26d4-4970-be6c-ed23876ad2a7\.system_generated\tasks\task-12.log
+Log output:
+<truncated 738 lines>
+ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:99
++ ... ilient-bardeen' -Exclude .git | Where-Object { .LastWriteTime -ge (Ge ...
++                                                    ~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.LastWriteTime:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.LastWriteTime : '.LastWriteTime' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �
+�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:99
++ ... ilient-bardeen' -Exclude .git | Where-Object { .LastWriteTime -ge (Ge ...
++                                                    ~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.LastWriteTime:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+Last progress: 0s ago

@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+�: � �Ͽ� �ش�Ǵ� � ã� �߽�ϴ�.
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     python.exe                                         0.0.0.0    C:\Users\lg\AppData\Local\Microsoft\Wi...
+Application     python3.11.exe                                     0.0.0.0    C:\Users\lg\.local\bin\python3.11.exe    
+Application     python3.exe                                        0.0.0.0    C:\Users\lg\AppData\Local\Microsoft\Wi...
+
+
+

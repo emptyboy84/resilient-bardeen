@@ -1,0 +1,14 @@
+The search for ""센텀중앙로 97" "A동 308호" OR "센텀스카이비즈" "A동 308호" OR "센텀스카이비즈" "308호"" returned the following summary:
+검색하신 주소와 호수의 상세 정보는 다음과 같습니다:
+
+* **도로명 주소:** 부산광역시 해운대구 센텀중앙로 97[1]
+* **건물명:** 센텀스카이비즈 (A동 / A타워)[2][3]
+* **상세 호실:** 308호 (A동 308호)[2]
+
+해당 위치는 부산 해운대구 센텀시티에 위치한 대형 지식산업센터인 **센텀스카이비즈 A동 308호**입니다[2][4].
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHl_CsdavKVj0-LDm-nlQwMVGZg1dlpxL0w8upu086y9s3Qqiyb8LIWvnN21Rs-lLhbWq0l8Hr94VAzrXvJk1Iw7TALVOjDii0QAzIeDCS0ilhKzpJMIXv3dpv9A0TQyRRTAiYCnH-DkxdTa3W8YonELVv4TMsQPbz08IZHh_w0e1yYEGsjh6wFqJO--ntPd72gznX873g6_km9vnJg3LpEAE6WxC1wfOpRMgs-dp5NMzYLMPXGJXsVoJfPmwxD97jfYRz4emctTmRfqdKnKP-QTw61qhfAx3UpXlx5FE_pSln3Q==)
+[2] [dcb.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcx9eksWyWZWXYt_8_-V6nkK4lYhcAHOMltvipvOftnxQ-R38OnAttjcml-ot_8FPwICf4qSLXRYP4BYj0ID_dj9RFrG-t36gbmH50OiSAXTWzsYR9umrmXTSla96auOp6IiNR4Qi-fgCEgQTJRY=)
+[3] [aict.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ5e5j22FknWSc5vQfVrtj6BGC_dtINAD6I6BNdrZ34SosfjXMFOQZU3Il7duxsxviNZ5FjimrJVlFYzk9JPxtEJNYQefuEgJk3LGHIDRVG2SRT0LDHL8Au_Q=)
+[4] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ab59bH9par92Hi_kFi0OAbIsMw9rBlJ9YmRiEHSF43nN-iKTRzMsGtLZr9nSCj-EBWwUbhVqSUugnOY5VffhqlW3kTtANsIhZfcNwvXGGwCr-pCccGo2QE1lE2DpjXgUVDc_SBgCrKgSj5gO3N7cYWcbCIsB9ZPg6NyjvaHR9X9ran9hdhMN6iRQsQ==)

@@ -1,0 +1,6 @@
+### Result
+"기업을 선택하면 미리보기가 표시됩니다."
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const modal = document.querySelector(\'[role="dialog"], .modal, div[class*="Modal"], div[class*="dialog"]\');\n  return modal ? modal.innerText : document.body.innerText.substring(0, 1500);\n}');
+```

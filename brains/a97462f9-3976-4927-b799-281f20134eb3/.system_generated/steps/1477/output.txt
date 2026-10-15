@@ -1,0 +1,24 @@
+The search for "머니핀 사업자등록번호 조회 OR 기업정보" returned the following summary:
+**머니핀(MoneyPin)**은 소규모 사업자를 위한 세무 회계 및 경영관리 솔루션을 제공하는 서비스입니다[1][2]. 관련 기업 정보는 다음과 같습니다.
+
+### 1. 기업 정보
+*   **운영사:** 주식회사 모두의회계 (과거 하우투비즈랩으로 알려짐)[1][3][4]
+*   **주요 서비스:** 모바일 세무회계 앱 '머니핀' (자동장부, 매출/매입 관리, 세금신고, 전자세금계산서 발행, 인건비 관리 등)[2][5][4]
+*   **회사 주소:** 서울특별시 서초구 사평대로57길 29, 2층[1]
+*   **사업자등록번호:** 139-87-00196 (넥스트유니콘 기업 정보 기준)[6]
+    *   *참고: '머니핀'이라는 이름으로 등록된 다른 사업체가 존재할 수 있으나, 회계 솔루션을 제공하는 주식회사 모두의회계의 사업자 정보는 위와 같습니다[7][1].*
+
+### 2. 참고 사항
+*   **사업자 정보 조회 시 주의:** 머니핀은 자체적으로 사업자 정보 조회 API를 제공하는 플랫폼이기도 합니다[8]. 이 과정에서 공공 데이터를 취합하여 정보를 게시하는데, 이와 관련하여 정보의 정확성이나 무단 게시 문제로 일부 논란이 제기된 바 있으니 이용 시 참고하시기 바랍니다[3].
+*   **공식 조회 방법:** 특정 사업자의 현재 상태(폐업 여부 등)를 정확히 확인하고 싶으시다면, **국세청 홈택스(사업자상태조회)** 또는 공신력 있는 기업정보 사이트를 이용하시는 것이 가장 정확합니다[9].
+
+Sources:
+[1] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2pWSdgy2JSNPivl3ZHY9U-NmWM9LwpMM55CDwOvH1XfgoKY0JR_u5HnbRIJ2p9b3fUm5-nDgQaxMKwz3cYD3b1MzzqD4SCAL9umI=)
+[2] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeDPKhuDO-D_yV3q_V8_ta1y8exSNHjCk5SJocw0lE36GEw4XvKPX5KBKYEivIE-ljNtvmWkIvAo3lShlHZbtIdTK1VSl5VTpz8sET3ObirxbQwEqFBJeMuNyeYEmV_DUs7c7lTFiJ3bCJvJB1rGIp8KGHDIT1Avy50H8uO4du5uyobar4pGbYY74a7J2Eq7eY0Z-Bd8ScJiv_5BkSvDqLNOWRY-7ftKYhYdWauMCXPcd8LWiC-yB4I-IXNf1oTDac7JlkakhPww==)
+[3] [dbritz.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrtw3k9gWQjWOlB6N_e3iw263mcvw_Z_pttINTU1n7qVXhoBvg8dJxkn1rABe6medMv4eKnjLLAmR51pHEfnirKjM6TZ5VZcDaBBb2Vk3pS8H9hAox6oeqAV742AJBZKXjOe94R5OgGpaSnR1a)
+[4] [platum.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTM8EnqqJz-KD-6pOyxiNA9o8WsxBT1CEQu0pPdBAnGe3ewnbQvGeGjWKl48yk8hXBw3ZnJ9gsP8mILbM3NiutkgCeweGzflhzx49lsPN4S_pPKJD5w0=)
+[5] [impactflow.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDnG5yiZACGYk4AcFbXWUfeUCiMojYdYhRh2Z04iZ_0YLSOdvhNw-Hsf5zoHPl7ivIOw8sGUUNlGAQ5B9Zgl6PyiCpYDdJf_ZZ4w7GdfvaxoNlgFec4PI_tyPFA==)
+[6] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB6XdxWpiThlrignaJezUN2WWq74gfdRxa7-b_U--fB2wC5mGe0a4BoDVcPEzW0-eWJ2UK2C_v3qUNWZzKPkPWSp1t2HeMMbtDCf-db5ToHDpwJI_JK8uk6lXMVkgbtNI_mLvVEATsaXc=)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvWsZyvZwbfGQTNyBWxHk18lEKCK1qBxTWEpnJOKvdsNiZtMkV11TpxBWUQy3OkdnxkWcpIaop0DfrPlHV8uXD1jUV1VW_o_XmdCSBgyas00A3FlRLFkwgIBk=)
+[8] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM881C1htjTon_oqLcPEXnocW0p7ecb2ys7L0edmfedaCopOlLhoJJXIhUk8sIcdFzgbqw3J2SB_U5TebrpqXD26IFHfCSnrndhBoHzWqxKubqBMF3wg==)
+[9] [mooders.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9E2qBODF2yvUMNkBqI49MhDGEVmocoXp5jgEuA0MXeTTsmcsenF85hmEnIzpDYrh8lQ-x7qmIRCX4_9_xNLnlncPD4QjjFJaySacOEpDSjZvAeMuGaCqSDHjrvvAYy4oi8iSY3L9fFnQmsdw=)

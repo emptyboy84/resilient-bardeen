@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+=== 1. Checking File Existence & Sizes ===
+XLSX Exists: true (Size: 305516 bytes)
+CSV Exists: true (Size: 508819 bytes)
+
+=== 2. Inspecting XLSX Workbook Structure & Red Fonts ===
+Sheet Name: "2026_부산_CT산업_실태조사"
+Total Rows in Sheet: 2314
+Total Columns in Sheet: 20
+Header columns: [
+  '구분',            '순번',
+  '사업체명',        '사업자번호',
+  '설립연도(연도)',  '설립연도(월)',
+  '대표자 성함',     '연락처',
+  '팩스번호',        '시군구',
+  '주소',            '업종분류',
+  '컨택결과',        '폐업 날짜',
+  '비고',            '종사자수(명) 25년 기준',
+  '24년 매출액(원)', '25년 매출액(원)',
+  '데이터 출처',     '데이터 출처'
+]
+BizNo column is at 1-indexed position: 4
+
+=== Verification Findings ===
+Total rows checked: 2313
+Total RED cells across entire sheet: 2180
+Newly entered RED Business Numbers: 150
+100% Valid Checksums among RED Business Numbers: 150
+Checksum Failures: 0
+
+⚠️ Check counts carefully.
+

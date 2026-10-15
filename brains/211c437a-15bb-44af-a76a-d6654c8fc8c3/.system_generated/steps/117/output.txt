@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+--- BEFORE ---
+ACPI 0x30:  2
+TouchPadMode:  8
+Registry HKCU\Software\LGE\OSD Touchpad:  1
+
+--- CALLING Set_TouchPadMode(0) ---
+Set_TouchPadMode(0) returned: 0
+
+--- AFTER ---
+ACPI 0x30:  2
+TouchPadMode:  9
+Registry HKCU\Software\LGE\OSD Touchpad:  1
+

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Closed count: 11
+6090658790 undefined 폐업
+6090662896 undefined 폐업
+6090713067 undefined 폐업
+6090771956 undefined 폐업
+6090848296 undefined 폐업
+6090848302 undefined 폐업
+6090871346 undefined 폐업
+6090946989 undefined 폐업
+6091053792 undefined 폐업
+6091098106 undefined 폐업
+6091198966 undefined 폐업
+

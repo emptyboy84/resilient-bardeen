@@ -1,0 +1,15 @@
+The search for ""흑자" "홍제형" ("051" OR "070" OR "010" OR "전화" OR "TEL")" returned the following summary:
+입력하신 키워드(**"흑자", "홍제형"**)와 관련된 기업 정보는 다음과 같습니다.
+
+* **기업명:** 주식회사 흑자 ((주)흑자, 영어명: surplus)[1][2]
+* **대표자:** 홍제형[1][2]
+* **주요 사업:** 비전 AI 기반 드론 개발, 건설·교통·안전관리 아날로그 게이지 모니터링 시스템 솔루션 등[2]
+* **소재지:** 부산광역시 동구 중앙대로196번길 6-7 (초량동)[1][3]
+
+공개된 기업 정보 데이터베이스 및 공식 채널 상에서 해당 법인의 구체적인 유선 전화번호(TEL, 051, 070 등)는 민간 기업의 세부 내선 및 비공개 정보로 분류되어 직접적으로 명시되어 있지 않습니다. 관련 문의나 연락이 필요하실 경우 정부 지원 사업 공고, 창업보육 센터 또는 대-스타 혁신성장 파트너스 등 관련 기관을 통한 경로를 참고하시기 바랍니다[4][3].
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqYW2f_1bHiLv2bOzluJPsXrWG66KO0DwmARZwskG_hxUbQnUYjOfW0o0LIx9YUs-O3kYuTKWeExADoOL9Hq9yBO1WXO0saVP93mSS-pezabX9z4Ct-wmJp0H1NiAtALSFHdlMdkT9gB8GeYjUI18neCb6cmjLyb1q2rNfnQ==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpVd_J-8amqfHLPHDqGETT6ApIPoUh4K7baDPvSNxZFKMSitn5kiK9HjITYtB2akIHKzKZ5PbVPZGnksBw5TbVoSOMkLk1FDX0sw6WmQ8=)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4_6szyOqK04_bX8aricudWgK8pdewASJsBX7lEz89u6Kv8hiNo5AXR-tb1aDOAnKCVJZKZLPlbpaH9TrdUCChbkO-yRv5dLviGQQ=)
+[4] [seoul.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERp-SXSr6-Dmf4uI7DGOPPV6IJlyzFMltnBzj1_RSqtOjEq5SosjqlwHAQaGxxnC-I3Th6eHjaHXS_KgiIU8HfnxZ3hmLiUw-9rNzdiUBKjYE4YMagMQw4p0RjgHHH-FvYdS3YK_uWQRquOQ6uqVxziGujhOHUX_1l_OaRKA==)

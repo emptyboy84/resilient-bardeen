@@ -1,0 +1,10 @@
+### Ran Playwright code
+```js
+await page.locator('input.q-field__native').fill('와이피엔터테인먼트');
+await page.locator('input.q-field__native').press('Enter');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EC%99%80%EC%9D%B4%ED%94%BC%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8
+- Page Title: '와이피엔터테인먼트' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-13T02-31-26-880Z.yml)

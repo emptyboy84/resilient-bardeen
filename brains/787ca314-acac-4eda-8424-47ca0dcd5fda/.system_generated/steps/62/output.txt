@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\validate_corp_reg_number\brain_logs
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026-09-08   오전 8:55                scratch                                                              
+-a----        2026-09-08   오전 8:55         427448 README_대화기록.md                                                       
+-a----        2026-09-08   오전 8:55         670439 transcript.jsonl                                                     
+-a----        2026-09-08   오전 8:55        1262342 transcript_full.jsonl                                                
+
+
+

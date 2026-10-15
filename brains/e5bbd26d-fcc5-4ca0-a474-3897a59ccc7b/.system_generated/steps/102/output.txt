@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\resilient-bardeen
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d--h--      2026-09-18  � 10:20                .git                                                                 
+d-----      2026-09-02  � 12:49                brain_logs                                                           
+d-----      2026-09-02  � 12:44                data                                                                 
+d-----      2026-08-31  � 10:42                node_modules                                                         
+-a----      2026-09-02  � 12:44             43 .gitignore                                                           
+-a----      2026-09-07  � 12:17            624 AGENTS.md                                                            
+-a----      2026-09-01   � 9:32         134221 all_500_factchecked.tsv                                              
+-a----      2026-09-01   � 8:55         137558 all_500_verified.tsv                                                 
+-a----      2026-08-31  � 10:05          25343 article_test.html                                                    
+-a----      2026-08-31  � 10:17         128152 bizno_filtered_result.csv                                            
+-a----      2026-08-31  � 10:43         129594 bizno_filtered_result.tsv                                            
+-a----      2026-08-31  � 10:43         130977 bizno_filtered_result_nice.csv                                       
+-a----      2026-08-31  � 10:43         129594 bizno_filtered_result_nice.tsv                                       
+-a----      2026-08-31  � 10:05          24211 bizno_test.html                                                      
+-a----      2026-09-04   � 8:56         110577 current_pasted_batch.tsv                                             
+-a----      2026-09-07   � 9:22         137949 merged_500_perfect.tsv                                               
+-a----      2026-08-31  � 10:42          40116 package-lock.json                                                    
+-a----      2026-08-31  � 10:42             79 package.json                                                         
+-a----      2026-08-31  � 10:05          16842 query_test.html                                                      
+-a----      2026-08-31  � 12:21          36652 rows_11847_12000_16col.tsv                                           
+-a----      2026-08-31  � 12:21          36962 rows_11847_12000_17col.tsv                                           
+-a----      2026-08-31  � 12:21          38502 rows_11847_12000_verified.tsv                                        
+-a----      2026-09-01  � 12:35         192160 user_pasted_rows.tsv                                                 
+-a----      2026-09-08   � 9:18           4076 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+-a----      2026-09-08   � 9:18         169882 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf                  
+
+
+

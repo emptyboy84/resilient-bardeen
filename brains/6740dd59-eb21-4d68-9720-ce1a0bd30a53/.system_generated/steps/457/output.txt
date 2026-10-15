@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Row: 1789 Name: （주）교보문고 해운대 팝업스토어 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+Row: 1804 Name: 롯데쇼핑(주)토이저러스 동부산점 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+Row: 1806 Name: 미디어CAPSULE Biz: 607-10-88688 Rep: 정태선 Rev24: null Rev25: 2200080000
+Cell fills:
+  col 4 fill: {"theme":8,"tint":0.7999816888943144}
+Row: 1812 Name: 레고스토어 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+Row: 1816 Name: 또래나라 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+Row: 1817 Name: 함께가는사람들김해지점 Biz: null Rep: 이상덕 Rev24: null Rev25: null
+Cell fills:
+Row: 1818 Name: 이소민 Biz: null Rep: 이소민 Rev24: null Rev25: null
+Cell fills:
+Row: 1964 Name: (주)교보문고경성대·부경대센터 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+Row: 1986 Name: （주교보문고부산점 Biz: null Rep: null Rev24: null Rev25: null
+Cell fills:
+

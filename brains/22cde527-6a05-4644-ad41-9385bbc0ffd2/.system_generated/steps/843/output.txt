@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+=== ROW 639 (디자인에코) ===
+Col 1 [구분]: 25년 모집단 | Red: false | Bold: undefined
+Col 2 [기존행번호]: 639 | Red: false | Bold: undefined
+Col 3 [사업체명]: 디자인에코 | Red: false | Bold: undefined
+Col 4 [사업자번호]: 603-10-85753 | Red: true | Bold: true
+Col 5 [설립연도(연도)]: 2009 | Red: true | Bold: true
+Col 6 [설립연도(월)]: 4 | Red: true | Bold: true
+Col 7 [대표자 성함]: 이돈희 | Red: false | Bold: undefined
+Col 8 [연락처]: 051-207-3530 | Red: true | Bold: true
+Col 9 [팩스번호]: 051-517-3500 | Red: true | Bold: true
+Col 10 [시군구]: 금정구 | Red: false | Bold: undefined
+Col 11 [주소]: 부산 금정구 장전동 222-39 서강빌딩 4층 | Red: false | Bold: undefined
+Col 12 [업종분류]: 캐릭터 | Red: false | Bold: undefined
+Col 13 [컨택결과]:  | Red: false | Bold: undefined
+Col 14 [폐업 날짜]:  | Red: false | Bold: undefined
+Col 15 [비고]:  | Red: false | Bold: undefined
+Col 16 [종사자수(명) 25년 기준]: 10 | Red: true | Bold: true
+Col 17 [24년 매출액(원)]:  | Red: false | Bold: undefined
+Col 18 [25년 매출액(원)]:  | Red: false | Bold: undefined
+Col 19 [데이터 출처]: https://bizno.net/article/6031085753 | Red: true | Bold: true
+

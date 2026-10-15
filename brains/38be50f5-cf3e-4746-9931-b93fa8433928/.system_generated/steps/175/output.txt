@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+parts count: 16
+0 "하이라이트스튜디오"
+5 "051-816-7092"
+9 "애니메이션"
+

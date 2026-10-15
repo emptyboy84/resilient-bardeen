@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Done 10 in 719 ms
+[
+  { b: '7601400870', status: 200, ok: true },
+  { b: '7601501084', status: 200, ok: true },
+  { b: '7606400410', status: 200, ok: true },
+  { b: '7608700059', status: 200, ok: true },
+  { b: '7610401908', status: 200, ok: true },
+  { b: '7610701383', status: 200, ok: true },
+  { b: '7611000012', status: 200, ok: true },
+  { b: '7617400052', status: 200, ok: true },
+  { b: '7618700130', status: 200, ok: true },
+  { b: '7618701110', status: 200, ok: true }
+]
+

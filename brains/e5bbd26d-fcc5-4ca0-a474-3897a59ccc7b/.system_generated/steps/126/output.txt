@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-09-18   � 9:45                �                                                                 
+
+
+

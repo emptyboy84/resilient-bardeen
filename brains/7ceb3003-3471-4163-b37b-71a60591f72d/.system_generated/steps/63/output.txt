@@ -1,0 +1,14 @@
+The search for ""무몽크" site:indiego.co.kr" returned the following summary:
+**무몽크(Moo-Monk)**는 부산대학교 인근에 위치한 유서 깊은 음악 클럽이자 공연장입니다[1][2].
+
+*   **위치:** 부산광역시 금정구 금정로 90-1[2][3]
+*   **특징:** 1995년부터 운영되어 온 공간으로, 부산 지역 인디 음악 공연 및 대관을 담당하고 있습니다[1].
+*   **상세 정보:** 인디고(Indiego) 사이트에서 무몽크에 대한 공연장 정보와 대관 관련 연락처(010-3030-5970) 등을 확인하실 수 있습니다[1][2].
+
+더 자세한 공연 일정이나 정보는 [인디고(Indiego)의 무몽크 페이지](https://indiego.co.kr/)를 통해 확인 가능합니다[4].
+
+Sources:
+[1] [indiego.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGq66nyyMdShMeb6qxik1Mtk8xkVzVZoazZzObT4qsc4rxMAvYZfSJR-LsEa4iJAI3dBbI3_eqRsWftv7M6gcAjzj206O5BFjfTYpoMb85rUIk3g4zVeQPDQ_LptKFGujHazXl3gOkziB4GjQ4XHxCpZ_1HQ==)
+[2] [indiego.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw6ysU-vqY_CAhTuJdCaFcqGcWyAW4nv3XlFiA0YlXCrA1llyUSmlIYLRfc_IvHF0Q_Uy4IQnGrGUwlJ7G2zGl4nFzrjrtG4uZzLucnjvn24KmK8Ox)
+[3] [indiego.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGq66nyyMdShMeb6qxik1Mtk8xkVzVZoazZzObT4qsc4rxMAvYZfSJR-LsEa4iJAI3dBbI3_eqRsWftv7M6gcAjzj206O5BFjfTYpoMb85rUIk3g4zVeQPDQ_LptKFGujHazXl3gOkziB4GjQ4XHxCpZ_1HQ==)
+[4] [indiego.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGq66nyyMdShMeb6qxik1Mtk8xkVzVZoazZzObT4qsc4rxMAvYZfSJR-LsEa4iJAI3dBbI3_eqRsWftv7M6gcAjzj206O5BFjfTYpoMb85rUIk3g4zVeQPDQ_LptKFGujHazXl3gOkziB4GjQ4XHxCpZ_1HQ==)

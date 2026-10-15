@@ -1,0 +1,185 @@
+### Result
+[
+  {
+    "tag": "INPUT",
+    "id": "mf_w2xPath",
+    "name": "w2xPath",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_linkParam",
+    "name": "linkParam",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_merchantNo",
+    "name": "merchantNo",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_mallId",
+    "name": "mallId",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552879",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552876",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552876",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_wfm_potal_main_wf_header_sbx_swrd___input",
+    "name": "",
+    "placeholder": "검색어 입력",
+    "className": "w2input search-input",
+    "value": "",
+    "type": "text"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552879",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552878",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552877",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552878",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_wfm_potal_main_wf_location_wf_help_main_wf_help_sub2_sbx_swrd___input",
+    "name": "",
+    "placeholder": "검색어 입력",
+    "className": "w2input search-input",
+    "value": "",
+    "type": "text"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552879",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341553184",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "SELECT",
+    "id": "mf_wfm_potal_main_wfm_content_nodeIdPath_input_0",
+    "name": "",
+    "className": "w2selectbox_native_select",
+    "value": "-전체-",
+    "type": "select-one"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_wfm_potal_main_wfm_content_textQuestion___input",
+    "name": "",
+    "placeholder": "찾고자 하는 단어 또는 문장을 입력하세요.",
+    "className": "w2input ",
+    "value": "",
+    "type": "text"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_wfm_potal_main_wfm_content_btn_scourt",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn medium",
+    "value": "개선의견 보내기",
+    "type": "button"
+  },
+  {
+    "tag": "SELECT",
+    "id": "linkSiteList",
+    "name": "url",
+    "className": "",
+    "value": "",
+    "type": "select-one"
+  },
+  {
+    "tag": "INPUT",
+    "id": "__IME_HIDDEN__",
+    "name": "",
+    "placeholder": "",
+    "className": "",
+    "value": "",
+    "type": "text"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input, select\'));\n  return inputs.map(i => ({\n    tag: i.tagName,\n    id: i.id,\n    name: i.name,\n    placeholder: i.placeholder,\n    className: i.className,\n    value: i.value,\n    type: i.type\n  }));\n}');
+```

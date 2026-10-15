@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+5151271470 | 광고 대행업 | 숙박 및 음식점업 | 음식점 및 주점업 | 음식점업
+

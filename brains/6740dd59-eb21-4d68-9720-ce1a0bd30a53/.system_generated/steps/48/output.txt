@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+[eval]:1
+const ExcelJS = require('exceljs'); const wb = new ExcelJS.Workbook(); wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx').then(() => { console.log('Sheets:', wb.worksheets.map(s => s.name)); wb.worksheets.forEach(ws => { ws.eachRow((row, rowNumber) => { const text = row.values.join(' '); if (text.includes('교보') || text.includes('051-709-5958') || text.includes('NC백화점')) { console.log(Found in  row :, row.values); } }); }); console.log('Search finished.'); }).catch(err => console.error(err));
+                                                                                                                                                                                                                                                                                                                                                                                                                        ^^^
+Expected ',', got ':'
+
+SyntaxError: missing ) after argument list
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+

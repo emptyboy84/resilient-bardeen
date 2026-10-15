@@ -1,0 +1,9 @@
+### Result
+"clicked"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const el = document.getElementById(\'mf_wfm_potal_main_wf_header_gen_depth1_0_gen_depth2_1_gen_depth3_0_btn_top_menu3a\');\n  if (el) { el.click(); return \'clicked\'; }\n  return \'not found\';\n}');
+```
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소 - 열람·발급

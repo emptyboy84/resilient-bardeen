@@ -1,0 +1,10 @@
+The search for ""055-276-9823" OR "276-9823" "케이피"" returned the following summary:
+검색하신 전화번호 **055-276-9823**은 일본 야마나시현 고후시(甲府) 지역의 일반 전화번호로 확인됩니다[1].
+
+해당 번호와 '케이피'라는 단어를 조합하여 검색한 결과, 대한민국 내의 기업이나 관련 정보를 찾을 수 없었으며, 검색 결과 또한 일본의 전화번호 안내 사이트에서 해당 번호 대역(055-276-XXXX)이 고후 지역의 번호임을 나타내는 내용이 대부분입니다[2].
+
+혹시 찾으시는 '케이피'라는 업체가 한국 내에 있다면, 지역 번호 '055'는 경상남도 지역의 국번이므로 번호를 다시 한번 확인하시거나, 업체명과 함께 다른 검색어를 사용하시는 것을 권장합니다.
+
+Sources:
+[1] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Pf-ZAO6BFujvDAXM7vD_JBMN45FtlPfOzNbtURKhgG1gEMo4jgbgWwonNXFbcz1413DeGbqEHRnzrH6Dq2EXNvAnezoi3a784a4-IlJmpIbhG8zOS8aCqY6PWRkOxU4W7obsYgy3f9dR)
+[2] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnu0bYLfUv-DetJWsoV1I7BuUtH9B7e17dX0v7FwpEZREIYxYU_1hE70iWLSvYgmNHVwVu1wSXpwDzMwPBeLZygZJPO048iivo5F9J74AAbHxDQbbzOvfKHQMMYq86MM8U0Wdhg_If8Q==)

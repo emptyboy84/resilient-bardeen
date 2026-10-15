@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Row 254 신예락 Col17: - string
+Row 692 메리데브 Col17: 0 number
+Row 916 액트온게임 Col17: - string
+Row 1517 페이크스튜디오 Col17: 0 number
+

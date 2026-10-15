@@ -1,0 +1,19 @@
+The search for "("니쥬상회" OR "니쥬상점") ("010" OR "02" OR "070" OR "@")" returned the following summary:
+'니쥬상회' 또는 '니쥬상점'(사업자번호 560-07-02488[1][2])과 관련된 정보를 확인하였으나, 공개된 웹 검색 결과상에서 직접적인 **전화번호나 이메일 주소는 확인되지 않습니다.**[3][4]
+
+해당 업체는 개인사업자가 운영하는 온라인 종합몰(통신판매업)로 등록되어 있으며[3][5], 주요 정보는 다음과 같습니다.
+
+*   **상호명:** 니쥬상회 / 니쥬상점[3][6]
+*   **사업자번호:** 560-07-02488[1][2]
+*   **업종:** 전자상거래 (종합몰)[3][2]
+*   **주요 소재지:** 서울특별시 구로구 또는 경기도 광명시 등으로 기재되어 있으나[1][2][4], 이는 사업자 등록 정보상의 주소지로 실제 고객센터 연락처와는 다를 수 있습니다.
+
+해당 업체의 연락처가 필요한 경우, 이용 중인 쇼핑 플랫폼(네이버 스마트스토어 등[6])의 '판매자 정보' 페이지를 통해 공식적으로 제공되는 고객센터 번호나 1:1 문의 채널을 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsBfV213luWrl3NdawZt3WTYPZ7u4gwZKDghGIeO4EQyJocvAMRLIMg1EUJZqK7t75njPjuDpFgE9j8Jd17-DSJlAyJR3HW7doTI8w8vDDv5XgHZ344NkeTS2qJb7rzanC5w==)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ18_g4BO71O09BPvJRaf7IKMN7ZZVTXpUJZbwYov3pttqUyCYmRcPss4KT04mgKI2c6kgkwq-rnd1s6_slm15wxdt5AGAFCBkG0Av7PF2nq_FUjMFm6daFgtAnOlYFzgm_QU=)
+[3] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp1XRWVjEtlwk8SAGvBi1Kc_SmpyGE98nkJg5mxzyUaCss9-66GT6GwaFd_z0A7-nFhE0qm-Wwyg_X6cylvmcN9SQcNG2rb6iG6YhavBaLfhMpgN_s9RF9EejXL5j-qdeIfhCnuk6u31K193NPPFtrf9_0)
+[4] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ18_g4BO71O09BPvJRaf7IKMN7ZZVTXpUJZbwYov3pttqUyCYmRcPss4KT04mgKI2c6kgkwq-rnd1s6_slm15wxdt5AGAFCBkG0Av7PF2nq_FUjMFm6daFgtAnOlYFzgm_QU=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe63RrR52uhVsIS_w6ZdF6L3589p9IQXk_hWW0_ToqnEbBaHV7gLrhsKJ_gF_OJe3gtPZP5-iJnsl_Zn0rOcAIR6vIJ1aYkeJ26HZm2YMalAzy0JUVVUHuxJfKHaES)
+[6] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp1XRWVjEtlwk8SAGvBi1Kc_SmpyGE98nkJg5mxzyUaCss9-66GT6GwaFd_z0A7-nFhE0qm-Wwyg_X6cylvmcN9SQcNG2rb6iG6YhavBaLfhMpgN_s9RF9EejXL5j-qdeIfhCnuk6u31K193NPPFtrf9_0)

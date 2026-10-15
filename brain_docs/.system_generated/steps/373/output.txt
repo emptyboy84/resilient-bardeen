@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_busan_phone_numbers
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-15   � 9:52                brain_logs                                                           
+d-----      2026-10-15  � 10:40                data                                                                 
+d-----      2026-10-15   � 9:52                node_modules                                                         
+-a----      2026-10-15   � 9:52             47 .gitignore                                                           
+-a----      2026-10-15   � 9:52            859 AGENTS.md                                                            
+-a----      2026-10-15   � 9:52         134720 all_500_factchecked.tsv                                              
+-a----      2026-10-15   � 9:52         138057 all_500_verified.tsv                                                 
+-a----      2026-10-15   � 9:52          25920 article_test.html                                                    
+-a----      2026-10-15   � 9:52         128152 bizno_filtered_result.csv                                            
+-a----      2026-10-15   � 9:52         130093 bizno_filtered_result.tsv                                            
+-a----      2026-10-15   � 9:52         130977 bizno_filtered_result_nice.csv                                       
+-a----      2026-10-15   � 9:52         130093 bizno_filtered_result_nice.tsv                                       
+-a----      2026-10-15   � 9:52          24690 bizno_test.html                                                      
+-a----      2026-10-15   � 9:52         110584 current_pasted_batch.tsv                                             
+-a----      2026-10-15   � 9:52         138448 merged_500_perfect.tsv                                               
+-a----      2026-10-15   � 9:52          41125 package-lock.json                                                    
+-a----      2026-10-15   � 9:52             85 package.json                                                         
+-a----      2026-10-15   � 9:52          17011 query_test.html                                                      
+-a----      2026-10-15   � 9:52          36805 rows_11847_12000_16col.tsv                                           
+-a----      2026-10-15   � 9:52          37115 rows_11847_12000_17col.tsv                                           
+-a----      2026-10-15   � 9:52          38655 rows_11847_12000_verified.tsv                                        
+-a----      2026-10-15   � 9:52         192164 user_pasted_rows.tsv                                                 
+-a----      2026-10-15   � 9:52           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+-a----      2026-10-15   � 9:52         169882 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf                  
+
+
+

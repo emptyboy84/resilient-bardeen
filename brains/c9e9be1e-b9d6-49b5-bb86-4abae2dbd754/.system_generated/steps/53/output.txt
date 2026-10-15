@@ -1,0 +1,40 @@
+
+The command exited with code 0.
+Output:
+Total input lines: 200
+Unique biznos in input: 200
+Loading excel...
+Excel loaded. Rows: 1048576
+배현명 rows in Excel: count=1500, range=[702, 12346]
+Found in Excel: 200 / 200
+First 5 found: [
+  { rowNum: 19201, author: '', company: '한울기업', bizno: '7601400870' },
+  { rowNum: 19202, author: '', company: '디케이이', bizno: '7601501084' },
+  {
+    rowNum: 19203,
+    author: '',
+    company: '디에이치글로벌',
+    bizno: '7606400410'
+  },
+  {
+    rowNum: 19204,
+    author: '',
+    company: '㈜에이치티나노',
+    bizno: '7608700059'
+  },
+  { rowNum: 19205, author: '', company: '사브와비브르', bizno: '7610401908' }
+]
+Last 5 found: [
+  { rowNum: 19396, author: '', company: '이제이엔', bizno: '7808600298' },
+  {
+    rowNum: 19397,
+    author: '',
+    company: '아이씨티플러스',
+    bizno: '7808601337'
+  },
+  { rowNum: 19398, author: '', company: '폴리곤플러스', bizno: '7808602656' },
+  { rowNum: 19399, author: '', company: '태겸하이테크', bizno: '7808702444' },
+  { rowNum: 19400, author: '', company: '백광', bizno: '7811000976' }
+]
+Not found in Excel count: 0
+

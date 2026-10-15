@@ -1,0 +1,52 @@
+### Result
+{
+  "forms": [
+    {
+      "action": "https://book.mcst.go.kr/html/searchList.php",
+      "name": "frm",
+      "id": ""
+    }
+  ],
+  "inputs": [
+    {
+      "name": "search_area",
+      "id": "select",
+      "type": "select-one",
+      "value": ""
+    },
+    {
+      "name": "search_state",
+      "id": "search_state",
+      "type": "select-one",
+      "value": "13"
+    },
+    {
+      "name": "search_kind",
+      "id": "select1",
+      "type": "select-one",
+      "value": ""
+    },
+    {
+      "name": "search_type",
+      "id": "select2",
+      "type": "select-one",
+      "value": ""
+    },
+    {
+      "name": "search_word",
+      "id": "textfield",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "",
+      "id": "",
+      "type": "image",
+      "value": ""
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return {\n    forms: Array.from(document.querySelectorAll(\'form\')).map(f => ({ action: f.action, name: f.name, id: f.id })),\n    inputs: Array.from(document.querySelectorAll(\'input, select\')).map(i => ({ name: i.name, id: i.id, type: i.type, value: i.value }))\n  };\n}');
+```

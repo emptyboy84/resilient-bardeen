@@ -1,0 +1,12 @@
+The search for "site:bankdiary.co.kr OR ("뱅크다이어리" "051" OR "070" OR "02" OR "1" OR "TEL")" returned the following summary:
+**뱅크다이어리(Bank Diary)**는 보험 설계사 및 전문가용 보장분석 시스템[1]이자, 일반 사용자들이 스마트폰을 통해 자신의 보험 계약 조회, 보험금 청구, 의료비 및 건강검진 결과 등을 통합 관리할 수 있는 인슈어테크 앱 서비스입니다[2].
+
+* **웹사이트 / 공식 홈페이지:** [bankdiary.net](https://www.bankdiary.net)[2]
+* **고객센터 전화번호:** 1688-0724[1]
+* **운영 시간:** 평일 오전 9시 ~ 오후 6시 (점심시간 오후 12시 ~ 오후 1시)[1]
+* **회사 주소:** 부산광역시 해운대구 센텀중앙로 90, 401호 ((주)뱅크다이어리)[1]
+* **이메일 문의:** cs@bankdiary.net[1]
+
+Sources:
+[1] [bankdiary.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoPyZoOPDiZYU0vd2B5rfEWQ-STW0ZX9gsmp5CxNowzECJpV-TTUXUSHET30GqduFdeiaehmFx7leFwD7O_DtGukdSFgjxXffESn9xzl0=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhOvCxjCe7cwyJ6IWMP4kovf7usuq6CYvkNkMtC-2vnTaErFljGk6wQ3X8seALu2DZtX39vNjsrJG76fapGv1fzZvFOra1iveHWvUa41-RslAppG0fIXlKoIupaG294nYSfbBJHCSYfvIPuUgXqqpLKfQvxRquAW3NnalVVmxZjQ3pTw==)

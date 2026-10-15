@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5580301246');
+```
+### Page
+- Page URL: https://bizno.net/article/5580301246
+- Page Title: 리나게이브 컴퍼니(LINAGABE COMPANY)
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T01-16-09-899Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T01-16-03-914Z.log#L1-L65

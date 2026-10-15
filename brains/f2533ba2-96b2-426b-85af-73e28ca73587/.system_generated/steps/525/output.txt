@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/cm/CM0100M001GE.nice
+- Page Title: 기업정보 조회·신용분석보고서 - 나이스비즈인포 | NICE평가정보
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-49-10-609Z.yml)

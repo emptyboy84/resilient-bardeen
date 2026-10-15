@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+=== QA AUDIT: 77 TARGETS IN MASTER EXCEL ===
+Master Excel File: C:/Users/lg/Desktop/Today/크레탑_부산CT산업현황_261012_전략팀 전달/크레탑_부산CT산업현황_261012_전략팀 전달.xlsx
+Target Count: 77
+Auditing Sheet: [Sheet1], Total Rows in Sheet: 3979
+
+Matched Targets in Master Excel: 77 / 77
+
+--- KEY COMPANIES AUDIT ---
+[1] 연번 1274 (주)해운대스위트호텔:
+    Excel Row: 1275
+    사업자번호: ""
+    판정: ★ PASS (정상 공란/미등록 확인)
+
+[2] 연번 1482 (주)에스티에스:
+    Excel Row: 1483
+    사업자번호: "781-88-01386"
+    판정: ★ PASS (정식 법인사업자 781-88-01386 반영 완료)
+
+--- ALL 77 TARGETS CURRENT BIZ_NO IN MASTER EXCEL ---
+[4/77] Row 1255 | 연번 1254 | (주)더플로우 (김선민) -> 사업자번호: "899-37-01327"
+[12/77] Row 1289 | 연번 1288 | (주)빅토리아호텔 (신유진) -> 사업자번호: "364-10-02139"
+[14/77] Row 1347 | 연번 1346 | (주)브릿지빌더스 (김원기) -> 사업자번호: "243-13-01682"
+[22/77] Row 1466 | 연번 1465 | (주)더문컴퍼니 (강무빈) -> 사업자번호: "783-02-01243"
+[28/77] Row 1483 | 연번 1482 | (주)에스티에스 (허욱) -> 사업자번호: "781-88-01386"
+[33/77] Row 1698 | 연번 1697 | (주)왓컴퍼니 (박민우) -> 사업자번호: "173-46-00441"
+[34/77] Row 1853 | 연번 1852 | (주)코드스테이션 (김민수) -> 사업자번호: "760-20-01657"
+[45/77] Row 2321 | 연번 2320 | (주)퍼펙트사인 (최은경) -> 사업자번호: "224-22-55423"
+[72/77] Row 3505 | 연번 3504 | (주)리걸테크 (허수정) -> 사업자번호: "121-88-03957"
+
+Total Populated BizNo among 77 targets: 9
+Total Blank (Unregistered) among 77 targets: 68
+
+--- COLUMN ALIGNMENT AUDIT ---
+★ PASS: All 77 rows have valid corporate registration numbers (180111- / 180114- / 180115-) in Column G (7th col). No column shifts!
+

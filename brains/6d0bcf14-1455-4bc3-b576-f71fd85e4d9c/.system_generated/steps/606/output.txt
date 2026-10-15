@@ -1,0 +1,20 @@
+The search for ""weseb.com" "페타브루"" returned the following summary:
+검색 결과, **‘weseb.com(위세브)’**은 기업 정보, 공장 및 쇼핑몰/통신판매 데이터를 제공하는 플랫폼이며[1][2], 검색어에 함께 언급된 **‘페타브루(PETABREW)’**는 해당 플랫폼 등에 등록된 **레이더 및 지능형 센서 기술 전문 기업**입니다[1][3].
+
+### 페타브루(PETABREW) 회사 개요
+* **설립 연도:** 2021년[3]
+* **대표자:** 고범진, 곽호선[4]
+* **주요 사업 영역:** 
+  * 고주파 레이더(FMCW 레이더) 기반 비접촉 센서 신호처리 및 정밀 알고리즘 설계[5][3]
+  * 하드웨어, 펌웨어, 데이터 API, 웹·앱 모니터링을 아우르는 통합 레이더 센서 솔루션 제공[6]
+  * 친환경 에너지 및 저탄소 선박 등 관련 산업의 레벨 측정 시스템 및 저전력 센서 기술 개발[3][7]
+* **주요 성과:** 한양대학교 기술지주로부터 Seed 투자 유치 및 중소벤처기업부 TIPS(팁스) 프로그램 선정, 창업성장기술개발 과제 수행 등 기술력을 인정받고 있는 유망 스타트업입니다[5][7].
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ao68IE0M1AkPxGP2e0csvmRJtAlerlFVWVhcjAgFFktgTF_CDsPeg4HANHc2Ubvp2vY1KR53cUO6L0kgrpVlaOVDX6T-jkZ28T8SbJAtnx4vnHxCMxtQUC54pOgF_b7CvJ2zuHfRL-BNFDG9Tie1VwLH)
+[2] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5wtTXB6uHGk5gHcwBY46TQCXZgQn1LVda5OVdCTZcgYaFkLmRmUSXP1mpqil625RdSpBc_afO0MzaeTf7fEgKSc74oG71Bx6gORALYIo9AJXe0amAJl1cStoZsW6vln4w4vkUIWfa8T-BWXdJAlHvg4EnSAamgQ==)
+[3] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBOEsz4pZ9__MHJ-_9UACEC-cMWH9zW5_1B-xMNDAjt0ZczkJWPKSVjuvHzg6vvwP3zsBYp0yPP91yOBF6IpMScsuBFelM-UWaW3H78vWa1oMUSviCaI8WQppOO09xOM3oX_m4gZ9X4ItXMzosQnnHS1iHrqNcKvIezhstHLp0H65xB7U=)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRKKYKkAXKQa92R-DEy3XVHRpiFb8FSrJeaokn5X4TzL8IHQupHSG5eAR4hjwHL35sGbYKs68RkR5rz8mWS7mtY2tUYGrYv8x7X1GvaPNp)
+[5] [hellot.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3pFRtzrRQCJFlbujKpjCWSGjNcEpU7jKP9U5GX31grOJtu077fT6McQH7dgRvohiIICP6SM3gLFYqr7lV3Yce19JHKNl_GVl0Zlx-OOYC2dZnusAdBdeV1OGuuWsqb3c0cUjTtrEq)
+[6] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVm2g3m38Z7eeBwgj-fdXHRfAXE5KujWJ16ar2tahihht-GJhM8_xgoWJcNbEBuZOe_w2DbGBYgIahQHLAdowuW4qSMl60xIN3sg==)
+[7] [thecorepost.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu48g2vgoCl4em1rUQ00ZAoI5I0nTSteXulLd7JHehMWZf0mQuomIv2kGRqSluGdI-A_lrulZvgeYSwLkkUTW_cCVxPs9PzUIX_d9XnijY5WZaqPj5XnaVtLtVPZrCxbt1Q1OrMIE=)

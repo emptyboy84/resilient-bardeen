@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5600702488');
+```
+### Page
+- Page URL: https://bizno.net/article/5600702488
+- Page Title: 니쥬상회
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-08-24-061Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-08-17-040Z.log#L1-L6

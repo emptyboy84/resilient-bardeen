@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+=== Testing 114.co.kr ===
+114 status: 200 len: 46846
+
+=== Testing 114on.dir.co.kr ===
+114on err: fetch failed
+
+=== Testing Naver Search for place phone ===
+Naver Place phones: [ '051-782-7469' ]
+
+=== Testing Nice Marketbiz ===
+Nice Marketbiz status: 200
+

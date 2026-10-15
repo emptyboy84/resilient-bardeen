@@ -1,0 +1,150 @@
+### Page
+- Page URL: https://map.kakao.com/?q=010-8074-7622
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f375e1]:
+  - generic:
+    - link "본문 바로가기" [ref=f375e2] [cursor=pointer]:
+      - /url: "#localInfo"
+    - link "메뉴 바로가기" [ref=f375e3] [cursor=pointer]:
+      - /url: "#info"
+  - banner [ref=f375e5]:
+    - heading [level=1] [ref=f375e6]:
+      - link "kakaomap" [ref=f375e7] [cursor=pointer]:
+        - /url: "?nil_profile=title&nil_src=local"
+    - button "더보기 메뉴 열기" [ref=f375e8] [cursor=pointer]
+  - heading [level=2] [ref=f375e9]:
+    - link "로그인" [ref=f375e10] [cursor=pointer]:
+      - /url: "#"
+  - generic [ref=f375e11]:
+    - generic [ref=f375e12]:
+      - navigation [ref=f375e14]:
+        - heading "검색 메뉴" [level=2]
+        - list [ref=f375e15]:
+          - listitem [ref=f375e16]:
+            - link "검색" [ref=f375e17] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e18]:
+            - link "길찾기" [ref=f375e19] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e20]:
+            - link "버스" [ref=f375e21] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e22]:
+            - link "지하철" [ref=f375e23] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e24]:
+            - link "MY" [ref=f375e25] [cursor=pointer]:
+              - /url: "#"
+      - strong: 검색
+      - group "검색어 입력폼" [ref=f375e28]:
+        - heading "지도 검색" [level=2]
+        - generic [ref=f375e29]:
+          - textbox "지도 검색" [ref=f375e30]: 010-8074-7622
+          - button "검색" [ref=f375e31] [cursor=pointer]
+        - blockquote
+      - generic [ref=f375e156]:
+        - list [ref=f375e157]:
+          - listitem [ref=f375e158]:
+            - link "전체" [ref=f375e159] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e160]:
+            - link "장소" [ref=f375e161] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e162]:
+            - link "주소" [ref=f375e163] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e164]:
+            - link "버스" [ref=f375e165] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f375e166]:
+            - link "정류장" [ref=f375e167] [cursor=pointer]:
+              - /url: "#"
+        - link "모두 지우기" [ref=f375e168] [cursor=pointer]:
+          - /url: "#none"
+        - generic: 전체
+    - generic [ref=f375e33]:
+      - link "광고 나이키 광고입니다 나이키 AD 나이키 베스트셀러 컬렉션" [ref=f375e171] [cursor=pointer]:
+        - /url: https://tr.ds.kakao.com/clk?wa=ztLAb18k9684PnUxB0c12XvaOJpTB168U1L0N6rtIXI&enc=vhIN6sG6hWn4HQEmJ6sciuasGCHMlbm6jGnYwl06QWDqf7wz5N89Syb76LfvkSHGdw0UojVheJQBl-DOC7sSA_zYY7Hf-7jRnbXtJXnzFSIQSfCcQ-Ch3r6OcSxh_gh2rIJc_NtMkJ4sFqYelW7zmL2TWHy-22xntEcy4lW7VF9OfHi91mf_S358A_cpmTDRdJwft1ZQTMGN8lcvuSe70jb04S9caezUKOHGXX9Mb5vK8C613qoNZ7Ejk3KcZjLVIusQpFVcdwHBCqxfUjMXZNli7k6fp7aRTnwnUdHOe7kS5tJbu7HLDMz19T8QdHTyg1TOM7J7Y4lvLYagPel6jztsBB41ORgaHPkgMdMvnPIKHFgqWmWlwWTDnSgyKJ92pMbWK6-k5eJlgnM4KN2iDkfm4Kbugef3SmSOTNjJZhe6D6scHW_2sd4XcMM82hbx99-HhO50l0Z482ElTpWxgK_bzmZLAPX9KYrROGkSUMca231LdNKEH90EWQfA36lV86-toKaTol1TEeAiC_c8DlS_9bEkeGC2VhCUwhRoHTIfIz2tOTrCNCjOkQpY6VjuuuM-UUJzFvS4pmhDK6hdKGlcfUokELacgSvKcEostmQ1WUyidFf5sHPSImxfvDK7a5MZjiGtDvf7OlWG73FZ9zbAG2i4JTfbhXZHnz-6E2nr5kheb_c-4F8bljbmoj6HpeCgtU1Foqj_ux7RfShvqEiIu47ZtxJryAjwHvOkhgJR4aimqMm5IQxJ4dahnc97FFWv6iNbKoKIiEKI00zurQ&signature=02a6645680e2749a23b9dd8919fd4b8b&lc=1
+        - img "광고 나이키 광고입니다" [ref=f375e173]
+        - generic [ref=f375e175]:
+          - strong [ref=f375e176]:
+            - text: 나이키
+            - generic [ref=f375e177]: AD
+          - paragraph [ref=f375e178]: 나이키 베스트셀러 컬렉션
+      - generic [ref=f375e180]:
+        - heading [level=3] [ref=f375e181]:
+          - emphasis [ref=f375e182]: 010-8074-7622
+          - text: 검색 결과가 없어요.
+        - paragraph [ref=f375e183]: 검색어의 철자가 정확한지 다시 한번 확인해 주세요.장소를 찾을 때 전화번호, 주소도 활용해 보세요.
+        - link "Daum 검색 결과 보기" [ref=f375e184] [cursor=pointer]:
+          - /url: http://search.daum.net/search?w=tot&DA=54X&q=010-8074-7622
+        - generic [ref=f375e185]:
+          - text: 새로운 수정된 장소를 알고 계세요?장소 제안은 지도 품질 향상에 큰 도움이 됩니다.
+          - link "신규 장소 등록" [ref=f375e186] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=f375e108]:
+      - link "고객센터" [ref=f375e109] [cursor=pointer]:
+        - /url: https://cs.kakao.com/helps?locale=ko&service=101
+      - link "신규 장소 등록" [ref=f375e110] [cursor=pointer]:
+        - /url: "#none"
+      - link [ref=f375e111] [cursor=pointer]:
+        - /url: https://www.kakao.com/policy/privacy?type=p&lang=ko
+        - strong [ref=f375e112]: 개인정보처리방침
+  - generic [ref=f375e114] [cursor=pointer]
+  - generic [ref=f375e115]:
+    - heading "지도 영역" [level=2]
+    - link "이번 영역은 지도부분입니다. 스크린 리더 사용자분께서는 현재 링크를 눌러주시면 본문 영역으로 넘어가실 수 있습니다":
+      - /url: "#info.main"
+    - generic [ref=f375e116]:
+      - generic [ref=f375e118]:
+        - heading "지도타입" [level=3]
+        - link "지도" [ref=f375e119] [cursor=pointer]:
+          - /url: "#"
+        - link "스카이뷰" [ref=f375e120] [cursor=pointer]:
+          - /url: "#"
+      - generic:
+        - link [ref=f375e121] [cursor=pointer]:
+          - /url: "#"
+        - link [ref=f375e122] [cursor=pointer]:
+          - /url: "#"
+      - heading [level=3] [ref=f375e124]:
+        - link "내보내기" [ref=f375e125] [cursor=pointer]:
+          - /url: "#none"
+      - generic [ref=f375e130]:
+        - generic [ref=f375e131]: 50m
+        - link [ref=f375e135] [cursor=pointer]:
+          - /url: http://map.kakao.com/
+          - img "Kakao 맵으로 이동(새창열림)" [ref=f375e136]
+      - generic "드래그하여 지도에 놓으세요" [ref=f375e140] [cursor=pointer]
+      - generic [ref=f375e141]:
+        - heading [level=3] [ref=f375e142]:
+          - link "주변" [ref=f375e143] [cursor=pointer]:
+            - /url: "#none"
+        - strong: 주변탐색 목록
+      - generic [ref=f375e144]:
+        - link "현위치" [ref=f375e145] [cursor=pointer]:
+          - /url: "#none"
+        - generic [ref=f375e147]:
+          - button "확대" [ref=f375e148] [cursor=pointer]
+          - button "축소" [ref=f375e149] [cursor=pointer]
+        - generic [ref=f375e150]:
+          - heading "측정" [level=3]
+          - link [ref=f375e151] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=f375e152] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=f375e153] [cursor=pointer]:
+            - /url: "#"
+        - link [ref=f375e155] [cursor=pointer]:
+          - /url: "#"
+    - button "이 지역 재검색" [ref=f375e188] [cursor=pointer]
+    - generic:
+      - link "닫기":
+        - /url: "#"
+      - link "지도보기":
+        - /url: "#"
+  - list
+```

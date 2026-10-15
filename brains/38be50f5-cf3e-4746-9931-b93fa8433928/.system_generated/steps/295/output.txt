@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://moneypin.biz/bizno/detail/5394600637/');
+```
+### Page
+- Page URL: https://moneypin.biz/bizno/detail/5394600637/
+- Page Title: 온누리 - 사업자등록번호 조회 | 머니핀
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-22T02-29-51-081Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-22T02-29-45-085Z.log#L1-L4

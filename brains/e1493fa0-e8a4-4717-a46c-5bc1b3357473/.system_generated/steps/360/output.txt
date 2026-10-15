@@ -1,0 +1,30 @@
+### Result
+{
+  "state": [
+    "searchKeyword",
+    "searchResultList",
+    "pgeNo",
+    "prnCnt",
+    "totalCount",
+    "searchMode",
+    "normalParams",
+    "conditionParams",
+    "isFetched"
+  ],
+  "actions": [
+    "setSearchMode",
+    "setTotalCount",
+    "setKeyword",
+    "setResultList",
+    "setPageNo",
+    "setPrnCnt",
+    "resetStore",
+    "setNormalParams",
+    "setConditionParams",
+    "setFetched"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n  return {\n    state: Object.keys(store.$state || {}),\n    actions: Object.keys(store).filter(k => typeof store[k] === \'function\' && !k.startsWith(\'$\'))\n  };\n}');
+```

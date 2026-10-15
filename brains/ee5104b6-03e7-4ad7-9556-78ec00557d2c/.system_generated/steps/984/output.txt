@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Row 12217 before Col 10: null Col 11: mmhub@mmhub.kr
+Successfully updated Excel at: C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_최종본_수정완료.xlsx
+Synced to repo.
+

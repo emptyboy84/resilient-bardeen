@@ -1,0 +1,15 @@
+### Result
+[
+  {
+    "text": "ショップ情報",
+    "href": "https://www.qoo10.jp/shop-info/sweetieLael?global_yn=N"
+  },
+  {
+    "text": "会社概要",
+    "href": "https://www.qoo10.jp/gmkt.inc/Company/AboutCompany.aspx"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  const match = links.filter(a => a.innerText && (a.innerText.includes(\'特定商取引\') || a.innerText.includes(\'会社概要\') || a.innerText.includes(\'ショップ情報\')));\n  return match.map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```

@@ -1,0 +1,9 @@
+The search for ""051-750-7200" OR "051-620-9200"" returned the following summary:
+검색하신 전화번호 두 곳은 대한민국 부산 지역에 위치한 기관의 대표번호입니다:
+
+* **051-750-7200**: 부산지방국세청 대표전화 (부산광역시 연제구 연제로 12)[1]
+* **051-620-9200**: 부산지방국세청 또는 산하 기관 관련 대표전화 (부산광역시 수영구 남천동로19번길 28)[2]
+
+Sources:
+[1] [nts.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF9kY6ztk_9QMfpSXtvPdNqUM6vrDHNuQEkHJbHoleSoFbeqbVwpwhkQ4WyH4GwRc3JgSClcTnzDPCHWB4kQxEd_-IDlXdiFMdc3sFwPxCesygz6wPzh5I3WUsCNlnzjJVYLX3Ot0o5QhwtNoQgHOHBHonL5cttyPrIDEJIvxQ)
+[2] [nts.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2Gbj5C93ew_aSW5Jv90VjPTc9w7ULLWr4d7nG3JnCjD5PyLTlKrvl6xYdwPpw8TkDIaeaNVyXFwi5xXtJLc6mXDGWp_o96HrT-y1LT8MJ9aUae0N2OMEXjU6zjMQ84lQYDWBqJgaR4E9JSYOEeGVjvP_jTy3zsXeUV29Imk=)

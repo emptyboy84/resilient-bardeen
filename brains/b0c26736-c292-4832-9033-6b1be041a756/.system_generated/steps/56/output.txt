@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.cklbusan.com/WWW/boardview/54/29');
+```
+### Page
+- Page URL: https://www.google.com/
+- Page Title: Google
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-25-21-086Z.yml)

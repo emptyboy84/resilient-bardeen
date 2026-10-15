@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+& : The term 'C:\Users\lg\AppData\Local\Programs\Python\Python313\python.exe' is not recognized as the name of a cmdlet
+, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that th
+e path is correct and try again.
+At line:1 char:3
++ & "C:\Users\lg\AppData\Local\Programs\Python\Python313\python.exe" -c ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\lg\App...n313\python.exe:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

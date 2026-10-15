@@ -1,0 +1,12 @@
+The search for ""저스티스어드벤처" "10-20" OR "특허" OR "1020"" returned the following summary:
+주식회사 **저스티스어드벤처**(응용 소프트웨어 개발 및 공급업체)[1]와 관련된 특허 정보 중 검색하신 조건(`10-20` 또는 `1020`)에 부합하는 대표적인 등록특허는 다음과 같습니다.
+
+* **등록특허: 10-2080908**[2]
+  * **발명자:** 이찬호[3]
+  * **관련 내용:** 선박이 운항하는 하천, 수로 및 운하 등에 설치되는 시설 관련 기술로, 갑문(10), 갑실(20), 무게추(30) 등을 포함하는 구조물 관련 특허입니다[2][4].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOS1kxUyXSU_ELWyCU8RSkTKZxFXxG2KJWxRKHnuwyAEMuDwPw1M9HO3ejVgggOdp20vgOz5PYDkoYBzkNcm57JxZ4YJ-LmT91-nndZK6KY81qiJQLx4dQKz9v_cmDtPAcF7UhmHUTPq4ZeXTPjd1oUS6zMYy6TWoR4iWB2JZkIbJZdZBjMLZtiFv8k3xbhbb8UQ7mUDSy3OqeJkBodgy4oZZWSUfKsvl3kq2qG0hJsYKxck4YUwxixrBrV0xWyybEzKzmjT5NVCpmaKLxEEVSCOnhgbd2T1oppc0JzIv-p3s832_OUh3ndbbmCoxK)
+[2] [googleapis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5eDi_O9OfRQ3JCbm17JcR3fugU-bBEVtWqhSZduqJBhsynug1SO_Yj7MraoIkAojaiBeTqqK7j9ilROwXmdpc6CAxoy_tv47K0BBrBrOnA7Kj-0vIicRJ15VsQ1PLXl-NvwfevHxy6FImF6oVELBpA-sSlQHQMKVXZVBXXAOH17gmdZ3yeVrgl3cr)
+[3] [googleapis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5eDi_O9OfRQ3JCbm17JcR3fugU-bBEVtWqhSZduqJBhsynug1SO_Yj7MraoIkAojaiBeTqqK7j9ilROwXmdpc6CAxoy_tv47K0BBrBrOnA7Kj-0vIicRJ15VsQ1PLXl-NvwfevHxy6FImF6oVELBpA-sSlQHQMKVXZVBXXAOH17gmdZ3yeVrgl3cr)
+[4] [googleapis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgv_OMlO2FBgYEBQXtiWiLcKGOrpyLFtOZo3K_ZG5DDeCW7dilwtCkyD3TtYcLTY6S-v3q-Mj_6oJSG87UKI0YFPFQNHa5S5s9tZweQzyB0HkTV9Q7Cm8omFIPsuAntY4RqUZ-qWAULVdksRwl8fTdQFoNRyj8PtpO9IE2syXrtfytt4NvYIQSlyYG)

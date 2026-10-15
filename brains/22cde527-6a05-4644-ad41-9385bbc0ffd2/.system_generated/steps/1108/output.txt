@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+Loading Excel file...
+C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\write_final_master_192.js:29
+  const headerRow = ws.getRow(1);
+                       ^
+
+TypeError: Cannot read properties of undefined (reading 'getRow')
+    at updateFiles (C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\write_final_master_192.js:29:24)
+
+Node.js v24.11.1
+

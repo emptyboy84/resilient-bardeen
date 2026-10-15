@@ -1,0 +1,19 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-143
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-143.log
+Log output:
+<truncated 7 lines>
+ SUCCESS: 743-04-00686 () [부산광역시 사상구 가야대로 ******** **층 *****] [상태: 폐업자]
+[4/421] Row 536 | "김정보" | 대표: "" | 구: "남구"
+  => UNVERIFIED / NOT FOUND
+[5/421] Row 537 | "꿈해몽" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / NOT FOUND
+[6/421] Row 539 | "나래바람" | 대표: "" | 구: "남구"
+  => SUCCESS: 404-90-70015 () [전남광주통합특별시 남구 서문대로 704, 1층(진월동, 아이타워) 704, Seomun-daero, Nam-gu, Gwangju, Republic of Korea 종업원수 : 2명] [상태: 계속사업자]
+[7/421] Row 547 | "냉이영화" | 대표: "" | 구: ""
+  => SUCCESS: 886-05-00812 () [부산광역시 남구 수영로 135， 120동 1401호 (대연동， 대연롯데캐슬레전드) 135, Suyeong-ro, Nam-gu, Busan, Republic of Korea] [상태: 계속사업자]
+[8/421] Row 552 | "녹생광고연합그린하우징" | 대표: "박명섭" | 구: ""
+  => UNVERIFIED / NOT FOUND
+[9/421] Row 568 | "단디콤" | 대표: "" | 구: "동래구"
+
+Last progress: 0s ago

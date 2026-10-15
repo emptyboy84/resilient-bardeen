@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+Page: /전화번호조회/ (Status: 200)
+<form class="serach-form-area" onsubmit="return goSearch()">
+								<div class="row justify-content-center form-wrap">
+							       <div class="col-lg-2 form-cols">                            
+                                    <select id="area" name="area" class="form-control" data-live-search="true" data-live-search-style="begins" title="Select your city">
+										<option value=""  selected>지역전체</option>
+                                        <option value="서울" >서울</option>
+                                        <option value="경기" >경기</option>
+                                        <
+Page: /대표자조회/ (Status: 200)
+<form class="serach-form-area" onsubmit="return goSearch()">
+								<div class="row justify-content-center form-wrap">
+							       <div class="col-lg-2 form-cols">                            
+                                    <select id="area" name="area" class="form-control" data-live-search="true" data-live-search-style="begins" title="Select your city">
+										<option value=""  selected>지역전체</option>
+                                        <option value="서울" >서울</option>
+                                        <option value="경기" >경기</option>
+                                        <
+Page: /상호명으로사업자등록번호조회/ (Status: 200)
+<form class="serach-form-area" onsubmit="return goSearch()">
+								<div class="row justify-content-center form-wrap">
+							       <div class="col-lg-2 form-cols">                            
+                                    <select id="area" name="area" class="form-control" data-live-search="true" data-live-search-style="begins" title="Select your city">
+										<option value=""  selected>지역전체</option>
+                                        <option value="서울" >서울</option>
+                                        <option value="경기" >경기</option>
+                                        <
+

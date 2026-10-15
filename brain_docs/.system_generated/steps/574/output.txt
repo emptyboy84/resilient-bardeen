@@ -1,0 +1,14 @@
+The search for "site:vgtech.co.kr OR ("브이지테크" "051" OR "070" OR "02" OR "TEL")" returned the following summary:
+검색하신 **주식회사 브이지테크(VGTECH)**는 선박 사이버보안 솔루션(BlueShield) 및 IACS UR E26/E27 대응 컨설팅 등을 제공하는 기업입니다[1][2]. 
+
+공식 웹사이트 및 기업 정보를 통해 확인된 연락처 및 정보는 다음과 같습니다.
+
+* **공식 웹사이트:** [vgtech.co.kr](https://www.vgtech.co.kr)[1]
+* **대표 이메일:** scan@vgtech.co.kr[1]
+* **소재지:** 부산광역시 동구 충장대로 314[1]
+
+*(참고: 검색어에 포함된 '02', '051', '070' 등의 유선전화 번호는 웹사이트 상의 공개된 연락처 항목에 별도로 기재되어 있지 않으며, 주로 이메일(scan@vgtech.co.kr)을 통한 문의 창구를 운영하고 있습니다[1].)*
+
+Sources:
+[1] [vgtech.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8aRhnmL-kXsmTFzlOnJ8VPBmNbNh5zCgmZDJDYNNzZQS6KRaEZ0z-ii9ue0asCYXQz1ZIDkvR5nnm0S0aJu1_WT8S5sy2rCSOoUk5vCma)
+[2] [vgtech.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8aRhnmL-kXsmTFzlOnJ8VPBmNbNh5zCgmZDJDYNNzZQS6KRaEZ0z-ii9ue0asCYXQz1ZIDkvR5nnm0S0aJu1_WT8S5sy2rCSOoUk5vCma)

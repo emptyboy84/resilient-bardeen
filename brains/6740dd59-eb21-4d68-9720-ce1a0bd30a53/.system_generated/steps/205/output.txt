@@ -1,0 +1,31 @@
+The search for "site:bizno.net "롯데쇼핑(주)"" returned the following summary:
+비즈노(Bizno) 사이트에서 검색된 '롯데쇼핑(주)' 관련 정보는 다음과 같습니다. 롯데쇼핑은 본사 외에도 다양한 사업본부와 지점들이 별도의 사업자 정보를 가지고 등록되어 있습니다.
+
+### 주요 정보 요약 (본사 기준)
+*   **회사명:** 롯데쇼핑(주) (LOTTE SHOPPING CO., LTD.)[1]
+*   **대표자:** 신동빈, 김사무엘상현, 정준호, 강성현[1]
+*   **사업자등록번호:** 104-81-26067[1]
+*   **법인등록번호:** 110111-0000086[1]
+*   **주소:** 서울특별시 중구 남대문로 81 (소공동)[1]
+*   **업종:** 백화점 (종합 소매업)[1]
+*   **상태:** 계속사업자[1]
+
+### 기타 사업본부 및 지점 정보
+비즈노에는 본사 외에도 여러 사업 부문이 개별 사업자로 등록되어 있습니다. 각 부문별로 대표자명이나 사업자번호가 다를 수 있으니 참고하시기 바랍니다.
+
+*   **롯데쇼핑(주) e커머스사업본부:** 서울 송파구 롯데월드타워[2]
+*   **롯데쇼핑(주) 롯데마트사업본부:** 서울 송파구 롯데캐슬플라자[3]
+*   **롯데쇼핑(주) 롯데슈퍼사업본부:** 서울 송파구 롯데캐슬골드[4]
+*   **기타 지점:** 잠실점, 청량리점, 롯데슈퍼 지점 등 다수[5][6][7][8]
+
+더 자세한 내용은 비즈노 웹사이트에서 직접 확인하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Ug_JRKxH47VvlvRLsDqRRdHJ4gbfvaNzPqhe0numW5MSu-Xq3_ciDAJaafetUT9XjRDY1MhucCx1Sma-PnyPVLRn1xk73Zj9RwSNyY25b_4-QqqgcGAuURw=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfM5ufLbmoaMeGtMtN6ybsBw0v_lWpNJsXcdAXagZufcqRuludxBElMoqjcTxwCXaKmqZ9Z6JpV_NS3iuBAT0XDSQ--0Potco0-wilPK8VLWGwNGkxVIq3NcY=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYHoKOrP1hToPS0Y11QTnQ4StSFDecfZlkXyOX4yauLqc1Ti8d_sTLLKHy8pUJaTB3ffBD6TJRvIbgPDi3g99sTLDe3T4m3b1YlpuybGmdBRkNhBmpfm7Xmvs=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2wWfMS86o2NGKi2DZtxSs0s54SicrD35Cso5Li9rwrQRhyT-tybY-VK464Tj9v-RUyDNCJGcY9Scnk_jaxMS1sFIhUn8sbJHbRRlRBFz3n_ER3vMJsXHpue4=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpKPLhFmicVf1Fb7syEC82livTbvO0Cgqsrgg7gVRLzTcdTuRxWb25KrF9DPPZhUFgFF2wDRJnLHoef2LVJKkfrecM9a8bMR4amHW84a-ApAaX_uUtf248k5g=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5fnsUR4GNNrSdo7S_drQ65mG2SicZIysST7w2ZtG-80cTqJMcYCXoHNytRrVsLKJAmxEEdJOsgdM5TelUID4mbV1Va_I-J7Q3nY7ZLStg6gj6dZ_pzyGWMts=)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNjYKu98Hp51-gorkAI3Zq0lDmHgXiwIWeDfrpJARG1klCTmE5MGMvmu1nJhboDjyoEEaJz_5zB4FcPt3RmZabYUH6H9Ioo4CpWEMUSjD-e1xtF5J5ONEIthc=)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRvLMatSThAtfiMPy7KhaQZKkrPFO1_12Gx343BiE8zbAH58RY9t5Jl8zm_3uTz3ehKA888fqhZ6w2sqF_TB9Lx22HgU-D8Rs_CWs6uuCKHlTKJsOZk60WagM=)

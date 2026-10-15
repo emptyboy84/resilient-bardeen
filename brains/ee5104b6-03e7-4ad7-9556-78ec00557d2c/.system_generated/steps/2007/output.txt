@@ -1,0 +1,12 @@
+The search for ""창원시 의창구 차룡로" 우편번호 51399" returned the following summary:
+창원시 의창구 차룡로의 우편번호는 건물마다 다릅니다. 따라서 정확한 우편번호를 확인하려면 **'차룡로' 뒤에 상세 건물번호나 건물명**을 함께 검색해야 합니다.
+
+참고로, 창원시 의창구 차룡로에 위치한 특정 건물들의 우편번호 예시는 다음과 같습니다.
+*   **창원스마트업타워 (차룡로 48번길 44):** 51391[1]
+
+본인이 찾으시는 정확한 건물의 우편번호는 **[도로명주소 안내시스템](https://www.juso.go.kr)**에서 도로명과 건물번호를 입력하여 조회하시면 정확한 확인이 가능합니다[2][3].
+
+Sources:
+[1] [kotsa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdSZppHz-RF3yuoWnUO8xQtyiOB-20VJdvzTP-9O66yUoCsL9cMDfizUvQtT5Zw7xdKNzk3ldo1t80Idh9V2QAGXouecSoVWFFZ-MLU3YCScq6uue88SUTk2i586ZYrRSN9-qLCfrqlf49MWifsTntpc4=)
+[2] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlLZTht-r_S2NOcAZYmTqhpdj3eRO0hjWeZSewfbFKrcZVyzMVAC7DWf9Mfuph2yI4nqXI0j0a4l--BWYLEgCJhPS2QD9j7EnbFQOB6g6I8P1miE1_K1l2JDYpuKPF)
+[3] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzEof7S2SoZwhZ4ugSZuYxRpAcx6ybmaIYvzFcxT8MULt_HJ9FOsn8AaLb5QGFcO8Z4ofFYJz9yfQ86yK6CpJQH_l96hZ3-ODqobYRCLpThr4eMmZGD2WMTV60Aw8deyG0PGevlB0VFVlupfKi8HUmZt8ty0uDl4TSNQ==)

@@ -1,0 +1,29 @@
+### Result
+{
+  "action": "https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/",
+  "method": "get",
+  "inputs": [
+    {
+      "name": "area",
+      "id": "area",
+      "type": "select-one",
+      "value": ""
+    },
+    {
+      "name": "query",
+      "id": "query",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "q",
+      "id": "q",
+      "type": "text",
+      "value": ""
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const form = document.querySelector(\'form\');\n    return {\n        action: form ? form.action : null,\n        method: form ? form.method : null,\n        inputs: Array.from(document.querySelectorAll(\'input, select\')).map(el => ({name: el.name, id: el.id, type: el.type, value: el.value}))\n    };\n}');
+```

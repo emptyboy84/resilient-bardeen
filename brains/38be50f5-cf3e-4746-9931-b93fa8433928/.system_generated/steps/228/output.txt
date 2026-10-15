@@ -1,0 +1,1 @@
+Encountered error in step execution: Post "https://daily-cloudcode-pa.googleapis.com/v1internal:generateContent": read tcp 172.30.1.26:61170->172.217.113.4:443: wsarecv: An established connection was aborted by the software in your host machine.

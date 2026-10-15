@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+<script src="/kobis/web/comm/commjs/html5shiv.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery-1.12.4.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery.dotdotdot.min.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery.bxslider.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/comm_script.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery-ui-1.13.2.min.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery.ui.datepicker-ko.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/kobis.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jcarousellite_1.0.1.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/IGuide.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/jquery.cookie.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/dialogStyle.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/layerpopup.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/innershiv.js"
+<script type="text/javascript" src="/kobis/web/comm/commjs/detailLayer.js"
+<script type="text/javascript" src="/kobis/web/comm/online/js/chart.min.js"
+<script type="text/javascript" src="/kobis/web/comm/online/js/jquery.peity.js"
+<script type="text/javascript" src="/kobis/web/comm/online/js/xlsx.full.min.js"
+<script async src="/kobis/web/comm/commjs/gtag.js?id=UA-127072686-1"
+

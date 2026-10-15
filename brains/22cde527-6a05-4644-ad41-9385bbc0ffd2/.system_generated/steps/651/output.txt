@@ -1,0 +1,40 @@
+
+The command exited with code 0.
+Output:
+XLSX Exists: true Size: 308811
+CSV Exists: true Size: 433038
+Worksheet name: 2026_부산_CT산업_실태조사
+Total rows: 2314
+Header columns (19): [
+  '구분',            '순번',
+  '사업체명',        '사업자번호',
+  '설립연도(연도)',  '설립연도(월)',
+  '대표자 성함',     '연락처',
+  '팩스번호',        '시군구',
+  '주소',            '업종분류',
+  '컨택결과',        '폐업 날짜',
+  '비고',            '종사자수(명) 25년 기준',
+  '24년 매출액(원)', '25년 매출액(원)',
+  '데이터 출처'
+]
+AutoFilter: A1:S1
+Views: [
+  {
+    workbookViewId: 0,
+    rightToLeft: false,
+    state: 'frozen',
+    xSplit: 0,
+    ySplit: 1,
+    topLeftCell: 'A2',
+    showRuler: true,
+    showRowColHeaders: true,
+    showGridLines: true,
+    zoomScale: 100,
+    zoomScaleNormal: 100
+  }
+]
+Red Biz Count (col 4): 150
+Total Red Cells in sheet: 2180
+Row 639 cell 4 (디자인에코 biz): 603-10-85753 font color: FFFF0000 bold: true
+Row 2260 cell 4 (모두싸인 biz): 356-87-00243 font color: FFFF0000 bold: true
+

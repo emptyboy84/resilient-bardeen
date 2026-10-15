@@ -1,0 +1,17 @@
+The search for ""태복산로27번길 32" 우편번호 OR "산단4로 63" 우편번호 OR "야리3길 22" 우편번호 OR "센텀북대로 60" 우편번호" returned the following summary:
+문의하신 각 주소의 우편번호는 다음과 같습니다.
+
+*   **태복산로27번길 32**: 해당 주소는 경상남도 창원시 의창구(도계동) 일대이나, 정확한 건물번호 확인을 위해 도로명주소 누리집(juso.go.kr)에서 상세 검색을 권장합니다. (참고: 창원시 의창구 도계동 지역 우편번호는 주로 51160~51170번대입니다.)
+*   **산단4로 63**: 경기도 남양주시 별내동(별내 신일유토빌)에 위치하며, 우편번호는 **12108**입니다[1][2][3].
+*   **야리3길 22**: 도로명주소 검색 결과, 전국적으로 해당 도로명은 확인되지 않거나 검색되지 않습니다. 주소를 다시 한번 확인해 주시기 바랍니다.
+*   **센텀북대로 60**: 부산광역시 해운대구 재송동(센텀아이에스타워)에 위치하며, 우편번호는 **48059**입니다[4][5][6].
+
+정확한 우편번호 확인 및 영문 주소 변환이 필요하시면 [도로명주소 안내시스템](https://www.juso.go.kr)을 이용하시면 더욱 정확한 정보를 얻으실 수 있습니다.
+
+Sources:
+[1] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFopn-YpwBRW3ASkiXIRxm510dOR9nzMdaXyRItAnVuG1J6Q2JoMa-acxh6pJ938pr1OFzOyA3Bhm-rmE8hP7ygoGvZLXw8U52ROsvjqgNKI2muJUAK4dUL3PngftxveYiDYplPhNHfETDoJou_JE7p2hIyMkAgYniE52CooRPGlK1wu6-5H7d-irhKfqcVJTSL8BnkmRN8Y13gM2htfWRJKtJBYbYjkvZ9xA2COnCuV3wSSrZtqqe5L4ofciMMSDIiFjC2WmGt8XgBU_ShrNhKcdDdSOpENC8iij7dtfS6583bw6imEDkSVfw_nW6uCFgch6scDM-MNZT8Z17J9WOqiYMq7vK5pqtOJ0pw-2JBwdmXQF_s7chqy2jpT2yNHIAmQ==)
+[2] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF44wIe8vNpKKyiMQVR3aG-c5OaNEFpVMPFje5oc8BPCn005HYdpXd5l1ZFiU3YSCth35NYQ2lq0VqW4VWTuKVIvXV2lcf7Hsg9wTo-tMB9i8HZTWwWc_Chh1O1S1rxQ1_USSpbhrP9V4bnIddJtcv7DvRKJcb0mzzbVI3mFA==)
+[3] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmeY2s1x1Lj1KQbOleM6YS8OerE799US0JhZnzjtvIv566Q7DbI99hudlP1KXx6nWM-oNYy00HgWdpHNxfNhpsD79Jw8ne6tG_09E-2b90O7VwMxlzi_s0ASmQC8QSWi_HvXg7GinV3oiwpvVHk1f400orVyP2nAYhEkkWSBbOaD8IfRjxcqq5zVvSsVXroXSqR2YWXcZ_Y56d41KNjuSIWc2Sdz2vFqiGFzjv-XZogshw3creS_y6cz_HT1QLjC0Nwd0Ymmc_qP_P-D6vZOUccE2CKiOUucdIebPPxyS9gqsQEjAZ6xSyYRG_6K7zik1IIpKqQ3XCdMyrWEpPouL8lw==)
+[4] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs-mayUI4WwCPxX8aNJpMJ6xChGi6CDUTNHtURcMfU3HEQybJAi80Dh-MXgz5_4qPBqu4jgT5c111k3bauqSSmuLAfkppb4-bGO-7UBwY2X4ylsWzq1ExnFmkI_LMjTnUKoIYB8M-dNIxWhVG-UK_MgI-cHqsyQvD2OtDOXX8elDhGyrhxYw02iyhI_pAdDHDvaOUOoa7FhLXweIyy5zeUuKoUbDJS94VBS-NMrbNDDIAAaFRofaVQwREU1vzCHFol3hT6PMj3FUz9EeyW8HxeSW4FtZpUqoquHwOYQnpcRtEVMMr81rYemh0j4fea7yBIqoeHzY3OU19gEAj-bmIFolfcGg==)
+[5] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHedAg4yxmWnc8-lqcmKN1UNYKi4ZP1tYRBylhvJvxTbnrHgfMpdmiSmIy8W1TEltGXjtEh-U3f7MTVxDQgLszULPEdebJr5lAMnD0b0Db5syNnBMBFT2D_Qcp4_4BAKk77COs8JoR5vy_01Qr1-2ER5RQjVeYy9--bpyJfkUNt0W4uG53YI3jXAaR)
+[6] [cashbee.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqXCYP5bTd_-l25_ddBme1J7h5cFYtREH_Dux0xZPQG3FGNfdf2MhBdRDdFDOutWCVeo5fiUtlL_QPeuYlI-kDhXAP1raIz_jvMp5N3kPMJEw8t-5xWCLRRwBEqhjRWAJDkHeJ)

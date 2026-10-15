@@ -1,0 +1,26 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-404
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-404.log
+Log output:
+<truncated 49 lines>
+한)브랜딩 (이준혁)
+[NOT FOUND 2986] (주)엘이디메인터넌스워크플로우 (바우처코넬샘)
+[NOT FOUND 2997] (주)데빌스 (변성환)
+[NOT FOUND 3021] (주)포인베스트 (김외식)
+[NOT FOUND 3027] (주)태원엠에스 (홍태원)
+[NOT FOUND 3062] (주)부산교통솔루션 (김승훈)
+[NOT FOUND 3219] (유한)브랜딩 (이준혁)
+[NOT FOUND 3238] (주)데빌스 (변성환)
+[NOT FOUND 3261] (주)엘이디메인터넌스워크플로우 (바우처코넬샘)
+[NOT FOUND 3281] (주)오마르에이지아이 (김미라)
+[NOT FOUND 3308] (주)더타이탄 (서동협)
+[NOT FOUND 3315] (주)트윈랩 (기영주)
+[NOT FOUND 3368] (유한)그린리소스베이스 (김형남)
+[NOT FOUND 3392] (주)비지파트너스 (이태원)
+[NOT FOUND 3395] (주)의형제 (임대현)
+[NOT FOUND 3399] (주)직장선배 (임형준)
+[NOT FOUND 3406] (주)그로핀파트너스 (윤승열)
+[NOT FOUND 3412] (주)디엘솔루션 (이일해)
+[NOT FOUND 3444] (주)로이텍소프트 (손상욱)
+
+Last progress: 0s ago

@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\resilient-bardeen
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        2026-08-31  오전 10:17         128152 bizno_filtered_result.csv                                            
+-a----        2026-08-31  오전 10:43         129594 bizno_filtered_result.tsv                                            
+-a----        2026-08-31  오전 10:43         130977 bizno_filtered_result_nice.csv                                       
+-a----        2026-08-31  오전 10:43         129594 bizno_filtered_result_nice.tsv                                       
+-a----        2026-08-31  오전 10:05          24211 bizno_test.html                                                      
+
+
+

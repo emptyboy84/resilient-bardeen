@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\.gemini\antigravity\brain\ec7d0adb-5aec-4ff6-91f2-6520c4febe84
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026-09-10  오전 11:38                .system_generated                                                    
+d-----        2026-09-10  오전 11:35                .user_uploaded                                                       
+d-----        2026-09-10  오전 11:38                scratch                                                              
+
+
+

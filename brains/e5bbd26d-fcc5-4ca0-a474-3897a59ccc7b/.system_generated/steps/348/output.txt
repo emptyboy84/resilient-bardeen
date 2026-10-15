@@ -1,0 +1,8 @@
+The search for "site:store114.net "대박만화" OR ("과정로 43" "대박만화")" returned the following summary:
+대박만화
+주소: 부산광역시 수영구 과정로 43 (망미동 431-9)[1][2]
+분류: 가정,생활 > 여가시설 > 만화방[1][2]
+
+Sources:
+[1] [store114.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5VYgsDUcIBhVl7eG32IqhFCQWhVH42pCqUYzLqPMOFGuT9j2SDGxH1WfVRYA8mxPuY6sNXlALlFJnvr1s-_HMRRlUgtqnC_Xzwunb3AjcQrUtAuc5UzQGTZsxWjhNUYYsrR2ScSw6Zkzm9Jg7IUyA)
+[2] [store114.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5VYgsDUcIBhVl7eG32IqhFCQWhVH42pCqUYzLqPMOFGuT9j2SDGxH1WfVRYA8mxPuY6sNXlALlFJnvr1s-_HMRRlUgtqnC_Xzwunb3AjcQrUtAuc5UzQGTZsxWjhNUYYsrR2ScSw6Zkzm9Jg7IUyA)

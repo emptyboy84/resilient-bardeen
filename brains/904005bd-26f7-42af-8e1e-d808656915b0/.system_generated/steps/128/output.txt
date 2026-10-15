@@ -1,0 +1,33 @@
+The search for ""부성은" "180111" OR "184" OR "법인"" returned the following summary:
+검색하신 "부성은"과 관련하여, **법인** 형태의 여러 기업체 및 사회복지 기부 사례가 확인됩니다. 요청하신 "180111" 또는 "184"와 관련된 정보는 일부 맥락에서 발견되었습니다.
+
+### 주요 관련 정보
+*   **법인체:**
+    *   **농업회사법인(주)부성:** 경북 영주 소재 기업으로 건강기능식품(홍삼 등) 및 식품을 제조합니다[1][2][3]. 충북 보은군에도 대추 가공품을 생산하는 동일 명칭의 농업회사법인이 확인됩니다[4].
+    *   **영농조합법인부성:** 전북 익산 소재 기업으로 유기질 비료 제조 및 자원 순환형 농업을 운영하며, 지역 내 꾸준한 기부 활동으로 알려져 있습니다[5][6].
+    *   **(주)부성 (과거):** 항공기 부품 및 치공구 사업을 영위하던 기업으로, 2024년 합병을 통해 현재는 '주식회사 하나에어로다이내믹스'로 운영되고 있습니다[7].
+
+*   **숫자 "184" 관련 맥락:**
+    *   인천 지역의 '희망2025나눔캠페인' 관련 보도에서 고액 기부자 모임인 '아너 소사이어티'에 **184번째**로 가입한 인물(김진구 성강종합건설 대표)에 대한 언급이 있습니다[8][9][10].
+    *   그 외 경제 및 정책 관련 문서 등에서 데이터나 페이지 번호(184)로 언급되는 경우가 있으나, "부성은"이라는 특정 기업명과 직접적으로 연관된 고유 번호로는 확인되지 않습니다[11][12][13][14].
+
+*   **숫자 "180111" 관련:**
+    *   해당 숫자는 검색 결과에서 특정 기업이나 법인과 연결되는 유의미한 정보로 나타나지 않았습니다. 혹시 기업의 사업자등록번호, 문서 번호 등 특정 코드라면 다시 확인해 보시기 바랍니다.
+
+더 구체적인 정보(예: 특정 지역, 사업 내용 등)를 알려주시면 정확한 확인을 도와드리겠습니다.
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGneXos7TLg3bmSYfSz3Naz7ctFYN9SQ3Or9VPiQWIMe-K9mTxCUGYToQICW2fNSPgdB7KVg3LMPc5lQdGVyJ69yg6MgORAV2q05CShBv9MjMeH6gLYxW9Vz6dbxZZ_psTsQGoJnigvIKMUaqCpPNaXdfy2PkdjsUX-UaI=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZw7pSnRDKjdPJZbDgMM3Ca_owys9QEYwWF1cT-Szk7wDbyjR_CCYxs1En0TLRbG0LrelGmbo07AMZh0rDFzAYON9bbHYiZyy_P6UaAr9OWM_Cx3i8Xv9IHN_tzHn1KwcmirCLTu7l1eUJq81ISWxk-U0M5omixNTkBnH1TK0JQkmtZ-do_CuqOu1GwAd5Bn5HOhbfCBjvhHOLON6fwaHrMo22IdCU31vqgeDP85AYgtXe0DEl1jDjTxfeTqGPam7ks2UxQLPtY2MGM3asU7jNxwhW6Im_pNN5aHTaRULTXO5-dC0j1NhXT-CsWqREV6KVKg==)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXe14WX0t1NXjQdlJS4LJuaAiS6C_-kVCPOw0fZ3OZiZjTudXAEOGjZUVAlxN-AltPQXsdmHbS-pr8cSBh9bffi1EGESpt_RkhkUzXiap05AKlAQ7-hMYQmi6X_uJ3NXmr5iebc6Pc-Zksx9s1tw==)
+[4] [poolix.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWLLutTu01Xvdz6Xi5AXfcc3xZeqVKuWGG1KGBJHfN3MlMf7hNMInjdhTCS8O-l2f-DvTcQRmj7VPQcGbmfe8Y5nUhaAMB74C7dH30uBWV2hqFagMYySAmII=)
+[5] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZB0T7lk85J95eEYZ8PVHZDGfqbo4y8CBHv3abQMnDSmwQvvpaCz3rh0DRBl40HJZt8sx5EgyGWLtLWYaXAIL6j0KmsE5Ik9-dlyXVLw_oHJLQdjhDQAm_ryd3jvQFsCPmo9W3C-ZQq0KVJkEYiCZjH-vdD6hKN2gJRqQ=)
+[6] [thekorea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5sIXM7HbmzVgT3aMyk4d01Yg_qj_PaKo0TzqlPG97rhmQ9dTCZUYbPsSLNM_KRBwNCQGIegWN9SoyvJFvgeQDAb-LnIybxBNvNNGctEZy-Mr-F3GtlkV951voBno6rPnUFFwf7OoJxRVfV5ZQUHkQoCtaA==)
+[7] [ktfc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIXyAMBmDzc4mknr9-_zXeq88Ud6YqpCLnZDUc6dijNjpKnTp8ykN64biyLNvI6ThAtCS_QsL_8CBpu56mQTXwTxuUnLDyRKZOG2kFzLbd5ZdoXn3-MFImUo2Jhoh6LCh9)
+[8] [kyeongin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOuJyL_iaEYvcJwi59AOJXMTcJPpD0SR4ghPDLV2pBldMGosQ9OG6kITUOZjXrAdfbt2x7Tj721dTkl38nOYrGK-YJ8g9uaIZ-uNyCauxlHFpRDbzr4LQh9g_ty_9u)
+[9] [lghellovision.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESG0tWRmgcw0bHz5rIomaKDTc1LyfwG8LLDeFkzkX26MYSKvnhUbFKjx2KTyH3jSjf47hIa6HV6HssUA-wTN8YjQ2xT2vSgUXUiNrFpd4F9SDmoztkxnGUsoZG4RWWHrnyyE5dEGRw0jbOP3sZnqwBvRSE34mP)
+[10] [bokjinews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEdp8s70Z7Qxtsdpjyhfm-LZe5C7tS9HZSFoI-IM2n_mCCStOjVP0t3f7OVqU1pF-0bv-eL6PcZ5uZPOEkt67dq1waHoNw2I6Q59Iga4mlIVlzDvZe0ByW-vikNYz95_tVQ8aIYNUeVLQ8sudnTD6ew==)
+[11] [catholic.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtZ9BkO-tbWlMPp4gJFRKzP-SZALiZ-A4rFfofcFJJmrChvpACYH7JWpVohDgdIWuk77hzueb08YkOV4DfSnssbYrWxOib-kVXjLmyR2JdrrtI-P8QkrjAsIat8hz3gpVAafnqn3EuiEcT7ZfH2WapbS2CrbuCtQB7rQG3TRLX)
+[12] [krivet.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtr0PaXKZKlScShJD4IQ86Rtb3m7RhTmwoDYnJ-obpFGE92fheeAY5Ynb4IJS93l8yAVpEQDdFeq9yfjgMhp6IawK7VBcUc0VgS9swIkGElzukCvlKou4msm9hUQAihvrAaLPdWu-Ns5x5dQ7_GsEY0fhMDKz4sEQHdS9AwVDLGkE=)
+[13] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhbxJgHCEVSKQO-ae-t88zfTp61EsYbsw_Y8gelyd4NdXy_m4Mj1hLQVQb-qVmnUJ5YP2sw0Kg0gaSQIWunP3DdeMY5T9TPUSXRGb0V2UkQrPLji5XAi1ndyPoGlQiyF1RfXlQYHoKd3vUHAPjweTJzxxqfO0H1lH5Yava3g==)
+[14] [nabo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI-Avq99TmN-2hEAwj6VhqDTalfszl-kpcNp4MnjwQ8xkO1t2L8tUyCpQ-XrMyAGjRHn4KdMnlQP4liUI4mRb1MBmXFKarV-otAstBoL9lKEK-TXhGiJGBkSpmaRbyX2LOuSToR49gIBmAgOD7_XA=)

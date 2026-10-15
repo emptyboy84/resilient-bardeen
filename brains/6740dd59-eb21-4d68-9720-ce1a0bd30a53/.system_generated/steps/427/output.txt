@@ -1,0 +1,49 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\brain\6740dd59-eb21-4d68-9720-ce1a0bd30a53\scratch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-09-18  � 10:28           2079 analyze_blue.js                                                      
+-a----      2026-09-18  � 10:28            118 analyze_blue.js.metadata.json                                        
+-a----      2026-09-18  � 10:28           2375 breakdown_blue.js                                                    
+-a----      2026-09-18  � 10:28            117 breakdown_blue.js.metadata.json                                      
+-a----      2026-09-18  � 10:27           1220 check_colors.js                                                      
+-a----      2026-09-18  � 10:27            114 check_colors.js.metadata.json                                        
+-a----      2026-09-18  � 10:28           1739 check_rev_blue.js                                                    
+-a----      2026-09-18  � 10:28            115 check_rev_blue.js.metadata.json                                      
+-a----      2026-09-18   � 9:17            643 fetch_bizno.js                                                       
+-a----      2026-09-18   � 9:17            113 fetch_bizno.js.metadata.json                                         
+-a----      2026-09-18  � 10:28           2601 find_blue_rows.js                                                    
+-a----      2026-09-18  � 10:28            125 find_blue_rows.js.metadata.json                                      
+-a----      2026-09-18  � 10:20            435 get_redirect.js                                                      
+-a----      2026-09-18  � 10:20            105 get_redirect.js.metadata.json                                        
+-a----      2026-09-18  � 10:27            899 get_theme.js                                                         
+-a----      2026-09-18  � 10:27            121 get_theme.js.metadata.json                                           
+-a----      2026-09-18  � 10:28           2357 group_blue.js                                                        
+-a----      2026-09-18  � 10:28            103 group_blue.js.metadata.json                                          
+-a----      2026-09-18  � 10:27           2049 inspect_blue.js                                                      
+-a----      2026-09-18  � 10:27            110 inspect_blue.js.metadata.json                                        
+-a----      2026-09-18   � 9:15            607 inspect_headers.js                                                   
+-a----      2026-09-18   � 9:15            115 inspect_headers.js.metadata.json                                     
+-a----      2026-09-18   � 9:15            830 inspect_range.js                                                     
+-a----      2026-09-18   � 9:15             95 inspect_range.js.metadata.json                                       
+-a----      2026-09-18  � 10:03            572 parse_755.js                                                         
+-a----      2026-09-18  � 10:03             92 parse_755.js.metadata.json                                           
+-a----      2026-09-18   � 9:17            634 parse_bizno_detail.js                                                
+-a----      2026-09-18   � 9:17            102 parse_bizno_detail.js.metadata.json                                  
+-a----      2026-09-18  � 10:08            499 parse_bizno_file.js                                                  
+-a----      2026-09-18  � 10:08             97 parse_bizno_file.js.metadata.json                                    
+-a----      2026-09-18  � 10:22            470 parse_jk.js                                                          
+-a----      2026-09-18  � 10:22             91 parse_jk.js.metadata.json                                            
+-a----      2026-09-18   � 9:14           1053 search_excel.js                                                      
+-a----      2026-09-18   � 9:14            119 search_excel.js.metadata.json                                        
+-a----      2026-09-18   � 9:30            610 search_gijang.js                                                     
+-a----      2026-09-18   � 9:30            106 search_gijang.js.metadata.json                                       
+
+
+

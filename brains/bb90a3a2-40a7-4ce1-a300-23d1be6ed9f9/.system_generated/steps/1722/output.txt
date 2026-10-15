@@ -1,0 +1,15 @@
+The search for ""케이제이채움" "010" OR "051" OR "070" OR "이메일" OR "대표"" returned the following summary:
+주식회사 **케이제이채움**에 대한 기업 정보는 다음과 같습니다.
+
+* **대표자:** 김규형[1]
+* **설립일:** 2019년 3월 19일[1]
+* **주요 사업:** 온·오프 결합형 부동산 프랜차이즈업, 데이터베이스업 및 온라인 정보 제공업[1][2]
+* **소재지:** 부산광역시 강서구 명지국제6로 238, 5층 (이전 주소: 부산광역시 강서구 명지국제8로10번길 51, 101호)[3][2]
+* **사업자등록번호:** 685-87-01233[3]
+
+*(※ 공개된 기업 등기 및 공공 데이터베이스 기준으로 대표자 성함은 **김규형**이며[1], 공개된 공식 연락처[010, 051, 070 등]나 이메일 세부 내역은 인터넷 상에 상세히 오픈되어 있지 않습니다.)*
+
+Sources:
+[1] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqI96nlIixsMOCmIEVnysRkykpqntTgZoEfGyNfoKPqNeO_bZVnm_Ne-zwrJT2dD3CqZtoXFk6HFJ8zSlZFMvMXdEujcSEhTxoDsJhpHpyO8nIgfra3A--jAA7PJcKOso6e5fDJtd3PMAYaoJrVNNtTc7LuoyLDJnVrGw90zprvBmVksL99Ov_LjInzedBajLVZ6baRw6p7Gl0rJOlm8=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL0EFGoBeRXXOmB4hpGA31p7WU1WV6dfuEX7Yx5RW4xDxe-CiIPAfj19J2PC2TvqqJaO1Nb6ddv7ixJrUxVwaXKwDq7LUp-lvZ1okiGPnz_CGdTN71zslbfyZ-mLiHcHPZNr8=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElZI_NlSxbINZfCyeOTrfMAUgjj8-uPwM8XpkysGwn_JKN8bL0zvFoIpRjEMJssAcz_d4W7XIp_SIu3RnG1C0yHOr0KWQ9UXeUwYGqh1nAeSnSMfBUxQJa3g==)

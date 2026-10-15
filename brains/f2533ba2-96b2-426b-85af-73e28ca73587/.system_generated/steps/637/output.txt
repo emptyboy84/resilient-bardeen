@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/goto?url=CAESdQHrOzAVn66BqHtJVlkwkAnz9g1dbqPfruvKwwuI7raOTZUASjgQQ9MoGO2qK-qqqTumYiBhM-k66JtV9xBSWiYOvSOwLGjWPBtKbNpuxevrCuAEbP7ZLj2CuwC0GL0bai1KYhJPQ050WrcudI4STLpCT2X2Pg');
+```
+### Page
+- Page URL: https://www.sankun.com/company-info/Ww-UAFR5fONkCp3-l07Niw
+- Page Title: (주)바른중량 기업 정보 2026 | 건설DB 산군
+- Console: 8 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-56-08-095Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-56-03-862Z.log#L1-L712

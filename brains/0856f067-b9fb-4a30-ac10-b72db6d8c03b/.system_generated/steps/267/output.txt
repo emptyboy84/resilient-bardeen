@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.saramin.co.kr/zf_user/company-info/view?csn=VmdUdVkvYkZrc1Z4ZGlhZzU3b29RUT09');
+```
+### Page
+- Page URL: https://www.saramin.co.kr/zf_user/company-info/view?csn=VmdUdVkvYkZrc1Z4ZGlhZzU3b29RUT09
+- Page Title: 기업정보 없음 페이지 - 사람인
+- HTTP status: 404 Not Found
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-36-32-165Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-36-27-683Z.log#L1-L2

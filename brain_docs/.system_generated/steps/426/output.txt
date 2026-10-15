@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+=== MATCH FOR 조용일 ===
+>
+														<div class="custom-text-info _text_editor fr-view">
+								<p>회사명 : (주)톡플<br>대표자 : 조용일<br>사업자등록번호 : 706-88-03476<br style="box-sizing: border-box; --tw-border-spacing-x: 0; --tw-borde
+=== MATCH FOR 조용일 ===
+pan class="footer-company-info__item">상호명: (주)톡플</span><span class="footer-company-info__item">대표자: 조용일</span><span class="footer-company-info__item">사업장주소: 서울 종로구 율곡로 272 (종로6가) 1층 106-1호</span><span
+=== MATCH FOR 070 ===
+"CB-4300":true,"FS-3463":false,"IMTURBO-BO-PROMO-NUDGE":true,"DEMO-1482":true,"ANA-512":false,"CRM-2070":false,"FS-3353":false,"CB-4227":true,"ANA-421":false,"DDOS-DTC-V2-OBS":false,"CB-4226":true,"FS
+=== MATCH FOR 010 ===
+='/js/header_center_colgroup.js?1637043387'></script>
+<script  src='/js/mobile_carousel_menu.js?1695010435'></script>
+<script  src='/js/header_mega_dropdown.js?1783056169'></script>
+<script  src='/js/
+

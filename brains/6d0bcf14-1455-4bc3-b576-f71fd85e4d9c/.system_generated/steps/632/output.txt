@@ -1,0 +1,18 @@
+The search for "site:thevc.kr "페타브루"" returned the following summary:
+국내 스타트업 및 투자 Database인 **더브이씨(THE VC)**에 등록된 **페타브루(PETABREW)** 기업 정보 요약은 다음과 같습니다[1]:
+
+* **기업 개요**: 레이더 센서 신호처리 소프트웨어 및 지능형 센서·알고리즘 개발 전문 기업 (대표: 고범진)[1][2][3]
+* **주요 사업 영역**: 
+  * 조선·해운업계를 주요 고객으로 하는 친환경 분야 정밀 측정 및 비접촉 센서 솔루션 제공[4][2]
+  * 고주파 레이더 기반 신호처리 소프트웨어 및 인공지능 시뮬레이션 시스템 개발[5][4]
+* **투자 유치 현황**: 
+  * 시드(Seed) 투자 유치 및 중소벤처기업부 팁스(TIPS) 프로그램 선정 (주요 투자사: 한양대학교 기술지주회사 등)[4][3]
+
+상세한 재무 정보, 투자사 목록, 고용 추이 및 관련 뉴스 등은 [더브이씨 페타브루 페이지](https://thevc.kr)에서 직접 확인하실 수 있습니다[1][4].
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9nAqHQTon-7-oDDr7DOfthUM1VET8C-RjDSE0Qp8O7Qnx_KnVg-iPl60qncXYZWHSh2eqb3EihORyinxnDMvjGgcTJDe1VzrN2o4NMccp)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZVj9mahYeJQvzBytOGT2EgqQhwPt1XyZ_gltFR_nFMgy_SckRk4gqk15WB1s9nILHn2prrS8iF_VeviFfJTt-rFp-ZMoVliX2riI8NVNvIz2QQDbo3vnKjDbOLiHmBQxekd42WwAevFtGrY0tUl5fVE19_1HYbWgDFWY=)
+[3] [hellot.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuP08Sw7Y0348hO_pPX_BZVwSM-caOspWN-HqUtiKinAhb61MQLJE2E03W0dadS_4LQ8eLBjIRre3zc_uaq5lZ4NHXvwYTs5VRG0C4tTYOEciEIQywYEUFQNLzdhSkNm3R-O2CrOct)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9nAqHQTon-7-oDDr7DOfthUM1VET8C-RjDSE0Qp8O7Qnx_KnVg-iPl60qncXYZWHSh2eqb3EihORyinxnDMvjGgcTJDe1VzrN2o4NMccp)
+[5] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3zEwv9My3EnQ7gMAnd-bn8WNVROthPyJTPahW9TUkvZx9ftY__ehW3LympMcK_Wc_OHdPz6iiSvwUGy0E9FafvflZxi81htNBD2gUxurF_HOee2t0JoBapFOn9_c-W6Uods=)

@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Row 12217 in Excel:
+Col 1: 배현명 Fill: FFFFA500
+Col 3: 엠엠허브 Fill: FFFFA500
+Col 4: {
+  text: '5482901313',
+  hyperlink: 'https://bizno.net/article/5482901313'
+} Fill: FFFFA500
+Col 5: 김의엽 Fill: FFFFA500
+Col 6: 61475 Fill: FFFFA500
+Col 7: 광주광역시 동구 금남로 245, 5층 (전일빌딩 1인창조센터) Fill: FFFFA500
+Col 8: 010-6333-0089 Fill: FFFFA500
+Col 11: mmhub@mmhub.kr Fill: FFFFA500
+Col 13: 2022.6.30 Fill: FFFFA500
+Col 15: 1 Fill: FFFFA500
+Col 18: 애니메이션 영화 및 비디오물 제작업 Fill: FFFFA500
+Col 24: 5482901313 Fill: FFFFA500
+Col 33: 200 Fill: FFFFA500
+Col 48: 정보통신업 Fill: FFFFA500
+Col 49: 영상ㆍ오디오 기록물 제작 및 배급업 Fill: FFFFA500
+Col 50: 영화, 비디오물, 방송 프로그램 제작 및 배급업 Fill: FFFFA500
+

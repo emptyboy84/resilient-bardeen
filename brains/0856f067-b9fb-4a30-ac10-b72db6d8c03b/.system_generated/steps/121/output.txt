@@ -1,0 +1,20 @@
+The search for ""부산" "사하구" "낙동대로" "성현빌딩"" returned the following summary:
+검색하신 '부산 사하구 낙동대로'에 위치한 '성현빌딩'에 대해 확인한 결과, **부산 사하구 낙동대로 상에는 해당 명칭(성현빌딩)으로 등록된 주요 시설이나 건물 정보가 검색되지 않습니다**[1][2][3][4][5][6][7].
+
+검색 결과에서 나타난 유사 정보는 다음과 같습니다:
+
+*   **낙동대로 관련:** 부산 사하구 낙동대로 상에는 한국빌딩[2], 기타 개인 사업체 및 병원 등이 위치해 있으나 '성현빌딩'이라는 명칭의 건물은 확인되지 않습니다[1][5][6][7].
+*   **성현빌딩 위치:** 검색 결과에서 '성현빌딩'은 서울특별시 서초구[4], 경기도 광주시[8][9], 부산광역시 금정구(중앙대로)[5] 등 타 지역에 주로 위치하고 있습니다.
+
+혹시 번지수를 포함한 정확한 주소를 알고 계시거나, 찾으시는 특정 업체명이 있다면 다시 질문해 주시기 바랍니다.
+
+Sources:
+[1] [moggumung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo5pRrmtWdf4W2SP_heWVx_rI08j5Nml2DDly_RD3YdbMJydB-_J0ZtdR6FuZh_FK8a69aEOvVftY-VpNv0ThwfH7TZn9aOscJYweKcjJ4NLGU_aiS)
+[2] [somai.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FRiECh-gw6ZOj9eFNJaNkn6iv4SUsceQg884mOpO7hjJgtQVN2bwWQYWLZVLVYT6ht7oxDeU9hZ-h4KpsaKngq8QIV4of-bpqU6JfmFVFljQE7LC4TP2YzppO35lblmyMzhW_TqA8Dg=)
+[3] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpi2NUFAV-4qMhCBisduMxYThtEB0OuFni_1o4M-VrOAYF3t3-MrXMHxe-BVqxczUPHJNRQgdlAEoqCgjHclOOjNKAN4rGXeLBxfQ8MUvmQz44ePB7I-M5plyBtNyD2zA1wkxFCkBZyZN5CAKQoUkkLod7D9SKxZfx6hg4wM4lJ2WDa5KYC1MBeacUlkIcZuObbRlV_IF4YWAQuCOZRXTPMsdgXWxmNVhx5xk516pZnK9WVV-xDRyGqi-aMai_1nhtchmtx85382vNY5WGZEFHKuGGLlcHRYOmmClAgmEWbkg1UYy5MJ-HxhBuQY0usH8=)
+[4] [rndjm.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDfnzFxg-0XPGYUQMKbF8-BkEA8cXN5r6LtQgqbXn424yTTfGPlJKUQmzsi-fm1KZ25SNVKTEsgLxh44EK6VxQAWRl9bsbZvvx-MvesMZbvytrnsmidjWfk4iOfFgR0WgClTx_MPtxdhpOfpLZ5m61uitiujVMXFfYh0UppdXFCYAqdyUXvKUwiCSlWUBOCmy3OwviCzVOswXsU9swavMH0ci6m_NMBtBUCQokKN7S7LIxV8o_v8xsXhE0s5MJ2Pue2x_ppXcjykDPkoZQcyWskHTW7ZrrMXWrK-8px4UANAh5KJn_cdHlUW0zeph1z6wd7-P-PBp3h6CrTDzl)
+[5] [zero-eyes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVp8TxUH180BSv3lGu5CEXo8eIrqmLg4jej7QM_hDosdfJ_hKLaAKvO2SWT4IXKKyLwJLVub7t0KeIKpnzHE4_KjBuP_bBBo6qg4-YKlRTFXbKJ7Gc)
+[6] [sleepq.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeHf1WVh4iMfYACKa5EALuTuGt9BRiICjy07AGu6TELP0nHf4R0YICjmFjaoa2e7xlmd3wGAWkDz_dBkTxfv0SMdVHPjEaxwEyP7U=)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6gfuCkMeeWLPRbb6ZKJVhirQW3DCupx8izzjaFhBHVA0Mof4sB0Sho48E_TNBjao-LxI7cPDlBpUCBcPnoPXVCVbhUpUB8-UNXOaYtsnxQCcVA6OktHQiEf8u0tjluueTLQLA)
+[8] [mohw.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQB9fCgXgaltpjViOWe2PHXl50p4DR4Oi7evTYsSxTHTtRwulgvAmUA1t8nY1j_22LLZj2CXmoiQZjT1Z2ANDURH8o1ayQpl0GWDM8CvhXcHMLLqvoKdiaxy_RtQSwWi-kjHc9hEkDiFX-PvjVY0yyqyj9GcDqBLeueY_x)
+[9] [1661-2129.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCVwyAUU74Qam1p0HSaLY0YrA_7hipG61BKu6VUrEOKILY77-ZixaH5dFSnlVRkWPm9WnCrU7AaaEQHPAv3gdiHEOSON_kQWpZY2xWFuuWUslQejz6OT29TtnT8O5qCjFtu2xRJOcRRdSAhaHDVIFFOuTJ7b8oFrSm7EuVUGrRvQ81AQ==)

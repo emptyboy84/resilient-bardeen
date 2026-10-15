@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Total 39 companies details:
+estDate count: 19
+tel count: 13
+fax count: 5
+emp count: 26
+closeDate count: 0
+

@@ -1,0 +1,13 @@
+The search for ""블루레코딩" OR ("블루 레코딩" "부산") OR ("블루레코딩" "음악")" returned the following summary:
+검색하신 '블루레코딩'과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **블루레코딩 스튜디오:** 공간 디자인 및 스튜디오 설계 이력 등을 소개하는 포트폴리오(space aura)에서 국내 여러 엔터테인먼트 및 레코딩 스튜디오 시공 사례 중 하나로 '블루레코딩 스튜디오'가 언급된 바 있습니다[1][2].
+*   **카페 블루 레코딩스:** 해외 음악 관련 정보에서 애틀랜타 레코드의 자회사인 '카페 블루 레코딩스(Café Bleu Recordings)'라는 명칭이 등장합니다[3].
+*   **부산 지역 관련:** '블루 레코딩'과 '부산'을 조합하여 검색하였으나, 해당 지역에서 특정된 업체나 활동에 대한 직접적인 검색 결과는 확인되지 않았습니다.
+
+혹시 찾으시는 곳이 특정 지역(부산 등)에 위치한 곳이라면, 상호명이 정확한지 혹은 다른 명칭과 혼용되고 있는지 확인해 보시면 좋을 것 같습니다.
+
+Sources:
+[1] [spaceaura.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDgnR12lWZZXtgcs-TM1jOyqUWIAjwqsgfYYO3vGaQEppwZtbsoBWlSfdQo8Cx_4IN6hjLN95l8Gawd4tXVM5rbECdpZJ7z_jdlXIv)
+[2] [spaceaura.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDgnR12lWZZXtgcs-TM1jOyqUWIAjwqsgfYYO3vGaQEppwZtbsoBWlSfdQo8Cx_4IN6hjLN95l8Gawd4tXVM5rbECdpZJ7z_jdlXIv)
+[3] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC9n4LaApyhWA28QMBlT346t-7wBCGm9yuDA6tSyQip8QgqhnjMH03eD4sbqwgVDDHPd6PDRGtvaVKmdDKxoF9J8k5RNCw0ynZGvtMueh3AfHKwwnc3qK6VesXPk2KJMku7N__)

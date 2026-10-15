@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+ws.rowCount: 2469
+Row 2305: 게임사업단 리스트 | 2305 | 토파즈게임즈 | 5508601963
+Row 2306: 게임사업단 리스트 | 2306 | 투엘 | 140-32-00726
+Row 2307: 게임사업단 리스트 | 2307 | 피커스튜디오 | 606-16-43962
+Row 2308: 게임사업단 리스트 | 2308 | 피티오크리에이티브 | 5108600398
+Row 2309: 게임사업단 리스트 | 2309 | 주식회사 루미게임즈 | 1088703049
+Row 2310: 게임사업단 리스트 | 2310 | 수플랩스㈜ | 7108703032
+Row 2311: 게임사업단 리스트 | 2311 | 원스튜디오 | 5663901417
+Row 2312: 게임사업단 리스트 | 2312 | 레드피넛봄버 | 8595200721
+Row 2313: 게임사업단 리스트 | 2313 | 테듀교육진흥원 주식회사 | 3108603290
+Row 2314: 게임사업단 리스트 | 2314 | 주식회사 이데아디엑스 | 4708703279
+Row 2315: null | 2315 | null | null
+Row 2316: null | 2316 | null | null
+Row 2317: null | 2317 | null | null
+Row 2318: null | 2318 | null | null
+Row 2319: null | 2319 | null | null
+Row 2320: null | 2320 | null | null
+--- Last rows ---
+Row 2460: null | 2460 | null | null
+Row 2461: null | 2461 | null | null
+Row 2462: null | 2462 | null | null
+Row 2463: null | 2463 | null | null
+Row 2464: null | 2464 | null | null
+Row 2465: null | 2465 | null | null
+Row 2466: null | 2466 | null | null
+Row 2467: null | 2467 | null | null
+Row 2468: null | 2468 | null | null
+Row 2469: null | 2469 | null | null
+

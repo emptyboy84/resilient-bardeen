@@ -1,0 +1,1165 @@
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 희웹툰 : 네이버 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f355e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f355e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f355e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f355e6]:
+    - generic [ref=f355e8]:
+      - generic [ref=f355e9]:
+        - generic [ref=f355e11]:
+          - heading [level=1] [ref=f355e12]:
+            - link "NAVER" [ref=f355e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=f355e15]:
+            - group "검색" [ref=f355e16]:
+              - combobox "검색어를 입력해 주세요." [ref=f355e18]:
+                - text: 희웹툰
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=f355e20] [cursor=pointer]
+              - button "검색" [ref=f355e22] [cursor=pointer]
+        - generic [ref=f355e24]:
+          - strong [ref=f355e25]: 사용자 링크
+          - list [ref=f355e26]:
+            - listitem [ref=f355e27]:
+              - link "로그인" [ref=f355e28] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25ED%259D%25AC%25EC%259B%25B9%25ED%2588%25B0
+            - listitem [ref=f355e32]:
+              - link "서비스 더보기" [ref=f355e33] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=f355e36]:
+        - generic [ref=f355e38]:
+          - generic [ref=f355e39]:
+            - tab "AI new" [ref=f355e41] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f355e42]: new
+            - tab "블로그" [ref=f355e45] [cursor=pointer]
+            - tab "카페" [ref=f355e47] [cursor=pointer]
+            - tab "클립" [ref=f355e49] [cursor=pointer]
+            - tab "이미지" [ref=f355e51] [cursor=pointer]
+            - tab "지식iN" [ref=f355e53] [cursor=pointer]
+            - tab "동영상" [ref=f355e55] [cursor=pointer]
+            - tab "쇼핑 새 창 열림" [ref=f355e57] [cursor=pointer]:
+              - text: 쇼핑
+              - generic [ref=f355e58]: 새 창 열림
+            - tab "뉴스" [ref=f355e60] [cursor=pointer]
+            - tab "어학사전 새 창 열림" [ref=f355e62] [cursor=pointer]:
+              - text: 어학사전
+              - generic [ref=f355e63]: 새 창 열림
+          - button "더보기" [ref=f355e65] [cursor=pointer]
+        - list [ref=f355e68]:
+          - listitem [ref=f355e69]:
+            - button "공유" [ref=f355e70] [cursor=pointer]
+    - main [ref=f355e71]:
+      - generic [ref=f355e72]:
+        - heading "희웹툰 검색 결과" [level=1] [ref=f355e73]
+        - generic [ref=f355e74]:
+          - generic [ref=f355e78]:
+            - generic [ref=f355e79]:
+              - generic [ref=f355e80]:
+                - heading "희웹툰 관련 광고" [level=2] [ref=f355e81]:
+                  - generic [ref=f355e82]: 희웹툰
+                  - generic [ref=f355e83]: 관련 광고
+                - button "이 광고가 표시된 이유" [ref=f355e84] [cursor=pointer]
+              - link "등록 안내" [ref=f355e87] [cursor=pointer]:
+                - /url: //saedu.naver.com/adbiz/searchad/clickChoice.naver
+            - generic [ref=f355e88]:
+              - list [ref=f355e89]:
+                - listitem [ref=f355e90]:
+                  - generic [ref=f355e91]:
+                    - generic [ref=f355e92]:
+                      - generic [ref=f355e93]:
+                        - link [ref=f355e94] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/lA63rtbMUNeWiooXs0jgB6rSNQR2iVE-kez5yUKFGCid4L7pXMegCQ3S2udtjorRd-FzulVOVf26mEL0NScGQnmhni_W83N5nd74nPWRblGH6HLbyC6Xzox2oPpjcM42zCi_CnqTa5hk_cJOpblHvi7tcT7EwHXSPWgHWgFF1UcbP379AN7uuO5xVi1CKMJwj21lhL9r0E_ErUdzbJnMkrq1jUcXsOhape14pJ72t88Q6iqLVg_nkL8yGuUvW24sjwifVK6eMSzniQcJRPBize1TsLno__lHcTlsB1Y2Q4ZZFwCV6BVPMEZN2dCbRQwtRiwP2oDjiIxvjV4Y_k1s3OBD77f1jCsjorDt2nKExSdTA_68kP2JZuCy1esAHi9TonAzZpLwKbk15xhfWtQ5Ygt2Wybm-fWwsOqGgnzrFVe8Kk7khjW9s04AWooNrg3O13SJ3vGx1gS4A-jhSeSc8MqFn0WZfupgIt95cHC6-WkTaFw1VCjv1hn0j9dvvcqIlSI9FIoLS6e74HtO3h8R_g==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=f355e95]
+                        - img "광고" [ref=f355e96]
+                        - link "SBS게임아카데미" [ref=f355e100] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/lA63rtbMUNeWiooXs0jgB6rSNQR2iVE-kez5yUKFGCid4L7pXMegCQ3S2udtjorRd-FzulVOVf26mEL0NScGQnmhni_W83N5nd74nPWRblGH6HLbyC6Xzox2oPpjcM42zCi_CnqTa5hk_cJOpblHvi7tcT7EwHXSPWgHWgFF1UcbP379AN7uuO5xVi1CKMJwj21lhL9r0E_ErUdzbJnMkrq1jUcXsOhape14pJ72t88Q6iqLVg_nkL8yGuUvW24sjwifVK6eMSzniQcJRPBize1TsLno__lHcTlsB1Y2Q4ZZFwCV6BVPMEZN2dCbRQwtRiwP2oDjiIxvjV4Y_k1s3OBD77f1jCsjorDt2nKExSdTA_68kP2JZuCy1esAHi9TonAzZpLwKbk15xhfWtQ5Ygt2Wybm-fWwsOqGgnzrFVe8Kk7khjW9s04AWooNrg3O13SJ3vGx1gS4A-jhSeSc8MqFn0WZfupgIt95cHC6-WkTaFw1VCjv1hn0j9dvvcqIlSI9FIoLS6e74HtO3h8R_g==?c=naver.search.pc.plsearch&t=0
+                        - link "cheongju.sbsgameacademy.com" [ref=f355e102] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/lA63rtbMUNeWiooXs0jgB6rSNQR2iVE-kez5yUKFGCid4L7pXMegCQ3S2udtjorRd-FzulVOVf26mEL0NScGQnmhni_W83N5nd74nPWRblGH6HLbyC6Xzox2oPpjcM42zCi_CnqTa5hk_cJOpblHvi7tcT7EwHXSPWgHWgFF1UcbP379AN7uuO5xVi1CKMJwj21lhL9r0E_ErUdzbJnMkrq1jUcXsOhape14pJ72t88Q6iqLVg_nkL8yGuUvW24sjwifVK6eMSzniQcJRPBize1TsLno__lHcTlsB1Y2Q4ZZFwCV6BVPMEZN2dCbRQwtRiwP2oDjiIxvjV4Y_k1s3OBD77f1jCsjorDt2nKExSdTA_68kP2JZuCy1esAHi9TonAzZpLwKbk15xhfWtQ5Ygt2Wybm-fWwsOqGgnzrFVe8Kk7khjW9s04AWooNrg3O13SJ3vGx1gS4A-jhSeSc8MqFn0WZfupgIt95cHC6-WkTaFw1VCjv1hn0j9dvvcqIlSI9FIoLS6e74HtO3h8R_g==?c=naver.search.pc.plsearch&t=0
+                      - link [ref=f355e103] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/lA63rtbMUNeWiooXs0jgB6rSNQR2iVE-kez5yUKFGCid4L7pXMegCQ3S2udtjorRd-FzulVOVf26mEL0NScGQnmhni_W83N5nd74nPWRblGH6HLbyC6Xzox2oPpjcM42zCi_CnqTa5hk_cJOpblHvi7tcT7EwHXSPWgHWgFF1UcbP379AN7uuO5xVi1CKMJwj21lhL9r0E_ErUdzbJnMkrq1jUcXsOhape14pJ72t88Q6iqLVg_nkL8yGuUvW24sjwifVK6eMSzniQcJRPBize1TsLno__lHcTlsB1Y2Q4ZZFwCV6BVPMEZN2dCbRQwtRiwP2oDjiIxvjV4Y_k1s3OBD77f1jCsjorDt2nKExSdTA_68kP2JZuCy1esAHi9TonAzZpLwKbk15xhfWtQ5Ygt2Wybm-fWwsOqGgnzrFVe8Kk7khjW9s04AWooNrg3O13SJ3vGx1gS4A-jhSeSc8MqFn0WZfupgIt95cHC6-WkTaFw1VCjv1hn0j9dvvcqIlSI9FIoLS6e74HtO3h8R_g==?c=naver.search.pc.plsearch&t=0
+                        - text: SBS아카데미게임학원 청주점
+                        - generic [ref=f355e104]:
+                          - text: 게임,
+                          - strong [ref=f355e105]: 웹툰
+                          - text: ",그래픽 전문학원!"
+                        - text: 수강료 최대40% 지원이벤트
+                    - link [ref=f355e108] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/lA63rtbMUNeWiooXs0jgB6rSNQR2iVE-kez5yUKFGCid4L7pXMegCQ3S2udtjorRd-FzulVOVf26mEL0NScGQnmhni_W83N5nd74nPWRblGH6HLbyC6Xzox2oPpjcM42zCi_CnqTa5hk_cJOpblHvi7tcT7EwHXSPWgHWgFF1UcbP379AN7uuO5xVi1CKMJwj21lhL9r0E_ErUdzbJnMkrq1jUcXsOhape14pJ72t88Q6iqLVg_nkL8yGuUvW24sjwifVK6eMSzniQcJRPBize1TsLno__lHcTlsB1Y2Q4ZZFwCV6BVPMEZN2dCbRQwtRiwP2oDjiIxvjV4Y_k1s3OBD77f1jCsjorDt2nKExSdTA_68kP2JZuCy1esAHi9TonAzZpLwKbk15xhfWtQ5Ygt2Wybm-fWwsOqGgnzrFVe8Kk7khjW9s04AWooNrg3O13SJ3vGx1gS4A-jhSeSc8MqFn0WZfupgIt95cHC6-WkTaFw1VCjv1hn0j9dvvcqIlSI9FIoLS6e74HtO3h8R_g==?c=naver.search.pc.plsearch&t=0
+                      - text: 기초부터 작가데뷔까지! 청주
+                      - strong [ref=f355e109]: 웹툰
+                      - text: 학원에서 제대로 배워보자! 소수정예, 1:1 멘토링 국비/내일배움카드, 2D/3D그래픽, 게임기획&개발, 게임원화&디자인, 메타버스
+                    - link "이벤트 온라인강의 무료증정 더보기" [ref=f355e110] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/t1GHewK60OUj7KMkrciMICvtenXM5TjgdmZqPgkbpHIBbfUI-L5qgZU6i1afUJDtm_rDmFIi2Azt7lZHH1p0-PhWVUK6UHt1mevuoqnHgIxE8syxKtvdlYtgGJqnGYWSgfX7eJO_ZrozLgu7NAx-euj28M6cHoYhPQRby3SghZplGQZ3UeP-BbtHPK2EinZ9Q2Au_kL5zXFsoP7V7-3NboQx9HjtaQU7kTLqaXM-fYDSFKJqb_ABJ_ygYvxTqT71VoLWybs1WnesY-uZfQ0RbKyycmNZeOkIGi1YMXZZ2CmX-dHlflNM3pl2ojApb8VNPUTuhA3Nev8BEquje6QO3Cvn6qI25tCPZF7vOGqwZh-WXXF_fkV-I612UmufUKmopfaJsf24bLUv2Tgf2HdONGdCtjKy2-NAy8uOsw-2jnx3aGQQovhMOK7h0BGp8Z8Vqf-pyB4s3lYJeqaYWoNwcmjysLBOr7rHKPUuoINp5jfhgHBm7oEoO9zzUpeVDOJAmR7hRhcFmv4ts84Rmh4YAgJ495i_2-DtyvsjdhjBdkQ=?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=f355e117]: 이벤트
+                      - generic [ref=f355e118]: 온라인강의 무료증정
+                      - img "더보기" [ref=f355e119]
+                    - generic [ref=f355e123]:
+                      - link [ref=f355e124] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e125]
+                      - link [ref=f355e126] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e127]
+                      - link [ref=f355e128] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e129]
+                      - link [ref=f355e130] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e131]
+                      - link [ref=f355e132] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e133]
+                      - link [ref=f355e134] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e135]
+                      - link [ref=f355e136] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e137]
+                      - link "플레이스 이미지" [ref=f355e138] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                        - img "플레이스 이미지" [ref=f355e139]
+                    - link "유니티언리얼프로그래밍 세종웹툰만화학원 만화애니메이션이모티콘드로잉 청주게임원화일러스트웹소설학원 충북게임그래픽미술학원 방문자리뷰 26" [ref=f355e141] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/AmfNunNlFroFOW0t8kf3FJUF5zeTp85XKVOki0DiyK175vG1BtZBSXV7jUdv_atUeZ3qWeaBqT1WmAXYeK0q4ZpwUQTD3MVD4zxOtDlTaljtsCfuLuGWf6-WjbzFuAY8DB3S2A6OjI_INtoMfjnSc8fA0YuulPzF6-Xy1OIAIgOxo87wsYrPoFouiveD6baXbLo6MTK21iQgNFib01ePIBOQOzyhUsAghfnmiYbhp1uD8FnXQBH_4HPwmTb_CuXHeHxVeIiFvTjcwBTzG0CO8rw0gJeHXlQ3EfiRvqOzNwihDPtfFcm_Oav59ROnZH-n1z-pTWUbdNW_uxCg09_Q_AkpwGms4yMsptZgID4tnbkml0ZkdfYbS5d5n0TR8amZXdLNOx1tiqqTPibD9ajgZCe3ETNwRdMFD7sIjL1m5fVYUBPImEXaML9g5vRnAusUn66Co7X1jHzqTafv_GETclrlyINIhZwAxWvfAnkqNV0=?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=f355e142]:
+                        - generic [ref=f355e143]: 유니티언리얼프로그래밍
+                        - generic [ref=f355e144]: 세종웹툰만화학원
+                        - generic [ref=f355e145]: 만화애니메이션이모티콘드로잉
+                        - generic [ref=f355e146]: 청주게임원화일러스트웹소설학원
+                        - generic [ref=f355e147]: 충북게임그래픽미술학원
+                      - generic [ref=f355e148]: 방문자리뷰 26
+                - listitem [ref=f355e149]:
+                  - generic [ref=f355e150]:
+                    - generic [ref=f355e151]:
+                      - generic [ref=f355e152]:
+                        - link [ref=f355e153] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/TAYbJu53pG0-Gnivh2ngn2S5rtT64urxP1h_mpbcnMHaqyekh2GSvOTXzQiLf9BL1TK7Lqoo71PI51Tbp_beJIk17Ba_vgw1wA7x1YTZcN0Ehry6gpPDTzT-hV5Nhjk4zXZCPMdEDjfPuUcd6ww2dw3XOiJOXmINUrhUXYSA5Xwi35_KPe6qtnKdEHjZaECDT83n82YQHZ1ngMdGnnqoMtqjiWyhybAwVqnLbKV4mh50_Ly2Ayy2KHr0ASQJLqNDK39KiGtYMRI6ATMizl13vvd6JK_GCQpgp9wMzAHmE2JkHuOomC8JSGZJa48iZ7_RBh8Ruy9DNxEIauEHWibzdg26lLTALKXXHWiN_-a06ioC6FBdyRGJxzxixnh_rkuWxKHBY9w0rcSJC0krqdt7FQazNcbXifSbCeyj-fhqgXWeNMwKC7vlflpHSJTyDAL_e_2a-JKT-8gS_KmhddgZ80uzFVd0T4uJepxF_v_HE87iXZBdYv32HKXODaIsNJVP9QyZzwxPtXIetEh2SuhBwRkt36s2Z0VS9f8culFGpkWICN21BWmR2p7SaCEw75TGCUYoyXC_FsCosNTXDXqaFg==?c=naver.search.pc.plsearch&t=1
+                          - img "favicon" [ref=f355e154]
+                        - img "광고" [ref=f355e155]
+                        - link "SBS게임아카데미" [ref=f355e159] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/TAYbJu53pG0-Gnivh2ngn2S5rtT64urxP1h_mpbcnMHaqyekh2GSvOTXzQiLf9BL1TK7Lqoo71PI51Tbp_beJIk17Ba_vgw1wA7x1YTZcN0Ehry6gpPDTzT-hV5Nhjk4zXZCPMdEDjfPuUcd6ww2dw3XOiJOXmINUrhUXYSA5Xwi35_KPe6qtnKdEHjZaECDT83n82YQHZ1ngMdGnnqoMtqjiWyhybAwVqnLbKV4mh50_Ly2Ayy2KHr0ASQJLqNDK39KiGtYMRI6ATMizl13vvd6JK_GCQpgp9wMzAHmE2JkHuOomC8JSGZJa48iZ7_RBh8Ruy9DNxEIauEHWibzdg26lLTALKXXHWiN_-a06ioC6FBdyRGJxzxixnh_rkuWxKHBY9w0rcSJC0krqdt7FQazNcbXifSbCeyj-fhqgXWeNMwKC7vlflpHSJTyDAL_e_2a-JKT-8gS_KmhddgZ80uzFVd0T4uJepxF_v_HE87iXZBdYv32HKXODaIsNJVP9QyZzwxPtXIetEh2SuhBwRkt36s2Z0VS9f8culFGpkWICN21BWmR2p7SaCEw75TGCUYoyXC_FsCosNTXDXqaFg==?c=naver.search.pc.plsearch&t=1
+                        - link "gwangju.sbsgameacademy.com" [ref=f355e161] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/TAYbJu53pG0-Gnivh2ngn2S5rtT64urxP1h_mpbcnMHaqyekh2GSvOTXzQiLf9BL1TK7Lqoo71PI51Tbp_beJIk17Ba_vgw1wA7x1YTZcN0Ehry6gpPDTzT-hV5Nhjk4zXZCPMdEDjfPuUcd6ww2dw3XOiJOXmINUrhUXYSA5Xwi35_KPe6qtnKdEHjZaECDT83n82YQHZ1ngMdGnnqoMtqjiWyhybAwVqnLbKV4mh50_Ly2Ayy2KHr0ASQJLqNDK39KiGtYMRI6ATMizl13vvd6JK_GCQpgp9wMzAHmE2JkHuOomC8JSGZJa48iZ7_RBh8Ruy9DNxEIauEHWibzdg26lLTALKXXHWiN_-a06ioC6FBdyRGJxzxixnh_rkuWxKHBY9w0rcSJC0krqdt7FQazNcbXifSbCeyj-fhqgXWeNMwKC7vlflpHSJTyDAL_e_2a-JKT-8gS_KmhddgZ80uzFVd0T4uJepxF_v_HE87iXZBdYv32HKXODaIsNJVP9QyZzwxPtXIetEh2SuhBwRkt36s2Z0VS9f8culFGpkWICN21BWmR2p7SaCEw75TGCUYoyXC_FsCosNTXDXqaFg==?c=naver.search.pc.plsearch&t=1
+                      - link "SBS아카데미게임학원 광주점 입시&취업 연계완성 디자인&개발 입시&취업 전문" [ref=f355e162] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/TAYbJu53pG0-Gnivh2ngn2S5rtT64urxP1h_mpbcnMHaqyekh2GSvOTXzQiLf9BL1TK7Lqoo71PI51Tbp_beJIk17Ba_vgw1wA7x1YTZcN0Ehry6gpPDTzT-hV5Nhjk4zXZCPMdEDjfPuUcd6ww2dw3XOiJOXmINUrhUXYSA5Xwi35_KPe6qtnKdEHjZaECDT83n82YQHZ1ngMdGnnqoMtqjiWyhybAwVqnLbKV4mh50_Ly2Ayy2KHr0ASQJLqNDK39KiGtYMRI6ATMizl13vvd6JK_GCQpgp9wMzAHmE2JkHuOomC8JSGZJa48iZ7_RBh8Ruy9DNxEIauEHWibzdg26lLTALKXXHWiN_-a06ioC6FBdyRGJxzxixnh_rkuWxKHBY9w0rcSJC0krqdt7FQazNcbXifSbCeyj-fhqgXWeNMwKC7vlflpHSJTyDAL_e_2a-JKT-8gS_KmhddgZ80uzFVd0T4uJepxF_v_HE87iXZBdYv32HKXODaIsNJVP9QyZzwxPtXIetEh2SuhBwRkt36s2Z0VS9f8culFGpkWICN21BWmR2p7SaCEw75TGCUYoyXC_FsCosNTXDXqaFg==?c=naver.search.pc.plsearch&t=1
+                    - link [ref=f355e165] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/TAYbJu53pG0-Gnivh2ngn2S5rtT64urxP1h_mpbcnMHaqyekh2GSvOTXzQiLf9BL1TK7Lqoo71PI51Tbp_beJIk17Ba_vgw1wA7x1YTZcN0Ehry6gpPDTzT-hV5Nhjk4zXZCPMdEDjfPuUcd6ww2dw3XOiJOXmINUrhUXYSA5Xwi35_KPe6qtnKdEHjZaECDT83n82YQHZ1ngMdGnnqoMtqjiWyhybAwVqnLbKV4mh50_Ly2Ayy2KHr0ASQJLqNDK39KiGtYMRI6ATMizl13vvd6JK_GCQpgp9wMzAHmE2JkHuOomC8JSGZJa48iZ7_RBh8Ruy9DNxEIauEHWibzdg26lLTALKXXHWiN_-a06ioC6FBdyRGJxzxixnh_rkuWxKHBY9w0rcSJC0krqdt7FQazNcbXifSbCeyj-fhqgXWeNMwKC7vlflpHSJTyDAL_e_2a-JKT-8gS_KmhddgZ80uzFVd0T4uJepxF_v_HE87iXZBdYv32HKXODaIsNJVP9QyZzwxPtXIetEh2SuhBwRkt36s2Z0VS9f8culFGpkWICN21BWmR2p7SaCEw75TGCUYoyXC_FsCosNTXDXqaFg==?c=naver.search.pc.plsearch&t=1
+                      - text: 게임 제작과정의 모든것! 게임의 디자인부터 개발, 원화까지~ 취업전문학원 국비지원교육, 게임그래픽/원화,
+                      - strong [ref=f355e166]: 웹툰
+                      - text: ", 웹소설, 프로그래밍, 개발/기획, 이모티콘"
+                    - link "이벤트 온라인강의 무료증정 더보기" [ref=f355e167] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/RqNQi_pZECNsBD7_lEZ6iBwt2QiMyAsp2O9LguiHRPWdBC9MO4dPJe1Oip3ePoU4WOkMW3GDoYad_XUzqwDyB3RY2PXROVGlzNYfMElqsFxPZmDfyeCtqrqY12Zci6fWgChsqa1DoXr679xL-DYn0Wld8Hv5TikY7EjH-FghT5_1hsZkizN3xbnQGQJKjM-5jjt9Tb-nlzBoaiJv0CwknNXfhWcsiE764V0XqVijkWOq4X4ccljU3Aqmpq2yJuQlmX4gA0oXLiCOQN03L-tV3AYRoKWAElQ_q79EMNe9g3huEK2jAa7M8b6IdxkEYqcmtZdBb_WDXCW_CIcAnh0SwieGXkRITd1SltAK2xG9siKcBf20W1X6_TXvhdi3vSw2xn4WlhNtRVaq_ImvrY-Z3dKXkQy299cUziojj0u0XMM04ab305eNv8FCekMm8xsvJpR4OlDARNFiDlHQTCSLkGlxdK3i_EXevRUPc4JLiEhdzaMYxY9r5WqFakAWJwYJGJsSWePyCwVc-iXu61vjtMWVtGWpHs7svEPqwc7VZSpFNa6pXQEfjPgsn5De6GL2TfMnYVhpobbj3MmKSFs5lfMeQudJsibk58bqi1dCS5M=?c=naver.search.pc.plsearch&t=1
+                      - generic [ref=f355e174]: 이벤트
+                      - generic [ref=f355e175]: 온라인강의 무료증정
+                      - img "더보기" [ref=f355e176]
+                    - generic [ref=f355e180]:
+                      - link [ref=f355e181] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e182]
+                      - link [ref=f355e183] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e184]
+                      - link [ref=f355e185] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e186]
+                      - link [ref=f355e187] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e188]
+                      - link [ref=f355e189] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e190]
+                      - link [ref=f355e191] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e192]
+                      - link [ref=f355e193] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e194]
+                      - link "플레이스 이미지" [ref=f355e195] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                        - img "플레이스 이미지" [ref=f355e196]
+                    - link "광주송정유니티프로그래밍 목포웹소설표지일러스트 게임원화포트폴리오미술학원 나주3D언리얼게임개발학원 순천국비지원디지털드로잉웹툰 방문자리뷰 544" [ref=f355e198] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/SyvxH-GbSx2yUrux1yNETTk764gMFruxH82nkVdSAEtkjzVK0oNW10b2sjvrfTMDB44CFKZuHDB74Ii_0sxEjUkHN5eS4XKD4haSPR8iM330PYAJNiNim2kBF6jCMkU1H1CF2z5Ly0vw1KCoxtUbF7bXQR2QAq2ZxKGEXFvP7ktTT_jXwIXjIyBoI2qZyS6pbm-YjRqYeqPkpiWl0WatJF83rjNmuZxxC16JycQ6CPniVabKduPF-7_cglHX77fI0GZtZmxGJZRhnTQNOTxaDcB45t0YuwyNbz9htAU_09cavmPF8orl_X1_dwN6hQd1Km5634XQ3nr270IvWGGHOfmCDO1rFD_xfhOuW9k4Etc8L7aU9395lueYeXqzadDR2fAmWqB7w6Tc3Kz0P5RHK96LsY5FQidZjFQ6SH8QmaPBYGdp1Iw6jhFkLmvOzi60vGg3NcquP6NIQnljJS8Ll4vCqWlX9kZ-otnynqSrkaSF54EUuoCCZvcY3gew3G_6?c=naver.search.pc.plsearch&t=1
+                      - generic [ref=f355e199]:
+                        - generic [ref=f355e200]: 광주송정유니티프로그래밍
+                        - generic [ref=f355e201]: 목포웹소설표지일러스트
+                        - generic [ref=f355e202]: 게임원화포트폴리오미술학원
+                        - generic [ref=f355e203]: 나주3D언리얼게임개발학원
+                        - generic [ref=f355e204]: 순천국비지원디지털드로잉웹툰
+                      - generic [ref=f355e205]: 방문자리뷰 544
+                - listitem [ref=f355e206]:
+                  - link [ref=f355e207] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/7Zgvd8Rlo5nSJCPAH0Lma98wt4WcbW3PK7-HmJQFIIWSjJI8GpCEFEuBxeEkqyu79-XGdzvG3abtgm8BlKpGxuN68q1O5uwPDg8dRfAra_QMpbZDrq0zgq2EhwNRtteuIyuWghrA7ZTlMKrw-oOipIr8aQoLe1yQzRYQ-PRoGE768-ZH7uPcM1zhAjam-Y6oVtEqS7ufqg3Hl0pnNrxpMZLM7tYQUdJQ3TLL41iI4OrwHSEfNvK15OPtcikdZMaOB67z7KKOKyX87nMhri6TX7uXVwwzdZILXjdod-tZEYSAX7f1uyV_3pL41a1KtKWIV7gk8qM-CH0TYgbhq7ttNGiNLSZrD4YXVd2eYKzD17SAuKLzQ3hMMxG5Crq7nff6Aou50NrMDdhhU1lfwuFMuPMhlrYxhCOYaTZ-XSqEhf76KDtXaY0h52Foh-jDojaUN0Gh5T80P87vttGGxMHVoZzRGGFd97lSZffBU7r25EQ=?c=naver.search.pc.plsearch&t=1
+                    - img "링크이미지" [ref=f355e208]
+                  - generic [ref=f355e209]:
+                    - generic [ref=f355e210]:
+                      - generic [ref=f355e211]:
+                        - link [ref=f355e212] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/sqEN3wQQQ4MZiTD_7Z5uFMBttsWMunVDUnvCeP_43RgO-lBpjLFFcVWnlSCM0x9uajYsh9VrZ63vIOnxwhtRDeGy-iDzNpFKX1-81b0dpJ4skfsCLPqxMqZNjeoOOEPP9szQCfbOPWo-eTOfGggD0gdDFTn6fbP_I-Vw3KKNwp6M_97-d5EcjA0l-hHLdB7GFzIqfSLDCqg4W1--ZZ-6L2j_myjUx9blhKz_DwEw19omGuAC788k5IXU5p-KUGRf8-hhN5FHwqtndubNq2EKeyo5biMXVA_sYEks4wl3Ms_DQsP9uZU8hLiddW6nLOR8aHc4haLZo9Fx5oMCedxNnr85REMHi2hygBi3idpqDzHPFQiVZSM-GD5tad9f1sffBeCKnKm42M6mmjX6YNwOcG6owHF68RbseAJJv28OoSqw4ayEhdXEFRJSP00GsrSJXCYFvfIgHIeOWqKkkgG2o0MzWVa95sXqB1roojI-mWM=?c=naver.search.pc.plsearch&t=1
+                          - img "favicon" [ref=f355e213]
+                        - img "광고" [ref=f355e214]
+                        - link "SBS게임아카데미" [ref=f355e218] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/sqEN3wQQQ4MZiTD_7Z5uFMBttsWMunVDUnvCeP_43RgO-lBpjLFFcVWnlSCM0x9uajYsh9VrZ63vIOnxwhtRDeGy-iDzNpFKX1-81b0dpJ4skfsCLPqxMqZNjeoOOEPP9szQCfbOPWo-eTOfGggD0gdDFTn6fbP_I-Vw3KKNwp6M_97-d5EcjA0l-hHLdB7GFzIqfSLDCqg4W1--ZZ-6L2j_myjUx9blhKz_DwEw19omGuAC788k5IXU5p-KUGRf8-hhN5FHwqtndubNq2EKeyo5biMXVA_sYEks4wl3Ms_DQsP9uZU8hLiddW6nLOR8aHc4haLZo9Fx5oMCedxNnr85REMHi2hygBi3idpqDzHPFQiVZSM-GD5tad9f1sffBeCKnKm42M6mmjX6YNwOcG6owHF68RbseAJJv28OoSqw4ayEhdXEFRJSP00GsrSJXCYFvfIgHIeOWqKkkgG2o0MzWVa95sXqB1roojI-mWM=?c=naver.search.pc.plsearch&t=1
+                        - link "daejeon.sbsgameacademy.com" [ref=f355e220] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/sqEN3wQQQ4MZiTD_7Z5uFMBttsWMunVDUnvCeP_43RgO-lBpjLFFcVWnlSCM0x9uajYsh9VrZ63vIOnxwhtRDeGy-iDzNpFKX1-81b0dpJ4skfsCLPqxMqZNjeoOOEPP9szQCfbOPWo-eTOfGggD0gdDFTn6fbP_I-Vw3KKNwp6M_97-d5EcjA0l-hHLdB7GFzIqfSLDCqg4W1--ZZ-6L2j_myjUx9blhKz_DwEw19omGuAC788k5IXU5p-KUGRf8-hhN5FHwqtndubNq2EKeyo5biMXVA_sYEks4wl3Ms_DQsP9uZU8hLiddW6nLOR8aHc4haLZo9Fx5oMCedxNnr85REMHi2hygBi3idpqDzHPFQiVZSM-GD5tad9f1sffBeCKnKm42M6mmjX6YNwOcG6owHF68RbseAJJv28OoSqw4ayEhdXEFRJSP00GsrSJXCYFvfIgHIeOWqKkkgG2o0MzWVa95sXqB1roojI-mWM=?c=naver.search.pc.plsearch&t=1
+                      - link [ref=f355e221] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/sqEN3wQQQ4MZiTD_7Z5uFMBttsWMunVDUnvCeP_43RgO-lBpjLFFcVWnlSCM0x9uajYsh9VrZ63vIOnxwhtRDeGy-iDzNpFKX1-81b0dpJ4skfsCLPqxMqZNjeoOOEPP9szQCfbOPWo-eTOfGggD0gdDFTn6fbP_I-Vw3KKNwp6M_97-d5EcjA0l-hHLdB7GFzIqfSLDCqg4W1--ZZ-6L2j_myjUx9blhKz_DwEw19omGuAC788k5IXU5p-KUGRf8-hhN5FHwqtndubNq2EKeyo5biMXVA_sYEks4wl3Ms_DQsP9uZU8hLiddW6nLOR8aHc4haLZo9Fx5oMCedxNnr85REMHi2hygBi3idpqDzHPFQiVZSM-GD5tad9f1sffBeCKnKm42M6mmjX6YNwOcG6owHF68RbseAJJv28OoSqw4ayEhdXEFRJSP00GsrSJXCYFvfIgHIeOWqKkkgG2o0MzWVa95sXqB1roojI-mWM=?c=naver.search.pc.plsearch&t=1
+                        - generic [ref=f355e222]:
+                          - text: SBS아카데미
+                          - strong [ref=f355e223]: 웹툰
+                          - text: 학원 대전점
+                        - generic [ref=f355e224]:
+                          - text: 게임/
+                          - strong [ref=f355e225]: 웹툰
+                          - text: /그래픽 전문학원
+                    - link [ref=f355e228] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/sqEN3wQQQ4MZiTD_7Z5uFMBttsWMunVDUnvCeP_43RgO-lBpjLFFcVWnlSCM0x9uajYsh9VrZ63vIOnxwhtRDeGy-iDzNpFKX1-81b0dpJ4skfsCLPqxMqZNjeoOOEPP9szQCfbOPWo-eTOfGggD0gdDFTn6fbP_I-Vw3KKNwp6M_97-d5EcjA0l-hHLdB7GFzIqfSLDCqg4W1--ZZ-6L2j_myjUx9blhKz_DwEw19omGuAC788k5IXU5p-KUGRf8-hhN5FHwqtndubNq2EKeyo5biMXVA_sYEks4wl3Ms_DQsP9uZU8hLiddW6nLOR8aHc4haLZo9Fx5oMCedxNnr85REMHi2hygBi3idpqDzHPFQiVZSM-GD5tad9f1sffBeCKnKm42M6mmjX6YNwOcG6owHF68RbseAJJv28OoSqw4ayEhdXEFRJSP00GsrSJXCYFvfIgHIeOWqKkkgG2o0MzWVa95sXqB1roojI-mWM=?c=naver.search.pc.plsearch&t=1
+                      - text: 작가 양성 전문 교육기관, 네이버
+                      - strong [ref=f355e229]: 웹툰
+                      - text: 작가 세미나 진행중
+                    - link "이벤트 온라인강의 무료증정 더보기" [ref=f355e230] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/70UL7zKWRV9mxunllAKpjXV6bBqMgIgKBzjkxRN_z0hb6n_3Y3Wm1l8x4QtQynqjdAus7QY2-rRe8W9KHQ2MzqAw1VF7kYk6GXAlllU-xICMPWST7CEXpf7fYV8xBAkn4lLCWp0N6iV3TTRQ2lcUJNb4mxNTQyRVBwWeXcVvnlUiEtLl5QapQssAyGD38tVuE-dMqA41KPNiAN-NyPhSDI-IAe6alWcstlGVzB_4Wg2MMlctByZYugDdyfaCx9afQQaS-SlRSC0S1tnvHyErp6SvFVuFAK5RcE-21qMgy1ska5GM3vU1W7aFTWFqBrqX5VB3BdVzMKxTfQk4CsUsiXTL3FvnacwzexBSXTpwUqrzK3ACJa1j_a86sKcBgROTcTwsg6Zh_9mT2fmyGI4DrkE1xol1vMd2X2pg5u0uKFBBNehPpwHmv_gYCzbpAKgPN5hAkxFdZwgBk4cA2ySAinBuT6eRYmVurDURTBFz7X4=?c=naver.search.pc.plsearch&t=1
+                      - generic [ref=f355e237]: 이벤트
+                      - generic [ref=f355e238]: 온라인강의 무료증정
+                      - img "더보기" [ref=f355e239]
+                    - link "만화애니메이션이모티콘학원 대전게임그래픽국비지원취업준비 세종프로그래밍게임개발기획학원 대전게임원화일러스트웹소설학원 공주웹툰학원 방문자리뷰 716" [ref=f355e242] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/p41qY-9ICH6egP7Lh3bSeIzzEnmTbQ--Q-TYjiyPiPX-uIJ0kLYWLWASy7OCZNUq42L8HA1Bi6pzKcd3_x1EpaU7mF9YrIxPARWoFE-bG-BXBEytL0ht6kY7NFydIa_pYgV_fPh2R8F9ONTUj_2Y4RzUhIGkzkgq20N51Zowzxv3hnix0OYRKgAz1U6aicZ87-o8iHy3ENSpbeN4uWcQay4na-Cc-av00_NlCN0v2a6OCJGtrsSkcOvdm5XlHCuPXr_xEbbA38msm3-hCJsK82fYpCJ4ZE2Wdwl1cD9oAwpRkmObVHQ1oWLi4Su8wpNKuvCB0sMR5HJhiWrLH5CJhSTioSlVq_WEsPL_PYfcEvpUeSvBYSs-fVtixqyG3080DcWZQ5CtrT--KJNytZiRS61_gSbnnfs6EeW2QNPvQxf4B8SK0NUJ0tBNnJqNMzyWPU9Uix0qovnr8jUgeXqG1O1DKIUvuYft97bJB-nen13LuyVb1gJ1LvKq3BQPAxjy?c=naver.search.pc.plsearch&t=1
+                      - generic [ref=f355e243]:
+                        - generic [ref=f355e244]: 만화애니메이션이모티콘학원
+                        - generic [ref=f355e245]: 대전게임그래픽국비지원취업준비
+                        - generic [ref=f355e246]: 세종프로그래밍게임개발기획학원
+                        - generic [ref=f355e247]: 대전게임원화일러스트웹소설학원
+                        - generic [ref=f355e248]: 공주웹툰학원
+                      - generic [ref=f355e249]: 방문자리뷰 716
+              - link "더보기" [ref=f355e251] [cursor=pointer]:
+                - /url: https://ad.search.naver.com/search.naver?where=ad&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&referenceId=jqANCsp0jprdfBXxmuo-289319&buckets=NS-PND-RANK-26%5E1%2Cimpression-neo-SA_SERVING-1119%5E5
+          - generic [ref=f355e254]:
+            - generic [ref=f355e259]:
+              - generic [ref=f355e260]:
+                - generic [ref=f355e261]:
+                  - link "네이버 웹툰 m.comic.naver.com›curation 새 창 열림" [ref=f355e262] [cursor=pointer]:
+                    - /url: https://m.comic.naver.com/curation/list?id=846301&type=TITLE_ARTIST
+                    - generic [ref=f355e264]:
+                      - generic [ref=f355e268]: 네이버 웹툰
+                      - generic [ref=f355e270]: m.comic.naver.com›curation
+                    - generic [ref=f355e274]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f355e276] [cursor=pointer]
+                - link "희DA님의 작품 - 네이버 웹툰 새 창 열림" [ref=f355e283] [cursor=pointer]:
+                  - /url: https://m.comic.naver.com/curation/list?id=846301&type=TITLE_ARTIST
+                  - generic [ref=f355e284]:
+                    - text: 희DA님의 작품 - 네이버
+                    - mark [ref=f355e285]: 웹툰
+                  - generic [ref=f355e286]: 새 창 열림
+              - generic [ref=f355e287]:
+                - generic [ref=f355e289]:
+                  - link "희DA님의 작품 - 네이버 웹툰 새 창 열림" [ref=f355e290] [cursor=pointer]:
+                    - /url: https://m.comic.naver.com/curation/list?id=830822&type=TITLE_ARTIST
+                    - generic [ref=f355e291]:
+                      - text: 희DA님의 작품 - 네이버
+                      - mark [ref=f355e292]: 웹툰
+                    - generic [ref=f355e293]: 새 창 열림
+                  - generic [ref=f355e294]: 사랑단편선 · 희DA · 도전만화 · 9.55 · [사랑을 전하는 방법] ; 미련의 망상 · 희DA · 베스트도전 · 9.73 · 어느 날 친구가 죽기 전 과거로 돌아왔다.
+                - link "관련문서 더보기" [ref=f355e297] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0+site%3Am.comic.naver.com&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f355e306]:
+              - generic [ref=f355e307]:
+                - link "ysu.ac.kr wtwc.ysu.ac.kr›wtwc 새 창 열림" [ref=f355e308] [cursor=pointer]:
+                  - /url: https://wtwc.ysu.ac.kr/wtwc/CMS/ProfessorMgr/list.do?mCode=MN020
+                  - generic [ref=f355e310]:
+                    - generic [ref=f355e328]: ysu.ac.kr
+                    - generic [ref=f355e330]: wtwc.ysu.ac.kr›wtwc
+                  - generic [ref=f355e334]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e336] [cursor=pointer]
+              - generic [ref=f355e341]:
+                - link "웹툰학과는 영산대 | 와이즈툰>교수/작가소개>작가/교수진 새 창 열림" [ref=f355e343] [cursor=pointer]:
+                  - /url: https://wtwc.ysu.ac.kr/wtwc/CMS/ProfessorMgr/list.do?mCode=MN020
+                  - generic [ref=f355e344]:
+                    - mark [ref=f355e345]: 웹툰
+                    - text: 학과는 영산대 | 와이즈툰>교수/작가소개>작가/교수진
+                  - generic [ref=f355e346]: 새 창 열림
+                - link "교수/작가소개 부산경남 최초-최대 웹툰독립전공/ 최다 웹툰작가 교수진(학과운영) PD,강사,AI,각색/ 웹툰도서관(7천권) 신티크Pro24(70대) 와이즈툰 장학금/ 자체교재/ 학생전용작업실/ 부산경남만화가연대MOU/ 수준-분야별 트랙/ 인문-인성-실무캠프/ 산학연계 데뷔-계약-취업 매칭/ 부울경 선도 웹툰대학 새 창 열림" [ref=f355e348] [cursor=pointer]:
+                  - /url: https://wtwc.ysu.ac.kr/wtwc/CMS/ProfessorMgr/list.do?mCode=MN020
+                  - generic [ref=f355e349]:
+                    - text: 교수/작가소개 부산경남 최초-최대
+                    - mark [ref=f355e350]: 웹툰
+                    - text: 독립전공/ 최다
+                    - mark [ref=f355e351]: 웹툰
+                    - text: 작가 교수진(학과운영) PD,강사,AI,각색/
+                    - mark [ref=f355e352]: 웹툰
+                    - text: 도서관(7천권) 신티크Pro24(70대) 와이즈툰 장학금/ 자체교재/ 학생전용작업실/ 부산경남만화가연대MOU/ 수준-분야별 트랙/ 인문-인성-실무캠프/ 산학연계 데뷔-계약-취업 매칭/ 부울경 선도
+                    - mark [ref=f355e353]: 웹툰
+                    - text: 대학
+                  - generic [ref=f355e354]: 새 창 열림
+            - generic [ref=f355e359]:
+              - generic [ref=f355e360]:
+                - generic [ref=f355e361]:
+                  - link "나무위키 namu.wiki›수희0(tngmlek0) 새 창 열림" [ref=f355e362] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)
+                    - generic [ref=f355e364]:
+                      - generic [ref=f355e368]: 나무위키
+                      - generic [ref=f355e370]: namu.wiki›수희0(tngmlek0)
+                    - generic [ref=f355e374]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f355e376] [cursor=pointer]
+                - generic [ref=f355e381]:
+                  - link "수희0(tngmlek0)의 이미지 새 창 열림" [ref=f355e382] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)
+                    - img "수희0(tngmlek0)의 이미지" [ref=f355e384]
+                    - generic [ref=f355e386]: 새 창 열림
+                  - link "수희0(tngmlek0) 새 창 열림" [ref=f355e388] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)
+                    - generic [ref=f355e389]: 수희0(tngmlek0)
+                    - generic [ref=f355e390]: 새 창 열림
+                  - generic [ref=f355e391]:
+                    - link "개요 인터넷 방송을 소재로 한 한국의 드라마 웹툰. 작가는 생일기분. 2. 줄거리 가난한 집안, 어려운 형편에도 굴하지... 연재 현황 네이버 웹툰에서 2021년 7월 3일부터 매주 일요일에 연재되었다. 2026년 7월 11일, 5년간의 연재를 끝으로... 수준으로 웹툰에 녹아있다. 박민우가 제이웍스 소속 BJ를 언급할 때 보여지는 화면은 나무위키의 BJ 프로필 양식이다. 또 2화... 새 창 열림" [ref=f355e392] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)
+                      - generic [ref=f355e393]:
+                        - text: 개요 인터넷 방송을 소재로 한 한국의 드라마
+                        - mark [ref=f355e394]: 웹툰
+                        - text: . 작가는 생일기분. 2. 줄거리 가난한 집안, 어려운 형편에도 굴하지... 연재 현황 네이버
+                        - mark [ref=f355e395]: 웹툰
+                        - text: 에서 2021년 7월 3일부터 매주 일요일에 연재되었다. 2026년 7월 11일, 5년간의 연재를 끝으로... 수준으로
+                        - mark [ref=f355e396]: 웹툰
+                        - text: 에 녹아있다. 박민우가 제이웍스 소속 BJ를 언급할 때 보여지는 화면은 나무위키의 BJ 프로필 양식이다. 또 2화...
+                      - generic [ref=f355e397]: 새 창 열림
+                    - link "장르 드라마, 인방, 사회고발 작가 생일기분 연재 기간 2021. 07. 03. ~ 2026. 07. 11. 연재 주기 일 새 창 열림" [ref=f355e398] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)
+                      - generic [ref=f355e399]:
+                        - generic [ref=f355e400]:
+                          - generic [ref=f355e401]: 장르
+                          - generic [ref=f355e402]: 드라마, 인방, 사회고발
+                        - generic [ref=f355e404]:
+                          - generic [ref=f355e405]: 작가
+                          - generic [ref=f355e406]: 생일기분
+                        - generic [ref=f355e408]:
+                          - generic [ref=f355e409]: 연재 기간
+                          - generic [ref=f355e410]: 2021. 07. 03. ~ 2026. 07. 11.
+                        - generic [ref=f355e412]:
+                          - generic [ref=f355e413]: 연재 주기
+                          - generic [ref=f355e414]: 일
+                      - generic [ref=f355e416]: 새 창 열림
+              - generic [ref=f355e417]:
+                - link "개요 새 창 열림" [ref=f355e418] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-1
+                  - generic [ref=f355e419]: 개요
+                  - generic [ref=f355e420]: 새 창 열림
+                - link "줄거리 새 창 열림" [ref=f355e421] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-2
+                  - generic [ref=f355e422]: 줄거리
+                  - generic [ref=f355e423]: 새 창 열림
+                - link "연재 현황 새 창 열림" [ref=f355e424] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-3
+                  - generic [ref=f355e425]: 연재 현황
+                  - generic [ref=f355e426]: 새 창 열림
+                - link "특징 새 창 열림" [ref=f355e427] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-4
+                  - generic [ref=f355e428]: 특징
+                  - generic [ref=f355e429]: 새 창 열림
+                - link "등장인물 새 창 열림" [ref=f355e430] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-5
+                  - generic [ref=f355e431]: 등장인물
+                  - generic [ref=f355e432]: 새 창 열림
+                - link "인기 새 창 열림" [ref=f355e433] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-6
+                  - generic [ref=f355e434]: 인기
+                  - generic [ref=f355e435]: 새 창 열림
+                - link "기타 새 창 열림" [ref=f355e436] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-7
+                  - generic [ref=f355e437]: 기타
+                  - generic [ref=f355e438]: 새 창 열림
+                - link "외부 링크 새 창 열림" [ref=f355e439] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-8
+                  - generic [ref=f355e440]: 외부 링크
+                  - generic [ref=f355e441]: 새 창 열림
+                - link "해외 연재 새 창 열림" [ref=f355e442] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%88%98%ED%9D%AC0(tngmlek0)#s-3.1
+                  - generic [ref=f355e443]: 해외 연재
+                  - generic [ref=f355e444]: 새 창 열림
+              - generic [ref=f355e445]:
+                - generic [ref=f355e447]:
+                  - link "335KM - 나무위키의 이미지 새 창 열림" [ref=f355e448] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/335KM
+                    - img "335KM - 나무위키의 이미지" [ref=f355e450]
+                    - generic [ref=f355e452]: 새 창 열림
+                  - link "335KM - 나무위키 새 창 열림" [ref=f355e453] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/335KM
+                    - generic [ref=f355e454]: 335KM - 나무위키
+                    - generic [ref=f355e455]: 새 창 열림
+                  - generic [ref=f355e457]:
+                    - text: 개요 한국의 좀비 아포칼립스 네이버
+                    - mark [ref=f355e458]: 웹툰
+                    - text: . 작가는 Eh희. 2. 줄거리 바다를 보는 것이 소원인 소녀. 바깥을 두려워하던... 연재 현황 역대 표지 ▼ 1~20화 21화~34화 네이버
+                    - mark [ref=f355e459]: 웹툰
+                    - text: 에서 2025년 6월 9일부터 매주 화요일에 연재되었다. 2026년 1월 26일 완결되었다. 4. 특징 후지모토 타츠키의 영향을 많이 받은 듯한 안티플롯 형식의
+                    - mark [ref=f355e460]: 웹툰
+                    - text: 으로, 과격하고 전위적인 전개가 특징이다....
+                - link "관련문서 더보기" [ref=f355e462] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0+site%3Anamu.wiki&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f355e471]:
+              - generic [ref=f355e472]:
+                - link "카카오웹툰 webtoon.kakao.com›네-이웃의-취향 새 창 열림" [ref=f355e473] [cursor=pointer]:
+                  - /url: https://webtoon.kakao.com/content/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/3651
+                  - generic [ref=f355e475]:
+                    - generic [ref=f355e479]: 카카오웹툰
+                    - generic [ref=f355e481]: webtoon.kakao.com›네-이웃의-취향
+                  - generic [ref=f355e485]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e487] [cursor=pointer]
+              - generic [ref=f355e492]:
+                - link "네 이웃의 취향 - 카카오<mark>웹툰</mark>의 이미지 새 창 열림" [ref=f355e493] [cursor=pointer]:
+                  - /url: https://webtoon.kakao.com/content/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/3651
+                  - img "네 이웃의 취향 - 카카오<mark>웹툰</mark>의 이미지" [ref=f355e495]
+                  - generic [ref=f355e497]: 새 창 열림
+                - link "네 이웃의 취향 - 카카오웹툰 새 창 열림" [ref=f355e499] [cursor=pointer]:
+                  - /url: https://webtoon.kakao.com/content/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/3651
+                  - generic [ref=f355e500]:
+                    - text: 네 이웃의 취향 - 카카오
+                    - mark [ref=f355e501]: 웹툰
+                  - generic [ref=f355e502]: 새 창 열림
+                - link "동네에서 작게 공방을 운영하고 있는 가은은 어느 날 익숙하던 옆집이 공사판으로 바뀌는 것을 보고 기함한다. 게다가 낯설게 바뀐 그 집에 새롭게 이사온 이웃은 그녀가 본 적 없는 부류의 사납고 매서운 남자인데-. \"가은 씨, 저 집 좀 이상하지 않아?\" 높은 담과 쉴 새 없이 드나드는 여자들. 게다가 대낮부터 옷을 벗고 있는 걸 보면 그도 절대 평범한 사람은 아닐 것이다.... 새 창 열림" [ref=f355e504] [cursor=pointer]:
+                  - /url: https://webtoon.kakao.com/content/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/3651
+                  - generic [ref=f355e505]: 동네에서 작게 공방을 운영하고 있는 가은은 어느 날 익숙하던 옆집이 공사판으로 바뀌는 것을 보고 기함한다. 게다가 낯설게 바뀐 그 집에 새롭게 이사온 이웃은 그녀가 본 적 없는 부류의 사납고 매서운 남자인데-. "가은 씨, 저 집 좀 이상하지 않아?" 높은 담과 쉴 새 없이 드나드는 여자들. 게다가 대낮부터 옷을 벗고 있는 걸 보면 그도 절대 평범한 사람은 아닐 것이다....
+                  - generic [ref=f355e506]: 새 창 열림
+            - generic [ref=f355e511]:
+              - generic [ref=f355e512]:
+                - generic [ref=f355e513]:
+                  - link "서울특별시학교안전공제회 www.ssia.or.kr›prevention 새 창 열림" [ref=f355e514] [cursor=pointer]:
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=36
+                    - generic [ref=f355e516]:
+                      - generic [ref=f355e520]: 서울특별시학교안전공제회
+                      - generic [ref=f355e522]: www.ssia.or.kr›prevention
+                    - generic [ref=f355e526]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f355e528] [cursor=pointer]
+                - generic [ref=f355e533]:
+                  - link "(장려상-<mark>웹툰</mark>/포스터) 2022 공모전 수상작품의 이미지 새 창 열림" [ref=f355e534] [cursor=pointer]:
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=36
+                    - img "(장려상-<mark>웹툰</mark>/포스터) 2022 공모전 수상작품의 이미지" [ref=f355e536]
+                    - generic [ref=f355e538]: 새 창 열림
+                  - link "(장려상-웹툰/포스터) 2022 공모전 수상작품 새 창 열림" [ref=f355e540] [cursor=pointer]:
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=36
+                    - generic [ref=f355e541]:
+                      - text: (장려상-
+                      - mark [ref=f355e542]: 웹툰
+                      - text: /포스터) 2022 공모전 수상작품
+                    - generic [ref=f355e543]: 새 창 열림
+                  - 'link "2025.02.05.수상자 : 한천중 김*희 작품명 : 손을 끼인 당신! 문 틈에 스펀지를 하나 붙여 볼래요? 새 창 열림" [ref=f355e545] [cursor=pointer]':
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=36
+                    - generic [ref=f355e546]:
+                      - generic [ref=f355e547]: 2025.02.05.
+                      - generic [ref=f355e548]:
+                        - text: "수상자 : 한천중 김*"
+                        - mark [ref=f355e549]: 희
+                        - text: "작품명 : 손을 끼인 당신! 문 틈에 스펀지를 하나 붙여 볼래요?"
+                    - generic [ref=f355e550]: 새 창 열림
+              - generic [ref=f355e551]:
+                - generic [ref=f355e553]:
+                  - link "(장려상-<mark>웹툰</mark>/포스터) 2023 공모전 수상작품의 이미지 새 창 열림" [ref=f355e554] [cursor=pointer]:
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=54
+                    - img "(장려상-<mark>웹툰</mark>/포스터) 2023 공모전 수상작품의 이미지" [ref=f355e556]
+                    - generic [ref=f355e558]: 새 창 열림
+                  - link "(장려상-웹툰/포스터) 2023 공모전 수상작품 새 창 열림" [ref=f355e559] [cursor=pointer]:
+                    - /url: https://www.ssia.or.kr/prevention/page5_4.php?mode=view&idx=54
+                    - generic [ref=f355e560]:
+                      - text: (장려상-
+                      - mark [ref=f355e561]: 웹툰
+                      - text: /포스터) 2023 공모전 수상작품
+                    - generic [ref=f355e562]: 새 창 열림
+                  - generic [ref=f355e564]:
+                    - text: "수상자 : 한천중학교 김*"
+                    - mark [ref=f355e565]: 희
+                    - text: "작품명 : 학교위험을 빨아들이는 인간청소기=우리"
+                - link "관련문서 더보기" [ref=f355e567] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0+site%3Awww.ssia.or.kr&qvt=0&ssc=tab.ur.all"
+          - generic [ref=f355e571]:
+            - generic [ref=f355e576]:
+              - generic [ref=f355e577]:
+                - generic [ref=f355e578]:
+                  - link "왓챠피디아 pedia.watcha.com›contents 새 창 열림" [ref=f355e579] [cursor=pointer]:
+                    - /url: https://pedia.watcha.com/ko/contents/mOgjw63
+                    - generic [ref=f355e581]:
+                      - generic [ref=f355e585]: 왓챠피디아
+                      - generic [ref=f355e587]: pedia.watcha.com›contents
+                    - generic [ref=f355e591]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f355e593] [cursor=pointer]
+                - generic [ref=f355e598]:
+                  - link "<mark>희</mark> (2019) - 왓챠피디아의 이미지 새 창 열림" [ref=f355e599] [cursor=pointer]:
+                    - /url: https://pedia.watcha.com/ko/contents/mOgjw63
+                    - img "<mark>희</mark> (2019) - 왓챠피디아의 이미지" [ref=f355e601]
+                    - generic [ref=f355e603]: 새 창 열림
+                  - link "희 (2019) - 왓챠피디아 새 창 열림" [ref=f355e605] [cursor=pointer]:
+                    - /url: https://pedia.watcha.com/ko/contents/mOgjw63
+                    - generic [ref=f355e606]:
+                      - mark [ref=f355e607]: 희
+                      - text: (2019) - 왓챠피디아
+                    - generic [ref=f355e608]: 새 창 열림
+                  - generic [ref=f355e609]:
+                    - link "어느 날 '희'의 꿈에 할머니가 나타난다. 그 날 이후로 희는 이상증세를 보이고, 엄마인 '정희'는 그것이 가족 대대로 내려오는 무당의 운명으로 인한 증상임을 눈치챈다. 희를 무당의 운명에서 끊어내기 위해 정희는 첫 번째 행동으로 부적을 태우지만 이 행동이 오히려 희가 의식을 잃게 하고, 쓰러진 희를 옆에 둔 정희는 자신의 신에게 사죄의 절을 올리기 시작한다. 새 창 열림" [ref=f355e610] [cursor=pointer]:
+                      - /url: https://pedia.watcha.com/ko/contents/mOgjw63
+                      - generic [ref=f355e611]:
+                        - text: 어느 날 '
+                        - mark [ref=f355e612]: 희
+                        - text: "'의 꿈에 할머니가 나타난다. 그 날 이후로 희는 이상증세를 보이고, 엄마인 '정희'는 그것이 가족 대대로 내려오는 무당의 운명으로 인한 증상임을 눈치챈다. 희를 무당의 운명에서 끊어내기 위해 정희는 첫 번째 행동으로 부적을 태우지만 이 행동이 오히려 희가 의식을 잃게 하고, 쓰러진 희를 옆에 둔 정희는 자신의 신에게 사죄의 절을 올리기 시작한다."
+                      - generic [ref=f355e613]: 새 창 열림
+                    - link "장르 공포, 미스터리, 단편 감독 홍해원 평점 2.2/5 40 참여 새 창 열림" [ref=f355e614] [cursor=pointer]:
+                      - /url: https://pedia.watcha.com/ko/contents/mOgjw63
+                      - generic [ref=f355e615]:
+                        - generic [ref=f355e616]:
+                          - generic [ref=f355e617]: 장르
+                          - generic [ref=f355e618]: 공포, 미스터리, 단편
+                        - generic [ref=f355e620]:
+                          - generic [ref=f355e621]: 감독
+                          - generic [ref=f355e622]: 홍해원
+                        - generic [ref=f355e624]:
+                          - generic [ref=f355e625]: 평점
+                          - generic [ref=f355e627]:
+                            - generic [ref=f355e628]: 2.2/5
+                            - generic [ref=f355e634]: 40 참여
+                      - generic [ref=f355e635]: 새 창 열림
+              - generic [ref=f355e636]:
+                - generic [ref=f355e638]:
+                  - link "<mark>희</mark>♡님의 프로필 - 왓챠피디아의 이미지 새 창 열림" [ref=f355e639] [cursor=pointer]:
+                    - /url: https://pedia.watcha.com/ko/users/2mwvgNBWW4qMa
+                    - img "<mark>희</mark>♡님의 프로필 - 왓챠피디아의 이미지" [ref=f355e641]
+                    - generic [ref=f355e643]: 새 창 열림
+                  - link "희♡님의 프로필 - 왓챠피디아 새 창 열림" [ref=f355e644] [cursor=pointer]:
+                    - /url: https://pedia.watcha.com/ko/users/2mwvgNBWW4qMa
+                    - generic [ref=f355e645]:
+                      - mark [ref=f355e646]: 희
+                      - text: ♡님의 프로필 - 왓챠피디아
+                    - generic [ref=f355e647]: 새 창 열림
+                  - generic [ref=f355e648]: 본 사이트의 모든 콘텐츠는 왓챠피디아의 자산이며, 사전 동의 없이 복제, 전재, 재배포, 인용, 크롤링, AI학습, 데이터 수집 등에 사용하는 것을 금지합니다.
+                - link "관련문서 더보기" [ref=f355e651] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0+site%3Apedia.watcha.com&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f355e659]:
+              - generic [ref=f355e660]:
+                - generic [ref=f355e661]:
+                  - link "JAKGA jakga.app›authors 새 창 열림" [ref=f355e662] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0269
+                    - generic [ref=f355e664]:
+                      - generic [ref=f355e668]: JAKGA
+                      - generic [ref=f355e670]: jakga.app›authors
+                    - generic [ref=f355e674]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f355e676] [cursor=pointer]
+                - generic [ref=f355e681]:
+                  - link "「335KM」 <mark>웹툰</mark> 작가 Eh희의 프로필 및 작품 정보의 이미지 새 창 열림" [ref=f355e682] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0269
+                    - img "「335KM」 <mark>웹툰</mark> 작가 Eh희의 프로필 및 작품 정보의 이미지" [ref=f355e684]
+                    - generic [ref=f355e686]: 새 창 열림
+                  - link "「335KM」 웹툰 작가 Eh희의 프로필 및 작품 정보 새 창 열림" [ref=f355e688] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0269
+                    - generic [ref=f355e689]:
+                      - text: 「335KM」
+                      - mark [ref=f355e690]: 웹툰
+                      - text: 작가 Eh희의 프로필 및 작품 정보
+                    - generic [ref=f355e691]: 새 창 열림
+                  - link "네이버웹툰에서 「335KM」를 연재한 웹툰 작가 Eh희. 작가의 작품 히스토리, 타임라인, 인스타 혹은 트위터, 함께 협업한 작가 목록, 영상화 여부 등을 JAKGA에서 확인하세요. 새 창 열림" [ref=f355e693] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0269
+                    - generic [ref=f355e694]:
+                      - text: 네이버
+                      - mark [ref=f355e695]: 웹툰
+                      - text: 에서 「335KM」를 연재한
+                      - mark [ref=f355e696]: 웹툰
+                      - text: 작가 Eh희. 작가의 작품 히스토리, 타임라인, 인스타 혹은 트위터, 함께 협업한 작가 목록, 영상화 여부 등을 JAKGA에서 확인하세요.
+                    - generic [ref=f355e697]: 새 창 열림
+              - generic [ref=f355e698]:
+                - generic [ref=f355e700]:
+                  - link "「이름 사이 공백」 <mark>웹툰</mark> 작가 희DA의 프로필 및 작품 정보의 이미지 새 창 열림" [ref=f355e701] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0821
+                    - img "「이름 사이 공백」 <mark>웹툰</mark> 작가 희DA의 프로필 및 작품 정보의 이미지" [ref=f355e703]
+                    - generic [ref=f355e705]: 새 창 열림
+                  - link "「이름 사이 공백」 웹툰 작가 희DA의 프로필 및 작품 정보 새 창 열림" [ref=f355e706] [cursor=pointer]:
+                    - /url: https://jakga.app/authors/260103-0821
+                    - generic [ref=f355e707]:
+                      - text: 「이름 사이 공백」
+                      - mark [ref=f355e708]: 웹툰
+                      - text: 작가 희DA의 프로필 및 작품 정보
+                    - generic [ref=f355e709]: 새 창 열림
+                  - generic [ref=f355e711]:
+                    - text: 네이버
+                    - mark [ref=f355e712]: 웹툰
+                    - text: 에서 「이름 사이 공백」을 연재한
+                    - mark [ref=f355e713]: 웹툰
+                    - text: 작가 희DA. 작가의 작품 히스토리, 타임라인, 인스타 혹은 트위터, 함께 협업한 작가 목록, 영상화 여부 등을 JAKGA에서 확인하세요.
+                - link "관련문서 더보기" [ref=f355e715] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0+site%3Ajakga.app&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f355e724]:
+              - generic [ref=f355e725]:
+                - link "clourok.com wisp.clourok.com›랭킹›이름 사이 공백 새 창 열림" [ref=f355e726] [cursor=pointer]:
+                  - /url: https://wisp.clourok.com/webtoon/naver/846301
+                  - generic [ref=f355e728]:
+                    - generic [ref=f355e732]: clourok.com
+                    - generic [ref=f355e734]: wisp.clourok.com›랭킹›이름 사이 공백
+                  - generic [ref=f355e738]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e740] [cursor=pointer]
+              - generic [ref=f355e745]:
+                - link "이름 사이 공백 <mark>웹툰</mark> - 희DA - 위습의 이미지 새 창 열림" [ref=f355e746] [cursor=pointer]:
+                  - /url: https://wisp.clourok.com/webtoon/naver/846301
+                  - img "이름 사이 공백 <mark>웹툰</mark> - 희DA - 위습의 이미지" [ref=f355e748]
+                  - generic [ref=f355e750]: 새 창 열림
+                - link "이름 사이 공백 웹툰 - 희DA - 위습 새 창 열림" [ref=f355e752] [cursor=pointer]:
+                  - /url: https://wisp.clourok.com/webtoon/naver/846301
+                  - generic [ref=f355e753]:
+                    - text: 이름 사이 공백
+                    - mark [ref=f355e754]: 웹툰
+                    - text: "- 희DA - 위습"
+                  - generic [ref=f355e755]: 새 창 열림
+                - link "세계관 · 리캡 전체 · 아직 비어 있어요. 인물·소속·사건·아이템을 독자가 함께 채워요. 첫 인물 등록하러 가기 ... 강추 · 아직 강추가 없어요. 이 작품 이야기 · 아직 이 작품 이야기가 없어요. 이 작품 이야기 쓰기 새 창 열림" [ref=f355e757] [cursor=pointer]:
+                  - /url: https://wisp.clourok.com/webtoon/naver/846301
+                  - generic [ref=f355e758]:
+                    - generic [ref=f355e759]: 세계관 · 리캡 전체 · 아직 비어 있어요. 인물·소속·사건·아이템을 독자가 함께 채워요. 첫 인물 등록하러 가기 ...
+                    - generic [ref=f355e764]: 강추 · 아직 강추가 없어요.
+                    - generic [ref=f355e769]: 이 작품 이야기 · 아직 이 작품 이야기가 없어요. 이 작품 이야기 쓰기
+                  - generic [ref=f355e774]: 새 창 열림
+            - generic [ref=f355e779]:
+              - generic [ref=f355e780]:
+                - generic [ref=f355e783]:
+                  - link "네이버 지식iN 새 창 열림" [ref=f355e785] [cursor=pointer]:
+                    - /url: https://kin.naver.com/qna/detail.naver?dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb&qb=7Z2s7Ju57Yiw
+                    - img "네이버 지식iN" [ref=f355e788]
+                    - generic [ref=f355e789]: 새 창 열림
+                  - link "네이버 지식iN 새 창 열림" [ref=f355e792] [cursor=pointer]:
+                    - /url: https://kin.naver.com/qna/detail.naver?dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb&qb=7Z2s7Ju57Yiw
+                    - generic [ref=f355e793]: 네이버 지식iN
+                    - generic [ref=f355e794]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e797] [cursor=pointer]
+              - generic [ref=f355e802]:
+                - generic [ref=f355e803]:
+                  - link "여잔데 여자 같은 남자를 좋아합니다 새 창 열림" [ref=f355e808] [cursor=pointer]:
+                    - /url: https://kin.naver.com/qna/detail.naver?dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb&qb=7Z2s7Ju57Yiw
+                    - generic [ref=f355e809]: 여잔데 여자 같은 남자를 좋아합니다
+                    - generic [ref=f355e810]: 새 창 열림
+                  - link "저는 19살 여자인데요. 보통 친구들은 180넘고 근육 많은 남자들을 좋아하는데 저는요 제가 왜 그러는지 모르겠는데 여자 같은 남자한테 끌립니다. 머리도 짧은 것보다 단발 정도로 긴 머리가 좋고요 얼굴은 둥글하고 무쌍에 코도 동그란 사람이 좋아요 왜그런가요? 실제로 길에서 남자 무리들 중에서 머리 길고 옷도 여자같이 입은 남자 봤는데 많은 사람들 속에서 그 사람한테만 관심이 .... 새 창 열림" [ref=f355e811] [cursor=pointer]:
+                    - /url: https://kin.naver.com/qna/detail.naver?dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb&qb=7Z2s7Ju57Yiw
+                    - generic [ref=f355e812]: 저는 19살 여자인데요. 보통 친구들은 180넘고 근육 많은 남자들을 좋아하는데 저는요 제가 왜 그러는지 모르겠는데 여자 같은 남자한테 끌립니다. 머리도 짧은 것보다 단발 정도로 긴 머리가 좋고요 얼굴은 둥글하고 무쌍에 코도 동그란 사람이 좋아요 왜그런가요? 실제로 길에서 남자 무리들 중에서 머리 길고 옷도 여자같이 입은 남자 봤는데 많은 사람들 속에서 그 사람한테만 관심이 ....
+                    - generic [ref=f355e813]: 새 창 열림
+                - generic [ref=f355e815]:
+                  - link "왜요 질문자님 같은 경우도 꽤 있습니다. 뭐 남자라도 여자 같으면 서로 공감하기 더 유리할 수도 있으니 얼마든지 좋아할 수 있겠지요 새 창 열림" [ref=f355e816] [cursor=pointer]:
+                    - /url: https://kin.naver.com/qna/detail.naver?answerNo=1&dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb&qb=7Z2s7Ju57Yiw#answer1
+                    - generic [ref=f355e817]: 왜요 질문자님 같은 경우도 꽤 있습니다. 뭐 남자라도 여자 같으면 서로 공감하기 더 유리할 수도 있으니 얼마든지 좋아할 수 있겠지요
+                    - generic [ref=f355e818]: 새 창 열림
+                  - generic [ref=f355e820]:
+                    - link "alt 새 창 열림" [ref=f355e822] [cursor=pointer]:
+                      - /url: https://kin.naver.com/search/profileLink?answerNo=1&dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb
+                      - img "alt" [ref=f355e825]
+                      - generic [ref=f355e826]: 새 창 열림
+                    - generic [ref=f355e827]:
+                      - link "희 새 창 열림" [ref=f355e829] [cursor=pointer]:
+                        - /url: https://kin.naver.com/search/profileLink?answerNo=1&dirId=1130&docId=489952071&kinsrch_src=pc_nx_urb
+                        - generic [ref=f355e830]: 희
+                        - generic [ref=f355e831]: 새 창 열림
+                      - generic [ref=f355e832]: 수호신
+                    - generic [ref=f355e835]: 2025.11.04.
+            - generic [ref=f355e843]:
+              - generic [ref=f355e844]:
+                - generic [ref=f355e845]:
+                  - link "새 창 열림" [ref=f355e847] [cursor=pointer]:
+                    - /url: https://blog.naver.com/dementiash
+                  - link "시흥시치매안심센터 새 창 열림" [ref=f355e853] [cursor=pointer]:
+                    - /url: https://blog.naver.com/dementiash
+                    - generic [ref=f355e854]: 시흥시치매안심센터
+                    - generic [ref=f355e855]: 새 창 열림
+                  - generic [ref=f355e859]: 3주 전
+                - button "옵션 메뉴 열기" [ref=f355e863] [cursor=pointer]
+              - generic [ref=f355e869]:
+                - generic [ref=f355e870]:
+                  - link "경기광역치매안심센터 치매인식개선 공모전 시흥시 대거 수상! ✨ 새 창 열림" [ref=f355e871] [cursor=pointer]:
+                    - /url: https://blog.naver.com/dementiash/224391838121
+                    - generic [ref=f355e872]: 경기광역치매안심센터 치매인식개선 공모전 시흥시 대거 수상! ✨
+                    - generic [ref=f355e873]: 새 창 열림
+                  - link "안녕하세요, 여러분! 오늘은 시흥시치매안심센터에 정말 기쁘고 자랑스러운 소식을 전해드리려고 해요. 최근 경기광역치매안심센터에서 주관한 '치매인식개선 그림 공모전'의 최종 결과가 발표되었는데요. 우리 시흥시에서 무려 8명의 수상자가 배출되는 영예를 안았습니다! 특히 이번 공모전은 대상 수상작이 향후 경기도광역치매센터의 공식 홍보물품으로 제작되어... 새 창 열림" [ref=f355e875] [cursor=pointer]:
+                    - /url: https://blog.naver.com/dementiash/224391838121
+                    - text: 안녕하세요, 여러분! 오늘은 시흥시치매안심센터에 정말 기쁘고 자랑스러운 소식을 전해드리려고 해요. 최근 경기광역치매안심센터에서 주관한 '치매인식개선 그림 공모전'의 최종 결과가 발표되었는데요. 우리 시흥시에서 무려 8명의 수상자가 배출되는 영예를 안았습니다! 특히 이번 공모전은 대상 수상작이 향후 경기도광역치매센터의 공식 홍보물품으로 제작되어...
+                    - generic [ref=f355e876]: 새 창 열림
+                - link "14 새 창 열림" [ref=f355e877] [cursor=pointer]:
+                  - /url: https://blog.naver.com/dementiash/224391838121
+                  - generic [ref=f355e878]: "14"
+                  - generic [ref=f355e885]: 새 창 열림
+            - generic [ref=f355e891]:
+              - generic [ref=f355e892]:
+                - generic [ref=f355e893]:
+                  - link "새 창 열림" [ref=f355e895] [cursor=pointer]:
+                    - /url: https://blog.naver.com/with_pen
+                  - link "부산광역시교육청 새 창 열림" [ref=f355e901] [cursor=pointer]:
+                    - /url: https://blog.naver.com/with_pen
+                    - generic [ref=f355e902]: 부산광역시교육청
+                    - generic [ref=f355e903]: 새 창 열림
+                  - generic [ref=f355e907]: 2026.07.13.
+                - button "옵션 메뉴 열기" [ref=f355e911] [cursor=pointer]
+              - generic [ref=f355e917]:
+                - generic [ref=f355e918]:
+                  - link "AI 시대를 준비하는 학부모 디지털 미디어 교육 - <하남초> 학부모 연수 후기 새 창 열림" [ref=f355e919] [cursor=pointer]:
+                    - /url: https://blog.naver.com/with_pen/224344869653
+                    - generic [ref=f355e920]: AI 시대를 준비하는 학부모 디지털 미디어 교육 - <하남초> 학부모 연수 후기
+                    - generic [ref=f355e921]: 새 창 열림
+                  - link "초등학생을 위한 '주니어 커리어넷'에서는 흥미검사와 미래 직업 탐색을 무료로 체험할 수 있으며, '원격영상 진로멘토링' 사이트에서는 웹툰 작가, 콘텐츠 창작자, 일러스트레이터, 반려견 훈련사 등 다양한 직업인의 실제 이야기를 영상으로 만나볼 수 있습니다. 또한 '워크넷'의 직업 탐색 서비스를 활용하면 자신의 흥미와 적성에 맞는 직업군을 쉽고 빠르게 확인할 수... 새 창 열림" [ref=f355e923] [cursor=pointer]:
+                    - /url: https://blog.naver.com/with_pen/224344869653
+                    - generic [ref=f355e924]:
+                      - text: 초등학생을 위한 '주니어 커리어넷'에서는 흥미검사와 미래 직업 탐색을 무료로 체험할 수 있으며, '원격영상 진로멘토링' 사이트에서는
+                      - mark [ref=f355e925]: 웹툰
+                      - text: 작가, 콘텐츠 창작자, 일러스트레이터, 반려견 훈련사 등 다양한 직업인의 실제 이야기를 영상으로 만나볼 수 있습니다. 또한 '워크넷'의 직업 탐색 서비스를 활용하면 자신의 흥미와 적성에 맞는 직업군을 쉽고 빠르게 확인할 수...
+                    - generic [ref=f355e926]: 새 창 열림
+                - link "32 새 창 열림" [ref=f355e927] [cursor=pointer]:
+                  - /url: https://blog.naver.com/with_pen/224344869653
+                  - generic [ref=f355e928]: "32"
+                  - generic [ref=f355e935]: 새 창 열림
+            - generic [ref=f355e941]:
+              - generic [ref=f355e942]:
+                - generic [ref=f355e943]:
+                  - link "새 창 열림" [ref=f355e945] [cursor=pointer]:
+                    - /url: https://blog.naver.com/nh_anihi
+                  - link "논현애니하이-만화학원 새 창 열림" [ref=f355e951] [cursor=pointer]:
+                    - /url: https://blog.naver.com/nh_anihi
+                    - generic [ref=f355e952]: 논현애니하이-만화학원
+                    - generic [ref=f355e953]: 새 창 열림
+                  - generic [ref=f355e954]: 3주 전
+                - button "옵션 메뉴 열기" [ref=f355e958] [cursor=pointer]
+              - generic [ref=f355e964]:
+                - generic [ref=f355e965]:
+                  - link "수상작 포함 / 제 18회 미래내모습 그리기대회 대상(교육부장관상), 고등부 장려상 다수 수상ㅣ인.... 새 창 열림" [ref=f355e966] [cursor=pointer]:
+                    - /url: https://blog.naver.com/nh_anihi/224394066297
+                    - generic [ref=f355e967]: 수상작 포함 / 제 18회 미래내모습 그리기대회 대상(교육부장관상), 고등부 장려상 다수 수상ㅣ인....
+                    - generic [ref=f355e968]: 새 창 열림
+                  - link "인천 남동구 논현동 미술학원 / 제 18회 미래내모습그리기 대회 진행과정 인천웹툰학원 수업에서도 강조하는 ‘이야기가 보이는 화면 구성’을 공모전 작품에도 함께 적용했습니다. 논현동만화학원 애니하이 웹툰만화학원은 초등부부터 중... 일러스트, 웹툰 수업을 찾고 계신다면? 인천만화학원 · 논현동만화학원 애니하이의 다음 작품과 수상 소식도 기대해주세요!... 새 창 열림" [ref=f355e970] [cursor=pointer]:
+                    - /url: https://blog.naver.com/nh_anihi/224394066297
+                    - generic [ref=f355e971]:
+                      - text: 인천 남동구 논현동 미술학원 / 제 18회 미래내모습그리기 대회 진행과정 인천
+                      - mark [ref=f355e972]: 웹툰
+                      - text: 학원 수업에서도 강조하는 ‘이야기가 보이는 화면 구성’을 공모전 작품에도 함께 적용했습니다. 논현동만화학원 애니하이
+                      - mark [ref=f355e973]: 웹툰
+                      - text: 만화학원은 초등부부터 중... 일러스트,
+                      - mark [ref=f355e974]: 웹툰
+                      - text: 수업을 찾고 계신다면? 인천만화학원 · 논현동만화학원 애니하이의 다음 작품과 수상 소식도 기대해주세요!...
+                    - generic [ref=f355e975]: 새 창 열림
+                - link "18 새 창 열림" [ref=f355e976] [cursor=pointer]:
+                  - /url: https://blog.naver.com/nh_anihi/224394066297
+                  - generic [ref=f355e977]: "18"
+                  - generic [ref=f355e984]: 새 창 열림
+            - generic [ref=f355e990]:
+              - generic [ref=f355e991]:
+                - link "네이버 웹툰 comic.naver.com›webtoon 새 창 열림" [ref=f355e992] [cursor=pointer]:
+                  - /url: https://comic.naver.com/webtoon/list?titleId=850800
+                  - generic [ref=f355e994]:
+                    - generic [ref=f355e998]: 네이버 웹툰
+                    - generic [ref=f355e1000]: comic.naver.com›webtoon
+                  - generic [ref=f355e1004]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e1006] [cursor=pointer]
+              - generic [ref=f355e1011]:
+                - link "사랑단편선 - 네이버 <mark>웹툰</mark>의 이미지 새 창 열림" [ref=f355e1012] [cursor=pointer]:
+                  - /url: https://comic.naver.com/webtoon/list?titleId=850800
+                  - img "사랑단편선 - 네이버 <mark>웹툰</mark>의 이미지" [ref=f355e1014]
+                  - generic [ref=f355e1016]: 새 창 열림
+                - link "사랑단편선 - 네이버 웹툰 새 창 열림" [ref=f355e1018] [cursor=pointer]:
+                  - /url: https://comic.naver.com/webtoon/list?titleId=850800
+                  - generic [ref=f355e1019]:
+                    - text: 사랑단편선 - 네이버
+                    - mark [ref=f355e1020]: 웹툰
+                  - generic [ref=f355e1021]: 새 창 열림
+                - 'link "사랑단편선 희DA 글/그림 도전만화 로맨스 [사랑을 전하는 방법] #로맨스 #사랑 #단편 관심397 첫화보기 01. 쪽 [웹툰Ver.] 공유하기 총 2화 최신화부터 1화부터 01. 쪽 [출판만화Ver.]9.36 26.05.16 01. 쪽 [웹툰Ver.]9.65 26.05.16 1 새 창 열림" [ref=f355e1023] [cursor=pointer]':
+                  - /url: https://comic.naver.com/webtoon/list?titleId=850800
+                  - generic [ref=f355e1024]:
+                    - text: "사랑단편선 희DA 글/그림 도전만화 로맨스 [사랑을 전하는 방법] #로맨스 #사랑 #단편 관심397 첫화보기 01. 쪽 ["
+                    - mark [ref=f355e1025]: 웹툰
+                    - text: Ver.] 공유하기 총 2화 최신화부터 1화부터 01. 쪽 [출판만화Ver.]9.36 26.05.16 01. 쪽 [
+                    - mark [ref=f355e1026]: 웹툰
+                    - text: Ver.]9.65 26.05.16 1
+                  - generic [ref=f355e1027]: 새 창 열림
+            - generic [ref=f355e1033]:
+              - generic [ref=f355e1034]:
+                - link "에펨코리아 www.fmkorea.com 새 창 열림" [ref=f355e1035] [cursor=pointer]:
+                  - /url: https://www.fmkorea.com/10209993660
+                  - generic [ref=f355e1037]:
+                    - generic [ref=f355e1041]: 에펨코리아
+                    - generic [ref=f355e1043]: www.fmkorea.com
+                  - generic [ref=f355e1047]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e1049] [cursor=pointer]
+              - generic [ref=f355e1054]:
+                - link "대 수 <mark>희</mark> - <mark>웹툰</mark>/웹소설/만화의 이미지 새 창 열림" [ref=f355e1055] [cursor=pointer]:
+                  - /url: https://www.fmkorea.com/10209993660
+                  - img "대 수 <mark>희</mark> - <mark>웹툰</mark>/웹소설/만화의 이미지" [ref=f355e1057]
+                  - generic [ref=f355e1059]: 새 창 열림
+                - link "대 수 희 - 웹툰/웹소설/만화 새 창 열림" [ref=f355e1061] [cursor=pointer]:
+                  - /url: https://www.fmkorea.com/10209993660
+                  - generic [ref=f355e1062]:
+                    - text: 대 수
+                    - mark [ref=f355e1063]: 희
+                    - text: "-"
+                    - mark [ref=f355e1064]: 웹툰
+                    - text: /웹소설/만화
+                  - generic [ref=f355e1065]: 새 창 열림
+            - generic [ref=f355e1071]:
+              - generic [ref=f355e1072]:
+                - generic [ref=f355e1073]:
+                  - link "새 창 열림" [ref=f355e1075] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw
+                  - 'link "＃광운대학교＃정보과학교육원 #면접100% #서울에서공부하는 새 창 열림" [ref=f355e1081] [cursor=pointer]':
+                    - /url: https://cafe.naver.com/iitkw
+                    - generic [ref=f355e1082]: "＃광운대학교＃정보과학교육원 #면접100% #서울에서공부하는"
+                    - generic [ref=f355e1083]: 새 창 열림
+                  - generic [ref=f355e1084]: 2025.10.28.
+                - button "옵션 메뉴 열기" [ref=f355e1088] [cursor=pointer]
+              - generic [ref=f355e1094]:
+                - generic [ref=f355e1095]:
+                  - link "비실기 디자인과 서울권으로 진학하는 방법? 새 창 열림" [ref=f355e1096] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1097]: 비실기 디자인과 서울권으로 진학하는 방법?
+                    - generic [ref=f355e1098]: 새 창 열림
+                  - link "하며 웹툰 집중 교육을 운영하고 있는 전공입니다. 웹툰은 점점 분업화 되어가고 있으며 관련 산업 인력의 필요성도 점차 확대되고 있죠. 현직 작가로 구성된 1:1 멘토링으로 장르별... 실무 기반의 전공 전문교육을 위해 클립 스튜디오, 스케치업 등의 웹툰 전용 프로그램 마스터 교육을 진행하고 있어서 처음 프로그램을 접한 분들도 빠르게 적응하여 전공의 흥미를... 새 창 열림" [ref=f355e1100] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1101]:
+                      - text: 하며
+                      - mark [ref=f355e1102]: 웹툰
+                      - text: 집중 교육을 운영하고 있는 전공입니다.
+                      - mark [ref=f355e1103]: 웹툰
+                      - text: 은 점점 분업화 되어가고 있으며 관련 산업 인력의 필요성도 점차 확대되고 있죠. 현직 작가로 구성된 1:1 멘토링으로 장르별... 실무 기반의 전공 전문교육을 위해 클립 스튜디오, 스케치업 등의
+                      - mark [ref=f355e1104]: 웹툰
+                      - text: 전용 프로그램 마스터 교육을 진행하고 있어서 처음 프로그램을 접한 분들도 빠르게 적응하여 전공의 흥미를...
+                    - generic [ref=f355e1105]: 새 창 열림
+                - link "9 새 창 열림" [ref=f355e1106] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                  - generic [ref=f355e1107]: "9"
+                  - generic [ref=f355e1114]: 새 창 열림
+              - generic [ref=f355e1115]:
+                - generic [ref=f355e1117]:
+                  - link "RE 비실기 디자인과 서울 노원구에서도 가능하네요! 새 창 열림" [ref=f355e1118] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1121]:
+                      - generic [ref=f355e1122]: RE
+                      - text: 비실기 디자인과 서울 노원구에서도 가능하네요!
+                    - generic [ref=f355e1123]: 새 창 열림
+                  - link "RE 비실기 디자인과 이 방법이라면 어렵지 않겠는데요 새 창 열림" [ref=f355e1124] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1127]:
+                      - generic [ref=f355e1128]: RE
+                      - text: 비실기 디자인과 이 방법이라면 어렵지 않겠는데요
+                    - generic [ref=f355e1129]: 새 창 열림
+                  - link "RE 비실기 디자인과 준비 잘 하는 방법은 여기 있었네요 새 창 열림" [ref=f355e1130] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1133]:
+                      - generic [ref=f355e1134]: RE
+                      - text: 비실기 디자인과 준비 잘 하는 방법은 여기 있었네요
+                    - generic [ref=f355e1135]: 새 창 열림
+                  - link "RE 비실기 디자인과 당장 도전하러 갑니다 새 창 열림" [ref=f355e1136] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/iitkw/17349?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImlpdGt3IiwiYXJ0aWNsZUlkIjoxNzM0OSwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.QxJmcX8XJiib1qHcCNSJKKeyjjcJjF3hH4DYzn-wZ0A
+                    - generic [ref=f355e1139]:
+                      - generic [ref=f355e1140]: RE
+                      - text: 비실기 디자인과 당장 도전하러 갑니다
+                    - generic [ref=f355e1141]: 새 창 열림
+                - button "다음" [ref=f355e1142] [cursor=pointer]
+            - generic [ref=f355e1151]:
+              - generic [ref=f355e1152]:
+                - generic [ref=f355e1153]:
+                  - link "새 창 열림" [ref=f355e1155] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/sclod12
+                  - link "성천직자의 어둠의전설 새 창 열림" [ref=f355e1161] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/sclod12
+                    - generic [ref=f355e1162]: 성천직자의 어둠의전설
+                    - generic [ref=f355e1163]: 새 창 열림
+                  - generic [ref=f355e1164]: 2026.08.10.
+                - button "옵션 메뉴 열기" [ref=f355e1168] [cursor=pointer]
+              - generic [ref=f355e1174]:
+                - generic [ref=f355e1175]:
+                  - link "한율사진관 시즌1 오프 & 결산(feat.검은고향이) 새 창 열림" [ref=f355e1176] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/sclod12/498672?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNjbG9kMTIiLCJhcnRpY2xlSWQiOjQ5ODY3MiwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.Ha5co4AK_U69GpUOyZ6ySlfBtza6GYK5vKCRqSRrns8
+                    - generic [ref=f355e1177]: 한율사진관 시즌1 오프 & 결산(feat.검은고향이)
+                    - generic [ref=f355e1178]: 새 창 열림
+                  - 'link "여러분들의 많은 지원 그리고 성원에 힘입어 첫 시즌을 잘 마무리 하였습니다 본편 웹툰 연재로 인해 사진관은 우선 잠시 문을 닫도록 하겠습니다 다시한번 감사의 말씀 드립니다. -천쇄 염월- 증명사진 코너 결산 #쓸곳이 있을거야.. #쿠모삐 #몰랑잉 #볼빨다싼춘희 #스카이뱅크 #유체유동 #밀떡밀떡 #던크 #말랑한계란빵 #진씨 #개포스 #무선천궁 #제로파천 #블루퐁... 새 창 열림" [ref=f355e1180] [cursor=pointer]':
+                    - /url: https://cafe.naver.com/sclod12/498672?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNjbG9kMTIiLCJhcnRpY2xlSWQiOjQ5ODY3MiwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.Ha5co4AK_U69GpUOyZ6ySlfBtza6GYK5vKCRqSRrns8
+                    - generic [ref=f355e1181]:
+                      - text: 여러분들의 많은 지원 그리고 성원에 힘입어 첫 시즌을 잘 마무리 하였습니다 본편
+                      - mark [ref=f355e1182]: 웹툰
+                      - text: "연재로 인해 사진관은 우선 잠시 문을 닫도록 하겠습니다 다시한번 감사의 말씀 드립니다. -천쇄 염월- 증명사진 코너 결산 #쓸곳이 있을거야.. #쿠모삐 #몰랑잉 #볼빨다싼춘희 #스카이뱅크 #유체유동 #밀떡밀떡 #던크 #말랑한계란빵 #진씨 #개포스 #무선천궁 #제로파천 #블루퐁..."
+                    - generic [ref=f355e1183]: 새 창 열림
+                - link "47 새 창 열림" [ref=f355e1184] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/sclod12/498672?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNjbG9kMTIiLCJhcnRpY2xlSWQiOjQ5ODY3MiwiaXNzdWVkQXQiOjE3ODk0MzUwMjQ5NzN9.Ha5co4AK_U69GpUOyZ6ySlfBtza6GYK5vKCRqSRrns8
+                  - generic [ref=f355e1185]: "47"
+                  - generic [ref=f355e1192]: 새 창 열림
+            - generic [ref=f355e1198]:
+              - generic [ref=f355e1199]:
+                - link "전북특별자치도 콘텐츠융합진흥원 www.jcon.or.kr›board PDF 새 창 열림" [ref=f355e1200] [cursor=pointer]:
+                  - /url: https://www.jcon.or.kr/board/files/download.php?nttId=4041&bbsId=BBSMSTR_000000000001&fileSn=1
+                  - generic [ref=f355e1202]:
+                    - generic [ref=f355e1220]: 전북특별자치도 콘텐츠융합진흥원
+                    - generic [ref=f355e1222]: www.jcon.or.kr›board
+                  - generic [ref=f355e1226]: PDF
+                  - generic [ref=f355e1228]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e1230] [cursor=pointer]
+              - generic [ref=f355e1235]:
+                - link "「2025 전북<mark>웹툰</mark>캠퍼스」 제2회 전북<mark>웹툰</mark>공모전 선정심사 결과공고의 이미지 새 창 열림" [ref=f355e1236] [cursor=pointer]:
+                  - /url: https://www.jcon.or.kr/board/files/download.php?nttId=4041&bbsId=BBSMSTR_000000000001&fileSn=1
+                  - img "「2025 전북<mark>웹툰</mark>캠퍼스」 제2회 전북<mark>웹툰</mark>공모전 선정심사 결과공고의 이미지" [ref=f355e1238]
+                  - generic [ref=f355e1240]: 새 창 열림
+                - link "「2025 전북웹툰캠퍼스」 제2회 전북웹툰공모전 선정심사 결과공고 새 창 열림" [ref=f355e1242] [cursor=pointer]:
+                  - /url: https://www.jcon.or.kr/board/files/download.php?nttId=4041&bbsId=BBSMSTR_000000000001&fileSn=1
+                  - generic [ref=f355e1243]:
+                    - text: 「2025 전북
+                    - mark [ref=f355e1244]: 웹툰
+                    - text: 캠퍼스」 제2회 전북
+                    - mark [ref=f355e1245]: 웹툰
+                    - text: 공모전 선정심사 결과공고
+                  - generic [ref=f355e1246]: 새 창 열림
+                - link "1페이지 73KB(재)전북특별자치도 콘텐츠융합진흥원장 □ 수상결과 ❍ 평가결과 구분 작품명 대표 신청자 접수번호 대상 파도를 건넌 약속 박*빈 웹툰 공모전_08 최우수상 새벽빛을 따라 조*희 웹툰 공모전_13 우수상 인즉천 이*연 웹툰 공모전_06 우수상 무녀도 오*찬 웹툰 공모전_12 ❍ 안내사항 - 시상식 관련 사항은 선정자 대상 개별 안내를 통해 추후 공지드릴... 새 창 열림" [ref=f355e1248] [cursor=pointer]:
+                  - /url: https://www.jcon.or.kr/board/files/download.php?nttId=4041&bbsId=BBSMSTR_000000000001&fileSn=1
+                  - generic [ref=f355e1249]:
+                    - generic [ref=f355e1250]: 1페이지73KB
+                    - generic [ref=f355e1252]:
+                      - text: (재)전북특별자치도 콘텐츠융합진흥원장 □ 수상결과 ❍ 평가결과 구분 작품명 대표 신청자 접수번호 대상 파도를 건넌 약속 박*빈
+                      - mark [ref=f355e1253]: 웹툰
+                      - text: 공모전_08 최우수상 새벽빛을 따라 조*
+                      - mark [ref=f355e1254]: 희 웹툰
+                      - text: 공모전_13 우수상 인즉천 이*연
+                      - mark [ref=f355e1255]: 웹툰
+                      - text: 공모전_06 우수상 무녀도 오*찬
+                      - mark [ref=f355e1256]: 웹툰
+                      - text: 공모전_12 ❍ 안내사항 - 시상식 관련 사항은 선정자 대상 개별 안내를 통해 추후 공지드릴...
+                  - generic [ref=f355e1257]: 새 창 열림
+            - generic [ref=f355e1263]:
+              - generic [ref=f355e1264]:
+                - link "dongseo.ac.kr uni.dongseo.ac.kr›webtoon 새 창 열림" [ref=f355e1265] [cursor=pointer]:
+                  - /url: https://uni.dongseo.ac.kr/webtoon/index.php?pCode=MN5000017&CgCode=&sf=b_subject&skey=&st=and&mode=view&idx=553
+                  - generic [ref=f355e1267]:
+                    - generic [ref=f355e1285]: dongseo.ac.kr
+                    - generic [ref=f355e1287]: uni.dongseo.ac.kr›webtoon
+                  - generic [ref=f355e1291]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e1293] [cursor=pointer]
+              - generic [ref=f355e1298]:
+                - link "학과뉴스 - < 한국콘텐츠진흥원 창작초기단계 만화웹툰 콘텐츠 공모 선정 - 박O희 > | 웹툰학과 새 창 열림" [ref=f355e1300] [cursor=pointer]:
+                  - /url: https://uni.dongseo.ac.kr/webtoon/index.php?pCode=MN5000017&CgCode=&sf=b_subject&skey=&st=and&mode=view&idx=553
+                  - generic [ref=f355e1301]:
+                    - text: 학과뉴스 - < 한국콘텐츠진흥원 창작초기단계 만화
+                    - mark [ref=f355e1302]: 웹툰
+                    - text: 콘텐츠 공모 선정 - 박O희 > |
+                    - mark [ref=f355e1303]: 웹툰
+                    - text: 학과
+                  - generic [ref=f355e1304]: 새 창 열림
+                - link "학과소식 ; 공지사항 · 학과뉴스 · 학과 유튜브 · DSU WEBTOON webzine · DSU TOON · 공모전 새 창 열림" [ref=f355e1306] [cursor=pointer]:
+                  - /url: https://uni.dongseo.ac.kr/webtoon/index.php?pCode=MN5000017&CgCode=&sf=b_subject&skey=&st=and&mode=view&idx=553
+                  - generic [ref=f355e1307]: 학과소식 ; 공지사항 · 학과뉴스 · 학과 유튜브 · DSU WEBTOON webzine · DSU TOON · 공모전
+                  - generic [ref=f355e1308]: 새 창 열림
+            - generic [ref=f355e1314]:
+              - generic [ref=f355e1315]:
+                - link "카카오페이지 page.kakao.com›카카오페이지›네 이웃의 취향 새 창 열림" [ref=f355e1316] [cursor=pointer]:
+                  - /url: https://page.kakao.com/home/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/58408884
+                  - generic [ref=f355e1318]:
+                    - generic [ref=f355e1322]: 카카오페이지
+                    - generic [ref=f355e1324]: page.kakao.com›카카오페이지›네 이웃의 취향
+                  - generic [ref=f355e1328]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f355e1330] [cursor=pointer]
+              - generic [ref=f355e1335]:
+                - link "네 이웃의 취향 - <mark>웹툰</mark>의 이미지 새 창 열림" [ref=f355e1336] [cursor=pointer]:
+                  - /url: https://page.kakao.com/home/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/58408884
+                  - img "네 이웃의 취향 - <mark>웹툰</mark>의 이미지" [ref=f355e1338]
+                  - generic [ref=f355e1340]: 새 창 열림
+                - link "네 이웃의 취향 - 웹툰 새 창 열림" [ref=f355e1342] [cursor=pointer]:
+                  - /url: https://page.kakao.com/home/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/58408884
+                  - generic [ref=f355e1343]:
+                    - text: 네 이웃의 취향 -
+                    - mark [ref=f355e1344]: 웹툰
+                  - generic [ref=f355e1345]: 새 창 열림
+                - generic [ref=f355e1346]:
+                  - link "네 이웃의 취향 희,서정윤 · 웹툰 동네에서 작게 공방을 운영하고 있는 가은은 어느 날 익숙하던 옆집이 공사판으로 바뀌는 것을 보고 기함한다.게다가 낯설게 바뀐 그 집에 새롭게 이사온 이웃은 그녀가 본 적 없는 부류의 사납고 매서운 남자인데-.\"가은 씨, 저 집 좀 이상하지 않아?\"높은 담과 쉴 새 없이 드나드는 여자들.게다가 대낮부터 옷을 벗고 있는 걸... 새 창 열림" [ref=f355e1347] [cursor=pointer]:
+                    - /url: https://page.kakao.com/home/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/58408884
+                    - generic [ref=f355e1348]:
+                      - text: 네 이웃의 취향
+                      - mark [ref=f355e1349]: 희
+                      - text: ",서정윤 ·"
+                      - mark [ref=f355e1350]: 웹툰
+                      - text: 동네에서 작게 공방을 운영하고 있는 가은은 어느 날 익숙하던 옆집이 공사판으로 바뀌는 것을 보고 기함한다.게다가 낯설게 바뀐 그 집에 새롭게 이사온 이웃은 그녀가 본 적 없는 부류의 사납고 매서운 남자인데-."가은 씨, 저 집 좀 이상하지 않아?"높은 담과 쉴 새 없이 드나드는 여자들.게다가 대낮부터 옷을 벗고 있는 걸...
+                    - generic [ref=f355e1351]: 새 창 열림
+                  - link "평점 9.9/10 2.2만 참여 새 창 열림" [ref=f355e1352] [cursor=pointer]:
+                    - /url: https://page.kakao.com/home/%EB%84%A4-%EC%9D%B4%EC%9B%83%EC%9D%98-%EC%B7%A8%ED%96%A5/58408884
+                    - generic [ref=f355e1354]:
+                      - generic [ref=f355e1355]: 평점
+                      - generic [ref=f355e1357]:
+                        - generic [ref=f355e1358]: 9.9/10
+                        - generic [ref=f355e1364]: 2.2만 참여
+                    - generic [ref=f355e1365]: 새 창 열림
+            - generic [ref=f355e1371]:
+              - generic [ref=f355e1372]:
+                - generic [ref=f355e1373]:
+                  - link "새 창 열림" [ref=f355e1375] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate
+                  - link "로사사-일상 혹은 浪漫：로맨스를 사랑하는 사람들 새 창 열림" [ref=f355e1381] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate
+                    - generic [ref=f355e1382]: 로사사-일상 혹은 浪漫：로맨스를 사랑하는 사람들
+                    - generic [ref=f355e1383]: 새 창 열림
+                  - generic [ref=f355e1387]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f355e1391] [cursor=pointer]
+              - generic [ref=f355e1398]:
+                - link "남주 취향을 찾았아요… 새 창 열림" [ref=f355e1399] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                  - generic [ref=f355e1400]: 남주 취향을 찾았아요…
+                  - generic [ref=f355e1401]: 새 창 열림
+                - link "---------------------------------------------------------------------------------------------- 다정하고 어른스런 남주를 좋아한다 생각했는데 제가 감기는 소설 남주들은 그게 아녔네요!!!! 윙맨 희새나 숫것 희백이같은 애샛기미..남주를 좋아했네요 (어쩌다보니 이름도 둘다 희..희네요 희희!!) 요런 남주들 또 없나용 새 창 열림" [ref=f355e1403] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                  - generic [ref=f355e1404]:
+                    - text: "---------------------------------------------------------------------------------------------- 다정하고 어른스런 남주를 좋아한다 생각했는데 제가 감기는 소설 남주들은 그게 아녔네요!!!! 윙맨 희새나 숫것 희백이같은 애샛기미..남주를 좋아했네요 (어쩌다보니 이름도 둘다"
+                    - mark [ref=f355e1405]: 희
+                    - text: ..희네요 희희!!) 요런 남주들 또 없나용
+                  - generic [ref=f355e1406]: 새 창 열림
+              - generic [ref=f355e1407]:
+                - generic [ref=f355e1409]:
+                  - link "RE 후후훗. 수많은 종이 남주 중 나의 희새의 자리에 들어온 자는 아직 없습니다 ㅋㅋㅋ ㅎ 시리즈로 희대(희대의관심사)나 해일이(해일주의 새 창 열림" [ref=f355e1410] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                    - generic [ref=f355e1413]:
+                      - generic [ref=f355e1414]: RE
+                      - text: 후후훗. 수많은 종이 남주 중 나의 희새의 자리에 들어온 자는 아직 없습니다 ㅋㅋㅋ ㅎ 시리즈로 희대(희대의관심사)나 해일이(해일주의
+                    - generic [ref=f355e1415]: 새 창 열림
+                  - link "RE 추락은 상승을동반한다 이이재가 날티나고막사는버전 희새느낌 한스푼나요ㅋ 새 창 열림" [ref=f355e1416] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                    - generic [ref=f355e1419]:
+                      - generic [ref=f355e1420]: RE
+                      - text: 추락은 상승을동반한다 이이재가 날티나고막사는버전 희새느낌 한스푼나요ㅋ
+                    - generic [ref=f355e1421]: 새 창 열림
+                  - link "RE 애샛기 최고봉은 우리 이섭이죠..... 아잉~~ 이섭이 귀여워용 ㅋㅋㅋㅋㅋ 새 창 열림" [ref=f355e1422] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                    - generic [ref=f355e1425]:
+                      - generic [ref=f355e1426]: RE
+                      - text: 애샛기 최고봉은 우리 이섭이죠..... 아잉~~ 이섭이 귀여워용 ㅋㅋㅋㅋㅋ
+                    - generic [ref=f355e1427]: 새 창 열림
+                  - link "RE 시절연애 현진이 애샛끼남 탑3아닐까요? 희대의 관심사 희대 그리고 쎈거 보실수 있으시면 창백한열 정이언 추천입니다 새 창 열림" [ref=f355e1428] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/romancedate/426663?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InJvbWFuY2VkYXRlIiwiYXJ0aWNsZUlkIjo0MjY2NjMsImlzc3VlZEF0IjoxNzg5NDM1MDI0OTczfQ.te7_aMwNGK4SeRuW0CNyK0zrLX7wfQdzHMUCWvABn-w
+                    - generic [ref=f355e1431]:
+                      - generic [ref=f355e1432]: RE
+                      - text: 시절연애 현진이 애샛끼남 탑3아닐까요? 희대의 관심사 희대 그리고 쎈거 보실수 있으시면 창백한열 정이언 추천입니다
+                    - generic [ref=f355e1433]: 새 창 열림
+                - button "다음" [ref=f355e1434] [cursor=pointer]
+            - link "검색결과 더보기" [ref=f355e1439] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=1"
+              - generic [ref=f355e1440]: 검색결과
+              - generic [ref=f355e1441]: 더보기
+          - generic [ref=f355e1446]:
+            - generic [ref=f355e1448]:
+              - heading "이미지" [level=2] [ref=f355e1450]
+              - button "이미지 신고하기" [ref=f355e1453] [cursor=pointer]
+            - generic [ref=f355e1456]:
+              - generic:
+                - button "투디갤 - 웹툰 - 윤희 과거 ㅈㄴ 커엽":
+                  - img "투디갤 - 웹툰 - 윤희 과거 ㅈㄴ 커엽"
+              - generic:
+                - button "투디갤 - 웹툰 - 와 오늘 씬 진짜 소라의눈 같음":
+                  - img "투디갤 - 웹툰 - 와 오늘 씬 진짜 소라의눈 같음"
+              - generic:
+                - button "투디갤 - 웹툰 - 따먹고싶다":
+                  - img "투디갤 - 웹툰 - 따먹고싶다"
+              - generic:
+                - button "투디갤 - 웹툰 - 계약이었다는 거는":
+                  - img "투디갤 - 웹툰 - 계약이었다는 거는"
+              - generic:
+                - button "웹툰 \"인간의숲\"":
+                  - img "웹툰 \"인간의숲\""
+              - generic:
+                - button "투디갤 - 웹툰 - 세명 다 얼굴에 느낌표 뜬 거 개웃":
+                  - img "투디갤 - 웹툰 - 세명 다 얼굴에 느낌표 뜬 거 개웃"
+              - generic:
+                - button "나랑 똑같이 생긴 애가 날 창문에서 밀더니 나인 척하고 우리 아부지랑 떠났어요; - 인스티즈(instiz) 이슈 카테고리 나랑 똑같이 생긴 애가 날...":
+                  - img "나랑 똑같이 생긴 애가 날 창문에서 밀더니 나인 척하고 우리 아부지랑 떠났어요; - 인스티즈(instiz) 이슈 카테고리 나랑 똑같이 생긴 애가 날..."
+              - generic:
+                - button "투디갤 - 웹툰 - 썸머가 이서진 고윤희 캐릭터 설계한 거 짧은데 완전 이해됨":
+                  - img "투디갤 - 웹툰 - 썸머가 이서진 고윤희 캐릭터 설계한 거 짧은데 완전 이해됨"
+              - generic:
+                - button "[웹툰] 요즘 보는 것들-3 /네이버웹툰":
+                  - img "[웹툰] 요즘 보는 것들-3 /네이버웹툰"
+              - generic:
+                - button "경성야상곡 1화 | Daum 웹툰 경성야상곡 1화":
+                  - img "경성야상곡 1화 | Daum 웹툰 경성야상곡 1화"
+            - link "이미지 더보기" [ref=f355e1458] [cursor=pointer]:
+              - /url: "?nso=so%3Ar%2Cp%3Aall&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_nmr&ssc=tab.image.all&where=image"
+              - generic [ref=f355e1463]:
+                - generic [ref=f355e1464]: 이미지
+                - generic [ref=f355e1465]: 더보기
+          - generic [ref=f355e1470]:
+            - generic [ref=f355e1471]: 이전
+            - generic "페이지 탐색" [ref=f355e1473]:
+              - link "1 페이지" [ref=f355e1474] [cursor=pointer]:
+                - /url: "?nso=&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.nx.all"
+                - text: "1"
+                - generic [ref=f355e1475]: 페이지
+              - link "2 페이지" [ref=f355e1476] [cursor=pointer]:
+                - /url: "?nso=&page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=1"
+                - text: "2"
+                - generic [ref=f355e1477]: 페이지
+              - link "3 페이지" [ref=f355e1478] [cursor=pointer]:
+                - /url: "?nso=&page=3&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=21"
+                - text: "3"
+                - generic [ref=f355e1479]: 페이지
+              - link "4 페이지" [ref=f355e1480] [cursor=pointer]:
+                - /url: "?nso=&page=4&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=41"
+                - text: "4"
+                - generic [ref=f355e1481]: 페이지
+              - link "5 페이지" [ref=f355e1482] [cursor=pointer]:
+                - /url: "?nso=&page=5&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=61"
+                - text: "5"
+                - generic [ref=f355e1483]: 페이지
+              - link "6 페이지" [ref=f355e1484] [cursor=pointer]:
+                - /url: "?nso=&page=6&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=81"
+                - text: "6"
+                - generic [ref=f355e1485]: 페이지
+              - link "7 페이지" [ref=f355e1486] [cursor=pointer]:
+                - /url: "?nso=&page=7&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=101"
+                - text: "7"
+                - generic [ref=f355e1487]: 페이지
+              - link "8 페이지" [ref=f355e1488] [cursor=pointer]:
+                - /url: "?nso=&page=8&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=121"
+                - text: "8"
+                - generic [ref=f355e1489]: 페이지
+              - link "9 페이지" [ref=f355e1490] [cursor=pointer]:
+                - /url: "?nso=&page=9&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=141"
+                - text: "9"
+                - generic [ref=f355e1491]: 페이지
+              - link "10 페이지" [ref=f355e1492] [cursor=pointer]:
+                - /url: "?nso=&page=10&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=161"
+                - text: "10"
+                - generic [ref=f355e1493]: 페이지
+            - link "다음" [ref=f355e1494] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%ED%9D%AC%EC%9B%B9%ED%88%B0&sm=tab_pge&ssc=tab.ur.all&start=1"
+        - generic [ref=f355e1499]:
+          - link [ref=f355e1500] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f355e1502]:
+              - strong [ref=f355e1503]: 태그 하나로, 기록은 더 멀리
+              - paragraph [ref=f355e1504]: 오늘의 경험을 기록하고 포인트 적립
+          - link [ref=f355e1505] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2609-shopping-002&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F6a4f0fb8e73d32500f261a71%3FlayerId%3DL_260811143826330%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2609-shopping-002
+            - generic [ref=f355e1507]:
+              - strong [ref=f355e1508]: 추석+세일
+              - paragraph [ref=f355e1509]: 선물핫딜부터 선착순 쿠폰까지!
+          - link [ref=f355e1510] [cursor=pointer]:
+            - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt
+            - generic [ref=f355e1512]:
+              - strong [ref=f355e1513]: 적립적인 멤버십 전용카드
+              - paragraph [ref=f355e1514]: 네이버 현대카드 Ed.3
+          - link [ref=f355e1515] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f355e1517]:
+              - strong [ref=f355e1518]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f355e1519]: 검색이 대화가 되다
+    - generic [ref=f355e1520]:
+      - link "맨위로" [ref=f355e1522] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f355e1525]:
+        - link "전체서비스 새 창 열림" [ref=f355e1527] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+          - text: 전체서비스
+          - generic [ref=f355e1528]: 새 창 열림
+        - link "이용약관 새 창 열림" [ref=f355e1530] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+          - text: 이용약관
+          - generic [ref=f355e1531]: 새 창 열림
+        - link "개인정보처리방침 새 창 열림" [ref=f355e1533] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f355e1534]: 개인정보처리방침
+          - generic [ref=f355e1535]: 새 창 열림
+        - link "검색 고객센터 새 창 열림" [ref=f355e1537] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+          - text: 검색 고객센터
+          - generic [ref=f355e1538]: 새 창 열림
+        - link "© NAVER Corp. 새 창 열림" [ref=f355e1540] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
+          - text: © NAVER Corp.
+          - generic [ref=f355e1541]: 새 창 열림
+```

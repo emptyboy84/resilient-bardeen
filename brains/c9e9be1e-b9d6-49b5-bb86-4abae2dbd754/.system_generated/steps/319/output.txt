@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+At line:3 char:74
++ ... fs.readFileSync('input_user_raw_2.txt', 'utf-8').replace(/\"[\r\n]+05 ...
++                                                                  ~
+Array index expression is missing or not valid.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingArrayIndexExpression
+ 
+

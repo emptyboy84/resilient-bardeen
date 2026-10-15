@@ -1,0 +1,15 @@
+The search for ""메이브릿지" OR "주식회사 메이브릿지" ("김현진" OR "751-81-03079" OR "180111-1487510" OR "엘리움")" returned the following summary:
+검색하신 키워드와 일치하는 기업 및 등록 정보 관련 내용은 다음과 같습니다.
+
+* **기업명:** 주식회사 메이브릿지 ((주)메이브릿지)[1]
+* **대표자:** 김현진[1]
+* **사업자등록번호:** 751-81-03079[2]
+* **법인등록번호:** 180111-1487510[2]
+* **설립일자:** 2023년 1월 31일[1]
+* **주요 업종:** 시스템 소프트웨어 개발 및 공급업[2]
+* **소재지:** 부산광역시 해운대구 해운대로 (엘리움 관련 상세 주소 및 인프라 연계 정보 포함)[2][3]
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj85new4ZiyYZWrWEr-YipC5tpio40gCC80TcOUzT82C6mVKOkFHzTDS609nvyiE_75Qj_E9cx8uoQLSkDWp64CPYpJ3anr4XZiRlpBNHdBREIycTi4_qWh2zZqJLZtwFX)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXNOjuHnf8rYV8A1NJjFdWxB2TCLFajW1kN_B4O-6tixCcHl2AU5GD9vUnOiQHmiScLro79unVicB6a_YLUY5v7jrTDzM7pFs7xAkkanuU90B6JcICUGRPx_A3PbSmr9-F0-AiEuUHBRtjyqntNgvAUtw=)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj85new4ZiyYZWrWEr-YipC5tpio40gCC80TcOUzT82C6mVKOkFHzTDS609nvyiE_75Qj_E9cx8uoQLSkDWp64CPYpJ3anr4XZiRlpBNHdBREIycTi4_qWh2zZqJLZtwFX)

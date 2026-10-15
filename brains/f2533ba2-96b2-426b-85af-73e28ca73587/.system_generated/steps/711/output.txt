@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=&query=%EA%B8%88%EA%B0%95%EA%B8%B0%EC%97%85%20%EC%B5%9C%EC%9E%AC%EC%8B%9D');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%EA%B8%88%EA%B0%95%EA%B8%B0%EC%97%85%20%EC%B5%9C%EC%9E%AC%EC%8B%9D
+- Page Title: 금강기업 최재식
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T03-57-29-562Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T03-57-17-800Z.log#L1-L3

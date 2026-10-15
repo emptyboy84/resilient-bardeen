@@ -1,0 +1,14 @@
+The search for ""본스타소프트" OR "634-07-00855" 김성진 전화번호 OR 연락처" returned the following summary:
+제시해주신 사업자등록번호(`634-07-00855`)와 성명(김성진) 정보는 모바일 앱(안드로이드 게임/소프트웨어 관련 개인 개발자 또는 소규모 사업자 등록 정보)에 등록된 내용으로 확인됩니다[1]. 
+
+일반적으로 이러한 앱 마켓 개발자 등록 정보나 성명만으로는 개인정보 보호 및 통신비밀보호법 등에 의해 **개인 휴대폰 번호나 직통 연락처를 공개적으로 조회하거나 제공할 수 없습니다.**
+
+만약 해당 소프트웨어 개발자나 사업자와 관련하여 공식적인 문의나 연락이 필요하신 경우, 해당 앱의 스토어(Google Play 등) 내 **'개발자 연락처'** 또는 **'앱 지원'** 항목에 기재된 이메일이나 지원 채널을 통해 문의해 보시기 바랍니다.
+
+*(참고: 검색 결과에 등장하는 '본스타소프트' 또는 '본스타컴퍼니(본스타트레이닝센터)'는 연기·보컬 교육 및 엔터테인먼트 관련 기업으로[2][3], 위 개발자 정보 및 김성진이라는 성명과는 직접적인 연관성이 확인되지 않으며, 본스타컴퍼니의 공식 대표 번호는 `02-777-5252`입니다[4].)*
+
+Sources:
+[1] [taptap.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJJGGArpbnDiz1F2OMOJ8kCiCeA8PTpVCZ9pSiKuICfWvb28POhQ3xG8aWqOv3jIOfRiPlW9gcQutdKJ8Wz5K5TKJLzcd0OihQ87xOo33Jw2gDQpG0BawTfA==)
+[2] [bornstar.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxztuvz2WiL8yZmKWMUVuNyVsaAGzgH0wVgxDrFfNR3O9NCB5oPs66N7KIyccgbDb8kVZACH2kUWq_wmf24FspkCH0476HOjO3GuqXcA==)
+[3] [bornstarcompany.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9UJDWuGq0BFP7cb6FlIZONq5_JZAG_JWfzFYI79_8trgfGF47gPENX3nSxVtHq5fe4YuyG_PpaFCVN1sZXqXW4Jm0Kyc5wS9Xs0OQMwD38vW-uw==)
+[4] [bornstar.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZa3lAkWNgvfD9U5AKPgthHavw_1uFOlslGGIcQ9vEi4j2NN6-duo8oVEJTzKUWD421WXxyFtIXCz4Mk0TFnu9qdDrH0NVUdCxXmn7vVbZzdFoWA==)

@@ -1,0 +1,249 @@
+### Result
+[
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "간편 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "일괄등록 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "이미지폐쇄등기부 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "소유현황 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "이미지폐쇄등기부 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "소유현황 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "이미지폐쇄등기부 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "전자법인인감증명서 발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "이미지폐쇄등기부 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "전자법인인감증명서 발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인인감증명서 발급지원",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "정보제공(부여현황 열람)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청결과 확인 (미열람/재열람/미발급 등)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "정보제공(부여현황 열람)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청결과 확인 (미열람/재열람)",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산등기 신청 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급 내역확인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 잔고증명서 발급/조회",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "온라인법인설립시스템 수수료 결제",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "휴면법인 영업신고",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청수수료",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 첨부서면 승인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청정보및첨부정보 열람 위임장 승인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "휴면법인 영업신고서 승인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청사건",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "열람·발급 결제내역",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인인감 문자전송 서비스",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 등록",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산등기 열람/발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 열람/발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "인터넷에 의한 등기기록의 열람 등 서비스의 이용에 관한 약관 개정 \n2026.10.01",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "인터넷등기소를 통한 휴면법인 영업신고 안내 \n2026.09.28",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "부동산소유현황열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "전자법인인감증명서발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인인감증명서발급예약",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "동산·채권담보열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "신청정보 및첨부정보 열람",
+    "href": "javascript:void(null);"
+  },
+  {
+    "text": "법인등기 신청",
+    "href": "javascript:void(null);"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.filter(a => a.innerText.includes(\'법인\') || a.innerText.includes(\'열람\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```
+### Open tabs
+- 0: (current) [인터넷등기소](https://www.iros.go.kr/index.jsp)
+- 1: [인터넷등기소 시스템 점검 및 변경 관련 서비스 중단안내](https://www.iros.go.kr/websquare/popup.html?w2xPath=/ui/pm10/p0/potalmain/Pm10P0IrosPopupPrvw.xml&popupID=mf_wfm_potal_main_popup1794495738585&w2xHome=/ui/pm10/p0/potalmain/&w2xDocumentRoot=)
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소

@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-21T09:13:28+09:00
+Prompt: Check task-342 at 200 items
+Early Termination: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-342
+
+[2026-09-21T09:13:18+09:00] Still waiting. Remaining time: 10s
+[2026-09-21T09:13:28+09:00] Timer fired.

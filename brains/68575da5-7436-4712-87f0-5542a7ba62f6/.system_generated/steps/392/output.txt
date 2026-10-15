@@ -1,0 +1,16 @@
+The search for ""온클레브" "051"" returned the following summary:
+**온클레브(ONCLEV)**는 인공지능(AI)과 블록체인 기술을 바탕으로 가상자산 추적 및 금융 범죄·자금세탁 방지(AML) 솔루션을 제공하는 대한민국의 딥테크 스타트업(레그테크 기업)입니다[1][2][3]. 
+
+* **주요 서비스 및 기술:** 다크웹, SNS, 온체인 데이터 등 공개된 신호(OSINT)를 수집·분석하여 복잡한 가상자산의 자금 흐름을 자동으로 추적하고 수사를 지원하는 솔루션(ArrestBC 등)을 개발합니다[4][1][5].
+* **주요 이력:** 서울경찰청 가상자산 수사 자문 경험을 바탕으로 설립되었으며[2], 각종 핀테크 육성 프로그램 선정 및 시드 투자 유치[3], 금융기관 및 유관 기업과의 협업 등을 이어가고 있습니다[6][7].
+
+검색어에 함께 포함된 **'051'**은 온클레브의 본사가 위치한 **부산광역시의 지역번호**[1] 또는 언론·금융기관(예: BNK부산은행 등) 관련 보도에서 파생된 키워드로 연관되어 검색된 것으로 보입니다[6].
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPyVm3ufEzzOGE2oBkczR7xhEMuEg_Dsa2cyZOdkCXj3Fl8HvKLJ1-91LaLtEKfcFUy0_koXzYqE1PCFMx8zTiAHj0ac6gV_fcSl3LfA==)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb8V0hbobYUa4WOK1KMeuG0npUehgDruAE0yImb299HS0B6s0q3BWAlktzdTckNoIxfdy4WvITgFQERxWBjKzFuvwDBap4eFc0nj0xXkiDTrnh6iW_vI53s4hA1n59nOeyXMXQy1-jx7qKlJTDKSiCtg==)
+[3] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp6OJWcm3DU3EwKUyq9KZ387XhGDJ77PUpkpt4KcebvNPgqL6mJTP6aM__R4-TnL1ISSMgP7SLkoNdaaXKDz96XMTbkJzBg1QGEbwmZshNIYCKIsgn9FtsCL504j4phyawH1sXe8-sHacjTKG-WiY_AaER)
+[4] [onclev.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN48QXgvzZkdGt0rkRJnfqbJFQxOtpBxxHnh4L902zZgBDABDktTiPZwFna-FhBVmQ7wZgaNrqhVb1I4zhC8wUNgAihw2IlaJu)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd1S6t1YSYP1zgiC_idaokffqhB6gNCfA0upXw7yZ9KuzCh8EjvwqBpDotiEYqDlow6ix-TsBxin6F0jMOuUBICg40P6S4GD9NOyY7G9-iZ6PtNmzBRa3ydVH2DY-41Fvz)
+[6] [ictnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKP2rLwjsJhCi2vuU_Nof-Z1GSO-Kw9RmzbKO5p-XGSntaVllseL5U3gzLdW9YOnWWN2xpOBtyOOEzrdRevG0LhrSrSupdmoxWk-HX4cxl5aj4kQnkeHLsxLr-qqXJQdlLEgJhduF4fIn7dG7tUdrdzcTVzL2dBUFVWVeRmg==)
+[7] [edaily.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6ZUbO3S85b8TXy-3iDOkTbn1CJyIwAQfIMKy7eizp2d_PnvS6ncAb7fLPmTCG0P-mq6iNCmiyaHiHLvHiuGN7cqOlyTPHjN6rdISQ69rxVREQL03b5RA-duZAxrBza3nqdo54VBr7yxA1qlazNqbtHyvR89ZrA==)

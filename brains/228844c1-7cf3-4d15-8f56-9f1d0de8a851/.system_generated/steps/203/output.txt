@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6028161888');
+```
+### Page
+- Page URL: https://bizno.net/article/6028161888
+- Page Title: 주식회사 블랙홀엔터테인먼트
+- Console: 1 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-35-38-653Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-35-31-752Z.log#L1-L9

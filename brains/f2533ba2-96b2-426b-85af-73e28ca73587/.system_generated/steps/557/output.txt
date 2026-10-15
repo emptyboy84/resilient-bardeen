@@ -1,0 +1,10 @@
+### Result
+"Submitted form with 7758100670"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[name="query"]\') || document.querySelector(\'input[type="text"]\') || document.querySelector(\'#query\');\n  if (!input) return \'Search input not found\';\n  input.value = \'7758100670\';\n  const form = input.form;\n  if (form) {\n    form.submit();\n    return \'Submitted form with 7758100670\';\n  }\n  return \'Form not found\';\n}');
+```
+### Page
+- Page URL: https://bizno.net/
+- Page Title: Loading https://bizno.net/?area=&query=7758100670
+- Console: 0 errors, 1 warnings

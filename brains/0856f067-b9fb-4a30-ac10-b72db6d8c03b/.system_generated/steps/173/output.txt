@@ -1,0 +1,12 @@
+### Result
+"조건에 맞는 업체가 없습니다."
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText');
+```
+### Page
+- Page URL: https://pcmap.place.naver.com/place/list?query=051-206-3991
+- Page Title: 네이버 플레이스
+- Console: 0 errors, 3 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-32-12-419Z.log#L3

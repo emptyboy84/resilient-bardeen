@@ -1,0 +1,16 @@
+The search for ""기장군 장안읍 오리" 우편번호 OR "오리로" 우편번호" returned the following summary:
+부산광역시 기장군 장안읍 오리 지역의 우편번호는 위치에 따라 **46030** 또는 **46031**이 사용됩니다[1][2][3].
+
+'오리로'라는 명칭은 공식 도로명주소 체계에서 확인되지 않으며, 해당 지역은 주로 **오리길** 또는 **오리산단로** 등의 도로명을 사용하고 있습니다[1][4][3].
+
+정확한 우편번호는 찾으시는 건물이나 지번의 상세 주소에 따라 달라질 수 있으므로, 아래의 [도로명주소 안내시스템](https://www.juso.go.kr)에서 상세 주소를 입력하여 확인하시는 것을 권장합니다[5][6].
+
+*   **도로명주소 안내시스템:** [https://www.juso.go.kr](https://www.juso.go.kr)
+
+Sources:
+[1] [juso.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFscgPrh9TWmL7x33sGsb0LIiJovVXxR517PDqCqW_qWgMmMknGWugzbo_2P3PFwWFpDDkGyRfvAlN3FoeU7b5YZ0SX4UL5uAllhdET9afrO90Y6MXqwadW)
+[2] [addressview.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqyteOEpC5p2xF7C6friqzYKvNHdGOTGfGr1ZiFVJSQHhsEOdyKG2y4gjLXyTL5RvXlAqXx0DCgICSpazYU4nDGdUFqVh0iNRxDfq9SHZb6vtULh_Rn_XiUoKeGKnId8BPR6QGwI8e4hQ7oHavp08-eQNucYVyeNX)
+[3] [juso.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdHgXO90IEA4eh09HnhkMRIxulGdpON4piejncCPditZ-E1los2Z5VSz2tdrYPkFLdG0TQnyDYXinrrTDurxwrazXixtgdDM-AzOs3Cev1v4eAStab_YCr)
+[4] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeE6f7NaMN8ISxoXkSMbzbCP5kGz-vHlgRdvJzMo0J6MKW7ycIRKL3AqMK22illkwnXGnASBU_ZKbLTRVmkZ2_BFrKHq3Z-3TifVLM9U-5omLJwAXfV-2lkI0HJL6FmHVjaKKuy-ciF9CU4sgNWRtcSgXuSMZM1fTX_OZORZjqX4loVBzENqTYeXOjqAAsEsAeSqjh1ETNFY8-U_heTw3I7vLaf_4B2RkqeYb6ZlYvLIPYWNq7bxZ03Fjxlj0Qk6cdgRHlY_5nRMPzg8TzCKems_rM6dYh9V4PCKWF-L2Db5Rf1MfwJZLnMUnfdVWtDK56Rk9UanaLNbGUng==)
+[5] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAqyNF2m9rEIoi4T2esSLI_YVOrLx-Z8gm5a2d1eXx2CHVrij6CktD9IztM6GhTPjTAFYuACr03FAeqh5LmfflP1UQl5hPTJ1EbeEpbJWpIwfiiNtvgt8j-SjG93cc)
+[6] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvyjP091Cs7z4_icmde0tVvqsJMYRYUITfMr4VhOc1ywY6JLE6GqVFyS4wKXanxKEpD4APMSfiyOK19Etk2WI89GWngPlvvzDUgRc7qOLzwEq1Og8HSYV39YZWe2YI9avodVfg6B9qiUcFloPDJrt8RIRjVj9ua1607A==)

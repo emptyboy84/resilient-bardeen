@@ -1,0 +1,13 @@
+The search for ""이석창" 만화 OR 웹툰 OR 애니메이션 OR 캐릭터 OR 작가 OR 코믹스" returned the following summary:
+이석창 작가와 관련하여 만화, 웹툰, 애니메이션 분야의 직접적인 활동 정보는 확인되지 않습니다.
+
+검색 결과에 따르면, '이석창'이라는 이름을 가진 저자는 다음과 같은 분야에서 활동하고 있습니다:
+
+*   **예술/여행 분야 저자:** 《부산영화사》 등의 저서를 집필하였습니다[1].
+*   **교수 및 영상 제작자:** 건양대학교 디지털콘텐츠학과 교수로 재직 중이며, 인공지능 영상 등 디지털 미디어를 활용한 작품 활동을 하고 있습니다[2].
+
+만약 찾으시는 분이 특정 웹툰 작가나 만화가라면, 혹시 이름의 철자가 다르거나 다른 분야에서 활동 중인 분일 가능성이 있으니 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHroQGinzth2IpVnrk2ar-uYnf-3eVRYVBSZ1wf9P8-IHcAtlw1e3MnpXc4Qlc1CBoiIjFTUpl2Oxaf63a9TwgXuHc-_ftos1aza5GV80CiuipgRMhh2GPMY6xU84qSIpHd)
+[2] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd5B95oc6K07PvGWIh0wcGDdvNIewZ3AwYT_ft5VXeHITPZ0FPPnKeR7Th3PfqxyvIzTrQw7YxZnbDaumu_TtDvP_GXaG7P2MFBjrnyTe0TadNNnlTZAUs-w==)

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EA%B0%80%EC%95%BC%EC%A0%95%EA%B8%B0');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EA%B0%80%EC%95%BC%EC%A0%95%EA%B8%B0
+- Page Title: '가야정기' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T02-32-21-921Z.yml)

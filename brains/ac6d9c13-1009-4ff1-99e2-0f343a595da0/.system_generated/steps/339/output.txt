@@ -1,0 +1,12 @@
+The search for ""직장선배" "센텀동로 41" OR "센텀벤처타운" OR "직장선배" 사업자등록번호" returned the following summary:
+요청하신 주소(**부산광역시 해운대구 센텀동로 41, 센텀벤처타운**[1][2])에 위치한 팀/프로젝트명 **'직장선배'**(주식회사 형태의 정식 기업이 아닌 창업팀 또는 프로젝트명 등으로 활동한 이력 있음[3][4])의 공식 사업자등록번호는 공개된 공공 데이터 및 일반 기업 정보 데이터베이스에서 조회되지 않습니다. 
+
+해당 명칭은 부산 지역의 청년 창업 프로그램 및 ICT 관련 지원 사업(예: 센텀벤처타운 오픈개발실 등)에 참여했던 프로젝트 팀명으로 주로 확인됩니다[3][4]. 
+
+만약 해당 단체나 프로젝트를 진행한 정확한 법인명(상호) 또는 대표자 성명을 알고 계시거나 국세청 홈택스 등을 통한 세무적 조회가 필요하신 경우, 정식 법인 상호명이나 고유 명칭을 바탕으로 조회하셔야 확인이 가능합니다.
+
+Sources:
+[1] [bai.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqzHgu0FdQ9n752afpri2dNNKJISQsTzNXzrkUcHTxj0Q2PNzOmJqpZsghIZQBAuUsFpvqAIwLYvL3Rbp8dFzVa7jnzRQqtsoQKeXnB0Fy3IML3pDRFJngoOh8wJRY)
+[2] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6p5MGl6LiseByZG7ZHT51Mwa2uoD_lk1GD-9caCK9HC2896trsfxyKc0HRhaimKuMxm7VHeOVMfoH-VqcEDwclQsjy0WHDYsHsVIjJzjWlbEqJgRyO9hZCW_W8IgQAhzn6_DALZ_ukpW-cdLqex0-Rq_4fosfae-vlyznTbWQjew5bNN1j-Xne2M_eNdnV_cK-a8Sg-nDUV2vap5l6cPg0GOrCBNInumm8cX-bd7_vJe3e1QKlYJJ6trZPspaV1_kuFwBvFgMULXlprOZp7g9NQ4yVmDHZG8Nrwcw1BSVb124usJEKdiq2zsIUHezbR661nY0_NyGpr8GA-2jjgJcFOKp_ypO_6tMWKd2M3GjrupR_N9kiGLXC2-ANQLiVU6O0D4oGHCG2_k=)
+[3] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx9cQZBStw0zeIQ7DLd-vHFcrZflLpiYZZlevr9dN0pFFF2-slNsCkyWE_uL7VEKvazmgtIBXCxsQNH1DwdJTmDOYUXiU5bp1RPyh_XyfmC1nJnV9Crb2XvI87TSoqewe2ew==)
+[4] [kbsm.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ1AVQwoFFYvRRoCDiGioGjSwy78il_qjxw_XYALMQ8J8qDXD_TLMyWaqKW3fWzg2evFWaUkYzXEsIebRp6R4jgeKqEnB_gycKl5lpc4GHigDXm1SSx7ZY5Ny2sQ==)

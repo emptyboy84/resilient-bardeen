@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+Name                TargetPath                                                             Arguments                   
+----                ----------                                                             ---------                   
+Antigravity IDE.lnk C:\Users\lg\AppData\Local\Programs\Antigravity IDE\Antigravity IDE.exe --disable-gpu --disable-g...
+Antigravity.lnk     C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe         --disable-gpu --disable-g...
+
+
+

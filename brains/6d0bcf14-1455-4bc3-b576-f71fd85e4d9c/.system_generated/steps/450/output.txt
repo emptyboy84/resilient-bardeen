@@ -1,0 +1,18 @@
+The search for ""페타브루" ("051" OR "070" OR "010" OR "고범진" OR "816-87-02025")" returned the following summary:
+**주식회사 페타브루(PETABREW)**는 고주파 레이더 및 지능형 센서 기술을 기반으로 신호처리 알고리즘과 하드웨어·소프트웨어 통합 솔루션을 제공하는 혁신 기업입니다[1][2]. 
+
+제시해주신 정보와 관련된 주요 내용은 다음과 같습니다.
+
+* **대표자:** 고범진[1]
+* **사업자등록번호:** 816-87-02025[1]
+* **주요 사업 및 기술:** 
+  * 고주파 레이더(FMCW 레이더 등) 기반의 비접촉 센서 신호처리 및 정밀 알고리즘 설계[1][2]
+  * 선박용 고정밀 LNG 레벨트랜스미터(외산 의존도가 높던 극저온·저유전율 물질 측정 부품의 국산화)[1]
+  * UAM 이착륙 시스템, 무인 비행 장치 제어, 스마트 공간 유동인구 분석 및 디지털 헬스케어 등 지능형 감지 솔루션 확장[1][3]
+* **위치 및 연혁:** 부산광역시 강서구 화전산단에 본사가 위치해 있으며[1][4], 2021년 6에 설립되었습니다[1]. 한양대학교 기술지주 등으로부터 시드 투자를 유치하였고[1], 중소벤처기업부의 기술창업 지원 프로그램인 **TIPS(팁스)**에 선정된 바 있습니다[1].
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_l3sMUOwblPs2Yh4yaE5mrfsuz_FBLSru5dyYo7iJ3RIApgxDQd5Od5Jjxu4awXAmffsa7YFLk0tDXHLnFVs882UkavW6U1_EjnZmE61ESI7LC_6_gSx7o2fch98mcYAV9aWH7aRmlTRIwH-UnBTswpL0yqIFi5swUQ==)
+[2] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLznf5AmLDD4Q5QFpysn3hCfycJOyP4almHMIEOBpob4hYUjou-u7dKjhVSnd9q6h2TnmTubNdmHq8mbVAWsExNoTPOaOUsAO)
+[3] [kyosu.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAF3szO5iviLMJCHM_8TWE3w7W9ecPpgvvJMj2K8qqeRHtUoTHcusfamoFucTurfB8ahJSCBtGFq-g1XQaOLUhNzMCVodUV5LVogbK9aWxSwI6jLntYugxdgyXfk0SEndqUPlJ3yc4Gu_UKSnn)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1l-6nGgBPPUZsrb1t5DA6Wsvrcg4QVSfOF3lyUIlUq8F6afHDp-Obq8ht1BvAye6h5CXHo_RYHxgTmHOKOZXG4EetdzTTINd4EiWmoKU=)

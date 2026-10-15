@@ -1,0 +1,10 @@
+The search for "site:allthatcompany.com "태성" "남태희" OR "605-81-85763" OR "부평1길"" returned the following summary:
+검색 결과에 따르면, 기업정보 플랫폼(사람인 등)에 등록된 **(주)태성**의 정보는 다음과 같습니다[1]:
+
+* **기업명:** (주)태성[1]
+* **대표자명:** 남태희[1]
+* **주소:** 부산광역시 중구 부평1길 73[1]
+* **사업 내용:** 영화배급업 (영화, 비디오물 및 방송프로그램 배급업)[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAhK10GugOywEDbdAmDnhUbZ-3Mm27HpRCnG8-RfsB_1y66Ir99TcLRf8p2k6i0uPGzYoS1qlyGBGHD-TuMt8tg4K0bpxXjyO5slS0iBlAS4xiKZX9vY6-baahEeY9GWN-VFX4UunZ2exXIPgwGyRGRlv5z0srwUMRhBFDhdSW8RS332-Y5w33UmYbNWhruRIDDh_4m1MUnsKwKFU05rARqocXnmBDTEWl7fJ9_9nf7TfB82PCORXD9ykV2w==)

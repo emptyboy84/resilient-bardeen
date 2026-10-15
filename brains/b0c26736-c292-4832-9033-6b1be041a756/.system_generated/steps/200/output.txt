@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=&query=%EC%A7%80%EB%8B%88%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%EC%A7%80%EB%8B%88%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC
+- Page Title: 지니에듀테크
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-30-42-480Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-30-36-782Z.log#L1-L2

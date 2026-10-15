@@ -1,0 +1,21 @@
+The search for ""케이엘정보통신" "부산" 사업자등록번호 OR "051-714-1076"" returned the following summary:
+**케이엘정보통신(주)**의 기업 정보는 다음과 같습니다.
+
+### **1. 본사 사업자등록번호**
+*   **사업자등록번호:** **314-81-41684**[1]
+*   **본사 주소:** 서울특별시 강남구 삼성로91길 28, 6~8층 (삼성동, 케이엘타워)[2][1]
+
+### **2. 부산지사 정보**
+문의하신 전화번호 **051-714-1076**은 케이엘정보통신 부산지사의 연락처입니다[3][4].
+*   **주소:** 부산광역시 해운대구 센텀북대로 60, 센텀아이에스타워 508호[2][4]
+*   **팩스:** 051-808-1076[2][5]
+
+참고로, 사업자등록번호는 본사를 기준으로 관리되는 경우가 많으며, 지점의 경우 별도의 지점 사업자등록번호가 부여될 수 있습니다[1][6]. 위 정보는 공식 홈페이지 및 공공기관의 개인정보처리방침 등에서 확인된 내용입니다[3][4].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBt-tGkYgad5IrEI6cjkRcC8ucqphGubBAHiCTH5OUGmCQkKOkXVX9gEUDoan0ljNS7bHJItCIwBTgP9yX7ZaiZU0KpquSuDkbmya8jrke1_vWW4_GC8TICh8=)
+[2] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-fQhR3QtGxFEXvwHtk9jfGimwUrdghCfaDyZTlbLbiHcytGu-tLpT15n3gKpHzNUXBeAYPPDrKded66kvdy3DG2vtRdA_hv-C7goFFAc3eGLe8yV0BMkkylTodtdXZTrIoIe9_UM)
+[3] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-6EufZxOICaic3UqV_rusetn46QEe7lTTiZWA7ymOMa2mNvYm5Nac2A1hCVLhOM9bSRXA6PA7IqGHnHohETZ8Z1UFOCFyLonkDkCpLQ==)
+[4] [pen.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwicQB_tvOJTY8Or-P7BpAHQD--aIUOFtz_q3D6poh0MUerJSnfK9u3KAevlKUgizwJC3t3kUq3afs5rHf0QlrxPbWJdo0z7zsmVOtfbBOBCDDb0e7DG1dUhpNsgjCUqyEwMFT-uiUJC5RXLmXpuYQYTPRdKEUi4hsHkYB1dyYbZo=)
+[5] [kais99.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6uXYqWgPgk3FtJuOHeVBSyRXtm0RiLClRKEWMLiSpHxNQAugtwEJF6l53dhjLjNrnxi0y8csgsCGdGiRHfJ2Y8A5FXpc5XSPD0YOygN89ALlGWjcxmkWVF1vCEKTOz0xHQNy_2NP5FMODiWP-v8ZG0pt-rSd0T9J4NlZVZ4Yk5CCi2-qP9w=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsTNMljyaTOkxMKsgjy6ZO97Ucs6NRhVPoibubCNz_DJaW35Zzn63sB3PqKeM9_GGu94V3BLfNZooziY11XKB-2eIHb-82sEN-SwCFeUIVq0y4CSnTYo2RqrQ=)

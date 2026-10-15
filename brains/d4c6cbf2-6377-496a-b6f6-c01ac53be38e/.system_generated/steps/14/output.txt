@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+
+
+Enabled      : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Precisio
+               nTouchPad\Status
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Precisio
+               nTouchPad
+PSChildName  : Status
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+

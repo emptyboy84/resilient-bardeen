@@ -1,0 +1,22 @@
+The search for ""센텀중앙로 90" "615호" OR "센텀중앙로 90, 6층 615"" returned the following summary:
+부산광역시 해운대구 **센텀중앙로 90**은 지식산업센터인 **'큐비e센텀'**의 주소입니다[1][2][3].
+
+질문하신 **'615호'**와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **해당 주소의 건물(큐비e센텀):** 센텀중앙로 90번지에는 '큐비e센텀'이라는 건물이 위치해 있습니다[4][2].
+*   **'615호' 검색 결과:** 검색 결과상 '센텀중앙로 90'과 '615호'가 결합된 정보는 특정 기업이나 기관의 등록 명부 등에서 명확하게 확인되지 않습니다[1][5][6].
+    *   참고로, **'센텀북대로 60'**에 위치한 '센텀아이에스타워'의 615호에 입주한 업체들은 다수 검색되고 있으나[7][8][9], '센텀중앙로 90(큐비e센텀)'의 615호에 대한 정보는 공개된 자료에서 찾기 어렵습니다.
+*   **혼동 주의:** 일부 온라인상에서 '6층 615호'라는 주소가 다른 지역의 건물(예: 대전 이현동 엠월드, 서울 전농동 하우스토리 등)과 함께 언급되는 경우가 있으니[10][11], 정확한 우편물 발송이나 방문을 원하신다면 해당 업체나 기관의 정확한 명칭을 통해 다시 한번 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [kapanet.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnHud5jGu8meUzsiDPrlRuLxQOSNQxJ8_b6JFGB1DUcLg8NqXbz4ZBsp27ZzN_9EyJwP0YMTMYTKmBacwzQkhsyw-n64Z09e0LojEYIMGtROVCx_OnomoQFmv2jN0tlm5z_86oVvCvt2lnSbLZccOxcBOFiA==)
+[2] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKc8XXd85V0nS5FMbBOD12MCCQvnYbJFEMfLXSDBUJcD25NraXcBFmN5MdwAwBRMWf8jVxCKh-Bh6OqGpUfyLkWXNF25Q7wB6LCk9PwQ5Oxx5R_5-ICdVbDmHJemfpYEQo34U4Be3dbxhxFWynsAzWERZQA1TJoi9KbMrtc2xWuwjg_-8b2-jUgZ-FQeuH3CTOwcbxvS9YM87a2fKdfXvOVdc3NXLxLLSXbByAY5evp3T1c1G_bPcnhSLVP5Te9GRyiny3IBekCUDoyyj6MrNANJEOloAQxSIv8fV3UEZwwrmLVNShkHWEMyBMwThIrmcoTYCo47mcmfavT6ZcT0GgOW7u6Q==)
+[3] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDIAQijuSJFOPvwfMrvqZ4FiK2fQeSoAnHfLvm_kHexOTWIUcHKLkEukLX7H0Q_J7AXV30LPeHBz9l5tZB1cUZnwrot6NL2AO8R-33E0BMYJ1RB5Q3wtZZ77Jn2ICzpoQXbIBCLQD9uyjZEJLqyCNqtxGdSoCZhmF-V6i_ksYKusmCeTcjK0GgIBFPssMk)
+[4] [knowingasset.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKG5nGmawLXa1QN1RfGcQkDJ19wzZYCq322j9GmKksNnFtm2IHZ11d1vdB6euSkzmEZ8zGbh5xKmqEFWcBgDTlVooRa2RuUmlwL2YL_JoQKb0lI4TXgO26DLeNloNMOY6TF9orX_alHsWYomhaI9jDtWF2cQ==)
+[5] [jepa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu6YeyLAT6Z53uJfF2xQ5grZEXxk2U7POA2fhKC9nPjpFK2nIr32Ia_odJqMmm72AdVwp6rd4t69ETCWZhgr8deN9sEBP1BxBP1F4BuiioyFMTEztlccax2RjMiCDBdpxltdG7CWnAERdw-EWeMdTtlDBP6lFDXpWNqxMVf4IrhoX7saAgasZEYknpwX-A7FC1Er6JMLFB7TLvRhI2PVZUvlJmnK6ecF2ejQgDwG7E8ZMbHHD81svWQo6IivPFYE6qxI_wA9GaAnyuxz0rlBaLy4FZRooIkstfJASN9wXR5xmMIjfX8cr21b4=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiXGUh0DNATRd5JNP2CybO-g7QoT2IJAMnVhARYUF0eghOJtSd0DuMLOjuTr-hMoYI_gykykBcKZxAmZadnDnTp-5v8JsVMjumDpiPWSqYLlbaOH-VqQ==)
+[7] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzDCsHJZMDhpnSp08JfVoBqnZMnqwm7eR0_Uu8QwLNTepAB_-AOJfIBxNrYf1yeNPYgm5yr8GxksaEXKaQmDO7uZSOazgzBfNUwOjK64S_-oxMfw9pXuUzhoI0039P4L1607_mU7lKCyhc1N-uSMCSruNYWHjCjgPQUVx6VrKSKpoCqhJEFnLuKTutY15AHEtkF8NR2K3XIDfIc6OCKq4kHyR-ldD2WZlqngwEHBCtL3UGxW3hsegxJYp0Z72ANl5QFMq9g7oV1MGQ5UFAdCgGQyzDGpeLuoNqndWj9Gi-j9Q=)
+[8] [assi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSrXUQNr9wdz-uekd_9_Lwr1PSveA-5XnTSUR6OFB9Cblt8tot8EdSDprT3MH5gKtkpaoQ1Ibbfj9wT7Al2FiG0E_9O6m2mhEyOGWt9JWbqghskpMgQiRKjmzvcZr8sZUqorqSLRr4T3g4OBEcLriSeINg4RsIkOVLTJwXl7Bi5TQR-ATK7DCD08OvXYg5ZKRsuJ5-7XdOIthRgL80P6GedX8JO1sAC2yC-VKqBncxjn2wMbE11p6fXWGU6htuj9yg2NCEX6gzXXtKNd7Uh96MBdbVYJWKnJ91HCw-N_Q-zT7Lvh--MhxnC0Ji9KGtJnNua_8QJsTXWsyVFQOns7qVQaZI3TJHxghFSNe1An2u-0JuNH80eHtSiSnEmA==)
+[9] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_iU32SVqmwatJSXHQVw7LwoBHx1prpPfoRZ4lLtZzI5gxkqm74n8VV87GiUY4Icb7beN9sKVWWisgAOW3U3_k-aB34unXk5PtoiE8THJuseOvdakBouStzZ4hYneUClDhJaa6eqRBQi_xtVq-L7ZbZBZ8cmf8LTLlThKMUR3cRDrq_a7a5FBDzMpSMWMLMdZ7WVaaIhzFAHX4D6AE6wUqcMX-jlwQxJInnsXNHp5BE8g-O2l6vNJuBAGRxyXt2UU9euESbxV0Ovb2T4JYB0QZCsCrE7IjOe656jWNIVkik8=)
+[10] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVUJcgt7dVDdMff7g80ORprVLXhVkAWuJceVIfhrchMz1dmw9hhEMTDtfe0RTEsyXSCPUhKl-9yBTsTYITOGj_JmbQXbqxd4LfZBK-buQ7tJ8m5aUKENhkQVPG6duo6prfwV1f)
+[11] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVTB-TqTL2ScMSMDymGCvgGNw4a5Tbre3ppUIqdrhZxwXDkJrUSzuQoxnKQJTWBXKKrHhma25f2eGHl79t6gSH3imAw7QUHijBlpBYTAH6UlQrn1TZ5qEn35aI0_LK9cM2EM9f)

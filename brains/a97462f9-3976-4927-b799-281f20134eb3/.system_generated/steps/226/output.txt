@@ -1,0 +1,13 @@
+The search for ""gongsinara.com" "비바몬스터"" returned the following summary:
+**공시나라(gongsinara.com)**는 국민연금, 고용보험, 산재보험, 통신판매, 조달 등 국가 공시 데이터를 바탕으로 전국의 사업장 정보를 조회할 수 있는 기업 정보 데이터 서비스 플랫폼입니다[1][2].
+
+사용자는 상호명이나 사업자등록번호로 기업을 검색하여 영업 상태, 업종, 주소, 고용 현황 등의 상세 정보를 확인할 수 있습니다[2][3].
+
+**비바몬스터**는 공시나라에 등록되어 있는 기업 중 하나로, 부산광역시 남구에 위치한 광고 대행업체로 확인됩니다[4][5].
+
+Sources:
+[1] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKtDsErgA09_feJETIO-oPkkgE7BBLHiDwz_NbhBHHyd1UtB9X9d4W_qDRjCf8pgHlaOAMisQ1LhrXTzmbM1c8i1PuTgnxhfVmMVAY)
+[2] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVVb1zYZpfu5WGEwXDAMxOI42K9Eo6k5otUtXITyUikbkq3psRcX53y8ZdY0epfFg_r-ir4Jxlkhqb2fWCXLukYQVR-htwIk3COYOI2fNWIM9AkcY=)
+[3] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjmsZU9DXyERcAZCk3DZ8qJ9uwg2y2Nn8eg_LMPn2CK0hiVWMsr8m4cK-fbt03hGC6FJWl2sD9RPfHNRE5nq7uCzI0ep4QseEGPpZL9pss3ruQwQ==)
+[4] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIXT3p88DyJYM-JuP63udxoFzavzSyAgLS7OmJrGHVBLKcPrv0qCNTQ_4BJ8lJxy5R_QAh5eyGO0zFIPS227jTvu7mk8CQNOI3YMsJI8P9u2EAjNCuHQVBkY8_)
+[5] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIXT3p88DyJYM-JuP63udxoFzavzSyAgLS7OmJrGHVBLKcPrv0qCNTQ_4BJ8lJxy5R_QAh5eyGO0zFIPS227jTvu7mk8CQNOI3YMsJI8P9u2EAjNCuHQVBkY8_)

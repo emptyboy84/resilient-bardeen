@@ -1,0 +1,14 @@
+The search for ""에스지이" ("창원" OR "마산" OR "김해" OR "경남") "이혜정"" returned the following summary:
+검색하신 키워드(**"에스지이", "창원" OR "마산" OR "김해" OR "경남", "이혜정"**)와 정확하게 일치하는 통합 공신력 있는 공식 보도자료나 대형 사건·사고 기록은 확인되지 않습니다. 
+
+다만 관련 기업 및 인물 정보와 관련하여 다음과 같은 내용이 조회됩니다:
+
+1. **(주)에스지이 (소프트웨어 개발 및 공급업)**: 부산 해운대구에 위치한 동명의 법인 대표자로 '이혜정'이라는 이름이 등록되어 있으나[1][2], 경남(창원·마산·김해 등) 지역과의 직접적인 연관성은 공식 데이터상으로 뚜렷하지 않습니다.
+2. **기타 건설 및 연관 업종**: 경남 지역이나 인근 지역에 유사한 상호명을 가진 건설업체 또는 법인들이 존재하나, 특정 인물인 '이혜정' 님과의 연계 정보는 일반 공개 데이터에서 확인이 어렵습니다[3].
+
+혹시 특정 판결문, 지역 소식, 고발·민원 내용, 혹은 기업 공시 등 구체적인 맥락이 있으시다면 세부 키워드를 함께 알려주세요.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlqcyikYAvfN12YzHUYmNvcUfn7tdghVqB5NGCbudRpL_X4PG32zsOrkJ67-hZjHt9i3nmmaA0bYiEzlJfLYBupN7vFNm6iP5gqy4Z4ACh5AtjGBrlJyftVnuuejGFkSEZADVC-JB-elI4LD3xFOSYL_yG)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ4HUQHhQfrG2l9hi5_qqgKMMZUNkKJsU_2wxwcZWtfu3iia-HT3Nu-0Kjujtjn6pFL_uDgS3Pt1oxP7F9vvgwRvigGynEtRhTz4JIcU27OiAz6qLNj8H45xSYZTQVEwYg5C8GbZlyu7B4OCrdWee26N7pBzl6AMh7IJkW-Y4qxNJXcl35wm4bQLIA3mRLFWXr-SmvJ39Hszwg8v7vE95xXr1FQ5CqVmVSUoghalvIFA-BBsJjKV1pA_M4cLe5c9WPv9nMDpVRq9UIEBNGwIk=)
+[3] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshJOiZ88FIDL3GrHzMLlTsP5DIl9PznkzbBw633Jt0RUanlEuNgiyjhmpP-TabIS5h65LyWjjgb0xCZkwuu0ZQhBsUDjyEkJ4gnukMmRLzSJi_QKzakZrrotbAxgOnacVn7MncnH9kedycJfmerOSEI_o1rFlmt7xo3kxc42bjXeQLMui5u_Ls4uOlpR3Ikd9A6z6qTgBsvjL8lA9hBJIXTM7a_aPsQfcqpZqjtYEI6jBZMtqifYy1R8wHizefpULri0582MOuQfkNl2iPFsLOdFT2vraivHxAQ0u3W0NojAqyvH1VIH7KTsSbbLAUtXrccpnjbHoGowgbUq3K2HLn97rZDgj0q7MIUUQa7YCtwW307H5aF5uL9N2Gyo=)

@@ -1,0 +1,20 @@
+The search for ""초록이웃" "308-88-02725" OR "황종필" 매출액 OR catch.co.kr OR 사람인 OR 잡코리아" returned the following summary:
+(주)초록이웃에 대한 기업 정보는 다음과 같습니다.
+
+*   **기업명:** (주)초록이웃[1]
+*   **대표자:** 황종필[1][2]
+*   **설립일:** 2023년 5월 19일[2]
+*   **업종:** 의복 액세서리 및 모조 장신구 도매업[1][2]
+*   **주소:** 부산광역시 금정구 금강로 271, 4층 패스파인더 부산대점 (장전동, 미주빌딩)[1][2]
+*   **기업 형태:** 중소기업[1][3]
+
+**참고사항:**
+*   사람인(Saramin)과 같은 기업 정보 플랫폼에서 (주)초록이웃의 재무정보(매출액, 영업이익 등) 및 채용 정보를 확인할 수 있으나[4][3][5], 상세 수치는 해당 플랫폼의 유료 리포트 구매 등을 통해 확인이 필요한 경우가 많습니다[2].
+*   문의하신 사업자번호(308-88-02725)와 일치하는 공개된 정보는 검색 결과에서 직접적으로 명시되지 않았으나, 위 기업 정보는 해당 명칭과 대표자로 등록된 법인 정보에 기반합니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELsjnnI7TJFq1zxU3hgwEirTH90MaJfDcKgRgBigqrlL45NpsYhNAyOqhhyWJKP_RQiVE4vcvuMwdRsxYnNyQeBBoAZHiFLPdHLnDGTo2AMrtnPrSGPktZbRkZf8KCajCHzMcoywUevGQGo6Nt0BSrUu1Qhhqnb66iTVPaENzm7mUIE_NYzNrOnn_NPlvmII95EpLs6ARsO0RMCuaHjEBFutxXeog0UlVnY9d2gznn46iZ79CyyXI2FpgvyIrrqkVpSlFboQV_SeTm)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFROh_foHxDp3S_oBaMbiHXhBBmxi1WEp0cXWzd9GPxy3Hx-BChZbka95NiobfhnEblHxUW8Q3ThoOQpEi7rUQxDE_sjCoRCjOiAK4FQDURddtJ591swLdcPta3pOqTA9lMVQz1a3eQhqCSEZtKn98e4Vqe)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELsjnnI7TJFq1zxU3hgwEirTH90MaJfDcKgRgBigqrlL45NpsYhNAyOqhhyWJKP_RQiVE4vcvuMwdRsxYnNyQeBBoAZHiFLPdHLnDGTo2AMrtnPrSGPktZbRkZf8KCajCHzMcoywUevGQGo6Nt0BSrUu1Qhhqnb66iTVPaENzm7mUIE_NYzNrOnn_NPlvmII95EpLs6ARsO0RMCuaHjEBFutxXeog0UlVnY9d2gznn46iZ79CyyXI2FpgvyIrrqkVpSlFboQV_SeTm)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6eBCmCS17DQqzNPcIrKg3neDMd-btaBV3ZFh1R5ZY0WuTZLQ0IyEU0wvdtr7qYlWVXwEXPKkx8kej0CMg6mZNpIyKIkTep-BXJ0FG6vTaoClcYC160XHmb9up1HEpTgItpD2OYtvYUg93dOVQm7iJaIcgrW__75b4NxSYSmBUw6KM1854K2aMwUunnIpnbcWZVT1CJyw0canUCUl4TzudDMyKgCuTVhgIRgjlw==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6eBCmCS17DQqzNPcIrKg3neDMd-btaBV3ZFh1R5ZY0WuTZLQ0IyEU0wvdtr7qYlWVXwEXPKkx8kej0CMg6mZNpIyKIkTep-BXJ0FG6vTaoClcYC160XHmb9up1HEpTgItpD2OYtvYUg93dOVQm7iJaIcgrW__75b4NxSYSmBUw6KM1854K2aMwUunnIpnbcWZVT1CJyw0canUCUl4TzudDMyKgCuTVhgIRgjlw==)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/상호명으로사업자등록번호조회/?area=&query=콘텐츠솔루션');
+```
+### Page
+- Page URL: https://bizno.net/%EC%83%81%ED%98%B8%EB%AA%85%EC%9C%BC%EB%A1%9C%EC%82%AC%EC%97%85%EC%9E%90%EB%93%B1%EB%A1%9D%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=%EC%BD%98%ED%85%90%EC%B8%A0%EC%86%94%EB%A3%A8%EC%85%98
+- Page Title: 콘텐츠솔루션
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T01-23-35-488Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T01-23-32-045Z.log#L1-L3

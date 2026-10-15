@@ -1,0 +1,18 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 741 lines>
+표: "" | 구: "남구"
+  => MATCH CONFIRMED: 628-86-01330 (주식회사 엔엑스지) | 주소: "부산광역시 남구 수영로322번길 20 3층 (대연동 리젠시빌딩)" | 대표: "김선미" [계속사업자]
+[354/421] Row 2194 | "베러아일랜드" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[355/421] Row 2195 | "오르" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 509-09-73264 (오르) | 주소: "부산광역시 남구 석포로 102, 지하1층(대연동)" | 대표: "강효진" [계속사업자]
+[356/421] Row 2196 | "카메리엘" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[357/421] Row 2197 | "한국바이오뷰티산업협동조합" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 697-86-01414 (한국바이오뷰티산업협동조합) | 주소: "부산광역시 남구 신선로 365, 302호(용당동, 부경대학교 10공학관)" | 대표: "현미희" [계속사업자]
+[358/421] Row 2199 | "제로" | 대표: "" | 구: "남구"
+
+Last progress: 10s ago

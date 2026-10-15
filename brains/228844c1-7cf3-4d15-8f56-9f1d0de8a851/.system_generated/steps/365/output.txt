@@ -1,0 +1,143 @@
+### Result
+[
+  {
+    "text": "네이버로그인",
+    "href": "https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Abook.mcst.go.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "로그인",
+    "href": "https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Abook.mcst.go.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "로그아웃",
+    "href": "https://nid.naver.com/nidlogin.logout?returl=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Abook.mcst.go.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "AI\nnew",
+    "href": "https://search.naver.com/search.naver?ssc=tab.ait.all&sm=tab_jum&dtm_source=search&dtm_medium=tab&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "블로그",
+    "href": "https://search.naver.com/search.naver?ssc=tab.blog.all&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "카페",
+    "href": "https://search.naver.com/search.naver?ssc=tab.cafe.all&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "클립",
+    "href": "https://search.naver.com/search.naver?ssc=tab.clip.all&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "이미지",
+    "href": "https://search.naver.com/search.naver?ssc=tab.image.all&where=image&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "지식iN",
+    "href": "https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "동영상",
+    "href": "https://search.naver.com/search.naver?ssc=tab.video.all&where=video&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "쇼핑\n새 창 열림",
+    "href": "https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=site%3Abook.mcst.go.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "뉴스",
+    "href": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "어학사전\n새 창 열림",
+    "href": "https://dict.naver.com/dict.search?query=site%3Abook.mcst.go.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22&from=tsearch"
+  },
+  {
+    "text": "지도새 창 열림",
+    "href": "https://map.naver.com/v5/search/site%3Abook.mcst.go.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "인플루언서",
+    "href": "https://search.naver.com/search.naver?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "관련도순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=so%3Ar&nso_open=1"
+  },
+  {
+    "text": "최신순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=so%3Add&nso_open=1"
+  },
+  {
+    "text": "전체",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3Aall&nso_open=1"
+  },
+  {
+    "text": "1시간",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1h&nso_open=1"
+  },
+  {
+    "text": "1일",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1d&nso_open=1"
+  },
+  {
+    "text": "1주",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1w&nso_open=1"
+  },
+  {
+    "text": "1개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1m&nso_open=1"
+  },
+  {
+    "text": "3개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A3m&nso_open=1"
+  },
+  {
+    "text": "6개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A6m&nso_open=1"
+  },
+  {
+    "text": "1년",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1y&nso_open=1"
+  },
+  {
+    "text": "옵션 초기화",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso_open=1"
+  },
+  {
+    "text": "상세 검색결과 보기",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_dgs&qdt=1"
+  },
+  {
+    "text": "출판사인쇄사 검색시스템\nbook.mcst.go.kr›searchView\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "비문 인쇄 - 출판사인쇄사 검색시스템\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "2013.07.16.상호 : 비문 인쇄, 등록신고번호 : 252002013000004, 지역 : 부산광역시 해운대구, 자료구분 : 인쇄사, 등록번호 : 252002013000004, 소재지 : 부산광역시 해운대구\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "출판사인쇄사 검색시스템\nbook.mcst.go.kr›searchView\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "비문 - 출판사인쇄사 검색시스템\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "2013.04.09.상호 : 비문, 등록신고번호 : 251002013000012, 지역 : 부산광역시 해운대구, 자료구분 : 출판사, 등록번호 : 251002013000012, 소재지 : 부산광역시 해운대구\n새 창 열림",
+    "href": "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000"
+  },
+  {
+    "text": "1\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&qdt=0&query=site%3Abook.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.nx.all"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'a[href*="book.mcst.go.kr"]\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```

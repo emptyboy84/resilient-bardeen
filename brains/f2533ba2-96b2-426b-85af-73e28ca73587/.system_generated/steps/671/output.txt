@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+Files in worktree: [
+  '.git',
+  '.gitignore',
+  'AGENTS.md',
+  'all_500_factchecked.tsv',
+  'all_500_verified.tsv',
+  'article_test.html',
+  'bizno_filtered_result.csv',
+  'bizno_filtered_result.tsv',
+  'bizno_filtered_result_nice.csv',
+  'bizno_filtered_result_nice.tsv',
+  'bizno_test.html',
+  'brain_logs',
+  'current_pasted_batch.tsv',
+  'data',
+  'merged_500_perfect.tsv',
+  'node_modules',
+  'package-lock.json',
+  'package.json',
+  'query_test.html',
+  'rows_11847_12000_16col.tsv',
+  'rows_11847_12000_17col.tsv',
+  'rows_11847_12000_verified.tsv',
+  'user_pasted_rows.tsv',
+  '검수완료_정제DB_58건.txt',
+  '법인등록번호_추적_및_검증_가이드_110111-8382593.md',
+  '법인등록번호_추적_및_검증_가이드_110111-8382593.pdf',
+  '법인번호_추출결과_65건.txt',
+  '실사DB_162건_전체_법인번호반영.txt'
+]
+

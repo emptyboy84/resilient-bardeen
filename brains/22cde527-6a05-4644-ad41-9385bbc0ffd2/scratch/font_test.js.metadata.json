@@ -1,0 +1,4 @@
+{
+  "summary": "Minimal test to debug ExcelJS font color persistence issue. Creates a fresh workbook with 3 rows, sets different cells to red, writes and re-reads to check.",
+  "updatedAt": "2026-09-14T02:16:45.958471200Z"
+}

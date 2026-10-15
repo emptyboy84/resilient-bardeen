@@ -1,0 +1,19 @@
+The search for ""주식회사 삼주" OR "삼주" "트리콜" "매출액" OR "감사보고서"" returned the following summary:
+주식회사 삼주 및 트리콜 브랜드와 관련된 정보는 다음과 같습니다.
+
+*   **기업 개요:** (주)삼주는 부산 지역을 기반으로 한 '트리콜 대리운전'을 모태로 성장한 기업이며, 이후 해양관광레저, 광고, IT 솔루션 등 다양한 분야로 사업을 확장해 왔습니다[1][2].
+*   **관련 계열 및 법인:** (주)트리콜은 (주)삼주의 주요 브랜드이자 사업 부문으로, 데이터베이스 및 온라인 정보 제공업 등을 영위하는 것으로 알려져 있습니다[3][1]. 또한 과거 광고 및 IT 사업부문을 통합하여 (주)삼주코컴 등을 설립한 바 있습니다[1][2].
+*   **매출액 및 감사보고서:**
+    *   (주)삼주나 (주)트리콜과 같은 비상장 중소기업의 구체적인 매출액 및 감사보고서 정보는 일반적인 공개 검색만으로는 상세히 확인하기 어려울 수 있습니다[3][4].
+    *   기업의 재무제표, 감사보고서 등 상세 재무 정보는 **금융감독원 전자공시시스템(DART)** 또는 **NICE평가정보, KIS기업정보** 등 기업 신용평가사의 유료 기업 분석 보고서를 통해 확인하는 것이 가장 정확합니다[4][5].
+    *   잡코리아나 사람인 같은 채용 포털 사이트에서도 해당 기업의 기업 정보 페이지를 통해 대략적인 기업 형태나 재무 관련 요약 정보를 확인할 수 있습니다[3][6].
+
+정확한 최신 재무 데이터가 필요하시다면 금융감독원 전자공시시스템(DART)에서 해당 법인명으로 직접 검색해 보시는 것을 권장합니다[5].
+
+Sources:
+[1] [ksilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbsUuw5Xd7Cq-5hzseTib12GSNg70qklip010E-3uah5RJfX3ZGxgcUInV5x-pqticmOtq_lbDfCN6CwHuUjSw5FfRAAPDCE5VrNiogzXYEQBKBMJ-Re6gJzsEVibc1a3rfN_JkHKx5KHzXP2mW-VSKQ==)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3w6nPI5vOC4uLsAY988CgWvLEV6WRs9ndfPq8aesZ5O64w1AVK6OvaflhK-8bjqb1wwP7ImVQVK4NrgrhxQ45KOXEnDp41-URPoe3K0HRFW7cheGodZWXILUdhKYulAaSP-ei)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0gjMzKyAy6Fl1X_sOUzGi_mTtm3uPj06ngl91sIks-cQKEnTlbeA7wKfEHtlVEwJhZUbSnOUY0Pnmgl7EqKCPXJypBd8vyka0MuJoeIaWMpOk6qtVU2Cemyi4aAR7V1-bebDkxUCVUjd4X7VGQrm5VYIXvMGKy2hg_OtISZkDsn6p9nQrCFUn1l4bNxhywIZhLLc6EubZDMkG_EpaMei2XJWAAig2WCs5zkHbfo-8EtXNKdoEQuly8cKH0fNCd_q3)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwruLJ6FkABCkbT8U6IaOzzFAGJrPVjFfrp-_0MBOFKgmKgluKIp7wXkQAYEsbQnzMbrxY2RmmF-JlSHK1dwgE2KJF0BTTqaB0xU-vJUA_knD40AR-r7Yg0ulRsRkoBVw51zsvjxPod6kJ3NNt6LpjNfaT)
+[5] [krx.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoCZ0lwFWtCWKTx_gnDKNae8tjdglWMdVMAj6zyJrPYiYoQFKmld1elRLJsdjWMr7X1jDSYEMWV7MovzYN2wQY8j6_ryDfPamS1fZhcdtK1BRPIPDzn0RIxXQrB8jQ9Y-q1_EWpDbRChmvQyR4D1KlMN_J7t18sJw8N7tKEFEZGw==)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWwcT4laHx7i6j3q_ODoUDLafl1wftQLeLoedJmnloH9IlcbMiZA-dxfvKLja59kD1a_G5v0ZzI9BWHJQc4HUGf63JYyCa4VkVMlUNVratPOVMH2OhP-F5StNMyzpP2Q==)

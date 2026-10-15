@@ -1,0 +1,30 @@
+The search for "site:saramin.co.kr "에이비엠랩"" returned the following summary:
+사람인에 등록된 **(주)에이비엠랩(ABMLab Corp.)** 기업 정보 및 채용 관련 주요 내용은 다음과 같습니다[1][2]:
+
+### 1. 기업 개요
+* **기업 형태:** 중소기업 (스타트업)[3][4]
+* **대표자:** 황의윤[3]
+* **설립일:** 2023년 6월 (법인 설립 기준, 업력 4년차)[3]
+* **사원수:** 약 22명 규모[3]
+* **주요 사업:** 응용 소프트웨어 개발 및 공급업, AI 및 빅데이터 기반 대학생 마이데이터 솔루션·플랫폼(엔퍼센트 등) 구축 및 디지털 마케팅[1][5][6]
+* **위치:** 
+  * 부산본사: 부산광역시 영도구 태종로 727, 산학허브관[7]
+  * 서울사무소: 서울특별시 강남구 강남대로120길 75[7]
+
+### 2. 주요 채용 및 직무 트렌드
+사람인 채용 공고 및 리포트에 따르면 에이비엠랩은 주로 다음과 같은 직무 분야에서 인재를 채용해 왔습니다.
+* **주요 채용 직무 순위:** 마케팅·홍보·조사, 기획·전략, 상품기획·MD, 디자인, 개발(백엔드 등) 직군[2][8]
+* **인재상 및 분위기:** AI와 빅데이터 기술을 바탕으로 빠르게 성장하는 IT 스타트업으로[4][9], 유연한 근무 환경과 수평적인 소통 문화를 지향하고 있습니다[4].
+
+자세한 실시간 채용 공고나 연봉 정보, 복리후생 세부 내용 등은 [사람인 (주)에이비엠랩 기업정보 페이지](https://www.saramin.co.kr)에서 직접 확인하실 수 있습니다[1].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEepx5GXOVsonD-B0RLdQqnc8Jn2FX4SXTG6hm1whKrH3GQSzrhl04iKDzh6-Re7L6TubPzgsYuKzl0W-cqbBFun-90M9xS82PjWpO9dJg0LvfGJZiPhWIDy4uRFM9qnfKk74nP66iH6Yx1izMe2IW4ZeHrirenIVB2_LcEM95zHM3oC8GN8Ds8_z7Jjn7Y06U7gC655Ie4_RBqLQiIFEPOKubexjQbhzl_OdPu43FTqA39VNh1znEqcuQvtFyZJF2bqk2cF9H6PYbHB66I9_3i9Gz_)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oAM6VFomXcewQWTUbGkq2y9-PbF2hKCI6It4vg_8LMgmJHL16Vd0N9e5gQM5w9RXJb_2bNH0rATTSDk_1tokU7Aml0X32SNpQBel0RoQfXYFGZvPIPoP56fctveMvaWDYc2x_4-zRWJfqvZs4DpYVKjt2j2wVGpp-sM-DnHLdn82rhXznbgmnMzofl6hrp7Ac_B6shA2)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEepx5GXOVsonD-B0RLdQqnc8Jn2FX4SXTG6hm1whKrH3GQSzrhl04iKDzh6-Re7L6TubPzgsYuKzl0W-cqbBFun-90M9xS82PjWpO9dJg0LvfGJZiPhWIDy4uRFM9qnfKk74nP66iH6Yx1izMe2IW4ZeHrirenIVB2_LcEM95zHM3oC8GN8Ds8_z7Jjn7Y06U7gC655Ie4_RBqLQiIFEPOKubexjQbhzl_OdPu43FTqA39VNh1znEqcuQvtFyZJF2bqk2cF9H6PYbHB66I9_3i9Gz_)
+[4] [rememberapp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwAqvif4QWVN2VquNktcAVrKFMrjmlc5DS_Xfq6rCYMkLTCwVHg0LpwqYJ97NcEDLy9chqBZU4JYarhwT73_I1urHHmkqYsKKvju15pvPjrnh3BqWhGEMbiHKyw3h8J3P06xCRA7buPLJu)
+[5] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhY_QJ9UWFUyRSy_NEEUzMim4MOwfd4dUYGty8bGvocZ5742b-EfiGfBpXM1XAd7gYFUp-HEamVD9Johda2hrHjycYHw-3N_3sN4pPJX2xlCbxLAK0sj9pP7FJawb1DXIJ)
+[6] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlojBh8fYQ1qq84_J9yhygeFnGnz1pux9feXTl3csb2tIxdY4IuFCCAsmuOu5H5VhGgLdtPnEEkMnipVwdrkCkLrDcLgpx1yQq4_h16g==)
+[7] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGvi10uNVN_ECJiXQh4VhYCY4R3rmGBnelOepXFf0Ije_V72VqxCuliR48jdCrZ9bU0PIpSh1M3UEOtdtn8UkjGoTtexU1Av0v4sb38OAIUT4QLl6pV-cyA_nBRsXElmL1ZPBMMminUstvzGzMKzDXg==)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkSMNHEzWZRE2PYpKMNbZwB5HGQgPeQRvcHGAD-7NRE29vGJUUC7AI49wxN7XM6dXSw7_lZsfSjWCvut7sRRUygzbBV9tF-c7BYaa6hO_eRKslNZApQknwHy6wIXbT8UZYWus4zDADiGx9pGoSZa05kXzw39AbE2JO02-f_UO_LQX_WTt38E9lNTzx7od28UfMJcMK_0gnkPNe5y4OMBVdmbQIhawRPiO9-MwH9O1o04zAk_FVtZYGLoZc1Qk_plmlYtGzzjC__6h7XcsMjDg3l-TouV8iRSzap1xGfWScXy4Ax4p_TuIF)
+[9] [ddaily.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJergTL8pNAp5lavOdSo46AYpACJ6qS_vo6f5ceYk5hpsCvOncvxd4oShjhbMgvW5sNUp1sU5IwoGa1fEyl3YD3fyersK5NiUlQIf_gaQ4-6PgatfD1-jLQEu84Ez_F3cxkrE-2LCmhWh9ffw=)

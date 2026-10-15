@@ -1,0 +1,10 @@
+The search for ""동요문화예술협회" OR "오희섭" "금정구"" returned the following summary:
+**동요문화예술협회**와 부산 금정구의 **오희섭** 대표에 관한 정보는 다음과 같습니다.
+
+*   **오희섭 대표**: 부산 금정구에서 음악학원 및 스튜디오인 **'THE 5 MUSIC SHEET'**를 운영하고 있으며, **동요문화예술협회 회장**을 맡고 있습니다[1][2].
+*   **활동 내용**: 오희섭 대표는 동요가 설 자리를 잃어가는 현실 속에서 아이들의 맑고 순수한 목소리를 담아내는 동요의 가치를 지키기 위해 노력하고 있습니다[1]. 그의 학원은 피아노 대신 컴퓨터와 음향시설, 녹음 장비를 갖추고 아이들이 노래를 배우고 녹음할 수 있는 환경을 제공합니다[1][2].
+*   **철학**: 그는 아이들이 꾸밈없이 순수하게 부르는 동요가 가진 고유한 가치를 중요하게 생각하며, 음악을 경험할 기회가 적은 아이들을 발굴하고 그들이 무대에 설 수 있도록 돕는 등 음악인으로서의 의무감을 가지고 활동하고 있습니다[1][2]. 또한 젊은 시절 활동했던 그룹 '다섯 손가락'의 재결합 계획을 언급하기도 했습니다[1][2].
+
+Sources:
+[1] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIGW_1_YxfEAHTzcL4CNZ4Hl54FCIdt4tjM1wQgduhYBoeP-M-kQnqqsbZM9rfNn14Fk_YMVyYgWE0jd7M_OAQ7HYH03obMAMAsgb6odef-jIvLFHkgNwFLIM6I2qpHaUctLGrxXqFqmMSX-hJWXafu1ZwGyOLX7pFj8GUAGuc3YnT7x-)
+[2] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIGW_1_YxfEAHTzcL4CNZ4Hl54FCIdt4tjM1wQgduhYBoeP-M-kQnqqsbZM9rfNn14Fk_YMVyYgWE0jd7M_OAQ7HYH03obMAMAsgb6odef-jIvLFHkgNwFLIM6I2qpHaUctLGrxXqFqmMSX-hJWXafu1ZwGyOLX7pFj8GUAGuc3YnT7x-)

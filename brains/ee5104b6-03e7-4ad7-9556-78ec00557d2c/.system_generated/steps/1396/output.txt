@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+resultMsg                                                                                 
+---------                                                                                 
+@{detailMsg=; msg=action; exceptType=; serviceTxId=; detailLogYn=N; code=action; result=F}
+
+
+

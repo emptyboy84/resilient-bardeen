@@ -1,0 +1,60 @@
+
+The command exited with code 0.
+Output:
+<truncated 405 lines>
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\input.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\lighthouse.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\memory.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\network.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\pages.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\performance.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\pwa.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\screencast.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\screenshot.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\script.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\slim
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\snapshot.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\thirdPartyDeveloper.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\ToolDefinition.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\tools.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\webmcp.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\tools\slim\tools.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\bytes.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\check-for-updates.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\files.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\id.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\keyboard.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\logger.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\pagination.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\polyfill.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\url.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\utils\WaitForHelper.js
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\a11y-debugging
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools-cli
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\cookie-debugging
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\memory-leak-debugging
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\troubleshooting
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\a11y-debugging\references
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\a11y-debugging\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\a11y-debugging\references\a11y-snippets.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools-cli\references
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools-cli\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\chrome-devtools-cli\references\installation.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\cookie-debugging\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\references
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\references\elements-and-size.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\references\lcp-breakdown.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\references\lcp-snippets.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\debug-optimize-lcp\references\optimization-strategies.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\memory-leak-debugging\references
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\memory-leak-debugging\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\memory-leak-debugging\references\common-leaks.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\skills\troubleshooting\SKILL.md
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\bin\language_server.exe
+ó� �: C:\Users\lg\AppData\Local\Programs\antigravity\resources\bin\webm_encoder.exe
+459 � ó� 0 � ó� �߽�ϴ�.
+

@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+[eval]:1
+https = require('https'); https.get('https://bizno.net/article/8248102418', {headers: {'User-Agent': 'Mozilla/5.0'}}, res => { let data = ''; res.on('data', chunk => data += chunk); res.on('end', () => { const lines = data.split('\n'); lines.forEach((l, i) => { if (l.includes('meta name=" keywords\')
+                                                                                                                                                                                                                                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^
+Expected ',', got '<eof>'
+
+SyntaxError: Invalid or unexpected token
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+

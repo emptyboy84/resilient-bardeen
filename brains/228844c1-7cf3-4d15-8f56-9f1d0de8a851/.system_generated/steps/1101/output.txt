@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total processed in bizno: 274
+Bizno matched: 149, Unmatched: 125
+

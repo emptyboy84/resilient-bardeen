@@ -1,0 +1,11 @@
+The search for "티앤북스 대표자 OR 가맹본부 OR 본사" returned the following summary:
+티앤북스(TEANBOOKS)의 가맹사업 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **가맹본부 정보:** 프랜차이즈 정보 제공 사이트 등에서 확인되는 티앤북스의 가맹사업 개시일은 2016년 6월 18일입니다[1][2].
+*   **대표자 및 상세 정보:** 공개된 프랜차이즈 데이터베이스상에서 가맹본부의 임직원 수 등 일부 지표는 확인되나[1][2], 공식적인 본사 연락처나 현시점의 정확한 대표자 성함은 일반적인 검색 결과에서 즉시 확인되지 않습니다.
+
+가맹 관련 최신 정보나 정확한 대표자, 본사 소재지를 확인하시려면 **공정거래위원회 가맹사업거래 홈페이지**의 '정보공개서 열람' 기능을 이용하시는 것을 권장합니다. 해당 사이트에서 '티앤북스'를 검색하시면 가맹본부의 법인명, 대표자, 주소 등 상세한 법적 정보를 공식적으로 확인하실 수 있습니다.
+
+Sources:
+[1] [hi-franchise.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA3LKyRX1rpJs9NGbdF0pGiBYnCelnxzSY2Q3L3Y1e6ya7t0zwlsmZIv9q_ktMYalHdV1yH2GoaLU9P3AoSxAEfLFqQubt_pNY3sV4xdbmkQzRkrz512k-5GOr_vlwk8FBNCsIL4TbVLBi4wNU-SaYZ31FB0y-YYuEs5Bq5wH_-7hzD7PlPj9T8rzgKT2DCPZqsJsL0VxsUiRsx1TrX6HJdw==)
+[2] [hi-franchise.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA3LKyRX1rpJs9NGbdF0pGiBYnCelnxzSY2Q3L3Y1e6ya7t0zwlsmZIv9q_ktMYalHdV1yH2GoaLU9P3AoSxAEfLFqQubt_pNY3sV4xdbmkQzRkrz512k-5GOr_vlwk8FBNCsIL4TbVLBi4wNU-SaYZ31FB0y-YYuEs5Bq5wH_-7hzD7PlPj9T8rzgKT2DCPZqsJsL0VxsUiRsx1TrX6HJdw==)

@@ -1,0 +1,71 @@
+### Result
+[
+  {
+    "text": "주식회사 제일에프앤에스(Cheil F\\u0026S)",
+    "href": "https://bizno.net/article/8698600607"
+  },
+  {
+    "text": "주식회사 제일에프앤에스 음성지점",
+    "href": "https://bizno.net/article/5778501321"
+  },
+  {
+    "text": "주식회사 제일에프앤에스",
+    "href": "https://bizno.net/article/8528100531"
+  },
+  {
+    "text": "주식회사 제일에프앤에스 제2음성지점",
+    "href": "https://bizno.net/article/2308506276"
+  },
+  {
+    "text": "에스엠아르떼",
+    "href": "https://bizno.net/article/4778102338"
+  },
+  {
+    "text": "다다작업실",
+    "href": "https://bizno.net/article/4783500938"
+  },
+  {
+    "text": "승화네크랩",
+    "href": "https://bizno.net/article/4789801738"
+  },
+  {
+    "text": "효성물류",
+    "href": "https://bizno.net/article/4791002538"
+  },
+  {
+    "text": "에스에이치(SH)컴퍼니",
+    "href": "https://bizno.net/article/4791101138"
+  },
+  {
+    "text": "모든금속패널",
+    "href": "https://bizno.net/article/4802702138"
+  },
+  {
+    "text": "주현3호 태양광발전소",
+    "href": "https://bizno.net/article/4824700338"
+  },
+  {
+    "text": "710",
+    "href": "https://bizno.net/article/4956800038"
+  },
+  {
+    "text": "개별화물",
+    "href": "https://bizno.net/article/5022938338"
+  },
+  {
+    "text": "개별화물",
+    "href": "https://bizno.net/article/5813001238"
+  },
+  {
+    "text": "송산에너지태양광발전소",
+    "href": "https://bizno.net/article/5816800038"
+  },
+  {
+    "text": "",
+    "href": "https://bizno.net/article/"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a[href*="/article/"]\'));\n  return links.map(a => ({ text: a.innerText, href: a.href }));\n}');
+```

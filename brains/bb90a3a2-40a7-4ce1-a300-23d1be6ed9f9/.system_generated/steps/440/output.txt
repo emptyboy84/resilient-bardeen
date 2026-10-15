@@ -1,0 +1,16 @@
+The search for ""저스티스어드벤처" (특허 OR 상표 OR 프로그램 OR 출원)" returned the following summary:
+**(주)저스티스어드벤처**는 응용 소프트웨어 개발 및 공급업을 영위하는 기업으로[1][2], 한국해양대학교기술지주회사의 자회사 및 부산 대표 창업기업 등으로 알려져 있습니다[3]. 
+
+검색된 정보 및 지식재산권 관련 키워드와 연관지어 볼 때, 해당 기업과 관련된 주요 내용은 다음과 같습니다.
+
+* **업종 및 사업 영역:** 응용 소프트웨어 개발 및 공급업[1][2] (주요 프로젝트 및 솔루션으로 '실시간 수리조선을 위한 앱(APP)' 등의 소프트웨어 개발 이력이 있음[4])
+* **특허 및 기술 자산:** 소프트웨어 및 관련 기술 분야에서 특허 및 지식재산권을 보유하고 있는 기술 기반 중소·벤처기업으로 등록되어 있습니다[2]. 
+
+특정 출원 번호나 세부 상표·특허 명칭에 대한 상세 조회가 필요하신 경우, 특허청 키프리스(KIPRIS)[5]나 한국저작권위원회 등록 시스템을 통해 기업 명(주식회사 저스티스어드벤처)으로 직접 검색하시면 보다 정확한 개별 출원·등록 건을 확인하실 수 있습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrlUTuMD9HMNWQCifNQOTa--RGkndjGneTR22LzZPOxpaFkcikUDqxj8I6ZYQaBYkEP-nEq8-kzb-i_prSVugQoeHe7tmQaqrN-j93BAKWxcVeAro422OT5HtPEW38xaQ6L33K3rnPok29fEbG8Ahrbn-Ykh2R-M-Xw1wsfV3A9vqUuLYLpEr2g8OWKUXbbYk4hmo4cBJS8MUZS40X8To5ne0K2igZfiY1bvW)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG5Yi9hBDuxMWibG8OWzU_iWZpLoCbJ989FVTORewwWStaVr-abDIt_DxFLb9U7wLFKAbUx4JAGulRpwPr8TRBKLpU8XPFfcHhNaqrcFvckTmNLJDB2KGc8jVluT1eTfiukoFPZaZoDab927e55-CcUE1G)
+[3] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0UNi8r2Sbbf1J2q_z3JASyYdfEsY_bMQMbASco1K-Y8VyU6IQXyiYyXr-yvoMqQUnuSVwMOyRrDqpnaVef1d9LVJS5jdCNi5IT__zON4MjFPuci0LyDZJ5VtVEhPun4EVpejD4jNsZHW8U_E=)
+[4] [platum.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgcfJK5MBpbGq3bBF51uY21i36Bv-jMH3pZSa8zOVQMGxiwqK-cOyM3xlkDBeAGMJK70IGH4VnIIEYqMu83e9iO9dgPTHZA5pBfUM235_aP2ZjFkwmoA==)
+[5] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXT8VSDvRgN_JDoGZZV4I8oaHsUKNeYgR2zZHwPlhu6EhNZGaiOShO3KFhz2R5Y_trsiDnwYGyGIoKgkb4XkYoDa29ur9z6AZ0mRxNCugMOUuSk9fD1TlcaBg47ZyU6wRklkV04YHkigfVe2b6Z-c=)

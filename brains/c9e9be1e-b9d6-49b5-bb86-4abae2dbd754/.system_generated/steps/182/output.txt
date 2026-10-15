@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Row 19367:
+Col 3 [회사명]: "센스케이 글로벌(Sense-k Global)"
+Col 4 [사업자번호]: 7780500791
+Col 5 [대표자]: "정정환"
+Col 11 [이메일]: "amzsensek007@gmail.com"
+Col 18 [업종(NICE BizINFO(업종)참고]: "온라인공동물류"
+Col 24 [사업자번호]: "7780500791"
+

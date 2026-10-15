@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Query: 대경산업개발 부산 Len: 28019
+Phones in Naver: []
+Snippet: arch.meta_referrer = 0; var headerfooter_query = "대경산업개발 부산" ; var g_ssc = "tab.nx.all" ; var g_query = "대경산업개발 부산" ; var g_puid = "jV8Z8dqosq4ssEP2Tf
+Snippet: 발 부산" ; var g_ssc = "tab.nx.all" ; var g_query = "대경산업개발 부산" ; var g_puid = "jV8Z8dqosq4ssEP2Tfd-403590" ; var g_suid = "pQn8+6GZa7T6+HjtLXKotFRI" ; v
+

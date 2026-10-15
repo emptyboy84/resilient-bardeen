@@ -1,0 +1,13 @@
+The search for ""저스티스어드벤처" site:patents.google.com" returned the following summary:
+구글 특허(Google Patents) 검색 결과, **‘주식회사 저스티스어드벤처’** 명의로 등록된 대표적인 특허 정보는 다음과 같습니다[1][2]:
+
+* **특허번호:** KR20190134371A (공개) / 등록특허 등[1][2]
+* **발명의 명칭:** 무게추를 이용한 갑문식 운하의 수위 조절 장치 및 이를 이용한 갑문식 운하의 선박 이동 방법[1]
+* **출원인 / 주관:** 주식회사 저스티스어드벤처 (부산광역시 남구 신선로, 부경대학교 용당캠퍼스 내 소재)[1][2]
+
+해당 기업 및 관련 특허의 상세 원문은 [Google Patents](https://patents.google.com)에서 해당 특허번호(KR20190134371A 등)를 검색하여 확인하실 수 있습니다[3][1].
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhgc6P5aNpVJfP27l1fZwAuJ-thq1-rB6IS_dJSspNcnE02q1S22IpijyY4q5l8eED867w_rEQFXdKIFaVuD9Dzk79SdHouXrV9ysPTP3dDYDgq_JA01Nd59Ae87kUm00jPtDDsKsR)
+[2] [googleapis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1hJahC9b_mTpJysSIMdOpko1S6AHyh8stm8Y6QYG7viPgL8oVKrC8DwpRSfRVwci3XPzC8ILrO5plc42m7SAk7x8f5WKCUvxH2yrpxfWtV65MEMV77RMK1i5mC-P47-zY75NddVejH0WXwnRV5EoObbBqcgN9-2EoLrfFjUVTSYSaZ9yja0spZ25W)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5D54_RQ9EJiS1ORBeXXvJuh9jRuRJQ4lSXZ89s2O1P_NN9ta5YOO-BZJzeE5I86pq-z0wyy0vT_GkpTo6Wne7svyH1wwTmroZ223jNjcJv2g=)

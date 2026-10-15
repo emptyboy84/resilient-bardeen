@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP01017406.nice?bizzID=7788102696');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP01017406.nice?bizzID=7788102696
+- HTTP status: 404 Not Found
+- Console: 2 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-27-04-238Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-27-02-095Z.log#L1-L12

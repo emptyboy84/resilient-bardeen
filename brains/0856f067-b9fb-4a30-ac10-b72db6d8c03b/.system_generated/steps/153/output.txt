@@ -1,0 +1,13 @@
+The search for ""부산 사하구 낙동대로 210"" returned the following summary:
+부산광역시 사하구 낙동대로 210에 관한 정보입니다.
+
+해당 주소와 관련된 상세 정보는 다음과 같습니다.
+
+*   **도로명주소:** 부산광역시 사하구 낙동대로 210 (괴정동)[1]
+*   **우편번호:** 49338[1]
+*   **지번주소:** 부산광역시 사하구 괴정동 1007-2[1]
+
+참고로, 인근의 낙동대로 210-5 등 유사한 번지수가 존재하니 방문 시 정확한 상세 주소를 확인하시기 바랍니다[1].
+
+Sources:
+[1] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSc_kt0pkaTuhoc4L5IwXGbJKBRNGpkLNcQn6_nNhM0F-jAkdYKY4LuiuQWX-2J9BHaoSUdQ6uNsRlaV0LC-J-Ksd6BuQRo6K9iIqQTINbhDOTHZvjWmoqJGcVTIaft_w-_7hNkfcCsFlRWkPXjRjrzXUo7mqiOD_CTY04Ts1DAt0=)

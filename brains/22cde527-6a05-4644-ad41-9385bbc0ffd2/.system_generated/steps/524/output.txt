@@ -1,0 +1,69 @@
+
+The command exited with code 0.
+Output:
+Total filled companies: 150
+Sample first 3: [
+  {
+    rowNumber: 639,
+    seq: '638',
+    gubun: '25년 모집단',
+    name: '디자인에코',
+    bizno: '603-10-85753',
+    ceo: '이돈희',
+    address: '부산 금정구 장전동 222-39 서강빌딩 4층',
+    source: 'https://bizno.net/article/6031085753'
+  },
+  {
+    rowNumber: 701,
+    seq: '700',
+    gubun: '25년 모집단',
+    name: '문화일보 수정중앙지국',
+    bizno: '605-01-99891',
+    ceo: '',
+    address: '부산 동구 수정동 망양로',
+    source: 'https://bizno.net/article/6050199891'
+  },
+  {
+    rowNumber: 703,
+    seq: '702',
+    gubun: '25년 모집단',
+    name: '주식회사 브이드림',
+    bizno: '186-86-00972',
+    ceo: '김민지',
+    address: '부산 동구 초량동 중앙대로 교원부산빌딩',
+    source: 'https://bizno.net/article/1868600972'
+  }
+]
+Sample last 3: [
+  {
+    rowNumber: 2262,
+    seq: '2261',
+    gubun: '25년 모집단',
+    name: '아신홀딩스',
+    bizno: '439-87-02978',
+    ceo: '김삼문',
+    address: '부산진구 가야1동 467번지 동의대학교 산학협력관동 508호',
+    source: 'https://bizno.net/article/4398702978'
+  },
+  {
+    rowNumber: 2263,
+    seq: '2262',
+    gubun: '25년 모집단',
+    name: '인우랩',
+    bizno: '401-86-02715',
+    ceo: '',
+    address: '부산진구 가야1동 467번지 동의대학교산학협력관 802-3,4호',
+    source: 'https://bizno.net/article/4018602715'
+  },
+  {
+    rowNumber: 2307,
+    seq: '',
+    gubun: '게임사업단 리스트',
+    name: '피커스튜디오',
+    bizno: '606-16-43962',
+    ceo: '이현철',
+    address: '부산 연제구 월드컵대로114번길 26 (연산동) 1',
+    source: '부산정보산업진흥원 게임사업단 등록정보 및 네이버 플레이스(606-16-43962)'
+  }
+]
+

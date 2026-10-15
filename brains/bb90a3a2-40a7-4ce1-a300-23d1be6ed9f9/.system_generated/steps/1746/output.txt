@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Query: 051-923-0405 Len: 109363
+Snippet:  051-923-0405 : 네이버 검색 try{performance.mark('nx-head-start')}catch(e){} naver = windo
+Snippet: ent = 0 ; var headerfooter_query = "051-923-0405" ; var headerfooter_query_encoded = "051-923-0405" ; var headerfooter_t
+Snippet: ; var headerfooter_query_encoded = "051-923-0405" ; var headerfooter_time_year = 2026 ; var headerfooter_time_month = 10
+Snippet: ssc = "tab.nx.all" ; var g_query = "051-923-0405" ; var g_puid = "jWspkwqosq4ssEP2NRG-403043" ; var g_suid = "go/FLgtmRx
+Snippet:  "r": 5},{"n": "urB_b3R", "r": 6}]; 051-923-0405 검색 결과 naver.search.option = {} ; naver.search.option.params = {} ; nave
+Snippet: ※ 소재지경남 창원시 성산구 웅남동※ 전화번호정보없음 (Fax. 051-923-0405 )※ 업종명태양력 발전업※ 주생산품-※ 용지면적2800.000※ 건축면적1631.000※ 용도지역도시지역/공업지역/일반공업지역※
+Snippet:  var depIds = []; for (var i = 0; i 051-923-0405 )※ 업종명태양력 발전업※ 주생산품-※ 용지면적2800.000※ 건축면적1631.000※ 용도지역도시지역/공업지역/일반공업지역※
+Snippet: 5287936.xlsx 새 창 열림 2020.02.25. 2MB 02- 923- 1363 02 923- 1363 서울특별시 종로구 경일약국 서울특별시 종로구 평창문화로 35 (평창동) 02-391-3469 02 39
+Snippet:  {}; var depIds = []; for (var i = 0; i 923- 1363 02 923- 1363 서울특별시 종로구 경일약국 서울특별시 종로구 평창문화로 35 (평창동) 02-391-3469 02 39
+Snippet: 북 043-905-3900 6,123 1,050 4,311... 964 923 0 167 6 74 (주)강구토건 이재균 이진호 서울 02-333-4200 50,998 26,634 17,325 4,359 2,678 3
+Snippet: 북 043-905-3900 6,123 1,050 4,311... 964 923 0 167 6 74 (주)강구토건 이재균 이진호 서울 02-333-4200 50,998 26,634 17,325 4,359 2,678 3
+Snippet: :"*w"}},"href":"?page=2&qdt=0&query=051-923-0405+site%3Agen.go.kr&qvt=0&ssc=tab.ur.all","text":"관련문서 더보기"}},"bodyPrefixe
+Snippet: .naver?api_type=pc_lens&mode=&query=051-923-0405&ssc=tab.image.all&vintageid=&where=image&p_nvmid={=nvmid}&articleid={=a
+Snippet: _type=pc_image_id&mode=column&query=051-923-0405&ssc=tab.image.all&where=image&imgId={=imgId}"},relatedImagesAPI:{url:"h
+Snippet: so=so%3Ar%2Cp%3Aall&nx_search_query=051-923-0405&qdt=0&query=051-923-0405&section=image&sm=&ssc=tab.nx.all&imgId={=imgId
+Snippet: arch_query=051-923-0405&qdt=0&query=051-923-0405&section=image&sm=&ssc=tab.nx.all&imgId={=imgId}&p_signature={=signature
+Snippet: .com/search.naver?mode=column&query=051-923-0405&ssc=tab.image.all&where=image"},shoppingZzimAPI:{check:"https://s.searc
+Snippet: arch.naver?api_type=pc_report&query=051-923-0405&imgId={=imgId}",reportUrl:"https://s.search.naver.com/n/srm/report"}},m
+

@@ -1,0 +1,23 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\task_list.md. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,11 +1,11 @@
+ # 잔여 2,658개사 심층 전수 조사 작업 목록 (task_list.md)
+ 
+-- [ ] **Task 1: 순수 결측 2,658개사 타겟 데이터셋 고립화** <!-- id: 0 -->
+-  - 기존 1,320개사 확보 목록과 완전 분리하여 불필요한 중복 호출 원천 차단
+-- [ ] **Task 2: 사람인(Saramin) 전수 비동기 배치 스캐너 구축 및 실행** <!-- id: 1 -->
+-  - 2,658개사 대상 사업자등록번호 기반 기업정보/JSON-LD 전화번호 추출
+-- [ ] **Task 3: 비즈노(Bizno) 휴대폰 번호(010) 및 마스킹 태그 전수 스캐너 실행** <!-- id: 2 -->
+-  - `010-xxxx-x***` 등록 기업 전수 추출 및 임시 저장
++- [x] **Task 1: 순수 결측 2,658개사 타겟 데이터셋 고립화** <!-- id: 0 -->
++  - 기존 1,320개사 확보 목록과 완전 분리하여 불필요한 중복 호출 원천 차단 완료 (`pure_missing_2658.json`)
++- [/] **Task 2: 사람인(Saramin) 전수 비동기 배치 스캐너 구축 및 실행** <!-- id: 1 -->
++  - 2,658개사 대상 사업자등록번호 기반 기업정보/JSON-LD 전화번호 추출 중 (진행 중)
++- [/] **Task 3: 비즈노(Bizno) 휴대폰 번호(010) 및 마스킹 태그 전수 스캐너 실행** <!-- id: 2 -->
++  - `010-xxxx-x***` 등록 기업 전수 추출 및 임시 저장 중 (진행 중)
+ - [ ] **Task 4: 교차 검증 및 우선순위 통합 병합** <!-- id: 3 -->
+   - 사람인 완전체 번호 우선 적용 및 비즈노 휴대폰 번호 보완
+ - [ ] **Task 5: 최종 17열 TXT / XLSX 파일 갱신 및 Today 폴더 배포** <!-- id: 4 -->
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

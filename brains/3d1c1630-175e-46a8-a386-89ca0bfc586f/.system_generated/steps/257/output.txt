@@ -1,0 +1,20 @@
+The search for ""583-86-03184" OR ("엔케이 에더먼트" "원동진")" returned the following summary:
+**주식회사 엔케이 에더먼트 (NK ADAMANT Co., Ltd.)**에 대한 주요 정보는 다음과 같습니다.
+
+*   **대표자:** 원동진[1][2]
+*   **사업자등록번호:** 583-86-03184[3][2]
+*   **소재지:** 부산광역시 강서구[3][2] (범방동 범방3로30번길 42 등 기재[4])
+*   **주요 사업:** 소방용 기계기구, 고압가스 설비, 선박 부품 제조 및 설계[4][5]
+*   **기업 특징:** 
+    *   2025년 5월 12일에 설립된 기업으로, 선박용 소화장치(이산화탄소, 폼, 드라이파우더 소화장치 등)의 설계 및 제작을 주력으로 합니다[4][5][6].
+    *   선박 화재 대응을 위한 고정식 소화 시스템 기술력을 보유하고 있으며, 최근에는 이를 바탕으로 잠수함 및 수상함 등 방위산업 분야로 사업 영역을 확장하고 있습니다[5][7].
+    *   중소기업이자 외부감사법인으로 분류됩니다[6].
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZi7TB16DMNBGWzObctxkiuDzNb_eakNHJZ6aMRVomdYteXHr0tAXmCGrrMAAkbnP4oDOMbfZt08ZLPJCFkOsoOe2mJW9kbZ2vsPrxbq8CwHNP1nWJyj-P25ZV8yA1kmEInhc=)
+[2] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH29NS8JySJwbhrvQcJ-tPVKxa372CouQUxe7Qrz6Mrp3EQLta8BMLwXPhnMIi_Hm2pqza7j4KdIybeVqtQKX9pFAwLmcNtM3nsrJNH6okIGyTjrjwleIgfNklw_kft9Q-HAOX7EaCkNK8=)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH29NS8JySJwbhrvQcJ-tPVKxa372CouQUxe7Qrz6Mrp3EQLta8BMLwXPhnMIi_Hm2pqza7j4KdIybeVqtQKX9pFAwLmcNtM3nsrJNH6okIGyTjrjwleIgfNklw_kft9Q-HAOX7EaCkNK8=)
+[4] [jstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnijQIGw2Ryzcwz2nUxfte-xPabBrDLk7hF0P4s-MfkuBGco26m48iZE-lzr3qKA7QJqg2IacHddcl_Is3MiJ4HlfF8uqlMphLOXsGPnZddf-eQASVqzfs)
+[5] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkQkm-8gOGJ5YvgfaDkS53l9KzyXyjT3N0GMRlt5cTYJPaXMbrYZ6Af5rhlNGp6-PLsHcMT2aRFeCfYVQ_lPR6RNdLhkxXHNU8va5s-44tEKQ2ha07KzMerEpmT44IGcn6lpKA)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNV9E7SpNO3yyWbWsyhUJK_STsKJT4wBmrezMyy2ym03l2372zuEEzVf4ymrq6GFFHdPYDiD1upvfPQ9CLGAjv1fzZ5UYW0KCoinPMmhtYx0LI6t2EToPxXF7T89k5V98mas5K_QNyJHsfhAaHTVvrOcqY0OvYDtYIiW336d8pz3K-GgdoFok=)
+[7] [subleague.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtFr7uuX3L1wdaNQFcwvsd8h_R-faIbkyRLerdAk-bH3cXe0jnmLMPgZU4q_bXbt4fXdXE8j3wZ084jOg1q-cSp0RxvGM78O8GhrRq2rVnaRjhIK1eiq6njq0CaYXVVw==)

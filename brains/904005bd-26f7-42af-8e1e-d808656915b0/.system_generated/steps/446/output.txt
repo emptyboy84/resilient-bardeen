@@ -1,0 +1,28 @@
+The search for ""우수경" "이석창" OR "최유창" "이수연" OR "곽재홍" "이지현"" returned the following summary:
+제시해주신 검색어 조합에 대한 결과는 다음과 같습니다.
+
+### 1. "우수경" "이석창"
+*   해당 조합으로 직접 연결된 특정 인물 정보나 유의미한 검색 결과는 확인되지 않습니다.
+
+### 2. "최유창" "이수연"
+*   두 이름은 여러 뉴스, 보도자료, 명단 등에서 개별적으로 자주 언급되는 일반적인 이름들입니다.[1][2][3]
+*   다양한 분야(시설물 유지관리업 시공능력평가 명단, 각종 이벤트 및 캠페인 참여자 명단 등)에서 각각 이름이 포함된 경우는 있으나, 두 사람이 특정 사건이나 관계성으로 함께 묶여 있는 정보는 검색되지 않았습니다.[4][5]
+
+### 3. "곽재홍" "이지현"
+*   두 이름이 같은 문서 내에서 언급되는 경우는 주로 **공공기관(화성시 등)의 인사 명단**이나 **단체 후원자 명단** 등에서 발견됩니다.[6][7][8][9]
+*   예를 들어, 2016년 화성시 인사 관련 보도에서 두 사람의 이름이 같은 지면 내에 포함된 사례가 있습니다.[6][7]
+*   또한, 운동 관련 커뮤니티(MUSA 등)의 게시글 작성자 명단 등에서도 각각의 이름이 확인되는 경우가 있습니다.[10]
+
+요청하신 검색어들은 주로 공공 기록이나 명단 등에서 개별적으로 등장하는 경우가 많으며, 특정 관계를 맺고 있는 인물들로 단정 지을 만한 통합된 정보는 없습니다.
+
+Sources:
+[1] [sisain.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd4jEh6RCFjvnuZrtm0EFyeul5ujDptS6XkbAaakxJgSRf8T72q0UP35BG-5A9QEFLosW_Zcupcy7cwGdMoMP_bwYVg5wtv8x1UDHHEK9N4q00nTZJhRwH-xPGlCvAByGcwm7E5mu5ZaxRsWTd2DI=)
+[2] [hrbaram.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDnCalhxq0rnVUpJ1k2asCNXItlLuGgb0mOCgJf_usVuTXA6Mc7_uPoK8eAQh7IWV1VXk6yf0w8fNr3iENDhsUlc7oQq4XANg1NmymveXYucU7EcKbL8xpkY6R-s_XqJ-Iz-xcvSuzQo-NiUOP)
+[3] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf4YJrLAMnX32NYFour2mJugHL9QLtRPkZ-DYBShIaVWJFC9RPjCaX2dzDaPufXHOv64oWQyaugiwBsp8LXYxzcIZKEtlJlAOV_LBgEpQKzTlH6GV4keYRN3ACFU1NrAfabvo=)
+[4] [himo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNzonuXfjW17pmG26CwNqi3oGkdMDsrwex_DVfGkYMS3QbfcEUKm_V-zzm1wbJOrhNIvLfJzQ6asqarKktyh3OtAkNAKZT9gqDv4Ra1CvPH9B6H76B)
+[5] [bidmate.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5FzSYzuqXMCWpqpi7mR3AjvMfYVew1nABkcdry54ezf_fq7ECPLPo5wpvTMcLVvFTnndUk5EsOJXpxnXtGkgKfJNcM_mZjTsSSIwFM95QMhvkT8eFiVRuLOh915SEaOln-p6KXIFnl3FaAyehEliHrlXCNGNfOe9M3XF4mb_AOHkwCNc4UC-5TfkStgPqAujPdl1Tj8HDA4T4MBVlpbHnLnYKGwM5pUwaZfkzG8enziLmvzus83gikojXDGA9mn7sxP3bYO-wV-kCKE_bC7KPorK-0d-zS4Tb_f2z8ThBNPFs9gRYep-F-5AHJ0BL2L_VMpkG9xa0yKgR99MsEMdg_zMwwdbb8PrZLSgb7Mjo9o0=)
+[6] [hsinews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvia0gUt7f_ljiNOg3B3UzrtRH6QExAJBzPuI1_s8ql7OP8IJLmNrRzG2X4rN9bJqVQN7cP1Q6a_eNmjqHUMIDEBrTejtiGYB4gvVtPZscQg==)
+[7] [ihsnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8HRJr_-lcytms-HA920h4Dut7zLWFhYJfgSpMZT-TZf57KYHt5ECrueYlawrVy2vfQQHAB0JgOy9tZQK6BGoAkTkeMmBvhm29PEA_kAWGqxk=)
+[8] [kihoilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBAC_zBb3WGHCPwMz2ULbYVK_dF-ywSnFCvtFXriPHkPA79B6Ojf7Rxz2iSytBRfw0BhL322oPbseNXd2Nbcxs04_nMqInpzDqc3WLl7RPF3nIyPQDMnLKHn0gK6QehKisqmgMjQDR9zt7ypqGQsXa-Ag=)
+[9] [imweb.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV1xfT1-rwmAHwD70sOFL2yzhkVMKpH2ZYWI9jy_YAROIMj2FNK48ICt_B7hwM1G7aUsPpdGWq_XuGlcIypGJs6QdqIcoZkCrFlBihFHb6jKb1Gw==)
+[10] [unmo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcLJukopNfBfqbTAj8h7Nf2FyH9IjNpgMQxV1jF3i9-EiK_-JKFn2z7ps0ESlqXRg3e3PM8aYVYViD2keh_cXEoF4AFsd4irbM6Bp765MNvsIjurS5h0N3G30Xg3LpPpLmU2wmeR01ag==)

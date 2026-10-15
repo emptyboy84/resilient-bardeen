@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+ConvertFrom-Json : �߸� JSON �⺻ �: .
+�ġ �:2 �:177
++ ... ge=10&keyword=�ڼ�141� 11&resultType=json' | ConvertFrom-Json | Selec ...
++                                                  ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ConvertFrom-Json], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException,Microsoft.PowerShell.Commands.ConvertFromJsonCommand
+ 
+

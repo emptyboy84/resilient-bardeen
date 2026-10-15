@@ -1,0 +1,70 @@
+
+Path                                                                                                               Time
+----                                                                                                               ----
+C:\Users\lg\.gemini\antigravity\brain\7ceb3003-3471-4163-b37b-71a60591f72d\.system_generated\logs\transcript.jsonl 2...
+C:\Users\lg\.gemini\antigravity\brain\7ceb3003-3471-4163-b37b-71a60591f72d\.system_generated\logs\transcript.jsonl 2...
+ConvertFrom-Json : Invalid object passed in, ':' or '}' expected. (358): {"step_index":32,"source":"MODEL","type":"PLAN
+NER_RESPONSE","status":"DONE","created_at":"2026-09-29T03:22:40Z","thinking":"The provided data appears to represent a 
+business entry, likely pertaining to a company named \"臾대そ??\" Fields include the company name, a year (potentially est
+ablishment year or operational age), a phone number, a district (\"湲덉젙援?"), a full address, and an industry category (\
+"?뚯븙\"). This structured information suggests the data is suitable for database entry or business directory categorizat
+ion.\n\n\n","tool_calls":[{"name":"run_command","args":{"CommandLine":"\"[Console]::OutputEncoding = [System.Text.Encod
+ing]::UTF8; Get-ChildItem -Path \\\"c:\\\\Users\\\\lg\\\\fix\\\", \\\"c:\\\\Users\\\\lg\\\\resilient-bardeen\\\" -Inclu
+de *.xlsx,*.tsv,*.csv -Recurse -ErrorAction SilentlyContinue | Select-Object FullName, LastWriteTime | Sort-Object Last
+WriteTime -Descending | Select-Object -First 20\"","Cwd":"\"c:\\\\Users\\\\lg\\\\fix\"","IsDaemon":"false","WaitMsBefor
+eAsync":"3000","toolAction":"\"Searching recent dataset files\"","toolSummary":"\"Search recent datasets in workspaces\
+""}}]}
+At line:3 char:25
++     Get-Content $path | ConvertFrom-Json | Where-Object { $_.type -eq ...
++                         ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ConvertFrom-Json], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException,Microsoft.PowerShell.Commands.ConvertFromJsonCommand
+ 
+C:\Users\lg\.gemini\antigravity\brain\8d910c96-69ac-4dcb-b68c-aa4d0f2ced8e\.system_generated\logs\transcript.jsonl 2...
+ConvertFrom-Json : Invalid object passed in, ':' or '}' expected. (182): {"step_index":50,"source":"MODEL","type":"PLAN
+NER_RESPONSE","status":"DONE","created_at":"2026-09-30T00:13:05Z","thinking":"Analyzing the provided data, the company 
+\"二쇱떇?뚯궗 猷⑹뒪??" (JooSikHoesa LooksTec) is marked as \"?먯뾽\" (closed). Key identifying information includes the business
+ registration number, representative's name, and address. This indicates that the entry describes a company that is no 
+longer operational.\n\n\n","tool_calls":[{"name":"run_command","args":{"CommandLine":"\"git diff master..add_goejeong_m
+anhwa_data --stat\"","Cwd":"\"C:\\\\Users\\\\lg\\\\.gemini\\\\antigravity\\\\worktrees\\\\resilient-bardeen\\\\add_manh
+wa_creator_data\"","IsDaemon":"false","WaitMsBeforeAsync":"3000","toolAction":"\"Checking diff with branch\"","toolSumm
+ary":"\"Check git diff of branch\""}}]}
+At line:3 char:25
++     Get-Content $path | ConvertFrom-Json | Where-Object { $_.type -eq ...
++                         ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ConvertFrom-Json], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException,Microsoft.PowerShell.Commands.ConvertFromJsonCommand
+ 
+C:\Users\lg\.gemini\antigravity\brain\8f22c045-be27-4b13-94fc-221f5198ed7a\.system_generated\logs\transcript.jsonl 2...
+ConvertFrom-Json : Invalid object passed in, ':' or '}' expected. (426): {"step_index":11,"source":"MODEL","type":"PLAN
+NER_RESPONSE","status":"DONE","created_at":"2026-09-30T00:12:25Z","thinking":"Two distinct business entities identified
+. First is \"議곕굹??\" related to animation, with ?댁???as the representative. Second entity, \"議깅낫留뚮뱶?붽납議깅낫愿,\" is relat
+ed to publishing, with associated contact information and address.\n\n\n","tool_calls":[{"name":"search_web","args":{"q
+uery":"\"\\\"議곕굹??\\" \\\"?댁???\\" ?좊땲硫붿씠??"","toolAction":"\"Searching web\"","toolSummary":"\"Search Jonathan Lee Eun
+-seok\""}}]}
+At line:3 char:25
++     Get-Content $path | ConvertFrom-Json | Where-Object { $_.type -eq ...
++                         ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ConvertFrom-Json], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException,Microsoft.PowerShell.Commands.ConvertFromJsonCommand
+ 
+C:\Users\lg\.gemini\antigravity\brain\94270104-e477-40e3-8bd5-7d275f29760c\.system_generated\logs\transcript.jsonl 2...
+C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\.system_generated\logs\transcript.jsonl 2...
+ConvertFrom-Json : Invalid object passed in, ':' or '}' expected. (165): {"step_index":86,"source":"MODEL","type":"PLAN
+NER_RESPONSE","status":"DONE","created_at":"2026-09-22T00:23:12Z","thinking":"Initial data analysis revealed \"?⑹슫??" i
+n a specific row, but not \"?대룄寃뚯엫?ㅽ뒠?붿삤,\" raising a question about the branch name. The branch name, `add_undo_game_s
+tudio`, suggests a connection to \"undo\" and \"game studio.\" Further, \"?대룄\" translates to \"undo\" in English, and 
+\"寃뚯엫?ㅽ뒠?붿삤\" is \"game studio.\"\n\n\n","tool_calls":[{"name":"run_command","args":{"CommandLine":"\"git log --all --o
+neline -n 30\"","Cwd":"\"C:\\\\Users\\\\lg\\\\.gemini\\\\antigravity\\\\worktrees\\\\resilient-bardeen\\\\add_undo_game
+_studio\"","IsDaemon":"false","WaitMsBeforeAsync":"5000","toolAction":"\"Checking git all branches log\"","toolSummary"
+:"\"Git all log\""}}]}
+At line:3 char:25
++     Get-Content $path | ConvertFrom-Json | Where-Object { $_.type -eq ...
++                         ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [ConvertFrom-Json], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException,Microsoft.PowerShell.Commands.ConvertFromJsonCommand
+ 
+C:\Users\lg\.gemini\antigravity\brain\cc76335e-7291-458a-9e83-7d8d0ee5b317\.system_generated\logs\transcript.jsonl 2...
+C:\Users\lg\.gemini\antigravity\brain\d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd\.system_generated\logs\transcript.jsonl 2...
+
+

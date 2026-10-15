@@ -1,0 +1,13 @@
+The search for ""507-86-01751" OR ("주식회사 파이" "김도응") 전화 OR TEL" returned the following summary:
+제시해주신 사업자등록번호(`507-86-01751`)에 해당하는 기업은 **'주식회사 파이'**로 국세청 데이터베이스 등에 등록되어 있으나[1], 공개된 공식 대표 전화번호나 상세한 고객센터 연락처는 인터넷상에 명시되어 있지 않습니다[2]. 
+
+* **기업명:** 주식회사 파이[1]
+* **사업자등록번호:** 507-86-01751[1]
+* **관련 인물:** 김도응 (사내 데이터 및 플랫폼 등에 기록이 확인됨)[3]
+
+정확한 유선 연락처나 고객센터 번호가 필요하시다면 공공 데이터 포털, 기업정보 조회 서비스(크레딧잡, NICE 등), 혹은 관할 세무서를 통한 사업자 정보 확인 등을 통해 문의하시는 것을 권장합니다.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUvviGhlzBqTVnHkV5xxQB0YTRoYI4dQx7r3DvuzuRHmker_Tmw7dHD7xNkjUpPDeNbuTyaWLHEu6-XUMDpLRRFz1gtE8SSCOXy5deEFLjmCUMnOhDZwYAdw==)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKb1B1nEc3y7XOg4G6cwieSFWDklY44zXzLN04l3n_NoYDFZu4F4vhhRRatYSTK-P6qe9bTfIdyjsWF9CMbASq_nAT-wgXyV1_B1WOM0pIbOkrr7FS)
+[3] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Sq6Vj0GQRTHoII8JH8XvhFyT7v4uZMtZJGlDdGw4GiSqxnEd9fX5tivUfYesmMi-Fxot00D8wocFiiRKqaPe3l9GbLnACxpoJyICwi-nGNmibTpLc_uLin0=)

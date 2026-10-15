@@ -1,0 +1,15 @@
+The search for "site:38.co.kr "(주)시드" "김성홍" "사업자" OR "설립" OR "자본금" OR "법인"" returned the following summary:
+38커뮤니케이션(38.co.kr)에 등록된 (주)시드에 대한 정보는 다음과 같습니다.
+
+*   **기업명**: (주)시드[1][2]
+*   **대표자**: 김성홍[1][3]
+*   **소재지**: 부산광역시 해운대구 우2동 센텀시티 DMZ 13B-4 센텀벤처타운 503호[1][2][3]
+*   **사업 분야**: 영화 관련 기타 제작 및 공급[3]
+*   **연락처**: 051-741-3013[1][2] (또는 051-741-3011[3])
+
+검색하신 결과 내에서 해당 법인의 자본금, 구체적인 설립일 등 상세 재무 정보는 확인되지 않습니다[1][2].
+
+Sources:
+[1] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7A6eWw7TqqphVF4eTbpbGFbcYFvO-HFRd_Uq8VhYE9X2iebFmcglfm_ybIf1SyIgOT9hSuxwYRzGLrL5d_MzkQOLK3wT8L5Zx8D-WvXZBs76WzJq84bu6m3NIzCsMeqm79dZthYOvoqKIK2U=)
+[2] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7A6eWw7TqqphVF4eTbpbGFbcYFvO-HFRd_Uq8VhYE9X2iebFmcglfm_ybIf1SyIgOT9hSuxwYRzGLrL5d_MzkQOLK3wT8L5Zx8D-WvXZBs76WzJq84bu6m3NIzCsMeqm79dZthYOvoqKIK2U=)
+[3] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8s7DX4UXeVspPYUb0jtvpW-BOM_zG9hj1aKT9UkaWE-hOsv5VJ2KPI-N0PIj4RalFOCIZBId0MlerDYKovFNINxHqZaPxMW0r41hCc0MEq6ypvbRhbK1-uFl2gEQ8U_XajYlTSIB0K8cF6fJ9IUf9rwccMg==)

@@ -1,0 +1,11 @@
+The search for ""아시아드대로 22" ("보고" OR "조준형")" returned the following summary:
+검색 결과, 입력하신 검색어와 관련된 주요 정보는 다음과 같습니다.
+
+* **주소 (부산광역시 연제구 아시아드대로 22):** 부산 연제구 거제동에 위치한 주소지이며, 해당 주소에는 비주거용 건물 임대업 등을 영위하는 기업인 **'(주)보고'**가 위치해 있습니다[1][2].
+* **인물 (조준형):** 해당 주소에 위치한 **(주)보고**의 대표자 성함이 **조준형**으로 확인됩니다[2]. 
+
+따라서 `"아시아드대로 22"` 주소지에 위치한 기업 **'(주)보고'**와 그 대표자 **'조준형'**에 대한 기업 정보 및 연관 데이터가 매칭됩니다[2].
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMGwqxIY--Ryb9IqqhkRbYMj56mT1oJyoqvKgqY6NjVZhjGV5hPa-Kw0yoXYbYFE8V0-k0wQLftulHHj4uTMnh3v-D0z-c5d9VLPBEJk8oyzxcEPbaDgQzLQFUnfNtEc4oVaqE2jOUVTCHbVUYB2fCdZYCt0A1ChoROU0ur7IchRppw02npIam3i_YHCgidtJbN793ViTAcLPb5UvF3oZfPfA9V0f-QtkyM5zI1B2PxJNAkvAyJtwbouByX-6G)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdGE19rIAtzYSdnU3quTrZtmi7_WRQTmdUBColqVq47zgC8VZ38YO6A1UeKusSaBwteYdkHRpeUHeqqHLenw6uFWPZbjWicuMXP9EKqKCmjixApNrOQa2R5KmGzFHi3iQ4QQTPBQj8Dqh2d5ZMeJlBRWCNQIKvEVAU3D5sHvWgD8RbwEDGFMNLj4kkzrDdVOKD3y_vlXG_h_PTjJn7hQJD45bvyVDhy7PM9FBppCRx8IKmazyqEFBqFaZNPvA4)

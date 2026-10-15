@@ -1,0 +1,20 @@
+The search for ""쿤스트원" 법인등록번호 OR 사업자등록번호 OR "뮤지엄 원"" returned the following summary:
+부산광역시 해운대구에 위치한 미디어 아트 전문 미술관 **'뮤지엄 원(museum1)'**은 예술 전문 기획사인 **(주)쿤스트원**이 설립 및 운영하는 복합문화시설입니다.
+
+관련 사업자 정보는 다음과 같습니다.
+
+*   **(주)쿤스트원 부산센텀지점**
+    *   **사업자등록번호:** 868-85-01741[1][2][3]
+    *   **법인등록번호:** 111011-1596581[2][3]
+    *   **주소:** 부산광역시 해운대구 센텀서로 20 (우동, KNN월석아트홀 / 뮤지엄 원)[2][3][4]
+
+참고로, (주)쿤스트원 본사(법인)의 경우 사업자등록번호는 **684-88-00335**, 법인등록번호는 **1101115965813**으로 확인됩니다[5]. 뮤지엄 원은 2019년 개관한 '뮤지엄 다'가 2022년 3월 재개관하며 변경된 명칭입니다[6][7].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI7G9Sy7C8coj8kGbqsZHzg8NVFRQqs_jzEBsNP7BvOrkpyzRLg0iYRyxOpObMo4LJeeSdpvyYABt1P96tjsiWkNkvnHiku4zDbhfjJumRr4_acrEL-2UCs8k=)
+[2] [seenthis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Q5UkPr9PGbP_xHSanW8zryQHZWGl5kRYK9-Q75R8wxMNO9hzqondPYz9gumT3TsbnqjUIsfsbobCEwG_X0kBeVR2pp1yE8iY0pjOzGqtbpFi47bTN9NkzdbQXBgyrlXEFItlnpeYrSW-suOuMI2rTnCHZsl8tAJZxkULzavNnjDxnlfgOLweNQ==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI7G9Sy7C8coj8kGbqsZHzg8NVFRQqs_jzEBsNP7BvOrkpyzRLg0iYRyxOpObMo4LJeeSdpvyYABt1P96tjsiWkNkvnHiku4zDbhfjJumRr4_acrEL-2UCs8k=)
+[4] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH3voXHC82y5v9lXKWEY-DQEVfpNYhNvBrK6pt7Ea9L49Sxf_BK-0ZS94UPXcbHSrxsGqN3EmtxsKfEx2RrqeN7PpFS3Gr3rlhBU2A_mzYL1A4t6Vkiw78Sg==)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUz6WfuDLLwCUAnSo7IiUjOxlk-wUvZ1Dax-6Cvw7y2bDZGsI9lEXMliyvG1W8jOF_2TdMt6UgOl8qnZovQ0Au3lnNGa6yvuLfJkl6gYPPviDhzlUQ3zlJHtM0fOxH3ZCUcA==)
+[6] [handmk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiTLICNv1ChaTdYbsB_Uq6MzUs1yrs1daheFPUe0zqzTVY-v_n9OpYYFzP80KIrrG0vav10HLqAWxhu64khs348VDi5jGTZhw-1e29MMZJuaekWU7sUinzDLlPLfHAdD4797My-xjnuMtcBT38rA==)
+[7] [sisamagazine.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwIOH3E3s2zfT-pICxUtE2o3S6h8MlBMh7LRhrhQ_ZwoTdRzWWl37ma8riSslVJF5K7DO-LLz4Uf30RhNYHYn4ZHv5eNNED2Wbz-Htb1QZhzY7Ne8XKn7XyqxFxX_SigNuXn84OI4ERDA0J4UqbFIBBmmmUuqbCw==)

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+d45b2544-8cba-4d1e-83cd-92fec4312928 : <USER_REQUEST>
+쏘울픽처스
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-15T1
+12bb856b-03bb-402a-8bc7-7c73eff25202 : <USER_REQUEST>
+플레이그라운드	872-21-01995	2023	7	김정민	051-711-0037		해운대구	부산광역시 해운대구 해운대로 814, 세종월드프라자 2층 20
+278358c4-0214-45d6-a1ac-598c45cc2ced : <USER_REQUEST>
+케세라세라	351-49-00417	2019		강민지	010-9506-0588		남구	부산광역시 남구 못골번영로56번길 8	영화						
+이거만자뇨
+<
+

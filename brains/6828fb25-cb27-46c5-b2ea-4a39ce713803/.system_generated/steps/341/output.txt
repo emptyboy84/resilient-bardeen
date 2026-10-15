@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_woogang_marketing_data
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:03            859 AGENTS.md                                                            
+-a----      2026-10-06   � 9:03           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+
+
+

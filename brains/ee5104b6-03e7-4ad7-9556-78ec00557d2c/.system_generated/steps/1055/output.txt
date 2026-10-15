@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Emails found on website: [ 'webmaster@kimage.co.kr' ]
+Snippet:  KOREA IMAGE SYSTEM var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax; var mk_images_dir = "http://www.kimage.co.kr/wp-content/themes/jupiter/images", mk_theme_js_path = "http://www.kimage.co.kr/wp-content/themes/jupiter/js", mk_responsive_nav_width = 1140, mk_grid_width = 1140, mk_header_sticky = false, mk_ajax_search_option = "disable"; var mk_header_parallax = false, mk_banner_parallax = false, mk_page_parallax = false, mk_footer_parallax = fal
+

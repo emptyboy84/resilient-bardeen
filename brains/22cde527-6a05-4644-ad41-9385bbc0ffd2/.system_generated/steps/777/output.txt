@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Total filled companies: 150
+Found pathways breakdown: {
+  BiznoSearch: 131,
+  'Bizno+KCC': 1,
+  'NaverSearch+BiznoDetail': 12,
+  'BIPA/BI-Net': 1,
+  'OfficialWebsite+FTC': 2,
+  'Naver+Bizno': 1,
+  'Naver+Hometax': 1,
+  'Naver+BIPA': 1
+}
+

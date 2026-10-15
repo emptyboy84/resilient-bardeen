@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Successfully generated final 77-row TSV/TXT files with STS (781-88-01386) included!
+

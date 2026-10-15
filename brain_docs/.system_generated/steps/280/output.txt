@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Cell 14,10 fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFC6EFCE"}}
+Cell 14,10 font: {"bold":true,"color":{"argb":"FF006100"}}
+Cell 14,10 border: {}
+

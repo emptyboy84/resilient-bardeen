@@ -1,0 +1,43 @@
+The search for ""케어닥" "708-81-00933" OR "박재병" "매출액" OR "감사보고서" OR "실적"" returned the following summary:
+(주)케어닥에 대한 주요 기업 정보는 다음과 같습니다.
+
+### **1. 기업 개요**
+*   **대표자:** 박재병[1][2]
+*   **사업자등록번호:** 708-81-00933[2]
+*   **주요 사업:** 응용 소프트웨어 개발 및 공급업(시니어 돌봄 플랫폼), 간병인 매칭, 방문요양, 시니어 하우징(주거 시설 운영) 등[1][2][3]
+
+### **2. 최근 매출액 및 실적 추이**
+케어닥은 시니어 돌봄 및 하우징 사업 확장을 통해 외형 성장을 지속하고 있습니다.
+
+*   **매출액 변화:**
+    *   **2021년:** 약 13억 3,000만 원[4][5]
+    *   **2022년:** 약 23억 원[6][7]
+    *   **2023년:** 103억 원[8][9]
+    *   **2024년:** 32억 4,760만 원[5] (※ 참고: 자료 출처 및 집계 기준에 따라 수치에 차이가 있을 수 있음[4][10][11])
+*   **영업손실:** 사업 확장을 위한 투자가 지속되면서 영업손실이 발생하고 있으나, 최근 영업손실 규모는 점진적으로 축소되는 추세입니다.
+    *   2022년: 82억 원[6][5]
+    *   2023년: 63억 5,500만 원[5]
+    *   2024년: 48억 7,800만 원[5]
+
+### **3. 주요 특징**
+*   **사업 성장:** 전국 거점 방문요양센터 확대와 시니어 하우징(케어홈, 케어스테이 등) 신사업의 안착이 매출 성장을 견인하고 있습니다[12][9].
+*   **투자 유치:** 2027년 코스닥 상장을 목표로 하고 있으며, 최근 프리IPO(상장 전 지분투자)를 통해 150억 원을 조달하는 등 누적 투자금을 확보하고 있습니다[13][5].
+*   **시장 평가:** 시니어 케어 분야에서 높은 시장 점유율과 데이터 기반의 전문성을 인정받고 있으나, 시장에서는 외형 성장과 더불어 상장을 위한 확실한 수익성 입증을 중요한 과제로 보고 있습니다[14][5].
+
+*※ 본 정보는 기업 정보 플랫폼 및 언론 보도 자료를 바탕으로 작성되었으며, 실제 감사보고서의 세부 수치는 공시 자료를 확인하시기 바랍니다.*
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSWeGq3B32NAUHSb0WBJQyNrNE06_LbMHeankKotXfBnjZKusv5yD3Vk37YLqlzvsFEZrEGLqx-BLfAdAFwyuJCJIy7aFSPqpDP9VZ2PPLhicIRSrpyJFwgKq7Gqy1sMGplTYjOmp1egYgVXx6GLkiAO4sZKpSmTri6o7-6Z_NCwKXguGnzU5pq74kPrOuApt5tInNEW_LQ4FYKWq69UkJFwy730wSRwvHjualtNVPmQ==)
+[2] [caredoc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfZLXYW9yYm7UuRCujaftfwrjHQcEBrzNs_oNFqnxH9kIi8jbpseUzZdvK_cbajhHRgDttVK456u5f0HnPpGxYqBhjO5fZ6TQhDwt69UUViA==)
+[3] [unicornfactory.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG1wMcFCA1m-kn9DXksqYbOM4VBD6FMAolAYR93GPAds5sO5HrnlJSV_xJSPYylbLrPic-BB8WbsAv-g_u24p5ZgK0BR3WeI31jLwF5ghSZ7BGbo_q0_BzouewnQcfmENv7ksD1tYqtL5SIMQ0Pkt_0w==)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeAL9qKWlcOo5zjOEVIyHwGoGl8f-3Y7RTBAgyOpTZ2N-K67DM5mG_3XH6Q8F61zBtkrjh2Y6Cgyob4f3We6B4A0ZwK56VhviW0QhLw1iRcumnLajnbswkcfuJosBNOeFiCC-Sb3vsocjkQnR9)
+[5] [newstopkorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh9uaV-nRrYcAT50sIljtuOiLFtA0oJ4fZjvw4MPCbfIl6PrjJa-0twEUzmuMgUCIpTuXMWjRzTXolTCyOEHcQnQKnKFiQblzWKg2162ZDe5ZpcMLDvip1HbdjHLbPT5KlHh5pleJ3VAvpQt4WeZl16nqO)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5s0H7LhwIabhe8Fjmx4QPke3uvkyyRoIo43lHkN9DYc7k1fZqqoXFJQQGWqz3bjyBocVQYdgrIGCTlzCCaBl4KJdhHZ9GfxKOYAmeqT-Bye0Hdgm2N-3a209R4ZCRxZ5ojCVVKaRo0F2KMaWTbRHE0rBY_0xbaODNNT64)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5s0H7LhwIabhe8Fjmx4QPke3uvkyyRoIo43lHkN9DYc7k1fZqqoXFJQQGWqz3bjyBocVQYdgrIGCTlzCCaBl4KJdhHZ9GfxKOYAmeqT-Bye0Hdgm2N-3a209R4ZCRxZ5ojCVVKaRo0F2KMaWTbRHE0rBY_0xbaODNNT64)
+[8] [unicornfactory.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPE3jfrVB_Hg_QuRpBMDf4J8kslYl-YXl3xE60BCRwQAYEYgYx1rM5-IFeL2q3lOl212BfGlJQI_4SYK2Yuilqxm5icNahQhY5QDn9XZsBmlQLHzZfSX9grEQ_OkJ_OaWmePnCYaj-DH9x9msLt_y_7A==)
+[9] [etoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgf65XP7iGYHAToaPhFF7IYFYi0dyD6mBLcrl2QDSaJ_AXMwGLwJnUQQLe765R9GTDXGnq5WtTTENKIl2UPdW7YQbVh40lL6t4g1hnTWHHRPpQF0-s2_-9Fvfs6pUsDQ==)
+[10] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVr9Z-X4iSahlUpIvnJnqLUDMz8fPDITuN6R0lFO5_dbe11AQWVUWANo5mtLc147fb0m_nc0q3SJnmWd5lgtmAzjZYRvDdsxBWbgPTIa-84JeqZunaq-rg7aTR-eLb0Tk=)
+[11] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQkgxJSMd45-4z226ubkk14qd91wSYh2C3070VSBBHhHqRiW4uuNMNgqlVj4YV6Feqbhje7tBSIt3xEtFZcgBdqF_jpSGEMc-gxem-RnH25SSQqR_0X4dCplcVTyaBKntwQ9ZzI_cMkGhLdp4R7Sn)
+[12] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytxX3Y9f2pUNZdNU6VclJeXUv3EwFGKPt4ZZOQypGJ49OFnjxiSUXvNVPsRSpW5fcbabd9-NAoCsC0H35pMzHjg3mAMD4ykCGYUClF0e-87yxTalnWYcjqbc=)
+[13] [demoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKQ94g6UEVQFwg-whUd08XaGtJIu1q0iHKWe4pEP5cSJ0qz5xiUoV0--CZPbqr3vZu85RvtRFjJ5DnKbJet1ZPbaiiu8yVnBgC3c6X6oz0WouzN-TlduSz2SMRFmGu1w==)
+[14] [lifein.news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzujm2km7rcZQsfqFMFixtBcrXpb5W4KNHVYe3vnicggJUf59xC5mx5e8Hqw1Z-KLXAYusTxh80EDEl9K2NjcpeNbykv4edC1hJIXOTJU_382SWstyArK4O-CgyYf0GyTH0SnHFjlEKSrT4vG3g==)

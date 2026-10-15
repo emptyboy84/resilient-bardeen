@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Matches with hyphen: [ '113-86-00917' ]
+csn matches: [
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn',
+  'csn',
+  'csn=',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn\\/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFo',
+  'csn=Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn=',
+  'csn=',
+  'csn/Q1lXWTYyc0JsUXRXR3R6ZFdRQjFoQ',
+  'csn%2FQ1lXWTYyc0JsUXRXR3R6ZFdRQjF'
+]
+250 matches: []
+

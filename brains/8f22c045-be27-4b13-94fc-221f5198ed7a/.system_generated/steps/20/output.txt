@@ -1,0 +1,18 @@
+The search for ""조나단" "이은석" 사업자 OR 대표자 OR 애니메이션" returned the following summary:
+질문하신 "조나단", "이은석", "사업자/대표자", "애니메이션"이라는 키워드와 관련하여 통합적인 정보를 찾아본 결과는 다음과 같습니다.
+
+검색 결과에서 확인되는 각 인물 및 관련 내용은 서로 다른 분야에서 활동하고 있습니다.
+
+*   **이은석 (게임 디렉터/개발자):** 넥슨의 전 왓 스튜디오(What! Studio) 총괄 디렉터이자 《마비노기》, 《마비노기 영웅전》, 《야생의 땅: 듀랑고》 등의 개발을 이끈 유명한 게임 개발자입니다[1][2][3]. 게임 개발자로서 애니메이션 관련 작업을 하거나 관련 컨퍼런스에서 강연한 적은 있으나[4], 일반적인 의미의 '애니메이션 사업자'나 '대표'로 분류되지는 않습니다.
+*   **이은석 (방송작가/교수):** 한국방송예술진흥원(한예진) 등에서 교수로 재직 중이며, 드라마, 영화, 애니메이션 등 다양한 장르에서 작가로 활동한 경력이 있습니다[5].
+*   **조나단:** 검색 결과상 게임 제작(라스트 플래그) 등에 참여한 '조나단 젤리넥'과 같은 인물들이 확인되나[6], '이은석'과 함께 특정 사업체나 애니메이션 프로젝트를 운영하는 대표자로 연결되는 정보는 찾을 수 없습니다.
+
+결론적으로, 이 세 키워드("조나단", "이은석", "애니메이션 사업/대표")를 모두 만족하며 함께 언급되는 공통의 사업자나 대표자는 확인되지 않습니다. 질문하신 내용이 특정 기업이나 프로젝트와 관련이 있다면, 추가적인 정보(예: 회사명, 서비스명 등)를 확인하시는 것이 정확한 정보를 찾는 데 도움이 될 것입니다.
+
+Sources:
+[1] [slideshare.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0hIDi6h_XkMVnJkvazeBQ1VVJRQcleNJrz6iJ34HFQM4t6VfmeL7mW68XNc23384_TB3Nead20_H3gNDH0VYDGxAJb4TMOqfwk1yWvhvXOZuvLnRKZfl5nWvfas1yVGMkApjsGsTaiXNcNpk=)
+[2] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE8_NbZHhaqDFAIkltrhykdd32wD3DxID-qyFMIEN3HnoYqf0rXJuurRmvBInC8RgNcVuRbaB_igChPuB_YahgDHQSdxbVOmLGPX4g2IxQ2Q_If-nXnC8spKUAkIAnINKkVM=)
+[3] [ruliweb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRk9fBoltsHYXhtsnwy03g6cfjl0grw2HCptH9KjTj7Re5MFDaKuDM0zacWadZaJ4kz3qLPg6g4hv23pc36tLTXLesnvAObc_bMIOqMdWWJKOdqAYpFNGAlmhCEfTELmNgrQ==)
+[4] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5sbaLJjyHiGacmZWGg8O1p998MKvSHskJ7dS3JndpFfb69CDqTmO0DjcLYjTvvblKjRR4A-7oz5Y9ae1YXsepK6JWEt2KQbBWIMqfZj1_MY0bhhkDB5TeArM2nzubJsQhRzBZ0MgXxwklcKa4tCAno6W8b5s2M4Hh5oZyDiDQ2GSkl44Pe-91kqmpAUmL0iy7axJejGPU6J0gug3D4f331c1bWgebzjfR8RzD0sv2pqAPCEDlKypT90Hik3GlkLva)
+[5] [kbatv.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Pn6md4GAqjDcgqMqzFn_fwQOtIurzZmsxE4bGhTiYFiVSSIMPPjNwL9Cu4xLpFMGhvuwf5KoJTRfOKKtY4sphdlYJ-VBuNocYTIgqBPsVUJ76ksJ7YARLFrQi71y_F1AxfDyUhS3xdES4C8MyQbbk1NSh-qFneoDy-EV6g==)
+[6] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxXh9UGr5j6E9VxZvrGkjVkk1x4XAzZ_fq8Xo1SNhy4uPDRmKBOCwicYzIhKrDoVUJ0Fg2dE3o3TujwkaslCGDE-ADrCAT-ZMYzgdUkf_gD1BvHxsCAfL0zEBmyNIP-Ne6xT1qzXrk)

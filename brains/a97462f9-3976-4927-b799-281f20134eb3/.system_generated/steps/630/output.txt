@@ -1,0 +1,25 @@
+The search for ""무기고" "180-87-02493" OR "김우성" 매출액 OR catch.co.kr OR 사람인 OR 잡코리아" returned the following summary:
+요청하신 검색어와 관련된 정보를 종합하여 안내해 드립니다.
+
+### 1. 기업 정보 관련 ("무기고", "180-87-02493")
+*   검색하신 사업자등록번호 **180-87-02493**은 **'아이오티웨어(IoTware)'**라는 기업의 것으로 확인됩니다[1].
+*   **아이오티웨어**는 스마트공장 자동화 설비라인 자동제어장비 공급 및 구축 사업과 함께, **국방부 및 경찰청 등에 개인화기 및 무기고 관리 IoT 융합장비와 솔루션을 공급**하는 기업입니다[1].
+*   해당 기업에 대한 상세 정보(매출액 등)는 잡코리아, 사람인, 캐치(catch.co.kr)와 같은 채용 정보 사이트의 기업 정보 페이지를 통해 확인하실 수 있습니다[1].
+
+### 2. 기타 검색어 관련
+*   **김우성**: 인천광역시의원(더불어민주당) 등의 동명이인이 확인되나, 특정 기업의 매출액과 직접적으로 연결된 정보는 확인되지 않습니다[2].
+*   **무기고**: '무기고'라는 단어는 위에서 언급된 IoT 솔루션 기업명과 관련이 있거나, 뉴스 기사(사건사고), 게임 콘텐츠(던전앤파이터, 파이널판타지14 등), 또는 역사적 장소(리즈 왕립 무기고, 동학농민운동 관련 등) 등 다양한 맥락에서 검색되는 단어입니다[3][4][5][6][7][8][9].
+
+더 구체적인 기업의 재무 정보나 특정인에 대한 정보를 원하신다면, 해당 사이트(잡코리아, 사람인, 캐치)에 직접 접속하여 기업명을 검색하시는 것을 추천해 드립니다[10][1].
+
+Sources:
+[1] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuC1wRfMNX3J9Ng48V8xFwVAD43rNjJ-eHfF3Cj7D7hjv2gtni0mI1uK6vl18NCLUGA0SSaZGFeTUTE8W7ALw0ui9jpv56F46xcKwbLydquwdJAKOAZqCbMH6GpdHEaqQmoI4uK4R0bE_DV3bFvAWBKxD66dxz3WBf4Q==)
+[2] [goodgmc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdQJEe4eN5Y3ezCXtXwwFYdK1-hu5CIeA9qncZtlwKSzra-oUJIPRu1X99c0NQBf-dRFzxufi-kHguSAYh-qZ3RtFCJcouv748UhOJsL74UOBCVJzmphBL9fnUJV2w)
+[3] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhRhIVK8gBcIEH5VXVSufBYl13QoiR3ulYsZp7iedAhZxf_FCgwXM1Lq7F3oIWu6CIjf30UF417TXMSrzGJQyiQyoSlfBXQBDtOEfEX4dsKa-JzjOsHYVSrIqjZFH50N6G353_gjOzbFV_B54-F7b2SA==)
+[4] [expedia.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOjSdoiPZN1eZt6OZY0e1q_XvvjJWMOGhpUIaqc1aQaZOfQFkujbzORuz-vnG8x1D5ArqpBtYlSsJqPhYyM-Ac80HZ4gdufA-6x3nDoXczLftf2JUW5BWhZkKjtxAjmGsMSx7vEXlYBvUSuzXK98p80GrCiAhei14xJ1GpZnEALfrO1wCqs1pxp0uaQjuppFzX1pFuEGxR6A==)
+[5] [artinpost.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES_P0ttZZWq24QwAbHezeSZRaAYfQARD5BtjRHM5KmoVE28nzD0U7_m6kR9Dc9RJ_ovVQeV3fDXtcUmo5jEMJb810QuHFCeSwsIC2x5heG3OtYxG9uQJkJJrdJvlzEQ8VH59xw99sgrlq9LGQR)
+[6] [cdpr.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBOKTU8cWsXhZOYhY5HtI1QFIGGKHscRluqjDbFhYFpg2Gd0gz38TvN4MhRE0pbatB0S9FD3w28HiOTDDaA0HXMkWLV9w2fOqEI3s-XNM32AdjRg1HuAt_CWTk-0tJM6PPOJQmzzK-h3mrHYpbS__)
+[7] [nexon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVuNnnPj4xUZXb934TGqNUJzQuEL7mDDTvcdUYr6GkxsXfS9CO3qUowxSNa-CrE20-dJisNsdwnlpZ4Rve5emly3ISr3p8iHeUPGl-NjkkvBhtrxL2kevUMT2lDj-Hnet5stkGL82M5CsjlYEuzRRZlGXkX03rYrD2ppkwvaqNA==)
+[8] [arca.live](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3VS6n0pjlfvsP_dbZNmZwXcyVNCWeYa1QkS-5ebb21cM9N4e6wxxYo3DGOaaDm52U68dHHWrpV_0VteyZFV0_KDkAkgo_zrEu2Mx65rlWxGcAtw3IA_Fi)
+[9] [ff14.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErk4L7taC7qyHZDBRPxfe4ZWzTJ_rm2EXOLbkCUEI8L7Esb4mlyNptXizhIZLdIPfBYuE2d-d-0qitMMFfy-3bnf2j3wP3W2-aJmZCWChYOcG3aBWAqXIKiCZWNKy3OoQxNW2Ii73Rv7sfJg==)
+[10] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8PRQwAU85l3bXvjHUpTYHVZn0ClL9g6NZ4_6oyLu9-1qZsMyJGEz2nQUdEpvzvUvj3crIoNwjIG9oQ5uhKGJcyx8bZ-pBgi6aQUb2fGZ6EX2z7h_brT3t8Gp5FCCl-kru8ZEJyeVAENg_u_KPzQEJvK07oB_82CBz9OYpMNnxhvSn2GPYrIED)

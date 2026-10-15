@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+{
+  rowNumber: 2260,
+  rowIndex: 2259,
+  seq: '2259',
+  gubun: '25년 모집단',
+  name: '모두싸인',
+  ceo: '',
+  phone: '',
+  address: '해운대구 재송동 1208-2번지 센텀스카이비즈 제에이동 제에이-3610호',
+  category: '지식정보'
+}
+

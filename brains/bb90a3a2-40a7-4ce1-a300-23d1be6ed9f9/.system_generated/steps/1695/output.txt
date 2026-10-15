@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Match 010-2702-4476:
+ype": "Organization", "name": "젤시스", "url": "https://jellsis.cafe24.com", "contactPoint": { "@type": "ContactPoint", "telephone": "010-2702-4476", "contactType": "customer service", "email": "jellsis@jellsis.co.kr" }, "address": { "@type": "PostalAddress", "streetAddress": "경기도 부천시 원미구 길주로 288 (중동)", "postalCode": "14548", "addressCountry": ""
+Match 070-8803-1917:
+;" style="cursor:pointer">Check business Business License : 2023-경기부천-0817 Tel:070-8803-1917 Email: ⓒ 주식회사 젤시스 All rights reserved. <a href="https://d.cafe24.com/designer/designer_product?agencyId=tjeodnjsdlwl" target="_b
+

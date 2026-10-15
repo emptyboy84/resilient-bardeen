@@ -1,0 +1,27 @@
+
+The command exited with code 1.
+Output:
+�ġ �:69 �:178
++ ... | CSV S24:\${csvS24} S25:\${csvS25} | Exc S24:\${s24} S25:\${s25}\`);
++                                                                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:70 �:3
++   }
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:71 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:72 �:6
++ main();
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:73 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInExpression
+ 
+

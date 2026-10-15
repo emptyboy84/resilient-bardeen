@@ -1,0 +1,41 @@
+
+The command exited with code 0.
+Output:
+Headers: [
+  '구분',            '순번',
+  '사업체명',        '사업자번호',
+  '설립연도(연도)',  '설립연도(월)',
+  '대표자 성함',     '연락처',
+  '팩스번호',        '시군구',
+  '주소',            '업종분류',
+  '컨택결과',        '폐업 날짜',
+  '비고',            '종사자수(명) 25년 기준',
+  '24년 매출액(원)', '25년 매출액(원)',
+  ''
+]
+Total rows: 2481
+Empty Biz count: 391
+Rows with 24 Sales: 268
+Rows with 25 Sales: 109
+Rows with Emp count: 424
+Closed count: 2
+Sample empty biz: [
+  { line: 504, name: '89Light', seq: '503' },
+  { line: 508, name: 'LINC', seq: '507' },
+  { line: 510, name: '광안동동산오차드힐),광고,,,,,,,', seq: '902호 (광안동' },
+  { line: 537, name: '', seq: '' },
+  { line: 538, name: '김정보', seq: '535' },
+  { line: 539, name: '꿈해몽', seq: '536' },
+  { line: 541, name: '나래바람', seq: '538' },
+  { line: 546, name: '', seq: '' },
+  { line: 548, name: '', seq: '' },
+  { line: 551, name: '냉이영화', seq: '546' }
+]
+Sample sales rows: [
+  { line: 12, name: '에스와이이노테크', s24: '0', s25: '' },
+  { line: 16, name: '아빠 말 잘 들어', s24: '0', s25: '' },
+  { line: 17, name: '픽스', s24: '118425255', s25: '' },
+  { line: 19, name: '아이러브뮤직', s24: '561,834,000', s25: '' },
+  { line: 20, name: '(주)핸디커뮤니케이션즈', s24: '3500000000', s25: '' }
+]
+

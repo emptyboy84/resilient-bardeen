@@ -1,0 +1,23 @@
+The search for ""해운대구" "양운로" "SK"" returned the following summary:
+부산광역시 해운대구 양운로에 위치한 'SK' 관련 주요 시설은 **해운대좌동SK허브올리브**입니다[1][2].
+
+상세 정보는 다음과 같습니다:
+
+*   **시설명:** 해운대좌동SK허브올리브 (오피스텔)[2][3]
+*   **주소:** 부산광역시 해운대구 양운로 56 (좌동 1478-1)[1][4][2]
+*   **주요 특징:**
+    *   **규모:** 2005년 2월에 준공된 21년 차 건물로, 총 326세대 규모입니다[5][6][7].
+    *   **교통 및 입지:** 부산 지하철 2호선 장산역에서 도보 약 3분 거리에 위치하며, 주변 상권이 잘 형성되어 있습니다[1][6].
+    *   **기타:** 전기차 충전소 등의 시설을 갖추고 있으며, 지역난방 방식을 사용합니다[5][7][3].
+
+해운대구 양운로 인근에는 다른 SK 관련 시설(SK뷰 등)이 언급되기도 하지만[8], 주소지상 '양운로 56'으로 검색되는 대표적인 시설은 위 오피스텔입니다[1][2].
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq3z09nmBOSYQul8uKUAD0kh2f9cQQtw6tTDuTDpi0A1uuSk87iG8VpR_ojiiG08aFCr5_2qVRoS7HGPNTx6lC41MveQqVvDAIZfCr9DbyIXaWVH5wK-cTK8pP-0jK7NxmSg6XmUUoor82gfv0m63BrPqRzP7e3YJz_SE6MupgoRwpKxg373GMU1mIA_zOehSxcS9qy3Ux4K_9uohND8vKEEshfv-wgxPng-mqSCE5Gcpv8uqTdHZ4wiUXrvE16bcvLcxinarv0RwNzXcaoeXxsI-jEYiiBASusQW-2BVA5jP4OwXZ8wBr4045ohGFyqBP9-VckEXVnID3p4ary1I8ZAMgdGPqCSB-5CUadAeayiGPPFh8Dq55SscIznk5NPAuZgXFNmBlFc4PIHeOpgpwBN61Fb9i3g==)
+[2] [aptgin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_gDGVKspcD5LlwCztycMHZad5o-vuHTA7i8vvRMwKcbng4LXUmGSD9_1GJNuPTQxFrh4G4RV4kCm6CZKItojXyXKBpjBHXBPPAFHOKIsrbW-BXChiDmRli9PphUoo2MR6Ezrz4Tc8Vt6ePA==)
+[3] [chargekorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrvqzkQYhNkLl3VryTyNy4CCUAGWmYnBNSyoT0sFUC8WzNQybPW2AKtcVoDEd7SNDLvMvc4v-0qxj3KON2-hIeogiClvj4VWTXLT-v9eQWkZW088w2z6ttd0gwJ6-SVFSEvu1N1np27TEAbTvc)
+[4] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76Huc0wsVr2njUNtL7B9dkmLIgIokoQQMdNpQP2O_0qHJZZy2lwoUoId8GhJvJ9kkPUwjq9-RF8pdgBkSuavQ8NTW7bCsNlOIKzTj8vFi)
+[5] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXUteyc9WrVZikjsb6UjRkhqmc5cD9HwFynRltS4Tm5zERiB-FC4gwjNsX30mOMWz4QRYrYYP1q-Q8oO43IBppm6AkLGWhTkznSZ-8XgQXxPHKZmxF_ltDa6xih6QTln2i1hp4GxBUfBe6EnS-lbo=)
+[6] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcqEVn7_XIf9qlZNWDPp24v9P8ggbFJSmmjr-IXNXOlesJjq01S_tA_5xi5UotKqRUzmy7LV_2lte78Y0L5ntyra0kfIEwnNzqTbJDUgG1c8UPqQsoxZGryYrE17N3vwU94m8zkl-lq9NnYTVv4Db4kw==)
+[7] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH9ws_277bXUzTTBiRA9avhPqdrnNvVnOUYyGKf3kw-1AibAP_w4Y-fRd3ve3hkn9qj5603HNX9wpWv_XUZNaOnFlgRmMmNmpIg42KnFxrByMrX8dRheNznIiH8Jp7nF3WPA==)
+[8] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfg3KIQdfPcJHXV1uWMIvI0-Zb0j39o0mgZrkL7JxjmiyTeyBFUFfZu_HuTm1YM6IDGwpvJYwqhhjTPhLqmoO3wQDeud5yR4yZ8v7vJxjCmSZZe_wmilEYapbz1IGJ9qARlkeiA69tmcuvFEDk1Iw=)

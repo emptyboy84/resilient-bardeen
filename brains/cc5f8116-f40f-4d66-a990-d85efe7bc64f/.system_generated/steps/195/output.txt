@@ -1,0 +1,14 @@
+The search for ""나래바람" "분포로 111" OR "051-612-2133"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **"나래바람"**: 주로 **문학가(작가) '나래바람(본명: 국난아)'**과 관련된 정보가 확인됩니다[1][2]. 32년간 임상 간호사로 근무한 경력을 가지고 있으며, 시집 《손금처럼 새겨진 시간》 등을 집필한 작가입니다[2][3][4]. 또한 시흥시장애인가족지원센터의 프로그램실 명칭 중 하나로도 사용되고 있습니다[5].
+*   **"분포로 111" 및 "051-612-2133"**: 해당 주소와 전화번호는 '나래바람'이라는 작가나 위 시설과 직접적으로 연관된 정보로 확인되지 않습니다.
+
+혹시 특정 상호명이나 장소를 찾으시는 것이라면, 정확한 명칭이나 추가 정보를 확인해 주시면 다시 검색해 드릴 수 있습니다.
+
+Sources:
+[1] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRY1k-HwRSGCMgYRT3typA7dMHi7pkAktBV6JCPeqmdFxp6lsBu0EDrglsd7UDErn8VIgf7JwmF9ZxstCR9oKgGwXuzQZLTs20PhRM3SFJC99mxE8O3L9pWTPopTbTD_tH)
+[2] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHikmu4GS8gsOAS5l0q0fJhDhrhYhDHiqJ849J1O2xuz6nW1HCgelN88VkImI2fKzD2gqWR6hvZWxXy9uKmgQ-Yg4h6X994k8HODH5Syj5IpFnsmo4PuEUy7ZWvFUyLVgvoYzEPcYEngjUkmEH7PYUut_o0uIgcg1ILc_QV_R_Xm9o=)
+[3] [welaaa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4zuTVKfdSpRlmVIH5ivY4wJthyd_Q_jxt4_m3h0Ph6UhYiUaql65JdyKD6Gyg3VoQdUFCMKe9J_AHbLCMFYebXZ8m-MRh0QuWn5wC1h2S8rhXUKwWlH5ehr5rw-IZbo=)
+[4] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHdzmuaUzfXVQvt9pmOkWBVVj2gOudpLh37-fehMH9G4svondF9OzrEyKa7bKAonn5JTzl3D2ITqZlflVS2xEOhyQFdjsnTtBO2EaC0dsVMSmm5cIftr6wDhvjqG_PI9wh2pOB89PWlEVZI1758coZYH_RtK0=)
+[5] [shfamily.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ8JT-IOH5OW8K_YdHb6CS9SI5H4XH94zCiGg3FZI1PW-McRhluLDXGNUuqXCamzq5oe_WXPdPN2_A-p7iaJh8W4nVKP19AOzVJtBbGj5Q0_VlR_P-viIaYA4P7-j1VJm0QiuS0az7)

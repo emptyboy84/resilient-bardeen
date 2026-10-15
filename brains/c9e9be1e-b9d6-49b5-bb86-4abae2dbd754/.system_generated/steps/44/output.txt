@@ -1,0 +1,9 @@
+Task: c9e9be1e-b9d6-49b5-bb86-4abae2dbd754/task-42
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\c9e9be1e-b9d6-49b5-bb86-4abae2dbd754\.system_generated\tasks\task-42.log
+Log output:
+<truncated 4 lines>
+익년도","최근영업익","자산년도","최근자산총","부채년도","최근부채총","자본총년도","최근자본총","자본금년도","최근자본금","지역1","지역2","업종_대","업종_중","업종_소","업종_11차 변경","코드","응답자명","응답자부서","응답자직위","응답자연락처","응답자이메일"]
+Row 2: [null,"정은미",null,"(사)대한산업보건협회 울산산업보건센터",6108203800,"백헌기",44774,"울산광역시 남구 두왕로64번길 5-14, 1층(선암동)","052-275-6322","052-275-6323","www.kiha21.or.kr",null,null,null,null,"122명",null,null,"보건업 및 사회복지서비스업","방사선진단 및 병리검사 의원,그외 기타 보건업",null,null,null,null,6108203800,"114621-0000445",null,null,null,null,null,"12월",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"보건업 및 사회복지 서비스업","보건업","의원",null,null,"이승화",null,null,"010-5582-4599"]
+
+Last progress: 4s ago

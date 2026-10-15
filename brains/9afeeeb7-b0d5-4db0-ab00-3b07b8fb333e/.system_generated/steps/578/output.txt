@@ -1,0 +1,23 @@
+The search for ""남양성지로 8-12" OR "남양리 442-2"" returned the following summary:
+**경기도 화성시 남양읍 남양성지로 8-12** (지번 주소: **남양리 442-2**)는 경기도 화성시 남양읍에 위치한 건물 주소입니다[1][2].
+
+해당 주소와 관련된 주요 정보는 다음과 같습니다:
+
+*   **건물 개요**: 지상 4층 규모의 건물로, 샘터교차로 인근에 위치해 있습니다[1][3].
+*   **주요 시설 및 사업체**:
+    *   **이영자/부동산**: 비주거용 건물 임대업을 영위하는 사업체로 등록되어 있습니다[4][5].
+    *   **송산광고**: 간판 및 광고물 제조업을 하는 개인사업장이 해당 주소(101호)에 등록되어 있습니다[6].
+*   **기타**: 온라인 부동산 및 사업자 정보 조회 서비스 등에서 해당 지번과 도로명 주소가 동일한 장소로 연결되어 확인됩니다[7][8].
+
+참고로, 경상북도 울릉군 서면에도 '남양리 442-2'번지가 존재하지만[9], 질의하신 '남양성지로 8-12'와 매칭되는 주소는 경기도 화성시 소재의 건물입니다[1][8].
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0se7cqvkVeh0uGX_vX0_z10noucf_3CjXorYu2sFjBp5uBYoJnjT_iAeSSavhj3GcM7pNIHDtE58prt-bVBMXh0t-CBAlM-MwO2LpHl3lNEEWiOZ9L2_VpbngBqll7p8kgDjuHa8IfvzXLXcFw-JvDCLhu1einN53w8hXkbE6QpHIHsosHjL9P1wWakFPGidJMGib_VR3AC4xgoQ7tJ2EqjVYckLYlaKrh25RQjAzVvExnxKIwzLfc795yAfXNWh9ZM075VqtDYpeSIlF4ZA7loOypQ_XDjI20g==)
+[2] [zaritalk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBNZNPA_z8sWOtG5BA9W_kwdQMfmgSWGxGYyghCGawHRwU_VYxwmJxEMwwraohuepBRX2StuS5frXPDelz7CkDB9WjtjmAtNQK9hFXG2AscMEhtVfY9ASLTlJjS0xcX7rGS53RNPzckJqOZC_WT_nm1LFWaIprEl7nOsZ6kB18H8=)
+[3] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0se7cqvkVeh0uGX_vX0_z10noucf_3CjXorYu2sFjBp5uBYoJnjT_iAeSSavhj3GcM7pNIHDtE58prt-bVBMXh0t-CBAlM-MwO2LpHl3lNEEWiOZ9L2_VpbngBqll7p8kgDjuHa8IfvzXLXcFw-JvDCLhu1einN53w8hXkbE6QpHIHsosHjL9P1wWakFPGidJMGib_VR3AC4xgoQ7tJ2EqjVYckLYlaKrh25RQjAzVvExnxKIwzLfc795yAfXNWh9ZM075VqtDYpeSIlF4ZA7loOypQ_XDjI20g==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI94eSl-pXFrPMpCpcMPJJhu8lxXUE5xWIvnlaPgljcoPaqyrnNLhyO1eCDQce-cAae2AdSMRMwUxNvFkTQOotjNiU2dkACue2nDxSUyJ2cf4SdFTcvsJ3doctrA2SIXaPM9C2EHqnbXIcHEB-99fSeLvr0wpMYV7FW7KXLL2BOdGu5oUxT3IZu4_tVfRk-wHSgep2N8OW0cF8ypfFbAmUYzi-xjUKce5OIdf-8hf1aw_NiW1wmlCIbbicvqJGfC3z0YxvfGKKAk3BzqJN_TRj86-iMQ==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhQ24wHanoPdTdkXAMfzV3sSq_mkdcmp-96jF9dEmSBEPk5gTA4N0txoU5YUt27F7B9KacUcw2oWIcB9ywNpe8dfJt6lQ1EFYtDfO98BuISTqdGD4MuUErn7U=)
+[6] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7_S0gDtw0eqMzUo26vxhV39VqRcTxZqsW8v3Ff2H29fRvPH1SRc34w29YcGSlqSjXCUWa6rtoaeTWrmw_TZJyJbC6tFtVLNYKbja1qoTdcPuKU32d)
+[7] [youbianku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6FKBblckGpLhpB_y_yKj-K7Bmd6GkTjExAVRi_8X7F8Qk3vi7y0ERT5srQSJ6fTeerBkHmXvwPCX_JqVODM8wt7YS-kYppJRmp4bFrro0jn_BLPeZxEHwP3Xy2HVfMTcRrCr8ph07fL2G376)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhQ24wHanoPdTdkXAMfzV3sSq_mkdcmp-96jF9dEmSBEPk5gTA4N0txoU5YUt27F7B9KacUcw2oWIcB9ywNpe8dfJt6lQ1EFYtDfO98BuISTqdGD4MuUErn7U=)
+[9] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDAtVuECjKTaKRw7EadOm2fx45hAVpOofgWTpUGhFQVaDspmKUo4Wad6YTdZh0FPjBxt5vu8bTEnMiuPSr_V1G9cGFjtotzdcOTIUI4pOJ-TMHx59CJ8rRTOc=)

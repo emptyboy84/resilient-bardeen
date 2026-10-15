@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.qoo10.jp/shop/sweetieLael');
+```
+### Page
+- Page URL: https://www.qoo10.jp/shop/sweetieLael
+- Page Title: Qoo10 – 「sweetieLael」のショップページです。
+- Console: 4 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-20-19-913Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-20-16-805Z.log#L1-L11

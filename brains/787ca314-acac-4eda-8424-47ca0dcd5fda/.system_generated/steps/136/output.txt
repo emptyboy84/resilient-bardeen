@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+82effd4 feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+cf52caa feat: 500 records verified and 3026 cells populated with orange fill (rows 11847-12346)
+14890ab docs: add full chat conversation history, readable markdown summary, and brain logs
+69e229b feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets
+

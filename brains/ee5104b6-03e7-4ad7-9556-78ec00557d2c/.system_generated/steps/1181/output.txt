@@ -1,0 +1,19 @@
+The search for ""에이도스" "응용 소프트웨어 개발 및 공급업"" returned the following summary:
+'에이도스(EIDOS)'라는 상호를 사용하는 기업은 다수가 존재하며, '응용 소프트웨어 개발 및 공급업'을 주 업종으로 등록했거나 관련 사업을 영위하는 곳을 찾으시는 것으로 보입니다.
+
+검색 결과에 따르면, 해당 업종과 관련된 곳들은 다음과 같습니다.
+
+*   **관련 기업 정보**: '응용 소프트웨어 개발 및 공급업'은 소프트웨어 개발사들이 흔히 등록하는 업종 코드입니다. 과거 기사나 기업 리스트에서 해당 업종으로 분류된 '에이도스'라는 명칭의 법인들이 언급된 바 있으나, 현재 운영 중인 동일 명칭의 기업이 여러 분야(건축 설계, 유통, 마케팅 등)에 분산되어 있습니다[1][2][3].
+*   **주의사항**: '에이도스'는 흔히 쓰이는 명칭이므로, 찾으시는 기업이 정확히 어떤 분야의 소프트웨어를 개발하는 곳인지, 혹은 소재지가 어디인지 등 **구체적인 정보(사업자등록번호, 대표자명, 주소지 등)를 함께 확인**하시는 것이 좋습니다[4][5][6].
+*   **참고**: 특정 게임 프로젝트명으로 '에이도스 M'이 언급된 사례[7]나, 건축사사무소[2][3], 유통 전문 기업[1] 등 다양한 업종에서 해당 명칭을 사용하고 있습니다.
+
+만약 찾으시는 기업의 사업자등록번호나 소재지(시/도)를 알고 계신다면, 해당 정보를 바탕으로 '기업정보 조회 서비스(나이스평가정보, 크레딧잡, 사람인 등)'를 통해 보다 정확한 업종과 상세 정보를 확인하실 수 있습니다[4][6].
+
+Sources:
+[1] [eidoss.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV8fJgm3NxT6Eiol0if_fBWiN7rjuExxE2BszSM1tQJ6kfir2QxGZUZrUZzAS3ac-cMkZYXQIjwLDvqDmK6jUr2HAF6RdbOQM8yZs=)
+[2] [vmspace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ2gppe9UvOEgphWmS8Nq_30dSGgycfjFcLGmDrdY5Mk_w39swjZ6AhA5lrZxNM5SBl6ifvRpW0iG0TNLFoApZPwrxEfp9zLMtNi23dx4Q8kF4xo789XhJyxfdAPnB-mTmDC_NK_BArNujaEXxwRoClEK76mpSx48C)
+[3] [jootek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHP9DJvXgbxU9gPZK9Sadg7vU6Ep4JihG5Kt7X9GJzZ9pYEGx4NHscEc8p0KHD_7r0gjLmts-HhqvakuzEGIg8nTgxCKeS3-wD6gCQ2QvPsN9_ZxqseQ==)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlZ-t_UrQZOjXEaKQDAGsjF8jOwDu0T69fGxJbvlQuDgXwLqDTVZaPErgAcL0J1yxX6oaga1pwZJvGPEUUzMzzyuz5hRhBeR1MEN21mkbbABuvUPwOAqqLM38p5GVdZsf1ncxbL5rOxFH8cfsH4Fp8DBVUt-kUEz3A4yoBaubMEy4=)
+[5] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8HkUFilelrRH3tYeFUfzUEjVKG9oZIVBq-rV1LClYK9ot7esR49YYWZU5-xyCO1l1JNqbuuvWAiFAjRvjHbRyIOZBbOXP_9Ou8SAcf3ioJSJV7uJry9G7EjUaNSw1tMd6plk=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr7X3J3gmARHeDWXWq7njSOCTup8YTBcb8iTo4I5jXqpf8nu2VH15BFf8Et6FevDhdzqz8ivY6palWJbuD2QKHStDTaxVbYBM6x-RdrsD4bfZQU-fmD4P1-jG6_zbhakgrOrNL6zNjM_av9u2rCVh-JsPJRW_SlX9iTMIqnd_UII0FKA==)
+[7] [platum.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-W4JHaCDWUq2xCFbqH7NeA9B2P6fdwfeyUbRCOO32me2ELeugDESe9GDHtsB5hXSh9vkeS3wWT1HJIoaQlIuT_UajMBfMwBzgR1cxJnu2ZKnFfvZ3WjI=)

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?where=blog&query=%22%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%22+%22%EA%B4%B4%EC%A0%95%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?where=blog&query=%22%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%22+%22%EA%B4%B4%EC%A0%95%22
+- Page Title: "티앤북스" "괴정" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-39-25-082Z.yml)

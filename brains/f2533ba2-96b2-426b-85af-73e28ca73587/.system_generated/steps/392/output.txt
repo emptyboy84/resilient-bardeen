@@ -1,0 +1,43 @@
+
+The command exited with code 1.
+Output:
+�ġ �:11 �:66
++ ... nst desc = text.match(/<meta[^>]*description[^>]*content=\"([^\"]*)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:12 �:11
++   if (desc) console.log('Meta desc:', desc[1]);
++           ~
+if ( � ) �ڿ� � � �ϴ�.
+�ġ �:12 �:38
++   if (desc) console.log('Meta desc:', desc[1]);
++                                      ~
+',' �ڿ� � �ϴ�.
+�ġ �:12 �:39
++   if (desc) console.log('Meta desc:', desc[1]);
++                                       ~~~~~~~
+� �Ǵ� � �ġ � 'desc[1]' �ū�Դϴ�.
+�ġ �:12 �:38
++   if (desc) console.log('Meta desc:', desc[1]);
++                                      ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:12 �:46
++   if (desc) console.log('Meta desc:', desc[1]);
++                                              ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:13 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:14 �:6
++ test();
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:15 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

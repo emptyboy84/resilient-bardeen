@@ -1,0 +1,24 @@
+The search for ""블루레코딩"" returned the following summary:
+"블루레코딩"은 문맥에 따라 여러 가지 의미로 사용될 수 있습니다. 대표적인 사례들은 다음과 같습니다.
+
+*   **스튜디오 및 업체명:** 'Blue Recording Studios'와 같이 음악 제작, 보컬 녹음, 믹싱 및 마스터링을 전문으로 하는 스튜디오 이름으로 사용되곤 합니다[1][2][3].
+*   **음반 및 영상 관련:** 특정 아티스트의 곡 녹음 과정(Recording)을 의미하거나, '랩소디 인 블루(Rhapsody in Blue)'와 같은 특정 곡의 녹음본을 지칭할 때 사용되기도 합니다[4][5][6][7][8].
+*   **카지노 장비:** 카지노 게임(바카라 등)에서 기록용으로 사용되는 '레드/블루 레코딩 펜'과 같은 도구를 지칭하는 용어일 수 있습니다[9][10].
+*   **기술적 용어:** 컬러 사진 필름의 층 구조나 원리에서 '블루 레코딩 층(blue-recording layer)'과 같이 특정 파장의 빛을 기록하는 감광층을 의미하기도 합니다[11].
+*   **키보드 관련:** 기계식 키보드의 '블루 스위치(청축)'와 관련하여 녹음된 타건음이나 사운드 테스트를 일컫는 맥락에서 사용될 수 있습니다[12].
+
+찾으시는 구체적인 정보가 있다면, 위 내용 중 어떤 분야에 해당하는지 다시 알려주시기 바랍니다.
+
+Sources:
+[1] [bluerecorders.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELRjPil1rMKmF5VtJoVrJG0tUqDMjbTEWg71i5AjUveREetoksdy_2HTFdI39RQOhEBWF-UFI5-nHFvkm34DF5YqjIcmE2e0WUzydCiq0VNtd_Fjo=)
+[2] [bluerecorders.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOwZ9BRVuevTDDDKjW8kYAZa8rjQ-zOfqoaiDi0HvPbfHFwy2UGeC4FFD4QVJ8fOb20RGsAsDREYH7Xqz5eAOgI8OqPQOBijM9H6C2Fbt1Z6Yj39sKRG-naihXRIs0mek-4q_XMg1m4WZ8ld4VbtI1WTVSlPFNjphJz523fFr3RsQo4ZwkhBZMeZI5EWHTQfs9Ew0_UZy_vZO8I5IpB3X3Xns6CStRZMcwK3t5F_ntgH7ekpBS9Ob5JG939TUi1--Cq1s4xIVMf5V31121)
+[3] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_ZMtEEr-syv2OfYVMPtxz4hgFLH0H7GMKHxxneuIgltP-vrCTunbLDeZVa661jvyd5rvCY5c7jYfC3rLSLyaG54lVddbcHKgSmiqL2Rf1vp2dslOl)
+[4] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKRQAW85Zp_ghq_FaW-s33_MljYU6uzLwqTRz6otxRJ1mO-W6myqyEHfOjgOg3fob8MWC0Uq8Iu-GY_AYHhRNwErWUTqkKYxKmG8GhBQn9FvWL7qRrRRghb9Lq3KnZnGioX_jPzRcZyFdLnmPNI6Hc5eK-o-bZkXrfCLoEYtQnI0Osi297-UdFA==)
+[5] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOx8ElCXTtk1v08ZuYOOVJC0FWHXIQTpL06gj4IUiGihqGuG7O8wfiEFSNtyMS_Ly8VWRaFdIAlRRuW_wJ2kYR5ITvSal1yw7rVxTEtjUzAkfl_CpTmv0opGr5zlywEE9Wfggm92Ao9mT5pIFy1wy-S9QmXYskizWWOjhjQCXN9IQHGOv-oRKXPQ==)
+[6] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDALvcDYPOHAcPQQm_NL9d2q7zLSlZhhz_6O2Mc3CoKzpig5gyv0nQSnyzPE5B6ROvbRi4bFwoaxzUb8lYgaihtLFXymG0Q04Yg_D8i7SiwKrEQ1gOe5Aiw_dW0a5xi75JWRji3fQUN7i7o23HbAGAimtDPUapBn7Cv-1OLyYJxFnYUy2GnGGBLg==)
+[7] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYpDqljc1bMpE5554isApfbBhJ3q46C1oxth4Pa50mbiPNFnXGEQXK3cA5m98pCHBAzuS58JjICjq52-csE6M3foGKLvMqY6ST3nERpUkHGV4yIBkehy7_Qbm0QxZRnjG)
+[8] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO36wBXA_jyWOJUTXroKIpPEVXRTGoqAWEGJlq7Q6a1tNhMt8HF5DiSKvTSx3hA844R_caglF-xvbZYliQDzh7RmuyYf_Q8Xju5kXbOTRNc3ckjds1r5ffkuwog41ANHg=)
+[9] [made-in-china.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu7eOOszbjydkyChuUh2F3_0UyrTFoGHxOeOezcidb1p6eUvYrb40JbtFYYxrPyM8dHZy9xqRMFPMqnuDcqDYC16T9NSg2ykISQ0h3J5DFlmy_7HN7d8UsohdvL4l8DNpY8OGcfRzUEnmE2zaEV6AmY_ddj30h6uuxFi6fTUIKZelEFAFYKAE0__pcBlTgT9P5S-XpdrSUQBLPikBAV-O9iiZjNul8KEL3mQR1Y3hBU7yq75GR6z4XTpqvSOQj6dBB-JKhUT9uc85LImh6)
+[10] [made-in-china.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBmJjoilEyjLMrcsn3gDHz9T1wpe9eh9OweiMKeiYq2u4IWYquJeih834VMAfLtyeufOPKDmPj9JnyLGwBX-RVKcgYQk_AF7tpsVfqT7SwsjJjWuLY0RrYKV_Tp0o-Mf40x8q4j-Wlu6s4FJGh_VlpnjXzxKwl9B15-qASuedfzn5S-tZB7dK87OychJs8qviFDS85NQSyFbYsrVn355Z7wLOf1xC0llFPG1PjX_zLtflqMZcz5U8hsV94EtIsO4PHfQkaKOZcyVOtjQ==)
+[11] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FA-mjvJWkm5IvckvBvT3i_W40LREcnjk5r6fvDB0D1S8kBrUOl8Rp1Bz0nS5QWWdJMw_Ja7lrb6UiQfa4pT26HXEVrYcGu9Di5XQT4DpPdxy_QlcYLGgWUn27KTiWBMcCxoZ8A==)
+[12] [typelouder.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoMZ3_fDxo6xNb7FH8eh_Jmt5JuOa6Egf-VnH_pj-QKMisT0-SYhAT1c5wViAk7IwOqaJ-ZzmWI-sKogbVO20Aga-3BOCjEdNQdAfgh0Qd8lh_AHQDoBmiPea2m3dy5pv0W4VUxBYE8DySGDgARB1ghV15Xh5M8_H-x1YiZYo=)

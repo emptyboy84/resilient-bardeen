@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5604800988');
+```
+### Page
+- Page URL: https://bizno.net/article/5604800988
+- Page Title: 정형섭공인회계사무소
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-22-35-219Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-22-30-496Z.log#L1-L8

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                       LastWriteTime          
+--------                                       -------------          
+C:\Users\lg\AppData\Local\CrashDumps           2026-10-15 � 8:50:16
+C:\Users\lg\AppData\Local\Google               2026-10-15 � 8:48:33
+C:\Users\lg\AppData\Local\Packages             2026-10-15 � 9:01:42
+C:\Users\lg\AppData\Local\Temp                 2026-10-15 � 9:08:17
+C:\Users\lg\AppData\Local\Google\Gemini        2026-10-15 � 8:48:36
+C:\Users\lg\AppData\Local\Google\GoogleUpdater 2026-10-15 � 8:52:55
+C:\Users\lg\AppData\Local\Google\Update        2026-10-15 � 8:47:44
+
+
+

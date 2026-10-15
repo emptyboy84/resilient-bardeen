@@ -1,0 +1,80 @@
+
+The command exited with code 0.
+Output:
+<table class="board" summary="등록구분, 상호, 주소에 관한 목록입니다.">
+						<caption style="display: none">지역별- 목록</caption>
+						<colgroup>
+							<col style="width:20%" />
+							<col style="width:30%" />
+							<col />
+							<col style="width:20%" />
+						</colgroup>
+
+						<thead>
+							<tr>
+							<th scope="col">등록구분</th>
+							<th scope="col">상호</th>
+							<th scope="col">주소</th>
+							<th scope="col">영업구분</th>
+							</tr>
+						</thead>
+						<tbody>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002020000009&amp;ac1=6530000&amp;ac2=4181000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">춘천인쇄</a></td>
+							<td>강원특별자치도 춘천시</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000049&amp;ac1=6270000&amp;ac2=3420000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">서가너머</a></td>
+							<td>대구광역시 동구</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002023000023&amp;ac1=6110000&amp;ac2=3220000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">데타에이아이컨설팅코리아 주식회사</a></td>
+							<td>서울특별시 서초구</td>
+							<td>전출</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002024000044&amp;ac1=6410000&amp;ac2=3860000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">도서출판 프리즘</a></td>
+							<td>경기도 부천시 소사구</td>
+							<td>폐업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000070&amp;ac1=5690000&amp;ac2=5690000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">아트그로우랩</a></td>
+							<td>세종특별자치시 </td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000182&amp;ac1=6410000&amp;ac2=4060000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">철철교육</a></td>
+							<td>경기�� 파주시</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000108&amp;ac1=6110000&amp;ac2=3200000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">Xientist</a></td>
+							<td>서울특별시 관악구</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002025000002&amp;ac1=6110000&amp;ac2=3200000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">소로록</a></td>
+							<td>서울특별시 관악구</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000064&amp;ac1=6280000&amp;ac2=3520000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">주식회사 광수엔터테인먼트</a></td>
+							<td>인천광역시 연수구</td>
+							<td>영업</td>
+							</tr>
+													<tr>
+							<td>출판사</td>
+							<td><a href="searchView.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=비전조이&amp;search_state=&amp;regn=251002026000063&amp;ac1=6280000&amp;ac2=3520000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1">주식회사 수코믹스</a></td>
+							<td>인천광역시 연수
+

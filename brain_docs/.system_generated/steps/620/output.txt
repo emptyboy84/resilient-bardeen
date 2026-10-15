@@ -1,0 +1,10 @@
+The search for "site:saramin.co.kr "페타브루" ("담당자" OR "문의" OR "전화" OR "010" OR "02" OR "051" OR "070")" returned the following summary:
+사람인(saramin.co.kr) 내에 등록된 **(주)페타브루** 관련 채용 공고 정보는 다음과 같습니다[1].
+
+* **관련 공고 제목:** [(주)페타브루] 임베디드 펌웨어 / 신호처리 신입 엔지니어 채용[1]
+* **관련 링크:** [사람인 페타브루 채용 공고 페이지](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49195971) *(또는 사람인 검색을 통해 상세 공고 확인 가능)*
+
+공고 내용에 포함된 담당자, 상세 문의처(전화번호 등)의 세부 정보는 사람인의 개별 채용 공고 페이지 내 '담당자 연락처' 또는 '기업 정보' 항목을 통해 로그인 후 확인하실 수 있습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo1_GZhEigRUgH1Q1b5GAbsThv0ivdLRd4sLB_iUOQGjCSRl6XUbWa6MX3Yvw1S_A1NCuNtv-jTcXxg-SsZPN7xijZVJVI_yARKkCUOsvFwvTuplrjQV-GIYr9B62uAIWfPrI8QP5eq3xUyo6oDQN2Gc8=)

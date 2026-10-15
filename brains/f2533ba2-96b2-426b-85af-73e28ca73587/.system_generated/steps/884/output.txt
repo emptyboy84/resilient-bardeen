@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.saramin.co.kr/zf_user/company-info/view?csn=7788702489');
+```
+### Page
+- Page URL: https://www.saramin.co.kr/zf_user/company-info/view/csn/YjhFMjZQZzBtVkgyMFJSWTZqU1B5Zz09/company_nm/(%EC%A3%BC)%EB%82%98%EC%9D%8C
+- Page Title: (주)나음 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-28-55-928Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-28-53-159Z.log#L1

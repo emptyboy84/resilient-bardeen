@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Step: 0 | Type: USER_INPUT | Source: USER_EXPLICIT
+Text: 배현명		코리아스틸파워	7788102696			경남 김해시 주촌면 서부로1499번길 113-39 (내삼리)					10	강주물 주조업			제조업	1차 금속 제조업	철강 주조업
+

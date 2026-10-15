@@ -1,0 +1,14 @@
+Task: d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd/task-98
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd\.system_generated\tasks\task-98.log
+Log output:
+<truncated 20 lines>
+6 (이피엠시스템): 5 cells red -> ['사업자번호', '설립연도(연도)', '설립연도(월)', '대표자 성함', '종사자수(명) 25년 기준']
+Row 2238 (백앤센스): 5 cells red -> ['사업자번호', '설립연도(연도)', '설립연도(월)', '대표자 성함', '종사자수(명) 25년 기준']
+Row 2239 (시그마씨앤에스): 5 cells red -> ['사업자번호', '설립연도(연도)', '설립연도(월)', '대표자 성함', '종사자수(명) 25년 기준']
+Row 2240 (쉐어트리츠): 5 cells red -> ['사업자번호', '설립연도(연도)', '설립연도(월)', '대표자 성함', '종사자수(명) 25년 기준']
+Row 2241 (팀리부뜨): 7 cells red -> ['사업자번호', '설립연도(연도)', '설립연도(월)', '대표자 성함', '연락처', '팩스번호', '종사자수(명) 25년 기준']
+Row 2265 (엘론소프트): 2 cells red -> ['사업자번호', '주소']
+Row 2266 (플레이메피스토왈츠): 2 cells red -> ['사업자번호', '주소']
+
+Last progress: 0s ago

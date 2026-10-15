@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Loading target file to apply green style...
+Loading deep4 to see which were originally green...
+Loading original file to identify empty rows...
+Total cells styled in green (연한 초록 배경 + 진한 초록 굵은 글씨): 1005
+File is busy/open in Excel. Saving to alternative file: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_261012_전략팀 전달_배현명_전화번호통합검증_261015_초록서식.xlsx
+Saved to C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_261012_전략팀 전달_배현명_전화번호통합검증_261015_초록서식.xlsx successfully!
+

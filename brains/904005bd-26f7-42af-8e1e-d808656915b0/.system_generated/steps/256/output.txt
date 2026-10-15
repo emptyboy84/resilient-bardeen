@@ -1,0 +1,12 @@
+The search for "site:hankyung.com "대연동" "현대오피스텔" "시드"" returned the following summary:
+한국경제(hankyung.com) 사이트 내에서 검색하신 '대연동', '현대오피스텔', '시드' 키워드와 관련된 내용은 주로 한국경제의 **[신설법인 현황]** 기사들에서 확인할 수 있습니다[1][2][3][4].
+
+해당 검색 결과들은 특정 시점에 새로 설립된 법인들을 나열하는 리스트이며, '대연동 현대오피스텔'은 주소지로 기재되어 있는 경우가 많습니다[2][3][4]. 다만, 검색어에 포함된 **'시드'**라는 단어는 해당 기사들 내에서 법인명(예: 시드파트원, 시드레이저 등)이나 다른 문맥으로 등장할 뿐[3][4], '대연동 현대오피스텔'이라는 특정 장소와 '시드'라는 특정 기업이 직접적으로 연결된 상세 정보는 기사 본문에 포함되어 있지 않습니다.
+
+위 검색 결과들은 신설법인 등록 정보의 일부로서, 해당 주소지에 법인이 소재하고 있음을 나타내는 데이터입니다[1][2].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjGa1gtax0nS_fwEZJWsJY3Waz56RXf3LOSH-9jY1jNAynT5WL3iQkecDoi7e47chXeKMLntyYU77QhXsI0PTfewjbBqc6eMgmv9gWEYMqmnmym5KeVL63tW0Pwn-sEvN7Ei2V)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5udhTRg_24Wmm-_pLRHpTZbMIeFG_PPF5oORcc3F7JitYsQesLu7NB2MnZjtbadzyopD2K4XvqG1RXyHTKjLFStPaNAyVVDhVuWevZoH9DTjzRGxS829V5SmTxP8pbCd0srub)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkzdSoxPvh31BfQeCmnBaFQWAQtR5GeXsYOXfZqYanQk5vVyxtRDhk_mZIJ7oyOU98A09AksT8AEm23-hpdoAewm0acj1RJ-F69MH1LR5FSw0YQlccx35RKdJCMd66w2_8q8vj)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw3RkQCC_NmGVTbAQcH51N26ntRvkZGD3PNIRfYFnneVvOZxKMi6fhbdxqnMxeMGNynPMeksjkfPJj88WQxu9-sXpkPZkyluyOq6Fs1SIt7I4r8fxb-43vcbAQmxzRfu4AvV0S)

@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+[Validation 1] Total physical non-empty lines: 2314 (Expected: 2314)
+[Validation 2] Column structure check (19 cols): PASS (0 errors)
+
+[Validation 3] Checking 7 Target Companies:
+Seq 2087 [운도게임스튜디오]: Biz=, Est=., CEO=김도현, Phone=010-7733-6343, Loc=, Addr=, Cat=게임, Note=확인불가(미등록 창작팀), Emp=
+Seq 2093 [비바몬스터]: Biz=646-87-02732, Est=2022.10, CEO=김지욱, Phone=051-123-1234, Loc=남구, Addr=남구 대연3동 55-1번지 21센츄리오피스텔 1901호, Cat=광고, Note=법인설립 2022년 10월, 법인번호 180111-1481794 (쿠키딜/대법원등기부 기준, 인허가 2024-10-04), Emp=3
+Seq 2099 [와라봐라]: Biz=, Est=., CEO=, Phone=051-582-0944, Loc=남구, Addr=남구 용호동 동명로, Cat=만화, Note=확인불가(미등록/폐업), Emp=
+Seq 2100 [조은글방]: Biz=, Est=., CEO=, Phone=051-896-9967, Loc=부산진구, Addr=부산광역시 부산진구 개금본동로 40 (개금동), Cat=만화, Note=폐업(과거 만화대여점), Emp=
+Seq 2104 [엠에스네트워크]: Biz=, Est=., CEO=, Phone=051-505-4437, Loc=, Addr=, Cat=만화, Note=확인불가, Emp=
+Seq 2106 [스튜디오바다]: Biz=, Est=., CEO=류수환, Phone=010-3855-8918, Loc=동구, Addr=부산광역시 동구 증산서로 52 (문화공간반달), Cat=방송, Note=확인불가(미등록 창작팀 / 독립출판 등록), Emp=
+Seq 2116 [스튜디오더블린]: Biz=, Est=., CEO=, Phone=051-557-2381, Loc=, Addr=, Cat=애니메이션, Note=확인불가(미등록 창작팀), Emp=
+
+[Validation 4] Final Dataset Stats:
+- 2024년 매출액 기재 행 수: 292
+- 2025년 매출액 기재 행 수: 119
+- 비고 기재 행 수: 367
+
+[Validation 5] Target file integrity confirmed without touching Excel process.
+

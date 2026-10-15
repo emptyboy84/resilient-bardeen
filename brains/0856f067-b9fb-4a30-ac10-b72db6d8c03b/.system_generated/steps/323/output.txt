@@ -1,0 +1,6 @@
+### Result
+"검색 메뉴\n검색\n길찾기\n버스\n지하철\nMY\n검색\n검색어 입력폼\n지도 검색\n검색\n전체\n장소\n주소\n버스\n정류장\n모두 지우기\n전체\n1Q ETFAD\n\nK반도체 ETF 투자 하나(Hana)면 됩니다\n\n051-203-6274 검색 결과가 없어요.\n\n검색어의 철자가 정확한지 다시 한번 확인해 주세요.\n장소를 찾을 때 전화번호, 주소도 활용해 보세요.\n\nDaum 검색 결과 보기\n새로운 수정된 장소를 알고 계세요?\n장소 제안은 지도 품질 향상에 큰 도움이 됩니다.\n신규 장소 등록\n고객센터 신규 장소 등록 개인정보처리방침"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.querySelector(\'#info\')?.innerText');
+```

@@ -1,0 +1,20 @@
+The search for ""초록누리" "채경희"" returned the following summary:
+검색하신 "초록누리"와 "채경희"라는 키워드는 직접적으로 연결된 하나의 특정 단체나 인물 관계를 나타내기보다는, 다양한 문맥에서 각각 등장하는 이름들로 보입니다.
+
+*   **채경희:** 여러 기관 및 연구 문헌에서 이름이 확인됩니다.
+    *   **연구자:** 형사정책연구원의 연구총서 등에서 북한이탈주민의 법의식 등에 관한 연구에 참여한 바 있습니다[1].
+    *   **사회복지 유공자 및 관계자:** 사회복지 분야의 수상자 명단이나 자원봉사자 명단 등에서 이름이 언급됩니다[2][3][4].
+    *   **기타:** 아름다운재단 등의 기부자/활동가 명단이나 각종 협회 회원 명부 등에 이름이 포함되어 있습니다[5][6].
+*   **초록누리:**
+    *   환경부에서 운영하는 어린이 환경 건강 정보 포털 사이트의 명칭이 "초록누리"입니다.
+    *   그 외에도 지역 아동 센터나 특정 봉사 단체, 시설 등의 이름에 "누리" 혹은 "초록"이라는 단어가 포함되는 경우가 많습니다[2][3].
+
+특정한 사건이나 기사, 혹은 특정인에 대한 정보를 찾으시는 것이라면 조금 더 구체적인 상황(예: 채경희 님이 소속된 단체나 활동 분야 등)을 알려주시면 더욱 정확한 정보를 찾아드릴 수 있습니다.
+
+Sources:
+[1] [koreahana.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSoYqdNtIoHsuRYIrpMzyymu0280LwaXhcrwBUbHr9LUY3bQfjboj7q_DX9kNvMqVt3v8JwD_DsI3bXK4ABBtVqi0NNDEZq3zXmHq0_992Fw5YPqvIQ9GaUMHFa-pSUB-IJwAA6T0e1-dUvN2aIuePjVyTEEKsVlFE39sP_7KAxamhrx_mjMXzIBw5wwrtSWY5KfYN7LruCzzytbrOCV6pTNK7Djgs2nPZQT6NC85-M3Y9acGclQvFmMl4uXQ=)
+[2] [kwcu.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWGJL7KqvePx9JI9YF0lhCsq19Y0r7Fj3Lj4E-F8TRqVd4KfitlWdZKGZuQnjcKOKDCNaPBzhbxacUFdTOuaoGthwIeWmlQ20ddJFaUOMRFraJa_XAGT6ku6mU5WLpLy1vmBYWiJEKj9Gh32i16IeCZ8cj6wyj)
+[3] [grace.seoul.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdIaiDI5rNoxDRn7p6u26XKucFdpBd7tVY8SNGYHb9n6mmI1T1vydKE3LYhIcYAixVTpLS6oPmPQQqRLXd8lRZyGuMaUJ_4sNkV5gAv09Jku0nz_LXZdvj6m-q_RaqppiZ7Q==)
+[4] [grace.seoul.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErjen2PQ7eVvH5tV9P7pp0syOhJdSofkQ_w4pZ8vANNbCJibb17R2ZE3lvwkKarsBMR6XsTD-H_4dK7MKiqMl6IxPtRn4yzsJ3CEudYSUD_xj2YSScL4Ak3R1-cWT9GvOlsw==)
+[5] [beautifulfund.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyA7NfVRugRBAxIuKsdbUZ66c0OCTxVfdKyfzrkeRYQJOpDoLo4fKA9ZZCdEJUSXgHieWdbPd9EPvlLTYfILRQawIz2eIuYh1YL4XN90Q7iig5n3Fe5uzbJKD80kLydkcl)
+[6] [beautifulfund.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKdJhRuOgfSKvnKmLxvwicCt5jx9axkADX6jVTIT5J3q5eCYIfd92aGqcuq4W69AjWXYNH0gc952fsRw1wYKtV3SQs6q5ruTsvq5kWzMgsGetwQGP3VKjzb7A0PakrE7TOna21SiD8lsNaFvT3OXveoTSLIoJUMg==)

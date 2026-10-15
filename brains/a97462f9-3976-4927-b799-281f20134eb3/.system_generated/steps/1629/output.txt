@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Excel Row Number: 764
+Col 1 (Val: "25년 모집단"): Fill = {"type":"pattern","pattern":"none"}
+Col 2 (Val: "764"): Fill = {"type":"pattern","pattern":"none"}
+Col 3 (Val: "블루레코딩"): Fill = {"type":"pattern","pattern":"none"}
+Col 4 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 5 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 6 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 7 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 8 (Val: "010-9514-1435"): Fill = {"type":"pattern","pattern":"none"}
+Col 9 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 10 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 11 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 12 (Val: "음악"): Fill = {"type":"pattern","pattern":"none"}
+Col 13 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 14 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 15 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 16 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 17 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 18 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+Col 19 (Val: ""): Fill = {"type":"pattern","pattern":"none"}
+

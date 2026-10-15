@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:75
++ ...  metaM = d.match(/<meta\s+name=\"description\"\s+content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:14 �:38
++                 return m ? m[1].trim() : '';
++                                      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:16 �:32
++             console.log('�:', getField('�\\(�Ű�\\/�㰡�\\)'));
++                                ~
+',' �ڿ� � �ϴ�.
+�ġ �:16 �:33
++             console.log('�:', getField('�\\(�Ű�\\/�㰡�\\)'));
++                                 ~~~~~~~~
+� �Ǵ� � �ġ � 'getField' �ū�Դϴ�.
+�ġ �:16 �:32
++             console.log('�:', getField('�\\(�Ű�\\/�㰡�\\)'));
++                                ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:8 �:20
++         if (metaM) {
++                    ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:16 �:63
++             console.log('�:', getField('�\\(�Ű�\\/�㰡�\\)'));
++                                                               ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:17 �:33
++             console.log('�ȭ�ȣ:', getField('�ȭ�ȣ'));
++                                 ~
+',' �ڿ� � �ϴ�.
+�ġ �:17 �:34
++             console.log('�ȭ�ȣ:', getField('�ȭ�ȣ'));
++                                  ~~~~~~~~
+� �Ǵ� � �ġ � 'getField' �ū�Դϴ�.
+�ġ �:17 �:33
++             console.log('�ȭ�ȣ:', getField('�ȭ�ȣ'));
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

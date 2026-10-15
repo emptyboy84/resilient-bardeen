@@ -1,0 +1,6 @@
+### Result
+"Clicked global search button: mf_wfm_gnb_wfm_gnbBtm_btnGlobalSearch"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'#mf_wfm_gnb_wfm_gnbBtm_inpGlobalSearch\');\n  if (!input) return \'Search input not found\';\n  input.value = \'바른중량\';\n  const btn = document.querySelector(\'#mf_wfm_gnb_wfm_gnbBtm_btnGlobalSearch\') || Array.from(document.querySelectorAll(\'button, a\')).find(el => el.id && el.id.includes(\'GlobalSearch\'));\n  if (btn) {\n    btn.click();\n    return \'Clicked global search button: \' + btn.id;\n  }\n  return \'Search button not found\';\n}');
+```

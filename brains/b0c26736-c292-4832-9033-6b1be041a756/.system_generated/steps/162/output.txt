@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://marketbz.com/companyDetail/6071927909');
+```
+### Page
+- Page URL: https://marketbz.com/companyDetail/6071927909
+- Page Title: 범죄예방신문부산울산취재본부 기업정보 | 사업자번호 607-19-27909 | 마켓비즈
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-29-15-731Z.yml)

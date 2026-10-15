@@ -1,0 +1,18 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-1179
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-1179.log
+Log output:
+<truncated 5 lines>
+neNumber\\":\\"\\",\\"phoneExtensionNumber\\":null,\\"mobileNumber\\":\\"\\",\\"mobileExtensionNumber\\":null,\\"fax\\":null,\\"email\\":\\"\\",\\"nameExposable\\":true,\\"phoneNumberExposable',
+  '담당자\\",\\"celebrateAmount\\":\\"\\",\\"applyCloseDate\\":\\"2070-01-01 00:00:00\\",\\"applyCloseDisplayText\\":\\"상시채용\\",\\"applyModeType\\":\\"DIRECT\\",\\"giTypeCode\\":null,\\"companyUrl\\":\\"/Recruit/Co_Read/C/22554851?'
+]
+
+=== Checking GI 50082276 ===
+Len: 132291
+Phones: []
+Contact JSON/text: [
+  '담당자\\",\\"department\\":null,\\"phoneNumber\\":\\"\\",\\"phoneExtensionNumber\\":null,\\"mobileNumber\\":\\"\\",\\"mobileExtensionNumber\\":null,\\"fax\\":null,\\"email\\":\\"\\",\\"nameExposable\\":true,\\"phoneNumberExposable',
+  '담당자\\",\\"celebrateAmount\\":\\"\\",\\"applyCloseDate\\":\\"2070-01-01 00:00:00\\",\\"applyCloseDisplayText\\":\\"상시채용\\",\\"applyModeType\\":\\"DIRECT\\",\\"giTypeCode\\":null,\\"companyUrl\\":\\"/Recruit/Co_Read/C/22554851?'
+]
+
+Last progress: 26s ago

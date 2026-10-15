@@ -1,0 +1,20 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 634 lines>
+ 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 617-86-04939 (주식회사 센디) | 주소: "부산광역시 부산진구 서면로 39, 6층 9,10호(부전동, KT\u0026amp;G 상상마당부산)" | 대표: "염상준" [계속사업자]
+[303/421] Row 2141 | "페이타랩" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 452-87-01123 (주식회사 페이타랩) | 주소: "부산광역시 부산진구 서면로 39, 6층 601,602,603호(부전동,KT&G 상상마당부산)" | 대표: "곽수용" [계속사업자]
+[304/421] Row 2142 | "샐리북" | 대표: "임은선" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[305/421] Row 2143 | "칸투칸" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[306/421] Row 2144 | "나비" | 대표: "윤석준" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[307/421] Row 2145 | "모바일뱅크" | 대표: "박정욱" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[308/421] Row 2146 | "아트현" | 대표: "" | 구: "금정구"
+
+Last progress: 0s ago

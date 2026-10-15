@@ -1,0 +1,23 @@
+<h2>Read Sheet</h2>
+<h2>Sheet Data</h2>
+<table>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th><th>I</th><th>J</th><th>K</th><th>L</th><th>M</th><th>N</th><th>O</th><th>P</th><th>Q</th><th>R</th><th>S</th></tr>
+<tr><th>1</th><td>구분</td><td>순번</td><td>사업체명</td><td>사업자번호</td><td>설립연도(연도)</td><td>설립연도(월)</td><td>대표자 성함</td><td>연락처</td><td>팩스번호</td><td>시군구</td><td>주소</td><td>업종분류</td><td>컨택결과</td><td>폐업 날짜</td><td>비고</td><td>종사자수(명) 25년 기준</td><td> 24년 매출액(원) </td><td> 25년 매출액(원) </td><td></td></tr>
+<tr><th>2</th><td>25년 모집단</td><td>1</td><td>아이티에프씨</td><td>243-86-01731</td><td>2020</td><td>9</td><td>곽서준</td><td>051-256-8500</td><td></td><td>서구</td><td>서구 보수대로 111 , 2층(부용동1가, 동아빌딩)</td><td>콘텐츠솔루션</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>3</th><td>25년 모집단</td><td>2</td><td>(주)씨드시스템</td><td>605-81-69424</td><td>2004</td><td>11</td><td>손석길</td><td>051-553-1545</td><td></td><td>해운대구</td><td>해운대구 센텀동로 71, 15층 1503,1504호(우동, 벽산이센텀클래스원2차)</td><td>콘텐츠솔루션</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>4</th><td>25년 모집단</td><td>3</td><td>커뮤니케이션다움</td><td>617-31-79070</td><td>2011</td><td>5</td><td>손은지</td><td>051-626-8816</td><td></td><td>남구</td><td>남구 진남로29번길 4 JM하우스 2층</td><td>콘텐츠솔루션</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>5</th><td>25년 모집단</td><td>4</td><td>올립스</td><td>182-88-00260</td><td>2016</td><td>1</td><td>하현수</td><td>051-515-3468</td><td></td><td>수영구</td><td>수영구 수영로 411-1(남천동)</td><td>지식정보</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>6</th><td>25년 모집단</td><td>5</td><td>드림아이티</td><td>607-81-52666</td><td>2001</td><td>2</td><td>이병규</td><td>051-507-6114</td><td></td><td>사상구</td><td>사상구 모라로 22 (모라동, 부산벤처타워)</td><td>지식정보</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>7</th><td>25년 모집단</td><td>6</td><td>(주)씨웰</td><td>617-81-68490</td><td>2007</td><td>10</td><td>이원경</td><td>051-532-1435</td><td>051-532-1104</td><td>해운대구</td><td>해운대구 센텀동로 99 (재송동, 벽산이센텀클래스원)</td><td>광고</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>8</th><td>25년 모집단</td><td>7</td><td>알림종합인쇄</td><td>607-07-11710</td><td>2002</td><td>6</td><td>김인수</td><td>051-515-2731</td><td></td><td>금정구</td><td>금정구 금정로20번길 2</td><td>광고</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>9</th><td>25년 모집단</td><td>8</td><td>유비플러스</td><td>605-25-68583</td><td>2011</td><td>8</td><td>제영한</td><td>1544-3486</td><td></td><td>연제구</td><td>연제구 중앙대로 1231 (거제동) 6층</td><td>콘텐츠솔루션</td><td></td><td>08-31-23</td><td>폐업자</td><td></td><td></td><td></td><td></td></tr>
+<tr><th>10</th><td>25년 모집단</td><td>9</td><td>주식회사 어흥</td><td>421-81-03033</td><td>2022</td><td>9</td><td>이승진</td><td>010-9388-0021</td><td></td><td>금정구</td><td>금정구 금정로 185, 지하1층</td><td>공연</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+<h2>Metadata</h2>
+<ul>
+<li>backend: excelize</li>
+<li>sheet name: 기업체 리스트</li>
+<li>read range: A1:S10</li>
+</ul>
+<h2>Notice</h2>
+<p>This is the last range or no more ranges available.</p>

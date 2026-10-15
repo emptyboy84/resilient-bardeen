@@ -1,0 +1,17 @@
+The search for "site:dawnnine.com "전화" OR "TEL" OR "02" OR "070" OR "고객센터"" returned the following summary:
+디자인 쇼핑몰 **'새벽9시(dawnnine.com)'**의 고객센터 및 연락처 정보는 다음과 같습니다[1][2].
+
+* **전화번호 (대표번호):** 별도의 유선 전화(대표번호/02/070 번호)는 기재되어 있지 않으며[3], **주문 및 상담은 카카오톡 채널을 통해서만 진행**됩니다[4].
+* **고객센터 운영시간:** 
+  * 평일: 10:00 ~ 18:00[1]
+  * 점심시간: 12:30 ~ 13:30[1]
+  * 휴무: 토요일, 일요일, 공휴일 휴무[1]
+* **상담 방법:** 카카오톡 채널에서 **'새벽9시'**를 검색하여 문의하실 수 있습니다[5].
+* **이메일:** yunyeobe@naver.com[1]
+
+Sources:
+[1] [dawnnine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1rsSiBXfwWgNqnVLGjk-NbskTJywclpgKgzJcH_ZngZo3NqfJaMGNJKVd8PkFE9p7H_nQA4L-YG6dW0hExoQihWwuOtkVCCr5ueQodzHf9s9iguqqiqZTK54fLB2X)
+[2] [sellerbiz.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVbhhSW44xqWr8pfpQjhGmBEaSRH3UJCvZ2W-HOJp33TpIrmdnfU1g9aYM_ixVT9nZVakc_oBHqbMTja7cRTH3BAR_HOrIzgx394hIzaXa6l7CO9mVbnEh-rsrI5A2-aN6g79xE_YAdb9GqZlLN8bm7cLVrk_nWUA0Bkw5HTdMp7o=)
+[3] [dawnnine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEa6EaVL9rfdG2mDsEHSrs-DTpWbiavhgV0qBCEcph1cH2dVrKn9fxBAY5_a08RdKs6Jgf38aCjGghiELpLuDlhKb32mbD-kzUz30j3nbwD-M7wk8LOdnXTdx1czj45Qg=)
+[4] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5bzOxq9IZNFj4OeV3MwdKUvROR8PKEfVtrnqRnMVh8KdIn-WyQjEIA7QnReU7coVAv4IsxJhcO_gW3765lNRKHuUQ8wVBcftOZ_HnwS_hLnh35xV6K-QMlRsOYkdPcU=)
+[5] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGhlXeIw-MGRXmvLTHvDLskeevm9WwXwE-bzSk38hCeebjDWtxxX6fBcqdlUS3Eps5WRu_QEUtCdtoJQeWAb6Qnc4Roaj4zFedTQXW85z-zSBAsgwHUhd6D9Iq46c=)

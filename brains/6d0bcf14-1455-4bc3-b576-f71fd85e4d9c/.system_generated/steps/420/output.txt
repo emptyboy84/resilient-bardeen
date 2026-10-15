@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+6424 LOCALIZE.타이틀_대표이미지설정 = function(){ return LOCALIZE.convArguments("대표 이미지 설정", arguments); };
+7079 console.log('Animation triggered immediately');
+

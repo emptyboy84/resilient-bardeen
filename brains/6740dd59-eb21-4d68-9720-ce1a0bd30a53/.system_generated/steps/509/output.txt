@@ -1,0 +1,15 @@
+The search for ""주식회사 브이드림" "사업자등록번호" OR "대표자 김민지"" returned the following summary:
+주식회사 브이드림에 대한 정보는 다음과 같습니다[1][2].
+
+*   **대표자:** 김민지[1][3]
+*   **사업자등록번호:** 186-86-00972[1][4]
+
+주식회사 브이드림은 장애인 재택근무 플랫폼 등을 운영하는 기업으로, 부산 본사와 서울 오피스 등을 두고 활동하고 있습니다[1][4][5][6].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjd42N1uVT9W3FtNAx0ouKzZ24_yVkXM2nAxtzqMl0zZ24W0jPiHsGLf2uzBV-YjNmCyTX2jCSuj9-y-1zZ5nCSr5D8BIqeEyPzuixstkuxPj6fMgWV1emu4=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjd42N1uVT9W3FtNAx0ouKzZ24_yVkXM2nAxtzqMl0zZ24W0jPiHsGLf2uzBV-YjNmCyTX2jCSuj9-y-1zZ5nCSr5D8BIqeEyPzuixstkuxPj6fMgWV1emu4=)
+[3] [vdreamshop.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESH1R0M24VsKQgFkm0XVuNfQS6NDWXIdMRN3olDxD-JJINdqVrUpLeThW3kUGVrTjW4hJRUEtG--3tj_g-RhgiAtgkHYpDdWYWkTWGGpvn)
+[4] [vdream.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9HP8lQ2aXdu09-N2-2PNLUVA4DoAOu5KInujC1Uy0XSl7mqU2xCnYClzf3KTNMKmMvXX13dYi0XiMNdWcl9YLyeeybn1c9lPj0fe6QOa8YY3fM6h6RM12F5tdj9Rgqh6duhducIY=)
+[5] [designdb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzJcNFYZk7OlLWP3ORWI6gM4W2vfUaDX9a6ORW43jgn_Uli_7ZGagGbBf6Q5y6yYSNYjiD3MAMtkCFPxEc6hhlzanAfn8gcbUi3TVuCi3c5s9tN1np-2S2JjvD9gCRw3ujNQcFYK8kSzNwKR3Cw0Ekas9z299IedVOUlodQ3fp9EnsworgQh-guWH9xoblK1c8w8DIl5s5YtCFO3bifgeZQstBAsV7DKw8JX_IqgzGw0H9DgbfLwaL8xBp8sdu5YE9jRwAcjr5vD7AzqU-atTq6LLJbNTnxPUs)
+[6] [ablenews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLpmTsMU8ylpk9kysaSo2MAt65dRoBKDXTyMub4k_wrTMkdPLgjGH8EXZis7AjSkNri-XkVkDU56S4yut-jESpdhtNgS4yfJjbkrqv_VDWCb5J5BuQiuuiuQYqhsFndaYVM3P563O3NbyNv14w8WlP1xY=)

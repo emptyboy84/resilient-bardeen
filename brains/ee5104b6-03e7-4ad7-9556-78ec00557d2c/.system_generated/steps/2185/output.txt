@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%22%ED%95%9C%EA%B5%AD%ED%85%8C%ED%81%AC%22+%22%EA%B9%80%EB%8C%80%EC%84%A0%22');
+```
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%22%ED%95%9C%EA%B5%AD%ED%85%8C%ED%81%AC%22+%22%EA%B9%80%EB%8C%80%EC%84%A0%22
+- Page Title: "한국테크" "김대선" – Daum 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T03-50-26-213Z.yml)

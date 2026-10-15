@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Row 320: count=17, col10=
+Row 321: count=17, col10=051-781-5005
+Row 322: count=17, col10=051-301-6181
+Row 323: count=17, col10=051-791-2021
+

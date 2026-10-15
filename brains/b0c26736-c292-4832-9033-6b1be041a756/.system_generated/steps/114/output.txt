@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7948700687');
+```
+### Page
+- Page URL: https://bizno.net/article/7948700687
+- Page Title: (주)위드마인드
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-27-30-552Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-27-24-802Z.log#L1-L8

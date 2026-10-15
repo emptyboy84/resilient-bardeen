@@ -1,0 +1,20 @@
+The search for ""7658601226" OR ("장평동" "주영" "삼성중공업")" returned the following summary:
+문의하신 정보에 대한 검색 결과는 다음과 같습니다.
+
+**1. 사업자번호 765-86-01226 (주식회사 주영)**
+*   **기업명:** 주식회사 주영[1]
+*   **업종:** 선박부품 관련 서비스[1][2]
+*   **소재지:** 경상남도 거제시 장평3로 80 (장평동, 삼성중공업(주) 거제조선소 내)[2]
+*   **영업상태:** 폐업[1][2]
+
+**2. 관련 키워드 확인**
+*   **장평동/삼성중공업:** '주식회사 주영'은 삼성중공업 거제조선소 내 소재지로 등록되어 있던 기업으로 확인됩니다[2][3].
+*   기타 검색 결과 중 '주영'이라는 명칭은 거제시 장평동 일대의 아파트 명칭(고현 주영에이스)[4]이나, 거제시청 인사 관련 기사 속 인물 이름[5], 영화 감독 이름[6] 등으로 언급되기도 하나, 사업자번호 765-86-01226과 직접적으로 연관된 실체는 위 '주식회사 주영'입니다.
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv3lLN8ucWMQOWPw44xaCR_y_jdCUADytybZddeyXU1HinoGn9O1kBWd5saxg0mU2e6-jWj_IHQOsmcVtES7AsQ4pp42aVdEGN4ioXC7kh0I3J_GhnLwDdS4ndDDw3M8i55_M=)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv3lLN8ucWMQOWPw44xaCR_y_jdCUADytybZddeyXU1HinoGn9O1kBWd5saxg0mU2e6-jWj_IHQOsmcVtES7AsQ4pp42aVdEGN4ioXC7kh0I3J_GhnLwDdS4ndDDw3M8i55_M=)
+[3] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPNlKvlWxPJO4lGdDqyN92EAWgVqF-wGnqVE4Y04MHiZw2WfOnE3IVDJ3yFMSV9o1JcIK_2I50NBQqHSaW-Xrk6W3GF3ixmpclE7-KE-Q3nHL-SRET2CLTXAT02lCbSca7gWmU)
+[4] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6B3WfiFVnnvR-FN7MwM1aO3nRb-3THDb5a5H5XcGestf5xE840OoAZXY-RBKzF3CVsV-Flu8PArCldhMJB52P-i6xRU7FTpfb2iy_jyMjjGO4I2vPKyOWZiU6zVCLJuEcHhATpEhNd8TB7HnyDaq8ITBkq71x6myv6CooNCb9FP7dmXfMQgiq3fZQOaMseZI9US5iRUwxMxQ8GKKfbheOar5D8nXyKX9AzngSFgR_y_EI245-aToXIxU-ZpeLJeTjYJ5PyHhwlmUQrPyb)
+[5] [gibnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAei2e2l1DsGkdGzoaBmx79Yljy0TDcbqI1SGtqdgOKAPnDtOT5EDKD3Tq9LGkVbyByiIXjfYissBI9zNcGNP2vBEN0K1uh0TQi5RzIOYwRgw3XrC0pKcb_xll7V8gW9-IFWNv38KqSJ6YY6xHaA==)
+[6] [geojenews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0UMbed-hyQxzBqtN7n6YLmVUJANkR1uvdx_zfndju6LRK5ilkVbGo4yIeDFzCvvl-pN2gWa3UsUrVVTX7n-h3NmFsTXAs8hokx6Y9vydvQrYNMHuuvPoolTxUnayREviWuHLqq3m4yvmJOF7k6QuN1tsu)

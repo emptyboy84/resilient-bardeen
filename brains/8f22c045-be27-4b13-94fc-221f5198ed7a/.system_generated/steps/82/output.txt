@@ -1,0 +1,16 @@
+The search for ""조나단" "스튜디오" OR "프로덕션" "이은석"" returned the following summary:
+검색하신 키워드와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **이은석 디렉터 관련:** 넥슨 출신의 1세대 게임 개발자인 이은석 디렉터는 크래프톤에 합류하여 신규 개발 조직인 **'파파랑 스튜디오'**를 설립하고 차기작 개발을 진행하고 있습니다[1][2][3].
+*   **조나단 관련:** 검색 결과 내에서 '조나단'이라는 인물은 주로 레고그룹의 디자이너(조나단 베닝크)[2][4], 그라인딩 기어 게임즈의 총괄 디렉터(조나단 로저스)[1], 또는 영국 기업혁신과학통상부 장관(조나단 레이놀즈)[5][6][7] 등으로 언급되고 있으며, 이은석 디렉터나 '파파랑 스튜디오'와 직접적으로 연관된 정보는 나타나지 않았습니다.
+
+혹시 특정 분야(게임, 방송, 출판 등)나 구체적인 사건에 대한 정보를 찾으시는 것인지 다시 한번 확인해 주시면 더 정확한 검색을 도와드릴 수 있습니다.
+
+Sources:
+[1] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlPGJpDlvJDLYnM9MwzlzN__W-ZkHtHM-V5WM2voRmzHmMHYih0FCQ6ArvaaSI2NcqO_T983W0pZ-aoKJmmJJlxB88X43Pm7p0PDu_IFAtzLr-GR1zmX4cJ4aKpNYUkwzVBx2jTjdy-mClMClh7p6ZAf5w8bFDoiRu)
+[2] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz5SiG25TX0DNZB26tGcGVp6F3j9og9Oy-UBDmLTh-zND5JoRm-T6-pzIrathY0f8kcqy3rMCjomdVnmjTOT2vabUWuOVy8NtP2PsUe4xiEneL7TlzCw_Ulefx7jC_s3Fsjk5BANJpKlikPWMmUjMDcxEEWSTy4zT4aumy9g==)
+[3] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlRN7L-ZUF6Fmb4SDWgoCBIvNFwtt00BVJ_mghFMlMObCwkWWWRNqSex43-4rzNXNm6mjnaOKATMaANgOxSXOahi_GNsYcfauTgjaY7Mc6zFZCztGM3roIfTOomTPJy0XYuGWGlIDG)
+[4] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz5SiG25TX0DNZB26tGcGVp6F3j9og9Oy-UBDmLTh-zND5JoRm-T6-pzIrathY0f8kcqy3rMCjomdVnmjTOT2vabUWuOVy8NtP2PsUe4xiEneL7TlzCw_Ulefx7jC_s3Fsjk5BANJpKlikPWMmUjMDcxEEWSTy4zT4aumy9g==)
+[5] [newsseoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61vOodc_d5xlofox--6JtsP6dKeXunG5_PtMuOQO3tVazQu0luOktY8ToPVki6qhMNPvQMkc-JP_JYkXltmdf_4liSs3CMfjgbeVI4FxdAHhCpGoX-yq35OLFwlMD2Y-pDouxXJgnr763EHKOVg71712aA5G6falI5RddEeXunxUnWkBqJhcNS12aEo5kHT-kHtxRDrZwAM1We89IMHGA5YjBTURSKsjBXw==)
+[6] [newssearch.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOgS8jzNS7m5voSkIJ5rz7gnYq2ZTz8bsBEu9LBZ4uiaypEMmKDOmH6_LCBVGGK0HWxVu1lcNrYGEiO4Q0i_t9kPVG_OK9BSKrOwghFFXkTTqnjeGgwNV56Td97SAc4KOBbr-Jf4jVta9i2ofWtOLu2-DpEdB--l75Cv6vPvmiZgrTMB3oYl73_R7fgnD1g-iCn8u2lZw8D0LPCmjwELxBprzEJUJOHzvHzSz_1w==)
+[7] [newsseoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEln5E1ADyV8klIqZkDtuPG6hrCNEHHfqVlgx-HQQbscM4UiNwSAxi0ilFYnUt6ro8_Kar-jFcfXHIb03KRLFE2RFeTY9tce6e3ExzI-5jE2PKLnNFq2SAmvkZ9Z6s4licESlSRYN4-jF4dIxsOyfMjvZUrSTGN38TDMNULdvc3LbcjKf7VwgLmqVhxyzJT0kvhlSlQIRwGXQ50LUShV4UXa52oQwH0E-PS4qOA9Uo=)

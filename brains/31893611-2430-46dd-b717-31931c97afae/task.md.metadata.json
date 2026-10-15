@@ -1,0 +1,5 @@
+{
+  "summary":  "Checklist of tasks to implement touchpad support, including pointer event migration, iframe pointer event disabling, and touchpad workspace switching gestures.",
+  "updatedAt":  "2026-06-12T00:04:47.117371900Z",
+  "userFacing":  true
+}

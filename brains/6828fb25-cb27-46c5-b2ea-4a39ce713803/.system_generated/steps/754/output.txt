@@ -1,0 +1,17 @@
+The search for ""초강수 경영컨설팅" OR "초강수경영컨설팅"" returned the following summary:
+검색하신 '초강수경영컨설팅'은 중소기업으로 분류되어 있는 업체입니다[1][2].
+
+주요 정보는 다음과 같습니다:
+
+*   **업종:** 비주거용 건물 임대업[1][2]
+*   **기업 형태:** 중소기업[1][2]
+
+사람인이나 기업 정보 플랫폼(I:UM 등)을 통해 해당 기업의 재무 정보, 채용, 근무 환경 등의 세부 내용을 확인하실 수 있습니다[3][4][5][6]. 구체적인 경영 상태나 기업 상세 프로필은 관련 플랫폼의 기업 상세 페이지를 참조하시기 바랍니다[3][4].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtT_qqQGYIvjv7-9uj14nCReS5BDre1vfRpJH6mofdfllVm-XLm8Yw50yoHIdxT-HStttb5iGX6_hSIas6QCsHYFjTllnqwq9mTqPeGJZDzQKtvwHZHFUo0OgsC-pphfRLZrGZwUVVmuXClN1kCePrNpLOD5vB3g6UYaN3OhYPt-5ovgkYe82U7VA8q2FSWnOJQJIzwPHtJLcdhqnYaBW9mAPgSZ_zRakDJ6uNYLx8kUCh-h3mAalfrwLsGsu80Nc4xGURFeAxAq9zLorneQD05OFCO0THuGtg5LEDd9bfmWwlgw==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtT_qqQGYIvjv7-9uj14nCReS5BDre1vfRpJH6mofdfllVm-XLm8Yw50yoHIdxT-HStttb5iGX6_hSIas6QCsHYFjTllnqwq9mTqPeGJZDzQKtvwHZHFUo0OgsC-pphfRLZrGZwUVVmuXClN1kCePrNpLOD5vB3g6UYaN3OhYPt-5ovgkYe82U7VA8q2FSWnOJQJIzwPHtJLcdhqnYaBW9mAPgSZ_zRakDJ6uNYLx8kUCh-h3mAalfrwLsGsu80Nc4xGURFeAxAq9zLorneQD05OFCO0THuGtg5LEDd9bfmWwlgw==)
+[3] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHunKYRIXGqv47MSxSvMKe1oR90zbxzvMQS1nxdmkqMKtdKQ5fN5kfOyXSmOZc-e3bbcMPTNic5iSCtCxCRsepjIBasqzRU59Dv3peqxbF3zaBMub5056tA2Es0p06Ll47nYvD909Wsha9o1cF6uPTaxgXTjwfR0mHtaZWCydZZbbIVOaXn9A==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhCdBkt0NLMnEgBfS5Ya29HQRJxgXQOZ82bN9nBeXIiK2KYavL7shrUz3TzcgJiSk4Rm-dbVuhwqv5fmOgJExSvF47qhRUSM1_Dt4eIB3zvGqVxRX7Sipr4oqeih9DJqeA7xXziipA5h3NvTk8o3bdihMoPseARiZ0BSN7DDMYzStJ3ILUS8lKcz7BVvhwGvGNmhzOdIJiUcwYsTJSW9t06_tpLTJRPONqBBTHkm-I0z8tA8-x9VLLhxz1LxzWf3jUZJdajAeJAExxYJJTI25qxa1sduAbbMuxVKFGeWXs-8tNFtSDNr6hJ2QFoPUuVNY_g4ZvqlC)
+[5] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHunKYRIXGqv47MSxSvMKe1oR90zbxzvMQS1nxdmkqMKtdKQ5fN5kfOyXSmOZc-e3bbcMPTNic5iSCtCxCRsepjIBasqzRU59Dv3peqxbF3zaBMub5056tA2Es0p06Ll47nYvD909Wsha9o1cF6uPTaxgXTjwfR0mHtaZWCydZZbbIVOaXn9A==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhCdBkt0NLMnEgBfS5Ya29HQRJxgXQOZ82bN9nBeXIiK2KYavL7shrUz3TzcgJiSk4Rm-dbVuhwqv5fmOgJExSvF47qhRUSM1_Dt4eIB3zvGqVxRX7Sipr4oqeih9DJqeA7xXziipA5h3NvTk8o3bdihMoPseARiZ0BSN7DDMYzStJ3ILUS8lKcz7BVvhwGvGNmhzOdIJiUcwYsTJSW9t06_tpLTJRPONqBBTHkm-I0z8tA8-x9VLLhxz1LxzWf3jUZJdajAeJAExxYJJTI25qxa1sduAbbMuxVKFGeWXs-8tNFtSDNr6hJ2QFoPUuVNY_g4ZvqlC)

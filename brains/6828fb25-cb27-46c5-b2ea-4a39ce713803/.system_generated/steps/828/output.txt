@@ -1,0 +1,13 @@
+The search for ""제일에프앤에스" "과정로237번길" OR "연제구"" returned the following summary:
+(주)제일에프앤에스에 대한 정보는 다음과 같습니다.
+
+*   **주소:** 부산광역시 연제구 과정로237번길 79, 3층 (연산동)[1][2]
+*   **주요 업종:** 근무복, 작업복 및 유사의복 제조업 외[2][3][4]
+*   **연락처:** 02-2281-6100[1][2][5]
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWLvFbPMhmLF-GRSjOLypp9lYS5xUa0BAwSqPBt1MSIgim_vNT2yyCcZp8_Lun_puqYoywM9IReWDYCl_N7D4jPY0wwZdYV3qJDoua_a6nlYWhouNxeN9O5zvDyA==)
+[2] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETTubfEXk_CxWwyHKx0YwZhicfscMNUJj0Q7XckkA7aWecvoIqwg6g6s7hENLogYoKmB_6ekU-LkAiyq4FIxo8z7CPecq6AEnDvMzcLeZO5Hup4-zv2L2KRaMzTkvEQ0P9_vZtoqbybtCGfS0Ji_NhIv7k32tfzoY=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmJmRFo6mCDn6BTPwwu9N3V6KexfM_1xsIMIP3ec5775GdSW4_JLozhpbLc7GtJwnqlVWnof5XUoEWyWnEuWKOSh7_UbJQOjY9fHu7kSnTGqavMb6MxA==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmJmRFo6mCDn6BTPwwu9N3V6KexfM_1xsIMIP3ec5775GdSW4_JLozhpbLc7GtJwnqlVWnof5XUoEWyWnEuWKOSh7_UbJQOjY9fHu7kSnTGqavMb6MxA==)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWLvFbPMhmLF-GRSjOLypp9lYS5xUa0BAwSqPBt1MSIgim_vNT2yyCcZp8_Lun_puqYoywM9IReWDYCl_N7D4jPY0wwZdYV3qJDoua_a6nlYWhouNxeN9O5zvDyA==)

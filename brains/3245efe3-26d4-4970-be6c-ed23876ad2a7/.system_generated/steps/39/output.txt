@@ -1,0 +1,63 @@
+
+The command exited with code 0.
+Output:
+<truncated 232 lines>
+2026-10-14 02:27:00 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\data\배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv
+2026-10-14 02:27:00 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\merged_500_perfect.tsv
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\package-lock.json
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\package.json
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\query_test.html
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\rows_11847_12000_16col.tsv
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\rows_11847_12000_17col.tsv
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\rows_11847_12000_verified.tsv
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\user_pasted_rows.tsv
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\법인등록번호_추적_및_검증_가이드_110111-8382593.md
+2026-10-14 02:27:02 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number\법인등록번호_추적_및_검증_가이드_110111-8382593.pdf
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\.gitignore
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\AGENTS.md
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\all_500_factchecked.tsv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\all_500_verified.tsv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\article_test.html
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result.csv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result.tsv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result_nice.csv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result_nice.tsv
+2026-10-14 00:47:27 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_page.html
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_test.html
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\README_대화기록.md
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\audit_74.js
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\audit_74.js.metadata.json
+2026-10-14 01:22:33 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\bizno_scan_59.json
+2026-10-14 01:24:15 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\bizno_scan_59_precise.json
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_74.tsv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_74.tsv.metadata.json
+2026-10-14 03:25:59 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_seeplay_links.js
+2026-10-14 03:26:10 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_seeplay_pages.js
+2026-10-14 03:04:29 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_seyeon.js
+2026-10-14 03:04:41 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\check_seyeon_bizno.js
+2026-10-14 01:17:14 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\fetch_bizno.js
+2026-10-14 01:34:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\make_txt_report.js
+2026-10-14 01:18:01 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\missing_59.json
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\prep_repo.js
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\prep_repo.js.metadata.json
+2026-10-14 01:23:23 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\scan_bizno_batch.js
+2026-10-14 01:33:21 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\verified_map.json
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\transcript.jsonl
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\transcript_full.jsonl
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\current_pasted_batch.tsv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\data\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\data\배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\data\배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv
+2026-10-14 00:46:55 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\merged_500_perfect.tsv
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\package-lock.json
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\package.json
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\query_test.html
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\rows_11847_12000_16col.tsv
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\rows_11847_12000_17col.tsv
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\rows_11847_12000_verified.tsv
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\user_pasted_rows.tsv
+2026-10-14 00:57:31 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\winners_full.html
+2026-10-14 01:35:01 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\배현명_실사DB_누락전화번호_전수검증리포트.txt
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\법인등록번호_추적_및_검증_가이드_110111-8382593.md
+2026-10-14 00:46:57 C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\법인등록번호_추적_및_검증_가이드_110111-8382593.pdf
+

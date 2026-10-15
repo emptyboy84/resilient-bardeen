@@ -1,0 +1,19 @@
+Task: d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd/task-143
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd\.system_generated\tasks\task-143.log
+Log output:
+<truncated 37 lines>
+립연도(월)): None -> 10
+  Row  536 [해람정보기술] Col  7 (대표자 성함): None -> '김정보'
+  Row  536 [해람정보기술] Col 10 (시군구): '남구' -> '해운대구'
+  Row  536 [해람정보기술] Col 11 (주소): '남구' -> None
+  Row  536 [해람정보기술] Col 14 (폐업 날짜): None -> datetime.datetime(2014, 4, 14, 0, 0)
+  Row  536 [해람정보기술] Col 15 (비고): None -> '폐업자'
+  Row  536 [해람정보기술] Col 16 (종사자수(명) 25년 기준): None -> 6
+  Row  552 [녹생광고연합그린하우징] Col  4 (사업자번호): None -> '604-02-45652'
+  Row  552 [녹생광고연합그린하우징] Col  5 (설립연도(연도)): None -> 1999
+  Row  552 [녹생광고연합그린하우징] Col 10 (시군구): None -> '중구'
+  Row  552 [녹생광고연합그린하우징] Col 11 (주소): None -> '부산 중구 대청로135번길 16(중앙동4가)'
+  Row  568 [주식회사 아이엠지로드] Col 15 (비고): '확인불가' -> None
+
+Last progress: 3s ago

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5598701064');
+```
+### Page
+- Page URL: https://bizno.net/article/5598701064
+- Page Title: 주식회사 제이앤제이인베스트
+- Console: 1 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T01-46-40-777Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T01-46-37-466Z.log#L1-L6

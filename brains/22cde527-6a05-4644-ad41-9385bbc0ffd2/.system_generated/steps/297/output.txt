@@ -1,0 +1,18 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 754 lines>
+hyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "양영철" [계속사업자]
+[360/421] Row 2202 | "이아이옵" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 569-86-02952 (이아이옵 주식회사) | 주소: "부산광역시 남구 문현금융로 40 (문현동) 8층 8호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+  >>> Progress Saved: 360/421 | Matched: 112 | Unverifiable: 248 <<<
+[361/421] Row 2203 | "노매드헐" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[362/421] Row 2204 | "레벤그리다" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[363/421] Row 2206 | "케이와이시스템" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 741-88-00400 ((주)케이와이시스템) | 주소: "부산광역시 남구 신선로 365, 203호 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "김순자" [계속사업자]
+[364/421] Row 2207 | "선민" | 대표: "" | 구: "사상구"
+
+Last progress: 9s ago

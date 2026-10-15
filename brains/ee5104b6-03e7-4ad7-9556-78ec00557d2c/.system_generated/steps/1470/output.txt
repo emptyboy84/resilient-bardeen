@@ -1,0 +1,13 @@
+The search for ""혜리점프" OR "hyeree.amazon@gmail.com" OR "553-10-01292"" returned the following summary:
+검색하신 키워드에 대한 정보는 다음과 같습니다.
+
+*   **혜리점프**: 경기도 용인시 수지구 상현동에 위치한 사업체명입니다[1]. 도매 및 소매업(소매업)을 영위하는 중소기업으로 알려져 있습니다[2]. 
+    *   *참고*: 일부 검색 결과에서 배우 혜리가 드라마 등에서 착용한 '점프수트' 관련 정보가 함께 검색되기도 합니다[3][4].
+*   **553-10-01292**: '혜리점프'의 사업자등록번호로 확인됩니다[1].
+*   **hyeree.amazon@gmail.com**: 해당 이메일 주소와 직접적으로 연관된 공개적인 정보는 확인되지 않습니다.
+
+Sources:
+[1] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHH9nNSd5shvQdobMzZ-X06oQCU-3Val3zdXB_sPjMUnfSWfQ5qa_dvHzuy6Q4wYLStzvWEsAyezeTBNpHv4PQuFVNc2296h8ZXgM3l8Kv7mqU2M8GvqZKRnCvKNyoZ-f5_La3)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzSM429QBWAQI0dsOi3_VOupRUR-sXlugkQr7xwEEEh_d1Y55P6ri4jRH7XTV4VeoPwJrkpdsFqTJ3Eqr5S7axX-JvWFj7b61k7l4XRlYHM3UXOArL6F4k5EeI6ZiC)
+[3] [joynews24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJpticxyWQhc9lQhrFH84Ok47sADGEnC-3ZI4CgJVZ1g8uLZ4XqwhIvO_YzPKplzNem2Kb-4aZ9YwbL13mgojbg7NOk3sY_kwUj5RcUnpi5wLLMHWzAHkjI_2nyg==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVJQ-bvTbhN2DXJzkAJl6wE4z6fB50-MpL3LbyRTzpJgxu8HE2DCmO_Cy0XyqknBE3rv4ekN8dlmN_ZeWuvuNnCEDYBHD4bTUCWnV9cD4R6YECEsbReKjNzEE=)

@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+
+   Id ProcessName           Responding WorkingSet64
+   -- -----------           ---------- ------------
+ 8848 Gemini                      True     84189184
+19316 Gemini                      True    158543872
+25240 Gemini                      True    192954368
+26112 Gemini                      True    101634048
+26980 Gemini                      True    108580864
+39292 Gemini                      True    419020800
+18300 GeminiAppLauncher           True     14659584
+ 9976 GeminiCrashpadHandler       True     11583488
+
+
+

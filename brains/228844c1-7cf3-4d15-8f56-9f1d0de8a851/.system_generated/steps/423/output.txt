@@ -1,0 +1,35 @@
+### Result
+[
+  {
+    "val": "",
+    "text": "전체"
+  },
+  {
+    "val": "title",
+    "text": "제목"
+  },
+  {
+    "val": "author",
+    "text": "저자"
+  },
+  {
+    "val": "publisher",
+    "text": "발행처"
+  },
+  {
+    "val": "ea_isbn",
+    "text": "ISBN"
+  },
+  {
+    "val": "control_no",
+    "text": "CIP제어번호"
+  },
+  {
+    "val": "issn",
+    "text": "ISSN"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const sel = document.querySelector(\'form[name="topSearchForm"] select[name="schFld"]\');\n    return sel ? Array.from(sel.options).map(o => ({val: o.value, text: o.text})) : [];\n}');
+```

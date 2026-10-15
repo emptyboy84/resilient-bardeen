@@ -1,0 +1,9 @@
+### Result
+{
+  "title": "네이버 플레이스",
+  "text": "이전 페이지\n괴정만화\n저장\n페이지 닫기\n괴정만화\n만화방\n거리뷰\n출발\n도착\n거리뷰\n공유\n홈\n사진\n주소\n부산 사하구 낙동대로 210\n1괴정역 5번 출구에서 43m\n미터\n영업시간 정보 수정\n영업시간 수정 제안하기\n추가\n이 장소의 관리자라면,\n무료로 직접 관리하세요!\n권한 받기\n로딩중\n알고 계신 정보와 다른 정보가 있나요?\n사진으로 간단하게 제보해 주세요.\n정보 수정 제안하기\n이용약관고객센터리뷰운영정책신고센터\n네이버"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return {\n    title: document.title,\n    text: document.body.innerText\n  };\n}');
+```

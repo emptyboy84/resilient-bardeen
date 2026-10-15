@@ -1,0 +1,30 @@
+The search for ""주식회사주영" "조용순" 법인등록번호 OR "195" OR "194"" returned the following summary:
+문의하신 내용과 관련하여 "주식회사 주영" 및 "조용순" 대표와 관련된 정보는 아래와 같습니다.
+
+**1. 조용순 대표 관련 (주)주영**
+* 기업신용조사 전문기관인 한국평가데이터 등의 자료에서 **'대표자: 조용순'**으로 기재된 **'(주)주영'**에 대한 기업보고서 정보가 확인됩니다[1][2]. 
+* 다만, 국내에는 '주식회사 주영'이라는 동일한 상호를 가진 법인이 다수 존재하므로, 법인등록번호 등 구체적인 식별 정보는 해당 기업의 정확한 소재지나 사업 분야를 확인하여 법인등기부등본 또는 대법원 인터넷등기소를 통해 조회하시는 것이 가장 정확합니다[3][4][5][6][7].
+
+**2. 법인등록번호 및 숫자 "194", "195" 관련**
+* 질문하신 **"194"** 또는 **"195"**는 특정 문서(예: 전문건설업등록 목록, 안전점검 수행기관 명부, 관급공사 평가 실적 등) 내에서의 **순번**일 가능성이 높습니다[8][9][10][11][12][13][14].
+* 예를 들어, 일부 공공기관의 공사 실적 명단이나 건설업 관련 통합명부 등에서 194번이나 195번 순번에 다른 업체들이 기재되어 있는 경우가 확인됩니다[9][10][12].
+
+**참고 사항**
+* '주식회사 주영'은 전국적으로 여러 곳이 등록되어 운영 중입니다[3][4][5][6].
+* 찾으시는 구체적인 법인의 **사업자등록번호**나 **법인등록번호**를 확인하시려면, [대법원 인터넷등기소](http://www.iros.go.kr) 또는 [국세청 홈택스](https://www.hometax.go.kr)의 '사업자등록상태조회' 기능을 통해 상호명과 대표자명으로 검색하시는 것을 권장합니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0hp1ll6jp9ehkkPnhR4Pdf4sUFRkAhfpomYwLxd_cFxog9EPOgEYHJ13uEdtCqg5pKMkIr9MhzXqcgrP_T0KV6Iin-Wpx-4kPUKgkaUCFw4jIfAea3edjtotIuu3Uq7cbyL4Eg==)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0hp1ll6jp9ehkkPnhR4Pdf4sUFRkAhfpomYwLxd_cFxog9EPOgEYHJ13uEdtCqg5pKMkIr9MhzXqcgrP_T0KV6Iin-Wpx-4kPUKgkaUCFw4jIfAea3edjtotIuu3Uq7cbyL4Eg==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKj8rXrDt2YHMR6Oa-WEXZ9OQAQFs8Y7GnwM1t-luKYAN6rj8BAEMS7cXaIPUVaSjhnPNYMlePWPpRTcd-3o_W1yQWo-DjFA7vd11b9DGCAvXSCd46tQ03sc=)
+[4] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlFPNrvD37aOBKLAIexoi2iOECwQ2BF60sCGLzdzv_g-tdtARt0WZRtN5O20bj_FE-WQDHk9b2MRr7ViviOSNkXBGODq5Q4EhwWaHxS4sJEZStxKbm)
+[5] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYa-6RIlCJuFvkSc39xZDciCku3UARVUyUd78CWRChqF_avzgjeQXrMImP7f_UsS7BrupXSYvtxboZzxHPO91UFJmzpOH2lF24zmFG5cmv9wPiYD1)
+[6] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7dwgvpmzG_7jDdR2MPTqBqWZlWZi5BvLfMEMGhNdFzEM6Jsa1DfJvQwqkpLMp79X5JBIEMsNJLYxHwPG2I6Zv5WQVRA9zclfU0qA9Yt3g2o23uf_4MQpFxJfIIdPCl23Efg==)
+[7] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu7xGnXHwU4u-bpZaWfFaoVhUhtRc2uHuVAtjNpTRtSA9JHZ-PAsV5cmq7Z-dTDlxFWCHsMzhN_91fati2VhfhRO1VrSpk5VPh-PQMUYk3HLwSQZMk)
+[8] [hc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeycqASul4qVj6Bnoolr6oDqoMGWjkn2ia-oIbJv52eRqql-Uge_GadxmDOsdD-0O8EcdqfO_38XUpHGuGv3Bum0cu6s9Oyfxom9MTKXUGpu3RZe7BTy5qFfGrcUML4CPlJqhigc4gW3CuuAL0R73BgY9zrOEJqaD_C3WZEbW55Ss=)
+[9] [changwon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnU-63eEGd-6IgBU8Uk4Vw_AN-fEnh7zBNUYsuA26re2UQ6NUKr1qYM_lhkm9lDjnzEPwzVj99qIwr6Bwu6QEhDhC4Rwr3SMK2e9aPeS3B79hSdxIaPR14GU-OoffllcKI_L4jZwlgvVMNukgEtYRIBKtrw4ZU4Mu22RRs2MODg2TogUw5Dw==)
+[10] [swr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZaIQW7tkD3O-ibNt8r6gNM7QJUSnSggTyBaUsovqBXR3zbwsZMuuvWXBTvP7k6qPaYXS7w4yakPPxnQ_7QtTtIe8omTGggCfPO12wzglXkmaSH8EnKqBPR_rj9L2_DqxogXF-lhFdQwCCvTPKpQ2A5DTgtWMrl3o2P7BQqvz-0Pw71MDOZLcgAPmCiyQre8JvvZ8ggEc4RtmXgg==)
+[11] [molit.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEurCqL6Vu0mWZkrPO8KGpKo2MGYwp7713TXf1HY7v8Auj_-5B7fUNCE7kvnGVrKdPKLKusOLXo7bPE84q_thW4lzyxPZC5p0xRhS3y9GUizjsrejoQVcQwIpaChNfJdy0UsotekeZgye8ep-TBuA==)
+[12] [humetro.busan.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfm2gimbQUTvVnEeldBdbExSWkM1RF0RAEfzNS1Zuz2hHijWR40TEXknEvNiaGJgAlLpRQB9LloIW_FZZ1_xHjxPDnGCHdG5_ER4bbvZZnn1PmMNLzGGjYxeh4hb0MjEpmSn6-8KsJ-CxgIUyFQvKk-wXLDp6raEYwCuC6RyB3lqMhO1uH2Pt9)
+[13] [kongju.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa9gYR3hhsSJyorbNkTcKOkfTjfr-6npf8trT9iVgYly-jbFJcgktrIBIKWBDcXNOzh_tuY6F-drLtYKInsY2eNHPjVNnRsaKBd0j1B6P2WI7_PyR90c3LgPWHU_m6ynrP0X7mXEO56tGI6X65Vj8=)
+[14] [hscity.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3G4gUXgJ2pbVugNKFI6_8jk3wdwd9Tejr0zypXHKSsQNY4exEd9_gZqZYMFDjcjK5U0kuA5qSEhcQJi8X5ow0nnSiHvzdgw31HUvCKOpPpUcUdAzQI0vqKpm8LqtDY09hizNLM4mbu8Bm61kIVbCNrlfashNReEF5LC8hrLyRvV5R26mMdfaZPt3UBCZWvFstCjf9lHQP25yz2J1qlPpGUJTN9D84drbfRf_h4Rw=)

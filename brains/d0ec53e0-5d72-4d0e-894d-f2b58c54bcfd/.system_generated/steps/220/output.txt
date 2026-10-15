@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst fs = require('fs');\nconst path = require('path');\nconst dir = 'C:/Users/lg/Desktop/Today';\nconst f
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst fs = require('fs');\nconst path = require('path');\nconst dir = 'C:/Users/lg/Desktop/Today';\nconst f
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+run_command "node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await 
+

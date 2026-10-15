@@ -1,0 +1,3 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\add_studio_bio_data\\brain_logs\\README_대화기록.md"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\add_studio_bio_data\\brain_logs\\transcript_full.jsonl"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\add_studio_bio_data\\brain_logs\\transcript.jsonl"}

@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                  
+--------                                  
+C:\Users\lg\fix\fix_clipboard_admin.ps1   
+C:\Users\lg\fix\node_modules\.bin\mime.ps1
+
+
+

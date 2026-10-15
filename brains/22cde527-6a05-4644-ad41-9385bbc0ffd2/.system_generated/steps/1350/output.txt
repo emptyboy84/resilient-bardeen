@@ -1,0 +1,44 @@
+
+The command exited with code 0.
+Output:
+
+--- Row 126: [블루호텔레코딩스튜디오] | Phone: 010-3568-1004 | CEO: 김현 | Addr: 부산 금정구 장전1동 383-9 지하(다른 정보 안나옴) ---
+Naver by Phone [010-3568-1004] found: []
+Naver by Name+Addr [블루호텔레코딩스튜디오 금정구] found: [ '142-85-13728', '338-03-01981', '220-08-31802', '220-88-33122' ]
+
+--- Row 504: [89Light] | Phone: 0507-1314-6280 | CEO:  | Addr: 부산 동래구 충렬대로100번나길 6 ---
+Naver by Phone [0507-1314-6280] found: []
+Naver by Name+Addr [89Light 동래구] found: [ '805-06-01478', '621-10-87254', '607-20-42298' ]
+
+--- Row 537: [꿈해몽] | Phone: 051-337-6320 | CEO:  | Addr: 부산 사상구 주감로 187 ---
+Naver by Phone [051-337-6320] found: []
+Naver by Name+Addr [꿈해몽 사상구] found: [ '595-94-01807' ]
+
+--- Row 539: [나래바람] | Phone: 051-612-2133 | CEO:  | Addr: 부산광역시 남구 분포로 111, 105동 2002호 (용호동, LG메트로시티) ---
+Naver by Phone [051-612-2133] found: []
+Naver by Name+Addr [나래바람 남구] found: [ '121-81-94920' ]
+
+--- Row 568: [단디콤] | Phone: 051-313-3449 | CEO:  | Addr: 부산 동래구 중앙대로1381번길 11 ---
+Naver by Phone [051-313-3449] found: []
+Naver by Name+Addr [단디콤 동래구] found: []
+
+--- Row 593: [도서출판일광] | Phone: 051-723-0037 | CEO:  | Addr: 부산 기장군 기장읍 차성로344번길 13 ---
+Naver by Phone [051-723-0037] found: []
+Naver by Name+Addr [도서출판일광 기장군] found: []
+
+--- Row 598: [도성회] | Phone: 051-512-3171 | CEO:  | Addr: 부산 북구 금곡대로 287 (화명동) ---
+Naver by Phone [051-512-3171] found: []
+Naver by Name+Addr [도성회 북구] found: []
+
+--- Row 611: [동화사] | Phone: 051-464-0761 | CEO:  | Addr: 부산 동구 중앙대로226번길 7-6 (초량동) ---
+Naver by Phone [051-464-0761] found: []
+Naver by Name+Addr [동화사 동구] found: []
+
+--- Row 619: [드림유엔터테인먼트] | Phone: 0507-1332-9831 | CEO:  | Addr: 부산 부산진구 서면로68번길 45 3층 (부전동) ---
+Naver by Phone [0507-1332-9831] found: []
+Naver by Name+Addr [드림유엔터테인먼트 부산진구] found: []
+
+--- Row 645: [디지털포토2017] | Phone: 0507-1430-1388 | CEO:  | Addr: 부산 기장군 일광읍 삼성2길 6 ---
+Naver by Phone [0507-1430-1388] found: []
+Naver by Name+Addr [디지털포토2017 기장군] found: []
+

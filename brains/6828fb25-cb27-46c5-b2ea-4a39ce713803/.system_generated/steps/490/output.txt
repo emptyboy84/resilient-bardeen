@@ -1,0 +1,17 @@
+The search for "클레빌 2020-서울강동-0016" returned the following summary:
+문의하신 '2020-서울강동-0016'이라는 번호는 기업명인 '클레빌(CLABIL)'과 함께 검색되지만, 해당 번호가 구체적으로 어떤 의미(예: 사업자등록번호, 통신판매신고번호, 특허 번호 등)를 갖는지에 대한 공적인 기록은 확인되지 않습니다.
+
+참고로, 클레빌(CLABIL)은 자율주행 로봇 플랫폼 기업으로, 주요 기업 정보는 다음과 같습니다:
+
+*   **기업명:** (주)클레빌[1]
+*   **사업 분야:** 자율주행 로봇 솔루션(하드웨어, 소프트웨어, 클라우드 플랫폼)[1][2]
+*   **소재지:** 서울특별시 송파구 법원로11길 11, B동 511호 (문정현대지식산업센터)[3][4]
+*   **사업자등록번호:** 367-81-02254[3]
+
+검색 결과에서 확인되는 '2020-서울강동-0016'은 일반적인 사업자등록번호 체계와는 다르며, 특정 행정 문서나 신고 번호일 가능성이 있으나 해당 정보에 대한 공개된 상세 내용은 찾기 어렵습니다. 만약 해당 번호가 특정 공문이나 계약서상의 번호라면, 해당 기관이나 관련 서류를 직접 확인하시는 것이 가장 정확합니다.
+
+Sources:
+[1] [oimarket.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeB-i6EUR_UC8_jpUaa_2DPV9efVhPCvgNCgWP1OJJ1qG0jIrp8vW7LvPSazKSJWfw9-VuchQpBCcckClfQhPEA_vwDeg4KPeiiX4DdPEtFHapLk5NegjDwPQCMJ97BaI0Ww==)
+[2] [kidd.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZWaLAmmR_2dRDfnKS-kIywAnQ0sLrn-mNmC3icnpxXnzvSmoWYbT3RGHG0U-643hlHWEta2M6pSlJWQ9THi2c0vZFzipiHhunA4AJeTW6U9M_vvU=)
+[3] [clabil.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIYvwIztLgCiiHPZ2NBdyHaw-DIBfkv1pSH9DrpJIaLYjtbWWPBYbtErtDmCH5ozf63gQHKAcfKLZyK1HWBsoljIzzsHYN3wh)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnaB2txxnL1m4aCPDJ4UAcCG3K3AnS-MvI55iTJgjvEe_bVs6DbJignItX22MNv6PLb8cm2-yZFHXfZz1oPkbdCG1_7FmHWMyPw5VzmX5KBJUxPGVxz6kbBsMnE4tazqDZfmxLXA3l9A6cQ3CWiCWBz_LQx5FeCWxkHHEdn5b3CGkWqUUd__UpJ1W48pWn2Hic0INPv2nt4SoDwE2sdNft7SNUWfqgnJJgMyfKYzdMNP03LPRWMMOHhUAbuhw2Ywhxxio=)

@@ -1,0 +1,9 @@
+The search for "화성동탄 1749 초록누리" returned the following summary:
+'초록누리'는 환경부와 한국환경산업기술원에서 운영하는 **생활화학제품 및 살생물제 안전 정보 제공 시스템**의 명칭입니다[1][2].
+
+질문하신 '화성동탄 1749'라는 정보는 '초록누리' 시스템의 공식 명칭이나 서비스와는 직접적인 관련이 없는 것으로 보입니다. 혹시 특정 제품의 번호(신고번호 등)를 찾으시는 것이라면, [초록누리 공식 홈페이지](https://ecolife.mcee.go.kr)에서 해당 번호를 직접 검색하시거나 제품명으로 조회해 보시는 것을 권장합니다[1][3].
+
+Sources:
+[1] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaD2Ttkbd5bkO4vAprn9_DP_i_HcJRBD2en0QqzSZhPjOU80I6KeWqt4NOJyCH2CeBIpQpVoQzsehwe8tv5Q000IFS6OW4YyjtGHc14WF8VsU=)
+[2] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaD2Ttkbd5bkO4vAprn9_DP_i_HcJRBD2en0QqzSZhPjOU80I6KeWqt4NOJyCH2CeBIpQpVoQzsehwe8tv5Q000IFS6OW4YyjtGHc14WF8VsU=)
+[3] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaD2Ttkbd5bkO4vAprn9_DP_i_HcJRBD2en0QqzSZhPjOU80I6KeWqt4NOJyCH2CeBIpQpVoQzsehwe8tv5Q000IFS6OW4YyjtGHc14WF8VsU=)

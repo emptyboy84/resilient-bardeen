@@ -1,0 +1,28 @@
+The search for ""한국족보도서관" OR "족보만드는곳" "부산" 대표자 OR "대표"" returned the following summary:
+부산 지역에서 '한국족보도서관'이라는 명칭으로 확인되는 곳들은 다음과 같습니다. 다만, 이들은 기업형 족보 제작 업체라기보다 자료실이나 도서관 관련 명칭으로 등록된 경우가 많으며, 대표자 정보는 공개된 출처에서 확인되지 않습니다.
+
+### 부산 지역 관련 명칭 확인
+*   **한국족보도서관 (부산 중구 남포동4가 19)**
+    *   해당 주소지는 족보 관련 업체(족보관 등)와 연관되어 언급되기도 합니다[1][2][3].
+*   **동방족보도서관 (부산 중구 중앙동4가 76-2)**[1]
+
+### 족보 제작 관련 안내
+족보 제작(편찬, 수단 접수, 인터넷 족보 제작 등)을 전문으로 하는 곳을 찾으신다면, 일반적인 도서관보다는 **'족보 전문 제작 업체'**에 직접 문의하시는 것이 정확합니다.
+
+*   **전문 업체 특징**: 족보 제작 업체들은 주로 종친회와 계약하여 수단(족보에 올릴 내용을 올리는 것) 대행, 편집, 인쇄, 전자족보 구축 등의 서비스를 제공합니다[4][5][6][7][8].
+*   **확인 방법**:
+    *   **공식 홈페이지 검색**: '족보 제작', '족보 편찬' 등의 키워드로 검색하면 전국 단위로 서비스를 제공하는 전문 업체들의 연락처와 대표자 정보를 확인할 수 있습니다[4][5][8][9].
+    *   **종친회 문의**: 이미 족보를 발간한 경험이 있는 문중이나 종친회에 문의하면 신뢰할 수 있는 제작 업체를 추천받을 수 있습니다[6].
+
+**참고:** 위에서 언급된 '한국족보도서관' 등은 전화번호가 등록되어 있으나[2], 사업자 정보(대표자 성명 등)는 일반 공개 데이터에서 확인되지 않는 경우가 많습니다. 구체적인 제작 상담이나 견적이 필요하시다면 해당 번호로 직접 문의하시거나, 족보 제작 전문 업체를 별도로 검색하여 상담받으시길 권장합니다.
+
+Sources:
+[1] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENhk_n-wupygpfSxdQPhnShfBaBFCshgujIjuByRoDAcrzhdM93Zy08SSmJ4lz_DlviCZa_uiG2k7Ou9twim8UJRqji7LH72rAl9J7nWW0LYUrw6A0sQ==)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvH1tCO2fFCcw6Nr6gfANXRUgmgju2FERPYwdkPonooJE9M9dkFA46ZKXzZQSfg5ugwShR5m665sf0pfrRtufQbTGf52KRK80M4cseUwELxlf23no-ciR488AedW5OwDGCOZv8-e0ThkDIi1uhJF7sd3wlntUnoNc5vioWIWyQBGu0QNMviDoQKfViz8D3859LmaS1UF1GoJJpybTQ0c2dGyB5OvCT-Hu27snlWZbBqm5a54TiOQlV0AjczvBK9Q==)
+[3] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfrheCu2h1PQSbZCjFA8fMWxxTU6u5jG8mj3-FAc9BtCZhh-yxzw5BY5R-cfN_ekhIfNBrJ-nWl147poXneWmtV4mJIjy4EKAxnAub0cScDtfHez6PjDtNSSYS5kZEy5ArfH63CiJ_mWv2ogz75-BMVJHws-FlOuARdwUCOPwjVs9RFSUJ1Y2eu3P8encsXzGr5i_m6QmknjiZwG34T3Y57VAw-Bx7pD11ImLQwcUFFvdEV0mV825MH3volrAT0rChC4nX5G6uSMA6HO7r)
+[4] [hanaljokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8h019jTYrOUXLtfOrrR8q5YkyijixBMaz-dYXxikEPYyOSL_ayOvPZH0LWgobnzWxz-Q7mUgeraAsGeZjSBRK7c8aK6zW-YRJueSE_-eS0oCmnbqGNix0TERm4oKogJFs6FKE)
+[5] [yesjokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKoNjSs3VDP0pR8Aoh9JL_QWLEnOsdB-jg3_jEWRR3osNdyHvIaWQlCcDDU9bRUq8zmpK0cKVLl-_s6QUjsC1dp_SjlWLxQ5iUeNYacrL_FXWBRxXNZ-Y5l2KvYbQRwUr8zNaSErjrKw==)
+[6] [munhwaryu.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEicVbu2dDTfBXdd7eBgMUqbLFl45sYKC4pZFtw1NdNLzNwzX89OSzZ0b3CpqwnT7OM8P3L3wFitI5eWUHmHetmfvr6DnuzeqQYc6KMw870fYatejsWYUOO7dDE5HJ1XiWR-hwOCecVDwm-h3LMggaGxfSoBDm5VlVXgBfFXdz6H4wDrZEX)
+[7] [alljokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdhXd71MHVN-0R5mOPnjsFa64j6oy8aO-bEu5iwbggs1rjhjXVrvaJPVsIyyzSTFumXLTTCwN2Hz7WCpKxLJBbp4I-HP_0OaQQ98AEbS3TVJApEsitfTei-P_0zZW-aOatmOOpb8dNyy9mhvRN4wVlaIrxiHSxdA==)
+[8] [xn--ok0b03zhngu4bdtb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhZTs2uChScmZk-5XQmaL16EHRkZUXSCNqXYNPtFVrigkSNUis_P7C2llp50QIssgWkpqMQCxsOOYE3UbBVYY-RYSj-4OoYT2982DRwS6iSPbe9AeFtY6RnZcsk2uu5UGIcyGVi66I)
+[9] [ijokbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrjE8SRcKasJ88979s1Ytc-zIvc_YU3aALRsTOZ6XOwRAi-1Rd97qaS20vONO31275F3nIRodiNPoCVTxBfL9IcujhcCMWuhAGu2ufZ3A=)

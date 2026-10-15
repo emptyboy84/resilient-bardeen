@@ -1,0 +1,29 @@
+The search for ""금강기업" "최재식" "거제" OR "거제대로"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+**1. '금강기업'과 거제**
+*   과거 **금강기업(주)**은 거제시에서 추진한 '거제동서간연결도로(계룡산터널)' 건설 공사의 시공사로 선정된 바 있습니다(2016년 당시 보도 기준)[1].
+*   이 외에도 거제 지역에서 여러 건설 관련 공사나 사업자 정보가 검색되나, 현재 거제에 본사를 둔 동일 명칭의 대형 기업에 대한 특정 정보는 명확하지 않습니다[2][3][4][5].
+
+**2. '최재식'**
+*   과거 경상남도교육청 소속 교장 인사 명단에 '최재식'이라는 인명이 등장한 바 있습니다[6][7].
+*   또한, 과거 거제 지역 체육 행사 관련 보도에서 '외팔 파이터 최재식' 선수가 언급된 적이 있습니다[8].
+*   다만, 검색된 '최재식' 대표자가 포함된 기업 정보는 주로 '금강기업'이라는 사명을 가진 다른 지역(광주 등)의 업체나 일반적인 기업 신용 분석 보고서에 기재된 이름으로, 거제 지역의 특정 사업과 직접적으로 연관된 정보는 확인되지 않습니다[9][10][11][12][13].
+
+**3. 종합**
+'금강기업'이라는 명칭을 가진 기업은 전국적으로 다수 존재하며, 거제 지역의 공공 사업에 참여한 이력은 있으나, 특정 인물인 '최재식'과 '거제대로'를 직접적으로 결합하는 구체적인 정보는 검색 결과에서 찾을 수 없습니다. 혹시 찾으시는 정보가 특정 기업의 위치나 인물에 대한 구체적인 내용이라면, 추가적인 상세 정보(예: 업종, 관련 사건 등)를 알려주시면 더 정확한 확인이 가능합니다.
+
+Sources:
+[1] [gjnewsplaza.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyY8w7GGeCiTEkYCRxWz0GfLDP94yaa798tP3sAayUCPJmVNCJuNLTkHgBDsBeN3Gr272IiUt2AVWBEbbl_WhN1UPjHdv4wmxtSJ-bB1glcDmzF5KTUzaPIBbLV4-D51_R4sfi_C-JO4LjWOq3gFOqgPg=)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Ob4ih0CtLH3y_naTr31ZDamKgxtKFrrfgRCwyYwVERrGw9Tb4GjDoSdtGsKxCsiYfl2dAt1ywqWV5Y1l4qCHxYWgvRoAqqPGefns8-50hOaj3QiLIg0MwCu7QA5CYN6nVw==)
+[3] [indeed.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ2limmkdHqurqfLareo_B9f9ExMmHAnpaSZtjKZ4EDGsq_vLZUxQ1z36WXVBzDc0Y5ta-8gc36ncBmfpOKKn8o3bD4fW4UnDDot6njn7hAYCoeW3LVK1vCqBOEzSH8BYXIzETke4nKyb8XibqSj1HJXrZ4qp8PM5CIk1TovikNs6xv-m_HTuYK4gHFIaA_7jS8EFKvUw7XKZGWg5wa6wW9VT0u4muOW81OKDuinMeV5OkQIXLxk_3q7A=)
+[4] [cha.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjvfSB90m13Tw_kcxaJzO1qvMXcbvPNPyroH2sLv4hadDury2ASnwPHBy0PzMbUZx14lW8B3PzrpWl1L83HkySNQYiY50_Z784InkU1WKYYrGQNxowZ76p9IEg8Wouq42fVGKhHu7oIhdTeUIQj6X2jP8aMSQ9CuEBFiBennhWS5-YJf2qY2zCYYot)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ14nysBxMHSaXXawdf_f1GXd8NxzCLuQ9bzt8JrC89VFrpoc0xWOYyU6uTNaq3GWSkxmZXAwCEs7dRAqkOsaWQPpetUyMhSQsRPoVsPvTtVdJmo2MMsPFIKeprXt_y9t8sZ5QpH7QnJdGacoEos1WKwuSDHjZmhQP6lRpneJV8yp_kP1SpwpoqRG1twrUOGOD)
+[6] [knnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEEoreQiv9l91obB2fIRSqRhkJ6-B21nlHaENL8fSi2Q_LDpvlyMjRufTtGNer0fHnBT_UIU1hL0DqvhNpkxtd_w0PTYSBqBqeRyMARm-LD8Apf0fSKLtd54TkUxrPjqyK4xboZmNNip528dNZxteB)
+[7] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzCE4ONErpIyjnPVbVKzhvja1PaCA2xtKC5Lk0C9LyufXtrKpflCYO24mBmTDaURsATHa35t5BI90BZTFt5gENhlam4cVUSnEPp6WwxL-DR3FP3hdNO8jCD84e7gzz4Jy8X7DJqWPGuCR8lxoWZ96bvIdzGEpFh58KnfohEQ==)
+[8] [geojenews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr6O10nuRuVppDUwOi9cSQCchdt7kahxKx-kSFEjIrick7YB7KNZZQnbS87VG9VjTjHPbDKzAAdvyjCT2hPbTgPDcDryC12HyvpSLCVBBgHF2PyyX7wAIZ21yBT_h5uf2t7pPMBfyzEjDQ28oYBKVSdDk=)
+[9] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8h5PEYbd_mwyf9r1WhRa9JIFGhO0COufg3WrijAGFBQCnSaSfhjrVty6Mw0XoNWJ9kQ_tb0f-mROgntGIfTGrNpsrzihhQZDoDEuu4bUYam8VwYqRvPjS-5G9vMYdh9Pcs_vYYA==)
+[10] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVLnjhMrv56iidlmYc1U25ZO1EaT5U2jBN3WSLMR8KeewWGaBlXmrTKp61GR8QfbPalNCL6MHBJH8XoQi8WIhDQHnFOYOASprADlwucLe80t332kS0YBOnYF4uGz361ADV0QdwoA==)
+[11] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGywVGPw846p5QeBj8gCk_Qev1AF9K7mOQfSqEUCs6lYqg5lvZmgQevmjx1JPXB0_iprLgyukvOXsHve2p6IxZ0cAPDZTBydYn73KPmYoRrSrNqdqejPbUc7ZzjVuw9rpSSgWNY9w==)
+[12] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1XEnEGSMlhJveC_25F6LK5AGGQ5p2QWROO6T3BLrg8Pf4BBqWXoG4gssXrrOwukMXsrdK1Y-PFTUxBkoTuO82xw9m17kiz_RpfN1ra0RTQzZt7INiKvbYFBs3a9-K8xcTcWG2Hg==)
+[13] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj3zJOpcla7BQtcPWGsecLIXOcfqupqynsJLrvdhlq0mxIRL_3GZ0xlbeHXF8TnNT99-9jtTNPl0dpzL4H4gn-WMnbLXJzgdZrpD3BO4Ym7835r7-TRH15AxACa7cC9J3VV4amUA==)

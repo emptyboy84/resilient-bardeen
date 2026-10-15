@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Clean: 1101118696358
+Sum: 62 Rem: 2 Calculated check digit: 8 Actual: 8
+Valid: true
+

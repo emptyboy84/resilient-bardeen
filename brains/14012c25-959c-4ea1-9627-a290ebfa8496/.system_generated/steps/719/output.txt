@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2S8bWJKijvIXV3Da2ngYREeopGR2xLMBhySkJJDesSSOoJ1hNqRkiJa7rZyabhK1HK1TgrUVxguSpKquICns5kRtakgqt1YIWHT7IlZXjfvjzbN6gA9kzIgclP4R0rpfT');
+```
+### Page
+- Page URL: https://www.incruit.com/companies/1473023566
+- Page Title: 2026년 메이브릿지 채용 기업정보 | 인크루트
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-18-10-097Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-17-56-333Z.log#L1-L4

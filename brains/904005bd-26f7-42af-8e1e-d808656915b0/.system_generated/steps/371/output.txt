@@ -1,0 +1,21 @@
+The search for ""위플라이엔터테인먼트" "60" OR "603-" OR "602-"" returned the following summary:
+위플라이엔터테인먼트(WEFLY ENTERTAINMENT CO., LTD)와 관련하여 요청하신 "60", "603-", "602-" 번호들은 주로 **외국인 투자기업 목록이나 기업 정보 데이터 내에서 주소(건물 번호, 호수) 또는 기타 식별 번호와 함께 언급**되고 있습니다.
+
+구체적인 확인 내용은 다음과 같습니다:
+
+*   **기업 정보:** (주)위플라이엔터테인먼트는 과거 게임 개발 및 소프트웨어 개발업을 영위했던 기업으로, 주소지는 **부산광역시 영도구 절영로 71 (부산멀티미디어지원센타)**로 등록되어 있습니다[1][2][3].
+*   **검색어와의 관련성:**
+    *   **"60":** 일부 웹 문서에서 "60"은 기업의 주소(예: 서울특별시 마포구 서강로 **60**, 부산광역시 해운대구 센텀중앙로 **60**) 또는 게임 콘텐츠 내 수치(예: 이동수단 **60**% 속도 향상) 등으로 나타납니다[4][1][2].
+    *   **"603-" 및 "602-":** 이 번호들은 주로 다른 기업들의 상세 주소(예: **603호**, **602호**)나 전화번호 앞자리 등으로, 위플라이엔터테인먼트와 직접적인 사업자 번호나 고유 식별 번호로 연결되는 정보는 확인되지 않습니다[5][6][7][8].
+
+결론적으로, 위플라이엔터테인먼트라는 기업명과 함께 검색되는 60, 603-, 602- 등의 숫자는 해당 기업의 고유 번호라기보다 데이터베이스 내에서 주변에 나열된 다른 기업의 주소지 정보나 문서 내의 일반적인 숫자 데이터인 것으로 판단됩니다[2][6][8].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZDNXKXkigAIwPoTqb1AHRUyHIIO07GMg2xACQqPvbWGbiW4_D07DwLK63OdJIjN1dOLuWx95kvV1DtA5kwkK5i12_MGLxZVe5JhjIq7_QHw8zwg==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9OdhxAGIWIU48Nl95wu5XDALxk1DuIZcg99I4pXoPmTf_f-vstcDu8Ptrt78vN_kc1itSNErXbY2PIgl4BH-UD1w_OP1M3bbjn7P_q3mn1F4T3Bw37O3dfh5XDQ==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHewwKjDMWh3GAmP1ydhL3un3WGusiwE9wybIRUCmIIBIU2pZTcOTRdeaqB1FwtZweIR_fr6IqRKkNr1AbALYRFzOIHWoho43wVzNf8Cokivg5vkoJWfq-X5XOG9PCNq_MsJIOaBmSXeC4ziM5-fMiuRo2sW6CdKliYgkdTaNM_2WPCZtTDwJzLephv2j10Vh1odsVQZAPhw_UP6pRh-Q8m-hAM5absQZwFdgA1VxKVECqfaWYy-IEyF3xuz0CThMdiAlLmOdFmtqSVS2BKxx236U9BoelaqRF2P1lKfHMyXj7XAUm9BJnlNkXeowvzU03mQk0cOS03TGphKa5ZLvmNdIzB7ENSmr6bbuLQBg==)
+[4] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCuXtzkgGIfj10s6JQktbXUNMPPzhDEHubt7cgX7NRAn_MPATgO9dSs6dv_ogQzgYmN-yAN22zeDQ4bz1UQy4FTurjXu_vmFuYv1sBKP84Jh5GPHYEYiGuP59ACGlxaK4iQYARTVI=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9OdhxAGIWIU48Nl95wu5XDALxk1DuIZcg99I4pXoPmTf_f-vstcDu8Ptrt78vN_kc1itSNErXbY2PIgl4BH-UD1w_OP1M3bbjn7P_q3mn1F4T3Bw37O3dfh5XDQ==)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHewwKjDMWh3GAmP1ydhL3un3WGusiwE9wybIRUCmIIBIU2pZTcOTRdeaqB1FwtZweIR_fr6IqRKkNr1AbALYRFzOIHWoho43wVzNf8Cokivg5vkoJWfq-X5XOG9PCNq_MsJIOaBmSXeC4ziM5-fMiuRo2sW6CdKliYgkdTaNM_2WPCZtTDwJzLephv2j10Vh1odsVQZAPhw_UP6pRh-Q8m-hAM5absQZwFdgA1VxKVECqfaWYy-IEyF3xuz0CThMdiAlLmOdFmtqSVS2BKxx236U9BoelaqRF2P1lKfHMyXj7XAUm9BJnlNkXeowvzU03mQk0cOS03TGphKa5ZLvmNdIzB7ENSmr6bbuLQBg==)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZDNXKXkigAIwPoTqb1AHRUyHIIO07GMg2xACQqPvbWGbiW4_D07DwLK63OdJIjN1dOLuWx95kvV1DtA5kwkK5i12_MGLxZVe5JhjIq7_QHw8zwg==)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeez5WA5NjUkQ1-J79agl0NRSoo7hz8j3U7NsiZRA0L7jOSkhlBG-errNGud9OEE_xMUD1dj0jWN3qR6YENSJwRLPYHqQ5TciB7ERN7aoxNbAAFK8=)

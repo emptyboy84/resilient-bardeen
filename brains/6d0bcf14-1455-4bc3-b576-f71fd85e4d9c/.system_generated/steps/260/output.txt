@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Reading intermediate merged data...
+Applied 16 verified phone numbers from Batch 1!
+Current State: Total Filled = 1744, Total Empty = 2234
+Loading template to preserve exact cell styles and formatting...
+Writing new Excel file to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_261012_전략팀 전달_배현명_전화번호통합검증_261015.xlsx
+New Excel file saved successfully!
+Writing TSV export to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_busan_phone_numbers\data\phone_numbers_merged_261015.tsv
+TSV export saved successfully!
+

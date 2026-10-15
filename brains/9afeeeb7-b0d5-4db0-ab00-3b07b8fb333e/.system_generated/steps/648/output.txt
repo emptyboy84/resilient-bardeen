@@ -1,0 +1,6 @@
+Encountered error in step execution: ### Error
+TimeoutError: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByText('위에 보이는 문자를 입력해 주세요').first() to be visible[22m
+[2m    - waiting for "https://bizno.net/%!E(MISSING)C%!A(MISSING)0%ED%94%!E(MISSING)B%!B(MISSING)2%ED%B8%!E(MISSING)C%!A(MISSING)1%!B(MISSING)0%!E(MISSING)D%!A(MISSING)%!C(MISSING)/" navigation to finish...[22m
+[2m    - navigated to "https://bizno.net/%!E(MISSING)C%!A(MISSING)0%ED%94%!E(MISSING)B%!B(MISSING)2%ED%B8%!E(MISSING)C%!A(MISSING)1%!B(MISSING)0%!E(MISSING)D%!A(MISSING)%!C(MISSING)/"[22m

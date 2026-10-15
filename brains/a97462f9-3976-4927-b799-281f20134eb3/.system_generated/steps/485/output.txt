@@ -1,0 +1,28 @@
+The search for ""현대ICT" "201-86-31565" 매출액 OR 사람인 OR 잡코리아" returned the following summary:
+검색하신 **현대ICT(현대아이씨티 주식회사)**에 대한 정보는 다음과 같습니다.
+
+### 기업 개요
+*   **주요 사업:** 응용 소프트웨어 개발 및 공급업[1]
+*   **대표 서비스:** 명함 기반 CRM(고객관계관리) 솔루션인 **'나비서'**를 개발 및 운영하고 있습니다[2][3]. 이 앱은 기업 데이터베이스와 연동하여 잠재 거래처 정보, 신용도, 업종, 매출 규모 등을 제공하는 B2B 영업 지원 도구입니다[4][5].
+*   **위치:** 서울특별시 중구 퇴계로 272 (장충동2가, 아도라타워) 5층[1][6]
+
+### 매출액 및 채용 정보 관련 참고사항
+*   **매출액:** 일반적인 기업 정보 사이트에서 상세한 최신 재무제표나 정확한 매출액 수치를 직접적으로 공개하지 않는 경우가 많습니다. 다만, 언론 보도(2021년 기준)에 따르면 '나비서' 서비스 출시 후 매출 성장세를 보인 사례가 언급된 바 있습니다[2]. 
+*   **사람인/잡코리아:** 현대ICT는 사람인 등 채용 플랫폼을 통해 앱 개발자 및 CS/고객관리 등 분야에서 채용 공고를 진행한 이력이 있습니다[6][7].
+
+### 주의사항 (동명 기업 확인)
+*   검색 결과 중 현대제철의 자회사로 언급되는 **'현대ICT'**는 위에서 설명한 소프트웨어 기업 '현대아이씨티(나비서 운영사)'와는 다른 기업입니다[8][9]. 현대제철 자회사 현대ICT는 자동차 산업 관련 업무를 수행하는 곳으로, 혼동하지 않도록 주의가 필요합니다[10][9]. 
+
+제시해주신 사업자번호(**201-86-31565**)를 포함하여 정확한 기업 정보를 확인하고자 하실 경우, 공정거래위원회의 '공정in' 또는 국세청 홈택스 등에서 해당 사업자번호로 직접 조회하시면 가장 정확한 기업 상태와 정보를 얻으실 수 있습니다.
+
+Sources:
+[1] [naviseo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21dd9SdTMhWHzXMBGSPRiDjbkagqu70F_o4ogUwyAm5LHil8p8GuaS4Sl8qYbh--2fphDhuHgm05y2oq4dE74w5e9NqhLi2NIXjmcnmDU6kOMDkkm)
+[2] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6u5HhmmJLo_Kc8zt0mk4ObNru7ThCrP_I3A3IorhmDtjBQi-mk2iEaiToV03uyt6E0eFJuLriX4nnyOOE_SekgFtLmSynCRSsY09CtkjeNWSMYpbD79B1er4B76rY8ni74hohw0RrmReU-AbG0ls3-D_5BFCZ)
+[3] [hitech.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUJkyHsjGdu34H9PJMYcou7j64kaxpyUsLOr5BO0Ao99ruEkUg9IuGMiRfzHjB8aH5vRb9UGIaGbOJ4KGnNM1uvq22-gTTNbsMm82gKYcqCo1kJ-_aj71yFIZSXqarq4UZNYsd9QEJilPbJMgpQ==)
+[4] [nspna.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7cTT4qBmtsj9FNmr6PRQUlJh9duWTgLlnxxcHvCmRCmbtdeGpjyzzfI8zXrVuhPtJiDQX3DyfkCpYv5UM3QcEqWmSjXiqOZJIW5C_O5rqafJFZJ1wxkRDIjNMSz-0a2-jU12BoFfIL4s=)
+[5] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVZu3yrkP00i3khLn2MecYXQ1sRNj1mlbWj09MRVxNAwz8OvzxhbPnucSc_ngcfSPrHamttFrqhSKVMkaVDxcGkcYxkmirz3ey5qzMqg9mow_mHiBAbi1ztHji6MVj0Zmy1WnBWHS7ZQaHx_3Be9MpywZYHD11yiqTp5zGr4s30btARyloGn4BUAd9OHMtqq60r_Zjil94maJtnrR0q8ACBiqp9wobBguhDsqD7lFXZJRCiR7BhHg1L_IZbQ7FKqc8E0=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCOG2Ehe90b3ysa-zQIgO_reJ2jxo__XuftMJjRDVfkfVGYcx5sIYf7tf0uyVKNcRjLT4RBE-bnsLjT4bz97r4t0l-htVPFN2St-1y5ZAH7dt7qHotFwERH7VGBInFtb-iIF_6aYs8UvLHtPDNRXLfy5E=)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQ3TE079JrQUxxMbk6b4vMPRdEF2CcqLHmViDJmXoprz7Ot0eL0rlBq_58VfrgaITYztNa8QubSBXWhJbHWHhpRbFxDAHsvmL_OmFIyRj0paBH2_gxRefg7qfVB4J2Wqj9dLT8OKu-vXV0g1qo-rRIT8=)
+[8] [ngetnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-_mPXCj1fUla5Gaae89tbEObOCaCfL3LtVTjc8rHEQXCXHo2bi3z7z69frzGoQquKAFae8KGrAv40iQv73YP83cRHYRhfCXULRC2q-DTiu5nZoq-r506hXA_6XxuwEuL9CHg1RZo3QVPHBHqNVYVVtg==)
+[9] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGOJ5PEM8ftHENfpjf8c_0l8_UgyuWSoEoAp4kceB8N6WeluyuaNfFdG5WY030JbESRUVGaEL6faBiOt1QY_4Jy6GNSchxkCfblEW-qEFhKvUqzAtHY-4zTpSVk1LmS1xvwFEQVWb3eR-6z98ZQyW4oJvR1e-l94dGVbJ3nCTiaA==)
+[10] [4th.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnhhGaEte8cLLS8LYo-FKP2tkzBQXurmJZmgbjjpCuOw2r-AjRZ9xlSyu2fWOgAhwPAFe4jQLTiZdTtfAu_F8OtX3kUTDfeipBkGWY11v6bkCn5ZsBdeQcyhsWPu_XhPiZZWfLdO6XcRhaUhc=)

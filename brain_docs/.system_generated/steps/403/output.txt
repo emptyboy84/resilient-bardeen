@@ -1,0 +1,10 @@
+The search for "site:saramin.co.kr "비에스일렉트릭" ("문의" OR "전화" OR "담당자" OR "051" OR "02" OR "031" OR "070")" returned the following summary:
+사람인(Saramin)에 등록된 **비에스일렉트릭(주)**(응용 소프트웨어 개발 및 공급업, 경기 과천시 소재)의 채용 공고 및 기업 정보 페이지 내용 중 문의 관련 정보는 다음과 같습니다[1][2]:
+
+* **채용 담당자**: 송지훈 (연구부서)[2]
+* **접수 방법**: 사람인 온라인 입사지원 (마감된 공고 포함)[1][2]
+* **문의처 특징**: 사람인 플랫폼 내에 등록된 공고 상 상세 전화번호나 별도의 외부 직통 유선 번호(02, 031, 051, 070 등)는 공개되어 있지 않으며, 주로 사람인 시스템을 통한 이력서 접수 및 온라인 문의 방식을 이용하도록 되어 있습니다[2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_vXYcPY8QvDxzEDZPv0kexAoYC3Qk6goYPshnONaNGbE6HnDyVqn16NNex2fpu60cmRi_3QLN8ArLF_eqY-aohVqs8CTt2PiCzOrp0m2AStg_NT8dzDsiLLuBT6GEq4-dtrxVa2k3UWr1bUke0yFG-0ocmSTSlyd3gCsxfb_Nz6Kg7pneKSPRAyGwFa-e9-xkk-dUVU=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWoQGW6o3GaLQ3G1lKZcgBrnZ6a-Z24rgt8phJq8OL_xofA1KTI1OZpDUoergLIDGufEX2bP1IQKCK0AxZDTZzZXNk5rTOvcjlepEli8bN2MVCzS2Ax1FONvnw-RdFD1C3oAppBInFqPtLrtRaHOFvJ5y4YZRr3TYryAxzr2sjVue9I8W9Vg==)

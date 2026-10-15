@@ -1,0 +1,19 @@
+The search for ""영풍문고" "센텀" "사업자등록번호" site:bizno.net OR site:saramin.co.kr" returned the following summary:
+영풍문고 센텀시티점은 별도의 개별 사업자등록번호를 가지고 있지 않으며, 법인 본사의 사업자등록번호를 사용합니다.
+
+**주식회사 영풍문고**의 사업자 정보는 다음과 같습니다[1][2].
+
+*   **사업자등록번호:** 773-86-01800[1][2]
+*   **대표자:** 김경환[1][2]
+*   **본사 소재지:** 서울특별시 강남구 강남대로 542 (논현동, 영풍빌딩)[1][2]
+
+센텀시티점의 매장 정보가 필요하신 경우 아래 정보를 참고하시기 바랍니다[1][3].
+
+*   **매장 위치:** 부산광역시 해운대구 센텀4로 15, 센텀시티몰 지하 2층[1][3]
+*   **대표 전화:** 051-745-1250[4][3]
+
+Sources:
+[1] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVm8PG4jBxKMhU7vSNcb4-R97k6KLGZtaF-kwM6KwTC1AyygTUx5e7SFJFWOkx8zANkceY1yTkY3qC_w1kGq8Zn9629l5CwD09JauwhIqbR5VzJd5CKNshVL38yw==)
+[2] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqqiT8P4nC7nE1v1I3iTkmzUC0NKYvTNoWariPpcqd7CRAs5QQcf3BjtucBqJuZ0eTgWwOf5772lBvyFZI_DnlwPXJF0sAiW_9Zt6uWA==)
+[3] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWzDKA8HvGDOVNQFi9GHeQ6IaL04lRU92TL7mtn8---DZsOoXwIdFVQoPRYXCcVz49a9zTvsc56dsmo2ud_8g5vXbCALTypSe1vadS0wLU8LD25i4QRT1KtkBdE_7Wc8KH_GwRN6IIwA==)
+[4] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWzDKA8HvGDOVNQFi9GHeQ6IaL04lRU92TL7mtn8---DZsOoXwIdFVQoPRYXCcVz49a9zTvsc56dsmo2ud_8g5vXbCALTypSe1vadS0wLU8LD25i4QRT1KtkBdE_7Wc8KH_GwRN6IIwA==)

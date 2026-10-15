@@ -1,0 +1,10 @@
+Matching 401 blue targets with Team DB...
+Indexed Team DB: 0 unique biz numbers, 20427 unique company names.
+
+Results against Blue Targets:
+- Total Targets: 401
+- Matched with Team DB: 0
+- Matched WITH SALES in Team DB: 0
+
+--- Sample 20 Matched with Sales ---
+Saved to scratch/team_db_matched_sales.json

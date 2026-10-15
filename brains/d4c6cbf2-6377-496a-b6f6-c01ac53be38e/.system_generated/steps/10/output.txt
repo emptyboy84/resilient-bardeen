@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+Manufacturer   Model       
+------------   -----       
+LG Electronics 15U50P-GR3DK
+
+
+

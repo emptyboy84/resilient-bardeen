@@ -1,0 +1,152 @@
+### Result
+Found 9 matches for "법인등기":
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e46]:
+                - list [ref=f1e49]:
+                  - listitem [ref=f1e150]:
+                    - list [ref=f1e153]:
+                      - listitem [ref=f1e158]:
+                        - list [ref=f1e161]:
+                          - listitem [ref=f1e162]:
+                            - link "부동산등기 신청 열람" [ref=f1e163] [cursor=pointer]:
+                              - /url: javascript:void(null);
+                          - listitem [ref=f1e164]:
+                            - link "법인등기 신청 열람" [ref=f1e165] [cursor=pointer]:
+                              - /url: javascript:void(null);
+                  - listitem [ref=f1e166]:
+                    - generic [ref=f1e167]: 열람·발급 확인
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e186]:
+                - list [ref=f1e189]:
+                  - listitem [ref=f1e224]:
+                    - generic [ref=f1e225]: 법인
+                    - list [ref=f1e227]:
+                      - listitem [ref=f1e228]:
+                        - link "법인등기 신청" [ref=f1e230] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                        - list [ref=f1e231]:
+                          - listitem [ref=f1e232]:
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e308]:
+                - list [ref=f1e311]:
+                  - listitem [ref=f1e312]:
+                    - list [ref=f1e315]:
+                      - listitem [ref=f1e316]:
+                        - link "부동산등기 신청수수료" [ref=f1e317] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e318]:
+                        - link "법인등기 신청수수료" [ref=f1e319] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e320]:
+                        - link "인감카드 발급수수료" [ref=f1e321] [cursor=pointer]:
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e308]:
+                - list [ref=f1e311]:
+                  - listitem [ref=f1e348]:
+                    - list [ref=f1e351]:
+                      - listitem [ref=f1e352]:
+                        - link "부동산등기 신청사건" [ref=f1e353] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e354]:
+                        - link "법인등기 신청사건" [ref=f1e355] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e356]:
+                        - link "동산·채권담보등기 신청사건" [ref=f1e357] [cursor=pointer]:
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e416]:
+                - list [ref=f1e419]:
+                  - listitem [ref=f1e420]:
+                    - list [ref=f1e423]:
+                      - listitem [ref=f1e426]:
+                        - link "부동산등기" [ref=f1e427] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e428]:
+                        - link "법인등기" [ref=f1e429] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e430]:
+                        - link "동산·채권담보등기" [ref=f1e431] [cursor=pointer]:
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic:
+      - banner:
+        - generic [ref=f1e42]:
+          - navigation [ref=f1e44]:
+            - list [ref=f1e45]:
+              - listitem [ref=f1e416]:
+                - list [ref=f1e419]:
+                  - listitem [ref=f1e436]:
+                    - list [ref=f1e439]:
+                      - listitem [ref=f1e442]:
+                        - link "부동산등기 열람/발급" [ref=f1e443] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e444]:
+                        - link "법인등기 열람/발급" [ref=f1e445] [cursor=pointer]:
+                          - /url: javascript:void(null);
+                      - listitem [ref=f1e446]:
+                        - link "전자신청" [ref=f1e447] [cursor=pointer]:
+
+----
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic [ref=f1e506]:
+      - list [ref=f1e524]:
+        - listitem [ref=f1e535]:
+          - link "부동산등기 신청 부동산등기 신청" [ref=f1e536] [cursor=pointer]:
+            ...
+            - img "부동산등기 신청" [ref=f1e537]
+            - generic [ref=f1e538]: 부동산등기 신청
+        - listitem [ref=f1e540]:
+          - link "법인등기 신청 법인등기 신청" [ref=f1e541] [cursor=pointer]:
+            - /url: javascript:void(null);
+            - img "법인등기 신청" [ref=f1e542]
+            - generic [ref=f1e543]: 법인등기 신청
+        - listitem [ref=f1e545]:
+          - link "전자신청 서명 전자신청 서명" [ref=f1e546] [cursor=pointer]:
+            - /url: javascript:void(null);

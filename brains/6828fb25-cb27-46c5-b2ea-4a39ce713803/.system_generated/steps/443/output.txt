@@ -1,0 +1,33 @@
+The search for ""secondtool" OR "secondtool19" OR "세컨드툴"" returned the following summary:
+검색하신 "secondtool", "secondtool19", "세컨드툴"과 관련된 정보는 크게 몇 가지 분야로 나뉩니다.
+
+**1. IT 및 소프트웨어 (로직 프로 X 단축키 등)**
+*   **로직 프로 X(Logic Pro X):** 음악 제작 소프트웨어인 로직 프로 X에서 `Command` 키를 누른 상태에서 사용하는 기능을 흔히 '세컨드 툴(Second Tool)'이라고 부릅니다. 특정 도구를 선택한 상태에서 `Command` 키를 누르면 미리 지정해둔 두 번째 도구로 빠르게 전환하여 사용할 수 있는 기능입니다[1][2][3].
+
+**2. 온라인 플랫폼 및 서비스**
+*   **Secondtool.ru:** 러시아 기반의 중고 공작 기계 및 장비 거래 포털 사이트입니다[4][5]. 주로 금속 가공 기계, 토카르(선반) 기계 등의 매매와 관련된 정보를 제공합니다[4][6].
+*   **기타:** 일본의 특정 통신 관련 서비스 페이지 등에서도 '세컨드 툴'이라는 명칭이 사용된 사례가 있습니다[7].
+
+**3. 산업 및 디자인 (보조 도구 개념)**
+*   **3D 디자인:** 3D 모델링 작업 시 메인으로 사용하는 프로그램(예: 3D MAX) 외에, 특정 문제 해결이나 효율성을 위해 보조적으로 사용하는 프로그램을 '세컨드 툴'이라고 표현하기도 합니다[8].
+*   **공구 및 작업:** 인테리어 작업 등에서 메인 툴벨트의 수납을 보완하기 위해 사용하는 '보조 툴벨트'를 '세컨드 툴벨트'라고 부르기도 합니다[9].
+*   **기계 가공:** 가공 설비 등에서 보조적인 도구 교체 시스템(Second Tool Change)을 의미하는 용어로도 사용됩니다[10].
+
+**4. 프로그래밍**
+*   소프트웨어 개발 코드 내에서 도구(Tool) 객체를 정의할 때, 관습적으로 `firstTool`, `secondTool`과 같은 변수명을 사용하는 경우가 있습니다[11][12].
+
+찾으시는 특정 정보가 위 내용 중 하나라면, 구체적인 문맥을 알려주시면 더 자세한 답변을 드릴 수 있습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuaHu2hXVLco7PLmXOg4RgcU2mNbBu1X5_TFGribnuzqja0qCa40Sf8Hz_5PuNlGEwxvBkGkEFu5RR8QbxXre5iVsbOAGsJ4gTWkquFodqgs-70st-7dst7Q==)
+[2] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjG8HwZZ0PgGXL0cFCamHTKBDhynNgnSu66Mtj-5mAubkAXWYu-SuPXtJ3WLPzCUuLlR__7l1V7ldUoY3e16tcmjhJRv9yK4VzKFbDqLUXnoOIkSbMfWyksLXYC-Yxi72PWSuHv4bcszm_oQkvFhRsl_K7Cw==)
+[3] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXJhpImCgIe5pV08nSzCzWZ-7aRJ5a_VakVNawGMnPSUdgGeIs3u5IdBtKWmW1S0fAOf1lHPkNNvOAFTkdceIBvWyxlRvmuzfiL8axMnhvtlbswqqjROm)
+[4] [secondtool.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkE0y2TDAnlRbSkWV3XMC-3KnlilCV8sFl5sxhgc5cBA1W02rF_dte6MtbcGGIHuIjp81w_7AV7yQ4Q9wpgUmBETyVviL4RB33SNI=)
+[5] [secondtool.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-yR5cnpecB2J-HQ5oyyWdE96BJX7O838pJOabm5B8GhEqvmh3mAEnDOI-YIUPPScDv03Fn-guw5FbpoQNzdwK7977oXRo2p1Z4Mu3)
+[6] [pnevmohod.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzR0zOcSaPGyiHwrXr09Ha5t-BoQiIo8WJdo90qv4hLTzeFDGi3EAhzhdu1eboxA05EarHIv10EODmPWesXafJD6oMwxJQW5zUxg1CVV36HMRauoUNR1Bj84_sTRQnAW9cIvDQcCx1)
+[7] [sunsyscon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI38K3C4aso6hv1g1hgwAQ8QuiHqk06FmU7h4VRG_XYykBBilol_1tHG_i2-8QoxF-kcEIHyj20F9e1ZHCJmKsz_ZCdjKsYtSPFRGPxWZOkiyrQaIzR7SC6K91)
+[8] [mhns.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElq0r7svobHTotSdJkglvgmz1WBPUn4p0qGZfYy1Gs2zkZPTKNjHvuCPR1Bv0kFkaXoAuNf0aBTV8UyWvm8woJGOiIgDevhBkKsHnL0gRuJIFgP6uaGzpZctdUmsoN4KF2ZWws2pJJcVP0T-BRPg==)
+[9] [topstarclass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPitgvb-IhQ78MyC8DsSsdxKlHDGz0sNkzmu4tTuukAI9AGeHdnRUU8R18TeS1oUMMC9xAEvWD1tzIbVDTmSMq1iP68OSjjjzOlZqHAyMP3fuoYtryn9jR5JcUrDYp3EKg_Doul3DzGscSNAJ)
+[10] [motioncontrol.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5s8j21ehakyofdR8_DG_dws2atFBMIHoHfAK0t3pFhlSln3wGTC1vE07f6YzlZtXHgkoJ-4H6vcxjljOAdEpaPJzNJdJrrGTSA68UAEi5PFWaVAEHmn26mqfmeCw3Y1tUL8K9xtsZDXYMi3LTsLGoDEyQd33kVvShzvkj7Pz-T6KoAdMMn9IEP-RLw7QgsTFq5UA0m_OH2NZILNsvH0lzxnn4Dys30uwiSPib-l9BB6LUTCPYoEiFRkYtsxXs39ycVQ==)
+[11] [koog.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkV-51lfUr_YY-OeIOhPGjzF9oP5t4NHFAuZ9fGzHpMMrCOflkvNUhyb2Y9Ir53Gh_SK8uAZ-ziX-TiYJ41tuRe0ke81bkryZeTmWCaepDnK5yKzEuCOIuuWGR)
+[12] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeXz8teWbP3Xf4wEbPtDb2Dai6pMAxWO4iSK1H1DXJoi1NE4wMlWAAXWhHw8PPKhx84iZqVgr6rjHHDkd9rHE14oxWGyqfr2TMgiBI4aGEQlvkmJjItysvjYYc5zqHIlKOBR2FKMySPRIRKav26b0N0vziEV9H7PatS__rajEYF31QnYg=)

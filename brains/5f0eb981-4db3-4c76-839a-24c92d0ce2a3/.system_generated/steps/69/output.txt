@@ -1,0 +1,12 @@
+The search for ""세무서 코드" "256" OR "256세무서"" returned the following summary:
+국세청에서 사용하는 **세무서 코드 '256'**은 **서부산세무서**의 관할 코드입니다[1].
+
+세무서 코드는 국세청 전산 시스템에서 각 세무서를 식별하기 위해 부여한 고유 번호입니다[2]. 서부산세무서의 관할 구역은 부산광역시 서구 및 사하구 일대이며, 관련 민원이나 신고 업무 시 해당 코드가 사용됩니다[1].
+
+정확한 관할 세무서 확인이나 세무서 코드 전체 목록이 필요하신 경우, **국세청 누리집(홈택스)**의 **[국세청 소개 > 전국 세무관서 > 지역으로 찾기]** 메뉴를 통해 확인하실 수 있습니다[3][4].
+
+Sources:
+[1] [nts.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-9V_cSgUi6MF1ZO_jzQG1bA1xz8Zn6yDNpkyKLcHOFuquWnXXLhYZeHgXuALP264rxgp7IpXFtaxoheVq29sp6dy69aB_Mbj2-KubGa1pysRSs9Bfch-eo9qrtn4Shvfe93yp_eTs9BFdo13)
+[2] [seojine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVWtVkEZ0LdgrIeE-rOhZZUHxJb0w6DsIiCwp2IVKks5sBfhDdHJkYcuY4IAr3YxBwopZgKXVaXPKPiWokMJPfhXodUP2pRDO7jaOsNu1LrGesNU9kulKQTgfxCgpDhJvFZZYITg7iEwO_R-0Dx3iwL5FOF_7CS0y7uO0GJ0NCdtVDc9WonvDgbqOWtkeJKli2ud_9UGpB)
+[3] [nts.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnO1sm2BV9ZCWe4Rok-gnK9lgq5B4wi1YI4Wqqcmo9-Z2APsaj-c55uIEVRYQbulDIdkwPCPJzLJRt2QijeWnmYsAdXgFrbkulNMA2WW7paCXCRfiSv27Ta2k7CW5422CIgYP2wEqzeXYR2sdIRQ==)
+[4] [nts.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVsw6g1YrtQUrA_X-cGuj8kUGUhOONkHQV6lAZPQ0nZyS2c7rSqpP0tl4UlQUJaiVBNwheIkTpL4uUe-FiXaUJHVEGfMMh-ZMTYD8SJnjgS2i0YSkcfWHFQCyPVzYsVUM92euDxE=)

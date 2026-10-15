@@ -1,0 +1,75 @@
+
+The command exited with code 0.
+Output:
+Count in missing_421: 421
+First 3: [
+  {
+    rowNumber: 126,
+    rowIndex: 125,
+    seq: '125',
+    gubun: '25년 모집단',
+    name: '블루호텔레코딩스튜디오',
+    ceo: '김현',
+    phone: '010-3568-1004',
+    address: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)',
+    category: '음악'
+  },
+  {
+    rowNumber: 504,
+    rowIndex: 503,
+    seq: '503',
+    gubun: '25년 모집단',
+    name: '89Light',
+    ceo: '',
+    phone: '0507-1314-6280',
+    address: '부산 동래구 충렬대로100번나길 6',
+    category: '공연'
+  },
+  {
+    rowNumber: 508,
+    rowIndex: 507,
+    seq: '507',
+    gubun: '25년 모집단',
+    name: 'LINC',
+    ceo: '',
+    phone: '',
+    address: '',
+    category: '애니메이션'
+  }
+]
+Last 3: [
+  {
+    rowNumber: 2263,
+    rowIndex: 2262,
+    seq: '2262',
+    gubun: '25년 모집단',
+    name: '인우랩',
+    ceo: '',
+    phone: '',
+    address: '부산진구 가야1동 467번지 동의대학교산학협력관 802-3,4호',
+    category: '지식정보'
+  },
+  {
+    rowNumber: 2264,
+    rowIndex: 2263,
+    seq: '2263',
+    gubun: '25년 모집단',
+    name: '엑스에이아이에듀랩스',
+    ceo: '',
+    phone: '',
+    address: '부산진구 가야1동 467번지 창업빌리지 정보공학관 3층 307호 창업지원실',
+    category: '콘텐츠솔루션'
+  },
+  {
+    rowNumber: 2307,
+    rowIndex: 2306,
+    seq: '',
+    gubun: '게임사업단 리스트',
+    name: '피커스튜디오',
+    ceo: '이현철',
+    phone: '010-2875-1813',
+    address: '부산 연제구 월드컵대로114번길 26 (연산동) 1',
+    category: '게임'
+  }
+]
+

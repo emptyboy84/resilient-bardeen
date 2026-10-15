@@ -1,0 +1,10 @@
+### Result
+{
+  "id": "mf_wfm_potal_main_wf_header_wq_uuid_5309",
+  "onclick": null,
+  "class": "w2anchor2 "
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const btn = Array.from(document.querySelectorAll(\'a, button\')).find(a => a.textContent.trim() === \'검색\');\n  return btn ? { id: btn.id, onclick: btn.getAttribute(\'onclick\'), class: btn.className } : \'no btn\';\n}');
+```

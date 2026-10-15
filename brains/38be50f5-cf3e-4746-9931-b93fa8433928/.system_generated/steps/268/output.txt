@@ -1,0 +1,18 @@
+The search for "("잭월드" OR "Jack World" OR "Zac World") ("음악" OR "스튜디오" OR "뮤직")" returned the following summary:
+검색하신 키워드 ("잭월드", "Jack World", "Zac World" 등)와 "음악", "스튜디오"라는 조합으로 보아, 특정 스튜디오나 음악 관련 프로젝트를 찾으시는 것으로 보입니다. 검색 결과에 나타난 주요 내용은 다음과 같습니다.
+
+*   **Jack's World (뮤지컬 및 관련 활동):** 예술가 Dominic Glaude의 어머니가 제작한 뮤지컬의 제목이 "Jack's World"이며, 이와 관련된 리허설, 보컬 및 댄스 레슨 등이 스튜디오 환경에서 이루어졌다는 기록이 있습니다[1][2].
+*   **음악가 및 스튜디오:**
+    *   **Jack Ducker:** 자신의 스튜디오인 'Fairlight'에서 작업하는 음악가이자 프로듀서로, 'Jack's world'라는 표현이 그의 음악 세계를 묘사하는 문구로 사용된 사례가 있습니다[3].
+    *   **Zac (World Burns to Death 멤버):** 'World Burns to Death'라는 밴드 멤버인 Zac이 참여한 음악 프로젝트나 스튜디오 녹음 관련 내용이 있습니다[4].
+*   **기타:** "Zac's World"는 특정 애니메이션(예: 'Shimmer and Shine'의 세계관)이나 소설 속 가상의 장소를 지칭하는 용어로도 사용되나, 이는 음악 스튜디오와는 직접적인 관련이 없는 경우가 많습니다[5][6].
+
+만약 찾으시는 곳이 특정 지역의 레코딩 스튜디오나 특정 아티스트의 작업실이라면, 조금 더 구체적인 정보(국가, 도시, 혹은 아티스트 이름 등)를 함께 검색해 보시는 것을 추천드립니다.
+
+Sources:
+[1] [canvasrebel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnxQdADyYjGzYdpzuPvcVxcR4Wvr5qJjO9Whh_u3lHJkevkJvcrq8Qsra5LAoBxUYMnuzEeaxcMcshPZh4xv1S4MlKz2kSAw0DN8Gu-a2EpUcGParzyZ60WWm_Kv2JKpTBVw==)
+[2] [ujimaboston.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYB-DkzdA0gp2iLlCqTrEzSeYu3m6Crt_E9bgKPZZ258Phiys185ju9Ah21ahccsQIzCOFHVD1AMH999dCLavS5_2mmiGvNb0ZQUGngAUiWQHUIPmuItCtkDHfoTju4B8gXuHV4XimBhWjQIDdBK3p6WtA_rsVe5PH-o2ESrH9LDbCWa49KKQ_SStJMjW)
+[3] [1883magazine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxwJcRGt6KhZ3dcj7pupeMk2JVxyHTODLuHZKtchjNtJ_EqC3CCPgmPwsc8uP83mE4idym9-vi8I97wYDZ0CPk3ypFClZhHMikdN2zFR2_oRpIBHJ7wX8Q1FdNGda0MgAkp5k4QnC_nxiQZs2hS4-sfpAKpQ==)
+[4] [ebullition.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCHd3az7B1GMzq7Bozc4keuKu9-Lr6OU7czRDpihOQLnEHDqr0zn3WA21qJ1w10Sy7IuFKHdYyn2IAPG7TsTS7L1hJxUqXYoOHg5rGBAo2-jez37jJVHc2iZE8)
+[5] [celebratethemusical.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzF3_lcyguS12oWBrr8TcMNLiWJ4INtNJI60ZeupVfXTVTHXlLLaDjH8qa_juMIu8yXFpKm-gHDFCvmPDAPoZ4NGpafcU08SYRp4zBeQWAD0oF-utKBkfxYtuTyILd0Q==)
+[6] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd-f3C6QNmq1dglQY4uJ2q1j38rPaHJdD4QSYUv4irodxxiwJvDNmvvpczROp3o1PSRj2KFVK5_aJomsdR4AMp3kHsZ-p4VG8Is0Tno_yGWWfFVq2R0P05owxQCd_cO9RC2h6GuQ==)

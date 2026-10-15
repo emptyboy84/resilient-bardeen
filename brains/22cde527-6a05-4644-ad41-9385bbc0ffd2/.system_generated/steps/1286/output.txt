@@ -1,0 +1,9 @@
+### Result
+[
+  "567-82-00187",
+  "603-82-07701"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const matches = document.body.innerText.match(/\\b\\d{3}-\\d{2}-\\d{5}\\b/g) || [];\n  return Array.from(new Set(matches));\n}');
+```

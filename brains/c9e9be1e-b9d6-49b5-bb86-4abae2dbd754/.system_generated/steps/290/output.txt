@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+진희컨설팅 in raw1: true
+진희컨설팅 in raw2: true
+

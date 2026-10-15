@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:72
++ ... nst match = html.match(/https?:\/\/[a-zA-Z0-9.\-_]+\.co\.kr[^\"]*/g);
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:8 �:25
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                         ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:8 �:23
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                       ~
+',' �ڿ� � �ϴ�.
+�ġ �:8 �:24
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                        ~~~~~~~
+� �Ǵ� � �ġ � '[...new' �ū�Դϴ�.
+�ġ �:8 �:23
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                       ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:8 �:42
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                                          ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:8 �:46
++   console.log('URLs:', [...new Set(match || [])].filter(u => u.includ ...
++                                              ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:8 �:80
++ ... ', [...new Set(match || [])].filter(u => u.includes('uri') || u.inclu ...
++                                                                ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:8 �:103
++ ... match || [])].filter(u => u.includes('uri') || u.includes('media')));
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+2109 cell 4 fill: {"type":"pattern","pattern":"none"}
+2113 cell 4 fill: {"type":"pattern","pattern":"none"}
+

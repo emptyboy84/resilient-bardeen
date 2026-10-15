@@ -1,0 +1,15 @@
+The search for ""맥스폼" "조형준" "자본금" OR "공항대로" OR "달맞이길"" returned the following summary:
+검색어와 관련된 기업 **주식회사 맥스폼(MAXFORM)** 및 대표자 **조형준**과 관련된 정보는 다음과 같습니다.
+
+* **대표자:** 조형준[1]
+* **설립일:** 2022년 2월 1일 (법인설립등기일 등 관련 자료 기준)[2]
+* **주요 사업:** 패키지 소프트웨어 개발 및 도입 서비스 등[3]
+* **관련 주소지:**
+  * 서울특별시 강서구 공항대로 242[3]
+  * 부산광역시 해운대구 달맞이길 193 (기업신용분석 보고서 등에서 확인되는 본사 주소지 관련 정보)[4]
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC2JDxBH8tgkPDxBkOi6aOU1Ia0jP6TVXf4QXjEZ40ZPgL6l9Gh_Zaa-qxjtyQtRkXhb_Fo6gbscDrrA3rZj8LyHcfX6CUPowStDx-q-83ZHI6bxLsKGseiZPTbAxbQ3CW92eEY7zbGbo=)
+[2] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jR9TFD_WldO0MNjZoS4u5tKYNlKx-vGgWsyeljvPaN6DjqeErQtxTNp60L9eNdEZPNOhITQowe1EgNkM_wJfiiXIJYRE6MtMDLUORczKDIpGt6HrOmNDR3pnMVB0yxhSgS2V)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC2JDxBH8tgkPDxBkOi6aOU1Ia0jP6TVXf4QXjEZ40ZPgL6l9Gh_Zaa-qxjtyQtRkXhb_Fo6gbscDrrA3rZj8LyHcfX6CUPowStDx-q-83ZHI6bxLsKGseiZPTbAxbQ3CW92eEY7zbGbo=)
+[4] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jR9TFD_WldO0MNjZoS4u5tKYNlKx-vGgWsyeljvPaN6DjqeErQtxTNp60L9eNdEZPNOhITQowe1EgNkM_wJfiiXIJYRE6MtMDLUORczKDIpGt6HrOmNDR3pnMVB0yxhSgS2V)

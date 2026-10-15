@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-06T09:43:57+09:00
+Prompt: Check task-153 status
+Early Termination: f2533ba2-96b2-426b-85af-73e28ca73587/task-153
+
+[2026-10-06T09:43:52+09:00] Still waiting. Remaining time: 5s
+[2026-10-06T09:43:57+09:00] Timer fired.

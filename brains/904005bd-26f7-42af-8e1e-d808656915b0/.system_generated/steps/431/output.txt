@@ -1,0 +1,25 @@
+The search for ""영도구" "출판사" site:localdata.go.kr" returned the following summary:
+부산광역시 영도구에 소재한 출판사 정보는 **문화체육관광부에서 운영하는 '출판사/인쇄사 검색시스템'**을 통해 확인할 수 있습니다[1][2].
+
+해당 시스템에서 검색된 부산 영도구 소재 출판사(일부 예시)는 다음과 같습니다[1][3][4][5][6][7].
+
+*   **케닛 주식회사**[1]
+*   **(주)에이티엔씨미디어**[3]
+*   **Pequod**[4]
+*   **지식여행사**[5]
+*   **용용**[6]
+*   **한국동화치료연구소**[7]
+
+**참고사항:**
+*   **데이터 확인:** 위 시스템은 전국 출판사 및 인쇄사의 등록 현황을 제공하며, 지역별 검색 기능을 통해 영도구에 등록된 업체들을 조회할 수 있습니다[1][2].
+*   **정보의 제한:** 개인정보보호법에 따라 시스템상에서 대표자명, 전화번호, 상세 주소 등은 상세하게 공개되지 않을 수 있습니다[2].
+*   **상세 조회 방법:** 더 정확하고 최신의 전체 목록을 확인하시려면 [출판사/인쇄사 검색시스템(book.mcst.go.kr)](https://book.mcst.go.kr)에 접속하신 후, **[지역 선택]**에서 **[부산광역시] → [영도구]**를 선택하여 검색하시기 바랍니다[1][2].
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTRsNAU-n00wYpAyKDgWc8C08pySvQItwzPcz9PX8x4DWGSiio8-5s8BUhVE8s_L03hUcIQO9KmK5iQEG90zBydznI61CCsdoheTHYRmyshgrVp1Zi33NvfZcbyi3R24A194g44gBS3eDxOEYfnAvsTYPavuM5nmdyNdWLKmgkR-dHmw==)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH229cGHZVJhIn9oqb05xV6JOqOcaOn1Mbzbsqjx_RGvj5qDw3ukfwlS9Xe5sKI_4cuqFO9qET8CJKzoMe58HsgrGo5M6cDqs34yFkcTQ==)
+[3] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI_WueCkmOeaFqWREpIesR4aljqHsFLU00jbwR6ihpHiyXQL-PBYLBrkBMyUWMM9kGlwV37Q8VLDGlOWnMxiu7EaXvxYdf5GZBQyHAJ_IK_qWrLN7HC3NHHpKb0np1Jcq33qB9wqO3tYaf--ePkkyCrclFNpWz5UC9kbH2ffI6_-0HYKSq8noYj9RHD131RFmpdtwmxRhQg6yJ37oFI-pagLGoOjlJJgw_XOFnqstDVthZIQebh7rpEsCiW8S8Dv8_Gjlz7F8VUeWN0hX4f3cjfN2XE8RnR6PQmSiX3ij1xw==)
+[4] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7xZeqJ9cINLZzSigpuQM76VzaMDqVz5B54soVqPiAZ9-ARS2XHaL-fBwS0i7bVhHEPvg9WJAcX1TS8269s9htGPLh2zkDw-tGz8uPOMd1_pPwfMsTx5lIqmofDYDChBj4ZWeH6qhz114LpLGS3R1mx50nqjIWGvQTQYmjcuf52IjZkmBnYkhylx5I1ei9Ew==)
+[5] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYLzFKNUlXRdpWnT6LrR4TRW9vdauUOcLWjcePAgbs4gLKm_tUkZjsf4TXVVeirdS2VP0QEsKQNKFaWDP1KDxYJRKSgBvswviq8anX4-K0Xqc-mYF15IxOpmF-bJ38pA-tofKtzWfimnst-6r8ujZmggTs_E1scDsxBMIDkefhgK-KTPgny7qiPjBtX21jO2u8GBo4q4WV-wMD)
+[6] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1yr3-k7Zr2E06_37ClzDMmdds_EBC5y55VQUqvVzJ6AsbuJHuu_VMEWFwuRdqqMhqLHLD8Ki46KdENqUdLyNMc7yG_OuaoFpk3E7cS2V4WIDf-kD87y6yG3fPuNq3veo0RmkxdLywfevzaMGJ7BsLCMJPJW1ckXyjFkLao0bGBFToWlnJfx1RLAdmSW4Ms_Er7M0jJ80i--_)
+[7] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSkP-jSyXo9ekJK5cDV5r0pPBNoC2RwzevSKxdQFcXwk2OAdkbypo_tsmemREah-UgD638bSjyAR1cBTnOXqFx-NCSi61diQ4Xvy1dS0166_K4GAVMn4BBKoUd6SOGmq5T4zjIiVf5jVHlM6LpJ_ppPgY1uWw5i5dgutBSZRtUkM0AETx2m26RteVXcNgMShfWVqpO9j25oSM=)

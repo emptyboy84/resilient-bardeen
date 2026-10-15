@@ -1,0 +1,17 @@
+The search for ""보연" "899-01-00125" OR "8990100125" 국민연금 OR 고용보험 OR 종업원 OR 퇴사자" returned the following summary:
+검색하신 사업자등록번호 **'899-01-00125'** 및 **'8990100125'**와 관련하여 확인되는 업체 정보는 없습니다[1][2].
+
+'보연'이라는 명칭을 사용하는 기업(주식회사 보연, 보연엔지니어링 등)은 검색되나, 해당 기업들의 사업자등록번호는 검색된 번호와 일치하지 않습니다[1][2][3].
+
+퇴사 후 국민연금, 고용보험 등 가입 이력이나 종업원 수와 같은 상세 정보가 필요하신 경우, 다음의 공식 경로를 통해 확인하시는 것을 권장합니다.
+
+*   **정부24 (www.gov.kr):** '고용보험 피보험자격 이력내역서' 또는 '국민연금 가입내역 확인서'를 직접 발급받아 확인할 수 있습니다.
+*   **4대 사회보험 정보연계센터 (www.4insure.or.kr):** 개인의 4대 보험 가입 이력을 조회할 수 있습니다.
+*   **국세청 홈택스 (www.hometax.go.kr):** 사업자등록번호의 실제 여부 및 휴폐업 상태를 조회할 수 있습니다.
+
+입력하신 번호가 정확한지 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIgQsOBEb8basg87YnyJpAiAaD-wf7IoZb1m1_zxavI2N8kcE15j2kZdaSg0R2SqDQvLme5SO-pLYNnboKKR7MR42EKE_SXbXGSd6MWJ1ywnGEJBNLJI-dzRQ=)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbnwQEewLphGx9PWbPAMGdQuRjfsEmm1xlEoLeWQBCNRwR0F4i33UWo0TXnP2Yspw1o6iqetag_JGuYVvHzD1KQGAPpAy_bkB_g3Xa6vGtrlCyyElKYfcpsgnxGKeUXCXYQ==)
+[3] [jobploy.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuSXOfV5wX51-1eWMgegLydMtMo4UEgjYwVwxXqFdermrWrHuwD2KJfP1a3DtLXx_q_9K_Q4JP4duenxbglYyJs23PIFTUIl-JRNwK13MeZYA1FbhcWB9mQBvnIwhla3qX9ohT_Ae8_WAKYlg9gSA9SQ==)

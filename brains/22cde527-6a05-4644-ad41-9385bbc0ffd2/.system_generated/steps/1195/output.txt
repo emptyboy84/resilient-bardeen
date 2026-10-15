@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+=== 드림유엔터테인먼트 (605-26-59816) ===
+Meta: NONE
+=== 도성회 (620-13-76639) ===
+Meta: NONE
+=== 89Light (607-20-42298) ===
+Meta: NONE
+=== 꿈해몽 (595-94-01807) ===
+Meta: NONE
+

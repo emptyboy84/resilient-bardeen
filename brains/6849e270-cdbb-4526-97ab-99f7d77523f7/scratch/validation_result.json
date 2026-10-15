@@ -1,0 +1,598 @@
+{
+  "total_rows": 970,
+  "closed_count": 79,
+  "suspended_count": 4,
+  "column_count_mismatch": [
+    {
+      "row": 1,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "<USER_REQUEST>"
+    },
+    {
+      "row": 242,
+      "batch": 1,
+      "cols_count": 19,
+      "raw": "배현명\t\t삼에스개발(주)\t6058529075\t구자성\t47598\t부산광역시 연제구 월드컵대로 83 (연산동, 케이티엔지부 산본부) 109동 401호\t051-851-8701\t\"\t051-851-8703\"\thttps://www.3smedi.co.kr\t3s11@naver.com\t40\t의료기기 도매업\t180111-0382878\t12월\t도매 및 소매업\t소매업; 자동차 제외\t무점포  소매업"
+    },
+    {
+      "row": 264,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "</USER_REQUEST>"
+    },
+    {
+      "row": 265,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "<ADDITIONAL_METADATA>"
+    },
+    {
+      "row": 266,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "The current local time is: 2026-08-28T09:37:16+09:00."
+    },
+    {
+      "row": 267,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "</ADDITIONAL_METADATA>"
+    },
+    {
+      "row": 268,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "<USER_SETTINGS_CHANGE>"
+    },
+    {
+      "row": 269,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "The user changed setting `Model Selection` from None to Gemini 3.7 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string."
+    },
+    {
+      "row": 270,
+      "batch": 1,
+      "cols_count": 1,
+      "raw": "</USER_SETTINGS_CHANGE>"
+    },
+    {
+      "row": 271,
+      "batch": 2,
+      "cols_count": 1,
+      "raw": "<USER_REQUEST>"
+    },
+    {
+      "row": 968,
+      "batch": 2,
+      "cols_count": 7,
+      "raw": "배현명\t\t대암전기\t6064579664\t신수용\t46722\t부산광역"
+    },
+    {
+      "row": 969,
+      "batch": 2,
+      "cols_count": 1,
+      "raw": "<truncated 11906 bytes>"
+    },
+    {
+      "row": 970,
+      "batch": 2,
+      "cols_count": 1,
+      "raw": "NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need."
+    }
+  ],
+  "invalid_biz_no": [
+    {
+      "row": 263,
+      "batch": 1,
+      "name": "(주)청아필터",
+      "biz_no": "6038128564",
+      "reason": "체크섬 불일치 (기대: 2, 실제: 4)"
+    },
+    {
+      "row": 273,
+      "batch": 2,
+      "name": "주식회사센텀메디팜",
+      "biz_no": "6068831149",
+      "reason": "체크섬 불일치 (기대: 3, 실제: 9)"
+    },
+    {
+      "row": 278,
+      "batch": 2,
+      "name": "주식회사에스성산",
+      "biz_no": "6178621509",
+      "reason": "체크섬 불일치 (기대: 6, 실제: 9)"
+    },
+    {
+      "row": 282,
+      "batch": 2,
+      "name": "주식회사에스피디",
+      "biz_no": "6055191038",
+      "reason": "체크섬 불일치 (기대: 1, 실제: 8)"
+    },
+    {
+      "row": 301,
+      "batch": 2,
+      "name": "태화정밀공업(주)",
+      "biz_no": "6228207312",
+      "reason": "체크섬 불일치 (기대: 9, 실제: 2)"
+    },
+    {
+      "row": 676,
+      "batch": 2,
+      "name": "토마토전자(주)",
+      "biz_no": "6058182528",
+      "reason": "체크섬 불일치 (기대: 4, 실제: 8)"
+    },
+    {
+      "row": 707,
+      "batch": 2,
+      "name": "(주)비엔아이",
+      "biz_no": "6611101191",
+      "reason": "체크섬 불일치 (기대: 2, 실제: 1)"
+    },
+    {
+      "row": 712,
+      "batch": 2,
+      "name": "마랙스",
+      "biz_no": "1160123480",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 0)"
+    },
+    {
+      "row": 719,
+      "batch": 2,
+      "name": "(주)글로벌항해통신",
+      "biz_no": "2708623921",
+      "reason": "체크섬 불일치 (기대: 6, 실제: 1)"
+    },
+    {
+      "row": 724,
+      "batch": 2,
+      "name": "(주)볼시스",
+      "biz_no": "3598900747",
+      "reason": "체크섬 불일치 (기대: 1, 실제: 7)"
+    },
+    {
+      "row": 727,
+      "batch": 2,
+      "name": "(주)진영노즐",
+      "biz_no": "4128800340",
+      "reason": "체크섬 불일치 (기대: 6, 실제: 0)"
+    },
+    {
+      "row": 729,
+      "batch": 2,
+      "name": "(주)필립트론",
+      "biz_no": "4028700823",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 3)"
+    },
+    {
+      "row": 730,
+      "batch": 2,
+      "name": "(주)피티오크리에이티브",
+      "biz_no": "5108600348",
+      "reason": "체크섬 불일치 (기대: 5, 실제: 8)"
+    },
+    {
+      "row": 733,
+      "batch": 2,
+      "name": "다다인포 주식회사",
+      "biz_no": "5908600441",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 1)"
+    },
+    {
+      "row": 734,
+      "batch": 2,
+      "name": "(주)리얼체크",
+      "biz_no": "5698100664",
+      "reason": "체크섬 불일치 (기대: 2, 실제: 4)"
+    },
+    {
+      "row": 745,
+      "batch": 2,
+      "name": "(주)에디넷",
+      "biz_no": "6018532852",
+      "reason": "체크섬 불일치 (기대: 0, 실제: 2)"
+    },
+    {
+      "row": 753,
+      "batch": 2,
+      "name": "(주)큐테크",
+      "biz_no": "6018154164",
+      "reason": "체크섬 불일치 (기대: 1, 실제: 4)"
+    },
+    {
+      "row": 789,
+      "batch": 2,
+      "name": "대성이앤지",
+      "biz_no": "6033094589",
+      "reason": "체크섬 불일치 (기대: 4, 실제: 9)"
+    },
+    {
+      "row": 820,
+      "batch": 2,
+      "name": "에이태그",
+      "biz_no": "6171784889",
+      "reason": "체크섬 불일치 (기대: 2, 실제: 9)"
+    },
+    {
+      "row": 848,
+      "batch": 2,
+      "name": "(주)우와테크",
+      "biz_no": "6058172487",
+      "reason": "체크섬 불일치 (기대: 1, 실제: 7)"
+    },
+    {
+      "row": 850,
+      "batch": 2,
+      "name": "삼성지투비(주)",
+      "biz_no": "6085817469",
+      "reason": "체크섬 불일치 (기대: 0, 실제: 9)"
+    },
+    {
+      "row": 851,
+      "batch": 2,
+      "name": "(주)티엔텔레콤",
+      "biz_no": "6058175372",
+      "reason": "체크섬 불일치 (기대: 7, 실제: 2)"
+    },
+    {
+      "row": 852,
+      "batch": 2,
+      "name": "(주)신명정보",
+      "biz_no": "6058180087",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 7)"
+    },
+    {
+      "row": 853,
+      "batch": 2,
+      "name": "우성에스앤지(주)",
+      "biz_no": "6088198176",
+      "reason": "체크섬 불일치 (기대: 5, 실제: 6)"
+    },
+    {
+      "row": 858,
+      "batch": 2,
+      "name": "유창종합수도상사",
+      "biz_no": "6061248219",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 9)"
+    },
+    {
+      "row": 864,
+      "batch": 2,
+      "name": "근영테크",
+      "biz_no": "6060472952",
+      "reason": "체크섬 불일치 (기대: 5, 실제: 2)"
+    },
+    {
+      "row": 876,
+      "batch": 2,
+      "name": "대동테크",
+      "biz_no": "6060637606",
+      "reason": "체크섬 불일치 (기대: 8, 실제: 6)"
+    },
+    {
+      "row": 903,
+      "batch": 2,
+      "name": "양광스프링",
+      "biz_no": "6061540090",
+      "reason": "체크섬 불일치 (기대: 9, 실제: 0)"
+    },
+    {
+      "row": 905,
+      "batch": 2,
+      "name": "코메텍",
+      "biz_no": "6061602663",
+      "reason": "체크섬 불일치 (기대: 0, 실제: 3)"
+    },
+    {
+      "row": 912,
+      "batch": 2,
+      "name": "영창산전",
+      "biz_no": "6161776908",
+      "reason": "체크섬 불일치 (기대: 5, 실제: 8)"
+    },
+    {
+      "row": 919,
+      "batch": 2,
+      "name": "남경전기",
+      "biz_no": "9223106976",
+      "reason": "체크섬 불일치 (기대: 4, 실제: 6)"
+    },
+    {
+      "row": 938,
+      "batch": 2,
+      "name": "동화전기",
+      "biz_no": "6603383132",
+      "reason": "체크섬 불일치 (기대: 6, 실제: 2)"
+    },
+    {
+      "row": 947,
+      "batch": 2,
+      "name": "원광전열",
+      "biz_no": "6063698788",
+      "reason": "체크섬 불일치 (기대: 5, 실제: 8)"
+    },
+    {
+      "row": 948,
+      "batch": 2,
+      "name": "대왕전기",
+      "biz_no": "6063748894",
+      "reason": "체크섬 불일치 (기대: 9, 실제: 4)"
+    }
+  ],
+  "duplicate_biz_no": [
+    {
+      "biz_no": "1640700680",
+      "occurrences": [
+        [
+          16,
+          "그루쉽코리아",
+          1
+        ],
+        [
+          20,
+          "GurushipKorea",
+          1
+        ]
+      ]
+    }
+  ],
+  "duplicate_company": [
+    {
+      "clean_name": "성진산업",
+      "occurrences": [
+        [
+          610,
+          "성진산업사",
+          "6061385199",
+          2
+        ],
+        [
+          866,
+          "성진산업",
+          "6060497562",
+          2
+        ]
+      ]
+    },
+    {
+      "clean_name": "동원테크",
+      "occurrences": [
+        [
+          741,
+          "동원테크",
+          "6013272633",
+          2
+        ],
+        [
+          895,
+          "동원테크",
+          "6061178767",
+          2
+        ]
+      ]
+    }
+  ],
+  "missing_critical": [
+    {
+      "row": 1,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 220,
+      "batch": 1,
+      "name": "양석엔지니어링",
+      "biz_no": "6052724221",
+      "note": "",
+      "missing": [
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 264,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 265,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 266,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 267,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 268,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 269,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 270,
+      "batch": 1,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 271,
+      "batch": 2,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 707,
+      "batch": 2,
+      "name": "(주)비엔아이",
+      "biz_no": "6611101191",
+      "note": "",
+      "missing": [
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 788,
+      "batch": 2,
+      "name": "삼성기계공업",
+      "biz_no": "6032971493",
+      "note": "",
+      "missing": [
+        "대표자 누락"
+      ]
+    },
+    {
+      "row": 789,
+      "batch": 2,
+      "name": "대성이앤지",
+      "biz_no": "6033094589",
+      "note": "",
+      "missing": [
+        "대표자 누락"
+      ]
+    },
+    {
+      "row": 968,
+      "batch": 2,
+      "name": "대암전기",
+      "biz_no": "6064579664",
+      "note": "",
+      "missing": [
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 969,
+      "batch": 2,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    },
+    {
+      "row": 970,
+      "batch": 2,
+      "name": "(이름없음)",
+      "biz_no": "",
+      "note": "",
+      "missing": [
+        "회사명 누락",
+        "사업자번호 누락",
+        "대표자 누락",
+        "주소 누락",
+        "업종분류 누락"
+      ]
+    }
+  ],
+  "invalid_corps": [],
+  "invalid_emails": [
+    {
+      "row": 242,
+      "name": "삼에스개발(주)",
+      "email": "https://www.3smedi.co.kr",
+      "reason": "이메일 형식 오류"
+    }
+  ],
+  "invalid_phones": [],
+  "invalid_zips": []
+}

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=동화사+051-464-0761');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EB%8F%99%ED%99%94%EC%82%AC+051-464-0761
+- Page Title: 동화사 051-464-0761 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-08-15-387Z.yml)

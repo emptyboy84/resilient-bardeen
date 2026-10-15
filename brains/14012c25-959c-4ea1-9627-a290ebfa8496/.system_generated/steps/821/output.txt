@@ -1,0 +1,14 @@
+The search for ""남천동로10번길 3" ("건물" OR "빌딩" OR "상호" OR "층")" returned the following summary:
+부산광역시 수영구 남천동로10번길 3 (지번: 남천동 17-34) 위치에 있는 건물 및 주요 상호 정보는 다음과 같습니다.
+
+* **상호/업체:** 
+  * **파티세리 교양** (디저트 카페, 1층 등)[1][2][3]
+  * **정성한끼** (한식당)[1]
+  * **주식회사 오브니크** (기업)[4]
+* **층수:** 주로 저층(1층 등) 상가 및 매장 형태로 활용되는 건물입니다[1][4].
+
+Sources:
+[1] [mau.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrQJpUqA__Y2rDknhUQue__noMQQcSGE4VYtSzO9GIgHShX5dodZ6MLLTKayjPDkncN1ODz3bJZEydI9k3i-NFrloI-SE2PGSZApU-ULsiVqeDbCjnjJ4JLR6Qig==)
+[2] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4vTGOXaZ1xz1ZMDqC8NP9P-3zOPy4xodcHIX4GFcZ1NfnN4y-zbl1qJM9Asljf3R66wnmRGN1o0RdiilcnZQSRbsiruODOlxW0saB5_pQgwawEJk9N8fSNvyn-PE=)
+[3] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY4x1X_HYT92vffFRT1b4a-tXPXEI_GA9-jIDuAjXhimwB4SkMkUoex3EtA-HYpOl1N-ePB8C_d64wlyCgMr1vvoe3PMUUyHqq9xfGqXV9_YldN8Mi1NEOVG-VqEi_L3c=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETIUQIaT2yjS6KUUZrCkI1w-NBdSAxDoThCZ00q4HGEJATGR8qBzvkTmA-XKL1hhtIrNYW-WsOxFhHtZEz-haTZIsDJQPPQrovJ69kVIO-yEMUYgiDciA0gx2uMrHFQa8xa9-jKY3Umjm9z7NiHPCaKC1qUJwUsHo3bS6VhPX9iUSDhwWTE5MA9fKIyMIbBH6x8GPJPNwmFd4TXUFenEGxCKBEbmRYCeZCdUoXppwkTvNJ5Cp-UomMYopsdcml7lvG3bEonDdkfxwggTBzxkVvoA-EGIU17O6qPlFrdWoECLooXvyM)

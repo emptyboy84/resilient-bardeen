@@ -1,0 +1,15 @@
+The search for "site:saramin.co.kr "메이브릿지" OR site:jobkorea.co.kr "메이브릿지"" returned the following summary:
+사람인(saramin.co.kr) 및 잡코리아(jobkorea.co.kr) 사이트에서 **'(주)메이브릿지'** 키워드로 검색한 결과입니다. 
+
+입력하신 정확한 명칭인 **'(주)메이브릿지'**로 등록된 활성 채용 공고나 대규모 기업 정보는 주요 채용 플랫폼 내에서 검색 결과가 확인되지 않습니다[1]. 
+
+다만, 유사한 이름을 가진 일부 기업들((주)메가브릿지[2], (주)마크브릿지[3], (주)매그넘브릿지[4], 엠브릿지[5] 등)의 기업 정보나 채용 공고가 사람인 등에 등록되어 있습니다[2][3][4]. 
+
+정확한 (주)메이브릿지 기업 공고나 상세 정보를 찾으시는 중이라면, 사업자등록번호나 정확한 업종(소프트웨어 개발, 유통 등)을 함께 확인하신 후 재검색해 보시는 것을 권장합니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL6ZVSoP-aVp_-h9JKJXMmnIZ0SPvBCHduCj4trDrpvhyL5wy_W7qQ-1OiGb7xabxAb-GFVXOKBSUeu7Ikx_CILUeiULoZ5ng9W2pl54h7ktyrncpiArqZjl1GYdCS7qYXQgxCgEv-gzmx1X8sAojAf6QM)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_B_zD6vqMEJWaaVCakyLJ049cAWzgfNKuvfLtWLAsaZIOC5DnKVYavZXhh9GDWDveZb-P7sFCQ1RfmuluVKaR2owtZXz7qq5E6l2A8BywPSgeQbtgcNC0_-qXynEFBS3hdkZ08B2XKeMEIvZemAedoY=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKtamBixWbrCq_9V7ClobN5PEuqqH4-PqFpzYyC0sW-IkfCIScn8a0Tmd7ozLZjqalJBO3eyLu-mBgRllEDKblauX9fg_NfYdXB84_t-VOyKX5vKQCQiqOdVRqSLWwYpBXrMtluvgrIHqWgHj_cDscJQGQHD6NnnmYRkoShy08cVqRUm0I0gVAtb9-AQhSQ-Eo_YLrVuEqOzWelD8f1AUTSLbZzegMZZuQaWIYmds1gxwySXG88cZSqitiL1WiGppGBq4x-1S9fxl6msychPLiq_Y8PXH-byuF6Q==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeXo-iyXVj7nryPY_xQGvhcitymWDg0kk-7Tq6_5CcvFZwCKvYznD3xAho6SeBWt0w5YZIw0P1di1gKMHQ_LrEzz-D3HWTyygtWJVktP2YV09YH2m7bODmdOgmRfyreCrnTuL7hZ6QHzMAvry7aB23YX-8nfOw7KO9KF_Q0nDVRSc3Xnd1xg8q_3Qc0XizxBpWK_aVuUZrVBR9lXs=)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJX4YJ2CFmEUS4BmGCmoCLGlEG_p7CzgEW3muHp4OGQlQ4hTThfOgX10_Jppsu4QvMp8QtDiiAnFG9wjcB2XsjFbC27mOmhCt8v09ViWDUUyiDLp6hPj5Wf3uVJIkJf55uXzkiqxmRprM4Ep5HZV6Yz6ytFn6INtIp-Svngq4gAK5NGUSb_VdvrW4W636gjisdzSfYt7WilRIQ2xF01pyHjEp9e-z8mUkTXi1UczNkMHCOabNiu2b_gaOCl-avocQfNRpdj0rLDzjvgriE)

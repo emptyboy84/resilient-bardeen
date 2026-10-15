@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+
+
+DeviceResetNotificationEnabled : 1
+EnhancedPowerManagementEnabled : 0
+LegacyTouchScaling             : 0
+FirmwareIdentified             : 1
+SelectiveSuspendEnabled        : 0
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\A
+                                 CPI\SYN1B8B\4&5C5684A&0\Device Parameters
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\A
+                                 CPI\SYN1B8B\4&5C5684A&0
+PSChildName                    : Device Parameters
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+

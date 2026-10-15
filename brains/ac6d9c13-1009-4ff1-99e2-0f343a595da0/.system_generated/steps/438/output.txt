@@ -1,0 +1,7 @@
+The search for "site:moneypin.biz "180111-0168647" OR "899-37-01327" OR "더플로우"" returned the following summary:
+검색하신 조건(`site:moneypin.biz` 및 특정 사업자등록번호·법인번호·상호 키워드)에 정확히 일치하는 머니핀(moneypin.biz) 페이지가 존재하지 않거나, 검색 결과로 수집되지 않았습니다. 
+
+입력하신 정보 중 사업자번호(`899-37-01327`), 법인번호(`180111-0168647`), 또는 상호명(`더플로우`)과 관련된 정확한 공식 데이터나 머니핀 내부의 등록 세부 정보가 필요하신 경우, 머니핀 웹사이트의 '사업자정보 조회' 메뉴를 직접 이용하시거나 정확한 식별 번호를 다시 확인해 보시기 바랍니다[1].
+
+Sources:
+[1] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWuEbvTzdrbP32lMnG0zgvEB2jATzPhZqlcV3JLqbw1TBBNw6fPd9zQRQPEQJ3igAzSFIPb7b3uyckwZm8RkxA1CMaE-mDwoAsZQ==)

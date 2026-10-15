@@ -1,0 +1,10 @@
+The search for ""경남 김해시 진영읍 김해대로335번길 8" "삼십육점칠도"" returned the following summary:
+경남 김해시 진영읍 김해대로335번길 8에 위치한 **'삼십육점칠도'**는 해당 주소지에서 운영되는 음식점(맛집)으로 등록되어 있습니다[1].
+
+참고로, 동일한 번지수(김해대로 335번길 8-1 등 인근)에는 '샐러디아 김해진영점'이나 '청담김치찜 김해진영점'과 같은 다른 매장들도 함께 언급되고 있으니[2][3][4], 방문 시 해당 상호를 다시 한번 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgHyI4_kytHhTI75qE4_Wjjmvt10a-UCQobZ4SQ4vFCX53Yr4WW6QpxlRffp7Cy3cx0Yw5beyAnNg-8CuM5cjBQSj8lD6BBeqsBgZRpEXyBsaKCrbRQFA_fA==)
+[2] [saladia.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf_KXhXYS3yHm-1SpSOlo9yDbkZiL5HycaPY1Y4K0_O5UAorUa2AfJ9ZpNerJAJPHHpLIwWq0n7-QUXWpMtqspy_XrEmuGRm1KkPMCM5Qce0JPW6xW-x-WSww5ZyOm3F4bDGccOMLJR5QkcnQcfQ0t)
+[3] [biggramfood.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo_Pv-E8KNwKspIdosJh96OG9E8rAhvIXuVR8VrxuGI_9iVgQJtxggeF010F4ZTVdT1g9GMbTN8er7N98jRFxOGJ24hRtqeCxYj3ir0bPmrGnIbBxJagBN4Kd8YgoaqXOtIF8hr5iFLpzUjyB_)
+[4] [biggramfood.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo_Pv-E8KNwKspIdosJh96OG9E8rAhvIXuVR8VrxuGI_9iVgQJtxggeF010F4ZTVdT1g9GMbTN8er7N98jRFxOGJ24hRtqeCxYj3ir0bPmrGnIbBxJagBN4Kd8YgoaqXOtIF8hr5iFLpzUjyB_)

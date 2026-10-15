@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/대표자조회/?area=&query=박학문');
+```
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=&query=%EB%B0%95%ED%95%99%EB%AC%B8
+- Page Title: 박학문
+- Console: 3 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-36-26-704Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-36-22-836Z.log#L1-L6

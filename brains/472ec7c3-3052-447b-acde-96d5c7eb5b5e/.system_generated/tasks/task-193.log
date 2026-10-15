@@ -1,0 +1,14 @@
+
+   Id ProcessName           MainWindowTitle Responding
+   -- -----------           --------------- ----------
+ 5440 Gemini                                      True
+10532 Gemini                                      True
+16676 Gemini                                      True
+19316 Gemini                                      True
+27852 Gemini                                      True
+36816 Gemini                                      True
+37928 Gemini                                      True
+15540 GeminiAppLauncher                           True
+22124 GeminiCrashpadHandler                       True
+
+

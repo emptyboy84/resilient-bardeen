@@ -1,0 +1,8 @@
+The search for "site:dart.fss.or.kr "부산일보" 감사보고서" returned the following summary:
+금융감독원 전자공시시스템(DART, dart.fss.or.kr)에서 '부산일보' 또는 '부산일보사'의 감사보고서는 조회되지 않습니다. 
+
+DART는 주로 주권상장법인, 코넥스 상장법인, 그리고 일정 규모 이상의 비상장 주식회사(외부감사법 대상 법인 중 공시 의무가 있는 법인) 등의 정기보고서 및 감사보고서를 공시합니다[1][2]. '주식회사 부산일보사'의 경우 DART의 공시 대상 기업에 해당하지 않아 해당 시스템에서 감사보고서를 확인하기 어려울 수 있습니다.
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFraaRlSCSsaEuV-dhuTLAGr7zlLKhV5JfjNxfP-lEGuU9lrEY3NNHAqVtOr89VqiggLZvEfHjUQKW9A7hzNylDAG-WUQTWcWJISveQJBYT-nCrB-BNHY3UHpdRPA==)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZR5SozsqABIjePqSS06MEOgS_HlFQZl8dzTNdULyur_bSQLRDZ4_lZY8tvctxq55RElKnv57nIfpeVdyv3NcHKFtztZBegpPIcXXkJUyfqboDWpdcbfj7uT1_5y5keFBV6wLzE9mKon-zElsadMhGOB8n2mBR-RSPVx4Xj1Qy7Hj9uHMzjQeWZlU9hQ0-ULeL-rnmj0VXxClQCwohgfTLK1HGshbYwGfabLLlcVZT1TGgYRGLU_kZIP4=)

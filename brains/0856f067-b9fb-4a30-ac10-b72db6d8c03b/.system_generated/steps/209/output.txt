@@ -1,0 +1,15 @@
+### Result
+[
+  "",
+  "조회된 데이터가 없습니다.",
+  "기점",
+  "종점",
+  "고시일",
+  "효력발생일",
+  "길이(m)",
+  "도로명 부여사유"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const list = Array.from(document.querySelectorAll(\'.business_box, .sub_search_list, tbody tr, .search_list li\'));\n  return list.map(el => el.innerText);\n}');
+```

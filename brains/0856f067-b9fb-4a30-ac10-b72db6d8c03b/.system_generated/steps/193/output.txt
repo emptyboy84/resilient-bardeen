@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.juso.go.kr/support/AddressMainSearch.do?searchType=location&searchKeyword=%EB%82%99%EB%8F%99%EB%8C%80%EB%A1%9C+210');
+```
+### Page
+- Page URL: https://www.juso.go.kr/support/AddressMainSearch.do?searchType=location&searchKeyword=%EB%82%99%EB%8F%99%EB%8C%80%EB%A1%9C+210
+- Page Title: 주소정보누리집(도로명주소 안내시스템) NotFound
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-33-18-468Z.yml)

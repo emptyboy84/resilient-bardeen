@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94
+- Page Title: 괴정만화 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-30-39-044Z.yml)

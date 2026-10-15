@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Status: 404
+Length: 107
+{"timestamp":"2026-10-14T02:11:01.694+00:00","status":404,"error":"Not Found","path":"/company/8198602478"}
+

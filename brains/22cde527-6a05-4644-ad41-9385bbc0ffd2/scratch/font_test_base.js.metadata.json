@@ -1,0 +1,4 @@
+{
+  "summary": "Test reading the pristine base Excel file, modifying a few cells with red font, writing and re-reading to check if fonts persist.",
+  "updatedAt": "2026-09-14T02:17:11.774989800Z"
+}

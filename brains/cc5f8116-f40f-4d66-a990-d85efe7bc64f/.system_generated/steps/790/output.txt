@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Q col (24년 매출액): None=2041, Zero=71, Non-zero numeric=190, String=11
+R col (25년 매출액): None=2204, Zero=0, Non-zero numeric=109, String=0
+

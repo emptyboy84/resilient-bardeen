@@ -1,0 +1,65 @@
+=== Row 19201 ===
+Col 1 (작성자): 배현명 fill: FFFFA500
+Col 2 (비고): null fill: undefined
+Col 3 (회사명): 한울기업
+Col 4 (사업자번호): {
+  text: '7601400870',
+  hyperlink: 'https://bizno.net/article/7601400870'
+}
+Col 5 (대표자): 이동진
+Col 6 (우편번호): 50875
+Col 18 (업종): 기타 섬유, 의복 및 가죽 가공 기계 제조업
+Col 25 (법인번호): null
+Col 48/49/50 (대/중/소): 제조업 / 기타 기계 및 장비 제조업 / 일반 목적용 기계 제조업
+=== Row 19204 ===
+Col 1 (작성자): 배현명 fill: FFFFA500
+Col 2 (비고): null fill: undefined
+Col 3 (회사명): ㈜에이치티나노
+Col 4 (사업자번호): {
+  text: '7608700059',
+  hyperlink: 'https://bizno.net/article/7608700059'
+}
+Col 5 (대표자): 김현태
+Col 6 (우편번호): 46334
+Col 18 (업종): 그 외 기타 분류 안된 화학제품 제조업
+Col 25 (법인번호): 180111-0967068
+Col 48/49/50 (대/중/소): 제조업 / 화학 물질 및 화학제품 제조업; 의약품 제외 / 기타 화학제품 제조업
+=== Row 19206 ===
+Col 1 (작성자): 배현명 fill: FFFFA500
+Col 2 (비고): 폐업 fill: FFFFA500
+Col 3 (회사명): 유민테크
+Col 4 (사업자번호): {
+  text: '7610701383',
+  hyperlink: 'https://bizno.net/article/7610701383'
+}
+Col 5 (대표자): 송상훈
+Col 6 (우편번호): 46729
+Col 18 (업종): 기타 측정, 시험, 항해, 제어 및 정밀기기 제조업
+Col 25 (법인번호): null
+Col 48/49/50 (대/중/소): 제조업 / 의료, 정밀, 광학 기기 및 시계 제조업 / 측정, 시험, 항해, 제어 및 기타 정밀기기 제조업
+=== Row 19300 ===
+Col 1 (작성자): 배현명 fill: FFFFA500
+Col 2 (비고): null fill: undefined
+Col 3 (회사명): 티지씨
+Col 4 (사업자번호): {
+  text: '7708702511',
+  hyperlink: 'https://bizno.net/article/7708702511'
+}
+Col 5 (대표자): null
+Col 6 (우편번호): 51391
+Col 18 (업종): null
+Col 25 (법인번호): 194214-0015889
+Col 48/49/50 (대/중/소): 전문, 과학 및 기술 서비스업 / 전문 서비스업 / 회사 본부 및 경영 컨설팅 서비스업
+=== Row 19400 ===
+Col 1 (작성자): 배현명 fill: FFFFA500
+Col 2 (비고): null fill: undefined
+Col 3 (회사명): 백광
+Col 4 (사업자번호): {
+  text: '7811000976',
+  hyperlink: 'https://bizno.net/article/7811000976'
+}
+Col 5 (대표자): 권유섭
+Col 6 (우편번호): 46738
+Col 18 (업종): 임가공
+Col 25 (법인번호): null
+Col 48/49/50 (대/중/소): 제조업 / 기타 기계 및 장비 제조업 / 특수 목적용 기계 제조업

@@ -1,0 +1,47 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -15,10 +15,38 @@
+ }
+ 
+ async function run() {
+-  const r = await fetch('https://www.nl.go.kr/seoji/include/js/search.js');
+-  const idx = r.data.indexOf('fnTopSearch');
++  const url = 'https://www.nl.go.kr/seoji/contents/S80100000000.do';
++  const data = new URLSearchParams({
++    schType: 'simple',
++    schFld: 'publisher',
++    schStr: '비전조이'
++  }).toString();
++  
++  const r = await new Promise(resolve => {
++    const u = new URL(url);
++    const req = https.request(u, {
++      method: 'POST',
++      headers: {
++        'Content-Type': 'application/x-www-form-urlencoded',
++        'Content-Length': Buffer.byteLength(data),
++        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
++      }
++    }, res => {
++      let body = '';
++      res.on('data', c => body += c);
++      res.on('end', () => resolve({ status: res.statusCode, body }));
++    });
++    req.write(data);
++    req.end();
++  });
++
++  console.log('Status:', r.status);
++  console.log('Body length:', r.body.length);
++  const idx = r.body.indexOf('검색결과');
+   if (idx !== -1) {
+-    console.log(r.data.substring(idx, idx + 500));
++    console.log(r.body.substring(idx, idx + 500).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' '));
++  } else {
++    console.log('Result count check:', r.body.substring(0, 500));
+   }
+ }
+ run();
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

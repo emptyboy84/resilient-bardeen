@@ -1,0 +1,20 @@
+The search for ""출원인" "링크빈" OR "출원인" "주식회사 링크빈"" returned the following summary:
+검색 결과에 따르면, **'주식회사 링크빈(Link bean)'**은 선불식 장기상품(상조) 중개거래 및 비대면 권리이전 플랫폼인 **'해약노노'**를 서비스하는 대한민국의 스타트업 및 중소기업입니다[1][2]. 
+
+* **회사 개요:**
+  * 설립일: 2019년 9월 17일[2]
+  * 소재지: 부산광역시 부산진구 전포대로 274[3]
+  * 대표자: 윤주현, 김대곤 (기업 정보에 따라 이승주 대표 등 변동 이력 혹은 공동대표 체계 존재)[3][2][4]
+  * 주요 사업: 선불식 장기상품 중개거래 플랫폼 개발, 플랫폼 기반 소프트웨어 및 데이터 분석 서비스, 창업 보육 및 컨설팅[5][2]
+
+* **출원 및 지식재산권 관련 현황:**
+  * 주식회사 링크빈은 선불식 장기 상품 중개 거래 서비스(해약노노) 플랫폼 개발과 관련하여 **특허 출원** 및 관련 시스템 개발 이력을 가지고 있습니다[2][6].
+  * 기업 분석 데이터 및 IR 소개 자료 등에 따르면 관련 기술과 관련하여 다수의 특허 출원 및 보유 이력(특허보유기업 인증 등)이 확인됩니다[2][4].
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxaVFqgCV5Wgi0d4HioJjfOaAZOF-1xZTkaixgRBsdUZ1x5HDDDd0CzPjLCD__mfL8E4xYPO-qpvl3PqrF86vuMD1sfq90GYx30XQPmOt_Y5yZpur2MiKkHEo-airxfr8MFg==)
+[2] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Ml08YrlTenZVxr8ZrQhyZ_D9PyEzKeFOKK0IBB1lQ_oFuvHIh8AK6ynqLOkg3-UYQrvVdcYZ4xcmKyn-RlW2lYHSV2WGgQna0ybmzt5Ic53GX7in9SCQ9qSBsCx44lsQTg==)
+[3] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxaVFqgCV5Wgi0d4HioJjfOaAZOF-1xZTkaixgRBsdUZ1x5HDDDd0CzPjLCD__mfL8E4xYPO-qpvl3PqrF86vuMD1sfq90GYx30XQPmOt_Y5yZpur2MiKkHEo-airxfr8MFg==)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6tduacIxoA7-F7ZQFcMXkh8QdCaf6R6C_xGzXWpIQ1nBXwnDyjC__sVygIqZI--7lBAvAKWe0oA-48roz96EJBAhQF3h81JGE_Q7CxKAW8Ijmz2YG4AEYq7xf2mpRQinmGndBBZkeoRmHKAlNy-CKXV4HAVkd0PZgFrf4rV5rXoYaPS4=)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBWmuafrmho8-kFjqmDgiKawjWwTC15h-wSVo7zoSxpgOWdIogz7QdBqXsNIa_TzJ3veVNaFi7eJf63_ilScKngSka4hLA4LIz3MT4OuPVgue237dYO22JMBlMB7DBsD0EmzD0iYyS01rbgFqhW1psqMiDc9Kt14MoXOs2cEvppplutNpPTbfsw1J-nw68BXjYQtV5ONCzqeDDzWH9sKvfmV5GgS7SciTybH7BgxczdQeK5NkkSAFcfK0fzlcFgWWW)
+[6] [visitkorea.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjBaiiivBfHPvKOzsnz979r9uerdCVZFeiha7rktimpMrLc1_FptVqmyK3yV9AywECsDAPbCWCMJ1RXeQiFtRldwQBpBRUuC65d_xpAotdFpjHozvCmNSSsROkQ4yeoFRcazxnJoqIuOM4KDn9pDNv6fgYE25LzGO8ZpJ3QFNrgogecR7zXIEo3kNIT-M5rx8=)

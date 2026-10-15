@@ -1,0 +1,62 @@
+### Page
+- Page URL: https://moneypin.biz/bizno/
+- Page Title: 사업자등록번호 조회 - 사업자정보 플랫폼
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - list [ref=e5]:
+          - listitem [ref=e6]
+          - listitem [ref=e10]
+          - listitem [ref=e25]
+    - main [ref=e27]:
+      - generic [ref=e28]:
+        - heading "사업자등록번호 조회 - 사업자정보 플랫폼" [level=1] [ref=e29]
+        - paragraph [ref=e30]: 대한민국 모든 사업자를 검색하고, 연결하세요
+        - generic [ref=e31]:
+          - textbox "사업자번호, 상호, 대표자, 키워드 입력" [active] [ref=e35]
+          - generic [ref=e37]
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - iframe [ref=e176]:
+            - link [ref=f7e2] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuCnDXHjBFuEg147Hmp5eFn1i_SzXhvNmyP6KQd7D-B5pEyK2T9THCUf9UOtxbMKshZ-5vucWbkK38xDfzdivxyfIvmFhwa1gkuXEaf1hugEfbNalrzPNIMiEke-ko6c638g5bierdQdqYBo-J1D_aDotSyjvJfZNKK6sQw9FGjYhlh9nO8urCLvIBIyIPVdrmbRIGtQP3OB-uXGzD67refnCkVAY_SXpZg-_z9ELWoIFpS5BeufOYfWw_T8qvknnl-d2nJKsSR1a5yU5eAFzAjx7ruR0QLBafvbmP5f8eHDWq1aj83QlukWXVOfNaMrE3jGJWtg-Wr5w6Ed8t1rI13_laGHfRXoLFHOzo29z3MkIAIdHVmgU1AxjXb-B2K8Lbfooyd5HvuaF4ZaH_-IiiuHtf_qygfJrJaiK3aDR-juftVDIXdkt6w83WY&sai=AMfl-YSkL07ncn5o92hFO90OU2ZHByqzoxHJ9FcL5ebbrBdnSTvMj2MM5yOXJ-H2dOddy5pUS0_rYtz8q11eD-NJyvYgazZCFs2dqm5Khz7Wh5sR0R6Nagd5HjvTR7bbZ3TO1JXuF1H_834s0LBG0KqSZl4m_Ax9TF1wf1M_7QISDx78yqXBtoyb3248suAQIemTAUJrnXzc8GfhWu3qg46ladnAvf4-Lz-YhTKWHtkXHlf2YYeg1utiThXGu7UyzNAoLPZ-iqxoe18iiDPmD2dJVSk87WqK92WhVZjRAo-BvVPikBXgcxG3P8e39yFtcP7vPnhF2SHCYHt0zEbkJgApCrcOZTtnIkHQlrYpb0obgi53g-boiNwB0Q&sig=Cg0ArKJSzJ-BBBGRwazK&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://moneypin.app.link/e/mpinaccounting
+          - complementary [ref=e177]
+        - generic [ref=e225]:
+          - article [ref=e226]
+          - iframe [ref=e546]:
+            - generic [ref=f8e2]:
+              - iframe [ref=f8e5]:
+                - generic [ref=f15e2] [cursor=pointer]
+              - generic [ref=f8e6]:
+                - generic:
+                  - generic [ref=f8e7] [cursor=pointer]
+                  - button [ref=f8e12] [cursor=pointer]
+          - generic [ref=e547]
+    - contentinfo [ref=e580]:
+      - separator [ref=e581]
+      - generic [ref=e582]:
+        - generic [ref=e583]:
+          - text: (주)모두의회계 | 대표 김홍락
+          - generic [ref=e584]: "|"
+          - text: 서울시 서초구 사평대로57길 29, 2층070-8655-2970 | support@moneypin.biz
+          - generic [ref=e585]: "|"
+          - button "사업자등록번호 확인" [ref=e586] [cursor=pointer]
+          - generic [ref=e587]: "|"
+          - link "통신판매업 신고번호 2024-서울서초-2538" [ref=e588] [cursor=pointer]:
+            - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=6428700732
+          - generic [ref=e589]: "|"
+          - link "이용약관" [ref=e590] [cursor=pointer]:
+            - /url: https://help.moneypin.biz/5c2e9d808aa74ae286eead24854332f9
+          - text: "|"
+          - link "개인정보처리방침" [ref=e591] [cursor=pointer]:
+            - /url: https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715
+        - list [ref=e593]:
+          - listitem [ref=e594]
+          - listitem [ref=e600]
+          - listitem [ref=e606]
+  - alert [ref=e612]
+```

@@ -1,0 +1,29 @@
+### Result
+{
+  "r1": [],
+  "r2": [],
+  "r3": [
+    {
+      "bizno": "5041991494",
+      "name": "선진광학",
+      "rep": "민재원",
+      "addr": "대구 북구 오봉로2길 15-6",
+      "industry": "기타 제품 제조업"
+    },
+    {
+      "bizno": "1308611516",
+      "name": "(주)신비선진광학",
+      "rep": "이석금",
+      "addr": "경기 부천시 오정구 삼작로 22, 100동 지층 10호 (삼정동,부천테크노파크1단지)"
+    }
+  ],
+  "r4": []
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n\n  async function queryNice(keyword) {\n    store.isFetched = false;\n    const input = document.querySelector(\'input[placeholder*="기업명"]\');\n    input.value = keyword;\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keyup\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    for (let i = 0; i < 40; i++) {\n      await new Promise(r => setTimeout(r, 100));\n      if (store.isFetched && store.searchKeyword === keyword) break;\n    }\n    return (store.searchResultList || []).map(r => ({\n      bizno: r.bizno,\n      name: r.korentrnm,\n      rep: r.korreprnm,\n      addr: r.koraddr,\n      industry: r.sanupscd_kor\n    }));\n  }\n\n  const r1 = await queryNice(\'가야정기\');\n  const r2 = await queryNice(\'6090817814\');\n  const r3 = await queryNice(\'선진광학\');\n  const r4 = await queryNice(\'6091156404\');\n  return { r1, r2, r3, r4 };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6091156404
+- Page Title: '6091156404' - 검색상세
+- Console: 1 errors, 0 warnings

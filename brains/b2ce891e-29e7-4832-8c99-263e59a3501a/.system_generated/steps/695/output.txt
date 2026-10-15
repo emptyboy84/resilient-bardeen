@@ -1,0 +1,10 @@
+The search for "site:allthatcompany.com "에스지이" OR "186-86-03173"" returned the following summary:
+국세청 사업자 등록 정보 및 기업 데이터베이스 기준으로 **(주)에스지이**와 관련된 상세 정보는 다음과 같습니다.
+
+* **회사명:** 주식회사 에스지이 ((주)에스지이)[1]
+* **사업자등록번호:** 186-86-03173[1]
+* **기업 상태:** 계속사업자 (영업 중)[1]
+* **상시 근로자 수:** 약 1명 (고용보험 가입 기준)[1]
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc0r6KOt1AETl2r7Z9AjCo9IUKOtaNc2SWjZAa8_EyHLUQq5KOehUg0FAHWhVRBm5T7vM-M4mSAIaYz2Y9iZ1OtgmedFWTuqrdx04iR63CdGWjooOlch3Jpw==)

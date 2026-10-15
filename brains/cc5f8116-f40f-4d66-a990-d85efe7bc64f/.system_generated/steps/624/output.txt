@@ -1,0 +1,31 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:101
++ ... ta\s+name=[\"\']description[\"\']\s+content=[\"\'](.*?)[\"\']', html)
++                                                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:20
++     print('Error:', e)
++                    ~
+',' �ڿ� � �ϴ�.
+�ġ �:12 �:21
++     print('Error:', e)
++                     ~
+� �Ǵ� � �ġ � 'e' �ū�Դϴ�.
+�ġ �:12 �:20
++     print('Error:', e)
++                    ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:12 �:22
++     print('Error:', e)
++                      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:13 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

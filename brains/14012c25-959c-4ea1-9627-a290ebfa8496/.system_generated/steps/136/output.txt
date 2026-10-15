@@ -1,0 +1,216 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "size": 47,
+    "mtime": "2026-10-14T00:46:55.224Z"
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "size": 859,
+    "mtime": "2026-10-14T00:46:55.226Z"
+  },
+  {
+    "name": "all_500_factchecked.tsv",
+    "path": "all_500_factchecked.tsv",
+    "size": 134720,
+    "mtime": "2026-10-14T00:46:55.228Z"
+  },
+  {
+    "name": "all_500_verified.tsv",
+    "path": "all_500_verified.tsv",
+    "size": 138057,
+    "mtime": "2026-10-14T00:46:55.231Z"
+  },
+  {
+    "name": "article_test.html",
+    "path": "article_test.html",
+    "size": 25920,
+    "mtime": "2026-10-14T00:46:55.232Z"
+  },
+  {
+    "name": "bizno_filtered_result.csv",
+    "path": "bizno_filtered_result.csv",
+    "size": 128152,
+    "mtime": "2026-10-14T00:46:55.237Z"
+  },
+  {
+    "name": "bizno_filtered_result.tsv",
+    "path": "bizno_filtered_result.tsv",
+    "size": 130093,
+    "mtime": "2026-10-14T00:46:55.239Z"
+  },
+  {
+    "name": "bizno_filtered_result_nice.csv",
+    "path": "bizno_filtered_result_nice.csv",
+    "size": 130977,
+    "mtime": "2026-10-14T00:46:55.241Z"
+  },
+  {
+    "name": "bizno_filtered_result_nice.tsv",
+    "path": "bizno_filtered_result_nice.tsv",
+    "size": 130093,
+    "mtime": "2026-10-14T00:46:55.243Z"
+  },
+  {
+    "name": "bizno_page.html",
+    "path": "bizno_page.html",
+    "size": 0,
+    "mtime": "2026-10-14T00:47:27.061Z"
+  },
+  {
+    "name": "bizno_test.html",
+    "path": "bizno_test.html",
+    "size": 24690,
+    "mtime": "2026-10-14T00:46:55.245Z"
+  },
+  {
+    "name": "README_대화기록.md",
+    "path": "brain_logs\\README_대화기록.md",
+    "size": 427448,
+    "mtime": "2026-10-14T00:46:55.251Z"
+  },
+  {
+    "name": "audit_74.js",
+    "path": "brain_logs\\scratch\\audit_74.js",
+    "size": 3533,
+    "mtime": "2026-10-14T00:46:55.253Z"
+  },
+  {
+    "name": "audit_74.js.metadata.json",
+    "path": "brain_logs\\scratch\\audit_74.js.metadata.json",
+    "size": 129,
+    "mtime": "2026-10-14T00:46:55.254Z"
+  },
+  {
+    "name": "check_74.tsv",
+    "path": "brain_logs\\scratch\\check_74.tsv",
+    "size": 19029,
+    "mtime": "2026-10-14T00:46:55.255Z"
+  },
+  {
+    "name": "check_74.tsv.metadata.json",
+    "path": "brain_logs\\scratch\\check_74.tsv.metadata.json",
+    "size": 110,
+    "mtime": "2026-10-14T00:46:55.255Z"
+  },
+  {
+    "name": "prep_repo.js",
+    "path": "brain_logs\\scratch\\prep_repo.js",
+    "size": 1182,
+    "mtime": "2026-10-14T00:46:55.256Z"
+  },
+  {
+    "name": "prep_repo.js.metadata.json",
+    "path": "brain_logs\\scratch\\prep_repo.js.metadata.json",
+    "size": 115,
+    "mtime": "2026-10-14T00:46:55.257Z"
+  },
+  {
+    "name": "transcript.jsonl",
+    "path": "brain_logs\\transcript.jsonl",
+    "size": 670439,
+    "mtime": "2026-10-14T00:46:55.262Z"
+  },
+  {
+    "name": "transcript_full.jsonl",
+    "path": "brain_logs\\transcript_full.jsonl",
+    "size": 1262342,
+    "mtime": "2026-10-14T00:46:55.274Z"
+  },
+  {
+    "name": "current_pasted_batch.tsv",
+    "path": "current_pasted_batch.tsv",
+    "size": 110584,
+    "mtime": "2026-10-14T00:46:55.276Z"
+  },
+  {
+    "name": "(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx",
+    "path": "data\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx",
+    "size": 11200645,
+    "mtime": "2026-10-14T00:46:55.339Z"
+  },
+  {
+    "name": "배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx",
+    "path": "data\\배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx",
+    "size": 193688,
+    "mtime": "2026-10-14T00:46:55.344Z"
+  },
+  {
+    "name": "배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv",
+    "path": "data\\배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv",
+    "size": 30094,
+    "mtime": "2026-10-14T00:46:55.345Z"
+  },
+  {
+    "name": "merged_500_perfect.tsv",
+    "path": "merged_500_perfect.tsv",
+    "size": 138448,
+    "mtime": "2026-10-14T00:46:55.347Z"
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "size": 41125,
+    "mtime": "2026-10-14T00:46:57.714Z"
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "size": 85,
+    "mtime": "2026-10-14T00:46:57.715Z"
+  },
+  {
+    "name": "query_test.html",
+    "path": "query_test.html",
+    "size": 17011,
+    "mtime": "2026-10-14T00:46:57.716Z"
+  },
+  {
+    "name": "rows_11847_12000_16col.tsv",
+    "path": "rows_11847_12000_16col.tsv",
+    "size": 36805,
+    "mtime": "2026-10-14T00:46:57.717Z"
+  },
+  {
+    "name": "rows_11847_12000_17col.tsv",
+    "path": "rows_11847_12000_17col.tsv",
+    "size": 37115,
+    "mtime": "2026-10-14T00:46:57.719Z"
+  },
+  {
+    "name": "rows_11847_12000_verified.tsv",
+    "path": "rows_11847_12000_verified.tsv",
+    "size": 38655,
+    "mtime": "2026-10-14T00:46:57.720Z"
+  },
+  {
+    "name": "user_pasted_rows.tsv",
+    "path": "user_pasted_rows.tsv",
+    "size": 192164,
+    "mtime": "2026-10-14T00:46:57.722Z"
+  },
+  {
+    "name": "winners_full.html",
+    "path": "winners_full.html",
+    "size": 29506,
+    "mtime": "2026-10-14T00:57:31.069Z"
+  },
+  {
+    "name": "법인등록번호_추적_및_검증_가이드_110111-8382593.md",
+    "path": "법인등록번호_추적_및_검증_가이드_110111-8382593.md",
+    "size": 4157,
+    "mtime": "2026-10-14T00:46:57.723Z"
+  },
+  {
+    "name": "법인등록번호_추적_및_검증_가이드_110111-8382593.pdf",
+    "path": "법인등록번호_추적_및_검증_가이드_110111-8382593.pdf",
+    "size": 169882,
+    "mtime": "2026-10-14T00:46:57.726Z"
+  }
+]
+

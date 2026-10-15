@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+Found [주식회사 브이드림] at CSV Row 703 (Seq 702): Biz=186-86-00972, S24=6,900,000,000, S25=6,000,000,000
+Found [디자인에코] at CSV Row 639 (Seq 638): Biz=603-10-85753, S24=375,110,000, S25=
+NOT found in CSV: [산마루(주)]
+NOT found in CSV: [주식회사 클린스쿨]
+NOT found in CSV: [(주)한스이엔지]
+NOT found in CSV: [한솔교육(부산)]
+Found [비비스로지틱스] at CSV Row 1686 (Seq 1685): Biz=835-02-03047, S24= 98,973,000 , S25=
+NOT found in CSV: [(주)아이지오]
+Found [(주)창비부산] at CSV Row 1757 (Seq 1756): Biz=757-85-01489, S24= 42,675,000,000 , S25=
+Found [새부산기독교서적센타] at CSV Row 1763 (Seq 1762): Biz=607-99-75121, S24= 1,318,523,000 , S25= 1,408,424,000 
+Found [북컬쳐(부산)] at CSV Row 1773 (Seq 1772): Biz=622-01-46462, S24=, S25=
+Found [주식회사 아트몰링리노베이션] at CSV Row 1778 (Seq 1777): Biz=409-87-03113, S24= 849,340,000 , S25=
+Found [영풍문고 신세계 센텀시티점] at CSV Row 1786 (Seq 1785): Biz=, S24=, S25=
+Found [（주）교보문고 해운대 팝업스토어] at CSV Row 1789 (Seq 1788): Biz=, S24=, S25=
+Found [노블레스미디어인터내셔날부산] at CSV Row 1795 (Seq 1794): Biz=, S24=, S25=
+Found [케이텍] at CSV Row 1800 (Seq 1799): Biz=714-11-01026, S24=, S25=
+Found [롯데쇼핑(주)토이저러스 동부산점] at CSV Row 1804 (Seq 1803): Biz=, S24=, S25=
+Found [미디어CAPSULE] at CSV Row 1806 (Seq 1805): Biz=607-10-88688, S24=, S25= 2,200,080,000 
+Found [(주)삼성출판사 롯데동래점] at CSV Row 1807 (Seq 1806): Biz=343-85-00791, S24= 40,565,000,000 , S25= 40,291,000,000 
+NOT found in CSV: [주식회사 로파스튜디오]
+NOT found in CSV: [레고스토어 (센텀시티몰점)]
+Found [야야토이] at CSV Row 1815 (Seq 1814): Biz=603-85-25388, S24= 3,290,200,000 , S25= 3,407,000,000 
+Found [또래나라] at CSV Row 1816 (Seq 1815): Biz=621-81-83675, S24= 11,200,000,000 , S25=
+NOT found in CSV: [함께가는사람들김해지점]
+Found [이소민] at CSV Row 1818 (Seq 1817): Biz=603-37-96242, S24=, S25=
+NOT found in CSV: [주식회사 하날]
+NOT found in CSV: [주식회사 바나나러닝]
+

@@ -1,0 +1,11 @@
+The search for ""주식회사 씨에스케이" OR "893-88-00021" "임오철" 매출액 OR 부산" returned the following summary:
+요청하신 "주식회사 씨에스케이" 또는 사업자등록번호 "893-88-00021"와 관련된 정보는 검색 결과에서 명확하게 확인되지 않습니다.
+
+검색 과정에서 '주식회사 씨에스케이'라는 명칭은 다른 기업들의 채용 정보 등에 포함되어 나타나기도 하나, 입력하신 특정 사업자등록번호(893-88-00021)나 대표자명 '임오철'과 직접적으로 연계된 공식적인 기업 정보는 찾을 수 없었습니다[1][2][3].
+
+혹시 기업의 정확한 명칭이나 사업자번호를 다시 한번 확인해 보시기를 권장드립니다. 특정 기업에 대한 추가 정보가 필요하시다면 다른 키워드(예: 주소지, 업종 등)를 함께 검색해 보시기 바랍니다.
+
+Sources:
+[1] [indeed.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9gqs-8vGtT4kSpEAcQFUXAe6IiaWnlIk4mri6zu50tZ_5hiQwoIZhQks4ACX-DhXiGjPntTxPNG57Zv87-YnzepARsxGfdSFVZkSDoD5h2pzsDnbJMpt6e_VQe5e-vHzkdhWHdyNrso7CUt98xirITkcs0jNBzY9rQb1hV2q8wO5QULglSWZbXIy15qrLvlX48fpA0TUFLdaBSwKtYziokbD-6vsHBmOVB3EE7nFTZX_aFNvjdV58xP6cTmUfUyPZPAkhehyofaYdpo8m6S_tm4ApyTbPQuzt1nb-)
+[2] [indeed.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcVFityS1nrbgQfFO8G55QBYI39LvDmMYHUShCAKal4at6GqKPUSUJ1uGiRB_Dttbie6lhU6S84ozC2858xb5rdawDAE5mM2_ZcYZQ6wvQ1H9E8j_wNxhHcsw4GQd1jBdyWM9aE7M4lh4pKeIiPzmPP6K8y6euJn_CotmzqzT1suu0bZOr7OQrlIYqOyJxxaxB9w6EmM76QfPAD8dYr2sjtDXzPINvD2QnpKumfCymohDyLrR3Tp1Ja7HZ3Rjj_eIkFK96e6vUOW4P3QAekeuHZN5ENy-1RRF9Bk37rZ7Uo-IPkh-6zWwagqpRtTB5)
+[3] [indeed.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx2lPW_2HcPCzYWlWLkAMbcjHYvtGdCowhDTWJA2R0y2O-2akHNFe-lTOqHGc8k5XW2Grx9ztLkGyp5xFN0snZPJSBqhtTtmk4uQbsI1cZeHzrDQYDDisKpkLZdvzT2hITFjhWCC8ySCaheRCdS-APl4dNaZGupZDRsGfdyyTrMaEdaoKgTI8BeniTa_NFssmTfQKgq7Z5tOqaI4P0osFLmg5Ch2C2RdaK83wFoj2njN6kVA159FYXtt4d)

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+m.year: "2009"
+m.emp: "10"
+m.source: "https://bizno.net/article/6031085753"
+

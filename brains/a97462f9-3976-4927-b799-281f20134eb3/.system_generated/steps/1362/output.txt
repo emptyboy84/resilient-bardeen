@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/051-464-0761');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/051-464-0761
+- Page Title: 051-464-0761 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-06-07-229Z.yml)

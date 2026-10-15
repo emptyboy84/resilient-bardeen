@@ -1,0 +1,11 @@
+### Result
+Waited for 30 seconds (requested 2000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://www.gongsinara.com/
+- Page Title: 공시나라 - 기업정보 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-27-22-743Z.yml)

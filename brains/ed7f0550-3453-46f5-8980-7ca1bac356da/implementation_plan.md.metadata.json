@@ -1,0 +1,6 @@
+{
+  "summary":  "프록시 서버(server.js)의 네이버 도메인 에뮬레이션(mock) 스크립트가 모든 웹 페이지 요청에 강제 인젝션되어 bizno.net 등 일반 사이트의 작동을 방해하는 문제를 해결하기 위한 수정 계획입니다. 또한, gzip/brotli 압축 응답으로 인해 응답 본문이 깨지는 현상을 방지하기 위해 Accept-Encoding 헤더를 지우는 대응을 포함합니다.",
+  "updatedAt":  "2026-06-22T23:53:00.792487300Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

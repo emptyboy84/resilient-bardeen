@@ -1,0 +1,17 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 544 lines>
+=> MATCH CONFIRMED: 893-88-02112 (주식회사 오스타미디어) | 주소: "부산광역시 해운대구 세실로27번길 11-0 (좌동) 3층 303호 (좌동, 대승코아)" | 대표: "황수웅" [계속사업자]
+[260/421] Row 2096 | "브리티시인터내셔널" | 대표: "손지형" | 구: "해운대구"
+  => MATCH CONFIRMED: 550-81-01411 (주식회사 브리티시인터내셔널) | 주소: "부산광역시 해운대구 센텀동로 45, 305호" | 대표: "손지형" [계속사업자]
+  >>> Progress Saved: 260/421 | Matched: 68 | Unverifiable: 192 <<<
+[261/421] Row 2097 | "한울커뮤니케이션" | 대표: "여동식" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[262/421] Row 2098 | "대주기획" | 대표: "차니은" | 구: ""
+  => MATCH CONFIRMED: 607-17-15525 (대주기획) | 주소: "부산광역시 금정구 금정로 113 383-5 3층 304호" | 대표: "차니은" [계속사업자]
+[263/421] Row 2099 | "신흥상사" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+
+Last progress: 0s ago

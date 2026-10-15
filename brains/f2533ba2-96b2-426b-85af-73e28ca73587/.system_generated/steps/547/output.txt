@@ -1,0 +1,14 @@
+The search for "site:nicebizinfo.com inurl:search OR inurl:company OR inurl:basic" returned the following summary:
+나이스비즈인포(NICE BizINFO)에서 제공하는 기업 정보 페이지들은 일반적으로 `company` 및 `basic` 등의 경로를 포함하여 구성되어 있습니다. 아래는 해당 사이트에서 기업 정보를 조회할 수 있는 주요 페이지 예시들입니다.
+
+*   **기업 상세 정보 페이지 예시:**
+    *   오성철강사: [https://www.nicebizinfo.com/company/basic/119-20-7****](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9qppXIi3lqSJwOTDLKuFnwAEQhU98mjWhnp6n0Oz3Ua0VvgqTBmUN9uL9xSwW5oCtpM6PDXocVGnmWQHnsN_Mvrnu4Hcf0l4S9_-jNtMEloamu61uJWhTLa7uxHiPT4yO6b9Z2YeqLXIPIgB5VT8hfz61Zw==)[1]
+    *   (주)지에스라이프라인: [https://www.nicebizinfo.com/company/basic/758-88-0****](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKbe_f-1m70rCSnw08NjKE5wqzik4bkZciVj3UOcsIJk2Hnh1XKcS9X3mYdj1r0YEdLFKGR1hlPYS4qG0q04TE2yAmy9XbyQ4dNccsShJcVzzLXiol79BBC0dltFvnc4RPWVWqTJWBDb9p_bRSipFzBEo=)[2]
+    *   (주)다빈리써치: [https://www.nicebizinfo.com/company/basic/220-86-0****](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3QGaWbsB6hrFDyFbED55BgbC90kEThwYi6AwJp3M6Xqj-huOoS8wdlM75Bg2oqy2jBaQYy5rVpG_Y3R4XumUwK0jMZMaQb5qVLQlBwMh-wAmhZTg1XqjFck0apRBn_XEjAswOduzFu-kheJ9njOxUawQ=)[3]
+
+이러한 페이지들에서는 사업자 및 법인 등록 정보를 기준으로 한 기업 개요, 재무 정보, 연봉 및 종업원 정보 등을 확인할 수 있습니다[1][2][3]. 특정 기업의 정보를 검색하려면 나이스비즈인포 공식 홈페이지의 검색창을 이용하시는 것을 권장합니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9qppXIi3lqSJwOTDLKuFnwAEQhU98mjWhnp6n0Oz3Ua0VvgqTBmUN9uL9xSwW5oCtpM6PDXocVGnmWQHnsN_Mvrnu4Hcf0l4S9_-jNtMEloamu61uJWhTLa7uxHiPT4yO6b9Z2YeqLXIPIgB5VT8hfz61Zw==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKbe_f-1m70rCSnw08NjKE5wqzik4bkZciVj3UOcsIJk2Hnh1XKcS9X3mYdj1r0YEdLFKGR1hlPYS4qG0q04TE2yAmy9XbyQ4dNccsShJcVzzLXiol79BBC0dltFvnc4RPWVWqTJWBDb9p_bRSipFzBEo=)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3QGaWbsB6hrFDyFbED55BgbC90kEThwYi6AwJp3M6Xqj-huOoS8wdlM75Bg2oqy2jBaQYy5rVpG_Y3R4XumUwK0jMZMaQb5qVLQlBwMh-wAmhZTg1XqjFck0apRBn_XEjAswOduzFu-kheJ9njOxUawQ=)

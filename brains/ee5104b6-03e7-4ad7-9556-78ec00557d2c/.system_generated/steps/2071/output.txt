@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090731236');
+```
+### Page
+- Page URL: https://bizno.net/article/6090731236
+- Page Title: 주미엔지니어링
+- Console: 1 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T01-20-04-970Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T01-19-58-893Z.log#L1-L9

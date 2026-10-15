@@ -1,0 +1,1 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\exclude_excel_features\\AGENTS.md","LineNumber":4,"LineContent":"- 엑셀 프로세스 간섭/종료 금지: 현재 실행 중인 엑셀(Excel, EXCEL.EXE 등) 프로세스를 절대로 강제 종료(kill)하거나 건들지 말 것. 작업 중인 사용자의 문서 상태를 유지할 것."}

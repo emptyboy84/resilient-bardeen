@@ -1,0 +1,24 @@
+The search for "site:busan.com "부서" "전화번호" OR "조직도" OR "회사소개"" returned the following summary:
+부산광역시청 및 유관기관의 부서, 전화번호, 조직도, 회사소개(기관 소개)와 관련된 정보는 아래 공식 페이지들에서 확인하실 수 있습니다.
+
+* **부산광역시청 조직도 및 직원검색 (전화번호 안내):**
+  * [부산시청 조직도 및 부서 안내](https://www.busan.go.kr/humanframe/theme/busan22/assets/img/content/loader.gif)[1]
+  * [부산광역시 행정전화번호부 및 조직도 메인](https://www.busan.go.kr/index)[2]
+
+* **주요 부산 산하 공공기관 조직도 및 연락처:**
+  * [부산시설공단 조직도 및 연락처](https://www.bisco.or.kr/)[3]
+  * [부산교통공사 공사소개 및 부서안내](https://www.humetro.busan.kr/)[4]
+  * [부산항시설관리센터 조직도](https://www.bpfc.or.kr/)[5]
+  * [부산문화재단 조직도 및 부서별 업무](https://www.bscf.or.kr/)[6]
+
+* **기타 기관:**
+  * [부산광역시교육청 조직도 및 부서안내](https://www.pen.go.kr/)[7]
+
+Sources:
+[1] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlfflvpDiZ5Pgc4PIY_Z6Qaxfh8hRN9qkXsLjspQKHvjMrrruN1-oiFzknBou5-CGfiyKSDOtzqnuL0U2Dq6Pi621MUsMHo1BALK5HDs1x5LU_tfaYUx8=)
+[2] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt6wIeBKX4Whpa-nFEbDplX0wXq48ftb6h8z4972_fvJQSVjOEQpjFOQETMpt1IHNC1r62q8GWFtTa90m0woGGnOtVVHOSD7gQWjAoMJXRMUZKcZwzeKhMHJnhIykV)
+[3] [bisco.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGuEoNnyiFYq4u0W1K213Kv4W-XwXRgYSgSvbSA-glB1HoQniX-mq6Yi4pJKSoGG3k6LqmNb9K4a6x_sjmhVSmNbU3kejogGtC0IMSkjUR9g4n0nYBla3ywSJPlMnU7extVcjOga8=)
+[4] [humetro.busan.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVqQMDg8jzgWsOHFspeUKhTx1LL2mB2HbiaxvXx0V-1lVEQ6BUGBWcoXCiVZwkFW-Qq2-oQqleLYBRyT_44mZxdLdu5p_9MxWBA0E4PWoS1DPBsC9Za5CT-przAzayO4_AiYSttvR4e-q2hAr3mVbn7bRaw5a0ZcLP74Yk1uu9YBAH4uVo59Fn2TGVkz_b2jdWeFJ2RHzdP39EpU4WmcTdAKvusSBWq6t4S8HxpdWzrw==)
+[5] [bpfmc.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyvwgLciH4J8LimSvG6H4FPATLm5TGmwoZoc4308OU_XQNmy2o_u0t8Rl1dDWUH_o4qlDBNoW5Onq6Jki4jXrxng8HyqYyvLN1a-OwUmMx69caXPO_fJsv2kGh_OK2B8hB3Q_PsJfwNl-c)
+[6] [bscf.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_pVhp6NLzag0gdlLMrXYSosTkUhoD2WZbOWktJbyowJ2AMCtkS1dEwy6gZWDHzTtboD-NGroDkB6Pi94rXnwNum1TL7HTAw9VzCzoky7mvxbgsuPMSmguv9RozA==)
+[7] [pen.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIf8tCYolBRY89fplMrSR_wT5ZnrcYaqRndGDZAt2IHg_ImpxlNmqGB4gv8qvhZ0eoFJpq_G6Z-Fo7pSNAyZeUo2A43wBOV5_f4d49A6U6kMjOXNUDnYeOE_eDvQGWcyZfRp_5Bs7LMDvcNCxztFmfs8cZ3VH7pWzWNLXszEo=)

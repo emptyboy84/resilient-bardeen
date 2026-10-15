@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+197 0
+정성욱 0
+051 0
+070 20
+010 67
+02 259
+고객센터 0
+대표 0
+

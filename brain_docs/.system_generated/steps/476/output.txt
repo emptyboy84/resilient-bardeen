@@ -1,0 +1,15 @@
+The search for ""507-86-01751" OR ("주식회사 파이" "김도응")" returned the following summary:
+입력하신 검색어는 **주식회사 파이**의 사업자등록번호(`507-86-01751`)[1]와 해당 기업의 주요 인물(`김도응`)[2]에 대한 정보입니다. 
+
+* **기업명:** 주식회사 파이[2]
+* **사업자등록번호:** 507-86-01751[1]
+* **대표자/관계자:** 김도응[2]
+* **업종:** 컴퓨터시스템 통합 자문 및 구축 서비스업[3], 전자상거래 소매 중개업[4], 응용 소프트웨어 개발 및 공급업 등[1]
+
+특정 기업 정보 확인이나 사업자 상태 조회 등을 위해 검색하신 내용으로 보입니다. 추가로 필요하신 내용이 있다면 말씀해 주세요.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9PVh6SQetDARI32sp9F-GKy8wUWim0Ibg3zZC2I4TT_l09Kmkbz-EryNe_E4By9qYe9tjiC9yxCvNIpOHXamXGd7Yj7d9N-KfyCbTRQwTzBXn6nQ8wzMF)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2UTRh7cSdIinlOgP42lFQ4d0Nd0lRTCpHRJER2CR2BvUSkcX7gGv6U0Tr5NltfOB5QwfRG6_d8s0SidCO4wPBlYzrNCcOxdNHqPisU9SMOvfBD3CXwY4dHo=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfa-AtVhdoYEWQzGpydtGrz_IpqCN1bbnvL6lHNnPqfGHZjVhyJac0PN1mQ55w4rM1RtVTr5EX--q_43oulZ7OLVYfS57lN_P6cYMsZH4HHHJJL1nhghvxupoxStthBGpeM-E2LOQb2I8gjSn15v9-gghUx3-Taz755Pn2861-apVx7UsRkv0_nsclY7c_5SbadEigyQOoVuTwGelWcXbbmwbSQ4Wm-d_ojxwrkNVYsviNHBpHihxd)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErqBmtPiCYkfm_6TOwtTy27DqnnCfj578AR0JiUN_hhmYD7Q7MkX111hX75okTWKEndZyXlRhB2_Y6LwFLK45Yz1hlHHtT4LLnCeaykPEmpEgURSOkpqfnVMYzqrNsn4JYFq7-VmD27K8YmoiFeMswfh_lVaD-c-zLKS4c5RKydFZ-G0K90IJiJlhbaI7EbOPPqwBsGyk8VNBMl_6Js1dQKNnKRSsp-xNIqP4wzdydMkZ_nrIv5vGP)

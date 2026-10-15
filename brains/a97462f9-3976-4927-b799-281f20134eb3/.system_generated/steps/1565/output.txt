@@ -1,0 +1,25 @@
+### Result
+[
+  {
+    "id": "__basic_header__search_input__",
+    "className": "inp",
+    "placeholder": "전화번호, 상호, 업종 등을 입력해 주세요.",
+    "name": ""
+  },
+  {
+    "id": "_main__search_input_",
+    "className": "inp",
+    "placeholder": "지역, 상호, 업종, 전화번호를 입력해 주세요.",
+    "name": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ id: i.id, className: i.className, placeholder: i.placeholder, name: i.name }));\n}');
+```
+### Page
+- Page URL: https://www.114.co.kr/main
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 191 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-26-26-674Z.log#L147-L573

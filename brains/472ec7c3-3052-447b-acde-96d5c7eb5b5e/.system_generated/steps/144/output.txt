@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Written successfully! First 300 chars:
+var ad=Object.create;var wo=Object.defineProperty;var ld=Object.getOwnPropertyDescriptor;var cd=Object.getOwnPropertyNames;var ud=Object.getPrototypeOf,dd=Object.prototype.hasOwnProperty;var W=(e,t,n)=>()=>{if(n)throw n[0];try{return e&&(t=e(e=0)),t}catch(o){throw n=[o],o}};var _o=(e,t)=>{for(var n 
+

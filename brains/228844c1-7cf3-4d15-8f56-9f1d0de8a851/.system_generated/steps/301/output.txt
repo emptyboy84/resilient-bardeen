@@ -1,0 +1,6 @@
+### Result
+"✨\nLifeHub\n숙박/여행 \n문화/여가 \n미디어/제작 \n찾기\n홈 › video producers › (주)브이알코리아\n(주)브이알코리아\n카카오톡\n페이스북\n링크복사\n저장\n영업/정상\n주소\n부산광역시 해운대구 우동 **** 부산영화촬영스튜디오 *층\n연락처\n전화번호 검색\n\n[안내] 본 프로모션은 쿠팡파트너스 활동의 일환으로 소정의 수수료를 지급받습니다.\n\n상세 정보\n인허가 일자\t2010-01-13\n영업 상태\t영업/정상\n상세 상태\t영업중\n문화체육 종류\t비디오물제작업\n📍\n위치 및 지도\n100m\n© NAVER Corp.\n네이버 지도 열기\n카카오 맵 열기\n⭐ 이용 후기\n리뷰가 없습니다. 첫 리뷰를 남겨보세요!참고문헌\n리뷰 작성\n★\n★\n★\n★\n★\n등록\n✨\nLifeHub\n\n공공데이터를 활용하여 전국 53개 카테고리의 생활 및 문화 서비스 정보를 제공합니다.\n\n주요 서비스\n숙박업 정보\n노래연습장 정보\nPC방 정보\n여행사 정보\n고객지원\ngjqmaoslwj@naver.com\n평일 09:00 ~ 18:00 운영\n정보 수정 및 삭제 요청\n\n© 2026 LifeHub. All rights reserved.\n\nPowered by Public Data Portal\n\n✏️ 정보변경 요청"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return document.body.innerText;\n}');
+```

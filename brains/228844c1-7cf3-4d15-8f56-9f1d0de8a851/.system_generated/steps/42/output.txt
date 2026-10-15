@@ -1,0 +1,22 @@
+The search for ""브이알코리아" "부산" 사업자등록번호 OR 대표자 OR "302호"" returned the following summary:
+검색 결과, '브이알코리아'라는 명칭을 가진 기업이 과거 부산 지역에서 활동한 기록이 확인됩니다. 다만, 검색된 정보에 따르면 과거 부산문화콘텐츠콤플렉스 등에 입주했던 기업으로 보이며, 현재 운영 상태나 사업자등록번호 등에 대해서는 구체적인 최신 정보를 확인하기 어렵습니다[1].
+
+관련된 주요 내용은 다음과 같습니다.
+
+*   **기업명:** 브이알코리아(주)[1]
+*   **과거 소재지:** 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠콤플렉스 302호[1]
+*   **대표자:** 박학문[1][2][3]
+*   **참고 사항:** 2009년 설립된 것으로 기록되어 있으며[1], 2010년 'IT 엑스포 부산' 등에서 홀로그램 광고 제품 등을 전시한 바 있습니다[2][3]. 
+
+※ 주의: '브이알코리아' 또는 이와 유사한 명칭을 사용하는 기업(어메이즈브이알코리아, 오큘러스브이알코리아, 클래스브이알코리아 등)이 다수 존재하며, 소재지와 대표자가 모두 다르므로 확인하시는 기업이 위 정보와 일치하는지 반드시 재확인하시기 바랍니다[4][5][6][7]. 
+
+정확한 사업자등록번호나 현재 상태 확인이 필요하시다면, 해당 기업의 명칭과 함께 **국세청 홈택스(사업자등록상태조회)** 또는 **대법원 인터넷등기소(법인등기부등본 열람)**를 통해 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyZtv_e_esY6DcAotdWdLzer2Pf_HvSbNGU33ZpcNZ5M2MkcVFN1my3S6FR0Oejx7aEtRDudhlowzd8d9gKoWt1zsTh1liJTM0j1fCZnw_5qL39maxPDSTm0qdlTsjPqw2pACyMZAMFPI8BjR_uJlGHlBIPppIRM4t3vsz3n6Om4-mtjF-RHY59WnVga_0VkGK6kJHanpMe2iacLLo3RWBLQ==)
+[2] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIyAE-bZcJD1zwm8ZQsiHIB966Oat0pn4EJjn5pS2A3iU-ED7bNO43PYd-jxwY1dPsv309KZcZuCrVlqU5cFblXR4pjpOEh0ke4Ng-Sx8f6_Tn6ZwEyNkeRuxNLERUUl_OTdKGVp-rh8D7Hsq_)
+[3] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAmubP7L70k9cgs_tuNjbYUHp8meJcP0FBas4jiiwSTpGOmW_gTe2zCVSXSrAZBT9iJLGHa0bClTzevRBEMsPaTldk0yFZPM4k8RNaeGPp991WG7frXy6ETSg0d2MU_RL2i6umCCrd0B8TbVxv)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ1XW2ZMWyYgfxpnGyOyNaxnXKrs1vPXgbiijMlbQJHRlYVfXnghq44WaN9J77EYPvNn5Jh12XlvHr9PiodeZY0CRmBiGXI0OLE1iP8jd9JKXBajMWmnId1L1g1wcDYLmt_2ysRUJ-ajNO68EuV6FrbdXAAZ9I13Z15gxWuKWOeU54UkMROCIZSAaLVw==)
+[5] [kcopa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6zfFBRORco8BVf1_b8-kf3UBJqKciJgKxc9MK_XbfpmgWruDT5T7YoRu0FHMPxG-IkdD72RXn4_cY9LVH3PX6yOC8jYKoycD6CZ0KucrBYqatG6NkaRZzq8_b2TrfavcRaEmwBNBg-AePYqPPO4MGTRmzSX7PQlSyMVrNj4J_zs9y6uPy0Cw=)
+[6] [kbench.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiN-eGIVIWYpTKEe_V0i5VBJ2CCUG_s7cNWglMlF5vQiwZydBjMenksvPdCPtvOvKKnKB8-2M9gU7TPfBPwckzXdqmJ16mDSmsgYK9GYEm5GoizahwhujWGg==)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0jxAQZJqR7fdW_dezT8NMVeXJjw3A4xj6MkIVCImbw0sCeA70h3GZsyR9KjUXs_rxvv7HPtlP0AiCQ6bxKlM36VNdb-siTFYH3Z-ErajUcDm0VNyBpqLgIAW1-A==)

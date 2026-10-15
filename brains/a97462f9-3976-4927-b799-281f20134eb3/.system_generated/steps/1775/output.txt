@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+// Press Enter
+await page.keyboard.press('Enter');
+```
+### Page
+- Page URL: https://cookiedeal.io/company-search?preset=ai-semiconductor&prod=%EA%B2%80%EC%82%AC%EC%9E%A5%EB%B9%84%2C%ED%94%84%EB%A1%9C%EB%B2%84%2C%EC%9B%A8%EC%9D%B4%ED%8D%BC+%EA%B0%80%EA%B3%B5%EC%9E%A5%EB%B9%84%2C%EC%8B%9D%EA%B0%81%2F%EC%A6%9D%EC%B0%A9%EC%9E%A5%EB%B9%84%2CAI+%EC%98%81%EC%83%81%EB%B6%84%EC%84%9D%2C%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%2C%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC&page=1
+- Page Title: 기업탐색 | 쿠키딜
+- Console: 3 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-04-14-594Z.yml)

@@ -1,0 +1,53 @@
+
+The command exited with code 0.
+Output:
+{
+  "item": {
+    "rowNum": 19264,
+    "author": "배현명",
+    "status": "",
+    "company": "윤슬컴퍼니",
+    "bizno": "7674100917",
+    "ceo": "박*진",
+    "zip": "",
+    "addr": "부산광역시 사하구 신산로 120, B동 10층 1017호 (신평동) B동 10층 1017호",
+    "tel": "",
+    "fax": "",
+    "homepage": "",
+    "email": "",
+    "employees": "2",
+    "industry": "데이터베이스 및 온라인정보 제공업",
+    "corpNo": "",
+    "closingMonth": "",
+    "indLarge": "",
+    "indMid": "",
+    "indSmall": ""
+  },
+  "ok": true,
+  "parsed": {
+    "bizno": "7674100917",
+    "company": "",
+    "status": "정상",
+    "statusDesc": "계속사업자",
+    "ceo": "",
+    "zip": "",
+    "addr": "-",
+    "addrJibun": "",
+    "tel": "",
+    "fax": "",
+    "homepage": "",
+    "email": "",
+    "corpNo": "",
+    "entityType": "개인과세사업자",
+    "taxType": "-",
+    "employees": "",
+    "industry": "",
+    "uptae": "",
+    "catLarge": "",
+    "catMid": "",
+    "catSmall": "",
+    "catDetail": "",
+    "closingMonth": ""
+  }
+}
+

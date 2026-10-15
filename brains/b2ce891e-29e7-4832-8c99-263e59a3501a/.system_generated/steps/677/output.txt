@@ -1,0 +1,7 @@
+The search for ""186-86-03173" OR "1868603173" OR "191111-0110614"" returned the following summary:
+The strings you provided appear to be identifiers or reference codes from different contexts:
+
+1. **`186-86-03173`** or **`1868603173`**: This format strongly resembles a South Korean business registration number (*사업자등록번호*), which typically follows an `XXX-XX-XXXXX` structure. 
+2. **`191111-0110614`**: This format matches a South Korean Resident Registration Number (*주민등록번호*) structure (`YYMMDD-SEXXXXX`), where `191111` would represent a birth date of November 11, 1919 (or 2019 depending on the century prefix code). 
+
+*Note: Due to privacy and security policies, specific personal information or private corporate registration data associated with these numbers cannot be queried or verified.*

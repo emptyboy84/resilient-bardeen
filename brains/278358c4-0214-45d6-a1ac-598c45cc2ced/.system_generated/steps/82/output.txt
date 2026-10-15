@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Table 0:
+ (adsbygoogle = window.adsbygoogle || []).push({}); 주요제품 전화번호 팩스번호 과세유형 부가가치세 일반과세자 법인형태 개인과세사업자 등록일 홈페이지 IR홈페이지 회사이메일 대표자명 사업자 현재 상태 계속사업자 &nbsp;&nbsp;&nbsp;※국세청 홈택스 실시간 정보제공 (adsbygoogle = window.adsbygoogle || []).push({}); 사업자등록번호 351-49-00417 법인등록번호 종업원수 우편번호 48436 회사주소 부산광역시 남구 못골번영로56번길 8 504호 (대연동, 로얄빌) 부산광역시 남구 대연동 1475-7 로얄빌 영문주소 8, Motgolbeonyeong-ro 56beon-gil, Nam-gu, Busan, Republic of Korea 관할세무서 수영세무서 (전화번호 : 051-620-9200) 부산광역시 수영구 남천동로 19번길 28 (남천동) 결산월 정정문의 
+

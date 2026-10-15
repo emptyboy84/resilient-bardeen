@@ -1,0 +1,17 @@
+The search for "site:moneypin.biz "아크리아스튜디오" OR "8078703087" OR "807-87-03087"" returned the following summary:
+해당 검색 명령어(`site:moneypin.biz "아크리아스튜디오" OR "8078703087" OR "807-87-03087"`)는 경영관리 및 사업자정보 조회 플랫폼인 머니핀(MoneyPin) 사이트 내에서 주식회사 아크리아스튜디오 또는 해당 사업자등록번호와 일치하는 문서가 있는지 확인하기 위한 것입니다.
+
+검색 결과, 입력하신 조건에 직접적으로 매칭되는 머니핀(moneypin.biz) 도메인 내의 구체적인 페이지나 색인된 데이터는 확인되지 않습니다. 
+
+다만, 조회하신 사업자등록번호(`807-87-03087`)와 기업 정보는 다음과 같습니다:
+
+* **기업명:** (주)아크리아스튜디오[1]
+* **사업자등록번호:** 807-87-03087[2]
+* **대표자:** 배병화[1]
+* **업종:** 게임 소프트웨어 개발 및 공급업 (콘텐츠 및 웹툰 제작·플랫폼 관련)[1][2][3]
+* **소재지:** 부산광역시 해운대구 센텀중앙로 97, 비동 604호 46실 (재송동, 센텀스카이비즈)[1][2]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO4aOsenOufjkqCXB5KFifM7kok9wxPCoHxwr61POW4RFzDnvh4DvLHSGvpI589YBYqns0R-pd9lLTeZJ2QMegDQrXqEwufea7ZmsdyZ2x7yhb_ZA7hQakKFrW-fbcdrnuGUnTTau2Eu12NoWm3JrEtnr_iG6bnbsQ1ZTvXuhy-hBdBcefXkwoJCtQe0mqZXMLw75CvIV9RxZm555Gt-O7HaWDVxe3CyJ6e0wZKEvxLC652ohIyukWS2RqErI9OrLf-7rhrb4eZotD-7E5300uPARWccj3tpfwWFrYuVvhdQj1YTQkqvnGqx0sDMnJy3bCvLY=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRtMjy5b5hpyaAnrFqORr5SRTPbI6JalXb7nbb44Sfgv1S9BQFZ7AmVzSxaZRKA8KP365RU2uG3J6JCWBZYypGEfsZWD_KEKCPAddXrmdHlvd9Gk9dv61oXLnbHqrhvZntrD7FuE_sOP-tId2fsBgwG0FdPER_xJf_sAJhQDfXqg==)
+[3] [bloomingbit.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjQPi1qMirMhqSbe4HiTPXKkmv-NGfjEFLaB_AVYqBO218bLpc0qfuCvYhI3zEE7zFcDRYtLfUFHX7vvLaB6rEtqZR_6kkPT-UAix2n-0UjuBE0saErqpTzq6xeA==)

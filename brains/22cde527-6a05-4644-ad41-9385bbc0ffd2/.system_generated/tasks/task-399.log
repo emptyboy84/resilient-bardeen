@@ -1,0 +1,10 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-14T09:42:15+09:00
+Prompt: Check Pass 2 concurrent progress
+Early Termination: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-395
+
+[2026-09-14T09:41:40+09:00] Still waiting. Remaining time: 35s
+[2026-09-14T09:41:50+09:00] Still waiting. Remaining time: 25s
+[2026-09-14T09:42:00+09:00] Still waiting. Remaining time: 15s
+[2026-09-14T09:42:10+09:00] Still waiting. Remaining time: 5s
+[2026-09-14T09:42:14+09:00] Timer cancelled: early-termination condition (22cde527-6a05-4644-ad41-9385bbc0ffd2/task-395) met by a message from 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-395.

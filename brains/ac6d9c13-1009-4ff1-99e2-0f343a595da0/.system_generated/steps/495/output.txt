@@ -1,0 +1,18 @@
+The search for ""쿠키딜" OR "cookiedeal" 기업정보 OR 사업자등록번호 OR 법인" returned the following summary:
+B2B 기업 영업 및 중소기업 M&A 플랫폼 **‘쿠키딜(CookieDeal)’**의 운영 법인 및 기업 정보는 다음과 같습니다[1][2].
+
+* **상호(법인명):** 프렉탈테크놀로지 주식회사[3]
+* **대표자:** 심정훈[3]
+* **사업자등록번호:** 131-86-73816[3]
+* **통신판매업 신고번호:** 제 2025-서울마포-2942호[3]
+* **주소:** 서울특별시 마포구 마포대로 122, 프론트원 11층 (공덕동)[3][1]
+* **대표 전화번호:** 02-717-8289[3]
+* **공식 이메일:** info@cookiedeal.io[3]
+* **주요 서비스:** 
+  * 비상장·상장 기업 데이터 통합 조회 및 법인영업 사전조사 앱 '쿠키딜' 운영[1]
+  * AI 기반 중소기업 M&A 및 거래 정보 연결 플랫폼 제공[2]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl1Rn8fizAa-fdgVxfyJTFls3oK2J8xwNJujTBN-nTBwyWWLoxhHNvOKLlhFXwTg6A-j_C8ZTAFXmN0F5iR6n3O22f2vkDS0VOzLpX7_w3_NI5qqKiu7SpYePh5KhbqRjyIKtlKM5KHJ4gGByi2JJ0D1T6unSvM_HFgJs=)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7VyGtODM6gSC1EpDE7Kt2VEYHr883DyiE3ZUmD-WVoNCPPpZPbiWgszHMsf_ETTQmGhq8nXuk-71c7IFnZgKmGIc7BuvtuivM-zFaCk9nvqKL7lrdHOuVaob38U13D2dGXCnncDbUyCYjRfQ_S9w=)
+[3] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRmx5AlnA7GMakqEKl0oVxFgxNlBFAlud4hPu7kL679KR1en6v8ja038tOGXhe_z9MXDiE1TWEnd_ksdFPrMdHN1S7keeSoC6nsDnZDglY-F3RdV8dBFhxiUo=)

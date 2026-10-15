@@ -1,0 +1,5 @@
+Encountered error in step execution: ### Error
+Error: The tool "browser_handle_dialog" can only be used when there is related modal state present.
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do?key=232
+- Page Title: 2020년 정보공개 - 공정거래위원회

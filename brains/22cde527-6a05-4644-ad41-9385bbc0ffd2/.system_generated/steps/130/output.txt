@@ -1,0 +1,17 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-128
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-128.log
+Log output:
+<truncated 86 lines>
+O DEFINITIVE MATCH
+
+[15/30] Row 611 | "동화사" (대표: "", 주소: "부산 동구 중앙대로226번길 7-6 (초량동)")
+   -> Found 100 total, 5 name-matches
+      Candidate: 2010148623 (동화사) | Busan: false | ValidChecksum: true | Snippet: 이봉* 기타 인쇄관련 산업 서울특별시 중구 을지로18길 2
+      Candidate: 4083106032 (동화사진관) | Busan: false | ValidChecksum: true | Snippet: 김동* 전라남도 화순군 화순읍 동헌길 2...
+      Candidate: 8668802099 (주식회사 동화) | Busan: false | ValidChecksum: true | Snippet: 손인* 실내건축공사 충청남도 아산시 충무로 58 2층...
+      Candidate: 5028210825 (대한불교조계종동화사) | Busan: false | ValidChecksum: true | Snippet: 윤필* 불교 단체 대구광역시 동구 동화사1길 1(도...
+      Candidate: 2010916748 (동화) | Busan: false | ValidChecksum: true | Snippet: 조선* 경 인쇄업 서울특별시 중구 을지로16길 13...
+   => NO DEFINITIVE MATCH
+
+Last progress: 0s ago

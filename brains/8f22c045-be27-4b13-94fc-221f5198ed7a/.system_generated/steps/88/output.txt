@@ -1,0 +1,38 @@
+The search for ""이은석" "부산" "대표자" OR "대표" 사업자등록 OR 통신판매업" returned the following summary:
+부산 지역에서 "이은석"이라는 이름의 대표자가 운영하는 주요 기업 및 관련 정보는 다음과 같습니다.
+
+**1. 주식회사 엘제이 이앤에스 (LJ E&S)**
+*   **대표자:** 이은석[1][2][3]
+*   **소재지:** 부산광역시 사하구 다산로175번길 51 (다대동)[1][4][3]
+*   **주요 사업:** 발전소·제철소 등 플랜트 산업 분야 소화·소방 시스템, 분진억제·살수 설비 시스템의 설계, 제작, 납품(설치)[3]
+*   **특이사항:** 소방시설 공사업 및 설계업 등록 기업으로, 관련 분야에서 다수의 정부 포상 및 인증을 받은 바 있습니다[2][3].
+
+**2. 에이치이아이 (HEI Corp.)**
+*   **대표자:** 이은석 (각자대표), 박현민 (각자대표)[5][6][7]
+*   **소재지:** 부산광역시 부산진구 부전로 71 (부전동)[8][5][6]
+*   **주요 사업:** 전기차 배터리 진단 솔루션(비포) 개발 및 공급[6][7]
+*   **사업자 등록번호:** 161-86-02516[8][5][7]
+
+**3. 아시아인더스트리**
+*   **대표자:** 이은석[9]
+*   **소재지:** 부산광역시 사상구 새벽로 207[9]
+*   **주요 사업:** 선박 수리 및 선박 부품 무역, 임대 등[9]
+
+---
+**참고 사항:**
+*   검색 결과 중 **(주)엘제이 이앤에스**의 경우 소방 관련 설비 사업을 영위하고 있으며, **에이치이아이(HEI)**는 배터리 진단 기술 스타트업으로 확인됩니다[7][3].
+*   통신판매업 신고 여부나 사업자등록증의 상세 내용은 개별 기업의 공식 홈페이지나 공정거래위원회 '사업자등록정보조회' 서비스를 통해 해당 사업자등록번호를 조회하시면 정확한 확인이 가능합니다.
+*   동명이인으로 건축가 이은석(코마건축사사무소) 등이 있으나, 위 기업들과는 다른 인물입니다[10][11].
+
+Sources:
+[1] [ekffa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpTx-wAkRmMaMZqK3hgZC0QEf3yGkmqhXiVF4GvW5d5KAbF7kCGrr1waOGzWDMLVCbDDOg4BQgQUYJTfxuyuXHhF3HYjqnktgLrKevB9PWIZECjJcpqt5TJOiMRwurFxS7IxH419DRDAI2m7qX3v9yMY6HSNI=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdTUMbt7k-MBVJgEkcxQjvfQ93TmL7Z7MKTyZwM0m4a1EWGiWR1QQtdRsq7Mt1Pn68Go9VzyWgrQCiDnj3GcRL_R75O3YN0MPAW2JGDQ-uencvMVe-mn52ZDuUj0anyVUEwkdKcINlqjuXI3SqLZ1GtHCljC8t4WgbXRdrnjH6wyWC-kuEtVZyS3KXZPO0_i2Q2AmdosXDPtzXxeIzlQzNdILkBsWeDNXw7xTE4Bim8y9EXoOIPL26jsUEH1ZDZUTcBGQ8G0uxWmuM79UPT78BAF03tFHgSnJ0kNGb2X0C4IzXB6ruIxjz3Q==)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdBO_obgzB9c0WLr_9JK_ijaOdJK8XplGNtqcxPIH_48hk4EtAV07b5uajtdzCLfQWealpPn6bQiN1106TeufrW2DV4eX4VSomgkDijuqiwPoCln-xayEU-zx97aJ4ZXIlKE_CWBeEfQ=)
+[4] [kopia.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRiQEQw1mye5RYOfyx7qWu8HUxQvpTD7OrUki926frAZGgCsWrPiXO4Omp1sRPgbUnaRWUMt-T9Y5jgKkfHiisZWotO5CdLCBkCpHyJrLFKjA-nY92d54ycte-a-XEq3-mzrwbbElBHx-FWmEcZw==)
+[5] [thinkhei.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYe3F1YXEN5KIreri-mE925nD3DsOuOIoYrEvyBFGAe3kgWA3M-TsSJVUxTaCy4p4CPsWYd_gJaBAciZ9TxGIeUi48bJ5cdpc7Y8O536KN6Ix18DOgUA==)
+[6] [thinkhei.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6D8x6YVA7zHjiWbUsd9X35qM3sGRUnquUFL1bWY_UM3lv2ViLUsaMT3BbjoTl_zpHjvy4yH3bEQABBNXO8nz0ranqmR_mQMmCAEykS2GR)
+[7] [thinkhei.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjagZ7vJbq8qOcm3hmUu3g0bEh5uMB1X9hol11d_NhekM7k2-0ANNP3sEMmTh08oHCmSghXAlG0FxXPnmH1qCN-OAOHo3YRqa0NAHzHtNB4QKjEco=)
+[8] [thinkhei.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV3y6vROn2UUGQFGvSLvRIN5p6S3yOvJhypajkSQedU8SY1U1fIHKerL3wjhWCdmKHQ96dbQOGAl-kADWssAkp2AnIDoJiyhxjCAU3j7Bj)
+[9] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAoqFP51Cnb1cEDAQJr_cxNLuB4jqp2KLW7jvacLTd1hrRrxqfmyiSGNFG7L51l3CDeyEWXyubdzz3IZGh-KkVth-nBmk_7_r3sfvfV6MbxXzeiL-Bfdj2RaNOaAHi-Y6E6dSaw84ZParlJ5uQOzzxfgEprXGSXdcmbpmMHid4SVMb0RxLS55ouvLJPotAgEEPau5xASBt0prBQqK9mTX9NH9d7_K-S67qJuEkmq-AZNya4WuOwwxoY9lAr3ck4m68Rqy-GjYeCbFom_ZQwuu40JaL2CKA_hN8MsYnkRSixcx6ow==)
+[10] [designwhos.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvx4TsgqkZFNCEjs3-YnLlVOB8T--P_jXNHxpw5U85Pb9Jwhw3CgbHDIEGFLeo7uMmdIzRjW_V6dYqCSfGs-OlTixs9KO0sg_HoiOC3u9gbMQXPwyY6uI7w6xjNHc=)
+[11] [designwhos.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvx4TsgqkZFNCEjs3-YnLlVOB8T--P_jXNHxpw5U85Pb9Jwhw3CgbHDIEGFLeo7uMmdIzRjW_V6dYqCSfGs-OlTixs9KO0sg_HoiOC3u9gbMQXPwyY6uI7w6xjNHc=)

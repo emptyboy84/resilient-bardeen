@@ -1,0 +1,28 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-128
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-128.log
+Log output:
+<truncated 166 lines>
+스트
+
+[27/30] Row 745 | "불교문학신문" (대표: "최경식", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[28/30] Row 749 | "북인더백" (대표: "", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[29/30] Row 750 | "불교방송" (대표: "박형수", 주소: "부산 동구 범일로 102")
+   -> Found 16 total, 16 name-matches
+      Candidate: 1058204476 (（재）불교방송) | Busan: false | ValidChecksum: true | Snippet: 김태* 라디오 방송업 서울특별시 마포구 마포대로 20(...
+      Candidate: 6048204181 ((재)부산불교방송) | Busan: true | ValidChecksum: true | Snippet: 공원* 라디오 방송업 부산광역시 동구 범일로 102, ...
+   => MATCHED: 604-82-04181 for 불교방송
+
+[30/30] Row 751 | "불교텔레비젼" (대표: "", 주소: "부산 해운대구 센텀중앙로 97(다른 정보안나옴)")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+Matched 6 out of 30
+
+Last progress: 0s ago

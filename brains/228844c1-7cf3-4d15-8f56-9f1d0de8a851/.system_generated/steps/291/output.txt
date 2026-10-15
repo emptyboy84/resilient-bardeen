@@ -1,0 +1,647 @@
+### Result
+[
+  {
+    "text": "관련도순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=so%3Ar&nso_open=1"
+  },
+  {
+    "text": "최신순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=so%3Add&nso_open=1"
+  },
+  {
+    "text": "전체",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3Aall&nso_open=1"
+  },
+  {
+    "text": "1시간",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A1h&nso_open=1"
+  },
+  {
+    "text": "1일",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A1d&nso_open=1"
+  },
+  {
+    "text": "1주",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A1w&nso_open=1"
+  },
+  {
+    "text": "1개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A1m&nso_open=1"
+  },
+  {
+    "text": "3개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A3m&nso_open=1"
+  },
+  {
+    "text": "6개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A6m&nso_open=1"
+  },
+  {
+    "text": "1년",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso=p%3A1y&nso_open=1"
+  },
+  {
+    "text": "직접입력옵션펼치기접기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2026.09.15.",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2026.09.15.",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1990",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1991",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1992",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1993",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1994",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1995",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1996",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1997",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1998",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1999",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2000",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2001",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2002",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2003",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2004",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2005",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2006",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2007",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2008",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2009",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2010",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2011",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2012",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2013",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2014",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2015",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2016",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2017",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2018",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2019",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2020",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2021",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2022",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2023",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2024",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2025",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2026",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "3",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "4",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "5",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "6",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "7",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "8",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "9",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "1",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "3",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "4",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "5",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "6",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "7",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "8",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "9",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "10",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "11",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "12",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "13",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "14",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "15",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "옵션 초기화",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso_open=1"
+  },
+  {
+    "text": "검색옵션 가이드새 창 열림",
+    "href": "https://help.naver.com/support/alias/search/integration/intergration_84.naver"
+  },
+  {
+    "text": "상세 검색결과 보기",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_dgs&qdt=1"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›film_importers\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1217"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1217"
+  },
+  {
+    "text": "서울특별시 강남구 film importers | (주)어메이즈브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1217"
+  },
+  {
+    "text": "(주)어메이즈브이알코리아은(는) 서울특별시 강남구 테헤란로 ***, L* HOTELS 강남타워 *층 (삼성동)에 위치한 film importers입니다. 영업상태: 제외/삭제/전출.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1217"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›film_producers\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_producers/4399"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "서울특별시 서초구 영화 제작업 | 주식회사 어메이즈브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_producers/4399"
+  },
+  {
+    "text": "주식회사 어메이즈브이알코리아은(는) 서울특별시 서초구 강남대로**길 *, *** TOWER **층 (서초동)에 위치한 영화 제작업입니다. 영업상태: 영업/정상.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_producers/4399"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›film_distributors\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/2109"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "서울특별시 강남구 film distributors | 주식회사 어메이즈브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/2109"
+  },
+  {
+    "text": "주식회사 어메이즈브이알코리아은(는) 서울특별시 강남구 테헤란로 ***, L* HOTELS 강남타워 *층 (삼성동)에 위치한 film distributors입니다. 영업상태: 제외/삭제/전출.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/2109"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›film_distributors\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/1346"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "서울특별시 서초구 film distributors | 주식회사 어메이즈브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/1346"
+  },
+  {
+    "text": "주식회사 어메이즈브이알코리아은(는) 서울특별시 서초구 강남대로**길 *, *** TOWER **층 (서초동)에 위치한 film distributors입니다. 영업상태: 영업/정상.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_distributors/1346"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›film_importers\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1052"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "서울특별시 서초구 film importers | (주)어메이즈브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1052"
+  },
+  {
+    "text": "(주)어메이즈브이알코리아은(는) 서울특별시 서초구 강남대로**길 *, *** TOWER **층 (서초동)에 위치한 film importers입니다. 영업상태: 영업/정상.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/film_importers/1052"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›video_producers\n새 창 열림",
+    "href": "https://life.easehub.co.kr/video_producers/12962"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "부산광역시 해운대구 video producers | (주)브이알코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/video_producers/12962"
+  },
+  {
+    "text": "(주)브이알코리아은(는) 부산광역시 해운대구 우동 **** 부산영화촬영스튜디오 *층 에 위치한 video producers입니다. 영업상태: 영업/정상.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/video_producers/12962"
+  },
+  {
+    "text": "LifeHub\nlife.easehub.co.kr›amusement_facilities_other\n새 창 열림",
+    "href": "https://life.easehub.co.kr/amusement_facilities_other/647"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "서울특별시 송파구 기타 유원시설 | 브이알엠피코리아 | 편잇\n새 창 열림",
+    "href": "https://life.easehub.co.kr/amusement_facilities_other/647"
+  },
+  {
+    "text": "브이알엠피코리아은(는) 서울특별시 송파구 올림픽로 240, 롯데월드 (잠실동)에 위치한 기타 유원시설입니다. 영업상태: 폐업.\n새 창 열림",
+    "href": "https://life.easehub.co.kr/amusement_facilities_other/647"
+  },
+  {
+    "text": "내 업체 등록",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "신규장소 등록",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "더보기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "/OpenStreetMap",
+    "href": "http://www.openstreetmap.org/copyright"
+  },
+  {
+    "text": "x",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "/OpenStreetMap",
+    "href": "http://www.openstreetmap.org/copyright"
+  },
+  {
+    "text": "지도보기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "지도 확대",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "지도 축소",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "브이알코리아기업",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1804570487?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "서울 광진구 광장동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14149801.439100053,4516147.142352026,%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84,1804570487,PLACE_POI/-/car"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/entry/place/1804570487?p=RvnGJ8KA0w5vPifdYoHI_Q,47.37,10.00,Float"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1727553467?placePath=%2Fphoto%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "어메이즈브이알 코리아인터넷솔루션",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1727553467?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "영업 중18:00에 영업 종료",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1727553467?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "서울 서초구 서초동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14140945.906815749,4507810.034937516,%EC%96%B4%EB%A9%94%EC%9D%B4%EC%A6%88%EB%B8%8C%EC%9D%B4%EC%95%8C%20%EC%BD%94%EB%A6%AC%EC%95%84,1727553467,PLACE_POI/-/car"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/entry/place/1727553467?p=faRnv2h_96qVQ6P3dUEY-Q,-111.30,10.00,Float"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "디피브이알코리아게임제작",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1279146536?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "서울 마포구 도화동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14131764.219555374,4514961.288147615,%EB%94%94%ED%94%BC%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84,1279146536,PLACE_POI/-/car"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/entry/place/1279146536?p=_Fypj4aXzcdzFgnqk99uaw,50.69,10.00,Float"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "브이알엠피코리아오락시설",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1048196718?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "서울 송파구 잠실동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14148502.874976043,4510586.102042995,%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%97%A0%ED%94%BC%EC%BD%94%EB%A6%AC%EC%95%84,1048196718,PLACE_POI/-/car"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "브이알엠피코리아기업",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/1572742127?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "경기 화성시 병점구 안녕동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14136251.185402725,4466959.613161242,%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%97%A0%ED%94%BC%EC%BD%94%EB%A6%AC%EC%95%84,1572742127,PLACE_POI/-/car"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/entry/place/1572742127?p=6KKtNS-QxDFKqgl0MNZulg,-136.90,12.69,Float"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/37345076?placePath=%2Fphoto%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "VRBOXKOREA가상현실",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84/place/37345076?placePath=%3Fbk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "경기 부천시 원미구 중동\n상세주소 열기",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "길찾기",
+    "href": "https://map.naver.com/p/directions/-/14112649.260360587,4509988.1054321155,VRBOXKOREA,37345076,PLACE_POI/-/car"
+  },
+  {
+    "text": "",
+    "href": "https://map.naver.com/p/entry/place/37345076?p=S7Mezo3KObEM4rx_WDNzWQ,7.30,10.00,Float"
+  },
+  {
+    "text": "공유",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "이전",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "다음",
+    "href": "https://search.naver.com/search.naver?query=site:life.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "브이알코리아 더보기",
+    "href": "https://map.naver.com/p/search/%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84?placeSearchOption=from%3Dnx%26fromNxList%3Dtrue%26entry%3Dpll%26originalQuery%3Dsite%253Alife.easehub.co.kr%2520%2522%25EB%25B8%258C%25EC%259D%25B4%25EC%2595%258C%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2522%26x%3D126.863790%26y%3D37.301474&searchType=place"
+  },
+  {
+    "text": "이전",
+    "href": ""
+  },
+  {
+    "text": "1\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&qdt=0&query=site%3Alife.easehub.co.kr+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_pge&ssc=tab.nx.all"
+  },
+  {
+    "text": "다음",
+    "href": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const main = document.getElementById(\'main_pack\');\n    if (!main) return \'no main\';\n    return Array.from(main.querySelectorAll(\'a\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```

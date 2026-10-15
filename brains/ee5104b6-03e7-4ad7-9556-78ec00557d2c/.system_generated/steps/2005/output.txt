@@ -1,0 +1,18 @@
+The search for ""609-06-58790" OR ("선도" "윤양호" "창원")" returned the following summary:
+검색하신 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **"609-06-58790"**: 해당 번호는 사업자등록번호로 추정되나, 검색 결과에서 특정 업체나 정보와 직접적으로 연결된 기록은 확인되지 않았습니다.
+*   **"선도", "윤양호", "창원"**:
+    *   **윤양호**: 작가로서 '선과 현대미술'을 연구하거나 개인전을 여는 등 미술계 활동 기록이 확인됩니다[1][2][3][4]. 또한, 과거 공공기관 계약 관련 자료에서 '윤양호'라는 이름이 물품 납품 등과 관련하여 언급된 바 있으나[5][6], 특정 기업(선도)이나 지역(창원)과의 연관성은 일반적인 공공 데이터의 나열 속에서 나타난 것으로 보입니다.
+    *   **선도**: '선도소프트'와 같은 기업명이 확인되나[5][6], '선도'라는 단어가 포함된 문맥은 주로 기업의 사업적 행보나 프로젝트명으로 언급되고 있습니다[2][3].
+    *   **창원**: 창원 지역의 업체나 사업장이 언급된 계약 정보 등이 존재하나[5][6], 검색하신 키워드들이 하나의 특정 기업이나 사건으로 명확히 결합된 정보는 찾기 어렵습니다.
+
+추가적인 확인이 필요하시다면 정확한 기관명이나 목적을 함께 검색하시는 것을 권장합니다.
+
+Sources:
+[1] [hyunbulnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG8wUWiXU9LIPYcaHFLjRH2xt16Rwo7Xu15KgM45WDyHcat9smAKVJXqNPskfSvplh2gLrBG4wPjRx_FDdGnhLgVP6tWYAIDfo9gRZyGkfmLljfC3ux9EigscYtssMHG0bO29y42QkD0XBSDAFXPR5TSdGuw==)
+[2] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaA44jz9uPeIw45tnH1AW6e9cLRncWaXK38xNavElZNr1ZUvF9ICqw47ZGNaItWWBii-FXZim3FMrnsTs-CQGPIhoi-fIRg8DEKwyJGSxPyjNNKOWfQV7yijcen32J-dSp_CEAPgg2feV4FPTiKcEZeN77TXH0X_z028s2pLzYDvRnMlVfK3GJt-AbBj5cw_Vyp7HUnGV52nabQwMHBoeXmX7wXXwnRdjaWxaV2Zd9GrLf7sUYlFlDrnYuXzDAhlCtP5rpES8f4oT6iw7WiK_f89tnU4k7tXWuCpLDcwBFaUoAIWJrSxycpsUCiJyEGbDwSaDxD_R8yN6_3akxMt9aswO1Fnp3kKTggIA0CVZdOoQifUcZQnXMdACpAZ7ch1XoU5jMeWzJDp5OD0SwxAW8bHGjEo09It0tKLqF91fPsV-DDGHQ2Fc37G3c2JpOiMI9rAi0lH77ZWnrqgJP8BzswrVts9Tr237umHncHLeP)
+[3] [artinpost.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0HwwFn3zrPhj9ZDMH7tqxd0Q8aW87rkBhtHuWp2x_cpj-lXFoqF_HsQk_J4B_Hp7fhqJR0P2dF07--v-NZrVLzXa7_8NcDaXwExZgzFneGLD2W3KCuT6uTOurtaDN76O40CYayjQNpaU5GJ7P1oJUVP2sH3w52OQ8qFw_iOBZnswPyQIopVXr)
+[4] [monthlyart.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqK3YqO7EQsOq15JMOPJ0_tQyK19hKA-_144nLibEvwfEz64P83ita-vIRtRqvUoDrVQqT3s37Ixkydq1lH2gV9FrOkFRUYU5_QoTcQlMi-sjNK0ZBA2U4mvuavpE-eGvGsyJnE7T0MTUSAYv_EDw=)
+[5] [kiost.ac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDOLsDjiWw3kaUgRBbsMo6IhNf_ipQ-9eA8SKMRYkFEv4QNt3jGZA9jKn95fyQi8oTdXBwApajwHnbdQSYrhbwio1I8W9by2UVjDUe-SB5NveOONDkt6HhPH74f5HlzXFcyl3lxwEZ1Yq4HCDybqYTQ2aoPuM5tHAQtkQRWMpxkfiQZd2TnpY=)
+[6] [kiost.ac](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvX-YvQ6v3tdyo676WX_8rXeTtGKdgioYClI7G0MAebfjdAyNgWv-fnnSrVH1hh1lZ4Zy-MIDmPQpky2HcRH_nE09B_6ALrIxI3HfaddctYisJ4XN5KOieH_qbN3kjl18cD_HGZLgMFYQAzLZoNHVBbPhDkNxYYhgtK_aFAGRadlC04P-SYFk=)

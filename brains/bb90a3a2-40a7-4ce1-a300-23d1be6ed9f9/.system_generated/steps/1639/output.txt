@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Nice status: 200 Len: 763
+KISCODE: NONE
+Phones in Nice: []
+Mobile Nice len: 763
+Mobile Kiscodes: null
+

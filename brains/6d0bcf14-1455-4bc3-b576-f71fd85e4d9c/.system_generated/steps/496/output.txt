@@ -1,0 +1,12 @@
+The search for ""주식회사 티라" ("강옥희" OR "최광일") ("051" OR "070" OR "010" OR "전화" OR "TEL")" returned the following summary:
+검색 결과, 입력하신 조건에 부합하는 기업 정보는 다음과 같습니다.
+
+* **기업명:** 주식회사 티라 (THIRA)[1]
+* **대표자:** 강옥희, 최광일[1]
+* **소재지:** 부산광역시 부산진구 신암로 66, 판매시설동 216호 (범천동, 범천엘에이치아파트)[1]
+* **연락처 (전화번호):** 051-714-6963[2]
+* **업종:** 소프트웨어 개발 및 공급업, 경영컨설팅업 등[1]
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGUxV_4DjNs-KAguAFIXlCBcVKu4ZO90pcpjPpfdzGy8bZMgLqFSbnrVFDk7yyFtpe4X5IeZebJsICOIRBa9grjujkA1iOE82ji6svrLtjaNIRLunvlgfAQYqX1Hta3hTRdQ==)
+[2] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxUHYKAggotlMznO8mfbaYUD8J3eCQf_rtsux5q67k4Ck6aeeTZ8zQuzmJ2Du56aliT1qMKm-g0vnFS4CG9Ct_OdaVrJ6wgO5b9tMD70_mfxvEPUiBEt5bsg==)

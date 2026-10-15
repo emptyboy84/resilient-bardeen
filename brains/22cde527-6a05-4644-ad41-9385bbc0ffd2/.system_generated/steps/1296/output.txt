@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.donga.ac.kr/Search/search.do?query=%EC%B6%9C%ED%8C%90%EB%B6%80');
+```
+### Page
+- Page URL: https://www.donga.ac.kr/Search/search.do?query=%EC%B6%9C%ED%8C%90%EB%B6%80
+- Page Title: 안내페이지
+- HTTP status: 404
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-50-40-257Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-50-39-278Z.log#L1-L2

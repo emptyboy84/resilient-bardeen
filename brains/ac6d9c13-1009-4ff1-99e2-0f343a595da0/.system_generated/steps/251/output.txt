@@ -1,0 +1,14 @@
+The search for ""센텀빅토리아호텔" 사업자등록번호 OR "센텀3로 20" 사업자등록번호" returned the following summary:
+**센텀빅토리아호텔**의 사업자등록번호는 다음과 같습니다[1]:
+
+* **상호명:** 센텀빅토리아호텔[1]
+* **사업자등록번호:** **364-10-02139**[1]
+* **대표자:** 신유진[1]
+* **소재지:** 부산광역시 해운대구 센텀3로 20, 8층 823호 (우동, 벡스코 비지니스호텔)[1]
+
+*(참고: 동일 주소지인 부산광역시 해운대구 센텀3로 20 내에는 여러 객실 운영 주체 및 법인에 따라 다른 호텔 상호 및 사업자등록번호가 존재할 수 있습니다[1][2][3].)*
+
+Sources:
+[1] [centumvictoriahotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtb1S2vxIbgBmCcZcabf4U7uFXnFKq-63CZmtkNkRkEmvrYnW4YOD5--AkzqP2WlX846LxkBalayp3ZzBIBocvaOJ0cTmv2ilMSEamVX5jFpC04ngM)
+[2] [ecentumhotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvBDReUUF_1syKe4KNW_ZYqsQSTQZ9v1VdpAd26QqZ2eqQRv-CHGPGRHMyJFYjORJr12g4fz6rPGybK_5NmcisVmRsP7psl5F6DyLp6STzL8FA)
+[3] [centum-conventionhotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlkIF-wdaZlMIni9LmyjLSiu6o88puh_DMY9fbxLFaW9ZXJKPOunIF48QI-LJqeQOYy8frpPAy9tw9MTQSBRYUxb6-NoUi4U1uUzvdV9q97PrtM14eR4hC0I5wSfD2kZygisQ=)

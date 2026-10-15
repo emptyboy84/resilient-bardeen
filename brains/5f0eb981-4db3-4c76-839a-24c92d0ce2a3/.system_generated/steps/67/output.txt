@@ -1,0 +1,25 @@
+The search for ""사업자등록번호" 세무서 코드 256" returned the following summary:
+사업자등록번호의 첫 3자리는 해당 사업자가 사업자등록을 신청할 당시 관할했던 **세무서 고유 코드**입니다[1][2].
+
+질문하신 **'256'** 코드는 국세청 세무서 관할 코드 체계상 특정 세무서를 의미합니다. 세무서 코드의 경우 국세청 통계나 행정 구역 개편 등에 따라 관리되므로, 정확히 어떤 세무서인지 확인하시려면 다음 방법을 추천해 드립니다.
+
+### 1. 세무서 코드 확인 방법
+*   **국세청(홈택스) 조회:** [국세청 홈택스](https://www.hometax.go.kr) 또는 국세청 공식 홈페이지의 '전국 세무서 안내' 페이지에서 '256'번 코드를 사용하는 세무서를 검색할 수 있습니다.
+*   **사업자등록증 확인:** 해당 사업자등록번호가 기재된 **사업자등록증**을 보시면, 상단에 관할 세무서 명칭이 명시되어 있습니다.
+*   **문의:** 국세상담센터(국번 없이 **126**)로 전화하여 해당 번호를 문의하면 관할 세무서 정보를 안내받을 수 있습니다[3][4].
+
+### 참고: 사업자등록번호 구성 체계
+사업자등록번호는 총 10자리로 구성되며 각 부분마다 다음의 의미를 담고 있습니다[3][2].
+
+*   **앞 3자리:** 관할 세무서 코드 (질문하신 부분)
+*   **중간 2자리:** 개인/법인 구분 코드 (개인 과세 01~79, 법인 81~88 등)
+*   **중간 4자리:** 등록/지정 일련번호
+*   **마지막 1자리:** 전산 검증 번호
+
+따라서 사업자등록번호의 앞 3자리가 256이라면, 해당 번호를 처음 발급한 세무서의 고유 코드가 256번임을 나타냅니다[2].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtpIcl8z3rHKS-bOiMbdNqg0hwrLRjm-8zE9uQqrmQFc-OSJIyXWZ17EONAE0Fyk89hA36KqSym_kzeek3H_ptWNYGyyig7HK3Yu_LmwophQ_bdQ==)
+[2] [oqupie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0wnX8336fCGddXPi4x60Xr5Gc8E45EIQoDGBZ3s1uCMCfFz9FdlQWZ_9iEhQHKkc5mAVpljgH9WCY2tDz9Lr9uxeHU2o3ObN88AsM-ceArKE9uWRhW3MC0gatCRuYw5uTHms9pLEqq-1ZdFRDyAU=)
+[3] [110.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqbw2En7aGYkOSQogs03wmKFMwkK4jC5n4JvcXIOxM7-g8i551R6bWj8iKi-TdaYKReBQf7_4n34L7eKE0e9O9dwHavG2cxCYpycIWg_RoDliwdinvs-ptbTBzFxWyjKFmuzPTSnnETIUnl3qL74sAnDlxUKvyNqHsf8fO-cRCTW8zn3ceUBn0-CEjU-88M4RnPmgWdjJxv73UKLe9LePKsjw=)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjW4uyl_Y5iMzac-EJYqyPCc0ezrl7wqSZ2eCzEo7ugRzurb07oWtoc3psuxeFRc6xfDBogTyUcT9I3Fx9OitsciWYhfgoqf30bRuquqFmXIYfBTvn7jHfciTUdWrMQ1ky2cXh6UYNr-TEoZ_Haz2vb4t0gYMrMBxpqCSjiDR6RCdH2tfxuFszjPOZmruSvI0SPQxi1FGQTa9Sz1wylab8JbjsrwEbrHW0ladOM3TklQAbT7p59fz_y_bwQ8cYR-Ns)

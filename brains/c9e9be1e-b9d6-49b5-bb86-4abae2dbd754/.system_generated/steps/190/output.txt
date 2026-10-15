@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Total verified rows: 200
+=== VERIFICATION SUMMARY ===
+{
+  total: 200,
+  closed: 37,
+  withCeo: 181,
+  maskedCeo: 0,
+  missingCeo: 19,
+  withZip: 174,
+  missingZip: 26,
+  withTel: 93,
+  withFax: 34,
+  withEmail: 62,
+  withHomepage: 39,
+  withCorpNo: 67,
+  withAllCats: 189
+}
+

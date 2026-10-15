@@ -1,0 +1,17 @@
+The search for ""이석창" 만화 OR 웹툰" returned the following summary:
+검색 결과, **'이석창'**이라는 이름을 가진 만화가나 웹툰 작가는 확인되지 않습니다[1][2][3].
+
+현재까지 확인되는 '이석창'은 다음과 같은 활동을 하는 인물입니다.
+
+*   **학계 및 연구 활동:** 건양대학교 디지털콘텐츠학과 교수로 재직 중이며, 인공지능(AI)과 영상 콘텐츠, 미디어 등을 연구하고 관련 저서(예: 『인공지능과 영화, 기술, 관객』)를 집필한 저자입니다[4][2][3].
+*   **기타 활동:** 영상 제작자로서 디지털 디자인 관련 작품을 출품하여 수상한 경력이 있으며[2][5], 인공지능 기술 등을 교육하는 강사로도 활동하고 있습니다[1][6].
+
+만약 특정 웹툰 작품이나 만화가와 관련된 정보를 찾으시는 것이라면, 작품의 제목이나 관련 키워드를 조금 더 구체적으로 알려주시면 정확한 확인에 도움이 될 수 있습니다.
+
+Sources:
+[1] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRUrHk_CM7teSWW2GmuAIs_lKVa4v44E8cXa4YpzftxXkIkaUBIcm3KZTOfGZQrljYGux_RFfZODYeB7ZNZEnGL4MQKbKnACkqhrMLwBvvarkp-MTgwiwywHvMacVN7ibpe9_6ZfL3gqnzcsuwzaXOb7OvZQWCt3Sll-sGCOXNwB1qHg==)
+[2] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP1kMLWcc5lAoJ5v8SVuWdewkKe3e3s9s2qAUhKYslVDNXYLZ8WTCT1wb7OhGmGaSrSmZOpbQ2_tIu2vYKkMVbtHpBbuolR5lQc7ZxSMnyPdplDiIhdQngG4kKBDqg40bK0tq9A_L2pXksCu__KQSjt-w=)
+[3] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFljG7h9Cz8QOB-9FxxAMU3tZMdp9OXEXOT9r3w1ssV9Ez5HpOT2AK7fHrj8B3MLS6mMxGKjIcFOTa7bYOTuYsYaec8w3oJPLEFQ1LCFICzOIuvgrMgP08Zg==)
+[4] [dbpia.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHToHemFpmpa0eqO63HCtwVRFhMnSK4Y-f75tGos40GZPG4dHTCz6dUKXLIt2fC3qG4-utETMJVKI_UZxDGZG5i-qzHF5ETzexzy61HNMYT10Xn8q2-pLUFHrxteemidHzhkEKnpYuzulFW4uHkDEYZg45dDdpbNg==)
+[5] [konyang.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRSFZWXL5Sag673_DQS45FSx9hgwnlDRRboH85eX9i3mEwbxd9AR61LS4iSA9lEDDMEqKmvZMJe2lRHRGjYn-mafIoPiC2V_2v__CoO3TRKjsI3SeE5zcIS9v9uvs7aagVP2MgRX8O8kjq4jzzLYejHy7SD7789CvTa0mh3USTmITPMYJa-bfNMjkwZ9Ge8ZgPFL6ZjiG27bJchzM1Tbnfy1bjW119uWhxwVpFDhFwAHKD4npZeHk=)
+[6] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHttEKuNyDe6TSsu7E-HCiz3K6jlDia7ZlUdBu3Yn8IYmeQeSAwnO7pXiXE02dFWrlMtZYrAGRsdRKSgpBI17K3fmJRoriAxy-jDaOq2VL6KbgbZdSZb11w_g34_mKDT8fSTPw=)

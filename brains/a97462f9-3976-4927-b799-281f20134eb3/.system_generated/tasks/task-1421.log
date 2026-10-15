@@ -1,0 +1,8 @@
+Invoke-RestMethod : 원격 서버에서 (400) 잘못된 요청 오류를 반환했습니다.
+At line:1 char:1
++ Invoke-RestMethod -Uri 'https://map.naver.com/p/api/place/summary/162 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+ 

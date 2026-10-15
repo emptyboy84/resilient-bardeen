@@ -1,0 +1,14 @@
+The search for "site:weseb.com "2019-부산수영-0698" OR "세연소프트"" returned the following summary:
+위세브(weseb.com) 사이트에 등록된 **세연소프트주식회사**의 통신판매업 정보 및 관련 내용은 다음과 같습니다[1].
+
+* **상호명:** 세연소프트주식회사 (온라인)[1]
+* **통신판매업 신고번호:** `2019-부산수영-0698`[2][1]
+* **사업자 등록번호:** 271-86-01115[2]
+* **대표 주소:** 대한민국 부산광역시 해운대구 수영강변대로 140, 9층 917호 (우동, 부산문화콘텐츠컴플렉스)[2]
+* **관련 서비스/앱:** '파스텔걸', '릴리스타일', '릴리스토리' 등의 모바일 게임 및 앱을 개발·서비스하는 업체입니다[2][3][4].
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fGBlkEIpQgPo-E8zJBlzqLrV8Rfd5FEv3bQb9U0pw2VpxMqaztiUYJMshcbgE9qs8EzvLLpGeAOSMo7lLP96sNnDZwLYy9GTxobiGAHw7MMSmkcUgZVhJWTpAA8piF6fLsii34rOed1ORQBQ7j017eND01JGyA==)
+[2] [minimap.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsvpcBa-JGKwv-GBa9Fy-VEh_gdCnYmq7SbqzytELIQnsIeH149g9iojfl4os1l68dzMP5usYlDYGYhxVr1DjVeVDHi2HIxOSjBtk1qWjrx-DZf9DNRe8UW72VK3cjYsIyP4mE6UUbySE=)
+[3] [aptoide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNl4GeLr6dzDkXrgycPFoVclIGndqkyjeh1BDimPHhQjmMGEYN2LQy3QWQ22RXmJargMTjYFYOkhc8bPrMPBNyikV4KYm5vtDTiN2H8P70S-d-tNQjAsKs-5E)
+[4] [iosgods.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGtDjnB8801f5jmkRvVL6aleuqf5bEvL94QIWNiefpVurXF4G-U2XKs5d7KvsvvKf7ppTdzKI04s2Rk6pUhE-Bn1mmIP84dNnySEE8Gj5YdiBUalHoavBnpEIzyw2-OXM7O7hjg2sxLMJMJKoJkhKrGGgeuB3EiUssa8vct6rn6mBpKafLa2k=)

@@ -1,0 +1,18 @@
+The search for ""스터디채널" "창원"" returned the following summary:
+'스터디채널'과 '창원' 키워드는 주로 다음과 같은 연관성을 가지고 있습니다.
+
+1. **온라인 수험·교육 플랫폼과 지역 학원/강사진의 연계**
+   * 주식회사 스터디채널(인터넷 교육 및 출판 전문 기업)은 공무원, 군무원, 국가기술자격증 등의 인강 및 교재를 서비스하고 있습니다[1][2].
+   * 이 과정에서 **창원고시학원** 등 지역 오프라인 학원에서 활동하는 전문 강사진(국어, 한국사 등)이 스터디채널의 온라인 강의나 교재 집필에 다수 참여하고 있습니다[3][4][5].
+
+2. **지자체 및 교육청의 '스터디' 관련 정책**
+   * 경상남도교육청 등에서는 학생들의 자기주도 학습 환경 조성을 위해 **'경남형 스터디카페'**나 학교 밖 학습 공간 조성 프로젝트를 추진하고 있으며, 창원을 비롯한 경남 지역의 교육 격차 해소 및 학력 향상 지원 방안으로 관련 소들이 보도되곤 합니다[6][7].
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSpCY_0OvCYIDH3YgWb2wbtw3fnajFSM552hRm4c_qzDyh-sEfWMBL9FzhAaoUXBFnzeZQ75JafYg_AV51Nq0GM43gOoXxTcZSSsDnSXr-JW0hPj2DhE1bBdA-HusnxBKfgltQ4BL7MSbpHZ5hBC7ipP6sdauVsLjcVTg=)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAiFK2ZVNRTEpk1KdpclT30phfj1-uYWRevhdCR6LWDjZejW9mbktadODUoqiQylI2tfYL1mKENPSa2lJG38XbODfgBZjZiRARpn3bs8JskLpQYnTkGARl-ijoh7YFG12WZ47o9yyMk38Va7D_ESZab008ENimsTYCSQmbUTJ83DY=)
+[3] [studych.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhhx_X3aodjc9UzH7ZE_fTozQtutO84yPlDxLAaEgheL6WGUXDlvUwnDi2xaef60jS1nvq1dIbS5eNiI7UwryRfx-m9M-uerW7QOT0j8plIqKetsPxbGqaDxPiu7XD6piI9h2UGSRyWb5XBDY3JOMgpDCfBgpiDi7-35xwFVIAQtDhw0fm8dKGGQ==)
+[4] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_0VKHea6zt840mW5niNiZvyNzufSn3IXDfLoCJqLq4n7ShhjmWu9pOrsBFCH_wb0g9RPY9Tp_JiBSjqXnM0cFRM7sdFiW7FA5NJaDMX4ixqFt3oBP2kFRxipK-qiPKtMA5LFi8lzJ_4zijuHKkMqgRBM7_5mhcDq6YvYttdK4wkZGx2nR3ROv03wVYww_dnXOIISh)
+[5] [studych.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5HZk7Bdp6vkloO90cEA4Mw5bZzP2y8xI4OEnCE8X1nZRhdjDgFYuZo3KtDunJEuPR6-9gTqrTCynxBikliT8Cc52KA6WDbuKFKONfQENPHM83lgOMCie9BFFd_8fZddoZP567f16Qfzc=)
+[6] [newsis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaSYNtCtl7N550kFmw6nJ-bvjnBmHY_6F7RMSTM12YUvnpQGY_W0BCSufXgmb0hQVcKazeNuKVshgTGKlLsAOzeG0exNQVI5N8lN9F96MJGV-207kuro6l3BRSzynu9ZGtLn7wVH7KDmZpHQg=)
+[7] [knnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNVa2IZDYsP0-jseJgCz2l8q_jDlO8gmyPdlcJydafDWzQrJeScMYhgNNuqqUHA4SpSYM19SbeH35PS1XrfUDKjm75FgR2n28kJrR76N937WsdKLe3Scq51WAok0aA4I3Idyisq6aHLvx5GyxdwLFiPFpjdbZw4Q==)

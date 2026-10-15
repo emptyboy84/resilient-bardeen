@@ -1,0 +1,21 @@
+The search for ""(주)범림" "정광식" OR "(주)해운대스위트호텔" "신유진" OR "(주)빅토리아호텔" "신유진" OR "(주)브릿지빌더스" "김원기"" returned the following summary:
+제시하신 검색어 조합은 대한민국 각 지역에서 신설되었거나 활동 중인 법인 및 기업의 대표자(또는 주요 관계자) 정보와 관련된 데이터로 확인됩니다[1][2][3]. 각 항목별 세부 정보는 다음과 같습니다.
+
+1. **(주)범림 / 정광식**
+   - 인터넷 검색엔진 제공업 등의 목적으로 설립된 법인(또는 신설법인)으로 등록되어 있습니다[3].
+
+2. **(주)빅토리아호텔 (센텀빅토리아호텔) / 신유진**
+   - 부산광역시 해운대구 센텀시티(센텀3로 20)에 위치한 4성급 호텔로, 대표자는 **신유진**입니다[1]. 벡스코 인근에 위치하며 객실 및 예약 서비스 등을 운영하고 있습니다[4][5].
+
+3. **(주)브릿지빌더스 / 김원기**
+   - 부산 지역을 기반으로 하는 정보서비스업(기타 정보 서비스업 등) 관련 법인으로 등록되어 있습니다[2].
+
+4. **(주)해운대스위트호텔 / 신유진**
+   - 해운대 인근의 숙박·호텔 관련 명칭이나 동종 업계 법인명과 연관되어 검색될 수 있으나, 위 목록 중 **신유진** 대표는 부산 센텀시티에 위치한 **센텀빅토리아호텔**의 대표자 정보와 주로 매칭됩니다[1].
+
+Sources:
+[1] [centumvictoriahotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfX210DE5nXQdCoRyEbvtwnKFRhu22ELLOvtDWWfjuQYcuV3ECn97tY0AHIdQUKabfNH27NQTxdhk7Lr-RkqTQmmu4dhwv4wUagr4zI0C97JXRN0cQOuZOMw1Rt83-idAyFpA=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW3muyyvcod5yAuHp5HebGZVREvcTgG3yxRjOx-euLIJ9WUBHjdIzsbCFuUhDzXf-1n6FNcxqsFZK_UYuu_7CNE3us15qlGiL1N5cum76ZWc8qJG_Rcclv9jGs5wh8-gu8MThB)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2sNm04I9adje37qeRlc3pDajeGoYi3tpPpyWnGvCswJH7pFqPxXNOQKrqEHNVE7dg-C0wmi5Xfol4i1EUwcRgyFcoxB20f44qGcUCoRoSpK5r_Lc4pP6DxrjYT46OSzlTMxt0)
+[4] [centumvictoriahotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdOq1c95KUw6vD2wFaQbw_5yZ3F38L4Jl-1TOyJJaviC6YTpp7A-nSzqFSoLd_kfhEN3pVfAAZo32mafJCeQGtybv8pVPmUsGQw0qR6fn9JeoJXJ11)
+[5] [centumvictoriahotel.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHybtmVeJ8XmiLZW3KaRMA9mfZ4bSxU5r1xCaBGdnBXH48eOwxIrWQKuxjm1UCgv0CyRnJVvlslG4Jys2i1e_Dal9eC6ffX4u9yqKkN9peq-nEGrECDiBQP3Z0=)

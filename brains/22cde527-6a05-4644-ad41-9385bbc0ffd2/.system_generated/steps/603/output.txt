@@ -1,0 +1,27 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\walkthrough.md. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -14,15 +14,12 @@
+ 
+ 2. **작업 통계 요약**:
+    - **전체 데이터 행 수**: 2,313행 (헤더 제외, 원본 100% 무결성 유지)
+-   - **누락 대상 421개사 중 실제 확인된 사업자등록번호**: **151개사 신규 입력** (빨간색 글자 적용)
+-   - **국세청 10자리 체크섬 검증 통과율**: **100% (151건 중 151건 전수 일치, 오류 0건)**
+-   - **타 컬럼 빈칸 보강 내역** (사업자번호 보유 기업 대상):
+-     - 대표자 성함: 89건 보강
+-     - 시군구(구/군): 71건 보강
+-     - 주소: 21건 보강
+-     - 폐업/휴업 상태 및 비고: 29건 보강
+-     - 데이터 출처 URL 기재: 2,031건 기재
+-   - **엑셀 시트 내 빨간색 글씨(`FFFF0000`) 적용 셀 총수**: **2,392개 셀**
++   - **누락 대상 421개사 중 실제 확인된 사업자등록번호**: **150개사 신규 입력** (빨간색 글자 적용)
++   - **국세청 10자리 체크섬 검증 통과율**: **100% (150건 중 150건 전수 일치, 오류 0건)**
++   - **타 컬럼 빈칸 보강 및 출처 기재**:
++     - 데이터 출처 URL 기재: 2,030건 기재 (신규 150건 + 기존 1,880건)
++     - 19개 컬럼 규격 통일 완료 (중복 컬럼 없음)
++   - **엑셀 시트 내 빨간색 글씨(`FFFF0000`) 적용 셀 총수**: **2,180개 셀**
+ 
+ ---
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

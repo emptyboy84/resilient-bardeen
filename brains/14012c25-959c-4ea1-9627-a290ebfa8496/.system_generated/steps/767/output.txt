@@ -1,0 +1,27 @@
+The search for "site:gamejob.co.kr/Company "씨플레이" OR site:gamejob.co.kr/Recruit "씨플레이"" returned the following summary:
+게임잡(Gamejob) 사이트 내에 등록된 **주식회사 씨플레이(Seeplay)** 관련 주요 채용 및 기업 정보는 다음과 같습니다.
+
+### 1. 기업 개요 및 위치
+* **기업명:** ㈜씨플레이 (Seeplay)[1]
+* **주요 사업:** 모바일 게임 및 캐주얼·아케이드 장르 게임 개발 (대표작: 바나툰 등)[1][2]
+* **위치:** 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠컴플렉스 (센텀시티역 인근)[1][3]
+
+### 2. 게임잡 주요 채용 공고 이력
+게임잡을 통해 클라이언트 개발자, 게임 기획, 아트 및 애니메이션 등 다양한 직군의 인재 채용을 진행해 왔습니다[1][4][5].
+* **모집 직군 예시:**
+  * 유니티 개발자 (프로그래머)[4]
+  * 모바일 게임 기획 (신입/경력)[5]
+  * 게임 아트, 애니메이션, 이펙트·FX 및 영상 제작·편집[1]
+* **근무 형태:** 정규직 (또는 계약직 후 정규직 전환 검토 등)[1][4]
+
+### 3. 복리후생 및 근무 환경
+* **근무 제도:** 주 5일 근무, 연차휴가, 정기 휴가[1][4]
+* **보상 및 지원:** 인센티브제, 퇴직금, 장기근속자 및 우수사원 포상[1][4]
+* **생활 및 건강:** 중식 제공, 건강검진, 각종 경조사 지원 등[1][4]
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8szNnVnKTNOBEa815ykCuYKEARXjrTZ1IhuIx5mLKiU9ReNd-3GfCsUMd2kNB8cB5qKGfoJHTdrXFX_bi_dF-mBVU4Q1DB4GD8TfsGTmk4tXYTBTx6ayUHV8oZj39IAkfaRKGeQ_f_notFNXFRw=)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd59mNeaMTVVUSfVT-PmiHFj0MyxX-OzcXI0IRQy3_gmn-sEf26jPnm3U3IrQMgdLhf7y-uspQpfqO5NOt8O0Gy23Alg5ggfHWt6e8drmlDM4j3BswiGEegP3YRvzp7YQ=)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfnc-PJ8638UOoTarW8YbfSwUg1aCGPig1d6MEyXWimKbpL_TDYA6JmI1J7m86yMkcQl49DOaNBZR-9ZjdOif9CZzJoI2asNrrEhdS6uNDbWJhhNZcgEr1ugKrk-LPdFODF6lKbiP1)
+[4] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4kqsO_vZ_0osUcWdURHByNTUDQgAGnm6auJuCR4lue0u_txnRe_oGxrb_TK9g1zpTwP3vWECApjBYspBlGQiTN4mKkfnUYluflBh_Rbfi-uVw1FmOu2gDHLISb7-aTDeQ)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1wvEGVUDC3clbsUWkBxpGxfRdd71uoWGc8T4AmXnSJcM5yai7ltZMbQjFx7CiC1rtdfybWDamsS3XLmOsIOHaXVLsWfkrhtZ1P8gTqYvZE6PmePrzHaF04pGh-aHLm7gxwPi8e6970QbU4ZhyQvhqD5OeWO0L3g==)

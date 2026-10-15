@@ -1,0 +1,13 @@
+The search for ""와이에스(YS)컴퍼니" OR "와이에스컴퍼니" "사하구"" returned the following summary:
+부산광역시 사하구와 관련하여 "와이에스컴퍼니"라는 명칭을 가진 업체에 대한 정보는 다음과 같습니다.
+
+*   **기업 정보:** 사람인 등 기업 정보 사이트에서 **부산 사하구 승학로 216**에 소재한 **'와이에스컴퍼니'**라는 업체가 확인됩니다[1]. 해당 업체의 업종은 '시설관리·경비·용역'으로 등록되어 있습니다[1].
+
+참고로, '와이에스컴퍼니'라는 상호는 전국적으로 다수의 기업이 사용하고 있어 혼동이 있을 수 있습니다[2][3][4]. 대구[5], 서울[3][4] 등 다른 지역에도 동일한 명칭의 법인이 존재하며, 업종 또한 전자상거래, 가전제품 도소매 등 매우 다양합니다[2][3][4]. 따라서 특정 업무나 거래를 위해 찾으시는 경우, 해당 업체의 업종이나 상세 주소를 다시 한번 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Cgpaae76e7ZnvwWmOMaCF2eKZcDuy7coerARJNoIwX6WnTQwXxlCZ8b2zrXk0Xhx3wtyLkCxBZjCKsR5pbAo--yTZB__-SacTfPhz-CnYeQ7EmQwu2Jle6gf5_dZGOy_WaojAW-2-H2OZE7bCYC1HJ_ONe-T0Hc0B5ZZhYu2Ew24EzvtucAllWhZDf3t4Nun_iivRP4yjK1mAhL1jVeC1VDAuUkV6BM3v0MQbcWgrCphTcs_ajVqWsn9H4R9KZS1sVG2v2vGLUo7oRWu5bvA7Vf7tKc_Mbia)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SvQdBDMy8gW4U38qi7Zh8DaizmaaMECkwiz9qmzbGDOVyceHbWe2R3ePbHxvPIpHF-ZmRkJy72qGjubKVBUY6r4InxipsRA9-NKS_wQ-uOIPDZx8j6LtUL5BxY5RsXGh2hsR0duqD3QKvaecs6L632m2o6AlXQXkQ6UejY2GV6uhXXevLd9hyJx8hjDQnk-vKkGa0A==)
+[3] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4p0gnLdsjkhGN--3g8fT_3MDGQkwRiXPj870lh1bELAU-TsPkeZryUHaWn-nTR4URPWmB8BThn5sexQYIPqPZPeUTJ1J5ral1tkqUv_z3DParRwO4ppFO7cuuchMiFCgf-i8mpLqB5k=)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsiKVvfABXcSNm7iCIS_aKSspMXpI671p4oeJB2H8Gqf_VlRYt10JCULEvKowrBiNROLlq587tsyz4hP19i4m5wiGWY6mJF1rBG6L8326ILcHqeXbDaUqNfNwR4R716JNYzhM=)
+[5] [lsdir.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7TNfBJ_QnlGSKI3ELJnmlnBsGOsJ48ZBOi1f1DV6D7YI4p1JNRYs2-R8s5ff0dVCNuAqqkSoq9The2p-VVkexIQfND83s6BrSD125KJqbthEat531MyxD4A4tV7DKliE=)

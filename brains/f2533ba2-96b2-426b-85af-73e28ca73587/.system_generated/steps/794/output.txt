@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7786400482');
+```
+### Page
+- Page URL: https://bizno.net/article/7786400482
+- Page Title: 스위티라엘
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-18-09-721Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-18-04-876Z.log#L1-L7

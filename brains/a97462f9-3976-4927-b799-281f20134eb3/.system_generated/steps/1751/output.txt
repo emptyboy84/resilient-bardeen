@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.cookiedeal.io');
+```
+### Page
+- Page URL: https://cookiedeal.io/
+- Page Title: 조회를 넘어, 발견으로. 쿠키딜
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-03-22-421Z.yml)

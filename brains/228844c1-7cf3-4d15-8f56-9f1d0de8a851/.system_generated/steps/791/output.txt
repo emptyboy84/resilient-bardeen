@@ -1,0 +1,90 @@
+### Page
+- Page URL: https://map.naver.com/p/search/010-8074-7622?c=15.00,0,0,0,dh
+- Page Title: 010-8074-7622 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f391e3]:
+  - generic:
+    - link "본문 바로가기" [ref=f391e4] [cursor=pointer]:
+      - /url: "#section_content"
+    - link "주 메뉴 바로가기" [ref=f391e6] [cursor=pointer]:
+      - /url: "#header"
+  - banner [ref=f391e8]:
+    - heading [level=1] [ref=f391e9]:
+      - link "네이버지도" [ref=f391e10] [cursor=pointer]:
+        - /url: https://www.naver.com
+    - navigation [ref=f391e12]:
+      - list [ref=f391e13]:
+        - listitem [ref=f391e14]:
+          - button "지도 홈 선택됨" [ref=f391e15] [cursor=pointer]:
+            - generic [ref=f391e21]: 지도 홈
+            - generic [ref=f391e22]: 선택됨
+        - listitem [ref=f391e23]:
+          - button "길찾기" [ref=f391e24] [cursor=pointer]
+        - listitem [ref=f391e30]:
+          - button "버스" [ref=f391e31] [cursor=pointer]
+        - listitem [ref=f391e37]:
+          - button "지하철" [ref=f391e38] [cursor=pointer]
+        - listitem [ref=f391e44]:
+          - button "기차" [ref=f391e45] [cursor=pointer]
+        - listitem [ref=f391e51]:
+          - button "new 저장" [ref=f391e52] [cursor=pointer]:
+            - generic [ref=f391e53]: new
+            - generic [ref=f391e59]: 저장
+        - listitem [ref=f391e60]:
+          - button "더보기" [ref=f391e61] [cursor=pointer]
+    - generic [ref=f391e68]:
+      - strong [ref=f391e69]: 사용자 링크
+      - list [ref=f391e70]:
+        - listitem [ref=f391e71]:
+          - link "로그인" [ref=f391e72] [cursor=pointer]:
+            - /url: https://nid.naver.com/nidlogin.login
+        - listitem [ref=f391e74]:
+          - link "서비스 더보기" [ref=f391e75] [cursor=pointer]:
+            - /url: javascript:;
+  - generic:
+    - application [ref=f391e142]:
+      - region "Map" [ref=f391e146]
+      - generic [ref=f391e147]:
+        - img "NAVER" [ref=f391e149] [cursor=pointer]
+        - generic [ref=f391e150]: 300m
+    - generic [ref=f391e82]:
+      - generic [ref=f391e84]:
+        - button "검색" [ref=f391e85] [cursor=pointer]
+        - button "삭제" [ref=f391e86] [cursor=pointer]
+        - combobox [ref=f391e89]: 010-8074-7622
+      - generic [ref=f391e91]:
+        - status [ref=f391e92]
+        - generic [ref=f391e94]:
+          - heading "검색" [level=2] [ref=f391e95]
+          - iframe [ref=f391e154]:
+            - generic [ref=f401e1]: 조건에 맞는 업체가 없습니다.
+      - button "패널 접기" [expanded] [ref=f391e102] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=f391e104]:
+                - button "일반지도" [ref=f391e105] [cursor=pointer]
+                - button "위성지도" [ref=f391e107] [cursor=pointer]
+                - button "지형지도" [ref=f391e109] [cursor=pointer]
+              - generic [ref=f391e111]:
+                - button "테마" [ref=f391e112] [cursor=pointer]
+                - button "저장" [ref=f391e114] [cursor=pointer]
+                - button "지적편집도" [ref=f391e116] [cursor=pointer]
+                - button "거리뷰" [ref=f391e118] [cursor=pointer]
+              - generic [ref=f391e120]:
+                - button "반경측정" [ref=f391e121] [cursor=pointer]
+                - button "면적측정" [ref=f391e123] [cursor=pointer]
+                - button "거리측정" [ref=f391e125] [cursor=pointer]
+            - generic:
+              - button "접속위치" [ref=f391e129] [cursor=pointer]
+              - generic [ref=f391e135]:
+                - button "확대" [ref=f391e136] [cursor=pointer]
+                - button "축소" [ref=f391e139] [cursor=pointer]
+  - status [ref=f391e141]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T01-18-44-637Z.log#L1-L4

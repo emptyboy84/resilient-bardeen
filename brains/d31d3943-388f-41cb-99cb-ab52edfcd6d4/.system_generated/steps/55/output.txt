@@ -1,0 +1,20 @@
+The search for ""센텀북대로 60" "1605" OR "에코캡" "센텀북대로 60"" returned the following summary:
+부산광역시 해운대구 **센텀북대로 60**은 지번 주소 '재송동'에 위치한 **센텀아이에스타워(Centum IS Tower)** 건물의 도로명 주소입니다[1]. 
+
+입력하신 검색어와 관련된 정보는 다음과 같습니다:
+
+* **주소 위치:** 부산광역시 해운대구 센텀북대로 60, 센텀아이에스타워[1]
+* **1605호 관련 주요 입주 기관 및 업체:**
+  * **산모사랑협회** (센텀아이에스타워 1605호, 1606호 등 사용)[2][3]
+  * 과거 신설법인 등록이나 특정 시기에 **(주)다솜케어**(화장품 도매업) 등의 기업이 등록되어 있던 주소지이기도 합니다[4].
+* **에코캡 관련 참고:** 자동차 부품 기업인 '에코캡(주)'의 본사 및 주요 공장은 부산 센텀북대로가 아니라 **울산광역시 울주군 언양읍 반천반송산업로 137-66**에 위치해 있습니다[5][6]. 
+
+특정 기업의 상세 정보나 찾아오시는 길 등 추가로 궁금한 점이 있으시면 말씀해 주세요.
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL5SNIzaXUjgGG0JQiEl5rGmfAAawB-KLY-5MhHbbs2dbOu-JTL35noi6ivzC2moV_6k1AAeJiEgVfsVJF98Z9i7Zotb10enNYMG8mBLmdwWnHV3asi6qd5G4vup5l1irsh-lH5wUZgNP8uTDv_wGV4gG3ks_gj2FU5bImXXCgbwBbJlHVx4-UCzYK)
+[2] [omomy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZrGYhGqDDZxxAJJMBVNO4n62njNoBFrkGZsEviHM3hBCOo8w9KBIscEpDlB_SiVmwKw5qRGcagMQo-pDxxdWg_eJrgvybVApzYlDiyunSlNwK48pIApRKWPEoc7zs)
+[3] [omomy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOaLt20du6nAaLx5TIM9b1yILLCTs8MnJgFym-StsbW02mbOBn3WKwro3naBZfAYx4pPqxyj-nyx3jx-2w-b1LodWQFL0dNP26zuTpqzT7yE_zjKMK5JKmWEbdL3I)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDa-tz_uoBSiRAixrb5EiJ4Np6yMnzC3fxoQGau9XkdIXzE4guLuzmN1LgOyP-aebTyqpBPRxG_Y5GJERNqxl1ItWrzkFAkrkrpIkhz0Hz-fTmJT5OJhgXBVro7g3_QhcOHBdFGkinPOAHuuSQhB3mSibBHgn4svWCGQzNEL306az-FP9Z0NucdFvYhmIJicRAUrfWRjPyYPedBBIzyQrQHXk2oWBzKrGnaSWYH74YtVUl7D6OOhT6Ry6CYh3_pPjdm97JyEjUd6o=)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs5u7A2F8kxIYyS1nU4V00haRFVBx8xCoT84zAosz4msC64YQBrM1XDiYYWU_9nyrREVftk-ja4SsPlOkbjIVTGqmfTl_oLJg2TdGer89F-ghJT-Qlc3gKaYQVxbbMgWGWfAGTL42DXp8PE8TrD57UgArv0-x2MXuWr7i0uyKMOj688YrvBvVqHBpWf7_SSiIKSQapnSZbM5grvnWngN-bBFGOVCS79Ee7KJEb0ruGc7dwf3G4CklZTR6sSnh4BZVE)
+[6] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkrAerkmbsa3uzt2TKW6TJz5UDBXak50ODhPlKElAEGVr1_Q7hS5ude1PPocHqsk7P-IYa1ZxF2SYT0eDh7YFfUzi55nJJ1iataWycijI3mkTTLw1Ej8ijGpQKMS7bXBoKxDMpfR-U4ywnd_wf9K0=)

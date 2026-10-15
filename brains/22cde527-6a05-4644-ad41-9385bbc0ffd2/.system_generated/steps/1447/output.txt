@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+FTC Status: 404
+FTC Length: 1846
+

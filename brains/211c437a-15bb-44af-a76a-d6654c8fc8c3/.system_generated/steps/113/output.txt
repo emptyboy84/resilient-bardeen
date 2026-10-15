@@ -1,0 +1,23 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:128
++ ... OSD\HotkeyManager.exe');  = [Text.Encoding]::ASCII.GetString(); [rege ...
++                                                                  ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:1 �:148
++ ... e');  = [Text.Encoding]::ASCII.GetString(); [regex]::Matches(, '[A-Za ...
++                                                                  ~
+�޼� ȣ�⿡ ')'� �ϴ�.
+�ġ �:1 �:205
++ ... es(, '[A-Za-z0-9_]{3,}(?:Touch|Pad|Hotkey|OSD)[A-Za-z0-9_]*') | ForEa ...
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:207
++ ... (, '[A-Za-z0-9_]{3,}(?:Touch|Pad|Hotkey|OSD)[A-Za-z0-9_]*') | ForEach ...
++                                                                 ~
+� � �Ҵ� � � �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedExpression
+ 
+

@@ -1,0 +1,13 @@
+The search for "site:bulgungnews.com "(주)시드" OR "시드"" returned the following summary:
+부울경뉴스(bulgungnews.com) 내에서 검색하신 "(주)시드" 또는 "시드"와 관련된 정보는 다음과 같습니다.
+
+*   **(주)시드 기업 정보:** 2008년 11월 26일 자 '부산영상비즈니스센터, 서울에서 현판식' 기사에서 부산 소재 기업으로 언급되었습니다. 당시 대표는 김성홍이며, 해운대구 센텀벤처타운 503호에 위치하여 영화 관련 제작 및 공급업을 영위하는 것으로 소개되었습니다[1].
+*   **기타 '시드' 관련 맥락:**
+    *   **스포츠:** 레슬링이나 씨름 경기 등에서 상위 입상자에게 주어지는 '시드(seed) 배정'과 관련하여 기사들에서 언급된 바 있습니다[2][3].
+    *   **시설:** 함안군의 아라홍련 종자를 보관하는 시설인 '시드볼트(Seed Vault)'에 관한 내용이 기사에서 다루어졌습니다[4].
+
+Sources:
+[1] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBKSLQ2KO8XjYGEyIxGBpLKhSUgENBNr-YHNQaknF04FlEwKLHPEa2twG6sOa6w7kjk5NP0NVV4qWAV6_ZGk__xq18N0FsQDdoyDaHioo-TWNEXspg0a3-U0N5j1Jqka3bTcrL98dGQCDJbm6-Gtnz9bnklw==)
+[2] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEluiYL_fZLunV_dfmziPXAf1H57vKYZgOb-ormFpmQKRXKmEoHyLAnJwmRXNIiKHYpmwiOxORMMnwKWGEyAgzdJ0A-y8sdNcOHt0kk48YWui1_33-XKWAxj0fN9IIaY8Xzu8XkIIYZOmwJYLNRa0WVRFTQUw==)
+[3] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTiKSjJ0YpovH-bWd644OoA65auJcGYqVFMZhOq7YQLoOoUZ4LjKy_uSMRKfAnLBBK2ImQLwFlPR26oB4iXi_MO9MNOO3yqNNi4zyPH7SYsh3hpy-_bIgwLpDNwcP57AZW6bDzSze6oMx-Q1CY5xaKFLUIvw==)
+[4] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG53Yq7BuaYHlD8-gfAMYixBSGR2N2wBEkyiDan5PIB92OzH9KHorQBB4KN8dQLkiyDrwSrIsimf38SJTdPLI3N4cWp5iWEcPZw7VKp44V-jrcCzW75s4w-9j_toW03K2cMWVllwZIEaPdIqmyOU0KQn97oyA==)

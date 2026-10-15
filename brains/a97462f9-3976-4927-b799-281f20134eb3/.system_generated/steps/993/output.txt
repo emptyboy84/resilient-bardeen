@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Row 2 Cell 1 fill (should be none): undefined
+Row 2 Cell 2 fill (should be brown): { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF8CBAD' } }
+Row 2 Cell 3 fill (should be none): undefined
+Row 3 Cell 2 fill (should be none): undefined
+Row 3 Cell 3 fill (should be brown): { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF8CBAD' } }
+

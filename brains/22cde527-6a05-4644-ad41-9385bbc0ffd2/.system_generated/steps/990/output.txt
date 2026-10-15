@@ -1,0 +1,15 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-970
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-970.log
+Log output:
+<truncated 104 lines>
+, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea) 일치)
+[FOUND 94] Row 2080: 이안 -> 119-86-90528 (상호 및 부산 주소(서울특별시 강서구 화곡로 429, 402-11호(가양동, 토피아빌딩) 429, Hwagok-ro, Gangseo-gu, Seoul, Republic of Korea) 일치)
+[FOUND 95] Row 2234: 프보이 -> 120-85-52551 (상호 및 부산 주소(부산광역시 해운대구 센텀서로 30, 3층(우동) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea) 일치)
+[FOUND 96] Row 2250: 에코비티 -> 212-86-03657 (정확한 상호명 및 부산 소재지 일치)
+[FOUND 97] Row 2209: 가람스토어 -> 483-12-01662 (정확한 상호명 및 부산 소재지 일치)
+[FOUND 98] Row 2069: 니즈 -> 726-30-00870 (정확한 상호명 및 부산 소재지 일치)
+[FOUND 99] Row 2207: 선민 -> 130-53-00229 (상호 및 부산 주소(부산광역시 사상구 새벽시장로9번길 6 6, Saebyeoksijang-ro 9beon-gil, Sasang-gu, Busan, Republic of Korea) 일치)
+Progress: 226/271 completed...
+
+Last progress: 0s ago

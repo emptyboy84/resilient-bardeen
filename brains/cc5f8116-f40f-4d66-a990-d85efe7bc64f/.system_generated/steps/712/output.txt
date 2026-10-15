@@ -1,0 +1,61 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\scratch\resolve_unmatched_v2.py. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -234,6 +234,11 @@
+ 
+     return best_cand, best_reason
+ 
++from concurrent.futures import ThreadPoolExecutor, as_completed
++import threading
++
++progress_lock = threading.Lock()
++
+ if __name__ == "__main__":
+     with open(r"C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\scratch\unmatched_132_detail.json", "r", encoding="utf-8") as f:
+         unmatched = json.load(f)
+@@ -240,18 +240,28 @@
+-    print(f"Testing matching algorithm on {len(unmatched)} targets...")
++    print(f"Testing matching algorithm on {len(unmatched)} targets in parallel...")
+     found_count = 0
+     results = {}
+     
+-    for i, u in enumerate(unmatched):
++    def process_one(u):
+         cand, reason = match_target(u)
+-        if cand:
+-            found_count += 1
+-            results[str(u['row'])] = {
+-                "row": u['row'],
+-                "name": u['name'],
+-                "reason": reason,
+-                "cand": cand
+-            }
+-            print(f"[{found_count:2d}] Row {u['row']:4d} | {u['name']} -> {cand['title']} ({cand['biz_no']}) | Emp: {cand['emp_cnt']} | CEO: {cand['ceo']} | Reason: {reason}")
++        return u, cand, reason
++        
++    with ThreadPoolExecutor(max_workers=6) as executor:
++        futures = {executor.submit(process_one, u): u for u in unmatched}
++        for fut in as_completed(futures):
++            try:
++                u, cand, reason = fut.result()
++                if cand:
++                    with progress_lock:
++                        found_count += 1
++                        results[str(u['row'])] = {
++                            "row": u['row'],
++                            "name": u['name'],
++                            "reason": reason,
++                            "cand": cand
++                        }
++                        print(f"[{found_count:2d}] Row {u['row']:4d} | {u['name']} -> {cand['title']} ({cand['biz_no']}) | Emp: {cand['emp_cnt']} | CEO: {cand['ceo']} | Reason: {reason}", flush=True)
++            except Exception as e:
++                pass
+             
+     with open(r"C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\scratch\v2_test_results.json", "w", encoding="utf-8") as f:
+         json.dump(results, f, ensure_ascii=False, indent=2)
+@@ -258,2 +258,2 @@
+-    print(f"\nSimulation Done! Successfully matched: {found_count} / {len(unmatched)}")
++    print(f"\nSimulation Done! Successfully matched: {found_count} / {len(unmatched)}", flush=True)
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

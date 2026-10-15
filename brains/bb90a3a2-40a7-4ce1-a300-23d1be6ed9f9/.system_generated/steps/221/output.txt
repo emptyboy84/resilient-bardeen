@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+NiceBizinfo Scripts: [
+  'https://image.nicebizline.com/adsbynice/adsbynice.js',
+  'https://code.jquery.com/jquery-1.11.3.min.js',
+  '/js/naverLogin_implicit-1.0.3.js',
+  '/_nuxt/D_3M8xFo.js'
+]
+

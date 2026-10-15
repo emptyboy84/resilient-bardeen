@@ -1,0 +1,12 @@
+The search for ""652-86-01779" "통신판매" OR "신고번호" OR "010-" OR "bizno"" returned the following summary:
+제시해주신 번호 **`652-86-01779`**는 펫테크 및 응용 소프트웨어 개발·공급업체인 **(주)펫펄스랩(Petpuls Lab)**의 사업자등록번호입니다[1][2].
+
+* **기업명:** (주)펫펄스랩 (Petpuls Lab)[1][2]
+* **사업자등록번호:** 652-86-01779[1]
+* **통신판매업신고번호:** 제2021-안양동안-0406호[3]
+* **대표 제품/서비스:** 반려견 음성·감정 인식 스마트 웨어러블 '펫펄스(Petpuls)', 펫 건강관리 앱 '삐뽀(Pippo)' 등[2][3]
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjsTJzccW0QUDzMUMqQM5tpSDzByMJXDcTFC4T6we0Yt_w5lNAhN4VZDwzCORkmOmeg7ERQu3KUNYKUjtTmH1Xv_oqL_rQ4tqPiMclQ1P7JIVBENgmoq0Y)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWoVmuuTv9oPN9rM4FOnWxKEBipa-wlp2-oUqWXqoDPiU5tknIk3d9HIuz7WrFQIkOBSkgfdgZgacRarY0htKDfvC9XfeBzoUEENAImGknILWBESTOcTs0i6odjJMINVX0_m1Cz8_06yW60Yp4CsxasVTn_hb0LyiNzzM=)
+[3] [petpuls.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkKNGv7q-h1GKIKiH1IMOloXP9qflpn72oBTJpMQGuTrgtvvmJcN_wEfhvzWSyR6w3MgDHx1Eis_j89uIPNhLbJd99HgKA-cTSs_2tMds=)

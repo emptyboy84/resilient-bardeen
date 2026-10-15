@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=FG엔터테인먼트');
+```
+### Page
+- Page URL: https://bizno.net/?query=FG%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8
+- Page Title: FG엔터테인먼트
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-53-35-020Z.yml)

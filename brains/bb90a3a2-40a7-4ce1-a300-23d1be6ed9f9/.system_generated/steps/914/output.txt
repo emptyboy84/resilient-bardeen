@@ -1,0 +1,20 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-896
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-896.log
+Log output:
+<truncated 30 lines>
+ Hits: 21, Upgrades: 2)
+[STAGE 4 HIT 22] Seq 912 (주)내일 -> 051-803-4500 [Daum-Web] (was: 010-2864-2***)
+[STAGE 4 HIT 23] Seq 925 (주)지애담 -> 051-246-9678 [Daum-Web] (was: 010-9739-5***)
+Progress: 284 / 2277 | Total Verified: 23 (New Hits: 23, Upgrades: 4)
+[STAGE 4 HIT 24] Seq 985 (주)비에스엘다임 -> 051-580-6200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 25] Seq 996 케이에스에스앤시 -> 051-750-7200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 26] Seq 1000 지디오(주) -> 051-860-2200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 27] Seq 1011 딥라이프(주) -> 0507-1341-6285 [Daum-Local] (was: 010-5485-6***)
+[STAGE 4 HIT 28] Seq 1019 유니버스(주) -> 051-515-9595 [Daum-Web] (was: NONE)
+Progress: 324 / 2277 | Total Verified: 28 (New Hits: 28, Upgrades: 5)
+[STAGE 4 HIT 29] Seq 1041 수요일 -> 051-747-5533 [Daum-Local] (was: NONE)
+[STAGE 4 HIT 30] Seq 1051 (주)린스크 -> 051-461-9200 [Daum-Web] (was: NONE)
+Progress: 364 / 2277 | Total Verified: 32 (New Hits: 32, Upgrades: 6)
+
+Last progress: 4s ago

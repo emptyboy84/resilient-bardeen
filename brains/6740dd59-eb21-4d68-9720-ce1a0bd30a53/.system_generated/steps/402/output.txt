@@ -1,0 +1,77 @@
+
+The command exited with code 0.
+Output:
+<truncated 770 lines>
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2231] 순번: 2230, 업체명: 히트북, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2232] 순번: 2231, 업체명: 유캐스트, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2233] 순번: 2232, 업체명: 하록, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2234] 순번: 2233, 업체명: 프보이, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2235] 순번: 2234, 업체명: 베스트엔터테인먼트, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2236] 순번: 2235, 업체명: 이피엠시스템, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2237] 순번: 2236, 업체명: 그리드파트너스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2238] 순번: 2237, 업체명: 백앤센스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2239] 순번: 2238, 업체명: 시그마씨앤에스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2240] 순번: 2239, 업체명: 쉐어트리츠, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2241] 순번: 2240, 업체명: 팀리부뜨, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2242] 순번: 2241, 업체명: 에이치앤비스튜디오코리아, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2243] 순번: 2242, 업체명: 케어닥, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2244] 순번: 2243, 업체명: 티아이테크놀로지, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2245] 순번: 2244, 업체명: 케이에이치알, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2246] 순번: 2245, 업체명: 미라클링, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2247] 순번: 2246, 업체명: 오렌지랩스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2248] 순번: 2247, 업체명: 에스랩, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2249] 순번: 2248, 업체명: 아이시스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2250] 순번: 2249, 업체명: 에코비티, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2251] 순번: 2250, 업체명: 모멘텀픽쳐스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2252] 순번: 2251, 업체명: 제이피테크, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2253] 순번: 2252, 업체명: 비트시스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2254] 순번: 2253, 업체명: 건흥페이먼츠, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2255] 순번: 2254, 업체명: 크리에이티브올라, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2256] 순번: 2255, 업체명: 저스티스어드벤처, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2257] 순번: 2256, 업체명: 아크리아스튜디오, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2258] 순번: 2257, 업체명: 컨벤션숲, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2259] 순번: 2258, 업체명: 번들즈, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2260] 순번: 2259, 업체명: 모두싸인, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2261] 순번: 2260, 업체명: 뱅크다이어리, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2262] 순번: 2261, 업체명: 아신홀딩스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2263] 순번: 2262, 업체명: 인우랩, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+[Row 2264] 순번: 2263, 업체명: 엑스에이아이에듀랩스, 사업자번호: undefined, 대표자: undefined, 24년매출: undefined, 25년매출: undefined
+   Blue cells: [{"col":4,"fg":{"theme":8,"tint":0.7999816888943144},"val":null}]
+
+================ Sheet: 개인 리스트 ================
+Found 0 rows with blue highlight:
+

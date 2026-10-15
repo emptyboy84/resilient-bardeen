@@ -1,0 +1,24 @@
+The search for ""비전조이" "251002013000013"" returned the following summary:
+문의하신 검색어와 관련된 정보는 다음과 같습니다.
+
+### 1. "비전조이" 관련 정보
+*   **출판사:** 문화체육관광부 '출판사인쇄사 검색시스템'에 따르면, 부산광역시 해운대구에 소재했던(현재는 폐업) 출판사의 상호명이 '비전조이'로 등록되어 있었습니다[1][2].
+*   **차량용 내비게이션:** 과거 대우정밀에서 출시한 카 내비게이션 제품 브랜드명으로 사용된 바 있습니다[3][4].
+*   **게임(롤토체스):** 게임 '전략적 팀 전투(롤토체스)'에서 특정 시너지 효과(비전마법사)를 받는 챔피언 '조이'를 활용한 덱을 '비전조이' 또는 '6비전조이'라고 부르기도 합니다[5][6][7].
+
+### 2. "251002013000013" 관련 정보
+*   해당 번호는 문화체육관광부의 **출판사/인쇄사 등록번호**입니다[1].
+*   다만, 검색 결과상 이 번호는 시스템 내에서 여러 다른 업체(부산의 비전조이, 전남 광주의 디자인그룹상상연구소, 강원 원주의 사회적협동조합그림책도시 등)와 연관되어 나타나고 있습니다[1][2][8][9]. 이는 시스템 데이터의 구조적 특성이나 폐업 후 번호가 재사용되는 과정에서 나타나는 결과로 보입니다[2][8][9]. 
+
+특정 업체를 찾고 계신 것이라면 정확한 상호명이나 소재지를 다시 한번 확인하시기 바랍니다.
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhdssl1bmlfrqo7gbUjFI_16AZo1Nr-ak4FSqeYoEKlTQt5gUJ-4R5Pv9s7KCVr1kmIi59CYwEl5EllH4sVOijBiIDGE90FRMlXOtcbLV8D7tRQUxTuuayLPRx1AMksTA_lKNSLraXj2xZ6l7sO5std767U6zTAUz4uQV9ydq7vsBUmTep-SL3OVu3FHnPpzY22VMLHC_2_E5v_RHbYbuLAjVu8iYBB-hqSomqe9l-62sGsAZFQUMBf5LQVgpX3AiiBJXShi0zPrrhnpIEPNY7QddHRAiae415U4U3bV2D_e0CaeRRSiMHw57W0A8yL3KFqzKl1xyVsglqMP1ZuiwCVcjMItTOmBTF_Or7ZPkG)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZdGSkKdCHA6Y2Wy_j2CEIaOMWIQvFIYM5Ve1_KlWkTE5vccsFLBzuiHl6R8L5ixkjjOphZ9ik3Jo88qHkJf2Huw0moh_75eWuqQzEulIfeJQOl8HjCKYtIpCAXraKmoh_uSJZBddBtqoc07orHv2iooaux_hKVL_UTu5h5sdV_gPwLBBciV4e7jO0_MQvUF0rn1pQcXjyoTZDScESiSBim7NBjLnvI6KtpZMl0IdDE20_ZAmzb3y5iqchqRSr5kUq8jCpZHJRGFf84YTMgfXLmXMCEMV5ErU_ucMnnJhkJEh9OyDps9YHPXYGvA==)
+[3] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbD6fr3RL16hYRhYUBxTmTKbLXg1ixxpL2yzeW22fPiXvk9PhFf8hGWBk5AyVQvXDER6ENm7eDmyGQEQ9bnL9Inw-UIdWJVWxBZssoPpL_GqXiPPYO2aCMxwD2C0XGh50EOEAoKAf2zaV07994K2k1GarBx6cvBhultufFyKVE0a08sS25GIMv51D8BDrRkA5xhuTaznSIOUSDZ8aO_4N_ZAzXeqXP2DwnRRVkMqaIyHYVY03YZuHTfJbh02zJie8t9jOU2jWKmjVbxZ4P-g==)
+[4] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYdHaGoH9QNfiSEWn3tX72oKSWYUCxk8g3KnQAreJnlhvRVdpI3SIRYO7ckvJwlNPCZ9BA96hM-zcsT8FdC5Z5F-4aK9Uv2gA7YqXPBDZIl5cvfJW9BlW-H-dSCYe8bdPdpp2gB0Lg0EzmJA==)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkHO6GVNEO4yQ2mBbZn8TDAYbsgUkG07_1N6CdRDmMolM3z6c-l5Xfu7rVZ2YY4fnKToJuH-cFk0Y1BSgmCytmmV5yD2IMMKS62wKRw1X4Kq6lzKCloRpzGTZOKZoQTfNZ)
+[6] [lolchess.gg](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET9NP6j7qEsTaCJhNuunj17FsFRy_ItagcQTugHcr6FvkB2da711_zgfZc9NtYPo75Jm4YMNBcdmRjHbpYnTsffzQPHRsaH7fHencH-3ZkDJY1vUzmmdIyoAOlYS_vLm7ankgKqTf7_dXU2NRD9cUh2gHVxhUQtjeYf7LWc3PcQcOLVpIFS0v95Inyu9DLcdHM5OOGSIJzSdoHh17KmS_Ou103mn3koLlR5Ek4_E-GkJhfHhEMnB45jczlebknB35NVzs=)
+[7] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhFfi4aBNH_OPh4uUK5N1tGT9dMh_ZZgGj8n2xsxXy4k_YJGNGT4stvEGwD3t6RlNcoiV739Znduw5ZM0ulWni73OqOBStR5te0HyTEx6PJXPMtcc5rYKzmZkdzKfHOzDpSsJPAvfa7RoAQTvNBhjQkVEhGeytBHd6-1sBxsr_ZclosC2-R-vCN8DnSi_RrxE9d5lxtCFxW5YoAfV10Ry2HBsvueXJ6Lmv-NxrigcWmNIVQaeIGLjUO0_aNMRfoj9NZSqPSRQOd_bSTFfa6SV61PfG2sya6wMcsqTmBZ_CsFFA1f92UokKG5sCCsDuniVN5VIeIaQozYMWisAS1BJRgMpUrd91MK-qJwkV7Z8a5NxZgJlGLOkIkP1eBPlF2WZ0FjISmqgns4RcxNNq_DltT7hvHwU7GpxNdG7fi2Y6mXRTHB9zW4UIQsTtN22INhI=)
+[8] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0SY8Owcb3wy4TC2-0J1qAgwAWitvvWwh7pda3EAZenMjO6CvL1316tJRBRQ3r0OF72j2lUf0L1LozgH458G0UVzZu5O0jkvBfOk7pqPDNHmMSljaOPvFbowFCYRlyEAbKSchdwHexAsjPT5fv9smqIPl5QXOplC957yud2AAcJ_bmZcmmBOKCl1rBbI_ps--wxocUicq6EWFd4b9nGRghOqwWCHePOFvfZEQjYKTUbKf_oGIepNM5aSLWjx0glXcvYM5EMhbbeTZN1VWnI1yvBae1RiLlL0YnuAi6aGhYTNNs1wK3kxAdDKt-Y8HDuaByFtQBE_gJJRDR8xKVhxYI2ZfkCxFCggCBWkHDURBTsNMskoTm)
+[9] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxqrrW6RlYz37hh4cxYhg3-JesVN-epsdled11Xxoky1w3tjE7Ea6pxX7Gm5KCgv4LotcwQlo9WCrWlyWhsRBX10zxFn2QYQEcRq77S_7wlrnYrEUbF_wCVmvAbrCoeV0MxCmnRphjGcuC8gfoYA28mi2Bl5gYy3HSxksKloZaE3EO4vsI_RddzBlMwnNLaVRlf3hbC8RJKqUEhUnHHfTQieg06x8raqPRddSDOy0IXfpqqBeOQn_uNUzNYRg5pVZ8Ven2QAs3NMI6XjTxg_K6fLirHcuMycBfCOyu6JlSy4QOoy2aI5jUd2ZbzZAdq1aAZZ2ZTb727QX3clmZusXlo-7UaebH_DljU9dVqaFP)

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Status: 403
+Headers: {
+  'cache-control': 'private, no-store, max-age=0',
+  'content-type': 'text/html; charset=utf-8',
+  server: 'Vercel',
+  'x-vercel-challenge-token': '2.1789356341.60.YjAzOTNiNzhjOGNiN2YzMWRjMTFjYzc0NTZkNmNiOTE7ZWY1YTk3ODE7NTVmZjZjZjc4MDg3NjM5OTVkMzFmOTA3N2Y1ZTdmMzIyNGY5YjY3YzszO0csf1Q6b4GXWH085zkjvjKCZ5P+IVu9faSfG/o9+NCLAyYKI91nlljk6yxgKBcUlCnmgYKqAw==.1a2498aca436f52af1f792ba0cd29927',
+  'x-vercel-id': 'icn1::1789356341-ncfKFlQX556nBAnQgAOQ9UpbAMpohn6d',
+  'x-vercel-mitigated': 'challenge',
+  date: 'Mon, 14 Sep 2026 03:25:41 GMT',
+  'transfer-encoding': 'chunked'
+}
+Body snippet: <!DOCTYPE html><html lang="en" data-astro-cid-4wdtffzm><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#000"><title>Vercel Security Checkpoint</title><style>.spinner[data-astro-cid-ijmsm3te]{flex-direction:column;justify-content:center;align-items:center;display:flex}.spinner-circle[data-astro-cid-ijmsm3te]{transform-origin:50%;animation:1s step-start infinite spinner-circle-animate}rect[data-astro-cid-ijmsm3te]{fill:var(--ds-gray-900)}@keyframes spinner-circle-animate{0%{transform:rotate(0)}10%{transform:rotate(36deg)}20%{transform:rotate(72deg)}30%{transform:rotate(108deg)}40%{transform:rotate(144deg)}50%{transform:rotate(180deg)}60%{transform:rotate(216deg)}70%{transform:rotate(252deg)}80%{transform:rotate(288deg)}90%{transform:rotate(324deg)}to{transform:rotate(360deg)}}:root{--ds-gray-900:#666;--ds-gray-alpha-1000:#000000e8;--background-color:#fff;--link-color:#0070f3}@media (prefers-color-scheme:dar
+

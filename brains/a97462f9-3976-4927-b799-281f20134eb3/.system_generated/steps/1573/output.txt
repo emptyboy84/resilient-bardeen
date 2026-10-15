@@ -1,0 +1,30 @@
+The search for ""초량동 1196-3" OR "초량3동 1196-3" OR "초량동 1196-9"" returned the following summary:
+요청하신 부산광역시 동구 초량동 일대의 주요 지번별 관련 정보는 다음과 같습니다.
+
+### 1. 초량동 1196-3 (및 초량3동 1196-3)
+이 주소지는 여러 시설 및 기업이 등록된 곳으로 확인됩니다.
+*   **주요 시설:**
+    *   **부산예일직업전문학교 부산역점:** 국비 지원 직업 훈련 등을 운영하는 교육 기관입니다[1][2][3].
+    *   **부산 러시아 гимназия (러시아 학교/Gymnasium):** 재부산 러시아인 자녀 등을 위한 교육 시설입니다[4][5][6].
+    *   **베스트빌딩:** 해당 주소지에 위치한 건물명입니다[7].
+    *   **기타 기업:** 과거 자료 등에 '(주)거성종합'[8] 및 '쌍용해운'[9][10] 등의 주소지로 언급된 바 있습니다.
+
+### 2. 초량동 1196-9
+이 주소지는 음식점 및 상업 시설로 확인됩니다.
+*   **주요 시설:**
+    *   **한양각:** 부산 동구 초량동에 위치한 중식당으로, 도로명 주소는 '부산광역시 동구 중앙대로226번길 7-6'입니다[11][12][13].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbTnXpAuJOphmcXSyUoQGZ4PCMzU0fT5AIn0rze0BVTi8hYSvjxlc4TNMVYpPXZWXo0wAvzsWzzGIS9E52R9e8ZYmHriLH82hHxYQoSrFNh3XM40_d)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0tFyYdYGZmsgrQrJRzG3PFurJTCp61CzkAOwS6ih_RLgHUve5twboSPDMByVnyOVUV7kHe8iQvlbYCnl8nENsG4eFGEafPnXBa-mWXdTDF2HQh3Yd)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGAgfP4XXGM5dSreNO8O5bYKfjol4JjqS9VjJZtAgu5HxA813Vl9zARSG4WIePMXpiAZr7WKtJ5XJF6SkS7No84sUStv1HCLdaygzs7IXncyy8VYaS)
+[4] [vseokoree.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbagDVVpw9dRFDK4NPmGKdb9f5dLIpx6R0qIIAcKxGvGAXfq0QjndxCCLiJpJYeCfTm_QaDTGkkkusx_YAqJwlS5kSi1vPf9ZZpnO-y3pGSixiIrTFaI7UxtboteF2oejidm_qfxXrHd2oniZOkxli3BohPNkK_jCRcA==)
+[5] [ksorskorea.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnpsS0H8MFA_zXHqKdvRkZtd7d53YnfXLYrquj0qpVv7oMO7qxFlPd7eLYE2gxQ_AhbDnQczcwK7PopW4nrq_cIa2YwuScnT9B6wR8nj4UAKaxHeLYdZRzBBXZ8IiYWU8b5ACNmWBdvCTi1y7RwDl5n14pBAZJRB_x_g==)
+[6] [vseokoree.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUJiLf0sAUZ3KeBFtombHZuBHZm6X0YS3_s0QmqHMzhWN3HQZAMo2N-WFNn2nS808U7OaJAjXqhcLGOfZKerrgSp-V2SXRb9vqLQa8fjhO87HE6ZS0SBzYgVDGxMWZatMl3ZlhpbDKbEDwA0pQqW-m3qlAV7Zeldei5DNr8OZUzpgaNIAXtk2HF2oe8yQQvfazvBs=)
+[7] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-vDI4nZTKVpoWoTP6vEANEPlB8DG97XftuUlF6CO57jn2bEZBuV4OrLbWtOSFBQTV26vTFhVsIuT9M4Ekqjxq3QOxSFRSY55GCUBIw429xyxVKJJS-_xgmL2DWNC2mF6nt9dhXA0rZycH7LQUxw2pmHjyxZdjltXDEnR8CilWBhb1Qlya4p2RDztTPTP0lrGqzpb_ltvpA==)
+[8] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB0ULcstD2yDwM3wlc3NWqyhlhTzTMNLq_e5jWAo4q6F5TK-BgkapkGjFVOAi1qPsSYtcuKZcP1t0Nf_k0Tewa_2bd2iAmGHIaLctcQST-xEK4XWU9YF1MJ3lMNGftwzyStQ5QpiO3-fd0SeewDTzsU6oOXOLjScrHciqieTzUExFcZBp51cvjmUGjQIfN9kTkJH3EtKWDeRUnu_s7Ui4NN5_B0Ct65AVU2tGDzYVGX8IJWayialuO8INB)
+[9] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaXm_tQ6d-FaLa_0ddOTxqMlJJmPBMwdbouKL3eDsDQ6RDSnICXRvIilj_l1p6VRWjF4bttgZSLdCJIqeF7JXgmdGVGZTDyJwdtulVL7y9sIjS6S887TUIbIxaF6jQSLaHasQGilTV2pyt5rd0nY0PkgU-fHVZMtrVeK6vtgobg4OCKmq227Qnygh66fgoNwOdXQVVTBF9mG9W)
+[10] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqLQEo287xhEJt4yMuearbCwQ3Oo7OYk3IfdK-Yt-Ez4Q7MJ-y03yG43laaIGJgWFbbvMfNsewgZeFr_n8bbdqPyT6-as_mTR_3TNXri0LCI-R66o30k-HWt0n46NJfjCaKh4aUbg4GwVCBXtq6aLl0LA7hU2E2OmOEJ1QdHUJb4XtBPM9yioiYXad7n0SYc2Gy7MOL8xN3QmrvWNNjeguRJbqRvs7pOFMA3OmwA==)
+[11] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNfezvHk_7tJOwbHoEirmJ68jScGN6HzfX1_hKFKEAJXQuF61DDZDdwAeW80EITubRnZ6m7ox3UQt11e-h-BqBLkkRndt_I65G41FOyNn6AQEkW_rEWO8d-pGb83xZwz15y5I9dyMX2s_kBoIXciBFt7Z3laEWETMuE9MFUs01S4JOMnzk0rwwBx06udm466RDGKEuiNpyfGAOgWBhnRZZDb3aUhnk3O9jExuamF_JKNDsA0s=)
+[12] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-66w1nY4CcyKicKL-4vKAvQyHC2m-UdTWZDXeK3NrtYDZUDH2hqIX01aYds61K-XPxQ6vN-hMRxEgc4wGuyk-mJJN5bNOBevPfLblNvw6w5eUkC_ua9E=)
+[13] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd-zoWapswQar1N9vbcC7cEBN639XB4KwA41U8E8GvpXLDO3GO5BAfseiBADxGokwSM8Oc3c8p9ebEnOcPd7JV8uA3CEMTMGkgFTRiN59zbsGzR5tqFSfaAc0v1F6nKLKn_Mn_hJvzb-GE_o_Yhpu2XZGrg8ZCkGwr7lSelSfnDZi8Z9OqhH03CThJwzadMM0YmMOJWRHnd0Bmxag_TuLzjHEit_VvgpctAAGXdAzBjUcvhwLQNHBUGMoBSIn2rNja02dSPLwDOMe7fYeN5x25vBlTLs7ryQUmezWcfor27jptfQA=)

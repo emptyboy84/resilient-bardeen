@@ -1,0 +1,87 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Headers: {
+  date: 'Wed, 14 Oct 2026 02:13:06 GMT',
+  server: 'Apache',
+  'set-cookie': [
+    'elevisor_for_j2ee_uid=6kdvmkx2nwjty; path=/; Max-Age=31536000; HttpOnly; Secure; SameSite=Lax',
+    'JSESSIONID=HIhsvyuF-8J7FzrycdBAj8EgiaoAyDEj_t2T5mWu.BIZEX11; path=/'
+  ],
+  'content-length': '3658',
+  'content-language': 'en-US',
+  'keep-alive': 'timeout=5, max=1000',
+  connection: 'Keep-Alive',
+  'content-type': 'text/html;charset=UTF-8'
+}
+Body length: 3373
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"  >
+	<meta name="viewport" content="width=device-width, initial-scale=1"  >
+	<meta name="format-detection" content="telephone=no"  >
+	<title>통신판매 사업자정보 조회</title>
+	<link href="/site/www/css/sub.css" type="text/css" rel="stylesheet" >
+	<script src="/site/guide/js/jquery.min.js"></script>
+</head>
+<body>
+
+	<div class="captcha-wrap">
+		<div class="captcha-box" style="margin-left: auto;margin-right:auto">
+			<img id="captchaImg" title="캡차이미지" src="/bizCaptchaImg.do" alt="캡차이미지"/>
+			<div id="ccaudio"></div>
+		</div>
+
+		<div class="helper-box refer" style="margin-left: auto;margin-right:auto">
+			<p class="helper-tit">
+				위에 보이는 문자를 입력해 주세요.
+			</p>
+		</div>
+
+		<div class="captcha-form" style="justify-content: end;margin-left: auto;margin-right:auto">
+			<input id="reload" type="button" onclick="getImage()" value="새로고침" class="btn tertiary sm">
+		
+		</div>
+
+		<div class="captcha-form" style="margin-left: auto;margin-right:auto">
+			<input name="answer" id="answer" type="text" value="" maxlength="6" class="form-control sm">
+			<input id="check" type="button" value="입력" class="btn primary sm">
+		</div>
+	</div>
+
+
+	<form name="bizCommPopForm" id="bizCommPopForm" method="post" action="/bizCommPop.do">
+	<fieldset>
+	<input type="hidden" name="wrkr_no" id="wrkr_no" value="8078703087"/>
+	
+	</fieldset>
+	</form>
+
+
+
+	
+	<script>
+		window.onload = function(){
+			getImage();	// 이미지 가져오기
+			
+			document.querySelector('#check').addEventListener('click', function(){
+				var params = {answer : $('#answer').val()};
+				$.ajax({
+					url : '/bizChkAnswer.do',
+					type : 'POST',
+					data : params,
+					success : function(returnData) {
+						if( returnData == 200 ) {
+							//console.log('Captcha Success !!');
+							var obj = document.getElementById("bizCommPopForm");
+							obj.submit();
+						} else {
+		
+

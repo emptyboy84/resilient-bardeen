@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Loc 1: https://m.ssg.com/sellerhome/214249.ssg
+Loc 2: https://m.ssg.com/sellerhome/214249/category?dispCtgId=6000174843
+

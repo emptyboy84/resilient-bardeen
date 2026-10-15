@@ -1,0 +1,6 @@
+### Result
+"메뉴\nbrunch\n검색\n쏘쏘킴\n쏘쏘킴\n소속\n북인더백 \n직업\n소설가\n팔로워\n19\n팔로잉\n3\n제안하기\n팔로우\n작가프로필 하위메뉴\n작가소개\n글 154\n작품 5\n독서노트 0\n작가소개\n소개\n\nsoso한 일상에서 소소하게 행복하기\n\n에세이\n연애\n독립출판\n소설가\n에세이스트\n프리랜서\n북인더백\n웹사이트\nwrite_bbu\nhttp://blog.naver.com/younga104\n작가에게 제안하기\n\nYou can make anything\nby writing\n\nC.S.Lewis\n\n브런치 시작하기\n브런치 홈\n브런치 나우\n브런치 독서클럽\n브런치 책방\n계정을 잊어버리셨나요?"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.querySelector(\'#main_pack\')?.innerText || document.body.innerText;\n}');
+```

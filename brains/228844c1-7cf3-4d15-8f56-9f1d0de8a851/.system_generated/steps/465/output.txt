@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://section.cafe.naver.com/ca-fe/home/search/articles?q="블루레코딩"');
+```
+### Page
+- Page URL: https://section.cafe.naver.com/ca-fe/home/search/articles?q=%22%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9%22
+- Page Title: 네이버 카페
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-47-26-254Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-47-23-122Z.log#L1

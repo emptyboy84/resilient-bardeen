@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Saramin for 토탈소프트뱅크: found 2 companies: [
+  {
+    link: '/zf_user/company-info/view?csn=RUhMNS9vLzFpRWhUK3JWQmpuZmQ3dz09',
+    text: '(주)토탈소프트뱅크'
+  },
+  {
+    link: '/zf_user/company-info/view?csn=dEZGZm5KZC9tK05nZWV3V2Vuelo3dz09',
+    text: '(주)토탈소프트뱅크'
+  }
+]
+Saramin for 모두싸인: found 2 companies: [
+  {
+    link: '/zf_user/company-info/view?csn=NHVsT0xvOWlUQ24zdkYrb05wUm1xQT09',
+    text: '(주)모두싸인'
+  },
+  {
+    link: '/zf_user/company-info/view?csn=d1Z6cEQ2b2gxU0dCSnhnQTlYdmd5QT09',
+    text: '모두싸인'
+  }
+]
+

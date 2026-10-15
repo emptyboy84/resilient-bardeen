@@ -1,0 +1,20 @@
+The search for ""펫펄스랩" "장윤옥" OR "652-86-01779"" returned the following summary:
+검색하신 **‘펫펄스랩(Petpuls Lab)’**은 인공지능(AI)과 사물인터넷(IoT) 기술을 융합하여 반려동물의 소통 및 헬스케어 서비스를 제공하는 **펫테크(Pet-tech) 기업**입니다[1][2]. 
+
+* **대표자:** 장윤옥[3]
+* **사업자등록번호:** 652-86-01779[4]
+* **설립일:** 2020년 3월 17일[2][4]
+* **주요 사업 및 제품:**
+  * **펫펄스(Petpuls):** 반려견의 짖는 소리와 활동량을 분석하여 감정 상태(행복, 슬픔, 불안, 분노, 안정 등) 및 활동·운동량을 측정해 주는 스마트 웨어러블 디바이스 및 앱 서비스 (CES 2021 혁신상 수상 경력)[5][6]
+  * **삐뽀(PIPPO):** 가정에서 간편하게 스마트폰 앱으로 촬영해 반려견의 신장 건강 및 소변검사(11종 이상 항목)를 확인할 수 있는 AI 기반 반려동물 소변검사 키트 및 시스템[7][8][9]
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEevmsO-a2wk4Uf8ZAg62fp519Zquz-F4aHpGZDMkHlt4TUDvceQ989Iyp7z_1VTTsMi3PBmjLvvKtFX8lrq-eSoGz0cHzdQaBMscXvJFMHt09Zo5qDM3cUhGQPTW-6XcoDpYmunEhb0HlacWdYvNE9mNrueyoLLISkCY5sTJO_-Eo=)
+[2] [petpuls.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT0QtoAWAeS8USgNLs2MR7sYuwdDwPVIu3F-j-NMOwr-12dmOYETpToC_OtAkYu882LUu-PwJzVsX5_pOoDs6SV5mANNhe0ujydGJOgYhK9uQ1ADg9hA==)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3vIslJsvJLmvZfLFs6U_n54ObzWVIG3Cm2wJRXIbNbeXO2JAYWoBdPF9rueung-bBVWTmjwyp0Tdwcme25dbuK9q-L0x7C33eAh0q3HIWdo4=)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmlPuo7m8cGmOMnL2YtRCz6pCoWiZBalBId3ex2Kqkypn525mLzpzixDN4vWMyBbTiH6D-5aomUQJ5UNqQW3M_5BMS2TF_YWhoHfcN3oQP2FEFj30klhwJxyCBYukSYgoT_8Ps34FcV8TjZXz5on7G9B7UzWN_xtMzBEX_S3cbaoWoM-A=)
+[5] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3vIslJsvJLmvZfLFs6U_n54ObzWVIG3Cm2wJRXIbNbeXO2JAYWoBdPF9rueung-bBVWTmjwyp0Tdwcme25dbuK9q-L0x7C33eAh0q3HIWdo4=)
+[6] [petpuls.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaqH7XG79wetMQAKvKFAMM8ZVN_ynqNk0za3ZLLkP7-q0XnsD_3hF8RYZ85up30wZTsELPrG4_o0izMx8AbD1yH5fnY4cy5F6bQ9Od0Rw0UyZlqhMc)
+[7] [newspet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNdTvzaqlIQptHqVSuh9jOdHAsFLSgVSiyAPUQ5hlFfj9vZIy_xI-GWry3aAmknKtmlAziuyg-NZWDR1uTL23O2A--LpCbbjtPUX-k-Q5FpXgTanq7o6cNHvE4IxFPfYJjIn2uA9TfKI0edm0MfTTt)
+[8] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Z6Vu2xN-Bzv13uuBTeMbO0Pjrma3Usu7ZtY-Oc2Ta9693QiuqQsH7vYtA75nzzRg_gvAWmI4Bae2niY0sAFupvk0op8eBt6v67KXBywWdUXFz8wrv26p)
+[9] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkeuU35hGLMQY4d_R97idxAMlkjvmEK8gAND6i4NDxd5sHBpAtU64f_YRrRC2mft_XEfveOE6jr9ZXL3s3xsnOJWQgs1oRQx8urjhV6Pj67S2s_uTDiHIAq8rUUWRR4WThXvQaAxeutI=)

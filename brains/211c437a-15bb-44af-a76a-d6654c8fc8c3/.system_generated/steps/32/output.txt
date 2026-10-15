@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+;sets vid/pid info for sistouch tools
+[816_I2C]
+ven_8086&dev_2930, col04   ; pci ich9
+ven_8086&dev_27da, col04   ;
+ven_8086&dev_3a30, col04 ;
+ven_8086&dev_3b30, col04 ;
+ven_8086&dev_266a, col04 ; 
+
+[816_USB_Brg]
+vid_1039&pid_0810, col04   ;
+vid_0457&pid_9200, col04   ; usb 
+vid_0457&pid_0810, col04   ;
+
+[816_I2C_MASTER]
+vid_0457&pid_4760
+
+[817_usb_brg]
+vid_0457&pid_f817
+
+[816_USB]
+vid_0457&pid_0151, col04 ;
+vid_0457&pid_0816, col04 ;
+vid_266e&pid_0100, col04 ;
+
+[817_USB]
+vid_0457&pid_1030, col04 ;
+vid_0596&pid_0600, col04 ;
+vid_0596&pid_0601, col04 ;
+vid_0596&pid_0601, col02 ;
+vid_0596&pid_0601, col01  ;
+
+[SPI]
+vid_0457&pid_f591
+

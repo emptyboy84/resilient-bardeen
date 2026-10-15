@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:181
++ ...  = New-Object LGDeviceCtrlLib.LGDeviceController; .Get_TouchPadMode()
++                                                                         ~
+'(' �ڿ� � �;� �մϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedExpression
+ 
+

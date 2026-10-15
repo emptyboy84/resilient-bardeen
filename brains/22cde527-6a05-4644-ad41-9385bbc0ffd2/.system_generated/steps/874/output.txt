@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total: 150
+Type breakdown: { '개인사업자(01~79, 80, 89)': 150 }
+

@@ -1,0 +1,16 @@
+The search for ""우수경" "만화" OR "웹툰"" returned the following summary:
+우수경 작가는 웹툰 **《디어 마이 유니버스》**를 집필한 작가입니다[1][2].
+
+*   **대표작 《디어 마이 유니버스》**: 자신의 행성을 떠나 지구(부산)에 불시착한 외계인 '파이'와 그를 도와준 지구인 '우주'의 이야기를 다룬 BL(Boys Love) 장르의 웹툰입니다[3][4]. 총 60화로 완결되었으며, 여러 웹툰 플랫폼에서 감상할 수 있습니다[1][3][2].
+*   **활동**: 제2회 부산웹툰페스티벌 등에 참여하며 웹툰 작가로서 활동한 이력이 있습니다[5].
+
+참고로, 동명이인의 교육학 분야 저자(예: 《영유아음악교육》 저자)도 있으니 도서 검색 시 분야를 확인하시기 바랍니다[6][7].
+
+Sources:
+[1] [mrblue.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk2QOD8nqZPDzAa-x0dw8O9Fk_HhyGaNg4G--Scs52UjmmuiSv45r8T0fqz5c3zqbb9Sm3Vsl60jxk1lw-pXcawG5UqM34a5fcGs7EIHMJ74DFxCmfECHa8XOqHni5_wdgRhiD6H5f)
+[2] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfcIg0_2LzRjjVnrxf7y_viXYIO9R9TrX1ysnZfwNYPewq6FWuLq3UkzfPVLjSLqTG1-knlAoppuGVOLfadtgrH0nwSzYPCwRVcdH1KjbHdS_vKM0Sqs-c5Tp04Q==)
+[3] [nate.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYBVMDeA-uahnAhodL0Z2cn1Ta3UHmJMcTgQmg3iD7fiIjbVq8G83zPAMz-8hyDJ4O2_Px0Zf0VAfI7IjnwuaHzBiGEyh7JXx1szgpZhfdkwGlhAsCLigYzYOPXe6t8I1vlA==)
+[4] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPQLB9rzAbOGxH8pJgj5lCx3Ew1sCWPEBBKMlC08znXfAHKBAZxbDebki7Qo18_5U4NTMVz4gQoh0buCK5SXmivE3UcYk6HMWFtHHwptTG5o2PScHOMImp9zqtKb9wWQTPzw==)
+[5] [tnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc0mjdQcdIrvk3U-SqMBpUiYDIK23Jjdca1yxmHZg_7TcsgTqCP_r-kkUairQGFR-cIeQd-mm1p_McaewCuOHQBOzagS7rCTZ-DUcIp4EhQT0TMjBPR0JFTiyXb1K9016nRJ2RMPOkSi1hEg==)
+[6] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjt6l5E4Jv6oP1D65ZC9TgzSnj071ScS4ANW8K4Vtz6GJoOGNO_aZpZ6BGVZK0JooGWiruV8ZII2f-chWAfr3qaY9igl201ckbJexj7oeo70rfMT67f6hpZiCBwAJd2aHq)
+[7] [arte.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzWx_Zzl0g0-8OPfi9DsFApEVFKm9PAC3q5WKdqWDUIHo2yepEW-yxfizXddilX8PkYhHul0br0AA2giPLg_DF5TmV7pT3TS39FMR6TT2qWxAbQGe2wsJOnMlE3PAiqdp5wYqRMU2K3AgcOmTQOdCFV3h9-MRWmFXk-vrqbzdHmQ==)

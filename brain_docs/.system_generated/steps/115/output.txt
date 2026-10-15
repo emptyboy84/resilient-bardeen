@@ -1,0 +1,12 @@
+The search for "site:simtk.co.kr OR "simtk.co.kr" 전화 OR TEL OR 부산" returned the following summary:
+검색하신 도메인 `simtk.co.kr`은 **(주)에스아이엠테크**의 공식 웹사이트이며, 부산에 위치한 업체입니다[1][2]. 
+
+관련 기업 정보는 다음과 같습니다:
+
+* **업체명:** (주)에스아이엠테크 ((주)귀뚜라미 공식 대리점, EMR/OCS/ERP 및 소프트웨어·시스템 개발 등)[1][2]
+* **전화번호:** 051-714-1070[2]
+* **주소:** 부산광역시 연제구 법원남로 16, 601호 (거제동, 혜원빌딩 등 관련 지역)[2]
+
+Sources:
+[1] [simtk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp8yPSI3rc27yr8LwwwqDP17XC0EHU44o42erGVp6SZCP-Va0Db6_aC9mJ_vpvThaxhf7P7s5k7NdTeXbqbfiCVI3PtUVImHGHon1v5g==)
+[2] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpCZ4zliRLPn5neaHEkrPp06aeFn9tC9wC8UbpHhtan_-k9LC2o08H6XVC3g0g6-8V69VKNcBXZy6RDPqUQDmqE3GMwRhE7Au7vp2pX8vnxWYycfadG5gHzTe-xJd1RE_ODzgv4SjHD-w4eF4JqLlxj-6Wz3G6-342KNLwKyup8JXl9ERSk4pJkg==)

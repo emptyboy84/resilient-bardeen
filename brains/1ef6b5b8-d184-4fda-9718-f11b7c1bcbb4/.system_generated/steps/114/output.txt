@@ -1,0 +1,49 @@
+
+The command exited with code 0.
+Output:
+User input col count: 18
+User Col 0: [배현명]
+User Col 1: []
+User Col 2: [㈜미우디자인]
+User Col 3: [5518501580]
+User Col 4: [장준호]
+User Col 5: [06176]
+User Col 6: [서울특별시 강남구 영동대로 416 ]
+User Col 7: [02-3484-7788]
+User Col 8: [02-3484-7789]
+User Col 9: []
+User Col 10: []
+User Col 11: []
+User Col 12: [도배, 실내장식 및 내장 목공사업]
+User Col 13: [110111-2192526]
+User Col 14: []
+User Col 15: []
+User Col 16: []
+User Col 17: []
+
+merged_500_perfect.tsv row 405 col count: 18
+Row 405 Col 0: [배현명]
+Row 405 Col 1: []
+Row 405 Col 2: [㈜미우디자인]
+Row 405 Col 3: [5518501580]
+Row 405 Col 4: [장준호]
+Row 405 Col 5: [06176]
+Row 405 Col 6: [서울특별시 강남구 영동대로 416 (우)06176]
+Row 405 Col 7: [02-3484-7788]
+Row 405 Col 8: [02-3484-7789]
+Row 405 Col 9: []
+Row 405 Col 10: []
+Row 405 Col 11: [20 미만]
+Row 405 Col 12: [도배, 실내장식 및 내장 목공사업]
+Row 405 Col 13: [110111-2192526]
+Row 405 Col 14: [12월(추정)]
+Row 405 Col 15: []
+Row 405 Col 16: []
+Row 405 Col 17: []
+
+Differences:
+Col 6 differs: User=[서울특별시 강남구 영동대로 416 ] vs Current=[서울특별시 강남구 영동대로 416 (우)06176]
+Col 11 differs: User=[] vs Current=[20 미만]
+Col 14 differs: User=[] vs Current=[12월(추정)]
+Col 17 differs: User=[] vs Current=[]
+

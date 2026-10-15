@@ -1,0 +1,35 @@
+
+The command exited with code 0.
+Output:
+On branch genoray_busan_business_number
+nothing to commit, working tree clean
+commit 20488d321f81ad38467f4a5d62a2afee33145c06
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 12:58:40 2026 +0900
+
+    e
+
+commit b44b0bd272cda49d06cd101f1df579c61b94fafb
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:16:43 2026 +0900
+
+    feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+
+commit 794e3badb29e5f9845cc118a1e2d2ec34d6a9519
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:13:03 2026 +0900
+
+    feat: update 디에스케미칼 (5481701760) industry categories and status
+
+commit 706713c53d6c73691a687ed09cde602387314afa
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 10:54:23 2026 +0900
+
+    feat: update 투콤마비 contact phone, zip, address and homepage
+
+commit 3f8176c97de62095688e769c06e043a3cc54787a
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 09:37:04 2026 +0900
+
+    fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+

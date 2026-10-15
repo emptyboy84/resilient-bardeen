@@ -1,0 +1,12 @@
+### Result
+"주메뉴\n업체등록\n스팸DB조회\n주요서비스\nOnDB판매\n114소개\n고객센터\n검색\n사이트맵\n전체메뉴\n홍보센터\n회원가입\n로그인\n스팸/범죄/사기 조회\t통합검색\t업종검색\t전화번호 검색\t휴대폰번호 검색\t상가/건물 검색\t전통시장 검색\t지역번호 검색\n스팸/범죄/사기번호를 조회해보세요.\n전화번호\n계좌번호\n \n검색\n인터넷 사기 예방 5계명\t\n01인터넷거래는 가능한 신용카드를 이용한다.\n02신뢰 할 수 있는 쇼핑물 등을 이용한다.\n03대형 오픈마켓이라고 하더라도 사업자정보를 확인하는 등 주의를 게을리 하지 않는다.\n04턱 없이 싼 가격을 제시하며 직거래를 제안하는 사람은 주의한다.\n05직거래를 하는 경우 가능한 직접 만나서 물품을 받는다.\n💬 챗봇상담\n서비스소개 이용약관 개인정보처리방침 공지사항 FAQ 문의/건의 제휴문의\nFamily Site\nkt is 대표이사 : 양율모 통신판매업신고 : 제2006-04260호(2006.06.05) 사업자등록번호 : 101-81-71660 \n(07320) 서울특별시 영등포구 여의대로 14, 10층(여의도동, 주식회사케이티여의도빌딩)\n 오류문의는 1:1이메일문의 또는 문의 게시판을 이용하세요. 1:1 이메일문의 오류 신고하기\n\nCopyright© 2020 kt is Corp. All rights reserved.\n\n페이스\n \n인스타그램\n \n네이버블로그\n \n유튜브"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText');
+```
+### Page
+- Page URL: https://www.114.co.kr/search?keyword=070-4172-9541
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 181 errors, 3 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-21-52-319Z.log#L306-L771

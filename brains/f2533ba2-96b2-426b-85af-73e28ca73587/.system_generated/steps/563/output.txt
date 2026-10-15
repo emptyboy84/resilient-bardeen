@@ -1,0 +1,59 @@
+### Result
+[
+  {
+    "text": "(주) 바른중량",
+    "href": "https://bizno.net/article/7758100670"
+  },
+  {
+    "text": "다복공인중개사사무소",
+    "href": "https://bizno.net/article/2201363536"
+  },
+  {
+    "text": "청해리싸이클링",
+    "href": "https://bizno.net/article/2263600936"
+  },
+  {
+    "text": "예나엔지니어링",
+    "href": "https://bizno.net/article/2421502436"
+  },
+  {
+    "text": "동산건기",
+    "href": "https://bizno.net/article/3170338536"
+  },
+  {
+    "text": "파파애드",
+    "href": "https://bizno.net/article/5201901636"
+  },
+  {
+    "text": "개인택시",
+    "href": "https://bizno.net/article/5956300236"
+  },
+  {
+    "text": "에스제이티",
+    "href": "https://bizno.net/article/5961302436"
+  },
+  {
+    "text": "국양로지텍",
+    "href": "https://bizno.net/article/6052179836"
+  },
+  {
+    "text": "복은산업",
+    "href": "https://bizno.net/article/6060469936"
+  },
+  {
+    "text": "엠케이컴퍼니",
+    "href": "https://bizno.net/article/6102951836"
+  },
+  {
+    "text": "",
+    "href": "https://bizno.net/article/"
+  },
+  {
+    "text": "",
+    "href": "https://bizno.net/article/"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  const match = links.find(a => a.innerText.includes(\'바른중량\') || (a.href && a.href.includes(\'article\')));\n  return links.map(a => ({ text: a.innerText.trim(), href: a.href })).filter(a => a.text.includes(\'바른중량\') || a.href.includes(\'article\'));\n}');
+```

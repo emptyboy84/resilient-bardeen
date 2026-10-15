@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+Decoded length: 16275
+Found: <title>8998100224</title>
+Found: <meta name="title" content="8998100224">
+Found: <meta name="description" content="8998100224에 대한 사업자 정보 조회 결과입니다. 탑플랜트(주) 그 외 기타 일반 목적용 기계 제조업 경상남도 창녕군 도천면 바깥어만길 84-3">
+Found: <meta name="keywords" content="8998100224,사업자등록번호 조회">
+Found: <meta property="og:title" content="8998100224">
+Found: <meta property="og:description" content="8998100224에 대한 사업자 정보 조회 결과입니다. 탑플랜트(주) 그 외 기타 일반 목적용 기계 제조업 경상남도 창녕군 도천면 바깥어만길 84-3">
+Found: <li><a href="/법인등록번호조회/">법인등록번호조회</a></li>
+Found: 사업자등록번호로  <span class="lnr lnr-arrow-right"></span>  사업자정보(회사명,법인번호,주소,업종)
+Found: <input type="text" class="form-control" name="query" id="query"  placeholder="사업자등록번호 / 법인등록번호 / 상호명 입력"  autocomplete="off">
+Found: <h3 class="text-white"><span>"8998100224"</span> 키워드로 <strong><span style="color:red">1</span></strong> 개의 결과를 찾았습니다</span> </h3><br/>
+Found: <a href="/article/8998100224"><h4>탑플랜트(주)</h4></a>
+Found: <h5>그 외 기타 일반 목적용 기계 제조업 </h5>
+Found: <li><a href="/법인등록번호조회">법인등록번호조회</a></li>
+Found: <input name="q" id="q" placeholder="상호명,사업자등록번호,법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >
+

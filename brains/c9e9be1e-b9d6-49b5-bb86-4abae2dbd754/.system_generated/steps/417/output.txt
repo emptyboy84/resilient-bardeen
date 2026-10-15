@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total unique industries: 107
+Saved unique_industries.json
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22');
+```
+### Page
+- Page URL: https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22
+- Page Title: site:sankun.com "바른중량" - Google 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-55-19-869Z.yml)

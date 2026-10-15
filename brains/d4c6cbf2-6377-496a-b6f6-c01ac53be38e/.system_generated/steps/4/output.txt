@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+Name         : HID-compliant mouse
+DeviceID     : HID\SYN1B8B&COL01\5&154DB3C4&0&0000
+Manufacturer : Microsoft
+Description  : HID-compliant mouse
+Status       : OK
+
+
+
+

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+Name                  DriverVersion Status
+----                  ------------- ------
+Intel(R) UHD Graphics 30.0.100.9836 OK    
+
+
+

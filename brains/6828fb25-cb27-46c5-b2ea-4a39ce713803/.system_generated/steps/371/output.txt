@@ -1,0 +1,25 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-369
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-369.log
+Log output:
+<truncated 30 lines>
+l | Col 2: null | Col 3: 성우이노텍
+19269 Col 1: null | Col 2: null | Col 3: (주)브리오
+19270 Col 1: null | Col 2: null | Col 3: 서강테크
+19271 Col 1: null | Col 2: null | Col 3: 햅라운드
+19272 Col 1: null | Col 2: null | Col 3: 스위트로렐(sweet laurel)
+19273 Col 1: null | Col 2: null | Col 3: 태금촬영업
+19274 Col 1: null | Col 2: null | Col 3: 중앙테크
+19275 Col 1: null | Col 2: null | Col 3: 은성
+19276 Col 1: null | Col 2: null | Col 3: ㈜미르내이앤씨
+19277 Col 1: null | Col 2: null | Col 3: 대원오토텍
+19278 Col 1: null | Col 2: null | Col 3: 플로우텍 주식회사
+19279 Col 1: null | Col 2: null | Col 3: 지오스이엔지
+19280 Col 1: null | Col 2: null | Col 3: 선옥디자인
+19281 Col 1: null | Col 2: null | Col 3: 울트라그린
+19282 Col 1: null | Col 2: null | Col 3: 티엠에스
+19283 Col 1: null | Col 2: null | Col 3: 다올
+19284 Col 1: null | Col 2: null | Col 3: 다올
+19285 Col 1: null | Col 2: null | Col 3: 광선정밀
+
+Last progress: 1s ago

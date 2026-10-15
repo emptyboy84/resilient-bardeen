@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Corp: 1801111108067 Check: 7 Actual: 7 Valid: true
+Biz: 5368100866 Check: 6 Actual: 6 Valid: true
+

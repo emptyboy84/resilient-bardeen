@@ -1,0 +1,14 @@
+The search for "site:d3d.co.kr "부산" OR "비쓰리디" OR "연락처" OR "전화" OR "051" OR "02"" returned the following summary:
+공식 홈페이지(`d3d.co.kr`) 정보에 따르면, 주식회사 디쓰리디(D3D Co., Ltd.)의 연락처 및 위치 정보는 다음과 같습니다[1].
+
+* **전화번호:** +82.2.912.0506 (02-912-0506)[1]
+* **주소:** 서울특별시 종로구 종로39길 22, 동원 5층 (나동)[2]
+* **이메일:** GenZ@genz.co.kr[1]
+
+*참고: 검색하신 키워드 중 '부산'의 경우 부산디자인진흥원 협력사 및 타 3D 관련 업체(쓰리디플러스 등)의 정보가 함께 검색되었으나[3][4], `d3d.co.kr` 도메인 본사 자체는 서울특별시에 위치하고 있습니다[1].*
+
+Sources:
+[1] [d3d.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-8XfRsVlfdYCkpUVh_g1ZIKTrnGcVmnf2JCyb3vL9gxAlP9xj4yk14TPoIAK6uzaD05GwBNsR6DybPQpH3DHUug3mES5dNkw=)
+[2] [d3d.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSY4anXWO-yLYG80K1WQZt4R_p5s_JyC6C7DiwDffEmrpp8q9kP3b8EK18i9FlhIr3bWLMkOcM3ScUfLCrJf5CEq9ttgU0zgWDF98fuo6KmNXsiic=)
+[3] [dcb.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpmoD-KMHqP5mho0F_oT7SCQzyOLzVowB-9czBe169x38aSz8AJ3K8Sfho4pfPhgpQBGMb-0jIkkBQNhWB35JEstmAuDBX-AGSyXMLqL0FeOV6KkQAXpRKO6C5k6fYtKGMPlBombH6_GitBwJNPxawhu-u0Q==)
+[4] [3dplus.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlAChTe6TggyuOAZVAJd2uf4A2NVNs-VWEJ1KdmuM7Yq9LppBW6pFq1SeTFdHQqGlsxbJRdJBil4l0V2tuWLEABr1hPKdJbDg52lGfxg==)

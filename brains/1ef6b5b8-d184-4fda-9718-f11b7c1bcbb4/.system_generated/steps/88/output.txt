@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+Name                                 LastWriteTime           
+----                                 -------------           
+1ef6b5b8-d184-4fda-9718-f11b7c1bcbb4 2026-09-07 � 10:51:51
+tempmediaStorage                     2026-09-07 � 10:03:24
+326e2625-2c52-4d31-aed5-080b0b8237b0 2026-09-07 � 9:01:53 
+45c5135a-1255-4cb7-bd50-38396e1a10f4 2026-09-04 � 9:03:16 
+ac7cda8e-c7cb-41e1-90c0-bdd7bb5cf9c3 2026-08-31 � 12:29:06
+
+
+

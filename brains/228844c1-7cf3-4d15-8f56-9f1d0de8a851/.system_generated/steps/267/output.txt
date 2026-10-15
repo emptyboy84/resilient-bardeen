@@ -1,0 +1,13 @@
+The search for ""부산문화콘텐츠콤플렉스" "3층 2호" OR "302호"" returned the following summary:
+부산문화콘텐츠콤플렉스(BCC) 내의 '3층 2호' 또는 '302호'는 과거 또는 현재 특정 기업이 입주해 있거나 주소지로 등록된 공간입니다.
+
+*   **관련 정보:** 부산광역시 해운대구 수영강변대로 140에 위치한 부산문화콘텐츠콤플렉스 내 '302호'는 과거 '브이알코리아(주)' 등의 기업 정보에서 주소지로 확인된 바 있습니다[1]. 
+*   **시설 구성:** 부산문화콘텐츠콤플렉스의 층별 안내에 따르면, 3층은 주로 컨퍼런스홀, 글로벌 게임센터, 헬스장 등으로 구성되어 있으나[2], 기업 입주실은 6층~9층을 중심으로 운영되는 등 건물 내 여러 곳에 사무 공간이 배치되어 있습니다[2].
+
+특정 기업을 찾고 계신 경우, 해당 주소지가 법인 등기부상 등록된 이력이 있는 과거 주소일 가능성이 있으므로 최신 입주 현황은 **부산정보산업진흥원**의 부산문화콘텐츠콤플렉스 관련 안내 페이지를 통해 확인하시는 것을 권장합니다[3][4].
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_pikHkitvLZiz14tWLpixgjyxgzTmx3EfbmmSokc-OVxQhaKEjsSSa1vJEHlv6Wgjj_MS2N64AZ5gEQjoFsaf8fiZ7KfY1NJLvk77hsnixnh25f-FHh_AOyKU7DOvvGsufZjABs3jR-xrAFBBXItLo-r7dMaTzqLc4h-0kqlaxE8RB3VY7AsyUyUwUYTLF0U7zR4nEDyMDl29qsRhdXe)
+[2] [bzencomm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpMA7qSSlwO1NBdH0V1BHCXaTSGwIQjpveaiEePkmmYWR4WxUtOFkgiu-KGLHjYfd30te01AqoEqO_Y8lKevaufyexAQe1ALm3HCcsfgHWKlc0KGu6jkNegILmL4rODtBpvgneOlVKilxzA3LeCuN7LM05aPjAbICF)
+[3] [busanit.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRtjJqJcmBulCjYzc41kCF6huE8SIkTsL2WWunoiE7i_lEjJvRXdFhIaiBy3N52WRoUEquZcT2ruvQSRJW3AyuQV_1IsG02Kh24eyF6sbQzF6U)
+[4] [busanit.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHKy6aPnafm9l1AsNa1w7Tr0siJhggTFHjia8f2yu-CZxzPJHkYRErwVL2QsCI8Q4WDq5cbj3MtG0RWsi9rm71hr8LLtczYOH5uLBQ2aBomHgl-FMIieK9Ag7rN_2N0ZDrfIk=)

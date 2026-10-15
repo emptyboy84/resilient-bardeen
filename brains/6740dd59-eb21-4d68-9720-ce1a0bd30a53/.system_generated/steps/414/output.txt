@@ -1,0 +1,77 @@
+
+The command exited with code 0.
+Output:
+<truncated 360 lines>
+347. [Row 2189] 순번: 2188 | 극동로직스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+348. [Row 2190] 순번: 2189 | 로고스아카데미 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+349. [Row 2191] 순번: 2190 | 제이케이 이스포츠 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+350. [Row 2192] 순번: 2191 | 엔터잡 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+351. [Row 2193] 순번: 2192 | 엔엑스지 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+352. [Row 2194] 순번: 2193 | 베러아일랜드 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+353. [Row 2195] 순번: 2194 | 오르 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+354. [Row 2196] 순번: 2195 | 카메리엘 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+355. [Row 2197] 순번: 2196 | 한국바이오뷰티산업협동조합 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+356. [Row 2199] 순번: 2198 | 제로 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+357. [Row 2201] 순번: 2200 | 알티엠 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+358. [Row 2202] 순번: 2201 | 이아이옵 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+359. [Row 2203] 순번: 2202 | 노매드헐 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+360. [Row 2204] 순번: 2203 | 레벤그리다 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+361. [Row 2206] 순번: 2205 | 케이와이시스템 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+362. [Row 2207] 순번: 2206 | 선민 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+363. [Row 2208] 순번: 2207 | 지앨 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+364. [Row 2209] 순번: 2208 | 가람스토어 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+365. [Row 2210] 순번: 2209 | 하늘연 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+366. [Row 2211] 순번: 2210 | 인코누스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+367. [Row 2212] 순번: 2211 | 이수 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+368. [Row 2213] 순번: 2212 | 엣지러너스클럽 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+369. [Row 2214] 순번: 2213 | 에어딩동 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+370. [Row 2215] 순번: 2214 | 더비치 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+371. [Row 2216] 순번: 2215 | 토탈소프트뱅크 | 사업자: undefined | 대표: 최장수 | 24년: - | 25년: -
+372. [Row 2217] 순번: 2216 | 힐스카이컨트리클럽 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+373. [Row 2218] 순번: 2217 | 윈피플 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+374. [Row 2220] 순번: 2219 | 한국여성문화아카데미 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+375. [Row 2221] 순번: 2220 | 나원디앤씨 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+376. [Row 2222] 순번: 2221 | 디렉스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+377. [Row 2223] 순번: 2222 | 팝플 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+378. [Row 2224] 순번: 2223 | 아이렌 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+379. [Row 2225] 순번: 2224 | 인벤트랩스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+380. [Row 2226] 순번: 2225 | 앱솔루션 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+381. [Row 2227] 순번: 2226 | 율안 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+382. [Row 2228] 순번: 2227 | 투플원엔터테인먼트 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+383. [Row 2229] 순번: 2228 | 메타블루 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+384. [Row 2230] 순번: 2229 | 스튜디오빈센트 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+385. [Row 2231] 순번: 2230 | 히트북 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+386. [Row 2232] 순번: 2231 | 유캐스트 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+387. [Row 2233] 순번: 2232 | 하록 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+388. [Row 2234] 순번: 2233 | 프보이 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+389. [Row 2235] 순번: 2234 | 베스트엔터테인먼트 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+390. [Row 2236] 순번: 2235 | 이피엠시스템 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+391. [Row 2237] 순번: 2236 | 그리드파트너스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+392. [Row 2238] 순번: 2237 | 백앤센스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+393. [Row 2239] 순번: 2238 | 시그마씨앤에스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+394. [Row 2240] 순번: 2239 | 쉐어트리츠 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+395. [Row 2241] 순번: 2240 | 팀리부뜨 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+396. [Row 2242] 순번: 2241 | 에이치앤비스튜디오코리아 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+397. [Row 2243] 순번: 2242 | 케어닥 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+398. [Row 2244] 순번: 2243 | 티아이테크놀로지 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+399. [Row 2245] 순번: 2244 | 케이에이치알 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+400. [Row 2246] 순번: 2245 | 미라클링 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+401. [Row 2247] 순번: 2246 | 오렌지랩스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+402. [Row 2248] 순번: 2247 | 에스랩 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+403. [Row 2249] 순번: 2248 | 아이시스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+404. [Row 2250] 순번: 2249 | 에코비티 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+405. [Row 2251] 순번: 2250 | 모멘텀픽쳐스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+406. [Row 2252] 순번: 2251 | 제이피테크 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+407. [Row 2253] 순번: 2252 | 비트시스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+408. [Row 2254] 순번: 2253 | 건흥페이먼츠 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+409. [Row 2255] 순번: 2254 | 크리에이티브올라 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+410. [Row 2256] 순번: 2255 | 저스티스어드벤처 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+411. [Row 2257] 순번: 2256 | 아크리아스튜디오 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+412. [Row 2258] 순번: 2257 | 컨벤션숲 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+413. [Row 2259] 순번: 2258 | 번들즈 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+414. [Row 2260] 순번: 2259 | 모두싸인 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+415. [Row 2261] 순번: 2260 | 뱅크다이어리 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+416. [Row 2262] 순번: 2261 | 아신홀딩스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+417. [Row 2263] 순번: 2262 | 인우랩 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+418. [Row 2264] 순번: 2263 | 엑스에이아이에듀랩스 | 사업자: undefined | 대표: undefined | 24년: - | 25년: -
+

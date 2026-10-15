@@ -1,0 +1,14 @@
+The search for "퍼플스톤 양광수 쿠팡" returned the following summary:
+문의하신 '퍼플스톤', '양광수', '쿠팡'이라는 키워드 조합은 서로 다른 분야의 정보가 혼합된 것으로 보입니다. 각 키워드와 관련된 내용은 다음과 같습니다.
+
+*   **쿠팡 및 퍼플(Purple):** 쿠팡이츠에는 배달 라이더의 활동 실적에 따라 부여되는 등급 체계가 있으며, **'퍼플(Purple)'**은 그중 하나의 등급 명칭입니다(그린, 블루, 퍼플, 골드, 골드플러스 등)[1][2].
+*   **양광수:** 특정 게임(예: 온라인 게임의 패치 노트 등) 관련 커뮤니티나 정보에서 캐릭터 이름이나 게임 내 요소로 언급된 사례가 있으나, 쿠팡이나 퍼플스톤과는 직접적인 관련성을 찾기 어렵습니다[3].
+*   **퍼플스톤:** 온라인 쇼핑몰 등에서 특정 상품명(예: 액세서리, 벨트 등)이나 제품군으로 검색될 수 있는 단어입니다[4].
+
+혹시 특정 인물, 상품, 혹은 특정 커뮤니티에서 본 게시물과 관련된 더 구체적인 맥락(예: 배달 관련 이야기, 특정 쇼핑몰 상품 등)을 알려주시면 추가로 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHabFUM7thT6OWVYKX2UQbGQCsxGZnXLi9Ww5W_qKxZ3A7atKLcwr4kyVBadW9VNIsvTRmd6zVXtakbrZq8cWucl-iix4S4XH8ypOXrYpYm5_WKOU8=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2fmihgsAM_6cH5W-DLykTQY0OtbrV3QPAaVDLLREIJI1SPuDZWHvF9inkvPIjDEP-rA5X-HcXrYSpLEr4743KvmY0rBcRjuTLHc3ZoCoOslj3doA=)
+[3] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdavIB7w-UMSX2scc4fAUn9MFzPXSydY4rRGTtGGXwIVPcWwKeWkBCcLaCRsml3Y3cILKg4_6e_ctwW7mwUsDnzCl9h2yAum0jIz2RuNZGLjMD8nFfRIGaXMAV5S1iagomiCPvqfMeV9SHjc2l41r0GdKtlqNp_pLink1PGHmt)
+[4] [coupang.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFBH9NeWHXjRCheHpBlw9KpXbI4C9VeH2WW9zt6PZZaH58Cn5obxHsnXmHqHj4SG_Fo2wqAKokZpT3Ds4i38_IDl5myy9lZ6_GONmQDBbJ83mj5_UZ3gHsCdMEVDnu9gQUNOrs1-iz54eIML1jc7MSjpAcdc1GSg==)

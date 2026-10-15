@@ -1,0 +1,13 @@
+The search for "site:1daysample.com OR "디쓰리디" "하지태" "전화" OR "TEL" OR "051" OR "02" OR "010"" returned the following summary:
+검색 결과에 따른 `1daysample.com` (주식회사 디쓰리디) 관련 기업 정보는 다음과 같습니다[1]:
+
+* **상호명:** (주)디쓰리디 (1DAY SAMPLE)[1]
+* **대표자:** 하지태[1]
+* **주소:** 서울특별시 종로구 종로39길 22, 나동 5층(종로6가)[1]
+* **전화번호:** 02-912-0506[1]
+* **팩스번호:** 02-763-0505[1]
+* **사업자등록번호:** 236-81-00379[1]
+* **통신판매업신고번호:** 2021-서울중구-2447[1]
+
+Sources:
+[1] [1daysample.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpDs4bRlZUcAObCVvMuRlSzEzAmENSP8968IQtTFeRyBxqn2ueuLGNrLHWywrlZW8IgS2r9D9NhRUuPqzXlBKCsxActJp7hJ9W6-y5WSp0GEPoM80sciWgOrxmIIjTCoY=)

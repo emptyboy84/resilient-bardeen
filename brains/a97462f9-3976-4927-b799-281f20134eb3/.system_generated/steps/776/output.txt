@@ -1,0 +1,17 @@
+The search for ""주식회사 오픈와이즈" "250-88"" returned the following summary:
+검색하신 "주식회사 오픈와이즈"와 "250-88"이라는 키워드로 확인한 결과는 다음과 같습니다.
+
+*   **"주식회사 오픈와이즈"**: 해당 명칭의 기업에 대한 직접적인 검색 결과는 확인되지 않았습니다.
+*   **"250-88"**: 이 숫자는 여러 정보에서 각기 다른 의미로 나타나고 있습니다.
+    *   **사업자 등록번호**: 대한민국에서 사용하는 사업자 등록번호 형식(예: 000-88-00000)으로 검색될 경우, 다양한 기업들의 사업자 번호 일부로 사용되고 있습니다(예: 올빼바이오다이어트, 카페24 창업센터 부천송내점, 알에스컴퍼니, 한미 의료기, 뉴플레이미디어 등)[1][2][3][4][5].
+    *   **주소지**: 부산 강서구 강동동 250-88번지 등의 지번 주소로 존재합니다[6].
+
+혹시 찾으시는 정보가 특정 기업의 사업자 정보나 연락처라면, 정확한 상호명이나 사업자 등록번호 전체를 확인하여 다시 검색해 보시는 것을 권장합니다.
+
+Sources:
+[1] [ssmbio.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzSc6LWF83HY7wbozbhdDF2B8e98UcKKbsj042T1ZfmOdBw6VagtymQyK24leAfUTwkRfH2RCe0uMQejE5g7ovFzf6RKb3oM0v-xt5)
+[2] [site.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAuVhVhq5QZa_a0aKhPzTwBe_Jz4k4EONWKbFYdYJLKPlrehwzMnXJ1kZjqPRzL-6UPs9z1iicsGs3oyYe32dpbTJY3reYd5witbzzBWNf2c_4-e1m1sCEy_xsQGMp6g39uzwl_trVo_2ebUqizDiLPkmX_Xc=)
+[3] [rscom.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaqCEakSlrGRlALIhY2PkeabiHMOG9yjIH_7BIJUosnCFKC-Bhf6tVsBHa3mRx1wttalCyVRWWVVK5dJp8SkLMfE8oIErvaPNXrQ==)
+[4] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMQgg1BWECFv7dQTlngbvj65MU6Q-OSY0JAXHaSRYiwWpzgXKJuQCWoPkSuGK6DJXHcp_nB5ZCIgpAMzaieWp-K-QXNLuGHPmuCAvPQ98RIHK_bIXDJxiMErdS)
+[5] [imweb.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi4eBDGpAB51uM3iAbaU6MfVa6b1nmlnIjbOJhhITrdzN_qHAnwTZ85JYxnkue0XdmR0QqgufkfE8oUQg5pbcWL_-GzD3Td3iFbpKJarKrkCk-FRRB3hIVT6qu)
+[6] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG28hmmxupNS_0Qx1C0B79gh_5wgobSFVcwbZSrh5TF-INf_JMAlKpRxxMAAidTgQLYb5kiOO1dPZ1ToDxVL9fqmnC61nmiphbvzN1gcYlJg7sb2ZIMsMk8Qy9WH-6UFhvkOugpJMI5s2Pmmoh11Q_jugdjvnMj9MkM1aNAVJaiDnCy6OmNjf571v8vTCHxKZnOa464QvmvJlWk1BEhsFFg_WcG_Kzmuy7tWtE0leGJ6xUoPzWw4HY3MuqtkH4tAg==)

@@ -1,0 +1,1096 @@
+### Page
+- Page URL: https://bizno.net/?area=&query=%EC%9A%B0%EC%88%98%EA%B2%BD
+- Page Title: 우수경
+- Console: 1 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f117e1]:
+  - text: 
+  - banner [ref=f117e2]:
+    - generic [ref=f117e4]:
+      - link [ref=f117e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f117e7]:
+        - list:
+          - listitem [ref=f117e8]:
+            - link "Home" [ref=f117e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f117e10]:
+            - link "사업자등록번호조회" [ref=f117e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f117e12]:
+            - link "법인등록번호조회" [ref=f117e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f117e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f117e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f117e16]:
+            - link "전화번호로 조회" [ref=f117e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f117e18]:
+            - link "대표자이름으로 조회" [ref=f117e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f117e20]:
+            - link "API" [ref=f117e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f117e22]:
+            - link "고객문의" [ref=f117e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f117e28]:
+    - heading "사업자등록번호조회" [level=1] [ref=f117e29]
+    - paragraph [ref=f117e30]:
+      - text: 사업자등록번호로
+      - generic [ref=f117e31]: 
+      - text: 사업자정보(회사명,법인번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f117e32]'
+    - paragraph [ref=f117e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,293"
+    - generic [ref=f117e35]:
+      - combobox "Select your city" [ref=f117e37]:
+        - option "지역전체" [selected]
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산"
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "사업자등록번호 / 법인등록번호 / 상호명 입력" [active] [ref=f117e39]
+      - button " 검색" [ref=f117e41] [cursor=pointer]:
+        - generic [ref=f117e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f117e43]:
+      - text: "\"우수경\" 키워드로"
+      - strong [ref=f117e44]: "100"
+      - text: (최대 100개만 출력됩니다) 개의 결과를 찾았습니다
+  - generic [ref=f117e47]:
+    - generic [ref=f117e48]:
+      - separator [ref=f117e49]
+      - generic [ref=f117e51]:
+        - generic [ref=f117e53]:
+          - link [ref=f117e54] [cursor=pointer]:
+            - /url: /article/6088121958
+            - heading "우수AMS(주)" [level=4] [ref=f117e55]
+          - heading "김선*" [level=5] [ref=f117e56]
+          - heading "자동차부품" [level=5] [ref=f117e57]
+        - paragraph [ref=f117e58]: 경상남도 창원시 성산구 월림로 6...
+      - separator [ref=f117e59]
+      - generic [ref=f117e61]:
+        - generic [ref=f117e63]:
+          - link [ref=f117e64] [cursor=pointer]:
+            - /url: /article/5088120697
+            - heading "(주)우수이앤씨" [level=4] [ref=f117e65]
+          - insertion [ref=f117e67]:
+            - iframe [ref=f117e69]:
+              - iframe [ref=f126e1]:
+                - generic [ref=f129e1]:
+                  - generic [ref=f129e5]:
+                    - generic [ref=f129e8]:
+                      - link [ref=f129e9] [cursor=pointer]:
+                        - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CKDZlBZmoatuhCoO7vr0Pz42zwAuI76j0XN69t5avAcCNtwEQASDOlNUhYJuD6YScKcgBCagDAcgDAqoEkwJP0Oud4vlfD8COyKGhNDsaeuoOh4TIYI119Y8CCMIFSk_drexjr1E0l0hzCIIF24qunwtOg0P_cR8z5v5PVV_dRwOoq_Ra4a5cwiXuH2sO-zGIky18CwwZ1EvvGxzNNfN8UYVhbl-4rViVvY9kc1z1MF427ZR-p-7O-aQhc_Ikq8l9nNVMhLrSstHLJtL8dQagBWeE0of20FmCiSxQJnpDfq7Mm9owrraO_GrKYk57lM2m5H96bEWiIgXPV7EsFTgFQou9VrJqXDYyH-7_ZMh1Opr2rOz7z8drioVUGjuk4aoPD7SLrcrl730sTLc3pKRgC4Jydw7jGf9Nr_BzGbazi3NsDhg_nvoHp_wyxW7TjfuvzoAGjeKS5rCnsvy5AaAGIagHk9ixAqgHlNixAqgHldixAqgHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB_7osQKoB62-sQKoB7_TsQLYBwDSCDAIgGEQATIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WJCInMex75YDYAD6CwIIAYAMAaoNAktS6g0TCPC-nMex75YDFYOdrwEdz8YMuIgOCdAVAYAXAbIXBBgMUAE&num=1&sig=AOD64_1v-Ax4Hh9_ddbb0wybo2wjP-UGiw&client=ca-pub-4075541721927467&adurl=https://exch.quantserve.com/r?&a=p-1RYxePXT9bCS2&labels=_qc.clk,_click.adserver.rtb,_click.rand.1064091395&rtbip=103.229.8.54&rtb_id=CT8wAIVUsNIUEQEYAIVUsNIUGDy_f5b7YYAsrLp87fU&redirecturl3=https://servedby.flashtalking.com/click/7/296962;11040068;5102999;210;0/?ft_mliid=9247205&ft_mcid=9090673&gdpr=0&ft_impID=FD7A8EE8-6298-3BA5-34FB-A329DD584D70&ft_custom=z0Hhgv1QjqapTZ6a83D9oNdW_5apd6u3Mic=&g=6819054D28F572&random=701583.3949987508&ft_width=160&ft_height=600&url=https://www.adobe.com/kr/acrobat/free-trial-download.html?sdid=X6FJHM6D&mv=display&mv2=display
+                        - img "Click Here" [ref=f129e10]
+                      - link [ref=f129e12] [cursor=pointer]:
+                        - /url: https://www.flashtalking.com/consumer-privacy
+                        - img "AdChoices arrow" [ref=f129e13]
+                      - link "Privacy Notification" [ref=f129e15] [cursor=pointer]:
+                        - /url: https://www.flashtalking.com/consumer-privacy
+                    - link [ref=f129e17] [cursor=pointer]:
+                      - /url: https://pixel.quantcount.com/r?a=p-9fYuixa7g_Hm2;rand=1064091395;labels=_click.creative.iab,_qc.iab.clk.p-1RYxePXT9bCS2.0.11071007;redirecturl2=http://www.quantcast.com/adchoices
+                  - iframe
+                  - iframe
+                  - iframe [ref=f129e20]
+                  - iframe [ref=f129e21]
+                  - iframe [ref=f129e22]
+                  - iframe [ref=f129e23]
+                  - iframe [ref=f129e24]
+          - heading "김정*" [level=5] [ref=f117e70]
+          - heading "건축설계 및 관련 서비스업" [level=5] [ref=f117e71]
+        - paragraph [ref=f117e72]: 경상북도 문경시 여중길 23-4
+      - separator [ref=f117e73]
+      - generic [ref=f117e75]:
+        - generic [ref=f117e77]:
+          - link [ref=f117e78] [cursor=pointer]:
+            - /url: /article/2528100764
+            - heading "주식회사 우수건설" [level=4] [ref=f117e79]
+          - heading "신정*" [level=5] [ref=f117e80]
+          - heading "건축공사" [level=5] [ref=f117e81]
+        - paragraph [ref=f117e82]: 대전광역시 유성구 문화원로 54,...
+      - separator [ref=f117e83]
+      - generic [ref=f117e85]:
+        - generic [ref=f117e87]:
+          - link [ref=f117e88] [cursor=pointer]:
+            - /url: /article/1268666986
+            - heading "（주）우수인텍" [level=4] [ref=f117e89]
+          - heading "마경*" [level=5] [ref=f117e90]
+          - heading "그 외 기타 일반목적용 기계 제조업" [level=5] [ref=f117e91]
+        - paragraph [ref=f117e92]: 경기도 광주시 초월읍 대쌍령길19
+      - separator [ref=f117e93]
+      - generic [ref=f117e95]:
+        - generic [ref=f117e97]:
+          - link [ref=f117e98] [cursor=pointer]:
+            - /url: /article/2978101183
+            - heading "주식회사 우수티엠엠" [level=4] [ref=f117e99]
+          - insertion [ref=f117e101]:
+            - iframe [ref=f117e103]:
+              - iframe [ref=f127e1]:
+                - generic:
+                  - link [ref=f130e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=1oi30TIzBNahzR5YBZmoag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=KEuI890DSgq_9CkMwbpSYA&crpid=AKKZ5mYWSICj_v49mhIADw&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_ordx74QyoP6Vo0My706x70wzK4lqU1u_uYlECYzBKYzgJ4u-uYgWJ4u_onx1wHTRuqayK4lBZyu_ujJEU1u-uYsBuqa1ord1K4lBZDw121uVo4QxKqd9o4lO&ui=CylYc8Myuqa1ordmKqGxonQVoq69oqdR2qaVo4lO&consent=1&ddhh=orIWod&flanding_rdr=
+                  - button [ref=f130e4] [cursor=pointer]
+          - heading "노종*" [level=5] [ref=f117e104]
+          - heading "기타 엔지니어링 서비스업" [level=5] [ref=f117e105]
+        - paragraph [ref=f117e106]: 울산광역시 중구 종가로 362-1...
+      - separator [ref=f117e107]
+      - generic [ref=f117e109]:
+        - generic [ref=f117e111]:
+          - link [ref=f117e112] [cursor=pointer]:
+            - /url: /article/6158158147
+            - heading "우수정기 주식회사" [level=4] [ref=f117e113]
+          - heading "이기*" [level=5] [ref=f117e114]
+        - paragraph [ref=f117e115]: 경상남도 김해시 안동 161-12
+      - separator [ref=f117e116]
+      - generic [ref=f117e118]:
+        - generic [ref=f117e120]:
+          - link [ref=f117e121] [cursor=pointer]:
+            - /url: /article/1328178255
+            - heading "주식회사 우수전력" [level=4] [ref=f117e122]
+          - insertion [ref=f117e124]
+          - heading "김종*" [level=5] [ref=f117e126]
+          - heading "전기공사업" [level=5] [ref=f117e127]
+        - paragraph [ref=f117e128]: 경기도 남양주시 진건읍 진관로 5...
+      - separator [ref=f117e129]
+      - generic [ref=f117e131]:
+        - generic [ref=f117e133]:
+          - link [ref=f117e134] [cursor=pointer]:
+            - /url: /article/3488700596
+            - heading "주식회사 우수이엔지" [level=4] [ref=f117e135]
+          - heading "류제*" [level=5] [ref=f117e136]
+          - heading "그 외 기타 분류 안된 금속 가공 제품 제조업" [level=5] [ref=f117e137]
+        - paragraph [ref=f117e138]: 경기도 의왕시 이미로 40, 비동...
+      - separator [ref=f117e139]
+      - generic [ref=f117e141]:
+        - generic [ref=f117e143]:
+          - link [ref=f117e144] [cursor=pointer]:
+            - /url: /article/1258027649
+            - heading "우수요양원" [level=4] [ref=f117e145]
+          - heading "이숙*" [level=5] [ref=f117e146]
+          - heading "기타의료기관 및 기타의료기기" [level=5] [ref=f117e147]
+        - paragraph [ref=f117e148]: 경기도 이천시 모가면 대월로261...
+      - separator [ref=f117e149]
+      - generic [ref=f117e151]:
+        - generic [ref=f117e153]:
+          - link [ref=f117e154] [cursor=pointer]:
+            - /url: /article/1248707353
+            - heading "주식회사 우수정밀" [level=4] [ref=f117e155]
+          - heading "이이*" [level=5] [ref=f117e156]
+          - heading "주형 및 금형 제조업" [level=5] [ref=f117e157]
+        - paragraph [ref=f117e158]: 경기도 화성시 향남읍 백토관리길 ...
+      - separator [ref=f117e159]
+      - generic [ref=f117e161]:
+        - generic [ref=f117e163]:
+          - link [ref=f117e164] [cursor=pointer]:
+            - /url: /article/5528800324
+            - heading "주식회사 우수종합건설" [level=4] [ref=f117e165]
+          - insertion [ref=f117e167]
+          - heading "김성*" [level=5] [ref=f117e169]
+          - heading "건축공사업" [level=5] [ref=f117e170]
+        - paragraph [ref=f117e171]: 제주특별자치도 제주시 오도2길 3...
+      - separator [ref=f117e172]
+      - generic [ref=f117e174]:
+        - generic [ref=f117e176]:
+          - link [ref=f117e177] [cursor=pointer]:
+            - /url: /article/1248689566
+            - heading "(주)우수테크" [level=4] [ref=f117e178]
+          - heading "김창*" [level=5] [ref=f117e179]
+          - heading "이동전화기 제조업" [level=5] [ref=f117e180]
+        - paragraph [ref=f117e181]: 경기도 평택시 서탄면 수월암2길 ...
+      - separator [ref=f117e182]
+      - generic [ref=f117e184]:
+        - generic [ref=f117e186]:
+          - link [ref=f117e187] [cursor=pointer]:
+            - /url: /article/6088149164
+            - heading "（주）우수산업개발" [level=4] [ref=f117e188]
+          - insertion [ref=f117e190]
+          - heading "박우*" [level=5] [ref=f117e192]
+          - heading "사업시설 유지관리 서비스업" [level=5] [ref=f117e193]
+        - paragraph [ref=f117e194]: 경상남도 창원시 마산합포구 월영동...
+      - separator [ref=f117e195]
+      - generic [ref=f117e197]:
+        - generic [ref=f117e199]:
+          - link [ref=f117e200] [cursor=pointer]:
+            - /url: /article/6108142131
+            - heading "우수전산(주)" [level=4] [ref=f117e201]
+          - heading "우수*" [level=5] [ref=f117e202]
+          - heading "컴퓨터 및 주변장치, 소프트웨어 소매업" [level=5] [ref=f117e203]
+        - paragraph [ref=f117e204]: 울산광역시 남구 정동로42번길 2...
+      - separator [ref=f117e205]
+      - generic [ref=f117e207]:
+        - generic [ref=f117e209]:
+          - link [ref=f117e210] [cursor=pointer]:
+            - /url: /article/1288629027
+            - heading "주식회사 우수푸드원" [level=4] [ref=f117e211]
+          - insertion [ref=f117e213]
+          - heading "진승*" [level=5] [ref=f117e215]
+          - heading "육류 도매업" [level=5] [ref=f117e216]
+        - paragraph [ref=f117e217]: 경기도 고양시 일산서구 산남로 1...
+      - separator [ref=f117e218]
+      - generic [ref=f117e220]:
+        - generic [ref=f117e222]:
+          - link [ref=f117e223] [cursor=pointer]:
+            - /url: /article/6338701886
+            - heading "우수약품(주)" [level=4] [ref=f117e224]
+          - heading "남상*" [level=5] [ref=f117e225]
+          - heading "섬유 의복 신발 및 가죽제품 중개업 / 목재 및 건..." [level=5] [ref=f117e226]
+        - paragraph [ref=f117e227]: 경상남도 창원시 성산구 상남로 7...
+      - separator [ref=f117e228]
+      - generic [ref=f117e230]:
+        - generic [ref=f117e232]:
+          - link [ref=f117e233] [cursor=pointer]:
+            - /url: /article/4088616452
+            - heading "우수건설 주식회사" [level=4] [ref=f117e234]
+          - heading "김담*" [level=5] [ref=f117e235]
+          - heading "지반조성ㆍ포장공사업 | 철근ㆍ콘크리트공사업 | 상ㆍ하수..." [level=5] [ref=f117e236]
+        - paragraph [ref=f117e237]: 강원도 평창군 평창읍 서동로 21...
+      - separator [ref=f117e238]
+      - generic [ref=f117e240]:
+        - generic [ref=f117e242]:
+          - link [ref=f117e243] [cursor=pointer]:
+            - /url: /article/5038612426
+            - heading "주식회사 우수" [level=4] [ref=f117e244]
+          - heading "이돈*" [level=5] [ref=f117e245]
+          - heading "그 외 기타 분류 안된 섬유제품 제조업" [level=5] [ref=f117e246]
+        - paragraph [ref=f117e247]: 대구광역시 달서구 성서공단로11길...
+      - separator [ref=f117e248]
+      - generic [ref=f117e250]:
+        - generic [ref=f117e252]:
+          - link [ref=f117e253] [cursor=pointer]:
+            - /url: /article/1058765482
+            - heading "(주)우수" [level=4] [ref=f117e254]
+          - heading "김한*" [level=5] [ref=f117e255]
+          - heading "전자상거래업" [level=5] [ref=f117e256]
+        - paragraph [ref=f117e257]: 서울특별시 마포구 월드컵북로6길 ...
+      - separator [ref=f117e258]
+      - generic [ref=f117e260]:
+        - generic [ref=f117e262]:
+          - link [ref=f117e263] [cursor=pointer]:
+            - /url: /article/1210214300
+            - heading "우수전기" [level=4] [ref=f117e264]
+          - heading "박관*" [level=5] [ref=f117e265]
+          - heading "그외 기타 일반목적용 기계 제조업" [level=5] [ref=f117e266]
+        - paragraph [ref=f117e267]: 인천광역시 서해구 중봉대로 208...
+      - separator [ref=f117e268]
+      - generic [ref=f117e270]:
+        - generic [ref=f117e272]:
+          - link [ref=f117e273] [cursor=pointer]:
+            - /url: /article/1078805721
+            - heading "주식회사 우수방재" [level=4] [ref=f117e274]
+          - heading "이서*" [level=5] [ref=f117e275]
+          - heading "소방시설 공사업" [level=5] [ref=f117e276]
+        - paragraph [ref=f117e277]: 비공개
+      - separator [ref=f117e278]
+      - generic [ref=f117e280]:
+        - generic [ref=f117e282]:
+          - link [ref=f117e283] [cursor=pointer]:
+            - /url: /article/1088168171
+            - heading "우수이앤씨주식회사" [level=4] [ref=f117e284]
+          - heading "배영*" [level=5] [ref=f117e285]
+          - heading "배관 및 냉ㆍ난방 공사업" [level=5] [ref=f117e286]
+        - paragraph [ref=f117e287]: 강원도 춘천시 동면 공단로70번길...
+      - separator [ref=f117e288]
+      - generic [ref=f117e290]:
+        - generic [ref=f117e292]:
+          - link [ref=f117e293] [cursor=pointer]:
+            - /url: /article/5800800818
+            - heading "우수푸드" [level=4] [ref=f117e294]
+          - heading "김중*" [level=5] [ref=f117e295]
+          - heading "기타 신선식품 및 단순 가공식품 도매업" [level=5] [ref=f117e296]
+        - paragraph [ref=f117e297]: 서울특별시 강동구 양재대로 139...
+      - separator [ref=f117e298]
+      - generic [ref=f117e300]:
+        - generic [ref=f117e302]:
+          - link [ref=f117e303] [cursor=pointer]:
+            - /url: /article/6169055989
+            - heading "인우수산" [level=4] [ref=f117e304]
+          - heading "김충*" [level=5] [ref=f117e305]
+          - heading "내수면 양식 어업" [level=5] [ref=f117e306]
+        - paragraph [ref=f117e307]: 제주 제주시 구좌읍 동복로 109...
+      - separator [ref=f117e308]
+      - generic [ref=f117e310]:
+        - generic [ref=f117e312]:
+          - link [ref=f117e313] [cursor=pointer]:
+            - /url: /article/7398701597
+            - heading "우수세무법인" [level=4] [ref=f117e314]
+          - heading "이우*" [level=5] [ref=f117e315]
+          - heading "세무사업" [level=5] [ref=f117e316]
+        - paragraph [ref=f117e317]: 서울특별시 서초구 서초중앙로26길...
+      - separator [ref=f117e318]
+      - generic [ref=f117e320]:
+        - generic [ref=f117e322]:
+          - link [ref=f117e323] [cursor=pointer]:
+            - /url: /article/3321300760
+            - heading "우수방재" [level=4] [ref=f117e324]
+          - heading "송병*" [level=5] [ref=f117e325]
+          - heading "그 외 기타 기계 및 장비 도매업" [level=5] [ref=f117e326]
+        - paragraph [ref=f117e327]: 제주특별자치도 제주시 도공로 9-...
+      - separator [ref=f117e328]
+      - generic [ref=f117e330]:
+        - generic [ref=f117e332]:
+          - link [ref=f117e333] [cursor=pointer]:
+            - /url: /article/4288700378
+            - heading "농업회사법인 주식회사 나우수의그룹" [level=4] [ref=f117e334]
+          - heading "어용*" [level=5] [ref=f117e335]
+          - heading "사료 도매업" [level=5] [ref=f117e336]
+        - paragraph [ref=f117e337]: 경상남도 양산시 신기강변2길 37
+      - separator [ref=f117e338]
+      - generic [ref=f117e340]:
+        - generic [ref=f117e342]:
+          - link [ref=f117e343] [cursor=pointer]:
+            - /url: /article/4098139263
+            - heading "(주) 우수기전" [level=4] [ref=f117e344]
+          - heading "이순*" [level=5] [ref=f117e345]
+          - heading "배전반 및 전기 자동제어반 제조업" [level=5] [ref=f117e346]
+        - paragraph [ref=f117e347]: 전라남도 화순군 동면 동농공길 6...
+      - separator [ref=f117e348]
+      - generic [ref=f117e350]:
+        - generic [ref=f117e352]:
+          - link [ref=f117e353] [cursor=pointer]:
+            - /url: /article/3139714415
+            - heading "삼우수산" [level=4] [ref=f117e354]
+          - heading "김용*" [level=5] [ref=f117e355]
+          - heading "수산종자생산업(육상수조식)" [level=5] [ref=f117e356]
+        - paragraph [ref=f117e357]: 충청남도 보령시 염생이길 120-...
+      - separator [ref=f117e358]
+      - generic [ref=f117e360]:
+        - generic [ref=f117e362]:
+          - link [ref=f117e363] [cursor=pointer]:
+            - /url: /article/6088190469
+            - heading "우수산업 주식회사" [level=4] [ref=f117e364]
+          - heading "윤정*" [level=5] [ref=f117e365]
+          - heading "건축물 일반 청소업" [level=5] [ref=f117e366]
+        - paragraph [ref=f117e367]: 경상남도 창원시 마산합포구 어시장...
+      - separator [ref=f117e368]
+      - generic [ref=f117e370]:
+        - generic [ref=f117e372]:
+          - link [ref=f117e373] [cursor=pointer]:
+            - /url: /article/5148198297
+            - heading "주식회사 우수조경" [level=4] [ref=f117e374]
+          - heading "조정*" [level=5] [ref=f117e375]
+          - heading "조경식재ㆍ시설물공사" [level=5] [ref=f117e376]
+        - paragraph [ref=f117e377]: 대구광역시 달성군 가창면 가창로2...
+      - separator [ref=f117e378]
+      - generic [ref=f117e380]:
+        - generic [ref=f117e382]:
+          - link [ref=f117e383] [cursor=pointer]:
+            - /url: /article/3168110800
+            - heading "주식회사 우수" [level=4] [ref=f117e384]
+          - heading "조은*" [level=5] [ref=f117e385]
+          - heading "전기공사업" [level=5] [ref=f117e386]
+        - paragraph [ref=f117e387]: 경상북도 울진군 울진읍 고성1길 ...
+      - separator [ref=f117e388]
+      - generic [ref=f117e390]:
+        - generic [ref=f117e392]:
+          - link [ref=f117e393] [cursor=pointer]:
+            - /url: /article/2128144390
+            - heading "주식회사 우수아이엔지" [level=4] [ref=f117e394]
+          - heading "이병*" [level=5] [ref=f117e395]
+          - heading "구조용 금속 판제품 및 공작물 제조업" [level=5] [ref=f117e396]
+        - paragraph [ref=f117e397]: 경기도 하남시 덕풍북로6번길 10...
+      - separator [ref=f117e398]
+      - generic [ref=f117e400]:
+        - generic [ref=f117e402]:
+          - link [ref=f117e403] [cursor=pointer]:
+            - /url: /article/1328151727
+            - heading "주식회사 현우수산" [level=4] [ref=f117e404]
+          - heading "소룡*" [level=5] [ref=f117e405]
+          - heading "신선 냉동 및 기타 수산물 도매업" [level=5] [ref=f117e406]
+        - paragraph [ref=f117e407]: 경기도 구리시 동구릉로136번길 ...
+      - separator [ref=f117e408]
+      - generic [ref=f117e410]:
+        - generic [ref=f117e412]:
+          - link [ref=f117e413] [cursor=pointer]:
+            - /url: /article/1261397447
+            - heading "우수농산식품" [level=4] [ref=f117e414]
+          - heading "유우*" [level=5] [ref=f117e415]
+          - heading "곡물 도정업" [level=5] [ref=f117e416]
+        - paragraph [ref=f117e417]: 경기도 여주시 흥천면 신율로 31...
+      - separator [ref=f117e418]
+      - generic [ref=f117e420]:
+        - generic [ref=f117e422]:
+          - link [ref=f117e423] [cursor=pointer]:
+            - /url: /article/1242196812
+            - heading "우수정밀" [level=4] [ref=f117e424]
+          - heading "김점*" [level=5] [ref=f117e425]
+          - heading "그 외 기타 특수목적용 기계 제조업" [level=5] [ref=f117e426]
+        - paragraph [ref=f117e427]: 경기도 화성시 봉담읍 노루고개길 ...
+      - separator [ref=f117e428]
+      - generic [ref=f117e430]:
+        - generic [ref=f117e432]:
+          - link [ref=f117e433] [cursor=pointer]:
+            - /url: /article/3130259605
+            - heading "민우수산" [level=4] [ref=f117e434]
+          - heading "김영*" [level=5] [ref=f117e435]
+          - heading "신선, 냉동 및 기타 수산물 도매업" [level=5] [ref=f117e436]
+        - paragraph [ref=f117e437]: 충청남도 보령시 대천항로 389...
+      - separator [ref=f117e438]
+      - generic [ref=f117e440]:
+        - generic [ref=f117e442]:
+          - link [ref=f117e443] [cursor=pointer]:
+            - /url: /article/1301776717
+            - heading "신우수지" [level=4] [ref=f117e444]
+          - heading "김익*" [level=5] [ref=f117e445]
+          - heading "수도, 하수 및 폐기물 처리, 원" [level=5] [ref=f117e446]
+        - paragraph [ref=f117e447]: 경기도 화성시 팔탄면 터넉골로 2...
+      - separator [ref=f117e448]
+      - generic [ref=f117e450]:
+        - generic [ref=f117e452]:
+          - link [ref=f117e453] [cursor=pointer]:
+            - /url: /article/2270359693
+            - heading "바우수산" [level=4] [ref=f117e454]
+          - heading "오중*" [level=5] [ref=f117e455]
+          - heading "신선, 냉동 및 기타 수산물 소매업" [level=5] [ref=f117e456]
+        - paragraph [ref=f117e457]: 강원도 속초시 밤골3길 26 (교...
+      - separator [ref=f117e458]
+      - generic [ref=f117e460]:
+        - generic [ref=f117e462]:
+          - link [ref=f117e463] [cursor=pointer]:
+            - /url: /article/1079097165
+            - heading "연세우수의원" [level=4] [ref=f117e464]
+          - heading "민대*" [level=5] [ref=f117e465]
+          - heading "일반 의원" [level=5] [ref=f117e466]
+        - paragraph [ref=f117e467]: 비공개
+      - separator [ref=f117e468]
+      - generic [ref=f117e470]:
+        - generic [ref=f117e472]:
+          - link [ref=f117e473] [cursor=pointer]:
+            - /url: /article/1283696837
+            - heading "준우수산" [level=4] [ref=f117e474]
+          - heading "일반한식" [level=5] [ref=f117e475]
+        - paragraph [ref=f117e476]: 경기도 고양시 일산동구 위시티로 ...
+      - separator [ref=f117e477]
+      - generic [ref=f117e479]:
+        - generic [ref=f117e481]:
+          - link [ref=f117e482] [cursor=pointer]:
+            - /url: /article/1211365620
+            - heading "흥우수중개발" [level=4] [ref=f117e483]
+          - heading "고승*" [level=5] [ref=f117e484]
+          - heading "기타건설공사" [level=5] [ref=f117e485]
+        - paragraph [ref=f117e486]: 인천광역시 중구 연안부두로55번길...
+      - separator [ref=f117e487]
+      - generic [ref=f117e489]:
+        - generic [ref=f117e491]:
+          - link [ref=f117e492] [cursor=pointer]:
+            - /url: /article/1221356954
+            - heading "연우수산유통" [level=4] [ref=f117e493]
+          - heading "신상*" [level=5] [ref=f117e494]
+        - paragraph [ref=f117e495]: 인천광역시 남동구 간석로32번길 ...
+      - separator [ref=f117e496]
+      - generic [ref=f117e498]:
+        - link [ref=f117e501] [cursor=pointer]:
+          - /url: /article/1238634414
+          - heading "우수" [level=4] [ref=f117e502]
+        - paragraph [ref=f117e503]: 경기도 안양시 만안구 전파로44번...
+      - separator [ref=f117e504]
+      - generic [ref=f117e506]:
+        - generic [ref=f117e508]:
+          - link [ref=f117e509] [cursor=pointer]:
+            - /url: /article/1272908517
+            - heading "우수석재" [level=4] [ref=f117e510]
+          - heading "김재*" [level=5] [ref=f117e511]
+          - heading "조적 및 석 공사업" [level=5] [ref=f117e512]
+        - paragraph [ref=f117e513]: 서울특별시 도봉구 시루봉로13길 ...
+      - separator [ref=f117e514]
+      - generic [ref=f117e516]:
+        - generic [ref=f117e518]:
+          - link [ref=f117e519] [cursor=pointer]:
+            - /url: /article/1284016335
+            - heading "우수몰" [level=4] [ref=f117e520]
+          - heading "박승*" [level=5] [ref=f117e521]
+          - heading "전자상거래업" [level=5] [ref=f117e522]
+        - paragraph [ref=f117e523]: 경기도 고양시 일산동구 탄중로 3...
+      - separator [ref=f117e524]
+      - generic [ref=f117e526]:
+        - generic [ref=f117e528]:
+          - link [ref=f117e529] [cursor=pointer]:
+            - /url: /article/1273956944
+            - heading "송우수약국" [level=4] [ref=f117e530]
+          - heading "김동*" [level=5] [ref=f117e531]
+          - heading "약국" [level=5] [ref=f117e532]
+        - paragraph [ref=f117e533]: 경기도 포천시 소흘읍 솔모루로 9...
+      - separator [ref=f117e534]
+      - generic [ref=f117e536]:
+        - generic [ref=f117e538]:
+          - link [ref=f117e539] [cursor=pointer]:
+            - /url: /article/5060891742
+            - heading "청우수중개발" [level=4] [ref=f117e540]
+          - heading "강성*" [level=5] [ref=f117e541]
+          - heading "기타자유업종" [level=5] [ref=f117e542]
+        - paragraph [ref=f117e543]: 경상북도 포항시 북구 흥해읍 해안...
+      - separator [ref=f117e544]
+      - generic [ref=f117e546]:
+        - generic [ref=f117e548]:
+          - link [ref=f117e549] [cursor=pointer]:
+            - /url: /article/4799200161
+            - heading "정성우수학과학학원" [level=4] [ref=f117e550]
+          - heading "정성*" [level=5] [ref=f117e551]
+          - heading "보습학원" [level=5] [ref=f117e552]
+        - paragraph [ref=f117e553]: 경기도 수원시 영통구 효원로 38...
+      - separator [ref=f117e554]
+      - generic [ref=f117e556]:
+        - generic [ref=f117e558]:
+          - link [ref=f117e559] [cursor=pointer]:
+            - /url: /article/2119504034
+            - heading "우수영 수산" [level=4] [ref=f117e560]
+          - heading "차소*" [level=5] [ref=f117e561]
+          - heading "신선, 냉동 및 기타 수산물 소매업" [level=5] [ref=f117e562]
+        - paragraph [ref=f117e563]: 전라남도 완도군 고금면 고금남로 ...
+      - separator [ref=f117e564]
+      - generic [ref=f117e566]:
+        - generic [ref=f117e568]:
+          - link [ref=f117e569] [cursor=pointer]:
+            - /url: /article/6721500212
+            - heading "우수산업" [level=4] [ref=f117e570]
+          - heading "심이*" [level=5] [ref=f117e571]
+          - heading "컴퓨터" [level=5] [ref=f117e572]
+        - paragraph [ref=f117e573]: 경기도 평택시 신장로82번길 77
+      - separator [ref=f117e574]
+      - generic [ref=f117e576]:
+        - generic [ref=f117e578]:
+          - link [ref=f117e579] [cursor=pointer]:
+            - /url: /article/1321180501
+            - heading "우수공조" [level=4] [ref=f117e580]
+          - heading "우수*" [level=5] [ref=f117e581]
+          - heading "냉열기기" [level=5] [ref=f117e582]
+        - paragraph [ref=f117e583]: 경기도 남양주시 화도읍 경춘로18...
+      - separator [ref=f117e584]
+      - generic [ref=f117e586]:
+        - generic [ref=f117e588]:
+          - link [ref=f117e589] [cursor=pointer]:
+            - /url: /article/7163400755
+            - heading "우수기업" [level=4] [ref=f117e590]
+          - heading "박정*" [level=5] [ref=f117e591]
+        - paragraph [ref=f117e592]: 전라북도 전주시 덕진구
+      - separator [ref=f117e593]
+      - generic [ref=f117e595]:
+        - generic [ref=f117e597]:
+          - link [ref=f117e598] [cursor=pointer]:
+            - /url: /article/2398701307
+            - heading "우수에너지주식회사" [level=4] [ref=f117e599]
+          - heading "차근*" [level=5] [ref=f117e600]
+          - heading "연탄 및 기타 석탄 가공품 제조업" [level=5] [ref=f117e601]
+        - paragraph [ref=f117e602]: 충청남도 예산군 봉산면 봉명산로 ...
+      - separator [ref=f117e603]
+      - generic [ref=f117e605]:
+        - generic [ref=f117e607]:
+          - link [ref=f117e608] [cursor=pointer]:
+            - /url: /article/1468100265
+            - heading "우수식품생산자협동조합" [level=4] [ref=f117e609]
+          - heading "이재*" [level=5] [ref=f117e610]
+          - heading "전자상거래업" [level=5] [ref=f117e611]
+        - paragraph [ref=f117e612]: 경기도 화성시 매송면 숙곡길 7-...
+      - separator [ref=f117e613]
+      - generic [ref=f117e615]:
+        - generic [ref=f117e617]:
+          - link [ref=f117e618] [cursor=pointer]:
+            - /url: /article/1688601309
+            - heading "우수에이앤디 주식회사" [level=4] [ref=f117e619]
+          - heading "이기*" [level=5] [ref=f117e620]
+        - paragraph [ref=f117e621]: 서울특별시 강남구 테헤란로20길 ...
+      - separator [ref=f117e622]
+      - generic [ref=f117e624]:
+        - link [ref=f117e627] [cursor=pointer]:
+          - /url: /article/2060987632
+          - heading "우수테크" [level=4] [ref=f117e628]
+        - paragraph [ref=f117e629]: 서울특별시 성동구 장터1가길 25...
+      - separator [ref=f117e630]
+      - generic [ref=f117e632]:
+        - generic [ref=f117e634]:
+          - link [ref=f117e635] [cursor=pointer]:
+            - /url: /article/1341958243
+            - heading "신우수중개발" [level=4] [ref=f117e636]
+          - heading "김재*" [level=5] [ref=f117e637]
+        - paragraph [ref=f117e638]: 경기도 안산시 단원구 대부중앙로 ...
+      - separator [ref=f117e639]
+      - generic [ref=f117e641]:
+        - generic [ref=f117e643]:
+          - link [ref=f117e644] [cursor=pointer]:
+            - /url: /article/1342005738
+            - heading "우수가구" [level=4] [ref=f117e645]
+          - heading "박경*" [level=5] [ref=f117e646]
+          - heading "전자상거래업" [level=5] [ref=f117e647]
+        - paragraph [ref=f117e648]: 인천광역시 남동구 남동대로 367...
+      - separator [ref=f117e649]
+      - generic [ref=f117e651]:
+        - generic [ref=f117e653]:
+          - link [ref=f117e654] [cursor=pointer]:
+            - /url: /article/1352074830
+            - heading "우수정밀" [level=4] [ref=f117e655]
+          - heading "이이*" [level=5] [ref=f117e656]
+        - paragraph [ref=f117e657]: 경기도 화성시 양감면 은행나무로 ...
+      - separator [ref=f117e658]
+      - generic [ref=f117e660]:
+        - generic [ref=f117e662]:
+          - link [ref=f117e663] [cursor=pointer]:
+            - /url: /article/1371529341
+            - heading "우수포장" [level=4] [ref=f117e664]
+          - heading "우광*" [level=5] [ref=f117e665]
+        - paragraph [ref=f117e666]: 경기도 김포시 통진읍 월하로 56...
+      - separator [ref=f117e667]
+      - generic [ref=f117e669]:
+        - generic [ref=f117e671]:
+          - link [ref=f117e672] [cursor=pointer]:
+            - /url: /article/1408188152
+            - heading "（주） 최우수인슈넷" [level=4] [ref=f117e673]
+          - heading "이호*" [level=5] [ref=f117e674]
+          - heading [level=5] [ref=f117e675]:
+            - text: 비주거용
+            - link "부동산" [ref=f117e676] [cursor=pointer]:
+              - /url: "#"
+            - text: 관리업
+        - paragraph [ref=f117e679]: 경기도 시흥시 시흥대로 1067-...
+      - separator [ref=f117e680]
+      - generic [ref=f117e682]:
+        - generic [ref=f117e684]:
+          - link [ref=f117e685] [cursor=pointer]:
+            - /url: /article/3013189523
+            - heading "우수식품" [level=4] [ref=f117e686]
+          - heading "신광*" [level=5] [ref=f117e687]
+          - heading "전자상거래업" [level=5] [ref=f117e688]
+        - paragraph [ref=f117e689]: 충청북도 청주시 청원구 오창읍 양...
+      - separator [ref=f117e690]
+      - generic [ref=f117e692]:
+        - link [ref=f117e695] [cursor=pointer]:
+          - /url: /article/3013666656
+          - heading "청우수지상사" [level=4] [ref=f117e696]
+        - paragraph [ref=f117e697]: 충청북도 청주시 상당구 무농정로 ...
+      - separator [ref=f117e698]
+      - generic [ref=f117e700]:
+        - generic [ref=f117e702]:
+          - link [ref=f117e703] [cursor=pointer]:
+            - /url: /article/3030754345
+            - heading "우수자동차공업사" [level=4] [ref=f117e704]
+          - heading "이인*" [level=5] [ref=f117e705]
+        - paragraph [ref=f117e706]: 충청북도 충주시 금봉대로 718(...
+      - separator [ref=f117e707]
+      - generic [ref=f117e709]:
+        - generic [ref=f117e711]:
+          - link [ref=f117e712] [cursor=pointer]:
+            - /url: /article/3110683223
+            - heading "나우특수우수" [level=4] [ref=f117e713]
+          - heading "박효*" [level=5] [ref=f117e714]
+        - paragraph [ref=f117e715]: 경기도 연천군 신서면 점말1길 6...
+      - separator [ref=f117e716]
+      - generic [ref=f117e718]:
+        - generic [ref=f117e720]:
+          - link [ref=f117e721] [cursor=pointer]:
+            - /url: /article/3169021328
+            - heading "천우수산" [level=4] [ref=f117e722]
+          - heading "해수면 양식 어업" [level=5] [ref=f117e723]
+        - paragraph [ref=f117e724]: 충청남도 태안군 안면읍 대야로 3...
+      - separator [ref=f117e725]
+      - generic [ref=f117e727]:
+        - generic [ref=f117e729]:
+          - link [ref=f117e730] [cursor=pointer]:
+            - /url: /article/3168121350
+            - heading "우수산업（주）" [level=4] [ref=f117e731]
+          - heading "임우*" [level=5] [ref=f117e732]
+          - heading "소사장제(변속기케이스제조)" [level=5] [ref=f117e733]
+        - paragraph [ref=f117e734]: 충청남도 서산시 지곡면 충의로 9...
+      - separator [ref=f117e735]
+      - generic [ref=f117e737]:
+        - generic [ref=f117e739]:
+          - link [ref=f117e740] [cursor=pointer]:
+            - /url: /article/5428701601
+            - heading "농업회사법인(주)우수한형제들" [level=4] [ref=f117e741]
+          - heading "하세*" [level=5] [ref=f117e742]
+          - heading "수산동물 훈제, 조리 및 유사 조제식품 제조업" [level=5] [ref=f117e743]
+        - paragraph [ref=f117e744]: 전라남도 보성군 조성면 수당길 1...
+      - separator [ref=f117e745]
+      - generic [ref=f117e747]:
+        - generic [ref=f117e749]:
+          - link [ref=f117e750] [cursor=pointer]:
+            - /url: /article/8968101001
+            - heading "주식회사 우수디자인" [level=4] [ref=f117e751]
+          - heading "최현*" [level=5] [ref=f117e752]
+          - heading "도배, 실내장식 및 내장 목공사업" [level=5] [ref=f117e753]
+        - paragraph [ref=f117e754]: 경기도 부천시 길주로391번길 2...
+      - separator [ref=f117e755]
+      - generic [ref=f117e757]:
+        - link [ref=f117e760] [cursor=pointer]:
+          - /url: /article/1418146908
+          - heading "우수티엔지" [level=4] [ref=f117e761]
+        - paragraph [ref=f117e762]: 서울특별시 마포구 모래내로1길 3...
+      - separator [ref=f117e763]
+      - generic [ref=f117e765]:
+        - generic [ref=f117e767]:
+          - link [ref=f117e768] [cursor=pointer]:
+            - /url: /article/4158522673
+            - heading "씨월드고속훼리（주）해남우수영지점" [level=4] [ref=f117e769]
+          - heading "이혁*" [level=5] [ref=f117e770]
+          - heading "항구 및 기타 해상 터미널 운영업" [level=5] [ref=f117e771]
+        - paragraph [ref=f117e772]: 전라남도 해남군 문내면 우수영안길...
+      - separator [ref=f117e773]
+      - generic [ref=f117e775]:
+        - generic [ref=f117e777]:
+          - link [ref=f117e778] [cursor=pointer]:
+            - /url: /article/1230585840
+            - heading "삼우수지" [level=4] [ref=f117e779]
+          - heading "김상*" [level=5] [ref=f117e780]
+          - heading "합성수지 및 기타 플라스틱 물질 제조업" [level=5] [ref=f117e781]
+        - paragraph [ref=f117e782]: 경기도 화성시 정남면 가장로 17...
+      - separator [ref=f117e783]
+      - generic [ref=f117e785]:
+        - generic [ref=f117e787]:
+          - link [ref=f117e788] [cursor=pointer]:
+            - /url: /article/1091546175
+            - heading "새싹약국(우수리)" [level=4] [ref=f117e789]
+          - heading "YU*" [level=5] [ref=f117e790]
+          - heading "의약품 및 의료용품 소매업" [level=5] [ref=f117e791]
+        - paragraph [ref=f117e792]: 서울특별시 강서구 강서로 254(...
+      - separator [ref=f117e793]
+      - generic [ref=f117e795]:
+        - generic [ref=f117e797]:
+          - link [ref=f117e798] [cursor=pointer]:
+            - /url: /article/1301088169
+            - heading "우수엔지니어링" [level=4] [ref=f117e799]
+          - heading "허경*" [level=5] [ref=f117e800]
+          - heading "전자상거래" [level=5] [ref=f117e801]
+        - paragraph [ref=f117e802]: 경기도 부천시 석천로 345
+      - separator [ref=f117e803]
+      - generic [ref=f117e805]:
+        - generic [ref=f117e807]:
+          - link [ref=f117e808] [cursor=pointer]:
+            - /url: /article/1065271457
+            - heading "우수넷" [level=4] [ref=f117e809]
+          - heading "손경*" [level=5] [ref=f117e810]
+          - heading "기타전기제품" [level=5] [ref=f117e811]
+        - paragraph [ref=f117e812]: 경기도 파주시 조리읍 탑삭골길 5...
+      - separator [ref=f117e813]
+      - generic [ref=f117e815]:
+        - generic [ref=f117e817]:
+          - link [ref=f117e818] [cursor=pointer]:
+            - /url: /article/4101985120
+            - heading "우수메디칼" [level=4] [ref=f117e819]
+          - heading "김미*" [level=5] [ref=f117e820]
+          - heading "의료용 기구 소매업" [level=5] [ref=f117e821]
+        - paragraph [ref=f117e822]: 전남광주통합특별시 북구 양산택지로...
+      - separator [ref=f117e823]
+      - generic [ref=f117e825]:
+        - generic [ref=f117e827]:
+          - link [ref=f117e828] [cursor=pointer]:
+            - /url: /article/6060339847
+            - heading "우수광고" [level=4] [ref=f117e829]
+          - heading "이현*" [level=5] [ref=f117e830]
+          - heading "옥외광고사업" [level=5] [ref=f117e831]
+        - paragraph [ref=f117e832]: 부산광역시 사상구 괘법동 516-...
+      - separator [ref=f117e833]
+      - generic [ref=f117e835]:
+        - generic [ref=f117e837]:
+          - link [ref=f117e838] [cursor=pointer]:
+            - /url: /article/3148179763
+            - heading "주식회사 우수디엔에스" [level=4] [ref=f117e839]
+          - heading "김기*" [level=5] [ref=f117e840]
+          - heading "비주거용 부동산 관리업" [level=5] [ref=f117e841]
+        - paragraph [ref=f117e842]: 대전광역시 유성구 테크노중앙로 2...
+      - separator [ref=f117e843]
+      - generic [ref=f117e845]:
+        - generic [ref=f117e847]:
+          - link [ref=f117e848] [cursor=pointer]:
+            - /url: /article/8779900044
+            - heading "은우수산" [level=4] [ref=f117e849]
+          - heading "채은*" [level=5] [ref=f117e850]
+        - paragraph [ref=f117e851]: 전라북도 부안군 계화면 창북안길 ...
+      - separator [ref=f117e852]
+      - generic [ref=f117e854]:
+        - generic [ref=f117e856]:
+          - link [ref=f117e857] [cursor=pointer]:
+            - /url: /article/1389063499
+            - heading "창우수학학원" [level=4] [ref=f117e858]
+          - heading "구혜*" [level=5] [ref=f117e859]
+          - heading "보습학원" [level=5] [ref=f117e860]
+        - paragraph [ref=f117e861]: 경기도 의왕시 모락로 24 , 4...
+      - separator [ref=f117e862]
+      - generic [ref=f117e864]:
+        - link [ref=f117e867] [cursor=pointer]:
+          - /url: /article/1212219531
+          - heading "정우수산물무역" [level=4] [ref=f117e868]
+        - paragraph [ref=f117e869]: 인천광역시 중구 축항대로86번길 ...
+      - separator [ref=f117e870]
+      - generic [ref=f117e872]:
+        - generic [ref=f117e874]:
+          - link [ref=f117e875] [cursor=pointer]:
+            - /url: /article/1321773870
+            - heading "우수산업" [level=4] [ref=f117e876]
+          - heading "박신*" [level=5] [ref=f117e877]
+          - heading "그 외 기타 분류 안된 섬유제품 제조업" [level=5] [ref=f117e878]
+        - paragraph [ref=f117e879]: 경기도 남양주시 화도읍 폭포로 4...
+      - separator [ref=f117e880]
+      - generic [ref=f117e882]:
+        - link [ref=f117e885] [cursor=pointer]:
+          - /url: /article/1371659779
+          - heading "우수유통" [level=4] [ref=f117e886]
+        - paragraph [ref=f117e887]: 인천광역시 서해구 가정로138번길...
+      - separator [ref=f117e888]
+      - generic [ref=f117e890]:
+        - link [ref=f117e893] [cursor=pointer]:
+          - /url: /article/1349123492
+          - heading "최우수에이젼시" [level=4] [ref=f117e894]
+        - paragraph [ref=f117e895]: 경기도 시흥시 비둘기공원7길 54
+      - separator [ref=f117e896]
+      - generic [ref=f117e898]:
+        - generic [ref=f117e900]:
+          - link [ref=f117e901] [cursor=pointer]:
+            - /url: /article/2170727756
+            - heading "광우수산" [level=4] [ref=f117e902]
+          - heading "주순*" [level=5] [ref=f117e903]
+        - paragraph [ref=f117e904]: 서울특별시 노원구 공릉로38길 2...
+      - separator [ref=f117e905]
+      - generic [ref=f117e907]:
+        - generic [ref=f117e909]:
+          - link [ref=f117e910] [cursor=pointer]:
+            - /url: /article/2228130248
+            - heading "주식회사 우수전기상사" [level=4] [ref=f117e911]
+          - heading "전기용품 및 조명장치 소매업" [level=5] [ref=f117e912]
+        - paragraph [ref=f117e913]: 전라남도 순천시 원가곡길 4-12...
+      - separator [ref=f117e914]
+      - generic [ref=f117e916]:
+        - generic [ref=f117e918]:
+          - link [ref=f117e919] [cursor=pointer]:
+            - /url: /article/2758800432
+            - heading "주식회사 우수" [level=4] [ref=f117e920]
+          - heading "조한*" [level=5] [ref=f117e921]
+          - heading "독서실 운영업" [level=5] [ref=f117e922]
+        - paragraph [ref=f117e923]: 강원도 춘천시 퇴계로 199, 4...
+      - separator [ref=f117e924]
+      - generic [ref=f117e926]:
+        - generic [ref=f117e928]:
+          - link [ref=f117e929] [cursor=pointer]:
+            - /url: /article/2920700234
+            - heading "우수강사지원센터" [level=4] [ref=f117e930]
+          - heading "이미*" [level=5] [ref=f117e931]
+          - heading "전자상거래업" [level=5] [ref=f117e932]
+        - paragraph [ref=f117e933]: 비공개
+      - separator [ref=f117e934]
+      - generic [ref=f117e936]:
+        - generic [ref=f117e938]:
+          - link [ref=f117e939] [cursor=pointer]:
+            - /url: /article/3139047843
+            - heading "진우수산" [level=4] [ref=f117e940]
+          - heading "신선, 냉동 및 기타 수산물 도매업" [level=5] [ref=f117e941]
+        - paragraph [ref=f117e942]: 충청남도 보령시 강당길 71-18...
+      - separator [ref=f117e943]
+      - generic [ref=f117e945]:
+        - generic [ref=f117e947]:
+          - link [ref=f117e948] [cursor=pointer]:
+            - /url: /article/3160112562
+            - heading "우수하우징" [level=4] [ref=f117e949]
+          - heading "김숙*" [level=5] [ref=f117e950]
+          - heading "건설업본사" [level=5] [ref=f117e951]
+        - paragraph [ref=f117e952]: 충청남도 태안군 태안읍 독샘로91
+      - separator [ref=f117e953]
+      - generic [ref=f117e955]:
+        - generic [ref=f117e957]:
+          - link [ref=f117e958] [cursor=pointer]:
+            - /url: /article/1631501041
+            - heading "최우수텔레콤" [level=4] [ref=f117e959]
+          - heading "강주*" [level=5] [ref=f117e960]
+          - heading "전자상거래" [level=5] [ref=f117e961]
+        - paragraph [ref=f117e962]: 경상남도 진주시 진양호로527번길...
+      - separator [ref=f117e963]
+      - generic [ref=f117e965]:
+        - generic [ref=f117e967]:
+          - link [ref=f117e968] [cursor=pointer]:
+            - /url: /article/4349001386
+            - heading "현우수산" [level=4] [ref=f117e969]
+          - heading "김송*" [level=5] [ref=f117e970]
+          - heading "농 축 수산품" [level=5] [ref=f117e971]
+        - paragraph [ref=f117e972]: 경기도 고양시 일산서구 성저로50...
+      - separator [ref=f117e973]
+      - generic [ref=f117e975]:
+        - generic [ref=f117e977]:
+          - link [ref=f117e978] [cursor=pointer]:
+            - /url: /article/1729701089
+            - heading "우수조경" [level=4] [ref=f117e979]
+          - heading "홍미*" [level=5] [ref=f117e980]
+          - heading "화원" [level=5] [ref=f117e981]
+        - paragraph [ref=f117e982]: 경기도 남양주시 별내면 광전리 5...
+      - separator [ref=f117e983]
+      - generic [ref=f117e985]:
+        - generic [ref=f117e987]:
+          - link [ref=f117e988] [cursor=pointer]:
+            - /url: /article/4086300325
+            - heading "우수한형제들 refresh" [level=4] [ref=f117e989]
+          - heading "일반한식" [level=5] [ref=f117e990]
+        - paragraph [ref=f117e991]: 경기도 수원시 영통구 덕영대로15...
+      - separator [ref=f117e992]
+      - generic [ref=f117e994]:
+        - generic [ref=f117e996]:
+          - link [ref=f117e997] [cursor=pointer]:
+            - /url: /article/5851501348
+            - heading "브로우수(BROWSU)" [level=4] [ref=f117e998]
+          - heading "화장품" [level=5] [ref=f117e999]
+        - paragraph [ref=f117e1000]: 경기도 파주시 소리천로 25
+      - separator [ref=f117e1001]
+      - generic [ref=f117e1003]:
+        - generic [ref=f117e1005]:
+          - link [ref=f117e1006] [cursor=pointer]:
+            - /url: /article/1370875833
+            - heading "우수설비" [level=4] [ref=f117e1007]
+          - heading "임정*" [level=5] [ref=f117e1008]
+          - heading "난방시공업 제2종" [level=5] [ref=f117e1009]
+        - paragraph [ref=f117e1010]: 경기도 광명시 하안1동 305-6...
+      - separator [ref=f117e1011]
+      - generic [ref=f117e1013]:
+        - generic [ref=f117e1015]:
+          - link [ref=f117e1016] [cursor=pointer]:
+            - /url: /article/2158132632
+            - heading "우수씨엔에스(주)" [level=4] [ref=f117e1017]
+          - heading "김정*" [level=5] [ref=f117e1018]
+        - paragraph [ref=f117e1019]: 서울특별시 강남구 삼성동 70
+      - separator [ref=f117e1020]
+      - generic [ref=f117e1022]:
+        - generic [ref=f117e1024]:
+          - link [ref=f117e1025] [cursor=pointer]:
+            - /url: /article/1078613794
+            - heading "(주)우수기술" [level=4] [ref=f117e1026]
+          - heading "이종*" [level=5] [ref=f117e1027]
+        - paragraph [ref=f117e1028]: 서울특별시 영등포구 여의도동 13...
+      - separator [ref=f117e1029]
+      - generic [ref=f117e1031]:
+        - generic [ref=f117e1033]:
+          - link [ref=f117e1034] [cursor=pointer]:
+            - /url: /article/5058144292
+            - heading "우수AL-Tech(주)" [level=4] [ref=f117e1035]
+          - heading "전성*" [level=5] [ref=f117e1036]
+        - paragraph [ref=f117e1037]: 울산광역시 울주군 상북면 길천산업...
+      - separator [ref=f117e1038]
+    - generic [ref=f117e1040]:
+      - heading "실시간 조회기업" [level=4] [ref=f117e1042]
+      - list [ref=f117e1043]:
+        - listitem [ref=f117e1044]:
+          - link [ref=f117e1045] [cursor=pointer]:
+            - /url: /article/4859302012
+            - paragraph [ref=f117e1046]: 자람영어교습소
+        - listitem [ref=f117e1047]:
+          - link [ref=f117e1048] [cursor=pointer]:
+            - /url: /article/2921401911
+            - paragraph [ref=f117e1049]: 킨텍스바이케이트리 335호
+        - listitem [ref=f117e1050]:
+          - link [ref=f117e1051] [cursor=pointer]:
+            - /url: /article/2952801111
+            - paragraph [ref=f117e1052]: 동탄출장세차 카보로
+        - listitem [ref=f117e1053]:
+          - link [ref=f117e1054] [cursor=pointer]:
+            - /url: /article/5368800128
+            - paragraph [ref=f117e1055]: 금강낙농영농조합법인
+        - listitem [ref=f117e1056]:
+          - link [ref=f117e1057] [cursor=pointer]:
+            - /url: /article/4364600911
+            - paragraph [ref=f117e1058]: 청라큐브 904
+        - listitem [ref=f117e1059]:
+          - link [ref=f117e1060] [cursor=pointer]:
+            - /url: /article/4383300111
+            - paragraph [ref=f117e1061]: 최정필외2명
+        - listitem [ref=f117e1062]:
+          - link [ref=f117e1063] [cursor=pointer]:
+            - /url: /article/4388803705
+            - paragraph [ref=f117e1064]: 서원기중기
+        - listitem [ref=f117e1065]:
+          - link [ref=f117e1066] [cursor=pointer]:
+            - /url: /article/4528104211
+            - paragraph [ref=f117e1067]: 에스비삼보산업
+        - listitem [ref=f117e1068]:
+          - link [ref=f117e1069] [cursor=pointer]:
+            - /url: /article/8440402686
+            - paragraph [ref=f117e1070]: 페인트,옥상방수,건물방수,오일스테인,바닥에폭시,전문,영광공사
+        - listitem [ref=f117e1071]:
+          - link [ref=f117e1072] [cursor=pointer]:
+            - /url: /article/4622201311
+            - paragraph [ref=f117e1073]: 동탄레이크원 B동541호
+        - listitem [ref=f117e1074]:
+          - link [ref=f117e1075] [cursor=pointer]:
+            - /url: /article/4648803704
+            - paragraph [ref=f117e1076]: 케이와이포춘
+        - listitem [ref=f117e1077]:
+          - link [ref=f117e1078] [cursor=pointer]:
+            - /url: /article/4662301611
+            - paragraph [ref=f117e1079]: 바로고
+        - listitem
+  - contentinfo [ref=f117e1080]:
+    - generic [ref=f117e1081]:
+      - generic [ref=f117e1082]:
+        - generic [ref=f117e1084]:
+          - heading "주요기능" [level=6] [ref=f117e1085]
+          - list [ref=f117e1086]:
+            - listitem [ref=f117e1087]:
+              - link "사업자등록번호조회" [ref=f117e1088] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f117e1089]:
+              - link "법인등록번호조회" [ref=f117e1090] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f117e1091]:
+              - link "상호명으로 사업자등록번호조회" [ref=f117e1092] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f117e1093]:
+              - link "전화번호조회" [ref=f117e1094] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f117e1095]:
+              - link "대표자이름으로 조회" [ref=f117e1096] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f117e1097]:
+              - link "정정문의" [ref=f117e1098] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f117e1100]:
+          - heading "사업자검색" [level=6] [ref=f117e1101]
+          - paragraph [ref=f117e1102]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f117e1105]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f117e1107]
+            - button "검색 " [ref=f117e1109] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f117e1110]: 
+      - generic [ref=f117e1111]:
+        - paragraph [ref=f117e1112]: Copyright ©2019 All rights reserved.
+        - generic [ref=f117e1113]:
+          - link "" [ref=f117e1114] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f117e1116] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f117e1118] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f117e1120] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f117e1122]:
+    - list [ref=f117e1123]:
+      - listitem [ref=f117e1124]:
+        - link "Home" [ref=f117e1125] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f117e1126]:
+        - link "사업자등록번호조회" [ref=f117e1127] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f117e1128]:
+        - link "법인등록번호조회" [ref=f117e1129] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f117e1130]:
+        - link "상호명으로 사업자등록번호조회" [ref=f117e1131] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f117e1132]:
+        - link "전화번호로 조회" [ref=f117e1133] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f117e1134]:
+        - link "대표자이름으로 조회" [ref=f117e1135] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f117e1136]:
+        - link "API" [ref=f117e1137] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f117e1138]:
+        - link "고객문의" [ref=f117e1139] [cursor=pointer]:
+          - /url: /voc
+```

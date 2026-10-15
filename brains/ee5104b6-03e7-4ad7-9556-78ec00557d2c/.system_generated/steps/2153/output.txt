@@ -1,0 +1,9 @@
+The search for ""609-09-45485" OR "6090945485"" returned the following summary:
+해당 번호(609-09-45485)는 대한민국의 사업자 등록번호로 확인됩니다.
+
+*   **상호명:** 한국테크[1]
+*   **법인형태:** 개인사업자[1]
+*   **소재지:** 경상남도 창원시 마산회원구 팔용로 245-1 (구암동)[1]
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcG4XgVHMfpFOefbf4BjjPJyQf4KgjiPHKFiEyqf27J4G76k8fte7s-QSvh-IvJEAxHRlS2krQ6xvUs8KXBkgKVisM3o0a0dMnz6lw4fB6-RRq5jRdg98XOwarOPN2FVm09Q==)

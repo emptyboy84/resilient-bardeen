@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+7711801367 includes 메기로: false includes 1223: false
+7714500307 includes 메기로: false includes 1223: false
+7715900454 includes 메기로: false includes 1223: false
+7718700480 includes 메기로: false includes 1223: false
+7724200537 includes 메기로: false includes 1223: false
+7732501755 includes 메기로: false includes 1223: false
+

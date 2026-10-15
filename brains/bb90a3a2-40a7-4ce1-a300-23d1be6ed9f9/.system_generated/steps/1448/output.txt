@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Kobis len: 71776
+Phones in Kobis: [ '02-6959-3084', '02-6261-2132', '02-6261-6573' ]
+Kobis snippet:  KOFIC 영화관 입장권 통합전산망 :: 영화사정보 //페이징 $(document).ready(function(e) { $('.more').on('click',function(){ $(this).toggleClass('open') $('.drop').toggle() }); $("#sOrderBy").change(function(e){ $("input[name='orderBy']").val($(this).val()); fn_searchList(); }); }); function goPage(page){ /* var pForm = document.pagingForm; pForm.curPage.value = page; pForm.submit(); */ $("[name=curPage]").val(page); commSearchAjax(); } // 초성 검색 function fn_chosung_search(chosung){ var sForm = document.searchForm; if(
+

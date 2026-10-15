@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/051-523-6320');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/051-523-6320
+- Page Title: 051-523-6320 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-24-29-568Z.yml)

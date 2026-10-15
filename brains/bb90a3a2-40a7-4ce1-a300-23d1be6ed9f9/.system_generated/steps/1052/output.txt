@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Nice status: 200 len: 987207
+Phones in Nice: [ '02-3771-1514' ]
+

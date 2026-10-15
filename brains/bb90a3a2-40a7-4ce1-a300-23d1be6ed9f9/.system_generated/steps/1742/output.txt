@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Query: 051-923-0405 Len: 136
+Snippet: =https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26q%3D051-923-0405"); 
+Query: 0519230405 Len: 134
+Query: 923-0405 Len: 132
+Snippet: rect=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26q%3D923-0405"); 
+

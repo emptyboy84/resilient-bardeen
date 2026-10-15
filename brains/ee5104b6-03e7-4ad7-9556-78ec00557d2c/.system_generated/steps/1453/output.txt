@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+<truncated 101 lines>
+Found in row 17213 [null,null,null,"(주)코레스트",6178605184,"김춘근",null,"부산광역시 해운대구 센텀중앙로 48, 15층 1501호 (우동, 에이스하이테크21)","051-920-2772",null,null,null,null,"20130716",null,5,null,null,"건물 및 토목 엔지니어링 서비스업",null,null,null,null,null,"6178605184"]
+Found in row 17239 [null,null,null,"(주)올림",6178617434,"이경우",null,"부산광역시 해운대구 센텀중앙로 48, 6층 607호 (우동, 에이스하이테크21)","010-2658-6280",null,null,null,null,null,null,2,null,null,"광고 대행업",null,null,null,null,null,"6178617434"]
+Found in row 17282 [null,null,null,"JWS컨설팅",6182904303,"정원섭",null,"부산광역시 해운대구 센텀중앙로 48, 9층 906 (우동, 에이스하이테크21)",null,null,null,null,null,"20180105",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6182904303"]
+Found in row 17322 [null,null,null,"원진엔지니어링",6200544113,"이경한",null,"부산광역시 해운대구 센텀중앙로 48, 10층 1007, 1008호(우동, 에이스하이테크21) 10층 1007, 1008호",null,null,null,null,null,"20100528",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6200544113"]
+Found in row 17564 [null,null,null,"에버세라믹디자인",6211588597,"양필희",null,"부산광역시 해운대구 센텀중앙로 48, 6층 608 (우동, 에이스하이테크21)",null,null,null,null,null,"20101019",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6211588597"]
+Found in row 18015 [null,null,null,"버미종합개발",6303000531,"박경범",null,"부산광역시 해운대구 센텀중앙로 48 (우동) 에이스하이테크21 1906호",null,null,null,null,null,"20201110",null,0,null,null,"기타 엔지니어링 서비스업",null,null,null,null,null,"6303000531"]
+Found in row 18295 [null,null,null,"디케이오가나이즈",6600402472,"이기선",null,"부산광역시 해운대구 센텀중앙로 48, 6층 609호(우동, 에이스하이테크21) 6층 609호",null,null,null,null,null,"20220802",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6600402472"]
+Found in row 18324 [null,null,null,"포커스정보",6626400421,"박홍식",null,null,"1566-4101",null,null,null,null,"-",null,null,null,null,"지식정보",null,null,null,null,null,"6626400421"]
+Found in row 18392 [null,null,null,"(박명흠)",6710701038,"박명흠",null,"부산광역시 해운대구 센텀중앙로 48, 14층 1413 (우동, 에이스하이테크21)","010-7664-7786",null,null,null,null,"20180711",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6710701038"]
+Found in row 18652 [null,null,null,"종열디자인",6993200306,"전종열",null,"부산광역시 해운대구 센텀중앙로 48, 11층 1109 (우동, 에이스하이테크21) 11층 1109호",null,null,null,null,null,"20170118",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"6993200306"]
+Found in row 18724 [null,null,null,"시아",7086300230,"전성진",null,"부산광역시 해운대구 센텀중앙로 48 (우동) 에이스하이테크21 5층 513호",null,null,null,null,null,"20200831",null,0,null,null,"시각 디자인업",null,null,null,null,null,"7086300230"]
+Found in row 18795 [null,null,null,"와이투애드",7161201145,"황윤지",null,"부산광역시 해운대구 센텀중앙로 48, 7층 701 (우동, 에이스하이테크21)","010-3333-6848",null,null,null,null,"20190705",null,6,null,null,"광고 대행업",null,null,null,null,null,"7161201145"]
+Found in row 19372 [null,null,null,"(주)나음(해운대)",7788702489,"남흥용",null,"부산광역시 해운대구 센텀중앙로 48, 11층 1102~1108호(우동, 에이스하이테크21) 11층 1102~1108호",null,null,null,null,null,"20211022",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7788702489"]
+Found in row 19623 [null,null,null,"온건축컨설팅",8060501756,"김영태",null,"부산광역시 해운대구 센텀중앙로 48, 14층 1409호(우동, 에이스하이테크21) 14층 1409호",null,null,null,null,null,"20211001",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8060501756"]
+Found in row 19655 [null,null,null,"(주)동부회원권",8098801345,"이준행",null,"부산광역시 해운대구 센텀중앙로 48 (우동) 에이스하이테크21 1510호",null,null,null,null,null,"20210122",null,0,null,null,"기타 산업 회사 본부",null,null,null,null,null,"8098801345"]
+Found in row 19699 [null,null,null,"(주)이사크루",8148600306,"박대훈",null,"부산광역시 해운대구 센텀중앙로 48, 18층 1801 (우동, 에이스하이테크21)",null,null,null,null,null,"20160216",null,3,null,null,"응용 소프트웨어 개발 및 공급업",null,null,null,null,null,"8148600306"]
+Found in row 19797 [null,null,null,"에이치(H)디자인",8280101568,"김현수",null,"부산광역시 해운대구 센텀중앙로 48 (우동) 에이스하이테크21 15층 1501호",null,null,null,null,null,"20200717",null,0,null,null,"제품 디자인업",null,null,null,null,null,"8280101568"]
+Found in row 19813 [null,null,null,"(진서영)",8290900592,"진서영",null,"부산광역시 해운대구 센텀중앙로 48, 12층 1209 (우동, 에이스하이테크21)","051-744-5656","051-744-1056",null,null,null,"20170626",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8290900592"]
+Found in row 19878 [null,null,null,"에프에스(FS)경영컨설팅",8385200777,"성창경",null,"부산광역시 해운대구 센텀중앙로 48, 9층 913호(우동, 에이스하이테크21) 9층 913호",null,null,null,null,null,"20221007",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8385200777"]
+Found in row 19886 [null,null,null,"디자인하늘",8391800397,"정원석",null,"부산광역시 해운대구 센텀중앙로 48, 18층 1807호 (우동, 에이스하이테크21)",null,null,null,null,null,"20191202",null,2,null,null,"전시, 컨벤션 및 행사 대행업",null,null,null,null,null,"8391800397"]
+Found in row 19894 [null,null,null,"엠에스(MS)",8400201740,"강진철",null,"부산광역시 해운대구 센텀중앙로 48, 16층 1604호(우동, 에이스하이테크21) 16층 1604호",null,null,null,null,null,"20240430",null,0,null,null,"시스템 소프트웨어 개발 및 공급업",null,null,null,null,null,"8400201740"]
+Found in row 20021 [null,null,null,"두온2",8533400641,"김소옥",null,"부산광역시 해운대구 센텀중앙로 48, 19층 1904호(우동, 에이스하이테크21) 19층 1904호",null,null,null,null,null,"20200622",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8533400641"]
+Found in row 20040 [null,null,null,"디자인그룹 상상인",8551600847,"박종인",null,"부산광역시 해운대구 센텀중앙로 48, 20층 2004 (우동, 에이스하이테크21)","051-513-3418",null,null,null,null,"20090921",null,6,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8551600847"]
+Found in row 20147 [null,null,null,"YH컨설팅",8691600040,"김윤희",null,"부산광역시 해운대구 센텀중앙로 48, 17층 1707 (우동, 에이스하이테크21)","010-4551-9281",null,null,null,null,"20150706",null,5,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8691600040"]
+Found in row 20199 [null,null,null,"(주)텍스트마인",8758600112,"이종희",null,"부산광역시 해운대구 센텀중앙로 48, 8층 801 (우동, 에이스하이테크21)",null,null,null,null,null,"20151003",null,4,null,null,"응용 소프트웨어 개발 및 공급업",null,null,null,null,null,"8758600112"]
+Found in row 20414 [null,null,null,"투투",8985800242,"서현석",null,"부산광역시 해운대구 센텀중앙로 48, 13층 1308 (우동, 에이스하이테크21)","010-3842-5782",null,null,null,null,"20190823",null,2,null,null,"시장조사 및 여론조사업",null,null,null,null,null,"8985800242"]
+

@@ -1,0 +1,44 @@
+Reading rows 11847 to 12000...
+Read 154 rows.
+Sample row 11847: {
+  rowNum: 11847,
+  author: '배현명',
+  status: '폐업',
+  company: '주식회사 룩스텍',
+  bizno: 5131909625,
+  ceo: '김길연',
+  zip: '39263',
+  addr: null,
+  tel: null,
+  fax: '054-464-1173',
+  homepage: 'http://www.luxtec.kr',
+  email: null,
+  employees: 2,
+  bizTypeNice: '일반용 전기 조명장치 제조업',
+  corpNo: null,
+  settleMonth: null,
+  catLarge: '제조업',
+  catMid: '전기장비 제조업',
+  catSmall: '전구 및 조명장치 제조업'
+}
+Sample row 12000: {
+  rowNum: 12000,
+  author: '배현명',
+  status: null,
+  company: '장산기공',
+  bizno: 5278702654,
+  ceo: '최준혁',
+  zip: null,
+  addr: '경남 사천시 축동면 서삼로 1317-7 (구호리)',
+  tel: '0507-1348-0636',
+  fax: null,
+  homepage: null,
+  email: null,
+  employees: null,
+  bizTypeNice: '산업처리공정 제어장비 제조업',
+  corpNo: null,
+  settleMonth: null,
+  catLarge: null,
+  catMid: null,
+  catSmall: null
+}

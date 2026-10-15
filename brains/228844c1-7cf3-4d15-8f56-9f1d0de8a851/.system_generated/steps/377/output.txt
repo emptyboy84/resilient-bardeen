@@ -1,0 +1,10 @@
+### Result
+[
+  "",
+  "",
+  "상호\t비문\n등록신고번호\t251002013000012\t지역\t부산광역시 해운대구\n자료구분\t출판사\t등록번호\t251002013000012\n등록일자\t2013-04-09\t등록청\t\n소재지\t부산광역시 해운대구\n변경등록 사항\t\t폐업일자\t\n영업구분\t영업\t일자\t"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const tables = Array.from(document.querySelectorAll(\'table\'));\n    return tables.map(t => t.innerText);\n}');
+```

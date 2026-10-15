@@ -1,0 +1,39 @@
+### Result
+[
+  {
+    "text": "'키녹스' - 검색상세",
+    "tag": "TITLE",
+    "parentTag": null,
+    "parentHref": null,
+    "parentOnclick": null
+  },
+  {
+    "text": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"WebSite\",\n      \"name\": \"나이스비즈인포\",\n      \"alternateName\": \"NICE BizINFO\",\n      \"url\": \"https://www.nicebizinfo.com\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": {\n          \"@type\": \"EntryPoint\",\n          \"urlTemplate\": \"https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=키녹스\"\n        },\n        \"query-input\": \"required name=키녹스\"\n      }\n    },\n    {\n      \"@type\": \"Organization\",\n      \"name\": \"NICE평가정보\",\n      \"url\": \"https://www.nicebizinfo.com\",\n      \"logo\": \"https://www.nicebizinfo.com/images/og-image.png\"\n    }\n  ]\n}",
+    "tag": "SCRIPT",
+    "parentTag": null,
+    "parentHref": null,
+    "parentOnclick": null
+  },
+  {
+    "text": "키녹스",
+    "tag": "STRONG",
+    "parentTag": "BODY",
+    "parentOnclick": null
+  },
+  {
+    "text": "키녹스",
+    "tag": "STRONG",
+    "parentTag": "BODY",
+    "parentOnclick": null
+  },
+  {
+    "text": "키녹스",
+    "tag": "STRONG",
+    "parentTag": "BODY",
+    "parentOnclick": null
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const els = Array.from(document.querySelectorAll(\'*\')).filter(el => el.children.length === 0 && el.innerText && el.innerText.includes(\'키녹스\'));\n  return els.map(el => {\n    let p = el;\n    while (p && p.tagName !== \'A\' && !p.onclick && p !== document.body) {\n      p = p.parentElement;\n    }\n    return {\n      text: el.innerText,\n      tag: el.tagName,\n      parentTag: p ? p.tagName : null,\n      parentHref: p ? p.href : null,\n      parentOnclick: p ? (p.getAttribute(\'onclick\') || p.onclick ? String(p.onclick) : null) : null\n    };\n  });\n}');
+```

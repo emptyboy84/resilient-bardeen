@@ -1,0 +1,15 @@
+The search for ""브이알코리아" "영화상영관" OR "영화상영업"" returned the following summary:
+"(주)브이알코리아"는 과거 "영화상영업"을 사업 목적으로 등록했던 기업으로 확인됩니다[1].
+
+관련 정보는 다음과 같습니다:
+
+*   **기업 정보:** (주)브이알코리아는 부산광역시 해운대구(부산문화콘텐츠콤플렉스 등)에 소재했던 기업으로, 영화상영업을 업무로 등록한 바 있습니다[1].
+*   **참고:** 이와 별개로, 현재 영화관 업계에서는 VR 기술을 활용한 'VR 콘서트'나 'VR 영화' 특별 상영 등이 롯데시네마 등 대형 멀티플렉스를 중심으로 활발히 시도되고 있습니다[2][3][4][5]. 이는 과거의 기업 등록 정보와는 다른, 극장 산업에서의 최신 기술 도입 사례입니다[6][5].
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEff7fd27dgupWg86JCKdvlEYbntoCMKTU-pWUVgZxrMEWfKLislUL3PS1RqzN5lG7s11qKtdM9d8ytRS4hR6sWY5jEjxrBFP9USOO927klch2pXppuolVExaBcgZVwKLnuYRyA7VeZpTEZl7OS0qtv0Xxg4pKVklZMsJUZFVRPkgigbgsTSYnu6qMg2He88k2skxgyLKvTwHPxl7mLnfs=)
+[2] [lottecinema.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXS_DcrZ4cryg2TQExLM7ben3bR6R5wLxQmKgRT-GXjX9xN1i01uMcM4IY-prsKNdJr1SkDIDU55ZlRpfntmGjQntlIUTg5XN6MIqSHWyjmmO_5nbqoRzhCC3PUP4Ak_JthA-YXCQiOwo-h1ZQwNHHGxRZfFWdVxfARg==)
+[3] [topstarnews.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjZxhxZ2ppsVi5tah4EPiYfvRL-uMnYQae6aphu50Sxz52QQEVCiu4eSY-375i7qR-LPZZiMFJacH0g53eGUDMflwosCH0JmUbdLDEWZ5K-NV2V7oCcNELcKzApVbFz748-np2WX_jeyvx0gjyM0ZYzrHY8Js=)
+[4] [newspim.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8O5zLx4LMF4mXJJVHaYyHjHKy4AdKVZ2YPtDkRBdZpwAz8nN2s6gI_Rt_6r_w2mGvlNEHhBiZ5xh3cc3YW3hdq4ExaRg9MSH94lEhJz2yOdb8Lttu8uSTLP2lEnM4wiLtp_s9kw==)
+[5] [newstomato.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvvLFAc95Jjxn2Bk5BNzBdDnqFJ26R-Iu0jMJZSjHxJkq-Ho1XGG6sl1m3ux4oqleB-5kPjKOeNr-Qe_pFWQP1BvXRuTRdaR-MbU3R0emL5e7J5mth37jEfJsS5Cs4reX4oI47nPjJ)
+[6] [cine21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnoxRqrPXXJ3qXhOrj6AFnBHrrVm4hkAmfJrCG7mIu3VWzB4FY-HbKSO2ulH62PGrIafvXgCrgRkiSWQ3lHsmJXWCgxb5j-reWxCPuT1Xjv4PjGSxgueBKlFDmpOcyOw==)

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Status: 302
+Headers: {
+  location: 'https://place.map.kakao.com/1079108826',
+  date: 'Wed, 14 Oct 2026 04:28:04 GMT',
+  'content-length': '0'
+}
+Length: 0
+Snippet: 
+Phones in place page: []
+Text snippet: 
+

@@ -1,0 +1,23 @@
+Task: a97462f9-3976-4927-b799-281f20134eb3/task-1579
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\.system_generated\tasks\task-1579.log
+Log output:
+<truncated 1009 lines>
+ile, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+Last progress: 0s ago

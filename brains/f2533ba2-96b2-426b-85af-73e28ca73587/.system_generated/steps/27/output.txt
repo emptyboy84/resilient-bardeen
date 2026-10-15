@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Matches summary: [
+  '법인번호', '법인번호',
+  '법인번호', '법인번호',
+  '법인번호', '법인번호',
+  '법인번호', 'Bizno',
+  '법인번호', '법인번호',
+  '법인번호', '법인번호',
+  '법인번호', 'Bizno',
+  '법인번호', 'bizno',
+  '국세청',   '법인번호',
+  'Bizno',    'bizno'
+]
+

@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Blue targets still lacking sales: 373
+- With valid 10-digit biz number: 280
+- High priority corporate candidates for recruitment site search: 64
+Saved to scratch/recruitment_search_candidates.json
+

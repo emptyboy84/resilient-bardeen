@@ -1,0 +1,19 @@
+The search for ""5558802700" OR ("모노플로우" "110111-8382593")" returned the following summary:
+검색 결과, **주식회사 모노플로우((주)모노플로우)**에 대한 기업 정보는 다음과 같습니다[1][2].
+
+*   **사업자등록번호**: 555-88-02700[1][3]
+*   **대표자**: 이기문[1][2]
+*   **본사 주소**: 전북특별자치도 전주시 덕진구 오공로 33-6, 5층 금융혁신기업오피스 9호실[1][3]
+*   **통신판매업신고번호**: 2023-전주덕진-0858[1][4]
+*   **연락처**: 02-6956-8056[1][3]
+*   **이메일**: sales@monoflow.kr[1][3]
+*   **관련 사이트**: '모노프로(monopro)'라는 명칭으로 운영되는 웹사이트 및 스마트스토어 등에서 에듀테크 및 AI 관련 툴(MonoGPT, MonoRouter 등)을 다루고 있는 것으로 확인됩니다[3][5].
+
+질문하신 **"110111-8382593"** 번호와 관련해서는 검색 결과에서 직접적으로 일치하는 정보가 확인되지 않았습니다. 해당 번호가 법인등록번호인지, 혹은 다른 식별 번호인지 확인이 필요할 수 있습니다.
+
+Sources:
+[1] [monopro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUlFTXvdtxx-sv21y6Ibqy0xP30lJMq6UMp6ZpEVhPmta9PYfk5P061vcDEw4uQfFM9gzcUWBXgQXCrilPs53nq2W7eIVe1DVuQ99c)
+[2] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgmnWQ4H16G4oKKPOvwa8NQRM4lATT3KEjlJ0H8sJ2HiIgy9_c9UcPoEeGxxlvnipkCVCcEawLQfapCZmJFUlollvq5ce_t9ujZitxg4T-9NlLCerCH6UPP0S3r3kFxjMNNS-SOg==)
+[3] [monopro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaO4KHTa0Rxf5Rf59-RyDu55KhdkSCbVtLv0m8TdjsXI6ilZhp43Cm0tq9wJqmmd1D2WTN-P2CKhTypqO1ShDBfnoLGF2m6HjW3lWfQDOR)
+[4] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfqnynJTNPg9sxSMNTNKNQc9QkNeZDfXyT4SP-_lxboWbsS_xI4UuPWr5Dhbv8cyy5rqfnsOFK0FjUJVwsopV-3GwiUApbpUgwRZIhvdP1CF2Oj2IEypAqsIW3XviBkV-cJ-T-trLX)
+[5] [monopro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg0j1Quu_dnHAU9HOcxpCKLbn0EC_8rUPniCOJJM5uPUtjsLlcDY1DQufcvPtUtQ_KdiC0ZU_fFbQ9M5RaADWtARg05M-mFr9jFvE_1YNp4-UQ4wN8qA03UiOPK30FKi1iSeyqa4gn2MQ=)

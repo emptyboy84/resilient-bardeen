@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+RCPT RESULT: 250 2.1.5 OK LoG1XOfcRbW2vSzPo4AZGA - nsmtp
+RCPT RESULT: 221 2.0.0 Closing connection LoG1XOfcRbW2vSzPo4AZGA - nsmtp
+Socket error: write after end
+

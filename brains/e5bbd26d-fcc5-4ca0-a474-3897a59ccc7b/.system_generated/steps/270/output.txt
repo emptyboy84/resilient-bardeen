@@ -1,0 +1,17 @@
+The search for ""엠엔에이윅스" OR ("고태연" "게임")" returned the following summary:
+검색하신 내용과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **"엠엔에이윅스":** 해당 검색어로 직접 검색된 정보는 없습니다.
+*   **"고태연" "게임":** 이와 관련하여 몇 가지 다른 맥락의 정보가 확인됩니다.
+    *   **e스포츠 국가대표:** 2026 아이치·나고야 아시안게임 e스포츠 종목인 **'제5인격' 대한민국 국가대표** 명단에 '고태연' 선수가 포함되어 있습니다[1][2].
+    *   **기타 사례:**
+        *   일부 게임 커뮤니티 등에서 '고태연'이라는 이름의 사용자 전적이 검색되는 경우가 있습니다[3].
+        *   방송인 또는 스타트업 대표로서 활동하는 동명이인 '고태연'들도 있으나, 이들은 게임과 직접적인 관련성이 낮거나 다른 분야에서 언급되고 있습니다[4][5][6].
+
+Sources:
+[1] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Rg9PKh8g0bS9JKfwHsPDe-kFqO35wtbPZlm9_HgWkvzczh5L6o1Xq-a4zd2itxcH3fUKCoBmVJaQC7v4h-T4AwlivYg9CBt7vM-UTyey099G7Qs8)
+[2] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwoQydAH4c-0kxbfDjwimN6LXjUAf_MH6kqleDMIhENHSlTLN_UYHF3jdCK58SsEYd8vUhvLleFcfaUcEkI2fBilpJODHKegjMwDZniTcyfM0IKppKRGjOM1zO-v_iM_zlJ_RJLI_GwOmDywiIlUgwdj8=)
+[3] [op.gg](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZ1IUgaH1BsLLMBy3l9CYa4cmdO3EAokW31benYRPpLvJ1dvaemnIOTd55GA5KuP6m0KGxqK3jq3x9fmdppQUDW3jn3G0WI9I9eUkEds5pkcZ6LqmzAfrNU1u9J2khAQ4dayNM9CzXDCjKsTXaJzCa4dzNIFgQA==)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExMDXqYhwwnkck5s5jPfuw6mYpJAC-gY5xkpaezj9M3a_fU-Zd2VyMFmqHGWLxhG_Dbxr3lpMRZBbxvmcKBytaJFtSNQSRmRcBdWxiBNHpQNyhBrWYq0bjmsg6wVojsWip)
+[5] [tbn.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCmk_aUQWRXZzqaY4VLZRpBb8fwerHinOWYtPXXw6FA0IAEY1BMB-stZ5WfLO4m4QeBuXWl_AP4gsXKcQGTK_oQPbkf-rnLetyNkYweCEgQWUM1r5D_6ubSFSwwECIj-iQs7RrieUU8aJFKDHBbQlyZAD6oloB)
+[6] [bizinfo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ96Lojp0L6lZd9lo7huPILQG_wNriHTEL60s_Cwel7EBZGvxT-R_J3aG6Q9JgqU4gAexRB8OjxVuWT8f9h_Tzk1gggvl2VkImXF0Vv_uMG30My4qMBWcI8HvWeTV02DuP5YrEWluk9foqOnDVgR_Hvqnt09L0YO4uxEUsTl455m3NsJPNJgYadtTJ5bRZRC8iTQuc0fPpTpRoGNHe5M4DqkjRueaaeA==)

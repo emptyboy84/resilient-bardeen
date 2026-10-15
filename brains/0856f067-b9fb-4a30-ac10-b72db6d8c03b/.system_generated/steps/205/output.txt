@@ -1,0 +1,4 @@
+### Ran Playwright code
+```js
+await page.getByRole('textbox', { name: '검색어 입력' }).fill('부산 사하구 낙동대로 210');
+```

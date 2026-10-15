@@ -1,0 +1,13 @@
+The search for "site:hankyung.com "소프트퀘이사" "이월순" OR "센텀미디어" "임선혜"" returned the following summary:
+한국경제(hankyung.com) 기사 데이터베이스 검색 결과, 요청하신 키워드 조합에 정확히 일치하는 통합 기사는 확인되지 않습니다[1][2][3]. 
+
+다만 관련성 있는 개별 기업 정보는 다음과 같습니다:
+
+1. **소프트퀘이사 (이월순 대표)**: 2020년 10월 한국경제의 '신설법인' 공고 기사를 통해 부산 연제구에 설립된 정보통신 컨설팅업체(대표자 이월순)로 등록된 기록이 확인됩니다[2].
+2. **센텀미디어 / 임선혜**: '센텀미디어' 또는 유사 상호(센텀소프트 등 부산 지역 신설법인 관련 임선혜 대표 성명 등)[3], 그리고 성악가 임선혜 관련 공연 기사들은 각각 존재하나[4], 두 검색어가 한 기사 내에 동시에 언급된 한국경제 보도 내역은 찾을 수 없습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMuC2PNLAYx5NEEMXovHTbJlSQtvR00RzhMY0huPDrpCiy1HdnK2F_IaBzKMySVxBVeGalmsuQFWaCivffEP7EtjJzZ7V-9qu9Zo1oKwud_apqLjhKdNhdGum2e_CXxQZpMXUC)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxtfIH5czl3_HdB9wcNQLCYAmZlMH1f4Ri8mmSyTh7oWCrK_5lKjupko_EEWmTV3mB3AWqcvVp7-1IS6GaPqS9YX1Q9UzT5KXFyoqUAlK59eLR7OQwUYH_fOKJJGy6RfLEfnM8)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiGlXqJCJfTo9sqxMy-FNPDY6Fs5aTOe7eIPsnOdZWYXB_rPpAZyYZ0cVZZ7CJ2-1G8Tb4OiLV7QiDEAemRbs2ioVmYWU0DFkTkFRhLjhSuzgMewbDkqo28xVRgp16I2lhsIw=)
+[4] [heraldcorp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrfyCA9P7qYZsSgNgrBuyA9dWj_tw9g-osW7rvmqLFU9gt3iMfgrMPa8TavIs1nqXqkZVJACiz_4xLrqH9CAVkBNh5JZHuj315HGnoxJjNGfkXc69cZ8BsM8NGP3ry2lYndg9GP2IzDLfS76YW0A==)

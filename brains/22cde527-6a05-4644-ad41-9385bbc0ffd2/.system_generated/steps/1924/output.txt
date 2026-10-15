@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Reading base pristine file...
+Creating clean full deliverable workbook...
+Writing full Excel to C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+Full Excel written! Total revenue fields filled: 50
+CSV written!
+Creating clean 192 export workbook...
+Writing 192 export to C:/Users/lg/Desktop/오늘/사업자번호_찾은_192개.xlsx...
+[Error: EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\오늘\사업자번호_찾은_192개.xlsx'] {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\Desktop\\오늘\\사업자번호_찾은_192개.xlsx'
+}
+

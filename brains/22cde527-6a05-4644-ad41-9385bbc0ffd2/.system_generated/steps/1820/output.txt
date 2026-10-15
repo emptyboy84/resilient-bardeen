@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Company items found: 5
+
+--- Item 1 ---
+Name: (주)브이드림
+Link: /zf_user/company-info/view?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09
+
+--- Item 2 ---
+Name: 하남미사드림피에프브이(주)
+Link: /zf_user/company-info/view?csn=RG4zblJacjR6R2JCTklzaWc5ekpjdz09
+
+--- Item 3 ---
+Name: 비에이치에스피에프브이(주)
+Link: /zf_user/company-info/view?csn=ZU9EOHFyNmVqK2RvNTI2Y0FPOVovUT09
+
+--- Item 4 ---
+Name: 옥포드림파크피에프브이(주)
+Link: /zf_user/company-info/view?csn=QVlNMXh6ZHlqM3RqdmxFNnh1cnBKUT09
+

@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+ModelName:  15U50P-GR3DK
+ACPIController 0x30:  2
+ACPIController 0x409:  0
+Get_TouchPadMode:  8
+

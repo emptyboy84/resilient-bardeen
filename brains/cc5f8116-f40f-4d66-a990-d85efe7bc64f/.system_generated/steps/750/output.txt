@@ -1,0 +1,17 @@
+The search for ""메타존" "안민철" OR "SKHUBSKY" "메타존"" returned the following summary:
+검색 결과, **'메타존(MetaZone)'**이라는 기업과 **'안민철'**이라는 인물에 대한 정보는 다음과 같이 확인됩니다.
+
+*   **메타존 (기업 정보):** 서울 금천구 가산디지털단지(에이스하이엔드타워9차)에 위치한 응용 소프트웨어 개발 및 공급업체입니다[1][2][3]. 주요 사업 분야로 소프트웨어 솔루션 개발, 3D 디자인, 공공기관 콘텐츠 유지보수 등을 수행하며, 팁스(TIPS) 연계 해외 마케팅 사업 등에 참여한 이력이 있습니다[1][4][2][3].
+*   **안민철 (인물 정보):** 위 기업인 '메타존'의 **부대표**로 활동하고 있으며, 잡코리아 등의 채용 공고에서 인사 담당자로 명시되어 있습니다[1][2][3][5].
+
+**기타 사항:**
+*   질의하신 **"SKHUBSKY"**라는 키워드는 메타존 또는 안민철과 직접적으로 연관된 정보가 검색 결과에서 확인되지 않았습니다.
+*   안민철이라는 이름을 가진 다른 인물들(부동산 개발업체 '태년'의 대표 등)이 존재하지만[6], 기업 '메타존'의 부대표로서 채용 공고 등에 등장하는 인물은 동일인일 가능성이 높습니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAh3UvQa4IHGSD0JWYuP6-ad1cIYgcu8tthMap8sx5S9rWmNvchiLbv8ghqcNK2pL_qS3R84IxxpkhPFrgcCN64NCQ3AHig3UX61e9nmjK-lJRF3VUxHtBsTHWNkcvxmc5qXLQbcIaPhfkzll)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmdF_vZaLyRq814J5Aa2bKITsFnDFDvpzqgC-yc1EhIukknSqwWOYRvdPa9mhScxsxIdA223qqorCwzdUuwABEccAd8StTuyq3Aw63Dd-Wmw2J12xjcCfDoAm6XES2y7OQzHiPalKrReSldNdq)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG3xuEx40B8D39pnsbzFX8kFGSasWkhTYqLzNAveirbegm5on9_WsgqplRCTc46sg71TWxD536womGPruj8KjJMr5lpEe5xO35w_pYY9MIn4kWAZVVqQHXEk3cIZFWT-erienleCG3yA==)
+[4] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENBwhK5JDgyE4nNQb50WH0uevY6rO1eAnZmLFwdwVsBsfh4WyISeMJ4COlrBOrtlyjAeo_bqA9l_YGkDfDciVGJXBkWXtL6sa7xKtL9rIb2c8Nemy1ahso0lSvPJUHMumaqwCBIB_IjicRZFk8NPQe-qjtq2ihqg==)
+[5] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEde4AbrQx2Qyy9lfOec7LL8Upe5HTDTzvDYJST1f_CvSmZ3oUZZ2Fx4G_bJBaZYo_tHBsPv11trQK_NWfcN408jeOrQlDadnW_llzzeQnPK03B21_GiiJ7k71fa3iwE2qvlXgxgKdQiNKlKEi0GmxlmnwP0I5gDyFDTMo01Nqp_ByUKQG_WGaMLi_dwzAMzysvca8qa1bGd0hISpwclFkHDmp31Vcp88UZ9sF2j1XS)
+[6] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYb9pEA_S22pIklijOyZe_44Hm2ILDVW1wisZEEuoXGLMXB7sdlFQa4oSSODZGJzvtym91kVQfnQTPMYlOqgUTIlSBJXastswUuNB1sDdodI0fjvRoXD-uunuBdGJMtnJRrLnQPOcFUN4=)

@@ -1,0 +1,25 @@
+The search for ""이한빈" "인디랩" OR "부산문화콘텐츠콤플렉스" OR "수영강변대로 140"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **부산문화콘텐츠콤플렉스 (주소: 부산광역시 해운대구 수영강변대로 140)**
+    *   부산광역시 해운대구 수영강변대로 140에 위치한 부산문화콘텐츠콤플렉스는 부산 정보통신기술(ICT) 및 문화콘텐츠 산업 육성을 위한 거점 시설입니다[1][2][3].
+    *   이곳에는 **부산글로벌게임센터(BGC)**, **부산콘텐츠코리아랩** 등 다양한 지원 기관과 입주 공간이 마련되어 있습니다[1][4][5].
+
+*   **인디랩 (Indie Lab)**
+    *   '인디랩'은 부산글로벌게임센터 내에 위치한 1인 인디 개발자 및 소규모 게임 개발자를 위한 창업 지원 공간(입주 공간)을 의미합니다[6][1][7].
+    *   예비 창업자나 1인 개발자를 대상으로 개발 공간, 임대료 및 관리비 지원, 멘토링 프로그램 등을 제공합니다[6][7].
+
+*   **이한빈**
+    *   제시해주신 검색어 조합 내에서 '이한빈'이라는 인물과 '인디랩' 또는 '부산문화콘텐츠콤플렉스'를 직접적으로 연결하는 공식적인 정보는 확인되지 않습니다[8]. (일반적인 스타트업 정보 목록 등에서 이름이 언급되는 경우는 있으나, 해당 시설과 특정 관계가 있다는 정보는 없습니다[8].)
+
+요약하자면, **수영강변대로 140**에 위치한 **부산문화콘텐츠콤플렉스**는 다양한 ICT 및 게임 관련 기업/개발자를 지원하며, 그중 게임 분야 예비/1인 개발자를 위한 공간이 **'인디랩'**으로 운영되고 있습니다[6][1][2].
+
+Sources:
+[1] [bipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENN_Pw5a0pmBMhk2Ovm-_hs1-U2tLyT5l_wRstdGIaaVWVNNSDXm_8ZBORGrNuoQ2nXagMgf3G68A-yE690v0ZFh-g65dCLBrateNoc-pHXA0JPzed5nIy7MSetcnXkfgPaGcCWZWy)
+[2] [bizinfo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjCnI_wnRgyp_DOYv6L-mG-UnElxFCHlAi9g4ZgnvVbvxkZMi5LMAeoZcGn5JPcLOEj4LM_QmlMdAUnnEl6INQ7Hshu6CwPL258x7Lo2HvW1OLaWLMbUSDiXoKSrVU-SrQzwshndCKQrb5d-V7ugEM7PXAa3UKvZASotov2GAmmW2zWKiqfr57ZtyyICDkBPVvQedeq1Ribzh-s6Ql7D74UCzXJ3wdWguDWc_ztDdM)
+[3] [busancep.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwMUIefqbr61EQKUEk60p9pbefnpaE5VWvlfZkYLN_3Zm2x9OxqLO7eKcQibhTiRxBn7sySn4MSfNe2UlhT98ly80rRSzG7VW0eQ0UQPD-r87QG9AaXxXpEfcvj8wX8hL0UNOJntLDUtrBIWA5Nq2Sy4tEtOo=)
+[4] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaRxysJo4tI_MHTmB7W_DNdbGD5FelNJlx_mn0RdjI54CfGlr-WqDUjBMU1q43fOsLQteDr_-EMGyZLSzw3PsDdOj_rRIGJXW56gGaRbs2_Cw9FVvs4YD32W3zOSQ=)
+[5] [bizinfo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1aCWHeMTpiEo0angeV97Fg4ecY9VXs_GxZZu0OttuIe5jOup5LLmiLb8LVVwsF6VQSROvjmLVV_HIyhLmoJiF6rGkAgUG_akvOONFaAA_xvfwCHn0I3quI0JzhPr1PbbZbQhD20MZVVTLiXJBG36X9VdSixSJpFt1daOYnmWCFCzAzT6i8hJ0NVHmS4R0T3kMTS8xJJ_4VV6ukYmfu_9MWUkgT9b1LDfdn9NM7-Kc)
+[6] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQkWJHskgnzUULo4FaYpe8Yzj491Ej0SV1sHY1ca9hJ2oUBbkstXWTwnPgXiVwxJ2Y5OqaaAXjiNn0k7Go9iFyApkf_MPxMvsBS4ArhoZkYIGueb_ZF2IBIqIOJ0KbOvxItkfzP8U=)
+[7] [busanstartup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLz77SZaRWRPC6s4gguizFgTjr-w4_qwwfnFm1nE7Ph75S24s3mLeDKVrVkloisnWO9FoXYo057fR6HRQf-h3uNcc1Jxyp9zY7f8qwk01jedZNsA4fIHQXh8PCnPDWgOHjPAF5zr1b4X1HmziTXOS3Dh53-UHOJ7WgXLzyAWzhpiImDWVHlOIEoh17hqCJ8lb5Ix6jow==)
+[8] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjxnJ2ieEjOaMFpvqInMk4DXUaonnEP1_TwPOUmbT6L3TuoI1rEPzEvQiC6GEe0siSAx6-S1e8eLdqL3XbM69wVfzzMoGsemhp0-vh4b88ZKxcDI4W1itriueZDcKJ1Jr7e7kcNimRmrfpZOCbHZ1WoT5ek4i4MzY=)

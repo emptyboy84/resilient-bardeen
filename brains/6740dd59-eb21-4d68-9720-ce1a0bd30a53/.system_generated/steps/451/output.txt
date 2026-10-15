@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Blue Col 4 with BizNo value: 82
+Blue Col 4 without BizNo value: 336
+

@@ -1,0 +1,163 @@
+### Result
+{
+  "inputs": [
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    },
+    {
+      "placeholder": "",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "className": "Checkbox-module__Ee6aLG__input"
+    }
+  ],
+  "bodyText": "기업 탐색\n\n요금제\n\nMCP\n\nNew\n\n도구\n\n로그인\n무료 체험하기\n기업탐색\n저장한 기업\n내 리스트\n기업명, 업종, 조건 검색...\n⌘\nK\n업종\n제품/서비스\n지역\n매출\n영업이익\n기업 유형\n고급 필터\n1,000,000+개 검색 결과\n컴팩트\n기본\n정렬\n열 설정\nExcel 내보내기\n\t기업명\t업종\t지역\t조회수\t생산품\t매출액 · YoY\t영업이익 · YoY\t순이익\t직원수\t설립\t사업자등록번호\t기업 유형\t대표자\t벤처기업 인증\t사업자 상태\n\n\t\n삼\n\n삼성전자\n\n코스피\n노태문 외 1명 · 제조업\n\t\n이동 전화기 제조업\n\t경기 수원시\t6k\tBespoke AI 제트, Bespoke AI 콤보, Galaxy S25 Edge, Infinite AI 공기청정기, Micro RGB, Neo QLED 8K, OLED, The Freestyle, The Premiere, TV, 모니터, 냉장고, 세탁기, 에어컨, HHP, 네트워크시스템, 컴퓨터 등, 갤럭시 Z 폴드8 울트라, 갤럭시 링, 갤럭시 북5 프로, 갤럭시 워치 울트라\t\n열람\n\t\n열람\n\t\n열람\n\t\n12.6만명\n▲ +0.5%\n\t1969\t\n124-81-00998\n\t코스피\t\n노태문 외 1명\n\t미인증\t정상\n\n\t\n국\n\n국민건강보험공단\n\n일반법인\n강청희\n\t-\t강원 원주시\t54\t4대보험 완납증명서, IT 기술제안, JOB ALIO, UHC 개발협력사업, 개인 상담, 건강검진 로드맵, 건강기록(Life-log), 건강목표, 건강목표 실천 현황, 건강보험, 건강보험 납부확인서, 건강보험 연말정산내역 조회, 건강보험 이의신청, 건강생활실천지원금제, 건강실천보고서, 건강예측, 건강전자도서, 건강정보 관련 링크, 건강정보 수신, 건강증진센터 영양상담, 건강증진센터 운동결과, 건강증진센터 이용안내, 건강증진센터 자료실, 건강증진센터 측정결과, 건강증진센터 현황, 건강지원사업, 검진청구 공지사항, 결정사례, 경증질환 대형병원 의료이용현황, 고혈압질환관리, 국민제안 참여, 국제연수과정, 글로벌협력사업 갤러리, 담배소송, 당뇨병질환관리, 대사증후군 건강관리, 대"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return {\n    inputs: inputs.map(i => ({ placeholder: i.placeholder, type: i.type, name: i.name, id: i.id, className: i.className })),\n    bodyText: document.body.innerText.substring(0, 1000)\n  };\n}');
+```
+### Page
+- Page URL: https://cookiedeal.io/company-search
+- Page Title: 기업탐색 | 쿠키딜
+- Console: 3 errors, 0 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-03-31-322Z.log#L1-L13

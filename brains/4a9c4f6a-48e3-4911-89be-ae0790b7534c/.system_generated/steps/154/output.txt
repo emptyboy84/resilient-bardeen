@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+<truncated 2 lines>
+user_pasted_rows.tsv:뷰로베리타스(영업소)	6178400128	CAPITANT CHRISTOPHE FRANCOIS	47351	부산광역시 부산진구 중앙대로 639 24층(범천동)	051-640-2788	051-640-2795	https://www.bureauveritas.co.kr/		119	기타 기술 시험, 검사 및 분석업	110181-0004122	12월	전문, 과학 및 기술 서비스업	건축 기술, 엔지니어링 및 기타 과학기술 서비스업	기타 과학기술 서비스업
+

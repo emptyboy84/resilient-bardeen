@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Repo file hash:   b33be69358d3e39b0f712f685b984e87937ea2524a92fa5dc6ea7f1952d2f8c8
+최종본_수정완료 hash: b33be69358d3e39b0f712f685b984e87937ea2524a92fa5dc6ea7f1952d2f8c8
+Is identical?     true
+

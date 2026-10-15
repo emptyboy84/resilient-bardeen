@@ -1,0 +1,18 @@
+The search for ""오픈와이즈" "낙동대로"" returned the following summary:
+검색하신 **"(주)오픈와이즈"**는 부산광역시에 소재한 기업으로, 주요 정보는 다음과 같습니다[1][2].
+
+*   **기업명:** (주)오픈와이즈[1]
+*   **주소:** 부산광역시 사하구 낙동대로 542, 3층 301호 208실 (하단동, 대우에덴프라자)[1][2]
+*   **사업내용:** 공공관계 서비스업[1][2]
+*   **설립일:** 2022년 4월[1][2]
+
+해당 기업은 공공관계 서비스업을 영위하는 중소기업으로 확인됩니다[1][2]. 
+
+참고로, 과거에 필기인식 기술 등으로 알려졌던 '오픈와이즈'라는 동명의 기업이 존재했으나[3], 현재 검색된 기업은 2022년에 설립된 부산 소재의 업체입니다[1]. 또한, 낙동대로 인근에는 동아대학교 창업관 등 다양한 기업 및 시설이 위치해 있어 검색 시 혼동이 있을 수 있으니 참고하시기 바랍니다[4][5].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_Jluow5Xm5zwnRzWWKpGG0LwfgU7cmvUwZx_mNH7ZkrBe3SHDpsFstwaK0-fbtdGWFF_CigVEBW1sGPV0VI5mDDreNwVl4BJTUbRbfNEYN4Rm9kCsO7sLXBeykLdzegla1xTquJDLqLkziZsGPv1s1K4bIbxbABS1QHflvo2Jjte9KE80wXGZDiIx8UFiptZ00SU0i7GcB1HVtCGCy_l_XHLUW45m4MMG4o6dPcSSvg3qj09O2zBpyNQENzd8ljt-FkpfQfA4wEXzXv75LpMsNyMXZZFiIQ=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_Jluow5Xm5zwnRzWWKpGG0LwfgU7cmvUwZx_mNH7ZkrBe3SHDpsFstwaK0-fbtdGWFF_CigVEBW1sGPV0VI5mDDreNwVl4BJTUbRbfNEYN4Rm9kCsO7sLXBeykLdzegla1xTquJDLqLkziZsGPv1s1K4bIbxbABS1QHflvo2Jjte9KE80wXGZDiIx8UFiptZ00SU0i7GcB1HVtCGCy_l_XHLUW45m4MMG4o6dPcSSvg3qj09O2zBpyNQENzd8ljt-FkpfQfA4wEXzXv75LpMsNyMXZZFiIQ=)
+[3] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqV1DHPQ7BBc8o5i-Gcry8mCZGrz7VHCfuFabugaqByk28rWwHYuMI4yPJpd0eaXBWUyNOKZair2GBECk_J5KhokzgmCIj7AORgiF0H4MCfEDbhpHgmJr_Ag==)
+[4] [bizinfo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI7mPNrwLSVkk1VRG8fz4E05qlHxx62U8N2DH__yWrF1ZgSMsUf8VHlgThsbeogur1gK1dit-G8dHs523-OAjAIPGTNcG7e59e4p7mkgDkA_uZKenWh_8rnMA91vyZ6PtvSA8nN72abPNoZdQotyElVVGR4vjZ2kL1AOtxzZ81-jDC_Wioz6nYXASnYQ==)
+[5] [kro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD6FXN6cgAj0o5DwP10vms5wZQn8LrINYld_-8gMW5YD8yeiyM1RdpgxTThpukBhB3D2pv9bK_Vt3mRITycKCvvi2qUO0Ayk0H0rzTXiFVZ90rC59S-v9xzE1xk7PXLNuK-JIzN0S9f0ZootdzG9P4o5G6zcFzcMevS4tBMdx_rgqDSNfn0s70tTi58kRMWj6kumNA7C0tChKde3F5EW-1wvqT1SQoxwQb4sG3g_eHB6uRiTDViOIJnKzsUQk4woQGPYuIxFYBd3OojD1H8kQJ0Q==)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5603100184');
+```
+### Page
+- Page URL: https://bizno.net/article/5603100184
+- Page Title: 신화에프에이
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-13-33-896Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-13-29-534Z.log#L1-L5

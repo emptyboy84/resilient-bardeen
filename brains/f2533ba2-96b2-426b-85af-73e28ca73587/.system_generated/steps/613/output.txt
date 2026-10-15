@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.sankun.com/');
+```
+### Page
+- Page URL: https://www.sankun.com/
+- Page Title: 산업의역군 ::: 건설 빅데이터 플랫폼 ::: 산군
+- Console: 2 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-54-40-737Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-54-36-895Z.log#L1-L748

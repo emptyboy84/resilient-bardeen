@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=site:tpcp.kr+%22%EA%B0%95%EB%B3%91%EA%B8%B0%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=site:tpcp.kr+%22%EA%B0%95%EB%B3%91%EA%B8%B0%22
+- Page Title: site:tpcp.kr "강병기" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-29-28-733Z.yml)

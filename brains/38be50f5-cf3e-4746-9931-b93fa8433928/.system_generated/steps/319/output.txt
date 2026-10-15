@@ -1,0 +1,11 @@
+The search for ""큐싱 사냥꾼이 떴다" OR ("샐리북" "브레인피트니스")" returned the following summary:
+제시하신 검색어와 관련된 정보는 다음과 같습니다.
+
+*   **"큐싱 사냥꾼이 떴다"**: 임은선, 진성국, 최경호 저자가 집필하고 '샐리북'에서 출간한 전자책입니다[1][2]. QR코드를 이용한 피싱 공격인 '큐싱(Qshing)'의 개념과 이를 예방하는 방법 등을 다루고 있습니다[1][2].
+*   **"샐리북" "브레인피트니스"**: '샐리북'은 임은선 저자의 저서들을 출간한 출판사(또는 브랜드)로 보입니다[3][4]. '브레인피트니스' 역시 임은선 저자가 집필하여 샐리북을 통해 출간한 전자책 제목입니다[3][4].
+
+Sources:
+[1] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4BGJ_CLyR10A_u5ES62HuqJ2m22OU1wzi0w4SNKkK45pd9Zz2-fvr-YxZ0EnVax9nZc3wkEGjgwnEdEXgwoM_7c1UlO50vXKAWbvqTFKqiTKTM0cbnklI5bmYBkzyYRoUsLhkORCDLVUrqzGSxDoJQZO23MY=)
+[2] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED8vm2MJvB166EiOA5F0Uwy8xijzt8ADG8GZkkg_VWdh6HhDTE689RaCyVAR5f5gNF9hUqElyhZwovKxfdj6ERcL_MKPkOXlFuNrdEvCypse0kZVxhGWAI-eyTVENPYRYrNS4=)
+[3] [mebook.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUabS56jWxOvhtMVu3_rxVQcihD0X_YODCfhdZ7ti2b3jc21HaCwgNYJcZpp3w42Oet3tarwvp1APhBP8wo1TvChjxmArxQtzk7yCNhVKcMdqPoFtsr4LiWL-FLZ37yGCCQmex02HWDw==)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZVYPsGSlG4_uyLsO8o80gD9AHyG5Tl7hwzyOZQ7LUY1uSepSRockMmyTpkPmMlls5CawVpDgMectvMFo7XbJj1zN84R2bwXvSmPsd3iWYADu-RIlyHwEqpZs5UxFjaVLGdG7FY-d7KogK70KC8qyV4AWSTkaGjDDB-TVEakQs8_5VXP3xX_ZTsxUY_T5iOQ==)

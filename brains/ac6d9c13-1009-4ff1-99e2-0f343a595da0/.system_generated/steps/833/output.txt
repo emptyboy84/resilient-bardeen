@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Copied to targetDir: 사업자번호_완성_77건_배현명.tsv
+File not found in workspace: 사업자번호_완성_77건_배현명.txt
+Copied to targetDir: 신설법인_77건_전수조회_상세보고서_배현명.txt
+Copied to targetDir: 신설법인_77건_전수조회_상세보고서_배현명.md
+
+--- Final check of files in strategy team folder ---
+- ~$연구소_전문, 과학 및 기술 서비스업+배현명_314번~384번.xlsx (165 bytes)
+- 사업자번호_완성_77건_배현명.tsv (16098 bytes)
+- 신설법인_77건_전수조회_상세보고서_배현명.md (124937 bytes)
+- 신설법인_77건_전수조회_상세보고서_배현명.txt (127225 bytes)
+

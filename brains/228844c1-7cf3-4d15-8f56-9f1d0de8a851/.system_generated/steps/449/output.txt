@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.daum.net/search?q="블루레코딩"');
+```
+### Page
+- Page URL: https://search.daum.net/search?w=tot&q=%22%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9%22
+- Page Title: "블루레코딩" – Daum 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-46-49-402Z.yml)

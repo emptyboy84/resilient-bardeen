@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:4 �:70
++ ... desc = text.match(/meta\s+name=\"description\"\s+content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:5 �:28
++   console.log('�۴� desc:', desc);
++                            ~
+',' �ڿ� � �ϴ�.
+�ġ �:5 �:29
++   console.log('�۴� desc:', desc);
++                             ~~~~
+� �Ǵ� � �ġ � 'desc' �ū�Դϴ�.
+�ġ �:5 �:28
++   console.log('�۴� desc:', desc);
++                            ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:5 �:33
++   console.log('�۴� desc:', desc);
++                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:6 �:41
++   const rows = [...text.matchAll(/<th>([\s\S]*?)<\/th>\s*<td>([\s\S]* ...
++                                         ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:6 �:49
++   const rows = [...text.matchAll(/<th>([\s\S]*?)<\/th>\s*<td>([\s\S]* ...
++                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:6 �:64
++ ... const rows = [...text.matchAll(/<th>([\s\S]*?)<\/th>\s*<td>([\s\S]*?) ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:6 �:72
++ ... s = [...text.matchAll(/<th>([\s\S]*?)<\/th>\s*<td>([\s\S]*?)<\/td>/g) ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:6 �:116
++ ... s*<td>([\s\S]*?)<\/td>/g)].map(x => [x[1].replace(/<[^>]+>/g,'').trim ...
++                                                                 ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

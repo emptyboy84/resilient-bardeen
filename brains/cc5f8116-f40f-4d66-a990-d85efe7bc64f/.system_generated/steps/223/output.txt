@@ -1,0 +1,13 @@
+The search for ""051-206-0777" OR ("동그라미광고공사" 부산) OR ("동그라미광고" "정지후")" returned the following summary:
+검색하신 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **동그라미간판 (구 동그라미광고공사):** 부산광역시 사하구 하단동 지역에서 운영 중인 간판 제작 업체로 확인됩니다[1][2].
+*   **연락처:** 051-206-0777[3][1][4]
+*   **관련 정보:** 과거 '동그라미광고공사'라는 명칭으로 확인되며[4][2], 현재는 '동그라미간판'으로 알려져 있습니다[3][1]. 
+*   **기타:** 문의하신 "정지후"라는 인물과 해당 업체의 직접적인 연관성은 검색 결과에서 확인되지 않았습니다[3][4]. (참고: 과거 자료에는 '정종호'라는 이름이 언급된 기록이 있습니다[4].)
+
+Sources:
+[1] [linktoplace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9vBF6DuQQqTkyXMlSqezgRa1OAaKcO9D64tdYOP84UNJvbcQgjj2kb0Z_BLodEmaxjY22Bf1_OW1kuan8E5IaZHWPgUEDLM2NijxbXjg50nLc8ArOyhk_vwbPjdI=)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETFCLWaU5m134KV2rdvV5_I97j8v54ywY6rTjdDa4M-eRgORN64G0qNluI3yiwkpXnw_KQUpdE4CeyT9lj4CyCxiK-9vDR4g7O44WfPwmueWM5-t2X1Q3U8xcTtU_KXLN404UsM0khibRHqehYsKFwLqNkHuw434lkAfr39O-mwL1lkIuv2tJ1Xf1k2BuuI8msao4pBTUQuafjrIM9Ka-CW3sJvgaIg08ZH_2emk6ve9JJlB1uX-i8YNS8LlxDsmIjx_Sf)
+[3] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYE6qaPmfU0xhc3w_Jk8ZgL3zrnFVecxGfZfHuHdaSYBitgsIlGS7wDWTXJjHsaLuXgIjwqbpUXsbMkyVQKVUXqLzwRv-Ef14V8i3BdGIVMw==)
+[4] [hadanch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRWUW169ErthpQYiOInd5mlr1MhzrPbUypaospN5Pjn2S9G6ItSc43-wTdDGP0H7TU5b5RBmldlSIm6GgVv5LglIvyKcuLqFs5-IG-p2b8JBZ_zfOXO94Y0Bk=)

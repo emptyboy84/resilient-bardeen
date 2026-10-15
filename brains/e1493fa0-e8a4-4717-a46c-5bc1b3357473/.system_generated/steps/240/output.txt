@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Successfully saved to: C:\Users\lg\Desktop\오늘\배현명_실사DB_200개기업_17컬럼_검증완료_최신.csv
+

@@ -1,0 +1,16 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 859 lines>
+표: "김동칠" [계속사업자]
+[410/421] Row 2254 | "건흥페이먼츠" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 575-40-00965 (건흥페이먼츠) | 주소: "부산광역시 해운대구 센텀중앙로 97 (재송동) 스카이비즈 A동 2907호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "이득명" [휴업자]
+  >>> Progress Saved: 410/421 | Matched: 142 | Unverifiable: 268 <<<
+[411/421] Row 2255 | "크리에이티브올라" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 612-87-03489 (주식회사 크리에이티브올라) | 주소: "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 6-2호 (재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "홍정현" [계속사업자]
+[412/421] Row 2256 | "저스티스어드벤처" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[413/421] Row 2257 | "아크리아스튜디오" | 대표: "" | 구: "해운대구"
+
+Last progress: 4s ago

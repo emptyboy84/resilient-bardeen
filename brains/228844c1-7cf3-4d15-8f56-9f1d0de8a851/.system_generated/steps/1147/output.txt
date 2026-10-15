@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Loaded 345 rows to write.
+Successfully saved to C:\Users\lg\Desktop\�\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�.xlsx!
+  - Updated �ڹ�ȣ: 249 rows
+  - Updated �/Ȯ�κҰ�: 342 rows
+

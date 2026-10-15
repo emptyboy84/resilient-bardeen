@@ -1,0 +1,12 @@
+### Result
+Waited for 30 seconds (requested 3000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=070-4172-9541
+- Page Title: 07041729541
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-22-57-130Z.yml)

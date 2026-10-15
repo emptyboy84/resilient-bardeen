@@ -1,0 +1,16 @@
+The search for ""고베규카츠" (사업자등록번호 OR 대표자 OR "장현수")" returned the following summary:
+요청하신 외식 프랜차이즈 브랜드 **'고베규카츠'**와 관련하여, 검색하신 키워드(**사업자등록번호, 대표자, 장현수**)에 부합하는 공식적이고 통합된 단일 본사 정보는 공개된 데이터베이스상에서 명확히 확인되지 않습니다. 
+
+다만 고베규카츠는 각 지점별로 개별 사업자가 운영하는 형태가 많으며, 지점별 사업자 정보의 예시는 다음과 같습니다:
+
+* **고베규카츠 건대점:** 대표자 **추주완**[1]
+* **고베규카츠 광안점:** 대표자 **한진보**[2]
+* **일부 가맹 법인 및 지점:** 과거 운영사로 주식회사 더블유에스컴퍼니 등이 연관된 바 있으나[3][4], 브랜드 전체를 아우르는 단일 대표자나 '장현수'라는 인물이 본사 대표나 공식 사업자로 등록되어 있는 공신력 있는 기록은 확인되지 않습니다. 
+
+특정 지점(예: 강남점, 부평점, 서면점 등)의 정확한 사업자등록번호나 대표자 성명이 필요하신 경우, 해당 지점의 영수증이나 공정거래위원회 가맹사업정보공개서, 혹은 국세청 사업자등록 상태조회를 통해 개별 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLC_JaP7nn1devqSjGHZ7HZvIw72mHMRMpZY-NaZcYF08Rkj7z8CLoHdm7CS5Ra9v4Zrb3_CcbDukXuNvMwW0afjX-B_XjxeKU0ImQQ3Vf33S2r3BllZrXr53ZbKOiwfH1zXq2mA3YcKsxet-s54oqLim3)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErGcwcArWSwiTwBXwoWRWyVNdjWczVwOkp92uNno-dKh50fGbaM95gFcNKrMmg-3lDkWMJBeVPiir8VM_NGaCGLlRfy1EoTziyR1n-ZjJGE06EwJS2rrTvwnwAjEPSB2Kqq3OcglVL99RhiEf-zAzh6cPE5xhAD-vbT2ukn6Yf6cvUXaRFHoz-8szFJqMuDx8KgK84IggQQrbLVmMD7IWtSVdnwX25F0F385MBzvvqxkRGAXy0HEoydCMm1SDka1Qvab244UE5tIHs24ROhDx24xFKrP6sLfFEfiF9cdX0DUDxO2k9Xr0UhwwP9Ik=)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO8iyboBEhnpXLGuE99g2ur3bm1KwsdNu2uBoeXFHrGHWVNiMehDXfjQ9ubOjCQhBGY-snmhsfLN-I3bnAoAIhTKaT_bm8xJ5QLgDFh8OXEcykDhQeVMPozNtiOlbV0pGAiMZKGYDYPSoScNGXsxxRktUijEv696sQLP_uLQymirm-yGytbkFkGxTkitW_jzIWJJ-86sc4YQ==)
+[4] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjtorMpSRv1Wd0gjpweCHMdnqsDQy8Y8O3Wn9fXEe3c8RHB3p5cTnKauGe38P98cJxgBxuA36zZv6Bh6H7bATC01b-zqBlL4N_z87bX1K2X0fb9xkgsgc04HosuLuSmKD7)

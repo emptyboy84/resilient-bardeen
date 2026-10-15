@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+MX Host: mx3.hanmail.net
+S: 220 dmail-rmail-ayvm91 ESMTP welcome to HanMail.Net(tm) ready
+S: 250 dmail-rmail-ayvm91 Hello [106.101.137.85], pleased to meet you
+S: 250 2.1.0 <test@check.com>... Sender ok
+S: 250 2.1.5 <5534386@hanmail.net>... Recipient ok
+FINAL RCPT RESULT: 250 2.1.5 <5534386@hanmail.net>... Recipient ok
+S: 221 2.0.0 dmail-rmail-ayvm91 closing connection
+FINAL RCPT RESULT: 221 2.0.0 dmail-rmail-ayvm91 closing connection
+Socket error: write after end
+

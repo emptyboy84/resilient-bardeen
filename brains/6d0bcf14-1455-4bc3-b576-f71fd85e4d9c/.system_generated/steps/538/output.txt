@@ -1,0 +1,10 @@
+The search for ""883-86-02810" OR ("루비엔터테인먼트" "박순호")" returned the following summary:
+검색 결과, **(주)루비엔터테인먼트** 기업의 사업자등록번호와 대표자 정보에 대한 내용입니다[1].
+
+* **기업명:** (주)루비엔터테인먼트[1]
+* **사업자등록번호:** 883-86-02810[1]
+* **대표자:** 박순호[1]
+* **본사 주소:** 부산광역시 동구 정공단로 47, 2층 (범일동)[1]
+
+Sources:
+[1] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE274L--EbbxMPX1Q1VdltkwmJ4yiNj1rHf9H9WQ3cGRr8gy5QKkf_An2Ahw2F4SvHaVue9XBdhUmSwQx6dp0czkWrddXRkdvEZhZftQz0PFUv6Eh9ImYuQG5Dc6gephNgT-elj)

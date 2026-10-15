@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Phones on bizno: [ '051-740-9200' ]
+

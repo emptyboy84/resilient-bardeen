@@ -1,0 +1,66 @@
+
+The command exited with code 0.
+Output:
+--- Checking Bizno ---
+Bizno phone td: 
+Bizno all phones: [ '051-620-9200' ]
+
+--- Checking Saramin ---
+Saramin phones: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+Saramin tel match: NONE
+
+--- Checking SSG Seller ---
+Seller ID match: NONE
+Popup URLs: [
+  'https://m.ssg.com/sellerhome/214249.ssg',
+  'https://m.ssg.com/sellerhome/214249.ssg',
+  'https://www.ssg.com/sellerhome/214249/main.ssg',
+  'https://www.ssg.com/sellerhome/214249/new.ssg',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000188763',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000200159',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193710',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193714',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193713',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193716',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204818',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204821',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204823',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174583',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174584',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174587',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161217',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161219',
+  'https://m.ssg.com/sellerhome/214249.ssg',
+  'https://m.ssg.com/sellerhome/214249.ssg',
+  'https://www.ssg.com/sellerhome/214249/main.ssg',
+  'https://www.ssg.com/sellerhome/214249/new.ssg',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000188763',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000200159',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193710',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193714',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193713',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193716',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204818',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204821',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204823',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174583',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174584',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174587',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161217',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161219',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000188763',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000200159',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193710',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193714',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193713',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000193716',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204818',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204821',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000204823',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174583',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174584',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000174587',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161217',
+  'https://www.ssg.com/sellerhome/214249/category?dispCtgId=6000161219'
+]
+

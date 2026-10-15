@@ -1,0 +1,37 @@
+The search for ""iros.go.kr" "법인" "상호" "검색" URL OR 파라미터" returned the following summary:
+대법원 인터넷등기소(iros.go.kr)에서 법인 상호를 검색하는 방법은 다음과 같습니다.
+
+### 1. 상호 검색 방법
+인터넷등기소는 공공 서비스로서 직접적인 URL 파라미터를 통한 검색 결과 페이지 공유 기능보다는 **웹사이트 내 메뉴를 통한 단계별 접근**을 권장하고 있습니다[1][2].
+
+*   **접속 경로:** [대법원 인터넷등기소](https://www.iros.go.kr) 접속[3][1]
+*   **검색 절차:**
+    1.  메인 화면에서 **[법인등기]** 또는 **[열람하기]** 메뉴를 선택합니다[4][5][6].
+    2.  검색 옵션에서 **[상호로 찾기]**를 선택합니다[5].
+    3.  **관할등기소**를 선택합니다 (전체 등기소 검색도 가능)[4][2].
+    4.  **상호명**을 입력한 후 검색 버튼을 누릅니다[4][1].
+    *   *주의:* 법인 종류(주식회사 등)를 제외한 **순수 상호명만 입력**하여 검색하는 것이 정확합니다[1][7].
+
+### 2. URL 및 파라미터 관련 정보
+*   **직접적인 파라미터 활용:** 인터넷등기소의 검색 기능은 보안 및 세션 관리상의 이유로 특정 검색어를 포함한 URL(예: `?name=...`)을 통해 결과를 직접 호출하는 방식을 공식적으로 지원하지 않습니다. 대부분의 조회 작업은 웹 페이지 내의 동적 폼(Form) 전송을 통해 이루어집니다[8][9].
+*   **자동화 및 연동:**
+    *   대량 검색이나 시스템 연동이 필요한 경우, 인터넷등기소에서 제공하는 **Open API**를 활용해야 합니다[10].
+    *   개인이 자동화 도구를 제작할 경우, 파라미터 조작보다는 `Playwright`, `Selenium`과 같은 브라우저 자동화 도구를 사용하여 웹 UI를 직접 제어하는 방식을 주로 사용합니다[9].
+
+### 3. 참고 사항
+*   **동일 상호 확인:** 본점 소재지를 기준으로 관할 등기소 내에 동일한 상호가 있으면 등기가 불가능하므로, 설립 예정 지역의 관할 등기소를 정확히 선택하여 검색하시기 바랍니다[4][11][6].
+*   **데이터 활용:** 상호 조회 기능을 포함한 법인 관련 데이터 연동이 필요한 개발자라면 [대한민국 법원 등기정보광장](https://data.iros.go.kr)에서 제공하는 Open API 신청 가이드를 확인하시는 것이 좋습니다[12][10].
+
+Sources:
+[1] [help-me.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmT2P1645t0aeLO--WNIcPj3qncUc5xqUNag7CCU8LLO3rSWgL1X_gau3gOcOaEMVxVS9ljZnMjnhByopkGDT9I3O0oEv_so_0eMbspRz4EWykfTTyH8jqnmVUTnxtqVS5VFcuxZaBie9NCtFg6H0Sbh8YhNqt__edcR8wEpQ=)
+[2] [sspatent.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfrbEruzbzMaz_L579Qj0NRZyANqjUmeN7AFmTGqc3usv2oqBdoonBP7gWBkgXvcUcTXbbh0r5Gosq5qqJojEWFNzSboaxPeLKhpafrQwm3Y0vxIzXudYvvRTERBoOLCj06b6Z2AFKnJk=)
+[3] [help-me.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbuovmcFmvEalnY_L38nQIb8Pu5uA6rfKaslYnhSQw_SL-DpZRdSfKKKs4jHoF7zE4nYMg-q05gcTHcp1YMv_2t1bWnyM4Jhmq2cAkLt3jGoi3BVwX1EbKX3oryoSE8E29g2NuF2r8WQyN3Jbn0hdL1xL7aiI8jHHbGtH38wWqaoNXp2dG6Mb1FhcCoQ9A_6I4tg-GSDUzUJ0x08S2URb0RcBbj1UnI3AJ4Ffe47IiJSEYq0v-Oy8Xz8jyTdZkAfI-2JNCg5LkZNBM30jpQAgWSxXB_gHlGYMV4b4xkw==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQUSP8WvjEEaNJjTw2gzkndj8DhNaUeC_RyNxgGzkqwKJCLjNhVKPcwKOa7lkACYBuFcvlAB4Y9Kiti3R_cMPP262ZZKBK_X5Bl9HkiHuJ_04gjYaY7JNnOxdoSFGe3397Ww==)
+[5] [userinsight.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHigov6nEyVIaR4Zaq_0XUTHYi4f4rnevG4fOqfvQ2w4jTKHh6o7pqW-gUmCT8A38SRL92JMWKX8XWfppDsN6Z12fEQGB8gODgAB2nD3TellJeInC6Xw84=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzKH5zkIO2iUjnqcu0CscquWKW1Uoj5VpHhZbFhfOw2Sl0Dx3Kybxu0VdsA9s3ha9chtRgV7l5avOhOTsCtnukijnGjCVVOWiHIwd0mlCe7n1YQXmEBgXQg==)
+[7] [kbthink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-siXPhauTxhsCB_GzuZ5_LA9ZI_vXUZlnuH8HxxWDP2MtGJkpDjyL0xed9ugTL44QGUMW3F99WcaXmYcB0b65kTej39IBDBbxZN8gcnerXvjHkaK0oARDvB5nL6IhcwxIhF5w1IsJyOW6j9T9X5aS)
+[8] [star-law.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfOy3gtk0cBYZ6CiRZjWy9TtI2ecBPBVFQhVGXU1-n7iXtQkYbTVcr990tiNrxd0HhVD1raWtkcTrBedJMeYc9HdSdmWZtUB31KLSKogTscwo6gvjNDermOrwl9Pzgwr63G9iEyBjmVucLTDSQ-LnN7w==)
+[9] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdy1D-lig7DQbjeDEC4wXh0Yq7R85UGNSzY9GqAuUbrDl6UYGCYUjUbv2u8vBIgGPJ2CBI9j5h8lDlytHVEId0y15maSIwMDLoFxL6DmKt48eTzcWKfLJ7f2zIOgUJTvhOacTWok_abdgn3BkaEw==)
+[10] [iros.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgca50UApVGxF0-kfk8ibZt02O8sGSJsV3t9dPdzMZb9odU1vcoXitjTiH7_Kc3H4NmNWMWVClSqzO5Zf4b6iuaSqPcR-oPd8RfiX2KBgTIwa94PPbsCAlpaBZHkm7aCZ8HK8=)
+[11] [help-me.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ktfcAjnyYZxk3QgPFx4AcNphxNQXO1Pb33xm4-PMwnqRpTX1e6LfaQ535De4ILygEzpCA4Ips3lOUGNKJT3WyxRGqdV9F4I008fyfQ2XCJSAD4Adbjm3TKjMRnTzgsjc8BTAZst3wj2lCebbwehwkb9KyRqKBriglvTp20kSWiAAt33uCYXHKSFskNiGTnOgh4LDkhqM-Cqzbjq8TT94xDyahMaEIsEkFPAxsrmBfxk5E6ND-na2My5F_Yx5uubqlCj49ncYomP4nUxYQeoTOedOwKpCAdDswHNAIdXBDLvo5z2sFA==)
+[12] [iros.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl4TPk2wqJEPumYOGJX_smr4ZuGWJXR-i5AxZmGI8hx66ddItmw0Jzf7g1xeDgKenreDfQwXd4O7rmQONp2HahZzBMpq9hLdNGt66ItZE=)

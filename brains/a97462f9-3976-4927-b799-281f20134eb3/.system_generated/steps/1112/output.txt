@@ -1,0 +1,17 @@
+The search for ""오렌지랩스" "815-88-02655" OR "김범진" "매출액" OR "기업정보" site:saramin.co.kr OR site:jobkorea.co.kr OR site:catch.co.kr OR site:nicebizinfo.com" returned the following summary:
+요청하신 '오렌지랩스'에 대한 기업 정보는 다음과 같습니다.
+
+### **오렌지랩스(주) 기업 정보**
+*   **대표자명:** 김범진[1][2]
+*   **업종:** 컴퓨터 시스템 통합 자문 및 구축 서비스업[1][2]
+*   **설립일:** 2023년 11월 (업력 4년차)[1][2]
+*   **매출액:** 500만 원[1][2]
+*   **사원수:** 8명 (국민연금 기준)[1][2]
+*   **주소:** 부산 해운대구 센텀중앙로 97, A동 2801호 (재송동, 센텀스카이비즈)[1][2]
+
+본 정보는 사람인 등 기업 정보 플랫폼에서 제공하는 데이터를 바탕으로 하며, 실제 정보와는 다소 차이가 있을 수 있습니다[3]. 문의하신 사업자등록번호 '815-88-02655'에 대한 직접적인 검색 결과는 확인되지 않았습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-9WpalDTvH8jNMcQ2rJazbAqv-AsJpmNjVlIRfutnmbyeRU17cHQ0RPqI1wL3QV4uKzWHjmiMPIHIDLAgPvPcKdlVmphcWvVNj6NFz78B2Mz5AT3stg-N7s9gTcDQHvfV1bw0F43KG2_fJ4dLwJgIWmoe27uahvRa0M-2GDiPhwq6_eVz7Ei7I2byKvyxB-zH6xFg5tFU5jzfmUUV9e2Dn3sIxT43Ox8tC60Y_weatglexqsh_GA2OHTpuHV4N-GmhZnrkADI3pgrSvoTCqBrV1U)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-9WpalDTvH8jNMcQ2rJazbAqv-AsJpmNjVlIRfutnmbyeRU17cHQ0RPqI1wL3QV4uKzWHjmiMPIHIDLAgPvPcKdlVmphcWvVNj6NFz78B2Mz5AT3stg-N7s9gTcDQHvfV1bw0F43KG2_fJ4dLwJgIWmoe27uahvRa0M-2GDiPhwq6_eVz7Ei7I2byKvyxB-zH6xFg5tFU5jzfmUUV9e2Dn3sIxT43Ox8tC60Y_weatglexqsh_GA2OHTpuHV4N-GmhZnrkADI3pgrSvoTCqBrV1U)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-9WpalDTvH8jNMcQ2rJazbAqv-AsJpmNjVlIRfutnmbyeRU17cHQ0RPqI1wL3QV4uKzWHjmiMPIHIDLAgPvPcKdlVmphcWvVNj6NFz78B2Mz5AT3stg-N7s9gTcDQHvfV1bw0F43KG2_fJ4dLwJgIWmoe27uahvRa0M-2GDiPhwq6_eVz7Ei7I2byKvyxB-zH6xFg5tFU5jzfmUUV9e2Dn3sIxT43Ox8tC60Y_weatglexqsh_GA2OHTpuHV4N-GmhZnrkADI3pgrSvoTCqBrV1U)

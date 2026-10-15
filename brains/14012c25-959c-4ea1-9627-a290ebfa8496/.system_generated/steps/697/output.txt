@@ -1,0 +1,14 @@
+The search for "site:incruit.com "메이브릿지" OR site:nicebizinfo.com "751-81-03079" OR "7518103079"" returned the following summary:
+입력하신 검색어 조건에 해당하는 **(주)메이브릿지** 기업의 나이스비즈인포(NICE BizINFO) 및 인크루트 등 기업 정보 요약은 다음과 같습니다[1][2].
+
+* **기업명:** 주식회사 메이브릿지 [(주)메이브릿지][1]
+* **대표자:** 김현진[1]
+* **설립일자:** 2023년 1월 31일[1]
+* **사업자등록번호:** `751-81-0****` (나이스비즈인포 기준 등록번호 앞자리 일치)[2]
+* **주요업종:** 시스템 소프트웨어 개발 및 공급업[2]
+* **소재지:** 부산광역시 해운대구[2]
+* **기업구분:** 중소기업, 벤처기업 인증[1][2]
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-7YBGt_xnuHrq4WJc4HDB74UusrmIjpkzFmDZOS5a4voTSc8uaFHK-t4WuggD3OBHLyziF9Bs17F5OXhd-YgUdQzlvIxD4XM_GFzlhh1ddBa11nqIPwutCSBOghFUrWrAKg==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTtg8U65uLGTVhqmtLXUr9wl1FinCT62lC61mCYkMZguQBHlBkLhrcn1cx2DM--8PWjze0FnUAluP15816-PvN5oy-jVYYnjsmYV6MNtnyKlnsjyAx73bdh9FK1D5VsCs3UXp6zKaSjx7mS2HSrYgUPiw=)

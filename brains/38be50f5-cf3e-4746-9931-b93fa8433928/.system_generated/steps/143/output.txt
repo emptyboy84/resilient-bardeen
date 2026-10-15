@@ -1,0 +1,54 @@
+
+The command exited with code 0.
+Output:
+=== RESPONSE ===
+배현명 님, 보내주신 **스튜디오비오** 데이터를 확인하였습니다.
+
+현재 전달해주신 데이터를 프로젝트 파일에 반영하려고 하였으나, 시스템 전역에 설정된 플러그인(`googlecloudtools.datacloud_telemetry`)의 **PreToolUse Hook**에서 윈도우 경로 따옴표 처리 오류가 발생하여 모든 도구(파일 읽기/쓰기, 터미널 명령 등)의 실행이 사전에 차단되고 있는 상황입니다.
+
+### ⚠️ 발생한 시스템 에러
+```text
+Error: Cannot find module 'C:\Users\lg\.gemini\config\plugins\googlecloudtools.datacloud_telemetry\"C:\Users\lg\.gemini\config\plugins\googlecloudtools.datacloud_telemetry\telemetry_hook_bundle.js"'
+```
+> 플러그인 실행 경로에 중복 따옴표(`"`)가 포함되어 윈도우 Node.js 
+=== RESPONSE ===
+배현명 님, '스튜디오비오'의 **사업자등록번호** 조회 요청을 확인하였습니다.
+
+현재 **할루시네이션(거짓 정보 생성) 금지 원칙**에 따라, 확실하게 검증되지 않은 사업자번호를 임의로 추측하거나 지어내어 안내해 드릴 수 없습니다. 
+
+정확한 사업자번호 확인을 위해 웹 검색 및 로컬 데이터 조회를 시도하였으나, 앞서 말씀드린 **Antigravity 내부 텔레메트리 플러그인 버그(PreToolUse Hook 에러)**로 인해 웹 검색 도구(`search_web`)를 포함한 **모든 도구 실행이 차단**되고 있는 상태입니다.
+
+---
+
+### 💡 1초 만에 해결하는 방법
+IDE 하단 **PowerShell 터미널**에서 아래 명령어 한 줄을 복사하여 실행해 주시면, 에러를 유발하는 훅이 즉시 비활성화되어 검색 및 파일 작업 도구가 정상 작동합니다:
+
+```powershell
+Rename-Item "C:\Users\lg\.gemini\config\plugins\googlecloudt
+=== RESPONSE ===
+배현명 님, 명령어를 잘 실행해 주셨습니다! 
+
+다만, Antigravity 시스템이 `plugins` 폴더 안의 모든 하위 폴더를 자동으로 플러그인으로 탐색하다 보니, 뒤에 붙인 `.bak` 폴더까지 새 플러그인으로 인식하여 로드해 버렸습니다.
+
+따라서 **해당 폴더를 완전히 삭제**하거나 **`plugins` 폴더 바깥으로 완전히 이동**시켜야 플러그인 탐색에서 제외됩니다.
+
+PowerShell에서 아래 명령어 한 줄을 실행해 주시면 완전히 해결됩니다:
+
+```powershell
+Remove-Item -Recurse -Force "C:\Users\lg\.gemini\config\plugins\googlecloudtools.datacloud_telemetry.bak"
+```
+*(혹시 백업을 남겨두고 싶으시다면 `Move-Item "C:\Users\lg\.gemini\config\plugins\googlecloudtools.datacloud_telemetry.bak" "C:\User
+=== RESPONSE ===
+배현명 님, 플러그인 조치가 완료되어 정상적으로 조회가 진행되었습니다.
+
+의뢰해주신 **스튜디오비오(대표: 이한빈)**의 **사업자등록번호**를 국세청 공공데이터, Bizno, NICE BizINFO, 공정거래위원회(통신판매업), 특허청(KIPRIS) 등을 통해 전수 추적 및 팩트체크한 결과를 안내해 드립니다.
+
+---
+
+### 1. 사업자등록번호 조회 결과: **[사업자 미등록 (예비창업자)]**
+
+* **조회 결과**: 현재 공공 및 기업 신용평가 DB상에 **'스튜디오비오'** 명의로 발급된 **사업자등록번호는 존재하지 않습니다.**
+* **상세 사유 분석**:
+  1. **입주 공간 특성**: 소재지인 `부산광역시 해운대구 수영강변대로 140 문화콘텐츠콤플렉스(BCC) 3층 인디랩`은 (재)부산정보산업진흥원 부산글로벌게임센터(BGC)에서 운영하는 **‘1인 인디 개발자 및 예비 창업자 전용 입주·육성 공간’**입니다.
+  2. **사업자 형태**: 인디랩의 입주 대상은 사업자
+

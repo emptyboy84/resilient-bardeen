@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+Cleaned lines: 200
+Parsed items count: 200
+Items 1 count: 200
+Unique in 1: 200
+Unique in 2: 200
+Total index mismatches: 0
+
+--- Field differences between items1 and items2 ---
+
+[Diff #1] Index: 1 - 한울기업 (7601400870)
+   tel: "055-312-0061" -> ""
+   fax: "0507-351-9001" -> ""
+   email: "-" -> ""
+   industry: "기타 섬유, 의복 및 가죽 가공 기계 제조업" -> "기타 기계·장비 조립용 플라스틱 제품 제조업"
+   indLarge: "" -> "제조업"
+   indMid: "" -> "기타 기계 및 장비 제조업"
+   indSmall: "" -> "일반기타 기계 및 장비 제조업"
+
+[Diff #2] Index: 39 - (주)뷰티클 (7648101397)
+   tel: ""051-313-5171"" -> "051-313-5171"
+
+[Diff #3] Index: 58 - ㈜파리로엠엔비 (7668802810)
+
+Total modified records: 3
+

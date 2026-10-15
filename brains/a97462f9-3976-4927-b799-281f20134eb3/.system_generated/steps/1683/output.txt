@@ -1,0 +1,17 @@
+The search for ""희웹툰" OR "010-8074-7622" OR "8074-7622"" returned the following summary:
+검색하신 결과에 대한 정보입니다.
+
+*   **희웹툰:** '희'라는 이름이 포함된 웹툰 제목이나 관련 검색 결과가 다수 확인됩니다. 특정 작품을 지칭하는 것인지 확인이 필요할 수 있습니다[1][2][3][4][5].
+    *   예: '500CC - 희', '애완희', '마두희 웹툰', '범의 밤(사각/만첩/은밀희)', '두 번째는 능숙하게(오묘희)' 등[1][2][3][4][5].
+*   **전화번호 (010-8074-7622 / 8074-7622):** 해당 번호와 일치하거나 특정 업체/개인과 연관된 유의미한 정보는 검색 결과에서 확인되지 않았습니다[6][7]. 온라인상에서 발견되는 유사한 숫자 배열은 대량의 전화번호 목록(DB) 검색 사이트 등에서 나열되는 무작위적인 번호 패턴의 일부로 보입니다[6][7].
+
+혹시 특정 웹툰 서비스나 작가, 혹은 특정 목적(문의 등)으로 찾으시는 정보가 맞는지 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [bomtoon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3DxaIKiS_JmBkL_tvudxzG2ZYx8dvPPVKzgU5LT4dWVEZNWuB8zJ5oXkdkfVqbPFXnFcXKjEcjHmU8h6zb6gOqEe0P5wGm0ngJ6Z9gK9lgt2hmM32hxCyhQ==)
+[2] [webtoonguide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEgoUii1aO3E85lg2rFam-xZaFisTYnxtDEURkeRzqZ24hC1nZRWdpS4zvlFvr7sJSFP_dR3b9uGoaOAYWYqcVUcmk8rOJlQdokWYZAnzCr-bVzzQW0VdmqXMiLKz-NgCGcISU21L77A==)
+[3] [ulsanmaduhee.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqvH5dW_sqXfRw5AbQPmW5rlZAXfXjvdjAq_w58PhTm-msO-LCgeEW5z2BSLuimC5q3bvUBVOMlnaAydkMVD5UffRIdqK5S0v_CPlibETIR0oJmPN8NKjnPM0JM3sktyKtag==)
+[4] [lezhin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkoa-YLK4hlc9NRoAGHflSbHS0xM7v2gMelBbENiQCIvmoGya_DRkITImnsHhWlC8g_Bs51rVh_yXCxxTsIdpqP8WD4MKbEzB7_ZvcRaTLeaF7XF0jMv0rIFC7c3JDFQ==)
+[5] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd4hBFnHbCNpnEzX8qCM4Qw076GWzMjz4Wc1WawHWoyZkAz7mDgwLdAs7fl4uoRc1qiKx0ZTe2d7Ne3dAdEZbfm1ITj7JP13Wmsiw9vMaILhKxD6nppQxTyFkKaG6sUjIIalK16_sQPAXaJVRO7TXwtoG5q5LKTdqwChZIOJvVBUeWAsAUB5kWyF_H1Qen4ATHLFzd5zrDALl5IB05hdGuMW5bAw==)
+[6] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9Lmm3ZNUt3pZaZWOfzufuVsv8ECZGKAo0AKHcJ-c84pdKeYcoseFU1rNvILgd2kNyqeBry-qBHlCs9XZGaXk94svYQEe-lrMslOcSKqPpTk-sBgVpKLK3iIQEMlwTjwaFRkUWTW_IR9U54aScNXv)
+[7] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE6MjTgyvCsZliZRrMq_mJYTDXkdmOpTTtdCq3HZpYl4XmvmonszUDT1NbfrZqq_1qKtBdAkpMwmK-JleX0Y-cSvY1F30EoSHHTdNTLgYLxIuxS2ZNv4Eo-XacyABlQLp8MU-OumKBNV7F6rNFKZse)

@@ -1,0 +1,96 @@
+=== Comparing Target with 최종제출본_최신 ===
+  Sheet 기업체 리스트: total cell value diffs = 1403
+    (First 20 diffs):
+    Row 3 ((주)씨드시스템) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 3 ((주)씨드시스템) Col 18 [25년 매출액(원)]: 975440000 -> None
+    Row 9 (유비플러스) Col 14 [폐업 날짜]: '2023-08-31' -> datetime.datetime(2023, 8, 31, 0, 0)
+    Row 42 (메이든) Col 14 [폐업 날짜]: '2026-07-31' -> datetime.datetime(2026, 7, 31, 0, 0)
+    Row 61 (주식회사 윈트리) Col 15 [비고]: '[출처: 사람인/NICE평가정보]' -> None
+    Row 61 (주식회사 윈트리) Col 17 [24년 매출액(원)]: 8120000 -> None
+    Row 74 (큐온) Col 14 [폐업 날짜]: '2020-08-21' -> datetime.datetime(2020, 8, 21, 0, 0)
+    Row 76 (서울마크광고사) Col 14 [폐업 날짜]: '2025-01-07' -> datetime.datetime(2025, 1, 7, 0, 0)
+    Row 95 ((주)사운드리더) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 95 ((주)사운드리더) Col 18 [25년 매출액(원)]: 388170000 -> None
+    Row 96 (블링크) Col 14 [폐업 날짜]: '2019-09-30' -> datetime.datetime(2019, 9, 30, 0, 0)
+    Row 98 ((주)라이브엑스) Col 15 [비고]: '[출처: 사람인/잡코리아/언론보도]' -> None
+    Row 98 ((주)라이브엑스) Col 18 [25년 매출액(원)]: 17500000000 -> None
+    Row 100 ((주)현대ICT) Col 14 [폐업 날짜]: '2025-03-31' -> datetime.datetime(2025, 3, 31, 0, 0)
+    Row 122 (큐엠시네마) Col 14 [폐업 날짜]: '' -> '휴업자'
+    Row 123 (주식회사 부일기획) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 123 (주식회사 부일기획) Col 17 [24년 매출액(원)]: 3900000000 -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 8 [연락처]: '010-3568-1004' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 11 [주소]: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 14 [폐업 날짜]: '2026-04-30' -> datetime.datetime(2026, 4, 30, 0, 0)
+  Sheet 개인 리스트: total cell value diffs = 0
+=== Comparing Target with 최종제출본 ===
+  Sheet 기업체 리스트: total cell value diffs = 1382
+    (First 20 diffs):
+    Row 3 ((주)씨드시스템) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 3 ((주)씨드시스템) Col 18 [25년 매출액(원)]: 975440000 -> None
+    Row 9 (유비플러스) Col 14 [폐업 날짜]: '2023-08-31' -> datetime.datetime(2023, 8, 31, 0, 0)
+    Row 42 (메이든) Col 14 [폐업 날짜]: '2026-07-31' -> datetime.datetime(2026, 7, 31, 0, 0)
+    Row 61 (주식회사 윈트리) Col 15 [비고]: '[출처: 사람인/NICE평가정보]' -> None
+    Row 61 (주식회사 윈트리) Col 17 [24년 매출액(원)]: 8120000 -> None
+    Row 74 (큐온) Col 14 [폐업 날짜]: '2020-08-21' -> datetime.datetime(2020, 8, 21, 0, 0)
+    Row 76 (서울마크광고사) Col 14 [폐업 날짜]: '2025-01-07' -> datetime.datetime(2025, 1, 7, 0, 0)
+    Row 95 ((주)사운드리더) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 95 ((주)사운드리더) Col 18 [25년 매출액(원)]: 388170000 -> None
+    Row 96 (블링크) Col 14 [폐업 날짜]: '2019-09-30' -> datetime.datetime(2019, 9, 30, 0, 0)
+    Row 98 ((주)라이브엑스) Col 15 [비고]: '[출처: 사람인/잡코리아/언론보도]' -> None
+    Row 98 ((주)라이브엑스) Col 18 [25년 매출액(원)]: 17500000000 -> None
+    Row 100 ((주)현대ICT) Col 14 [폐업 날짜]: '2025-03-31' -> datetime.datetime(2025, 3, 31, 0, 0)
+    Row 122 (큐엠시네마) Col 14 [폐업 날짜]: '' -> '휴업자'
+    Row 123 (주식회사 부일기획) Col 15 [비고]: '[출처: 사람인/잡코리아]' -> None
+    Row 123 (주식회사 부일기획) Col 17 [24년 매출액(원)]: 3900000000 -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 8 [연락처]: '010-3568-1004' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 11 [주소]: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 14 [폐업 날짜]: '2026-04-30' -> datetime.datetime(2026, 4, 30, 0, 0)
+  Sheet 개인 리스트: total cell value diffs = 0
+=== Comparing Target with sep21 ===
+  Sheet 기업체 리스트: total cell value diffs = 1027
+    (First 20 diffs):
+    Row 126 (블루호텔레코딩스튜디오) Col 8 [연락처]: '010-3568-1004' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 11 [주소]: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)' -> None
+    Row 504 (팔구Light) Col 3 [사업체명]: '89Light' -> '팔구Light'
+    Row 504 (팔구Light) Col 4 [사업자번호]: None -> '719-26-00782'
+    Row 504 (팔구Light) Col 7 [대표자 성함]: None -> '김태형'
+    Row 504 (팔구Light) Col 10 [시군구]: '동래구' -> '북구'
+    Row 504 (팔구Light) Col 11 [주소]: '부산 동래구 충렬대로100번나길 6' -> None
+    Row 504 (팔구Light) Col 14 [폐업 날짜]: None -> datetime.datetime(2023, 12, 15, 0, 0)
+    Row 504 (팔구Light) Col 15 [비고]: None -> '퍠업자'
+    Row 508 (LINC) Col 4 [사업자번호]: '535-20-00519' -> None
+    Row 508 (LINC) Col 5 [설립연도(연도)]: 2018 -> None
+    Row 508 (LINC) Col 6 [설립연도(월)]: 1 -> None
+    Row 508 (LINC) Col 7 [대표자 성함]: '정대진' -> None
+    Row 508 (LINC) Col 8 [연락처]: '070-8872-3577' -> None
+    Row 508 (LINC) Col 16 [종사자수(명) 25년 기준]: 1 -> None
+    Row 536 (해람정보기술) Col 3 [사업체명]: '김정보' -> '해람정보기술'
+    Row 536 (해람정보기술) Col 4 [사업자번호]: None -> '621-81-77630'
+    Row 536 (해람정보기술) Col 5 [설립연도(연도)]: None -> 2008
+    Row 536 (해람정보기술) Col 6 [설립연도(월)]: None -> 10
+    Row 536 (해람정보기술) Col 7 [대표자 성함]: None -> '김정보'
+  Sheet 개인 리스트: total cell value diffs = 0
+=== Comparing Target with backup_sep21 ===
+  Sheet 기업체 리스트: total cell value diffs = 1325
+    (First 20 diffs):
+    Row 126 (블루호텔레코딩스튜디오) Col 8 [연락처]: '010-3568-1004' -> None
+    Row 126 (블루호텔레코딩스튜디오) Col 11 [주소]: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)' -> None
+    Row 504 (팔구Light) Col 3 [사업체명]: '89Light' -> '팔구Light'
+    Row 504 (팔구Light) Col 4 [사업자번호]: None -> '719-26-00782'
+    Row 504 (팔구Light) Col 7 [대표자 성함]: None -> '김태형'
+    Row 504 (팔구Light) Col 10 [시군구]: '동래구' -> '북구'
+    Row 504 (팔구Light) Col 11 [주소]: '부산 동래구 충렬대로100번나길 6' -> None
+    Row 504 (팔구Light) Col 14 [폐업 날짜]: None -> datetime.datetime(2023, 12, 15, 0, 0)
+    Row 504 (팔구Light) Col 15 [비고]: None -> '퍠업자'
+    Row 536 (해람정보기술) Col 3 [사업체명]: '김정보' -> '해람정보기술'
+    Row 536 (해람정보기술) Col 4 [사업자번호]: None -> '621-81-77630'
+    Row 536 (해람정보기술) Col 5 [설립연도(연도)]: None -> 2008
+    Row 536 (해람정보기술) Col 6 [설립연도(월)]: None -> 10
+    Row 536 (해람정보기술) Col 7 [대표자 성함]: None -> '김정보'
+    Row 536 (해람정보기술) Col 10 [시군구]: '남구' -> '해운대구'
+    Row 536 (해람정보기술) Col 11 [주소]: '남구' -> None
+    Row 536 (해람정보기술) Col 14 [폐업 날짜]: None -> datetime.datetime(2014, 4, 14, 0, 0)
+    Row 536 (해람정보기술) Col 15 [비고]: None -> '폐업자'
+    Row 536 (해람정보기술) Col 16 [종사자수(명) 25년 기준]: None -> 6
+    Row 552 (녹생광고연합그린하우징) Col 4 [사업자번호]: None -> '604-02-45652'
+  Sheet 개인 리스트: total cell value diffs = 0

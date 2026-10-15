@@ -1,0 +1,29 @@
+The search for ""경성테크놀러지" "445-86-00963" OR "홍순기" "매출액" OR "기업정보" OR "실적" site:saramin.co.kr OR site:jobkorea.co.kr OR site:catch.co.kr OR site:nicebizinfo.com" returned the following summary:
+주식회사 **경성테크놀러지**에 대한 기업 정보 요약입니다.
+
+### **기업 개요**
+*   **대표자:** 홍순기[1]
+*   **주요 사업:** IoT 기술 기반 사회복지 정보화 솔루션 기업으로, 영유아 시설, 사회복지 시설, 소상공인 등을 대상으로 IT 솔루션을 제공합니다[2].
+*   **주요 기술/솔루션:** 
+    *   AI 기반 교통약자 전용 지도 자동 생성 플랫폼 개발[3]
+    *   IoT 발열자 자동감지 시스템[4]
+    *   이미지 내 보행자 얼굴 및 차량번호판 가명처리(비식별화) 프로그램[5]
+
+### **기업 현황 및 실적**
+*   **기업 특징:** 부산시 선정 '에이스스텔라 기업'[1] 및 '서비스 강소기업'[6]으로 선정된 바 있으며, 클라우드 서비스 기업 육성 사례로 언급되기도 했습니다[7].
+*   **실적/활동:** AI 바우처 지원사업 공급기업으로 참여하여 시각 인공지능 관련 솔루션을 제공하고 있습니다[8][5].
+*   **채용/리뷰:** 사람인 및 잡코리아 등의 채용 포털을 통해 기업 정보와 채용 공고, 전·현직자 리뷰 등을 확인할 수 있습니다[9][10].
+
+*참고: 구체적인 최신 매출액 정보는 기업 공시 데이터나 유료 신용평가 보고서를 통해 확인해야 할 수 있으며, 위 정보는 공개된 보도자료 및 플랫폼 데이터를 바탕으로 합니다.*
+
+Sources:
+[1] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHrqdi3AqbpDTu5zCmub1QsOTpkCKFJYAmaq3nq_knz0s14C8yArvmud-QHsErl-p2pNsxTZXKNthUMWjHR85KTTer4Pga0WguF67euzuOH5sRpK9BHjbGtKSZURXyqSBYt0q1_ZB6B0mHc8vBq7G4)
+[2] [gov-ncloud.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4FI_cdycS4hVijgPGwm3mDGxNhQpMxaukUQjuZSFGmcehtvTeJayuDHaYrbbo5VLSvNZ-w8TBEHKNWHt-PJBvRlEnTF-wX1i_e6FTk-gptvFsi2gsdjXTDBJH6lFWIaSf6y3-wxXNWqnV4RVGw==)
+[3] [kaia.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqMeb-3IoSorWuut9x1Ng3K5l17bJlEAZ9b6J4thze68zvaOFgf3NjgsqByaK6AaY76HeyNjgd7HzrkB5A1yNKXOaOArqRLuhn2Ge81GQOYIMbXmUAkynCYDf2DulGNVb11LiCdrbw1MfVD7lZWvowid66gNYhjO-48q3GCmyZOdNJLymmsGAu2013yM_z9xYo-PU=)
+[4] [digitalmarket.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmXakGjXPkFH7BZOfZnD9bb00GF2nLayYQwT5JsQal1_sEIMyNM5vxrXnRY99OBqq2rG0Bt4ZqEcXoBin1OG7fYEJj-xZqwRx5WZzRC2x3t_THYMA0xyYm0ant3Tyo0ss_vAzVyonjtUO2DtMZNr-BTdkQQM61MoydJ7KNDx6jDhClZT_Fq7D1--QAnQTSwjBWU9oxTJ0xkxcM)
+[5] [inje.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrFJlK3PfQEwZF0x0FLwv7NKlWehleJtHlFOGkOlZ6zuBwv3J3tCVyLtV_mS_6oV2_ZosYfiq_rtEXWQBviT3nI-yioctmIk3oQAmUw6siq8N4wTXILzU-hgRSit0_KZkA6Sqc7IlcD1caRqEjwKOemmBmq5Y0LKg=)
+[6] [sbynews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo2lXIBpf-2UblK1zQPmvD-OQ7IjJxUeaCCGKmShW3cN-ltDa1JKqe5kXnQDOFY0CuD-BRptiDE6iR2cCxQBRR5x1DhMvjUtnpOnHxIDtWITPYB_FWMAagdbMK4hKDHKBM-u7I6UFuQoogGcpvCugZYrGIl7xuPMlO6TV_2OIXU6-p_IjREz43CHjhh-nFPQsxIHRuWWs=)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1lMpZgvCEH0Lou5ULFSlXHSCjkG0JjqVEzaOlTy4gcP00wKk32_kEwyZyWX0C1IXWrtEtiD2PNuCPWucLp-_EJZWTkXV_eOg81Qb-8KDzAFnPxB29A_QEbW0lytZMg4AIlLqs)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPy6K9ymC5k00bIiq9zrP0wL0VIVihF7NUoG0FCX1cR0hBOz_PMCK509Mnv8C4pnItZdASP7WNokH_EaS4oqOoj0Ub9Bo_kVnU2MTvw7kw-_XdnBaaRhs=)
+[9] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDNzNqzQqcPwzjfMQIolUTHKFbbHYnqVza77Y3BlZtfYAZEOv2NT5Hal5rMjQiePrmJzOboEmSQLDAQ8NVB_Koxhes1v46ZW5wZZBt7UEMS0Sb9ybap7yG6tehjIevwZT6wl-7PyUMgIwH4e_rVH8UKzacDvPsAC1D1Rbw2hob4onYiy4ys9braPCfUaY=)
+[10] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Rf7WAPOVK8-o9rQexACvyuQ9jYJYLByF25A0eQcCMbUDHLkkU9UcD9uEgEsNF5lv7K4vIAqcN33V9nIczpS3Q48YHwGSS1VZOl1j72_NqxqQU6btScYC3FylbLiikLKOqCj1DaevHBWj3OMbmUl3tD8=)

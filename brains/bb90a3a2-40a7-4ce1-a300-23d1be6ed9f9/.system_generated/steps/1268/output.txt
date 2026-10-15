@@ -1,0 +1,20 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-1266
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-1266.log
+Log output:
+--- Probing NiceBizInfo KIS PQ5306 ---
+Nice status: 200 len: 948895
+Nice Row: 대표자명 박정언
+Nice Row: 주소 (48499) 부산 남구 수영로 ***, **층 ****-***호
+Nice all phones: [ '02-3771-1514' ]
+
+--- Probing Bizno ---
+Bizno len: 23550
+Bizno Row: 전화번호
+Bizno Row: 팩스번호
+Bizno Row: 대표자명
+Bizno Row: 회사주소 부산광역시 해운대구 재반로125번길 9 (재송동, 돼지가) 3층 27호 부산광역시 해운대구 재송동 1058-12 돼지가
+Bizno Row: 영문주소 9, Jaeban-ro 125beon-gil, Haeundae-gu, Busan, Republic of Korea
+Bizno Row: 관할세무서 해운대세무서 (전화번호 : 051-660-9200) 부산광역시 해운대구 좌동순환로 17(좌동) 해운대세무서(본관)
+
+Last progress: 3s ago

@@ -1,0 +1,35 @@
+The search for ""이석창" "만화" OR "만화가" OR "화실" OR "웹툰" OR "작가"" returned the following summary:
+'이석창'이라는 이름으로 활동하는 인물은 여러 분야에 존재하며, 문의하신 '만화', '웹툰', '작가', '화실' 등의 키워드와 관련하여 다음과 같이 확인됩니다.
+
+### 1. 학자 및 저술가 (디지털 콘텐츠 및 AI 분야)
+현재 가장 활발하게 활동하는 이석창은 **건양대학교 디지털콘텐츠학과 교수**이자 연구자입니다[1][2][3].
+*   **주요 활동:** 인공지능과 콘텐츠의 융합, 영화, 기술, 관객 등을 주제로 연구하고 글을 씁니다[4][3].
+*   **저서:** 《인공지능과 영화, 기술, 관객》, 《우리집 AI 의사·수의사·헬스코치》 등 다수의 저서가 있습니다[4][5][6].
+*   **만화/웹툰 관련:** 직접적인 '만화가'는 아니지만, 대학에서 **웹툰 제작**을 포함한 디지털 콘텐츠 분야를 가르치고 있으며, 졸업 작품 지도 교수로서 만화 및 웹툰 기획을 지도하기도 합니다[7][8][9].
+
+### 2. 예술 및 문화 활동가
+*   **문화 관련:** 제주 지역에서 서귀포문화사업회 회장 등을 역임하며 문화 활동을 한 이석창이라는 인물이 있습니다[10]. 또한, 원불교 관련 행사에서 창작 성가를 부르는 싱어송라이터로 소개된 사례도 있습니다[11].
+*   **미술/화실:** 과거 1970년대에 개인전을 연 조각가 이석창이 있으며[12], '화실'과 관련된 검색 결과 중에는 성당 40년사 기록 등에서 언급된 인물이나, 특정 예술 단체와 관련된 이름들이 혼재되어 있습니다[13][14]. 특정 '만화 화실'을 운영하는 인물로 확인되는 정보는 없습니다.
+
+### 3. 참고사항
+*   **동명이인 가능성:** '이석창'은 비교적 흔한 이름으로, 서예가, 조각가, 지역 문화 활동가, 교수 등 다양한 분야에서 활동하는 동명이인이 많습니다[13][10][12].
+*   **만화/웹툰 검색 결과:** 질문하신 '만화'나 '웹툰' 키워드는 주로 건양대 교수로서의 활동(디지털 콘텐츠 교육)이나, 논문 및 도서 주제 분류 과정에서 연관되어 나타나는 결과입니다[15][7][9].
+
+찾으시는 정보가 특정 작품을 그리는 '만화가'라면, 위에서 언급된 인물들 중에는 해당하지 않을 가능성이 높으니 활동 영역이나 작품명을 좀 더 구체적으로 확인해 보시는 것이 좋습니다.
+
+Sources:
+[1] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuho9RostSjaTgHnioidC72HMe1cMpsBji4zeurnnWT_wM_9t-esJeVseRPDkqBPFSFssxkiEhBkavhTAPpV75EnDPPCyKSHhTS4Ir582vkByir9xqSFXzWW0E4PfK_NOA54_h1nnwfPnjvvRUDKpq3ug=)
+[2] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNgjaCaIEQ-PPUOtDXFNkVyr4aQYjvd75srzEEYWCdnlX0DPlPn-VmZsko3iEydabUlegCqT203SVbSQyx8ehQKkKCt0lHVdPo1R7BHNlAJ8-rSFsyZdDXdukhec5qo-eaUQmJF_1IeJXJGUfWgOy5ypE=)
+[3] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7xehycy_7QXnIet3TaR6NBFe6yANGLJL4tCKjIMmJKlamnRmLy-yqtd0hfGJabPU-8w_L-MohyrggChGXT3HRyW8x4Odu2LXLh2yVeSOcdCp5VhNqM5W1nQ==)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfd4b3CehSI2Gwz3zbTzLA4jyg824FoQHAxShfV5EWHwQBDHyEZ1Ufl6DcuOT2S9B4VqqZBbbm0F0wcZEJP_2PEHhRHZToi82xRL0S7Rthfjouvt9JUBIQceV8lKavtcYmA0E=)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4bDsZdyu3jf3idqG1XGnUPCOwuKvMZmBDJ07ldAI2S7oSYLyeN3a_y79bVz9RrBhB4izveYN3Kop8888qZgV4bNNcwlvhH0C6t8ejMALd9NJ02kAk6A81NmFNbg9PKdP6iKk=)
+[6] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYo3p_JeNq6Y1L9YwLi9apw-ZHuwUHYQjYVqWdmJHwZ4u1joP0FA6R52-QiyBF0QxHJKoLgog0GTxjvN9Th5TxFPGADP4xleiCdZQbQ14-bo07IkU5VwRO3XSWjvm8RF8Z)
+[7] [kangwon.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv2_8-onu_IW4hrTjeyXxfQKtiWmAHXsJXYoFBn5LOQjH25cBx-e1tqvfZHHl1BkNNVpvj5QNMaoct5W1nu7fNYcYWcZpqtQrVE_UsO3_mathI8KYfyPHDO2tsMyj79COYw64X3sO-B5jSJt5snjg3sgy5GXoNnU1Pc9t6MB1uJG3NRxFC8DYnt7XCZbahPREIFR9GiuhRSKCQxc9r-buc1pie4gQvwCfxVRDP2-D5PDjzxTJjwapcVlS6-CBSJea76iY5eJhIqO33RhvX86AooS-2SrW07orX5zSDKS76nMrYlZWsmz4sn4VyRfP0dOjZcuGIskS9KWZXL9dLh5x673eVCFRRt2YqnfBlnUZ_Dis_EIzvJ3STpm5CSYXiV9g6O7hT7JjCJ6JLQ6mlowtZZLVF2GYuGiUUwywd9T8YvkJKKbfE1A0F3vSDaDvr-HvT8m0qQBrF5HoVg0KowL0ACqpAh-Vs1M6b4lDCOqQC3NzBIeolloqFEplNJk1XkHuxlJlj3yyIA-Bgi3nhVZ-6uFP62RixbbIABajbYmZWcalkcJ1gptwfrA4DhwLbvF_AwbuTF5e1iTbXy5IpnbpByQQz2ke2DM0=)
+[8] [kangwon.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpxXbU9jHJqSSrnpwsjnLAqLAvu3o8kjOo6Oo_kpQ9KNdktE0N2rjqkkYwo-QKICvQfy9UW4QAKG6x_lTIwUILyewFkhQUI6fZiYteHxw4chClHwXzb5p_wonpmJijZaSa2ULsUTv6iD6VyMiHrOSgs5ywjlehY8Jv5_yWTq1U7gLceRiRXgW-Fcs1bA==)
+[9] [cctimes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4BJHMPJ7dg5N3nDreRh9jT-bK5Gm0n_Y7HlDBfh0ubeQAgAjUQ7YoK3EnGBeBkSQ5QX0DEldfiEi5sPRr3UoyM_zna41JTQAN2HCaFYCFHKaSALySMCRiF5TeME3uAG3ASQhv_EO5hrySNw==)
+[10] [jejunu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1NOHUYYrmasLTs8oLjjjyYABHAkwL8lC0ilGyHIhbHcuMDsOrXc_62xQ4kKK7X0bUBxU6MVZcxGzb68UPGdq1WnD4YKKS2gxddVSb93uUUtKnYStTRv15N0vpWqwSxRoX_ypYqDBY490zHG29IzGE)
+[11] [wonnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNIXGlr_lUYgPrpzYTnNyl3JqAdX7Z_NyUwl_VnAtBx3UanMgw_3mj7zRZT6HiZBM8CMD8YD0ZCMtJnlkKf0V9wzyiyYpp-kNXAC7JcLcEgq4jo6L820wLWSlto7zDjCzMBXLN5s-Ni7JNfjsJKpW_jAw=)
+[12] [arko.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExhttPhdUI0zEi9xWyqoqUopyaf26bCpF-lcYf7EM_NwBbMmwp46n2FoS5nShDIN7_NBk5RleDYutOWUBFql2vi5NBTmGSI63k52ByzJqHj4IowO2BE3MT71mNqXfNjcXYKseJy3UdoTIo2v8O)
+[13] [fliphtml5.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa1AI6TXPxGoKY2C59OKGOSNnrwAy7uTf3VzwBL5j2bL6qvoNMBDFsOSCyLp-Icgmu_QJdQB77bG9OpneaKYdvrMB4MPiHoOSqJwuKgvpadt4HDN-ugevevOfmBVVvVb_ucZ_RwFXT-v1w6MruQGf58CRBM5EV1iIWE9Z_cD7ClZiHapjwwOYM1lNSuvlZ0rLtFuib)
+[14] [skj.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGTLRvb1Rhs4zMXwqSAuUsuiZsCPPv9oSvpHkFJfm1m1rkX1T3N7nHbQ_qWyE5ARR-_vGAcpqK6gKqQGJdBGwbUIFiKdN-r2NrimmUOXObchvL0OStxCO5nutFJeyvY0nReNPLlnx0tGP8ChllWvAvJnWza6F_F3W46Cj8Mt0Wf8RgM6MY)
+[15] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5sCHOaX6JJPrjON7oVsYeAtzmL7fOlFmRKPdnOCty1pSP4LSRgg4J7j_0lib5D17DxfT0BBXtZDpYgm7aX9QuceAPC_upyOZJmNjJmv8NKMoQZWsET_8uY15qEULEIK3I-BAX_VIGHyV26oEk92TA2TO07oiClpdGF2K8Tj1cDjY1Nw==)

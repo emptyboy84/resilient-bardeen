@@ -1,0 +1,156 @@
+### Page
+- Page URL: https://www.juso.go.kr/
+- Page Title: 주소정보누리집(도로명주소 안내시스템) < 메인
+### Snapshot
+```yaml
+- generic [ref=f502e2]:
+  - link "본문바로가기" [ref=f502e3] [cursor=pointer]:
+    - /url: "#contentArea"
+  - generic [ref=f502e7]:
+    - heading [level=1] [ref=f502e8]:
+      - link [ref=f502e9] [cursor=pointer]:
+        - /url: /
+        - img "도로명주소 로고" [ref=f502e10]
+    - generic [ref=f502e11]:
+      - list [ref=f502e12]:
+        - listitem [ref=f502e13]:
+          - button "주소정책소개" [ref=f502e14] [cursor=pointer]
+        - listitem [ref=f502e15]:
+          - button "주소정보활용" [ref=f502e16] [cursor=pointer]
+        - listitem [ref=f502e17]:
+          - button "주소정보조회" [ref=f502e18] [cursor=pointer]
+        - listitem [ref=f502e19]:
+          - button "주소이야기" [ref=f502e20] [cursor=pointer]
+        - listitem [ref=f502e21]:
+          - button "주소소통마당" [ref=f502e22] [cursor=pointer]
+      - generic [ref=f502e24]:
+        - link "EN" [ref=f502e25] [cursor=pointer]:
+          - /url: /main/engMain
+        - link "주소기반산업지원서비스" [ref=f502e26] [cursor=pointer]:
+          - /url: http://business.juso.go.kr
+  - generic [ref=f502e27]:
+    - generic [ref=f502e28]:
+      - generic [ref=f502e31]:
+        - generic [ref=f502e32]:
+          - generic: 검색어 입력
+          - textbox "검색어 입력" [ref=f502e35]:
+            - /placeholder: 예) 도움6로 42, 국립중앙박물관, 상암동 1595,  초성검색
+          - button "최근검색어 보기" [ref=f502e36] [cursor=pointer]
+          - button "검색" [ref=f502e39] [cursor=pointer]
+        - generic [ref=f502e41]:
+          - generic [ref=f502e42]:
+            - checkbox "사물주소 검색" [ref=f502e43]
+            - generic [ref=f502e44]: 사물주소 검색
+          - generic [ref=f502e45]:
+            - checkbox "폐지된 주소정보 포함" [ref=f502e46]
+            - generic [ref=f502e47]: 폐지된 주소정보 포함
+          - generic [ref=f502e48]:
+            - checkbox "좌표 검색" [ref=f502e49]
+            - generic [ref=f502e50]: 좌표 검색
+          - generic [ref=f502e51]:
+            - checkbox "자동완성 사용 안함" [checked] [ref=f502e52]
+            - generic [ref=f502e53]: 자동완성 사용 안함
+      - button [ref=f502e55] [cursor=pointer]:
+        - generic [ref=f502e56]: 지도로찾을래요.
+    - generic [ref=f502e57]:
+      - generic [ref=f502e59]:
+        - generic [ref=f502e61]:
+          - 'link "사물주소 #버스정류장의 위치 주소가 궁금하신가요? 버스정류장 한누리대로4 112,119 신고 시 내 위치는 세종시 한누리대로 4번 버스정류장" [ref=f502e63] [cursor=pointer]':
+            - /url: "#link1"
+            - generic [ref=f502e64]: 사물주소
+            - paragraph [ref=f502e65]:
+              - strong [ref=f502e66]: "#버스정류장"
+              - text: 의위치 주소가 궁금하신가요?
+            - generic [ref=f502e67]: 버스정류장 한누리대로4 112,119 신고 시 내 위치는 세종시 한누리대로 4번 버스정류장
+          - list [ref=f502e71]:
+            - listitem [ref=f502e72]:
+              - 'link "국가지점번호 #설악산 대청봉의 위치정보가 궁금하신가요? 국가지점번호 소방 긴급전화 119" [ref=f502e73] [cursor=pointer]':
+                - /url: "#link2"
+                - generic [ref=f502e74]: 국가지점번호
+                - paragraph [ref=f502e75]:
+                  - strong [ref=f502e76]: "#설악산 대청봉"
+                  - text: 의
+                  - generic [ref=f502e77]: 위치정보가 궁금하신가요?
+                - generic [ref=f502e78]: 국가지점번호 소방 긴급전화 119
+            - listitem [ref=f502e82]:
+              - 'link "기초번호 #국회대로의 위치 정보가 궁금하신가요? 국회대로 758" [ref=f502e83] [cursor=pointer]':
+                - /url: "#link3"
+                - generic [ref=f502e84]: 기초번호
+                - paragraph [ref=f502e85]:
+                  - strong [ref=f502e86]: "#국회대로"
+                  - text: 의 위치 정보가
+                  - generic [ref=f502e87]: 궁금하신가요?
+                - generic [ref=f502e88]: 국회대로 758
+        - generic [aria-hidden] [ref=f502e93]:
+          - link [ref=f502e95] [cursor=pointer]:
+            - /url: "#link4"
+            - generic [ref=f502e96]: 입체주소
+            - paragraph [ref=f502e97]:
+              - strong [ref=f502e98]: "#잠실역중앙통로"
+              - text: 의 주소가 궁금하신가요?
+            - generic [ref=f502e99]: 세종고가도로1 > 205, 세종로 153, 세종지하도로 1 > 231
+          - list [ref=f502e103]:
+            - listitem [ref=f502e104]:
+              - link [ref=f502e105] [cursor=pointer]:
+                - /url: "#link5"
+                - generic [ref=f502e106]: 장소지능정보
+                - paragraph [ref=f502e107]:
+                  - strong [ref=f502e108]: "#건물 출입구"
+                  - text: 의 장소 정보가
+                  - generic [ref=f502e109]: 궁금하신가요?
+            - listitem [ref=f502e113]:
+              - link [ref=f502e114] [cursor=pointer]:
+                - /url: "#link6"
+                - generic [ref=f502e115]: 수상시설물
+                - paragraph [ref=f502e116]:
+                  - strong [ref=f502e117]: "#낚시터"
+                  - text: 의 위치 주소가
+                  - generic [ref=f502e118]: 궁금하신가요?
+      - generic [ref=f502e122]:
+        - generic [ref=f502e123]:
+          - generic [ref=f502e124]: 1번
+          - generic [ref=f502e125]: 2번
+        - button "이전" [disabled] [ref=f502e126] [cursor=pointer]
+        - button "Play" [ref=f502e129] [cursor=pointer]
+        - button "다음" [ref=f502e131] [cursor=pointer]
+    - paragraph [ref=f502e133]: 다양한 산업 서비스를 지원합니다.
+    - list [ref=f502e136]:
+      - listitem [ref=f502e137]:
+        - link "Provide DB 주소 DB 제공" [ref=f502e138] [cursor=pointer]:
+          - /url: https://business.juso.go.kr/jst/jstAddressCuration
+          - generic [ref=f502e139]: Provide DB
+          - strong [ref=f502e140]: 주소 DB 제공
+      - listitem [ref=f502e141]:
+        - link "DB Linkage 주소 DB 연계" [ref=f502e142] [cursor=pointer]:
+          - /url: https://business.juso.go.kr/jst/jstAddressLinkage
+          - generic [ref=f502e143]: DB Linkage
+          - strong [ref=f502e144]: 주소 DB 연계
+      - listitem [ref=f502e145]:
+        - link "Open API 오픈 API" [ref=f502e146] [cursor=pointer]:
+          - /url: https://business.juso.go.kr/jst/jstAddressApiList
+          - generic [ref=f502e147]: Open API
+          - strong [ref=f502e148]: 오픈 API
+      - listitem [ref=f502e149]:
+        - link "Solution 주소 검색솔루션" [ref=f502e150] [cursor=pointer]:
+          - /url: https://business.juso.go.kr/jst/jstAddrSrchSolution
+          - generic [ref=f502e151]: Solution
+          - strong [ref=f502e152]: 주소 검색솔루션
+    - generic [ref=f502e154]:
+      - link [ref=f502e155] [cursor=pointer]:
+        - /url: https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=13100000016
+        - img "정부 24" [ref=f502e156]
+        - text: 온라인 전입신고
+      - link [ref=f502e157] [cursor=pointer]:
+        - /url: javascript:void(0);
+        - img "정부 24" [ref=f502e158]
+        - text: 주소 일괄정정 신청
+      - link [ref=f502e159] [cursor=pointer]:
+        - /url: https://service.epost.go.kr/front.RetrieveAddressMoveInfo.postal
+        - img "우정사업본부" [ref=f502e160]
+        - text: 주거이전 우편물전송서비스
+      - link [ref=f502e161] [cursor=pointer]:
+        - /url: https://www.ktmoving.com
+        - img "kt moving" [ref=f502e162]
+        - text: 주소변경 신청(은행,카드사 등)
+  - paragraph [ref=f502e165]: 30112 세종특별자치시 도움6로 42 (어진동)Copyright @ Ministry of the Interior and Safety. All Rights reserved.
+```

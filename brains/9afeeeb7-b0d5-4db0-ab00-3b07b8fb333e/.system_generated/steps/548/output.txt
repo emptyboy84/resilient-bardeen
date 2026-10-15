@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+Excel Found: [
+  {
+    "row": 19378,
+    "values": [
+      null,
+      null,
+      null,
+      "퍼플스톤",
+      7793401089,
+      "양광수",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "crystal2477@naver.com",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "온라인공동물류",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "7793401089"
+    ]
+  }
+]
+

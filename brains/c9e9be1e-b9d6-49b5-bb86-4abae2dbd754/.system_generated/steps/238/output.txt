@@ -1,0 +1,2 @@
+Created file file:///C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/verify_and_update_db/verify_urls_and_emails.js with requested content.
+If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.

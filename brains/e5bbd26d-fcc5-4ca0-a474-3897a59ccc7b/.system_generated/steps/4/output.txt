@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+On branch add_isomin_business_data
+nothing to commit, working tree clean
+20488d3 e
+b44b0bd feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+794e3ba feat: update 디에스케미칼 (5481701760) industry categories and status
+706713c feat: update 투콤마비 contact phone, zip, address and homepage
+3f8176c fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+

@@ -1,0 +1,6 @@
+
+The command exited with code 1.
+Output:
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python.exe
+INFO: Could not find files for the given pattern(s).
+

@@ -1,0 +1,14 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\write_final_master_192.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -23,7 +23,7 @@
+   console.log('Loading Excel file...');
+   const wb = new ExcelJS.Workbook();
+   await wb.xlsx.readFile(targetXlsxPath);
+-  const ws = wb.getWorksheet(1);
++  const ws = wb.worksheets[0];
+   
+   // Ensure header
+   const headerRow = ws.getRow(1);
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

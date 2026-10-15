@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+woorimedia length: 1043348
+Phones on woorimedia: []
+

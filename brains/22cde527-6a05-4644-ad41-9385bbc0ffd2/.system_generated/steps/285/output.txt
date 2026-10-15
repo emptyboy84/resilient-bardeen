@@ -1,0 +1,15 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 726 lines>
+ | "주식회사인텔리코드" | 대표: "김승호" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[347/421] Row 2187 | "우마테크" | 대표: "" | 구: "강서구"
+  => MATCH CONFIRMED: 480-87-02831 (주식회사 우마테크) | 주소: "부산광역시 강서구 녹산산업중로 224 224, Noksansaneopjung-ro, Gangseo-gu, Busan, Republic of Korea" | 대표: "이근조" [계속사업자]
+[348/421] Row 2188 | "에스엠아이디" | 대표: "" | 구: "강서구"
+  => MATCH CONFIRMED: 603-81-88008 (（주）에스엠아이디) | 주소: "부산광역시 강서구 화전산단6로 46 (화전동) 46, Hwajeonsandan 6-ro, Gangseo-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[349/421] Row 2189 | "극동로직스" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 270-88-03017 (주식회사 극동로직스) | 주소: "부산광역시 남구 수영로266번길 10 101동 8층 2호 10, Suyeong-ro 266beon-gil, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+
+Last progress: 0s ago

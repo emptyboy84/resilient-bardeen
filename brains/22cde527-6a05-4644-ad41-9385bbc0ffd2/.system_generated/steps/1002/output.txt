@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Audited 99 candidates:
+Accepted strictly: 39
+Rejected: 60
+

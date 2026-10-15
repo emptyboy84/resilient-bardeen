@@ -1,0 +1,6 @@
+### Result
+"searched successfully"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  // 관할등기소: 전체등기소\n  const select = document.querySelector(\'select[id*="regi"], select[title*="관할등기소"], select\');\n  if (select) {\n    for (let opt of select.options) {\n      if (opt.text.includes(\'전체등기소\')) {\n        select.value = opt.value;\n        select.dispatchEvent(new Event(\'change\'));\n        break;\n      }\n    }\n  }\n\n  // 폐쇄등기기록 포함\n  const checkboxes = Array.from(document.querySelectorAll(\'input[type="checkbox"]\'));\n  const closeChk = checkboxes.find(c => {\n    const parent = c.parentElement;\n    return parent && parent.textContent.includes(\'폐쇄등기기록 포함\');\n  });\n  if (closeChk) closeChk.checked = true;\n\n  // 검색어 입력\n  const input = document.querySelector(\'input[type="text"][title*="검색어"], input[type="text"]\');\n  if (input) {\n    input.value = \'비케이피\';\n    input.dispatchEvent(new Event(\'input\'));\n    input.dispatchEvent(new Event(\'change\'));\n  }\n\n  // 검색 버튼 클릭\n  const anchors = Array.from(document.querySelectorAll(\'a, button\'));\n  const searchBtn = anchors.find(a => a.textContent.trim() === \'검색\');\n  if (searchBtn) {\n    searchBtn.click();\n    return \'searched successfully\';\n  }\n  return \'search button not found\';\n}');
+```

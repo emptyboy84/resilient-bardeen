@@ -1,0 +1,13 @@
+The search for ""브이알코리아" "부성은"" returned the following summary:
+'브이알코리아'와 '부성은'이라는 키워드는 **2009년 7월 부산에서 신설된 법인** 정보와 관련이 있습니다[1][2].
+
+*   **관련 정보:** 2009년 7월 말 한국경제신문의 신설법인 현황 자료에 따르면, 부산광역시 우동(센텀벤처타운)에 '브이알코리아'라는 법인이 설립되었으며, 당시 대표자는 '부성은'으로 기재되어 있습니다[1][2][3].
+*   **사업 목적:** 해당 법인의 주요 사업 목적은 '유원지, 테마파크, 과학관, 체험박물관, 교육시설 및 연구시설의 건립 운영'으로 명시되어 있습니다[1][2].
+
+참고로, 이후 여러 해가 지나면서 '브이알코리아'라는 동일하거나 유사한 명칭의 법인이 다른 지역이나 시기에 설립된 사례(예: 2019년 광진구 소재 법인 등)가 있으나, 질문하신 '부성은' 대표와 관련된 기록은 2009년 당시의 자료에서 확인됩니다[2][4].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ITf_eENCbXNewE74D0gQgpccOFRPfLCEqaf75Q-2Oale_2ksY_lOealyATG2JPbeuAvXxKQzr9woLooDjuQJ1LZRiVyepYOShm_7j8RghKm58PVng0MeyGPUfl0Gi58=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPivIYbd96rdUK10czbTFSSOd8l2qgtysWYSRBrjRmpVJLy7kfLyjfQYrPHIANEkIB8Kg4V-u_mIYPY625wEdlTgBf8r4X4LyQdIdaSQUc20yclKcge9WsxBr_vDGUmYDxIk2B)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ITf_eENCbXNewE74D0gQgpccOFRPfLCEqaf75Q-2Oale_2ksY_lOealyATG2JPbeuAvXxKQzr9woLooDjuQJ1LZRiVyepYOShm_7j8RghKm58PVng0MeyGPUfl0Gi58=)
+[4] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb40I7ykZQ-ULawPPrwf-kLP_z0y4e7EgoNs2r7QAi0jvFRLUTaeiRxKy5f4kJPcyygt5QjMFSZjin8An3pzWfPiubRQxiuYK9tcScSJu3KCHWTUzECoUD9PPDyD0UjHBrQ_P9FHsZKMUn)

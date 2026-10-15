@@ -1,0 +1,34 @@
+The search for ""브이알코리아" "부산" "영화" OR "영화업"" returned the following summary:
+문의하신 키워드와 관련하여 부산 지역 내 VR(가상현실) 및 영화 관련 정보는 다음과 같습니다.
+
+### 1. VR 관련 주요 기관 및 업체
+*   **부산 가상융합산업 혁신센터 (부산 가상증강현실 융복합센터):** 부산 지역 VR·AR·MR 산업 생태계 조성을 위한 스타트업 발굴, 육성, 장비 대여, 교육 프로그램을 운영하는 핵심 센터입니다[1].
+*   **관련 기업 및 서비스:**
+    *   **삼우이머션:** 몰입현실(Immersion Reality) 기술을 기반으로 다양한 XR 콘텐츠 및 서비스를 제공하는 부산 소재 기업입니다[2].
+    *   **VR메이커스 부산지부:** VR 행사 렌탈, 체험존 운영, 영상 제작 등을 수행합니다[3][4].
+    *   **엠라인스튜디오:** VR/AR 안전 교육 및 직무 훈련 콘텐츠 개발 업체로 부산 안전체험장 등에 관련 콘텐츠를 공급한 이력이 있습니다[5].
+    *   **드림앤잡스:** VR/AR 진로 교육 및 메타버스 콘텐츠 개발 등을 수행합니다[6].
+
+### 2. 영화 및 영상 제작 인프라
+*   **부산기장촬영소 (2027년 1월 개소 목표):** 부울경 최초의 버추얼 프로덕션(VFX) 스튜디오가 포함될 예정입니다. 대형 LED 월을 설치하여 실시간 가상 배경 구현이 가능하며, 상업영화 및 OTT 콘텐츠 제작을 위한 첨단 인프라로 기대를 모으고 있습니다[7].
+*   **과거 사례:** 부산국제영화제(BIFF) 기간 동안 KT와 바른손이 협력하여 'VR CINEMA IN BIFF'라는 VR 영화 상영관을 운영한 사례가 있으며, 영화의전당 등에서 관련 체험이 이루어진 바 있습니다[8].
+
+### 3. 참고사항 (검색 키워드 관련)
+*   **"브이알코리아":** 검색 결과상 '브이알코리아'라는 명칭을 가진 업체가 존재하나, 주로 교육용 VR 판매 및 컨설팅업(서울 소재 등)과 관련된 신설 법인 등으로 언급됩니다[9][10]. 부산 지역의 특정 영화 사업체로서의 연관성은 확인되지 않습니다.
+*   **기타:** '오큘러스브이알코리아' 등은 게임물 등급분류사업자로 언급된 사례가 있으나, 특정 지역 기반의 영화업체와는 무관합니다[11][12].
+
+부산에서 VR과 영화/영상을 결합한 사업이나 기술에 관심이 있으시다면, **부산 가상융합산업 혁신센터**를 통해 관련 기업 지원이나 최신 기술 동향을 확인하시는 것이 가장 정확합니다[1].
+
+Sources:
+[1] [ictxr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxCChN1L-hXqFWP0GUCmjzLvrkEgzGc0wSQhmZ5CWh8DFBE2L7bx18gXlmwl18sQ8D2oFsLGRQeSrwHm50DUBlSvLBwU5oBkp0GYUtbEet_hvU)
+[2] [samwooim.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvE0br5MKoN8TtTmUb6WKeUEOXABP8u7wtXn2fLWhxF7cnMDX_UOvHgUtaq9FcDJv1jKE0eNFUhrpH-SFzIuBwbwOSxfO8Y7sYDxaqekUyUCn58ASlSTUdhY0D)
+[3] [vrmakers.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwYUC_xvp6sOmCFDbrJu-8IM7jdK6HlxK753bxw1xRZ-e1Q8jyu2bK2kOCyjq6jadnxl08WtUniyr3mhcocvczx6rT1qISmi1Zkmx_4Bw=)
+[4] [vr-impact.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWCSkjmGVGqrH048c8mKtYUKwPHHIbnkK0TOTuFpnBcQ4BiCIIbK5Xb2fW0fgleBUMBQx-so-EWX2D4HtqAPUk5hn92_arGF-TguJ3rQSiB6i3jOmA44rv6YNrtdNdmbw=)
+[5] [m-line.tv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfIQbk63FQLAqmCTnyfRONsnA3MwU0NQ0dyuDUi-DQNxfV61vE7gVfwdNHhClfZW6m8QhZ_p2MB-3EWIs7vEivEbUTohs4htifrieQlw==)
+[6] [dreamjob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmMV2iEvBDg9PTx3lz7MhXUKEWYgll4NaWL_IMDrhu0h21epFbcZAc5-UbghlIOBscsmjya5xsgD2fVfc_KzRJcK4E5bc7EETk321-p1E=)
+[7] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyh5QsHKLF33wiI0sXQhJtTfpWmhs9FhQIeK-0P1uwFZX7GPpse63mwo9Pn7sIva054nHOpOWhVeCKaBL1m086Hjo6U2CZQwp0gjvg_UODDqtIVoXk_1-P-y3xgk-la9UpGr4M-8kHpxbnItjFfdFTM7NJc-JEMQ==)
+[8] [ebn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFazn3Fp0n7cyUlzEUCrlh9tUdQg0WGrgPVgeQC484bO1_dn8FL0PnKdbyCfAn9nA5WF_vRiU1qghknWcAgoHx1NsHwTf0Dtlgo2JQb5q4TAnFh7mezvDktavxXO7vZA3HwqJB9nz-Q2EJ7JYw2)
+[9] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdongHCHSljJoTzFa-SsbZ9lD1VbEDxWiCUns-3N_IuBBJ-7uxLC39Ldrs8G0ZFfmPG-RLxXSW-EYEcS8qVc7Iu_a7Omi-Y38N4Uf4_2QdwisuOs5TPIQFlD5isdRrnAQ6OBxj6Zbc0U=)
+[10] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdongHCHSljJoTzFa-SsbZ9lD1VbEDxWiCUns-3N_IuBBJ-7uxLC39Ldrs8G0ZFfmPG-RLxXSW-EYEcS8qVc7Iu_a7Omi-Y38N4Uf4_2QdwisuOs5TPIQFlD5isdRrnAQ6OBxj6Zbc0U=)
+[11] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqT3WE25r-VHY3sDoqCRd-ww4lfW_KeruWbXXCKy91iVaV0u-A7Ps7v7Sz9TeWCSagjHMxdDOby7wRq11YJ7QDCZgEMlEuN2me04QLo5-C2Jg9SP0PHKVJb1-d8g3sia9LNwK5dQS1og==)
+[12] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqT3WE25r-VHY3sDoqCRd-ww4lfW_KeruWbXXCKy91iVaV0u-A7Ps7v7Sz9TeWCSagjHMxdDOby7wRq11YJ7QDCZgEMlEuN2me04QLo5-C2Jg9SP0PHKVJb1-d8g3sia9LNwK5dQS1og==)

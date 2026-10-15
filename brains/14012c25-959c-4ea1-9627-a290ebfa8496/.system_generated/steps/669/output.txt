@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+=== com.seyeonsoft.pastelgirl (Status: 404) ===
+=== com.seyeonsoft.lily.style (Status: 404) ===
+=== com.seyeonsoft.pastel.party (Status: 404) ===
+

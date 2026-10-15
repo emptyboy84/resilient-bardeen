@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260820.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260821_industry.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260825_1116.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260826_091624.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+Found phone in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_여기까지했어요.csv
+

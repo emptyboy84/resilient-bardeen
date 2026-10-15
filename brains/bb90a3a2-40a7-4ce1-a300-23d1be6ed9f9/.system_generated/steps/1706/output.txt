@@ -1,0 +1,11 @@
+The search for ""김효성" "젤시스" "010" OR "051" OR "070"" returned the following summary:
+검색하신 키워드와 연관된 기업 정보는 다음과 같습니다.
+
+* **기업명:** (주)젤시스[1]
+* **대표자:** 김효성[1]
+* **소재지:** 부산광역시 금정구 중앙대로 2044, 4층 (남산동, 남산주유소)[2]
+* **업종:** 시뮬레이터 장비 개발 및 제조업 / 배전반 및 전기 자동제어반 제조업[1][2]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjJ8h2_Oi8OGeyas1niQk03P-_LxCWuL9wJtRzqM3rN2XStCK6p0vW6qaIhWQO86OJubxPFnVNABxiEioLowfUy9-EGkft3oh878lkpKwAM1YiG1zt6IYNDV5BEd0yMldB4LwWdpEICJpcqpc6OVCsLmg5tzfyExfR07QWF_ZfXyHzEHbE8Z85zKnVEXIwpW5zcr0fSe6TDxbX2ZFou0oM0vB0Exu8LCSYHt3CO9gb2clEsHkHywKB0gjarDuM9oGH)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDESt4FFiCuVbAM5G4wCvQARH3V9dmbE3l48xX9A8wVLSYzHXanINTrhmkyGB2DqVOcV3esllohLzE2-hE-Uj9733f36Ma5VeciuV4znkBtw1wdGSf)

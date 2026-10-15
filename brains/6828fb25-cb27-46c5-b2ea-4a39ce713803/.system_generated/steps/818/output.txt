@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/8698600607');
+```
+### Page
+- Page URL: https://bizno.net/article/8698600607
+- Page Title: 주식회사 제일에프앤에스(Cheil F\u0026S)
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T03-37-00-717Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T03-36-56-279Z.log#L1-L8

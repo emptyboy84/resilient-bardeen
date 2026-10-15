@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Verified results count: 421
+With bizno in verified_results: 150
+

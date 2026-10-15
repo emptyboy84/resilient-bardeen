@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:23 �:62
++     const jsonLdMatch = html.match(/\"telephone\":\"\+82\s*([^\"]+)\" ...
++                                                              ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:24 �:54
++     const dtMatch = html.match(/<dt>�ȭ<\/dt>\s*<dd>([^<]+)<\/dd>/);
++                                                      ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:24 �:59
++     const dtMatch = html.match(/<dt>�ȭ<\/dt>\s*<dd>([^<]+)<\/dd>/);
++                                                           ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:25 �:77
++ ...  = jsonLdMatch ? jsonLdMatch[1] : (dtMatch ? dtMatch[1].trim() : null ...
++                                                                  ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:26 �:26
++     console.log(item.name, item.biz, '->', phone || 'None');
++                          ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:26 �:50
++     console.log(item.name, item.biz, '->', phone || 'None');
++                                                  ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:26 �:53
++     console.log(item.name, item.biz, '->', phone || 'None');
++                                                     ~~~~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:27 �:3
++   }
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:28 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:29 �:6
++ test();"
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

@@ -1,0 +1,13 @@
+The search for ""한국전화번호부" "부산지점" 사업자등록번호 OR "051-851-0114"" returned the following summary:
+한국전화번호부(주) 부산지점과 관련하여 요청하신 정보는 다음과 같습니다.
+
+*   **전화번호:** 051-851-0114[1][2]
+*   **사업자등록번호:** 한국전화번호부(주)의 사업자등록번호는 **102-81-19177**입니다[3][4]. (참고: 지점별로 별도의 사업자등록번호를 사용하지 않고 본사의 번호를 공통으로 사용하는 경우가 많습니다.)
+*   **참고사항:** 온라인상에 '한국전화번호부 부산지점'으로 검색되는 일부 정보(금정구 부곡동 주소 등)와 관련하여, 과거의 정보이거나 사설 업체와의 혼동이 있을 수 있으니 정확한 확인이 필요합니다[5]. 한국전화번호부(주) 본사 공식 홈페이지(www.isuperpage.co.kr)를 통해 확인하거나, 전국지점 대표 ARS인 080-777-1144로 문의하시는 것을 권장합니다[3][5][4].
+
+Sources:
+[1] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58k4gj3OC9nPcKHXQmgWF2W1HJCFDlASjHwMsaUMClbkHbUtY6UZtTXxR3mPOdx5Q2QRJvg8SzY2s892f5RByS8spzyzCoiHPxvRSnMH6Cy3sTgdbpW5zTc6Lby2tm2rVSCf5oKJf4NTtDTmrcw5PHZJgJpvR1msOK8s7pjqV3g6P3ep5uksavIO5Q80PBKgZzU1uNdv4rNsK4FGTYyUH6W_-DHoLryZjIy9-qW5zzYlNUlHyAuY6Hld9rQFZj-aaT9phNzyuRowxblFR-26BlIFd29CkurTLUteN)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58k4gj3OC9nPcKHXQmgWF2W1HJCFDlASjHwMsaUMClbkHbUtY6UZtTXxR3mPOdx5Q2QRJvg8SzY2s892f5RByS8spzyzCoiHPxvRSnMH6Cy3sTgdbpW5zTc6Lby2tm2rVSCf5oKJf4NTtDTmrcw5PHZJgJpvR1msOK8s7pjqV3g6P3ep5uksavIO5Q80PBKgZzU1uNdv4rNsK4FGTYyUH6W_-DHoLryZjIy9-qW5zzYlNUlHyAuY6Hld9rQFZj-aaT9phNzyuRowxblFR-26BlIFd29CkurTLUteN)
+[3] [isuperpage.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaRUUST7l4ics8GnIGIPjvplTVm85tKm9GgARgWS9sfJLkWWlpJZW0dtjfzxJJR0W3u4jiNXSaRnVTK6gK_TXHNwXvZy_fIdjv8D_lF_L12T7HKQ==)
+[4] [isuperpage.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1ogkN-UawD6nASM2gS8GIdkwbNLPHBrNW1FklkTopuooyEIKKj-Ycu2jHMT2LQcBZG7B71YWELVBymC1Re_R0i09_bLsFJ2Totx_euKThkQZh7qH-Nt_eRi7D_3g=)
+[5] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-dAW_i9OevarDXbP4AqxiTQumqLHh306qXtWt-kAIQj74996PGmLwjrQPx66k6JDajpUhmUUq3UzSEnXqX5XDw3Rr9--iq54vnlqQPi9cKYDvevwm8Esk2X98hUnYxdWoH3D95COMzatULiXuNDltIMH1V8YA8mLH2RBFgVNatN7yBjtQT1cKW5kWtg04nsRg3Wo=)

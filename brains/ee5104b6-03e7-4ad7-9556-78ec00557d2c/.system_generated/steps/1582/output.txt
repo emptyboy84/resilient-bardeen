@@ -1,0 +1,43 @@
+### Result
+[
+  {
+    "text": "키녹스",
+    "html": "<strong class=\"t-keyword\">키녹스</strong>",
+    "path": [
+      "STRONG.t-keyword [onclick=null] [href=null]",
+      "P.name [onclick=null] [href=null]",
+      "DIV.flex items-center [onclick=null] [href=null]",
+      "SPAN.q-btn__content text-center col items-center q-anchor--skip justify-center row [onclick=null] [href=null]",
+      "BUTTON.q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-item [onclick=null] [href=null]",
+      "DIV.q-item q-item-type row no-wrap [onclick=null] [href=null]"
+    ]
+  },
+  {
+    "text": "키녹스",
+    "html": "<strong class=\"t-keyword\">키녹스</strong>",
+    "path": [
+      "STRONG.t-keyword [onclick=null] [href=null]",
+      "P.name [onclick=null] [href=null]",
+      "DIV.flex items-center [onclick=null] [href=null]",
+      "SPAN.q-btn__content text-center col items-center q-anchor--skip justify-center row [onclick=null] [href=null]",
+      "BUTTON.q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-item [onclick=null] [href=null]",
+      "DIV.q-item q-item-type row no-wrap [onclick=null] [href=null]"
+    ]
+  },
+  {
+    "text": "키녹스",
+    "html": "<strong class=\"t-keyword\">키녹스</strong>",
+    "path": [
+      "STRONG.t-keyword [onclick=null] [href=null]",
+      "P.name [onclick=null] [href=null]",
+      "DIV.flex items-center [onclick=null] [href=null]",
+      "SPAN.q-btn__content text-center col items-center q-anchor--skip justify-center row [onclick=null] [href=null]",
+      "BUTTON.q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-item [onclick=null] [href=null]",
+      "DIV.q-item q-item-type row no-wrap [onclick=null] [href=null]"
+    ]
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const strongs = Array.from(document.querySelectorAll(\'strong\')).filter(s => s.innerText.includes(\'키녹스\'));\n  return strongs.map(s => {\n    let el = s;\n    let path = [];\n    for (let i = 0; i < 6; i++) {\n      if (!el) break;\n      path.push(`${el.tagName}.${el.className} [onclick=${el.getAttribute(\'onclick\')}] [href=${el.getAttribute(\'href\')}]`);\n      el = el.parentElement;\n    }\n    return { text: s.innerText, html: s.outerHTML, path };\n  });\n}');
+```

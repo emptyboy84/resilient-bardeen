@@ -1,0 +1,31 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_company_phone_numbers\merge_stage2_final.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -120,11 +120,22 @@
+   fs.writeFileSync(txtFilePath, tsvText, 'utf8');
+   console.log(`Saved TXT to: ${txtFilePath} (${fs.statSync(txtFilePath).size} bytes)`);
+ 
+-  // 2. Save XLSX
++  // 2. Save XLSX (handle lock gracefully)
+   const xlsxFileName = '크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx';
+   const xlsxFilePath = path.join(targetDir, xlsxFileName);
+-  await wbNew.xlsx.writeFile(xlsxFilePath);
+-  console.log(`Saved XLSX to: ${xlsxFilePath} (${fs.statSync(xlsxFilePath).size} bytes)`);
++  try {
++    await wbNew.xlsx.writeFile(xlsxFilePath);
++    console.log(`Saved XLSX to: ${xlsxFilePath} (${fs.statSync(xlsxFilePath).size} bytes)`);
++  } catch (err) {
++    if (err.code === 'EBUSY') {
++      const altFileName = '크레탑_부산CT산업현황_전화번호검증완료_전체3978개사_심층2차.xlsx';
++      const altFilePath = path.join(targetDir, altFileName);
++      await wbNew.xlsx.writeFile(altFilePath);
++      console.log(`[Notice] Primary file is currently open in Excel. Saved updated copy to: ${altFilePath} (${fs.statSync(altFilePath).size} bytes)`);
++    } else {
++      throw err;
++    }
++  }
+ }
+ 
+ mergeAndSaveFullCretap();
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

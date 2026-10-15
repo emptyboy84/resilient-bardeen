@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+--- Bizno query ---
+Bizno status: 200
+Bizno len: 23561
+Bizno phone th: 
+--- Saramin query ---
+Saramin status: 200
+Saramin len: 279904
+Saramin all phones: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+

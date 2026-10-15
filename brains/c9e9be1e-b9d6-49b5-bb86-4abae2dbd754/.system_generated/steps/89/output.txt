@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Step: 311 type: SYSTEM_MESSAGE tool_calls: undefined
+Step: 312 type: PLANNER_RESPONSE tool_calls: undefined
+Step: 320 type: PLANNER_RESPONSE tool_calls: [ 'name' ]
+Step: 322 type: PLANNER_RESPONSE tool_calls: [ 'name' ]
+Step: 323 type: GENERIC tool_calls: undefined
+Step: 344 type: PLANNER_RESPONSE tool_calls: [ 'name' ]
+Step: 345 type: GENERIC tool_calls: undefined
+Step: 366 type: PLANNER_RESPONSE tool_calls: undefined
+Step: 374 type: PLANNER_RESPONSE tool_calls: undefined
+Step: 378 type: PLANNER_RESPONSE tool_calls: undefined
+Step: 383 type: GENERIC tool_calls: undefined
+

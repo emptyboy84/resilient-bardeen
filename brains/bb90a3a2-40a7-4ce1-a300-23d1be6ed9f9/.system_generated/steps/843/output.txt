@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Result len: 16143
+Titles found: 1
+0 class="titles">
+											  주식회사 스튜디오정글  
+											
+											 김건* 	
+											
+											 스포츠 클럽 운영업
+Article links: 1
+/article/8198602478 주식회사 스튜디오정글
+

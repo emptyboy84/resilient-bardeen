@@ -1,0 +1,12 @@
+### Result
+"not found in innerHTML"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const match = document.body.innerHTML.match(/href="([^"]*cookiedeal[^"]*)"/i);\n  return match ? match[1] : \'not found in innerHTML\';\n}');
+```
+### Page
+- Page URL: https://www.google.com/search?q=%22609-09-45485%22
+- Page Title: "609-09-45485" - Google 검색
+- Console: 0 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T03-50-59-333Z.log#L1

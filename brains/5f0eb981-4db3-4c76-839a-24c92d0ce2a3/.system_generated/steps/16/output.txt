@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     node.exe                                           24.11.1.0  C:\Program Files\nodejs\node.exe         
+Application     python.exe                                         0.0.0.0    C:\Users\lg\AppData\Local\Microsoft\Wi...
+
+
+

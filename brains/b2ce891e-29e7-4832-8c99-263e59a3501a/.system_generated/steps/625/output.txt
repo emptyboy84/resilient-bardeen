@@ -1,0 +1,15 @@
+The search for "site:theteams.kr "주식회사 파이"" returned the following summary:
+더팀스(The Teams) 사이트에 등록된 '파이' 관련 기업 정보는 다음과 같습니다:
+
+* **[주식회사 파이퀀트 (PiQuant)](https://www.theteams.kr/teams/1410)**[1]
+  * **소개:** IoT 액체 스캐너 및 분광 기술을 활용하여 유해 물질 및 성분을 분석·검출하는 기기를 개발하는 스타트업입니다[2][1]. 
+  * **대표자:** 피도연[1]
+
+* **[주식회사 파이디아](https://www.theteams.kr/teams/37397)**[3][4]
+  * **소개:** 전통놀이 및 체험학습, 실버 레크리에이션, 강사 양성 교구 등을 제조하는 중소기업입니다[3].
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKNH-nycBvMNVP902qMtcmO-5r0V3zHsH4CPfk6XvFSXVuDzo01APtxxBxaMtWdPw-MWEUOvtH44BfOA69iHsG4Zz2KYd5FQwFb-QQW1cvbAX8BmNk-tY=)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX62AS9gGYtuZEK6ypEtElwKqgpr8_cH1JA8wkcJv7L4Fn0eyjQvC2-h-CDa88YuRs9c0GOlfO1oZ9WoFza9Ky5z5TV_dY7BmJX3cG0m7xeASQ0oIHiQ73MCwUmEcBtrqPkq-Uhr0=)
+[3] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvrRuGuKrwIO51tn5JuAthY0uKf4fi70aT0s4uQm9PB4a1yYvSwH7OviYM263f13HsY6WIiyOhsFIeRxey42wJhvxUDH1Bh9npHpTlKAeZF4c3c6dQCJ7RuUE=)
+[4] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK_D3ckxpoQubTO19BN7RzZyp3NMlLPrg-I9RRJ03IqoJSjVv-K-MVEuCJJQ6__xPH6R11Eglomnz8vi9qFlGCV56gB2N_jfcd5fWOs87_1rPZjFHYbDOLsq0=)

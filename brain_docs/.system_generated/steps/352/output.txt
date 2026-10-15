@@ -1,0 +1,17 @@
+The search for ""주식회사 비엔씨이" OR ("비엔씨이" "동아대학교 산학관") OR ("비엔씨이" "346-88-02353") 전화 OR TEL" returned the following summary:
+공공데이터 및 기업 정보에 따르면, **주식회사 비엔씨이**는 부산광역시 사하구 동아대학교 창업보육센터(산학관 관련 시설) 내에 입주했던 이력이 있는 정보처리 및 컴퓨터 관련(응용 소프트웨어 개발 및 공급업) 중소기업입니다[1][2]. 
+
+다만, 민간 기업의 개별 상세 전화번호(직통 번호)는 개인정보 보호 및 기업 정책상 공개된 웹 디렉토리에서 조회에 제한이 있을 수 있습니다[3]. 
+
+해당 기업이 입주하거나 연계되어 있던 **동아대학교 창업보육센터 및 산학협력단** 관련 행정 부서를 통해 문의를 진행하실 수 있습니다:
+
+* **동아대학교 창업보육센터 / 산학협력단 대표 연락처:** 051-200-6532~3 (창업보육센터 사무실) 또는 051-200-6500 (산학협력단)[4][5]
+* **위치:** 부산광역시 사하구 낙동대로550번길 37, 동아대학교 산학관 (승학캠퍼스)[6]
+
+Sources:
+[1] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB3GQ21o395f_MnnWZc-pt-CZGfjbq3NQei4gWW_hyiIJPSlsD3MdpkL9yAOUgeW7WMRrOO30cl9z52bvYqLa7xSXlR7vuUn4SxGcN8nJ5S3Gep_EWCT1n7AWb)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMK_TSBUC_3rTHggND0OVcj5lRqpvJNnhkVsrceML0ilYFD6hncs4EnZTs0SCc7AzvBYGDg48UQ9GeopMAazMNWHjaZN1bR3pX-_WeIVBJ1rCAGfZLNcnq09pTwMdv_CUyQ0vl3Kgdz5dBMudOuMKoUhZp6e8GA-ZMTMh2v2HzFhzxVeF3vchf89Nj8RdLfq47_4PCKekkE1a7ac3dhQOEGrOqjfieiy6IVx3eay-5Co8S_BuCkRQQXXS93g6QP285-FeQ59HDw7zwGfG7RgXvjy1p74OzTN9WIZ1S1bdcir1LZvc2RIvhGgJaBEb16J8qY3AOty7WZpVRp2A5A-O2SnPSHKQ7JAkmoFPiYIc-cOuHa5zj9o2SN4YMGhrz3F1V0Sus3ejSnwssny4fIBBIMJbsUrAKZWQKuE7yUTdI6Q=)
+[3] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJDaiHjnqrAnaeyJdRbTOlztVqq0QwygVoE_uiqHqf2b1Zyc0oK6i2RYyyqWfNvtmxHUTUg2cVlq28SVMv0_lR2viFOAyhw5UAkRXJ-wN3EW7y2QMYshrKSQSsMw==)
+[4] [donga.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUsoqKFV00sLuch4mfqAFK4HKIqgg0sCvbYfKnbklss_3SPr26XwjrW2ah9C9bHgWdFe79hZ4T8VtLSLA9TdVIeu9N5ITjJCQLXuwM5ud5lrgWHxykLX47DTGx8CfUCr9pCM1_8OEUdZ8VeKmbirX-hlHbQWLV)
+[5] [donga.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG27PnUUCxh5-EBLs2irzFAauX1eYN8LxYrQKlskR8DRJ3qa-j8DA86n4wSTi8_vzxmS14wWea42100MpqEFla_uyixvjcNJKSoLC5p6exdYI67-YahmE7qXlZ2VvdhKk-7faLpYpiAwOr-siOC)
+[6] [donga.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWL3quGSL7k962oiip0JuBlw1pI7UiDtJZSIzbQ4zFFh8q97H60I7QTSHoVwe1F_rinCUP8SKYcLXSYVRgdOKktX7KtGhX_LmDB5uzl-KRKh-GiwD-4iDpeKZ8fuy4mGV3S-KnBSOF8RJyzVMFMDP_WutFS4qcGn4t_K9OyVuJKksiZg==)

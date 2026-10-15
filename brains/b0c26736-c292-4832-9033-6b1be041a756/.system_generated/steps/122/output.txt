@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%EC%9C%84%EB%93%9C%EB%A7%88%EC%9D%B8%EB%93%9C+%EB%AF%B8%EC%9D%8C%EB%8F%99');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EC%9C%84%EB%93%9C%EB%A7%88%EC%9D%B8%EB%93%9C+%EB%AF%B8%EC%9D%8C%EB%8F%99
+- Page Title: 위드마인드 미음동 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-27-50-750Z.yml)

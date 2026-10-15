@@ -1,0 +1,6 @@
+### Result
+""
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const table = document.querySelector(\'table\');\n  return table ? table.innerText : document.body.innerText;\n}');
+```

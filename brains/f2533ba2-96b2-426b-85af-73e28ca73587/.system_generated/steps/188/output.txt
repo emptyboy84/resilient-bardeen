@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:34
++   const m = text.match(/href=\"([^\"]*7658601226[^\"]*)\"/);
++                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

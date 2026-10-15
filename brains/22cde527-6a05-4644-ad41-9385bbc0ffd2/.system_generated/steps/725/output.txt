@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+C:\Users\lg\Desktop\~$연구소_전문, 과학 및 기술 서비스업+배현명_314번~384번.xlsx size: 165 mtime: 2025-07-03T08:52:45.779Z
+C:\Users\lg\Documents\카카오톡 받은 파일\(안상숙)연구소_전기전자_기계DB+0808.xlsx size: 1600429 mtime: 2025-09-01T04:25:56.240Z
+

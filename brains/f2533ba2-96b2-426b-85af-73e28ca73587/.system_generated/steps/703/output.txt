@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=IP9211');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=IP9211
+- Page Title: (주)금강기업 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T03-56-47-315Z.yml)

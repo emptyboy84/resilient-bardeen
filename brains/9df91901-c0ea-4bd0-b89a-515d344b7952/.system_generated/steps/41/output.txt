@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Querying: https://book.mcst.go.kr/html/searchList.php?search_area=&search_state=13&search_kind=1&search_type=1&search_word=%EB%B9%84%EC%A0%84%EC%A1%B0%EC%9D%B4
+Found links: [
+  'searchView.php?search_area=&amp;search_kind=1&amp;search_type=1&amp;search_word=비전조이&amp;search_state=13&amp;regn=251002013000013&amp;ac1=6260000&amp;ac2=3330000&amp;area_code=&amp;area_code2=&amp;page_type=&amp;cpage=1'
+]
+
+--- Detail: https://book.mcst.go.kr/html/searchView.php?search_area=&search_kind=1&search_type=1&search_word=비전조이&search_state=13&regn=251002013000013&ac1=6260000&ac2=3330000&area_code=&area_code2=&page_type=&cpage=1
+ 출판사인쇄사 - 내용보기 상호 비전조이 등록신고번호 251002013000013 지역 부산광역시 해운대구 자료구분 출판사 등록번호 251002013000013 등록일자 2013-04-24 등록청 소재지 부산광역시 해운대구 변경등록 사항 폐업일자 2018-03-08 영업구분 폐업 일자 2018-03-08 
+

@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return Array.from(document.querySelectorAll(\'a\')).map(x => ({ href: x.href, text: x.innerText })).filter(x => x.href.startsWith(\'http\') && !x.href.includes(\'google\'));\n}');
+```

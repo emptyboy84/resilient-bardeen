@@ -1,0 +1,25 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 709 lines>
+광고대행" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[339/421] Row 2179 | "더천유" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[340/421] Row 2180 | "인터그라픽스커뮤니케이션" | 대표: "심상도" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 340/421 | Matched: 101 | Unverifiable: 239 <<<
+[341/421] Row 2181 | "디자인회관사무소" | 대표: "이미래" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[342/421] Row 2182 | "디자인문" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[343/421] Row 2183 | "아신 테크" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[344/421] Row 2184 | "주식회사노크유" | 대표: "최유수" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[345/421] Row 2185 | "지니에듀텤" | 대표: "이성웅" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[346/421] Row 2186 | "주식회사인텔리코드" | 대표: "김승호" | 구: "서구"
+
+Last progress: 0s ago

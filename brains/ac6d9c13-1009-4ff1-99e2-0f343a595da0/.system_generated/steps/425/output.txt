@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Biz numbers in regalcompass: [ '121-88-03957' ]
+Matching lines: [
+  '<span>대표 허수정</span><span>사업자등록번호 121-88-03957</span><span>부산광역시 동래구 충렬대로271번길 10, 2층 202-157호(칠산동)</span><span>전화 <a href="tel:07082774891">070-8277-4891</a></span><span><a href="mailto:cs@regalstudio.co.kr">cs@regalstudio.co.kr</a></span><span>개인정보 보호책임자 허수정</span><span>호스팅 카페24 주식회사</span></p>'
+]
+

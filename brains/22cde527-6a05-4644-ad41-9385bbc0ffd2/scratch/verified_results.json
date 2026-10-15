@@ -1,0 +1,3278 @@
+{
+  "126": {
+    "rowNumber": 126,
+    "name": "블루호텔레코딩스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "504": {
+    "rowNumber": 504,
+    "name": "89Light",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "508": {
+    "rowNumber": 508,
+    "name": "LINC",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "536": {
+    "rowNumber": 536,
+    "name": "김정보",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "537": {
+    "rowNumber": 537,
+    "name": "꿈해몽",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "539": {
+    "rowNumber": 539,
+    "name": "나래바람",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "547": {
+    "rowNumber": 547,
+    "name": "냉이영화",
+    "bizno": null,
+    "reason": "False positive pruned"
+  },
+  "552": {
+    "rowNumber": 552,
+    "name": "녹생광고연합그린하우징",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "568": {
+    "rowNumber": 568,
+    "name": "단디콤",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "589": {
+    "rowNumber": 589,
+    "name": "도서출판국제",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "593": {
+    "rowNumber": 593,
+    "name": "도서출판일광",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "598": {
+    "rowNumber": 598,
+    "name": "도성회",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "602": {
+    "rowNumber": 602,
+    "name": "동그라미광고공사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "607": {
+    "rowNumber": 607,
+    "name": "동아대학교출판부",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "611": {
+    "rowNumber": 611,
+    "name": "동화사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "619": {
+    "rowNumber": 619,
+    "name": "드림유엔터테인먼트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "639": {
+    "rowNumber": 639,
+    "name": "디자인에코",
+    "bizno": "603-10-85753",
+    "matchedTitle": "디자인에코",
+    "matchedCeo": "이돈희",
+    "matchedAddress": "부산광역시 금정구 금정로 147, 4층(장전동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6031085753",
+    "matchedVia": "BiznoSearch"
+  },
+  "645": {
+    "rowNumber": 645,
+    "name": "디지털포토2017",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "649": {
+    "rowNumber": 649,
+    "name": "라온엔터테인먼트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "692": {
+    "rowNumber": 692,
+    "name": "메리데브",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "701": {
+    "rowNumber": 701,
+    "name": "문화일보 수정중앙지국",
+    "bizno": "605-01-99891",
+    "matchedTitle": "문화일보수정중앙지국",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 동구 망양로 739 739, Mangyang-ro, Dong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6050199891",
+    "matchedVia": "BiznoSearch"
+  },
+  "703": {
+    "rowNumber": 703,
+    "name": "주식회사 브이드림",
+    "bizno": "186-86-00972",
+    "matchedTitle": "주식회사 브이드림",
+    "matchedCeo": "김민지",
+    "matchedAddress": "부산광역시 동구 중앙대로 216, 13층(초량동, 교원부산빌딩) 216, Jungang-daero, Dong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1868600972",
+    "matchedVia": "BiznoSearch"
+  },
+  "708": {
+    "rowNumber": 708,
+    "name": "모션박스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "714": {
+    "rowNumber": 714,
+    "name": "무몽크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "725": {
+    "rowNumber": 725,
+    "name": "박기양",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "730": {
+    "rowNumber": 730,
+    "name": "버킷리스트",
+    "bizno": null,
+    "reason": "전라북도 정읍시 소재(타지역)"
+  },
+  "745": {
+    "rowNumber": 745,
+    "name": "불교문학신문",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "749": {
+    "rowNumber": 749,
+    "name": "북인더백",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "750": {
+    "rowNumber": 750,
+    "name": "불교방송",
+    "bizno": "604-82-04181",
+    "matchedTitle": "(재)부산불교방송",
+    "matchedCeo": "박형수/공원배",
+    "matchedAddress": "부산광역시 동구 범일로 102 (범일동, BBS부산불교방송사옥)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6048204181",
+    "matchedVia": "Bizno+KCC"
+  },
+  "751": {
+    "rowNumber": 751,
+    "name": "불교텔레비젼",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "757": {
+    "rowNumber": 757,
+    "name": "브이알코리아",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "764": {
+    "rowNumber": 764,
+    "name": "블루레코딩",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "768": {
+    "rowNumber": 768,
+    "name": "비문",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "787": {
+    "rowNumber": 787,
+    "name": "사단법인한국문화콘텐츠협회",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "811": {
+    "rowNumber": 811,
+    "name": "센텀아트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "817": {
+    "rowNumber": 817,
+    "name": "소울필름(SOULFILM)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "831": {
+    "rowNumber": 831,
+    "name": "스카이미디어",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "848": {
+    "rowNumber": 848,
+    "name": "시드",
+    "bizno": "617-33-90104",
+    "matchedTitle": "시드백",
+    "matchedCeo": "백병수",
+    "matchedAddress": "부산광역시 남구 석포로91번길 82 (대연동) 82, Seokpo-ro 91beon-gil, Nam-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6173390104",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "874": {
+    "rowNumber": 874,
+    "name": "아브뉴다연",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "955": {
+    "rowNumber": 955,
+    "name": "에프지엔터테인먼트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "987": {
+    "rowNumber": 987,
+    "name": "예일광고사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1015": {
+    "rowNumber": 1015,
+    "name": "우수경",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1022": {
+    "rowNumber": 1022,
+    "name": "월간좋은세상",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1034": {
+    "rowNumber": 1034,
+    "name": "위컴퍼니",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1035": {
+    "rowNumber": 1035,
+    "name": "위플라이엔터테인먼트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1047": {
+    "rowNumber": 1047,
+    "name": "윤서하",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1048": {
+    "rowNumber": 1048,
+    "name": "희웹툰",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1051": {
+    "rowNumber": 1051,
+    "name": "이노커뮤니케이션즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1061": {
+    "rowNumber": 1061,
+    "name": "이송",
+    "bizno": "440-86-00648",
+    "matchedTitle": "주식회사 이송",
+    "matchedCeo": "이정석",
+    "matchedAddress": "부산광역시 강서구 과학산단1로60번길 31(지사동, 부산테크노파크) 31, Gwahaksandan 1-ro 60beon-gil, Gangseo-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/4408600648",
+    "matchedVia": "BiznoSearch"
+  },
+  "1062": {
+    "rowNumber": 1062,
+    "name": "이수연",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1070": {
+    "rowNumber": 1070,
+    "name": "이지현",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1071": {
+    "rowNumber": 1071,
+    "name": "이진수",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1091": {
+    "rowNumber": 1091,
+    "name": "작은통일출판사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1113": {
+    "rowNumber": 1113,
+    "name": "조나단/이은석",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1115": {
+    "rowNumber": 1115,
+    "name": "족보만드는곳족보관",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1136": {
+    "rowNumber": 1136,
+    "name": "지엠이에스티부산지점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1146": {
+    "rowNumber": 1146,
+    "name": "창작집단1407",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1147": {
+    "rowNumber": 1147,
+    "name": "창작집단한",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1149": {
+    "rowNumber": 1149,
+    "name": "채널부산",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1158": {
+    "rowNumber": 1158,
+    "name": "체스테크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1162": {
+    "rowNumber": 1162,
+    "name": "촬영감독최원욱",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1165": {
+    "rowNumber": 1165,
+    "name": "카다모임",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1166": {
+    "rowNumber": 1166,
+    "name": "카리시모",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1167": {
+    "rowNumber": 1167,
+    "name": "컬러풀미카",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1179": {
+    "rowNumber": 1179,
+    "name": "코리아헤럴드내외경제신문",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1192": {
+    "rowNumber": 1192,
+    "name": "킴엔존슨",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1194": {
+    "rowNumber": 1194,
+    "name": "타원글로벌",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1215": {
+    "rowNumber": 1215,
+    "name": "팀포테이토",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1226": {
+    "rowNumber": 1226,
+    "name": "퍼니아트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1246": {
+    "rowNumber": 1246,
+    "name": "프로젝트원",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1251": {
+    "rowNumber": 1251,
+    "name": "플레이트리",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1278": {
+    "rowNumber": 1278,
+    "name": "한국가이던스부산지사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1285": {
+    "rowNumber": 1285,
+    "name": "한국산업정보사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1296": {
+    "rowNumber": 1296,
+    "name": "한집",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1342": {
+    "rowNumber": 1342,
+    "name": "다인커뮤니케이션즈",
+    "bizno": "602-02-99846",
+    "matchedTitle": "다인커뮤니케이션즈",
+    "matchedCeo": "이진수",
+    "matchedAddress": "부산광역시 중구 흑교로75번길 10, 2층 10, Heukgyo-ro 75beon-gil, Jung-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6020299846",
+    "matchedVia": "BiznoSearch"
+  },
+  "1367": {
+    "rowNumber": 1367,
+    "name": "리얼라이즈",
+    "bizno": "617-28-83782",
+    "matchedTitle": "리얼라이즈 레코드",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 수영구 감포로8번길 15",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6172883782",
+    "matchedVia": "BiznoSearch"
+  },
+  "1418": {
+    "rowNumber": 1418,
+    "name": "쏘울픽처스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1468": {
+    "rowNumber": 1468,
+    "name": "재영애드콤",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1483": {
+    "rowNumber": 1483,
+    "name": "케세라세라",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1493": {
+    "rowNumber": 1493,
+    "name": "태림부산음악사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1517": {
+    "rowNumber": 1517,
+    "name": "페이크스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1522": {
+    "rowNumber": 1522,
+    "name": "에스아이에이",
+    "bizno": "606-86-07085",
+    "matchedTitle": "에스아이에이 주식회사",
+    "matchedCeo": "신지선",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, A동 1605호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6068607085",
+    "matchedVia": "BiznoSearch"
+  },
+  "1542": {
+    "rowNumber": 1542,
+    "name": "산마루",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1565": {
+    "rowNumber": 1565,
+    "name": "대한기획",
+    "bizno": "605-08-83345",
+    "matchedTitle": "대한기획",
+    "matchedCeo": "김주환",
+    "matchedAddress": "부산광역시 부산진구 중앙대로 940-1 940-1, Jungang-daero, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6050883345",
+    "matchedVia": "BiznoSearch"
+  },
+  "1567": {
+    "rowNumber": 1567,
+    "name": "클린스쿨",
+    "bizno": "279-88-01812",
+    "matchedTitle": "주식회사 클린스쿨",
+    "matchedCeo": "최보필",
+    "matchedAddress": "부산광역시 사상구 모라로 22, 4층 416호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2798801812",
+    "matchedVia": "BiznoSearch"
+  },
+  "1570": {
+    "rowNumber": 1570,
+    "name": "신우사",
+    "bizno": "603-01-84752",
+    "matchedTitle": "신우사",
+    "matchedCeo": "김갑수",
+    "matchedAddress": "부산광역시 사하구 승학로151-2 (괴정동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6030184752",
+    "matchedVia": "BiznoSearch"
+  },
+  "1571": {
+    "rowNumber": 1571,
+    "name": "명진공업사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1573": {
+    "rowNumber": 1573,
+    "name": "디자인필",
+    "bizno": "617-11-25858",
+    "matchedTitle": "디자인필",
+    "matchedCeo": "정민주",
+    "matchedAddress": "부산광역시 부산진구 황령대로64번길 14, 2층",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6171125858",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1582": {
+    "rowNumber": 1582,
+    "name": "디앤아이솔루션",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1586": {
+    "rowNumber": 1586,
+    "name": "플레이그라운드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1589": {
+    "rowNumber": 1589,
+    "name": "에스씨제이",
+    "bizno": "607-81-83801",
+    "matchedTitle": "（주）에스씨제이",
+    "matchedCeo": "윤성원",
+    "matchedAddress": "부산광역시 연제구 법원남로16번길 21, 301호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6078183801",
+    "matchedVia": "BiznoSearch"
+  },
+  "1601": {
+    "rowNumber": 1601,
+    "name": "성창산업",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1603": {
+    "rowNumber": 1603,
+    "name": "케이멕스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1604": {
+    "rowNumber": 1604,
+    "name": "고움",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1606": {
+    "rowNumber": 1606,
+    "name": "해승J&T",
+    "bizno": "618-02-22245",
+    "matchedTitle": "해승J&T",
+    "matchedCeo": "박해승",
+    "matchedAddress": "부산광역시 기장군 기장읍 대청로8번길 43 (기장읍)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6180222245",
+    "matchedVia": "BiznoSearch"
+  },
+  "1611": {
+    "rowNumber": 1611,
+    "name": "시드게임즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1625": {
+    "rowNumber": 1625,
+    "name": "에이치와이선라이즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1626": {
+    "rowNumber": 1626,
+    "name": "네오테크놀리지",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1627": {
+    "rowNumber": 1627,
+    "name": "삼주",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1629": {
+    "rowNumber": 1629,
+    "name": "나웅",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1630": {
+    "rowNumber": 1630,
+    "name": "한스이엔지",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1642": {
+    "rowNumber": 1642,
+    "name": "헤윰아이씨티",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1643": {
+    "rowNumber": 1643,
+    "name": "웅진씽크빅",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1645": {
+    "rowNumber": 1645,
+    "name": "한솔교육",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1647": {
+    "rowNumber": 1647,
+    "name": "한국전화번호부부산센터",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1664": {
+    "rowNumber": 1664,
+    "name": "팀브레드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1674": {
+    "rowNumber": 1674,
+    "name": "북카페심심푸리",
+    "bizno": "482-52-00083",
+    "matchedTitle": "북카페심심푸리",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 부산진구 중앙대로702번길 33",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4825200083",
+    "matchedVia": "BiznoSearch"
+  },
+  "1676": {
+    "rowNumber": 1676,
+    "name": "모드니",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1677": {
+    "rowNumber": 1677,
+    "name": "대박만화",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1679": {
+    "rowNumber": 1679,
+    "name": "블루젯",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1680": {
+    "rowNumber": 1680,
+    "name": "봐라봐라만화",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1682": {
+    "rowNumber": 1682,
+    "name": "둘리만화휴게실1",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1684": {
+    "rowNumber": 1684,
+    "name": "주식회사초록이웃",
+    "bizno": "308-88-02725",
+    "matchedTitle": "주식회사 초록이웃",
+    "matchedCeo": "황종필",
+    "matchedAddress": "부산광역시 동래구 충렬대로202번가길 3 (수안동) 102호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/3088802725",
+    "matchedVia": "BiznoSearch"
+  },
+  "1702": {
+    "rowNumber": 1702,
+    "name": "액자가게",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1704": {
+    "rowNumber": 1704,
+    "name": "문화공간달빛콘서트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1705": {
+    "rowNumber": 1705,
+    "name": "아트뮤직",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1718": {
+    "rowNumber": 1718,
+    "name": "주식회사 우리누리 사직동지점",
+    "bizno": "772-85-00887",
+    "matchedTitle": "주식회사 우리누리 사직동지점",
+    "matchedCeo": "김성희",
+    "matchedAddress": "부산광역시 동래구 사직북로 4, 8층 1호(사직동, 삼정자이언츠파크) 4, Sajikbuk-ro, Dongnae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7728500887",
+    "matchedVia": "BiznoSearch"
+  },
+  "1719": {
+    "rowNumber": 1719,
+    "name": "제이케이스크린(사직점)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1720": {
+    "rowNumber": 1720,
+    "name": "안락스크린골프연습장",
+    "bizno": "861-10-01121",
+    "matchedTitle": "안락스크린골프연습장",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 동래구 충렬대로 420",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/8611001121",
+    "matchedVia": "BiznoSearch"
+  },
+  "1731": {
+    "rowNumber": 1731,
+    "name": "주식회사 씨에스케이",
+    "bizno": "893-88-00021",
+    "matchedTitle": "씨에스케이",
+    "matchedCeo": "임오철",
+    "matchedAddress": "부산광역시 사상구 농산물시장로 22",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8938800021",
+    "matchedVia": "BiznoSearch"
+  },
+  "1732": {
+    "rowNumber": 1732,
+    "name": "아이지오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1744": {
+    "rowNumber": 1744,
+    "name": "레더스",
+    "bizno": "442-88-01249",
+    "matchedTitle": "주식회사 레더스",
+    "matchedCeo": "정민근",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 90, 큐비이센텀 1204호 (재송동)",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/4428801249",
+    "matchedVia": "BiznoSearch"
+  },
+  "1750": {
+    "rowNumber": 1750,
+    "name": "명지 녹산 부산일보 및 동아일보",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1753": {
+    "rowNumber": 1753,
+    "name": "국제，동아，경향신문보급소",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1755": {
+    "rowNumber": 1755,
+    "name": "(사) 부산대학교 출판문화원",
+    "bizno": "621-82-00477",
+    "matchedTitle": "(사) 부산대학교 출판문화원",
+    "matchedCeo": "차정인",
+    "matchedAddress": "부산광역시 금정구 부산대학로63번길 2-1(장전동) 2-1, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6218200477",
+    "matchedVia": "BiznoSearch"
+  },
+  "1757": {
+    "rowNumber": 1757,
+    "name": "(주)창비부산",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1758": {
+    "rowNumber": 1758,
+    "name": "조선일보사부산사옥",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1759": {
+    "rowNumber": 1759,
+    "name": "주식회사 홍조출판",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1762": {
+    "rowNumber": 1762,
+    "name": "조선일보 신사직 지국",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1763": {
+    "rowNumber": 1763,
+    "name": "새부산기독교서적센타",
+    "bizno": "607-99-75121",
+    "matchedTitle": "새부산기독교서적센타",
+    "matchedCeo": "김대희",
+    "matchedAddress": "부산광역시 동래구 아시아드대로 127",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6079975121",
+    "matchedVia": "BiznoSearch"
+  },
+  "1765": {
+    "rowNumber": 1765,
+    "name": "아이북랜드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1766": {
+    "rowNumber": 1766,
+    "name": "부산중앙일보가야",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1767": {
+    "rowNumber": 1767,
+    "name": "부산일보 당감지국",
+    "bizno": "605-15-50255",
+    "matchedTitle": "부산일보 당감지국",
+    "matchedCeo": "김재익",
+    "matchedAddress": "부산광역시 부산진구 당감로45번길 19",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6051550255",
+    "matchedVia": "BiznoSearch"
+  },
+  "1769": {
+    "rowNumber": 1769,
+    "name": "주식회사 뷰엠",
+    "bizno": "295-81-02546",
+    "matchedTitle": "주식회사 뷰엠",
+    "matchedCeo": "강해숙",
+    "matchedAddress": "부산광역시 부산진구 서전로 11-1, 2층(부전동, 신전빌딩) 11-1, Seojeon-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2958102546",
+    "matchedVia": "BiznoSearch"
+  },
+  "1773": {
+    "rowNumber": 1773,
+    "name": "북컬쳐(부산)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1778": {
+    "rowNumber": 1778,
+    "name": "부산 하단점",
+    "bizno": "242-72-00163",
+    "matchedTitle": "올포유부산하단점",
+    "matchedCeo": "김은호",
+    "matchedAddress": "부산광역시 사하구 낙동대로 443",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2427200163",
+    "matchedVia": "BiznoSearch"
+  },
+  "1786": {
+    "rowNumber": 1786,
+    "name": "영풍문고 신세계 센텀시티점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1789": {
+    "rowNumber": 1789,
+    "name": "（주）교보문고 해운대 팝업스토어",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1793": {
+    "rowNumber": 1793,
+    "name": "도서출판CTM",
+    "bizno": "605-91-52150",
+    "matchedTitle": "도서출판CTM",
+    "matchedCeo": "김성철",
+    "matchedAddress": "부산광역시 동구 초량상로 102, 3층 102, Choryangsang-ro, Dong-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6059152150",
+    "matchedVia": "BiznoSearch"
+  },
+  "1795": {
+    "rowNumber": 1795,
+    "name": "노블레스미디어인터내셔날부산",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1797": {
+    "rowNumber": 1797,
+    "name": "도서출판양업서원",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1798": {
+    "rowNumber": 1798,
+    "name": "한얼꿈출판사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1800": {
+    "rowNumber": 1800,
+    "name": "케이텍",
+    "bizno": "714-11-01026",
+    "matchedTitle": "케이텍",
+    "matchedCeo": "오상민",
+    "matchedAddress": "부산광역시 금정구 오륜대로 57, 정보공학관 B동 001호(부곡동, 부산가톨릭대학교)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7141101026",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1804": {
+    "rowNumber": 1804,
+    "name": "롯데쇼핑(주)토이저러스 동부산점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1805": {
+    "rowNumber": 1805,
+    "name": "유한회사 키즈플레이타운",
+    "bizno": "413-87-02355",
+    "matchedTitle": "유한회사키즈플레이타운",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 기장군 장안읍 정관로 1133 2층 262호 (부산광역시 프리미엄 아울렛) 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4138702355",
+    "matchedVia": "BiznoSearch"
+  },
+  "1806": {
+    "rowNumber": 1806,
+    "name": "미디어CAPSULE",
+    "bizno": "607-10-88688",
+    "matchedTitle": "미디어CAPSULE",
+    "matchedCeo": "정태선",
+    "matchedAddress": "부산광역시 동래구 쇠미로17번길 20 1층 (사직동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6071088688",
+    "matchedVia": "BiznoSearch"
+  },
+  "1807": {
+    "rowNumber": 1807,
+    "name": "(주)삼성출판사 롯데동래점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1810": {
+    "rowNumber": 1810,
+    "name": "주식회사 로파스튜디오(ROPA STUDIO)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1811": {
+    "rowNumber": 1811,
+    "name": "반다이남코코리아",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1812": {
+    "rowNumber": 1812,
+    "name": "레고스토어",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1815": {
+    "rowNumber": 1815,
+    "name": "야야토이",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1816": {
+    "rowNumber": 1816,
+    "name": "또래나라",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1817": {
+    "rowNumber": 1817,
+    "name": "함께가는사람들김해지점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1818": {
+    "rowNumber": 1818,
+    "name": "이소민",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1820": {
+    "rowNumber": 1820,
+    "name": "주식회사하날",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1825": {
+    "rowNumber": 1825,
+    "name": "에이치앤제이",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1827": {
+    "rowNumber": 1827,
+    "name": "주식회사바나나러닝",
+    "bizno": "260-26-01090",
+    "matchedTitle": "바나나러닝",
+    "matchedCeo": "최효준",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 41",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2602601090",
+    "matchedVia": "BiznoSearch"
+  },
+  "1837": {
+    "rowNumber": 1837,
+    "name": "엠엔에이윅스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1839": {
+    "rowNumber": 1839,
+    "name": "깜냥깜냥",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1841": {
+    "rowNumber": 1841,
+    "name": "루미너스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1845": {
+    "rowNumber": 1845,
+    "name": "블루케이",
+    "bizno": "617-81-95003",
+    "matchedTitle": "주식회사 블루케이",
+    "matchedCeo": "장정화",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 35, 602호 35, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178195003",
+    "matchedVia": "BiznoSearch"
+  },
+  "1853": {
+    "rowNumber": 1853,
+    "name": "프라자만화",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1854": {
+    "rowNumber": 1854,
+    "name": "괴정만화",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1857": {
+    "rowNumber": 1857,
+    "name": "대박만화휴게실",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1862": {
+    "rowNumber": 1862,
+    "name": "디유",
+    "bizno": "617-86-02436",
+    "matchedTitle": "주식회사 디유",
+    "matchedCeo": "한태우",
+    "matchedAddress": "부산광역시 금정구 반송로 417-1 지하1층 (금사동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178602436",
+    "matchedVia": "BiznoSearch"
+  },
+  "1867": {
+    "rowNumber": 1867,
+    "name": "부산이야",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1869": {
+    "rowNumber": 1869,
+    "name": "말술사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1874": {
+    "rowNumber": 1874,
+    "name": "주식회사 진엔터테인먼트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1875": {
+    "rowNumber": 1875,
+    "name": "와이즈온미디어 주식회사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1879": {
+    "rowNumber": 1879,
+    "name": "유한책임회사 대안문화행동재미난복수",
+    "bizno": "554-88-02255",
+    "matchedTitle": "유한책임회사 대안문화행동재미난복수",
+    "matchedCeo": "김건우",
+    "matchedAddress": "부산광역시 금정구 오륜대로 262",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/5548802255",
+    "matchedVia": "BiznoSearch"
+  },
+  "1883": {
+    "rowNumber": 1883,
+    "name": "에스팀컴퍼니(S TEAM COMPANY)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1886": {
+    "rowNumber": 1886,
+    "name": "뮤직시티",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1887": {
+    "rowNumber": 1887,
+    "name": "THE5musicSHEET",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1898": {
+    "rowNumber": 1898,
+    "name": "시빅뉴스",
+    "bizno": "617-82-12810",
+    "matchedTitle": "시빅뉴스",
+    "matchedCeo": "권만우",
+    "matchedAddress": "부산광역시 남구 수영로 309, 301호(대연동, 경성대학교내 23호관) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178212810",
+    "matchedVia": "BiznoSearch"
+  },
+  "1900": {
+    "rowNumber": 1900,
+    "name": "주식회사 아너스골프아카데미 아너스골프다이닝",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1901": {
+    "rowNumber": 1901,
+    "name": "e붓다",
+    "bizno": "836-91-00300",
+    "matchedTitle": "e붓다",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 진남로 82",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8369100300",
+    "matchedVia": "BiznoSearch"
+  },
+  "1906": {
+    "rowNumber": 1906,
+    "name": "다온티엔에스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1907": {
+    "rowNumber": 1907,
+    "name": "봄비",
+    "bizno": "854-71-00504",
+    "matchedTitle": "봄비",
+    "matchedCeo": "정재규",
+    "matchedAddress": "부산광역시 동래구 시실로 ******** ******동 ******호 (명장동** 동래동*****",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/8547100504",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1908": {
+    "rowNumber": 1908,
+    "name": "파리 미장센",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1909": {
+    "rowNumber": 1909,
+    "name": "주식회사 메타존",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1912": {
+    "rowNumber": 1912,
+    "name": "OK스크린골프",
+    "bizno": "605-23-18793",
+    "matchedTitle": "OK스크린골프",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 부산진구 전포대로199번길 15 15, Jeonpo-daero 199beon-gil, Busanjin-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6052318793",
+    "matchedVia": "BiznoSearch"
+  },
+  "1913": {
+    "rowNumber": 1913,
+    "name": "비에스피솔루션",
+    "bizno": "221-81-50940",
+    "matchedTitle": "주식회사 비에스피솔루션",
+    "matchedCeo": "이대흥",
+    "matchedAddress": "부산광역시 사상구 모라로 22, 1303호, 1505호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2218150940",
+    "matchedVia": "BiznoSearch"
+  },
+  "1923": {
+    "rowNumber": 1923,
+    "name": "폭스인베스트",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1928": {
+    "rowNumber": 1928,
+    "name": "맥스시그널",
+    "bizno": "405-88-02083",
+    "matchedTitle": "(주)맥스시그널",
+    "matchedCeo": "신무현",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 48, 1304호 48, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4058802083",
+    "matchedVia": "BiznoSearch"
+  },
+  "1932": {
+    "rowNumber": 1932,
+    "name": "씨소프트",
+    "bizno": "584-81-02510",
+    "matchedTitle": "씨소프트 주식회사",
+    "matchedCeo": "유성훈",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, A동 9층 904호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5848102510",
+    "matchedVia": "BiznoSearch"
+  },
+  "1950": {
+    "rowNumber": 1950,
+    "name": "아크앤북 부산명지점",
+    "bizno": "752-85-01941",
+    "matchedTitle": "아크앤북 부산명지점",
+    "matchedCeo": "최원재",
+    "matchedAddress": "부산광역시 강서구 명지국제6로 107, 2층 B-208,209,210,211,212,213호(명지동) 107, Myeongjigukje 6-ro, Gangseo-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7528501941",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1953": {
+    "rowNumber": 1953,
+    "name": "조선일보구서센터",
+    "bizno": "621-21-89020",
+    "matchedTitle": "조선일보구서센터",
+    "matchedCeo": "황치원",
+    "matchedAddress": "부산광역시 금정구 중앙대로1893번길 13(구서동) 13, Jungang-daero 1893beon-gil, Geumjeong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6212189020",
+    "matchedVia": "BiznoSearch"
+  },
+  "1956": {
+    "rowNumber": 1956,
+    "name": "한국전화번호부（주）부산지점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1957": {
+    "rowNumber": 1957,
+    "name": "해오름",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1958": {
+    "rowNumber": 1958,
+    "name": "이디오마북스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1963": {
+    "rowNumber": 1963,
+    "name": "조선동아부산남대연중앙감만센타",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1964": {
+    "rowNumber": 1964,
+    "name": "(주)교보문고경성대·부경대센터",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1974": {
+    "rowNumber": 1974,
+    "name": "미카",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1975": {
+    "rowNumber": 1975,
+    "name": "조선일보 동래센터/동아일보 동래센터",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1978": {
+    "rowNumber": 1978,
+    "name": "중앙일보 부산일보 온천지국",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1980": {
+    "rowNumber": 1980,
+    "name": "동아일보,조선일보  가야개금센터",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1981": {
+    "rowNumber": 1981,
+    "name": "(주) 투판즈 부산지점",
+    "bizno": "605-85-10784",
+    "matchedTitle": "(주) 투판즈 부산지점",
+    "matchedCeo": "정택수",
+    "matchedAddress": "부산광역시 부산진구 범일로 181(범천동) 181, Beomil-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6058510784",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1984": {
+    "rowNumber": 1984,
+    "name": "부산일보서면지국",
+    "bizno": "605-15-74747",
+    "matchedTitle": "부산일보서면지국",
+    "matchedCeo": "우태곤",
+    "matchedAddress": "부산광역시 부산진구 가야대로755번길 42 42, Gaya-daero 755beon-gil, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6051574747",
+    "matchedVia": "BiznoSearch"
+  },
+  "1986": {
+    "rowNumber": 1986,
+    "name": "（주교보문고부산점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1988": {
+    "rowNumber": 1988,
+    "name": "조선일보화명금곡센터",
+    "bizno": "697-25-00243",
+    "matchedTitle": "조선일보화명금곡센터",
+    "matchedCeo": "장희목",
+    "matchedAddress": "부산광역시 북구 금곡대로616번길 9(금곡동) 9, Geumgok-daero 616beon-gil, Buk-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6972500243",
+    "matchedVia": "BiznoSearch"
+  },
+  "1989": {
+    "rowNumber": 1989,
+    "name": "바른교육",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "1992": {
+    "rowNumber": 1992,
+    "name": "지하오",
+    "bizno": "574-40-00899",
+    "matchedTitle": "지하오",
+    "matchedCeo": "정지호",
+    "matchedAddress": "부산광역시 사상구 백양대로******번길 ****** ******동 ******호 (주례동** 엘지신주*****",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5744000899",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "1997": {
+    "rowNumber": 1997,
+    "name": "푸른솔",
+    "bizno": "621-90-09906",
+    "matchedTitle": "푸른솔",
+    "matchedCeo": "정길석",
+    "matchedAddress": "부산광역시 수영구 광일로20번길 50, 101호 50, Gwangil-ro 20beon-gil, Suyeong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6219009906",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "2000": {
+    "rowNumber": 2000,
+    "name": "꼬꼬야",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2003": {
+    "rowNumber": 2003,
+    "name": "동아,국제,한겨레,한경,국민,스포츠서울 거제연제연산센타",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2009": {
+    "rowNumber": 2009,
+    "name": "에디코",
+    "bizno": "160-17-00974",
+    "matchedTitle": "에디코",
+    "matchedCeo": "심정원",
+    "matchedAddress": "부산광역시 중구 대청로135번길 (중앙동3가)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1601700974",
+    "matchedVia": "BiznoSearch"
+  },
+  "2010": {
+    "rowNumber": 2010,
+    "name": "사단법인 한국오투오미래비전협회",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2011": {
+    "rowNumber": 2011,
+    "name": "재현문고",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2013": {
+    "rowNumber": 2013,
+    "name": "즐겨찾기",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2014": {
+    "rowNumber": 2014,
+    "name": "중앙． 부산． 문화일보 재송센터",
+    "bizno": "617-26-45601",
+    "matchedTitle": "중앙． 부산． 문화일보 재송센터",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 재반로212번길 45",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6172645601",
+    "matchedVia": "BiznoSearch"
+  },
+  "2022": {
+    "rowNumber": 2022,
+    "name": "프린팅카페",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2023": {
+    "rowNumber": 2023,
+    "name": "주식회사 도원이앤아이(Dowon E&I)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2027": {
+    "rowNumber": 2027,
+    "name": "크리스천설교신문",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2028": {
+    "rowNumber": 2028,
+    "name": "비전조이",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2030": {
+    "rowNumber": 2030,
+    "name": "박도인쇄사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2032": {
+    "rowNumber": 2032,
+    "name": "탭아트（Tab Art） 갤러리",
+    "bizno": "605-26-16097",
+    "matchedTitle": "탭아트（Tab Art） 갤러리",
+    "matchedCeo": "이성현",
+    "matchedAddress": "부산광역시 강서구 평강로171번길 248(대저1동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6052616097",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "2036": {
+    "rowNumber": 2036,
+    "name": "삼성사(상회)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2040": {
+    "rowNumber": 2040,
+    "name": "티플랜트（Tplant）",
+    "bizno": "605-20-55083",
+    "matchedTitle": "티플랜트（Tplant）",
+    "matchedCeo": "박윤실",
+    "matchedAddress": "부산광역시 부산진구 백양순환로 97 (부암동) 2층",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6052055083",
+    "matchedVia": "BiznoSearch"
+  },
+  "2046": {
+    "rowNumber": 2046,
+    "name": "아이들세상",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2048": {
+    "rowNumber": 2048,
+    "name": "정광사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2049": {
+    "rowNumber": 2049,
+    "name": "주식회사 제이더블유하비",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2050": {
+    "rowNumber": 2050,
+    "name": "해피버스데이",
+    "bizno": "603-07-80665",
+    "matchedTitle": "해피버스데이",
+    "matchedCeo": "오주환",
+    "matchedAddress": "부산광역시 사하구 하단동492-25 33, Nakdong-daero 516beon-gil, Saha-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6030780665",
+    "matchedVia": "BiznoSearch"
+  },
+  "2051": {
+    "rowNumber": 2051,
+    "name": "신한교육사",
+    "bizno": "510-29-00793",
+    "matchedTitle": "신한교육사",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 서구 대영로85번길 38",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5102900793",
+    "matchedVia": "BiznoSearch"
+  },
+  "2052": {
+    "rowNumber": 2052,
+    "name": "아이사랑",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2053": {
+    "rowNumber": 2053,
+    "name": "리연",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2054": {
+    "rowNumber": 2054,
+    "name": "부산더락",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2055": {
+    "rowNumber": 2055,
+    "name": "과정문구점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2056": {
+    "rowNumber": 2056,
+    "name": "달디 디자인스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2057": {
+    "rowNumber": 2057,
+    "name": "교보핫트랙스(주)센텀시티점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2058": {
+    "rowNumber": 2058,
+    "name": "두형통발",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2059": {
+    "rowNumber": 2059,
+    "name": "대신산업",
+    "bizno": "617-03-45150",
+    "matchedTitle": "대신산업",
+    "matchedCeo": "탁기만",
+    "matchedAddress": "부산광역시 사하구 하신중앙로3번가길 26 (장림동) 26, Hasinjungang-ro 3beonga-gil, Saha-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6170345150",
+    "matchedVia": "BiznoSearch"
+  },
+  "2060": {
+    "rowNumber": 2060,
+    "name": "조이풀사이언스",
+    "bizno": "621-21-49635",
+    "matchedTitle": "조이풀사이언스",
+    "matchedCeo": "강민수",
+    "matchedAddress": "부산광역시 수영구 수영로 648 (광안동, 광안동롯데골드로즈) 201호 648, Suyeong-ro, Suyeong-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6212149635",
+    "matchedVia": "BiznoSearch"
+  },
+  "2061": {
+    "rowNumber": 2061,
+    "name": "에코인더스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2062": {
+    "rowNumber": 2062,
+    "name": "이계승",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2063": {
+    "rowNumber": 2063,
+    "name": "오엠디아틀리에",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2064": {
+    "rowNumber": 2064,
+    "name": "박정희",
+    "bizno": null,
+    "reason": "Personal name company district mismatch: target=\"기장군\" vs match=\"부산광역시 부산진구 엄광로 163, 1층 (가야동) 163, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea\""
+  },
+  "2065": {
+    "rowNumber": 2065,
+    "name": "브랜드스퀘어",
+    "bizno": "727-20-02251",
+    "matchedTitle": "브랜드스퀘어",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 용소로14번길 10, 4층 (대연동,대성빌딩) 10, Yongso-ro 14beon-gil, Nam-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/7272002251",
+    "matchedVia": "BiznoSearch"
+  },
+  "2066": {
+    "rowNumber": 2066,
+    "name": "주식회사 로웰프라이빗에쿼티",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2067": {
+    "rowNumber": 2067,
+    "name": "경성대학교산학협력단",
+    "bizno": "617-82-06453",
+    "matchedTitle": "경성대학교 산학협력단",
+    "matchedCeo": "최주용",
+    "matchedAddress": "부산광역시 남구 수영로 309(대연동, 경성대학교 내) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178206453",
+    "matchedVia": "BiznoSearch"
+  },
+  "2068": {
+    "rowNumber": 2068,
+    "name": "에듀메타",
+    "bizno": "280-86-02461",
+    "matchedTitle": "(주)에듀메타",
+    "matchedCeo": "송승근",
+    "matchedAddress": "부산광역시 사상구 주례로 47 , 901호(주례동, 동서대학교 뉴밀레니엄관)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2808602461",
+    "matchedVia": "BiznoSearch"
+  },
+  "2069": {
+    "rowNumber": 2069,
+    "name": "니즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2070": {
+    "rowNumber": 2070,
+    "name": "김지원",
+    "bizno": null,
+    "reason": "Personal name company district mismatch: target=\"연제구\" vs match=\"부산광역시 금정구 동부곡로**번길 ****** 비비드 ******호 *****\""
+  },
+  "2071": {
+    "rowNumber": 2071,
+    "name": "이루티",
+    "bizno": "162-87-02758",
+    "matchedTitle": "주식회사 이루티",
+    "matchedCeo": "김유성",
+    "matchedAddress": "부산광역시 연제구 연제로 24, 201호(연산동) 24, Yeonje-ro, Yeonje-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1628702758",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "2072": {
+    "rowNumber": 2072,
+    "name": "씨앤비(CNB)",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2073": {
+    "rowNumber": 2073,
+    "name": "에스시엔컴퍼니",
+    "bizno": "515-08-47594",
+    "matchedTitle": "에스시엔컴퍼니",
+    "matchedCeo": "강정원",
+    "matchedAddress": "부산광역시 중구 중앙대로 21, 1층 1다1,2호(동광동1가, 부산데파트)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5150847594",
+    "matchedVia": "BiznoSearch"
+  },
+  "2074": {
+    "rowNumber": 2074,
+    "name": "주식회사 코드메이커",
+    "bizno": "135-87-01403",
+    "matchedTitle": "주식회사 코드메이커",
+    "matchedCeo": "정용석",
+    "matchedAddress": "부산광역시 해운대구 반여로185번길 74-46 (반여동) 2동",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1358701403",
+    "matchedVia": "BiznoSearch"
+  },
+  "2075": {
+    "rowNumber": 2075,
+    "name": "유티플러스인터랙티브",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2076": {
+    "rowNumber": 2076,
+    "name": "주식회사 마이비",
+    "bizno": "605-81-39783",
+    "matchedTitle": "주식회사 마이비",
+    "matchedCeo": "이근재",
+    "matchedAddress": "부산광역시 해운대구 센텀북대로 60 11층",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6058139783",
+    "matchedVia": "BiznoSearch"
+  },
+  "2077": {
+    "rowNumber": 2077,
+    "name": "제이앤제이(J&J)커뮤니케이션즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2078": {
+    "rowNumber": 2078,
+    "name": "케이엘정보통신 주식회사 부산지점",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2079": {
+    "rowNumber": 2079,
+    "name": "윤해지",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2080": {
+    "rowNumber": 2080,
+    "name": "이안",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2082": {
+    "rowNumber": 2082,
+    "name": "스튜디오비오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2083": {
+    "rowNumber": 2083,
+    "name": "하드롤게임즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2084": {
+    "rowNumber": 2084,
+    "name": "포지스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2088": {
+    "rowNumber": 2088,
+    "name": "운도게임스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2093": {
+    "rowNumber": 2093,
+    "name": "보승패킹",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2094": {
+    "rowNumber": 2094,
+    "name": "비바몬스터",
+    "bizno": "646-87-02732",
+    "matchedTitle": "주식회사 비바몬스터",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 수영로 295 (대연동) 407호 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6468702732",
+    "matchedVia": "BiznoSearch"
+  },
+  "2095": {
+    "rowNumber": 2095,
+    "name": "오스타미디어",
+    "bizno": "893-88-02112",
+    "matchedTitle": "주식회사 오스타미디어",
+    "matchedCeo": "황수웅",
+    "matchedAddress": "부산광역시 해운대구 세실로27번길 11-0 (좌동) 3층 303호 (좌동, 대승코아)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8938802112",
+    "matchedVia": "BiznoSearch"
+  },
+  "2096": {
+    "rowNumber": 2096,
+    "name": "브리티시인터내셔널",
+    "bizno": "550-81-01411",
+    "matchedTitle": "주식회사 브리티시인터내셔널",
+    "matchedCeo": "손지형",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 45, 305호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5508101411",
+    "matchedVia": "BiznoSearch"
+  },
+  "2097": {
+    "rowNumber": 2097,
+    "name": "한울커뮤니케이션",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2098": {
+    "rowNumber": 2098,
+    "name": "대주기획",
+    "bizno": "607-17-15525",
+    "matchedTitle": "대주기획",
+    "matchedCeo": "차니은",
+    "matchedAddress": "부산광역시 금정구 금정로 113 383-5 3층 304호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6071715525",
+    "matchedVia": "BiznoSearch"
+  },
+  "2099": {
+    "rowNumber": 2099,
+    "name": "신흥상사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2100": {
+    "rowNumber": 2100,
+    "name": "와라봐라",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2101": {
+    "rowNumber": 2101,
+    "name": "조은글방",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2102": {
+    "rowNumber": 2102,
+    "name": "도담교육",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2103": {
+    "rowNumber": 2103,
+    "name": "몬스터라이엇",
+    "bizno": "752-87-02022",
+    "matchedTitle": "주식회사 몬스터라이엇",
+    "matchedCeo": "고진호",
+    "matchedAddress": "부산광역시 해운대구 달맞이길117번길 30 (중동) 지하1층",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7528702022",
+    "matchedVia": "BiznoSearch"
+  },
+  "2104": {
+    "rowNumber": 2104,
+    "name": "블랭크페이지스튜디오",
+    "bizno": "584-87-02787",
+    "matchedTitle": "주식회사 블랭크페이지스튜디오",
+    "matchedCeo": "정훈일",
+    "matchedAddress": "부산광역시 해운대구 센텀6로 21",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5848702787",
+    "matchedVia": "BiznoSearch"
+  },
+  "2105": {
+    "rowNumber": 2105,
+    "name": "엠에스네트워크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2106": {
+    "rowNumber": 2106,
+    "name": "키드니드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2107": {
+    "rowNumber": 2107,
+    "name": "스튜디오바다",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2108": {
+    "rowNumber": 2108,
+    "name": "두원잡",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2110": {
+    "rowNumber": 2110,
+    "name": "새동아직업전문학교",
+    "bizno": "603-90-14226",
+    "matchedTitle": "새동아직업전문학교",
+    "matchedCeo": "전원석",
+    "matchedAddress": "부산광역시 사하구 하신중앙로 323, 1~6층 7층일부 (2층제외)(하단동, 전원빌딩) 323, Hasinjungang-ro, Saha-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6039014226",
+    "matchedVia": "BiznoSearch"
+  },
+  "2111": {
+    "rowNumber": 2111,
+    "name": "스페이사콤",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2112": {
+    "rowNumber": 2112,
+    "name": "주식회사원미디어",
+    "bizno": "607-81-91674",
+    "matchedTitle": "주식회사 원미디어",
+    "matchedCeo": "원성훈",
+    "matchedAddress": "부산광역시 수영구 수영로624번길 46",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6078191674",
+    "matchedVia": "BiznoSearch"
+  },
+  "2114": {
+    "rowNumber": 2114,
+    "name": "주향문화",
+    "bizno": "605-14-18506",
+    "matchedTitle": "주향문화",
+    "matchedCeo": "김옥희",
+    "matchedAddress": "부산광역시 부산진구 동성로 143, 2층 85호 143, Dongseong-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6051418506",
+    "matchedVia": "BiznoSearch"
+  },
+  "2115": {
+    "rowNumber": 2115,
+    "name": "식스플로어",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2116": {
+    "rowNumber": 2116,
+    "name": "에이에스시에라",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2117": {
+    "rowNumber": 2117,
+    "name": "스튜디오더블린",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2118": {
+    "rowNumber": 2118,
+    "name": "하이라이트스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2119": {
+    "rowNumber": 2119,
+    "name": "코너스튜디오",
+    "bizno": "661-88-02102",
+    "matchedTitle": "주식회사 코너스튜디오",
+    "matchedCeo": "이영주",
+    "matchedAddress": "부산광역시 연제구 고분로 170 (연산동, 부산경상대학교 창조관) 2층 203호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6618802102",
+    "matchedVia": "BiznoSearch"
+  },
+  "2120": {
+    "rowNumber": 2120,
+    "name": "인생극장",
+    "bizno": null,
+    "reason": "Not in Busan (충청남도 천안시 동남구 용곡2길 43-10, 1층(용곡동) 43-10, Yonggok 2-gil, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea)"
+  },
+  "2121": {
+    "rowNumber": 2121,
+    "name": "뉴아태항공",
+    "bizno": "617-86-21165",
+    "matchedTitle": "뉴아태항공",
+    "matchedCeo": "선태미",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 90, 본동 819호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6178621165",
+    "matchedVia": "BiznoSearch"
+  },
+  "2122": {
+    "rowNumber": 2122,
+    "name": "플랫폼",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2123": {
+    "rowNumber": 2123,
+    "name": "예담프로덕션",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2124": {
+    "rowNumber": 2124,
+    "name": "잭월드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2125": {
+    "rowNumber": 2125,
+    "name": "거창레코드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2126": {
+    "rowNumber": 2126,
+    "name": "온누리",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2127": {
+    "rowNumber": 2127,
+    "name": "파티온",
+    "bizno": "254-19-00098",
+    "matchedTitle": "파티온",
+    "matchedCeo": "정동휘",
+    "matchedAddress": "부산광역시 해운대구 양운로 56-0 (좌동) SK허브올리브 1414호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/2541900098",
+    "matchedVia": "BiznoSearch"
+  },
+  "2128": {
+    "rowNumber": 2128,
+    "name": "아준뮤직월드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2129": {
+    "rowNumber": 2129,
+    "name": "동해종합만물",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2130": {
+    "rowNumber": 2130,
+    "name": "원데이아트컴퍼니",
+    "bizno": "391-81-03576",
+    "matchedTitle": "주식회사 원데이아트컴퍼니",
+    "matchedCeo": "",
+    "matchedAddress": "부산 금정구 금정로60번길 37 (장전동) 37, Geumjeong-ro 60beon-gil, Geumjeong-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/3918103576",
+    "matchedVia": "BiznoSearch"
+  },
+  "2131": {
+    "rowNumber": 2131,
+    "name": "피엘지",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2132": {
+    "rowNumber": 2132,
+    "name": "지엠씨랩스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2133": {
+    "rowNumber": 2133,
+    "name": "오키씨",
+    "bizno": "601-87-02796",
+    "matchedTitle": "주식회사 오키씨",
+    "matchedCeo": "황순옥",
+    "matchedAddress": "부산광역시 남구 문현금융로 40-0 (문현동) BIFC 8층 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6018702796",
+    "matchedVia": "BiznoSearch"
+  },
+  "2134": {
+    "rowNumber": 2134,
+    "name": "로보프렌레스큐",
+    "bizno": "483-81-01071",
+    "matchedTitle": "주식회사 로보프렌레스큐",
+    "matchedCeo": "김영식",
+    "matchedAddress": "부산광역시 남구 신선로 365 6층 602호 (용당동, 부경대학교용당캠퍼스 10공학관) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4838101071",
+    "matchedVia": "BiznoSearch"
+  },
+  "2135": {
+    "rowNumber": 2135,
+    "name": "아이비코어",
+    "bizno": "617-86-17109",
+    "matchedTitle": "주）아이비코어",
+    "matchedCeo": "김진목",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 35",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178617109",
+    "matchedVia": "BiznoSearch"
+  },
+  "2136": {
+    "rowNumber": 2136,
+    "name": "일렉오션",
+    "bizno": "397-87-00206",
+    "matchedTitle": "주식회사 일렉오션",
+    "matchedCeo": "정일화",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 35",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/3978700206",
+    "matchedVia": "BiznoSearch"
+  },
+  "2137": {
+    "rowNumber": 2137,
+    "name": "이엔엠커뮤니케이션",
+    "bizno": "613-81-82409",
+    "matchedTitle": "주식회사 이엔엠커뮤니케이션",
+    "matchedCeo": "옥혜경",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, A동 17층 1703호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6138182409",
+    "matchedVia": "BiznoSearch"
+  },
+  "2138": {
+    "rowNumber": 2138,
+    "name": "제이에이치바이오시스템",
+    "bizno": "105-88-02863",
+    "matchedTitle": "주식회사　제이에이치바이오시스템",
+    "matchedCeo": "황재섭",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "휴업자",
+    "sourceUrl": "https://bizno.net/article/1058802863",
+    "matchedVia": "BiznoSearch"
+  },
+  "2139": {
+    "rowNumber": 2139,
+    "name": "타이어비즈",
+    "bizno": "276-88-00416",
+    "matchedTitle": "주식회사 타이어비즈",
+    "matchedCeo": "송봉균",
+    "matchedAddress": "부산광역시 부산진구 서면로 39, 6층 606호(부전동, KT&amp;G 상상마당부산) 39, Seomyeon-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2768800416",
+    "matchedVia": "BiznoSearch"
+  },
+  "2140": {
+    "rowNumber": 2140,
+    "name": "센디",
+    "bizno": "617-86-04939",
+    "matchedTitle": "주식회사 센디",
+    "matchedCeo": "염상준",
+    "matchedAddress": "부산광역시 부산진구 서면로 39, 6층 9,10호(부전동, KT\\u0026amp;G 상상마당부산)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178604939",
+    "matchedVia": "BiznoSearch"
+  },
+  "2141": {
+    "rowNumber": 2141,
+    "name": "페이타랩",
+    "bizno": "452-87-01123",
+    "matchedTitle": "주식회사 페이타랩",
+    "matchedCeo": "곽수용",
+    "matchedAddress": "부산광역시 부산진구 서면로 39, 6층 601,602,603호(부전동,KT&G 상상마당부산)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4528701123",
+    "matchedVia": "BiznoSearch"
+  },
+  "2142": {
+    "rowNumber": 2142,
+    "name": "샐리북",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2143": {
+    "rowNumber": 2143,
+    "name": "칸투칸",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2144": {
+    "rowNumber": 2144,
+    "name": "나비",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2145": {
+    "rowNumber": 2145,
+    "name": "모바일뱅크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2146": {
+    "rowNumber": 2146,
+    "name": "아트현",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2147": {
+    "rowNumber": 2147,
+    "name": "영광화학",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2148": {
+    "rowNumber": 2148,
+    "name": "성원공업사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2149": {
+    "rowNumber": 2149,
+    "name": "유성공업사",
+    "bizno": "603-07-11718",
+    "matchedTitle": "유성공업사",
+    "matchedCeo": "이철규",
+    "matchedAddress": "부산광역시 사하구 장평로132번길 16-4(장림동) 16-4, Jangpyeong-ro 132beon-gil, Saha-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6030711718",
+    "matchedVia": "BiznoSearch"
+  },
+  "2150": {
+    "rowNumber": 2150,
+    "name": "한국편의증진연구원",
+    "bizno": "490-07-00764",
+    "matchedTitle": "한국편의증진연구원",
+    "matchedCeo": "조현주",
+    "matchedAddress": "부산광역시 해운대구 대천로 92-6, 4층(좌동) 92-6, Daecheon-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4900700764",
+    "matchedVia": "BiznoSearch"
+  },
+  "2151": {
+    "rowNumber": 2151,
+    "name": "윤슬시스템",
+    "bizno": "617-30-83484",
+    "matchedTitle": "윤슬시스템",
+    "matchedCeo": "박건윤",
+    "matchedAddress": "부산광역시 해운대구 APEC로 17 17, APEC-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6173083484",
+    "matchedVia": "BiznoSearch"
+  },
+  "2152": {
+    "rowNumber": 2152,
+    "name": "송림",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2153": {
+    "rowNumber": 2153,
+    "name": "삼우토이즈",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2154": {
+    "rowNumber": 2154,
+    "name": "유덕공업사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2155": {
+    "rowNumber": 2155,
+    "name": "경화",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2156": {
+    "rowNumber": 2156,
+    "name": "미디어SA",
+    "bizno": "105-08-57099",
+    "matchedTitle": "미디어SA",
+    "matchedCeo": "사동화",
+    "matchedAddress": "부산광역시 금정구 부산대학로63번길 2, 401 (장전동, 부산대학교 효원산학협동관) 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/1050857099",
+    "matchedVia": "BiznoSearch"
+  },
+  "2157": {
+    "rowNumber": 2157,
+    "name": "이미지디자인",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2158": {
+    "rowNumber": 2158,
+    "name": "스톰아트스쿨학원",
+    "bizno": "617-91-39863",
+    "matchedTitle": "스톰아트스쿨학원",
+    "matchedCeo": "황정욱",
+    "matchedAddress": "부산광역시 남구 수영로 300, 503호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6179139863",
+    "matchedVia": "BiznoSearch"
+  },
+  "2159": {
+    "rowNumber": 2159,
+    "name": "디자인스탠다드",
+    "bizno": "617-81-78547",
+    "matchedTitle": "주식회사 디자인스탠다드",
+    "matchedCeo": "조형래",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, A동 405호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/6178178547",
+    "matchedVia": "BiznoSearch"
+  },
+  "2161": {
+    "rowNumber": 2161,
+    "name": "이에이치",
+    "bizno": "621-81-47140",
+    "matchedTitle": "주식회사 이에이치",
+    "matchedCeo": "김휘복",
+    "matchedAddress": "부산광역시 사상구 주례로 148",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6218147140",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "2162": {
+    "rowNumber": 2162,
+    "name": "에니파크디자인",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2163": {
+    "rowNumber": 2163,
+    "name": "플레이박스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2164": {
+    "rowNumber": 2164,
+    "name": "정석인",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2165": {
+    "rowNumber": 2165,
+    "name": "주식회사메쉬링크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2166": {
+    "rowNumber": 2166,
+    "name": "스튜디오제이주식회사",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2167": {
+    "rowNumber": 2167,
+    "name": "경성테크놀러지",
+    "bizno": "445-86-00963",
+    "matchedTitle": "주식회사 경성테크놀러지",
+    "matchedCeo": "홍순기",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 66, 901호",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/4458600963",
+    "matchedVia": "BiznoSearch"
+  },
+  "2168": {
+    "rowNumber": 2168,
+    "name": "이노시스아이엑스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2170": {
+    "rowNumber": 2170,
+    "name": "동양디얜씨",
+    "bizno": "528-86-00915",
+    "matchedTitle": "주식회사 동양디얜씨",
+    "matchedCeo": "이준호",
+    "matchedAddress": "부산광역시 수영구 민락수변로7번길 60",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5288600915",
+    "matchedVia": "BiznoSearch"
+  },
+  "2171": {
+    "rowNumber": 2171,
+    "name": "위드마인드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2172": {
+    "rowNumber": 2172,
+    "name": "맥큐브",
+    "bizno": "192-88-00141",
+    "matchedTitle": "맥큐브 주식회사",
+    "matchedCeo": "안호준,정휘석",
+    "matchedAddress": "부산광역시 남구 신선로 365, 7공학관 201호(용당동, 부경대학교용당캠퍼스) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1928800141",
+    "matchedVia": "BiznoSearch"
+  },
+  "2173": {
+    "rowNumber": 2173,
+    "name": "투그램시스템즈",
+    "bizno": "602-81-61189",
+    "matchedTitle": "주식회사 투그램시스템즈",
+    "matchedCeo": "서영우",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, A동 2507호 (재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6028161189",
+    "matchedVia": "BiznoSearch"
+  },
+  "2174": {
+    "rowNumber": 2174,
+    "name": "오케이스크린골프",
+    "bizno": "647-07-02320",
+    "matchedTitle": "오케이스크린골프",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 좌동로 88 (좌동, 울트라타워) 14층 88, Jwadong-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6470702320",
+    "matchedVia": "BiznoSearch"
+  },
+  "2175": {
+    "rowNumber": 2175,
+    "name": "중앙일보 동래，명륜센터",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2176": {
+    "rowNumber": 2176,
+    "name": "동아서적",
+    "bizno": "606-99-77903",
+    "matchedTitle": "동아서적",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 용소로 4",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6069977903",
+    "matchedVia": "BiznoSearch"
+  },
+  "2177": {
+    "rowNumber": 2177,
+    "name": "범죄예방신문부산울산취재본부",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2178": {
+    "rowNumber": 2178,
+    "name": "부산시대광고대행",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2179": {
+    "rowNumber": 2179,
+    "name": "더천유",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2180": {
+    "rowNumber": 2180,
+    "name": "인터그라픽스커뮤니케이션",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2181": {
+    "rowNumber": 2181,
+    "name": "디자인회관사무소",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2182": {
+    "rowNumber": 2182,
+    "name": "디자인문",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2183": {
+    "rowNumber": 2183,
+    "name": "아신 테크",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2184": {
+    "rowNumber": 2184,
+    "name": "주식회사노크유",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2185": {
+    "rowNumber": 2185,
+    "name": "지니에듀텤",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2186": {
+    "rowNumber": 2186,
+    "name": "주식회사인텔리코드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2187": {
+    "rowNumber": 2187,
+    "name": "우마테크",
+    "bizno": "480-87-02831",
+    "matchedTitle": "주식회사 우마테크",
+    "matchedCeo": "이근조",
+    "matchedAddress": "부산광역시 강서구 녹산산업중로 224 224, Noksansaneopjung-ro, Gangseo-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4808702831",
+    "matchedVia": "BiznoSearch"
+  },
+  "2188": {
+    "rowNumber": 2188,
+    "name": "에스엠아이디",
+    "bizno": "603-81-88008",
+    "matchedTitle": "（주）에스엠아이디",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 강서구 화전산단6로 46 (화전동) 46, Hwajeonsandan 6-ro, Gangseo-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6038188008",
+    "matchedVia": "BiznoSearch"
+  },
+  "2189": {
+    "rowNumber": 2189,
+    "name": "극동로직스",
+    "bizno": "270-88-03017",
+    "matchedTitle": "주식회사 극동로직스",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 수영로266번길 10 101동 8층 2호 10, Suyeong-ro 266beon-gil, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2708803017",
+    "matchedVia": "BiznoSearch"
+  },
+  "2190": {
+    "rowNumber": 2190,
+    "name": "로고스아카데미",
+    "bizno": "584-86-03362",
+    "matchedTitle": "로고스아카데미(주)",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 수영로 295 3층 301호 (대연동, 세웅빌딩) 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5848603362",
+    "matchedVia": "BiznoSearch"
+  },
+  "2191": {
+    "rowNumber": 2191,
+    "name": "제이케이 이스포츠",
+    "bizno": "502-86-41627",
+    "matchedTitle": "주식회사 제이케이이스포츠",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 용소로 56",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/5028641627",
+    "matchedVia": "BiznoSearch"
+  },
+  "2192": {
+    "rowNumber": 2192,
+    "name": "엔터잡",
+    "bizno": "617-86-01330",
+    "matchedTitle": "주식회사 엔터잡",
+    "matchedCeo": "이진아",
+    "matchedAddress": "부산광역시 남구 수영로 312 15층 1515호 (대연동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178601330",
+    "matchedVia": "BiznoSearch"
+  },
+  "2193": {
+    "rowNumber": 2193,
+    "name": "엔엑스지",
+    "bizno": "628-86-01330",
+    "matchedTitle": "주식회사 엔엑스지",
+    "matchedCeo": "김선미",
+    "matchedAddress": "부산광역시 남구 수영로322번길 20 3층 (대연동 리젠시빌딩)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6288601330",
+    "matchedVia": "BiznoSearch"
+  },
+  "2194": {
+    "rowNumber": 2194,
+    "name": "베러아일랜드",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2195": {
+    "rowNumber": 2195,
+    "name": "오르",
+    "bizno": "509-09-73264",
+    "matchedTitle": "오르",
+    "matchedCeo": "강효진",
+    "matchedAddress": "부산광역시 남구 석포로 102, 지하1층(대연동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5090973264",
+    "matchedVia": "NaverSearch+BiznoDetail"
+  },
+  "2196": {
+    "rowNumber": 2196,
+    "name": "카메리엘",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2197": {
+    "rowNumber": 2197,
+    "name": "한국바이오뷰티산업협동조합",
+    "bizno": "697-86-01414",
+    "matchedTitle": "한국바이오뷰티산업협동조합",
+    "matchedCeo": "현미희",
+    "matchedAddress": "부산광역시 남구 신선로 365, 302호(용당동, 부경대학교 10공학관)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6978601414",
+    "matchedVia": "BiznoSearch"
+  },
+  "2199": {
+    "rowNumber": 2199,
+    "name": "제로",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2201": {
+    "rowNumber": 2201,
+    "name": "알티엠",
+    "bizno": "107-35-71128",
+    "matchedTitle": "알티엠",
+    "matchedCeo": "양영철",
+    "matchedAddress": "부산광역시 남구 문현금융로 40 (문현동) 부산국제금융센터 8층 11호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1073571128",
+    "matchedVia": "BiznoSearch"
+  },
+  "2202": {
+    "rowNumber": 2202,
+    "name": "이아이옵",
+    "bizno": "569-86-02952",
+    "matchedTitle": "이아이옵 주식회사",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 남구 문현금융로 40 (문현동) 8층 8호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5698602952",
+    "matchedVia": "BiznoSearch"
+  },
+  "2203": {
+    "rowNumber": 2203,
+    "name": "노매드헐",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2204": {
+    "rowNumber": 2204,
+    "name": "레벤그리다",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2206": {
+    "rowNumber": 2206,
+    "name": "케이와이시스템",
+    "bizno": "741-88-00400",
+    "matchedTitle": "(주)케이와이시스템",
+    "matchedCeo": "김순자",
+    "matchedAddress": "부산광역시 남구 신선로 365, 203호 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7418800400",
+    "matchedVia": "BiznoSearch"
+  },
+  "2207": {
+    "rowNumber": 2207,
+    "name": "선민",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2208": {
+    "rowNumber": 2208,
+    "name": "지앨",
+    "bizno": "789-87-03154",
+    "matchedTitle": "주식회사 지앨",
+    "matchedCeo": "박성수",
+    "matchedAddress": "부산광역시 사상구 대동로 303 (감전동) 부산디지털밸리 502호 303, Daedong-ro, Sasang-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7898703154",
+    "matchedVia": "BiznoSearch"
+  },
+  "2209": {
+    "rowNumber": 2209,
+    "name": "가람스토어",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2210": {
+    "rowNumber": 2210,
+    "name": "하늘연",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2211": {
+    "rowNumber": 2211,
+    "name": "인코누스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2212": {
+    "rowNumber": 2212,
+    "name": "이수",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2213": {
+    "rowNumber": 2213,
+    "name": "엣지러너스클럽",
+    "bizno": "636-88-03051",
+    "matchedTitle": "주식회사 엣지러너스클럽",
+    "matchedCeo": "오형석",
+    "matchedAddress": "부산광역시 사하구 낙동대로 542, 3층 302-에이171호 (하단동, 대우에덴프라자) 542, Nakdong-daero, Saha-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6368803051",
+    "matchedVia": "BiznoSearch"
+  },
+  "2214": {
+    "rowNumber": 2214,
+    "name": "에어딩동",
+    "bizno": "286-86-02440",
+    "matchedTitle": "주식회사 에어딩동",
+    "matchedCeo": "신영철",
+    "matchedAddress": "부산광역시 사하구 낙동대로 550, 산학연구관 404호 (하단동, 동아대학교 승학캠퍼스)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2868602440",
+    "matchedVia": "BIPA/BI-Net"
+  },
+  "2215": {
+    "rowNumber": 2215,
+    "name": "더비치",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2216": {
+    "rowNumber": 2216,
+    "name": "토탈소프트뱅크",
+    "bizno": "601-81-18506",
+    "matchedTitle": "(주)토탈소프트뱅크",
+    "matchedCeo": "최장수",
+    "matchedAddress": "부산광역시 해운대구 반송로513번길 66-39(석대동) 66-39, Bansong-ro 513beon-gil, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6018118506",
+    "matchedVia": "BiznoSearch"
+  },
+  "2217": {
+    "rowNumber": 2217,
+    "name": "힐스카이컨트리클럽",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2218": {
+    "rowNumber": 2218,
+    "name": "윈피플",
+    "bizno": "432-81-02034",
+    "matchedTitle": "(주) 윈피플",
+    "matchedCeo": "신진영",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 71",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4328102034",
+    "matchedVia": "BiznoSearch"
+  },
+  "2220": {
+    "rowNumber": 2220,
+    "name": "한국여성문화아카데미",
+    "bizno": "507-88-01788",
+    "matchedTitle": "(주)한국여성문화아카데미",
+    "matchedCeo": "김경태",
+    "matchedAddress": "부산광역시 해운대구 센텀서로 30 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5078801788",
+    "matchedVia": "BiznoSearch"
+  },
+  "2221": {
+    "rowNumber": 2221,
+    "name": "나원디앤씨",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2222": {
+    "rowNumber": 2222,
+    "name": "디렉스",
+    "bizno": "547-88-02261",
+    "matchedTitle": "디렉스",
+    "matchedCeo": "박영미",
+    "matchedAddress": "부산광역시 해운대구 센텀6로 21, 7층 701호 21, Centum 6-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5478802261",
+    "matchedVia": "BiznoSearch"
+  },
+  "2223": {
+    "rowNumber": 2223,
+    "name": "팝플",
+    "bizno": "114-87-26367",
+    "matchedTitle": "주식회사 팝플",
+    "matchedCeo": "최기석",
+    "matchedAddress": "부산광역시 해운대구 해운대해변로 203, 729호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1148726367",
+    "matchedVia": "BiznoSearch"
+  },
+  "2224": {
+    "rowNumber": 2224,
+    "name": "아이렌",
+    "bizno": "588-81-03374",
+    "matchedTitle": "주식회사 아이렌",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 78 78, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5888103374",
+    "matchedVia": "BiznoSearch"
+  },
+  "2225": {
+    "rowNumber": 2225,
+    "name": "인벤트랩스",
+    "bizno": "224-87-02186",
+    "matchedTitle": "주식회사 인벤트랩스",
+    "matchedCeo": "박성국",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 78, 1708호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2248702186",
+    "matchedVia": "BiznoSearch"
+  },
+  "2226": {
+    "rowNumber": 2226,
+    "name": "앱솔루션",
+    "bizno": "722-81-02693",
+    "matchedTitle": "주식회사 앱솔루션",
+    "matchedCeo": "조호",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 78",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7228102693",
+    "matchedVia": "BiznoSearch"
+  },
+  "2227": {
+    "rowNumber": 2227,
+    "name": "율안",
+    "bizno": "111-81-35870",
+    "matchedTitle": "주식회사 율안",
+    "matchedCeo": "어경현",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 48, 1202호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1118135870",
+    "matchedVia": "BiznoSearch"
+  },
+  "2228": {
+    "rowNumber": 2228,
+    "name": "투플원엔터테인먼트",
+    "bizno": "548-87-02312",
+    "matchedTitle": "(주)투플원엔터테인먼트",
+    "matchedCeo": "조보성",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 48, 1304호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5488702312",
+    "matchedVia": "BiznoSearch"
+  },
+  "2229": {
+    "rowNumber": 2229,
+    "name": "메타블루",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2230": {
+    "rowNumber": 2230,
+    "name": "스튜디오빈센트",
+    "bizno": "683-87-02783",
+    "matchedTitle": "주식회사 스튜디오빈센트",
+    "matchedCeo": "권소망",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 57",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6838702783",
+    "matchedVia": "BiznoSearch"
+  },
+  "2231": {
+    "rowNumber": 2231,
+    "name": "히트북",
+    "bizno": "627-88-00797",
+    "matchedTitle": "주식회사 히트북",
+    "matchedCeo": "조형근",
+    "matchedAddress": "부산광역시 해운대구 수영강변대로 140 6층 621호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6278800797",
+    "matchedVia": "BiznoSearch"
+  },
+  "2232": {
+    "rowNumber": 2232,
+    "name": "유캐스트",
+    "bizno": "617-86-15187",
+    "matchedTitle": "주식회사 유캐스트",
+    "matchedCeo": "김수민",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 71, 1207호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178615187",
+    "matchedVia": "BiznoSearch"
+  },
+  "2233": {
+    "rowNumber": 2233,
+    "name": "하록",
+    "bizno": "387-88-00211",
+    "matchedTitle": "주식회사 하록",
+    "matchedCeo": "송봉춘",
+    "matchedAddress": "부산광역시 해운대구 센텀서로 30",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/3878800211",
+    "matchedVia": "BiznoSearch"
+  },
+  "2234": {
+    "rowNumber": 2234,
+    "name": "프보이",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2235": {
+    "rowNumber": 2235,
+    "name": "베스트엔터테인먼트",
+    "bizno": "617-81-75934",
+    "matchedTitle": "（주）베스트엔터테인먼트",
+    "matchedCeo": "김대희",
+    "matchedAddress": "부산광역시 해운대구 센텀서로 30 (KNN타워 806호) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6178175934",
+    "matchedVia": "BiznoSearch"
+  },
+  "2236": {
+    "rowNumber": 2236,
+    "name": "이피엠시스템",
+    "bizno": "528-87-00076",
+    "matchedTitle": "주식회사 이피엠시스템",
+    "matchedCeo": "이경일",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 48",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/5288700076",
+    "matchedVia": "BiznoSearch"
+  },
+  "2237": {
+    "rowNumber": 2237,
+    "name": "그리드파트너스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2238": {
+    "rowNumber": 2238,
+    "name": "백앤센스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2239": {
+    "rowNumber": 2239,
+    "name": "시그마씨앤에스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2240": {
+    "rowNumber": 2240,
+    "name": "쉐어트리츠",
+    "bizno": "625-81-00680",
+    "matchedTitle": "주식회사 쉐어트리츠",
+    "matchedCeo": "이홍배",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 45 45, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6258100680",
+    "matchedVia": "BiznoSearch"
+  },
+  "2241": {
+    "rowNumber": 2241,
+    "name": "팀리부뜨",
+    "bizno": "882-86-03081",
+    "matchedTitle": "주식회사 팀리부뜨",
+    "matchedCeo": "최성철",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 45",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8828603081",
+    "matchedVia": "BiznoSearch"
+  },
+  "2242": {
+    "rowNumber": 2242,
+    "name": "에이치앤비스튜디오코리아",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2243": {
+    "rowNumber": 2243,
+    "name": "케어닥",
+    "bizno": "708-81-00933",
+    "matchedTitle": "주식회사 케어닥",
+    "matchedCeo": "박재병",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 45, 307호 (우동, 웹스빌딩)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7088100933",
+    "matchedVia": "OfficialWebsite+FTC"
+  },
+  "2244": {
+    "rowNumber": 2244,
+    "name": "티아이테크놀로지",
+    "bizno": "336-88-01376",
+    "matchedTitle": "티아이테크놀로지(주)",
+    "matchedCeo": "김동훈",
+    "matchedAddress": "부산광역시 해운대구 센텀동로 45, 1층",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/3368801376",
+    "matchedVia": "BiznoSearch"
+  },
+  "2245": {
+    "rowNumber": 2245,
+    "name": "케이에이치알",
+    "bizno": "123-88-03119",
+    "matchedTitle": "케이에이치알 주식회사 (KHR)",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97 (재송동, 센텀스카이비즈) A동 16층 1606호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1238803119",
+    "matchedVia": "BiznoSearch"
+  },
+  "2246": {
+    "rowNumber": 2246,
+    "name": "미라클링",
+    "bizno": "109-86-57158",
+    "matchedTitle": "주식회사 미라클링",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97 제이에이동 2305호(재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1098657158",
+    "matchedVia": "BiznoSearch"
+  },
+  "2247": {
+    "rowNumber": 2247,
+    "name": "오렌지랩스",
+    "bizno": "815-88-02655",
+    "matchedTitle": "오렌지랩스 주식회사",
+    "matchedCeo": "김범진",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "폐업자",
+    "sourceUrl": "https://bizno.net/article/8158802655",
+    "matchedVia": "BiznoSearch"
+  },
+  "2248": {
+    "rowNumber": 2248,
+    "name": "에스랩",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2249": {
+    "rowNumber": 2249,
+    "name": "아이시스",
+    "bizno": "701-81-02134",
+    "matchedTitle": "주식회사 아이시스",
+    "matchedCeo": "박장식",
+    "matchedAddress": "부산광역시 해운대구 센텀북대로 60 60, Centum buk-daero, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7018102134",
+    "matchedVia": "BiznoSearch"
+  },
+  "2250": {
+    "rowNumber": 2250,
+    "name": "에코비티",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2251": {
+    "rowNumber": 2251,
+    "name": "모멘텀픽쳐스",
+    "bizno": "498-81-03765",
+    "matchedTitle": "주식회사모멘텀픽쳐스",
+    "matchedCeo": "",
+    "matchedAddress": "부산 해운대구 센텀동로 99 (재송동, 벽산이센텀클래스원) 412호 99, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4988103765",
+    "matchedVia": "BiznoSearch"
+  },
+  "2252": {
+    "rowNumber": 2252,
+    "name": "제이피테크",
+    "bizno": "432-86-00685",
+    "matchedTitle": "주식회사 제이피테크",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 1904호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4328600685",
+    "matchedVia": "BiznoSearch"
+  },
+  "2253": {
+    "rowNumber": 2253,
+    "name": "비트시스",
+    "bizno": "272-86-01215",
+    "matchedTitle": "주식회사 비트시스",
+    "matchedCeo": "김동칠",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 에이동 2101호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/2728601215",
+    "matchedVia": "BiznoSearch"
+  },
+  "2254": {
+    "rowNumber": 2254,
+    "name": "건흥페이먼츠",
+    "bizno": "575-40-00965",
+    "matchedTitle": "건흥페이먼츠",
+    "matchedCeo": "이득명",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97 (재송동) 스카이비즈 A동 2907호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "휴업자",
+    "sourceUrl": "https://bizno.net/article/5754000965",
+    "matchedVia": "BiznoSearch"
+  },
+  "2255": {
+    "rowNumber": 2255,
+    "name": "크리에이티브올라",
+    "bizno": "612-87-03489",
+    "matchedTitle": "주식회사 크리에이티브올라",
+    "matchedCeo": "홍정현",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 6-2호 (재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6128703489",
+    "matchedVia": "BiznoSearch"
+  },
+  "2256": {
+    "rowNumber": 2256,
+    "name": "저스티스어드벤처",
+    "bizno": "177-81-00390",
+    "matchedTitle": "(주) 저스티스어드벤처",
+    "matchedCeo": "정원일",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 B동 603호 (재송동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/1778100390",
+    "matchedVia": "Naver+Bizno"
+  },
+  "2257": {
+    "rowNumber": 2257,
+    "name": "아크리아스튜디오",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2258": {
+    "rowNumber": 2258,
+    "name": "컨벤션숲",
+    "bizno": "721-81-01667",
+    "matchedTitle": "주식회사 컨벤션숲",
+    "matchedCeo": "김정훈",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 48",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/7218101667",
+    "matchedVia": "BiznoSearch"
+  },
+  "2259": {
+    "rowNumber": 2259,
+    "name": "번들즈",
+    "bizno": "876-87-02750",
+    "matchedTitle": "주식회사 번들즈",
+    "matchedCeo": "김민수",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 804-1호 (재송동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8768702750",
+    "matchedVia": "Naver+Hometax"
+  },
+  "2260": {
+    "rowNumber": 2260,
+    "name": "모두싸인",
+    "bizno": "356-87-00243",
+    "matchedTitle": "주식회사 모두싸인",
+    "matchedCeo": "이영준",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 97, 제에이동 3610호(재송동, 센텀스카이비즈)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/3568700243",
+    "matchedVia": "OfficialWebsite+FTC"
+  },
+  "2261": {
+    "rowNumber": 2261,
+    "name": "뱅크다이어리",
+    "bizno": "851-88-02404",
+    "matchedTitle": "(주)뱅크다이어리",
+    "matchedCeo": "김승욱",
+    "matchedAddress": "부산광역시 해운대구 센텀중앙로 90 (재송동, 큐비이센텀) 705호",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/8518802404",
+    "matchedVia": "BiznoSearch"
+  },
+  "2262": {
+    "rowNumber": 2262,
+    "name": "아신홀딩스",
+    "bizno": "439-87-02978",
+    "matchedTitle": "주식회사 아신홀딩스",
+    "matchedCeo": "김삼문",
+    "matchedAddress": "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교) 산학협력관동508호 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4398702978",
+    "matchedVia": "BiznoSearch"
+  },
+  "2263": {
+    "rowNumber": 2263,
+    "name": "인우랩",
+    "bizno": "401-86-02715",
+    "matchedTitle": "주식회사 인우랩",
+    "matchedCeo": "",
+    "matchedAddress": "부산광역시 부산진구 엄광로 176 802-3,4호 (가야동, 동의대학교 산학협력관) 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/4018602715",
+    "matchedVia": "BiznoSearch"
+  },
+  "2264": {
+    "rowNumber": 2264,
+    "name": "엑스에이아이에듀랩스",
+    "bizno": null,
+    "reason": "미등록 또는 식별 불명"
+  },
+  "2307": {
+    "rowNumber": 2307,
+    "name": "피커스튜디오",
+    "bizno": "606-16-43962",
+    "matchedTitle": "피커스튜디오",
+    "matchedCeo": "이현철",
+    "matchedAddress": "부산 연제구 월드컵대로114번길 26 (연산동)",
+    "status": "계속사업자",
+    "sourceUrl": "https://bizno.net/article/6061643962",
+    "matchedVia": "Naver+BIPA"
+  }
+}

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Saved: C:/Users/lg/Desktop/오늘/사업자번호_찾은_192개_매출액포함.xlsx with 50 revenue entries!
+

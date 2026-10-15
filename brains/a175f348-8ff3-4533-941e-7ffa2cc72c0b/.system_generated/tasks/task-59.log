@@ -1,0 +1,25 @@
+Reading file...
+Backup created at: C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found 1000 rows for 배현명.
+Progress: 50/1000 (5%) - Verified: 50, Closed: 9
+Progress: 100/1000 (10%) - Verified: 100, Closed: 14
+Progress: 150/1000 (15%) - Verified: 150, Closed: 23
+Progress: 200/1000 (20%) - Verified: 200, Closed: 33
+Progress: 250/1000 (25%) - Verified: 250, Closed: 40
+Progress: 300/1000 (30%) - Verified: 300, Closed: 42
+Progress: 350/1000 (35%) - Verified: 350, Closed: 44
+Progress: 400/1000 (40%) - Verified: 400, Closed: 51
+Progress: 450/1000 (45%) - Verified: 450, Closed: 55
+Progress: 500/1000 (50%) - Verified: 500, Closed: 61
+Progress: 550/1000 (55%) - Verified: 549, Closed: 63
+Progress: 600/1000 (60%) - Verified: 599, Closed: 66
+Progress: 650/1000 (65%) - Verified: 649, Closed: 68
+Progress: 700/1000 (70%) - Verified: 698, Closed: 71
+Progress: 750/1000 (75%) - Verified: 748, Closed: 74
+Progress: 800/1000 (80%) - Verified: 798, Closed: 77
+Progress: 850/1000 (85%) - Verified: 848, Closed: 79
+Progress: 900/1000 (90%) - Verified: 898, Closed: 79
+Progress: 950/1000 (95%) - Verified: 948, Closed: 79
+Progress: 1000/1000 (100%) - Verified: 998, Closed: 82
+Writing updated content back to CSV...
+Successfully updated the original CSV file!

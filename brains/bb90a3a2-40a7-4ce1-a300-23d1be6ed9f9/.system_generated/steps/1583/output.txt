@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+HSNPL len: 360294
+Phones in HSNPL: [ '1577-7769' ]
+Footer text:  } }; function isIpadOS() { return navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /MacIntel/.test(navigator.platform); } function getScrollY() { if (isIpadOS()) { return window.scrollY / _ZOOM; } else { return window.scrollY; } }; /* 2020.05.18 재헌 * 동영상 컨텐츠 로딩 시 다른 컨텐츠의 로딩까지 느려지는 부분 개선 * 로딩 순서 (동영상 외) -> (동영상) * * 2026.08 - 여기서 전량 주입하던 로직을 제거했다. * iframe 이 display:none(0x0) 인 상태에서 src 가 주입되면 유튜브가 * 저해상도 썸네일을 확정해버리는 문제가 있었다. * script.inc.html 의 initVideoLazyLoad() 가 대신 처리한다. */ $(document).ready(function() { if ($('.read-content-next')) { $('.read-content-next').text('이전글'); $('.read-content-prev').text('다음글'); } $("#main_container").delegate('.board-table-1 tr.board-tbody-tr, .board-table-2 tr.board-tbody-tr, .read-content-next, .read-content-prev', 'click', function (e) { const customInterval = setInterval(function() { if ($('.read-content-next')) { $('.read-content-next').text('이전글'); $('.read-content-prev').text('다음글'); clearInterval(customInterval); } }, 1000) }); }); 
+

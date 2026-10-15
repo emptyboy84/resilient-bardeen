@@ -1,0 +1,25 @@
+The search for ""머니핀" 사업자등록번호조회 OR 사업자번호조회" returned the following summary:
+**머니핀(MoneyPin)**은 소규모 사업자를 위한 경영관리 솔루션을 제공하는 서비스로, 사업자등록번호 조회를 포함한 다양한 기업 정보를 조회할 수 있는 플랫폼을 운영하고 있습니다[1][2].
+
+### 1. 머니핀 사업자 조회 서비스
+*   **기능:** 머니핀 홈페이지 및 서비스를 통해 사업자등록번호, 상호, 대표자명 등을 기준으로 대한민국의 사업자 정보를 검색하고 조회할 수 있습니다[1][3].
+*   **활용 데이터:** 국세청, 공정거래위원회 등 공공기관의 공개 데이터를 취합·가공하여 실시간에 가까운 사업자 상태(계속사업자, 폐업자 등) 및 정보를 제공합니다[4][5][6].
+*   **이용 방법:** [머니핀 홈페이지(moneypin.biz)](https://moneypin.biz/)에 접속하여 '사업자정보 조회' 메뉴를 통해 이용할 수 있습니다[7][3].
+
+### 2. 참고 사항
+*   **공식 조회처:** 사업자의 세무 정보는 국세청 **홈택스(Hometax)**의 [조회/발급 → 사업자상태 → 사업자등록번호로 조회] 메뉴를 통해 가장 정확하고 공식적으로 확인하실 수 있습니다[7][8].
+*   **데이터의 성격:** 머니핀과 같은 민간 플랫폼은 공공 데이터를 가공하여 제공하므로, 정보의 갱신 주기나 범위에 따라 실제와 다소 차이가 있을 수 있습니다[9][4].
+*   **주의:** 사업자 정보 조회 시 개인정보보호 및 서비스 이용약관을 확인하시기 바라며, 일부 데이터는 삭제/수정 요청 등이 이루어질 수 있습니다[10][11].
+
+Sources:
+[1] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6jBeLUZabxaMA1KJF3U9OHHLfLfSD7F3GtM6HdtOUHvv67V2knrOkb-rImLYkiAzizWVTVYoMF-J1DSx7d5av0TUGDX3z7xI4pyQ=)
+[2] [app.link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF39JrsKa8aUq9Sj0i0fWuKV7z1yYAWcoE6YYxQhQlZGhYI1i__ol_TEpr_G1LTRJDcUL0KPA_MWtxGK_DH_4BQll4nzbisK1Cy-2G5nEbMIPqf_596KT3B)
+[3] [adure.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1sW9B4nYtHP1J_igIsCv5khYXzsy2X_0XT_OVNQQS4ImvsipEzFGRx8QV813q-icRKWypSxH5r5q_aTAXSwObAxBUm6ukYn-8z6sUAcU4kGavnKUTVCrTML93gIn5PI3XyxZnaTbu35KDOLYipEipbCBTPUFEAuSUW27F9Z9p2bjsgzoyHERA47hY65Z3-URr236yCaEYf5Y59MbyBF1KoeGW0zgFsXsbIRWYlprkmUykf3y-rFp9sEZH2PwicNNpY_C7EPwjCicdBGTE08l1SHag_pzZrQBrKlQdQ==)
+[4] [a-ha.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8kKjbOaJ_VX5Ww-nUjnNVmIAeEOy4pvPXB7VkqIPS3TleRE8u7cRiJy_2sKDL7cfYrjj-rEnPh-Me22Y1bDrDIsYtoshYwyiPLq3yyWI1CRW9aUP4IqDlpfrH6df0mAs7g-MsmEp_FnVpLlS40jGm4ylHOw==)
+[5] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpLzI4HPlQW96nseoytrDBXGbvZ4kG_Tb2kVz-QM1LIvqm2JdCNJ2tGk6llxbt_fGm20ZXOLQkGyNIEE8JFJAQSRXG1GoXlWkOZokjn8VP632RMjEO7A==)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqtcKeCJ5S59EtSPJJAH__UomxifSrMJo8xepJE058_pazOhn7d_WldBCMk2qiomEWiI8iHwuIKmhDZ8achT29cGxJfULoGt8Op7zq2YHAu9OmhvklLDboaaY=)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc1an68ypqFEGQaVHVU1VzeBhWdGoRo_peMsbQq--Vhg-pH4naUTankkoSacgUUFs0NZ-EEb08UStsQa8F8hWDJqS7V115o-BPWZGM8aRCylY=)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc1an68ypqFEGQaVHVU1VzeBhWdGoRo_peMsbQq--Vhg-pH4naUTankkoSacgUUFs0NZ-EEb08UStsQa8F8hWDJqS7V115o-BPWZGM8aRCylY=)
+[9] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWt5p0M6xHgv4a3vnvPrcr_Cg_EDhSV_WeWPaXH4MpceHHcjF4XE5iwPeZaEQWjfSnYoFXNDOVfrHtfxN_TF22sWtv_ty7FHEB2w8zqaS5J2cbznRngFa4U2oPmGADZtxViH9Y4BEpbok=)
+[10] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqtcKeCJ5S59EtSPJJAH__UomxifSrMJo8xepJE058_pazOhn7d_WldBCMk2qiomEWiI8iHwuIKmhDZ8achT29cGxJfULoGt8Op7zq2YHAu9OmhvklLDboaaY=)
+[11] [dbritz.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQXI4uZVfQKz1DT4IWdupD3T_VAziME5ILBoUtCwEZ3IFnnIjkW0_1kkFPdia34a-BpPsRD6QkIHhSIIyOeF932wdjLjMmRUALjczByGa2dIbwPAi1pbjzNlhHHMxHkRCYOC4t-HUgnRyyWdY)

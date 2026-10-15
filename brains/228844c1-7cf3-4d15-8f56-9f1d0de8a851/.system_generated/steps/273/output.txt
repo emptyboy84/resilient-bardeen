@@ -1,0 +1,907 @@
+### Result
+[
+  {
+    "text": "직접입력옵션펼치기접기",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2026.09.15.",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "2026.09.15.",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "옵션 초기화",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&nso_open=1"
+  },
+  {
+    "text": "검색옵션 가이드새 창 열림",
+    "href": "https://help.naver.com/support/alias/search/integration/intergration_84.naver"
+  },
+  {
+    "text": "상세 검색결과 보기",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_dgs&qdt=1"
+  },
+  {
+    "text": "모바일 메인 언론사",
+    "href": "https://search.naver.com/search.naver?nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&service_area=1&sm=tab_smr&sort=0&ssc=tab.news.all"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "http://www.kbench.com/"
+  },
+  {
+    "text": "케이벤치\n새 창 열림",
+    "href": "http://www.kbench.com/"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "클래스브이알(CLASSVR), 메타버스 콘텐츠 출시\n새 창 열림",
+    "href": "http://kbench.com/?q=node/236177"
+  },
+  {
+    "text": "클래스브이알코리아 조수형 대표는 “매월 업데이트 되는 메타버스 콘텐츠를 제공하여 공교육 현장에서 다양한 수업에 활용될 수 있도록 도움을 줄... 그리고 클래스브이알(CLASSVR)은 8월 18일부터 8월 20일까지 부산 K-메타버스 엑스포에도 참가하여 부산 및 인근 지역의 선생님들에게 클래스브이알...\n새 창 열림",
+    "href": "http://kbench.com/?q=node/236177"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "http://kbench.com/?q=node/236177"
+  },
+  {
+    "text": "클래스브이알, 지능형과학실 메타버스 콘텐츠 출시\n새 창 열림",
+    "href": "http://www.koit.co.kr/news/articleView.html?idxno=101066"
+  },
+  {
+    "text": "클래스브이알(CLASSVR), 메타버스 콘텐츠 출시\n새 창 열림",
+    "href": "http://news.mt.co.kr/mtview.php?no=2022080915355417902"
+  },
+  {
+    "text": "네이버뉴스\n새 창 열림",
+    "href": "https://n.news.naver.com/mnews/article/008/0004781101?sid=101"
+  },
+  {
+    "text": "관련뉴스 전체보기",
+    "href": "https://search.naver.com/search.naver?de=&docid=50360000150922&ds=&field=0&mynews=0&news_office_checked=&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&office_section_code=0&office_type=0&pd=-1&photo=0&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&related=1&sm=tab_tnw&sort=0&ssc=tab.news.all"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://media.naver.com/press/030"
+  },
+  {
+    "text": "전자신문\n새 창 열림",
+    "href": "https://media.naver.com/press/030"
+  },
+  {
+    "text": "네이버뉴스\n새 창 열림",
+    "href": "https://n.news.naver.com/mnews/article/030/0002983888?sid=105"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "브이알카버, 코리아소프트와 '장애인 e스포츠대회' 공동지원 참여…신규...\n새 창 열림",
+    "href": "http://www.etnews.com/20211124000101"
+  },
+  {
+    "text": "최근 브이알카버 측은 코리아소프트(대표이사 남연지)와 대한장애인e스포츠연맹(회장 임윤태 변호사) 등과 3자간 장애인e스포츠 발전 협약을... 최우석 장애인e스포츠연맹 사무총장은 “3자간 긴밀한 협업을 통해 한국에서 개최 예정인 ‘2023세계장애인부산대회’의 세계 무대에서 국제e스포츠연맹의...\n새 창 열림",
+    "href": "http://www.etnews.com/20211124000101"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "http://www.etnews.com/20211124000101"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "http://www.gamefocus.co.kr/"
+  },
+  {
+    "text": "게임포커스\n새 창 열림",
+    "href": "http://www.gamefocus.co.kr/"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "브이알플러스, 15일 부산지역 최초 실내 VR테마파크 남포동에 개장\n새 창 열림",
+    "href": "http://gamefocus.co.kr/detail.php?number=64159"
+  },
+  {
+    "text": "[게임포커스 - 김성렬 기자] 국내 최초의 실내 VR테마파크 사업자인 브이알플러스가 오는 15일(토) 부산지역 최초로 실내 VR테마파크를 남포동... 문화체육관광부와 한국콘텐츠진흥원, 삼성전자, LG전자, KT, 에버랜드, 페이스북 코리아는 11일 청계천 셀(cel) 벤처단지에서 'VR 콘텐츠산업 동반 성장을 위한...\n새 창 열림",
+    "href": "http://gamefocus.co.kr/detail.php?number=64159"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "http://gamefocus.co.kr/detail.php?number=64159"
+  },
+  {
+    "text": "[뉴스] 이젠 VR이 대세! 브이알플러스, 'VR테마파크' 부산 남포프라자 1...\n새 창 열림",
+    "href": "http://www.inven.co.kr/webzine/news/?news=165556"
+  },
+  {
+    "text": "네이버뉴스\n새 창 열림",
+    "href": "https://m.sports.naver.com/esports/article/442/0000045356"
+  },
+  {
+    "text": "부산지역 최초 실내 VR테마파크, 남포동에 개장\n새 창 열림",
+    "href": "http://www.thisisgame.com/webzine/news/nboard/225/?n=65609"
+  },
+  {
+    "text": "관련뉴스 전체보기",
+    "href": "https://search.naver.com/search.naver?de=&docid=53510000030432&ds=&field=0&mynews=0&news_office_checked=&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&office_section_code=0&office_type=0&pd=-1&photo=0&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&related=1&sm=tab_tnw&sort=0&ssc=tab.news.all"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://media.naver.com/press/030"
+  },
+  {
+    "text": "전자신문\n새 창 열림",
+    "href": "https://media.naver.com/press/030"
+  },
+  {
+    "text": "네이버뉴스\n새 창 열림",
+    "href": "https://n.news.naver.com/mnews/article/030/0003146342?sid=105"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "[2023 코리아 메타버스 어워드] “상상을 현실로” 에이펀인터렉티브 등...\n새 창 열림",
+    "href": "https://www.etnews.com/20231018000008"
+  },
+  {
+    "text": "과학기술정보통신부는 국내 가상융합세계 혁신개발과 우수사례 발굴을 위해 지난 6월부터 추진한 '2023 코리아 메타버스 어워드' 수상작 총 15건을 선정... (창작자), 부산광역시교육청교육연구정보원(공공부문), 브이리스브이알(민간부문)이 선정됐다. 과기정통부장관상에는 상금 300만원...\n새 창 열림",
+    "href": "https://www.etnews.com/20231018000008"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://www.etnews.com/20231018000008"
+  },
+  {
+    "text": "'메타버스어워드' 장관상에 에이펀인터렉티브·비햅틱스 등 수상\n새 창 열림",
+    "href": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2047781"
+  },
+  {
+    "text": "과기정통부, `대한민국 메타버스 어워드` 수상작 15건 선정\n새 창 열림",
+    "href": "https://www.dt.co.kr/contents.html?article_no=2023101802109931820007&ref=naver"
+  },
+  {
+    "text": "네이버뉴스\n새 창 열림",
+    "href": "https://n.news.naver.com/mnews/article/029/0002831130?sid=105"
+  },
+  {
+    "text": "관련뉴스 전체보기",
+    "href": "https://search.naver.com/search.naver?de=&docid=0300003146342&ds=&field=0&mynews=0&news_office_checked=&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&office_section_code=0&office_type=0&pd=-1&photo=0&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&related=1&sm=tab_tnw&sort=0&ssc=tab.news.all"
+  },
+  {
+    "text": "뉴스\n더보기",
+    "href": "https://search.naver.com/search.naver?nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_smr&sort=0&ssc=tab.news.all"
+  },
+  {
+    "text": "부산광역시\nwww.busan.go.kr\n새 창 열림",
+    "href": "https://www.busan.go.kr/"
+  },
+  {
+    "text": "자세히 보기새 창 열림",
+    "href": "https://help.naver.com/service/5626/contents/24844?lang=ko&osType=COMMONOS"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "부산광역시청\n새 창 열림",
+    "href": "https://www.busan.go.kr/"
+  },
+  {
+    "text": "보도자료\n새 창 열림",
+    "href": "https://www.busan.go.kr/nbtnewsBU"
+  },
+  {
+    "text": "채용공고\n새 창 열림",
+    "href": "https://www.busan.go.kr/nbincruit"
+  },
+  {
+    "text": "공무원 시험공고\n새 창 열림",
+    "href": "https://www.busan.go.kr/depart/jobexam01"
+  },
+  {
+    "text": "통합 공지사항\n새 창 열림",
+    "href": "https://www.busan.go.kr/nbnews"
+  },
+  {
+    "text": "고시공고\n새 창 열림",
+    "href": "https://www.busan.go.kr/nbgosi"
+  },
+  {
+    "text": "통합민원신청\n새 창 열림",
+    "href": "https://www.busan.go.kr/minwon/minwon02"
+  },
+  {
+    "text": "Busan is good 부산이라 좋다. 다시 태어나도 살고 싶은 부산의 주요소식, 시민참여, 행정서비스 안내\n새 창 열림",
+    "href": "https://www.busan.go.kr/"
+  },
+  {
+    "text": "Busan Metropolitancity\n새 창 열림",
+    "href": "https://www.busan.go.kr/eng/index"
+  },
+  {
+    "text": "관련문서 더보기",
+    "href": "https://search.naver.com/search.naver?page=2&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22+site%3Awww.busan.go.kr&qvt=0&ssc=tab.ur.all"
+  },
+  {
+    "text": "visitbusan.net\nvisitbusan.net\n새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?uc_seq=395"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?uc_seq=395"
+  },
+  {
+    "text": "Visit Busan : The Official Travel Guide to Busan Metropolitan City\n새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?uc_seq=395"
+  },
+  {
+    "text": "A Trip to a Hidden Island in Busan: Relaxing and Healing Experiences with Nature and the Sea\nDongbaekseom Island: Where Natural Beauty and History Come Together\nEnjoy healing holidays in Busan: The city's best wellness destinations\n새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?uc_seq=395"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=508&lang_cd=en"
+  },
+  {
+    "text": "Busan Coffee Museum: All about coffee: When in Busan : Tourist Attractions: 부산시 공식 관광 포털 비짓부산 visit busa....\n새 창 열림",
+    "href": "https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=508&lang_cd=en"
+  },
+  {
+    "text": "관련문서 더보기",
+    "href": "https://search.naver.com/search.naver?page=2&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22+site%3Avisitbusan.net&qvt=0&ssc=tab.ur.all"
+  },
+  {
+    "text": "부산관광포털 비짓부산\nwww.visitbusan.net›board\n새 창 열림",
+    "href": "https://www.visitbusan.net/board/list.do?boardId=BBS_0000003&menuCd=DOM_000000304001000000"
+  },
+  {
+    "text": "자세히 보기새 창 열림",
+    "href": "https://help.naver.com/service/5626/contents/24844?lang=ko&osType=COMMONOS"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "Notice | Useful Information | Visit Busan\n새 창 열림",
+    "href": "https://www.visitbusan.net/board/list.do?boardId=BBS_0000003&menuCd=DOM_000000304001000000"
+  },
+  {
+    "text": "Title\n\t\nDate\n\n\nTemporary Suspension of Visit Busan Website Due to Server Update\n\t\n2026.06.05\n\n\n6.12.~13. BTS WORLD TOUR FREE accommodation for global tourists visiting Busan!\n\t\n2026.05.22\n\n\n6.12.~13. BTS WORLD TOUR A safe and affordable accommodation for global visitors\n\t\n2026.04.16\n새 창 열림",
+    "href": "https://www.visitbusan.net/board/list.do?boardId=BBS_0000003&menuCd=DOM_000000304001000000"
+  },
+  {
+    "text": "7행 더보기\n새 창 열림",
+    "href": "https://www.visitbusan.net/board/list.do?boardId=BBS_0000003&menuCd=DOM_000000304001000000"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://www.visitbusan.net/index.do?menuCd=DOM_000000301009001000&uc_seq=2744"
+  },
+  {
+    "text": "Busan Tourism Promotional Booth for the 2026 BTS Busan Concert: : K-POP Festival Project Events: 부산시 공식 관광 포털 ....\n새 창 열림",
+    "href": "https://www.visitbusan.net/index.do?menuCd=DOM_000000301009001000&uc_seq=2744"
+  },
+  {
+    "text": "관련문서 더보기",
+    "href": "https://search.naver.com/search.naver?page=2&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22+site%3Awww.visitbusan.net&qvt=0&ssc=tab.ur.all"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds"
+  },
+  {
+    "text": "배틀그라운드 공식카페 - PUBG: BATTLEGROUNDS\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "랜듀만하는 유저인데 busan_40_Noask?? 아이디 보신분 있으신가요?\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds/6262116?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXliYXR0bGVncm91bmRzIiwiYXJ0aWNsZUlkIjo2MjYyMTE2LCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.r4Qx_eLWLvRdihLx8IWPrFe8mV6TUL0cZA4H5y4Q3U0"
+  },
+  {
+    "text": "오전낮에만 하시는거 같은데 저번에 한번하고 그냥 맘이 맞아서 계속하고싶은데~ 접속을 안하시넹~~ 혹 카페도 하시나요?\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds/6262116?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXliYXR0bGVncm91bmRzIiwiYXJ0aWNsZUlkIjo2MjYyMTE2LCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.r4Qx_eLWLvRdihLx8IWPrFe8mV6TUL0cZA4H5y4Q3U0"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife"
+  },
+  {
+    "text": "[뉴스사사] 뉴스사사 스마트 컨슈머들의 호텔/항공 여행이야기\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "Park Hyatt Busan\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife/348803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDg4MDMsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.6nscLlbwJ_hO5H8lNWTxognRAYQZ8SbFmYeXi6uDTGw"
+  },
+  {
+    "text": "파크하얏트 부산은 방문할 때마다 느껴지는 편안함과 멋진 오션뷰, 그리고 세심한 서비스 덕분에 늘 좋은 기억으로 남는... 어느 카페 부럽지 않았던 광안대교 뷰를 바라보며 객실에서 마시는 커피 한 잔, 파크하얏트 부산에서만 느낄 수 있는... 느껴졌어요 부산 하면 빼놓을 수 없는 어묵과 물떡 조식 후에는 커피 테이크아웃 서비스도 놓치지 마세요! 특별한 호캉스를...\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife/348803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDg4MDMsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.6nscLlbwJ_hO5H8lNWTxognRAYQZ8SbFmYeXi6uDTGw"
+  },
+  {
+    "text": "13\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife/348803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDg4MDMsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.6nscLlbwJ_hO5H8lNWTxognRAYQZ8SbFmYeXi6uDTGw"
+  },
+  {
+    "text": "RE고층 광안대교뷰도 좋지만 눈높이랑 비슷한 높이가 더 좋더라고요~\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife/348803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDg4MDMsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.6nscLlbwJ_hO5H8lNWTxognRAYQZ8SbFmYeXi6uDTGw"
+  },
+  {
+    "text": "RE마리나 스위트 코로나때 저가로 잡았는데 정말 뷰 황홀했어요..ㅠㅋ\n새 창 열림",
+    "href": "https://cafe.naver.com/loyaltylife/348803?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImxveWFsdHlsaWZlIiwiYXJ0aWNsZUlkIjozNDg4MDMsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.6nscLlbwJ_hO5H8lNWTxognRAYQZ8SbFmYeXi6uDTGw"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://in.naver.com/lucy038"
+  },
+  {
+    "text": "는지\n새 창 열림",
+    "href": "https://in.naver.com/lucy038"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "BTS WORLD TOUR ARIRANG IN BUSAN 방탄소년단 부산 콘서트 260612 짧은 감상평\n새 창 열림",
+    "href": "https://blog.naver.com/lucy038/224314457160"
+  },
+  {
+    "text": "#bts부산 #bts #bts콘서트 #방탄소년단 #방탄부산콘서트 #방탄콘서트 그러니까 내가 방탄소년단 콘서트를 다녀온거야 ,, 7시 공연 시작인데 만만하게 생각하고 4시 반쯤 나서서 지하철 탈... 그래놓고 부산 콘서트 날짜를 기다렸는데 그 사이에 아파서 한동안 앓고 나니 방탄 콘서트 가는 날이 왔네 ? 막상 날짜가 다가오니까 실감도 안 나고 그들을 내가 부산에서 본다고...\n새 창 열림",
+    "href": "https://blog.naver.com/lucy038/224314457160"
+  },
+  {
+    "text": "10\n새 창 열림",
+    "href": "https://blog.naver.com/lucy038/224314457160"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/dokchi"
+  },
+  {
+    "text": "독취사-취업,대학생,대기업,공기업,GSAT,NCS,인턴,공모전,토익\n새 창 열림",
+    "href": "https://cafe.naver.com/dokchi"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "[K-ICT WEEK in BUSAN] CLOUD EXPO KOREA 2026 클라우드 기술이 만드는 디지털 혁신을 만나보세요!\n새 창 열림",
+    "href": "https://cafe.naver.com/dokchi/13303972?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRva2NoaSIsImFydGljbGVJZCI6MTMzMDM5NzIsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.XobHl30DIx3-wZ56TIJ1zE81yY46Ukrf7hCIBPbkzEI"
+  },
+  {
+    "text": "「2026 K-ICT WEEK in BUSAN」 글로벌 미래선도기술 종합 전시 행사 2026. 09. 09 – 09. 11 BEXCO 제1전시장 3홀 ☁️ 클라우드가 만드는 스마트한 산업의 미래, CLOUD EXPO KOREA 2026 지역 최대 규모의 클라우드 전문 행사 CLOUD EXPO KOREA 2026이 개최됩니다. 클라우드 산업의 최신 트렌드와 기술부터 실제 산업 현장의 혁신 사례까지! 전문 컨퍼런스를...\n새 창 열림",
+    "href": "https://cafe.naver.com/dokchi/13303972?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRva2NoaSIsImFydGljbGVJZCI6MTMzMDM5NzIsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.XobHl30DIx3-wZ56TIJ1zE81yY46Ukrf7hCIBPbkzEI"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/dokchi/13303972?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRva2NoaSIsImFydGljbGVJZCI6MTMzMDM5NzIsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjUzfQ.XobHl30DIx3-wZ56TIJ1zE81yY46Ukrf7hCIBPbkzEI"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/move79"
+  },
+  {
+    "text": "해돌 해피돌싱/올드싱글/이혼카페/재혼/양육비/상간소송/소개팅\n새 창 열림",
+    "href": "https://cafe.naver.com/move79"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "2026 싸이 흠뻑쇼 SUMMER SWAG 오래달리기 in Busan 1공연 후기!!!!!!\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "원래는 나열 100번대(100~200사이)였으나 공연전 적당히 알콜 수혈해주고 응삼동생님이 늦게 합류 일정이라 그냥 다함께 씐나게 즐기자는 취지로 싸이드로 빠졌습니다. 작년보다 가까이 보진 못했지만 더 뛰고, 더 소리지르고(저는 목이 쉬었어요~ 배우 엄태구 목소리가 되었...ㅋㅋ) 함께한 멤버들과 미친듯이 놀았습니다. (앵콜 공연땐 영상 촬영이고 뭐고 없었음.)...\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "75\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "RE어제 사직ㅋㅋㅋ 경기 잠시중단한게 요기 폭죽때문이였다쥬ㅋ\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "RE성시경 나오길 진심으로 바램!! 우리만 당할 수 없음!!!ㅋㅋ2\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "RE몇시간 동안 계신거에요? 낮에 가서 밤에 끝나는거 보니 뒷날 몸살 나겠는데요\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "RE아.......격하게 가고싶었다는요~~~ 내년엔 엔트리 20안에 들면 되는건가요?ㅎㅎ 진심으로 즐기는 모습들 믓지다욤!!!\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "RE얼떨결에 대전 일요일 막공티켓을 또 구했어요..\n새 창 열림",
+    "href": "https://cafe.naver.com/move79/6170021?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1vdmU3OSIsImFydGljbGVJZCI6NjE3MDAyMSwiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.8-cfLARwxL81BpmffnLpvUIYrtdfXF3Ko5SCou4HH1M"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove"
+  },
+  {
+    "text": "스노우피크 유저들의 모임\n새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "Snow Peak Way 2026 Premium in BUSAN~\n새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove/207473?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNub3dwZWFrbG92ZSIsImFydGljbGVJZCI6MjA3NDczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.Xd5bFPFbfMs0QNe_A-VJ5qXBJA23g7WmvbFFYbjkgdQ"
+  },
+  {
+    "text": "Snow Peak Way 2026 Premium in BUSAN~ 공홈에 떳네요. 행사 일시 : 2026년 9월 18일(금) ~ 9월 20일(일) 행사 장소 : 부산 삼락생태공원 오토캠핑장 모집 인원 : 80팀 모집 방법 : 스노우피크 공식 홈페이지 이벤트 접수 고객 대상 추첨 진행 모집 대상 : Diamond, Sapphire, Black 회원 모집 기간 : 8월 14일(금) 오후 32시 ~ 8월 20일 (목) 오전 11시 당첨자 발표...\n새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove/207473?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNub3dwZWFrbG92ZSIsImFydGljbGVJZCI6MjA3NDczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.Xd5bFPFbfMs0QNe_A-VJ5qXBJA23g7WmvbFFYbjkgdQ"
+  },
+  {
+    "text": "RE삼락오토캠핑장 검색좀 해봤더니 여러 단점에 대해 나열한 글들이 보이네요.. 부산출신 회원분들은 아마도 가보신분들이 많은듯 하니 분\n새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove/207473?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNub3dwZWFrbG92ZSIsImFydGljbGVJZCI6MjA3NDczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.Xd5bFPFbfMs0QNe_A-VJ5qXBJA23g7WmvbFFYbjkgdQ"
+  },
+  {
+    "text": "RE단점이 강한 곳입니다. 모기 땡볕 그리고 80팀 모이면 편의시설이 감당 가능할지 ...\n새 창 열림",
+    "href": "https://cafe.naver.com/snowpeaklove/207473?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InNub3dwZWFrbG92ZSIsImFydGljbGVJZCI6MjA3NDczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1M30.Xd5bFPFbfMs0QNe_A-VJ5qXBJA23g7WmvbFFYbjkgdQ"
+  },
+  {
+    "text": "위키피디아 영어\nen.wikipedia.org›Busan\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "Busan - 위키피디아 영어\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan"
+  },
+  {
+    "text": "[18] In 1423, the port of Busan (부산포) and a waegwan (Japanese concession community) were established.[18] During the reign of King Sejong the Great (r. 1418–1450), the population in Dongnae-hyeon was reportedly 2,416 people in 290 households. In Dongpyeong-hyeon, it was 627 people in 108 households. The waegwan was closed...\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan"
+  },
+  {
+    "text": "Country\nSouth Korea\nRegion\nYeongnam\nHangul\n부산광역시\nHanja\n釜山廣域市\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan"
+  },
+  {
+    "text": "Names\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Names"
+  },
+  {
+    "text": "History\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#History"
+  },
+  {
+    "text": "Geography\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Geography"
+  },
+  {
+    "text": "Administrative divisions\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Administrative_divisions"
+  },
+  {
+    "text": "Economy\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Economy"
+  },
+  {
+    "text": "Education\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Education"
+  },
+  {
+    "text": "Culture and attractions\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Culture_and_attractions"
+  },
+  {
+    "text": "Demographics\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Demographics"
+  },
+  {
+    "text": "Sports\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Sports"
+  },
+  {
+    "text": "Festivals and events\n새 창 열림",
+    "href": "https://en.wikipedia.org/wiki/Busan#Festivals_and_events"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://blog.naver.com/eye_gentry"
+  },
+  {
+    "text": "아이젠트리 안경원 공식 블로그 (EYEGENTRY)\n새 창 열림",
+    "href": "https://blog.naver.com/eye_gentry"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "임영웅 콘서트 부산 2026 티켓팅, 좌석배치도, 필수 준비물 꿀팁 총정리 (IM HERO TOUR 2025 BUSAN 피날레)\n새 창 열림",
+    "href": "https://blog.naver.com/eye_gentry/224151999556"
+  },
+  {
+    "text": "임영웅 콘서트 IM HERO TOUR 2025 - BUSAN 2026년 2월 6일 (금) 오후 7시 30분 2026년 2월 7일 (토) 오수 6시 2026년 2월 8일 (일) 오후 5시 부산 벡스코 제1전시당 1, 2홀 (인터파크 티켓 단독) ✅티켓 오픈은 2025년 12월 11일(목) 오후 8시에 진행되었습니다. 혹시 아직 티켓을 구하지 못하셨다면, 예매 대기 서비스나 취소표를 꼼꼼히 노려보세요! 부산은 '피날레'라는 상징성 때문에...\n새 창 열림",
+    "href": "https://blog.naver.com/eye_gentry/224151999556"
+  },
+  {
+    "text": "7\n새 창 열림",
+    "href": "https://blog.naver.com/eye_gentry/224151999556"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857"
+  },
+  {
+    "text": "베나자-베트남나트랑자유여행,달랏,무이네,호텔,투어,리조트맛집\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "My BTS TOUR #3 - BTS THE CITY ARIRANG - ARTE MUSEUM BUSAN\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "BTS THE CITY ARIRANG #3 아르떼 뮤지엄 부산에서 BTS WORLD TOUR 특별전을 하고 있어서 다녀왔습니다. ️위치: 부산 영도 P.ARK 내 ARTE MUSEUM ️주소: 부산광역시 영도구 해양로 247번길 29 아르떼 뮤지엄 부산 ️대중교통으로 접근 가능: 시내버스 17, 186번 ️주차 가능 : 2시간 무료 ️일정: 6월 5일 ~ 7월 3일까지 ️입장료 : 성인 평일 - 22,000원 주말 - 25,000원...\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "18\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "REBTS 청년들이 우리나라1님의 요런 팬심 알아주면 좋겠다!!\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "REbts팬분들 다들 옹기종기 앉아서 노래 들으면서 따라부르고 계시더라구요 ㅋㅋ 넘귀 ㅎㅎㅎ\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "RE너무 멋져요~ 아미 우리나라님 얼마나 햄복하셨을까~~☺\n새 창 열림",
+    "href": "https://cafe.naver.com/mindy7857/5267517?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Im1pbmR5Nzg1NyIsImFydGljbGVJZCI6NTI2NzUxNywiaXNzdWVkQXQiOjE3ODk0MzI2Nzk2NTN9.SASeqbcNFRAB05-O6WMNEyzWMHLJnFb3pMCmkSlooTw"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/vinpearl"
+  },
+  {
+    "text": "베트남 피크타임 푸꾸옥 나트랑 다낭 호치민 무이네 하노이 여행\n새 창 열림",
+    "href": "https://cafe.naver.com/vinpearl"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "피크타임 제휴샵 다낭 맛집 미케비치 한인타운 한식 국밥집 '소문난 부산 돼지국밥 다낭점 Busan Por....\n새 창 열림",
+    "href": "https://cafe.naver.com/vinpearl/536061?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZpbnBlYXJsIiwiYXJ0aWNsZUlkIjo1MzYwNjEsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjU0fQ.3MiBiO5xZQlXdqMfvvxqhuEFIMkW1gwJcv8pJG3ZgK0"
+  },
+  {
+    "text": "다낭에서 부산식 돼지국밥을 맛볼 수 있는 곳이 있다는 사실, 알고 계셨어요~ 바로 ⇓ ⇓ ⇓ 소문난 부산 돼지국밥 다낭점 Busan Pork Soup 할인 정보는 아래 링크를 클릭해주세요 ⏰운영시간⏰ 매일 09:00 ~ 02:00 위치 결제 에어컨 배달 가능 ▸카드 결제 가능 (수수료 8%) ✅ ✅ ▸QR 결제 가능 넓고 여유로운 공간, 익숙한 한국 식당 같은 분위기 저녁이 되면 간판에 불이 켜져...\n새 창 열림",
+    "href": "https://cafe.naver.com/vinpearl/536061?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZpbnBlYXJsIiwiYXJ0aWNsZUlkIjo1MzYwNjEsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjU0fQ.3MiBiO5xZQlXdqMfvvxqhuEFIMkW1gwJcv8pJG3ZgK0"
+  },
+  {
+    "text": "34\n새 창 열림",
+    "href": "https://cafe.naver.com/vinpearl/536061?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InZpbnBlYXJsIiwiYXJ0aWNsZUlkIjo1MzYwNjEsImlzc3VlZEF0IjoxNzg5NDMyNjc5NjU0fQ.3MiBiO5xZQlXdqMfvvxqhuEFIMkW1gwJcv8pJG3ZgK0"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://blog.naver.com/pure7214"
+  },
+  {
+    "text": "강심이의 일상\n새 창 열림",
+    "href": "https://blog.naver.com/pure7214"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "부산이색데이트 Busan Travel 닷노트 해운대 향수공방 원데이클래스 체험후기\n새 창 열림",
+    "href": "https://blog.naver.com/pure7214/224393641902"
+  },
+  {
+    "text": "안녕하세요 향수를 좋아하는 강심이입니다 저희 언니도 향수를 참 좋아하는데요 저희 자매가 오랜만에 해운대에서 만나 데이트를 했어요 부산향수공방 닷노트 해운대에서 나만의 향수 만들기 부산원데이클래스를 하고 왔어요 너무 멋진 경험이었고 널리 알리고 추천하고 싶어요 주소 부산 해운대구 해운대해변로298번길 24 2층 2-13호 운영시간 매일 10:00-23:00 0507-1328-0973...\n새 창 열림",
+    "href": "https://blog.naver.com/pure7214/224393641902"
+  },
+  {
+    "text": "38\n새 창 열림",
+    "href": "https://blog.naver.com/pure7214/224393641902"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://blog.naver.com/nna7bt"
+  },
+  {
+    "text": "부산 공대생 나짱 ••\n새 창 열림",
+    "href": "https://blog.naver.com/nna7bt"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "[2026 부산국제록페스티벌 BUSAN] | 2차 라인업 삼락생태공원 일정 위치 금액 예매 셔틀 안내\n새 창 열림",
+    "href": "https://blog.naver.com/nna7bt/224373924956"
+  },
+  {
+    "text": "안녕하세요, 나짱입니다 •• 부산에서 열리는 대표적인 가을 축제가 있죠!! 일명 부락페 2026 부산국제록페스티벌 일정과 2차 라인업이 공개가 됐습니당 ㅎㅎ 저는 사실 학교에서 밴드 드럼으로 활동도 오래 했구 최근에 부산청년만원+문화패스 3차 공연 목록에 부산국제록페스티벌이 포함되어 있어서 참을 수 없더라구요!!! 같이 확인하면 좋을 것 같아서...\n새 창 열림",
+    "href": "https://blog.naver.com/nna7bt/224373924956"
+  },
+  {
+    "text": "5\n새 창 열림",
+    "href": "https://blog.naver.com/nna7bt/224373924956"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://blog.naver.com/ywonyw"
+  },
+  {
+    "text": "make it count\n새 창 열림",
+    "href": "https://blog.naver.com/ywonyw"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "osaka and busan (ehre / urbanic30)\n새 창 열림",
+    "href": "https://blog.naver.com/ywonyw/224394561320"
+  },
+  {
+    "text": "애기들이 내 품에 폭 안겨서 잠들 때 기분 넘 좋당 그리고 부산으로 떠난 휴가 프루타프루토 아사이볼 먹기 스폰지밥도 있던 광안리 맛있게 먹은 을지로손칼국수 한치비빔국수 @urbanic30 그리고 이번 부산에서 제일 좋았던 모모스 원래 강경 라떼파였는데 요즘은 깔끔한 드립 커피도 좋다. 마음이 편안해지는 뷰..♡ 한잔 더 리필 @urbanic30 @ehre 동생이 예약해줘서...\n새 창 열림",
+    "href": "https://blog.naver.com/ywonyw/224394561320"
+  },
+  {
+    "text": "100\n새 창 열림",
+    "href": "https://blog.naver.com/ywonyw/224394561320"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds"
+  },
+  {
+    "text": "배틀그라운드 공식카페 - PUBG: BATTLEGROUNDS\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "카배 팀킬 제보[busan_tuttobene]\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds/6272973?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXliYXR0bGVncm91bmRzIiwiYXJ0aWNsZUlkIjo2MjcyOTczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1NH0.bnwqK0f07A20dVie4QdykGit4aWqpKepJWekwgOrrtE"
+  },
+  {
+    "text": "신고자 대상 인게임 닉네임 : busan_tuttobene(신고대상자) aanguragimotti(제보자) - 팀킬 신고 시 제보자 및 제보 대상자의 닉네임을 반드시 포함해 주시기 바랍니다. 3. 발생 시간 및 세션 ID : 2026년 9월13일 01:35AM 4. 플레이 모드 및 시점 : 일반전 3인 6. 증거 자료 : 예시) 이미지/동영상/링크 등 7. 상세 내용(해당 내용을 상세하게 작성해 주시면 확인에 큰...\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds/6272973?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXliYXR0bGVncm91bmRzIiwiYXJ0aWNsZUlkIjo2MjcyOTczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1NH0.bnwqK0f07A20dVie4QdykGit4aWqpKepJWekwgOrrtE"
+  },
+  {
+    "text": "2\n새 창 열림",
+    "href": "https://cafe.naver.com/playbattlegrounds/6272973?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InBsYXliYXR0bGVncm91bmRzIiwiYXJ0aWNsZUlkIjo2MjcyOTczLCJpc3N1ZWRBdCI6MTc4OTQzMjY3OTY1NH0.bnwqK0f07A20dVie4QdykGit4aWqpKepJWekwgOrrtE"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://www.youtube.com/channel/UCSk-o7uCpprI1GNvmt070cQ"
+  },
+  {
+    "text": "WATERBOMB\n새 창 열림",
+    "href": "https://www.youtube.com/channel/UCSk-o7uCpprI1GNvmt070cQ"
+  },
+  {
+    "text": "YouTube\n새 창 열림",
+    "href": "https://www.youtube.com/"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "YENA - 캐치 캐치 Live at WATERBOMB BUSAN 2026\n새 창 열림",
+    "href": "https://www.youtube.com/watch?v=WuWsLSR2ajA"
+  },
+  {
+    "text": "🎵 YENA - 캐치 캐치 @WATERBOMB BUSAN 2026 #YENA #WATERBOMB #WATERBOMBBUSAN #WATERBOMB2026 #예나 #워터밤 #워터밤부산 #워터밤부산2026 #부산 제작지원 : 한국콘텐츠진흥원 Supported by KOCCA\n새 창 열림",
+    "href": "https://www.youtube.com/watch?v=WuWsLSR2ajA"
+  },
+  {
+    "text": "한국은행\nwww.bok.or.kr›eng\n새 창 열림",
+    "href": "https://www.bok.or.kr/eng/main/contents.do?menuNo=400269"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "History of Busan Branch | Busan | Exhibition at Branches | Museum | Bank of Korea\n새 창 열림",
+    "href": "https://www.bok.or.kr/eng/main/contents.do?menuNo=400269"
+  },
+  {
+    "text": "The Bank of Korea Busan Branch invites you to visit our Money Museum, which offers visitors a wealth of opportunities to learn about the central bank and to explore the history of money. The museum displays over 600 domestic and foreign banknotes and coins, including many rare items, and also has many fun and interactive exhibits for people of all ages to enjoy.\n새 창 열림",
+    "href": "https://www.bok.or.kr/eng/main/contents.do?menuNo=400269"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://kin.naver.com/qna/detail.naver?dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb&qb=67aA7IKwICLruIzsnbTslYzsvZTrpqzslYQi"
+  },
+  {
+    "text": "네이버 지식iN\n새 창 열림",
+    "href": "https://kin.naver.com/qna/detail.naver?dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb&qb=67aA7IKwICLruIzsnbTslYzsvZTrpqzslYQi"
+  },
+  {
+    "text": "Keep에 저장",
+    "href": "https://search.naver.com/search.naver?query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22#"
+  },
+  {
+    "text": "Keep에 바로가기새 창 열림",
+    "href": "https://keep.naver.com/"
+  },
+  {
+    "text": "일본 워홀 신청법\n새 창 열림",
+    "href": "https://kin.naver.com/qna/detail.naver?dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb&qb=67aA7IKwICLruIzsnbTslYzsvZTrpqzslYQi"
+  },
+  {
+    "text": "서류 내용은 같은것 같은데 온라인 신청도 하고 대사관에 직접 가서 신청도 해야하나요? 따로 한다면 각각 뭘 준비해야하나요?\n새 창 열림",
+    "href": "https://kin.naver.com/qna/detail.naver?dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb&qb=67aA7IKwICLruIzsnbTslYzsvZTrpqzslYQi"
+  },
+  {
+    "text": "안녕하세요 워킹홀리데이 인포센터 입니다. 일본 워킹홀리데이 비자 신청은 신청시기가 정해져 있습니다. 현재로써 가장 빠른 신청기간은 7월 13일(월) ~ 7월 17일(금) 입니다. 신청방법은 신청자의 주민등록상 거주지에 따라 달라집니다. - 주한 일본 대사관 : 부산총영사관, 제주총영사관의 관할 이외인 자 - 주부산 일본 총영사관 : 부산광역시, 대구광역시, 울산광역시, 경상남/북도인 자 ....\n새 창 열림",
+    "href": "https://kin.naver.com/qna/detail.naver?answerNo=6&dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb&qb=67aA7IKwICLruIzsnbTslYzsvZTrpqzslYQi#answer6"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://kin.naver.com/search/profileLink?answerNo=6&dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb"
+  },
+  {
+    "text": "워킹홀리데이 인포센터\n새 창 열림",
+    "href": "https://kin.naver.com/search/profileLink?answerNo=6&dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb"
+  },
+  {
+    "text": "지식파트너\n새 창 열림",
+    "href": "https://kin.naver.com/search/profileLink?answerNo=6&dirId=110603&docId=493462006&kinsrch_src=pc_nx_urb"
+  },
+  {
+    "text": "검색결과\n더보기",
+    "href": "https://search.naver.com/search.naver?nso=&page=2&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_pge&ssc=tab.ur.all&start=1"
+  },
+  {
+    "text": "웨일 다운로드",
+    "href": "https://whale.naver.com/ko/?wpid=searchpopup_theme3"
+  },
+  {
+    "text": "10\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=10&qdt=0&query=%EB%B6%80%EC%82%B0+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22&sm=tab_pge&ssc=tab.ur.all&start=161"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const main = document.getElementById(\'main_pack\');\n    if (!main) return \'no main\';\n    return Array.from(main.querySelectorAll(\'a\')).map(a => ({ text: a.innerText.trim(), href: a.href })).filter(x => x.text.length > 5);\n}');
+```

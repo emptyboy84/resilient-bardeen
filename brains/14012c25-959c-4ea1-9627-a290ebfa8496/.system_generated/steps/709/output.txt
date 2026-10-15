@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+maybridge.kr ERROR: ENOTFOUND
+maybridge.co.kr ERROR: ENOTFOUND
+maybridge.com ERROR: ENOTFOUND
+maybridge.io ERROR: ENOTFOUND
+maybridge.net 208.91.197.26
+

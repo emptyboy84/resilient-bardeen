@@ -1,0 +1,95 @@
+### Result
+{
+  "areas": [
+    {
+      "val": "",
+      "text": "지역 선택"
+    },
+    {
+      "val": "전체",
+      "text": "-전체-"
+    },
+    {
+      "val": "6110000",
+      "text": "서울특별시"
+    },
+    {
+      "val": "6410000",
+      "text": "경기도"
+    },
+    {
+      "val": "6280000",
+      "text": "인천광역시"
+    },
+    {
+      "val": "6530000",
+      "text": "강원특별자치도"
+    },
+    {
+      "val": "6260000",
+      "text": "부산광역시"
+    },
+    {
+      "val": "6270000",
+      "text": "대구광역시"
+    },
+    {
+      "val": "6430000",
+      "text": "충청북도"
+    },
+    {
+      "val": "6440000",
+      "text": "충청남도"
+    },
+    {
+      "val": "5690000",
+      "text": "세종시"
+    },
+    {
+      "val": "6300000",
+      "text": "대전광역시"
+    },
+    {
+      "val": "6290000",
+      "text": "전남광주통합특별시"
+    },
+    {
+      "val": "6540000",
+      "text": "전북특별자치도"
+    },
+    {
+      "val": "6470000",
+      "text": "경상북도"
+    },
+    {
+      "val": "6480000",
+      "text": "경상남도"
+    },
+    {
+      "val": "6310000",
+      "text": "울산광역시"
+    },
+    {
+      "val": "6500000",
+      "text": "제주도"
+    }
+  ],
+  "types": [
+    {
+      "val": "",
+      "text": "항목"
+    },
+    {
+      "val": "1",
+      "text": "상호"
+    },
+    {
+      "val": "3",
+      "text": "주소"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return {\n        areas: Array.from(document.getElementById(\'select\').options).map(o => ({val: o.value, text: o.text})),\n        types: Array.from(document.getElementById(\'select2\').options).map(o => ({val: o.value, text: o.text}))\n    };\n}');
+```

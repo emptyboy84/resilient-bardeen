@@ -1,0 +1,20 @@
+The search for "site:nicebizinfo.com "에이비엠랩" OR "820-87-03095"" returned the following summary:
+국내 기업 정보 사이트인 **NICE BizINFO(나이스비즈인포)**에 등록된 **(주)에이비엠랩** 관련 정보 및 공식 기업 개요는 다음과 같습니다[1]:
+
+* **기업명:** 주식회사 에이비엠랩 (ABMLab Corp.)[2]
+* **대표이사:** 황의윤[2]
+* **사업자등록번호:** 820-87-03095[2]
+* **주요 사업 및 업종:** 응용 소프트웨어 개발 및 공급업, AI 기반 예측형 데이터 솔루션, IT 솔루션 및 컨설팅 등[1][2][3]
+* **주요 서비스/제품:** 대학생 스마트 일정관리 캘린더 앱 '캘박(Calvak)', 영상 기록 앱 '기록기록' 등[4][5]
+* **위치:** 
+  * 부산 본사: 부산광역시 영도구 태종로 727, 산학허브관 11층[2]
+  * 서울 오피스: 서울특별시 강남구 강남대로120길 75[2]
+
+NICE BizINFO 플랫폼에서는 해당 기업의 재무 성장 지수, 고용 성장 지수, 신용 상태 및 휴폐업 발생률 등 상세한 신용분석 보고서를 제공하고 있습니다[1].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7n5A9QRXGnqZx53KspO_tvfva4Q096JMLlo3LHw3rWf2wbmnF6TUTUdUInYuKtw9eWB0OsXhAikdsxPXMSwxxFIWszbq3E4xYdXp5Bhbdc_AKkNKGLesvy9zjF_NY3lwoGSv-cSk2428g9cvmoARVcdsv)
+[2] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQFsrtSy18ySRPkijobH4_Mb_5W1l5aU16XGcSXZmrexMAYsPZOgVeB2K2P0QOcVLrPlFmZ3MUIYnsM649VFhKks_lEjTtTCqxzSARDmOIq16F)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBupyv2a1xmRwHKlug8_iN23DfrZBDbVrJHqQgpA3LIdrWQXgd7_UMZ_cjtDl5iL59Cavz7fBVuL1KzYiIbWioKFwJJxh6Nepihpfz3oGREKEl3z2S-QEJqnmjZsvRE5YCX8Zl3khspBdN6QzVZZ5VwxZd89aK7gTZd_H8kNdqug2kzknPmXqsqTq6Jq6E1ncOZv6bV1-oqFUhQEiGwTBgaTFgrp3jG6v4eTS75FlDIjHEU-4opnIOtNEL7AUH7bgaPVisjZddmXNy6GstEMWRULMY)
+[4] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAXXqKBtRKKm1v6aDNc-If86Kv36cqGaRHOBnVMCHr-BQhZpArgVNuHO6DcYg80Km1c9XBfU269a95wotPwb4X_204_WBdHcNDu0Z2QE4wRjbq6CaheuAqSpmySGGLhR4a9t022nqaUTbJGvwUaTIFgYvICEGx_tJR_KOB7g0Zxq9oBYO-NRrNDkb5D4ONSriNDhFmGXOt0WSX_cpd8jwAlg==)
+[5] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWc0gUsVOGp5m5b9j6lieVQHytHWeMOwx-HI0UJtorhM07eIeaz5OcRQ6O7UZCm7U6bTPrNQ4FfeA9k5541tEi_skVaDzZRC7RDQT3fJ-H3mVzJvBUMH8al6xza_dRWar2-Cmg_mClfCAVKSu3C402xQ4kOAXNXMw4ewDunPOv7EgleICUWLqCIrtsggArY6reA_dV4ziRr6WP_0miMHUl6H0CGGdICmXp_rGFNxVoWl_LTTRE2y-50SjwNVn_PeE6ARov8DkMle5udo5PMDHmxUCJ9MtAAlrHuzZiH8bdcL_f0l8Nxj6q2b0_pvbmbHHcuvHL)

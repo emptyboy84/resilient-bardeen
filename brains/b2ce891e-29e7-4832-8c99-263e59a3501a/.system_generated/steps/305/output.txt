@@ -1,0 +1,6 @@
+### Result
+"no next sibling"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const container = document.getElementById(\'developer-contacts-heading\');\n  return container?.nextElementSibling ? container.nextElementSibling.innerText : \'no next sibling\';\n}');
+```

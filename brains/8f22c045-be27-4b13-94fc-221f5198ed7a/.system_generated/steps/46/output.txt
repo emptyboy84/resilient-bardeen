@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Line 0 parts length: 16
+  idx 0 : "조나단/이은석"
+  idx 9 : "애니메이션"
+Line 1 parts length: 16
+  idx 0 : "족보만드는곳족보관"
+  idx 5 : "051-248-9529"
+  idx 7 : "중구"
+  idx 8 : "부산 중구 구덕로 19"
+  idx 9 : "출판"
+

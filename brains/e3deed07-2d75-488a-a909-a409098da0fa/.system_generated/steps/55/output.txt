@@ -1,0 +1,25 @@
+The search for "site:bizno.net "조나단"" returned the following summary:
+비즈노(bizno.net)에서 "조나단"으로 검색된 주요 기업 및 사업자 정보는 다음과 같습니다.
+
+*   **제이케이앤디 주식회사**: 대표자명 조나단, 캐주얼 의류(thisisneverthat.com) 관련 도소매업[1]
+*   **디지털엣지코리아 유한회사**: 대표자 조나단폴월브릿지, 정보통신업(데이터베이스 및 온라인 정보 제공업)[2]
+*   **보스톤사이언티픽코리아(주)**: 대표자 조나단리차드몬슨, 의약품 및 의료용품 도소매업[3]
+*   **인프라에어홀딩스주식회사**: 대표자 조나단마이클셀러, 산업용 가스 제조업[4]
+*   **주식회사 에이원월드**: 대표자 JONATHAN FRANKLIN LEE(조나단프랭클린리), 전자상거래 소매업[5]
+*   **휘닉스테크놀로지스코리아주식회사**: 대표자 조나단오코넬, 시스템 소프트웨어 개발 및 공급업[6]
+*   **옥스포드인스트루먼츠나노테크놀로지툴스리미티드(영업소)**: 대표자 JONATHAN CHARLES BRYON(조나단찰스브라이언), 분광기 등 도소매업[7]
+*   **프랭클린일렉트릭코리아(유)**: 대표자 Masao Hotchi, 조나단마크그랜던, 기타 기계 및 장비 도소매업[8]
+*   **조나단맥플라이**: 대표자 김광현, 전자상거래 소매업[9]
+
+검색 결과에는 외국인 대표자의 영문 성함을 한글로 표기한 기업들과 "조나단"을 대표자명으로 사용하는 기업들이 포함되어 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8_te9KlE98UuIIxvbBQCauA3ca19AhY843rKeSkA_ibdozSvVu2vFE2riIRngKe_7FrjkDM4Yd730MgPjkwx45jBPuaMh51P5HQRqeMsIXD-hZotLLAb8BbU=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKw1ypFe2GcFbTh8zFLWHcp_XzgPa7MRLWLG3momCBpHuD1CrWczj00mpUvBMtU4n6LFmab4_ud4rlHHdCofA3oAkYCb0rDLsBNrxenPw_5s8LE8fZZtK_Ibc=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG81s4yFDMj9OGIqmeTUEKWxsjE7-_qMKb68pDxRtUbMO1uEclHf64fYNb9sjdX6QCXSns0rF5VjVVjpwuT2t2tcbW1AO1SaI2Ks6op9uXVG7MOAsDqg00pLGM=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaxqj1MTmWmiI2E1KKhkwiX3Qu-H1vN1E7X_tQeDqbMB2YRRGz9B7Nd3G_t98RVaeRRHxAvPkkJvzyB6m7UGIFLm5tBKX5__bwMcJfDzzS5u1fON3FHshbL0E=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnMzT-a_lFofcnw4x9SvksinIu2H7tI3sBmPu7fJFAuSfjOHlJrmZlHW49R_YuS7H9pWCxK2h3t3JJb7z0UTtsvRbqpGIfZQdwTzLd5to5K2e2XH-MWheY9p4=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo0S5Rkc_wvqr66s8WQlLMiEFFtfIxTKMX3Vyx3QKtC93DTXR1HUtijTnN2gudBgtfXL6ou1m_F5dORyuZb7gQxqB5aBMmsvUrq2kaJxITFmGVyiiBM-zHneA=)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZtBh0wi-HmEspo764dKFQUl8uHt22L01HxvWgJqA_KqYduqvH_gpeP1s3T4RbrGL0yU-2mKL6c_tgPjdWBz2vGzzodFXPnDYWP4AJ4J8O_QuQAwRmf3BTEEQ=)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5W7zseWMGkSz0m2MADuttxMaDLUZW8g41ptKP2k5MtogHq2pv7Foq9nk34gSn6mHjhWDDri9ylEZtJ1bTmkCntk94kbQi9R_wBNxkLZScxRLAw8xCkXV_wGo=)
+[9] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWY8tm8OKYoO8lswZp5SBx7sD8CDPOM8DwNO8W1O4HUXseFPzJPTsw76FjTbwVTj9l3yuPYTAvnc4Xwz_dgBJsAEUvUVRV-LjBtv9eqO_6pK4CIq_tZOqPcLg=)

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+79e2604 Mon Sep 21 11:58:32 2026 +0900 docs: update agent guidelines in AGENTS.md
+20488d3 Mon Sep 7 12:58:40 2026 +0900 e
+b44b0bd Mon Sep 7 09:16:43 2026 +0900 feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+794e3ba Mon Sep 7 09:13:03 2026 +0900 feat: update 디에스케미칼 (5481701760) industry categories and status
+706713c Fri Sep 4 10:54:23 2026 +0900 feat: update 투콤마비 contact phone, zip, address and homepage
+3f8176c Fri Sep 4 09:37:04 2026 +0900 fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+82effd4 Fri Sep 4 09:03:18 2026 +0900 feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+cf52caa Fri Sep 4 09:00:07 2026 +0900 feat: 500 records verified and 3026 cells populated with orange fill (rows 11847-12346)
+14890ab Wed Sep 2 12:49:20 2026 +0900 docs: add full chat conversation history, readable markdown summary, and brain logs
+69e229b Wed Sep 2 12:44:36 2026 +0900 feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets
+

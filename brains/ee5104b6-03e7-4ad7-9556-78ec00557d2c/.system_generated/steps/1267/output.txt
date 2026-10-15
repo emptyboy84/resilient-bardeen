@@ -1,0 +1,19 @@
+The search for "site:bizno.net "양재호"" returned the following summary:
+비즈노(bizno.net)에서 검색된 '양재호'라는 대표자명을 가진 주요 기업 정보는 다음과 같습니다.
+
+*   **에스엔티**: 경상남도 창원시 소재, 공장자동화설비 제조업[1]
+*   **알렉스컴퍼니(주)**: 서울특별시 은평구 소재, 전자상거래 소매업[2]
+*   **미팅룸**: 경기도 용인시 소재, 광고물 문안/도안/설계 등 작성업[3]
+*   **리누네이처**: 인천광역시 서구 소재, 전자상거래 소매업[4]
+*   **양재호카이스트학원**: 교육 서비스업[5]
+
+※ 비즈노의 정보는 공공기관 데이터를 가공한 것으로 실제 현황과 차이가 있을 수 있으며, 단순 참고용으로 활용하시기 바랍니다[6][7].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKLI6c5tWIjtgtivICEUH5IIbPY_WOH9_g2JuSEFr6_US0b2WWye78NwtM_wSVxxTu7gFhJar9j5-RBI2IHqqoms5d6aEnZjFHNcz8hZSHxxdDfBMsKmq3pg==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ2SuzYQTZFSuyDESYVFbphIvXvH_-pxbHwyjhyhpSvtX1TYcgYgQk_iK9No8QVL-jz-CpO_kgXNLVN7ahdO2oMPIY-xLdhRZlBrEiEJQmr5xPCxC2aZz9xQ==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdYtoBcmg9ZmdjCUvOvn50DCadUSkwnlHw6_bjont1ImjzrsHKOuSTlkj3ja0mMx5zDBk4dkZBTDHgIw33u5yinEnAw-faiddDERHldnHjNP9jx_hxlZBOlw==)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG13Da9yfeC9c-1qL-1oP47wIxYYAxx-mqshQtqqczQtTGmRtmBZxdN9kBokjthCZ_FBzXlQ3VTs5JfZ_fsd__oWE5sdSVxiR0S8D7NAX0NJRB1l0m05jfHcw==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHRbbviyWjVipLub9tmVMQ4jQ9Ry6zJrqd9_OSkzcaR20Pu0tzwq8zpDLRbq9VM_l6MTci5rE9G2ye66VfmKnRhfTZvnsow6CNhYrOK10R23eShWIFlH0U5w==)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdYtoBcmg9ZmdjCUvOvn50DCadUSkwnlHw6_bjont1ImjzrsHKOuSTlkj3ja0mMx5zDBk4dkZBTDHgIw33u5yinEnAw-faiddDERHldnHjNP9jx_hxlZBOlw==)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdYtoBcmg9ZmdjCUvOvn50DCadUSkwnlHw6_bjont1ImjzrsHKOuSTlkj3ja0mMx5zDBk4dkZBTDHgIw33u5yinEnAw-faiddDERHldnHjNP9jx_hxlZBOlw==)

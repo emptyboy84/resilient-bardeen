@@ -1,0 +1,31 @@
+Testing first 25 companies from masterList...
+[1/25] 639 디자인에코... Not found on Saramin
+[2/25] 701 문화일보 수정중앙지국... Not found on Saramin
+[3/25] 703 주식회사 브이드림... Not found on Saramin
+[4/25] 750 불교방송... Matched on Saramin but no revenue - 대표자 일치(공원주)
+[5/25] 848 시드... Not found on Saramin
+[6/25] 1061 이송... Not found on Saramin
+[7/25] 1285 한국산업정보사... Matched on Saramin but no revenue - 대표자 일치(김형성)
+[8/25] 1342 다인커뮤니케이션즈... Not found on Saramin
+[9/25] 1367 리얼라이즈... Not found on Saramin
+[10/25] 1522 에스아이에이... Matched on Saramin but no revenue - 대표자 일치(신지선)
+[11/25] 1542 산마루... Not found on Saramin
+[12/25] 1565 대한기획... Not found on Saramin
+[13/25] 1567 클린스쿨... Matched on Saramin but no revenue - 대표자 일치(최보필)
+[14/25] 1570 신우사... Not found on Saramin
+[15/25] 1573 디자인필... Not found on Saramin
+[16/25] 1589 에스씨제이... Not found on Saramin
+[17/25] 1606 해승J&T... Not found on Saramin
+[18/25] 1627 삼주... Not found on Saramin
+[19/25] 1630 한스이엔지... Not found on Saramin
+[20/25] 1674 북카페심심푸리... Not found on Saramin
+[21/25] 1679 블루젯... Not found on Saramin
+[22/25] 1684 주식회사초록이웃... Matched on Saramin but no revenue - 대표자 일치(황종필) (매출액 비공개/미기재)
+[23/25] 1718 주식회사 우리누리 사직동지점... Not found on Saramin
+[24/25] 1719 제이케이스크린(사직점)... Not found on Saramin
+[25/25] 1720 안락스크린골프연습장... Not found on Saramin
+
+=== SUMMARY ===
+Checked: 25
+Found with revenue: 0
+[]

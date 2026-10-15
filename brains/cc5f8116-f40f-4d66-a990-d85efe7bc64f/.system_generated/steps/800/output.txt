@@ -1,0 +1,19 @@
+The search for "site:nicebizinfo.com "617-81-51062" OR "171-88-00519"" returned the following summary:
+요청하신 사업자등록번호에 대한 정보는 다음과 같습니다.
+
+*   **617-81-51062**: **주식회사 픽스 (FIX Inc.)**[1][2]
+    *   주요 사업: 브랜드 아이덴티티 디자인, 웹사이트 개발 및 관리, 프로그램 솔루션 개발, AI·AX 파트너십 등[1][2]
+    *   주소: 부산광역시 해운대구 센텀동로 71, 908호[3][2]
+    *   관련 사이트에서 운영하는 서비스로 '픽스 스킬샵(autoworkit)', '스피릿 나이트', '용감한 댕댕이2' 등이 있습니다[3][4][5].
+
+*   **171-88-00519**: **주식회사 투핸즈인터랙티브 (Twohands Interactive Co., Ltd.)**[6]
+    *   주요 사업: 응용 소프트웨어 개발 및 공급업 (컴퓨터 프로그래밍 서비스업)[6]
+    *   주소: 부산광역시 해운대구 수영강변대로 140, 623호 (부산문화콘텐츠컴플렉스)[6]
+
+Sources:
+[1] [fixinc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu_RZ0RNcgTBFxVKzFafO8J46zWuAabos1jiEXC0fAIIonozIIr5MIfCfwUrUVeGykKFbxWrxb1pNUSMDgKnIn2a8roULf_KQ1FXkrKb6lcZ8vQdY=)
+[2] [fixinc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoaJhRwaY_X-o3VWpPKbtxlO9jdZkL_zRv-1auIGsGCwz26gnrgJXZnYjZKCsAQ0LtFjBnf2BDVxpFEtGVfQjkrLoIZzhw506TeHLD2gU0Nm78)
+[3] [polalink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP55Ucf1REDCo9TPb3d0w4BtR5p8UAkYpuj-Hc2tKQBjvpG_DVbhbC5K3U6vqOQv3SOLJAgORDNAjFr5bXveGJdA-9Cinl8M-Qm64aaY1Xu1bIYqMoH-8yrha6z6u5xRtZZ4I_Sw==)
+[4] [autoworkit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8l5sXjYr0mqJ9bPTCDk2T_mOF3ajcUUNd5DUHNwhDUCp5xJVxbeH7rWzHgxdSG-0c3R9UXeTZpE2Xr0B3_694JTb6rc31tE8Pq7tF2G6tn2wat8EQlTwqimPNZQ==)
+[5] [polalink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX59XMKsCQAIEUUo5E1NwZjolbv8P_aq788S1m538iFUJm6hGP8gzIcVuHtaajC9cvLKFnL9QBxDwrcBffFP32cx_gCBtcGg4ZwPQSWR_tdf7GeDlXIKNXbvug9O6E2dpfTKV3)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRGjmcu4VOBclIkg2zFw2D_RpTE-jEmPwXItVc2ePWLjQj9y1Edd0MCn5v8GLkQ_5zf97kenvbB8OHTLsYMA3qHd3JW3SxPZH5IO1l0zuAmbx2Ry4nULN8v_U=)

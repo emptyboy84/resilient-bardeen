@@ -1,0 +1,11 @@
+The search for ""글리처프롭" OR "디자인스탠다드" OR "메쉬링크" OR "노크유" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+검색하신 기업들의 매출액 정보는 사람인 등 채용 포털의 기업 정보를 통해 확인하실 수 있습니다.
+
+*   **(주)메쉬링크**: 사람인 재무정보 기준, 2024년 매출액은 **4억 9,228만 원**입니다[1].
+*   **(주)노크유**, **글리처프롭**, **디자인스탠다드**: 해당 기업들의 상세 매출액 정보는 검색 시점에 공개된 채용 포털 데이터에서 즉시 확인되지 않거나, 기업 정보 페이지 내에서 나이스평가정보 등을 통해 제공되는 추가 조회가 필요할 수 있습니다[2].
+
+더 자세한 재무 현황은 사람인, 잡코리아 등 명시하신 채용 사이트의 '기업 정보' 또는 '재무 정보' 섹션에서 각 회사명을 직접 검색하여 최신 공시 자료를 확인하시기 바랍니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-27E6MPHnp2S8n3PaO9js_yIkan8zPxSLVow8y789ZQ0UAzFIyA055xzojz69crV3fdmU4CItnBjlK7vzRZDFLuNfwzVp4djFieu-bKTcbydyuWFeJjoKrPRRNYlOpa87vBJ2ANoLVa9S3AsgupnLcz7FqoxVBAfC1gipLg8B4QErpZUo7d_yA4wgTPaZhctwa7mtxg6E7EBcEb6SnY7vJJAdlXV7cN_W8bfut_T9L4ZlAzxMIGJ30GC7qp8Gl36CZ1gIJFvEur-zFdlHTMbhRX2OVCV246FgeUrlStEN)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmpVW2SbJcJlRkDdvv7ysAsbWgindLwHT5q7oHbBoXXtWSOF7Cg-HD64q3-IizdutqVds2s3PLqW8lcOfzASMLkwkhse_gHeOiN99kG4HMHHS1HGuREOVNiM0JO7Lnb6aw-MuwPk6PBHUivzNdLkmdNZyFUSwHc3lcPnZ2v9U0tnqeBD7JmlL1gV7ynGGG4y3_MtQJEYQKMvg1agtLGCB_2HBWfKWfmgjbwliXHTUtGsZWMqjyt2VCWxKRCvWSH_hmBwTL8iw58YJt)

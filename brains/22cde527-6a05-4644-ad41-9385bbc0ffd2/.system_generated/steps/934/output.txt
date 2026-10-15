@@ -1,0 +1,7 @@
+
+Encountered error in step execution: context canceled
+Output:
+Starting deep search on 271 unpopulated companies...
+[20/271] Checked 20, currently found 0 new matches.
+[40/271] Checked 40, currently found 0 new matches.
+

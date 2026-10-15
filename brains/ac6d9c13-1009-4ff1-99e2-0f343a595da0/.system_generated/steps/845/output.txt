@@ -1,0 +1,18 @@
+The search for ""bZYnihtB1qM" description OR "구글 또 앞서가네요"" returned the following summary:
+해당 키워드와 유튜브 영상(`bZYnihtB1qM`)은 구글의 인공지능 관련 최신 업데이트 및 활용법을 다룬 콘텐츠와 연관되어 있습니다[1]. 
+
+유튜브 영상의 주요 내용과 제목은 다음과 같습니다:
+
+* **영상 제목:** 구글 또 앞서가네요.. 안티그래비티 최신업데이트~! 신규 플랜기능과 서브에이전트 구축방법 총정리~![1]
+* **핵심 내용:** 
+  * 구글의 AI 관련 도구(안티그래비티 2.0 등)의 최신 업데이트 소식[2]
+  * 에이전트가 즉각 작업하지 않고 전체 실행 계획을 단계별로 작성해 주는 **신규 플랜(Plan) 모드** 기능 소개[2]
+  * 맨션(`@`) 기능을 통한 **서브에이전트 구축 및 활용 방법**[3]
+  * QA 인스펙터를 통한 검수 및 작업 완성도 높이기, 확장 프로그램 및 구글 워크스페이스 연동 방법 등[4][5]
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTztnvhaQFLpjUdhpfBulbCB1QF98trNvxTK_2hC2uApnPh9e6yDDpvcv89oRTOR9AEuiBqFri63q167iJBsbW3x-x0I8ceoWRIM5LF2f8Z8NeWKddtXoGhygocNSlFYg=)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTztnvhaQFLpjUdhpfBulbCB1QF98trNvxTK_2hC2uApnPh9e6yDDpvcv89oRTOR9AEuiBqFri63q167iJBsbW3x-x0I8ceoWRIM5LF2f8Z8NeWKddtXoGhygocNSlFYg=)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTztnvhaQFLpjUdhpfBulbCB1QF98trNvxTK_2hC2uApnPh9e6yDDpvcv89oRTOR9AEuiBqFri63q167iJBsbW3x-x0I8ceoWRIM5LF2f8Z8NeWKddtXoGhygocNSlFYg=)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTztnvhaQFLpjUdhpfBulbCB1QF98trNvxTK_2hC2uApnPh9e6yDDpvcv89oRTOR9AEuiBqFri63q167iJBsbW3x-x0I8ceoWRIM5LF2f8Z8NeWKddtXoGhygocNSlFYg=)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTztnvhaQFLpjUdhpfBulbCB1QF98trNvxTK_2hC2uApnPh9e6yDDpvcv89oRTOR9AEuiBqFri63q167iJBsbW3x-x0I8ceoWRIM5LF2f8Z8NeWKddtXoGhygocNSlFYg=)

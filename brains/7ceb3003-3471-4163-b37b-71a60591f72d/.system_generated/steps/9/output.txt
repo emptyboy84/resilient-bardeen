@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\resilient-bardeen
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026-09-02  오후 12:49                brain_logs                                                           
+d-----        2026-09-02  오후 12:44                data                                                                 
+d-----        2026-08-31  오전 10:42                node_modules                                                         
+-a----        2026-09-02  오후 12:44             43 .gitignore                                                           
+-a----        2026-09-21   오전 9:02            851 AGENTS.md                                                            
+-a----        2026-09-01   오전 9:32         134221 all_500_factchecked.tsv                                              
+-a----        2026-09-01   오전 8:55         137558 all_500_verified.tsv                                                 
+-a----        2026-08-31  오전 10:05          25343 article_test.html                                                    
+-a----        2026-08-31  오전 10:17         128152 bizno_filtered_result.csv                                            
+-a----        2026-08-31  오전 10:43         129594 bizno_filtered_result.tsv                                            
+-a----        2026-08-31  오전 10:43         130977 bizno_filtered_result_nice.csv                                       
+-a----        2026-08-31  오전 10:43         129594 bizno_filtered_result_nice.tsv                                       
+-a----        2026-08-31  오전 10:05          24211 bizno_test.html                                                      
+-a----        2026-09-04   오전 8:56         110577 current_pasted_batch.tsv                                             
+-a----        2026-09-07   오전 9:22         137949 merged_500_perfect.tsv                                               
+-a----        2026-08-31  오전 10:42          40116 package-lock.json                                                    
+-a----        2026-08-31  오전 10:42             79 package.json                                                         
+-a----        2026-08-31  오전 10:05          16842 query_test.html                                                      
+-a----        2026-08-31  오후 12:21          36652 rows_11847_12000_16col.tsv                                           
+-a----        2026-08-31  오후 12:21          36962 rows_11847_12000_17col.tsv                                           
+-a----        2026-08-31  오후 12:21          38502 rows_11847_12000_verified.tsv                                        
+-a----        2026-09-01  오후 12:35         192160 user_pasted_rows.tsv                                                 
+-a----        2026-09-08   오전 9:18           4076 법인등록번호_추적_및_검증_가이드_110111-8382593.md                                 
+-a----        2026-09-08   오전 9:18         169882 법인등록번호_추적_및_검증_가이드_110111-8382593.pdf                                
+
+
+

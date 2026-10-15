@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22superspirit%40nate.com%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22superspirit%40nate.com%22
+- Page Title: "superspirit@nate.com" : 네이버 검색
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-21-28-565Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-21-26-357Z.log#L1

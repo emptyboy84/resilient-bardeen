@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+7611000012 ㈜에코앤-폐업 | entityType:  | status: 폐업 | corpNo: 
+7628703203 (주)에스와이엘솔루션 | entityType: 개인과세사업자 | status:  | corpNo: 
+7648101397 (주)뷰티클 | entityType: 영리법인의 본점 | status: 정상 | corpNo: 
+7648701652 (주)레드키 | entityType: 영리법인의 본점 | status: 폐업 | corpNo: 
+7648702699 수성이앤씨(주) | entityType: 영리법인의 본점 | status: 폐업 | corpNo: 
+7658500671 (주)화승코퍼레이션 기장공장 | entityType: 영리법인의 지점 | status: 폐업 | corpNo: 
+7688801078 ㈜미르내이앤씨 | entityType: 영리법인의 본점 | status: 정상 | corpNo: 
+7698101503 (주)씨에스물류에스에이치지점 | entityType: 개인과세사업자 | status:  | corpNo: 
+7698601439 (주)리콘 | entityType: 개인과세사업자 | status:  | corpNo: 
+7698602168 (주)뉴스본다코리아 | entityType: 영리법인의 본점 | status: 폐업 | corpNo: 
+7738501012 (주)강봉천흡선 센텀지점 | entityType: 영리법인의 지점 | status: 폐업 | corpNo: 
+7758100670 (주)바른중량 | entityType: 영리법인의 본점 | status: 정상 | corpNo: 
+7778800296 ㈜화성테크원 | entityType: 영리법인의 본점 | status: 폐업 | corpNo: 
+7788702489 (주)나음(해운대) | entityType: 영리법인의 본점 | status: 정상 | corpNo: 
+7798701601 대상종합건설㈜ | entityType: 영리법인의 본점 | status: 정상 | corpNo: 
+

@@ -1,0 +1,105 @@
+### Page
+- Page URL: https://moneypin.biz/
+- Page Title: 머니핀 - 소규모 사업자의 경영관리, 사업자정보로 간편하게
+- Console: 5 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - navigation [ref=f1e3]:
+      - list [ref=f1e4]:
+        - listitem [ref=f1e5]:
+          - link "머니핀 소개" [ref=f1e6] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f1e9]:
+          - list [ref=f1e10]:
+            - listitem [ref=f1e11]:
+              - link "사업자정보" [ref=f1e12] [cursor=pointer]:
+                - /url: /bizno/
+            - listitem [ref=f1e13]:
+              - link "사업자정보 PRO" [ref=f1e14] [cursor=pointer]:
+                - /url: /bizno/pro/
+                - generic [ref=f1e15]: 사업자정보
+                - generic [ref=f1e16]: PRO
+            - listitem [ref=f1e18]:
+              - link "상권분석" [ref=f1e19] [cursor=pointer]:
+                - /url: /bizno/insights/
+            - listitem [ref=f1e20]:
+              - button "회계솔루션 펼치기" [ref=f1e21] [cursor=pointer]: 회계솔루션
+        - listitem [ref=f1e24]
+  - main [ref=f1e25]:
+    - article [ref=f1e26]:
+      - generic [ref=f1e28]:
+        - heading "소규모 사업자의 경영관리, 사업자정보로 간편하게" [level=1] [ref=f1e29]
+        - heading "사업자정보로 거래상대방 정보 확인, 사업자정보로 간편 세금계산서 발행, 사업자정보로 자동화된 회계 솔루션" [level=2] [ref=f1e30]:
+          - generic [aria-hidden] [ref=f1e31]: 사업자정보로 간편 세금계|
+        - textbox "사업자번호, 상호, 대표자, 키워드 입력" [ref=f1e35]
+      - generic [ref=f1e36]:
+        - heading "머니핀의 경영관리 솔루션" [level=2] [ref=f1e37]
+        - generic [ref=f1e38]:
+          - generic [ref=f1e39]:
+            - generic [ref=f1e40]:
+              - heading "사업자정보 조회" [level=3] [ref=f1e41]
+              - paragraph [ref=f1e42]: 원하는 모든 사업자정보를 검색, 대한민국 전체 사업자정보 조회(신규창업자포함)
+              - paragraph [ref=f1e43]:
+                - link [ref=f1e44] [cursor=pointer]:
+                  - /url: /bizno/
+            - img "사업자정보 조회" [ref=f1e49]
+          - generic [ref=f1e50]:
+            - generic [ref=f1e51]:
+              - heading "세금계산서 발행" [level=3] [ref=f1e52]
+              - paragraph [ref=f1e53]: 거래상대방 정보를 간편하게 검색만으로 사업자등록증이 필요없는 편리한 세금계산서
+              - paragraph [ref=f1e54]:
+                - link [ref=f1e55] [cursor=pointer]:
+                  - /url: /bill/
+            - img "세금계산서 발행" [ref=f1e60]
+          - generic [ref=f1e61]:
+            - generic [ref=f1e62]:
+              - heading "간편 회계솔루션" [level=3] [ref=f1e63]
+              - paragraph [ref=f1e64]: 간편한 세금신고와 사업관리를 통한 비용절감. 사업자정보로 자동화된 회계 솔루션
+              - paragraph [ref=f1e65]:
+                - link [ref=f1e66] [cursor=pointer]:
+                  - /url: /accounting/
+            - img "간편 회계솔루션" [ref=f1e71]
+          - generic [ref=f1e72]:
+            - generic [ref=f1e73]:
+              - heading "인건비•4대보험" [level=3] [ref=f1e74]
+              - paragraph [ref=f1e75]: 급여 계산부터 명세서 발송까지 자동으로, 인건비 신고까지 한번에!
+              - paragraph [ref=f1e76]:
+                - link [ref=f1e77] [cursor=pointer]:
+                  - /url: /payroll/
+            - img "인건비•4대보험" [ref=f1e82]
+      - heading "우리와 함께하는 파트너" [level=2] [ref=f1e84]
+      - generic [ref=f1e116]:
+        - heading "Biz It Yourself" [level=2] [ref=f1e117]
+        - paragraph [ref=f1e118]: 직접 경험하며 생긴 통찰력이 사업을 성공으로 이끈다는 믿음.더 나은 결정을 내리는데 필요한 통찰력을 얻도록데이터와 솔루션을 제공합니다.
+  - contentinfo [ref=f1e119]:
+    - separator [ref=f1e120]
+    - generic [ref=f1e121]:
+      - generic [ref=f1e122]:
+        - text: (주)모두의회계 | 대표 김홍락
+        - generic [ref=f1e123]: "|"
+        - text: 서울시 서초구 사평대로57길 29, 2층070-8655-2970 | support@moneypin.biz
+        - generic [ref=f1e124]: "|"
+        - button "사업자등록번호 확인" [ref=f1e125] [cursor=pointer]
+        - generic [ref=f1e126]: "|"
+        - link "통신판매업 신고번호 2024-서울서초-2538" [ref=f1e127] [cursor=pointer]:
+          - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=6428700732
+        - generic [ref=f1e128]: "|"
+        - link "이용약관" [ref=f1e129] [cursor=pointer]:
+          - /url: https://help.moneypin.biz/5c2e9d808aa74ae286eead24854332f9
+        - text: "|"
+        - link "개인정보처리방침" [ref=f1e130] [cursor=pointer]:
+          - /url: https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715
+      - list [ref=f1e132]:
+        - listitem [ref=f1e133]:
+          - link "머니핀 유튜브" [ref=f1e134] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCH8pd-I37PcyrErevu6KKoQ/featured
+        - listitem [ref=f1e139]:
+          - link "머니핀 페이스북" [ref=f1e140] [cursor=pointer]:
+            - /url: https://www.facebook.com/moneypin.biz/
+        - listitem [ref=f1e145]:
+          - link "머니핀 블로그" [ref=f1e146] [cursor=pointer]:
+            - /url: https://blog.naver.com/NBlogTop.naver?isHttpsRedirect=true&blogId=moneypin
+  - alert [ref=f1e151]
+```

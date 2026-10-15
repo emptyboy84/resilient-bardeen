@@ -1,0 +1,49 @@
+### Result
+[
+  {
+    "id": "btn_meta_info1788745928812",
+    "type": "button",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_sel_conm_name_juris_regt",
+    "type": "select-one",
+    "title": "관할등기소 선택",
+    "name": ""
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_sbx_conm_name_swrd___input",
+    "type": "text",
+    "title": "검색어",
+    "name": ""
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_chk_incld_another_juirs_brc_yn_input_0",
+    "type": "checkbox",
+    "title": "",
+    "name": "mf_wfm_potal_main_wfm_content_chk_incld_another_juirs_brc_yn_input"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_cbx_conm_name_close_rgs_rec_incld_yn_input_0",
+    "type": "checkbox",
+    "title": "",
+    "name": "mf_wfm_potal_main_wfm_content_cbx_conm_name_close_rgs_rec_incld_yn_input"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_cbx_conm_name_eras_conm_incld_yn_input_0",
+    "type": "checkbox",
+    "title": "",
+    "name": "mf_wfm_potal_main_wfm_content_cbx_conm_name_eras_conm_incld_yn_input"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_cbx_conm_name_add_srch_yn_input_0",
+    "type": "checkbox",
+    "title": "",
+    "name": "mf_wfm_potal_main_wfm_content_cbx_conm_name_add_srch_yn_input"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const container = document.getElementById(\'mf_wfm_potal_main_wfm_content\');\n  if (!container) return \'container not found\';\n  const inputs = Array.from(container.querySelectorAll(\'input, select\'));\n  return inputs.map(i => ({ id: i.id, type: i.type, title: i.title, name: i.name }));\n}');
+```

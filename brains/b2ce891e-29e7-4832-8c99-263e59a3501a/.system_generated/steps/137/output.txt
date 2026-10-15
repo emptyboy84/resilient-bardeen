@@ -1,0 +1,13 @@
+The search for ""여일석" "출판" OR "도서" OR "책"" returned the following summary:
+검색 결과 '여일석'이라는 인물이나 명칭과 직접적으로 연관된 출판물, 도서, 또는 책에 관한 공식적인 저서 정보는 확인되지 않습니다. 
+
+다만 유사한 이름이나 관련 키워드로는 다음과 같은 내용들이 있습니다.
+* **기업 정보:** 인쇄·광고물 제작 및 출판·인쇄업 분야와 연관된 ㈜글로픽스의 '여일석 대표'가 활동하고 있습니다[1][2].
+* **기타 동명이인 혹은 언급:** 종교 단체(우리들교회 등)의 안내나 명부 등에서 '여일석' 이라는 이름이 확인되나[3], 이는 일반 출판 도서나 책의 저자와는 무관합니다.
+
+특정 도서나 저자, 출판사에 대한 구체적인 정보를 찾고 계신다면 정확한 책 제목이나 저자의 분야(예: 전공, 분야명 등)를 함께 제시해주시면 보다 자세한 확인이 가능합니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETj-mtlIsQl6DeaeDYyTneuwAJ3k-yytPrrAdTpELl0yk_ThmBfwMZ2IbEm1KdODehoAkNT3r3eR2-gitAdUIk_jnYlkp7dD-2ycfDkmkwVG1WRk2vGZCzilDwQlxB2QAxEsXhrbOOOdDMloWGu-HWoHP0WTEaDNP9Kju6Kv8ANH_0flXuJeofd7B3I66VzOexKet36piJLASQxxligRMkaDJrZZa23iZ4CozBXnMBOIj1V0YbQMkZbDFOCmGpvZm9HNkJFF5bicGVWxl2pA==)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfyoTHT7j4vt-4zGYnfrjmCYwmsxIXO4guae1oF5zPtOT_nRNDzYW2l839YD-e9rD0dTRLfySI1roQy4ytd0-bHitjQq2NrmMCUJNNxNsNAmI_srgRT8qfHECoanGNFIFCx-W2LS-5YKN80AQIbNq2711PfN19_ObrWn1CzkVhYfG9TEOgE7XCzRbyT4Jr6w==)
+[3] [woori.cc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaoeZXhNDXAz7Gesm7qo0M9r_Bovn0WRMRTBjU-0FmOxnrwvrSlDyqdDgJQd4Lqj-h5nHv6mir9tG5K3ChPWT6AjX7VjDvCioPQX6bAtIPPtkuJiJKmj2-fdTWRfkv6P4=)

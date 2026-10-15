@@ -1,0 +1,16 @@
+The search for ""gongsinara.com" "1749832" OR "6468702732"" returned the following summary:
+입력하신 번호("1749832", "6468702732")와 **gongsinara.com**(공시나라) 사이의 직접적인 연관성은 검색 결과에서 확인되지 않았습니다[1][2].
+
+**공시나라(gongsinara.com)**는 국민연금, 고용보험, 통신판매업, 조달청 등 국가기관이 공개한 공시 데이터를 기반으로 전국 사업장 정보를 조회할 수 있는 기업 정보 서비스 플랫폼입니다[1][3].
+
+*   **주요 기능:** 상호명이나 사업자등록번호를 통한 기업 검색, 기업 상세 현황(4대보험 가입 추이, 업종, 주소 등) 확인, 사업자 인증을 통한 기업 홍보 등을 제공합니다[3][4].
+*   **관련 정보:** 서비스 운영사는 '주식회사 씨디피피(CDPP Co., Ltd)'이며, 문의 사항은 고객지원 페이지나 이메일(support@gongsinara.com)을 통해 확인할 수 있습니다[4][5].
+
+혹시 특정 사업자의 사업자등록번호나 관련 식별 코드를 찾으시는 것이라면, 공시나라 홈페이지(https://gongsinara.com) 내의 검색창을 이용해 직접 확인해 보시는 것을 권장합니다[1][3].
+
+Sources:
+[1] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGhZdgBMgUBuGD0nlF-HvtJ3JOqfpZ_WWFl7QnANPNX96lgX6fuswl5WLZ5Yp2NCwZIRWFvLDma8xLp6kC2zTnl0XJWMIEgiUwDMPEbg==)
+[2] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXDPOQ-ljJtiklyR0N5brATX4z1pavg1www4EUxNFqPrP7t40KuCemxi6UNWif4hF8M5LcCStgsO-FTwPrWaQvjZMlQQXsG87et5ZHFDhjXJ4K4sC_DH8R_IU=)
+[3] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZz-NA5kXXwPz0ojQyVQN1l25cGGiyLsasyZt84MKg1TY6MyN2dZJK8hqHA0OxNfSUonotfUydVzWo-rma_vJcFlDE3mcBXBp4Ll-17XblZuAnL0iL)
+[4] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxt7oWKOma2KrnnPpdgx8TX6rgF9G6HtrKdLIeUGP1aiN0QNgfZrgcsA8bYvK6H4fDv4TqYNE1orhcoz6qcSHcxepiEGedEw0LOrpNGWOy6ayjto=)
+[5] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmSYvoua-Ep1_cM0YxgrhByj_6ouavUZOuL8BRsTL_WVsSJ11QuT9ts3jQXa1dDX-zKL7_jiqHsKJSr1jOT7gQIikVrc5BZn2_RB3eJ1ikwoQ2wA==)

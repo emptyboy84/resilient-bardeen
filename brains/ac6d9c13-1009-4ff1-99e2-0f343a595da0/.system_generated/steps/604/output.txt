@@ -1,0 +1,6 @@
+### Result
+"[{\"id\":\"f_75bbb3f4-673b-43db-ba38-7cc0467decd0\",\"name\":\"\",\"placeholder\":\"기업명, 사업자번호, 법인번호, 대표자명\",\"className\":\"q-field__native q-placeholder\",\"type\":\"text\"}]"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\')).map(i => ({\n    id: i.id,\n    name: i.name,\n    placeholder: i.placeholder,\n    className: i.className,\n    type: i.type\n  }));\n  return JSON.stringify(inputs);\n}');
+```

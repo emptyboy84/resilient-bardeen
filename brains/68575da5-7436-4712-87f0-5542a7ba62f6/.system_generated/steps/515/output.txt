@@ -1,0 +1,11 @@
+The search for ""02-6949-5838" OR ("맥스폼" "02-6949")" returned the following summary:
+검색하신 정보와 일치하는 기업 정보는 다음과 같습니다[1]:
+
+* **기업명:** 주식회사 맥스폼 (MAXFOAM)[1]
+* **대표자:** 조형준[1]
+* **전화번호:** 02-6949-5838[1]
+* **팩스번호:** 050-4133-9185[1]
+* **주소:** 서울특별시 강서구 공항대로 242[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0A1P1l_pi4VcCj5ASrcj_s2nJ2JOGuBaCoZf0OcWmgRBLz12G0E7K3V_7WTrjgp-gFk1yV54aVwrYKcEIWFYl0k8dUUcEQnj5WUYxV2kAivZ5GNG25hvjfdQ=)

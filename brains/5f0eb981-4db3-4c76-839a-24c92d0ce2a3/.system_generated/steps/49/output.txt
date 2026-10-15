@@ -1,0 +1,29 @@
+The search for ""제노레이" "256-" OR "2568" OR "256"" returned the following summary:
+검색하신 키워드 **"제노레이"**와 **"256"**, **"2568"**, **"256-"**와 관련하여 확인된 주요 정보는 다음과 같습니다.
+
+### 1. 기술적 의미: 256 이미지 및 데이터
+*   **덴탈 영상 기술:** 제노레이의 덴탈 장비(예: PAPAYA CUST)에서 임플란트 진단을 위해 **256장의 횡단면 이미지**를 활용하는 기술이 언급됩니다[1][2][3]. 이는 3D CT 대비 경제적으로 임플란트 진단 영상을 제공하는 방식입니다[1][3].
+*   **C-arm CT 시스템:** 과거 수행된 '저피폭 지능형 인터벤션 C-arm CT 시스템 개발' 과제에서 **영상 재건 속도 기준(@256³)** 항목이 포함되어 있습니다[4][5].
+
+### 2. 기업 및 문서 내 번호 (256, 2568 등)
+*   **기업 명부:** 각종 산업체 명부, 공장 등록 현황, 또는 병역지정업체 명단 등에서 **제노레이**가 특정 일련번호(예: 259번, 2568번 등 문서 내 순번)로 기재된 경우가 다수 확인됩니다[6][7][8][9][10][11]. 이는 기업의 고유 식별 번호가 아니라, 해당 문서의 리스트 내에서의 순서인 경우가 많습니다.
+*   **주가 및 재무 데이터:** 제노레이(122310)의 재무제표나 주식 관련 리포트에서 **'256억'**과 같은 단위의 매출액이나 자산 항목이 언급되기도 합니다[12][13][14].
+
+### 요약
+"제노레이"와 "256"이 결합된 경우, 대부분 **임플란트 진단을 위한 256장의 횡단면 영상 기술**을 의미하거나[1][3], 각종 산업 관련 문서 내의 **순번/일련번호** 또는 **재무 수치**인 것으로 파악됩니다. 특정 제품 모델명이나 사양에 대한 정확한 확인이 필요하시다면 찾으시는 구체적인 문서의 문맥을 확인해보시기 바랍니다.
+
+Sources:
+[1] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSd_QwDMBfzqS5VOXW1RpH6-KVlbl3u2wPIDkBkH_I6SoMSsKTABdsSupNyEk4zcj7FL2mDPliy7uwPf4aaqAeILMLAUEQWypYGJyd0IOz1J6xm91TAuv3L_9nsqvmss_W3qskGGVSIeEvncvW-8OO)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP40hMODbLaYWLu1Y_C4028LNgqZXFEw_Ac-McnOuOvUglz4eJq8bn5v_HCMKhaGMbqEivDO6OcOrH1lvsVNCC_TT38E83YNQ2qK2OgyHS5ohO8uA-btU5L1AMxGNvx-iG)
+[3] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSd_QwDMBfzqS5VOXW1RpH6-KVlbl3u2wPIDkBkH_I6SoMSsKTABdsSupNyEk4zcj7FL2mDPliy7uwPf4aaqAeILMLAUEQWypYGJyd0IOz1J6xm91TAuv3L_9nsqvmss_W3qskGGVSIeEvncvW-8OO)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYrmFv_grnb_WUOJH1rvff5H-GBkqLfWOmthlHMD8cwjwAlfmersT1rybQ4el3eeaZGvn7Z5mgdKEtxcWzfKQTE9fizhMVZJSoaKNOsfvDG59lyu2j9-GvQLRK8wGmZFvcMQ=)
+[5] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYrmFv_grnb_WUOJH1rvff5H-GBkqLfWOmthlHMD8cwjwAlfmersT1rybQ4el3eeaZGvn7Z5mgdKEtxcWzfKQTE9fizhMVZJSoaKNOsfvDG59lyu2j9-GvQLRK8wGmZFvcMQ=)
+[6] [npcenter.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbT8Oz0OFI9m_P6FBCUnkKGiVj1Tn8xdA9aekUo7nvUIfPjVmRmARcwaA6jctKywSy9F6frXTKZoJSm4pBvo8Lwpqe2nuLYjMLwYltQQ3mVCJKtYRkyz3orG7AgfqoNzJvBPl0XYwgUI1QFewNsBc=)
+[7] [paju.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf5DypSFyJh6lsCM80EkpILu-g-8syJbAqCouh20v_94X3FCFoNmONGrJNI7WtpWCl45DRYfGscrUDP1emjdlHu6XRwEfe4WabjYeQMgoiWNB5NAeGaqBJ74st_wXqOCWky59Y6exz5-7uf7WOn34n532wxtFr_8U17OlXYG63CLoiV5E=)
+[8] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENzZbsG4AGrnH8HcwQ3esAgKJ1X2e68Y31PqX9VqEV437DxwAn2N1ggM1vcohdXlqFNkLI8QvB4xyhCDmcxiy5rSzMRiOG2P5US9nPx1Ikf7HOGvurPbJyH21NuqoIJtUBgXJ3-YGJr0HUzFbwmphaq9YzUeaWChCy_z4kv8QfrBdnCTWk1CFN55aBpV0qjoqkhmOt-V5MDtRe1V6DriM3HO8OZvPlQ18bU-zzt2w973765hGyv-EgxdrueW7Nzol-UeW55OAjCtYP4TIoaaA4PsmATA0Rm0Kw1af2fUSTaFRlqE2FB4EaZkoxfg==)
+[9] [seongnamculture.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH8yw8wWVaBiSu8AYn2pLZHRk90ttFIh1m5JlUjvElJShjXUxlG1xaMNpWblJzq2jzLdBZTQbZw7OXwA451zFnaHyviFpWBrMXXE-LL5RQ1pTeD_AZHRQjtpaQ7ybd1fjXZTMRFhSwK0Ljlnp8XlwKwD3uzFZUi0AxzFP_RZCUSmvULgCjdF7sYJDpoUTnFdH8XkJvT8zbJEfX01NZSmtgDj1IkSiMnzYIVkfNesar7c7C8NY4dTxoKk8s-E3tbaTy8Gfo5ds_oaLcU6daTl-wVdey1ZuftwORLqUniZYxs_3GxKc6fwwMXgRYm2Mzm11JpJfP)
+[10] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS9CgFUG8z8R1TO7nfRckUG7Pl_35oPqEG29sOgLEelWYA9Y2MIXIXhpmVMeNWnQh1ZKWCbHPJxBqFytqYV7jajxr8nlQj62Sh-6WG1Y1WNW8qdxT3)
+[11] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKQny-wK-oLjq3ZUl_fvDGcSlnRLx8iBdNjwGfQ6SJUEmnIMPHt1jCSaK943JEYQbevhc7OZ07NXh-hzXK5Aez6sk6SKq5wIxyOP7RKfBMD2uh0wqX2JtVuV3XQxRhrmqzWWhiAAkG-NlXZHGY_rRg8U1BHUFJfxc=)
+[12] [tossinvest.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUQR3wGkwrDCMVIwDF9esUZ_ZgPs27U4jsPmjqvzgc0DHt4ANL7hrNqTrLKxgzACHF5TyE5nrRZGzzdc8-7Rt2ymfskmtGtcU1jzLHoX1Fxn_cEktJVoabrQZfsuV5KLaSPxfTsg==)
+[13] [alphasquare.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvY47BaCBomirsVmOLIY7kSKr6KOKAkRW18Qro_U8Uw5x5SOlOrO7LzhmuRP1y-l66XRIEcr0x1jh2bkaNfuQHAFFmh1xxhprgBstP87X1Aol7Ba2Igo-Ijavow-wv8EdJbzTHP2DGbY29U8Smx27rzadnR0x7zILuoG1mkk5SZmlVmhCJgsqkzdFUFa0hK-PNBUw06MipOEki9epLYLrX3gw4Kk83-icN4QADe3UiiuNYfAJseLYbmWcF)
+[14] [tossinvest.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUQR3wGkwrDCMVIwDF9esUZ_ZgPs27U4jsPmjqvzgc0DHt4ANL7hrNqTrLKxgzACHF5TyE5nrRZGzzdc8-7Rt2ymfskmtGtcU1jzLHoX1Fxn_cEktJVoabrQZfsuV5KLaSPxfTsg==)

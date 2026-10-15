@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+CSRF Token: OYtlaRQSvH-UL3Twt72beh8pCAfsutRS8ITozV1UPQ0
+
+[KOBIS] Search "브이알코리아" -> rows count: 3
+
+[KOBIS] Search "소울필름" -> rows count: 2
+
+[KOBIS] Search "쏘울픽처스" -> rows count: 1
+
+[KOBIS] Search "케세라세라" -> rows count: 2
+
+[KOBIS] Search "냉이영화" -> rows count: 2
+

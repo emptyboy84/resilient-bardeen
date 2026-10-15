@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\mcp\playwright
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 8:51            852 browser_click.json                                                   
+-a----      2026-10-06   � 8:51            188 browser_close.json                                                   
+-a----      2026-10-06   � 8:51            810 browser_console_messages.json                                        
+-a----      2026-10-06   � 8:51            813 browser_drag.json                                                    
+-a----      2026-10-06   � 8:51            959 browser_drop.json                                                    
+-a----      2026-10-06   � 8:51           1082 browser_emulate_media.json                                           
+-a----      2026-10-06   � 8:51            826 browser_evaluate.json                                                
+-a----      2026-10-06   � 8:51            394 browser_file_upload.json                                             
+-a----      2026-10-06   � 8:51           1052 browser_fill_form.json                                               
+-a----      2026-10-06   � 8:51           1105 browser_find.json                                                    
+-a----      2026-10-06   � 8:51            390 browser_handle_dialog.json                                           
+-a----      2026-10-06   � 8:51            482 browser_hover.json                                                   
+-a----      2026-10-06   � 8:51            275 browser_navigate.json                                                
+-a----      2026-10-06   � 8:51            225 browser_navigate_back.json                                           
+-a----      2026-10-06   � 8:51            874 browser_network_request.json                                         
+-a----      2026-10-06   � 8:51            813 browser_network_requests.json                                        
+-a----      2026-10-06   � 8:51            343 browser_press_key.json                                               
+-a----      2026-10-06   � 8:51            371 browser_resize.json                                                  
+-a----      2026-10-06   � 8:51            832 browser_run_code_unsafe.json                                         
+-a----      2026-10-06   � 8:51            661 browser_select_option.json                                           
+-a----      2026-10-06   � 8:51            838 browser_snapshot.json                                                
+-a----      2026-10-06   � 8:51            552 browser_tabs.json                                                    
+-a----      2026-10-06   � 8:51           1519 browser_take_screenshot.json                                         
+-a----      2026-10-06   � 8:51            837 browser_type.json                                                    
+-a----      2026-10-06   � 8:51            462 browser_wait_for.json                                                
+
+
+

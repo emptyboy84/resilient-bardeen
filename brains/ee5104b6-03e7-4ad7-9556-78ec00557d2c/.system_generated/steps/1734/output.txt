@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+MX Host: mx1.mail.naver.com
+S: 220 mx.naver.com ESMTP eYTj6uskRUGi6hp-McSo4w - nsmtp
+S: 250 mx.naver.com Pleased to meet you
+S: 250 2.1.0 OK eYTj6uskRUGi6hp-McSo4w - nsmtp
+S: 250 2.1.5 OK eYTj6uskRUGi6hp-McSo4w - nsmtp
+FINAL RCPT RESULT: 250 2.1.5 OK eYTj6uskRUGi6hp-McSo4w - nsmtp
+S: 221 2.0.0 Closing connection eYTj6uskRUGi6hp-McSo4w - nsmtp
+FINAL RCPT RESULT: 221 2.0.0 Closing connection eYTj6uskRUGi6hp-McSo4w - nsmtp
+Socket error: write after end
+

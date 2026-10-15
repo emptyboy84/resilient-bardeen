@@ -1,0 +1,7 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-864
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-864.log
+Log output:
+Error: 'utf-8' codec can't decode byte 0xc0 in position 24719: invalid start byte
+
+Last progress: 2s ago

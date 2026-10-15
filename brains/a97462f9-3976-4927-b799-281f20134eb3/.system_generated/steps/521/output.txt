@@ -1,0 +1,17 @@
+The search for ""호밀밭" "689-88-00553" 매출액 OR 사람인 OR 잡코리아 OR 장현정" returned the following summary:
+검색하신 사업자번호 **689-88-00553**을 사용하는 기업은 부산광역시 수영구에 위치한 **(주)호밀밭**(대표: 장현정)입니다[1][2].
+
+문의하신 내용에 대한 정보는 다음과 같습니다.
+
+*   **기업 개요 및 장현정 대표**: (주)호밀밭은 2008년에 설립된 출판사로, 도서 출판을 기반으로 문화 콘텐츠 기획, 지역 기록 사업, 교육 프로그램 운영 등 다양한 문화 프로젝트를 수행하고 있습니다[3][2][4]. 장현정 대표는 사회학 박사이자 저자로서 직접 도서를 집필하고 강좌를 진행하는 등 활발히 활동하고 있습니다[2][5].
+*   **매출액 정보**: 공신력 있는 기업 정보 서비스(사람인, 잡코리아 등)나 공개된 자료를 통해 해당 기업의 구체적인 연간 매출액 정보는 확인되지 않습니다. (주)호밀밭은 소규모 출판 및 문화 콘텐츠 기업으로, 중소기업 중에서도 매출액이 공개되지 않는 경우가 많습니다.
+*   **채용 플랫폼(사람인/잡코리아) 관련**: 해당 기업이 사람인이나 잡코리아 등에 기업 정보가 등록되어 있을 수 있으나, 위 검색 결과상으로는 매출액과 같은 상세 재무 정보까지는 제공되지 않고 있습니다. 
+
+더 자세한 재무 정보가 필요하신 경우, 금융감독원 전자공시시스템(DART)이나 신용평가사(나이스평가정보, 한국기업데이터 등)의 유료 기업 분석 서비스를 확인해보시는 것을 권장합니다.
+
+Sources:
+[1] [homilbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe7N4HA6NJxrBvkLhk8eiS02AKj2AKGlBm32FawuIF58p_LzrDjbL4l3IJpADqL3tUke2P2rOeE0CWINdSasQnkMmNqq6suEXv9pzHcePT)
+[2] [homilbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8vozB-DiFmlNko9h82uRldUhzZd40CzfV6jrMY3xZ30EFXh2LrUhLK06WQs5uk4xad8Gpxer-jxp9G-1hjB00NU2KLk18mAfNVYwoMCvgI2q84W_PpgZEwQYW9s21)
+[3] [homilbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFFlcIiPfLSpiKJ0V55Tr42Rp8aCbzJfhVPQ7_Cl60PhgBJuEJla5OwO2PSvVFULAnVRqXx08UDuJ0A-VciE3hgFsGywT8tFosHSaizf2i)
+[4] [homilbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1WpJWWKFqOW67YScy-H3PVKxNip6-hOfY8smTCw5ZueUPvV7bZUPCdOlSuFoHfdHpT6dpuqYXtgtGZSvDMU1RbRH5iHVeJMcsM8xkcNXY)
+[5] [homilbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Sst89B54mGrY4IUWr34ENKo0sRv5oyj1e43Ko9xV4_hC_owvmiuQsGv8VDIGmV9M7XLy2YH9WkFl-NJwRunO_eHJZr71lo0QLj4OEuPFxB6NMhI=)

@@ -1,0 +1,6 @@
+### Result
+"메뉴 영역으로 바로가기\n본문 영역으로 바로가기\n더욱 빠르고 안전한 인터넷웨일을 설치하세요 다운로드\n닫기\nNAVER\n한글 입력기\n검색"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.getElementById(\'main_pack\') ? document.getElementById(\'main_pack\').innerText : document.body.innerText');
+```

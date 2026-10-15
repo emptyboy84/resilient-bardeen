@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+linkbean.co.kr -> NONE NONE
+linkbean.kr -> NONE NONE
+haeyaknono.co.kr -> NONE NONE
+haeyaknono.kr -> NONE NONE
+

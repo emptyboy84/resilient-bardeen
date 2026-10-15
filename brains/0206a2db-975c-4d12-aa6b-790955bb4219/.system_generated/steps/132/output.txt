@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Body snippet: <!DOCTYPE html><html lang="ko" dir="ltr" data-i18n-lang="ko" data-rh="lang"><head>
+    <meta charset="UTF-8">
+    <!-- Preserve acquisition origin without forwarding path-based bearer credentials. -->
+    <meta name="referrer" content="strict-origin">
+    <!-- Google Analytics 4 (gtag.js) — SPA 라우트 추적은 src/lib/analytics.ts + App.tsx 에서 처리 -->
+    <script>
+      (function () {
+        if (/(?:^|\/)event\/rsvp\/[^/?#]+/i.test(window.location.pathname)) return;
+        window.dataLayer = window.dat
+

@@ -1,0 +1,6 @@
+### Result
+"표준산업분류\t-\n인증현황\t\n-\n\n마케팅\t\n-\n보고서 구매\n구매불가\n요약 샘플\n상세 샘플\n기업 분석 보"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const text = document.body.innerText;\n  const match = text.match(/표준산업분류[\\s\\S]{1,50}/);\n  return match ? match[0] : \'not found\';\n}');
+```

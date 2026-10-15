@@ -1,0 +1,14 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-1037
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-1037.log
+Log output:
+\/article\/[0-9]+ : '\/article\/[0-9]+' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ�
+� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:9 �:50
++ ... st articles = [...html.matchAll(/<a href=\"(\/article\/[0-9]+)\"[^>]* ...
++                                                 ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/article\/[0-9]+:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+Last progress: 1s ago

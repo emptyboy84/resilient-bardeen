@@ -1,0 +1,4 @@
+{
+  "summary": "Final fix: Only modify verified 192 rows, do NOT touch other rows at all. This avoids the ExcelJS style table corruption that occurs when setting font on all 2313 rows.",
+  "updatedAt": "2026-09-14T02:18:36.956580200Z"
+}

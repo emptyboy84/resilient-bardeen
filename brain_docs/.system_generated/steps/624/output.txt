@@ -1,0 +1,23 @@
+The search for ""페타브루" ("특허" OR "출원" OR "등록")" returned the following summary:
+레이더 및 지능형 센서 기술 전문 기업인 **주식회사 페타브루(PETABREW)**와 관련된 특허·출원·등록 정보의 주요 내용은 다음과 같습니다.
+
+### 1. 주요 특허 기술 및 방향
+페타브루는 고주파 레이더(FMCW 레이더 등) 기반의 비접촉 센서 신호처리 및 정밀 알고리즘 설계 분야에서 독보적인 기술력을 보유하고 있으며[1][2], 이를 바탕으로 다음과 같은 분야의 특허 포트폴리오를 구축 및 출원·등록하고 있습니다.
+* **저유전율 물질 및 액위 계측 기술:** 
+  * 예: *"저 유전율 액위 계측 시 레이다 레벨 트랜스미터의 거리 정확도를 향상시키기 위한 유체 레벨 산출 장치 및 그 방법"* 등 선박용 LNG 및 극저온·위험 물질 잔량을 정밀하게 측정하기 위한 비접촉식 레이더 센서 및 신호 보정 관련 기술[1][3]
+* **모빌리티 및 관제 시스템:**
+  * 도심항공모빌리티(UAM)의 이착륙 시스템 및 무인 비행체의 착륙 제어를 위한 관제 장치 관련 특허 기술[4][1]
+* **기타 지능형 감지 솔루션:**
+  * 실내 유동인구 위치 추적, 밀집도 분석 및 멀티센서 머징 기술 등 지능형 센서 알고리즘 관련 다수의 지식재산권을 확보하고 있습니다[5].
+
+### 2. 기업 특허 현황 요약
+* **특허 보유 건수:** 기업 정보 플랫폼 및 기술 분석 데이터 기준, 고유의 신호처리 소프트웨어 및 하드웨어 제어와 관련하여 다수(약 7~9건 이상)의 특허를 출원 및 등록하며 기술 경쟁력을 강화하고 있습니다[6][1].
+* **기술 국산화 및 R&D 성과:** 전량 수입에 의존하던 선박용 고정밀 LNG 레벨트랜스미터 등의 핵심 부품을 국산화하는 과정에서[1] 독자적인 알고리즘을 고도화하고 국내외 핵심 특허를 확보해 나가고 있으며, 중소벤처기업부 TIPS(팁스) 프로그램 선정 및 한양대학교 기술지주 등으로부터 기술력을 검증받았습니다[1].
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjSsWA8qDqkIf-eJjz4yboNu0gKNuLD_xHWxH2gAGkhx_XL4i2Ia3a1SoW-IlkR1I-tRutl8ZBVlJ9Y1Pu7TEZRrr4LNnoQSAmIVehsGq0dp159hYT4_aLji_oFsX1wR45y1VM41ByucpjVBtrax6GuFoyNSAh0qvnQ2s=)
+[2] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdO9QmfzBVH2GqioZhY4vH7VH6z65s490ZmDVQ1DJ926MNd9NsxTQUNWp7XNN5sswVUB7fvd7Sz1dMxRXLKZkE57hEw_3cT3vwsA==)
+[3] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcDfD8UcdU39CHmu4vDtgiGzSTAQUanDotmMiziBKDd9fs9o4pYnnxrIYLz44N2XPq83Y5l6M3gZoYnPw7owllBRiRgFPJRDkFcuXx0yY83zMoHMvrrGoKYYCgIhEsyjnZvwFgf6Dn5j5wGMgh_l3bhyRJIPy1RG070HiSbat4XwXUOv1FHPfBqnDi1qVo7S--EtGcJncV1J_d4n8Zri4urauXR86hlwYOCT0=)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeeHDNeBIuuuxElpz4ksLKJunRv-j8MieKK2g1SGNESrtHpnmFSoCfJFlFdzCMVj1rH95mr7J6CtqiP0b7oT-nrcG2_gmgJrKZ-HQAaJ9qNYLvoFOklK1jmKxWL6lvC2s2DD8wwDWxuBU=)
+[5] [kyosu.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0tcngkPSlie3ehXZFfUh2oOsN1a2JPXyZ71JfBIJpEnGVK_PIwJNSV7XHz6gTKaV5z1yNI1x9Zt-XHxK7wNyedf5QVMxcqhJPNOy97wXJ6Np6sLs6kPVpFnwGPKS9WJCHkIqKo4qwoLghmB9_0w==)
+[6] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGjlfiDpnmBRqADBGDvl4bDw5wgAVv7Lj8zE74Or6vfGsjQjTueA1CbcXLOLOz7ddT2nebPoc8Mbg95xSJduNpYbe31CbXU86zgppX4usx)

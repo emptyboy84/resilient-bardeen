@@ -1,0 +1,19 @@
+
+The command exited with code 1.
+Output:
+Get-Command : 'py' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� 
+�Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:1
++ Get-Command python, py, node
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (py:String) [Get-Command], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException,Microsoft.PowerShell.Commands.GetCommandCommand
+ 
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     python.exe                                         0.0.0.0    C:\Users\lg\AppData\Local\Microsoft\Wi...
+Application     node.exe                                           24.11.1.0  C:\Program Files\nodejs\node.exe         
+
+
+

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+['25� �', 2021, '�ī�', '592-17-01942', None, None, None, '051-625-3735', None, '�ؿ�뱸', '�ؿ�뱸 �µ� �Ƿ� �浿�ھ� 117, 118', '�', None, None, '�']
+

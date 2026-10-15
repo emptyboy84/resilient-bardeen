@@ -1,0 +1,16 @@
+The search for ""9514-1435" "대표" OR "사운드" OR "뮤직" OR "레코드" OR "엔터테인먼트"" returned the following summary:
+입력하신 검색어 `"9514-1435"`와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **산업용 부품 번호:** 해당 번호(`9514-1435` 또는 `9514-1435-000`)는 GEA Niro Soavi 등 기계 장비 매뉴얼에서 '플랜지(FLANGE)'와 같은 특정 부품의 식별 번호로 사용되는 사례가 확인됩니다[1].
+*   **학습 자료 ID:** 중국의 한 대학 시험 자료 검색 사이트에서 `ID: 9514-1435`가 '사료 기업 관리(饲料企业管理)' 관련 시험 문제 자료로 등록되어 있습니다[2][3].
+*   **전화번호 관련:** `080-9514-1435`, `090-9514-1435` 등은 일본의 휴대전화 번호 체계와 유사한 형태이나, 해당 번호가 '대표', '사운드', '뮤직', '레코드', '엔터테인먼트'와 직접적으로 연관된 정보는 검색 결과에서 확인되지 않았습니다[4][5][6].
+
+검색하신 키워드 조합(대표, 사운드, 뮤직 등)과 해당 번호가 결합된 특정 기업이나 정보는 현재 공개된 데이터베이스상에서는 나타나지 않습니다. 찾으시는 정보가 특정 업체나 기관과 관련된 것이라면, 정확한 명칭이나 다른 연락처 정보를 함께 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHBrd3C7aE8XS_qpe4Yd7Wr_lRvxgBWRNNtrEMjjj6YrRSHGxhNRSYzgGoLSCXnOzU_YhGo-JSl6w2M6tmpsS135b0synajDHuJbauJbb_nJt5IXdJu7woa0hE53PUWPbkYHJ4z-lieHeiMA==)
+[2] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQvDSTWlAQXWF_5goPL8IB-SIx9zCRrozpWucrtTZ4UBhpjRK6l8b5XBrD9DbrXCyDstQJ-vIvZJuLQ0-9eoIKTwKwuFUXtDJAFGg7ka4juPSg711WZ0lcFfK4wd16av9V3qhVed-SyGlZ_cd5Bh62Tf--b1ssL23xvy9BpNa7Uebd1Y3IXMM=)
+[3] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGixxjFJCGqlJR4GeXtRWSBAuXeBiOXcdxXdNNZbMoleUB_BM4PNngrVJvbWm-ThYD8Pj4MWZYr79p-lH-wRr5TjTW2TfNM4gNEEt9VMd__LgyDM3NN33izD8r7KlxHpaj8JjZWTe62tP_YK6_mfYlBk8-ZOP-mSQlKkDmd-A==)
+[4] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO-mNndhVNyQaWBkxWTin7GFvHEde-sWh84WY0lw1oKe91DyO7PTqZGUA4WnoNyGHj15P4FwsqQrhdVRcUHSCwJjYwZ6Iu-iFAFopMNJUqxNZMAz93a-KlLkDykbIaC_jGfJYLW-cQuKu-sKLJUFZqIAss)
+[5] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXvqI-aM5T0T8xCgdccWVajMBSO4QLXZWlwov6kJOHgO8YMnYSkixmduBz5eTTP4idHLva96XQpJhGqBrgyz54Rm4vvy9--yReJeXjxsPt9_AgSD9-mIepAlt35ZawB3pHP3P5WEXLUfJwxfNO28eL)
+[6] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_3LQ6s97jxosu0o3BejGvd3AGVThkelUqX_xhT5VZHrkXXVl4HXlJUTbj2PtLbNloa4oOUKhNy3tJD7AA8OubLTiqqpsjCknvrgwfmSnsCkGnTTt1FP4oqvQlwLL4fzPWy7KujguV6E8_qlHVHnHTdK8W)

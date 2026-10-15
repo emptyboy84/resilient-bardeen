@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Fixing prefix: 329 티앤비소프트 (02-1600-2570 -> 1600-2570)
+Fixing prefix: 544 (주)엠아이엘아이엔씨 (02-1544-3195 -> 1544-3195)
+Fixing prefix: 614 (주)소프트벨 (02-1666-1718 -> 1666-1718)
+Fixing prefix: 636 (주)로컬캠퍼스 (051-1670-0812 -> 1670-0812)
+Fixing prefix: 743 청춘필름 (02-1577-0000 -> 1577-0000)
+Removing generic fake phone: 743 청춘필름
+Regenerated outputs with cleaned phone numbers.
+

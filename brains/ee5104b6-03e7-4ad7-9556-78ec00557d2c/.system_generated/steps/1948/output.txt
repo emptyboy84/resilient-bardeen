@@ -1,0 +1,22 @@
+The search for ""큐비이센텀" ("722호" OR "609호")" returned the following summary:
+부산광역시 해운대구 센텀중앙로 90에 위치한 **큐비이센텀(큐비e센텀)** 내 특정 호실 정보는 다음과 같습니다.
+
+### **722호**
+*   **아비앙또마체리 (abientot ma cherie):** 아기 관련 용품 등을 판매하는 쇼핑몰(통신판매업)로 확인됩니다[1][2][3].
+*   **주식회사 티앤제이보스톡코리아 (T&J VOSTOK KOREA CO., LTD):** 상품 종합 도매업 및 무역업을 영위하는 업체로 등록되어 있습니다[4][5][6].
+
+### **609호**
+*   **예림R&C:** 공공관계 서비스업을 영위하는 중소기업으로 확인됩니다[7].
+*   **엘엔케이파트너스:** 경영컨설팅 서비스업을 영위하는 업체로 신설법인 정보에 언급된 바 있습니다[8].
+
+※ 해당 건물에는 다수의 기업이 입주해 있을 수 있으므로, 방문 목적이 비즈니스라면 정확한 상호명을 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [abientotmacherie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxU_x-Go5PA0AuT5aQqhnAOrRlyfxpTM1O-RqauLFybJQ-kjMB-D_4vhAFnWzsUXO6WNJ2QCHlarz4LeAjRZUdzRjzs-HzH2DmTZ3ty9CPJqwJTK3EWCH7iTo01aevx22ZBXd16dmYiR5mjA==)
+[2] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Nr6K7LnrsOg31JDZtUTzR4LmNNx0LhSUfGTKHmsBv2jP4mNQ5RQBcVkHXoUROOeaiZwb7EwyVyJnhqNdGA5Xdo6At15m6S5c05fAD7jTR3niq_hHXzzKr7sY9nOHuopmDuM-WbB7slyp3utK0xspkUpBmaE=)
+[3] [abientotmacherie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qDfYRVGEKZ_Pbhh3YeyIMF6bgE1a8doeqlpIknd0a4h9V9NzXqjoJ8Ueut8mQuGCmQ1lrG5e-19_r1LNFexTeZc-wYAfpFJdiHUu7FmL8DgiufSLr7IhiptFBwlvxKEmto8rENq-LGzM2g==)
+[4] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsvNBNhWLFhQGKHNVRI2Y4Zt0fbhH63Ov2bpUb9_pJ1Ohu73D3J2LmtO4Vh5-7almdBch5CV3Q27e7wnECZs6Hh7tZS0z8i_vAp-98ky1dnIEXWad2fT7WEZLbGqtd-w==)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3OUvVdLbEzz5id27sSrTRflJ6uhm03uqfYlOaKy8bBB6Ssd2SWbYYN2f60iWoYO4MqtqqlnjNLEGgEL2iH3hEPwmvsZhMZpzWpcYQ0TbtWwMUJ-7CPpzC1kno)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-SMB1L3IhG5DmN66V4xxJbUCLfX4WWQ6yZxcr4VVNrlHmwyj_uaJBnwf7sPy9Wn97ygJ0IGxhR56U5obUDszWLaVRfoTcjNviVEYdlYKbMKADTQzv_A==)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHog6P18-RAj5mhSbWVuSJa4f0Rfvbz3KuQ4oXUPKihcT8tyMcQ5q7Lrd0DmVCO7DFReGwa607SqhqpmOCtQVwUugr_rzEyGKJCl4qhSWNtT6CDQRqEk3K2uzZI08OtaD6tdFSIqyguC75iIHpCjWhMwMt7D1Y6TEw07JzxCRSlULfwcD9pURVOe0wfQBBPA7txzx72v5uRqusgBoGXwnkbXABSgzxGvbgfN-zKL6U=)
+[8] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr4Zbsu3Cl0EY4RiTzttW9DHB4OvU5aqNmppno-Ls2m9sdsukwH741g_uw0-kXTHXFjIFDLBoCcKPh_yGWScgjhLUkffOGS0nb4oTItu0MqEhq5XtDv1qX2ScME7ahbQ==)

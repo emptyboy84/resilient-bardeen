@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Saramin CSN status: 200 https://www.saramin.co.kr/zf_user/company-info/view/csn/dnoyVWdiNjBlM2djSzJpRFRIRGt3QT09/company_nm/(%EC%A3%BC)%EC%89%90%EC%96%B4%ED%8A%B8%EB%A6%AC%EC%B8%A0
+Saramin length: 306170
+Contains phone mentions!
+

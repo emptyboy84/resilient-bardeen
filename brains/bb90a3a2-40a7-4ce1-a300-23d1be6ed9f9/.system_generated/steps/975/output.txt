@@ -1,0 +1,138 @@
+
+The command exited with code 0.
+Output:
+Location: http://www.koreanfilm.or.kr/eng/news/ko_pick.jsp?mode=VIEW&pageRowSize=10&pageIndex=1&blbdComCd=601029&seq=113
+Page len: 125665
+Phones in koreanfilm.or.kr: [
+  '+82-51-720-4877',
+  '+82-51-720-4819',
+  '+82-51-720-4877',
+  '+82-51-720-4819'
+]
+
+
+
+
+	 
+	
+
+ 
+ 
+	 
+	 
+     Ko-pick: Korean Actors Embark on Int’l Productions: The Era of Global Casting  
+     
+	 
+	 
+	 
+	 
+	 
+	 
+    	 
+     
+		
+		
+		 
+	     
+	    
+	     
+		 
+		 
+		 
+		 
+		
+	     
+	     
+	     
+	     
+	     
+	     
+	     
+	     
+	     
+	    
+	     
+	     
+		 
+	     
+	    
+     
+    
+     
+    
+    	  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		
+		
+	     
+	      window.MSInputMethodContext && document.documentMode && document.write('  ');
+	     
+     
+    
+    
+     -->
+     
+    
+     
+    
+     
+     
+     
+     
+    	$('#ogUrl').attr('content', (location.href).replace('http:','https:'));
+     
+     
+ 
+
+
+ 
+	
+ 
+function addFavorite(type,code){
+		$.ajax({
+			type: 'GET',
+			contentType: 'application/x-www-form-urlencoded',
+			dataType: 'html',
+			url: '/eng/common/favorite/favorite.jsp',
+			data : 'type='+type+'&code='+code,
+			error: function () {
+					alert('An error has occured. Please contact system administrator.');
+				},
+			success: function (data) {
+				alert('successfully added')
+				},
+			complete: function () {
+				}
+		});	
+	
+}
+
+ 
+
+	 
+
+
+ 
+ var switchTo5x=true; 
+   -->
+ stLight.options({publisher: "197efbad-3a6e-47ff-b6e9-dbda20e66846", doNotHash: false, doNotCopy: false, hashAddressBar: false});  -->
+    
+     
+  	  
+      
+      
+      
+   	  
+	  
+	  
+     
+    // 구글 통계
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-
+

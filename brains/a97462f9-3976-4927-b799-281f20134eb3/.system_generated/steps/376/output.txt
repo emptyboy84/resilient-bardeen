@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Header length: 19
+Header columns: [
+  '﻿구분',              '순번',
+  '사업체명',          '사업자번호',
+  '설립연도(연도)',    '설립연도(월)',
+  '대표자 성함',       '연락처',
+  '팩스번호',          '시군구',
+  '주소',              '업종분류',
+  '컨택결과',          '폐업 날짜',
+  '비고',              '종사자수(명) 25년 기준',
+  ' 24년 매출액(원) ', ' 25년 매출액(원) ',
+  ''
+]
+Total data rows: 2313
+Has Biz: 2091 Empty Biz: 222
+Has Sales 24: 269 Empty Sales 24: 2044
+Has Sales 25: 109 Empty Sales 25: 2204
+Active companies with Biz but NO Sales: 1551
+Missing Biz Rows count: 222
+First 5 missing biz: [
+  { rowNum: 504, name: '89Light' },
+  { rowNum: 508, name: 'LINC' },
+  { rowNum: 536, name: '김정보' },
+  { rowNum: 537, name: '꿈해몽' },
+  { rowNum: 539, name: '나래바람' }
+]
+

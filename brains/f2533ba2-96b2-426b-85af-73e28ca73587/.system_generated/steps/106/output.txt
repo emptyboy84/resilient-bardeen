@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Length: 24756
+Found corp matches: [
+  '131111-0605021',
+  '131111-0605021',
+  '131111-0605021',
+  '131111-0605021',
+  '131111-0605021'
+]
+Context: 이스1) 7층 A-713호 종업원수 : 25명 사업자등록번호 : 765-86-01847 법인등록번호 : 131111-0605021"> <meta property="og:type" content="website"> <meta property="og:author" content="bizno.net"> <meta property="og:article:author" content="bizno.net"> <meta property="og
+

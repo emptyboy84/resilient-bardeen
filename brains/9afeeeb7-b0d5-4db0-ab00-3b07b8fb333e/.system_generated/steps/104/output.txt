@@ -1,0 +1,14 @@
+The search for "site:bizno.net "화승코퍼레이션" "기장"" returned the following summary:
+화승코퍼레이션의 기장 관련 정보는 다음과 같습니다.
+
+*   **위치:** 부산광역시 기장군 장안읍 명례산단5로 56 (화승코퍼레이션 기장공장)[1]
+*   **관련 주요 소식:** 화승코퍼레이션은 기장군 소재 공장 내 유휴 부지(약 1만 6,500㎡)에 2027년까지 약 370억 원을 투자하여 **'부산 실증테크센터(R&D 센터)'**를 건립할 계획입니다[2][3][4]. 이 센터는 기존 자동차 부품 연구를 넘어 피지컬 AI, 로보틱스, 신소재 분야 등의 기술 실증과 신사업 발굴을 위한 거점으로 활용될 예정입니다[2][5][4].
+*   **기타:** 화승코퍼레이션 기장공장은 스마트 생태공장 구축 사업 대상지로 선정되어 친환경 에너지 공장으로 전환하는 등 탄소 배출 저감 및 환경 경영을 추진하고 있습니다[6].
+
+Sources:
+[1] [hwaseunggroup.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_k_qPyUAKqB_QEdD8SobiqQ9V6op7bDjttXxhv1VoJJkv03xfgfH8ik6ymKvfzgQaLbFe388tVBKbvH_1rF1ZdtS2egO0EHbtoMcKETwb72dVV6e202kI5_Ik8X2KI_31udhLp0cN)
+[2] [kaica.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HhObCm98SzAClKE32MbThJNKbylK_r_zgrykUhug_8nQgPT4cGKNx4oo7Z1y9_iKIDI_sPkZHGlR7zJYVo_fenmu8shnsdoQhyGpFMh_LCVhWfl3U1YcuK0HXqePMbgwl-xdcMKgvnEuPz0zCt5UJV-DpsbzlcAoOa81fszyfkCr)
+[3] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwdoy9HpNKGr4444i863llE9bkMBZ48SnHjqHhF3JxZoWudkkG6KofzveuTDXhzLDzGV4I8HQBw-WZE0mCy3vROiw22gj3GHa1qhgChb95F4-luUaNgSYe1XgjdIltjTBc-agsXBWnXg==)
+[4] [busanbiz.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG01mF8EBAlEfZE3Rh-lv97enAPa7yLtWFistt0xCv17dM4-Nbpoc94arEEFeQ_62uEu03yGhaJTHeqO9cCwukmGe1iPznYF4ze0eH0HxOPCImWDBMX9xOPewCT8NxfldcJXAOWclBO_ODIrjsR)
+[5] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbECPVqjINAJ-1clXYxd6394j4Lj81lzn7cR-CKQYzGlMHQ7WnOel8aDNXQ2GlQut4I1PrzSYM3Bm3TefKa-7zi1Wg9lM-_QxdT3kxdUplJc6NUAbUufrvcQ4MRA==)
+[6] [hwaseunggroup.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7C6E8jRO3NL08H6pa8aAMS4p3EYCBKR9pMLFfHGGyQvfjMimpxx3jndfs2mrgSeGVr7FTPhkF2bpmx4wwwW4etGpk0scBRcwb_TFxEoyr2wdOQcxGfcpONugKaC4hEPxCS3yjbn-AUZ6SLQQpb4Zx-TUtJYnFcKoPEUXGtMge_9g=)

@@ -1,0 +1,12 @@
+### Result
+"더콜 - 우리가 만드는 전화번호부 | 후원하기\n\n검색할 전화번호를 입력하세요\n\n \n\n현재 등록된 전화번호: 총 2,227,523 개\n오늘 등록된 전화번호: 총 55 개\n어제 등록된 전화번호: 총 585 개\n\n더콜 스팸 전화번호부\n\n더콜은 우리의 노력으로 세상을 올바른 방향으로 나아가게 할 수 있다고 믿습니다.\n\n이를 위해 2009년부터 보이스피싱·스팸 의심 전화번호 검색을 제공하고 있습니다.\n\n여러분이 받은 전화번호를 검색·등록해 또 다른 피해가 발생하지 않도록 해주세요.\n\n화이트리스트 전화번호부\n\n현재 등록된 전화번호: 총 267,439 개\n\n정확한 정보 제공을 위해, 광고가 아닌 것으로 확인된 안전한 전화번호를 제공합니다.\n\n모바일 앱\n\n안드로이드: 더콜 공식 앱\n질문 및 제안: 안드로이드 게시판\n\n아이폰: 현재 미지원 상태\n질문 및 제안: 아이폰 게시판\n\n신고 대응 기관\n\nKISA 불법스팸대응센터\n금융감독원 보이스피싱 지킴이\n경찰청 전기통신금융사기 통합대응단\n공정거래위원회 전화권유판매 수신거부\n\n0704198**6"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.title + \' | \' + document.body.innerText.slice(0, 500)');
+```
+### Page
+- Page URL: https://www.thecall.co.kr/bbs/board.php?bo_table=phone&sca=&sop=and&sfl=wr_subject&stx=07041729541
+- Page Title: 07041729541 / 070-4172-9541 번호 정보 | 더콜 전화번호부
+- Console: 2 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-20-55-726Z.log#L37-L61

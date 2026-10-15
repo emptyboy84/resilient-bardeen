@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Search length: 25162
+ 200135 [신규]뉴스본다코리아 2021-10-05 2021-10-21 34 오픈완료 
+

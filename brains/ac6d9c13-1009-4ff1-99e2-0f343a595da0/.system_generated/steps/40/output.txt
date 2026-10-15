@@ -1,0 +1,86 @@
+
+The command exited with code 0.
+Output:
+Parsed 77 companies to find.
+Loading excel...
+Searching in worksheet...
+Built index: 1275 by corpNo, 19196 by name
+[NOT FOUND in Excel] 1200 | 와이피엔터테인먼트(주) | 180111-1362374
+[NOT FOUND in Excel] 1201 | 시니어편의점(주) | 180111-1134608
+[NOT FOUND in Excel] 1225 | (주)엠에스테크놀로지 | 180111-1220754
+[NOT FOUND in Excel] 1254 | (주)더플로우 | 180111-0168647
+[NOT FOUND in Excel] 1257 | (주)와컴퍼니 | 180111-1426378
+[NOT FOUND in Excel] 1264 | (주)한국바이오생활건강 | 180111-0160198
+[NOT FOUND in Excel] 1267 | (주)나인에잇 | 180111-0160781
+[NOT FOUND in Excel] 1274 | (주)해운대스위트호텔 | 180111-0167464
+[NOT FOUND in Excel] 1276 | (유한)가람인터넷정보사 | 180114-0009377
+[NOT FOUND in Excel] 1280 | (주)라이센서 | 180111-1444205
+[NOT FOUND in Excel] 1283 | (주)범림 | 180111-1357325
+[NOT FOUND in Excel] 1288 | (주)빅토리아호텔 | 180111-1521748
+[NOT FOUND in Excel] 1305 | 하우스오브백스테이지(주) | 180111-1404019
+[NOT FOUND in Excel] 1346 | (주)브릿지빌더스 | 180111-1309152
+[NOT FOUND in Excel] 1366 | (유한)사람과 인터넷 | 180114-0007066
+[NOT FOUND in Excel] 1434 | (주)하늘경제 | 180111-1301611
+[NOT FOUND in Excel] 1454 | (주)새롬홀딩스 | 180111-1429025
+[NOT FOUND in Excel] 1455 | (유책)준토 | 180115-0000202
+[NOT FOUND in Excel] 1457 | (주)센텀미디어 | 180111-1197367
+[NOT FOUND in Excel] 1461 | (주)소프트퀘이사 | 180111-1315547
+[NOT FOUND in Excel] 1462 | (주)미코컴퍼니 | 180111-1181005
+[NOT FOUND in Excel] 1465 | (주)더문컴퍼니 | 180111-1420271
+[NOT FOUND in Excel] 1467 | (유한)가르다 | 180114-0018138
+[NOT FOUND in Excel] 1473 | (주)씨엠인베스트먼트 | 180111-1399054
+[NOT FOUND in Excel] 1475 | (주)헬레나 | 180111-1389998
+[NOT FOUND in Excel] 1477 | (주)보다헬스 | 180111-1487966
+[NOT FOUND in Excel] 1481 | (주)리체 | 180111-1569540
+[NOT FOUND in Excel] 1482 | (주)에스티에스 | 180111-0168303
+[NOT FOUND in Excel] 1628 | (주)제이엔와이 | 180111-1569433
+[NOT FOUND in Excel] 1659 | (주)플루투스코리아 | 180111-0161451
+[NOT FOUND in Excel] 1667 | (유한)라군 | 180114-0014730
+[NOT FOUND in Excel] 1680 | (주)신다인 | 180111-1342128
+[NOT FOUND in Excel] 1697 | (주)왓컴퍼니 | 180111-1221330
+[NOT FOUND in Excel] 1852 | (주)코드스테이션 | 180111-1551373
+[NOT FOUND in Excel] 1895 | (유한)팜므온 | 180114-0015275
+[NOT FOUND in Excel] 2000 | (주)오엔솔루션 | 180111-0165441
+[NOT FOUND in Excel] 2261 | (주)미스터엔터 | 180111-1446962
+[NOT FOUND in Excel] 2270 | (주)엑센트리아빠문화산업전문회사 | 180111-1234317
+[NOT FOUND in Excel] 2272 | (유한)천상의에이아이 | 180114-0004029
+[NOT FOUND in Excel] 2273 | 아인북(주) | 180111-0163148
+[NOT FOUND in Excel] 2278 | (주)티디엔터테인먼트 | 180111-0168506
+[NOT FOUND in Excel] 2284 | 유튜브리(주) | 180111-1478379
+[NOT FOUND in Excel] 2288 | 유아이리서치(주) | 180111-1553048
+[NOT FOUND in Excel] 2289 | (주)라햄 | 180111-0166978
+[NOT FOUND in Excel] 2320 | (주)퍼펙트사인 | 180111-1511393
+[NOT FOUND in Excel] 2338 | (주)소프트에러 | 180111-0169153
+[NOT FOUND in Excel] 2559 | (주)포인베스트 | 180111-1265536
+[NOT FOUND in Excel] 2565 | (주)태원엠에스 | 180111-1408300
+[NOT FOUND in Excel] 2605 | (주)부산교통솔루션 | 180111-1336890
+[NOT FOUND in Excel] 2746 | (주)오마르에이지아이 | 180111-0168184
+[NOT FOUND in Excel] 2920 | (유한)브랜딩 | 180114-0028880
+[NOT FOUND in Excel] 2986 | (주)엘이디메인터넌스워크플로우 | 180111-0168942
+[NOT FOUND in Excel] 2997 | (주)데빌스 | 180111-1461572
+[NOT FOUND in Excel] 3021 | (주)포인베스트 | 180111-1265536
+[NOT FOUND in Excel] 3027 | (주)태원엠에스 | 180111-1408300
+[NOT FOUND in Excel] 3062 | (주)부산교통솔루션 | 180111-1336890
+[NOT FOUND in Excel] 3219 | (유한)브랜딩 | 180114-0028880
+[NOT FOUND in Excel] 3238 | (주)데빌스 | 180111-1461572
+[NOT FOUND in Excel] 3261 | (주)엘이디메인터넌스워크플로우 | 180111-0168942
+[NOT FOUND in Excel] 3281 | (주)오마르에이지아이 | 180111-0168184
+[NOT FOUND in Excel] 3308 | (주)더타이탄 | 180111-0163592
+[NOT FOUND in Excel] 3315 | (주)트윈랩 | 180111-1509611
+[NOT FOUND in Excel] 3368 | (유한)그린리소스베이스 | 180114-0004575
+[NOT FOUND in Excel] 3392 | (주)비지파트너스 | 180111-0168802
+[NOT FOUND in Excel] 3395 | (주)의형제 | 180111-1323938
+[NOT FOUND in Excel] 3399 | (주)직장선배 | 180111-1454999
+[NOT FOUND in Excel] 3406 | (주)그로핀파트너스 | 180111-0168512
+[NOT FOUND in Excel] 3412 | (주)디엘솔루션 | 180111-1574755
+[NOT FOUND in Excel] 3444 | (주)로이텍소프트 | 180111-1220738
+[NOT FOUND in Excel] 3451 | (주)퀴니 | 180111-1508291
+[NOT FOUND in Excel] 3462 | (주)그레이트 | 180111-1461382
+[NOT FOUND in Excel] 3504 | (주)리걸테크 | 180111-0169205
+[FOUND] 3536 | (주)리피트 | 180111-1469881 => BizNo: 4878801562 (row 11510)
+[NOT FOUND in Excel] 3582 | 오(주) | 180111-0163867
+[NOT FOUND in Excel] 3601 | (주)세차콜 | 180111-1368546
+[NOT FOUND in Excel] 3640 | (주)모브랩스 | 180111-0169176
+[NOT FOUND in Excel] 3661 | 헬릭스베리피케이션그룹(주) | 180111-0169168
+Summary: 1 / 77 found in Excel.
+

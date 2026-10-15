@@ -1,0 +1,11 @@
+The search for ""네이버 지도" "중앙아이티" OR "네이버 플레이스" "중앙아이티"" returned the following summary:
+특정 업체의 **네이버 지도** 또는 **네이버 플레이스** 등록 정보나 위치, 상세 데이터를 찾고 계신 것으로 보입니다. 
+
+검색하신 **'중앙아이티'**는 주로 병원 전산·네트워크 구축[1][2], 카드단말기 및 전자동의서 시스템 등을 전문으로 하는 IT 기업 관련 내용이 많이 확인됩니다[1][3][2]. 
+
+만약 특정 지역에 있는 '중앙아이티' 업체의 네이버 플레이스 바로가기나 구체적인 위치·연락처 등 상세 정보가 필요하신 경우, **지역명(예: 서울 중앙아이티, 경기 중앙아이티 등)**을 함께 알려주시면 더욱 정확한 안내를 도와드리겠습니다.
+
+Sources:
+[1] [joongangit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhQ4UUzJUx5_Hi1Tnfz8TtvLKi3FpkIK-B6E6rabxm1FsQzjmSJhzuS7xZLrsT4kBJrhb3eeKqYCc5DWtFnPxqzAhitamePMM49TLckw==)
+[2] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPy8KZxPrq6htjlb8dTcfdh3UKKlZqZ9LBkhnqT1q0tVsBeupTJR1zPJN2SnepgYvGwGXO7PNArKKoEjN_Vx9Ch1FPN9R_d5n-1-X7IzsVXVrk9l3XntWG5paE_v4F)
+[3] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOkoXn5jK80EaAkoBQxWkTaJl2qomlj7s-0k1AevrgXiR8EeFX12ljjffZFeu2pxkVeU6XuGKK3P5x3Fvq27DMgRV9wttX51oe6ivLOfqx1LLi3vKbqfczmQ2oveSdaDH)

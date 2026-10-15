@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+
+
+Id               : 516
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 3972
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 22296
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 23928
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 37196
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 39316
+ProcessName      : Antigravity
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe
+
+Id               : 37012
+ProcessName      : language_server
+MainWindowTitle  : 
+MainWindowHandle : 0
+Path             : C:\Users\lg\AppData\Local\Programs\antigravity\resources\bin\language_server.exe
+
+
+
+

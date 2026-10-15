@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n  return links.filter(l => l.text.includes(\'키녹스\') || l.href.includes(\'kiscode\') || l.href.includes(\'EP0100M002GE\'));\n}');
+```

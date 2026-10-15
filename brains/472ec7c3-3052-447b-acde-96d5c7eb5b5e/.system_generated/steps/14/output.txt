@@ -1,0 +1,58 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                      LastWriteTime           L
+                                                                                                                      e
+                                                                                                                      n
+                                                                                                                      g
+                                                                                                                      t
+                                                                                                                      h
+--------                                                                                      -------------           -
+C:\Users\lg\AppData\Local\Programs\antigravity\locales                                        2026-10-15 � 8:47:37  
+C:\Users\lg\AppData\Local\Programs\antigravity\resources                                      2026-10-15 � 8:47:39  
+C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe                                2026-10-14 � 9:08:24 2
+C:\Users\lg\AppData\Local\Programs\antigravity\chrome_100_percent.pak                         2026-10-14 � 9:08:24 7
+C:\Users\lg\AppData\Local\Programs\antigravity\chrome_200_percent.pak                         2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\d3dcompiler_47.dll                             2026-10-14 � 9:08:24 4
+C:\Users\lg\AppData\Local\Programs\antigravity\dxcompiler.dll                                 2026-10-14 � 9:08:24 2
+C:\Users\lg\AppData\Local\Programs\antigravity\dxil.dll                                       2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\ffmpeg.dll                                     2026-10-14 � 9:08:24 3
+C:\Users\lg\AppData\Local\Programs\antigravity\icudtl.dat                                     2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\LICENSE.electron.txt                           2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\LICENSES.chromium.html                         2026-10-14 � 9:08:24 2
+C:\Users\lg\AppData\Local\Programs\antigravity\resources.pak                                  2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\snapshot_blob.bin                              2026-10-14 � 9:08:24 3
+C:\Users\lg\AppData\Local\Programs\antigravity\Uninstall Antigravity.exe                      2026-10-14 � 9:08:30 1
+C:\Users\lg\AppData\Local\Programs\antigravity\v8_context_snapshot.bin                        2026-10-14 � 9:08:24 7
+C:\Users\lg\AppData\Local\Programs\antigravity\vk_swiftshader.dll                             2026-10-14 � 9:08:24 5
+C:\Users\lg\AppData\Local\Programs\antigravity\vk_swiftshader_icd.json                        2026-10-14 � 9:08:24 1
+C:\Users\lg\AppData\Local\Programs\antigravity\vulkan-1.dll                                   2026-10-14 � 9:08:24 9
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\appx                                       2026-08-19 � 9:46:17  
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\bin                                        2026-08-19 � 9:44:12  
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\locales                                    2026-08-19 � 9:44:13  
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\resources                                  2026-08-19 � 9:44:13  
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\tools                                      2026-08-19 � 9:46:13  
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\Antigravity IDE.exe                        2026-08-13 � 9:25:36 2
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\Antigravity IDE.VisualElementsManifest.xml 2026-08-13 � 9:25:36 3
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\chrome_100_percent.pak                     2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\chrome_200_percent.pak                     2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\d3dcompiler_47.dll                         2026-08-13 � 9:25:36 4
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\dxcompiler.dll                             2026-08-13 � 9:25:36 2
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\dxil.dll                                   2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\ffmpeg.dll                                 2026-08-13 � 9:25:36 3
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\icudtl.dat                                 2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\libEGL.dll                                 2026-08-13 � 9:25:36 5
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\libGLESv2.dll                              2026-08-13 � 9:25:36 8
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\LICENSES.chromium.html                     2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\resources.pak                              2026-08-13 � 9:25:36 6
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\snapshot_blob.bin                          2026-08-13 � 9:25:36 4
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\unins000.dat                               2026-08-19 � 9:47:07 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\unins000.exe                               2026-08-19 � 9:42:12 3
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\v8_context_snapshot.bin                    2026-08-13 � 9:25:36 7
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\vk_swiftshader.dll                         2026-08-13 � 9:25:36 5
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\vk_swiftshader_icd.json                    2026-08-13 � 9:25:36 1
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\vulkan-1.dll                               2026-08-13 � 9:25:36 9
+
+
+

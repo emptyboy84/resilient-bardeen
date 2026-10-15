@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-13T12:31:17+09:00
+Prompt: Waiting for qa-inspector to finish review
+Early Termination: 9ae91d73-4136-4e50-abd8-f89cfdf3c90a
+
+[2026-10-13T12:30:27+09:00] Still waiting. Remaining time: 50s
+[2026-10-13T12:30:29+09:00] Timer cancelled: context done.

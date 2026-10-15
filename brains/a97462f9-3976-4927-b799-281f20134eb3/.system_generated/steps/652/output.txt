@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Matching blue targets in target CSV:
+[FOUND] 삼주 -> CSV [Seq 1626] 삼주 | Biz: 602-81-40485 | Current S24: [], S25: [], Note: []
+[FOUND] 넥슨커뮤니케이션즈 -> CSV [Seq 324] 넥슨커뮤니케이션즈 | Biz: 617-81-94173 | Current S24: [], S25: [], Note: []
+[FOUND] 블루솜 -> CSV [Seq ] 블루솜 | Biz: 617-81-57256 | Current S24: [], S25: [], Note: []
+[FOUND] 코시 -> CSV [Seq ] 코시 | Biz: 6078127134 | Current S24: [], S25: [], Note: []
+[FOUND] 큐로드부산지사 -> CSV [Seq ] 큐로드부산지사 | Biz: 1208824018 | Current S24: [], S25: [], Note: []
+[FOUND] 유티플러스 인터랙티브 -> CSV [Seq 2074] 유티플러스인터랙티브 | Biz: 214-87-95150 | Current S24: [], S25: [], Note: []
+[FOUND] 포텐츠 -> CSV [Seq ] 주식회사 포텐츠 | Biz: 592-81-00847 | Current S24: [], S25: [], Note: []
+[FOUND] 파크이에스엠 -> CSV [Seq ] 파크이에스엠 | Biz: 214-87-80017 | Current S24: [], S25: [], Note: []
+[FOUND] 빅잼 -> CSV [Seq ] 빅잼 | Biz: 6078601783 | Current S24: [], S25: [], Note: []
+[FOUND] 늘아이엔씨 -> CSV [Seq ] 늘아이엔씨 | Biz: 6068185602 | Current S24: [], S25: [], Note: []
+[FOUND] 숲과교육 주식회사 -> CSV [Seq ] 숲과교육 주식회사 | Biz: 355-87-02802 | Current S24: [], S25: [], Note: []
+

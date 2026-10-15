@@ -1,0 +1,15 @@
+The search for "site:play.google.com/store/apps/details "seyeonsoft" OR "파스텔걸"" returned the following summary:
+개발사 **세연소프트(SeyeonSoft)**의 대표적인 옷입히기 및 꾸미기 게임 관련 구글 플레이스토어 정보는 다음과 같습니다[1][2]:
+
+* **파스텔걸 : 옷입히기 게임**[1]
+* **파스텔파티 : 옷입히기 게임** (Pastel Party)[3]
+* **릴리스타일** (Lily Style)[2]
+* **파스텔프렌즈** (Pastel Friends)[4]
+* **릴리스토리** (Lily Story)[5]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzJ2Rf66EhTB6riyjnDOja2CPudPnZKaoIN3FAaJ4q7JvbYDD0PpZV_7hvSQ8HgZdkS2qznZK2bQQ_dq7AaxkFOXLPl8xo7CssmUf3R6Zcstr749LFSIzNlkstSWoxuxlJUplw4PjcXw6T0a0SrysM-pqNGHJQ1zCy4HwyTlZa)
+[2] [seyeonsoft.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDmUGTqEgFQ0EoN_2I0TdAbCyXZUYPcZBJC-vpE0MJpbsPEFLsoq7MorQf2bejRuWjKVOZZUXJybiZU-MOrbzcC-5PDyU7RaJO05s0wUMD9RCXw==)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF8ipWsUWHe_bR9ztmad2L_79OwopOv6oIPbB4J2ceANK15MnXySd7Dok1mjUHrvsGvhCcRo7WPaBzJ8oXuvdHVlTOowTreSU1Skj6dkUz1QDNFIE1cC2cGxotyno71GEW6MXD3_9hMd6h4H3JcW7JH6LqP5onMfJxlb2Yolk=)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmb6j9FLi-tSEbsA_rQkAbZyOutyFQs_ne4VPy3O-SAeR0_Mh-7CeOjRI-auFmLCnFkgLzcRVce3_UqFfqP47Q-7tlV9_pRlvFSOEzO-4Din19NS24DuAU4cRa6AVs4Ok587FBPFjsnpISvwuc6RsGwcQodNG3CCVG8A==)
+[5] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkAZivgHfzqIX29kQKNyLq1Ikg2eKLaAQaTKrKgRvUsjfitwFC4pHrg3gfig4L4JxwoMVBH319mQlVAqsL4rEBN5UfqEYpaQ3rof7ZrxwlxRp6kwHywt2BBwUdrm5SdJ5WiH7Ydm4j3Q5lvs3T4ALCcT-9g_QHZexwnuS7MA==)

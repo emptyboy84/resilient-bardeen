@@ -1,0 +1,17 @@
+The search for ""우수경" "부산" OR "만화" OR "예술" OR "콘텐츠" OR "웹툰"" returned the following summary:
+'우수경'이라는 이름을 가진 인물 중, 언급하신 '부산', '만화', '예술', '콘텐츠', '웹툰' 등의 키워드와 직접적으로 연결되는 특정인은 확인되지 않았습니다. 검색 결과를 통해 확인된 주요 인물 및 정보는 다음과 같습니다.
+
+*   **KBS 기자:** 우수경 기자는 KBS 소속으로, 과거 모로코 지진 현장 등을 취재하거나 방송기자상(수능 생명과학 출제 오류 연속보도 등)을 수상한 바 있는 언론인입니다[1][2][3].
+*   **저자 및 교수:** 교육, 아동, 음악 교육 등 다양한 분야의 저서 집필이나 대학 교육 활동과 관련된 동명이인이 있습니다[4][5]. 
+*   **기타:** 가수, 교육청 소속 유치원장 등 다양한 분야의 동명이인이 존재합니다[6][7].
+
+만약 찾으시는 인물이 특정 예술계 활동이나 부산 지역의 콘텐츠/웹툰 관련 전문가라면, 소속 기관이나 더 구체적인 활동 분야를 함께 알려주시면 정확한 정보를 찾는 데 도움이 됩니다.
+
+Sources:
+[1] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWe8tewlkAH__Tdzqzvr9nBr1f20N_kl3HvoKPoI6OJ9MP3N1x7t8Y9FmymuusPiabPHMDxWmg-r7egicSHFROS3QO2Y2qpwGXY-wF4f2bfOZqBo0MIppeO-3d8G5EhmR_)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAhf6GKGSGm5uN3c0lvMJcX55gxk0I4jVFV_sFYB2MI14fFgz3GeHLiSn5yXumPsyD3dCE6LFVXx1xIS8j4kB57WEK77Usryefn9Cj-Yy73C0eXqNQZiBVlvSYqN1U89oO)
+[3] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegWkKU7_bv6-wKjUV2Mlyb0oa0qShi9K470xz-Mg8cei8TzwuLStsEShVSWvzi_TwC9f17W2ZLTQ4C4H2s0Z7r8Eh_5N_0ncQxiikmeb-bekvCmgy2tGeu_UNqEC7J2HJmJGr70qypGXwprVBKZXhwpYoKSrpHeDu8Le1P9yHJbGDOPhLFrR2YYHaf9nCtMxK-d2uDGhOvS9IwPIC)
+[4] [uhs.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyb-6YY1zRUOiR2d4IZSYWV8J6IyF2ntcnXq7vYDZTIwJB1apCTZtyKe3QYYy4QmCh83-MRazDXptPaU9pnoDJTJ0Rbn56NJ6KRjx-zKLulU-PzjpvLsRO_klN41OlyHin8Hgk58-IApeXEv9LsoXl3tncTeoYnKguu_TbTTmAbuwdbRDIZvGBKnkvnTkovRtTZc1L65Nr4jj27I_03SyUQeum5gBVB1gY_g4pZivJNRNM-Uik4UEyqgY5WRZFsJqf3OmTFo3IaI7VDuh7MgIi0GWws7Pnecm13W0TfnrFQGLzX56pAAEw0uwqWC385hiEO6akk5Sxrco02wKg8pya_8Mx1SBedlvTihnJo9JB2O3VytL7iNNTDbzHNTDobMd8oCx6xlmQHVqF63b7QIMLqroq_GJPUCXrzLj0fgxnQa5qPCja9kFRAyo3w4RYoS3x_dLmRnUw01e74xpRm2n9AwUqFnB8vxTgbvFJoApbPpJpW6P6lN4KiZjk6FMqm4ggvKeLBA5snLF3saUg5-3wzfudbqkq09o53xMZWtCBYpw=)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEWXw04XpFbY-KdEqCAKeDcg3VpPDOUCQvimyIkNrNc5OGV3uPBYwC3u2nrW0RyWrDBpwO3UucAxCUx66Q2A0p5qML1-9TUpcSKsWms3JrWns6bSAclsnOvjVjXJeQUAQN)
+[6] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeCaGKG_7i7d-K62RY8kmH02GbHt52DGCaUV_ON88B-RpyqBSbUvJGXvY37ftnNZQNlag9VZyqPsTrfM3vkByG1PrddO14-gVVx1IUvPZ1fguAKA6z_Dkcy6txYl7QVOPy)
+[7] [newsworks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbiHKwPUc2AtqNgtCQ2wmBT-6gdbe0X1No_U7divvdkN532KCF4IttKnp92ntZ1cIrwQyfJcFCh-kvWfVJJkYPpc4EjcBxl2UobmTzLQ-GInRvV-4PyqeVZImMoxISItAAJLzxMyWsskHnYePcoSJM9Px83A==)

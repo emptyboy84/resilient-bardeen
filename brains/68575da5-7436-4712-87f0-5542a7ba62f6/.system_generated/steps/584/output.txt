@@ -1,0 +1,10 @@
+The search for ""자성로141번길 11" "603호"" returned the following summary:
+해당 주소의 건물 정보는 다음과 같습니다.
+
+* **도로명 주소:** 부산광역시 동구 자성로141번길 11[1]
+* **지번 주소:** 부산광역시 동구 범일동 830-295[2]
+* **건물명:** 삼환오피스텔 (603호)[2]
+
+Sources:
+[1] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyW6-7vW86LsKcruqfnXcj5XiZLB8GS4LF9t84SJmTJ5jwZqcrcmjQ4hyl96tjItIbhcOCtOywA7D_2AUU8si-gTYgE4mGJAgWIbMYIK59GXWcYPfjtmPOuRBDSRsvN3YYGP1M4R5TRu99pwVzcpPiWQdua7lf9nhvppJ3IxqDBRSMaUjkn_FBk5LyNUEjZ-Ho0vgI3JYbj9uCvPWtgLQM6nEW1aETEPhw6dBf0IPgpMv0O7YRjH4XRL6Q572TjxSbywS8aTlQW97TU0AofPe5S70XIN3jW4xSN67I5zo9IbuLR2jfT6sVQqNrIQPi9HOtKSmnsQ==)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERYP77T3X07YD6sfEZgLSZ8RspXrpa5_sGcNQSYeO-nCzkHneBjJJoyESnBU_ZBUgHldyAOIZZacBc1Qq1mv61lLhVtcj1zlDlJIuqKEnqLpcEWr4-wGP9rUDmKYrp9AphYgqyYdoaxcRrgcwnk5zLoTUAT9jaAR7S_KfS1ov311Fufsh_kUE6aasTqyOmcDL0O6AYdXUN16byajBIBNpW9Ru4h6cGbh8Ki1j4pbegG-_p9BRVd_eKeaiinaCdZzSteFdO0zF1PIG79k_IqLFGdjk2hZhWz0tZWHu3YlPPrThh2Zeh_Q==)

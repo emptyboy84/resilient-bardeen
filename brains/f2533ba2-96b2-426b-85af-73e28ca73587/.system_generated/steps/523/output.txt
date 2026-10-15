@@ -1,0 +1,13 @@
+### Result
+{
+  "inputFound": false,
+  "id": null,
+  "name": null,
+  "placeholder": null
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[type="text"]\') || document.querySelector(\'#keyword\') || document.querySelector(\'input\');\n  return {\n    inputFound: !!input,\n    id: input ? input.id : null,\n    name: input ? input.name : null,\n    placeholder: input ? input.placeholder : null\n  };\n}');
+```
+### Page
+- Page URL: about:blank

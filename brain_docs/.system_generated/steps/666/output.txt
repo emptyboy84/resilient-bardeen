@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Large file: C:\Users\lg\.gemini\antigravity\brain\44470555-939d-4160-8744-09bb2f099064\scratch\History.db 48.03 MB
+

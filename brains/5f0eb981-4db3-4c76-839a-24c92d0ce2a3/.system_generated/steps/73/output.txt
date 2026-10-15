@@ -1,0 +1,16 @@
+The search for ""256-85" "제노레이"" returned the following summary:
+제시해주신 검색어 **"256-85"**와 **"제노레이"**와 관련하여 확인되는 직접적인 제품명이나 모델 번호는 검색 결과상에서 확인되지 않습니다.
+
+다만, 참고가 될 만한 관련 정보는 다음과 같습니다.
+
+*   **제노레이(Genoray) 정보**: 제노레이는 병원 및 치과용 엑스레이(X-ray) 촬영 장비, C-arm, 유방 촬영기 등을 전문으로 생산하는 의료기기 기업입니다[1][2].
+*   **사업자등록번호**: 제노레이의 사업자등록번호는 **215-86-06482**입니다[3][4][2].
+*   **관련 숫자**: 검색어에 포함된 '256'이라는 숫자는 제노레이의 덴탈 장비 설명 중 '256장의 횡단면 이미지'와 같은 기술적 사양에서 언급되기도 합니다[3].
+
+혹시 찾으시는 정보가 특정 제품의 모델 번호이거나 부품 번호라면, 제품의 정확한 명칭(예: Mobile C-arm 모델명, 덴탈 CT 명칭 등)이나 해당 번호가 기재된 위치를 확인하시면 더 정확한 정보를 찾으시는 데 도움이 될 수 있습니다. 추가적인 정보가 있다면 말씀해 주세요.
+
+Sources:
+[1] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFj7KFDS5y3SERsbct7rXueLO7jO5VjpnUGwmmZ15Sn_8rGJE45JoTZTFxeHo7vWsAGpvnaQoAche70ul5DGuQQT87lbi4cQni_FAFbQoLXVcZjPJ6PMroYQ==)
+[2] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqh9EdX7GNva_BKwGy4fJM_OJ6Um4QkdTWKRy3VzQ9CEtwB8Yzw_bpXw2MHELooSw6hmRrFfqA-GgqCrn2Fh2YwWUTXT9rVwkgBBzeaLEy7vHGS_9k8ywaOJV-nr6fMBDdipYNOY0Z4u2tpbmpcLeRVI78gUcBlQ==)
+[3] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0h3QgqNeT8IbwOjmtqBnCRWZN0EnXVxZ3JjQuEJSKWebPna2Fo2qGqEwCPR6aKlVOQij47QoKuBbWw-HrRbFZks7Z6XKhbQ1QtZawBVhbesObG_6INa2-PiA_zzn4QywumlR_CVwYYCWZPXQaBfE-)
+[4] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvtEz_2a_XVhJpshmfs_JnMkcjkmNkyZtBSgrxQAA1ePOJFFP8crXoWlnBfSk3CWrbeZfoVG8xD811pTEPyPGNDQtCcg-j_B1p8uaq3GMokZFDqDe0PeNn_gsCvIAzZuVIapuql_AdKj0=)

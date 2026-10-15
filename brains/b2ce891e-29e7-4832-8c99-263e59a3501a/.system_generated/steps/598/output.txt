@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+[eval]:3
+  320\t(주)보고\t조준형\t정상\t일반법인·주식회사\t551-81-02937\t180111-1505445\t응용
+  ^^^
+Expected ',', got '<lexing error: Error { error: (22..22, ExpectedUnicodeEscape) }>'
+
+SyntaxError: Invalid or unexpected token
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+

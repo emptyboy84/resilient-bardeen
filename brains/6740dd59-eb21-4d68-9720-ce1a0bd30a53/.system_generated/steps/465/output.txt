@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Blue rows count: 418
+Category distribution: {
+  '음악': 22,
+  '공연': 15,
+  '애니메이션': 11,
+  '출판': 91,
+  '영화': 13,
+  '광고': 25,
+  '게임': 20,
+  '캐릭터': 60,
+  '콘텐츠솔루션': 38,
+  '1인 미디어': 1,
+  '방송': 21,
+  '만화': 27,
+  '지식정보': 74
+}
+With bizno: 82
+Without bizno: 336
+

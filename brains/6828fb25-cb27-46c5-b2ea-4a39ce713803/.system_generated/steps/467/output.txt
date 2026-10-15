@@ -1,0 +1,8 @@
+The search for ""가촌리 1297-1" "1223" OR ("메기로 199" "1223호")" returned the following summary:
+검색 결과, 요청하신 주소와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **"메기로 199" "1223호"**: 해당 검색어 조합과 직접적으로 일치하는 결과는 확인되지 않았습니다. 다만, "메기로 199" 주소지(양산신도시삼정그린코아더시티)에 위치한 업체 정보는 검색 결과에 포함되어 있습니다[1].
+*   **"가촌리 1297-1" "1223"**: 해당 검색어 조합에 대한 구체적인 정보는 확인되지 않았습니다.
+
+Sources:
+[1] [kro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsdI06RogVG0lbl871e0Kv7IQdLYz7IKCA1JKYtYdnUhNcztI1DulrNbBDX_G8p6HyMrblOymSSfVqp-sNPXXdR7paIqFVZvtsdKwocI5oq4w24hddA00qDF9gifbZQb9UUJBdUrfwoVQrt99ahVJOPmzJoABoa6WbyK0eGxLw2K25aa7TQTzupfupjOkiJRZ75gqDBk3BRcL9OBTXK4rVmLUZzv3kDz_Xso1PktOAaYOpcwcaiTE8NjPWQ77MFg8l11cMwIKpyzh-H7Rnz_sSWw==)

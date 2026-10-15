@@ -1,0 +1,19 @@
+The search for ""우수경" "본명" 만화 OR 웹툰" returned the following summary:
+검색하신 '우수경'이라는 이름과 '본명', '만화' 또는 '웹툰'이라는 키워드로 확인한 결과, **만화가나 웹툰 작가로서 '우수경'이라는 필명을 사용하는 유명 작가에 대한 정보는 확인되지 않습니다.**
+
+관련 검색 결과에서 나타난 '우수경'은 다음과 같은 인물들입니다.
+
+*   **기자:** KBS TV 기자로 활동했던 인물입니다[1][2][3].
+*   **일반인:** 시 모임 참여자[4][5]나 성평등 정책 관련 시민 모임의 서명자[6] 등으로 이름이 언급된 바 있습니다.
+*   **기타:** 저자 목록이나 단양우씨 종친회 인물 명단 등에서 이름이 확인됩니다[7][1][3].
+
+만약 특정 웹툰 작가의 필명이나 본명이 궁금하신 것이라면, 해당 작가의 대표 작품명이나 연재 플랫폼 등 더 구체적인 정보를 알려주시면 추가로 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsJUgA7vrMur-F3ADlath8ktZP-glN7eB4GegGHmzw2vhN4CZsrEGaU5OZ5gJPT3wDpTcrLnityD2Yvv4mbPhF58VRRJFXexfya5QU3ImKYQLtdw1nx0BJVHhozirHdy7WLxDOAjxOBE2QYH38diGqoIMF)
+[2] [daverse.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bxmcJYcUgqdXyKES_0FfVAia3MJ9enatDcVh-UTaSaf1i-l8u7VknTm8-3XG6dJscED9_L2FImtJS8-PS8H74-z632xnXdsHz59fgUqYJBotYltyODVt2nuqY5ra7JR7Hgv7dIL5NY69BSehAsqPX2yeATMHX9HZnNqohQfHljzQ2wTwaLYkATpU)
+[3] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkVlP9VndTqD_I-UhaUYl_7RemUefaiDYSoSsSoT7yXljuHt3mxpIfRluWzYdXLld5_KSRYL_a0V1hQDjjFne-i7AT7HmO0CxBbCy4gUzJ2d2LvqdD_KgOwvmAMBxxmKvXpqSV-U0rhEfXWg==)
+[4] [ykbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxaCswdsXQR-JtVNfqW46Lj77Os0o-NsvJoxFH_KXQ03XzJhg7yfXhOlyUUyEYz6gkahSQz1-pyzG3yWdRg4Qrr4EWid9c2aQ05EfgFevftqElhyW32g1A2mBc_7UNCadxEim5lvB)
+[5] [ykbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxaCswdsXQR-JtVNfqW46Lj77Os0o-NsvJoxFH_KXQ03XzJhg7yfXhOlyUUyEYz6gkahSQz1-pyzG3yWdRg4Qrr4EWid9c2aQ05EfgFevftqElhyW32g1A2mBc_7UNCadxEim5lvB)
+[6] [women21.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHjBg4Y8GHF4vVD4cYy4M86AFeYY60Jo-iySK1n3oprHH3ahObqmpwVWBDPAvZasXhhjvAt_WwHpfnvsecgcuXPM9c683fFkFjZoVf6n5mlkDNiL5C7lBz1ZIt)
+[7] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1Aoo6QsLZnVTDl6ZYgEFH5HwA6-Zk-Usmnxn3AMf0JZai1LJ-MOQNMvQZKwPzcZC50abNJpeREg8ERxDjH8EeaiXh39GTCpfAoxFY-UgwW0Ibs453C8eVk8O8oQ1Ox_WN1dKN7a4NrW9e4neus_EnR76ftr9a0j2bznR9QV4v_YDRZCbJHhDVDu1MBEu8vB7HrsSWVKh2zPh-ds_5Nri71HEOiOqHtNV6tfAhwQA8rS6IlRmlexN1UJ-Gkl1oPhHfPs6bvMIEOQhfMpmn1psrm7dztlt-XzrSAU6jxjTzvquXyQDKOS_S3hQQzFTu4nlUCmAU9Ai7_wIIR2_Tdcz2TUS039mghhhHIsnmag8=)

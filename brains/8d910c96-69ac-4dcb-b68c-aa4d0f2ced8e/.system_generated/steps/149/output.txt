@@ -1,0 +1,14 @@
+The search for ""최유창" 만화 OR 웹툰" returned the following summary:
+검색 결과, '최유창'이라는 이름의 만화가나 웹툰 작가는 확인되지 않습니다[1][2][3].
+
+참고로, 드라마 '너의 목소리가 들려'의 등장인물 이름이 '최유창'이며(배우 최성준이 연기)[4][5][6], 그 외 공모전 담당자[1]이나 기업체 관계자[7][8] 등 동명이인들은 다수 존재하나 만화/웹툰과 관련된 인물은 찾을 수 없었습니다. 혹시 찾으시는 작가님의 작품명이나 다른 구체적인 정보가 있다면 추가로 검색해 드릴 수 있습니다.
+
+Sources:
+[1] [linkareer.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9P931zX7oPi5-L1Iocj_HwNdCCaXM66V6z4Pz5ddWOamWab8Vg82CsBgy5XWQgnIWx4xt1FZZsjEif18wscdaMjN7YbscZkUXXdmVxXANnVZ4JM7ozBHQaPQ=)
+[2] [arko.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6SGn23toRIEMu27rWZgs9wRWrtP7iSH1wYLPixo65jKIjSGuaFQ2DgapMf3CULYs7WdNJKkThbYu7BWqvlSNuOOeeDfZ7GA6mXOYOx04lA45FUIFC1iYt2NzQCD4os3CoTTm0Gj7KJQmh_RKNPeP4QHYV7ih8UJB8j-FOcbow5olS-Z6v8RR4sYwk_0esx5TV78oJrSSJuaW_AJBJcEEZsVU=)
+[3] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCvWQxtShZIfBkXhaIjcf4df0Wv4UxE1YZ6bz1h1zHMqOrna2rqtx6TnRcCLcreNc-67_zA9Epj4H3vxwLehuG-fan0vInSr3evYLUIhLhxsinCs8tvVwcQxG0tDLD6AN_35061Y=)
+[4] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoWZxYNb4XqHldbc6SXWlo2tERoWSIYvD-QYn5Z6ubI4R4u-_A5l4IeKsZYBP7w-I7GaaD5RO6KPb2j87dV9cqNuNLrlY-rtANX4z_WFBnq9x0wsQ3ZXNxXN9oZ-5uLlbonFpIKrl24aKYzB0=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECRcttKZ27YZxzyUKOgFodWKm-9C7mdNYYbHZS5EN5TUPG78Y1CdTRRC6EBj0fovTrJ8E06IOQPCQZMfYJjQ_xj6RvnWnr-OviBjO7-UE6XDxEiLC_OS8Re37QGlUAqSX6ayMCYifCmGgbpAP8f5n9Nz4G6rZzbF8NvyudMrjaUnFewSYOcIYOdVJOXk3pPGIrTGwMBxMdHPaSRoYXb0e9ubOq0Px5Xp7rfV56mDM0a9ApqgY=)
+[6] [sportsseoul.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuSaNEedxvnTM-nGu2YjkafxZghoRc7tSpRMl3pkpZA58GZnaaC-Z7MkjHKvyy5AHFg6fliYDDMfVKtfJvt9QO3WNAvEsJ8EkzPI7Xi0avgZsGcngRGsk-nz7FeSwsduNM)
+[7] [gist.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcJDXLrIY2pZLhygvL0We9r7pU1dl9GrBD0_08ixnEV-fn_33BSPM3-UYTkRKy8bcUWhlGT4tS4zuEUOhUyykeMrmXvwuC6si9bs41zhhhxjY-zr9DNlIwpL56lEGtnzERZq5kM4gANs2I-CpWzSy16jnnEwN-42OQxKKsBQTYLMG62nJayQ==)
+[8] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETkGG7sZy-Gdq3G1P4PjVhYfW72ED_55NTi4WIKbqahZ02MC7WqV7VIF0QXwA014oDq6exYJc0lD9mXKAhTqnX0W7FoiBNSFLo94cxzQYvsdILjRs3ENYXkPQ8gTYRU1giTMnT)

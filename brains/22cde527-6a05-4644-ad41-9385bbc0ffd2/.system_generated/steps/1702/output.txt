@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                                                         Length LastWriteTime      
+----                                                                                         ------ -------------      
+(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž.xlsx 302793 2026-09-14 � ...
+
+
+

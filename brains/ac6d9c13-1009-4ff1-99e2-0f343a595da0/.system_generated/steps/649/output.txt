@@ -1,0 +1,6 @@
+### Result
+"object"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return typeof window.__NUXT__;\n}');
+```

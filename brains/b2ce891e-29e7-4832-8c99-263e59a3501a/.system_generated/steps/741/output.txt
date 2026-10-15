@@ -1,0 +1,17 @@
+The search for ""중소조선연구원" "창업보육센터" ("전화번호" OR "문의" OR "행정실")" returned the following summary:
+중소조선연구원 창업보육센터 및 관련 부서 문의처 정보는 다음과 같습니다[1].
+
+* **주소:** (46757) 부산광역시 강서구 녹산산단 232로 38-6 (중소조선연구원 본원 내)[2][1]
+* **창업지원 관련 문의 (예시 연락처):** 
+  * 전화번호: 051-974-5503 (또는 대표번호 051-974-5500)[2][1]
+  * 팩스: 051-974-5555[1]
+* **중소조선연구원 대표 콜센터:** 051-974-5599[3]
+
+*참고: 조선대학교 창업보육센터 등 명칭이 유사한 타기관과 혼동될 수 있으니[4], 조선 및 해양레저장비산업 분야의 중소조선연구원 관련 문의 시 부산 본원(녹산산단) 쪽 연락처를 확인하고 이용하시기 바랍니다[1][5].*
+
+Sources:
+[1] [rims.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVDIlbb4fnHGtsv9y9OgV7bI-JZevf5kmSaVyZaYyXUpXO7ba4FO6zE3ynjDHmnepKzbiNcgRsMpwd638upktUREX_AWkLkjI0zRmJf7FAiEXUzu9ZCsat_Ggrrgmo5NIeTXS06DNEJIYYNaaz8j3_zedlTR2upx9poo=)
+[2] [doi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt8LEGN2vJ4r6VnsgDGmC0i2jDD9ArUQTCuuGO18w89eZXQCG7esqqK1QFQXlRKeEgPYQAScfPQ_Z1rTJOSsHQMbCrU9kz1YhjzIIfzxN80-9nYcMIAAXCgHOeNnOSr8QSoc6oIBs733Kw)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdkGA1s6mhxp8KpW7dPyUWc8gUKGK8ANfdIMh7QTvq_lLisjdEUtaQEZe1Mxl8Rjgu9eOyIzeUmBt7tX9oI3NlUs3jm4ppl5qnye6KHwW03xYTpdOq-B_PjL2yW8lxVIEFwhJ17FM4KpWCGW5p4eLuoCP8ZVZE3uU_hNP5wSea0rkAgrgc3Ss=)
+[4] [chosun-cubi.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbgDJgaIYDifqkAiPSu0jxu4odvPemkUwDBWoHYmVKGr_K8MhGop45GkpCYbFH_OwIuRg1bp1HE9w-4X3eKrFOFtRI6rhw04y9WZJI6a1n5Gb4H_-YCgvS2BGDou2n7j_8Z_3oDXicTg==)
+[5] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_JoC79qKoRfbWXDn-0lK9LQORa3IMBBbD_rJTf_BNGBonX3QyW4E87J1AU0KRbfN_a0QhKbKLAK363SrILYDci8lPjvH3IcQTPdQ=)

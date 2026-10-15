@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Row 1797: Col0=[e], Col1=[1796], Col2=[도서출판양업서원], Biz=[617-85-19793]
+Row 1799: Col0=[`], Col1=[1798], Col2=[상상매거진], Biz=[605-26-52661]
+

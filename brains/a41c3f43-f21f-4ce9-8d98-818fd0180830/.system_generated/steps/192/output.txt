@@ -1,0 +1,5 @@
+Script ran on page and returned:
+```json
+undefined
+```
+Page navigated to https://search.naver.com/search.naver?query=%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%A0%9C%EC%9D%B4%20%EB%B3%80%EC%A2%85%EC%84%AD.

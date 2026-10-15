@@ -1,0 +1,12 @@
+### Result
+Waited for 30 seconds (requested 2000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://www.thecall.co.kr/bbs/board.php?bo_table=phone&sca=&sop=and&sfl=wr_subject&stx=07041729541
+- Page Title: 07041729541 / 070-4172-9541 번호 정보 | 더콜 전화번호부
+- Console: 2 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-21-41-897Z.yml)

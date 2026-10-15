@@ -1,0 +1,15 @@
+The search for ""제이이테크" "박정언" "신설법인" OR "180111-1479301"" returned the following summary:
+검색 결과, **'제이이테크'** 및 **'박정언'**, 그리고 법인 관련 데이터나 신설법인 정보와 직접적으로 일치하는 공신력 있는 상세 공개 데이터베이스(특정 법인등록번호 등)는 웹 상의 일반 공개 검색 범위 내에서 명확하게 조회되지 않습니다. 
+
+다만 유사 상호나 관련 키워드로는 다음과 같은 기업 및 정보들이 존재합니다:
+* **제이이테크 / 제이제이이테크**: 디스플레이·전기전자·반도체 등과 관련된 중소기업 및 관련 법인명[1][2]
+* **박정언**: 법무법인 이진의 대표변호사 활동[3] 및 일부 세무사무소 명칭[4], 과거 지역 신설법인 데이터 내 동명이인 대표자 기록 등[5]
+
+입력하신 고유 번호(`180111-1479301` 등)나 정확한 법인 세부정보를 확인하시려면 대한민국 법원 인터넷등기소나 국세청 홈택스(사업자등록 상태조회), 혹은 기상청·공공데이터포털 등의 기업 정보 조회를 이용하시는 것을 권장합니다.
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB5Y_RUW2WrSjA374IVd3slNHbvwMwmDjlWlW9UO6IMz1J6lKvKhhDR1JEOKEEVazUwE1sFSOvgrh7-sc648C1ExLJcr-oycLSVPQJ9jKX3ibAQkjxOIfQ3fapO774iwFKCA==)
+[2] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjD9DJ3XYNkdCNptxggd0KvrJLOm7rwN8UPjZ0lX4Q9lxa2FTGNmcPbdaAyyy9u8dF31SY_j5cdNgvj7gVOoXyIpEEenDyx2uiDu5chNmC3Eu5gz7iLUAcyB9Va0Yg)
+[3] [ejinlaw.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExfzwE3bwrXxmKO-CmE4nBdLmLRvpD51dp9jp1E4HLq29q6SMo1KlLJv-JXmh7dNOsYAfyanPuU77I1M9lxFehrBsX8cg9eii15cI-AEE3n3ocT44qFoNQDrw54An3cT1wuU2vYw==)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9v0cIWgUFGUG5GGyLC9_0eUENHgExZPWkJbNqlJ0_5-1yf50aUskRlMiFZRSuhlhbnU-Td5r8qR0Z00Z0OTHV05Qa1sHpy0WvThFyNmGYUVv4NsGXatK7MZTTCPyH21gZIarptuDxh5NK)
+[5] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4w1xDqkY_bwubQLbIDDdKOxAmTyCRGXZZmfolXOQvFU7IgYWIFweRSdLLmyFi3q8Pmb3srj0SVT6jzFJTiEx8J1_hh__lk-K8dx1jkZ-bPCzKTpJ1HxREjWnr)

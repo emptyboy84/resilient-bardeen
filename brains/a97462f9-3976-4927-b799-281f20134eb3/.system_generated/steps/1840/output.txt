@@ -1,0 +1,13 @@
+The search for ""디어 마이 유니버스" "우수경" 출판 OR CP OR 제작" returned the following summary:
+우수경 작가의 웹툰 **<디어 마이 유니버스>**와 관련된 출판 및 제작 정보는 다음과 같습니다.
+
+*   **출판사:** 주요 출판(유통)처로 **위즈덤하우스**가 기재되어 있습니다[1][2][3].
+*   **작품 정보:** 이 작품은 우수경 작가의 BL 웹툰으로, 총 60화로 완결되었습니다[1][4][2].
+*   **기타:** 일부 플랫폼 정보 등에서 'JUSTOON'이 언급되기도 하나[5], 통상적인 출판사로는 위즈덤하우스로 명시되어 있습니다[1][3]. 별도의 'CP(콘텐츠 제공사)'나 '제작사'에 대해 구체적으로 공개된 정보는 확인되지 않습니다.
+
+Sources:
+[1] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCvX9M7dazhenEChL-5rORttm7M4N1QhWmAc1U3l_Z7jsnIH9k0YSm-FVk-xqyrxzJKB6nkH07uBEBqBQAFHImWydRW6k1VmF5vjjF3NpTUBI95eGDd9H9G2TJ0A==)
+[2] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO-qSA_a_7ztPyn0mdSQ4cxEx6YI1HOZN9QI3jleyr_dvGoW9YqxrvoR6UJXxtAmkch0kJw_QAIchYkC1z_3rLn63_ZuXuD09yTptgoCpTcG3t76WBI_uYYg==)
+[3] [naver.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4l43YebR8rSozzTdqTdK83KxWVYCJRdPDzp89RmdnmvMXonBIZnFQ_55R1TUlFpu29Jl1pTrPEREFFm3MnLLjYkBt9O1XPqsnxLThEiz0QNZzrUOOPVh42qYnRTdwTZRhuG8HMMoLz7fc8zw6AjZ-8cB_lhLZNY-MoGIBOyePGIL8)
+[4] [naver.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqJH2wCvW4yyXIu9jQlG3QfAoWWMbKmhij2MHKCEnxN_GRLrBJ0j9qOzmmQnyLLFjxqEAPnT03x8lxYJp5gXwPCTslUaN2U7oZK46YiiQ-kvklpt_AUFmdVnF4QjrW1oot5K4WfdA1px3agqtae7dOd6Y6hQ==)
+[5] [nate.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKkY-EW5-CYX1dGJ2-Q69GhaJ5Ih7yMQTJAuo0MEX9oMBE_kgJWU9Vq-gHAQBQfVMJx_VyRgcpB6mRrmsJKSRwY-BiOO3lqBCDnUTpDun-CeHVpmmKLKplNFxSoWyO5Wd5eQ==)

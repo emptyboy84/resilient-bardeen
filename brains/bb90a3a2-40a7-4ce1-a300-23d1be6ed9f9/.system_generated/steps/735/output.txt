@@ -1,0 +1,20 @@
+The search for "site:play.google.com "썬더게임즈" OR "THUNDER GAMES"" returned the following summary:
+구글 플레이(Google Play)에서 **"Thunder Games"** 또는 관련 개발사/게임을 검색한 결과는 다음과 같습니다:
+
+1. **Thunder Games** (모바일 캐주얼 게임 개발사)
+   - 방글라데시 다카에 위치한 인디 게임 스튜디오로, 하이브리드 캐주얼 및 액션·슈팅 모바일 게임 등을 제작 및 퍼블리싱하고 있습니다[1].
+   - 구글 플레이 스토어에서 *Fishy Business: Ocean Hunt*, *Rescue Cop: Shooting Game* 등 다양한 타이틀을 선보였습니다[1].
+
+2. **Thunder Games Co.**
+   - 구글 플레이에 퍼즐 및 캐주얼 게임(*Cellar Sort: Organize Shelves*, *Cheap Car Repair Garage Game* 등)을 서비스하는 개발 계열입니다[2].
+
+3. **Thunder Game Studio / Thunder Game**
+   - 구글 플레이상에서 클라우드 번개 반사 캐주얼 게임(*Thunder Game*) 등을 등록해 둔 개별 개발자 및 스튜디오 명칭입니다[3][4].
+
+*(참고: 국내 프로게임단이나 특정 대형 한국 기업명인 '썬더게임즈'라는 명칭보다는 주로 해외의 인디 게임 개발사 및 퍼블리셔 명칭으로 구글 플레이 스토어에 등록되어 있습니다.)*
+
+Sources:
+[1] [tg.studio](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2ViLvGUhfTIloHmDM3xceAgXU6r4SIguiZ8gSZajpZ656h4c97n0UBA-uxLlepWHNZKSKKz3kDsKJ3XWBAIBWDrL_bFLeK3Q=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDBn2TggpBZpzArCM7SAajHTan-J8QMj17tYtYfcg4LnVcnhgF3bemsNZDIBrUJ1ZimYd0wu6r4d_4DpYnVyFM5Ll9NUekK3_KPSkLoLf9irWWfdsJLAAcE6AXGoyfTAoXTj4FKod8m7RjqWx1KWnOo6lo)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDH5kYpG788NJZlsVQOlCz7aeqtP0pP9KHrr_Lb-iFGdx9K2qZevwU8kDDXTPvJKMwjKRdoxsperXOrXAybgarTYbRVD0VTQR3nCn71wNLCyPXlqfGC9Alav0LkobBblwcSv-veshfFp92tEVejgzjd_mpPlxLRxhs9_98_SOe)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfQPo_qYilmtILRMKBHIBV7hk5UX3_mYiStxl_qBEjWbLumhO_jBRa7CraUYdmSgqJBEnd_1fypDuTq3wmP9O5cFA4xaD0CsvH5BufZBb4mFsDnzIbLs1ObxlrW2y-U5rbYgVLB1JaG8UrZ6P_mxFQOoLeGyYzSyaE)

@@ -1,0 +1,60 @@
+
+The command exited with code 0.
+Output:
+Comparing files:
+1 (Target): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_261012_전략팀 전달_배현명.xlsx exists: true
+2 (Deep 4th): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사_심층4차.xlsx exists: true
+3 (Verified): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx exists: true
+4 (1014): C:\Users\lg\Desktop\Today\부산기업_전화번호검증_완료본_20261014.xlsx exists: true
+ws1 rowCount: 3979 ws2 rowCount: 3979
+--- Target file ws1 around row 280-286 ---
+ws1 R278: seq=277, name=(주)시우이엔티, biz=617-81-52019, phone=051-783-0079
+ws1 R279: seq=278, name=(주)티지에스컨설팅, biz=829-81-01199, phone=051-711-5860
+ws1 R280: seq=279, name=삼인이엔에스(주), biz=606-86-00156, phone=051-743-3111
+ws1 R281: seq=280, name=블루마린시스템(주), biz=606-81-84791, phone=051-832-0905
+ws1 R282: seq=281, name=인코어, biz=602-08-79589, phone=070-4693-7034
+ws1 R283: seq=282, name=(주)스페이스포트, biz=330-81-01777, phone=070-7122-7679
+ws1 R284: seq=283, name=(유책)블루바이저시스템즈, biz=123-88-00446, phone=1855-4949
+ws1 R285: seq=284, name=정안정보시스템, biz=665-01-02909, phone=051-740-5332
+ws1 R286: seq=285, name=부산인터넷방송국, biz=605-12-95095, phone=051-316-2763
+--- Deep 4th ws2 around row 280-286 ---
+ws2 R278: seq=277, name=(주)시우이엔티, biz=617-81-52019, phone=051-783-0079
+ws2 R279: seq=278, name=(주)티지에스컨설팅, biz=829-81-01199, phone=051-711-5860
+ws2 R280: seq=279, name=삼인이엔에스(주), biz=606-86-00156, phone=051-743-3111
+ws2 R281: seq=280, name=블루마린시스템(주), biz=606-81-84791, phone=051-832-0905
+ws2 R282: seq=281, name=인코어, biz=602-08-79589, phone=070-4693-7034
+ws2 R283: seq=282, name=(주)스페이스포트, biz=330-81-01777, phone=070-7122-7679
+ws2 R284: seq=283, name=(유책)블루바이저시스템즈, biz=123-88-00446, phone=1855-4949
+ws2 R285: seq=284, name=정안정보시스템, biz=665-01-02909, phone=051-740-5332
+ws2 R286: seq=285, name=부산인터넷방송국, biz=605-12-95095, phone=051-316-2763
+ws1 valid rows: 3978, empty phone count: 3178
+--- Checking where phones are filled in ws1 ---
+Last filled seq in ws1: 3978
+--- Checking rows around seq 270 to 300 in ws1 ---
+Seq 275 (Row 276): Name=(주)넥솔 | ws1_phone=070-8670-1045 | ws2_phone=070-8670-1045
+Seq 276 (Row 277): Name=(주)아시미르 | ws1_phone=070-7618-3400 | ws2_phone=070-7618-3400
+Seq 277 (Row 278): Name=(주)시우이엔티 | ws1_phone=051-783-0079 | ws2_phone=051-783-0079
+Seq 278 (Row 279): Name=(주)티지에스컨설팅 | ws1_phone=051-711-5860 | ws2_phone=051-711-5860
+Seq 279 (Row 280): Name=삼인이엔에스(주) | ws1_phone=051-743-3111 | ws2_phone=051-743-3111
+Seq 280 (Row 281): Name=블루마린시스템(주) | ws1_phone=051-832-0905 | ws2_phone=051-832-0905
+Seq 281 (Row 282): Name=인코어 | ws1_phone=070-4693-7034 | ws2_phone=070-4693-7034
+Seq 282 (Row 283): Name=(주)스페이스포트 | ws1_phone=070-7122-7679 | ws2_phone=070-7122-7679
+Seq 283 (Row 284): Name=(유책)블루바이저시스템즈 | ws1_phone=1855-4949 | ws2_phone=1855-4949
+Seq 284 (Row 285): Name=정안정보시스템 | ws1_phone=051-740-5332 | ws2_phone=051-740-5332
+Seq 285 (Row 286): Name=부산인터넷방송국 | ws1_phone=051-316-2763 | ws2_phone=051-316-2763
+Seq 286 (Row 287): Name=(주)비엔씨정보기술 | ws1_phone=051-518-4071 | ws2_phone=051-518-4071
+Seq 287 (Row 288): Name=(주)엠투텍 | ws1_phone=null | ws2_phone=051-944-7525
+Seq 288 (Row 289): Name=(주)만랩 | ws1_phone=null | ws2_phone=051-990-1050
+Seq 289 (Row 290): Name=(주)디노 | ws1_phone=051-896-7802 | ws2_phone=051-896-7802
+Seq 290 (Row 291): Name=(주)글리처프롭 | ws1_phone=1600-6780 | ws2_phone=1600-6780
+Seq 291 (Row 292): Name=(주)시스인포 | ws1_phone=051-643-0531 | ws2_phone=051-643-0531
+Seq 292 (Row 293): Name=(주)에스이에프 | ws1_phone=051-782-3419 | ws2_phone=051-782-3419
+Seq 293 (Row 294): Name=(주)유네이드홀딩스 | ws1_phone=null | ws2_phone=
+Seq 294 (Row 295): Name=(주)딥다이브랩 | ws1_phone=null | ws2_phone=070-7139-4659
+Seq 295 (Row 296): Name=(주)포커스정보 | ws1_phone=051-312-9527 | ws2_phone=051-312-9527
+Seq 296 (Row 297): Name=(주)대단한놈들 | ws1_phone=051-328-3286 | ws2_phone=051-328-3286
+Seq 297 (Row 298): Name=(주)위캔 | ws1_phone=070-7834-7855 | ws2_phone=070-7834-7855
+Seq 298 (Row 299): Name=(주)닷코 | ws1_phone=null | ws2_phone=070-8801-4828
+Seq 299 (Row 300): Name=코니 | ws1_phone=null | ws2_phone=
+Seq 300 (Row 301): Name=(주)디아이솔루션 | ws1_phone=051-712-2503 | ws2_phone=051-712-2503
+

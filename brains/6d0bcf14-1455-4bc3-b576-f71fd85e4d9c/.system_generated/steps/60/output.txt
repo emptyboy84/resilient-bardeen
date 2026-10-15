@@ -1,0 +1,27 @@
+
+The command exited with code 0.
+Output:
+--- Rows 275-295 in 부산기업_전화번호검증_완료본_20261014.xlsx ---
+R275: seq=274, name=(주)파이시스소프트, phone=070-4647-2717
+R276: seq=275, name=(주)넥솔, phone=070-8670-1045
+R277: seq=276, name=(주)아시미르, phone=070-7618-3400
+R278: seq=277, name=(주)시우이엔티, phone=051-783-0079
+R279: seq=278, name=(주)티지에스컨설팅, phone=051-711-5860
+R280: seq=279, name=삼인이엔에스(주), phone=051-743-3111
+R281: seq=280, name=블루마린시스템(주), phone=051-832-0905
+R282: seq=281, name=인코어, phone=
+R283: seq=282, name=(주)스페이스포트, phone=070-7122-7679
+R284: seq=283, name=(유책)블루바이저시스템즈, phone=1855-4949
+R285: seq=284, name=정안정보시스템, phone=051-740-5332
+R286: seq=285, name=부산인터넷방송국, phone=051-316-2763
+R287: seq=286, name=(주)비엔씨정보기술, phone=051-518-4071
+R288: seq=287, name=(주)엠투텍, phone=051-944-7525
+R289: seq=288, name=(주)만랩, phone=051-990-1050
+R290: seq=289, name=(주)디노, phone=051-896-7802
+R291: seq=290, name=(주)글리처프롭, phone=1600-6780
+R292: seq=291, name=(주)시스인포, phone=051-643-0531
+R293: seq=292, name=(주)에스이에프, phone=051-782-3419
+R294: seq=293, name=(주)유네이드홀딩스, phone=
+R295: seq=294, name=(주)딥다이브랩, phone=070-7139-4659
+Total rows: 799, Filled: 548, Empty: 251
+

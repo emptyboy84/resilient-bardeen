@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM9eVvWaF9DBXhh9Nsp30w6yxoOseTX3fDtrcs2IyqUj6ViwG8iGlE7e_hP1vZ4hbqhz9qh92jc6Ytd0A684IDwEpCyVKBEUjEtfP7Ov2xej2lxyyDdHuqP33UdaAhzNoiCeQKIPsAdwyIPBhbpe75616Mnh4CdTXXvdPKilBp9EpQR4Mh39SXKfcu7qNzS3jPwseQ5FqX5y0yA2w77x0He2l76Aa0wTuiY8wc0JTEVHGZ4ZJi97dwAbzL5P0=');
+```
+### Page
+- Page URL: https://m.saramin.co.kr/job-search/company-info-view/csn/S1JESm8zR0lHUEVUVndZM0kxbU1hZz09/company_nm/%28%EC%A3%BC%29%ED%83%9C%EC%84%B1
+- Page Title: (주)태성 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T04-02-46-235Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T04-02-41-954Z.log#L1

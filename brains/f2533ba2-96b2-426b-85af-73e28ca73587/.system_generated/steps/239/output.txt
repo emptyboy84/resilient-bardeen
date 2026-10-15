@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+Links for 화성테크원: [
+  '/article/6108144518', '/article/1118603617', '/article/3178140874',
+  '/article/1378156412', '/article/5138164815', '/article/1378122571',
+  '/article/3038156794', '/article/5158129129', '/article/6220335066',
+  '/article/7808702158', '/article/6328601474', '/article/6118123670',
+  '/article/1238165741', '/article/8710800145', '/article/3065100759',
+  '/article/6091770387', '/article/1233377042', '/article/2718100770',
+  '/article/5020380535', '/article/6090254442', '/article/3878602520',
+  '/article/1438115513', '/article/2383900361', '/article/5036260989',
+  '/article/5041651467', '/article/6061548956', '/article/1341623781',
+  '/article/4955800456', '/article/2208825374', '/article/5210100843',
+  '/article/6160587336', '/article/1924500033', '/article/1233409667',
+  '/article/3207100622', '/article/7875000816', '/article/2620102582',
+  '/article/1430185088', '/article/8244201138', '/article/7538803069',
+  '/article/1021352745', '/article/1307105664', '/article/6081426169',
+  '/article/2671201401', '/article/3493300198', '/article/6212149557',
+  '/article/4791200010', '/article/6151044658', '/article/3343400645',
+  '/article/1378101896', '/article/1318188110', '/article/6108111088',
+  '/article/3128157138', '/article/1400253944', '/article/5042584577',
+  '/article/1318664258', '/article/2022068564', '/article/1438117729',
+  '/article/7778800296', '/article/3434800573', '/article/1248154174',
+  '/article/5891301860', '/article/2621100166', '/article/6142300190',
+  '/article/5148185415', '/article/1020794384', '/article/7722401959',
+  '/article/5532600839', '/article/3180139612', '/article/1233375398',
+  '/article/1320296864', '/article/1330579103', '/article/1313112648',
+  '/article/6062556299', '/article/6083162013', '/article/2544800308',
+  '/article/6093704624', '/article/2461901704', '/article/1420982347',
+  '/article/1270631173', '/article/3921400721', '/article/4030614345',
+  '/article/6201229027', '/article/5051562878', '/article/5130497218',
+  '/article/1311886758', '/article/4038148444', '/article/1244569500',
+  '/article/6102598060', '/article/8398500064', '/article/4542100314',
+  '/article/6653100965', '/article/5020253410', '/article/6098177912',
+  '/article/5051396715', '/article/5131634216', '/article/2242601416',
+  '/article/6020896934', '/article/5030187935', '/article/6202171264',
+  '/article/1078177740',
+  ... 12 more items
+]
+Found article for 전현식: /article/7778800296
+Corp matches: null
+

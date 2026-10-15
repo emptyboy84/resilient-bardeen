@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+rowNumbers types: number 639
+Sample rows: [
+  { r: 639, name: '디자인에코', bizno: '603-10-85753' },
+  { r: 701, name: '문화일보 수정중앙지국', bizno: '605-01-99891' },
+  { r: 703, name: '주식회사 브이드림', bizno: '186-86-00972' },
+  { r: 750, name: '불교방송', bizno: '604-82-04181' },
+  { r: 848, name: '시드', bizno: '617-33-90104' },
+  { r: 1061, name: '이송', bizno: '440-86-00648' },
+  { r: 1285, name: '한국산업정보사', bizno: '607-51-77864' },
+  { r: 1342, name: '다인커뮤니케이션즈', bizno: '602-02-99846' },
+  { r: 1367, name: '리얼라이즈', bizno: '617-28-83782' },
+  { r: 1522, name: '에스아이에이', bizno: '606-86-07085' }
+]
+

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+(node:7756) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ 위탁판매자정보 위탁판매자정보 닫기 위탁판매자정보 업체명 주식회사지알비 주소 (11817) 경기도 의정부시 배꽃길 105 1동 412호 (민락동) 통신판매번호 2025-의정부송산-0100 사업자등록번호 329-81-03455 유의사항 ※ 본 상품정보(상품상세정보, 상품기본정보 등)의 내용은 위탁판매자가 직접 등록한 정보입니다. function goHistoryBack() { try { !opener && document.referrer.length !== 0 ? history.back() : window.close(); } catch (e) { history.back(); } } 
+

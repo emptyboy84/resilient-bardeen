@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const cards = Array.from(document.querySelectorAll(\'.sp_list li, .list_style_1 li, .tbl_type_1 tbody tr, div.inner, div.company_list li\')).map(el => el.innerText.trim());\n  return cards.filter(t => t.includes(\'부산\') || t.includes(\'포커스\') || t.includes(\'컨설팅\'));\n}');
+```

@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Length: 22243
+Table entries: [
+  '<th></th>\n\t\t\t\t\t\t\t\t\t\t\t<td></td>',
+  '<th>업 태</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>정보통신업</td>',
+  '<th>종 목</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>컴퓨터시스템 통합 자문 및 구축 서비스업</td>',
+  '<th>주요제품</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>배전반 및 전기 자동제어반 제조분야복합</td>',
+  '<th>전화번호</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>팩스번호</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>0504-412-3662</td>',
+  '<th>기업규모</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>중소기업</td>',
+  '<th>과세유형</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>부가가치세 일반과세자</td>',
+  '<th >본사/지사</th>\n\t\t\t\t\t\t\t\t\t\t\t<td >본사</td>',
+  '<th>법인형태</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>개인과세사업자</td>',
+  '<th>등록일</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td > \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\t2020-01-23\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>홈페이지</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>IR홈페이지</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>회사이메일</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>대표자명</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\t이병* (※폐업자는 *로 표시됩니다)\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>법인등록번호</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>종업원수</th>\n\t\t\t\t\t\t\t\t\t\t\t<td >\n\t\t\t\t\t\t\t\t\t\t\t\t2명 \n \n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>우편번호</th>\n\t\t\t\t\t\t\t\t\t\t\t<td >51266</td>',
+  '<th >결산월</th>\n\t\t\t\t\t\t\t\t\t\t\t<td></td>'
+]
+

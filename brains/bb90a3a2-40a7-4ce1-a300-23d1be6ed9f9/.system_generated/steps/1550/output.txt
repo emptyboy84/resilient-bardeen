@@ -1,0 +1,12 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-1548
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-1548.log
+Log output:
+<truncated 331 lines>
+개요"}],"title":"캐치"},"review":{},"rootClassName":"fds-web-normal-doc-root","t
+[렌텍]: rmal-doc-root","table":{},"title":"에이치에스렌텍 2026년 기업정보","titleVariant":"1line","topstorys":{},"type":"basic"},"templateId
+[렌텍]:  열림 Keep에 저장 Keep에 바로가기 새 창 열림 [(주)에이치에스렌텍] 법인기업 지원자금 안내 T/M(주 4일근무 가능) 새 창 열림 경력 : 경력 1년 ↑, 학력 : 학력무관, 근무형태 : 계약직 1년, 정
+[박현석]: 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 대표자명 : 박현석 회사주소 : 부산광역시 해운대구 센텀 중앙로 97, 에이동 2908 호(재송동, 센텀스카이비즈 ) 97, Centum jungang-ro
+[박현석]: , 사원수 : -명, 매출액 : 44억 · 2023.12 ; 대표자 : 박현석, 개업일 : 2020년 07월 13일, 기업형태 : 기타, 상세업종 : 응용 소프트웨어 개발 및 공급업, 주소 : 부산 해운대구 센텀 중
+
+Last progress: 5s ago

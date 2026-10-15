@@ -1,0 +1,26 @@
+Task: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-342
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\.system_generated\tasks\task-342.log
+Log output:
+<truncated 15 lines>
+ar: 3)
+[120/318] Processed... (Matched so far: 3)
+[130/318] Processed... (Matched so far: 3)
+[140/318] Processed... (Matched so far: 3)
+[141/318] MATCHED: �ֽ�ȸ� �̺� -> 101-14-84111 (Emp: 2, CEO: )
+[150/318] Processed... (Matched so far: 4)
+[160/318] Processed... (Matched so far: 4)
+[170/318] Processed... (Matched so far: 4)
+[180/318] MATCHED: �÷� -> 438-81-04307 (Emp: , CEO: �ȣ)
+[183/318] MATCHED: �ũ�Ʃ� -> 584-87-02787 (Emp: 15, CEO: �)
+[186/318] MATCHED: �ο� -> 609-85-46469 (Emp: 10, CEO: )
+[190/318] Processed... (Matched so far: 7)
+[200/318] Processed... (Matched so far: 7)
+[209/318] MATCHED: �´� -> 602-85-19073 (Emp: 9, CEO: )
+[210/318] Processed... (Matched so far: 8)
+[211/318] MATCHED: �۸� -> 337-85-00078 (Emp: 2, CEO: �ձ�)
+[212/318] MATCHED: � -> 621-03-54890 (Emp: 1, CEO: �ο�)
+[213/318] MATCHED: � -> 617-25-82763 (Emp: 2, CEO: �)
+[215/318] MATCHED: �̿�ġ -> 490-87-00859 (Emp: 6, CEO: �ν�)
+
+Last progress: 0s ago

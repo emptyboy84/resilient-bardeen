@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Keys count: 421
+Has 2307: true
+

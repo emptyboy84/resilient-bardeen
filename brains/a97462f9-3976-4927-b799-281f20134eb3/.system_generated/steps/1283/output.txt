@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Worksheet count: 2
+[기업체 리스트] Rows: 2314, Cols: 18
+[개인 리스트] Rows: 1023, Cols: 7
+Verified in _최신.xlsx:
+- Brown cells (새로 찾은/입력된 데이터): 760
+- Blue cells (기존 원본 강조 보존): 914
+- Numeric sales cells (숫자형 매출액 셀): 435
+

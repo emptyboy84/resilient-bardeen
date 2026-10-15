@@ -1,0 +1,12 @@
+The search for ""타원글로벌" OR "268-10-02281" 매출액 OR 부산" returned the following summary:
+'타원글로벌'에 대한 정보는 다음과 같습니다.
+
+*   **기업 개요:** '타원글로벌'은 2022년에 설립된 개인사업자로, 주요 사업 분야는 게임 개발입니다[1].
+*   **소재지 및 사업자 정보:**
+    *   게임잡(Gamejob) 정보에 따르면 주소지는 부산광역시 금정구 장전동으로 등록되어 있습니다[1].
+    *   빅밸류(BigValue) 등 일부 데이터베이스에서는 경상남도 김해시(사업자 번호 268-10-02281)로 등록된 정보도 확인되나[2], 구체적인 사업 운영 상황에 따라 소재지가 다를 수 있습니다.
+*   **매출액:** 공개된 기업 정보 플랫폼상에서 타원글로벌의 매출액은 별도로 공시되어 있지 않습니다[1].
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8U5iEThtn8pBC9nlIAJbxJik56BuRA7i3gXfNqIN_3VfOfEpzelZFe6sckrJNjV6UgsaTqaMgpAf47CbrvPnwwXatWwLlh7Vdqtudh7YmrKhZO0j5QYW9r53-cG-iHKUiVEUbUgA-)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTkvbldN_0SZKDKC7VCE4KcYEoFlBDmOHr0DxVjq1f1W6ubU2wMpp3JME8J8y0Wr59i5ktCTytpD5XO43hJCf5FQmXS_T3JTQttMLM7-rNem7Hq3ThORJQ-_GUXu9rpzSe)

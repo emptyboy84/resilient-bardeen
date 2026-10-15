@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+ROW: (adsbygoogle = window.adsbygoogle || []).push({});
+ROW: 업 태 제조업
+ROW: 주요제품
+ROW: 전화번호
+ROW: 팩스번호
+ROW: 기업규모 중소기업
+ROW: 과세유형 부가가치세 일반과세자
+ROW: 법인형태 개인과세사업자
+ROW: 등록일
+ROW: 홈페이지
+ROW: IR홈페이지
+ROW: 회사이메일
+ROW: 대표자명 양기우
+ROW: 사업자 현재 상태 계속사업자 &nbsp;&nbsp;&nbsp;※국세청 홈택스 실시간 정보제공
+ROW: (adsbygoogle = window.adsbygoogle || []).push({});
+ROW: 사업자등록번호 609-06-95719
+ROW: 법인등록번호
+ROW: 종업원수 8명
+ROW: 우편번호 51399
+ROW: 회사주소 경상남도 창원시 의창구 죽전로 6 경상남도 창원시 의창구 팔용동 60-10
+ROW: 영문주소 6, Jukjeon-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do, Republic of Korea
+ROW: 관할세무서 창원세무서 (전화번호 : 055-239-0200) 경남 창원시 성산구 중앙대로105 STX 오션타워
+ROW: 결산월
+ROW: 정정문의
+

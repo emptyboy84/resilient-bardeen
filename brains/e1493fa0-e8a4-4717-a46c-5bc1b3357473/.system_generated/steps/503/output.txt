@@ -1,0 +1,8 @@
+### Result
+{
+  "outerHTML": "<div class=\"flex items-center\"><div class=\"company-badge-tt\"><i class=\"type08 company-badge\" tabindex=\"0\" aria-label=\"기업상세 범례 활성화\">개</i></div><p class=\"name\">청우정공</p><p class=\"regnum\">609-06-5****</p></div>"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const card = document.querySelector(\'.flex.items-center\')?.closest(\'div[class*="cursor-pointer"], tr, li, div\');\n  return {\n    outerHTML: card ? card.outerHTML.slice(0, 1000) : \'not found\'\n  };\n}');
+```

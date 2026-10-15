@@ -1,0 +1,9 @@
+### Result
+undefined
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const form = document.querySelector(\'form[name="frm"]\');\n  form.querySelector(\'select[name="search_area"]\').value = \'6260000\'; // 부산\n  form.querySelector(\'select[name="search_state"]\').value = \'13\'; // 전체(영업+폐업)\n  form.querySelector(\'select[name="search_type"]\').value = \'1\'; // 상호\n  form.querySelector(\'input[name="search_word"]\').value = \'동화\';\n  form.submit();\n}');
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/main.php
+- Page Title: Loading https://book.mcst.go.kr/html/searchList.php?search_area=6260000&search_state=13&search_kind=&search_type=1&search_word=%EB%8F%99%ED%99%94

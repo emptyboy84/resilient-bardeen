@@ -1,0 +1,11 @@
+The search for ""장전동 416-1"" returned the following summary:
+부산광역시 금정구 장전동 416-1번지에 대한 직접적인 정보는 검색되지 않으나, 해당 지역(부산대학교 인근)의 주변 번지수들에 대한 정보는 다음과 같습니다.
+
+* **장전동 416-5:** 세종악기사 (부산대 근처 위치)[1]
+* **장전동 416-16:** 부산 금정구 금정로 80-1 (지상 5층, 지하 1층 건물)[2]
+
+찾으시는 정보가 특정 건물이나 상호와 관련된 것이라면, 구체적인 명칭을 함께 검색하시거나 지도 서비스를 통해 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaB6L1GVI_nRSA-Jla0uIFHdXafkWUZ5wFUEmeM3vxynKZqhrygYuMkLCUZvhSwd9PTRN38IA-iefaH6XOshPB7m_uV84D_DMrvTMIzQfTogxL3SJFYBYDTA==)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELN4O3r-LyN4RGPlPZl3niB41Wyp3wIX-l1D9zF6hoHI_RkK1XMKXzkxb0oeicDRXphu-YQk7SZ6UgVgXfrLUkBEGJEL-mVkEOYFpIT5w1TTJPlZcQLnhKH35XYCzkf_ySgVcC5OnJyCetdRBgGoIcNXbKjPPr0xlvzRaF5mFaWga727wOQ5e3YeaIbiu8ZoXO1O0y1g2bTrkK9v1nZDBrjh5q0vy8VgQuwYXL0nWSi2zf1mk2fmvu2ppxgnItuQ==)

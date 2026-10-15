@@ -1,0 +1,17 @@
+The search for ""대원오토텍" ("195511-0" OR "1955110")" returned the following summary:
+검색하신 "대원오토텍(주)"와 관련하여 해당 기업의 법인등록번호는 **195511-0***** (또는 1955110)** 형태로 확인됩니다[1].
+
+참고로, 법인등록번호 **195511-0*****을 사용하는 기업은 '대원오토텍(주)'** 외에도 '모토텍(주)' 등 다른 기업[2]이나 기술신용평가서 등에 기재된 다른 법인들[3]에서도 유사한 번호 체계가 나타날 수 있습니다. 따라서 특정 기업을 식별하실 때는 법인등록번호와 함께 기업명이나 사업자등록번호를 함께 확인하시는 것이 정확합니다.
+
+또한, 검색 결과에서 확인된 "1955110"이라는 숫자는 미국의 운수업체(USDOT Number)[4][5], 블록체인 거래 기록(Block Height/Hash)[6][7], 또는 특정 업무용 ID[8][9] 등 다양한 문맥에서 사용되고 있으니, 찾으시는 정보가 기업 정보인지 다른 분야의 데이터인지 확인해 보시기 바랍니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeM1LrKbYaikG2APGxZhL_a4rs653U44L0mqTz4UiB01JTck8vSTRQyXjVC8ZqvnvSSFc4kmi8iI77cObMQozlC7NpmE2GL_lKRFFgPYFqMJKtiqFG_c8hiM1OtM3fgr5yfLdimNeZ5guARM3TXMg7L394)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx3gSoUwEOjIPWyIcL6oHnv56txOcT8cS8W58uqRB33QEdeyb0nLPTevOFwZA1GTUqV16cUdHh98PXJf8yCknlHJxzEa-cxNfFFKDqxuImrK2F7fvWKxJcq21Gkue6X2CpMrPJ5VtlMIU93ibyewAT98yx)
+[3] [gnstartup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERphlvQVtbEJ76Sn1cQoNI8pR3nwD4fYhKPXS76Ij9DiNVAFS7ckBSyiBp8ciZC4b6WaHViEn13Jn2sVcZWsMwvASKTIvn11mREPM64mBBbSbwh0MYcDPhN6g6qCBoobPOt-zk501Wdl-9rpeNwzE_taFi4EeMzIDLbYyktvSvTGwTNcv7)
+[4] [dot.gov](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoaQojhZD6ZbjyImKAQbDksvf4KXiTdqJD_hfBO8VGz6lYACm3QRmlMGCJ4-kSISc9dJPxEhn1WolzGbsRiuDS3ygc0BkfIxM2l7HDSzXo6ffV3ehAPnUn9LSixjdlhemhPWiDsJ066ajEZJDb75OagVLJG0P-EsqFg9VakySBx4p32Zf2dYEBPD6riN-Yq9fE5MB4jTg9i-hfom6h5h75UrY=)
+[5] [nativebase.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZqbZMTTsmLn9BEFKHYwIn0tA4QJzsXK-doJOOvDKzhihq_lea-UWzjGY5Xy3gOTZNqRIsPNl041H7sE3Wo7HTvqFW81T1KKXEcx5gS3ozb_cMlyCKK-lPbAHIxJxfxJiz)
+[6] [routescan.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmhayaXwizYvcXXkdzy2nTyufIUIg1lxQBitzIPhIcUFpIXmXzW32IWYkd4pA8kP3yXnGw5pYO_Odf7jiMd9mtWGr2zgLmoVZYcibziZBtH_mH_C2fanxdPYlaw3p0DJNSHCsvq6fQcgmQqY3s-PV2w5T8pLt11dJGSebwvemizRDsejDl4N7mt1i1tlJ7b10=)
+[7] [dym.fyi](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEferZsmDy0o9z8TL8UofOI3sCOgKF3Ql_glSRQnBBD4zZe0FAipceGKTn7NLNyF8h-tqeO4aAClmqqo-XQzl9IcKLEpdkXhKxTKTYiAr5ucOZnMg==)
+[8] [fedorainfracloud.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqI1tUe3VAG9HLqMKk76jjG2hY7f6xyb73TlbGf43CjwKlsqqtk29eKPy56eASiMvLKZHGcOkg27sSSZtNqanlRph97nXo1dmBLscU9SAASqbN-OqYgF_rrELzv3W07nOMaL1obxg-pKfftoVgTYngIgDq8YgNjkLV__O1ZhuSj-Rj)
+[9] [centershealthcare.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8fo4dMDS7NI0MQtM9JGGbM8IR4tqciR-TbLI1YwdegVkgJVtqJ9VkRqDF6CLcyo3L2o_ictFd5NqPR6huC5UU0LtTypcv7xc2AWsj75d8pq2OANx7Tdph4AftISQVWpOHdaDx6-J300z3dH6fCDj_IH8bhseuxC-lPjHp0TCxFvmnqTilIFQMyCo=)

@@ -1,0 +1,12 @@
+### Result
+"본문 바로가기\n주 메뉴 바로가기\n네이버지도\n지도 홈\n선택됨\n길찾기\n버스\n지하철\n기차\nnew\n저장\n더보기\n사용자 링크\n로그인\n서비스 더보기\n300m\n검색\n삭제\n검색\n패널 접기\n일반지도\n위성지도\n지형지도\n테마\n저장\n지적편집도\n거리뷰\n반경측정\n면적측정\n거리측정\n접속위치\n확대\n축소"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  // Check iframe or search result panel\n  return document.body.innerText;\n}');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/055-321-7094?c=15.00,0,0,0,dh
+- Page Title: 055-321-7094 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-50-24-983Z.log#L1-L4

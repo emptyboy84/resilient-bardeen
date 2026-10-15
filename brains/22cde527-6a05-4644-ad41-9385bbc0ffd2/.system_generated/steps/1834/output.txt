@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+Filtered links: [
+  'href="android-app://kr.co.saramin.brandapp/https/m.saramin.co.kr/job-search/company-info-view?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="https://www.saramin.co.kr/zf_user/company-info/view/csn/ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09/company_nm/(주)브이드림"',
+  'href="ios-app://739013038/https/m.saramin.co.kr/job-search/company-info-view?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="https://m.saramin.co.kr/job-search/company-info-view?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="/sri_css/company_view.css?v=20260910103236"',
+  'href="/zf_user/auth?url=%2Fzf_user%2Fcompany-info%2Fview%3Fcsn%3DZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="/zf_user/company-review"',
+  'href="/zf_user/salaries/total-salary/list"',
+  'href="/zf_user/company-info/sri-certification?seq=228"',
+  'href="/zf_user/company-info/view-job-report?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="/zf_user/company-info/view-inner-salary?csn=ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09"',
+  'href="/zf_user/company-join/edit?tabType=main_company"'
+]
+

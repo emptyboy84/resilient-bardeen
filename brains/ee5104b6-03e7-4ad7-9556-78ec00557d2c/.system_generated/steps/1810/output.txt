@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90
+- Page Title: 니쥬상점 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-09-58-930Z.yml)

@@ -1,0 +1,13 @@
+The search for ""강민지" "케세라세라"" returned the following summary:
+'강민지'와 '케세라세라'라는 키워드와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **웹소설 관련:** 조아라 등에서 연재되는 웹소설(예: '조폭' 등)의 등장인물 소개나 에피소드 제목 중에 '강민지'라는 인물명과 '케 세라 세라(Que Sera, Sera)'라는 표현이 각각 등장하는 경우가 있으나, 이 둘이 특정 작품 내에서 핵심적인 연결 고리를 갖는 고유 명사적 관계는 아닌 것으로 보입니다[1][2].
+*   **드라마 관련:** 2007년 방영된 MBC 드라마 《케세라세라》가 존재하지만, 배우 강민지와 직접적인 연관성은 확인되지 않습니다[3][4]. 참고로 배우 전종서가 오디션 당시 드라마 《케세라세라》의 정유미 연기를 준비했다는 사례는 있습니다[3].
+
+찾으시는 정보가 특정 웹소설의 특정 회차나 대사 등을 의미하는 것이라면, 해당 작품의 제목이나 더 구체적인 문맥을 함께 확인해 보시기 바랍니다.
+
+Sources:
+[1] [joara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeoSi7M3T4K7c59ZPpR0-awOlRBywvuCb1JBeOZ_eStAm73agMzMI6qonIyE2CYVjGZsgmJN7CSK9KxYp8WA9DQ6yDB6quj8F0jifcdqXS55vt8MYBflxz0ofZXZlT3SvvWuKIQMyOv_PCL4_nudLgKq4bPvgDvf2IsBevPTYLh0wG0HBZrYe5)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb575CBWZzBkhzx4gHMVXTJsyyYRzYvEDyczRGm7w8E2o6Enk6N5mtPkkdRLbxhS2C4iYLovT8CTRJIJVae8mnVqH1sQxzV654Fbidur9yxva_cNuz03LrXcml5ACWJm51JyGuY6LQ1ydMFv_q1SAsPa3ltki7W-yIZCSJn6dmUUsQ-kRdRLuG2uzv)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOkGEq7Ca86Kq2L1TEIbN0UqVML03hyZualWsSbiS2dVDelg9iWJ3QMu8Ocwnlja4ST_IJDk0ReOqqPlotfBeXDptro0eObIqNNFwbsAcPvyMKS31X9RK00SqPWTh62XMjXhY79A==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0lZy9GCLogmG-RbAANDBSk0dwP1kNLxGKv-lKw8cAUWz2W-T6ypnygmFH3WQnpg9tSoCuwQr8uTzGIlgulzZkq7ninopw06XOEOESiIel2eHRF89HRNmhXW8vcYO6Xpl1GeAe0gSQfEgQYuWndm-Mc8FUszfhxkAb0zEoMceIQvuRkvLxsZgO7cf5NLE1vcJJIkEgqpPiRkqZDYv1YDk2g636LXwdb0vRsp-c75dPnzcyJBqxx8g4kXcPCC7eMDBIELRZFiEY-tGW7zOAza3aidzn6gkOzdBVglOwAeqSOLqFOGttzg8utzPmv7NqyFK6BYGcgyCZRIg9wnv3CE4PjE=)

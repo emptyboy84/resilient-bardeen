@@ -1,0 +1,15 @@
+The search for ""더블유에스컴퍼니" "장현수" OR "더블유에스컴퍼니" "센텀" OR "센텀스카이비즈" "308호"" returned the following summary:
+제시해주신 키워드(`더블유에스컴퍼니`, `장현수`, `센텀`, `센텀스카이비즈`, `308호`)와 관련된 기업 및 장소 정보는 다음과 같습니다.
+
+* **기업명:** (주)더블유에스컴퍼니[1]
+* **대표자:** 장현수[1]
+* **설립일:** 2016년 6월 22일[1]
+* **업종:** 시스템 소프트웨어 개발 및 공급업 / 광고·홍보·전시 등[1][2]
+* **소재지:** 부산광역시 해운대구 센텀중앙로 97(재송동), **센텀스카이비즈**[2][3]
+
+참고로 채용공고 등 일부 등록 정보에서 해당 건물 내 구체적인 호수(`308호` 등)와 연계되어 언급되거나 부산 센텀시티의 지식산업센터인 센텀스카이비즈를 기반으로 활동하는 기업으로 확인됩니다[2][3].
+
+Sources:
+[1] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEezypfAQ9hWEPAlgn86RbvyEI5tAmYGJ0VPRUyvHNlHoZ12_EL98lao2e9s5F7jA8Ojng4Iq1-btZ4l1k96RWTtH42-28cdwGq5Bf1_TooHyKpKE9llAN9CzPbYJD1yizcB4qtKPRGQhZOLcMngDA0NjW9_A6gB3Ftf55eP3rCiztmRk2Otzerq3X8SXPjBdOfm_itCvBBK-QTuKVADoXAG6bF9tMkFqMbKIf0n88=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Oxp6tuYxQ6Aq_Zmm_5olxIWBCfVwusB7vB0QdtHXci_73qZCulf_4dQpln3kEBpCtaUKBryho2fy0VQ3UVkHIvjwzIxWS-rlZ4ndxaTv-yhvjvI6C6avK64sLQSwzBq5oxmIU4zIsoc=)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Oxp6tuYxQ6Aq_Zmm_5olxIWBCfVwusB7vB0QdtHXci_73qZCulf_4dQpln3kEBpCtaUKBryho2fy0VQ3UVkHIvjwzIxWS-rlZ4ndxaTv-yhvjvI6C6avK64sLQSwzBq5oxmIU4zIsoc=)

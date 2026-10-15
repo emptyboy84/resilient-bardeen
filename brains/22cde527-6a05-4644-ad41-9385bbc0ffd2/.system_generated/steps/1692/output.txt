@@ -1,0 +1,70 @@
+
+The command exited with code 0.
+Output:
+verified: {
+  rowNumber: 639,
+  name: '디자인에코',
+  bizno: '603-10-85753',
+  cleanBizno: '6031085753',
+  year: '2009',
+  month: '4',
+  ceo: '이돈희',
+  tel: '051-207-3530',
+  fax: '051-517-3500',
+  emp: '10',
+  status: '계속사업자',
+  closeDate: '',
+  source: 'https://bizno.net/article/6031085753',
+  proof: '비즈노 사업자등록번호 및 부산 소재지/대표자 일치'
+}
+Setting Col 4 = 603-10-85753 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 5 = 2009 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 6 = 4 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 7 = 이돈희 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 8 = 051-207-3530 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 9 = 051-517-3500 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 16 = 10 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Setting Col 19 = https://bizno.net/article/6031085753 font = { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+
+Row 639 before write:
+Col 1: 25년 모집단 (FFFF0000)
+Col 2: 639 (FFFF0000)
+Col 3: 디자인에코 (FF000000)
+Col 4: 603-10-85753 (FFFF0000)
+Col 5: 2009 (FFFF0000)
+Col 6: 4 (FFFF0000)
+Col 7: 이돈희 (FFFF0000)
+Col 8: 051-207-3530 (FFFF0000)
+Col 9: 051-517-3500 (FFFF0000)
+Col 10: 금정구 (FFFF0000)
+Col 11: 부산 금정구 장전동 222-39 서강빌딩 4층 (FF000000)
+Col 12: 캐릭터 (FF000000)
+Col 13:  (FFFF0000)
+Col 14:  (FFFF0000)
+Col 15:  (FFFF0000)
+Col 16: 10 (FFFF0000)
+Col 17:  (FF000000)
+Col 18:  (FF000000)
+Col 19: https://bizno.net/article/6031085753 (FFFF0000)
+
+Row 639 after re-read:
+Col 1: 25년 모집단 (FFFF0000)
+Col 2: 639 (FFFF0000)
+Col 3: 디자인에코 (FF000000)
+Col 4: 603-10-85753 (FFFF0000)
+Col 5: 2009 (FFFF0000)
+Col 6: 4 (FFFF0000)
+Col 7: 이돈희 (FFFF0000)
+Col 8: 051-207-3530 (FFFF0000)
+Col 9: 051-517-3500 (FFFF0000)
+Col 10: 금정구 (FFFF0000)
+Col 11: 부산 금정구 장전동 222-39 서강빌딩 4층 (FF000000)
+Col 12: 캐릭터 (FF000000)
+Col 13:  (FFFF0000)
+Col 14:  (FFFF0000)
+Col 15:  (FFFF0000)
+Col 16: 10 (FFFF0000)
+Col 17:  (FF000000)
+Col 18:  (FF000000)
+Col 19: https://bizno.net/article/6031085753 (FFFF0000)
+

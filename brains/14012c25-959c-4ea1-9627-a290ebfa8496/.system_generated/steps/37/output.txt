@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total length: 25340
+Done writing winners_full.html
+

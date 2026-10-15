@@ -1,0 +1,14 @@
+### Result
+{
+  "url": "https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6090657409",
+  "itemCount": 1,
+  "firstItem": "개\n\n한응정공\n\n609-06-5****\n\n대표자명\n한기수\n산업명\n기타 가공 공작기계 제조업\n기업주소\n경남 함안군 칠원읍 무기로 **"
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const keyword = \'6090657409\';\n  const input = document.querySelector(\'input[placeholder*="기업명"]\');\n  input.value = keyword;\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n\n  // press Enter\n  input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n  input.dispatchEvent(new KeyboardEvent(\'keyup\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n\n  // wait 1.5 seconds\n  await new Promise(r => setTimeout(r, 1500));\n\n  const items = Array.from(document.querySelectorAll(\'.search-item-list .q-item, .search-item-list > div\')).filter(el => el.innerText && el.innerText.includes(\'산업명\'));\n  return {\n    url: window.location.href,\n    itemCount: items.length,\n    firstItem: items[0] ? items[0].innerText : \'\'\n  };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6090657409
+- Page Title: '6090657409' - 검색상세
+- Console: 1 errors, 0 warnings

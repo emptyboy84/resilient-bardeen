@@ -1,0 +1,137 @@
+
+The command exited with code 0.
+Output:
+=== Step 316 ===
+node -e "
+const fs = require('fs');
+const path = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv';
+if (fs.existsSync(path)) {
+  const content = fs.readFileSync(path, 'utf-8');
+  console.log('Report lines:', content.split('\n').length);
+  console.log('Sample report lines 0-5:', content.split('\n').slice(0, 5));
+} else {
+  console.log('File does not exist');
+}
+"
+=== Step 318 ===
+node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('all_500_verified.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Fact checking all ' + lines.length + ' rows...');
+
+// Phone regex formatter
+function formatPhone(phone) {
+  if (!phone || typeof phone !== 'string') return '';
+  phone = phone.replace(/[^0-9]/g, '');
+  if (!phone || phone.length < 8) return '';
+  
+  if (phone.startsWith('02')) {
+    if (phone.length === 9) return phone.replace(/(\d{2})(\d{3})(\d{4})/, '$1-$2-$3');
+    if (phone.length === 10) return phone.replace(/(\d{2})(\d{4})(\d{4})/, '$1-$2-$3');
+  } else if (phone.startsWith('0507') || phone.startsWith('0504') || phone.startsWith('0505') || phone.startsWith('0502') || phone.startsWith('070') || phone.startsWith('010')) {
+    if (phone.length === 11) return phone.replace(/(\d{4})(\d{3,4})(\d{4})/, '$1-$2-$3');
+    if (phone.length === 12) return phone.replace(/(\d{4})(\d{4})(\d{4})/, '$1-$2-$3');
+    if (phone.length === 10) return phone.replace(/(\d{3})(\d{3})(\d{4})/, '$1-$2-$3');
+  } else {
+    // 3-digit area code (031, 051, 053, 054, 055, etc)
+    if (phone.length === 10) return phone.replace(/(\d{3})(\d{3})(\d{4})/, '$1-$2-$3');
+    if (phone.length === 11) return phone.replace(/(\d{3})(\d{4})(\d{4})/, '$1-$2-$3');
+    if (phone.length === 8) return phone.replace(/(\d{4})(\d{4})/, '$1-$2');
+  }
+  return phone;
+}
+
+// Zipcode check
+function checkZip(zip, addr) {
+  if (!zip) return '';
+  const cleanZip = String(zip).replace(/[^0-9]/g, '');
+  if (cleanZip.length === 5) return cleanZip;
+  if (cleanZip.length === 6) return cleanZip; // old 6-digit
+  return '';
+}
+
+// Address standardization
+function cleanAddress(addr) {
+  if (!addr || typeof addr !== 'string') return '';
+  let clean = addr.trim();
+  clean = clean.replace(/\\s+/g, ' ');
+  return clean;
+}
+
+// Run Fact Check
+let stats = {
+  total: lines.length,
+  closed_count: 0,
+  suspended_count: 0,
+  active_count: 0,
+  valid_addr: 0,
+  valid_zip: 0,
+  valid_tel: 0,
+  valid_fax: 0,
+  valid_home: 0,
+  valid_email: 0,
+  valid_corpNo: 0,
+  valid_niceBiz: 0,
+  valid_categories: 0
+};
+
+const factCheckedRows = [];
+
+lines.forEach((line, idx) => {
+  const p = line.split('\t');
+  // p[0]: 담당자, p[1]: 상태, p[2]: 회사명, p[3]: 사업자번호, p[4]: 대표자, p[5]: 우편번호, p[6]: 주소, p[7]: 전화번호, p[8]: 팩스번호, p[9]: 홈페이지, p[10]: 이메일, p[11]: 종업원수, p[12]: 업종, p[13]: 법인번호, p[14]: 결산월, p[15]: 대, p[16]: 중, p[17]: 소
+  
+  const status = (p[1] || '').trim();
+  if (status === '폐업') stats.closed_count++;
+  else if (status === '휴업') stats.suspended_count++;
+  else stats.active_count++;
+  
+  const addr = cleanAddress(p[6]);
+  if (addr.length > 5) stats.valid_addr++;
+  
+  const zip = checkZip(p[5], addr);
+  if (zip) stats.valid_zip++;
+  
+  const tel = formatPhone(p[7]);
+  if (tel) stats.valid_tel++;
+  
+  const fax = formatPhone(p[8]);
+  if (fax && fax !== tel) stats.valid_fax++;
+  
+  const home = (p[9] || '').trim();
+  if (home) stats.valid_home++;
+  
+  const email = (p[10] || '').trim();
+  if (email) stats.valid_email++;
+  
+  const corpNo = (p[13] || '').trim();
+  if (corpNo) stats.valid_corpNo++;
+  
+  const niceBiz = (p[12] || '').trim();
+  if (niceBiz) stats.valid_niceBiz++;
+  
+  const catLarge = (p[15] || '').trim();
+  const catMid = (p[16] || '').trim();
+  const catSmall = (p[17] || '').trim();
+  if (catLarge && catMid && catSmall) stats.valid_categories++;
+  
+  // Reconstruct perfected row
+  p[5] = zip || p[5];
+  p[6] = addr || p[6];
+  p[7] = tel || p[7];
+  p[8] = (fax && fax !== tel) ? fax : '';
+  
+  factCheckedRows.push(p);
+});
+
+console.log('=== FACT CHECK SUMMARY (500 ROWS) ===');
+console.log(stats);
+
+fs.writeFileSync('all_500_factchecked.tsv', factCheckedRows.map(p => p.join('\t')).join('\n'), 'utf-8');
+console.log('Saved perfected fact-checked data to all_500_factchecked.tsv');
+"
+

@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Loaded 27 curated entries from CT실태조사 Excel.
+Master CSV has 2313 data rows.
+Updated 61 rows with high-certainty curated data.
+Cleared 20 placeholder/dummy cells to clean blanks.
+Master CSV successfully updated at: C:\Users\lg\Desktop\Today\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.csv
+

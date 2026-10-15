@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6071927909');
+```
+### Page
+- Page URL: https://bizno.net/article/6071927909
+- Page Title: 범죄예방신문부산울산취재본부
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-28-50-843Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-28-43-767Z.log#L1-L5

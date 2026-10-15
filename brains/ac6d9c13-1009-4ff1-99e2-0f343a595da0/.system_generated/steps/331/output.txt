@@ -1,0 +1,20 @@
+The search for ""센텀미디어" "임선혜" 부산" returned the following summary:
+검색하신 **"센텀미디어"**, **"임선혜"**, **"부산"** 키워드는 부산의 대표적인 문화·영상 중심지인 **센텀시티(해운대)** 지역, 세계적인 소프라노 **임선혜**, 그리고 부산 지역의 **미디어 산업 및 문화예술·공연 행사** 맥락과 연관되어 있습니다[1][2][3]. 
+
+구체적으로 다음과 같은 접점들이 있습니다.
+
+1. **부산 센텀시티와 문화·미디어 인프라**:
+   * 부산 해운대 센텀시티는 '영화·영상 문화' 및 미디어아트(예: 뮤지엄원 등)의 중심지로[2][1], 과거 부산항 북항 및 센텀 지역을 연계한 영화·영상·미디어 관련 산업 확장 정책 등이 논의된 바 있습니다[1].
+2. **소프라노 임선혜의 부산 공연 및 활동**:
+   * 세계적인 고음악·오페라 디바로 활동 중인 소프라노 임선혜는[4][5] 그동안 부산시립교향악단 협연[6], 부산에서 열린 대형 국가 행사 및 특별 음악회(예: 2030 부산세계박람회 유치 기원 음악회 등)에 출연하여 부산 관객들과 소통해 왔습니다[7].
+
+특정 행사나 기사, 기업 정보 등을 찾고 계신다면 조금 더 구체적인 내용을 함께 알려주세요.
+
+Sources:
+[1] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXF0WJteX-qFW7TTYe47QGQQmKNNJ2ih_5InDgf6I0e_UyaxiLqm6fwFCJX8e7ZsFd6t6ieK4RLHmh-oc97R_5U9zT4myX3xup2U-hDM-_wHo15ZWVGBkT9HAC2midoVWr154=)
+[2] [designcollege.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_xZrTSQ1AUkr8bzXFEpw-o6Q4FcpHZpm_jZ5pG754VvWznB0EEdJVG8nYJ_I7l1NmSWRbkzM5sfLKB7Ai4Kb3-zjRpwMVcxv9Aokog0J6VBsYMbQOkdepjjUZP_WUFRKUI4obongeKghldZZXtarfaoHYdBF6qUvHt33RRhZSZ_KuuO8Xjau-Cau0Ah2kcDpAQj6HTOYlCnCTZ6mAYfuERU0xcw==)
+[3] [mhns.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTKGQTpB7lOne4msn2cKYVfOv9DepiVn-iWvCmUpUpaO6ua_hirvlOyrx435KHWXXAVrC6ESo3zW-wbkeMvraydQ1jh4wdW7sw0NeeI7i7gwhyr_0-0PJwvQpGMmil_WGtylCYl1MaKu207B9ew==)
+[4] [yedosystem.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYLqlfKdaxX7o3WfCzjFPiQUiU67xru_qCA-vQrcgsJkneArK23mhDyxiZzhX6ENdqzKIlanmt8bsEdua8gSmx-o5qlqIJvX3LQHpOyiK01AF3bqUOqQf0nMpED7ct1Kdt7XofyVJ5SH1XH6q5m5e3Herp-EjvX1i64iylxpEKBj8cEtI0p4-RhRIec6RUjD4NIPy5__ZbEUBwnLBKS6hxGg==)
+[5] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElfAl_iPmhiSsnHSJpKf40yoxANWCZYhapdsEe5aHiFVQUtZp5vWfgdQyCfQ_go9mcp16GqEm7V6bIYCrIcZp1b0OKKshfpIkr-P14d43ZDo6LB0rfEixERd2T4yzzXD-Pdej5P2f5gisgVI0SnVTMv7LBf2KXzg==)
+[6] [daeguconcerthouse.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFadexICk6Zsb0es69lBys5oXiDliqICZU0x-enD-RUgePfeWG1VfRl0VN6A09EKovptZRvKJDJGVtWKqYZVtgcbo9na4xZ0SmuWMD21uAN5rR-Ya1qxSdXCoxNG-3N_31IaGHcGoIR8Pnx7I84LbQQy5SKiI9CcmKbKNbSbwjru4DhxYC5JVgb-SEPmBcEEOhaKZ_uW_ccXtLTscfYY2xK51TBhjEAgFrLKxSnYxH4TeutksJas58lgqUM)
+[7] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG378HfuzQedSPtjphMyXlPSsPHyvmIEnzTwMuAXMoOgHR8rXsXtW4IF_GPdyz3N2VJiTcqP3MsyEwvzBRHu816MrnlHSfTOnZpDJkxWlHzSALT6wsrUQFfnaPCk5xdez8=)

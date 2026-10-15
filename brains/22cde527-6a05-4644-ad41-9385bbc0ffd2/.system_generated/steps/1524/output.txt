@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Row 2 raw HTML:
+ <tr class="even">
+	                          <td class="tal">
+	                          	<span class="ellip">
+	                          		 
+									<a href="#none" title="(주)브이알코리아 " onclick="mstView('company','20125855');return false;">(주)브이알코리아 </a>
+	                          	</span>
+	                          </td>
+	                          <td class="tal">
+	                          	 <span class="ellip">
+	                          	 	<a href="#none"  onclick="mstView('company','20125855');return false;"></a>
+							 	 </span>
+							  </td>
+	                          <td><span class="ellip"  title="상영업">상영업</span></td>
+	                          <td><span class="ellip" title="박학문 ">박학문 </span></td>
+	                          <td><span class="ellip" title=""></span></td>
+	                          <td><span class="ellip" title=""></span></td>
+	                          <td><span class="ellip" title="부산시 해운대구 우동 &nbsp;1466-1번지 부산문화콘텐츠콤플랙스 302호">부산시 해운대구 우동 &nbsp;1466-1번지 부산문화콘텐츠콤플랙스 302호</span></td>
+	                          <td class="tal">
+	                          	<span class="ellip" title="">
+	                          		
+										<a href="#none" onclick="mstView('movie','');return false;"></a>
+									
+	                          	</span>
+	                          </td>
+	                      </tr>
+

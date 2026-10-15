@@ -1,0 +1,67 @@
+
+The command exited with code 0.
+Output:
+footer_fixed {
+				background: ;
+				border-width: 1px 0 0 0;
+				border-style: solid;
+				;
+			}
+			#s202507158139f075503f6 .opt-group {
+				background: ;
+			}
+			#s202507158139f075503f6 ul.site_prod_nav > li a.active {
+				;
+			}
+			
+			#s202507158139f075503f6 .background_tab ul.site_prod_nav > li a.active >  span.braket-badge {
+				background-color: none;
+				;
+				color:;
+			}
+	
+			#s202507158139f075503f6 .input-block .checkbox-styled:not(ie8) input ~ span {
+				;
+				color:;
+			}
+			.section_fixed_disable #s202507158139f075503f6[class*="section_first"],
+			.section_fixed_disable #s202507158139f075503f6[class*="section_first"] .doz_aside {
+				position: relative !important;
+				top: 0 !important;
+				left: 0 !important;
+				z-index: auto !important;
+			}
+			.section_fixed_disable #s202507158139f075503f6 .doz_aside.scroll-to-fixed-fixed ~ .spacer,
+			.section_fixed_disable #s202507158139f075503f6.scroll-to-fixed-fixed ~ .spacer {
+				height: 0 !important;
+				display: none !important;
+			}
+			#s202507158139f075503f6.scroll-to-fixed-fixed {
+				width: 100% !important;
+			}
+			#s202507158139f075503f6 .doz_aside.scroll-to-fixed-fixed-end {
+				bottom: 0 !important;
+				top: auto !important;
+			}
+			.device_type_m #s202507158139f075503f6.mobile_section main .inside {
+					padding-left: 0px;
+					padding-right: 0px;
+			}
+			.device_type_m #s202507158139f075503f6 .mypage .left-menu ul li a,
+			.device_type_m #s202507158139f075503f6 .cart .left-menu ul li a {
+				;
+			}
+            #s202507158139f075503f6 .im-cart-result-table {
+                border-top: 1px solid ;
+                border-bottom: 1px solid ;
+            }
+            #s202507158139f075503f6 .shop-table > tbody > tr > td.img .opt .more {
+                ;
+            }
+            #s202507158139f075503f6 .im-cart-info {
+                ;
+            }
+            #s202507158139f075503f6 .shop-table > thead > tr > th,
+            #s202507158139f075503f6 .shop-table > tbody > tr > td,
+            #s20250
+

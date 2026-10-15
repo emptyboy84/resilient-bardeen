@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Modulus 11: { sum: 56, remainder: 6, calculated: 4, actual: 4, valid: true }
+

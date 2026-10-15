@@ -1,0 +1,8 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-21T09:12:37+09:00
+Prompt: Check task-300 progress
+Early Termination: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-300
+
+[2026-09-21T09:12:22+09:00] Still waiting. Remaining time: 15s
+[2026-09-21T09:12:32+09:00] Still waiting. Remaining time: 5s
+[2026-09-21T09:12:37+09:00] Timer fired.

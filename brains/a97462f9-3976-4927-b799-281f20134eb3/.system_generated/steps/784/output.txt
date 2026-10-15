@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Matches with hyphen: [ '116-81-15020' ]
+Biz matches: [
+  '사업자정보를 확인하세요. 다양한 기업분석보고서를 비교하고 원하는 보고서를 구매하세요. 재무제표,',
+  '사업자번호, 기업분석, 기업정보">',
+  '사업자정보">',
+  '사업자정보를 확인하세요. 다양한 기업분석보고서를 비교하고 원하는 보고서를 구매하세요. 재무제표,',
+  '사업자번호, 기업분석, 기업정보">',
+  '사업자 및 법인 등록 정보를 기준으로 제공합니다. ',
+  '사업자번호,법인번호,대표자,설립일자등 정보를 제공합니다. ',
+  '사업자번호',
+  '사업자등록증 상 개업일자 표시 ',
+  '사업자]'
+]
+Around 오픈와이즈: tml>   
+ 
+ (주)오픈와이즈 - 기업상세 
+  
+ 
+        (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+          const f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l !== 'dataLayer' ? '&l=' + l : '';
+          j.async = true;
+     
+

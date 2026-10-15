@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+head : 'head' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ�
+� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:43
++ git show 3f8176c merged_500_perfect.tsv | head -n 30
++                                           ~~~~
+    + CategoryInfo          : ObjectNotFound: (head:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

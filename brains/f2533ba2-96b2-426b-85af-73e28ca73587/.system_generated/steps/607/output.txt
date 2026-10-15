@@ -1,0 +1,10 @@
+### Result
+"Searched 바른중량"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  document.querySelector(\'#txtSangHo\').value = \'바른중량\';\n  send(\'gongsi_list\', document.frm1);\n  return \'Searched 바른중량\';\n}');
+```
+### Page
+- Page URL: https://www.kiscon.net/gongsi/ksc_dft.asp
+- Page Title: Loading https://www.kiscon.net/gongsi/gongsi_list.asp
+- Console: 6 errors, 0 warnings

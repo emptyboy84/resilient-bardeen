@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+
+Name                  FullName                                                                                         
+----                  --------                                                                                         
+scratch               C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_synergy_partners_data\brain_lo...
+README_�ȭ�.md    C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_synergy_partners_data\brain_lo...
+transcript.jsonl      C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_synergy_partners_data\brain_lo...
+transcript_full.jsonl C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_synergy_partners_data\brain_lo...
+
+
+

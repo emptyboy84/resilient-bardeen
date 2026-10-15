@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+b44b0bd miu_design_registration_update@{0}: branch: Created from HEAD
+

@@ -1,0 +1,21 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-820
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-820.log
+Log output:
+<truncated 32 lines>
+ 3층 들의곰')
+  Col 8~15: ('0507-1356-2895', None, None, 'dregom@dregom.com', None, '2022. 2. 28.', None, 4)
+  Col 18(NICE): 응용 소프트웨어 개발 및 공급업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20417:
+  Col 1~7: (None, None, '츄캣', 8988802062, None, None, '경남 진주시 동부로169번길 12, 에이동 401호(12)  (충무공동)')
+  Col 8~15: (None, None, None, None, None, '20210902', None, None)
+  Col 18(NICE): None, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20418:
+  Col 1~7: (None, None, '케이안전기술원', 8988802742, None, None, '경남 진주시 동부로169번길 12, A동 7층 710호 (충무공동,윙스타워)')
+  Col 8~15: (None, None, None, None, None, '20231109', None, 7)
+  Col 18(NICE): 기타 엔지니어링 서비스업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+
+Last progress: 0s ago

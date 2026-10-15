@@ -1,0 +1,27 @@
+Encountered error in step execution: ### Error
+TimeoutError: browserBackend.callTool: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('aria-ref=e57')[22m
+[2m    - locator resolved to <input type="text" tabindex="0" title="키워드검색" value="7758100670" placeholder="기업명, 사업자번호, 법인번호, 대표자명" class="q-field__native q-placeholder" id="f_f2482492-e26a-4970-890c-10bbe4e0472d"/>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <button title="" multiple vertical="" tabindex="0" type="button" modelvalue="false,false,false,false" class="q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-btn--actionable q-focusable q-hoverable q-btn--no-uppercase q-btn-multi">…</button> from <div id="q-portal--dialog--1">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <button title="" multiple vertical="" tabindex="0" type="button" modelvalue="false,false,false,false" class="q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-btn--actionable q-focusable q-hoverable q-btn--no-uppercase q-btn-multi">…</button> from <div id="q-portal--dialog--1">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    9 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <button title="" multiple vertical="" tabindex="0" type="button" modelvalue="false,false,false,false" class="q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-btn--actionable q-focusable q-hoverable q-btn--no-uppercase q-btn-multi">…</button> from <div id="q-portal--dialog--1">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m

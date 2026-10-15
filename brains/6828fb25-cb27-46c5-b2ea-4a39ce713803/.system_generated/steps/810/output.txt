@@ -1,0 +1,14 @@
+The search for ""김영기" "을숙도대로 651" OR "신평동 370"" returned the following summary:
+검색 결과, 문의하신 "김영기"라는 이름과 "신평동 370" 주소와 관련된 정보는 다음과 같습니다.
+
+*   **기업 정보 및 관련성:** 과거 자료(2006년 노동조합 조직현황 등)에서 부산 사하구 신평동 370번지 일대와 관련된 기업체 명단에서 "김영기"라는 이름이 언급된 기록이 있으나[1][2], 이는 해당 주소지에 위치한 특정 기업의 관계자이거나 과거의 기록일 가능성이 높습니다.
+*   **주소 정보:** "신평동 370"은 부산광역시 사하구 신평동의 지번 주소로, 해당 구역 내에는 여러 공장 및 제조업체가 밀집해 있습니다[3][4].
+*   **을숙도대로 651:** 해당 주소와 "김영기"라는 이름을 직접적으로 연결하는 정보는 검색 결과에서 확인되지 않았습니다.
+
+특정 기업이나 인물에 대한 구체적인 확인이 필요하신 경우, 해당 주소지에 등록된 기업명을 통해 다시 검색하시거나 공공데이터 포털 및 기업 정보 제공 사이트 등을 활용하시는 것을 권장합니다.
+
+Sources:
+[1] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvi70We9doXQnL_M3yLzucUoNux8UyfZ5n-VkcY-JMZNNY2h0gUv3dSc4THRW6lrsnyTGRQo2aX-PG6bg6arZ0LECajLwFrC2fr8tBJchSlQ6dzBql7vEBPsw0Jq2v9RH3fcda_I7LEKMHw==)
+[2] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIgzpwe7nRTdUMcFoM2iXLiMsROyldJZWX_K32t18u3ZkG1WA2ANYAeAEgH3oM_wN8MpOwPhMDuGNok7u1fQj5Luo5XGMP5I_9MYd1uRd-ltjlyh19cQQ9i3DYhXthANb9GZi_mxgLZXH7XpsxcYdA2B2MSUtP_6vFLiu8)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOanSOqGdsiKVzQKQ0WseLvkgImk8pFkzEQjLHO2o8EAUll5_0jQ-iqGJaf4BIwXayM-UIvw8O7m1Q-6wLU3KAcNI8X_RvvHELwcRNzHajjVlu)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOanSOqGdsiKVzQKQ0WseLvkgImk8pFkzEQjLHO2o8EAUll5_0jQ-iqGJaf4BIwXayM-UIvw8O7m1Q-6wLU3KAcNI8X_RvvHELwcRNzHajjVlu)

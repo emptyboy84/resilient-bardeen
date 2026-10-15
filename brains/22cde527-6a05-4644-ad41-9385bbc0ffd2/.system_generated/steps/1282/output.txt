@@ -1,0 +1,6 @@
+### Result
+"스크롤 상단으로\n스크롤 하단으로\n동아대학교 서비스메뉴\n개인정보처리방침\n입찰정보\n외부배너모음\n예·결산 공고\n찾아오시는 길\n등록금 납부안내\nDAU Links\n대학\n대학원\n온라인서비스\n주요사이트\n\n승학캠퍼스(대학본부)\n(49315) 부산 사하구 낙동대로550번길 37 (하단동)\nTEL : 051-200-6114\n구덕캠퍼스\n(49201) 부산시 서구 대신공원로 32(동대신동 3가)\n부민캠퍼스\n(49236) 부산시 서구 구덕로 225(부민동 2가)\nCOPYRIGHT(C) 2023 DONG-A UNIVERSITY ALLRIGHTS RESERVED."
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const footer = document.querySelector(\'footer\') || document.querySelector(\'#footer\');\n  return footer ? footer.innerText : document.body.innerText.slice(-1000);\n}');
+```

@@ -1,0 +1,81 @@
+
+The command exited with code 0.
+Output:
+
+ MemberType Name                                             
+ ---------- ----                                             
+     Method SetTouchPadTypeChange                            
+     Method get_TitleText                                    
+     Method set_TitleText                                    
+     Method get_ContentText                                  
+     Method set_ContentText                                  
+     Method get_ButtonText1                                  
+     Method set_ButtonText1                                  
+     Method get_ButtonText2                                  
+     Method set_ButtonText2                                  
+     Method get_ButtonText3                                  
+     Method set_ButtonText3                                  
+     Method Set_Selection                                    
+     Method Grid_MouseEnter_1                                
+     Method Grid_MouseLeave_1                                
+     Method Grid_MouseLeftButtonDown_1                       
+     Method Grid_MouseLeftButtonUp_1                         
+     Method Grid_MouseEnter_2                                
+     Method Grid_MouseLeave_2                                
+     Method Grid_MouseLeftButtonDown_2                       
+     Method Grid_MouseLeftButtonUp_2                         
+     Method Grid_MouseEnter_3                                
+     Method Grid_MouseLeave_3                                
+     Method Grid_MouseLeftButtonDown_3                       
+     Method Grid_MouseLeftButtonUp_3                         
+     Method B1_KeyUp                                         
+     Method B2_KeyUp                                         
+     Method B3_KeyUp                                         
+     Method CreateAccessibilityText                          
+     Method B1_GotKeyboardFocus                              
+     Method B2_GotKeyboardFocus                              
+     Method B3_GotKeyboardFocus                              
+     Method InitializeComponent                              
+     Method System.Windows.Markup.IComponentConnector.Connect
+Constructor .ctor                                            
+   Property TitleText                                        
+   Property ContentText                                      
+   Property ButtonText1                                      
+   Property ButtonText2                                      
+   Property ButtonText3                                      
+      Field m_ResourceManager                                
+      Field SelectionChanged                                 
+      Field ModuleLocaion                                    
+      Field nModuleGUIType                                   
+      Field nCurrentSelection                                
+      Field strCurrentSelection                              
+      Field TouchPadType                                     
+      Field Title                                            
+      Field Content1                                         
+      Field TitleIcon                                        
+      Field b1                                               
+      Field b2                                               
+      Field b3                                               
+      Field TPOnGrid                                         
+      Field Button1Left                                      
+      Field Button1Middle                                    
+      Field Button1Right                                     
+      Field Button1Icon                                      
+      Field Button1Text                                      
+      Field TPOffGrid                                        
+      Field Button2Left                                      
+      Field Button2Middle                                    
+      Field Button2Right                                     
+      Field Button2Icon                                      
+      Field Button2Text                                      
+      Field TPAutoGrid                                       
+      Field Button3Left                                      
+      Field Button3Middle                                    
+      Field Button3Right                                     
+      Field Button3Icon                                      
+      Field Button3Text                                      
+      Field _contentLoaded                                   
+ NestedType ButtonNum                                        
+
+
+

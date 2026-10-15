@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Orange cells in 11847-12346 -> currentPath: 0, finalUpdatedPath: 8857
+Orange cells in 702-5500 -> currentPath: 0, finalUpdatedPath: 1831
+

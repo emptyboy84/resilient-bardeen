@@ -1,0 +1,107 @@
+### Result
+[
+  {
+    "text": "오라뜨래별아파트 자치회\n부성*\n주거용  부동산 관리업",
+    "href": null
+  },
+  {
+    "text": "오라뜨래별아파트 자치회",
+    "href": "/article/6168288317"
+  },
+  {
+    "text": "오라뜨래별아파트 자치회",
+    "href": null
+  },
+  {
+    "text": "（주）포커스기획\n부성*",
+    "href": null
+  },
+  {
+    "text": "（주）포커스기획",
+    "href": "/article/6168180720"
+  },
+  {
+    "text": "（주）포커스기획",
+    "href": null
+  },
+  {
+    "text": "행복나눔\n부성*\n 전자상거래 소매업",
+    "href": null
+  },
+  {
+    "text": "행복나눔",
+    "href": "/article/6162824077"
+  },
+  {
+    "text": "행복나눔",
+    "href": null
+  },
+  {
+    "text": "에이스\n부성*",
+    "href": null
+  },
+  {
+    "text": "에이스",
+    "href": "/article/1813401109"
+  },
+  {
+    "text": "에이스",
+    "href": null
+  },
+  {
+    "text": "실시간 조회기업",
+    "href": null
+  },
+  {
+    "text": "동인빌딩",
+    "href": "/article/5940700810"
+  },
+  {
+    "text": "세류빌드협동조합",
+    "href": "/article/4398602495"
+  },
+  {
+    "text": "오토 갤러리 29호",
+    "href": "/article/6035300407"
+  },
+  {
+    "text": "링코모(LINCOMO)",
+    "href": "/article/8123501215"
+  },
+  {
+    "text": "모쓰코퍼레이션",
+    "href": "/article/1380853564"
+  },
+  {
+    "text": "예스넷(YESNET)",
+    "href": "/article/7201202236"
+  },
+  {
+    "text": "(주)자연에너지 삼정주유소",
+    "href": "/article/5048545700"
+  },
+  {
+    "text": "월드푸드",
+    "href": "/article/5484800542"
+  },
+  {
+    "text": "엠스퀘어 복합상가 513호",
+    "href": "/article/4647100107"
+  },
+  {
+    "text": "나리양과점",
+    "href": "/article/8980401705"
+  },
+  {
+    "text": "엘투케이파트너스",
+    "href": "/article/6108636406"
+  },
+  {
+    "text": "씨드소프트",
+    "href": "/article/2311601808"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const titles = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return titles;\n}');
+```

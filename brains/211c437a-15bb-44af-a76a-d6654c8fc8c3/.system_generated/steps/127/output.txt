@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+Active ControlValue InstanceName                PSComputerName
+------ ------------ ------------                --------------
+  True           46 ACPI\LGEX0820\2&daba3ff&0_0               
+
+
+

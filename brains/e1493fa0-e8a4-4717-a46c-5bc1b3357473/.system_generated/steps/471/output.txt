@@ -1,0 +1,14 @@
+The search for ""대아정밀" "김해룡"" returned the following summary:
+'대아정밀'과 '김해룡'이라는 키워드로 검색된 정보는 다음과 같습니다.
+
+*   **기업 정보:** '대아정밀'이라는 상호를 사용하는 기업은 다수가 존재하며, 일부 기업 정보에서 대표자 성명으로 '김해룡'이 언급된 사례가 있습니다[1][2]. 다만, '대아정밀'은 흔히 사용되는 사명으로, 지역이나 업종에 따라 여러 다른 업체가 존재할 수 있습니다[3][4][5].
+*   **주의사항:** 동일한 사명을 가진 업체가 전국적으로 여러 곳 있을 수 있으므로, 특정하려는 기업이 찾으시는 곳과 일치하는지 사업자등록번호나 소재지 등을 통해 재확인하시길 권장합니다[1][4][5].
+
+찾으시는 특정 대아정밀이 있다면, 해당 업체의 소재지(지역)나 주요 생산 제품 등의 추가 정보를 알려주시면 더 정확한 확인이 가능합니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfBzzXC77iqPaoVJn0SWQa-kyTiAhjJCdakspLEiM8R8G4FRNK_24AB6c5ayQQnGgWq4jWpLuUnUZgwdB6KJKmyZgc0A1zUQDQsIKQrs79yhg_G0Vepytt_ik=)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6oj53lA-WecOmIZOKIRqqZ-kJVXht7YADxVrfCaT9etGrb5IK-xkq7clTEuI4gGHJIUjZbqwr_0sUMCXM3t-xEMTMYonIAGDJu9xB60XkE3-I4f95x6JCuFwghI67dZySewwJ62ZItXpACpzUQQm9oqyQ)
+[3] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhryqMDTpvwNPnSbbDcHoID7ZnnH7mER3dfTM3Wj4ct3RgQaB3cRip6_sWS5xl04LXBF_KKM8iQbN643COa7ESJ5f1Uzy9La16MdYY6Xqy84KDJOLfRj7M36hUos1Qkj-UXNnlUgO5SIZD-g==)
+[4] [jobploy.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHipOplr59pG2uja5fMKKXymzVz4Kbbyfq-Kv5bx2R8DFMKvMkO3PnpG0_i8RiPdAFUv9r5XLp3ihgnB4Dj21bbO3Pi6ZB7MzuYZNtg3NcdlizHhW0QvkcDHXbsBDaiBHtIcNAHYzNEzy8fTTeQ)
+[5] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqL9B1hozPB-Ke9lXIsyjayL23EJIEYgzpChgu2EZBHWKsLZhe20XcOZSj6tn8bJk4fLvGC4DkO2e1W2DG-_GFgKhgdeNMK3pkG4XvZ6tjHap3D51Q9tXF9-JA7rRxEMfB15deJvxa8EA6oewdgnRoJg78Cn_W1geU18Ka7Y0gAAUDTbLCH_a6-dRze2zT)

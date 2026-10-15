@@ -1,0 +1,53 @@
+
+The command exited with code 0.
+Output:
+Total raw lines: 200
+Parsed count: 200
+Bad bizno count: 0
+First 3: [
+  {
+    row: 1,
+    company: '청우정공',
+    bizno: '6090653247',
+    partsCount: 21,
+    raw: '배현명\t\t청우정공\t6090653247\t이상원\t\t경남 김해시 생림면 상동로 78-73 (나전리)\t055-337-2386\t-\t\t-\t\t그 외 자동차용 신품 부품 제조업\t\t\t\t\t\t\t\t'
+  },
+  {
+    row: 2,
+    company: '도경테크',
+    bizno: '6090657239',
+    partsCount: 21,
+    raw: '배현명\t\t도경테크\t6090657239\t하임숙\t\t경남 창원시 의창구 평산로70번길 20 (팔용동)\t055-245-5890\t-\t\t-\t\t그 외 기타 일반목적용 기계 제조업\t\t\t\t\t\t\t\t'
+  },
+  {
+    row: 3,
+    company: '한웅정공',
+    bizno: '6090657409',
+    partsCount: 21,
+    raw: '배현명\t\t한웅정공\t6090657409\t한기수\t\t경남 함안군 칠원읍 무기로 69 (무기리)\t055-587-9258\t-\t\t-\t5\t기타 가공 공작기계 제조업\t\t\t\t\t\t\t\t'
+  }
+]
+Last 3: [
+  {
+    row: 198,
+    company: '플로우솔루션',
+    bizno: '6091316124',
+    partsCount: 21,
+    raw: '배현명\t\t플로우솔루션\t6091316124\t한기웅\t\t경남 창원시 성산구 완암로 50, 메카동 1107호\t055-294-8566\t\t\t\t\t\t\t\t\t\t\t\t\t'
+  },
+  {
+    row: 199,
+    company: '연세에스병원',
+    bizno: '6091320031',
+    partsCount: 21,
+    raw: '배현명\t\t연세에스병원\t6091320031\t김진영\t\t경남 창원시 진해구 해원로32번길 13 (이동)\t055-710-3687\t\t\tyonseih@naver.com\t\t종합 병원\t\t\t\t\t\t\t\t'
+  },
+  {
+    row: 200,
+    company: '경상테크',
+    bizno: '6091322572',
+    partsCount: 21,
+    raw: '배현명\t\t경상테크\t6091322572\t김경민\t\t경남 김해시 진영읍 하계로 247-17 (하계리)\t-\t-\t\t-\t\t자동차용 신품 동력전달장치 제조업\t\t\t\t\t\t\t\t'
+  }
+]
+

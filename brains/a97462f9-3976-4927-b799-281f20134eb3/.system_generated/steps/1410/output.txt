@@ -1,0 +1,44 @@
+The search for "site:nett.kr "동화사" OR "464-0761" OR "1196-3" OR "중앙대로226번길 7-6"" returned the following summary:
+요청하신 검색어들에 대해 '모두의 전화번호부(nett.kr)' 사이트에서 확인된 정보는 다음과 같습니다.
+
+### 1. "동화사" 관련
+*   **서울:** 중구 을지로3가 255-2[1]
+*   **경기 포천시:** 이동면 장암리 476-2 (031-532-4583)[2]
+*   **울산 울주군:** 삼동면 작동리 795-2 (010-2756-7767)[3][4]
+*   **대전 중구:** 선화동 398-2[5]
+*   **기타:** (주)동화사텍 (서울 영등포구)[6], 감곡동화사 (경북 포항시)[7] 등 여러 지역에 동명의 업체 및 사찰 정보가 등록되어 있습니다.
+
+### 2. "1196-3" 관련 (지번 주소)
+다양한 지역에서 해당 지번을 사용하는 업체들이 확인됩니다.
+*   **제주 서귀포시 성산읍 고성리 1196-3:** 깔치[8], 성산황진이가요주점 (064-783-6686)[9]
+*   **제주 제주시 일도일동 1196-3:** 큐피트제주[10]
+*   **전북 전주시 완산구 효자동2가 1196-3:** 완도수산야채막회 전주대점[11]
+*   **부산 동구 초량3동 1196-3:** 쌍용해운 (051-442-5505)[12][13]
+*   **전남 여수시 소호동 1196-3:** 우리마차[14]
+*   **울산 중구 성안동 1196-3:** 카페,기와[15]
+*   **대구 달성군 구지면 응암리 1196-3:** 구지육회비빔밥[16]
+
+### 3. "중앙대로226번길 7-6" 관련
+*   **부산광역시 동구 중앙대로226번길 7-6 (초량동):** '가배정'이라는 업체가 등록되어 있으며, 전화번호는 051-465-5007입니다[17].
+
+### 4. "464-0761" 관련
+*   해당 번호로 직접 검색한 결과, '모두의 전화번호부' 사이트 내에서 일치하는 정보는 발견되지 않았습니다.
+
+Sources:
+[1] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUsyKPV8E_lhCixhTjYCw1N-FFYhvz1MkNBfJ4XuB53jRmLA5PbzWM-JPrbX_V_QqXzilOrIGMnwL2vjZLjesdq5nRLcuC13S6Fv-4AvvVAlpi1L5NgEydRFGrQzWjo5zDtOmvtzoY5S4CCQJ8aYMFjB80UYP7TYwr0V_NPMC7hFJkfpxg9WQxqq33NcP79N6HTi8lrqlWY4Z0AymlVEda3fDx0-9f)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBa_VbkMcQIgR0pgTSXsj1bHu29TIUUWAuVEDhP-c26F-fZe0v_6rnquVrVneqcjP_JrXd051GcEReIGCCLS-fixSOOVmrG_yrFqBvJmvBxWkAHv4gpgR3vXFOAftSjl2Um-QhTrssUL7dtyOkQI6UGPr-hAAbf0Mrz8vgdRgCYwaGSQzmw3IMRLrVaDXyaFgEBZY=)
+[3] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmkcttoLRvmt0xmOoEqdw-HJLVxCPqlmNloEMSySUqqear-ZFeN_Afp--FfbyTcI2cSQKRMwDALsEfiSLmVE84xJ1lgmCzHyNUcQH7oJ7BKjHGVU-Lr2K_MXG8B0Vm3mKyTRYPP2kDWu43pRFq2ALtZPuOVPlBTnldbetFGKeweu3YLMStOWcACZ05mByt4g_K_aeHI5aWg1OKCIA94yFVAbXbukyN)
+[4] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLaPExqktzakY3K-eJx49-4reYlOyqX-sYksvDHd_VCEF2VALcGTnmn6KmcDzzwSv_cQwY-e9SQKSALJM8zfdXILC2WFHoex_xEAZ2HdbNXmbggC4_-oUcTYGntehXDvTkU_y4fmHnyMVLYhIk2T78nkpX_QmnpI9gWIkwjy4VLKu7J5Fk8E8FjIM3E0vaB4Dlk0=)
+[5] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQkN_IoFAfodYrlbfHOvDhJsKi6LzYd-JPmYXMgUsefUZ_EIPnz7rO9KbhOfk1hE48RuXacTKoYDZH4Kjgg9E_J2wL1AOr14KQxTNGEIZUlVmVkvAek7LRls6eL9sI60rDbknM4NHWstwl3WGyfL4Af9QA-Rj_bRINMJ56sEIFKq3ggan3KSXf3C_BOiLvXoAyoHZF01lqzLDrDMF2PTS252mPN6g4)
+[6] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcmg5PZpjlZ_PJRMTZtsNcYIlpbQeSBb5ZQGwGzcV88ivFu7vXWs2VONHeCZBO7F8SijoKgh33tWrRR-X2lx70Wu792RO5YDKjfNUXxSzjIl-cFhcR2iG69d0F7P94IMMGnxO-BSHr4LTQ6-UhxzujArFk2NO3Aejf_bShUfTqJ9lE2DFFiPU4_q0UjWyXhIh20GmTkvdBvWQb4umsheabXrb7yB6CaQWRRY0=)
+[7] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5nRq3EcH1JUsbBZ1Tv1z4q1l3YGR2SZhePFqVCpj1jrQy3ZthPhooti1GpgZ7y-CK_DhUZ6dAF9xtgIBehbWnAeWnnX6kb3DvVeBnmrtWvX6UapFwEj3IjGjSFDu62LijuD9AH32nUtyROOgwf1FiTv037rk_VWTe9trJ6x31uha9BfJ0NFeg8RBHnSTnRUl5JwcY5KDlP6okSZQoOGDM0-G7)
+[8] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1S4EIwFvSrrIFMdU36rsZyL9YOYvi9_i-DgNRGWBU1Bh6y93mfHlVKTl6UR4vHVv76L-Fz3_tqtZ0mQcb8WFFnqx328I9mTgNWj84IgqWsIzgwASDSX7tFxc8gXE4sg8K1uxooiqT7te_DvurFgvll7IfO4anfFz8GjDSkPOziQkW3cy2Aq5o3Wdmj0Fnl09PqaWmSX7mkFvaeZzTN7tHDvJFLFR0CpA0qk00ipTcgHzaMonNB1az9VTZ9Embpe_mihMrRavW3KOErAD-FTl6)
+[9] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBsCSK5rRluLYK-a4mLWnpfG9z1iuQP85besegHhW2AZVS2VRDB2nkx3xZJ8zgfb5muUOVNASzw9gG1RWHoYY7hrSqAQ6O_sYDdH5ppc6U8ygT-ulEvf3RQQVeSlAcho429iuyzHlgp8flcMlPjMeJgYeNDKYXjPs3NjjS4WNjLHXJ7oRbh9NPrn5DRwNLsp9KjQzRxxI4d_GcT4erPztXBCk4cn8BEIymoTj2G8kAzqXJ57b7Lt9a-SP5j3Qj6bxD9P6VrOAoLvJd)
+[10] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SCp74geychtRQ2JCEQZ3vLFe5KcCqFWGv48ZFHrW5oSLc8FhdlNPCc5_pT3BQ5UPreUahjhLKuJOrzKa3JFngHKepxnC38F3fQH5Kf39hzFGV0Q0Zj8XyGGvy51hkZBXjX6B4-Y3TcW9BM0ai7LHMfFP94OK-NSZvk_JMQt6N88g6G9C2El1M6m1maEINUMq0mbSBCs0sgmDlXmOuEFVNPYDIBI=)
+[11] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtWc1XCWAyhAsV5BchwMaykRYEoOl0KeidPKnIYjfKUL4wOl_Fx1D4cZIg1wsHG54i7BfQKFuPly6Rulmlztgi_5gJQPGf3QYZ9qb--qJmDcY8LarcYktVzVc1pLidM37iDiCFvFSwcqk8wvZYKp6vnAUn46SSpHkMHaxRKnwtRhQ-06RwWO5e6kko0X-GFGMJj-azU1sNbdn97VULQ1nw5nfCoXqe7fZzGPeF0j28PQFPwWhwXTNbnYU3QHOB0fJNq5wAwO5EJfLiJwmKT7Jrf0kh6Drtev-9091WiAb_TcM5Ao8MC0f_)
+[12] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvE5EwO9xl-INtMESIf42kSPPCuY_FQkdvZILbnwW85UzxpeWXZ3bKXTH5475BmSZ7D8q6L9dXzP8Xnuoy6hOONFLNgUqsS3Vf4-mjs33kimhJ6iiqZCKtoQRaOaOfEUKQ-pJqzrOO2VbTN9ItU9TPMPJhZJVzYdPvHOKK7cTVdznnA2Dc1GFwyoG1m9tII0x4rIvEcrWIviBAT2bWieWqWH2cMT0Xd2UDsNHTJWM=)
+[13] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpbJYZTOUWfuEnaMGMWqCslnLJSX1ya1WVyE9ZZrrTqcniqtByR9NQ5fclvY2Q44qq3rEZ5X5xIf0pXOabdpP-IRcfkDhLW2ckBXqTJZyEy6OWmnjtcBtpfTLkZjWJDW3g3-DpU_Y7ftqd4BpdoGRaCts-K2gFbDEF3_Je74rBjoF_4_h63tc_UrsbQSt6vC20nleXFvYFoaQSrA==)
+[14] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgZOWZMcUmc7dqQNevzWBqvpTMYsid8wSe34jwj-xxfTITzYOMSigS7DaSKuS2YNv8PYnGb1AEjz5VhVTCUqccKeb-deyl2DYHE4ip-si8QPkJHp-N9F2qSs5_D4KdPPfIjEJlrQUHcm0R9qfeI5fcmxY6T2IljGJGghLxnhtobHNylND6z39urNNlsodBMAbBsMrnG6qNAAD75rE=)
+[15] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLultheUUXAuwK_35JpeMb_lJYJwtQa_lFSJQScikvmsl3tXFZU2uX1Kr8szhATu93si17LjS_83Y1aqOMBSFdAqH5Vzg9JIVNGhcwY1w9BsYpnqAzpnXypPYuofcm86eOwUXxbijKAWVjFq7VGHfqUuwjLg37ipyWBxUHie1ascYVEllQZ5KrM9T7AyTAj6Q6JaDVRk2TulgoafIO09s=)
+[16] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP5FarEEzfMQYvJJ1lHIft-h8M6GZBLe4aFtoRIUbXeNtZ4YB6wkA09wXQyR0ODHfRviFW0bBhuf0uZVXan_MbO308X_Po5LIZph6MO5-SI-2CQ6Y5K_fPu0Q6BS8kH_XIPm3vT9umK_7SqsE7s3wlqRFuzcVhgffBEEL8ZVjG2TUnFFoilk0zZ9DgBvSv5JU1aqyjcCLBSrudup4eIguXRFFEw8436C5_g1oScW-8x3pOCZgH_aja)
+[17] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeXuTo_jkBGxrF-VlGNoyqak0jYRFkdnJN2kFNWeRfoUW9H7s0Ch7QVulU3OQc8gXoVSI_qJQtRlbLrIAZqajUqsJ9hjj_JaM-Tibru1jfy4bhwoRPr9-lMyn0XQPPQkHp3o8zoZf5tJccqclePpTGRC30-XmNqr_YydhLUwR8WN6S8IC9ci3izPwNS1PSK4M6Uw==)

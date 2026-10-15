@@ -1,0 +1,485 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/cm/CM0100M001GE.nice
+- Page Title: 기업정보 조회·신용분석보고서 - 나이스비즈인포 | NICE평가정보
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=e6]:
+    - banner [ref=e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=e8]
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - heading [level=1] [ref=e11]:
+            - link "나이스 비즈인포" [ref=e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - button "쿠폰" [ref=e16] [cursor=pointer]
+            - listitem [ref=e18]:
+              - link "로그인" [ref=e19] [cursor=pointer]:
+                - /url: /cm/CM0200M001GE.nice
+            - listitem [ref=e20]:
+              - link "장바구니" [ref=e21] [cursor=pointer]:
+                - /url: /sp/SP0100M001GE.nice
+            - listitem [ref=e22]:
+              - button "추천 서비스 메뉴보기" [ref=e23] [cursor=pointer]
+        - navigation [ref=e26]:
+          - heading "주요 네비게이션" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "홈" [ref=e30] [cursor=pointer]:
+                - /url: /cm/CM0100M001GE.nice
+            - listitem [ref=e31]:
+              - button "내 사업장 관리" [ref=e32] [cursor=pointer]
+            - listitem [ref=e34]:
+              - link "비즈마켓" [ref=e35] [cursor=pointer]:
+                - /url: /bm/BM0100M001GE.nice
+            - listitem [ref=e36]:
+              - link "블로그 새 창 열림" [ref=e37] [cursor=pointer]:
+                - /url: https://nice-info.inblog.io/
+                - text: 블로그
+                - generic [ref=e38]: 새 창 열림
+            - listitem [ref=e39]:
+              - button "고객센터" [ref=e40] [cursor=pointer]
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - paragraph [ref=e48]: 사업자의 재무 및 신용 정보를 확인해 보세요.
+        - generic [ref=e49]:
+          - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=e50]
+          - generic [ref=e51]:
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - textbox "키워드검색" [ref=e57]:
+                  - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                - generic [ref=e58]: 키워드검색
+              - button "검색하기" [ref=e60] [cursor=pointer]
+            - button "조건검색" [ref=e63] [cursor=pointer]
+      - generic [ref=e65]:
+        - heading "NICE 평가정보가 엄선한 B2B 솔루션을 만나보세요" [level=2] [ref=e66]
+        - generic [ref=e67]:
+          - button "이전 슬라이드" [ref=e68] [cursor=pointer]
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - button "(주)나이스코어 (주)나이스코어 NICE코어(NICECORE) NICE그룹의 데이터 역량을 활용한 디지털 광고/마케팅 서비스" [ref=e73] [cursor=pointer]:
+                - img "(주)나이스코어" [ref=e75]
+                - generic [ref=e79]:
+                  - generic [ref=e80]:
+                    - paragraph [ref=e81]: (주)나이스코어
+                    - paragraph [ref=e82]:
+                      - generic [ref=e83]: NICE코어(NICECORE)
+                  - paragraph [ref=e84]: NICE그룹의 데이터 역량을 활용한 디지털 광고/마케팅 서비스
+            - listitem [ref=e85]:
+              - button "더선한(주) 더선한(주) 피크로(PEAKRO) 영업 고정비 90% 절감! 알아서 매출을 만드는 B2B 지능형 세일즈 자동화 솔루션, PEAKRO" [ref=e86] [cursor=pointer]:
+                - img "더선한(주)" [ref=e88]
+                - generic [ref=e92]:
+                  - generic [ref=e93]:
+                    - paragraph [ref=e94]: 더선한(주)
+                    - paragraph [ref=e95]:
+                      - generic [ref=e96]: 피크로(PEAKRO)
+                  - paragraph [ref=e97]: 영업 고정비 90% 절감! 알아서 매출을 만드는 B2B 지능형 세일즈 자동화 솔루션, PEAKRO
+            - listitem [ref=e98]:
+              - button "NICE평가정보(주) NICE평가정보(주) URL 해킹안심 의심 URL 검사부터 피싱 피해보상까지, URL 해킹안심" [ref=e99] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e101]
+                - generic [ref=e105]:
+                  - generic [ref=e106]:
+                    - paragraph [ref=e107]: NICE평가정보(주)
+                    - paragraph [ref=e108]:
+                      - generic [ref=e109]: URL 해킹안심
+                  - paragraph [ref=e110]: 의심 URL 검사부터 피싱 피해보상까지, URL 해킹안심
+            - listitem [ref=e111]:
+              - button "(주)현대벤디스 (주)현대벤디스 식권대장 모바일식권 1위, 식권대장" [ref=e112] [cursor=pointer]:
+                - img "(주)현대벤디스" [ref=e114]
+                - generic [ref=e118]:
+                  - generic [ref=e119]:
+                    - paragraph [ref=e120]: (주)현대벤디스
+                    - paragraph [ref=e121]:
+                      - generic [ref=e122]: 식권대장
+                  - paragraph [ref=e123]: 모바일식권 1위, 식권대장
+            - listitem [ref=e124]:
+              - button "한국무역통계진흥원 한국무역통계진흥원 한국무역통계 정보포털 TRASS (Trade Statistics Service) 국내 무역통계 전문기관인 한국무역통계진흥원, TRASS" [ref=e125] [cursor=pointer]:
+                - img "한국무역통계진흥원" [ref=e127]
+                - generic [ref=e131]:
+                  - generic [ref=e132]:
+                    - paragraph [ref=e133]: 한국무역통계진흥원
+                    - paragraph [ref=e134]:
+                      - generic [ref=e135]: 한국무역통계 정보포털 TRASS (Trade Statistics Service)
+                  - paragraph [ref=e136]: 국내 무역통계 전문기관인 한국무역통계진흥원, TRASS
+            - listitem [ref=e137]:
+              - 'button "디엑스아이알(주) 디엑스아이알(주) DXIR : AI 기반 의사결정 인텔리전스 AI 기반 의사결정 인텔리전스" [ref=e138] [cursor=pointer]':
+                - img "디엑스아이알(주)" [ref=e140]
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - paragraph [ref=e146]: 디엑스아이알(주)
+                    - paragraph [ref=e147]:
+                      - generic [ref=e148]: "DXIR : AI 기반 의사결정 인텔리전스"
+                  - paragraph [ref=e149]: AI 기반 의사결정 인텔리전스
+            - listitem [ref=e150]:
+              - button "(주)5초광고 (주)5초광고 파이브닷(FiveDot) 구독형 광고제작 서비스 플랫폼" [ref=e151] [cursor=pointer]:
+                - img "(주)5초광고" [ref=e153]
+                - generic [ref=e160]:
+                  - generic [ref=e161]:
+                    - paragraph [ref=e162]: (주)5초광고
+                    - paragraph [ref=e163]:
+                      - generic [ref=e164]: 파이브닷(FiveDot)
+                  - paragraph [ref=e165]: 구독형 광고제작 서비스 플랫폼
+            - listitem [ref=e166]:
+              - button "NICE평가정보(주) NICE평가정보(주) NICE MaaS(Mydata-as-a-Service) 비 마이데이터 사업자를 위한 NICE 지키미 마이데이터 서비스" [ref=e167] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e169]
+                - generic [ref=e176]:
+                  - generic [ref=e177]:
+                    - paragraph [ref=e178]: NICE평가정보(주)
+                    - paragraph [ref=e179]:
+                      - generic [ref=e180]: NICE MaaS(Mydata-as-a-Service)
+                  - paragraph [ref=e181]: 비 마이데이터 사업자를 위한 NICE 지키미 마이데이터 서비스
+            - listitem [ref=e182]:
+              - button "NICE평가정보(주) NICE평가정보(주) 나이스지키미 맞춤대출 온라인 대출금리/한도 비교 서비스" [ref=e183] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e185]
+                - generic [ref=e192]:
+                  - generic [ref=e193]:
+                    - paragraph [ref=e194]: NICE평가정보(주)
+                    - paragraph [ref=e195]:
+                      - generic [ref=e196]: 나이스지키미 맞춤대출
+                  - paragraph [ref=e197]: 온라인 대출금리/한도 비교 서비스
+            - listitem [ref=e198]:
+              - button "NICE평가정보(주) NICE평가정보(주) NICE 제휴구독서비스 구독형 신용관리 서비스" [ref=e199] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e201]
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - paragraph [ref=e210]: NICE평가정보(주)
+                    - paragraph [ref=e211]:
+                      - generic [ref=e212]: NICE 제휴구독서비스
+                  - paragraph [ref=e213]: 구독형 신용관리 서비스
+            - listitem [ref=e214]:
+              - button "NICE평가정보(주) NICE평가정보(주) eCREDIT NICE평가정보의 NICE한 기업평가" [ref=e215] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e217]
+                - generic [ref=e224]:
+                  - generic [ref=e225]:
+                    - paragraph [ref=e226]: NICE평가정보(주)
+                    - paragraph [ref=e227]:
+                      - generic [ref=e228]: eCREDIT
+                  - paragraph [ref=e229]: NICE평가정보의 NICE한 기업평가
+            - listitem [ref=e230]:
+              - button "곳간로지스(주) 곳간로지스(주) primo(프리모) 화물차용 카카오택시, AI기반 화물운송중개서비스" [ref=e231] [cursor=pointer]:
+                - img "곳간로지스(주)" [ref=e233]
+                - generic [ref=e240]:
+                  - generic [ref=e241]:
+                    - paragraph [ref=e242]: 곳간로지스(주)
+                    - paragraph [ref=e243]:
+                      - generic [ref=e244]: primo(프리모)
+                  - paragraph [ref=e245]: 화물차용 카카오택시, AI기반 화물운송중개서비스
+            - listitem [ref=e246]:
+              - button "(주)비지니스캔버스 (주)비지니스캔버스 리캐치(Re:catch) B2B 매출 성장을 위한 AI CRM 리캐치 (Re:catch)" [ref=e247] [cursor=pointer]:
+                - img "(주)비지니스캔버스" [ref=e249]
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - paragraph [ref=e258]: (주)비지니스캔버스
+                    - paragraph [ref=e259]:
+                      - generic [ref=e260]: 리캐치(Re:catch)
+                  - paragraph [ref=e261]: B2B 매출 성장을 위한 AI CRM 리캐치 (Re:catch)
+            - listitem [ref=e262]:
+              - button "(주)딥서치 (주)딥서치 리스팅(Listing) 투자 유치부터 경영권 거래까지 한 번에 - M&A 플랫폼, 리스팅" [ref=e263] [cursor=pointer]:
+                - img "(주)딥서치" [ref=e265]
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - paragraph [ref=e274]: (주)딥서치
+                    - paragraph [ref=e275]:
+                      - generic [ref=e276]: 리스팅(Listing)
+                  - paragraph [ref=e277]: 투자 유치부터 경영권 거래까지 한 번에 - M&A 플랫폼, 리스팅
+            - listitem [ref=e278]:
+              - button "(주)포시에스 (주)포시에스 이폼사인(eformsign) 어디서든 전자계약, 전자서명 이폼사인" [ref=e279] [cursor=pointer]:
+                - img "(주)포시에스" [ref=e281]
+                - generic [ref=e288]:
+                  - generic [ref=e289]:
+                    - paragraph [ref=e290]: (주)포시에스
+                    - paragraph [ref=e291]:
+                      - generic [ref=e292]: 이폼사인(eformsign)
+                  - paragraph [ref=e293]: 어디서든 전자계약, 전자서명 이폼사인
+            - listitem [ref=e294]:
+              - button "NICE평가정보(주) NICE평가정보(주) GLOBAL BizLINE 전 세계 1.5억 개 해외기업 정보 - 실시간 조회부터 현지 신용조사까지 한 번에" [ref=e295] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e297]
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - paragraph [ref=e306]: NICE평가정보(주)
+                    - paragraph [ref=e307]:
+                      - generic [ref=e308]: GLOBAL BizLINE
+                  - paragraph [ref=e309]: 전 세계 1.5억 개 해외기업 정보 - 실시간 조회부터 현지 신용조사까지 한 번에
+            - listitem [ref=e310]:
+              - button "NICE평가정보(주) NICE평가정보(주) NICE BizLINE '세상의 모든 기업정보' 1,100만+ 기업정보를 하나의 솔루션에서" [ref=e311] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e313]
+                - generic [ref=e320]:
+                  - generic [ref=e321]:
+                    - paragraph [ref=e322]: NICE평가정보(주)
+                    - paragraph [ref=e323]:
+                      - generic [ref=e324]: NICE BizLINE
+                  - paragraph [ref=e325]: "'세상의 모든 기업정보' 1,100만+ 기업정보를 하나의 솔루션에서"
+            - listitem [ref=e326]:
+              - button "NICE평가정보(주) NICE평가정보(주) NICE 신용관리서비스 B2C 플랫폼 신용정보 조회 서비스" [ref=e327] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e329]
+                - generic [ref=e336]:
+                  - generic [ref=e337]:
+                    - paragraph [ref=e338]: NICE평가정보(주)
+                    - paragraph [ref=e339]:
+                      - generic [ref=e340]: NICE 신용관리서비스
+                  - paragraph [ref=e341]: B2C 플랫폼 신용정보 조회 서비스
+            - listitem [ref=e342]:
+              - button "(주)나이스코어 (주)나이스코어 NICE코어(NICECORE) NICE그룹의 데이터 역량을 활용한 디지털 광고/마케팅 서비스" [ref=e343] [cursor=pointer]:
+                - img "(주)나이스코어" [ref=e345]
+                - generic [ref=e352]:
+                  - generic [ref=e353]:
+                    - paragraph [ref=e354]: (주)나이스코어
+                    - paragraph [ref=e355]:
+                      - generic [ref=e356]: NICE코어(NICECORE)
+                  - paragraph [ref=e357]: NICE그룹의 데이터 역량을 활용한 디지털 광고/마케팅 서비스
+            - listitem [ref=e358]:
+              - button "더선한(주) 더선한(주) 피크로(PEAKRO) 영업 고정비 90% 절감! 알아서 매출을 만드는 B2B 지능형 세일즈 자동화 솔루션, PEAKRO" [ref=e359] [cursor=pointer]:
+                - img "더선한(주)" [ref=e361]
+                - generic [ref=e368]:
+                  - generic [ref=e369]:
+                    - paragraph [ref=e370]: 더선한(주)
+                    - paragraph [ref=e371]:
+                      - generic [ref=e372]: 피크로(PEAKRO)
+                  - paragraph [ref=e373]: 영업 고정비 90% 절감! 알아서 매출을 만드는 B2B 지능형 세일즈 자동화 솔루션, PEAKRO
+            - listitem [ref=e374]:
+              - button "NICE평가정보(주) NICE평가정보(주) URL 해킹안심 의심 URL 검사부터 피싱 피해보상까지, URL 해킹안심" [ref=e375] [cursor=pointer]:
+                - img "NICE평가정보(주)" [ref=e377]
+                - generic [ref=e384]:
+                  - generic [ref=e385]:
+                    - paragraph [ref=e386]: NICE평가정보(주)
+                    - paragraph [ref=e387]:
+                      - generic [ref=e388]: URL 해킹안심
+                  - paragraph [ref=e389]: 의심 URL 검사부터 피싱 피해보상까지, URL 해킹안심
+            - listitem [ref=e390]:
+              - button "(주)현대벤디스 (주)현대벤디스 식권대장 모바일식권 1위, 식권대장" [ref=e391] [cursor=pointer]:
+                - img "(주)현대벤디스" [ref=e393]
+                - generic [ref=e400]:
+                  - generic [ref=e401]:
+                    - paragraph [ref=e402]: (주)현대벤디스
+                    - paragraph [ref=e403]:
+                      - generic [ref=e404]: 식권대장
+                  - paragraph [ref=e405]: 모바일식권 1위, 식권대장
+          - button "다음 슬라이드" [ref=e406] [cursor=pointer]
+      - generic [ref=e408]:
+        - generic [ref=e409]:
+          - heading "슬라이드 컨텐츠" [level=2] [ref=e410]
+          - tabpanel [ref=e655]:
+            - link [ref=e657] [cursor=pointer]:
+              - /url: /ep/EP0100M003GE.nice?tab=Radar
+              - img "경쟁사 레이더. 나라장터 공개 데이터를 분석해 경쟁사의 투찰 전략과 낙찰 성과를 제공합니다. 투찰·낙찰 건수 및 누적 낙찰 금액 | 업종·물품별 경쟁사 강점 분석 | 공고별 투찰 이력" [ref=e658]
+          - generic [ref=e417]:
+            - generic [ref=e418]:
+              - button "1" [ref=e420] [cursor=pointer]
+              - button "2" [ref=e422] [cursor=pointer]
+              - button "3" [ref=e424] [cursor=pointer]
+              - button "4" [ref=e426] [cursor=pointer]
+              - button "5" [ref=e428] [cursor=pointer]
+              - button "6" [ref=e430] [cursor=pointer]
+              - button "7" [ref=e432] [cursor=pointer]
+              - button "8" [ref=e434] [cursor=pointer]
+            - button "슬라이드 정지" [ref=e435] [cursor=pointer]
+        - generic [ref=e437]:
+          - heading "순위 컨텐츠" [level=2] [ref=e438]
+          - generic [ref=e440]:
+            - tablist "Tabs Navigation" [ref=e441]:
+              - tab "이슈 기업" [selected] [ref=e442] [cursor=pointer]
+              - tab "검색 순위" [ref=e443] [cursor=pointer]
+            - tabpanel "이슈 기업" [ref=e444]:
+              - heading "'이슈기업' 탭 컨텐츠 시작" [level=4] [ref=e445]
+              - list [ref=e447]:
+                - listitem [ref=e448]:
+                  - button "1 (주)LG" [ref=e449] [cursor=pointer]:
+                    - generic [ref=e450]:
+                      - generic [ref=e451]: "1"
+                      - generic [ref=e453]: (주)LG
+                - listitem [ref=e454]:
+                  - button "2 (주)진영" [ref=e455] [cursor=pointer]:
+                    - generic [ref=e456]:
+                      - generic [ref=e457]: "2"
+                      - generic [ref=e459]: (주)진영
+                - listitem [ref=e460]:
+                  - button "3 (주)디비아이엔씨" [ref=e461] [cursor=pointer]:
+                    - generic [ref=e462]:
+                      - generic [ref=e463]: "3"
+                      - generic [ref=e465]: (주)디비아이엔씨
+                - listitem [ref=e466]:
+                  - button "4 SK(주)" [ref=e467] [cursor=pointer]:
+                    - generic [ref=e468]:
+                      - generic [ref=e469]: "4"
+                      - generic [ref=e471]: SK(주)
+                - listitem [ref=e472]:
+                  - button "5 현대자동차(주)" [ref=e473] [cursor=pointer]:
+                    - generic [ref=e474]:
+                      - generic [ref=e475]: "5"
+                      - generic [ref=e477]: 현대자동차(주)
+      - generic [ref=e478]:
+        - heading "보고서 상품을 확인하세요" [level=2] [ref=e479]
+        - generic [ref=e480]:
+          - generic [ref=e481]:
+            - generic [ref=e482]:
+              - img "기업 분석 보고서(국문)" [ref=e483]
+              - generic [ref=e484]:
+                - button "요약 샘플" [ref=e485] [cursor=pointer]
+                - button "상세 샘플" [ref=e487] [cursor=pointer]
+            - paragraph [ref=e490]: 기업 분석 보고서(국문)
+          - generic [ref=e491]:
+            - generic [ref=e492]:
+              - img "재무제표" [ref=e493]
+              - generic [ref=e494]:
+                - button "국문 샘플" [ref=e495] [cursor=pointer]
+                - button "영문 샘플" [ref=e497] [cursor=pointer]
+            - paragraph [ref=e500]: 재무제표
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - img "기업신용 알리미" [ref=e503]
+              - button "샘플 보기" [ref=e505] [cursor=pointer]
+            - paragraph [ref=e508]: 기업신용 알리미
+          - generic [ref=e509]:
+            - generic [ref=e510]:
+              - img "기업 분석 보고서(영문)" [ref=e511]
+              - generic [ref=e512]:
+                - button "요약 샘플" [ref=e513] [cursor=pointer]
+                - button "상세 샘플" [ref=e515] [cursor=pointer]
+            - paragraph [ref=e518]: 기업 분석 보고서(영문)
+          - generic [ref=e519]:
+            - generic [ref=e520]:
+              - img "기업 분석 보고서(일문)" [ref=e521]
+              - generic [ref=e522]:
+                - button "요약 샘플" [ref=e523] [cursor=pointer]
+                - button "상세 샘플" [ref=e525] [cursor=pointer]
+            - paragraph [ref=e528]: 기업 분석 보고서(일문)
+      - generic [ref=e529]:
+        - generic [ref=e531]:
+          - tablist "Tabs Navigation" [ref=e532]:
+            - tab "종합" [selected] [ref=e533] [cursor=pointer]
+            - tab "경제" [ref=e534] [cursor=pointer]
+            - tab "기술" [ref=e535] [cursor=pointer]
+          - paragraph [ref=e536]: 2026-10-14
+          - tabpanel "종합"
+        - generic [ref=e537]:
+          - heading "'종합 ' 탭 컨텐츠 시작" [level=4] [ref=e538]
+          - list [ref=e540]:
+            - listitem [ref=e541]:
+              - button "종합 우크라 서방 정보 공유 중단 우려…러시아 공격 계속" [ref=e542] [cursor=pointer]:
+                - generic [ref=e543]:
+                  - generic [ref=e544]: 종합
+                  - generic [ref=e545]: 우크라 서방 정보 공유 중단 우려…러시아 공격 계속
+            - listitem [ref=e546]:
+              - button "종합 김민석 신천지 집단 가입 확인…경선 개입 의혹 제기" [ref=e547] [cursor=pointer]:
+                - generic [ref=e548]:
+                  - generic [ref=e549]: 종합
+                  - generic [ref=e550]: 김민석 신천지 집단 가입 확인…경선 개입 의혹 제기
+            - listitem [ref=e551]:
+              - button "종합 이 대통령 인천 흉기 난동 사건에 강력한 예방 조치 약속" [ref=e552] [cursor=pointer]:
+                - generic [ref=e553]:
+                  - generic [ref=e554]: 종합
+                  - generic [ref=e555]: 이 대통령 인천 흉기 난동 사건에 강력한 예방 조치 약속
+            - listitem [ref=e556]:
+              - button "종합 브런슨 사령관 전작권 전환 조건 충족이 필수" [ref=e557] [cursor=pointer]:
+                - generic [ref=e558]:
+                  - generic [ref=e559]: 종합
+                  - generic [ref=e560]: 브런슨 사령관 전작권 전환 조건 충족이 필수
+            - listitem [ref=e561]:
+              - button "종합 사우디 아람코 본사 미사일 공격…후티 소행 가능성" [ref=e562] [cursor=pointer]:
+                - generic [ref=e563]:
+                  - generic [ref=e564]: 종합
+                  - generic [ref=e565]: 사우디 아람코 본사 미사일 공격…후티 소행 가능성
+            - listitem [ref=e566]:
+              - button "종합 한동훈 강경화 발언 압박은 부적절…靑 국민 우습게 보지 마라" [ref=e567] [cursor=pointer]:
+                - generic [ref=e568]:
+                  - generic [ref=e569]: 종합
+                  - generic [ref=e570]: 한동훈 강경화 발언 압박은 부적절…靑 국민 우습게 보지 마라
+            - listitem [ref=e571]:
+              - button "종합 서울 기온 급락 올가을 최저 9.3도 기록" [ref=e572] [cursor=pointer]:
+                - generic [ref=e573]:
+                  - generic [ref=e574]: 종합
+                  - generic [ref=e575]: 서울 기온 급락 올가을 최저 9.3도 기록
+            - listitem [ref=e576]:
+              - button "종합 정의선 모디 총리와 면담…인도에 20조8000억 원 투자 발표" [ref=e577] [cursor=pointer]:
+                - generic [ref=e578]:
+                  - generic [ref=e579]: 종합
+                  - generic [ref=e580]: 정의선 모디 총리와 면담…인도에 20조8000억 원 투자 발표
+      - generic [ref=e581]:
+        - heading "국내 1위의 금융인프라 기업 NICE" [level=2] [ref=e582]
+        - generic [ref=e583]:
+          - generic [ref=e584]:
+            - generic [ref=e585]:
+              - heading "eCREDIT" [level=3] [ref=e586]
+              - paragraph [ref=e587]: 기업 신용평가 ESG/SH(안전보건)평가
+            - link "바로가기" [ref=e589] [cursor=pointer]:
+              - /url: https://www.ecredit.co.kr/partner/NBI1
+          - generic [ref=e591]:
+            - generic [ref=e592]:
+              - heading "NICE BizAPI" [level=3] [ref=e593]
+              - paragraph [ref=e594]: 기업 정보 활용의 GUIDE BOOK
+            - link "바로가기" [ref=e596] [cursor=pointer]:
+              - /url: https://openapi.nicebizline.com
+          - generic [ref=e598]:
+            - generic [ref=e599]:
+              - heading "NICE BizLINE" [level=3] [ref=e600]
+              - paragraph [ref=e601]: 국내 최고 전문가 지식포탈 서비스
+            - link "바로가기" [ref=e603] [cursor=pointer]:
+              - /url: https://landing.nicebizline.com/landing/nbl
+          - generic [ref=e605]:
+            - generic [ref=e606]:
+              - heading "채권회수지원서비스" [level=3] [ref=e607]
+              - paragraph [ref=e608]: 가장 효율적인 채권회수 방법
+            - link "바로가기" [ref=e610] [cursor=pointer]:
+              - /url: https://creditor.nicebizline.com
+    - button "KakaoChannel" [ref=e612] [cursor=pointer]
+    - button "FAQ" [ref=e615] [cursor=pointer]
+    - contentinfo [ref=e618]:
+      - generic [ref=e619]:
+        - heading "NICE BizINFO" [level=2] [ref=e620]
+        - generic [ref=e621]:
+          - generic [ref=e622]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=e623]
+            - generic [ref=e624]:
+              - heading "고객 지원 및 정보" [level=4] [ref=e625]
+              - list [ref=e626]:
+                - listitem [ref=e627]:
+                  - link "회사소개" [ref=e628] [cursor=pointer]:
+                    - /url: https://www.niceinfo.co.kr/main.nice
+                - listitem [ref=e629]:
+                  - link "이용약관" [ref=e630] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=TRM
+                - listitem [ref=e631]:
+                  - link [ref=e632] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=PIP
+                    - strong [ref=e633]: 개인정보 처리방침
+                - listitem [ref=e634]:
+                  - link "법적근거" [ref=e635] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=LEG
+                - listitem [ref=e636]:
+                  - link "문의/도움말" [ref=e637] [cursor=pointer]:
+                    - /url: /cs/CS0100M007GE.nice?tab=Question
+                - listitem [ref=e638]:
+                  - link "사이트맵" [ref=e639] [cursor=pointer]:
+                    - /url: /cs/CS0100M008GE.nice
+            - generic [ref=e640]:
+              - generic [ref=e641]: 주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보
+              - generic [ref=e642]:
+                - paragraph [ref=e643]: 대표자 김종윤
+                - paragraph [ref=e644]: 사업자번호 116-81-15020
+                - paragraph [ref=e645]: 통신판매업신고번호 2024-서울영등포-1095
+              - generic [ref=e646]:
+                - paragraph [ref=e647]: TEL 02-3771-1514
+                - paragraph [ref=e648]:
+                  - text: Email
+                  - link "help@nicebizinfo.com" [ref=e649] [cursor=pointer]:
+                    - /url: mailto:help@nicebizinfo.com
+            - paragraph [ref=e650]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link [ref=e652] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=e653]
+        - paragraph [ref=e654]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

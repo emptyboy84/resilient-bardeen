@@ -1,0 +1,18 @@
+The search for "site:bizno.net "동화" "부산"" returned the following summary:
+비즈노(bizno.net)에서 검색된 '동화'를 포함하고 부산에 소재한 주요 기업 정보는 다음과 같습니다.
+
+*   **(주)동화엔텍**: 부산광역시 강서구 녹산산단261로 7에 위치하며, 열교환기 등을 제조하는 중견기업입니다[1].
+*   **(주)동화정밀공업**: 부산광역시 사상구 낙동대로970번길 86에 위치하며, 자동차 및 모터 부품을 제조하는 중소기업입니다[2].
+*   **(주)동화종합건재**: 부산광역시 사상구 모덕로 34에 소재하고 있습니다[3].
+*   **동화공업사**: 부산광역시 사상구 학감대로 263에 위치했던 기업으로, 현재는 폐업 상태입니다[4].
+*   **(주)동화기연**: 부산광역시 강서구 미음산단로8번길 85에 위치했던 기업으로, 현재는 폐업 상태입니다[5].
+
+참고로, '동화빌딩' 등 기업명에 '동화'가 포함된 건물명이나 주소를 사용하는 다른 사업장(예: (주)비엘히어링)도 검색될 수 있습니다[6]. 더 자세한 기업별 상세 정보는 비즈노 사이트에서 확인하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9A8BbGAFpb3ZV_PACIC_a7QKnzw7k4rmkvdcEmylKJx1i8D5ibF3gYBN2t5CrRl3OuJhvoDPGvwLKXgIaTeOlG4yBuQleYCSqGKDrz1CuXoB5jaBpZCDCbE4=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0EI6Rpn_kylZpzrr-1bQHKIELsXwBIJKoGT03wMb_AyMZm2K0B9Z-hxgFgEnfIvylZKucZXnZdFIciHz3OGj5e7I_Gx6zGbIvCPc2jO_mitkGTGdDaHbatA=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiW6P3HlnU4gsFrGE7KwN8CAYM3k6-jzIZSyb4bsFtoCoeEuBYHLWc2K8o3UkaZscYkMTWuPLcRXJQIXLWjTk4H2p3dcPa1gYfkM8c_SciG5NBqk40foRyFJo=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6auiRABou4d3wlovrKEoc7z3p1wSTJ1SgmVOHkDDyAcnbeFKjlkAkNaNWxRvq3IrW5PgJbYD41-coEZhd2RhGiRWyvKym0DxPUrGUMohoupe9knoE6M7MCCc=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3W-ph2yJu-vGnvLQoPnB4hNCA7WnHsnJ82UKW0FEg6URzurm1n5jOetX2uXCzT7Wa4FSwXZB5Z2BVo4pK41JEk3Ey4d6RrvvNgmJwrd3WBdnCgnjbjRZne38=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjgR_fr2qnRiyuZ_WVbWmJo4OaPoh2G0D8s0TiQrMOiNgE1bEnH2jkJTRb0wRt5d2P1qQCi_ZlmC7v_c3nnSXSJCz4blDXEV-wldyH_hLgZUJTLVcsLFZjL98=)

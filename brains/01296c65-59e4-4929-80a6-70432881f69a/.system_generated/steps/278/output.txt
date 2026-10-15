@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Result with pubcUserNo: {"txprDscmNo":null,"englYn":null,"resultMsg":{"detailMsg":"","msg":"","code":"","result":"S"},"txprNm":null,"trtEndCd":"Y","psbSearch":null,"smpcBmanEnglTrtCntn":"","inqrPupCntn":null,"nrgtTxprYn":"N","dongCode":null,"mobYn":null,"smpcBmanTrtCntn":"","inqrTrgtNtplInfrAgrDt":null,"userRequestYn":null,"smpcBmanYn":null,"inqrTrgtClCd":null,"trtCntn":"휴업자 (부가가치세 일반과세자) 입니다."}
+

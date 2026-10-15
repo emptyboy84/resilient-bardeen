@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+84 {
+  "target": {
+    "row_idx": 1867,
+    "순번": "1866",
+    "name": "부산이야",
+    "biz": "",
+    "est_year": "",
+    "est_month": "",
+    "rep": "조진성",
+    "phone": "010-2799-3270",
+    "fax": "",
+    "sigungu": "부산진구",
+    "addr": "부산진구 진연로 9번길 19 산호빌딩 302호",
+    "type": "방송",
+    "contact_res": "",
+    "close_date": "",
+    "note": ""
+  },
+  "matched": {
+    "bno": "6178177868",
+    "title": "주식회사 부산",
+    "href": "/article/6178177868"
+  },
+  "detail": {
+    "bno": "6178177868",
+    "raw_html": true,
+    "status": "폐업자",
+    "rep": "이름으로"
+  }
+}
+

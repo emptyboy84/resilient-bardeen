@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+ProcessName                      Id Path                                                                             
+-----------                      -- ----                                                                             
+FileSyncHelper                25652                                                                                  
+IntelGraphicsSoftware.Service  7084                                                                                  
+LGControlCenterRTManager      22304 C:\Program Files (x86)\LG Software\LG Control Center\LGControlCenterRTManager.exe
+LGControlCenterSVC             4772                                                                                  
+LGSCService                    4780                                                                                  
+LGTimeManager                  4736                                                                                  
+LGUWPService                   4852                                                                                  
+
+
+

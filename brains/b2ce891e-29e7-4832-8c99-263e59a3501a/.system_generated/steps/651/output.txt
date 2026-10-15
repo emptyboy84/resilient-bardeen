@@ -1,0 +1,5 @@
+The search for "(site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com) "파이" "김도응"" returned the following summary:
+기업 정보 플랫폼 및 신설법인 데이터에 따르면, **'주식회사 파이'**는 2019년 7월에 설립된 온라인 정보제공업체(대표자: 김도응)로 확인됩니다[1].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaWpPXb_9IuLPEtDASIyETmUm2_bwaTmcLL4csznQNrk_nltPjfueg9N9XBycr7iUzo61F9-65u0GcioPDCVN64XrENWANyxVux8gzvlDsFVYxFKIlxIJYXcZdXRrLXxvj5i8=)

@@ -1,0 +1,13 @@
+The search for "site:bizno.net "180111-0820852" OR "디에스원"" returned the following summary:
+주식회사 디에스원 부산공장에 대한 사업자 정보입니다[1].
+
+*   **법인명**: 주식회사 디에스원 부산공장[1]
+*   **법인등록번호**: 180111-0820852[1]
+*   **사업자등록번호**: 767-85-01400[1]
+*   **대표자**: 강성혁[1]
+*   **주소**: 부산광역시 강서구 화전산단6로 36 (화전동)[1]
+*   **사업자 상태**: 계속사업자[1]
+*   **과세유형**: 부가가치세 일반과세자[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZaXJ7vSWgyFL9X0Ufy8_f81s1_iNv52diyDcYuFDz0yU-yqVRYxVHUmhoSkVgNJvIXDwaLXxW6aon1kUeH37yULLqiIolVVqk_NDuTrVTu3VYpgDkDUxSAmM=)

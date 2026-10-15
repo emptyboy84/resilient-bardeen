@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+WB1 Sheets: [ '실사_매출액_검증완료 (28 rows)', '국세청_폐업확인_20개사 (21 rows)' ]
+WB2 Sheets: [ '기업체 리스트 (2469 rows)', '개인 리스트 (1023 rows)' ]
+

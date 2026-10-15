@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Footer:
+  Copyright &copy; 2026 S O U L F I L M | PhotoFocus&nbsp;by&nbsp; Catch Themes 
+Biz numbers in page: [
+  '1610675557',
+  '10209-64508',
+  '584-1605852',
+  '584-1605852',
+  '1789383702'
+]
+Contact links: [
+  'href="http://www.soulfnt.com/about/"',
+  'href="http://www.soulfnt.com/contact/"'
+]
+

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Hometax raw response:
+{"txprDscmNo":null,"englYn":null,"resultMsg":{"detailMsg":"","msg":"사용자번호가  존재하지 않습니다.","code":"ETICMZ0149","result":"S"},"txprNm":null,"trtEndCd":"N","psbSearch":null,"smpcBmanEnglTrtCntn":null,"inqrPupCntn":null,"nrgtTxprYn":null,"dongCode":null,"mobYn":null,"smpcBmanTrtCntn":null,"inqrTrgtNtplInfrAgrDt":null,"userRequestYn":null,"smpcBmanYn":null,"inqrTrgtClCd":null,"trtCntn":null}
+

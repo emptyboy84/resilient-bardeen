@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Loading original file: C:/Users/lg/Documents/카카오톡 받은 파일/크레탑_부산CT산업현황_261012_전략팀 전달 (1).xlsx
+Available data sources:
+- Stage 1 (Bizno 1차): 525
+- Stage 2 (Saramin/Bizno 2차): 307
+- Stage 3 (Kakao Map): 166
+- Stage 4 (Daum/Naver/Bizno Multi): 71
+
+=== Stage 4 Final Deep Merge Statistics ===
+Total companies: 3978
+Originally had phone: 730 (18.4%)
+Total newly filled phones: 1255
+  - Full Landline/051/070/Rep: 979
+  - Full Mobile (010): 78
+  - Masked Mobile (010-****): 198
+Upgraded from masked to full phone: 36
+Total with phone now: 1985 (49.9%)
+Still missing: 1993
+Saved TXT to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt (908005 bytes)
+Saved XLSX to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx (435564 bytes)
+

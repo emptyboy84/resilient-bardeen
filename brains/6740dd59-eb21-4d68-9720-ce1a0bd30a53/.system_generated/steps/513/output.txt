@@ -1,0 +1,31 @@
+The search for ""도성회" "김광보" OR "139-80-09994" 매출액 OR 부산" returned the following summary:
+한국도로공사 퇴직자 단체인 **'도성회'**와 관련된 주요 정보는 다음과 같습니다.
+
+### 1. 도성회 및 사업 현황
+*   **성격:** 한국도로공사 퇴직자(임원 및 10년 이상 재직자)들로 구성된 단체입니다[1].
+*   **사업 구조:** 자회사(H&DE 등)를 통해 고속도로 휴게소 및 주유소 운영 사업 등에 참여해왔습니다[1]. 
+*   **최근 상황:** 
+    *   정부와 한국도로공사는 휴게소 운영의 다단계 구조를 개선하고 '공공관리회사' 체제로 전환하는 과정에서, **도성회 및 그 자회사의 휴게소 사업 참여를 금지**하기로 했습니다[2][3][4].
+    *   현재 운영 중인 사업장(6곳 등)은 즉시 매각하도록 조치되었습니다[4].
+    *   입찰 비위 의혹 및 수익금 탈세 의혹 등으로 인해 수사기관의 수사와 국세청의 세무조사가 진행된 바 있습니다[5][6][7][8].
+
+### 2. 매출액 관련 정보
+*   도성회의 주요 자회사인 **H&DE**의 과거 매출액은 연간 1,000억 원~1,200억 원대 규모였습니다[1][9]. (예: 2021년 기준 약 1,105억 원[1])
+
+### 3. 기타 사항
+*   **부산 관련:** 도성회 관련 사업장 중에는 부산 방향 휴게소(예: 장안 휴게소 등)가 포함되어 있으나[1], 현재는 입찰 비위 및 독점 구조 개선 정책에 따라 해당 사업 참여가 배제되는 추세입니다[6][3][4].
+*   **김광보:** 질문하신 '김광보'라는 인물에 대해서는 제공된 검색 결과 내에서 도성회와 직접적으로 연관된 공식적인 정보가 확인되지 않았습니다.
+*   **사업자번호(139-80-09994):** 해당 번호 역시 공개된 자료 내에서 특정 기업이나 단체로 식별되지 않았습니다.
+
+더 정확한 정보를 원하시면 해당 인물이나 번호가 속한 구체적인 맥락(예: 특정 사건, 뉴스, 공문서 등)을 확인해보시는 것이 좋습니다.
+
+Sources:
+[1] [fksm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCnvAXNu-PfVIelmYtGgMaG8QBNdDIlQZZGgoPusEwNWSuGDrpjQOwUusuA1lk5g6a6LAsTZbjEsCLToSZ4urMuV4obZOa6epC4XYuhiKPNFArLNKf2A==)
+[2] [naver.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwZgwwAHwq4S7x_-ErxgqC9RH-Zw3g8heXHRnxYXgY0l-TgEzYMMpap3mBwM0miM2dwitlNgyUUvKKsfAQHEN8SZnI4gWbs9bcBqzWVltCCevIqJ6nedtY-gu9k_o=)
+[3] [newdaily.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEInoYV_cQR4Z5jC7V1WaOtxLEqbqh4p6TNKTSbl2bajbAazloG7VhP5dNSri5KADyw4zPicKbFNdixJk39VWeo4jQtijdGF6Tx7izOycKHM4SsloAhusz6BKip7HcXlEd0qha6-1QjZJBzJ-ix86kKg9G3Q0LKUPXBe5oT)
+[4] [newsis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZdA211ER1SH0Y-NrYYZBoVQDHVlVwjsvqqrLcuI8VWzlGO2P2iIarMbL4rn0rkCanZ-O4LomEIAy6PrlyMtGLmI3bfFAS3Lrh9F73KLNZjQY9NAHl6rUArxArsJT7zSO28MfjeU33zAiWhw==)
+[5] [hkilbo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6KS7n0GGjF9b1FVys4d17mNNvNjZe34I1Ijz5qQtCJXdVxRT86hvcxBuQO_lmcltx-MJ32HL3wKHoo_XJdBBgcNWIlL7c1NDz-uglRCTQhNXFWX5pLvXzIEsZOgSNdzF0ptnkhWig0iXnAFm)
+[6] [g-enews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEALZ82WBtz6eztjLEGivsfcsj0cayh-zhI44VKgb9aBf3XOTTgk7T4Bqs5b4zPq1FRDJrK5VucV4r94KP8m9cqJPHVhss5x8tLi4hDWTA9SHFzVWn5IgzFMYMqOpCcBP9qV458fV36m5uXjTesylWj1fkcoiOXxjwJuo2piBlRa_fjQvMqco=)
+[7] [newspim.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3y-22rEEkKdSCdKbQmKRB2p8DBgv08vyrdUVR8chXND0Oc88faNA5Tu2PZ01JiFg4-k8yFxaM6Fz3V-dE5X76YVuMyC0Ha_-x6T4LWBuxtzB8IGsMnkI2_V4kPmRjA-txi3K1sA==)
+[8] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgeEfUYt2_hPePgRjzkKi3EFwgQkNvYUpmfK_7yroYQrmmvOpPT0lMCG2TK6mgNp1dkskxBIVl1u7vUfuxs9x-fOU-GHpMVfddIBFYSiQC5w1FX2GdKQt99WrHBmcnO89tSUon)
+[9] [thevaluenews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEl23_S6kj1hKa39zjTCfrlmphRdj2VcQ0nyAiPzwdCNQ0NSkBSUhnGWEAx43VQdFkITmzfiKhunLbtkxD4zEy_hQ3VcyyFXYIJ5kfQ3FujXE4akY99kqOFOss3bpKPQ==)

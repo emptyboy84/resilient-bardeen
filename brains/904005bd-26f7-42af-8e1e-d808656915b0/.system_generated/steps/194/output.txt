@@ -1,0 +1,18 @@
+The search for ""9514-1435" OR "95141435" "음악" OR "녹음" OR "스튜디오"" returned the following summary:
+검색하신 번호 **"9514-1435"** 또는 **"95141435"**와 관련하여 "음악", "녹음", "스튜디오"라는 키워드를 조합해 조사한 결과, 해당 번호가 음악 관련 스튜디오나 녹음실과 직접적으로 연관된 정보는 확인되지 않았습니다.
+
+검색 결과에서 확인된 해당 번호의 주요 용도는 다음과 같습니다:
+*   **산업용 부품 및 제품 번호:** 산업용 기계 부품(플랜지 등)[1]이나 철제 선반(랙) 제품의 모델 번호[2]로 사용되고 있습니다.
+*   **교육용 자료 번호:** 특정 시험 문제지나 교육 자료의 식별 ID(예: '饲料企业管理-A-及答案')로 나타납니다[3][4].
+*   **기타:** 일부 온라인 커뮤니티나 해외 사이트에서 단순 참조 번호나 위치 정보, 입찰 번호 등으로 사용되는 경우가 있으나[5][6][7], 음악 스튜디오와는 무관한 것으로 보입니다.
+
+혹시 특정 스튜디오의 이름이나 더 정확한 위치 정보를 알고 계신다면, 해당 정보를 다시 질문해 주시면 더욱 상세히 확인해 드리겠습니다.
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdpgpCLzcyfHI5f5J4gSvcZtdUnsXnDrCTY-0eedVMG2JCCHfA4CoPEY47D3N4LX41HtaIscbFjQUe_wNEPdbVmnaEAKLPy5fGpmJfX0bq6qRnkwCG8YYG4vSl2Fpgxx6vLNpa1DAo-mr6XQ==)
+[2] [contorion.de](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWyqz2pfnXH-eH2YJeMAMJ6wD6lAWezyJFHpVvZLKSFoggO3scCPpnv2rwgHCp2wj5z9-149q4FKJqF90PhjO-5mxiE_Pyb1e1SJHJAwbBpAB4SHQ9KdeUNtaJbq_scEkLrIso7bn2nSayiXJ7piULw6Y47jHb-2Aycc7ob9Jr5Ld_4DZY1tseUtm8h-vWvYY_jm8nljthRGWulmY_zgNbO9_hMMZxHQwXuEe2xjx5WbRQ0w==)
+[3] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrIGb-fTMhef54OWdvwkEfaVHLlTcEdGqi5CSZ1G_CV912z4BTNn3i26Dhcz1DGDDdAbNK22cxwSXMcDdOjP_xVofRZ909FxO637MWcpLH_mqxhqJt9Lv_uTjYVKKq9vCrRIVm_4DMHyGP1iJKaq_ZnOyURPaVw3nwYNIPiQ==)
+[4] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbaaxT_513dB4xCOpkTTQL6XhnFnrm8XJN4ijMcUVDl7PIjkgChrHaMFT1yAHa2qlbtjebeazE-czyT23L6j-TMzf7I1P-CGBxHkg8uNbMLtsXHbVMBp96LIyEPXVowAkEPQsTxEjbO1ZMcZACWxRXTWXXvVk4DJBuCmTlPwrwPS7s4BgfjLk=)
+[5] [zillow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPb-2vgM44TrE0EPccfC8pNL4-bp0fpqI94dbmxo0awHTd9eRc0xDSzKRfyFu76fhIjyzhJqbTz8q1QaYo-VWo5W-Kgjg_RzSjdIVKO0NYm4xluKu_eh0kNCPhr7bABHmeI-uY9SvHOoEJ9DCfRBqNMdAlApKmaxYYQ5KIYK0rys6KTyXvrB-3We62J3c=)
+[6] [tenderer.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsF_Qa7FruMmmC8n9H5S010bRPRd5poaV-9CFpiD_xiVQdvmnK5Ze3nvunQLyQgtgO3Pei6teh5OMK8sr6zUy3f7Yfq49RtVNvT5GhtZGhUwOz2QBLtvFld4A4M7FprsNMEiKl9hwKBIy3yAh6nP8lpgAEdkMlIU5bQgAkwq9HtMo)
+[7] [suntravel.sk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBoXtx5EOlfgclGZbDRmgqAnOa5F4C5_VHa5M7qn2ke4FvlGqo9owWz0krdoICXb6hflGVbGWWOVlz45IQxqvPej614EF2I6CVmWFUmjuDvDJW5AEU1P_IZB2u4A7sXtbuK1OtNMtY86zEduMdjePWuVufiA==)

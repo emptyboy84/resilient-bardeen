@@ -1,0 +1,14 @@
+The search for "site:weseb.com "페타브루"" returned the following summary:
+위세브(weseb) 사이트에서 제공하는 **페타브루** 기업 정보 요약은 다음과 같습니다.
+
+* **기업명:** 페타브루 (PETABREW)[1][2]
+* **주요 업종/사업:** 레이더 센서모듈 소프트웨어, 레이더 및 지능형 센서 기술 개발[1][3]
+* **소재지:** 서울특별시 금천구 (또는 부산광역시 등 관련 거점)[4][3]
+* **주요 특징:** FMCW 레이더와 지능형 센서 기술을 바탕으로 하드웨어, 펌웨어, 데이터 API, 웹·앱 모니터링을 연결하는 통합 센싱 솔루션 제공[5]
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrvf2miK755QhpNpK7ISUuFgklL7dIOMwyVbnq4LU_O8UAR7sY31hosMZPH2Nvd0rxS62FGa5qpgLIfvbax5WedhYQJWEhuoyohUuALTDKCasl0XreRhONzNDNZD4TdFKRPFkR5Ggqc7EINJPPnFrB6V8T)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiDSMlfnH8uxBH6vRvJJiul21YvBX9AQLCCcHoAU79GnRaGzoLvEcaJqmyH_2yzt_GpeOzqxlikPbMdAqNsrL3j_lYPzdv4Y8Qlxenpb2J)
+[3] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe05iKBZEYxGN2scmU9HivwDJ9VZqLbheIG5TkEos-uc7_vQ4ZBJqXsaO3TLfT4Q_B8br2sGOD-Kb1TmNDpSTkCG9OBzQdOtXHuxkdch6EYhcpI-s-ey0_mKjcdSFE-u2nFkPMQZrXZDRqDbjgXSY-LNNwRTYRY66LWRw=)
+[4] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9QPDxcPVTg6jBRSsh4M-vZM-Ju7vyyzts1ZamihV2mjyHIChVo077QEnmVAhMOeEGDVBf3Wu09WE9ZdPxU2akPtxjVVCR5OAkt9B75CaMX2uU1cQ83JC3WUZXtkGUWOdjb0cXDrqTkQ3pmqpH_KoTQ_guwHZElQ==)
+[5] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZjb4PzXFOmbzsZdH_qenVyceTicIJ5_nde9YIiLPijxsfQV25D-SsAs7wC9Q_-Hdnb7U_dg21zXlubUD7Vtn1ZHOt4YGFNgWPsQ==)

@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+--- Step 290 tool: write_to_file {"ArtifactMetadata":"{\"RequestFeedback\":false,\"Summary\":\"Batch fetcher for all 500 companies from NiceBizInfo\",\"UserFacing\":false}","CodeConte
+--- Step 293 tool: run_command {"CommandLine":"\"node \\\"C:\\\\Users\\\\lg\\\\.gemini\\\\antigravity\\\\brain\\\\fc47ed12-b523-4d84-9421-40e6756ddcef\\\\scratch\\\\fetch_nicebizinf
+--- Step 295 tool: run_command {"CommandLine":"\"node -e \\\"setTimeout(()=>console.log('waiting'), 5000)\\\"\"","Cwd":"\"c:\\\\Users\\\\lg\\\\resilient-bardeen\"","WaitMsBeforeAsyn
+--- Step 298 tool: write_to_file {"ArtifactMetadata":"{\"RequestFeedback\":false,\"Summary\":\"Final merge script with NiceBizInfo industry name\",\"UserFacing\":false}","CodeContent"
+--- Step 301 tool: run_command {"CommandLine":"\"node \\\"C:\\\\Users\\\\lg\\\\.gemini\\\\antigravity\\\\brain\\\\fc47ed12-b523-4d84-9421-40e6756ddcef\\\\scratch\\\\merge_final.js\\
+--- Step 303 tool: write_to_file {"ArtifactMetadata":"{\"RequestFeedback\":false,\"Summary\":\"Safe file writing with lock handling\",\"UserFacing\":false}","CodeContent":"\"const fs 
+--- Step 305 tool: run_command {"CommandLine":"\"node \\\"C:\\\\Users\\\\lg\\\\.gemini\\\\antigravity\\\\brain\\\\fc47ed12-b523-4d84-9421-40e6756ddcef\\\\scratch\\\\merge_final.js\\
+--- Step 307 tool: view_file {"AbsolutePath":"\"c:\\\\Users\\\\lg\\\\resilient-bardeen\\\\bizno_filtered_result_nice.csv\"","EndLine":"30","StartLine":"1","toolAction":"\"Viewing 
+--- Step 309 말씀해주신 내용을 정확히 반영하여, **12번째 열(업종 / NICE BizINFO 참고열)**을 **나이스비즈인포(NICE BizINFO) 사이트에서 직접 조회한 공식 산업명(`sanupscd_kor`)**으로 전량 매핑하여 새로 생성했습니다.
+
+---
+
+### 📂 생성된 최종 파일 목록 및 전체 경로
+
+1. **[추천] 나이스비즈인포 산업명이 반영된 CSV 파일 (엑셀 열람용)**
+   * **경로**: `C:\Users\lg\resilient-bardeen\bizno_filtered_result_nice.csv`
+   * *
+

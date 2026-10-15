@@ -1,0 +1,14 @@
+The search for ""산단4로 63" 부산 우편번호 OR "태복산로27번길 32" 우편번호 OR "화전산단5로74번길 36" 우편번호 OR "서부로1499번길 11" 우편번호" returned the following summary:
+문의하신 주소들의 우편번호는 다음과 같습니다.
+
+*   **부산광역시 강서구 화전산단5로74번길 36**: **46738**[1]
+*   **태복산로27번길 32**: 경상남도 창원시 의창구에 위치하며 우편번호는 **51168**입니다. (창원시 도로명주소 안내 참고)[2]
+*   **산단4로 63**: 상세 주소 확인이 필요합니다. '신호산단4로' 등 유사 도로명이 존재하므로 정확한 시/도 및 구를 포함해 다시 확인하시기 바랍니다.[3]
+*   **서부로1499번길 11**: 해당 도로명만으로는 우편번호 확인이 어렵습니다. 정확한 행정구역(시/군/구) 정보를 확인하신 후 [도로명주소 안내시스템](https://www.juso.go.kr)에서 검색하시기를 권장합니다.[4][5]
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJlVKyHSlwbrgAlZg6gEbq_XPJ1cd65X9ZSzNuvRnFIxqBxYA_S34uPdpKaIQBqUp8enYpYuwEgC388KP1FrxG0FcIwE65yh5JGHR-dbombeS1jlrlAekfozDtA6hty7SHzXEKlxXrkmQdgYBoFXtnMtGEQLU1CT-IzU4WX6iL2gof-uVIer4SGqNRBMGE8yDVsrg1ZYme9zF3wn5OQqRVRQ1zhVycmc_mbuPF3y4mD-whYDYsgz5lnnwT2po0)
+[2] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAphsjJaQ7DVP6XV-JWLhB97wMcEMGCYK8thM__ymRthseeZXp7ABA70LMWQEGBL28eX7tRD4vtDbBqHfpZb_LnrVl1RePaOb9Gmn0LK-YznWErAh7QW6_V1XNal2Z3t0_MZ8WP9hLhKaKNNGnZDO8LEKB)
+[3] [howtochina.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhxCE4uJkl-8uRLLOSs8dNUhS460WudUc9zSvYLk7JEKiglQxlYY0CXXrAD2AQ5vlTr6UrSTt8QIq5fQ5ylfuiGaxb1bpHxaPSrAQ5LK2OWPVNuJU_nqlHegXX3pDLbdpyPOev1yWUbNbTR8Zr7yn0stcDJ0iMjYtyrz2FtlY_RNuKcoFNBnienNINidR_GiZfV4dBvgyv-VJ3dlTlclgHa3F_W8zkEUUwHq2yKZQeao4FnCTNTzH0Fc4=)
+[4] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECoCh9oJXuhY0Tyh3eL8FrAtYaP1nBLtP9YQ3eBQ7jX5VDKPrjof9ggmhZxO_s3UDRjQCwDapRf1ECWKOp9kRhmVWiN2YIc-IgLh2rlikRjCiKl5ggnrHHyy_601zw0o1ZgxjcAu0IFKAbJPGiKUHlZ-29vp_mWBJojwQ=)
+[5] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKOVAHZjVBVwJ2WAEue30FAudN5qtakIBU1u3V7LGayKm4ycaWx4Q7eTjVPShkPD9FpsDlkt5CPp875ATOsEzcal6mC-cyoePMxnTdDl69wTrxWfgf3NI0EtXL)

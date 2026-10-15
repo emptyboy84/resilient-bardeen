@@ -1,0 +1,18 @@
+The search for ""남구" "영화수입업" "시드" OR "(주)시드"" returned the following summary:
+검색 결과, 부산광역시 남구 대연동 소재의 **(주)시드**라는 명칭의 기업이 영화수입업 업종으로 등록되어 있는 정보가 확인됩니다[1][2].
+
+관련된 상세 내용은 다음과 같습니다.
+
+*   **업종:** 영화수입업[1][2]
+*   **소재지:** 부산광역시 남구 대연동[1][2]
+
+일부 데이터베이스나 신설법인 리스트에서 해당 정보가 검색되고 있으나, 일반적인 영화 배급 및 홍보 활동을 하는 대중적인 영화사와는 차이가 있을 수 있으니 참고하시기 바랍니다[1][2]. 
+
+또한, '시드(SEED)'라는 명칭은 영화계에서 '기동전사 건담 SEED' 시리즈나 기타 해외 제작사 이름(Les Films du Sud 등)과도 관련이 있어 혼동될 수 있으므로, 정확한 목적이나 기업 정보를 확인하시려면 영화진흥위원회 통합전산망 등의 공식적인 기업 조회 서비스를 이용하시는 것을 권장합니다[3][4][5].
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaaqVosBH1wt4zo6bCMFLO9SyJOPSKSLVx40exFadrKc7NzpdE1_3UdBH8ILx23ukvMVqdHRh-GSGpx8FHjyNROM0BGJu3VUgBhKLVPDVJbrKg4TtAE7buVkQmk6aCf-xp8Io8gqFvLd2bHOrwTaCNZr7VZhogznJisceeLPRepnp6ox7PBzLMyvIlgdo_23PkgSNIdN92H2iXY8lmH0UyRuML)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaaqVosBH1wt4zo6bCMFLO9SyJOPSKSLVx40exFadrKc7NzpdE1_3UdBH8ILx23ukvMVqdHRh-GSGpx8FHjyNROM0BGJu3VUgBhKLVPDVJbrKg4TtAE7buVkQmk6aCf-xp8Io8gqFvLd2bHOrwTaCNZr7VZhogznJisceeLPRepnp6ox7PBzLMyvIlgdo_23PkgSNIdN92H2iXY8lmH0UyRuML)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH181IjVOtOT5NSlPeOobm9Hqy-fymFsJUr7QIquBJ-rLU4X4brV3TTTtGCbo702x-TJSQa80TDQRfZEA2CzqtaDfzSh_Acf8IiVMXI1uYDuZPu0Rpq2B2Ry0UhFyguQFGDota207DfPHKufuSFgaltCJ1UXmNn2AKXyYXWvMxzvSU4dQ==)
+[4] [210.104.16](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXY_2YUQND_lQDGVn4nV_uhzXOUcUm2j5oZjfETcGa05hd1gK0qb6vO9tvPNgNk9vwhb9BFEhU4XwUj3zERhWG26SI337WCUsYNdVUP9ITY4USqm0UON_Bs0vtztRPvv2S9w9ZuJODSNnqw6i94Jqd8OfxeLy1)
+[5] [210.104.16](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw55Vk3gSlv0FUWQUeRq-RWMcx_PNsOcU2U6N4KUhvL-uj-eROpsfTwcXXvuj14zUCKqL6Lo4QBMbA92JL4NP-o_-gH5hv3NUbMCwm3fUjae8ehsSt2TFPuaGvsTQQUjtKTit3G2vo7Y3J1BWH43sHhSsYlKUm)

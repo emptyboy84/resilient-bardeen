@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+
+Name                          
+----                          
+all_500_factchecked.tsv       
+all_500_verified.tsv          
+bizno_filtered_result.tsv     
+bizno_filtered_result_nice.tsv
+current_pasted_batch.tsv      
+merged_500_perfect.tsv        
+rows_11847_12000_16col.tsv    
+rows_11847_12000_17col.tsv    
+rows_11847_12000_verified.tsv 
+user_pasted_rows.tsv          
+
+
+

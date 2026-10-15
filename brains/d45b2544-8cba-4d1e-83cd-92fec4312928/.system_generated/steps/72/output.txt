@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+Get-ChildItem : 'C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_soul_pictures_data\.git\logs\refs\head
+s' �δ� � �Ƿ� ã� � �ϴ�.
+�ġ �:1 �:1
++ Get-ChildItem .git/logs/refs/heads
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\lg\.ge...logs\refs\heads:String) [Get-ChildItem], ItemNotFound 
+   Exception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetChildItemCommand
+ 
+

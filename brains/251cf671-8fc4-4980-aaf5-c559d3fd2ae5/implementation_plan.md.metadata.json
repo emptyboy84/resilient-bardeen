@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "회사 정보 확장(전화번호, 이메일, 홈페이지, 매출, 인원)을 위한 백엔드 및 API 연동 계획서",
+  "updatedAt": "2026-04-13T23:59:08.547470500Z",
+  "requestFeedback": true
+}

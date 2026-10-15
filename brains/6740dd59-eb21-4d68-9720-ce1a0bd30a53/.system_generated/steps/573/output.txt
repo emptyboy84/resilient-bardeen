@@ -1,0 +1,33 @@
+The search for ""북카페심심푸리" OR "482-52-00083" "김정혜" 매출액 OR 부산" returned the following summary:
+'북카페심심푸리'와 관련하여 요청하신 정보는 다음과 같습니다.
+
+### 1. 브랜드 및 운영 법인 정보
+*   **브랜드명:** 북카페심심푸리[1]
+*   **운영 법인:** (주)비에스에프앤비[2][3]
+*   **대표자:** 김정혜[3][4]
+*   **사업자등록번호:** 435-81-00772[5][6] (문의하신 '482-52-00083' 번호는 검색 결과에서 확인되지 않습니다.)[6]
+
+### 2. 매출액 관련 정보
+*   **매출액:** 공정거래위원회 정보공개서 등에 따르면, 북카페심심푸리의 가맹점 평균 매출액은 **'미공시'**로 나타나거나 집계 중인 상태로 확인됩니다[1][7][8]. 이는 공정위 공시 의무 기준(5개점 이상 브랜드 등)과 데이터 집계 방식의 차이로 인해 정확한 수치가 공개되지 않거나 0원으로 표기되는 경우가 많습니다[1][9][10].
+
+### 3. 지역(부산) 관련 현황
+*   '북카페심심푸리'는 부산에 기반을 둔 프랜차이즈 브랜드로, 전국 가맹점 중 부산 지역의 비중이 가장 높습니다[1][3].
+*   부산 내에는 서면(부전동), 남포동, 동래역점, 부산명지점 등 다수의 매장이 운영 또는 오픈된 기록이 있습니다[11][12][13][14].
+
+더 자세한 최신 창업 정보나 개별 가맹점의 상세 매출 현황은 [공정거래위원회 가맹사업거래 홈페이지](https://franchise.ftc.go.kr/)에서 브랜드명 또는 법인명으로 직접 조회하여 확인하실 수 있습니다.
+
+Sources:
+[1] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSO-9-_d9feU4GrAQgdqccTnIoU0HKFuvQzszqb7tyJH_LUUqTx07bXKG9HbVWDL3XhGwaQRquPndSt00HIBs6-45ur2idBn1J_VQ6pAOwsYsW5E_cZDz46n0zXPiN)
+[2] [fcpartners.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOmDPluKucV-GXmSFj0bhRL_J9WvfONFIoZOCuVvkw0kl4is-wFlJasgyMj2gTPxt26pnE_TwWJibbE8LXZfrcy7KZXEpCopJqL1QPziPPKek00WxlArcfp71W6uEY8QUivIZufarQFOQU1gNCNEcOFML97GLx01uEa0s=)
+[3] [openfranchise.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx-T8rdGQjPdm1TydCkJVP-gX2R55fGJRjBjNtjjiAHK9gFmTD_F_uI1QUdNtATf_KHYcLMD7smGwJdVTygIMb92D-UH073jgKAshi34rn9B8JshxmOlxrrTNW26qjENaPxORMU8cTsfZ6yNR2xrAzMWnxOTHz6A7mj4Q68kN107RaxrFY7C7xcVoyb3mBut2FkYgm_T3nxw==)
+[4] [bizk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtW5CalUiI1doliwdbBFq8NPzC2bYybzO3dVfGWOYJNbwfAzeCz8LKQ0SDntplWvzdbBXGfGARmeACsiRNwFq8RDRzYokyjrxDUODvyRyMvIxYD8noavCQAg_4f6g=)
+[5] [xn--oy2b33e52fa278lvih4rb.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5EFrtBAyZt_4d6O2XE1AVBezbTxEIhyfrCP72ZsbSwV7Sq_UqnVXUX2Y6_T0-x70YSUIobcPM2Y1YiZEBoYXZyFlot_Sh83SFzxrvmCZu4z4Fkyb-7Xbe88ZzoFno)
+[6] [xn--v69ap5so3hsnb81e1wfh6z.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkBFODggzSHoDVsBXeYf5tlX9UW8dIIGLokGPNv1zJZ5J94CMFR_Fj2NhQR1VBBj26gjzxa6EYb94azdf5GrTlGQGGGL50HdauPhlotwWEMfTtmo4ktYiNSYV7Aus9d487p1HOvQfQOat5hlaWEcayeCR95eug-OBZyIMbuhZPsjjMSI4iA0h4tfMGLHc=)
+[7] [xn--v69ap5so3hsnb81e1wfh6z.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkBFODggzSHoDVsBXeYf5tlX9UW8dIIGLokGPNv1zJZ5J94CMFR_Fj2NhQR1VBBj26gjzxa6EYb94azdf5GrTlGQGGGL50HdauPhlotwWEMfTtmo4ktYiNSYV7Aus9d487p1HOvQfQOat5hlaWEcayeCR95eug-OBZyIMbuhZPsjjMSI4iA0h4tfMGLHc=)
+[8] [bizk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtW5CalUiI1doliwdbBFq8NPzC2bYybzO3dVfGWOYJNbwfAzeCz8LKQ0SDntplWvzdbBXGfGARmeACsiRNwFq8RDRzYokyjrxDUODvyRyMvIxYD8noavCQAg_4f6g=)
+[9] [fran114.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZlH2H2V0HP5yoiBqkSNVdkaQXU-0WBrp2M3nyevyPTnJz1ltRfL3oCDBU8LSv7jlrDKvp-LrtxmKD7_lZNQE5uS_hH9N0GQfhq4z-FrtGbT4icQcpQgAiE6HrmCyueaAWYvvZNwMpdjFB_4fFGYUSdT6rW_1O)
+[10] [hi-franchise.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHePzliKDry86ODR5cSsZF0lztOAJj7hPxqD8ObL8jZDOR97vB3CHzirvBxf5QzW8w6byyiqJOb9Z8-kqSHctyuvjLG0wAGTdrWhk7GbcAUSAP5pVq_JQgS1QIdBPYq_Zx1UCvh9JvT3xy9-MiHTVEUUUCHPGqshWEiRCBHrmE5h6Eum1pNIMaQ_7Qag1Fyfajraq6UO8nTx1eApyhPHF8KU5CvoFbLOFV4QDlRlwzsUcKfrVqs_UueaoF9-kgLom-BAGpSA2g=)
+[11] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUECLFHilP0tl0YemGkB8xeRKymeaK-DmCNVNLfyHvH13hOJi5oVf2_gdsTGmXUkkE_Rpd1lMTCcCymRJ6FbgKohlg_GkbtoiyE6QG9QgLbWk0G7MkKVnacg==)
+[12] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2wBCH22nzArtyYRb4Bz0VVkNzCrK1EpWCQ87EUcRAnRo_PCt-xwWxcowyJlxpl7_N1rMuTEl2xMJ72z3mQzl0B7VPpfwddw97Z6manhm12R3uBnBJ3f16ZIPTPNhwEbPIwg==)
+[13] [joongang.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM5_4Y3r5IkLJhynrYm3VYfX4AO3PatAYaIRRDyWN1KsECVMTX2sLcVtN_Io-cNxEkbS4MPWk8gO5TIpPNKx65tG00w1sHf3dcSQSOlOwoG7Igx-GLJdTRlvCChQl6Ag-8)
+[14] [heyyumi.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB6k-ugJ-sFUetej3UDKRpZkPIMdk0wKlKFA90wo2EVI5QIf6anfneL9pMZXwR3ApRqu141ZBzaAFw3ATFXO0VtQBgEV6-CK4SuWPFFT8LyNa55GNqjmRX7DE=)

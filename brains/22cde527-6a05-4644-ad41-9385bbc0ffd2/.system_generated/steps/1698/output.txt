@@ -1,0 +1,96 @@
+
+The command exited with code 0.
+Output:
+Sheet Name: 2026_부산_CT산업_실태조사
+Total Rows: 2314
+
+--- HEADERS ---
+Col 1: 구분 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 2: 기존행번호 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 3: 사업체명 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 4: 사업자번호 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 5: 설립연도(연도) (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 6: 설립연도(월) (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 7: 대표자 성함 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 8: 연락처 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 9: 팩스번호 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 10: 시군구 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 11: 주소 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 12: 업종분류 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 13: 컨택결과 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 14: 폐업 날짜 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 15: 비고 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 16: 종사자수(명) 25년 기준 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 17: 24년 매출액(원) (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 18: 25년 매출액(원) (Font: 맑은 고딕, Bold: true, Color: FF000000)
+Col 19: 데이터 출처 (Font: 맑은 고딕, Bold: true, Color: FF000000)
+
+--- ROW 2 (Original Existing Company - Should be ALL BLACK) ---
+Col 1 [구분]: "25년 모집단" => BLACK
+Col 2 [기존행번호]: "2" => BLACK
+Col 3 [사업체명]: "아이티에프씨" => BLACK
+Col 4 [사업자번호]: "243-86-01731" => BLACK
+Col 5 [설립연도(연도)]: "2020" => BLACK
+Col 6 [설립연도(월)]: "9" => BLACK
+Col 7 [대표자 성함]: "곽서준" => BLACK
+Col 8 [연락처]: "051-256-8500" => BLACK
+Col 9 [팩스번호]: "" => BLACK
+Col 10 [시군구]: "서구" => BLACK
+Col 11 [주소]: "서구 보수대로 111 , 2층(부용동1가, 동아빌딩)" => BLACK
+Col 12 [업종분류]: "콘텐츠솔루션" => BLACK
+Col 13 [컨택결과]: "" => BLACK
+Col 14 [폐업 날짜]: "" => BLACK
+Col 15 [비고]: "" => BLACK
+Col 16 [종사자수(명) 25년 기준]: "" => BLACK
+Col 17 [24년 매출액(원)]: "" => BLACK
+Col 18 [25년 매출액(원)]: "" => BLACK
+Col 19 [데이터 출처]: "https://bizno.net/article/2438601731" => BLACK
+
+--- ROW 639 (디자인에코 - Only Filled Blanks Should be RED BOLD) ---
+Col 1 [구분]: "25년 모집단" => BLACK
+Col 2 [기존행번호]: "639" => BLACK
+Col 3 [사업체명]: "디자인에코" => BLACK
+Col 4 [사업자번호]: "603-10-85753" => RED BOLD
+Col 5 [설립연도(연도)]: "2009" => BLACK
+Col 6 [설립연도(월)]: "4" => BLACK
+Col 7 [대표자 성함]: "이돈희" => BLACK
+Col 8 [연락처]: "051-207-3530" => BLACK
+Col 9 [팩스번호]: "051-517-3500" => BLACK
+Col 10 [시군구]: "금정구" => BLACK
+Col 11 [주소]: "부산 금정구 장전동 222-39 서강빌딩 4층" => BLACK
+Col 12 [업종분류]: "캐릭터" => BLACK
+Col 13 [컨택결과]: "" => BLACK
+Col 14 [폐업 날짜]: "" => BLACK
+Col 15 [비고]: "" => BLACK
+Col 16 [종사자수(명) 25년 기준]: "10" => BLACK
+Col 17 [24년 매출액(원)]: "" => BLACK
+Col 18 [25년 매출액(원)]: "" => BLACK
+Col 19 [데이터 출처]: "https://bizno.net/article/6031085753" => BLACK
+
+--- ROW 2307 (피커스튜디오 - 매출액 1,920,000원 확인) ---
+Col 1 [구분]: "게임사업단 리스트" => BLACK
+Col 2 [기존행번호]: "2307" => BLACK
+Col 3 [사업체명]: "피커스튜디오" => BLACK
+Col 4 [사업자번호]: "606-16-43962" => RED BOLD
+Col 5 [설립연도(연도)]: "2014" => BLACK
+Col 6 [설립연도(월)]: "3" => BLACK
+Col 7 [대표자 성함]: "이현철" => BLACK
+Col 8 [연락처]: "070-7370-5758" => BLACK
+Col 9 [팩스번호]: "051-749-9174" => BLACK
+Col 10 [시군구]: "연제구" => BLACK
+Col 11 [주소]: "부산 연제구 월드컵대로114번길 26 (연산동) 1" => BLACK
+Col 12 [업종분류]: "게임" => BLACK
+Col 13 [컨택결과]: "" => BLACK
+Col 14 [폐업 날짜]: "" => BLACK
+Col 15 [비고]: "" => BLACK
+Col 16 [종사자수(명) 25년 기준]: "1" => BLACK
+Col 17 [24년 매출액(원)]: "1,920,000" => BLACK
+Col 18 [25년 매출액(원)]: "" => BLACK
+Col 19 [데이터 출처]: "https://bizno.net/article/6061643962" => BLACK
+
+--- BOUNDARY CHECK (2314 and 2315) ---
+Row 2314 Col 3: 주식회사 이데아디엑스 Col 4: 4708703279
+Row 2315 has values?: NO (Empty)
+
+>>> TOTAL RED BOLD CELLS IN WHOLE WORKBOOK: 150 <<<
+

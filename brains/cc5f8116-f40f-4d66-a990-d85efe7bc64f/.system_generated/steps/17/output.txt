@@ -1,0 +1,23 @@
+<h2>Read Sheet</h2>
+<h2>Sheet Data</h2>
+<table>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th></tr>
+<tr><th>1</th><td>순번</td><td>사업체명</td><td>연락처</td><td>업종분류</td><td>컨택결과</td><td>폐업 날짜</td><td>비고</td></tr>
+<tr><th>2</th><td>1</td><td>KON MASAYUKI</td><td>010-5844-7944</td><td>1인 미디어</td><td></td><td></td><td></td></tr>
+<tr><th>3</th><td>2</td><td>Seo</td><td>010-8181-2685</td><td>방송</td><td></td><td></td><td></td></tr>
+<tr><th>4</th><td>3</td><td>강경민</td><td>010-9242-5490</td><td>출판</td><td></td><td></td><td></td></tr>
+<tr><th>5</th><td>4</td><td>강나루</td><td>010-4666-2882</td><td>음악</td><td></td><td></td><td></td></tr>
+<tr><th>6</th><td>5</td><td>강대현</td><td>010-4691-4994</td><td>음악</td><td></td><td></td><td></td></tr>
+<tr><th>7</th><td>6</td><td>강동수</td><td>010-8509-8171</td><td>출판</td><td></td><td></td><td></td></tr>
+<tr><th>8</th><td>7</td><td>강민구</td><td>010-8210-8665</td><td>만화</td><td></td><td></td><td></td></tr>
+<tr><th>9</th><td>8</td><td>강민지</td><td>010-5927-0721</td><td>방송</td><td></td><td></td><td></td></tr>
+<tr><th>10</th><td>9</td><td>강숙하</td><td>010-6818-0086</td><td>공연</td><td></td><td></td><td></td></tr>
+</table>
+<h2>Metadata</h2>
+<ul>
+<li>backend: excelize</li>
+<li>sheet name: 개인 리스트</li>
+<li>read range: A1:G10</li>
+</ul>
+<h2>Notice</h2>
+<p>This is the last range or no more ranges available.</p>

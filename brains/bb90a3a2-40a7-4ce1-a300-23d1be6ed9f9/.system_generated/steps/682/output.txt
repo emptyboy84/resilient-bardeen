@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.getByRole('link', { name: '주식회사 신카 통신판매업 [정상영업] 부산광역시 해운대구 센텀동로 **, 센텀에스에이치밸리 ***호 (우동) 지번 부산광역시 해운대구 우동 **' }).click();
+```
+### Page
+- Page URL: https://www.114.co.kr/search/result/all?query=%EB%B6%80%EC%82%B0+%EC%8B%A0%EC%B9%B4#google_vignette
+- Page Title: 부산 신카 | No.1 전화번호검색 - 114On
+- Console: 182 errors, 7 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-01-16-180Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-00-45-305Z.log#L1220-L2794

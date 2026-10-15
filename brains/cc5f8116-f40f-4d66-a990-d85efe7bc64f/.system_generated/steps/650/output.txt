@@ -1,0 +1,11 @@
+The search for ""영풍문고 신세계 센텀시티점" 사업자등록번호" returned the following summary:
+영풍문고는 개별 매장 단위가 아닌 법인 전체가 하나의 사업자등록번호를 사용합니다.
+
+**영풍문고(법인)의 사업자등록번호는 773-86-01800입니다[1][2].**
+
+영풍문고 센텀시티점을 포함한 모든 지점은 이 동일한 사업자번호를 사용하고 있으니 참고하시기 바랍니다[1][3].
+
+Sources:
+[1] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFWGacn3_LoHORTxljYL61FsEdZkIst_eVDlWV-4TGs_DReGcGeVX663qQcSUeinNF5YjT_I_Xgik5cuif_DblH35SDtobSEj7F6to_X-ELroSF3M-sabn1ScGQvuf6gWyt5BBPl4jg==)
+[2] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqituFSxK59IvLxXtH5pF5T0c4Y-4vjWdgXm07EgQ_37icu7Wwy1v1pHVbRsgT9ao_5PalskDeQKDDKldJWlNqJgZEg4QEggiFiq5EDRF54hGHQF0OqIWaIu_sChilBivfF64NQ6kllr9IRMnu)
+[3] [ypbooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl7QWotcovyctXyKG_L6DXeuhIPTkPoC-HFbiCud-EgdMgoCJpACcal-C86jQMfvSMaiel3UPwGWtKgZMGYNx8G3bTCJMSsMH5hcjYCWr8dqAfHSIST1d2OKvDew==)

@@ -1,0 +1,21 @@
+The search for "공정거래위원회 통신판매사업자 등록현황 조회" returned the following summary:
+공정거래위원회 홈페이지를 통해 통신판매사업자 등록현황을 조회하는 방법은 다음과 같습니다[1][2].
+
+### **조회 방법**
+1. **공정거래위원회 홈페이지 접속**: [www.ftc.go.kr](https://www.ftc.go.kr)에 접속합니다[1][2].
+2. **메뉴 이동**: 상단 메뉴 중 **[정보공개]** → **[사업자정보공개]** → **[통신판매사업자]**를 선택합니다[1][2].
+3. **검색**: '통신판매사업자 조회' 페이지에서 **사업자등록번호, 대표자명, 또는 상호**를 입력하여 검색합니다[3][2].
+4. **결과 확인**: 검색 결과에서 해당 업체의 통신판매업 신고번호 및 상세 정보를 확인할 수 있습니다[3][2].
+
+### **참고 사항**
+* **신고 절차**: 통신판매업 신고는 사업자등록(국세청)과는 별개의 절차로, 사업장 소재지를 관할하는 시·군·구청에 별도로 신고해야 합니다[4].
+* **조회 불가 시**: 만약 공정거래위원회 홈페이지에서 조회가 되지 않는다면, 관할 지자체에 통신판매업 신고가 정상적으로 완료되었는지 확인하거나 국세청 홈택스에서 사업자 등록 상태를 먼저 확인해 보시기 바랍니다[4][2].
+* **직접 링크**: 많은 쇼핑몰 하단에는 '사업자정보 확인' 링크가 있으며, 이를 클릭하면 해당 업체의 공정거래위원회 정보 페이지로 바로 연결됩니다[5][6].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzvV-pBoNMaS_uoF1D-59FMa67WGGGN3hurS7icp6_SDdw31sLSLujqgH-VWM1MXNQw9jjCvD_1y-ql38IqYLURljDdAsEH3fskwJdtOZ3vffz5Z20t7TDGro=)
+[2] [semo-info.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUcU31vgLVcvxc51m0g-51_645WAkcHqkQ7DXUUHPsJkKGqjVGUg6DZzWYCwN99dng9xQlnco2Elh3QpVtPEB_3ic4hawjiR-AbzoXoKpVaJ6oLV7hqmO1Dwx7JdMBOtTcv7ZEw9xvqWBVHVwqNqMm9ToV8tz4NGR1J37TZOFK8MZ3X58QDbnbaBAxcL2KI0ZTAhzgSEXNC5YMrD2cr-ajvOjmjFSkY24MC3BG6xEaXkiqtwOeTINxDVmV98M4U6sg_rrratw6co6FgMtCC3UTIiqNEF3SV_le)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSgSpqaLh__Nr3GZPL2_VCCrBvizMLTXmTYb_Nx4iPULcNB5PkzFenvp0CosGtMLVXkwVgRz7CDbN8SwHBnXbfLjLmOzy3FJcykQDFqEMYs-Q8bquRA==)
+[4] [ftc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3blqeDGLnRnPMhWkL9S0vel75yRtVd6tftksImtwea30GlJtKqeG_Z33QFHNyY8a6UZgYAzlTCJbUWIxURZQs5UPOMz2bkCZG7DvZrscZ4faKRBtwQHWVu29N-GuUlvyOyiQrwtY=)
+[5] [gnuwiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoWRRND2vGixpcw2TzUzU6EFQ5pKln-XAJtYnsFPvCvqCjxUxLb6gNihjLowJKOw92D8j79XCUdK-HC32OnD_7-Cj-yudf8T2Ep_4SE6N2FmaOH_LY)
+[6] [cgimall.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaTdc5kcsDXFSKkOUSY4ULCvzqZWxtESajvbDlz-nydV51xLLoKaxAl0h4KUwA2A_LT0_gRP_0oY0SIx3KRQUrAQvZboHFTV3JrR2AXBlcsh_KTO_VqHE0_Mgpnzjh0cOJuOc8vupF0WrAGIzy5zDM0saA4PDufNOMbw654r0tOpgosRt4dqHaiklDKobvs6CSBbMmRVptSdkNdYl_Tq5-8QmhpUAI8A==)

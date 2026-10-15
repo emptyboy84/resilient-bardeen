@@ -1,0 +1,12 @@
+The search for "site:kipris.or.kr "오앤비스페이스" OR "오앤비스페이스" "출원" OR "특허"" returned the following summary:
+특허정보넷 키프리스(KIPRIS) 공식 웹사이트 내에서 `'오앤비스페이스'` 또는 관련 특허·출원 정보를 직접 조회한 결과, 입력하신 검색식 조건에 부합하는 구체적인 특허 공보 데이터가 직접적으로 색인되거나 매칭되지 않거나 공개된 상세 특허 번호가 조회 범위에 나타나지 않을 수 있습니다[1].
+
+다만, **주식회사 오앤비스페이스(OnB Space)**는 KAIST 윤효상 교수가 창업한 우주·항공 분야의 초소형 위성 설계 및 운용 스타트업으로[2][3], 위성항법시스템(GNSS) 신호를 활용해 지구 대기 및 전리권 등을 관측하는 기술(대표 위성: '슬레지/SLEDGE' 등)을 중심으로 연구개발 및 사업을 수행하고 있는 기업입니다[2][4]. 
+
+특허청의 KIPRIS(kipris.or.kr)에서 정확한 출원인 명칭('주식회사 오앤비스페이스' 또는 대표자 명의 등)으로 검색을 수행하시면 해당 기업이 보유하거나 출원한 지식재산권의 세부 목록(특허, 실용신안, 상표 등)을 더 상세히 확인하실 수 있습니다[1].
+
+Sources:
+[1] [kipi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEvBW0ET0IiLN2FIWsc2Dk3HOwnV_Nj97-UQ52k9Mwg59GrRzIZhqWW98Zcdl2JcuMpdBU8_U2TWB2qcK-DHYRh6p1fmZbg67S5BknB31oMWjValjryeoPFnGh3TLHZL0olLPrTrIl2DTTuR4xD0qYYsv3YQ==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV9C5NuQw2Ys9-Cfak2-C-yZKql2Fyiaz-7q_H2YuTT63mDw_pKTkwpjwuXr67sIr3wOWQgRafmhE-JgDuZFLA0ew4jCQEW-9pGB2UkZ8=)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv79Cz-7KVdeUrmK9dmpYOrzImw7joOMIDCZXJSwugdUdMI0aN4umtsjfbsr5eqSeGgAlSkmvW43HAwbNjEYLs9XiMbfjJ3-AzYKI5kmQ=)
+[4] [jodaleconomy.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH62cBN5FaFIZ-MXjqruoPAI3A4EyHlDDr92U0RmlGv9BzPuvz86IgNDkCAgh2X_M04eczbdZzFQMrVFixCGGkSR-35qJ1XKJI9GeOyWRYaDr0diu0QKG01KeJqubFR7xywwM4pyfaem0RSJXaVQ_aLA9Uf)

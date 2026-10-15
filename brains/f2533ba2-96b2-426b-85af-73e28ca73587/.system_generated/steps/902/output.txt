@@ -1,0 +1,12 @@
+The search for "("주식회사 나음" OR "(주)나음") "남흥용" ("180111" OR "법인등록번호" OR "기장해안로")" returned the following summary:
+**(주)나음**에 대한 기업 정보는 다음과 같습니다[1][2].
+
+*   **대표자:** 남흥용[1][2]
+*   **법인등록번호:** 180111-1******[2]
+*   **설립일:** 2021년 9월 14일[2]
+*   **주소:** 부산광역시 기장군 기장읍 기장해안로 98, C동 1층 109호 (시랑리, 판타지오스퀘어)[1][2]
+*   **업종:** 응용 소프트웨어 개발 및 공급업[1][2]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsua1OeHzhGlBWK3mX5v7j0oD3t4jtWnIAKsMpu-ZZvD4VLdOnYDalK8u2hC1NB1r7SgRVtpikpvPSc5Olrym4WEK_S7oxspRY1tZaCU7fZ4XYIgFd44vbmPdp91SUazcvtw3OXxYGeTHJk0tWMdNn6GBLudc1jahfaz4xFrWqWzIGYMtgE5_xJWAbzaTavMiZXGbqbMJYA_pdVSbfJhkO3ZZNeJ9vP4ZS1Qd-zqxx-Jzeir7BFYrUeJpwcA==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZRJq24ww5UZEF_7vvCxgqa06MEU3g5ptclfYpLPIlWWLYtJQPiQks8bjKBlXIeiUpQdRfsvi8ZZKnaqPc8xqZ6vICB4cg7eXlSrZvIrhSzieEciXdvYS5INzQZqs7MiMmfK1ecuWo-yGD1N2IdCa8_1b9)

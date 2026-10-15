@@ -1,0 +1,15 @@
+The search for ""560-07-02488" OR "5600702488"" returned the following summary:
+해당 사업자번호(560-07-02488 / 5600702488)는 '니쥬상점' 또는 '니쥬상회'라는 명칭으로 등록된 사업자의 정보로 확인됩니다[1][2].
+
+*   **상호명:** 니쥬상점[1][3] / 니쥬상회[2]
+*   **사업자 형태:** 개인사업자[2]
+*   **업종:** 전자상거래업[1][3], 기타자유업종[2]
+*   **소재지:** 경기도 광명시[1][3] / 서울특별시 구로구 가리봉동[2]
+*   **영업 상태:** 영업중[3]
+
+제공된 데이터 출처에 따라 소재지가 다르게 표기되어 있으나, 동일한 사업자번호를 사용하는 업체로 확인됩니다[1][3][2].
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaL0tPQ2g6nn3i3FYay8eubh6p8Q4FX3R2Mlkl54rcnydKFC022enPw0BBv5FFJSgnue4UH-0JuFjd3BinWq9l7LQgCHI-GmOXeegWiV-siC6s0o9knhxiJHyBRVUzREN_agY=)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9O1qVsDgZ7Z9nPezmtfwPPIJTdN7tDU4DKIxmXzynkpBHXay5exRA3KHhAJadQbkFbArw8-A1qAdTjR4ZQttikwTCZU0y-Eo-Dc9vwPVETZmDd5LhnAv4xhH8DPoOesTIOw==)
+[3] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaL0tPQ2g6nn3i3FYay8eubh6p8Q4FX3R2Mlkl54rcnydKFC022enPw0BBv5FFJSgnue4UH-0JuFjd3BinWq9l7LQgCHI-GmOXeegWiV-siC6s0o9knhxiJHyBRVUzREN_agY=)

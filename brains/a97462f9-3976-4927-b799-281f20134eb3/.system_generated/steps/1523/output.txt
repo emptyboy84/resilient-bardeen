@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=부산 동구 중앙대로226번길 7-6');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%B6%80%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EC%A4%91%EC%95%99%EB%8C%80%EB%A1%9C226%EB%B2%88%EA%B8%B8%207-6
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-21-47-615Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-21-46-556Z.log#L1-L2

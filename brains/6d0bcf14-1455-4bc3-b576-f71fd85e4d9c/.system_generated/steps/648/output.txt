@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+On branch extract_busan_phone_numbers
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	data/batch1_targets.json
+	data/merged_step1.json
+	data/merged_step2.json
+	data/missing_from_282.json
+	data/phone_numbers_merged_261015.tsv
+
+nothing added to commit but untracked files present (use "git add" to track)
+

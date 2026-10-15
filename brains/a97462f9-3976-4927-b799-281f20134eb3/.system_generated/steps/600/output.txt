@@ -1,0 +1,12 @@
+The search for "site:catch.co.kr "넥슨커뮤니케이션즈" OR site:saramin.co.kr "넥슨커뮤니케이션즈" "매출액"" returned the following summary:
+넥슨커뮤니케이션즈에 대한 주요 기업 정보는 다음과 같습니다.
+
+*   **매출액**: 63억 원[1][2]
+*   **영업이익**: 4억 원[2]
+*   **평균연봉**: 4,900만 원[1]
+
+해당 정보는 캐치(CATCH)에서 제공하는 최신 기업 정보를 바탕으로 합니다[1][2].
+
+Sources:
+[1] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzzBZ7FIIKfVhKNaU2Gu3oRb6GIuhkIpN63DM2PjkIduvsgj5sSdevu5PEhUTmmH1R_PTy5UHIR4U94j59u02G81_nBO4CO_3fkbP6qaPIrVivaW-UP76tenqScf8EZAQ7vNjO4w==)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2y7wcQ-DKUpgD8znriAHM7F3T4uGNtvlMqOQCXQk7WXA7NCLfVTbgnRiMggZvT79tkAc0oxi_l8MzPxBpG1Jiw6IeKk_EWismaQ0C10QkhrJzGvI6Fn3vKRew2_WYSM-F1w==)

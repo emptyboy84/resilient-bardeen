@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Query 1 len: 61886
+Snippet 1:  186-86-00972 매출액 &ndash; Daum 검색 var uk = "76d0fa80-3732-4e93-98ba-6d8689015f60"; var mk = "76d0fa80-3732-4e93-98
+Query 2 len: 81631
+Snippet 2:  브이드림 김민지 매출액 &ndash; Daum 검색 var uk = "f71748a4-59ab-49bf-b085-0c4db646e56e"; var mk = "f71748a4-59ab-49bf-b0
+

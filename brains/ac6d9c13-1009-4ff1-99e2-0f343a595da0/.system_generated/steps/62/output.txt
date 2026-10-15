@@ -1,0 +1,12 @@
+The search for "site:nicebizinfo.com "와이피엔터테인먼트" OR "시니어편의점" OR "엠에스테크놀로지"" returned the following summary:
+NICE 비즈인포(NICE BizINFO)에서 검색된 기업 정보는 다음과 같습니다:
+
+* **와이피엔터테인먼트(주)**[1]
+* **(주)엠에스테크놀로지** (외에 지엠에스테크놀로지, 케이엠에스테크놀로지 등 유사 상호 포함)[2][3]
+
+*참고: '시니어편의점' 키워드는 나이스비즈인포 사이트 내 검색 결과에서 확인되지 않습니다 [2.1.2].*
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbKvjEQV4FUeKwcCtqbJ4saKTDU2EP3aCsU-RK_ABoZJa-5hdWBWafaCQpwYg7E65Y6C_Rs6ZPUv_t4gUBkWQHtPTP5vi_wNm0qLG80Cbct7P7W3GFQF9FqoJe2OOtKQZ86eBIOMS4fciqJ4O5So_gbPM8)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeuL2hWWToOR41xIhS_HlYR17nDdO3_-fwft19i1gGbJxO23O-vmWaEBChLi7oqTYtAcsEIW_Q8URcbcKswZiOseYjEXE2Uzke5mH_uKMeCi0XRo2Ft-uNep8sK7CGFyJNM989BovH87FGElGpja8A-iCz)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRlW1UZ_Pf7Uc9Ty4PbuEHNW8gb8S-e1kt4g4xXgjy0gSNmJmEkdZqGd1UyAmIjdMRQd36etnvKfh9Xv1JuyYyVq7-EOOXZ-R3zNNL4M1tVjEA2Iy0d3tfzm-B1vxBt9PbA0OqremqwX-LdiClafumfGKn)

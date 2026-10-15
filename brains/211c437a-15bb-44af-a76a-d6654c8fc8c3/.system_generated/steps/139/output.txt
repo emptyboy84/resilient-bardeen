@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Initial GetMethod2(0x30):  2
+SetMethod2(0x30, 0) result: True
+New GetMethod2(0x30):  0
+

@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+At line:1 char:151
++ ...  -Path .FullName -Pattern '동화사|464-0761' -Encoding utf8; if () { Writ ...
++                                                                  ~
+Missing condition in if statement after 'if ('.
+At line:1 char:174
++ ... n '동화사|464-0761' -Encoding utf8; if () { Write-Host .Name;  | ForEach ...
++                                                                 ~
+An empty pipe element is not allowed.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : IfStatementMissingCondition
+ 
+

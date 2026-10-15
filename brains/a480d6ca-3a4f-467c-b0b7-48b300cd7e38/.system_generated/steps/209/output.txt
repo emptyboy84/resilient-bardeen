@@ -1,0 +1,29 @@
+### Result
+Total messages: 1 (Errors: 0, Warnings: 1)
+Returning 11 messages for level "info"
+
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[WARNING] <Router basename="/p"> is not able to match the URL "/proxy?url=https%3A%2F%2Fmap.naver.com" because it does not start with the basename, so the <Router> won't render anything. @ https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:57
+[ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:3000/proxy?url=https%3A%2F%2Fmap.naver.com%2Fp%2Fapi%2Fpubtrans%2Fsubway-lanes:0
+[ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:3000/proxy?url=https%3A%2F%2Fmap.naver.com%2Fp%2Fapi%2Fcmdo:0
+[WARNING] <Router basename="/p"> is not able to match the URL "/proxy?url=https%3A%2F%2Fmap.naver.com" because it does not start with the basename, so the <Router> won't render anything. @ https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:57
+[WARNING] <Router basename="/p"> is not able to match the URL "/?url=https%3A%2F%2Fmap.naver.com" because it does not start with the basename, so the <Router> won't render anything. @ https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:57
+[WARNING] <Router basename="/p"> is not able to match the URL "/?url=https%3A%2F%2Fmap.naver.com" because it does not start with the basename, so the <Router> won't render anything. @ https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:57
+[WARNING] <Router basename="/p"> is not able to match the URL "/?url=https%3A%2F%2Fmap.naver.com" because it does not start with the basename, so the <Router> won't render anything. @ https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:57
+AxiosError: Request failed with status code 403
+    at settle (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:63:12306)
+    at XMLHttpRequest.gt (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:63:19019)
+AxiosError: Request failed with status code 403
+    at settle (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:63:12306)
+    at XMLHttpRequest.gt (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:63:19019)
+Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at zr (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:58536)
+    at gd (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:110136)
+    at Qd (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:144491)
+    at Am (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:143535)
+    at Tu (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:143365)
+    at Fd (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:139795)
+    at lp (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:152137)
+    at go (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:150687)
+    at ip (https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:150967)
+    at https://maps-service.pstatic.net/mobileweb-navermap-v5/mobile-web/20260608133435-25570a/assets/client-entry-DdZMnOGv.js:2:152197

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com');
+```
+### Page
+- Page URL: https://www.google.com/
+- Page Title: Google
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-24-03-573Z.yml)

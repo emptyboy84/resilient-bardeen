@@ -1,0 +1,8 @@
+### Result
+{}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return { timeleft: window.timeleft };\n}');
+```
+### Page
+- Page URL: about:blank

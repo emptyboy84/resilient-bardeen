@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Total rows: 2313
+No phone count: 254
+No biz count: 222
+No sales count: 2007
+Rows with virtually NO data (no biz, no phone, no addr, no ceo): 3 [
+  { rowNum: 508, name: 'LINC', cat: '애니메이션', note: '' },
+  { rowNum: 955, name: '에프지엔터테인먼트', cat: '게임', note: '확인불가' },
+  { rowNum: 1113, name: '조나단/이은석', cat: '애니메이션', note: '' }
+]
+

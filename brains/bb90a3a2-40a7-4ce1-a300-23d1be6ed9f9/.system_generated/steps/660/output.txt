@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Path matches: [
+  '/search/spam',
+  '/search/mobile',
+  '/search/spam',
+  '/search/mobile',
+  '/search/scam'
+]
+Form actions: null
+

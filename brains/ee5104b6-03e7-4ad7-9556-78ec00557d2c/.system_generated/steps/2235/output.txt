@@ -1,0 +1,11 @@
+The search for ""구암동 83-29" "한국테크" OR "팔용로 245-1"" returned the following summary:
+검색하신 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **팔용로 245-1**: 해당 주소지는 경상남도 창원시 마산회원구에 위치하며, 장갑 전문생산업체인 **'완승물산'**의 본사 소재지로 확인됩니다[1][2]. 또한, 해당 주소지 1층에는 베넬리(Benelli) 마산 딜러점이 입점해 있는 것으로 나타납니다[3].
+*   **구암동 83-29**: 해당 지번은 창원시 마산회원구 구암동에 위치한 부동산 정보에서 언급된 바 있으나[4], 검색하신 **'한국테크'**라는 업체명과의 구체적인 연관성이나 매칭되는 정보는 확인되지 않았습니다[4].
+
+Sources:
+[1] [wspc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLHqPZRHuwn02grc6cGrLqlRoODoEFpDY8c4FYD28Lb0u9qzUgms4chRg2yr8QSCh2G4WsMM_osF3BpdK7eAARRSkS5zsm1vwRpKbn_Rv6gJagn_l-OuLJKdYQ1gGyLsB19dYcB2EEXd_G7FEGGg80v_IBKapECUqQAJNZyJ0kD47jZcs4139Ocl5LpiwfVR1EXBdK9Ds62Yxzbtqo0gvY63cRc22JNu39qwJIvKhox33kOwJrfKHO5aX0KhdTjpwYMdHkHdBwvIsISpHlQVYfuSnUlaMeAROL350RLBgPP8d5gQHHd6_sTRw610lFP7eT5VxRuYC-eCcZWOkwi99TzHTrLx7CpcjhPh-5QqLPrH3LSQSR4x0=)
+[2] [wspc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGxhL_4lkVgxoTzdhaK4QZ1DjeIk5kZSLO3cnuZde7axnMBobkCTTlLvPSuzUYu51d_Trw-QyIQTKPkeQuxWVWZqxH3D3kghn0dFL5Grc7JSfS_32KXcotdDDv74KfIfhCItoVOQ==)
+[3] [benellikor.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwrFzcJo1BqddPQxTxioiqfsd86mBn3rrOqtAabMeiyhLQkmJZQisA1uKDesBht8HrAFn8EbUBQFpkW19Qc548QhadFRNIg-oN0G_vZ2ssCjdxyMXcPxYHTw==)
+[4] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4KWXzhg9jvSXCQ1-MIP8yhpAUVrv2oWozkUHDWb49g3nskuYEXHXLXNRhrxGPGyfHK4k3hYHVC1UDoFDzh1vi4me5765bE3wxyjDL2TYZ9xBHXMZLLcDrjUr8D5ynvkVrARz2MbA1If_aqdIG86BmwUb13ceHhbEDK1S69x4EJvm4Bo2fCk_rHD2gza9qaQeT-Oh2XQHVwOI5C_fH3RZ5me_-Yu1GaQ-1eXHF5lcRDK1djQffu1oG-c9jjoowSkA7CogboksGWpkMbVFg8vUhJItd-MCl93WE4IciNWM5Q0LKqsB70W4E0PxqsDq2uA7GJqN_lJUTmxR-Ky5q4iaiYNYjKsfpL49CHw42TLhkxiTbw4Vd)

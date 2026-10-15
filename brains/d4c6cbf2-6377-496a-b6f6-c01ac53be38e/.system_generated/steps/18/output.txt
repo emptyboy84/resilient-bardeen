@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+FriendlyName                         InstanceId                          Status
+------------                         ----------                          ------
+HID-compliant mouse                  HID\SYN1B8B&COL01\5&154DB3C4&0&0000 OK    
+I2C HID Device                       ACPI\SYN1B8B\4&5C5684A&0            OK    
+HID-compliant touch pad              HID\SYN1B8B&COL02\5&154DB3C4&0&0001 OK    
+Microsoft Input Configuration Device HID\SYN1B8B&COL03\5&154DB3C4&0&0002 OK    
+HID-compliant vendor-defined device  HID\SYN1B8B&COL04\5&154DB3C4&0&0003 OK    
+
+
+

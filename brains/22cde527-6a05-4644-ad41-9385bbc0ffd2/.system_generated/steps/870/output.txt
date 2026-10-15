@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total: 150
+Corporations (주식회사 등): 0
+Individual/Other (개인 등): 150
+

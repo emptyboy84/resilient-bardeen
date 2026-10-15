@@ -1,0 +1,11 @@
+The search for ""49195971" OR ("페타브루" "rec_idx=49195971")" returned the following summary:
+검색하신 검색어(`49195971` 또는 `페타브루`와 관련된 `rec_idx=49195971`)와 직접적으로 정확히 일치하는 공개 웹 문서나 데이터베이스 레코드는 특정되지 않습니다. 
+
+다만 키워드에 포함된 **'페타브루(PETABREW)'**는 2021년에 설립된 대한민국의 **레이더 및 지능형 센서 기술 전문 기업**입니다[1]. 고주파 레이더 기반의 비접촉 센서 신호처리 및 정밀 알고리즘 설계 분야를 다루며[1], 선박·환경·에너지 등 다양한 산업군을 위한 하드웨어 및 소프트웨어 통합 솔루션을 제공하는 스타트업입니다[2][3]. 
+
+입력하신 `49195971` 또는 `rec_idx` 코드는 내부 시스템, 구인구직 플랫폼, 기업 DB(예: 로켓펀치, 원티드, 크레딧잡 등)나 특정 웹페이지에서 게시물이나 기업 정보를 가리키는 내부 고유 식별 번호(ID)일 가능성이 높습니다. 혹시 특정 플랫폼이나 데이터 조회를 위해 입력하신 내용이라면, 해당 서비스의 로그인 상태나 데이터베이스 접근 권한을 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTaONgLb-kg8EbpOgbPBeVWwmo80rTGHpXp7lQXYs01kuUgM12RKtmFQdYiGee5aem-D0JTfoBZtgCrjMo3zb_bY5gq-u97NVwQPYRAnWt_wLxYzVKqPaVA1iCWJXeMl1U5x0-ZEvUn66AtDtb6gSK7TYeka8gnj-gcWc=)
+[2] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAn1A8m6DJx1EnuyDPtveSvAXBq7KScNhimOLOqVsr0NcEf2yxnU-1BZF-P5TZVJEmGm6ftaOQIxB7ICQFY0DmDwAXcc4atcfJQ==)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIimd5RZx7PtwY5Zu0U_DQX0A8OlbgwK_EvmKDKZkWRCCLcG3sEfvTFtLDp63kbiEasb1Srv-EKFhCYEm_0p_1cjmdw8RW_ywhwuILCYpj)

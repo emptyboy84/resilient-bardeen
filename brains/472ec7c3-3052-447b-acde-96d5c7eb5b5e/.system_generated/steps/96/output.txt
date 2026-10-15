@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+C:\Windows\System32\query.exe : 'C:\Windows\System32\query.exe' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� 
+�α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�
+�Ͻʽÿ�.
+�ġ �:1 �:1
++ C:\Windows\System32\query.exe session
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Windows\System32\query.exe:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

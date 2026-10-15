@@ -1,0 +1,14 @@
+The search for ""창작집단1407" 작가 OR 소설 OR 웹툰 OR 만화" returned the following summary:
+'창작집단1407'은 부산을 배경으로 한 이야기를 콘텐츠화하는 창작 단체입니다[1][2].
+
+*   **정체성:** 부산항이 처음 열린 1407년 전후부터 현대에 이르기까지, 부산의 인물·장소·사건·문화 등을 소재로 부산다운 이야기를 풀어나가는 데 중점을 두고 있습니다[1][3].
+*   **주요 분야:** 웹 소설을 중심으로 활동하며, 부산 지역 기반의 콘텐츠를 제작합니다[1][3].
+
+검색 결과에서 '창작집단1407'과 별개로 웹툰 작가 '김은희'가 언급되고 있으나[4][5], 이는 부산콘텐츠코리아랩의 입주사 소개 목록에서 인접하게 소개된 것으로, 두 주체가 직접적인 연관이 있거나 창작집단1407이 웹툰/만화 제작사라고 명시된 내용은 확인되지 않습니다[1][4].
+
+Sources:
+[1] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYRwRhss4eUCS18K84XTepHOHvzCKPzyitmLpC8j_VyUZOxohrjc0MD353PoX04zwkJxVY7olwD5GACzOjhONUaXuATVL0boKo99dcFhHWDPYKYOtq0g1bMY9GxnEOFpV0)
+[2] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYRwRhss4eUCS18K84XTepHOHvzCKPzyitmLpC8j_VyUZOxohrjc0MD353PoX04zwkJxVY7olwD5GACzOjhONUaXuATVL0boKo99dcFhHWDPYKYOtq0g1bMY9GxnEOFpV0)
+[3] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYRwRhss4eUCS18K84XTepHOHvzCKPzyitmLpC8j_VyUZOxohrjc0MD353PoX04zwkJxVY7olwD5GACzOjhONUaXuATVL0boKo99dcFhHWDPYKYOtq0g1bMY9GxnEOFpV0)
+[4] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDYhhBGrQy8-8dw3PP8cqO9Q7AUX5NuWE2OKddLosVAoCWLT86a5VvoEXp8HmvqfiffyBK0H_ACdH7lHQAbxh6vpvEMTP3efea8zwIlXz6D0ZhS-eiOizfT54uV5bLweNl)
+[5] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDYhhBGrQy8-8dw3PP8cqO9Q7AUX5NuWE2OKddLosVAoCWLT86a5VvoEXp8HmvqfiffyBK0H_ACdH7lHQAbxh6vpvEMTP3efea8zwIlXz6D0ZhS-eiOizfT54uV5bLweNl)

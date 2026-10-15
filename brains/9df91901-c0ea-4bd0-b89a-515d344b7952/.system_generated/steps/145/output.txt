@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+해운대 기업 수: 67
+{ company: '(주)헤링톤 ', bizno: '(주)헤링톤 ', addr: '48059' }
+{ company: '치즈박스', bizno: '치즈박스', addr: '48059' }
+{ company: '폐업', bizno: '주식회사우진씨엠에스', addr: '48059' }
+{ company: '크레아티보', bizno: '크레아티보', addr: '48058' }
+{ company: '(주) 포스텍', bizno: '(주) 포스텍', addr: '48059' }
+{ company: '노튼어학원', bizno: '노튼어학원', addr: '48059' }
+{ company: 'YDB자산개발', bizno: 'YDB자산개발', addr: '48058' }
+{ company: '폐업', bizno: '세인', addr: '48058' }
+{ company: '폐업', bizno: '스마트제이', addr: '48059' }
+{ company: '퍼스트인센텀506호', bizno: '퍼스트인센텀506호', addr: '48059' }
+

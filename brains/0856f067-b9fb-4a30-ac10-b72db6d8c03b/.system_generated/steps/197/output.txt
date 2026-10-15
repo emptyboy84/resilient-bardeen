@@ -1,0 +1,6 @@
+### Result
+"no input"
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const input = document.querySelector(\'#keyword\');\n  if (input) {\n    input.value = \'부산 사하구 낙동대로 210\';\n    document.querySelector(\'.search_btn, #searchButton, button[type="submit"]\')?.click();\n    return \'clicked\';\n  }\n  return \'no input\';\n}');
+```

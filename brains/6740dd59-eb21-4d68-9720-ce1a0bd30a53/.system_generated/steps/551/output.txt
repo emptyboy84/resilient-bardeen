@@ -1,0 +1,31 @@
+The search for ""한스이엔지" OR "603-81-24251" "한상남" OR "오영훈" 매출액 OR 부산" returned the following summary:
+**(주)한스이엔지**와 관련된 주요 정보는 다음과 같습니다.
+
+### 1. 기업 개요 및 위치
+*   **사업자등록번호**: 603-81-24251[1]
+*   **주소**: 부산광역시 강서구 녹산산단381로 29 (송정동, 햇님토이)[2]
+*   **주요 사업**: '햇님토이'라는 브랜드로 잘 알려진 유아용 완구(승용 전동완구, 베이비룸 등)를 비롯하여 자동차 부품, 산업용 플라스틱 성형제품, 냉장·냉동 장비 등을 제조합니다[3][2][4].
+*   **기업 규모**: 중소기업으로, 과거 부산시 전략산업 선도기업 및 지역강소기업으로 선정된 바 있습니다[3][5][4].
+
+### 2. 주요 인물
+*   **창업주**: 한상남 회장 (1968년 동신화학 공업사로 창립)[3]
+*   **경영진**: 2018년경 한상남 회장이 일선에서 물러난 후, 오영훈 대표 등이 경영을 맡은 바 있습니다[3][6]. 이후 인수 절차 및 경영진 변동 관련 보도가 있었습니다[3][7].
+
+### 3. 매출액 관련 정보
+한스이엔지의 매출액은 공시된 자료에 따르면 다음과 같습니다[2][8]:
+*   **2016년**: 약 96억 5천만 원[2]
+*   **2017년**: 약 100억 1천만 원[2]
+*   **2018년**: 약 102억 7천만 원[2]
+*   **2019년**: 약 104억 2천만 원[2][8]
+
+※ 참고: (주)한엑스(사업자번호 403-85-22383)는 한스이엔지에서 법인이 분리된 기업으로, 연혁상 한스이엔지(구 햇님토이)와 관련이 있으나 별개의 법인으로 운영되고 있습니다[1].
+
+Sources:
+[1] [ihanex.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsgVG_zNFs03sS75PkKGuUevErwm3M_zj_JZM1zBSc2q0z0EyTQOmAsz2b2sRtWLRHcQPnktt3RuI2HLoZq3ZXid_0BlXQaCzF3Fl0EX3MMr9ARA==)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-YdhLneOkYvXzmOoaSFMWMNaP8_Fy2xNLDSTO7zNuuVBhQ10RsbPUoRMp_FNruNUlscG3BaubxSv3ESkxmHLCbbo1wZVnlLFQU3ySRYAjJBPsWIp1tlpeqtYE0jrfxUR5)
+[3] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMsKbAOsMvpekP_zJzJgTrJ-zn7Nm4g0rplyWK2-GiYw2AOJtYyclaRwTpjCiGFN0Ps2ryK0ajoNNzwQEjBOkTUiWvbU0j4werW6P6EiZTft4evhG7Co4STPpETBnATcVX2x2aQi71r7MyeM8KrOgCvd3yQcuRzWB93kL_E0eoRYt0W-P_39u12dWS)
+[4] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2vnzrQnG3ZCS69FSI5Md5HLwOWqvrULPH6eWAI422axfJCU4gUSgYU8pFW2mA5iIgsmyVYeNJnlIK4zpdhar4cVjlbXnWaJJVuTdzaDNXKog6d44BeA4IhYbaBsA0GieV_DCu-0XXmjL_waouFnwa08u8)
+[5] [enewstoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp8nQ3SPvgSnGOcLEvSHRdwp34teNFWxqVPV18MlUHSpkd_j_I4wYobgtDdWQjkpPJ_x8hKWMPwZpWyNpejsZwmPqRrwNQz_-8ye5rMWFzJ7fKNz7ZzvKFB0G1PRc8ERySRNBYKIOrF8H1kw8pd1E_1CmndQ==)
+[6] [newstomato.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFttQeDorLcsjEZJKvZ9oRx_cQUgxbL4GEWuLfY27wQuw_4UkuQBO8W2uQGuhnce3BmgYC-xrlO_DzsHodNQFLr7arUB4u7VwE1G9aIkGwgURCkA-AzY1dDUnWh33DNA9k_RmXWmDGiuNI=)
+[7] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMsKbAOsMvpekP_zJzJgTrJ-zn7Nm4g0rplyWK2-GiYw2AOJtYyclaRwTpjCiGFN0Ps2ryK0ajoNNzwQEjBOkTUiWvbU0j4werW6P6EiZTft4evhG7Co4STPpETBnATcVX2x2aQi71r7MyeM8KrOgCvd3yQcuRzWB93kL_E0eoRYt0W-P_39u12dWS)
+[8] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5hw18wU8sZ_c2vH02ofVxJQw7TE8yQ3XaUc6wyGW1sB9X8PXIoxUhQ5nR0vz7ndgaA71F1ORDEqKgqVee6BlQSb9LDe42l4UlP3OlYatm3E3nWZc2eWcBD52UY66X)

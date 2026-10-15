@@ -1,0 +1,17 @@
+The search for ""2019-부산수영-0698" ("010" OR "051" OR "전화")" returned the following summary:
+통신판매업 신고번호 `2019-부산수영-0698`에 해당하는 사업자는 **세연소프트(주)**(대표자: 성영철)이며, 관련 정보는 다음과 같습니다[1][2]:
+
+* **상호/법인명:** 세연소프트주식회사 (세연소프트)[1][2]
+* **사업자등록번호:** 271-86-01115[3][2]
+* **통신판매업 신고번호:** 2019-부산수영-0698[3][2]
+* **소재지:** 부산광역시 해운대구 수영강변대로 140, 9층 917호 (우동, 부산문화콘텐츠컴플렉스)[3][2]
+* **개발자 연락처(전화번호):** **010-7132-1902**[4][2]
+* **대표 이메일:** seyeongames@gmail.com[4]
+* **주요 서비스:** 모바일 게임 개발 및 서비스 (파스텔걸, 릴리스타일, 릴리스토리 등)[4][5][2]
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyIB46Px9RotzPqNa-uN96nBv65zBu0gOjZPm8zgux2iP6tmtsOqe1YXQrk0qN1JNnd9sB7QY86v605wW1uJG-daB9tsR1RmZHa00bIW8ju2KjT7R0D8igHv6MqhgzthS4WP29WMhviMKCHeqaLsqTDTyMBsX7)
+[2] [phoneky.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV5l6laitNzzPAqj8_aVUpqN9TQPfO43alpPZx_lwmgA4vnXBzGx10trA0hLGnZ4JotFwdn5c0hwYTFYOg-h6UkReDlnyhsEFfrPm6RySQ5HgTmgggjFOKmC_aFRB5OrMlsuKl9guf)
+[3] [aptoide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjivPVxsDG4ei6-sFnRdjkQwS0D1LxsP7mMN72oH1OgNdtUnYA-7LpCgkyzxSaPp_qDbkWPpBigDJhH2_vY-S2HGOp3kE3BXa3NFo274JrEFuTAVa1Ms9fjY=)
+[4] [minimap.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGOj-olZTYXTdZzjfLpir35ipDr4o2Uj18aAiQtlzxR8P5FPB7Sh0KvIZMp6MX094KA5ShhRA_nvzBTGE0SZRTKG_c4Zz8WNedO4n1KqdKEWKtVK_a6mJzwFQCySXPxaBXVIzunOJHi8k=)
+[5] [aptoide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETXdSA4o2Z-RO3mGSgVJS0VbxKobXTygvwGnsnSZNl8gIVHuuq9twYBv6FOe9FeIMY-7XjLcj5xoSGMKu1jGEhtb8DeKyzlMiwb3xo1k2TI3jqJXPvEEOGqxNA)

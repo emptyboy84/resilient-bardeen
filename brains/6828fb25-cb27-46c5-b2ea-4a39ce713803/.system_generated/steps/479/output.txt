@@ -1,0 +1,13 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-475
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-475.log
+Log output:
+=== Row 19343 ===
+  Col 3 (회사명): 클레빌
+  Col 4 (사업자번호): 7756300303
+  Col 5 (대표자): 김상훈
+  Col 11 (이메일): clerokim@gmail.com
+  Col 18 (업종(NICE BizINFO(업종)참고): 온라인공동물류
+  Col 24 (사업자번호): 7756300303
+
+Last progress: 2s ago

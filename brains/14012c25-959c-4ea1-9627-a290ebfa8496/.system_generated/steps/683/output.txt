@@ -1,0 +1,17 @@
+The search for "site:weseb.com "271-86-01115" OR "세연소프트"" returned the following summary:
+해당 검색어(`site:weseb.com "271-86-01115" OR "세연소프트"`)에 직접적으로 일치하는 결과는 웹에서 수집된 정보 중 일부 온라인 사업자 정보 플랫폼(위세브 등)에 등록된 **세연소프트주식회사**의 통신판매업 관련 데이터와 연결되어 있습니다[1].
+
+'세연소프트(주)'는 모바일 게임 개발 및 서비스 전문 회사로[2][3], 주요 사업자 정보 및 관련 세부 사항은 다음과 같습니다.
+
+* **상호명:** 세연소프트주식회사[1]
+* **사업자등록번호:** 271-86-01115[4]
+* **통신판매업 신고번호:** 2019-부산수영-0698[4]
+* **대표자명:** 성병철[2]
+* **소재지:** 부산광역시 해운대구 수영강변대로 140, 9층 917호 (우동, 부산문화콘텐츠컴플렉스)[4]
+* **대표 게임 작품:** 파스텔걸, 릴리스타일, 파스텔프렌즈, 릴리스토리, 파스텔파티 등[2][3]
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMUlhHhML5Q-GsJVAUln54s3A7_A-fu4lst5PJM2Ra7Td-ZJ_0YmEFy_A5YoLfMwbuI72dqaHOcvpcIiMBeBpR6ajxVuFO8b2W9X4f7ZsuUDSVzO4bPLHaeQ8U11Lhyp8EYvkj08JwnB5ytPbHrJwUGtlhioGQw==)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESGLz7xVm6SS6CDJ91kZlzJ2kcyZpSMnF2OXaGtl2uaTMECLUwfkdPgyij8UzTyc3GcQN18ZkOSuSe187Vh4o3eujDpn07KA5yAYKidjjZx-wNzA7bzh8L_z50BhU15pVYnqeAwzTBAg==)
+[3] [seyeonsoft.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1HQTB1MPFJKM2-Kr79MOWnckznX9Yvstna41b_vF5HPDZb_6hf-q1Id-dLXnGeS2c26HirKdEyzhHtH2nbwSjMWuxK72WlzLDfMC757AHO8nOPypRRbRV)
+[4] [minimap.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6XeDd9XDxAJgEcjful3mCntnV5PiA5vsNqNCuOvbVi81tmyHL-W2Cu0DNgZBv-2zPLA38VQdn5k9_qkUTg8jQ1y00-kEDg3Llcg2WNNHwyQZ7BRYfceDpV-GiEK6XBfk5u4v1dHJuNSw=)

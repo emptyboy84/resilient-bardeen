@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Traceback (most recent call last):
+  File "C:\Users\lg\.gemini\antigravity\brain\e5bbd26d-fcc5-4ca0-a474-3897a59ccc7b\scratch\query_bizno.py", line 4, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+

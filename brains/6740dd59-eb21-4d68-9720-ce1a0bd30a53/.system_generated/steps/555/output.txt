@@ -1,0 +1,9 @@
+The search for ""주식회사초록이웃" OR "308-88-02725" "황종필" 매출액 OR 부산" returned the following summary:
+주식회사 초록이웃(대표자: 황종필)은 부산광역시 사회적경제지원센터에 등록된 사회적경제기업입니다[1].
+
+문의하신 사업자등록번호(308-88-02725) 및 매출액 정보와 관련하여, 공개된 공공 데이터 및 검색 결과에서는 해당 기업의 상세 재무 정보(매출액 등)가 직접적으로 명시되어 있지 않습니다. 
+
+보다 정확한 재무 정보 확인이 필요하신 경우, '크레딧잡', '사람인', '잡코리아' 등 기업 정보 제공 사이트나 국세청 홈택스에서 제공하는 사업자 상태 조회 등을 활용하시기 바랍니다.
+
+Sources:
+[1] [bsec.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCKOSNFDMkfCuqYlfk41KovdKTGBT_R0mVv3YCjxfPAC3MAOHM0XwwZb6OGo2S0qr0yuVI9yjAP2TVfztHEk_IjOPyCdpBCMHUnfP9WdikZGZRM-6R1SBTN39_7wtvBbzCr6w=)

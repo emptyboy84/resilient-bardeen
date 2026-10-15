@@ -1,0 +1,13 @@
+The search for ""태성" ("부평1길" OR "부평동2가" OR "051") "영화" OR "비디오" OR "배급"" returned the following summary:
+검색 결과에 해당하는 기업 정보는 다음과 같습니다[1][2]:
+
+* **기업명:** (주)태성 (주식회사태성)[1][2]
+* **소재지:** 부산광역시 중구 부평1길 73 (지번: 부산광역시 중구 부평동2가)[3][1]
+* **업종:** 영화, 비디오물 및 방송프로그램 배급업 (영화배급업)[1]
+* **대표자:** 남태희[1]
+* **설립일:** 2007년 11월[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EEPRjzJdZvmFworG8M0k8pGRUnlpY3Crri9fOmzHo44wFYPJRcNzbZYEf_kYGziPomcK2CRp283WhdlWoj6DmEcTd3ZBzhCiOMp6j18toO_3L74vUzui-JzwqpnlUqh5BgXhwZtmei4smL0zI4vFjj4U_th3_CaIPFrm2fEOr7aN3hjwfscdrUbMVKkobHRYaY9p5jhb4BEUQuR1YUlkPFtb7GJRqN7JrC-LhWlu7phOxSB75UTPpCRM4w==)
+[2] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZNC9ee608FSmrJHJo2vraJcEIqfWv-0XzuQw4vECVn-QhICpcH24eI4sKH4ccnGnln9Z8bFITnTe6Ewt8yvr0tinZSrd2VyVpd9qA2nSbWxIet_ZvNgt2o6DrSScV2KJB)
+[3] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUQJkMh_bup8PYfaTWEwvG3-dvz4y9MpYgdd6ybi_tVJQgl_ET2s79JqrXsZE7QnhmW4XGwVR9Ct7vxcGatFq5GS15nO9rZ6-ztF-12HTub3xRZ_M_55RfP7FMkJzkzIFhABwqMpNrbbMCKRRbaSGuVYXTfSKIrzJhx8_LZ63zUzbRNFnOWvIsw4vHU_WxqKI=)

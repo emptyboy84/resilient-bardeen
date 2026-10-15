@@ -1,0 +1,3 @@
+
+Encountered error in step execution: CreateDesktop: {DLL Initialization Failed}
+The application failed to initialize because the window station is shutting down.

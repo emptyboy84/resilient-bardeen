@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Saramin links: [
+  '/company-info/view?csn=RmJIeGpxN1p0K1ZLQlFSSTRvcUVCZz09',
+  '/company-info/view-inner-finance?csn=RmJIeGpxN1p0K1ZLQlFSSTRvcUVCZz09',
+  '/company-info/view-inner-salary?csn=RmJIeGpxN1p0K1ZLQlFSSTRvcUVCZz09'
+]
+Saved justice_saramin.html, length: 8962
+Saved justice_saramin.html, length: 8962
+Saved justice_saramin.html, length: 8962
+

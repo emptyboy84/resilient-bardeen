@@ -1,0 +1,27 @@
+The search for ""비케이피" "양재호" OR ("배둔공단길" "양재호")" returned the following summary:
+질문하신 키워드 조합인 **"비케이피"와 "양재호"**, 그리고 **"배둔공단길"과 "양재호"**로 검색한 결과는 다음과 같습니다.
+
+### 1. "비케이피" 및 "양재호" 관련
+*   **비케이피(BKP):** 서울 마포구에 위치한 여성 패션 전문 기업으로, 자사 브랜드 '블랙업(BLACK UP)'을 운영하고 있습니다[1][2]. 해당 기업의 대표자는 **최예나래**이며[3][2], 검색된 키워드인 '양재호'와 직접적인 관련성을 찾을 수 없었습니다.
+*   **양재호:** 유튜브 채널 '1인지식기업가 양재호'를 운영하며 관련 저서(『1인지식기업 레슨』 등)를 집필한 작가 겸 강연가[4][5], 혹은 기업 컨설팅 및 세무회계 분야에서 활동하는 인물(양재호 세무회계사무소, EY컨설팅 파트너 등) 등이 확인되나, '비케이피(블랙업)' 기업과의 연결 고리는 확인되지 않습니다[6][7].
+
+### 2. "배둔공단길" 및 "양재호" 관련
+*   **배둔공단길:** 경상남도 고성군 회화면에 위치한 산업단지 도로명 주소입니다[8][9]. 이곳에는 비아이피(주), (주)해강, (주)삼부 등 주로 조선 기자재 및 금속 구조물 제조업체들이 입주해 있습니다[10][11][12][9].
+*   **관련성:** '배둔공단길'에 위치한 기업들과 '양재호'라는 인물 간의 직접적인 연관성을 시사하는 공개 정보는 검색되지 않았습니다.
+
+**요약:**
+검색 결과, **"비케이피"**는 마포구 소재의 의류 업체이고, **"배둔공단길"**은 고성군의 산업단지 주소로, 두 키워드와 인물 **"양재호"**를 연결하는 공통된 정보는 발견되지 않았습니다. 찾으시는 정보가 특정 기업의 대표자명이나 관련 인물에 대한 것이라면, 기업명과 함께 정확한 업종이나 위치 정보를 다시 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtipCawVhqf68qoCZw-EVNIOsTxod-yKPrUxlYfCinu5o_oiPucOs6A1aoPX0rh8F_zm8s9itR58tuszLoDQwtTZEvqUpz_cvWTwx-o7yjWCfFRa2IikIPyMuVSaqxsJ4YEYVUOykCp-iBZqwNirvUwmaT6dS_ogcPpiE=)
+[2] [black-up.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJCoA06dNRLVUNyXOLvJ6nVCVtQzv46BDqHhC9OpNt50UexXUSDAHOEq8Uvz2w3gnb1RI1ZiNSinHX2eTekFCkQkl1ixNUloIvFMaErHt3GNxCa2JXn7H2wqf4dSrnjVWIKU=)
+[3] [blackup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_MXLmu4EPQ3UYbAxBIKMoIWRWyDtYK9so5yYNGGlljWszXiOuTjZJp4kvFzDt8hoUpIfKMTZZO-kzmAa3_6SCe48Frubm76Nh)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTc3lI6w8YuFI1Syt2xiZRqlzwyMaMcplYMQ3_YJByOw9FP-0MjO01BeXRziNSHXEosRlrkR24UnYr7g8sU96frQcYZDBjty5rB64Od_tY_FBHQrFzN58M)
+[5] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHTI9OMWvXX5jd2_3r3VmIhHMZfvhFlKbmlpXs4XSXpSBXZ4OPRktS7KhoacoBoV0EuHgtObEHLNfLpLlkn1YeQCVo-BFrRm3ravgq835r0tpj0PSAdWW7Rt8yDouPXCDiBTggXdHO2p6vGY97n92qhTM=)
+[6] [ey.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXvKHiXupocDUpDroXuaw2fvPoSiYOaD6ZXoFDGmmFeTldYYiqlSsoOTua4dKyw6xnvW7XWvXm4e3TUdhi1K2JisTXecg07MKmJqQgk-6nIFoXzO3utdx7FGqEdPNiv8dz)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM-oUkoa2XFnHDSNvWnEsgqhHHCqSfHpNDtxw93qFgBewYPdv0R75KQ9X-yLihA_ARUCcaVMYRSzpZcDcF4lBupEeIRWvP7Osf4frFTQmMDpBZGdQUxxDUBxIy4I26ou8SrMVQz9DkLKsm8jkRlcpAArEliSZJgWDNivG1t_2dX7XMG9MsrQD4P4yFS9VYocEl3m8A4eHQiFAdf0QQ2k_JuIeD5mtdVrahwxVaU-TrL_xDxUOGWb6UdqBoLSCqPNr60Cradt1NoJHMj4EZzXPQ8u6NBdlgMLCmD4d89K-2aKVQtiw-NBRK-TsxSJ-RTcbvEbPdCiI=)
+[8] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGx7pFRyImX-H0ftMJG1UUtfWGZlZZ026LdwqYKGDBuRGw8W038Or24_XqOyQoDuOZvvwtBxMSSmotqtuDRiQxzwbVlhEOqbZap4EcZnZHlEp7QbAl8BGv-Z3ZXbJ_UJSjEta0ZlCUhvK61XPF6SxJDEDkDjHImlGWWOOk4vsdMQsN3B25R9SfRZH-PN-64gNjncq9XrkJRu5R5nUUBxjSVRkI5moqWPoPxbbhFYO8tUIjrG1G1wga72WPd9HphwmMVbtISLHmURZtI51Kd5XO2UGyXP_vvvBSsvv4yzltDk_TdCnliBwn-BwTu7ngnFtEA==)
+[9] [aico.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErcdmoH9QEyvaq1FA1WFS43KhCilJHoVVKzkGo9aJGFcqemlWmmWpt-FsUHys9E0fxTwZVc7SwQ6B5usoe-hZ6np79mQyW93eQagEsfx-AwvgTWo193IVQDJXRJHrsMywYwu2_s68I6yjF3rKudNKgElEpsZ1wj7c_Z6uWH2rmIJDlVbwXON8o4GQN404oluVhEMSdssWAWBkTv0B9hT9bHVvq_da23oKcCg==)
+[10] [bn-bip.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs7kxDUwnb7zs4wQYpaw8DLORl1nsoDdAxF_OiQLioBYJoRrJ5WYsfzT9rGVmioVejlFddXdoaYDLcn-UQGM_4p2Fhd5Cizu_vaFgKiF0wmKZexn9TPuFpw7eG3w==)
+[11] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIx1kg4XmEqcfwfdQE6YPMR4c2FlgzMTRdG6YASpdz2rTTbHIVXbBFMEyBGBvPB2Pc-GuVm2YaKdeXGTr-jVVg3JBPnu0s3NjBtSrROhuDN2vLq29qnIcTpW0YQMMwgYSYX8l-cSPABK6HCzm63-oUFD640dLgbydvePY=)
+[12] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH15t58P48b8XtbouQJ2CpxyHDtqSaN_oNk2UFqIO_DV8ba3_rigmgjVt3Vm4Soz8gsufjrFPvvuX5BRcmyRMAGdx-bsm9iUcIfbROkSpIL8a2-81C6n4I6aHKR_-Y4ZQJSA7erAwZApDlRiBKZ5jq1oXIzv_7FbLwwcH99qNuhvoJ7g92NEETNAz1lD8GIgX9fvvSuiwUyU0krZl2u1M6KJeZz0mdLCVCDNIXqJXuyb2fF5aGk3PyutC3M8-z0A==)

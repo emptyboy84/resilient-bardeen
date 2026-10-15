@@ -1,0 +1,21 @@
+The search for ""부산" "고분로 17" OR "연제구 고분로 17" OR "고분로 17" 부산" returned the following summary:
+부산광역시 연제구 고분로 17(연산동 756-7)에 위치한 주요 시설 및 상점 정보는 다음과 같습니다.
+
+*   **진미숯불양곱창 (진미양곱창):** 해당 주소지에서 운영 중인 음식점으로, 소금구이와 양념구이, 곱창전골 등을 제공하는 노포 스타일의 식당입니다[1][2][3].
+*   **박정헤어라인:** 해당 주소지의 1층에 위치한 미용실입니다[4].
+*   **세종인쇄:** 인쇄 및 제본 서비스를 제공하는 업체가 이 주소지에서 확인됩니다[5].
+*   **금다래:** 해당 주소지에서 운영되는 주점(술집)으로 언급된 바 있습니다[6].
+
+참고로, '고분로 17'이라는 도로명 주소는 부산 연제구 연산동 외에도 다른 지역에 유사한 지명(예: 서울 송파구 백제고분로17길 등)이 존재할 수 있으나, 위 시설들은 **부산광역시 연제구 고분로 17**에 위치한 곳들입니다[7][8][9][10].
+
+Sources:
+[1] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdP5raL_Eh1uYfG838qHtTbClUqXEdHinYEWnVSdigCaAIcckPJzzGxM58qXObDd5l4Jwpel5v0PCR5mF1ftYtjToK_1OODrnjyV7Yo4mpSKVdZjGcIpafow==)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvA-sF71Qv18OYRqUULkyIxTFIDKFzG4__VT3gA3xrRxqHYUZfMGfKr--DNxshu8zW8qwq-_xPekYAGqiPy4g0U95iGfvYYtVD9vLFzJscNZQz4VYgvhXkcuS4R2zDla1dZw==)
+[3] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdP5raL_Eh1uYfG838qHtTbClUqXEdHinYEWnVSdigCaAIcckPJzzGxM58qXObDd5l4Jwpel5v0PCR5mF1ftYtjToK_1OODrnjyV7Yo4mpSKVdZjGcIpafow==)
+[4] [linktoplace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsOzE6cKzabbVwznc2LBf4XJjAaM9-wE_0mo_utCqOn7NDfk8ItxHUjbGeT4Bv_iE9eRpgNN36V9eH6-9WkuiGv4icVqnFUjsXQxMhP4Y_TY89wwwW1wZ0teb4HkUCOUIt)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSCFK6xhuOxUc_GrPaM-ess77hD3D5OszwGURxF5gMlN4Cy_-gnLFqxPRfBbdRmwPKzHowv0qcM6PEPKv-_kZUE6bP5YH0-6xFpUhjNFu1eJqCiNXhtQ1f5B5CDpbU2z2d)
+[6] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhp5bQ0POrXgkQaYjTWSyOXaTYW5v9WFbQEkBwzcrodyV0PCqtxvMZpPJDs6ec1GXf6apX1LTQBTjW0VYt-DHY7ola5Ng6yj8oqf8xMkvlT10qCnhKzRH83-_hnovSYeF)
+[7] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfURrhwsPGgojiFrBAQvOC0JSC2dfukmGqM5ZJPep7bWC79qfIfleDSxxJ_W3kLysb4xUbeCWx-nwnoIqTk2OG2WKjXRlO2lcjS-AuEkj9_WgJ321_S-uqhw==)
+[8] [jiarc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0zE0-B_tF5nlbUL4U-6UBu2tORg-nHMVpQznrL-qkikzhu1Ul5hHC1gTEGqAn5OVfGyMj2jR6KhvP6-6DnUg3C8AHAG-Br7rnvbjY0ZL9SySrctKeMuUjAUNZ3LsHYpI1lVkgfF1pFdg5zI_Omr1OgSbhdSyVLzAsNljgSLHlT6C-aUdV7ze70QNC2JVXxbHI6tSYotjdrMSOf9qQWP4_bfsIyyVC7UM0Fbac6A==)
+[9] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuPD6_d6f0lVCGRBq8avazo8VbXSbVVO7RakpN69oxzkPBWAW_5-Yh1g5DPJUG-Zzg-ktYBnbR9G8UTetjrESZjMmUejohHcncJWU-pyHvAH9gVp_IZ7MIewsQhnj10N6GUxEcbzSV5l6GBfhGKQj_BvBX3NKP_05d9tHlW6NoIkVLOEuWeNr3XAWB8SoA76gSTlIU61UAIzLjRht56WDFTnokcJ52KelSQAReKC0_Nzd-krtGj9wxjvbvdcatEAI5)
+[10] [jiarc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0zE0-B_tF5nlbUL4U-6UBu2tORg-nHMVpQznrL-qkikzhu1Ul5hHC1gTEGqAn5OVfGyMj2jR6KhvP6-6DnUg3C8AHAG-Br7rnvbjY0ZL9SySrctKeMuUjAUNZ3LsHYpI1lVkgfF1pFdg5zI_Omr1OgSbhdSyVLzAsNljgSLHlT6C-aUdV7ze70QNC2JVXxbHI6tSYotjdrMSOf9qQWP4_bfsIyyVC7UM0Fbac6A==)

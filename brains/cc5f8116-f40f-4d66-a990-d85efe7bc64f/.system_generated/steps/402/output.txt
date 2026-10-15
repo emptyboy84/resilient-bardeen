@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+parse_search_page('�ν�'): 3
+  -> {'biz_no_10': '3568700243', 'title': '�ֽ�ȸ� �ν�', 'addr_snip': '�'}
+  -> {'biz_no_10': '6891701324', 'title': '�ν�', 'addr_snip': '� �ֽ� ġ�Ƿ� 1529-1...'}
+  -> {'biz_no_10': '3342500911', 'title': '�ν�', 'addr_snip': '�걤� �ֱ� � �ιڱ�...'}
+parse_search_page('�ο췦'): 1
+  -> {'biz_no_10': '4018602715', 'title': '�ֽ�ȸ� �ο췦', 'addr_snip': '�λ걤� �λ� � 176...'}
+

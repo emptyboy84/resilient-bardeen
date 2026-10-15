@@ -1,0 +1,6 @@
+### Result
+""
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const scripts = Array.from(document.querySelectorAll(\'script\')).map(s => s.innerText);\n  const jsonScripts = scripts.filter(s => s.includes(\'538\') || s.includes(\'비솜\') || s.includes(\'051\') || s.includes(\'tel\') || s.includes(\'phone\'));\n  return jsonScripts.join(\'\\n---\\n\').slice(0, 3000);\n}');
+```

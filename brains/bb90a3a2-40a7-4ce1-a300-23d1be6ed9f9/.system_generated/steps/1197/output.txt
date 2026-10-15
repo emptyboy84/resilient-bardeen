@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Upload / File Imgs: [
+  'https://file1.jobkorea.co.kr/banner/share/share_img_01.png',
+  'https://file1.jobkorea.co.kr/banner/share/share_img_01.png',
+  'https://file1.jobkorea.co.kr/banner/share/share_img_01.png',
+  'https://file1.jobkorea.co.kr/banner/share/share_img_01.png'
+]
+Iframes: null
+

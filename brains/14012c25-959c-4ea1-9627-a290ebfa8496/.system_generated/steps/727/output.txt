@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5hPFA0TdOAbb8SRvo8gvlouZaRgoCxrqCL38Aih21-khrSmXp47_GiihSZbO5HTHJzlzmO0V67eRX4PpbQRCWhNE_0UVoRPShbfNN34FGpbp1BdEkAHBOjrJXdhfEloTEMEz5BahCKtuTEpomYMMCiMUd8HGsLZnd-dE=');
+```
+### Page
+- Page URL: https://www.designjob.co.kr/mobile/recruit/recruit_view.php?idx=306277
+- Page Title: 디자인잡
+- Console: 1 errors, 4 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-18-41-239Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-18-37-929Z.log#L1-L5

@@ -1,0 +1,15 @@
+The search for ""7778100884" OR ("금강기업" "3370")" returned the following summary:
+검색하신 내용에 대한 결과는 다음과 같습니다.
+
+*   **"7778100884"**: 해당 번호와 일치하는 검색 결과는 확인되지 않았습니다[1].
+*   **"금강기업" 및 "3370"**: '금강기업'이라는 명칭은 국내 여러 지역(광주, 정읍, 시흥 등)의 다양한 제조 및 건설 업체에서 사용하고 있으며[1][2][3][4], '3370'은 각종 제조업체 리스트의 관리 번호나 전화번호의 일부로 다수 등장합니다[2][3][4][5][6]. 
+
+특정 기업이나 정보를 찾으시는 경우, 지역명이나 업종 등 추가 정보를 함께 검색하시면 더 정확한 결과를 얻으실 수 있습니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3LlBkpe1g5CFMQu-o4Fa0kcv9wpL9H19TEQ_WRwG0GMRpoGw5enWeg7VbSO1KLrKCT1t6fnGXww09gb8V77x5YPkZYQ79pWdOxNAIq5GoayjuRn2guXqF8LrLvuDW8cWiJWd3O39eV31aNvMDqHY=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH8hzgLrXboC08ynMdQyZxYk0OOihAGFEYtzV4vKR6qeszyGksqFMowNNR12Uvm4CJAi7fu2PEVUNNAPrjkNt_2ERRkbT6vPjePsYktdzvXkA6o4rAB3WRLODaFzGtsqHfNDfju4vgHIheJgfP1J6n2y3DYPn3Gz_fA1IDv2GshEIiRIuphadSYt6oYvaFwprXWc0okF1z47hNgvOwCc4GGshIJL1mmdweILwwxmvcepHOVdnRhaPVLz58jK-vuBpagKVPaC7_3MULgWsHeXW2Aa0D)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTg2kPF0gVuRKrj_lNepIgKFEP_w0Z5-qf3qMhi4h5IbnS83xUXIkEMuxh6iUFJ_4Tk_hMc_ws0UMlnl59KV2MpYjXw2HwXBxSOyjEbtRpjx9Smg==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4DEy3N7N6MgpWstBjyavXcy-wKbq8FknggWlJ-1C-OBM6BujkfK7jGL8ljPuau_Hb8zsxioEgCGOZlQGbVtXDWsKV8Bh-Cp4DbcSmtbdWNh3AB515p0ch343yHuEB2_r_JFIH-etAfjuPdUITz4smfzpOupRsIs9SHr7eijq_fjPpKsqyQN1bDcEb-ZJAFgc=)
+[5] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPDmLSdf_qAmZ_vf_kycvPRwDIgXO8cvp_PSCdF1zrKmv6uSrQllPOUD64lrWfMmR8E6JYPDYZbyg2fQcpguOonZvVSYWkd5nCdREMrs66dj6wZ1GtECfUW4Z4SAHMnwD328Viye_LtLlWNyP4YJIAEK9_MBklZRSFFBg1rOEhVs2PbO9UJagCl5tAMXfEPhi0Vsr_B_d8vk8AUoYCpqln5Uj97oDC94sFm5bC1kjFj661GeiLwREAVk2SKMzbxDSmKXRyzVqDZLpDsXG5)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtxk-UHxYxcS0DmkShia9EuYhglzVl4kj-vDyB3I6GGB6F3sfzV8zhBJt0h-9tvnw2coFEDnpYfjsqk_GuNmTf_aadiFjUs4BXF2xvpuEKgoCm1GA=)

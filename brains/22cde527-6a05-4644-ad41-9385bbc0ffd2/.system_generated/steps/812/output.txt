@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:98
++ ... /<meta\s+name=[\"']description[\"']\s+content=[\"']([^\"']+)[\"']/i);
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:8 �:29
++         console.log('Meta:', metaM ? metaM[1] : 'none');
++                             ~
+',' �ڿ� � �ϴ�.
+�ġ �:8 �:30
++         console.log('Meta:', metaM ? metaM[1] : 'none');
++                              ~~~~~
+� �Ǵ� � �ġ � 'metaM' �ū�Դϴ�.
+�ġ �:8 �:29
++         console.log('Meta:', metaM ? metaM[1] : 'none');
++                             ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:8 �:55
++         console.log('Meta:', metaM ? metaM[1] : 'none');
++                                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:45
++         const closeM = d.match(/�\s*:\s*([0-9]{8})/);
++                                             ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:10 �:41
++         console.log('Close date match:', closeM ? closeM[1] : 'none') ...
++                                         ~
+',' �ڿ� � �ϴ�.
+�ġ �:10 �:42
++         console.log('Close date match:', closeM ? closeM[1] : 'none') ...
++                                          ~~~~~~
+� �Ǵ� � �ġ � 'closeM' �ū�Դϴ�.
+�ġ �:10 �:41
++         console.log('Close date match:', closeM ? closeM[1] : 'none') ...
++                                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:10 �:69
++ ...        console.log('Close date match:', closeM ? closeM[1] : 'none');
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

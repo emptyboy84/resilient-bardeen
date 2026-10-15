@@ -1,0 +1,28 @@
+The search for ""부산광역시 동구" "증산서로 52" 우편번호 OR "증산로" OR "범일동"" returned the following summary:
+부산광역시 동구의 도로명주소 및 우편번호 관련 정보입니다.
+
+문의하신 **'증산서로 52'**는 도로명주소 체계상 부산광역시 동구 좌천동 일대에 위치합니다. 도로명주소의 상세 우편번호는 건물별로 다를 수 있으므로, 정확한 우편번호 확인을 위해서는 **[도로명주소 안내시스템(www.juso.go.kr)](https://www.juso.go.kr)**에서 해당 주소를 직접 검색하시는 것을 권장합니다[1][2].
+
+참고하실 수 있도록 요청하신 키워드와 관련된 정보를 정리해 드립니다.
+
+*   **증산서로 / 증산로 (좌천동 일대):** 증산서로 및 증산로 일대(좌천동)의 우편번호는 대개 **48760~48769** 번대 범위에 속하는 경우가 많습니다[3][4][5][6]. (예: 증산서로18번길 12-6은 48767[3], 증산동로 26은 48765[5])
+*   **범일동:** 범일동 지역의 우편번호는 구역에 따라 다양하며, 주로 **48700~48759** 범위 내에 분포합니다[7][8]. (예: 범일로 74-3은 48747[9], 범상로 18-1은 48718[10])
+
+**정확한 우편번호 조회 방법:**
+1.  [도로명주소 안내시스템](https://www.juso.go.kr)에 접속합니다[1][2].
+2.  검색창에 **"증산서로 52"**를 입력하고 검색 버튼을 누릅니다[1].
+3.  검색 결과에서 해당 건물의 정확한 5자리 우편번호를 확인하실 수 있습니다[11][12].
+
+Sources:
+[1] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPeCpFyIolLRLDEIMO1rGlYRPbUVs0Pr0tF2jpT-XSSyc229yz2lfoPzVYMk1YdfaxUBoMedFhevoLd4WyIzVvXPq5yoONq09_wou63llI9E-979SCaqrfbyFMuZqrP8WeXzAzf9DM-wfspZJl8t_C3PAeIsSfJm6oqSk=)
+[2] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKjKO2Xn-kbh7208oOH50_b6UNPxKs_bgpRzNs8CDHggKPBeVPH9WAS7YzCDbw9kQc-xLk93RoV3nJ9G4naAlxE28eIoKWGTQBEod_Q6-9q8C-1qFH7RQlrUpwLciW7zSgKe9qbm2InFqf11p5IFS2Rroy6_HAW9C85do=)
+[3] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMprnj8qW0bM9bzrEQ234mIsCwpHOJhhiJnZKewV_miQxlTpheq6uhXzVE_dbMTIOyFDzka3XTUgSzeLEq6Uft6MuBhcKseShTGVQQo9Vmi-AhTnXqGFIsKCCe0waWFXijTxgpPsfciohyErLVF_riQH9Xsuymq2O2sq2UycbyMpk=)
+[4] [addresskorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH_Mz7dmem-zn9EU5PwagUFaxiNnbM3iuNM_74_hbDzkTl4yxah6AiWUcn8Ub1oG_0XJWYqsf9Qg6bQtq_ZF2KKn3gjjk77771ppf_ZCUwUN5V-e-2ArXtyhkHWryN-OYFPyIHtdHxsIRPkRp-gXgrs-R8qYtG)
+[5] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj5ze6-fKcg0jDKadGvAEitMweBVwqz80tzYUHULUWprd0W_Ej7mRK4bISw3q3lbQGPPJjQBp4i0Lw0caN30XkvA5F60rhGKRLMiUWMUSmvzTelUl7sFruFgqbDU4vLtfGeJ5-pmAE9RZNHqscqVsRdO8Q2pDUmCC1eXZ2OJ-iByw=)
+[6] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63p1Qsy2DAltct8rwnojD3ifRtnzOZYOW6hPxuA2b8xEIVFO-zXF_2OlfQgHaQjlUsGp2RVajnDXUfsVZ1IjVpaOjrqS5w1f0tAXSlM5NnPd0_BXENzTyJWBFoOicdTeMhv4LYsT_IpPEAZIuNpNE9dyw9A68ylCWgvdvPbPqCUU=)
+[7] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAxHme0yOrA8TBGYXgh5rAUU7gdjHPMkLe9gFP1JQVISIwbs7dx_KbBnsA5etNQ_YXxaTYAZmS9NibGnuvyxsHMbh-4I852nz8oic00yrfrQpqixbEQSFSM1mBzzH470NWVEX8-dt2fXYn64rSo1TspkFvk2Z0r5Bn7j0nUkMHF4cyBVW7tx5oFibaCx69YaGsFJ3ADewNkcf4LzBuaiLb52uAMdk2elD4D6bwgvdGuVJ67OaedWNNhjO8kzw=)
+[8] [apt4.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7kXriAqOc9rZxZ_iqyzwR2mJV8tQBo0XRqRFYlEugv8Ib-0J_hw-PRkfigTv6mbtyzEyFp_1KSWz-x8DeUw4OyQfoMnUd7COJ1MWi9UPWTcHGkWu0nonvWpHv_-Q8tCSmsD8DiPDwHj2S6uZuyBMfEXV2A1tSJfZZSbdC33RkS7Dmcz7ibGkCdSop6cwHw7YhAHZGLCH8Bx8eXkp9x41-m0ZfDPq8IA2QCI1QALNGedrv8YNNw5dnZ5wnWsjOvXzJEfc59Yo2wZ4nHqV73OihYHz3CA6xAbo=)
+[9] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjmfHv-u2Cag3ZCgEhWXHBqd-qoa6z_6Z1oWPbXnaEqrkisL4pJ3czmjLa5iYlgYmSMbSgmHxlDCdw6mISIe6QKNKwIkd0dI7mWKvsX_xSod13ywTzbvXEu52Dn_ErGXYaCj-qdBR5ZPz8pe6CmvwvSrwfFmlQ-1khtrImxoBJLI=)
+[10] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtpMWQbhJ4WlZCZG-cDynGDcpJp9qeW3IMpDbYEaeqKkv1QdXZUSczn0QBmteoUVoRnGsx8PfJ5gzvFAs3NXginn3URlocqDUqGP1Z97D4M8Qe5dlp1i_E5mjSbdqJD1MO5_T_q4KRyayeuqhiIQ4IHZ68HfWMU7l3BFowlYaZ1gA=)
+[11] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoptvxx4RVtYs826OH1tAkRksSPU1rtpwGF4DzoYzJW7nraAgrFzCoe8TaRZ-34nGQWxUKcsjNnRQFGxrhvdB8pFCRAwtgS5RvUOyG5LSfRkakvBAs8AfsrDDKYV0cGA==)
+[12] [sungae.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHICM_ZtZ8FTlEIn1JoxKl0oZt3NTYOJ3gld5BRvPqLZS2deTTMx9jo6uWouBUn4sJnU3hG5neWH-Jydw5El2VfLaC05SKK7kJmt10OnpnHq7CV8lvXGpC_UM6T9ULdSN0GHyNiBxDSSjii3X3yroAvK3DGa-kDmUYOQstDD_uBk_TCbRiUnTtYejy9tKXiDf046ur6oLvHPiEs)

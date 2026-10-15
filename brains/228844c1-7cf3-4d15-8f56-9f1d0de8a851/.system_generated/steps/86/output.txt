@@ -1,0 +1,12 @@
+The search for ""[신설법인] 부산" "브이알코리아"" returned the following summary:
+검색 결과, '브이알코리아'라는 명칭을 가진 법인은 과거 부산에서 설립된 사례가 있습니다[1].
+
+*   **부산 신설법인 관련:** 2009년 7월경 부산에서 '브이알코리아(대표 부성은, 유원지테마파크과학관체험 등)'라는 법인이 신설된 기록이 있습니다[1].
+
+참고로, '브이알코리아' 또는 유사한 명칭의 법인들이 다른 시기나 지역(서울 등)에서 설립된 사례도 확인되나[2][3][4], 문의하신 '부산' 지역의 '신설법인'과 관련된 정보는 위와 같습니다. 구체적인 법인 확인이 필요하신 경우 법인등록번호나 정확한 설립 시기를 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1mxPvktXie7hsJTqVb87Hly3073Ko2Lr2W1rqpBbqKAG0XUrV7tIJq_RsUuafn7DcgpqNkE6SR4fP_kQzyk6Jc7uBrVpLRhPNKL8VTKKgYlOZQD5BGPf14-KWKtUf5Nc=)
+[2] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmIlYJdRlHHLUdKPN_ybbD0FdQcjlt8YnycgWcVt6ILb1bk9iQRL4hGoCr9xWlzBP5NdG4FIKQUkxIZkl30g2VufGhIuqcSlCa_-64xVfpsK8dTitzaooozID__PnVJB4ftp4WWMhIaj9A)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2DeaLzFwajrN4POvXUlDCjGy_BwjRfpdj0LRuGoIfN7nSkfJoqqIyI3URAlqjD-bwmK4cI-pW2wI6CE6LeiigrKjkILJdEMGxmAbVqv7p0mJMLbEMIbP2m2COlcgui9VCifW6)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxU4wbPq0EcdfEm2zq5NK9ZYUQWD1pQjpnq_3ikaufql5nnjHSOzSbX8bDVFlp1hruJO3FV9dYeq_63-Pi_Zvo63_lQOK1zD84Xw1PO4s9bEPqXCk6Pd6OtylVwXOWHqra0vIh)

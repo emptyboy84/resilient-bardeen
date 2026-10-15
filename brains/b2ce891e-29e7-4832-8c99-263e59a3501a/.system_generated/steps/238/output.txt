@@ -1,0 +1,23 @@
+The search for ""wanted.co.kr/company/" "에이비엠랩"" returned the following summary:
+원티드(Wanted) 플랫폼 내 기업 페이지 URL 패턴(`wanted.co.kr/company/`)과 연관된 스타트업 **'에이비엠랩(ABMLab)'**에 대한 주요 정보는 다음과 같습니다[1][2].
+
+### 🏢 에이비엠랩 (ABMLab) 기업 개요
+* **설립일:** 2019년 설립 (법인 전환: 2023년)[1]
+* **대표이사:** 황의윤[3]
+* **핵심 비즈니스:** 
+  * AI와 빅데이터를 활용한 **대학생 라이프스타일 플랫폼(예: '캘박', '엔퍼센트' 등)** 운영[1][4][5]
+  * 대학생 마이데이터 및 구매·관심사 데이터 가공·솔루션 구축[1]
+  * 대학교, 기관, 기업을 위한 웹/앱 서비스 개발 및 디지털 마케팅·제휴 서비스 제공[1][2]
+* **주요 성과 및 특징:**
+  * 중소벤처기업부 **팁스(TIPS)** 프로그램 선정[1]
+  * IBK창공 혁신창업기업 선정 및 시리즈 A 브릿지 투자 유치 등 기술력과 성장성을 인정받은 IT 스타트업[1]
+  * 구성원 대부분이 20~30대로 이루어져 있으며, 유연하고 수평적인 사내 문화를 지향[1][2]
+
+채용 공고나 보다 상세한 기업 복지, 재직자 평판 등은 원티드 공식 홈페이지 내 **에이비엠랩 기업 페이지**(`wanted.co.kr/company/45164` 등)에서 실시간으로 확인하실 수 있습니다.
+
+Sources:
+[1] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXFADGmpDpg7vf9jFrW9YmnzftfQS8Nt56AqYw5Sc7fO6wK1RN3aEzDD1V5Wr8_lHqVzxyIYvORdDIiUscfbRQKCAnRkVofOSngCGYk2rhPHbZfGch1AgFVhsTg==)
+[2] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs8fczh_3YdjJ0-8rb8VRXuRJH8tHSVuCkyVrVkV-PtQHiHVmtnHGSmDn6TbzLCIYq31xKOUONd74___YLrPd59uIlerl7e94t_wlJi77FcBPlNnBTJVqu)
+[3] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTcXHWnioanSjCNB6Ygl3uTClh1svsH62NOCXy0s0ZsAx6nZxIjK4N3XMnRzSh1e-jJ82djwjst15XuOjIuGQW5q4SWHb6XJGOm-si2DrKDc4PHA==)
+[4] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHwa2m0TxLRuFlFdIfJhOkMd627S9ZO2LFY2gUqkBYQNMlzh_el6wlgViRDvOafRfriTXaRTh5nnHDFe6a9w2n2NnUH6ieXwfFtuWXY04QPegDXdQ9I6_DPeZ1FKsyJnM16o2FRJAk7aHMqMA-Ci-k)
+[5] [techcntlab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8loyLIBXwKek5y8deBNTntHokL9MpPJ671bw-YPUqTi4jxie_fQKHPg2C1ge9B90AQift9gZ84Dk68_59Igdo2_9fm32SnmiX4E0r9CznrwEuvWRBFYPFHvv48BcnVLtnuq3yfasy5X11bbh6LP5Y45Dx2GNVaQ_doeGpX58SyGNsWoWEKtdUCy44VDX5ud_vxf7_jVAEWE3PsC6HSH-Q0DzAIU9X2IiqWYfDDCmypPfh4y7NS0gIOmDPf8RngiRt1TAluI_3VZceDtS6FBcKlbeJ3yA-6D2Vzuf_F-PA58DtIybL3XX5ksaofd8cKkuAraaLs3WUKBkauCRV7BG7rCGtjAwLjxHMBvCdwQBX5L4vAyo=)

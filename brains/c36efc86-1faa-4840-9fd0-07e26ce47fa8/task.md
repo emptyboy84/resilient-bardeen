@@ -1,0 +1,3 @@
+- `[x]` server.js 파일 수정하여 bizno.net에 대해 Cookie 헤더 유지하기
+- `[x]` 수정 사항 로컬 테스트 및 동작 확인
+- `[x]` 완료 후 walkthrough.md 작성

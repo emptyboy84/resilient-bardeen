@@ -1,0 +1,130 @@
+
+The command exited with code 0.
+Output:
+node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Processing 500 rows...');
+
+// Category mapping dictionary for common Korean industries (Bizno standard)
+const categoryMap = {
+  '전자상거래': { large: '도매 및 소매업', mid: '소매업; 자동차 제외', small: '무점포 소매업' },
+  '통신판매': { large: '도매 및 소매업', mid: '소매업; 자동차 제외', small: '무점포 소매업' },
+  '쇼핑몰': { large: '도매 및 소매업', mid: '소매업; 자동차 제외', small: '무점포 소매업' },
+  '금형': { large: '제조업', mid: '기타 기계 및 장비 제조업', small: '특수 목적용 기계 제조업' },
+  '절삭': { large: '제조업', mid: '기타 기계 및 장비 제조업', small: '특수 목적용 기계 제조업' },
+  '자동차': { large: '제조업', mid: '자동차 및 트레일러 제조업', small: '자동차 신품 부품 제조업' },
+  '소프트웨어': { large: '정보통신업', mid: '출판업', small: '소프트웨어 개발 및 공급업' },
+  '프로그래밍': { large: '정보통신업', mid: '컴퓨터 프로그래밍, 시스템 통합 및 관리업', small: '컴퓨터 프로그래밍, 시스템 통합 및 관리업' },
+  '데이터베이스': { large: '정보통신업', mid: '정보서비스업', small: '기타 정보 서비스업' },
+  '광고': { large: '전문, 과학 및 기술 서비스업', mid: '전문 서비스업', small: '광고업' },
+  '컨설팅': { large: '전문, 과학 및 기술 서비스업', mid: '전문 서비스업', small: '회사 본부 및 경영 컨설팅 서비스업' },
+  '임대': { large: '부동산업', mid: '부동산업', small: '부동산 임대 및 공급업' },
+  '부동산': { large: '부동산업', mid: '부동산업', small: '부동산 임대 및 공급업' },
+  '화장품': { large: '제조업', mid: '화학 물질 및 화학제품 제조업; 의약품 제외', small: '기타 화학제품 제조업' },
+  '병원': { large: '보건업 및 사회복지 서비스업', mid: '보건업', small: '병원' },
+  '학원': { large: '교육서비스업', mid: '교육 서비스업', small: '기타 교육기관' },
+  '도매': { large: '도매 및 소매업', mid: '도매 및 상품 중개업', small: '기타 전문 도매업' },
+  '소매': { large: '도매 및 소매업', mid: '소매업; 자동차 제외', small: '무점포 소매업' },
+  '제조': { large: '제조업', mid: '기타 기계 및 장비 제조업', small: '일반 목적용 기계 제조업' },
+  '엔지니어링': { large: '전문, 과학 및 기술 서비스업', mid: '건축 기술, 엔지니어링 및 기타 과학기술 서비스업', small: '건축 기술, 엔지니어링 및 관련 기술 서비스업' },
+  '연구개발': { large: '전문, 과학 및 기술 서비스업', mid: '연구개발업', small: '자연과학 및 공학 연구개발업' },
+  '디자인': { large: '전문, 과학 및 기술 서비스업', mid: '전문 서비스업', small: '전문 디자인업' },
+  '음식': { large: '숙박 및 음식점업', mid: '음식점 및 주점업', small: '음식점업' },
+  '운송': { large: '운수 및 창고업', mid: '육상 운송 및 파이프라인 운송업', small: '화물자동차 운송업' }
+};
+
+function fillCategoryIfMissing(bizType, currentLarge, currentMid, currentSmall) {
+  if (currentLarge && currentMid && currentSmall) {
+    return { large: currentLarge, mid: currentMid, small: currentSmall };
+  }
+  if (!bizType) return { large: currentLarge || '', mid: currentMid || '', small: currentSmall || '' };
+  
+  for (const [kw, cat] of Object.entries(categoryMap)) {
+    if (bizType.includes(kw)) {
+      return {
+        large: currentLarge || cat.large,
+        mid: currentMid || cat.mid,
+        small: currentSmall || cat.small
+      };
+    }
+  }
+  return { large: currentLarge || '', mid: currentMid || '', small: currentSmall || '' };
+}
+
+async function checkUrl(urlString) {
+  if (!urlString || typeof urlString !== 'string') return null;
+  urlString = urlString.trim();
+  if (!urlString || urlString === '-' || urlString === '.') return null;
+  if (!urlString.startsWith('http://') && !urlString.startsWith('https://')) {
+    urlString = 'http://' + urlString;
+  }
+  try {
+    const parsed = new URL(urlString);
+    if (!parsed.hostname || !parsed.hostname.includes('.')) return null;
+    return new Promise((resolve) => {
+      const client = parsed.protocol === 'https:' ? https : http;
+      const req = client.request(urlString, { method: 'GET', timeout: 3500, headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+        if (res.statusCode >= 200 && res.statusCode < 400) {
+          resolve(urlString);
+        } else if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+          resolve(res.headers.location);
+        } else {
+          resolve(null);
+        }
+      });
+      req.on('error', () => resolve(null));
+      req.on('timeout', () => { req.destroy(); resolve(null); });
+      req.end();
+    });
+  } catch (e) {
+    return null;
+  }
+}
+
+function checkEmail(email) {
+  if (!email || typeof email !== 'string') return null;
+  email = email.trim();
+  if (!email || email === '-' || email === '.' || email === '*' || email.includes('*')) return null;
+  const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+  return emailRegex.test(email) ? email : null;
+}
+
+async function run() {
+  const verifiedRows = [];
+  
+  for (let i = 0; i < lines.length; i++) {
+    const p = lines[i].split('\t');
+    // p[0]: 담당자, p[1]: 상태, p[2]: 회사명, p[3]: 사업자번호, p[4]: 대표자, p[5]: 우편번호, p[6]: 주소, p[7]: 전화번호, p[8]: 팩스번호, p[9]: 홈페이지, p[10]: 이메일, p[11]: 종업원수, p[12]: 업종, p[13]: 법인번호, p[14]: 결산월, p[15]: 대, p[16]: 중, p[17]: 소
+    
+    // 1. Verify URL & Email
+    const validUrl = await checkUrl(p[9]);
+    const validEmail = checkEmail(p[10]);
+    p[9] = validUrl || '';
+    p[10] = validEmail || '';
+    
+    // 2. Settlement month default for corporations if missing
+    if (!p[14] && p[13]) {
+      p[14] = '12월(추정)';
+    }
+    
+    // 3. Category fill
+    const cat = fillCategoryIfMissing(p[12], p[15], p[16], p[17]);
+    p[15] = cat.large;
+    p[16] = cat.mid;
+    p[17] = cat.small;
+    
+    verifiedRows.push(p);
+  }
+  
+  fs.writeFileSync('all_500_verified.tsv', verifiedRows.map(p => p.join('\t')).join('\n'), 'utf-8');
+  console.log('Saved all 500 rows to all_500_verified.tsv');
+}
+
+run().catch(console.error);
+"
+

@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+<truncated 155 lines>
+Match at row 19127: [null,null,null,"제이(J)컨설팅",7520602192,"오영준",null,"부산광역시 해운대구 센텀북대로 60, 15층 1505호(재송동, 센텀아이에스타워) 15층 1505호",null,null,null,null,null,"20231102",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7520602192"]
+Match at row 19137: [null,null,null,"굿택스김현욱세무사사무소",7533200901,"김현욱",null,"부산광역시 해운대구 센텀북대로 60, 10층 1005-1호(재송동, 센텀아이에스타워) 10층 1005-1호",null,null,null,null,null,"20210906",null,2,null,null,"세무사업",null,null,null,null,null,"7533200901"]
+Match at row 19147: [null,null,null,"주니룸2호",7541701161,"허승희",null,"부산광역시 해운대구 센텀북대로 60, 16층 1608 (재송동, 센텀 아이에스타워)","010-2796-6694",null,null,null,null,"20190830",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7541701161"]
+Match at row 19169: [null,null,null,"주식회사 트리플에스리더",7568801681,"허필회",null,"부산광역시 해운대구 센텀북대로 60, 14층 1406호(재송동, 센텀아이에스타워) 14층 1406호",null,null,null,null,null,"20230330",null,0,null,null,"광고 대행업",null,null,null,null,null,"7568801681"]
+Match at row 19387: [null,null,null,"운희컨설팅",7800900356,"이운희",null,"부산광역시 해운대구 센텀북대로 60, 12층 1203 (재송동, 센텀 아이에스타워) 12층 1203호","010-8614-1122",null,null,null,null,"20160321",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7800900356"]
+Match at row 19490: [null,null,null,"아이에스1301",7900901309,"석태연, 하미연",null,"부산광역시 해운대구 센텀북대로 60 (재송동) 센텀아이에스타워 13층 1301호",null,null,null,null,null,"20191129",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7900901309"]
+Match at row 19503: [null,null,null,"한빛포토",7921400144,"오영미",null,"부산광역시 해운대구 센텀북대로 60, 16층 1614 (재송동, 센텀 아이에스타워)","010-2959-9448",null,null,null,null,"20151211",null,1,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7921400144"]
+Match at row 19537: [null,null,null,"(이숙자)",7964201075,"이숙자",null,"부산광역시 해운대구 센텀북대로 60, 16층 1611호(재송동, 센텀아이에스타워) 16층 1611호",null,null,null,null,null,"20230911",null,0,null,null,"경영 컨설팅업",null,null,null,null,null,"7964201075"]
+Match at row 19631: [null,null,null,"(주)톡엔통",8068802044,"박준희",null,"부산 해운대구 센텀북대로 60 905 (재송동)",null,null,null,null,null,"2021.1.11",null,4,null,null,"소프트웨어공급업",null,null,null,null,null,"8068802044",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"과장",null,"1577-9334"]
+Match at row 19719: [null,null,null,"아이엠씨(IMC)",8171400201,"여정기",null,"부산광역시 해운대구 센텀북대로 60, 19층 1913호(재송동, 센텀아이에스타워) 19층 1913호","010-2010-3330",null,null,null,null,"20230201",null,0,null,null,"컴퓨터 프로그래밍 서비스업",null,null,null,null,null,"8171400201"]
+Match at row 19800: [null,null,null,"소림여론조사",8284300104,"정소림, 송현아, 송은아, 송영아, 송하연",null,"부산광역시 해운대구 센텀북대로 60, 8층 807 (재송동, 센텀 아이에스타워) 8층 807호","010-6409-9599",null,null,null,null,"20160401",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8284300104"]
+Match at row 19849: [null,null,null,"제일회계법인 센텀지점",8348501020,"전성대",null,"부산광역시 해운대구 센텀북대로 60, 810호(재송동, 센텀아이에스타워) 810호",null,null,null,null,null,"20210510",null,0,null,null,"공인회계사업",null,null,null,null,null,"8348501020"]
+Match at row 19899: [null,null,null,"회계법인원지",8408500045,"박기용",null,"부산광역시 해운대구 센텀북대로 60, 8층 803호(재송동, 센텀아이에스타워) 8층 803호",null,null,null,null,null,"20210111",null,0,null,null,"공인회계사업",null,null,null,null,null,"8408500045"]
+Match at row 19913: [null,null,null,"경연컨설팅",8421201430,"김무곤, 김미경",null,"부산광역시 해운대구 센텀북대로 60 (재송동) 센텀아이에스타워 17층 1705호",null,null,null,null,null,"20201008",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8421201430"]
+Match at row 19928: [null,null,null,"한정우(주)센텀1호점",8438602068,"이철근",null,"부산광역시 해운대구 센텀북대로 60, 15층 1510호(재송동, 센텀아이에스타워) 15층 1510호",null,null,null,null,null,"20220126",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8438602068"]
+Match at row 19970: [null,null,null,"피에스에이치(주)",8488101787,"김진수",null,"부산광역시 해운대구 센텀북대로 60, 5층 506호 (재송동, 센텀 아이에스타워)",null,null,null,null,null,"20191014",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8488101787"]
+Match at row 20003: [null,null,null,"현대회계법인 부산지점",8518500268,"한정규",null,"부산광역시 해운대구 센텀북대로 60, 12층 1205호 (재송동, 센텀 아이에스타워) 외 1필지","010-3887-1890",null,null,null,null,"20160623",null,10,null,null,"공인회계사업",null,null,null,null,null,"8518500268"]
+Match at row 20145: [null,null,null,"(전선영)",8690901978,"전선영",null,"부산광역시 해운대구 센텀북대로 60, 19층 1908호(재송동, 센텀아이에스타워) 19층 1908호","010-4615-1651",null,null,null,null,"20220221",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8690901978"]
+Match at row 20180: [null,null,null,"성자디자인",8730800985,"김성자",null,"부산광역시 해운대구 센텀북대로 60, 10층 1009 (재송동, 센텀 아이에스타워)","010-3591-2653",null,null,null,null,"20180712",null,5,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8730800985"]
+Match at row 20181: [null,null,null,"(홍태선)",8731501022,"홍태선",null,"부산광역시 해운대구 센텀북대로 60, 5층 509 (재송동, 센텀 아이에스타워)","010-6585-7080",null,null,null,null,"20190725",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8731501022"]
+Match at row 20237: [null,null,null,"(장득규)",8791300032,"장득규",null,"부산광역시 해운대구 센텀북대로 60, 6층 608 (재송동, 센텀 아이에스타워)","010-8521-3781",null,null,null,null,"20150527",null,2,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8791300032"]
+Match at row 20250: [null,null,null,"에스에이치비지니스",8802901046,"김선희",null,"부산광역시 해운대구 센텀북대로 60, 15층 1503호(재송동) 15층 1503호",null,null,null,null,null,"20210521",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8802901046"]
+Match at row 20422: [null,null,null,"태황행정사무소",8996300287,"김장환",null,"부산 해운대구 센텀북대로 60 1711호 (재송동)",null,null,null,null,null,"2019.11.19",null,3,null,null,"행정사무소",null,null,null,null,null,"8996300287",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"대표",null,"051-727-9473"]
+Match at row 20434: [null,null,null,"에코캡주식회사",9508184196,"김창규",null,"부산광역시 해운대구 센텀북대로 60, 16층 1605 (재송동, 센텀 아이에스타워) 외 1필지",null,null,null,null,null,"20081108",null,15,null,null,"기타 부동산 임대업",null,null,null,null,null,"9508184196"]
+Scanning worksheet: 사용 사이트
+

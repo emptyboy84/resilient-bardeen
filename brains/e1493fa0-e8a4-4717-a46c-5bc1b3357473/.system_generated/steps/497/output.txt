@@ -1,0 +1,18 @@
+### Result
+{
+  "item": {
+    "bizno": "6090653247",
+    "engentrnm": "Cheongwoo Precision Ind. Co.",
+    "koraddr": "경남 창원시 의창구 차상로 66, 103호",
+    "korreprnm": "이만우",
+    "sanupscd_kor": "자동차 엔진용 신품 부품 제조업",
+    "korentrnm": "청우정공",
+    "ipodivcd": "60",
+    "scaledivcd": "2",
+    "upchecd": "261647"
+  }
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n  return {\n    item: store.searchResultList ? store.searchResultList[0] : null\n  };\n}');
+```

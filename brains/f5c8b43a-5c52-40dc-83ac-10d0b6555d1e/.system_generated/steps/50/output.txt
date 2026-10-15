@@ -1,0 +1,434 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+  },
+  {
+    "lineNum": 20471,
+    "company": "레커픽스(주)",
+    "date": "20220713"
+  },
+  {
+    "lineNum": 20472,
+    "company": "법률사무소 토브",
+    "date": "20201224"
+  },
+  {
+    "lineNum": 20474,
+    "company": "주연테크",
+    "date": "2020.1.20"
+  },
+  {
+    "lineNum": 20475,
+    "company": "청정하이텍",
+    "date": "2022.1.6"
+  },
+  {
+    "lineNum": 20477,
+    "company": "(주)에그패밀리",
+    "date": "2021. 9. 28."
+  },
+  {
+    "lineNum": 20478,
+    "company": "㈜디자인우드",
+    "date": "2019.2.12"
+  },
+  {
+    "lineNum": 20479,
+    "company": "해우림",
+    "date": "20230403"
+  },
+  {
+    "lineNum": 20480,
+    "company": "주식회사이루리",
+    "date": "20170215"
+  },
+  {
+    "lineNum": 20481,
+    "company": "(주)미라벨",
+    "date": "2018. 11. 15."
+  },
+  {
+    "lineNum": 20483,
+    "company": "투투",
+    "date": "20190823"
+  },
+  {
+    "lineNum": 20484,
+    "company": "(주)이밸류",
+    "date": "20211101"
+  },
+  {
+    "lineNum": 20485,
+    "company": "(주)들의곰",
+    "date": "2022. 2. 28."
+  },
+  {
+    "lineNum": 20486,
+    "company": "츄캣",
+    "date": "20210902"
+  },
+  {
+    "lineNum": 20487,
+    "company": "케이안전기술원",
+    "date": "20231109"
+  },
+  {
+    "lineNum": 20488,
+    "company": "보연",
+    "date": "20150918"
+  },
+  {
+    "lineNum": 20490,
+    "company": "더큐알",
+    "date": "20230817"
+  },
+  {
+    "lineNum": 20491,
+    "company": "태황행정사무소",
+    "date": "2019.11.19"
+  },
+  {
+    "lineNum": 20492,
+    "company": "태인테크",
+    "date": "20160902"
+  },
+  {
+    "lineNum": 20493,
+    "company": "탑플랜트",
+    "date": "20151116"
+  },
+  {
+    "lineNum": 20494,
+    "company": "현인단조",
+    "date": "20210830"
+  },
+  {
+    "lineNum": 20496,
+    "company": "(주)티에이싱크(폐업)",
+    "date": "2015. 9. 8."
+  },
+  {
+    "lineNum": 20498,
+    "company": "지에스아이엔티",
+    "date": "20220222"
+  },
+  {
+    "lineNum": 20500,
+    "company": "성광",
+    "date": "20220607"
+  },
+  {
+    "lineNum": 20501,
+    "company": "에이치에스플라텍",
+    "date": "20230725"
+  },
+  {
+    "lineNum": 20502,
+    "company": "OMT한국연락사무소",
+    "date": "2012.4.2"
+  },
+  {
+    "lineNum": 20503,
+    "company": "TM TECHMAN ROBOT Korea(콴타스토리지 한국사무소)",
+    "date": "2023.1.4"
+  },
+  {
+    "lineNum": 20504,
+    "company": "에코캡주식회사",
+    "date": "20081108"
+  }
+]
+
+=== AUDIT 5: Contact Info Formats (전화, 팩스, 이메일) ===
+Email anomalies count: 28 [
+  {
+    "lineNum": 2463,
+    "company": "(주)세진이디에스",
+    "respEmail": "-",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 5026,
+    "company": "(주)베이몬드건설",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 5435,
+    "company": "부경기계산업",
+    "respEmail": "부산광역시 강서구 공항앞길33번길55 (대저2동)",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 11959,
+    "company": "야나닷컴",
+    "email": "http://www.yarn-a.com/"
+  },
+  {
+    "lineNum": 11978,
+    "company": "에이치정공",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 12026,
+    "company": "신신하이드로",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 12136,
+    "company": "성화테크",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 15080,
+    "company": "알파 테크노파크점",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 15140,
+    "company": "디자인거산",
+    "respEmail": ".",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 15235,
+    "company": "현대정밀",
+    "email": "-"
+  },
+  {
+    "lineNum": 15236,
+    "company": "나노텍",
+    "email": "-"
+  },
+  {
+    "lineNum": 15237,
+    "company": "한진정공",
+    "email": "-"
+  },
+  {
+    "lineNum": 15238,
+    "company": "IDKOREA",
+    "email": "-"
+  },
+  {
+    "lineNum": 15239,
+    "company": "덕창기업",
+    "email": "-"
+  },
+  {
+    "lineNum": 15241,
+    "company": "대성기공",
+    "email": "-"
+  },
+  {
+    "lineNum": 15242,
+    "company": "진양테크",
+    "email": "-"
+  },
+  {
+    "lineNum": 15243,
+    "company": "대신와이어",
+    "email": "-"
+  },
+  {
+    "lineNum": 15244,
+    "company": "J M Tec",
+    "email": "-"
+  },
+  {
+    "lineNum": 15245,
+    "company": "태양정밀",
+    "email": "-"
+  },
+  {
+    "lineNum": 15246,
+    "company": "성호테크",
+    "email": "-"
+  },
+  {
+    "lineNum": 15247,
+    "company": "동이정공",
+    "email": "-"
+  },
+  {
+    "lineNum": 15248,
+    "company": "제이씨티",
+    "email": "-"
+  },
+  {
+    "lineNum": 15250,
+    "company": "해피밀",
+    "email": "-"
+  },
+  {
+    "lineNum": 15253,
+    "company": "경상테크",
+    "email": "-"
+  },
+  {
+    "lineNum": 19271,
+    "company": "(주)운복 ",
+    "respEmail": "-",
+    "note": "Respondent email"
+  },
+  {
+    "lineNum": 20460,
+    "company": "민성정밀",
+    "email": "-"
+  },
+  {
+    "lineNum": 20463,
+    "company": "보배정공",
+    "email": "-"
+  },
+  {
+    "lineNum": 20492,
+    "company": "태인테크",
+    "email": "-"
+  }
+]
+Phone anomalies count: 7 [
+  {
+    "lineNum": 5026,
+    "company": "(주)베이몬드건설",
+    "respPhone": ".",
+    "note": "Respondent phone"
+  },
+  {
+    "lineNum": 5435,
+    "company": "부경기계산업",
+    "respPhone": "부산광역시 강서구 공항앞길33번길55 (대저2동)",
+    "note": "Respondent phone"
+  },
+  {
+    "lineNum": 11943,
+    "company": "(재)경북테크노파크",
+    "phone": "053-819-3000, 053-850-5586"
+  },
+  {
+    "lineNum": 11959,
+    "company": "야나닷컴",
+    "phone": "02-2276-1525,02-6428-5400"
+  },
+  {
+    "lineNum": 12026,
+    "company": "신신하이드로",
+    "respPhone": ".",
+    "note": "Respondent phone"
+  },
+  {
+    "lineNum": 12136,
+    "company": "성화테크",
+    "respPhone": ".",
+    "note": "Respondent phone"
+  },
+  {
+    "lineNum": 15080,
+    "company": "알파 테크노파크점",
+    "respPhone": ".",
+    "note": "Respondent phone"
+  }
+]
+
+=== AUDIT 6: Closed/Suspended vs Respondent Info ===
+Closed/Suspended with Respondent Info count: 11 [
+  {
+    "lineNum": 1880,
+    "company": "케이선박도장",
+    "biko": "폐업",
+    "respName": "강정선",
+    "respPhone": "051-414-0117"
+  },
+  {
+    "lineNum": 1889,
+    "company": "부산예한방병원",
+    "biko": "폐업",
+    "respName": "손정호",
+    "respPhone": "051-714-0000"
+  },
+  {
+    "lineNum": 5124,
+    "company": "파세코",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "051-972-1204"
+  },
+  {
+    "lineNum": 5503,
+    "company": "(주)한빛넷",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "010-9909-4100"
+  },
+  {
+    "lineNum": 11894,
+    "company": "주식회사 룩스텍",
+    "biko": "폐업",
+    "respName": "김길연",
+    "respPhone": "010-2695-1184"
+  },
+  {
+    "lineNum": 12052,
+    "company": "프롬더네이처",
+    "biko": "폐업",
+    "respName": "장은정",
+    "respPhone": "1023709558"
+  },
+  {
+    "lineNum": 12166,
+    "company": "(주)아이젠코어",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "010-7422-4080"
+  },
+  {
+    "lineNum": 12214,
+    "company": "(주)유성알앤디",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "051-312-4400"
+  },
+  {
+    "lineNum": 12250,
+    "company": "맨티스코리아",
+    "biko": "폐업",
+    "respName": "박진석",
+    "respPhone": "010-3954-4339"
+  },
+  {
+    "lineNum": 12313,
+    "company": "에스피레무",
+    "biko": "폐업",
+    "respName": "양승욱",
+    "respPhone": "01037016536"
+  },
+  {
+    "lineNum": 12357,
+    "company": "탱커 주식회사",
+    "biko": "폐업",
+    "respName": "박선희",
+    "respPhone": "1051698733"
+  }
+]
+
+=== AUDIT 7: Employee Count Format ===
+Employee count patterns: {
+  "Pure Number": 1206,
+  "OTHER": 1
+}
+Employee anomalies: [
+  {
+    "lineNum": 20496,
+    "company": "(주)티에이싱크(폐업)",
+    "emp": "20 미만"
+  }
+]
+
+=== AUDIT 8: Respondent Info Statistics ===
+Rows with at least one respondent field filled: 196 / 1944 (10.1%)
+

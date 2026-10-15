@@ -1,0 +1,26 @@
+The search for "site:catch.co.kr "에이비엠랩"" returned the following summary:
+캐치(CATCH) 플랫폼 내 직접적인 검색 결과 대신, 인공지능(AI)과 빅데이터를 기반으로 대학생 맞춤형 플랫폼 및 솔루션을 제공하는 IT 스타트업 **주식회사 에이비엠랩(ABMLab)**에 대한 기업 정보 요약은 다음과 같습니다[1][2].
+
+### **[주식회사 에이비엠랩 기업 개요]**
+* **설립일:** 2023년 6월 (법인 설립 기준)[3][4]
+* **대표이사:** 황의윤[5]
+* **주요 사업:** 
+  * AI 및 Big Data 기반 대학생 마이데이터 가공 및 솔루션 구축[1]
+  * 대학생 올인원 정보 제공 플랫폼 '엔퍼센트(Npercent)' 및 인공지능 기반 대학생 공유 캘린더 '캘박(Calvak)' 운영[1][4][2]
+  * 대학교, 기관, 기업을 위한 웹/앱 IT 서비스 및 디지털 마케팅 콘텐츠 제공[1]
+* **위치:**
+  * **서울 본사:** 서울특별시 강남구 강남대로120길 75[5]
+  * **부산 지사:** 부산광역시 영도구 태종로 727, 산학허브관[5]
+* **주요 성과 및 특징:**
+  * 중소벤처기업부 팁스(TIPS) 및 딥테크 팁스 선정[1][6]
+  * IBK창공 및 신용보증기금 Start-up NEST 선정[1][6]
+  * 시리즈 A 브릿지 투자 유치 등 가파른 성장세를 이어가고 있는 유망 스타트업입니다[1][7].
+
+Sources:
+[1] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvIRKUIUZJvPEHjHo_wjZfoFFtiVvr-oZUjAt3pOwx6G62m444VUfNjYNPbVCSEw_ETLt0p233dSt8vzluHx9D-crqrQvSZusBsG4-QcTAz5z-LqyLvdCz-Bv8GA==)
+[2] [techcntlab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErP4ev332jfnbKfRDzlMBRiZcoklBhZaBZn9PAhD5hGubNMvGhrJyeq7HCP3pJxxuQOw4UQhz5h8OQ5q8kGvcGa0ayQHAj_AGn70-dJMZaDnEsi-VzpTtrg-OUE_XMD8elj6qN-zau4xJCeyqKcvwjECFxK2rzSKTIx8W5WuX-3TturM0Vdrqo6iFvHr7pVGzV3npfPu4vh3JMSub-4YbVRnYJQn91PkWZaOkv5RiPKYJYC3I-5QY6UzpueSem8cOHWGxRzxDuWzqsmiP2JLZ3lEaOkSMCjMyvAQ6dmYqzBx1pN_nvEr2PPbcshL8Gxw2bOklhj9C_5n-oY1b4HOwqYx0zjBDmXrPWFTKJhQzaxSei3u0=)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd9JWb1j54ZxlhOF1-ptHfdFfY0j6LwDBRCOQxcQQaav1rhrMlkY_RSFi2hJRwMb1PyNLgBGnsE3btYs1tmb5PAs0nGIPuGlCBWWjZcC890FcuYI4vcpIj2B9-7Fh4yz0d)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIOMk51BgKItCiEiEeg2H24GFUr17qJRibIbpwRGCpLmmDHPjf1lpODAhztbuELlfHmjit9XsHkI345EzAbZz5DYQrDbtJRHQB58gOng==)
+[5] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1DsfSWylCaxStoXkXiCBgJsWtGYIW5gQh5AmMFSWAqeM-DvWpK3DiKrZtYIQBPnKdGxRznKXolv7gYaGTa_Gz00XutGEAFLOxrQuW6soiEaREbg==)
+[6] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4NJdzArvi8mP5DxPOeUdLqVrtF7WlQFLq44L5foK0_cutP5fT1CABEeiTaCU9mSggpq4InmheS2WbderntFKEhku7MmdU4U9mO64=)
+[7] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzAKhv3k0cI8KbN13aUTEOtO0Awm4u7YGb__hjJd944Nz-GQXfkCmfjxAlZYqFJPPDrSFJr0gsi6caf-Y7lzliFZAw-UEj7OOCnK4VFaCC9DM5yiCLqzfwUVMSWhwAjsawsj_D3oJ176KPiV1eWCJy)

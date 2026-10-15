@@ -1,0 +1,205 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+   - 결산 매출액: 1,500만원 (15,000,000원)
+   - 검증근거: CEO(황재섭)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=bmZDWjJCbFdoZTN2NVY3TnJkRU5oUT09
+
+23. [Row 2140] 센디
+   - 사업자번호: 617-86-04939
+   - 대표자: 염상준
+   - 결산 매출액: 197억 5,629만원 (19,756,290,000원)
+   - 검증근거: CEO(염상준)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=NjczTVhMWmV1blcxUFJ5UGcwNUdqdz09
+
+24. [Row 2143] 칸투칸
+   - 사업자번호: 298-88-00298
+   - 대표자: 최임철
+   - 결산 매출액: 49억 8,437만원 (4,984,370,000원)
+   - 검증근거: 전화(051-525-6820)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=L3M5N3dRR2xiMVdaVHdPY1JsVHhiUT09
+
+25. [Row 2161] 이에이치
+   - 사업자번호: 621-81-47140
+   - 대표자: 김휘복
+   - 결산 매출액: 3억 2,740만원 (327,400,000원)
+   - 검증근거: CEO(김휘복)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=bDdyUDE1S3AxcTQrSzJnOEs0TGk3QT09
+
+26. [Row 2165] 주식회사메쉬링크
+   - 사업자번호: 148-88-03253
+   - 대표자: 조효진
+   - 결산 매출액: 4억 9,228만원 (492,280,000원)
+   - 검증근거: 전화(051-522-9116)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=M1htdnZxUElVRW1ZVWQ0eHEvT21jZz09
+
+27. [Row 2172] 맥큐브
+   - 사업자번호: 192-88-00141
+   - 대표자: 안호준,정휘석
+   - 결산 매출액: 36억 2,939만원 (3,629,390,000원)
+   - 검증근거: 전화(051-714-0414)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=TGJoN2V3WjFndlZ0aTVuTkFUNHhzdz09
+
+28. [Row 2186] 주식회사인텔리코드
+   - 사업자번호: 552-81-03773
+   - 대표자: 김승호
+   - 결산 매출액: 2억 401만원 (204,010,000원)
+   - 검증근거: CEO(김승호)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=VGJSL3dqYVVNcnBIYmROSHM5cEFmQT09
+
+29. [Row 2187] 우마테크
+   - 사업자번호: 480-87-02831
+   - 대표자: 이근조
+   - 결산 매출액: 7억 8,301만원 (783,010,000원)
+   - 검증근거: CEO(이근조)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=eTBYQUtLd21RN21ONUxrRUhkTDBwdz09
+
+30. [Row 2194] 베러아일랜드
+   - 사업자번호: 780-86-03354
+   - 대표자: 손기혁
+   - 결산 매출액: 14억 1,181만원 (1,411,810,000원)
+   - 검증근거: CEO(손기혁)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=ZDZhWWNFdnZoTjdkbjJEK2hIZ1duUT09
+
+31. [Row 2201] 알티엠
+   - 사업자번호: 107-35-71128
+   - 대표자: 양영철
+   - 결산 매출액: 2,300만원 (23,000,000원)
+   - 검증근거: CEO(양영철)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=ckw5Q1YxaDNTcG1DZmJubDJMS1A5QT09
+
+32. [Row 2208] 지앨
+   - 사업자번호: 789-87-03154
+   - 대표자: 박성수
+   - 결산 매출액: 13억 1,698만원 (1,316,980,000원)
+   - 검증근거: CEO(박성수)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=M3ZZb0ovSm1abENLSzZiZTExeXpkUT09
+
+33. [Row 2213] 엣지러너스클럽
+   - 사업자번호: 636-88-03051
+   - 대표자: 오형석
+   - 결산 매출액: 1억 4,229만원 (142,290,000원)
+   - 검증근거: CEO(오형석)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=dy9lRzY5WEI2Wm5pR0lCck9wUmxyZz09
+
+34. [Row 2222] 디렉스
+   - 사업자번호: 547-88-02261
+   - 대표자: 박영미
+   - 결산 매출액: 1억 2,153만원 (121,530,000원)
+   - 검증근거: CEO(박영미)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=UW9oelZ2bXR1V0tJNXNCdmc5VTcyUT09
+
+35. [Row 2223] 팝플
+   - 사업자번호: 114-87-26367
+   - 대표자: 최기석
+   - 결산 매출액: 11억 3,892만원 (1,138,920,000원)
+   - 검증근거: CEO(최기석)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=aTQwRXZtOERxQXFKVUVlWmEwNUptUT09
+
+36. [Row 2226] 앱솔루션
+   - 사업자번호: 722-81-02693
+   - 대표자: 조호
+   - 결산 매출액: 17억 5,848만원 (1,758,480,000원)
+   - 검증근거: CEO(조호)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=YzJ2OXZyeDdsRXFaQkZhOG9jSUN3dz09
+
+37. [Row 2231] 히트북
+   - 사업자번호: 627-88-00797
+   - 대표자: 조형근
+   - 결산 매출액: 21억 1,711만원 (2,117,110,000원)
+   - 검증근거: CEO(조형근)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=by94UE1zSkN6TW9Cb0xYV0dmVS8yZz09
+
+38. [Row 2232] 유캐스트
+   - 사업자번호: 617-86-15187
+   - 대표자: 김수민
+   - 결산 매출액: 3억 3,998만원 (339,980,000원)
+   - 검증근거: CEO(김수민)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=cEhSWVFhcW1XRktUQm10QVE2R21ydz09
+
+39. [Row 2235] 베스트엔터테인먼트
+   - 사업자번호: 617-81-75934
+   - 대표자: 김대희
+   - 결산 매출액: 5,900만원 (59,000,000원)
+   - 검증근거: CEO(김대희)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=bjhXTjhmZzVPbWVOdFlTeUU3Zktidz09
+
+40. [Row 2236] 이피엠시스템
+   - 사업자번호: 528-87-00076
+   - 대표자: 이경일
+   - 결산 매출액: 1억 7,021만원 (170,210,000원)
+   - 검증근거: CEO(이경일)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=b1lRY1JrMXU4MDFDMzlJRVZvZWZtdz09
+
+41. [Row 2240] 쉐어트리츠
+   - 사업자번호: 625-81-00680
+   - 대표자: 이홍배
+   - 결산 매출액: 11억 9,148만원 (1,191,480,000원)
+   - 검증근거: CEO(이홍배)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=dnoyVWdiNjBlM2djSzJpRFRIRGt3QT09
+
+42. [Row 2241] 팀리부뜨
+   - 사업자번호: 882-86-03081
+   - 대표자: 최성철
+   - 결산 매출액: 2억 6,985만원 (269,850,000원)
+   - 검증근거: CEO(최성철)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=UDJjUFJKcjQ0SVZqaEYxWmp5Z2hJZz09
+
+43. [Row 2243] 케어닥
+   - 사업자번호: 708-81-00933
+   - 대표자: 박재병
+   - 결산 매출액: 32억 4,760만원 (3,247,600,000원)
+   - 검증근거: CEO(박재병)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=bG5BTk5vdFY2bFltZXB6ak94UFFXZz09
+
+44. [Row 2247] 오렌지랩스
+   - 사업자번호: 815-88-02655
+   - 대표자: 김범진
+   - 결산 매출액: 500만원 (5,000,000원)
+   - 검증근거: CEO(김범진)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=SWZUNUNmMlIxNlpoVy9PY1RUNnl3dz09
+
+45. [Row 2256] 저스티스어드벤처
+   - 사업자번호: 177-81-00390
+   - 대표자: 조현제
+   - 결산 매출액: 22억 8,624만원 (2,286,240,000원)
+   - 검증근거: CEO(조현제)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=RmJIeGpxN1p0K1ZLQlFSSTRvcUVCZz09
+
+46. [Row 2258] 컨벤션숲
+   - 사업자번호: 721-81-01667
+   - 대표자: 김정훈
+   - 결산 매출액: 15억 3,551만원 (1,535,510,000원)
+   - 검증근거: CEO(김정훈)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=ZUdzY0tFMWFEZ0VSWk0yL2pBUXFzdz09
+
+47. [Row 2259] 번들즈
+   - 사업자번호: 876-87-02750
+   - 대표자: 송석태
+   - 결산 매출액: 166억 740만원 (16,607,400,000원)
+   - 검증근거: CEO(송석태)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=c3R1aURkaWdpM2s0OXZLQWl2bFB2dz09
+
+48. [Row 2261] 뱅크다이어리
+   - 사업자번호: 851-88-02404
+   - 대표자: 김승욱
+   - 결산 매출액: 4,357만원 (43,570,000원)
+   - 검증근거: CEO(김승욱)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=L2t5Y2NjY3c0OHJML0ovalVtN1NCdz09
+
+49. [Row 2262] 아신홀딩스
+   - 사업자번호: 439-87-02978
+   - 대표자: 김삼문
+   - 결산 매출액: 6,454만원 (64,540,000원)
+   - 검증근거: CEO(김삼문)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=Nk13ZngyY0UvajA1TW1aa0F4bXgrQT09
+
+50. [Row 2307] 피커스튜디오
+   - 사업자번호: 606-16-43962
+   - 대표자: 이현철
+   - 결산 매출액: 192만원 (1,920,000원)
+   - 검증근거: CEO(이현철)
+   - 출처: https://www.saramin.co.kr/zf_user/company-info/view?csn=N3FJclNyUlVnRTVjK1NNNlh3cHREQT09
+
+

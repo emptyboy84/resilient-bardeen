@@ -1,0 +1,27 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:204
++ ... 86/content.md', 'utf8'); const m = content.match(/url:\s*\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:1 �:216
++ ... , 'utf8'); const m = content.match(/url:\s*\"([^\"]+)\"/i) || content ...
++                                                                ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:1 �:257
++ ... :\s*\"([^\"]+)\"/i) || content.match(/canonical\"\s*href=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:1 �:268
++ ... ]+)\"/i) || content.match(/canonical\"\s*href=\"([^\"]+)\"/i); consol ...
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:306
++ ... nical\"\s*href=\"([^\"]+)\"/i); console.log(m ? m[1] : 'not found');"
++                                                                         ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

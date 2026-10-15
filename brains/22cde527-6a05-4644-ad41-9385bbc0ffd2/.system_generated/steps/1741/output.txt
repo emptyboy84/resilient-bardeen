@@ -1,0 +1,55 @@
+
+The command exited with code 0.
+Output:
+Reading base file...
+
+=== EXECUTION SUMMARY ===
+Total verified rows updated: 192
+Total RED BOLD cells: 1285
+
+Writing to: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+SUCCESS: Excel written!
+SUCCESS: CSV written!
+
+=== VERIFICATION ===
+Total RED cells in output file: 150
+Expected RED cells: 1285
+Match: NO ✗ (MISMATCH!)
+Sample red rows: [
+  {
+    "row": 639,
+    "redCount": 1,
+    "redCols": [
+      4
+    ]
+  },
+  {
+    "row": 701,
+    "redCount": 1,
+    "redCols": [
+      4
+    ]
+  },
+  {
+    "row": 703,
+    "redCount": 1,
+    "redCols": [
+      4
+    ]
+  },
+  {
+    "row": 750,
+    "redCount": 1,
+    "redCols": [
+      4
+    ]
+  },
+  {
+    "row": 848,
+    "redCount": 1,
+    "redCols": [
+      4
+    ]
+  }
+]
+

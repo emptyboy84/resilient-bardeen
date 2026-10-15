@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+Fill colors in Target 기업체 리스트:
+  rgb=Values must be of type <class 'str'>,theme=7,tint=0.7999816888943144: 12
+  rgb=Values must be of type <class 'str'>,theme=5,tint=0.7999816888943144: 6936
+  rgb=Values must be of type <class 'str'>,theme=8,tint=0.7999816888943144: 405
+  rgb=Values must be of type <class 'str'>,theme=0,tint=0.0: 3
+  rgb=FFF5F6F8,theme=Values must be of type <class 'int'>,tint=0.0: 2
+  rgb=FFFFFF00,theme=Values must be of type <class 'int'>,tint=0.0: 9
+  rgb=FFDDEBF7,theme=Values must be of type <class 'int'>,tint=0.0: 6
+  rgb=Values must be of type <class 'str'>,theme=8,tint=0.7998901333658864: 7
+  rgb=FFFFFFFF,theme=Values must be of type <class 'int'>,tint=0.0: 3
+  rgb=Values must be of type <class 'str'>,theme=9,tint=0.3999755851924192: 120
+
+Font colors in Target 기업체 리스트:
+  rgb=Values must be of type <class 'str'>,theme=1,tint=0.0: 12707
+  rgb=FFFF0000,theme=Values must be of type <class 'int'>,tint=0.0: 1478
+  rgb=FF424242,theme=Values must be of type <class 'int'>,tint=0.0: 7
+  rgb=FF222222,theme=Values must be of type <class 'int'>,tint=0.0: 2
+  rgb=FF666666,theme=Values must be of type <class 'int'>,tint=0.0: 223
+  rgb=Values must be of type <class 'str'>,theme=Values must be of type <class 'int'>,tint=0.0: 29
+  rgb=FF111111,theme=Values must be of type <class 'int'>,tint=0.0: 2
+  rgb=FF2B2B2B,theme=Values must be of type <class 'int'>,tint=0.0: 15
+  rgb=FF008194,theme=Values must be of type <class 'int'>,tint=0.0: 1
+  rgb=FF232327,theme=Values must be of type <class 'int'>,tint=0.0: 2
+  rgb=FF767676,theme=Values must be of type <class 'int'>,tint=0.0: 1
+  rgb=FFED0000,theme=Values must be of type <class 'int'>,tint=0.0: 9
+  rgb=FFFF3300,theme=Values must be of type <class 'int'>,tint=0.0: 203
+  rgb=FF334155,theme=Values must be of type <class 'int'>,tint=0.0: 1
+

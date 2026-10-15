@@ -1,0 +1,17 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 503 lines>
+" | 구: "남구"
+  => MATCH CONFIRMED: 280-86-02461 ((주)에듀메타) | 주소: "부산광역시 사상구 주례로 47 , 901호(주례동, 동서대학교 뉴밀레니엄관)" | 대표: "송승근" [계속사업자]
+  >>> Progress Saved: 240/421 | Matched: 60 | Unverifiable: 180 <<<
+[241/421] Row 2069 | "니즈" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[242/421] Row 2070 | "김지원" | 대표: "김지원" | 구: "연제구"
+  => MATCH CONFIRMED: 194-17-01700 (김지원) | 주소: "부산광역시 금정구 동부곡로**번길 ****** 비비드 ******호 *****" | 대표: "김지원" [폐업자]
+[243/421] Row 2071 | "이루티" | 대표: "김유성" | 구: "연제구"
+  => MATCH CONFIRMED: 162-87-02758 (주식회사 이루티) | 주소: "부산광역시 연제구 연제로 24, 201호(연산동) 24, Yeonje-ro, Yeonje-gu, Busan, Republic of Korea" | 대표: "김유성" [계속사업자]
+[244/421] Row 2072 | "씨앤비(CNB)" | 대표: "" | 구: "영도구"
+
+Last progress: 2s ago

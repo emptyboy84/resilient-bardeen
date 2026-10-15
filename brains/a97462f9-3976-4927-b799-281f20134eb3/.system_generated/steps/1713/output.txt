@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ftc.go.kr');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/www/index.do
+- Page Title: 공정거래위원회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-01-16-765Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-01-14-397Z.log#L1

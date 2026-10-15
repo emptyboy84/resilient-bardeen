@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Generated perfected TSV/CSV files successfully!
+Total perfected rows: 200
+Rows with all 3 categories (대/중/소): 200
+Rows with zip: 195
+Rows with corpNo: 68
+Closed rows: 37
+

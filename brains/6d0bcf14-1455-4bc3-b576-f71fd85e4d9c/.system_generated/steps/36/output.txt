@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+Comparing files:
+1 (Target): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_261012_전략팀 전달_배현명.xlsx exists: true
+2 (Deep 4th): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사_심층4차.xlsx exists: true
+3 (Verified): C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx exists: true
+4 (1014): C:\Users\lg\Desktop\Today\부산기업_전화번호검증_완료본_20261014.xlsx exists: true
+ws1 rowCount: 3979 ws2 rowCount: 3979
+--- Target file ws1 around row 280-286 ---
+ws1 R278: seq=277, name=(주)시우이엔티, biz=617-81-52019, phone=051-783-0079
+ws1 R279: seq=278, name=(주)티지에스컨설팅, biz=829-81-01199, phone=051-711-5860
+ws1 R280: seq=279, name=삼인이엔에스(주), biz=606-86-00156, phone=051-743-3111
+ws1 R281: seq=280, name=블루마린시스템(주), biz=606-81-84791, phone=051-832-0905
+ws1 R282: seq=281, name=인코어, biz=602-08-79589, phone=070-4693-7034
+ws1 R283: seq=282, name=(주)스페이스포트, biz=330-81-01777, phone=070-7122-7679
+ws1 R284: seq=283, name=(유책)블루바이저시스템즈, biz=123-88-00446, phone=1855-4949
+ws1 R285: seq=284, name=정안정보시스템, biz=665-01-02909, phone=051-740-5332
+ws1 R286: seq=285, name=부산인터넷방송국, biz=605-12-95095, phone=051-316-2763
+--- Deep 4th ws2 around row 280-286 ---
+ws2 R278: seq=277, name=(주)시우이엔티, biz=617-81-52019, phone=051-783-0079
+ws2 R279: seq=278, name=(주)티지에스컨설팅, biz=829-81-01199, phone=051-711-5860
+ws2 R280: seq=279, name=삼인이엔에스(주), biz=606-86-00156, phone=051-743-3111
+ws2 R281: seq=280, name=블루마린시스템(주), biz=606-81-84791, phone=051-832-0905
+ws2 R282: seq=281, name=인코어, biz=602-08-79589, phone=070-4693-7034
+ws2 R283: seq=282, name=(주)스페이스포트, biz=330-81-01777, phone=070-7122-7679
+ws2 R284: seq=283, name=(유책)블루바이저시스템즈, biz=123-88-00446, phone=1855-4949
+ws2 R285: seq=284, name=정안정보시스템, biz=665-01-02909, phone=051-740-5332
+ws2 R286: seq=285, name=부산인터넷방송국, biz=605-12-95095, phone=051-316-2763
+ws1 valid rows: 3978, empty phone count: 3178
+ws2 valid rows: 3978, empty phone count: 1988
+Comparison: match=778, diff=1218, ws2HasWs1Not=1196, ws1HasWs2Not=6
+

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Testing moneypin.biz...
+Status moneypin.biz: 403 len: 29419
+Endpoint https://moneypin.biz/bizno: status=403, len=29419
+Endpoint https://moneypin.biz/bizno/: status=403, len=29419
+Endpoint https://moneypin.biz/company: status=403, len=29419
+Endpoint https://biz.moneypin.biz: status=500, len=0
+

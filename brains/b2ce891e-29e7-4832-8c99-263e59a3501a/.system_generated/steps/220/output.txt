@@ -1,0 +1,14 @@
+The search for "site:play.google.com "에이비엠랩" OR "calvak" OR "기록기록"" returned the following summary:
+구글 플레이스토어(Google Play)에서 검색된 **ABMLab Corp.(에이비엠랩)** 관련 앱 정보는 다음과 같습니다.
+
+1. **캘박 (Calvak) - 대학생 스마트 일정관리 캘린더**
+   - **개발사:** ABMLab Corp.[1]
+   - **주요 기능:** 개인 일정, 수업 시간표, 학사일정 등을 한곳에 모아 관리할 수 있는 대학생 맞춤형 스마트 캘린더 서비스입니다[2].
+
+2. **기록기록 - 3초 영상 일기**
+   - **주요 기능:** 하루의 하이라이트 순간을 3초 영상으로 기록하고 캘린더 형태로 모아볼 수 있는 영상 일기 앱입니다. (전체화면형, 캘린더형, 네컷형 등의 Recap 기능 및 친구 간 비밀 캘린더 공유 기능 등을 제공합니다.)[3]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK0h0GdVfUVuftamJdU7SaTrXJwZhEcBDRksaJYQX9lkHRwDNln3vvFY5Rwtzgg5h-DbCEMXJpiLYtFBTvGQBbMtMph7E9PHuxokkeGaXwybBfzoqySThAE6va8IwQ9Jl1niXQ_ptnK2CRu48SvW-APtARXxWbePlzwVs=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK0h0GdVfUVuftamJdU7SaTrXJwZhEcBDRksaJYQX9lkHRwDNln3vvFY5Rwtzgg5h-DbCEMXJpiLYtFBTvGQBbMtMph7E9PHuxokkeGaXwybBfzoqySThAE6va8IwQ9Jl1niXQ_ptnK2CRu48SvW-APtARXxWbePlzwVs=)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSWDiMJW4effnCU_ELFR7jnCE-sIaalqQFFcPAFoLhN54Zj4pYXpufq28k60qno31sIG-NSn8SbLekt7InO9jqb_s6ZTRAY7_Z5Zo2Xv7QtN87iOHcWTLSKa2Sb6q3zwca98U6hrvgDtCt3oRvmxFbbULOsFWooW61rQ==)

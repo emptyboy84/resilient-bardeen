@@ -1,0 +1,18 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 817 lines>
+운대구 센텀서로 30" | 대표: "송봉춘" [계속사업자]
+[390/421] Row 2234 | "프보이" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 390/421 | Matched: 129 | Unverifiable: 261 <<<
+[391/421] Row 2235 | "베스트엔터테인먼트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-81-75934 (（주）베스트엔터테인먼트) | 주소: "부산광역시 해운대구 센텀서로 30 (KNN타워 806호) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김대희" [계속사업자]
+[392/421] Row 2236 | "이피엠시스템" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 528-87-00076 (주식회사 이피엠시스템) | 주소: "부산광역시 해운대구 센텀중앙로 48" | 대표: "이경일" [계속사업자]
+[393/421] Row 2237 | "그리드파트너스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[394/421] Row 2238 | "백앤센스" | 대표: "" | 구: "해운대구"
+
+Last progress: 5s ago

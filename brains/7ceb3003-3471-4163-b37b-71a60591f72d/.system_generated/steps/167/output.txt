@@ -1,0 +1,12 @@
+The search for ""불교텔레비전" 감사보고서 site:dart.fss.or.kr" returned the following summary:
+전자공시시스템(DART)에서 '불교텔레비전'을 검색한 결과, 해당 기업은 외부감사 대상 법인 등으로 공시 의무가 있는 상장사나 주요 공시 대상 기업이 아닐 가능성이 높아 DART 시스템 내에서 정기적인 감사보고서를 찾기 어려울 수 있습니다[1].
+
+**확인 방법 및 참고사항:**
+*   **DART 직접 검색:** [전자공시시스템(dart.fss.or.kr)](https://dart.fss.or.kr)에 접속하신 후 '회사별 검색' 탭에서 '불교텔레비전'을 입력하여 다시 한번 확인해 보시기 바랍니다[2][3]. 검색 결과가 나오지 않는다면 해당 기업이 DART 공시 의무 대상이 아니기 때문입니다[1].
+*   **외부감사 대상 여부:** 모든 법인이 DART에 감사보고서를 제출하는 것은 아닙니다. 주식회사 등의 외부감사에 관한 법률에 따라 일정 규모 이상의 기업만 공시 의무가 있습니다.
+*   **기타 경로:** 만약 해당 기업의 재무 정보나 감사보고서가 필요한 경우, 기업의 공식 홈페이지나 공공기관의 정보공개 요청 등을 통해 확인해야 할 수도 있습니다.
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvU8GsTawIcJBA7-kcsHYzx7OxGUyyWE5-IuAxRVp0k4cLiAJFxbEwf4deCYnFybSmWNqHEMdcvpfiMeqnSbx0VHZ6JtpwGltQ95ZK0g8C-Pks1H1hbez-95vk)
+[2] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvU8GsTawIcJBA7-kcsHYzx7OxGUyyWE5-IuAxRVp0k4cLiAJFxbEwf4deCYnFybSmWNqHEMdcvpfiMeqnSbx0VHZ6JtpwGltQ95ZK0g8C-Pks1H1hbez-95vk)
+[3] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvU8GsTawIcJBA7-kcsHYzx7OxGUyyWE5-IuAxRVp0k4cLiAJFxbEwf4deCYnFybSmWNqHEMdcvpfiMeqnSbx0VHZ6JtpwGltQ95ZK0g8C-Pks1H1hbez-95vk)

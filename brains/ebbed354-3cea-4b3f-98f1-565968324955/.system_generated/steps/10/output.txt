@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+commit 79e26040db20f02e527abc753faacd36648d3abe
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 21 11:58:32 2026 +0900
+
+    docs: update agent guidelines in AGENTS.md
+
+diff --git a/AGENTS.md b/AGENTS.md
+index dc07c65..e2ef936 100644
+--- a/AGENTS.md
++++ b/AGENTS.md
+@@ -1,6 +1,7 @@
+ # Behavioral Rules
+ - 할루시네이션(환각) 금지: 검색 결과나 정보를 제공할 때, 시스템이 반환한 데이터 이외의 가짜 URL이나 거짓 정보를 지어내지 말 것. 출처와 링크는 반드시 실제로 작동하고 검증된 것만 제공할 것.
+ - 원드라이브(OneDrive) 접근 금지: 어떤 경우에도 C:\Users\lg\OneDrive 및 하위 폴더를 탐색, 검색, 조회, 읽기, 수정하지 말 것. 모든 작업은 지정된 작업 공간(c:\Users\lg\resilient-bardeen) 및 로컬 필수 경로 내에서만 처리할 것.
++- 엑셀 프로세스 간섭/종료 금지: 현재 실행 중인 엑셀(Excel, EXCEL.EXE 등) 프로세스를 절대로 강제 종료(kill)하거나 건들지 말 것. 작업 중인 사용자의 문서 상태를 유지할 것.
+ 
+ # User Profile
+ - 사용자의 이름은 '배현명'임.
+

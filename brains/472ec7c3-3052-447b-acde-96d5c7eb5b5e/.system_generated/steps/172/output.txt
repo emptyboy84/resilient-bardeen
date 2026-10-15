@@ -1,0 +1,59 @@
+
+The command exited with code 0.
+Output:
+<truncated 16 lines>
+[25652:1015/091154.286:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\33994782-891b-4304-8850-2bd3d73b490a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.286:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\d103026b-e9f1-43d0-ab9b-ef5099526f55: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\d46c2097-61f3-44d8-933b-7ce9fed305b2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fbef98db-00cf-4663-8c03-82784dc8fd4b: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fe814472-5e28-4a46-906a-747b52e286c9: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\4f3fcb55-3061-4f5a-897b-0b121e385336: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\c0010fa4-8e35-4269-8586-5fa422c0ea94: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\dcaed8d8-2783-4ef4-83ab-d574c504a78d: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.287:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\6d8c9fab-5ef3-42c9-b7ad-cd73f0472226: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\54bbff3f-7330-4b7b-afb8-e2fc32a6b19a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\befcaf18-d843-436b-8517-5c3c8e55dfcd: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\ad8697a8-138e-4e4b-bd1a-960d5ec842c2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\020b1a9a-73f0-40b9-b188-38abd63f0093: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\45dc4059-baed-4320-b03c-ace6e2cfbb4e: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\33994782-891b-4304-8850-2bd3d73b490a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[25652:1015/091154.288:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\d103026b-e9f1-43d0-ab9b-ef5099526f55: 지정된 파일을 찾을 수 없습니다. (0x2)
+[2026-10-15T00:11:54.289Z] [INFO] [main] Starting Gemini v1.15.0 (channel: prod)
+[2026-10-15T00:11:54.337Z] [INFO] [main] Application ready; creating primary UI components
+[2026-10-15T00:11:54.348Z] [INFO] [streamz] Initialized Client Streamz logger
+[2026-10-15T00:11:54.385Z] [INFO] [streamz] Incremented client_launched_count
+[2026-10-15T00:11:54.386Z] [INFO] [flag_cache] Initialized empty Mendel flag cache: account= [REDACTED:string]
+[2026-10-15T00:11:54.399Z] [INFO] [window_manager] Creating primary application window (1200x900)
+[2026-10-15T00:11:54.509Z] [INFO] [window_manager] Loading Gemini shell: https://gemini.google.com/app
+[2026-10-15T00:11:54.612Z] [INFO] [shortcut_aumid] Stamped AppUserModelID onto 2 installer shortcut(s)
+[2026-10-15T00:11:54.613Z] [INFO] [helper_ipc] Initializing Named Pipe IPC client to GeminiAppLauncher
+[2026-10-15T00:11:54.616Z] [INFO] [helper_ipc] Spawning native Win32 background helper daemon: %USERPROFILE%\AppData\Local\Google\Gemini\GeminiAppLauncher.exe
+[2026-10-15T00:11:54.647Z] [INFO] [helper_ipc] Connecting to named pipe: \\.\pipe\Google.Gemini.AppLauncher
+[2026-10-15T00:11:54.650Z] [INFO] [update_detector] Starting Omaha background update watcher (filesystem watch + 15m polling)
+[2026-10-15T00:11:54.738Z] [INFO] [helper_ipc] Helper named pipe connection closed; scheduling reconnect
+[2026-10-15T00:11:54.739Z] [INFO] [helper_ipc] Scheduling helper reconnect attempt: #1 in 100ms
+[2026-10-15T00:11:54.868Z] [INFO] [helper_ipc] Spawning native Win32 background helper daemon: %USERPROFILE%\AppData\Local\Google\Gemini\GeminiAppLauncher.exe
+[2026-10-15T00:11:54.882Z] [INFO] [helper_ipc] Connecting to named pipe: \\.\pipe\Google.Gemini.AppLauncher
+[2026-10-15T00:11:54.886Z] [INFO] [helper_ipc] Helper named pipe connection closed; scheduling reconnect
+[2026-10-15T00:11:54.886Z] [INFO] [helper_ipc] Scheduling helper reconnect attempt: #2 in 250ms
+[2026-10-15T00:11:54.925Z] [INFO] [window_manager] WebContents did-finish-load: app://bundle/src/loading.html
+[2026-10-15T00:11:55.193Z] [INFO] [helper_ipc] Spawning native Win32 background helper daemon: %USERPROFILE%\AppData\Local\Google\Gemini\GeminiAppLauncher.exe
+[2026-10-15T00:11:55.210Z] [INFO] [helper_ipc] Connecting to named pipe: \\.\pipe\Google.Gemini.AppLauncher
+[2026-10-15T00:11:55.224Z] [INFO] [helper_ipc] Helper named pipe connection closed; scheduling reconnect
+[2026-10-15T00:11:55.224Z] [INFO] [helper_ipc] Scheduling helper reconnect attempt: #3 in 500ms
+[2026-10-15T00:11:55.228Z] [INFO] [streamz] Clearcut batch sent (status 200)
+[2026-10-15T00:11:55.734Z] [INFO] [helper_ipc] Spawning native Win32 background helper daemon: %USERPROFILE%\AppData\Local\Google\Gemini\GeminiAppLauncher.exe
+[2026-10-15T00:11:55.747Z] [INFO] [helper_ipc] Connecting to named pipe: \\.\pipe\Google.Gemini.AppLauncher
+[2026-10-15T00:11:55.749Z] [INFO] [helper_ipc] Connected to GeminiAppLauncher Named Pipe server
+[2026-10-15T00:11:55.750Z] [INFO] [helper_ipc] Sending command to helper: HELLO
+[2026-10-15T00:11:55.751Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+[2026-10-15T00:11:55.751Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+[2026-10-15T00:11:55.752Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+[2026-10-15T00:11:55.752Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+[2026-10-15T00:11:55.753Z] [INFO] [helper_ipc] Received command from helper: HOTKEY_STATUS
+[2026-10-15T00:11:55.754Z] [INFO] [shortcuts] Global hotkey registered: "Alt+Space"
+[2026-10-15T00:11:56.074Z] [INFO] [helper_ipc] Sending command to helper: CONFIG_CHANGED (key=localDeviceId)
+[2026-10-15T00:11:57.102Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+[2026-10-15T00:11:57.102Z] [INFO] [helper_ipc] Sending command to helper: SET_CRASH_ANNOTATION
+Process running! Id = 25652, Responding = True
+

@@ -1,0 +1,14 @@
+The search for ""하프소프트" 연락처 OR 대표전화 OR 이메일 OR 010 OR 051" returned the following summary:
+ICT 기반 게임 제작 및 하드웨어 콘텐츠 개발 기업인 **‘하프소프트(HalfSoft)’** (부산콘텐츠코리아랩 입주 이력 등 보유[1])의 공식 연락처, 대표전화, 이메일 등의 상세 정보는 공개된 웹 디렉토리 및 기업 정보 데이터베이스상에서 상세히 명시되어 있지 않습니다. 
+
+다만 유사 상호나 명칭을 가진 관련 서비스/브랜드의 정보는 아래와 같이 확인됩니다.
+
+* **하프카페 (HalfSpace 관련)**[2]
+  * **연락처 (휴대폰 번호 / 010):** 010-8405-9492[2]
+  * **대표 이메일:** halfspace1004@gmail.com[2]
+
+정확한 '하프소프트' 법인 혹은 스튜디오의 다중 연락처(051 부산 지역번호 등 포함)나 이메일 주소는 현재 인터넷 공개 오픈소스상에 상세히 등재되어 있지 않아 직접적인 확인이 어렵습니다. 추가적인 기업 비즈니스 정보나 담당자 연락처가 필요하실 경우, 해당 기업이 속해 있는 관련 기관(부산콘텐츠코리아랩 등)[1]을 통한 문의를 권장합니다.
+
+Sources:
+[1] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXV5HUaNWxBAkxFZnH1L3YTLs8ouRkgNmPjWx0YapRCrOAKtFORW6emZcBEs4iixfEqidTWFbOpFCjgWFXRdCMQe-3HX9LttrKRXi93V1L2AOHUgbmCO8IZzmOP6G6MkS09Q==)
+[2] [halfcafe.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdJIbL44SfULh2TvZM_T66lkXnC3qZNjE113y4nbAts6rN7D9gjVsSGfbWXOGkkXChk3pnpKGBBOId3u8nPO4XQ9eePm1XusD2UolGxpXsUo1ShhS-)

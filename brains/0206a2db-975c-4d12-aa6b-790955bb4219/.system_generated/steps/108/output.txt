@@ -1,0 +1,26 @@
+
+The command exited with code 1.
+Output:
+node:fs:440
+    return binding.readFileUtf8(path, stringToFlags(options.flag));
+                   ^
+
+Error: ENOENT: no such file or directory, open 'C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_ace_hightech_data\brain_logs\README_대화록.md'
+    at Object.readFileSync (node:fs:440:20)
+    at Object.<anonymous> (C:\Users\lg\.gemini\antigravity\brain\0206a2db-975c-4d12-aa6b-790955bb4219\scratch\search_convo.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\add_ace_hightech_data\\brain_logs\\README_대화록.md'
+}
+
+Node.js v24.11.1
+

@@ -1,0 +1,104 @@
+### Page
+- Page URL: https://map.naver.com/p/search/%ED%9D%AC%EC%9B%B9%ED%88%B0?c=15.00,0,0,0,dh
+- Page Title: 희웹툰 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f379e3]:
+  - generic:
+    - link "본문 바로가기" [ref=f379e4] [cursor=pointer]:
+      - /url: "#section_content"
+    - link "주 메뉴 바로가기" [ref=f379e6] [cursor=pointer]:
+      - /url: "#header"
+  - banner [ref=f379e8]:
+    - heading [level=1] [ref=f379e9]:
+      - link "네이버지도" [ref=f379e10] [cursor=pointer]:
+        - /url: https://www.naver.com
+    - navigation [ref=f379e12]:
+      - list [ref=f379e13]:
+        - listitem [ref=f379e14]:
+          - button "지도 홈 선택됨" [ref=f379e15] [cursor=pointer]:
+            - generic [ref=f379e21]: 지도 홈
+            - generic [ref=f379e22]: 선택됨
+        - listitem [ref=f379e23]:
+          - button "길찾기" [ref=f379e24] [cursor=pointer]
+        - listitem [ref=f379e30]:
+          - button "버스" [ref=f379e31] [cursor=pointer]
+        - listitem [ref=f379e37]:
+          - button "지하철" [ref=f379e38] [cursor=pointer]
+        - listitem [ref=f379e44]:
+          - button "기차" [ref=f379e45] [cursor=pointer]
+        - listitem [ref=f379e51]:
+          - button "new 저장" [ref=f379e52] [cursor=pointer]:
+            - generic [ref=f379e53]: new
+            - generic [ref=f379e59]: 저장
+        - listitem [ref=f379e60]:
+          - button "더보기" [ref=f379e61] [cursor=pointer]
+    - generic [ref=f379e68]:
+      - strong [ref=f379e69]: 사용자 링크
+      - list [ref=f379e70]:
+        - listitem [ref=f379e71]:
+          - link "로그인" [ref=f379e72] [cursor=pointer]:
+            - /url: https://nid.naver.com/nidlogin.login
+        - listitem [ref=f379e74]:
+          - link "서비스 더보기" [ref=f379e75] [cursor=pointer]:
+            - /url: javascript:;
+  - generic:
+    - application [ref=f379e142]:
+      - region "Map" [ref=f379e146]
+      - generic [ref=f379e147]:
+        - img "NAVER" [ref=f379e149] [cursor=pointer]
+        - generic [ref=f379e150]: 100m
+    - generic [ref=f379e82]:
+      - generic [ref=f379e84]:
+        - button "검색" [ref=f379e85] [cursor=pointer]
+        - button "삭제" [ref=f379e86] [cursor=pointer]
+        - combobox [ref=f379e89]: 희웹툰
+      - generic [ref=f379e91]:
+        - status [ref=f379e92]
+        - generic [ref=f379e94]:
+          - heading "검색" [level=2] [ref=f379e95]
+          - iframe [ref=f379e154]:
+            - generic [ref=f389e1]: 조건에 맞는 업체가 없습니다.
+      - button "패널 접기" [expanded] [ref=f379e102] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - button "맑음 22° 기온 미세 좋음 초미세 좋음" [ref=f379e156] [cursor=pointer]:
+            - generic [ref=f379e157]:
+              - generic [ref=f379e158]:
+                - generic [ref=f379e159]: 맑음
+                - generic [ref=f379e161]:
+                  - text: 22°
+                  - generic [ref=f379e162]: 기온
+              - generic [ref=f379e163]:
+                - generic [ref=f379e166]:
+                  - text: 미세
+                  - generic [ref=f379e167]: 좋음
+                - generic [ref=f379e170]:
+                  - text: 초미세
+                  - generic [ref=f379e171]: 좋음
+          - generic:
+            - generic:
+              - generic [ref=f379e104]:
+                - button "일반지도" [ref=f379e105] [cursor=pointer]
+                - button "위성지도" [ref=f379e107] [cursor=pointer]
+                - button "지형지도" [ref=f379e109] [cursor=pointer]
+              - generic [ref=f379e111]:
+                - button "테마" [ref=f379e112] [cursor=pointer]
+                - button "저장" [ref=f379e114] [cursor=pointer]
+                - button "지적편집도" [ref=f379e116] [cursor=pointer]
+                - button "거리뷰" [ref=f379e118] [cursor=pointer]
+              - generic [ref=f379e120]:
+                - button "반경측정" [ref=f379e121] [cursor=pointer]
+                - button "면적측정" [ref=f379e123] [cursor=pointer]
+                - button "거리측정" [ref=f379e125] [cursor=pointer]
+            - generic:
+              - button "접속위치" [ref=f379e129] [cursor=pointer]
+              - generic [ref=f379e135]:
+                - button "확대" [ref=f379e136] [cursor=pointer]
+                - button "축소" [ref=f379e139] [cursor=pointer]
+  - status [ref=f379e141]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T01-18-28-940Z.log#L1-L4

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Query "메타블루" (부산): found 13 articles -> /article/6608502146, /article/4330800851, /article/5773401028
+Query "그리드파트너스" (부산): found 27 articles -> /article/6011503503, /article/8030302150, /article/5010696700
+Query "시그마씨앤에스" (부산): found 27 articles -> /article/6011503503, /article/8030302150, /article/5010696700
+Query "에스랩" (부산): found 27 articles -> /article/4268700300, /article/5888101755, /article/7778601705
+Query "에코비티" (부산): found 13 articles -> /article/4768103445, /article/4330800851, /article/5773401028
+Query "나원디앤씨" (부산): found 27 articles -> /article/4711200210, /article/6011503503, /article/8030302150
+Query "도서출판일광" (부산): found 27 articles -> /article/4711200210, /article/6011503503, /article/8030302150
+Query "동아대학교출판부" (부산): found 27 articles -> /article/4711200210, /article/6011503503, /article/8030302150
+Query "동화사" (부산): found 112 articles -> /article/6038115335, /article/6068630290, /article/6098147645
+Query "단디콤" (부산): found 27 articles -> /article/4711200210, /article/6011503503, /article/8030302150
+

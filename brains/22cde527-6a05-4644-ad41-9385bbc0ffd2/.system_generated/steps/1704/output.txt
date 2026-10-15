@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+c4 font: { bold: true, color: { argb: 'FFFF0000' }, size: 10, name: '맑은 고딕' }
+c5 font: { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c6 font: { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c8 font: { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c19 font: { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+

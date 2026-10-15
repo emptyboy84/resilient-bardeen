@@ -1,0 +1,6 @@
+### Result
+"submitted"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'#query\');\n  if (input) {\n    input.value = \'플레이박스\';\n    const form = input.closest(\'form\');\n    if (form) form.submit();\n    return \'submitted\';\n  }\n  return \'not found\';\n}');
+```

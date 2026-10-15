@@ -1,0 +1,97 @@
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchList.php?search_area=%EC%A0%84%EC%B2%B4&search_state=13&search_kind=&search_type=1&search_word=%EC%84%9C%EB%A6%BC%EB%AC%B8%ED%99%94%EC%82%AC&x=43&y=34
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+### Snapshot
+```yaml
+- generic [ref=f278e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link "본문 바로가기" [ref=f278e3] [cursor=pointer]:
+          - /url: "#content"
+  - generic [ref=f278e4]:
+    - heading [level=1] [ref=f278e5]:
+      - link [ref=f278e6] [cursor=pointer]:
+        - /url: main.php
+        - img "출판사/인쇄사 검색시스템" [ref=f278e7]
+    - list [ref=f278e8]:
+      - listitem [ref=f278e9]:
+        - link "HOME" [ref=f278e10] [cursor=pointer]:
+          - /url: /html/main.php
+  - generic [ref=f278e11]:
+    - generic [ref=f278e12]:
+      - generic:
+        - paragraph [ref=f278e13]: 전국 출판사/인쇄사 검색 시스템입니다. 전국 또는 지역별로 등록현황을 검색할 수 있습니다.
+        - generic [ref=f278e14]:
+          - combobox [ref=f278e16]:
+            - option "지역 선택"
+            - option "-전체-" [selected]
+            - option "서울특별시"
+            - option "경기도"
+            - option "인천광역시"
+            - option "강원특별자치도"
+            - option "부산광역시"
+            - option "대구광역시"
+            - option "충청북도"
+            - option "충청남도"
+            - option "세종시"
+            - option "대전광역시"
+            - option "전남광주통합특별시"
+            - option "전북특별자치도"
+            - option "경상북도"
+            - option "경상남도"
+            - option "울산광역시"
+            - option "제주도"
+          - combobox "영업유무를 선택하세요" [ref=f278e18]:
+            - option "전체" [selected]
+            - option "영업"
+            - option "폐업"
+          - combobox [ref=f278e20]:
+            - option "업종구분" [selected]
+            - option "출판사"
+            - option "인쇄사"
+          - combobox [ref=f278e22]:
+            - option "항목"
+            - option "상호" [selected]
+            - option "주소"
+          - textbox [ref=f278e23]: 서림문화사
+          - button "검색" [ref=f278e24] [cursor=pointer]
+    - img "출판사/인쇄사 검색시스템" [ref=f278e26]
+    - generic [ref=f278e27]:
+      - heading "전국 검색" [level=3] [ref=f278e28]
+      - generic [ref=f278e29]:
+        - list:
+          - listitem [ref=f278e30]:
+            - text: "등록업체수 :"
+            - strong [ref=f278e31]: 2 개
+          - listitem [ref=f278e32]:
+            - text: "페이지수 :"
+            - strong [ref=f278e33]: "1"
+      - table "지역별- 목록" [ref=f278e34]:
+        - rowgroup [ref=f278e40]:
+          - row [ref=f278e41]:
+            - columnheader "등록구분" [ref=f278e42]
+            - columnheader "상호" [ref=f278e43]
+            - columnheader "주소" [ref=f278e44]
+            - columnheader "영업구분" [ref=f278e45]
+        - rowgroup [ref=f278e46]:
+          - row [ref=f278e47]:
+            - cell "출판사" [ref=f278e48]
+            - cell [ref=f278e49]:
+              - link "서림문화사" [ref=f278e50] [cursor=pointer]:
+                - /url: searchView.php?search_area=전체&search_kind=&search_type=1&search_word=서림문화사&search_state=13&regn=251001975000017&ac1=6110000&ac2=3000000&area_code=&area_code2=&page_type=&cpage=1
+            - cell "경기도 파주시" [ref=f278e51]
+            - cell "전출" [ref=f278e52]
+          - row [ref=f278e53]:
+            - cell "출판사" [ref=f278e54]
+            - cell [ref=f278e55]:
+              - link "서림문화사" [ref=f278e56] [cursor=pointer]:
+                - /url: searchView.php?search_area=전체&search_kind=&search_type=1&search_word=서림문화사&search_state=13&regn=251002016000150&ac1=6410000&ac2=4060000&area_code=&area_code2=&page_type=&cpage=1
+            - cell "경기도 파주시" [ref=f278e57]
+            - cell "영업" [ref=f278e58]
+      - generic [ref=f278e59]: "1"
+  - generic [ref=f278e63]:
+    - text: "출판사, 인쇄사 관련 문의 : 해당 지자체 문화예술과"
+    - generic [ref=f278e64]: 문화체육관광부 (우)30119 세종특별자치시 갈매로 388 정부세종청사 15동
+    - paragraph [ref=f278e65]: Copyright ⓒ Ministry of Culture, Sports and Tourism
+```

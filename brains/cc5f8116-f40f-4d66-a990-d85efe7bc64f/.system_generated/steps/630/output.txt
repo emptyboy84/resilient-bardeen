@@ -1,0 +1,17 @@
+The search for ""시드게임즈" "부산" "사업자등록번호"" returned the following summary:
+'시드게임즈(Seed Games)'와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **기업 개요:** 시드게임즈는 부산 지역을 기반으로 활동하는 게임 개발사로, 리듬게임 '벨로시티(VELUCITY)'[1] 및 VR 리듬게임 '스캐터(sCATer)'[2] 등을 개발한 이력이 있습니다. 
+*   **소재지:** 과거 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠컴플렉스(BGC) 등에 소재했던 것으로 확인됩니다[3].
+*   **사업자등록번호:** 공개된 웹 검색 결과 내에서는 '시드게임즈'의 공식 사업자등록번호를 확인할 수 없습니다. 
+    *   참고로, 검색 결과에 나타난 특정 번호들(예: 610-81-07906 등)은 시드게임즈가 아닌 관련 기사를 게재한 언론사나 협업 기관(아텐츠게임아카데미 등)의 사업자 정보이므로 혼동에 주의하시기 바랍니다[4][5][6].
+
+기업의 정확한 사업자등록번호가 필요하신 경우, 국세청 홈택스의 '사업자등록상태조회' 서비스에서 업체명과 대표자명 등을 통해 직접 확인하시거나, 해당 업체의 공식 홈페이지[3] 또는 관련 고객센터에 문의하시는 것을 권장합니다.
+
+Sources:
+[1] [gametrics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKDQ1_1JE-XVNP__SsZfZwDY2KtRhxBmUyVwETHu_1vIhH0n6TAoIDHduEhQkMCcWEwTvwC-VDmNP8nYLZVtLeWpngYW7L96FwDNnbjz91mWLMngpa7oETg2cpXWxLCkKX-A86oS-gO3S5Yg==)
+[2] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEGczQ_pHXsEa4VFOIB2AguuBYkZgBQwK5nOEbekIOz7_FrNQVAVei-MJjlYVkIlX-300rMKtpd6OGw0DStHXAXbdeaV9A8r_DPt2WZPGH9NTjboFjYVBdjcy8q_LnJXZG-IOxzWVXc-rn-w==)
+[3] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGOVW7tcQE22Mp4128qm3U5aamgycr-AXqyCXruBMSgNGZGn5c9RiEoeUeXnpgrXbO_yEkUjpSfvCjoXiMit9TIJNJdERyBpbo95EzJYf8WSfQ_WFbykRbSe9-ciWELG_9aFarjCPJhuwyQgnN)
+[4] [ksilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESjqQfj3PE7ggEVVkTrIOoW_tjgp9z_0QAGupUmgHKfogFQBiSEE7FHUi-U1v06Wm7313Zn-N38G8JqOmMfu0BYomhiwtEIfByDG0uKduSrupncpOOdnMmgeKeRA7J5NQsX0M3g4UBgH6bWzcNAWvnaA==)
+[5] [ksilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENCWwjlDUUYOIb1DDTdU0oBmBQT32Pm96MQltc6UaWmczA6ETS9EpK69L8nNVnpdVadoJs7L03B4JeStVYzpGRUWHknAx-j4lDa-8ta6eWvbcHZ6toptWHA9axZCG7VQf4IoO_urCU7QQPF3USHk0ySA==)
+[6] [ksilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxpXvrUxA6R8IlZy7NywohO8Dv5oRJsVPNUexpjyZfaTCQSxQI0qHDBlvtYDavwM0Qd0mkml1Ir4s2OQ8h6X45AnHPBuAZGATJm-DRDzLQ7KOKrdAHXDfr9VkP5zzRmt1OWcf21JolT9SgIVh3CxFC)

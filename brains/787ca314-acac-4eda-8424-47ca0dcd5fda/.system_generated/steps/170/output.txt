@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                               
+--------                                                                                                               
+C:\Users\lg\Desktop\오늘\법인등록번호_추적_및_검증_가이드_110111-8382593.pdf                                                           
+C:\Users\lg\resilient-bardeen\법인등록번호_추적_및_검증_가이드_110111-8382593.pdf                                                    
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\validate_corp_reg_number\법인등록번호_추적_및_검증_가이드_110111-83825...
+
+
+

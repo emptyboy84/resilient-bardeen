@@ -1,0 +1,71 @@
+Task: 38be50f5-cf3e-4746-9931-b93fa8433928/task-57
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\38be50f5-cf3e-4746-9931-b93fa8433928\.system_generated\tasks\task-57.log
+Log output:
+Matches in Excel: [
+  {
+    "row": 9695,
+    "values": [
+      null,
+      null,
+      null,
+      "노던포지스튜디오",
+      3213200927,
+      "이동훈",
+      null,
+      "광주 남구 제중로 60, 광주콘텐츠창업보육센터 209호",
+      "010-2214-8275",
+      null,
+      null,
+      "golice@naver.com",
+      null,
+      "2022.11.1",
+      null,
+      null,
+      null,
+      null,
+      "만화",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "3213200927",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "이동훈",
+      null,
+      null,
+      "010-2214-8275",
+      "golice@naver.com"
+    ]
+  }
+]
+
+Last progress: 2s ago

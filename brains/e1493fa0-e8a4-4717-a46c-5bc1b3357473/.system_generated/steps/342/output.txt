@@ -1,0 +1,12 @@
+### Result
+{
+  "$fyMfY8EVVdrdRgzZMHsuZHuPdnPU82gr1e6wFWk1_REQ": {
+    "code": "0000",
+    "msg": "정상",
+    "data": {}
+  }
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  return nuxt.payload.data;\n}');
+```

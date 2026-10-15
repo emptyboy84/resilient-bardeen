@@ -1,0 +1,21 @@
+The search for ""신유진" "영무파라드호텔" OR "해운대스위트호텔" 사업자등록번호" returned the following summary:
+문의하신 '신유진' 대표자와 관련된 호텔들의 사업자등록번호 정보는 다음과 같습니다.
+
+* **영무파라드호텔**
+  * 상호: 주식회사 영무파라드호텔1 (대표자: 김충수, 김동진)[1]
+  * 사업자등록번호: **301-86-33956**[1]
+  * *(※ 영무파라드호텔은 신유진 대표와 직접 연관된 공식 사업자 정보가 확인되지 않습니다.)*
+
+* **해운대스위트호텔 (또는 센텀스위트호텔 / 센텀 빅토리아호텔 등)**
+  * 신유진 대표가 운영했던 해운대 지역의 호텔 법인 및 사업자 정보는 다음과 같습니다.
+  * **센텀 빅토리아 호텔** (대표: 신유진)[2]
+    * 사업자등록번호: **364-10-02139**[2]
+  * **주식회사 센텀스위트호텔** (대표: 신유진)[3]
+    * 사업자등록번호: **838-88-02473** (현재 폐업 상태)[3]
+
+찾고자 하시는 정확한 호텔 및 사업체 명칭에 맞춰 사업자번호를 확인하시기 바랍니다.
+
+Sources:
+[1] [ymparade.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlfM69WozxhaDjFB31zwK7FARz_u8mRat9Pun1nbiOphBB-EfJSG74uD_aCh4n0apFcCdDFNAPDUiArmi5FgkBHffjqBjrLYpaTbBr4zfKmvhHWejqPl4oOmPmJllvTpDk)
+[2] [centumvictoriahotel.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELwWoIC0d-DZs7CZSvF1VDBt7kcUp1crML0zz-ofquU6GDkZ9y_LGQLhF20Bqi6PEI29Ip-ZhHGKmqeJs7szt4uoQqSZW6jFlqzAXwreo1veUpN6E1YGMtYS2-YseJmirr0z2V)
+[3] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo4kiqr3pJQNuFPN9Vu8eVsBb4K6ABApXkuSERv2FsW7Iouoe14XCsanR59I_blNoqWBrro-gKw7pNfcXWvzLsO778hn3RprTPvjm3-rTIUVOIgNGiMPHU)

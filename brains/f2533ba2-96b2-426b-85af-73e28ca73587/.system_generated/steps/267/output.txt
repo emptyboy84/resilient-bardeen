@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Links for 임상규: [
+  '/article/7510601905',
+  '/article/1281180725',
+  '/article/1281180763',
+  '/article/1328262804',
+  '/article/2375400018',
+  '/article/5988200634',
+  '/article/4508200327',
+  '/article/5148159033',
+  '/article/6101276033',
+  '/article/6102514435',
+  '/article/6102369523',
+  '/article/6102174435',
+  '/article/2261792134',
+  '/article/6102258126',
+  '/article/6092626020'
+]
+

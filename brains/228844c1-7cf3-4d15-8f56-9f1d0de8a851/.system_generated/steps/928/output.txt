@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+MCST � search:
+  MCST: No results
+Bizno � search:
+  Bizno Match: 2242254308 <h4>ȭ� �</h4>
+  Bizno Match: 1534001293 <h4>�ɸ�</h4>
+  Bizno Match: 1136600660 <h4>�ȣ</h4>
+  Bizno Match: 5755000305 <h4>�</h4>
+  Bizno Match: 5816100403 <h4>�</h4>
+  Bizno Match: 8661501363 <h4>�մ±�</h4>
+  Bizno Match: 7212000099 <h4>�մ±�</h4>
+  Bizno Match: 3576500429 <h4>�մ±�</h4>
+  Bizno Match: 8704200700 <h4>� �Ǽ�</h4>
+  Bizno Match: 2506700234 <h4>�մ°�</h4>
+  Bizno Match: 6357100280 <h4>�մ±�</h4>
+  Bizno Match: 6071619242 <h4>�ִ½Ĵ�</h4>
+  Bizno Match: 7821701297 <h4>�մ±� �и� �(�뿬�)</h4>
+  Bizno Match: 6074239077 <h4>�ݹ̾Ʊ�浿�</h4>
+  Bizno Match: 6191361723 <h4>�մ±� �</h4>
+

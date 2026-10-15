@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Col 1 : {"richText":[{"font":{"size":10,"color":{"theme":1},"name":"맑은 고딕","family":3,"charset":129},"text":"25"},{"font":{"size":10,"color":{"theme":1},"name":"WenQuanYi Zen Hei","family":2,"charset":1},"text":"년 모집단"}]}
+Col 2 : 1817
+Col 3 : "이소민"
+Col 7 : "이소민"
+Col 8 : "010-2801-2662"
+Col 10 : "남구"
+Col 11 : "남구 분포로 113(용호동 엘지메트로시티)"
+Col 12 : "콘텐츠솔루션"
+

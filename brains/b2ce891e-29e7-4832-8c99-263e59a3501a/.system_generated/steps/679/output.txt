@@ -1,0 +1,14 @@
+The search for ""에스지이" "이혜정" OR "(주)에스지이" OR "주식회사 에스지이"" returned the following summary:
+검색하신 키워드 **"에스지이"**, **"이혜정"** 및 관련 상호명과 연관된 기업 정보는 다음과 같습니다.
+
+1. **(주)에스지이** (부산 해운대구 소재)
+   - **대표자명:** 이혜정[1]
+   - **주요 사업:** 응용 소프트웨어 개발 및 공급업[1]
+   - **설립일자:** 2023년 8월 25일[1]
+
+2. **참고 (대형 상장법인 에스지이 관련)**
+   - 코스닥 상장사인 아스콘·레미콘 제조 기업 **에스지이(주)**(구 서울아스콘, 대표이사 박창호)의 경우[2], 검색 결과 상 위 소프트웨어 개발 기업인 '(주)에스지이(대표 이혜정)'와는 사명이 유사하나 다른 법인입니다[1][2].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxqJXbCDgrnelQR5Dq7cdqTcU0Z73eKnYuukMoiplk0Adby3U6xug7nGPJpmv2UAs7ivDjnLSTk7O3M9G3tsv_3lKVyKgIvJnSZEJMfHp8R4Tvs235rvJ9vlXqlaVtnskVB_0R222jiqsgc-71zFOYMcw=)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE94lowuXTZZkxOLmb_13j3xLFsa0DXCQtsv70ifM0aC2V-uIdv17a_oeEvjAaJxmFtHCzjlQV2BRNA9QVru5K-JHS8sH15pdJ5E3ekW373VWQVaX5ttJUtm6-lJoZdOj4Ie6JBHJfIUfBjpNlNWKI5xQxiSVk18g==)

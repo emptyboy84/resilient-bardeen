@@ -1,0 +1,15 @@
+The search for ""수영강변대로 140" site:localdata.go.kr" returned the following summary:
+부산광역시 해운대구 수영강변대로 140은 **부산문화콘텐츠콤플렉스(BCC)**의 주소입니다[1][2][3].
+
+해당 건물에는 부산콘텐츠코리아랩, 각종 기업 및 사무실 등이 입주해 있습니다[1][4][5][6][7].
+
+참고로, 공공데이터포털(localdata.go.kr) 등에서는 해당 주소와 관련된 구체적인 데이터를 직접적으로는 검색 결과에서 찾을 수 없었으나, 이 주소는 부산 해운대구 우동에 위치한 주요 시설물 주소로 널리 사용되고 있습니다[5][3][7].
+
+Sources:
+[1] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVh2qYmyIOtdkIP8mDjFotmQYrJmf1oleV95UTrjHKiWJDSa5VdkN3xP4enmO5nH39UpBPz2mMxkoEUFWCgbENUxYC8RjEySq8NV5T7czXxRDYRXUnYPdI_leuNA==)
+[2] [doi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_BEzqvTqXoG3P3_Bxdk54ow4rLBk7_kW37AvLs-keGa1TCOJRlQukV4KaTcf28OjN4L2ps9jWjFtWsy0TDgVIANVPn9i2wzUrUv_xvLUxvu755nx79FhF9ZzxhLL3Q_yAYYDczwhXulID)
+[3] [ziptoss.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBWfS8hFJJjnU3GHSLLPeJA5fN0yE7zoDfCcIymh0zkPrSMxOtbDxrGtnTpd44U8nLe5UuVJXLlEIdDXIvOg6q3SKym47_9G4QCFmPeHz9dfYd9taGqIDIE6mgWXawV73i6g==)
+[4] [smartsocial.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtPrs7TzwxG6KR9pF1xZHqy9gX_KJjkR1ZxLEjN01kbXbJv2cWg-rMXhyO728us9oYGpSnWPBH8XaTC6Fh7Aq0buJki-ix0s5BCFr7jkrlPwt9ozRXH4rvhoGBpT8=)
+[5] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqLORlzmB5c5iyTAr3mkBfYQZkncJClYowLpnI5SOxXW3SVuQoPes-ldafmXL7As4MIyx4sJ86d1PQvytk6Wu6OOjPw6RRGACw0lij-NfPPp5krtIpEyGGbKr3urjWbvDthtFwOibqlg==)
+[6] [dcb.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjtqD0obdb-aS2Rkg7K6VWNJxq3kjfyubinDSIyutnKepLz4n5fCnVROndUfR_ZQ0ipMbi_InsnNFefD0UKQhP8N5WQKmR_WadFSFAYIHs88M1YQy2sLn3MNifJ6qu9AsUeAPJyE9gzZdr6Fm3YqV7tbf6zNrr3A==)
+[7] [dodm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9cC3bsrqzLY_Kcx6DhAoydBzVHMcJDQDxbK-nmqBLagwudWmCGFV9BGyFrG5sKEJtCjXwGpxzhxmnxBVUqAlwZ-Ihu0MuiMaHRWdJi9mnkcBhzNSR2QEL8NjGuuWTCXkTj2yg9mwi)

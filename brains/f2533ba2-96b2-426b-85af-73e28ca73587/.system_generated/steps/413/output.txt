@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Total non-empty lines: 64
+Line 0: <USER_REQUEST>
+Line 1: 검수!!
+Line last: </ADDITIONAL_METADATA>
+

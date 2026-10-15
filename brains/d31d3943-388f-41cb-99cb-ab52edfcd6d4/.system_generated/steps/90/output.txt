@@ -1,0 +1,9 @@
+The search for ""에코캡" "설립연월일" DART OR "2007년 08월" OR "2008년 11월"" returned the following summary:
+전자공시시스템(DART) 및 기업 공시 자료에 따르면, **에코캡(주)**의 법인 설립연월일은 **2007년 8월 16일**입니다[1][2]. 
+
+(제시하신 선택지 중에는 '2007년 08월'에 해당합니다[3].)
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZHq8-ekkNGyY6aK3WrN_f3Bk1QNcSvq8gSksrAC6PJVPsV4K3ApRxOF49EOOAZXOYLURqoTak2_qLg1Dn5b8Eba_0OUaP3p3DBQNII3nvOi4JV0SunLqcEw==)
+[2] [iponote.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkvzILcme-vxwvvKCgWgTOvRWOYP1JewQ0ra84nLLBUxH8dpWCAtDcFhRAfDk30KraY6-FU-VS-hTFPCPIKPaxypcvKrHAjzR9fSCURTqf8osLwCcZpw5BkHqMRMnb2LGN1g==)
+[3] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElty_8AkbzQs3VJKNmPqBTpt7t2A6hOWfzujqTdoMAV_oJCLxj5iC2PkQdDeS_dSv2-lmYxI4jn1qRKaJeHHk4KQlz35QjpzBbNrJZR_3p7YHTf2w0z7fs7xl8caabR79T0yhPPUDJpgnAKNpXdw==)

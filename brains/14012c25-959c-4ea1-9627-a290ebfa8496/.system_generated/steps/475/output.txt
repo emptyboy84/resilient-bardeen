@@ -1,0 +1,15 @@
+The search for ""부산일보" "중앙대로 365" OR "수정동 1-10"" returned the following summary:
+제시해주신 검색어는 대한민국의 대표적인 지역 일간지인 **《부산일보》**의 본사 위치 및 주소 정보와 정확히 일치합니다[1].
+
+* **기업명:** 부산일보사 (부산일보사빌딩)[2][3]
+* **도로명 주소:** 부산광역시 동구 중앙대로 365[4]
+* **지번 주소:** 부산광역시 동구 수정동 1-10번지[5]
+* **참고사항:** 부산 지하철 1호선 부산진역(5번, 7번 출구 등) 인근에 위치하고 있습니다[6].
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4-OxE7U-xq6y_-pWiS2y75IXN5eCcJ2AX8hUbdIWSebRpFTbNR_olDzI7EURnZdrr4os_oIEzT3E0XkWaCsXkAivCytr_EDN75B8eek88yoWRykx3VG_Pk0qGgUeg4g7TaZq-Zrl66DlzHawyE1rwHu9gWRESqnM=)
+[2] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKuTZLaclwl3FnEdP-cffOw6s0zsJ9c7ZU1HkUatX0RzPiBe_cw_KppNlsqe2zhSXC1_EhNSJibx56-fYypeRhB_gk1g-WHdC0r2_dSwZWSPh5t40pjZVU9A==)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQOjOznuF5ySpB7vZIpNo_p9-rx2YBZuuGJWUofQX2TwOGa0RIzZXeA7iP3EMdESAQIDMqjwCDSaXOw3MQP0UzMSwQVR9FboQ7S0N0N8vZyz8Hm98hCGrta6DCXcrpj2miGtP8hnSvgl6Ca3WcdkdZnd169l-tgkMq9O6qJcYSNBRWhzuOJ4GSVkBNk4RYTA==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjB8uOgSUqr1Om1kSEelu1k-92-k0abIc2vd3ewq9f63jj6VpZWrQ_GzD2isIrI6itCfgVFR0A-lnL5iSXQgx08jmmqwFdKEEWuFO9hjw5A45LdMKBP-6KzFKr0NaaDAqrEVuhzu3r0oXbPhB-n6sJ3kcbyx7aaC-rcdbeRjtS3Mx6g9kDp7CSgu59Tp_6CmEdfqlLN2_Gqp1FLw==)
+[5] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8xiN8blrpDXjN-1i4kiLCkvQ_T9qS2Kr6EWgA8mUlx9HhGyp0oLJ66oaSSw9q8gGpLf3DK5kptrHnXXB2mhLQ9H4DETUWUddumxy8OYp-s1ZGKjrnwawVf7eqR2IBnjBAYlT-O_UMGBo244xicA==)
+[6] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8vH1lWy4hRxQVYYDsmFjTQlZZnfqFvu-0DD_4sPr_e6APTSu2FUg268zBI8ZPehdIsE_FZ2Mn6s3Nmco7zjJ3j8ZWoDfpSmX2fn3tEie8UfL69Qsc)

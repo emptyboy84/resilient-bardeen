@@ -1,0 +1,7 @@
+Encountered error in step execution: ### Error
+Error: browserBackend.callTool: Error: strict mode violation: locator('input[type="text"]') resolved to 2 elements:
+    1) <input id="query" type="text" name="query" autocomplete="off" class="form-control" placeholder="전화번호 입력"/> aka getByRole('textbox', { name: '전화번호 입력' })
+    2) <input id="q" name="q" required="" type="text" onfocus="this.placeholder = ''" placeholder="상호명,사업자등록번호,법인등록번호" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '"/> aka getByRole('textbox', { name: '상호명,사업자등록번호,법인등록번호' })
+
+Call log:
+[2m  - waiting for locator('input[type="text"]')[22m

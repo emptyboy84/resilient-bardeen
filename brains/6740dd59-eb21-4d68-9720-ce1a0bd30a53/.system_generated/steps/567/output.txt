@@ -1,0 +1,13 @@
+The search for ""유한회사 키즈플레이타운" OR "413-87-02355" "이정엽" 매출액 OR 부산" returned the following summary:
+검색 결과, **(유)키즈플레이타운**에 대한 정보는 다음과 같습니다[1].
+
+*   **기업명**: 유한회사 키즈플레이타운[1]
+*   **대표자**: 이정엽[1]
+*   **설립일자**: 2022년 6월 23일[1]
+*   **소재지**: 부산광역시 기장군 장안읍[1]
+*   **업종**: 인형, 장난감 및 오락용품 제조업[1]
+
+요청하신 **매출액** 정보는 공개된 검색 결과에서 확인되지 않습니다[1]. 기업의 상세 재무 정보나 매출액을 확인하시려면 '기업정보 제공 서비스(크레딧잡, 사람인, 나이스기업정보 등)'를 통해 기업 분석 보고서를 조회해보시는 것을 권장합니다[1].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSzq84Ht-9yiz3QRMSKlWrMr9RQEkqN02pY5albQlGUetovvSaoHkUf8uNQEVqvDRRmOIwYufjIOUm8Ih9f8PoECdz5dihkYcNA9pnZ8_Cd1HWkCYhqXSWlsFWNa5hYNbIaPpw17EUY4h_tb1hj5Za45kK)

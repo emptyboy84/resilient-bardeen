@@ -1,0 +1,16 @@
+The search for ""대경산업개발" (051 OR 부산 OR 해운대 OR 재송동)" returned the following summary:
+검색하신 조건(**대경산업개발, 부산, 해운대, 재송동**)에 부합하는 기업 정보는 다음과 같습니다.
+
+* **회사명:** (주)대경산업개발[1]
+* **소재지 (부산 해운대구 재송동):**
+  * **본점/사무실:** 부산광역시 해운대구 센텀중앙로 97, 비동 C105호 (재송동, 센텀스카이비즈)[1]
+  * **지점:** 부산광역시 해운대구 센텀동로 99, 1408호 (재송동, 벽산이센텀클래스원) — *(주)대경산업개발 벽산지점[2]*
+* **대표자:** 손정희[1]
+* **주요 사업내용:** 경영컨설팅업 등[1]
+
+*(참고: 과거 재송동 지역에서 아파트 및 상가 분양 등을 진행했던 '대경건설'[3] 등 동종·유사 상호의 건설업체들과 혼동되는 경우가 있으니 업무 시 참고하시기 바랍니다.)*
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYHTRQ1d4mCZI8Zfa-7dkpRvYiSb0vn1H8RsHq_rCC81dx-DkLvIesh0rlc1GWbZXDufOxGfReE78QFACHSINDycAtEsy9ULTXJa2VDYOsm8DjMBaJle21nsde38cGXMd1eK4vXJbI-IFiHhijDPh8tlbgV9XWLSBK3-Kl7aPppuvKODi6oTFxoQ0VIybYKofsB_hn7o8w0WF6jGTSgG3VO1txlDLwKD6NTA90C2Sj6-IZuuhOMvKVLP254fU9Lc14vgH1Gh1zTBhVRrLyVeoHYSvsWP5Qvqq30u9DFLrGZA==)
+[2] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhLT5utTcnNDs33-2ik3z4U7ZppkqE_V_ThEkzR4Cv0OhHLbiyfQz_i_icdj7AD_n6-A266YOUBZxEr8LZze8nvyPsF4NVB3sspjCIn08tc9L4myZ3b5WXi34ru1lIjiunol0nMZ6O80pZr7a-hil_VNf7)
+[3] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3_XkeNu8Zic_c1AsYAb1tp2-99eBWq8MxlyieTuvXiy093B0-1atQOKTEeM4jCNTI0KLnn5oSOM7aesZQOl7eaghm6yD-sWDYtEJdOCO4gWGmtuiRoOgO1gPN0X5WHgGag9heM-3IdDGM290KC8aWjoX1)

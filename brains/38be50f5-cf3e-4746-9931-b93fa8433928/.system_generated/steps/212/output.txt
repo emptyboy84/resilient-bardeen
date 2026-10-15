@@ -1,0 +1,26 @@
+The search for ""진연로9번길 19" OR "진연로9번길" "애니메이션" OR "양정동" "산호빌딩"" returned the following summary:
+부산광역시 부산진구 진연로9번길 19(양정동 234-8)에 위치한 **산호빌딩**에 대한 정보는 다음과 같습니다.
+
+*   **건물 정보:** 지상 7층 규모의 건물로, 부산 지하철 1호선 시청역에서 도보 약 3분 거리에 위치해 있습니다[1][2]. 2004년에 사용 승인된 제2종 근린생활시설입니다[3].
+*   **입주 기업 및 시설:** 해당 건물에는 다양한 기업과 사무실이 입주해 있거나 입주했던 기록이 있습니다[4][5][6][7].
+    *   (주)ILI 사회서비스 (복지용구사업소)[6][7]
+    *   디아레브 (핸드백 및 지갑 제조업)[4]
+    *   바도스(bados)[5]
+    *   기타 선박기자재 관련 업체 및 인테리어 관련 업체 등이 입주한 사례가 확인됩니다[8][9].
+*   **애니메이션 관련:** 검색 결과상 해당 주소지나 건물 자체가 애니메이션 산업과 직접적인 연관이 있는 시설은 아니며, 과거 신설법인 현황 등에서 애니메이션 업종이 언급된 적은 있으나 이는 해당 건물 내 여러 사무실 중 하나였거나 일반적인 리스트에 포함된 경우로 보입니다[10][8][11].
+
+현재 해당 건물 내 일부 층에서는 사무실 임대 매물 등이 거래되기도 합니다[12][3]. 특정 목적(방문, 기업 확인 등)이 있으시다면, 해당 건물의 입주사 목록을 확인하거나 부동산 매물 정보를 참고하시기 바랍니다.
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtz3Bu1FQnjJg_p8D3EyLu5Pm8jfSItTx6M3fYpb3XYrXOIewqVKskwA9VFl82yIRNegV-pwEF78eT2KBHfR4FLLXildsMy6rO_R0PEa86CXd1UsMpURoCUXcQIX7ZEBFDSctSY4QBQeXYBJ6wfedMq4Ll42lBB2Rb7e0ut3wZtKqS30Xx5rDtSTn1zOCJVO1G6hTevMfmEUo4Gb1iiPNcQ2dSlM2-oIjmIzwEH4F86-Jyi1-4V8PYB3r70pfEGqRmXciSZpgalgjQd-iqLhwgjLbiV4asFgIazEe9UR579fdc9WlBnQ==)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtz3Bu1FQnjJg_p8D3EyLu5Pm8jfSItTx6M3fYpb3XYrXOIewqVKskwA9VFl82yIRNegV-pwEF78eT2KBHfR4FLLXildsMy6rO_R0PEa86CXd1UsMpURoCUXcQIX7ZEBFDSctSY4QBQeXYBJ6wfedMq4Ll42lBB2Rb7e0ut3wZtKqS30Xx5rDtSTn1zOCJVO1G6hTevMfmEUo4Gb1iiPNcQ2dSlM2-oIjmIzwEH4F86-Jyi1-4V8PYB3r70pfEGqRmXciSZpgalgjQd-iqLhwgjLbiV4asFgIazEe9UR579fdc9WlBnQ==)
+[3] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4YptT0Df3G1AY0y7CWvaIE2hV-YEHrIJZ3k1otHIoCltFU257C63zK8pcJqq1F-KNGW-FaZcWI-FL9i-e4vCmaBd9LerzUCK_1818Y6Hbhu3T3mMQP_2sPoFn5rJJJzY=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE-Os4qrPYR4nvGURHp9OuojUX-Hyp4hfz_K6g7J2RWMdeP_jRlAAb8yeL7tQws8JBN1DQ7ZtX4NSlgnQHlWidIp3DlCoOKtDK3RvchRrFJeu-zZgTAYXYySIedEPijT7TanvcMh8WIXMChI1ogdFMK_DP2aqE_u1MAEWt3AGJ4hkqtmIcAQEQiAxi6GmSb41dTJDRaPILtCXqXjtg4HnLLSiDYWfovaQHYt_C1OXgE5IucC_O1AvW3Z0MtEfFoRLcQ-LfXlY=)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_BxPNUaERQXUcqwxahDg3y0vdCIcVdZatGDPLOAxaRhZukFbySa2I62d7ChW1H21mEvgwkQWfzN-FpXZ5bFFt7dMCK-OKO8Us8osd4k6Cmb5_IRd0q8RFa7Mhk9yKY4my8w==)
+[6] [biz360.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ09sfJO1GSx3lByzvSWzAsIlEzIq7X1UwAkzy4g2jR7wAO1PV-0ynrBFKlHg6shQH6izuL40ewVrTgDNeyt3sUQCFDpZUw7fkwcZ1JHU_loVmOGlhKpPvDgjgCWywjFY6-IZXmky4UYDtex9qevja-KcBaqypgQ==)
+[7] [reborncare.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Xhm9n4QWgp4t4LgIFemRSca66ldzfgqkZbCEtMGiaW_wWw-nkA2ILqZ6fufVLaxCoKza3Sl6mSAa9KuvmJnpEmObgDRsCMrFdw3w7c_5ucEqqaBwLdRs_P8f88KYMFiCMSECQoY-m3t0ZRUNhVOjNVttLAvkAWzVEdPBqFiT_JaHwWJyJmSTJj1fSJyroXQ1GEvcbqASmE4FOa8FFufD0pFgsJujITKfb0NZtHLgsOlYtB6FGeZ9YvhdcoJp_NOwMuVmJ-FmTkHiKy7Xo7HL2gA4YoLylnRqq5h8yA_uqsAahgzWSBrWQASVVLf7bNcRGm7dvFbqa-uq)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG60KJ6XgJMduZ3BlSTKxACGhJdZp6Jr-tlfxzAtwxYmnrkrGq9UMzIdVZh6kz5k8RSVzlkOvYsLmFjxWify8Lt4V4oKVM5Df9sHIlcWKviZkh90w==)
+[9] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKfDPXup38V7hb1pMzY_M_aFmMU7ud-ERIxz8ypYK51K2wW4cU-A6ZetLydDskm-sEbNkQe0aPl6SqfMQSVwCqohKv-_daA-rgIfHuW6wBuDV7Dpf3ctsnd08bu3Lj988=)
+[10] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2suyHui8AtU278uKZrFN7L8QU_Ycp0aLAbKDKgPdhmI-s_JkG6HHJNvkOIN7yVSO4QLqDtEQT-EorsrGjc0wrRSt784YJgHFThk7_SjWmjYHdPgHdF-tATFNKKw==)
+[11] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHb4j1fbAsyAOjkwkwE8CXIlB2XUhdpuh8L95hkyyyHpC4g9jUSW8ahjIaJW8jfdoiyH7ECqZS2fhW_h_-cYiad3pWL4e__4BQ1QXMPPb97XJLXPiQwufwktJY_9T--bbaMhoS2oF52k7E)
+[12] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSmiBhdEMikqgUWDsB2Ol3na5Dn4s6WXTsGFwPucnb1BWDPkUcmp45lVWr3rnvUivdq5CHo5JvQBRBhQWtLYQfRQvh1EF6CRRWhpUrBPDHOQXWNw8-m7DJ0OIJzwuN00=)

@@ -1,0 +1,95 @@
+### Result
+[
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "",
+    "type": "checkbox"
+  },
+  {
+    "placeholder": "기업명, 대표자명, 사업자번호로 검색...",
+    "type": "text"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ placeholder: i.placeholder, type: i.type }));\n}');
+```

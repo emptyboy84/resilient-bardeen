@@ -1,0 +1,14 @@
+The search for ""해운대해변로 203" "1014호"" returned the following summary:
+입력하신 주소는 **부산광역시 해운대구 해운대해변로 203(우동)**에 위치한 **‘오션타워’** 건물의 **1014호**를 의미합니다[1][2]. 
+
+* **도로명 주소:** 부산광역시 해운대구 해운대해변로 203, 1014호 (우동, 오션타워)[1]
+* **지번 주소:** 부산광역시 해운대구 우동 760-3 오션타워 1014호[2]
+* **우편번호:** 48093[1]
+
+해운대해수욕장 및 동백섬 인근에 위치한 오피스텔/상가 건물입니다[3][4]. 특정 기업이나 시설에 대한 추가 정보가 필요하신가요?
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHWZeWbitpRcNueJF1sPI9W56ZbF7w0BPaAvsm0MRzon_lABxinAqg-2V_oWxzJCltQiTDJcL0PnGtxySqBl8fbHuzuz4DKpYE8D0fz-ysiCitCdTJb1L5_wUb7M9AnPywGhHrYSa8cCDZZcaM2TgdsKJS3Ciyk75Z9Mh4iS10spWor83tYC5mxNYn1CgZhJQhDLvw)
+[2] [juso.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFckncFUgva12XhSw2KplsNESQTZNFxMpqJGdh2Q_FNWe_NPNvi2mFOEQnD113aPc8H4sRjDTJQIEwgYJCyOIGZndYozzRa629y6U1o4tL_ww20ZDMyVMD3OQ==)
+[3] [kbland.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_Ny6jsBNz770rXfuCAFxAu4UoWNzH5zSAsviDy6NVa-Z8RIzHawX_JyfwUEzzgh39mmF8PzI72fjyys2j5fOYEzsXAWVU9tVS6yJ5CeKHa8JW)
+[4] [daangn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq9eN1E3tAaT0r9kjt6pqKrV_mquf8nouCoz9zB2HN-3Mjr84EXA0pDpJbgwl_Wh7l4OuX3BE9b1j0ab0e-mXSuuxs004Cqid6pz-XYnjIx40n5dryxj23i6SU0fDXMJJeDQ==)

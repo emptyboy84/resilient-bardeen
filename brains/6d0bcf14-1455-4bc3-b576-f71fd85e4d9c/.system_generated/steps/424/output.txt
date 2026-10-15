@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+조용일 2
+톡플 21
+사업자 6
+전화 4
+010 1
+02 2257
+070 1
+이메일 9
+email 0
+

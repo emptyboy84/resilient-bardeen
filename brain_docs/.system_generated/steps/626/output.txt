@@ -1,0 +1,23 @@
+The search for "site:patents.google.com "페타브루" OR "고범진"" returned the following summary:
+구글 패텐츠(Google Patents)에서 검색한 결과, 입력하신 검색어(**"페타브루"** 또는 **"고범진"**)와 관련된 주요 특허 정보는 다음과 같습니다.
+
+### 1. **"페타브루" (주식회사 페타브루)** 관련 특허
+인공지능, 공간 밀집도 분석, 무인 비행체(드론) 및 도심항공모빌리티(UAM) 관련 기술을 보유한 **'주식회사 페타브루'** 명의의 특허들이 확인됩니다[1][2].
+* **밀집도 분석에 기반한 과밀 방지 장치 및 이를 포함하는 과밀 방지 시스템** (출원번호: KR20230067255A 등)[1]
+* **무인 비행체의 착륙 제어를 위한 관제 장치 및 도심항공 모빌리티의 이착륙 시스템 및 이의 동작 방법** (공개번호: KR20210023138A 등)[2]
+
+### 2. **"고범진"** 발명가/출원인 관련 특허
+열교환기, 백연저감장치 및 사출성형 금형 분야 등에서 **'고범진'** 이름으로 등록 및 출원된 다수의 특허가 존재합니다[3][4].
+* **백연저감 열교환기의 응축수 회수장치** (공개번호: KR20160000900A 등)[5]
+* **이종 내용물 펌핑용기의 노즐캡 제조용 성형금형** (등록번호: KR100827611B1)[4]
+* **플라스틱 사출성형의 균형 충전용 러너 코어핀** (공개번호: KR20060024119A)[4]
+
+---
+더 구체적인 특정 특허 문서(공개·등록번호, 요약 등)를 원하실 경우 검색어를 더 세부적으로 지정해 주시면 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECcD1m6L8v2bipHtZjIs84REa6ULPXOplNFIw_Voi4eRFSrSzwoRQtSYJBgoGsobOY_p-H91Wbccr3rQjWPCXz7cW6SM7L8_nfV2SaQhFM1SBmfdw_QYDwKxUnxdNT54ekz8QwZ-Oa)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmJGnnSAtBPZH-KQo35CtGbytP2le88jNIq8uqUkLVZbL9C9DGYCWonbRKpkgGdrLvNnN2E0cnXbyy4TROLQQv3VdU81nIzDhY-sSPmZwOlu5d2waE2-OEyjRej85c-8tGE6St7HHZyA==)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNzhuZSTb0-il32Qg_C1EkSlGe_rqmiXDAIXUF21R8jfxo7Cs6MLD40wvC7jkjne3NywWO3RnoRLoeJdcc4xocQuw90pJ2kMWKXlBN-N-S7ZBXsQi9Bz9cpTqONDysR2MqBMnpKDF)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ24ju47WpwdIUGkDdPmTNcnUoh-4hOWTuqCtGDB9ECGUH2jSZz5k1NlgcoXyUW-bSfZh-gRY_4uFGglpfAbjakKHH1u1uXRJM3IQRe4zoy5x3xq4dgP9x3QVYrpDLiTF4jo6cgXSBNA==)
+[5] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbHNVs5kQFHstJifLcctjrS9w9R_1kvsuIG6wI4J-Aq3SrC5UAd7TS5MNw0GiIyiHn3s-QXwbjjMq-PCWpEhGbJvhOjE2l1PLMY4kbZfivwK40Oo4VK_L1WzEFg4ayEOOrkJSXOtZ8)

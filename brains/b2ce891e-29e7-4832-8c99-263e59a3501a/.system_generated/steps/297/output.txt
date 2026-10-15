@@ -1,0 +1,6 @@
+### Result
+"앱 지원\nexpand_more\nABMLab Corp.의 앱 더보기\narrow_forward\nLunavi 타로\nABMLab Corp.\nLolypoly - 모임 파티게임\nABMLab Corp.\n기록기록 - 3초 영상 일기\nABMLab Corp.\nGoogle Play\n\nPlay Pass\n\nPlay Points\n\n기프트 카드\n\n코드 등록\n\n환불 정책\n\n어린이/가족\n\n보호자 가이드\n\n가족 공유\n\n서비스 약관\n\n개인 정보 보호\n\nGoogle Play 정보\n\n개발자\n\nGoogle Store\n\n모두 VAT 포함된 가격입니다.\n대한민국 (한국어)\n상호명: Google LLC. | 대표자: Sundar Pichai | 주소: 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States | 고객센터: 080-085-1500 (무료) / gpk-usersupport@google.com | 호스팅 서비스 제공: Google LLC. | 사업자정보\nGoogle Play에 등록된 앱과 게임은 각 개발자가 제공하고 판매하는 것이며, Google LLC가 개발자로 표시된 앱과 게임 이외에 Play에 등록된 상품 및 관련 거래에 대해 Google LLC는 어떠한 책임도 지지 않습니다."
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const text = document.body.innerText;\n  const idx = text.indexOf(\'앱 지원\');\n  if (idx !== -1) {\n    return text.slice(idx, idx + 1000);\n  }\n  return \'not found\';\n}');
+```

@@ -1,0 +1,12 @@
+The search for ""위플라이엔터테인먼트" "법인등록번호" OR "사업자등록번호" OR "180111-"" returned the following summary:
+검색 결과, "(주)위플라이엔터테인먼트(WEFLY ENTERTAINMENT CO., LTD)"는 부산광역시에 소재했던 정보통신업(게임 개발 및 소프트웨어 개발) 분야의 외국인 투자 기업으로 확인됩니다[1][2].
+
+해당 기업과 관련하여 요청하신 사업자등록번호나 법인등록번호, 혹은 '180111-'로 시작하는 번호는 공개된 공공데이터나 일반 정보에서 직접적으로 확인되지 않습니다[1][3]. 
+
+참고로, 위플라이엔터테인먼트와 관련하여 언급된 '105-81-50594'는 과거 한겨레신문 관련 기사에서 다른 문맥으로 인용된 번호일 수 있으며[4], 기업의 정확한 고유 번호를 확인하고자 하실 경우 **[대법원 인터넷등기소](https://www.iros.go.kr/)**에서 법인명으로 검색하여 법인 등기사항전부증명서(등기부등본)를 열람하거나, **[국세청 홈택스](https://www.hometax.go.kr/)**에서 '사업자등록상태조회' 서비스를 이용하시는 것을 권장합니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXz45yo7rM9CoqkaVdI58bsS9cWYgJto3T2nu8cmh9seoNJuG1l4_fH_d8IIW9Z4xddl4QbRb-7SAx_LJzQmw8HWGG3ZfsHJsQHGSjXiQC3BGx_qNLg2i_8Vm-XDFdYLzjANnBxeWZptqqUJCbjVKnBlh-mRpqZ1jjgLtHQTg-0u1wbCcVhT_5MgEEEZ3fUy5C7zm6UvDCQtYMak0IpdvlVpvjNHKd_NM8-AbeYBs56zEsi3pxbH_uIbLVCe9RfWyf75dScSCEAkd1tMhjMYJefIpz9LHS0KNZodr7goUj68s6anRgAuUoNGGEzTqSUhtG0gXQJoKlG3aK5DvUZC_5drReKP5Po_iC2KxWkw==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqoR5xXG5yPNk9UlV2NzbtsRyuqAcStM-XCjQx0EZ9Dsuz4H0LXgBRVgo2Mp_LwZnSHVVtrGENWs04y7cPsWIfbTyJRIcLATulnReUCT0Pkyeyd2o=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXz45yo7rM9CoqkaVdI58bsS9cWYgJto3T2nu8cmh9seoNJuG1l4_fH_d8IIW9Z4xddl4QbRb-7SAx_LJzQmw8HWGG3ZfsHJsQHGSjXiQC3BGx_qNLg2i_8Vm-XDFdYLzjANnBxeWZptqqUJCbjVKnBlh-mRpqZ1jjgLtHQTg-0u1wbCcVhT_5MgEEEZ3fUy5C7zm6UvDCQtYMak0IpdvlVpvjNHKd_NM8-AbeYBs56zEsi3pxbH_uIbLVCe9RfWyf75dScSCEAkd1tMhjMYJefIpz9LHS0KNZodr7goUj68s6anRgAuUoNGGEzTqSUhtG0gXQJoKlG3aK5DvUZC_5drReKP5Po_iC2KxWkw==)
+[4] [hani.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdnX06kjmNcWXcnqcoBW7ibG-6Hf303ujiZQrrlHjAqCvAcsY1A9awBGKkh8kcVvonR_98JDUxEqRUvibWgQohfE-hWIeXHO9WngAWQlWACTWcx-egRdDHrfc0WHRvVldeXWW6kCQcGBmJy8cUqsUKHy0KrQ==)

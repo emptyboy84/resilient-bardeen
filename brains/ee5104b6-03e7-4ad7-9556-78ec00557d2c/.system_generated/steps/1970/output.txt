@@ -1,0 +1,8 @@
+{"File":"c:\\Users\\lg\\resilient-bardeen\\current_pasted_batch.tsv","LineNumber":495,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t\t부산 기장군 장안읍 명례산단7로 4  \t\t\t\t\t4\t자동차 엔진용 신품 부품 제조업\t\t\t\t\t"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.csv","LineNumber":493,"LineContent":"배현명,,명승기업,5610102820,신근수,46028,부산광역시 기장군 장안읍 명례산단7로 4,,,,,3,그 외 자동차용 신품 부품 제조업,,,제조업,기타 제품 제조업,그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\merged_500_perfect.tsv","LineNumber":492,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t46028\t부산 기장군 장안읍 명례산단7로 4\t\t\t\t\t4\t자동차 엔진용 신품 부품 제조업\t\t\t제조업\t기타 제품 제조업\t그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\all_500_verified.tsv","LineNumber":492,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t46028\t부산광역시 기장군 장안읍 명례산단7로 4\t\t\t\t\t3\t자동차 엔진용 신품 부품 제조업\t\t\t제조업\t기타 제품 제조업\t그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\all_500_factchecked.tsv","LineNumber":492,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t46028\t부산광역시 기장군 장안읍 명례산단7로 4\t\t\t\t\t3\t자동차 엔진용 신품 부품 제조업\t\t\t제조업\t기타 제품 제조업\t그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.tsv","LineNumber":492,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t46028\t부산광역시 기장군 장안읍 명례산단7로 4\t\t\t\t\t3\t자동차 엔진용 신품 부품 제조업\t\t\t제조업\t기타 제품 제조업\t그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.tsv","LineNumber":492,"LineContent":"배현명\t폐업\t명승기업\t5610102820\t신근수\t46028\t부산광역시 기장군 장안읍 명례산단7로 4\t\t\t\t\t3\t자동차 엔진용 신품 부품 제조업\t\t\t제조업\t기타 제품 제조업\t그외 기타 제품 제조업"}
+{"File":"c:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.csv","LineNumber":493,"LineContent":"배현명,폐업,명승기업,5610102820,신근수,46028,부산광역시 기장군 장안읍 명례산단7로 4,,,,,3,자동차 엔진용 신품 부품 제조업,,,제조업,기타 제품 제조업,그외 기타 제품 제조업"}

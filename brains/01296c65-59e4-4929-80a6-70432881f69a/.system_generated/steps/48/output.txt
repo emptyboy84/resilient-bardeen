@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:15 �:47
++     const regex = /<a[^>]*href=\"\/article\/([^\"]+)\"[^>]*>([\s\S]*? ...
++                                               ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:15 �:63
++ ...    const regex = /<a[^>]*href=\"\/article\/([^\"]+)\"[^>]*>([\s\S]*?) ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:15 �:71
++ ... regex = /<a[^>]*href=\"\/article\/([^\"]+)\"[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:15 �:79
++ ... regex = /<a[^>]*href=\"\/article\/([^\"]+)\"[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:18 �:39
++     while ((match = regex.exec(data)) !== null) {
++                                       ~~~
+� �Ǵ� � �ġ � '!==' �ū�Դϴ�.
+�ġ �:18 �:38
++     while ((match = regex.exec(data)) !== null) {
++                                      ~
+'while' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ �:18 �:40
++     while ((match = regex.exec(data)) !== null) {
++                                        ~
+� � '!' �ڿ� � �ϴ�.
+�ġ �:18 �:47
++     while ((match = regex.exec(data)) !== null) {
++                                               ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:19 �:28
++       console.log('Match:', match[1], match[2].replace(/<[^>]+>/g, '' ...
++                            ~
+',' �ڿ� � �ϴ�.
+�ġ �:19 �:29
++       console.log('Match:', match[1], match[2].replace(/<[^>]+>/g, '' ...
++                             ~~~~~~~~
+� �Ǵ� � �ġ � 'match[1]' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

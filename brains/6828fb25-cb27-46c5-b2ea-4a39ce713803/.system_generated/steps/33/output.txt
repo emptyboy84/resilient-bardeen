@@ -1,0 +1,16 @@
+The search for "site:incruit.com "우강마케팅" OR "765-07-02346" OR "김동우"" returned the following summary:
+인크루트(incruit.com)의 기업 정보에 따르면, **우강마케팅**의 대표자는 **김동우**입니다[1].
+
+관련 정보는 다음과 같습니다:
+
+*   **기업명:** 우강마케팅[1]
+*   **대표자:** 김동우[1]
+*   **업종:** 시장조사·여론조사·경영컨설팅[2][1]
+*   **설립일:** 2023년 1월 12일[1]
+*   **기업 특징:** 온라인 광고 대행사로서 네이버, 구글, 인스타그램 등 다양한 매체의 광고 세팅 및 마케팅 업무를 수행하며, 자영업자, 쇼핑몰, 전문직 등을 대상으로 종합 광고 대행 서비스를 제공합니다[1].
+
+요청하신 사업자등록번호 '765-07-02346'의 경우 인크루트 내에서 직접 검색되는 결과는 확인되지 않았습니다.
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaZ9b7nbhbazYWe4ykSTBEL_P2QrIsRGrjaFWOAaOIZTU_eWmUKLCOUgF17lTHAiPdtnL_w1FhzQND-LpQr8RJX9W_NOWv90Sa29r4B2cLjJCKFbgppaZ6SGzXy1mct8=)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaZ9b7nbhbazYWe4ykSTBEL_P2QrIsRGrjaFWOAaOIZTU_eWmUKLCOUgF17lTHAiPdtnL_w1FhzQND-LpQr8RJX9W_NOWv90Sa29r4B2cLjJCKFbgppaZ6SGzXy1mct8=)

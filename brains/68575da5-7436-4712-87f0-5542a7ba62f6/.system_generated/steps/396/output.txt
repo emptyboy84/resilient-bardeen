@@ -1,0 +1,16 @@
+The search for ""0504-1361-2922" OR "050413612922"" returned the following summary:
+입력하신 **`0504-1361-2922`** 번호는 대한민국에서 개인정보 보호를 위해 사용하는 **050 안심번호(가상 전화번호)** 체계 중 하나입니다[1][2]. 
+
+### 주요 특징 및 참고사항
+* **용도:** 주로 중고거래 플랫폼, 쇼핑몰 배송, 택배, 고객센터 등에서 실제 사용자(구매자·판매자 등)의 개인 휴대폰 번호가 노출되는 것을 방지하기 위해 일시적으로 부여하는 가상 번호입니다[1][3][4].
+* **유효기간:** 안심번호는 목적에 따라 일정 기간(보통 수일~수주일)이 지나면 자동 해지되거나 다른 사람에게 재할당될 수 있습니다[3][2][4]. 따라서 거래나 용무가 끝난 뒤에는 통화나 문자가 연결되지 않을 수 있습니다[2][4].
+* **연결 방식:** 이 번호로 전화를 걸거나 문자를 보내면, 안심번호 서비스 중계 시스템을 거쳐 실제 연동된 상대방의 진짜 번호로 연결됩니다[1][5].
+
+만약 중고거래, 택배 수령, 고객 응대 등과 관련하여 해당 번호로 연락을 취해야 하는 상황이라면 안심번호 서비스의 유효기간 내에 이용하실 수 있습니다[3][2][4].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA_YNjVikyiA9P8Ps5isUzMx93OSSCvNDcUKVMZJVsP-96hGSJNDwVZdMwRN2t3fmE5PqnnNj4kwqY3jLnaAjHUSxPKShC7muW4Eu5dXN1Z7t7YkTjoxw=)
+[2] [soomgo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXxIqPKAt7dEL_IHgVEUlCR8YL_x_ldDlq6PBc88z1BuZeE-BsbVgwEf-FEiOXSnm9TAquIMsFDY9odMHGaop3fSaENHCFXsinaKXz9kb8AHtzhV5fQnXT1XHYUHVv8qVhUl1ToSbJMr_UUrytfYI17KoSx9pyJbO0Hf0Qq3EIoX4Qje5r7nY8GLj7kdZAPWRlUttofyU37Ulvab9TnM5wHM85oCPzi8tzXN7WFGRoVderREEn97aONEuM7EEGl94UZ7fF12W6qRy7Aeo2m3EwWBG88l3cIqXDwYOuc7icdN4iL7aDNX8lZYnpDF6LKNsYyCGsmDYcq8F0o20oM7jIavn3lbwPUXiIvZoLhhZVZY0U63DPZGfktCFO4AFHEwqYccRsye72ilgiyGwfZXN8mkfRFuXQIgpL5hObSLwphsu1oTZBdKtPV801Zj2IFjjlu8o=)
+[3] [godo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRCy_naSoLHGlA9Wc6Y_sfeRzsdWb69ZBGDGEhUpwcyRGyEnWP5y1AuP73cgBo4dNbeqJH3pD5U9ZMK_k3AxHeyyausXr5F7L9P3wG2aBo_ahZrQW-oRBaa8_FlhVqETLe19psV3KrVCZ3P353rS53dVeE_5WKC04L)
+[4] [sejongnetworks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA4KZYhxbwsFXgncTTcTqlqusDPbel4UnoqmcgcnaPvijNH9WrpKv19QaSiHtTfQs7deLbAKSNJNbfC0u7URdE-0o4g9Gz8Jse_AdqsvhFGxmJWEV9H-WNqNclsWC4A5hca2BqZrZSqywKfijlPdsSLWm8vjAv432J)
+[5] [a-ha.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxkkgYvoua4F3tVKN0KeIHZ7lAhW8dYFys7MKNrdqdlPGwRFM-SQrHRViF8qHYRY-Z608pZRTnyjMzMmsQd_yLu7AKM7P93iE2qThIgj3QeWBIS0Z2XTRp0yieGidluPqZ_dufepc2hNEFH_oW69t5vjL2Kw==)

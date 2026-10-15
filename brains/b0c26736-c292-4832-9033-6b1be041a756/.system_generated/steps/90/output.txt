@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EC%A0%95%EC%84%9D%EC%9D%B8');
+```
+### Page
+- Page URL: https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EC%A0%95%EC%84%9D%EC%9D%B8
+- Page Title: 정석인
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-26-27-183Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-26-23-169Z.log#L1-L3

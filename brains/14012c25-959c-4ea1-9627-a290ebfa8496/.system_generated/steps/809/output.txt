@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxaQTG47HiAgfP6VfSQXYJLWmn0gXLmSl5JMVKkaD6BPbDCKxA5UJy0-q5ARbVtVJyqtDJP99jaZfNOiFRpQMGPE-KSqDhgQ0t9Y48gbtLfq4izGgkz_J4oopedSPQUpdjRea-dSEfdity2XfXGcSFI2aDa3-R3RoEkOpJ-dinwDN3GNiXTYrgy-zhuWN01vLl85IKUn3Aok1BtqLgefX_8I8swD8PxOSU20iX-SaU2r0m3X1saaije7l2xYiLlRTaC9ByEOEVgX05Uq1GJW093P6A3GWKXNCgrc71xUmLBQA8WkiXRO_9oaWP6jS6PRIcgWFAwpCeq4bnBTwIkUBXx-16jY0uXrXS6ul0SMHqazcnE5wlY7vS_JdXnv9NlFmdMK136pT6GEReJPif7f1Q7VpD0cYHN_nbivA=');
+```
+### Page
+- Page URL: https://alryeo-dream.tistory.com/entry/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC-%ED%86%B5%EC%8B%A0%ED%8C%90%EB%A7%A4%EC%97%85-%ED%98%84%ED%99%A9-2026-%EC%B5%9C%EC%8B%A0-%EC%A0%84%EC%B2%B4-%EB%AA%85%EB%8B%A8-56%ED%83%84
+- Page Title: 부산광역시 해운대구 통신판매업 현황 (2026 최신 전체 명단) [56탄]
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-30-33-792Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-30-29-217Z.log#L1-L15

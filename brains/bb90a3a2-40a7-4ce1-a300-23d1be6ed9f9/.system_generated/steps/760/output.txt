@@ -1,0 +1,75 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+-a----      2026-10-14   � 9:26         193035 busan_companies_phone_verified.tsv                                   
+-a----      2026-10-14   � 9:26         100549 busan_companies_phone_verified.xlsx                                  
+-a----      2026-10-14  � 10:41           1378 check_context.js                                                     
+-a----      2026-10-14   � 9:15            658 check_sharetreats.js                                                 
+-a----      2026-10-14   � 9:26           1029 clean_prefixes.js                                                    
+-a----      2026-10-14   � 9:29        1236138 cretap_missing_phone_targets.json                                    
+-a----      2026-10-14   � 9:04         110584 current_pasted_batch.tsv                                             
+-a----      2026-10-14   � 9:21           1731 extract_newly_found.js                                               
+-a----      2026-10-14   � 9:26            697 filter_pure_busan.js                                                 
+-a----      2026-10-14  � 10:36            847 find_justice_adventure.js                                            
+-a----      2026-10-14   � 9:29           3922 full_cretap_batch.js                                                 
+-a----      2026-10-14   � 9:39          16849 full_cretap_results.json                                             
+-a----      2026-10-14   � 9:13           4121 input_raw.txt                                                        
+-a----      2026-10-14   � 9:14         192160 input_raw_full.txt                                                   
+-a----      2026-10-14  � 10:59            631 inspect_114.js                                                       
+-a----      2026-10-14  � 10:59            464 inspect_114_js.js                                                    
+-a----      2026-10-14   � 9:14            331 inspect_bizno.js                                                     
+-a----      2026-10-14  � 10:45            468 inspect_e822.js                                                      
+-a----      2026-10-14  � 10:36           9204 justice_saramin.html                                                 
+-a----      2026-10-14  � 10:38          45490 marineschedule.html                                                  
+-a----      2026-10-14   � 9:04         138448 merged_500_perfect.tsv                                               
+-a----      2026-10-14   � 9:40           3555 merge_cretap_final.js                                                
+-a----      2026-10-14  � 10:21           5238 merge_stage2_final.js                                                
+-a----      2026-10-14  � 10:57           6586 merge_stage3_final.js                                                
+-a----      2026-10-14   � 9:14         122099 missing_phone_targets.json                                           
+-a----      2026-10-14   � 9:21          36919 newly_found_list.json                                                
+-a----      2026-10-14   � 9:21          34536 newly_found_table.md                                                 
+-a----      2026-10-14   � 9:26          23941 newly_found_table_utf8.md                                            
+-a----      2026-10-14   � 9:04          41125 package-lock.json                                                    
+-a----      2026-10-14   � 9:04             85 package.json                                                         
+-a----      2026-10-14  � 10:07            741 prepare_missing_targets.js                                           
+-a----      2026-10-14   � 9:26          13276 pure_busan_051_table.md                                              
+-a----      2026-10-14  � 10:07        1013096 pure_missing_2658.json                                               
+-a----      2026-10-14   � 9:04          17011 query_test.html                                                      
+-a----      2026-10-14   � 9:04          36805 rows_11847_12000_16col.tsv                                           
+-a----      2026-10-14   � 9:04          37115 rows_11847_12000_17col.tsv                                           
+-a----      2026-10-14   � 9:04          38655 rows_11847_12000_verified.tsv                                        
+-a----      2026-10-14  � 10:08           6049 run_stage2_deep_scan.js                                              
+-a----      2026-10-14  � 10:56           6586 run_stage3_kakao_scan.js                                             
+-a----      2026-10-14  � 11:02           6917 run_stage4_all_platforms.js                                          
+-a----      2026-10-14   � 9:28           1235 save_to_today.js                                                     
+-a----      2026-10-14   � 9:21           1650 save_utf8_table.js                                                   
+-a----      2026-10-14  � 10:48            901 search_kakao.js                                                      
+-a----      2026-10-14   � 9:15          27245 sharetreats.html                                                     
+-a----      2026-10-14  � 10:49          40407 stage2_results.json                                                  
+-a----      2026-10-14  � 11:06          41045 stage3_kakao_results.json                                            
+-a----      2026-10-14  � 11:03              2 stage4_results.json                                                  
+-a----      2026-10-14   � 9:17           3465 step1_bizno_batch.js                                                 
+-a----      2026-10-14   � 9:26         118483 step1_results.json                                                   
+-a----      2026-10-14  � 10:58            729 test_114.js                                                          
+-a----      2026-10-14   � 9:15            904 test_bizno_article.js                                                
+-a----      2026-10-14   � 9:45           1832 test_bizno_query.js                                                  
+-a----      2026-10-14   � 9:14          25124 test_bizno_res.html                                                  
+-a----      2026-10-14  � 10:58           1729 test_expanded_platforms.js                                           
+-a----      2026-10-14  � 11:04           2253 test_improved_kakao.js                                               
+-a----      2026-10-14  � 10:36            807 test_incruit.js                                                      
+-a----      2026-10-14  � 10:51           1919 test_kakao_sample.js                                                 
+-a----      2026-10-14   � 9:15           1233 test_multi.js                                                        
+-a----      2026-10-14  � 10:40            757 test_naver.js                                                        
+-a----      2026-10-14  � 11:01           2248 test_naver_sample.js                                                 
+-a----      2026-10-14  � 10:41            555 test_nice.js                                                         
+-a----      2026-10-14  � 10:08           1684 test_phone_cleaner.js                                                
+-a----      2026-10-14   � 9:46           2457 test_sample_100.js                                                   
+-a----      2026-10-14   � 9:45           1385 test_saramin_sample.js                                               
+-a----      2026-10-14   � 9:43            373 test_sources.js                                                      
+-a----      2026-10-14   � 9:04         192164 user_pasted_rows.tsv                                                 
+-a----      2026-10-14   � 9:04           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+-a----      2026-10-14   � 9:04         169882 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf                  
+
+
+

@@ -1,0 +1,592 @@
+{
+  "537": {
+    "row": 537,
+    "name": "꿈해몽",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "504": {
+    "row": 504,
+    "name": "89Light",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "508": {
+    "row": 508,
+    "name": "LINC",
+    "status": "matched",
+    "score": 55,
+    "biz_no": "617-37-09843",
+    "emp_cnt": "",
+    "ceo": "김성수",
+    "est_year": 2014,
+    "est_month": 11,
+    "tel": "",
+    "fax": "",
+    "addr": "",
+    "cand_status": "폐업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "547": {
+    "row": 547,
+    "name": "냉이영화",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "536": {
+    "row": 536,
+    "name": "김정보",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 5
+  },
+  "552": {
+    "row": 552,
+    "name": "녹생광고연합그린하우징",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "593": {
+    "row": 593,
+    "name": "도서출판일광",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "539": {
+    "row": 539,
+    "name": "나래바람",
+    "status": "matched",
+    "score": 45,
+    "biz_no": "617-90-38101",
+    "emp_cnt": 1,
+    "ceo": "강봉구",
+    "est_year": 2000,
+    "est_month": 6,
+    "tel": "051-633-4429",
+    "fax": "",
+    "addr": "부산광역시 남구 동항로 86 ()",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "602": {
+    "row": 602,
+    "name": "동그라미광고공사",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "649": {
+    "row": 649,
+    "name": "라온엔터테인먼트",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "692": {
+    "row": 692,
+    "name": "메리데브",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "714": {
+    "row": 714,
+    "name": "무몽크",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "611": {
+    "row": 611,
+    "name": "동화사",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "645": {
+    "row": 645,
+    "name": "디지털포토2017",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "725": {
+    "row": 725,
+    "name": "박기양",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 2
+  },
+  "749": {
+    "row": 749,
+    "name": "북인더백",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "764": {
+    "row": 764,
+    "name": "블루레코딩",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "757": {
+    "row": 757,
+    "name": "브이알코리아",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 2
+  },
+  "848": {
+    "row": 848,
+    "name": "시드",
+    "status": "matched",
+    "score": 75,
+    "biz_no": "606-10-85126",
+    "emp_cnt": 1,
+    "ceo": "윤태성",
+    "est_year": null,
+    "est_month": null,
+    "tel": "",
+    "fax": "",
+    "addr": "부산광역시 사상구 낙동대로 910, C동 139호 910, Nakdong-daero, Sasang-gu, Busan, Republic of Korea",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "751": {
+    "row": 751,
+    "name": "불교텔레비젼",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "768": {
+    "row": 768,
+    "name": "비문",
+    "status": "matched",
+    "score": 55,
+    "biz_no": "607-08-40395",
+    "emp_cnt": "",
+    "ceo": "",
+    "est_year": null,
+    "est_month": null,
+    "tel": "0505-349-8000",
+    "fax": "",
+    "addr": "경상남도 양산시 장흥1길 14-1 (평산동) 14-1, Jangheung 1-gil, Yangsan-si, Gyeongsangnam-do, Republic of Korea",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "874": {
+    "row": 874,
+    "name": "아브뉴다연",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "955": {
+    "row": 955,
+    "name": "에프지엔터테인먼트",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1035": {
+    "row": 1035,
+    "name": "위플라이엔터테인먼트",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1047": {
+    "row": 1047,
+    "name": "윤서하",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 2
+  },
+  "1048": {
+    "row": 1048,
+    "name": "희웹툰",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1015": {
+    "row": 1015,
+    "name": "우수경",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1113": {
+    "row": 1113,
+    "name": "조나단/이은석",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1091": {
+    "row": 1091,
+    "name": "작은통일출판사",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1062": {
+    "row": 1062,
+    "name": "이수연",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1071": {
+    "row": 1071,
+    "name": "이진수",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1115": {
+    "row": 1115,
+    "name": "족보만드는곳족보관",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1146": {
+    "row": 1146,
+    "name": "창작집단1407",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1136": {
+    "row": 1136,
+    "name": "지엠이에스티부산지점",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1070": {
+    "row": 1070,
+    "name": "이지현",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1158": {
+    "row": 1158,
+    "name": "체스테크",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1147": {
+    "row": 1147,
+    "name": "창작집단한",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1162": {
+    "row": 1162,
+    "name": "촬영감독최원욱",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1165": {
+    "row": 1165,
+    "name": "카다모임",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1166": {
+    "row": 1166,
+    "name": "카리시모",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1167": {
+    "row": 1167,
+    "name": "컬러풀미카",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1215": {
+    "row": 1215,
+    "name": "팀포테이토",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1226": {
+    "row": 1226,
+    "name": "퍼니아트",
+    "status": "matched",
+    "score": 55,
+    "biz_no": "604-98-94821",
+    "emp_cnt": "",
+    "ceo": "방영숙",
+    "est_year": 2002,
+    "est_month": 11,
+    "tel": "02-2633-5653",
+    "fax": "",
+    "addr": "서울특별시 영등포구 선유로33길 23, 상가동동 204호(양평동3가, 양평동 우림 루미아트) 23, Seonyu-ro 33-gil, Yeongdeungpo-gu, Seoul, Republic of Korea",
+    "cand_status": "폐업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1246": {
+    "row": 1246,
+    "name": "프로젝트원",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1278": {
+    "row": 1278,
+    "name": "한국가이던스부산지사",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1251": {
+    "row": 1251,
+    "name": "플레이트리",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1418": {
+    "row": 1418,
+    "name": "쏘울픽처스",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1483": {
+    "row": 1483,
+    "name": "케세라세라",
+    "status": "matched",
+    "score": 75,
+    "biz_no": "609-20-27861",
+    "emp_cnt": "",
+    "ceo": "하혜림",
+    "est_year": 2010,
+    "est_month": 2,
+    "tel": "070-8229-1404",
+    "fax": "",
+    "addr": "경상북도 포항시 북구 중앙상가6길 19, 1층 (상원동) 19, Jungangsangga 6-gil, Buk-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea",
+    "cand_status": "폐업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1517": {
+    "row": 1517,
+    "name": "페이크스튜디오",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 1
+  },
+  "1642": {
+    "row": 1642,
+    "name": "헤윰아이씨티",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 1
+  },
+  "1296": {
+    "row": 1296,
+    "name": "한집",
+    "status": "matched",
+    "score": 55,
+    "biz_no": "421-03-01658",
+    "emp_cnt": 1,
+    "ceo": "황보은",
+    "est_year": 2020,
+    "est_month": 3,
+    "tel": "",
+    "fax": "",
+    "addr": "전남광주통합특별시 남구 월산로 86-2 (월산동) 86-2, Wolsan-ro, Nam-gu, Gwangju, Republic of Korea",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1468": {
+    "row": 1468,
+    "name": "재영애드콤",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1586": {
+    "row": 1586,
+    "name": "플레이그라운드",
+    "status": "matched",
+    "score": 75,
+    "biz_no": "421-88-00850",
+    "emp_cnt": 18,
+    "ceo": "안희경",
+    "est_year": null,
+    "est_month": null,
+    "tel": "032-611-3193",
+    "fax": "",
+    "addr": "경기도 부천시 부일로 460 (심곡동, 시네마존)",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1664": {
+    "row": 1664,
+    "name": "팀브레드",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1611": {
+    "row": 1611,
+    "name": "시드게임즈",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1676": {
+    "row": 1676,
+    "name": "모드니",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1680": {
+    "row": 1680,
+    "name": "봐라봐라만화",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 1
+  },
+  "1643": {
+    "row": 1643,
+    "name": "웅진씽크빅",
+    "status": "matched",
+    "score": 55,
+    "biz_no": "182-15-02186",
+    "emp_cnt": "",
+    "ceo": "민효기",
+    "est_year": null,
+    "est_month": null,
+    "tel": "051-469-0598",
+    "fax": "",
+    "addr": "경기도 수원시 영통구 망포로84번길 10. 307동 1903호 (망포동.영통아이파크캐슬3단지). 10, Mangpo-ro 84beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea",
+    "cand_status": "계속사업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1677": {
+    "row": 1677,
+    "name": "대박만화",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1704": {
+    "row": 1704,
+    "name": "문화공간달빛콘서트",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1702": {
+    "row": 1702,
+    "name": "액자가게",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 6
+  },
+  "1795": {
+    "row": 1795,
+    "name": "노블레스미디어인터내셔날부산",
+    "status": "matched",
+    "score": 75,
+    "biz_no": "617-85-19793",
+    "emp_cnt": 1,
+    "ceo": "명재열",
+    "est_year": null,
+    "est_month": null,
+    "tel": "051-747-4475",
+    "fax": "",
+    "addr": "부산광역시 해운대구 해운대해변로 163 163, Haeundaehaebyeon-ro, Haeundae-gu, Busan, Republic of Korea",
+    "cand_status": "폐업자",
+    "closed_date": "",
+    "source": "bizno"
+  },
+  "1682": {
+    "row": 1682,
+    "name": "둘리만화휴게실1",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1758": {
+    "row": 1758,
+    "name": "조선일보사부산사옥",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1811": {
+    "row": 1811,
+    "name": "반다이남코코리아",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 1
+  },
+  "1812": {
+    "row": 1812,
+    "name": "레고스토어",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "cands_checked": 2
+  },
+  "1804": {
+    "row": 1804,
+    "name": "롯데쇼핑(주)토이저러스 동부산점",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1789": {
+    "row": 1789,
+    "name": "（주）교보문고 해운대 팝업스토어",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1839": {
+    "row": 1839,
+    "name": "깜냥깜냥",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  },
+  "1853": {
+    "row": 1853,
+    "name": "프라자만화",
+    "status": "unmatched_bizno",
+    "score": 10,
+    "cands_checked": 3
+  }
+}

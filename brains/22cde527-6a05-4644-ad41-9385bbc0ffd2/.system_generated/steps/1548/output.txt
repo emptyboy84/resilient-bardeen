@@ -1,0 +1,59 @@
+
+The command exited with code 0.
+Output:
+url = '/kobis/business/mast/comp/searchCompanyDtl.do';
+		tabType = ['filmo'];
+		break;
+
+	case 'festival':
+		url = '/kobis/business/mast/fest/searchFestivalDtl.do';
+		tabType = ['award'];
+		break;
+
+	case 'promotion':
+		url = '/kobis/business/mast/prom/searchPromotionDtl.do';
+		break;
+
+	case 'genreMovie':
+		url = '/kobis/business/stat/them/searchGenreMovieDtl.do';
+		break;
+	
+	case 'online':
+		url = '/kobis/business/stat/online/onlineMovDtl.do';
+		break;
+
+	default:
+		return 'err';
+	}
+	
+	var isOuterReq = location.href.indexOf("Outer.do")!= -1;	
+	
+	$.ajax({		  
+		  type: 'POST',
+		  url: url,
+		  dataType: 'text',
+		  data: {code:code,sType:sType,titleYN:titleYN,etcParam:etcParam,isOuterReq:isOuterReq},
+		  async: false,		  
+		  success: function(data){			  
+				if(dtlObj!=null){
+					dtlObj.updateContents(data);
+					if(data.indexOf("<error/>")!=-1){
+						alert('해당 데이터가 존재하지 않습니다.');
+						dtlPrev();
+					}
+					for(var i=0;i<tabType.length;i++){
+						switch (tabType[i]) {						
+						case 'stat':
+							$.post(url,{code:code,sType:tabType[i]},function(data){								
+								dtlObj.parents(".ui-widget").find(".item_tab:eq(1)").html(innerShiv(data));
+								fnTdTopValueCssSet(dtlObj.parents(".ui-widget").find(".item_tab:eq(1)"));
+								
+								// 툴팁
+								reTooltip();
+							});
+							break;
+
+						case 'thea':
+							$.post(url,{code:code,sType:tabType[i]},function(data){								
+								dtlObj.parents(".ui-widget").f
+

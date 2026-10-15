@@ -1,0 +1,28 @@
+ITFC: {
+  "biz_no_10": "2438601731",
+  "biz_no": "243-86-01731",
+  "title": "(주) 아이티에프씨(ITFC Inc)",
+  "ceo": "곽서준",
+  "est_year": 2020,
+  "est_month": 9,
+  "emp_cnt": 6,
+  "tel": "051-256-8500",
+  "fax": "051-256-8505",
+  "addr": "부산광역시 서구 보수대로 111 , 2층(부용동1가, 동아빌딩)",
+  "status": "계속사업자",
+  "closed_date": ""
+}
+MODUSIGN: {
+  "biz_no_10": "3568700243",
+  "biz_no": "356-87-00243",
+  "title": "주식회사 모두싸인",
+  "ceo": "이영준",
+  "est_year": 2015,
+  "est_month": 12,
+  "emp_cnt": 75,
+  "tel": "",
+  "fax": "",
+  "addr": "",
+  "status": "계속사업자",
+  "closed_date": ""
+}

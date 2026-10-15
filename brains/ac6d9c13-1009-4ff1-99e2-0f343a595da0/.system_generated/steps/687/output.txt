@@ -1,0 +1,141 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "seq": "2338",
+    "name": "(주)소프트에러",
+    "corpNo": "180111-0169153",
+    "targetCeo": "조영호",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "조영호"
+  },
+  {
+    "seq": "2559",
+    "name": "(주)포인베스트",
+    "corpNo": "180111-1265536",
+    "targetCeo": "김외식",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김외식"
+  },
+  {
+    "seq": "2565",
+    "name": "(주)태원엠에스",
+    "corpNo": "180111-1408300",
+    "targetCeo": "홍태원",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "홍태원"
+  },
+  {
+    "seq": "2605",
+    "name": "(주)부산교통솔루션",
+    "corpNo": "180111-1336890",
+    "targetCeo": "김승훈",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김승훈"
+  },
+  {
+    "seq": "2746",
+    "name": "(주)오마르에이지아이",
+    "corpNo": "180111-0168184",
+    "targetCeo": "김미라",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김미라"
+  },
+  {
+    "seq": "2920",
+    "name": "(유한)브랜딩",
+    "corpNo": "180114-0028880",
+    "targetCeo": "이준혁",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "이준혁"
+  },
+  {
+    "seq": "2986",
+    "name": "(주)엘이디메인터넌스워크플로우",
+    "corpNo": "180111-0168942",
+    "targetCeo": "바우처코넬샘",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "바우처코넬샘"
+  },
+  {
+    "seq": "2997",
+    "name": "(주)데빌스",
+    "corpNo": "180111-1461572",
+    "targetCeo": "변성환",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "변성환"
+  },
+  {
+    "seq": "3021",
+    "name": "(주)포인베스트",
+    "corpNo": "180111-1265536",
+    "targetCeo": "김외식",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김외식"
+  },
+  {
+    "seq": "3027",
+    "name": "(주)태원엠에스",
+    "corpNo": "180111-1408300",
+    "targetCeo": "홍태원",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "홍태원"
+  },
+  {
+    "seq": "3062",
+    "name": "(주)부산교통솔루션",
+    "corpNo": "180111-1336890",
+    "targetCeo": "김승훈",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김승훈"
+  },
+  {
+    "seq": "3219",
+    "name": "(유한)브랜딩",
+    "corpNo": "180114-0028880",
+    "targetCeo": "이준혁",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "이준혁"
+  },
+  {
+    "seq": "3238",
+    "name": "(주)데빌스",
+    "corpNo": "180111-1461572",
+    "targetCeo": "변성환",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "변성환"
+  },
+  {
+    "seq": "3261",
+    "name": "(주)엘이디메인터넌스워크플로우",
+    "corpNo": "180111-0168942",
+    "targetCeo": "바우처코넬샘",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "바우처코넬샘"
+  },
+  {
+    "seq": "3281",
+    "name": "(주)오마르에이지아이",
+    "corpNo": "180111-0168184",
+    "targetCeo": "김미라",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김미라"
+  }
+]
+

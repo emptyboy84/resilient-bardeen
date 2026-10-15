@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+Step 264
+node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Processing 500 rows...');
+
+// Categor
+Step 265
+Step 318
+node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('all_500_verified.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Fact checking all ' + lines.length + ' rows...'
+

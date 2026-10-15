@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Saved 3 최신 CSV files to Desktop/오늘
+

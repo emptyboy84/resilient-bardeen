@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:16 �:60
++   const token = html.match(/name=\"CSRFToken\"\s+value=\"([^\"]+)\"/) ...
++                                                            ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:17 �:38
++   const res = await searchKobis(token, '�̾�ڸ�');
++                                      ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:18 �:49
++   const rows = res.match(/<tr[\s\S]*?<\/tr>/gi) || [];
++                                                 ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:18 �:53
++   const rows = res.match(/<tr[\s\S]*?<\/tr>/gi) || [];
++                                                     ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:19 �:33
++   console.log('Row 2 raw HTML:', rows[2]);
++                                 ~
+',' �ڿ� � �ϴ�.
+�ġ �:19 �:34
++   console.log('Row 2 raw HTML:', rows[2]);
++                                  ~~~~~~~
+� �Ǵ� � �ġ � 'rows[2]' �ū�Դϴ�.
+�ġ �:19 �:33
++   console.log('Row 2 raw HTML:', rows[2]);
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:19 �:41
++   console.log('Row 2 raw HTML:', rows[2]);
++                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:20 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:21 �:7
++ check();
++       ~
+'(' �ڿ� � �;� �մϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

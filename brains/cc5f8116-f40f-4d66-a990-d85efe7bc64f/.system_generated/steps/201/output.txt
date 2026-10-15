@@ -1,0 +1,15 @@
+The search for "site:book.mcst.go.kr "나래바람"" returned the following summary:
+문화체육관광부의 **출판사인쇄사 검색시스템** 정보에 따르면, **'나래바람'**은 부산광역시 남구에 소재한 출판사로 등록되어 있습니다[1].
+
+참고로, 해당 명칭은 출판사 이름 외에도 다음과 같은 맥락에서 사용되는 사례들이 확인됩니다.
+
+*   **저자명:** '나래바람(국난아)'이라는 필명을 사용하는 작가가 있으며, 에세이 및 시 관련 저서(예: 《손금처럼 새겨진 시간》 등)를 출간한 바 있습니다[2][3][4].
+*   **기타:** 과거 보리출판사의 독자 문의 게시판 등에서 언급된 사례가 있으나, 이는 특정 출판사 이름과는 별개의 일반적인 독자 닉네임으로 사용된 경우로 보입니다[5][6].
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX4JxBaru-rHeSuuA0-U0hZZVFGvYIQB-9v0t2-kgPoTmEpnc5XRYVenm1CXl3tFZb9LVM77oq40bRudF3WkzkHdDZmqDNPKAhRqDkzlM4IeDXKkZWG27zouHBytY4kobxRGSfeHLjdWkdpGSNu8jVaMaaI8BsNS06DC_B4v-mMjwuYsmt2mGopMtxOB9aCAlmBcIAPCtFymole8VGjF6MaD6_4E-oSvQdmc4GQGiHjoc102t60LWZWw-rsH9pJQY5uBoknMHFo-m1sNkNRwaZ_qcgLyx438hc4zEiY2Y8gaQ=)
+[2] [joongbu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTzXlgsrDkzY-FEQQY4yq9LOvMVt4eqpOFSxAjktvKxR5r0sSjpTC_VEx9TJdPSKJDflzeUm-wC3rdSdEoexl6dyStjmHZUZDKNqs5fPd_-9ExG2B3f6Is_0aOHAj8tNmlf09i0OcpnPY0uoUZ5qMGQZemhS0i6ItpAci6ZWgkBa6VLORsWxHgnGWOqMsToqpax1JKx5Q=)
+[3] [cku.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDvAWJ8A21LqQwtR7TannqpGe1bFWUN7cbKZJ8g2cn1KZfCbfQaRBc5IVx9DiVQqp-vfOqsrOUBKHT1mcjwn_tQeqIZYjEAwiJo_SRq3Iq8ILB_u_EjnFu8PDOskK0LPIyNnks0L_suLyU6MZPwKVyXLrlr4cZoqbNZ4p985CwhX41bOc-fg==)
+[4] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvaDWlPXLvRLqQ3G4mKZV6Q-Wl28jxlwvVIT3qBfw8qQrLzpyHcTYaduaxiztP-7OeuR8aOkNwWdZ9eduhcOtfxnYjHXsXBLiOs77WHrEob4ZNlEwMOEnv--D9gJZuNbv0PDelAWxwGX0anNtTAZ5rnSwi-g==)
+[5] [boribook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_nW6naMIf3jj6u5aD7nAqFqqY1SRMwMyHrIl-mVkkeQ2cWFA7VX7W28bJmHsiJ0DI3qTrXBNTAHxYY3Zcloxi5hqwMv1_B6CjiHQPSqxy95HUiPbv0YOYM2jtJZCuBDKFYa-1Lj53xMz8)
+[6] [boribook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXzacmJJFiXLG__GPsPuTRa4AtYtcqZWbhXsShQoNFtaQIsC8Z0K8zReD-uJP_2CnoXks-HcnPcL1TRt8WsWc7w_rNGt_vMOXgc-fePa-cdoHEolWFUpdDvBricdYjXMQvI-EE4994ifPMrJRujQ==)

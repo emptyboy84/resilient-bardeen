@@ -1,0 +1,11 @@
+The search for "site:kaist.ac.kr "윤효상" ("전화" OR "TEL" OR "042-350" OR "연구실")" returned the following summary:
+KAIST 항공우주공학과 윤효상 교수(우주선 원형 개발 연구실, SPL) 관련 정보입니다[1]:
+
+* **소속:** KAIST 항공우주공학과[1]
+* **연구실:** 우주선 원형 개발 연구실 (Spacecraft Prototyping Laboratory, SPL)[1]
+* **연구실 전화번호 (Tel):** 042-350-3734[1]
+* **연구실 위치 (Office):** N7-2동(항공우주공학동) #4309[1]
+* **이메일:** hyosang.yoon@kaist.ac.kr[1]
+
+Sources:
+[1] [kaist.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytNgnTAK9qEOykeH44g-xh2DDMFT620s7cfG3nAG3a1JPWdIEr-HdQt_riFIcfTL69JXr2mHclrdzlGjQbWJhq15T--b5ZKMRWwhvQZDrBCt8BS2kER6zHMpJE11U9vfNYcmPew==)

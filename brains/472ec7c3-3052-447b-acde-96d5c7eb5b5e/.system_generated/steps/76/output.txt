@@ -1,0 +1,90 @@
+
+The command exited with code 0.
+Output:
+tZoomLevel();
+            void storageManager.updateItems({
+                [ZOOM_LEVEL_KEY]: String(currentLevel),
+            });
+        });
+    }
+    void win.loadURL(url);
+    return win;
+}
+/**
+ * Focuses a window if it exists, or creates a new one.
+ */
+const showOrCreateWindow = (port) => {
+    const wins = electron_1.BrowserWindow.getAllWindows();
+    if (wins.length > 0) {
+        if (wins[0].isMinimized()) {
+            wins[0].restore();
+        }
+        wins[0].show();
+        wins[0].focus();
+    }
+    else {
+        createWindow(`${constants_1.WINDOW_ORIGIN}:${port}/`);
+    }
+};
+exports.showOrCreateWindow = showOrCreateWindow;
+/**
+ * Manages the power save blocker to keep the computer awake.
+ */
+class SleepBlocker {
+    constructor() {
+        this.currentBlockerId = null;
+    }
+    static getInstance() {
+        if (!SleepBlocker.instance) {
+            SleepBlocker.instance = new SleepBlocker();
+        }
+        return SleepBlocker.instance;
+    }
+    shouldKeepComputerAwake(keep) {
+        if (keep) {
+            if (this.currentBlockerId === null) {
+                this.currentBlockerId = electron_1.powerSaveBlocker.start('prevent-display-sleep');
+                console.log('Power save blocker started:', this.currentBlockerId);
+            }
+        }
+        else {
+            if (this.currentBlockerId !== null) {
+                electron_1.powerSaveBlocker.stop(this.currentBlockerId);
+                console.log('Power save blocker stopped:', this.currentBlockerId);
+                this.currentBlockerId = null;
+            }
+        }
+    }
+}
+exports.SleepBlocker = SleepBlocker;
+function getNodeWrapperPaths(envPath, os, isPackaged, userDataPath, baseDir) {
+    const delimiter = os === 'win32' ? ';' : ':';
+    if (!isPackaged) {
+        const devBinPath = path_1.default.join(baseDir, '..', 'node_modules', '.bin');
+        return {
+            newEnvPath: `${devBinPath}${delimiter}${envPath || ''}`,
+            nodeWrapperPath: undefined,
+            binPath: undefined,
+        };
+    }
+    const binPath = path_1.default.join(userDataPath, 'bin');
+    const nodeWrapperPath = path_1.default.join(binPath, os === 'win32' ? 'agy-node.cmd' : 'agy-node');
+    return {
+        newEnvPath: `${binPath}${delimiter}${envPath || ''}`,
+        nodeWrapperPath,
+        binPath,
+    };
+}
+/**
+ * Sets up a wrapper script for Node.js that runs Electron as Node.
+ * This allows running standard Node scripts using the Electron binary.
+ */
+function setupNodeWrapper(env) {
+    const userDataPath = electron_1.app.isPackaged ? electron_1.app.getPath('userData') : '';
+    // Windows environment variables are case-insensitive, but when copying process.env
+    // into a plain object, we might get 'Path' instead of 'PATH'. We need to find
+    // the actual key used to avoid creating case-duplicate keys (e.g. 'Path' and 'PATH')
+    // which can confuse child_process.spawn on Windows.
+    const isWindows = process.platform === 'win32';
+    const pathKey = i
+

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:8 �:62
++     const regex = /<a class=\"result__snippet[^\"]*\"[^>]*>([\s\S]*?) ...
++                                                              ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:8 �:70
++ ...  regex = /<a class=\"result__snippet[^\"]*\"[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:10 �:32
++     while ((m = regex.exec(d)) !== null) {
++                                ~~~
+� �Ǵ� � �ġ � '!==' �ū�Դϴ�.
+�ġ �:10 �:31
++     while ((m = regex.exec(d)) !== null) {
++                               ~
+'while' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ �:10 �:33
++     while ((m = regex.exec(d)) !== null) {
++                                 ~
+� � '!' �ڿ� � �ϴ�.
+�ġ �:10 �:40
++     while ((m = regex.exec(d)) !== null) {
++                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:42
++       console.log(m[1].replace(/<[^>]+>/g, '').trim());
++                                          ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:13 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:13 �:4
++   });
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:14 �:1
++ });
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

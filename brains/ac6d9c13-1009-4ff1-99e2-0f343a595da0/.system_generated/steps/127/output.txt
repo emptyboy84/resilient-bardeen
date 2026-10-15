@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+=== File: C:/Users/lg/Downloads/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.xlsx
+ Sheet: 기업체 리스트 Rows: 2469
+ Total matches in sheet: 0
+ Sheet: 개인 리스트 Rows: 1023
+ Total matches in sheet: 0
+=== File: C:/Users/lg/Downloads/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명 (1).xlsx
+ Sheet: 기업체 리스트 Rows: 2469
+ Total matches in sheet: 0
+ Sheet: 개인 리스트 Rows: 1023
+ Total matches in sheet: 0
+=== File: C:/Users/lg/Downloads/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명 (2).xlsx
+ Sheet: 기업체 리스트 Rows: 2469
+ Total matches in sheet: 0
+ Sheet: 개인 리스트 Rows: 1023
+ Total matches in sheet: 0
+=== File: C:/Users/lg/Downloads/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명 (3).xlsx
+ Sheet: 기업체 리스트 Rows: 2469
+ Total matches in sheet: 0
+ Sheet: 개인 리스트 Rows: 1023
+ Total matches in sheet: 0
+=== File: C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.xlsx
+ Sheet: 기업체 리스트 Rows: 2469
+ Total matches in sheet: 0
+ Sheet: 개인 리스트 Rows: 1023
+ Total matches in sheet: 0
+=== File: C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx
+ Sheet: 2026_부산_CT산업_실태조사 Rows: 2314
+ Total matches in sheet: 0
+

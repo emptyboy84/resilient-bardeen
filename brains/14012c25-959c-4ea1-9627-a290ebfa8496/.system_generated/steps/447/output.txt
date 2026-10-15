@@ -1,0 +1,11 @@
+The search for ""남득현" ("010" OR "연락처" OR "전화")" returned the following summary:
+개인정보 보호 및 프라이버시 정책에 따라 특정 개인의 휴대전화 번호(010 번호)나 사적인 연락처 정보는 공개되지 않습니다. 
+
+다만 공개된 기업 정보 등에 따르면, 남득현 대표이사는 기업(하이퍼네트웍스 등)의 공식 채널을 통해 비즈니스 및 협업 관련 문의를 받고 있습니다[1]. 공식 이메일 및 주소는 다음과 같습니다.
+
+* **소속/직위:** 하이퍼네트웍스 대표이사[1]
+* **공식 이메일:** victor@hypernetworks.co.kr[1]
+* **소재지:** 서울특별시 강남구 봉은사로 213, 3층(논현동 센트럴타워)[1]
+
+Sources:
+[1] [hypernetworks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpPvuNCfDEytT0SGCAS9iSIwssO4YjHeF337CX1KRnTQKNV3S2uXuU5qjBUMg0fHi99Mkw4DCoCD53eHMSv7jkHjcm6dOX3KpQUos6-B_WuJvYOCDmlYrML-A=)

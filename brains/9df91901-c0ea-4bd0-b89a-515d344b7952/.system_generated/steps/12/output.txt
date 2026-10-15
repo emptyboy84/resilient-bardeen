@@ -1,0 +1,14 @@
+The search for ""비전조이" "해운대"" returned the following summary:
+"비전조이"와 "해운대"라는 키워드로 검색한 결과, 해당 조합으로 명확히 정의된 업체나 장소는 확인되지 않습니다[1][2].
+
+참고하실 만한 정보는 다음과 같습니다:
+
+*   **게임 관련:** 온라인 게임(리그 오브 레전드 등)에서 '비전 조이'라는 닉네임을 사용하는 유저와 '해운대'라는 키워드가 검색 결과에 노출되기도 하나, 이는 특정 장소나 서비스와는 무관한 개인의 기록일 가능성이 높습니다[1].
+*   **소노호텔앤리조트:** '해운대' 지역에 '소노' 계열의 리조트(소노문 해운대 등)가 있으며, 소노 멤버십 홍보 문구 중에 "새로운 비전과 함께 하세요"와 같은 표현이 포함되어 있어 이 내용들이 혼재되어 검색되었을 가능성이 있습니다[2][3].
+
+혹시 특정 상호명이나 정확한 명칭을 찾으시는 것이라면, 검색하신 단어가 정확한지 다시 한번 확인 부탁드립니다.
+
+Sources:
+[1] [ggq.gg](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjMbF2jvT8WbbTlzcVV2LNSB1zmphVIpMKCsbJNullLmSdXF4ltPEKlvX6AOVIPFkW1VzPbMrkr_nqqmdNMuQZhgjWAx_TYQ7PMIGyhXFXj1bRTPzxKoxuBwFTsNN9nRg9NcqxW7PIP8FyOonOj0wCHUgsCH4aQW121sJ69if2gbYXW44DvLGP-sEzYBfagxHt9wXNBuuBsjMDeg==)
+[2] [sonohotelsresorts.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFbcLp1yH4gKTnxbYRBcxgxc14o9sYIKow2oMvZwpIYPoFt_LigQXFguM7NCfc4T_ORytyDJi7n-Qmm2PRGy3W6wJMfXMWofi4AEtlLBa2pVxNTedch4Y=)
+[3] [sonohotelsresorts.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFbcLp1yH4gKTnxbYRBcxgxc14o9sYIKow2oMvZwpIYPoFt_LigQXFguM7NCfc4T_ORytyDJi7n-Qmm2PRGy3W6wJMfXMWofi4AEtlLBa2pVxNTedch4Y=)

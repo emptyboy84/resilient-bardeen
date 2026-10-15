@@ -1,0 +1,9 @@
+The search for ""전성록" ("@busan.com" OR "기자" OR "국장")" returned the following summary:
+부산일보 및 지역 언론 보도에 따르면, **전성록**은 **부산일보**에서 주요 보직 및 국장 직책을 맡아온 언론인입니다[1]. 
+
+주요 이력으로는 부산일보에서 독자서비스국장, 문화사업국장 등을 역임했으며[1][2], 이후 자회사 또는 관련 사림(비솜 주 등)의 사장 등으로 활동한 인사이트가 확인됩니다[3].
+
+Sources:
+[1] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdMNcpj6oRVKWiLwN6RXHVDPQbp08ETsWpdV8RunlNuTxiE4dSRKKwxBVwdO4-kSRmvtt-1JAb8jOmS22CDS1-2QGtTG3KKPxRTK_NhrIjY-y-TXPFXNUa0c10oK-bqgo56S4hSUPEaQqWorsEZhqxSo-qCmH-SHthuUDcmZ34eglx5UVVa38VshH28H_fDa-fBvt0I6PSD7ejHFDmwvxYUowu8j4tD3byGwMbpfXyXm7hLRsts3jSbKywcR4Iah-GjOA=)
+[2] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgzihabTvFTliCmvLuKoG5KlSYonuZuKUEtvkFF5A3oqyBz2VC4oBStO82-pLsfeQ1fpbGoJRYbeP3AJt2lb-m7X6NrlRrznJJF3QyXL3QJ5eKdf9-5c9_6oLDZimJxg4ImKoGfiUBw5PtIuw9BJa2SHCJ)
+[3] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRzBdgsXViqjJ_CG_ey13xae5u4ls_u3yySIonit07AeGY-NensFbPovlO2ppfV3kR9ftkq62zhbnQ1W69lIyfeqUw8IBZA9zsCqm7MN_hFA84iR2xgE1RURS12dXtt6WPQSMF9NXe_9ELI2hxgpR8MxCkvCQYE0=)

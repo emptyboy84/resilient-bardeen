@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+=== Row 19306 ===
+  Col 3 (회사명): 엘브이엑스(LVX)
+  Col 4 (사업자번호): 7712001069
+  Col 5 (대표자): 현준
+  Col 11 (이메일): jun@lvx.kr
+  Col 18 (업종(NICE BizINFO(업종)참고): 온라인공동물류
+  Col 24 (사업자번호): 7712001069
+=== Row 19307 ===
+  Col 3 (회사명): 코코로
+  Col 4 (사업자번호): 7712300455
+  Col 5 (대표자): 김권정
+  Col 11 (이메일): know0419@naver.com
+  Col 18 (업종(NICE BizINFO(업종)참고): 온라인공동물류
+  Col 24 (사업자번호): 7712300455
+

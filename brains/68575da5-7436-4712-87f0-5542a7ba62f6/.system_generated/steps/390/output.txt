@@ -1,0 +1,13 @@
+The search for ""디노랩 부산" "전포대로"" returned the following summary:
+'디노랩 부산'과 '전포대로' 키워드가 포함된 정보는 주로 우리금융그룹의 스타트업 육성 프로그램인 **디노랩(DINNOlab)**과 관련된 부산 지역 거점 및 입주 기업들의 주소지와 연관되어 있습니다[1][2].
+
+부산광역시 남구 **전포대로 133**(문현동, 비아이시티/IFC부산 및 위워크 BIFC점 혹은 인근 부산핀테크허브·U-Space BIFC 등) 일대는 부산 문현금융단지 내에 위치해 있어[3][4] 핀테크, 블록체인 및 다양한 혁신 스타트업들이 자리 잡고 있는 곳입니다[3]. 
+
+디노랩 부산 프로그램에 선발되거나 연계된 일부 핀테크·프롭테크 스타트업들(예: 뉴아이 등)이 이 주변(전포대로 133 및 위워크 BIFC점, 부산핀테크허브 등)에 사무공간을 두고 우리금융그룹과의 사업 협력 및 실증(PoC) 등을 진행해 오고 있습니다[5][2].
+
+Sources:
+[1] [finpc.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwGMT_8QPv39GX2Mjma2TNam4VmU6yO-lf2TOlLwEwS3TOSrIQJ9neZI8LX4D8Kk2t9_pwDbNE2P-XqxoOlqCq_c17QyrR4wGMPhf8ITUMhn4St5oEKl0FsVuulFUp0lMuFWxASf9P12e7IxOYdVk=)
+[2] [finpc.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJEXVgaoFdSdzIBgXweI0EXKAGtCCK9W7eFAzwYQEOCbL7sj8knDUMNSP51UUWfOY4OzAcnz2BRcr8taBQz1qOr3rmS6ZPZnakXg8_B6vHP8tZbXiralSUurdO6sK4IzNR5eYCxiLTOdsV7k7a)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeS5oF0gimgjz_mjqgT0-r-CqmVHcU9BSXuEbJQOexar3IpLsXvi-R0yFS1MidgXdzX1QKAGEJa2CzLiUODi3yP9et3GdCfhtEWkom4FxSA4Xibg==)
+[4] [finpc.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuFWpgURQL0iDh0NsliG5-TvepOCEfmZ1pX0Z5-f1XNrybmxA4qwSUcZw0zxF9MMnyITuvvQBsa09BO6bVDBt37loxjLZCYiOz1lQ6or2y2Ybw-2tRxW_tXXvvwtc=)
+[5] [joseilbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvc_QGKaPWLNGjd1orbuXXeZnr9mughni76cY-eIcDfb1Gjs-7OXoRbMf7X5dF9clAUZclvhWyehz1HqvbTuq3TUYVXlO4JWuf_VTF4HUc5CG_jnw3HycUjCLuBy_YH50k-OPkJL78rA==)

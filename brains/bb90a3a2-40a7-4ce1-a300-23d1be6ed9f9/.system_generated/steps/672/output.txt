@@ -1,0 +1,519 @@
+### Page
+- Page URL: https://www.114.co.kr/main
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 193 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - img "114" [ref=e7] [cursor=pointer]
+      - navigation:
+        - heading "주메뉴" [level=2]
+        - generic:
+          - list:
+            - listitem [ref=e8]:
+              - link "업체등록" [ref=e9] [cursor=pointer]:
+                - /url: /connection/regMyBusiness
+            - listitem [ref=e10]:
+              - link "스팸DB조회" [ref=e11] [cursor=pointer]:
+                - /url: /search?tab=scam
+            - listitem [ref=e12]:
+              - link "주요서비스" [ref=e13] [cursor=pointer]:
+                - /url: /life/localBillStore/list
+            - listitem [ref=e14]:
+              - link "OnDB판매" [ref=e15] [cursor=pointer]:
+                - /url: /dbcenter/dbPackageList
+            - listitem [ref=e16]:
+              - link "114소개" [ref=e17] [cursor=pointer]:
+                - /url: /common/contents/W00013
+            - listitem [ref=e18]:
+              - link "고객센터" [ref=e19] [cursor=pointer]:
+                - /url: /board/boardList?cat_org_id=NOTI
+          - link "검색" [ref=e20] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "사이트맵 전체메뉴" [ref=e21] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic: 사이트맵
+            - generic [ref=e22]: 전체메뉴
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - link "홍보센터" [ref=e25] [cursor=pointer]:
+              - /url: /common/contents/W00005
+          - listitem [ref=e26]:
+            - link "회원가입" [ref=e27] [cursor=pointer]:
+              - /url: /sign/signupInfo
+          - listitem [ref=e28]:
+            - link "로그인" [ref=e29] [cursor=pointer]:
+              - /url: /sign/signin
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - link [ref=e33] [cursor=pointer]:
+        - /url: /healthcheck/info
+        - img "02-114 간편한 건강검진 전화 예약서비스 바로가기" [ref=e34]
+      - generic [ref=e37]:
+        - generic:
+          - strong [ref=e39]: 휴대폰번호가 궁금하신가요?
+          - strong [ref=e41]: 어떤 전화번호가 궁금하신가요?
+          - strong [ref=e43]: 스팸, 사기, 범죄 번호로 의심되나요?
+          - strong [ref=e45]: 어떤 업체를 찾으시나요?
+          - strong [ref=e47]: 휴대폰번호가 궁금하신가요?
+          - strong [ref=e49]: 어떤 전화번호가 궁금하신가요?
+      - generic [ref=e51]:
+        - paragraph [ref=e435]: 서울특별시 중구 태평로1가에서 찾기
+        - generic [ref=e52]:
+          - group "통합검색" [ref=e53]:
+            - generic: 검색어 입력
+            - searchbox "검색어 입력" [ref=e54]
+            - button "검색" [ref=e55] [cursor=pointer]
+          - link "상세 검색" [ref=e56] [cursor=pointer]:
+            - /url: "#"
+          - link "지도 검색" [ref=e58] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - link "#수영장" [ref=e62] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=수영장"
+          - listitem [ref=e63]:
+            - link "#스포츠웨어" [ref=e64] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=스포츠웨어"
+          - listitem [ref=e65]:
+            - link "#이비인후과" [ref=e66] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=이비인후과"
+          - listitem [ref=e67]:
+            - link "#공중전화" [ref=e68] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=공중전화"
+          - listitem [ref=e69]:
+            - link "#이비인후과" [ref=e70] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=이비인후과"
+          - listitem [ref=e71]:
+            - link "#내과" [ref=e72] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=내과"
+          - listitem [ref=e73]:
+            - link "#약국" [ref=e74] [cursor=pointer]:
+              - /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=약국"
+        - link [ref=e437] [cursor=pointer]:
+          - /url: javascript:void(0);
+    - generic [ref=e81]:
+      - heading "주요 서비스" [level=2] [ref=e82]
+      - generic [ref=e83]:
+        - link [ref=e85] [cursor=pointer]:
+          - /url: /search?tab=scam
+          - generic [ref=e86]: 스팸DB조회
+        - link [ref=e88] [cursor=pointer]:
+          - /url: /life/localBillStore/list
+          - generic [ref=e89]: 지역화폐업체 조회
+        - link [ref=e91] [cursor=pointer]:
+          - /url: /biznumber/list
+          - generic [ref=e92]: 사업자등록번호 조회
+        - link [ref=e94] [cursor=pointer]:
+          - /url: /life/public/list
+          - generic [ref=e95]: 관공서안내
+        - link [ref=e97] [cursor=pointer]:
+          - /url: /dbcenter/dbPackageList
+          - generic [ref=e98]: OnDB상품구매
+        - link [ref=e100] [cursor=pointer]:
+          - /url: /common/contents/W00001
+          - generic [ref=e101]: 업체제보하기
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "최근 등록된 OnDB 상품" [level=2] [ref=e105]
+          - generic [ref=e106]:
+            - generic [ref=e108]:
+              - generic [aria-hidden] [ref=e109]:
+                - listitem [ref=e110]:
+                  - link [ref=e111] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=187
+                    - paragraph [ref=e113]: 2026년 전국 이용원 남성전문미용실 사업자 DB
+                    - paragraph [ref=e114]: 110,000원 275,000원
+                - listitem [ref=e115]:
+                  - link [ref=e116] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=185
+                    - paragraph [ref=e118]: 2026년 전국 반려동물 관련 업종 사업자 DB
+                    - paragraph [ref=e119]: 176,000원 320,000원
+                - listitem [ref=e120]:
+                  - link [ref=e121] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=183
+                    - paragraph [ref=e123]: 2026년 전국 아파트 정보 및 관리사무소 DB
+                    - paragraph [ref=e124]: 110,000원 200,000원
+                - listitem [ref=e125]:
+                  - link [ref=e126] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=182
+                    - paragraph [ref=e128]: 2026년 전국 안경원 렌즈도매 안경테도매 사업자 DB
+                    - paragraph [ref=e129]: 132,000원 240,000원
+              - generic [aria-hidden] [ref=e130]:
+                - listitem [ref=e131]:
+                  - link [ref=e438] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=197
+                    - paragraph [ref=e134]: 2026년 OnDB 특정 업체 데이터
+                    - paragraph [ref=e135]: 132,000원 550,000원
+                - listitem [ref=e136]:
+                  - link [ref=e439] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=194
+                    - paragraph [ref=e139]: 2026년 전국 체형관리 비만 발관리 사업자 DB
+                    - paragraph [ref=e140]: 198,000원 495,000원
+                - listitem [ref=e141]:
+                  - link [ref=e440] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=193
+                    - paragraph [ref=e144]: 2026년 전국 스포츠 마사지 경락마사지 전통마사지 사업자 DB
+                    - paragraph [ref=e145]: 33,000원 82,500원
+                - listitem [ref=e146]:
+                  - link [ref=e441] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=192
+                    - paragraph [ref=e149]: 2026년 전국 네일샵 메이크업 속눈썹연장 왁싱 태닝 사업자 DB
+                    - paragraph [ref=e150]: 143,000원 357,500원
+              - generic [ref=e151]:
+                - list:
+                  - listitem [ref=e152]:
+                    - link [ref=e442] [cursor=pointer]:
+                      - /url: /dbcenter/dbPackageDetail?db_pkg_id=191
+                      - paragraph [ref=e155]: 2026년 전국 메이크업 속눈썹연장 왁싱 태닝 샵 사업자DB
+                      - paragraph [ref=e156]: 44,000원 110,000원
+                  - listitem [ref=e157]:
+                    - link [ref=e443] [cursor=pointer]:
+                      - /url: /dbcenter/dbPackageDetail?db_pkg_id=190
+                      - paragraph [ref=e160]: 2026년 전국 네일샵 사업자 DB
+                      - paragraph [ref=e161]: 110,000원 275,000원
+                  - listitem [ref=e162]:
+                    - link [ref=e444] [cursor=pointer]:
+                      - /url: /dbcenter/dbPackageDetail?db_pkg_id=189
+                      - paragraph [ref=e165]: 2026년 수도권 미용실 머리염색 어린이미용실 사업자 DB
+                      - paragraph [ref=e166]: 495,000원 1,237,500원
+                  - listitem [ref=e167]:
+                    - link [ref=e445] [cursor=pointer]:
+                      - /url: /dbcenter/dbPackageDetail?db_pkg_id=188
+                      - paragraph [ref=e170]: 2026년 비수도권 미용실 머리염색 어린이미용실 사업자 DB
+                      - paragraph [ref=e171]: 495,000원 1,237,500원
+              - generic [aria-hidden] [ref=e172]:
+                - listitem [ref=e173]:
+                  - link [ref=e174] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=187
+                    - paragraph [ref=e176]: 2026년 전국 이용원 남성전문미용실 사업자 DB
+                    - paragraph [ref=e177]: 110,000원 275,000원
+                - listitem [ref=e178]:
+                  - link [ref=e179] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=185
+                    - paragraph [ref=e181]: 2026년 전국 반려동물 관련 업종 사업자 DB
+                    - paragraph [ref=e182]: 176,000원 320,000원
+                - listitem [ref=e183]:
+                  - link [ref=e184] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=183
+                    - paragraph [ref=e186]: 2026년 전국 아파트 정보 및 관리사무소 DB
+                    - paragraph [ref=e187]: 110,000원 200,000원
+                - listitem [ref=e188]:
+                  - link [ref=e189] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=182
+                    - paragraph [ref=e191]: 2026년 전국 안경원 렌즈도매 안경테도매 사업자 DB
+                    - paragraph [ref=e192]: 132,000원 240,000원
+              - generic [aria-hidden] [ref=e193]:
+                - listitem [ref=e194]:
+                  - link [ref=e195] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=197
+                    - paragraph [ref=e197]: 2026년 OnDB 특정 업체 데이터
+                    - paragraph [ref=e198]: 132,000원 550,000원
+                - listitem [ref=e199]:
+                  - link [ref=e200] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=194
+                    - paragraph [ref=e202]: 2026년 전국 체형관리 비만 발관리 사업자 DB
+                    - paragraph [ref=e203]: 198,000원 495,000원
+                - listitem [ref=e204]:
+                  - link [ref=e205] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=193
+                    - paragraph [ref=e207]: 2026년 전국 스포츠 마사지 경락마사지 전통마사지 사업자 DB
+                    - paragraph [ref=e208]: 33,000원 82,500원
+                - listitem [ref=e209]:
+                  - link [ref=e210] [cursor=pointer]:
+                    - /url: /dbcenter/dbPackageDetail?db_pkg_id=192
+                    - paragraph [ref=e212]: 2026년 전국 네일샵 메이크업 속눈썹연장 왁싱 태닝 사업자 DB
+                    - paragraph [ref=e213]: 143,000원 357,500원
+            - generic [ref=e214]:
+              - link "Prev" [ref=e215] [cursor=pointer]:
+                - /url: ""
+              - link "Next" [ref=e216] [cursor=pointer]:
+                - /url: ""
+        - generic [ref=e217]:
+          - heading "전국 병의원 검색서비스" [level=2] [ref=e218]
+          - paragraph [ref=e219]: 가까운 병원/의원/요양병원114On에서 간편하게 검색하세요
+          - button "병의원 검색 바로가기" [ref=e220] [cursor=pointer]
+      - generic [ref=e221]:
+        - strong [ref=e222]: 신규 본인등록
+        - generic [ref=e225]:
+          - list:
+            - listitem [aria-hidden] [ref=e226]:
+              - link [ref=e227] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658628&comp_tp_cd=SEL&upjong_cd=601201
+                - strong [ref=e228]: 뉴히어링 보청기 인천주안센터
+                - paragraph [ref=e229]: 인천 미추홀구 주안동
+            - listitem [aria-hidden] [ref=e230]:
+              - link [ref=e446] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658639&comp_tp_cd=SEL&upjong_cd=693504
+                - strong [ref=e232]: 해로네
+                - paragraph [ref=e233]: 서울 동대문구 청량리동
+            - listitem [ref=e234]:
+              - link [ref=e447] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658638&comp_tp_cd=SEL&upjong_cd=693504
+                - strong [ref=e236]: 아이티비즈소프트
+                - paragraph [ref=e237]: 서울 송파구 문정동
+            - listitem [aria-hidden] [ref=e238]:
+              - link [ref=e239] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658637&comp_tp_cd=SEL&upjong_cd=432002
+                - strong [ref=e240]: 서정하이테크
+                - paragraph [ref=e241]: 충남 천안시 서북구 쌍용동
+            - listitem [aria-hidden] [ref=e242]:
+              - link [ref=e243] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658636&comp_tp_cd=SEL&upjong_cd=839401
+                - strong [ref=e244]: 페리아스튜디오
+                - paragraph [ref=e245]: 경기 부천시 소사구 옥길동
+            - listitem [aria-hidden] [ref=e246]:
+              - link [ref=e247] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658635&comp_tp_cd=SEL&upjong_cd=679300
+                - strong [ref=e248]: 한진갈산지점
+                - paragraph [ref=e249]: 인천 계양구 서운동
+            - listitem [aria-hidden] [ref=e250]:
+              - link [ref=e251] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658634&comp_tp_cd=SEL&upjong_cd=561900
+                - strong [ref=e252]: 피앤에이치
+                - paragraph [ref=e253]: 서울 강서구 가양동
+            - listitem [aria-hidden] [ref=e254]:
+              - link [ref=e255] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658633&comp_tp_cd=SEL&upjong_cd=561601
+                - strong [ref=e256]: 디에이치케이
+                - paragraph [ref=e257]: 서울 강남구 역삼동
+            - listitem [aria-hidden] [ref=e258]:
+              - link [ref=e259] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658632&comp_tp_cd=SEL&upjong_cd=432000
+                - strong [ref=e260]: 수 현정보통신
+                - paragraph [ref=e261]: 인천 남동구 구월동
+            - listitem [aria-hidden] [ref=e262]:
+              - link [ref=e263] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658631&comp_tp_cd=SEL&upjong_cd=693504
+                - strong [ref=e264]: 후니허니
+                - paragraph [ref=e265]: 제주 제주시 연동
+            - listitem [aria-hidden] [ref=e266]:
+              - link [ref=e267] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658630&comp_tp_cd=SEL&upjong_cd=549900
+                - strong [ref=e268]: 엠앤씨
+                - paragraph [ref=e269]: 서울 강동구 암사동
+            - listitem [aria-hidden] [ref=e270]:
+              - link [ref=e271] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658629&comp_tp_cd=SEL&upjong_cd=481200
+                - strong [ref=e272]: 하다쉬
+                - paragraph [ref=e273]: 경북 경주시 강동면 왕신리
+            - listitem [aria-hidden] [ref=e274]:
+              - link [ref=e275] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658628&comp_tp_cd=SEL&upjong_cd=601201
+                - strong [ref=e276]: 뉴히어링 보청기 인천주안센터
+                - paragraph [ref=e277]: 인천 미추홀구 주안동
+            - listitem [aria-hidden] [ref=e278]:
+              - link [ref=e279] [cursor=pointer]:
+                - /url: /search/detail?comp_id=30658639&comp_tp_cd=SEL&upjong_cd=693504
+                - strong [ref=e280]: 해로네
+                - paragraph [ref=e281]: 서울 동대문구 청량리동
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - heading "검색해도 안나온다면? 직접 물어보세요." [level=2] [ref=e286]
+            - link "전화번호 묻고답하기 바로가기" [ref=e287] [cursor=pointer]:
+              - /url: /connection/telNumQnaList
+          - list [ref=e288]:
+            - listitem [ref=e289]:
+              - link "어떤회사 서 쓰는 번호인가요? 개인번호일까요 2026.09.17 어떤 번호용?" [ref=e290] [cursor=pointer]:
+                - /url: /connection/telNumQnaDetail?bb_id=20477
+                - generic [ref=e291]:
+                  - strong [ref=e292]: 어떤회사 서 쓰는 번호인가요? 개인번호일까요
+                  - generic [ref=e293]: 2026.09.17
+                - generic [ref=e294]: 어떤 번호용?
+            - listitem [ref=e295]:
+              - link "070 5278 1769 어디일까요 2026.08.06 보험광고로 인터넷 확인됩니다." [ref=e296] [cursor=pointer]:
+                - /url: /connection/telNumQnaDetail?bb_id=20349
+                - generic [ref=e297]:
+                  - strong [ref=e298]: 070 5278 1769 어디일까요
+                  - generic [ref=e299]: 2026.08.06
+                - generic [ref=e300]: 보험광고로 인터넷 확인됩니다.
+            - listitem [ref=e301]:
+              - link "031.888.3275 는 경기남부경찰청 강력계전화가 맞나요? 2026.08.04 경기남부경찰서 사이트에서는 동일번호로 확인은 안됩니다만,관련하여 강력계 031-888-2371 또는 폭력계 031-888-2273으로 문의하시기 바랍니다." [ref=e302] [cursor=pointer]:
+                - /url: /connection/telNumQnaDetail?bb_id=20338
+                - generic [ref=e303]:
+                  - strong [ref=e304]: 031.888.3275 는 경기남부경찰청 강력계전화가 맞나요?
+                  - generic [ref=e305]: 2026.08.04
+                - generic [ref=e306]: 경기남부경찰서 사이트에서는 동일번호로 확인은 안됩니다만,관련하여 강력계 031-888-2371 또는 폭력계 031-888-2273으로 문의하시기 바랍니다.
+        - generic [ref=e307]:
+          - generic [ref=e308]:
+            - heading "스팸 신고내역" [level=2] [ref=e309]
+            - link "스팸 신고내역 바로가기" [ref=e310] [cursor=pointer]:
+              - /url: /board/boardList?cat_org_id=SPAM
+          - list [ref=e311]:
+            - listitem [ref=e312]:
+              - link "070-8057-6654 보이스피싱" [ref=e313] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=SPAM&bb_id=20521
+                - strong [ref=e314]: 070-8057-6654
+                - generic [ref=e315]: 보이스피싱
+            - listitem [ref=e316]:
+              - link "070-8095-9386 보이스피싱" [ref=e317] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=SPAM&bb_id=20520
+                - strong [ref=e318]: 070-8095-9386
+                - generic [ref=e319]: 보이스피싱
+            - listitem [ref=e320]:
+              - link "010-8348-2572 전화유도" [ref=e321] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=SPAM&bb_id=20507
+                - strong [ref=e322]: 010-8348-2572
+                - generic [ref=e323]: 전화유도
+            - listitem [ref=e324]:
+              - link "010-2026-1055 텔레마케팅" [ref=e325] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=SPAM&bb_id=20495
+                - strong [ref=e326]: 010-2026-1055
+                - generic [ref=e327]: 텔레마케팅
+            - listitem [ref=e328]:
+              - link "010-7980-5482 보이스피싱" [ref=e329] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=SPAM&bb_id=20476
+                - strong [ref=e330]: 010-7980-5482
+                - generic [ref=e331]: 보이스피싱
+      - generic [ref=e332]:
+        - heading "실시간 검색어" [level=2] [ref=e333]
+        - generic [ref=e334]:
+          - generic [ref=e448]:
+            - link:
+              - /url: /search/result/all?query=경기 고양시 통신판매
+            - list [ref=e449]:
+              - link:
+                - /url: /search/result/all?query=경기 고양시 통신판매
+              - listitem [ref=e450]:
+                - link:
+                  - /url: /search/result/all?query=경기 고양시 통신판매
+                - link "경기 용인시 통신판매" [ref=e451] [cursor=pointer]:
+                  - /url: /search/result/all?query=경기 용인시 통신판매
+              - link:
+                - /url: /search/result/all?query=경기 용인시 통신판매
+              - listitem [ref=e452]:
+                - link:
+                  - /url: /search/result/all?query=경기 용인시 통신판매
+                - link "서울 강남구 통신판매" [ref=e453] [cursor=pointer]:
+                  - /url: /search/result/all?query=서울 강남구 통신판매
+              - link:
+                - /url: /search/result/all?query=서울 강남구 통신판매
+              - listitem [ref=e454]:
+                - link:
+                  - /url: /search/result/all?query=서울 강남구 통신판매
+                - link "전북 전주시 음식점" [ref=e455] [cursor=pointer]:
+                  - /url: /search/result/all?query=전북 전주시 음식점
+              - link:
+                - /url: /search/result/all?query=전북 전주시 음식점
+              - listitem [ref=e456]:
+                - link:
+                  - /url: /search/result/all?query=전북 전주시 음식점
+                - link "경기 남양주시 통신판매" [ref=e457] [cursor=pointer]:
+                  - /url: /search/result/all?query=경기 남양주시 통신판매
+              - link:
+                - /url: /search/result/all?query=경기 남양주시 통신판매
+              - listitem [ref=e458]:
+                - link:
+                  - /url: /search/result/all?query=경기 남양주시 통신판매
+                - link "경기 남양주시 통신판매업" [ref=e459] [cursor=pointer]:
+                  - /url: /search/result/all?query=경기 남양주시 통신판매업
+              - link:
+                - /url: /search/result/all?query=경기 남양주시 통신판매업
+          - generic [ref=e348]:
+            - link "Prev" [ref=e349] [cursor=pointer]:
+              - /url: ""
+            - link "Next" [ref=e350] [cursor=pointer]:
+              - /url: ""
+    - generic [ref=e352]:
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - heading "궁금증을 해결해 드릴께요!" [level=2] [ref=e355]
+          - generic [ref=e356]:
+            - link [ref=e358] [cursor=pointer]:
+              - /url: https://www.114.co.kr/board/boardDetail?cat_org_id=NOTI&bb_id=7329
+              - generic [ref=e359]: 114번호안내등록방법
+            - link [ref=e362] [cursor=pointer]:
+              - /url: https://www.114.co.kr/board/boardDetail?cat_org_id=NOTI&bb_id=15942
+              - generic [ref=e363]: 본인등록이용 가이드
+            - link [ref=e366] [cursor=pointer]:
+              - /url: https://www.114.co.kr/board/boardDetail?cat_org_id=NOTI&bb_id=15940
+              - generic [ref=e367]: 오류신고이용 가이드
+            - link [ref=e370] [cursor=pointer]:
+              - /url: https://www.114.co.kr/board/boardDetail?cat_org_id=NOTI&bb_id=15941
+              - generic [ref=e371]: 스팸/사기 정보이용방법
+            - link [ref=e374] [cursor=pointer]:
+              - /url: https://www.114.co.kr/board/boardList?cat_org_id=QUESTION&cat_id=8&keyword=&page_no=1&page_line=12
+              - generic [ref=e375]: 고객센터문의
+        - generic [ref=e377]:
+          - heading "자주 묻는 질문" [level=2] [ref=e378]
+          - link "자주묻는 질문 바로가기" [ref=e379] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=FAQ&cat_id=3&keyword=&page_no=1&page_line=10&_st_=0
+          - list [ref=e381]:
+            - listitem [ref=e382] [cursor=pointer]: ㆍ법인/ 단체 아이디로 로그인이 안됩니다.
+            - listitem [ref=e383] [cursor=pointer]: ㆍ114On에 정보가 잘못되었어요. 수정하고 싶어요 잘못되었어요. 수정하고 싶어요
+            - listitem [ref=e384] [cursor=pointer]: ㆍ114On 정보는 어디서 가져오는 건가요?
+      - generic [ref=e385]:
+        - strong [ref=e386]: 공지사항
+        - generic [ref=e387]:
+          - link "공지 [공지] 업체 주소 입력 오류 안내 2026.10.13":
+            - /url: /board/boardDetail?cat_org_id=NOTI&bb_id=20526
+            - generic [ref=e388] [cursor=pointer]: 공지
+            - generic [ref=e389] [cursor=pointer]: "[공지] 업체 주소 입력 오류 안내"
+            - generic [ref=e390] [cursor=pointer]: 2026.10.13
+      - link [ref=e392] [cursor=pointer]:
+        - /url: /life/localBillStore/list
+  - generic [ref=e394] [cursor=pointer]: 💬 챗봇상담
+  - contentinfo [ref=e395]:
+    - generic:
+      - list [ref=e396]:
+        - listitem [ref=e397]:
+          - link "서비스소개" [ref=e398] [cursor=pointer]:
+            - /url: /common/contents/W00013
+        - listitem [ref=e399]:
+          - link "이용약관" [ref=e400] [cursor=pointer]:
+            - /url: /common/contents/W00014
+        - listitem [ref=e401]:
+          - link "개인정보처리방침" [ref=e402] [cursor=pointer]:
+            - /url: /common/contents/W00015
+        - listitem [ref=e403]:
+          - link "공지사항" [ref=e404] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=NOTI
+        - listitem [ref=e405]:
+          - link "FAQ" [ref=e406] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=FAQ
+        - listitem [ref=e407]:
+          - link "문의/건의" [ref=e408] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=QUESTION
+        - listitem [ref=e409]:
+          - link "제휴문의" [ref=e410] [cursor=pointer]:
+            - /url: /board/boardForm?cat_org_id=QUESTION
+      - complementary [ref=e411]:
+        - generic [ref=e412] [cursor=pointer]: Family Site
+    - generic [ref=e413]:
+      - generic:
+        - generic [ref=e414]:
+          - list [ref=e415]:
+            - listitem [ref=e416]: kt is
+            - listitem [ref=e417]: "대표이사 : 양율모"
+            - listitem [ref=e418]: "통신판매업신고 : 제2006-04260호(2006.06.05)"
+            - listitem [ref=e419]: "사업자등록번호 : 101-81-71660"
+            - listitem [ref=e420]:
+              - generic [ref=e421]: (07320) 서울특별시 영등포구 여의대로 14, 10층(여의도동, 주식회사케이티여의도빌딩)
+            - listitem [ref=e422]:
+              - text: 오류문의는 1:1이메일문의 또는 문의 게시판을 이용하세요.
+              - link "1:1 이메일문의" [ref=e423] [cursor=pointer]:
+                - /url: /chatbot/faq/form
+              - link "오류 신고하기" [ref=e424] [cursor=pointer]:
+                - /url: /search/report/companyErrorPage
+          - paragraph [ref=e425]: Copyright© 2020 kt is Corp. All rights reserved.
+        - list [ref=e426]:
+          - listitem [ref=e427]:
+            - link "페이스" [ref=e428] [cursor=pointer]:
+              - /url: https://www.facebook.com/media114/
+          - listitem [ref=e429]:
+            - link "인스타그램" [ref=e430] [cursor=pointer]:
+              - /url: https://www.instagram.com/media114/?hl=ko
+          - listitem [ref=e431]:
+            - link "네이버블로그" [ref=e432] [cursor=pointer]:
+              - /url: https://blog.naver.com/ktis02114
+          - listitem [ref=e433]:
+            - link "유튜브" [ref=e434] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCE3obiL_RWa-_aE5g0IaFjg
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-00-23-576Z.log#L63-L756

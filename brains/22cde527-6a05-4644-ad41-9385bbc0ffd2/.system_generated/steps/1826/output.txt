@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+>
+                                            <rect width="44" height="44" fill="white"></rect>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                <strong class="company_summary_tit"> 60억 181만원</strong>
+                                <p class="company_summary_desc">매출액</p>
+                            </li>
+                                            </ul>
+                                <div class="content_fold">
+                    <dl class="company_details">
+                 
+

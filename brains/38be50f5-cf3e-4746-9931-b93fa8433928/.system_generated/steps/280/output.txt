@@ -1,0 +1,10 @@
+The search for ""동광길 79" 우편번호" returned the following summary:
+문의하신 **부산광역시 중구 동광길 79** 인근의 주소들은 **48927** 우편번호 구역에 속해 있습니다[1][2].
+
+참고로, 동일한 도로명(동광길) 내의 인근 번지(예: 79-15, 79-22 등)가 모두 우편번호 **48927**을 사용하고 있습니다[1][2]. 정확한 주소 확인을 위해서는 [도로명주소 안내시스템](https://www.juso.go.kr)에서 상세 주소를 직접 검색하시는 것을 권장합니다[3][4].
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj-5x0nUUicQZXOsZiIcvwRBvLqaM-NCLf6yrSgjMMO2YIKaqMBHqwrahglbBiywmdl-T6liwyE0yaRxGbOhhAexCMkNhs2uz5lJeeCkw6GBfep_yv60ChpxsP68Stbg9zLeg0FXcErCHzZhUAc0so8qJSQr8ly2oddc2i03j_w3wrm2zLY8af2Gg8RVxMBaR-iLsWyx9ANHgCnnKJYlfac9P4COz7p80Z2HawoGYZ1IBfAQMKbvgs9IJpHTdz)
+[2] [juso.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExdSp4rkI5A9d1mug5A-teIcuYSYTDPDcaVRIlHzYfHjl2Y3zDADeKx10cHVgFg4pceJorfYu98cFG3DYy9A0j4hwSFJV3GwnVxglWSOvgWtfNBIlJK-Wh)
+[3] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0M17PQAqFTJ8MqWs0jV1QCKLLr-2l0TGT4R9wplrFwLr7ghQdkHaA5NFnnYD5GBFtT5YYS9ws4G7hd-hpdG39BtiwrIqXT7X0Y3_RS4NxIM3yXMNLRMkdNY72nUObMMp54WlMIrvNRbgRakL5N_49TPzadjXK5FrVyo=)
+[4] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBXmkgosQmPWdqjNwzzHb-i10ZL8OUVMpPI_BT4ll3OWCJPSaC0mmtcljlWUBUFyBRvjTUCgo6PYvwMCnQZPA9XY-MPnEUigMJTPUZcpwsREL1)

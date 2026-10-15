@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+6090955867 { title: '성진기계', form: '제조업', type: '제조업', corpNo: '제조업' }
+6091134642 { title: '서진산업', form: 'Seo Jin', type: 'Seo Jin', corpNo: 'Seo Jin' }
+

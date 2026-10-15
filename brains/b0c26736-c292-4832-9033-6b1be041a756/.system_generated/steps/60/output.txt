@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22619-09-76516%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22619-09-76516%22
+- Page Title: "619-09-76516" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-25-27-766Z.yml)

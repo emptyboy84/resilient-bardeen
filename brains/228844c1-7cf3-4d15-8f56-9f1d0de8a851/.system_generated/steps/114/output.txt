@@ -1,0 +1,27 @@
+The search for ""롯데갤러리움센텀" 출판 OR "비문"" returned the following summary:
+요청하신 키워드와 관련하여 확인된 내용은 다음과 같습니다.
+
+### 1. "롯데갤러리움센텀" 관련 정보
+'롯데갤러리움센텀'(부산광역시 해운대구 소재) 건물 내에 입주해 있는 업체들 중에는 인쇄 및 출판 관련 업종이 포함되어 있습니다.
+*   **비문인쇄:** '비문인쇄'라는 업체가 롯데갤러리움센텀 E동에 소재하는 것으로 확인됩니다[1].
+*   **기타 관련 기업:** 과거 신설법인 현황 등에서 롯데갤러리움센텀 주소지를 사용하는 다양한 기업(무역, 부동산, 서비스업 등)이 보고된 바 있습니다[2][3][4].
+
+### 2. "비문(非文)" 관련 출판 정보
+국어학적 의미의 '비문(문법에 맞지 않는 문장)'과 관련하여, 이를 교정하거나 다루는 출판물들이 있습니다.
+*   **도서 《비문 클리닉》:** 정제원 저자가 집필한 책으로, 글쓰기 과정에서 비문을 찾아내고 고치는 방법을 다룹니다[5][6][7].
+*   **도서 《한 문장이라도 제대로 쓰는 법》:** 이연정 교수가 저술한 책으로, 비문 오류 분석 및 올바른 글쓰기 원칙을 설명합니다[8].
+*   **참고:** '비문'은 비석에 새긴 글(碑文)이라는 의미로도 사용되며, 역사적인 고문서 자료 등에서 이러한 비문을 수록한 출판 사례가 있습니다[9][10].
+
+검색 결과, '롯데갤러리움센텀'이라는 장소와 '비문 인쇄'라는 업체명이 동시에 언급되고 있어, 특정 인쇄 관련 업체를 찾으시는 경우 해당 주소지의 '비문인쇄'가 관련이 있을 것으로 보입니다[1]. 단순히 '비문'에 관한 출판 도서를 찾으시는 것이라면 위에서 언급된 《비문 클리닉》과 같은 도서들이 해당됩니다[6][7].
+
+Sources:
+[1] [opengo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8LJScMzkE7XwiOn52l1qgrtgRjC7GF66G7pAeLHKnhu2dGa9MDAUK9ZTcssI6jhrjDuXTj1kObul1yvIOAQdEuDlj_TcLPUrNkQeAyKwcPi8ffn5dOLD0FiNg_A==)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEEuyV443syZUVA2u-WwRvhoyGXnFlI-rP8Rj-dQwjLPcsjwqmQQFagAeWMXLkz9p9ZhoD0ruzLQMeDDwXFRA67gzmgPbHytO0CKDeXRRjNrCHL7lslF5yOpf5mk5zJ0Bzb9HG)
+[3] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTk2_c3MqcKkO8HqA6qPPUc0vA0AUKElwZjWtX_ms2KWYMTOoHMhXeaXW5mFDqG0XdP0aduArCB6zhTc2nUztgWv_FFM6TupEgjhykI_-oNeKu-XTfFVYkeHv4q3b1mAInxCrbBc8CIN0l)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM-MVVMQWsFIBKmTAirtA7iRwx5bOYid0OFcToGuCeNSyM2ELuCs5ELCMD_yKRoTwpLDr2iPdo150aPpSZ68RbtfRvVUvdyV0y0YVusnMm7YOeq7DLov58sO0LjA==)
+[5] [ansansm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDg_Z8-xL1yG0ja71XUCV3PZl0bUXZJDlDcgkLdsRnCQKk9O4hjkHat024LVj8-7Le2LFSW6UxWsZNIDV6lTgMh0GM1Ymij5ZB44pNNM0PgFdb8htjEg080pEBulwxIfJSFmznYsiy4YaeplTBYmDZ)
+[6] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBKezUaHUzJnwBCklwLM1fI9JmktzkuIj5ek4DELtRFKin3nwBYJ36PIqZAvuMx2MgXKWR3DNpivN9GGbGEmzOOFAYF7eq75dwm_MwyJqPv9VZK_MA4IJJgtpEmrjJeoHoLEByCfEDPnKX)
+[7] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvrN1CmcYXNeUUa8vsWLqUwxmsnFnSlB_S6C5ghkPEMCnidoTJsW5_fvtqkA2Ui3AV3WbDvax77vdZMIMvin8TXLsgPIMDbeEJHupCLMz0sByP6yT0rKQBYWil_eRHd8C0ecZtgIxh5Cy0kxZe50lRUk=)
+[8] [book21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGFJl9jHWGC-MwVWahBEUmnsXofGybJiIQqrFQ8J9SE5WCi9EfSLrvlE7d5S1KCzOO0qoAhZ3FWOkeTvUF8EhjZD6HS9dIQsZKdq_W-A90P0VgBM-MTskFY6sLGVQKIXjlPRG495FNcrnCNs9y)
+[9] [unipress.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4dfAiH7gFTUNld_R1vpK0C9i3fLrWDVS6WT5dvoYubt6g7FstlUP2mkardO6rCSmksBZHpG8leHYf9Uq4udzn1PdrqC4OYnA6y8A9UaU6ladxD4D_45BNYlQWWDHRzNoAuww2htTc4pOkgnGFBSRHAdo=)
+[10] [aks.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN2S8A4BBnauKr_LpD0-C-fsJmORie4Vo05MbrOansQkLgcEzmS1keN4ObW9y_dL7A0x-766doHxy-ltniRf2cJTCOqCfloD7gFIK72pEtCmzB3tJbNLt5udXUF_5NPsPypbAXrwD5INAvZj5ZZeWbxDaKugiwopF0CvBksIHoMiwB4ywnnz6TJk8Riu8U4gUTTOtjVOUs16hwcd1yFZbla1phvRd1orZ9i69sIkuBpyI6BbH7cAEOvyFLqcJP6StfQnDnTapTfeA=)

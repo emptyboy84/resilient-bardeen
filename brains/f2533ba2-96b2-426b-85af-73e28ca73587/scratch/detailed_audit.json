@@ -1,0 +1,844 @@
+[
+  {
+    "row": 1,
+    "name": "우강마케팅",
+    "bizNo": "7650702346",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 2,
+    "name": "제이앤에이치",
+    "bizNo": "7651200610",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 3,
+    "name": "한국엠에스티",
+    "bizNo": "7651701079",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 4,
+    "name": "초록누리",
+    "bizNo": "7653500720",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "주소 공란"
+    ],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 5,
+    "name": "(주)화승코퍼레이션 기장공장",
+    "bizNo": "7658500671",
+    "bizType": "영리법인(지점)",
+    "status": "폐업",
+    "corpNo": "184511-0001252",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 6,
+    "name": "(주)하나기술단",
+    "bizNo": "7658502363",
+    "bizType": "영리법인(지점)",
+    "status": "",
+    "corpNo": "180111-0240307",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 7,
+    "name": "주영",
+    "bizNo": "7658601226",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "영리법인 본점이나 법인번호 공란",
+      "주소 공란"
+    ],
+    "notes": [
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 8,
+    "name": "스냅태그(주)",
+    "bizNo": "7658601847",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "131111-0605021",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 9,
+    "name": "코리아스마트시스템",
+    "bizNo": "7658601890",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "영리법인 본점이나 법인번호 공란",
+      "주소 공란"
+    ],
+    "notes": [
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 10,
+    "name": "아이오",
+    "bizNo": "7660401349",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 11,
+    "name": "위 마들렌 빠띠세리 청담 (Oui Madeleine Patisserie CheongDam)",
+    "bizNo": "7661301429",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 12,
+    "name": "리와인드프롬오아시스",
+    "bizNo": "7662200795",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 13,
+    "name": "클라우드나인 (CLOUD9 H&B KOREA)",
+    "bizNo": "7662600890",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 14,
+    "name": "바로펫㈜",
+    "bizNo": "7668102617",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "141211-0131741",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 15,
+    "name": "에스텍㈜",
+    "bizNo": "7668601501",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "170111-0757073",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 16,
+    "name": "㈜파리로엠엔비",
+    "bizNo": "7668802810",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "영리법인 본점이나 법인번호 공란"
+    ],
+    "notes": []
+  },
+  {
+    "row": 17,
+    "name": "아이엔바이오",
+    "bizNo": "7671301500",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 18,
+    "name": "금영",
+    "bizNo": "7671700979",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 19,
+    "name": "웰포드",
+    "bizNo": "7672301358",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 20,
+    "name": "라이크셀",
+    "bizNo": "7673400656",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 21,
+    "name": "제이더블유",
+    "bizNo": "7673500901",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 22,
+    "name": "윤슬컴퍼니",
+    "bizNo": "7674100917",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 23,
+    "name": "넥스다임",
+    "bizNo": "7678101168",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "180111-1197440",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "주소 공란"
+    ],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 24,
+    "name": "캑터스인터내셔널",
+    "bizNo": "7678102658",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "195511-0279129",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 25,
+    "name": "(주)디에스원 부산공장",
+    "bizNo": "7678501400",
+    "bizType": "영리법인(지점)",
+    "status": "",
+    "corpNo": "180111-0820852",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 26,
+    "name": "성우이노텍",
+    "bizNo": "7678601052",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194211-0292128",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 27,
+    "name": "(주)브리오",
+    "bizNo": "7678702500",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "180111-1496975",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 28,
+    "name": "서강테크",
+    "bizNo": "7678802827",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194211-0369068",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 29,
+    "name": "햅라운드",
+    "bizNo": "7680302046",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "주소 공란"
+    ],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 30,
+    "name": "스위트로렐(sweet laurel)",
+    "bizNo": "7681002364",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 31,
+    "name": "태금촬영업",
+    "bizNo": "7683100736",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 32,
+    "name": "중앙테크",
+    "bizNo": "7685500673",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 33,
+    "name": "은성",
+    "bizNo": "7688101142",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194911-0047785",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 34,
+    "name": "㈜미르내이앤씨",
+    "bizNo": "7688801078",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "110111-7003140",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 35,
+    "name": "대원오토텍",
+    "bizNo": "7688801307",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "768-88-01307",
+    "colsCount": 18,
+    "errors": [
+      "[치명적] 법인번호 열에 사업자등록번호(768-88-01307)가 잘못 입력됨"
+    ],
+    "warnings": [],
+    "notes": []
+  },
+  {
+    "row": 36,
+    "name": "플로우텍 주식회사",
+    "bizNo": "7688801817",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "131411-0463663",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 37,
+    "name": "지오스이엔지",
+    "bizNo": "7691501927",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 38,
+    "name": "선옥디자인",
+    "bizNo": "7691900417",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 39,
+    "name": "울트라그린",
+    "bizNo": "7692001348",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 40,
+    "name": "티엠에스",
+    "bizNo": "7692200566",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 41,
+    "name": "다올",
+    "bizNo": "7692400691",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 42,
+    "name": "다올",
+    "bizNo": "7692400891",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 43,
+    "name": "광선정밀",
+    "bizNo": "7698100490",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "195511-0207667",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 44,
+    "name": "(주)씨에스물류에스에이치지점",
+    "bizNo": "7698101503",
+    "bizType": "영리법인(본점)",
+    "status": "맞는사업자번호:769-85-01503",
+    "corpNo": "180111-0676172",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 맞는사업자번호:769-85-01503"
+    ]
+  },
+  {
+    "row": 45,
+    "name": "㈜나인피스",
+    "bizNo": "7698101790",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "110111-7831468",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 46,
+    "name": "(주)리콘",
+    "bizNo": "7698601439",
+    "bizType": "영리법인(본점)",
+    "status": "폐업, 맞는사업자번호:796-86-01439",
+    "corpNo": "180111-1241742",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "주소 공란"
+    ],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 폐업, 맞는사업자번호:796-86-01439"
+    ]
+  },
+  {
+    "row": 47,
+    "name": "(주)뉴스본다코리아",
+    "bizNo": "7698602168",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "영리법인 본점이나 법인번호 공란"
+    ],
+    "notes": [
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 48,
+    "name": "블랜",
+    "bizNo": "7698702995",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "110111-8441927",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 49,
+    "name": "㈜돔팸",
+    "bizNo": "7698800674",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "110111-6374360",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 50,
+    "name": "동현이앤씨",
+    "bizNo": "7698801668",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194911-0055316",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 51,
+    "name": "(주)나우인터내셔널",
+    "bizNo": "7698801746",
+    "bizType": "영리법인(본점)",
+    "status": "폐업",
+    "corpNo": "134811-0570136",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 52,
+    "name": "(주)프리하라",
+    "bizNo": "7698802177",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "170111-0828824",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 53,
+    "name": "와이엠티(YMT)",
+    "bizNo": "7700402196",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 54,
+    "name": "엠링크",
+    "bizNo": "7702100934",
+    "bizType": "개인사업자",
+    "status": "폐업",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [
+      "주소 공란"
+    ],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)",
+      "상태/비고: 폐업"
+    ]
+  },
+  {
+    "row": 55,
+    "name": "성풍솔레드부산",
+    "bizNo": "7704600771",
+    "bizType": "개인사업자",
+    "status": "",
+    "corpNo": "",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "개인사업자로 법인번호 없음(정상)"
+    ]
+  },
+  {
+    "row": 56,
+    "name": "(주)올라운드스톤",
+    "bizNo": "7708602116",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "220111-0232892",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 57,
+    "name": "엠에스케이",
+    "bizNo": "7708602867",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194511-0018594",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  },
+  {
+    "row": 58,
+    "name": "티지씨",
+    "bizNo": "7708702511",
+    "bizType": "영리법인(본점)",
+    "status": "",
+    "corpNo": "194214-0015889",
+    "colsCount": 18,
+    "errors": [],
+    "warnings": [],
+    "notes": [
+      "법인번호 13자리 체크섬 검증 정상 통과"
+    ]
+  }
+]

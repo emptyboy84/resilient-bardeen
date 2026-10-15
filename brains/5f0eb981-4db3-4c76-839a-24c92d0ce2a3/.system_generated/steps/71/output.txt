@@ -1,0 +1,46 @@
+The search for ""256-8" OR "256-81" OR "256-85" OR "256-86" 사업자등록번호" returned the following summary:
+검색하신 번호들은 **사업자등록번호 전체가 아니라 일부**이거나, 특정 주소(예: "256-8"번지)와 혼동되어 검색되는 경우가 많습니다. 사업자등록번호는 보통 `XXX-XX-XXXXX` 형태의 10자리 숫자로 구성됩니다.
+
+질문하신 번호 패턴과 관련하여 확인된 주요 정보는 다음과 같습니다.
+
+### 1. "256-8" 관련 (주소지 포함)
+*   **주소지 활용:** "256-8"은 많은 경우 특정 지역의 **지번 주소**로 사용됩니다.
+    *   예: 경기도 광주시 곤지암읍 새재길 256-8 (페트라온 케어랩 등 업체 소재지)[1][2]
+    *   예: 서울특별시 노원구 하계동 256-8 (삼화빌딩)[3]
+*   이 번호를 사업자번호로 오인하여 검색할 경우, 해당 주소지에 위치한 다양한 업체의 사업자번호가 결과로 나올 수 있습니다.
+
+### 2. "256-81", "256-85", "256-86"으로 시작하는 사업자번호 예시
+이 숫자들로 시작하는 실제 등록된 사업자번호들의 예시는 다음과 같습니다. (단, 이는 전체 사업자번호의 일부 예시일 뿐이며 특정 업체를 지칭하지 않을 수 있습니다.)
+
+*   **256-81-XXXXX 대:**
+    *   **256-81-02648:** 주식회사 헤루[4]
+    *   **256-81-01810:** 오퍼스케이[5]
+    *   **256-81-00368:** 더애플손해사정법인(주)[6]
+*   **256-85-XXXXX 대:**
+    *   **256-85-00600:** 주식회사 파인씨앤에스(지점)[7]
+    *   **256-85-01593:** 한국렌탈(주)[8]
+*   **256-86-XXXXX 대:**
+    *   **256-86-03128:** 주식회사 케이엠이앤지[9]
+    *   **256-86-03002:** 주식회사 무창[10]
+    *   **256-86-00077:** 한국벤처경영원(유)[11]
+
+---
+
+**참고 사항:**
+*   **정확한 조회 방법:** 특정 업체의 정보를 찾고 계신다면, 해당 번호가 포함된 **전체 10자리 숫자**를 확인하시거나, 업체명(상호명)을 검색하는 것이 가장 정확합니다.
+*   **조회 사이트:** 국세청 **홈택스(Hometax)**의 '사업자등록상태조회' 서비스나 **비즈노(Bizno)**와 같은 기업정보 조회 사이트를 이용하시면 사업자번호의 진위 여부와 해당 업체 정보를 실시간으로 확인할 수 있습니다[3][12][13].
+
+Sources:
+[1] [petraon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1pyzLBEUnF9V20u8WblAqHOEMe6wJAyfdL_H1Cq73oYOGZuzAZRD-Wq3kNi5NUmtDA5z_rdJ0o_71Mpkea4g0MMeXbVrInk7OH95o1fxHg3hMYhj2zbf6wf4QnSb7Pn2guq6w6MSjw6zWPt2NhoQ=)
+[2] [petraon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF85-qNv6BPot82jjoNo5oV2ARS_GI2GzfInI2pRL-L0emmGoHGld93e1Oh1NAQKkOPAz-jPkdPmD3ul7qVE1aPC1ZFvDUjz8wc3rb9DVy27X6UImM=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiwsG0aMs4udX63K-DGifboPqIVMn3KCFFLRa30MtJ0L_MIsAsnuo8hyCVLSU9JNiknOirqYJe9hgZ03xnN-EWVMdg_ULHFdCmG-A4M5ZsZSxEAv35FuaVq7U=)
+[4] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Q5zvhPCkikfLMLtCktSVK0_-8heArj2UXb3u4r6G-q58cp9sDSKzCbvhGqTAhnvtirG1U6u7UyREQGpKbxL7PUj5S3zc0cUD8Syi6xlDi55oku0hcUb6eTHqJ4PlVDq05O2npMMOINI=)
+[5] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgKD810qayXHV5QEmcAh6gZSxEmWS3gpFmZIBgXvUokA5HeYuYt1T_r-kM5HtIW2okKv2fweqiEph3WrK3FcBXRjvC-u17i8PLLX-zGQ5PK453gd9rrb2J9oUsRje4NI1TsoU=)
+[6] [appleclaim.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJTNs3dt11tKWPd5UgzhMUsxekKc2tPZ1cqg6GcUWdnxqdxfgscmJLvyabDHxm3th-ZJcYH9VI-GSYLoLIeXlnYhJEKPJSdaHoj6uEB03gawPpAlDlq73IAziy8jEq)
+[7] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ02MfvfC0uDJ49U8RgDTgSrJ7nZKAVkV5jh30QB3Rl2UC98Avre0sM1Fa7m_JadUwQUgh66uKXUVpCQDD5Nf9VEZwXiw9ifFm1g7HUoKrCstk1d96VtDm9Fv4a6T7AdCS48czdhuCd-A=)
+[8] [visionport.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY7jQgN7INW85VPTr2ICCHc0vGZP9taNHn45_oXZMR7YUt8HJEBFUmqh4P7pE4ikd15x2OA30-SZxbtuNSPkeq-vWHqkYg8OUcsYdtddABOFz8Bj3S)
+[9] [kmengms.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjPAZDjUVd3x2MryobkXJLTc7RUgp_mfpJFOjgouaP6p4PruM-wDLgEpb7hMXLWtMqJIAQnWNZ41GFvaon361hp2lKxpvNLwWQU6CKQmIo7zrI6A==)
+[10] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6uuDzQBzA1m4rYxNQHMSCj5Dwk5MVeE95FYHXF8bRl7xSVsOtbvR5n1qpiZx4fZhh2H_AER4WlJR3cxnpN0w1Wt6xA3nSYGBIFfMxGck8tSGVuKLlxSoCYiM=)
+[11] [kofund.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGewFEepmo6-pfSDB1v0KxnPiuHGa9g7nUj-VmyfdSNwvnB-w2ksyF2COHUL4-rSOtotF5hnZAFUKyUuZOIlad_bANWL171AV2kJ3joSafwy8AJzQ==)
+[12] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaKxN6iOarecTyKyW1AfTd_GZqmArGKrMZeBVRLuRWASnPedHQnQnyhUWqB5--Wh5CnUsrLjUsRgeVJSH4nd1fwRI-keyjYAo=)
+[13] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSefB7uHOlUKlTlJxZfe-iCYGsyRmJxk2THIVwd3LKF-NDSjLnM4J3RwRHYGS0ZcXj6fhge8chiHQwBnDnukRdli7AFTgADCJvObM5-8W27h8sdQun2ootE1LREI3FCALH59sekh-e7fr_L2l4K0mVgiILgxNAQOFWLYlrA3Vjd011YUXD8DbGsLZf1_Mr4qcHDgFDMQnfVhZb)

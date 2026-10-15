@@ -1,0 +1,5 @@
+The search for ""언주로149길 17" "6층" OR "제리굿컴퍼니" "언주로"" returned the following summary:
+서울특별시 강남구 언주로149길 17, 6층(논현동)에 위치한 기업은 영화 및 드라마 제작사인 **(주)제리굿컴퍼니**입니다[1].
+
+Sources:
+[1] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpZcz2gX90pDbw6osW5FzIDzLPdEWK7c0kXh0D1K4EfWO0vV6j9EpJ0L_GgF8uSDdYZt58O5xusyUY-ccA8qBWwfIliZR_hLb82aD9aE2lSWCXurrC5EkSSIfhhWUL_Jmt_M-4cvy9Vv_7Hc6uYhme6OUgkd-L9HlEUMVbsZBzgQ==)

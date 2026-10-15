@@ -1,0 +1,16 @@
+The search for "site:thevc.kr "테렌즈" OR "조용원"" returned the following summary:
+국내 스타트업 및 투자 데이터베이스 플랫폼 **더브이씨(THE VC)** 자료에 따르면, 검색하신 키워드와 관련된 주요 기업 및 정보는 다음과 같습니다[1][2]:
+
+1. **테렌즈 (Terenz)**
+   * **분야:** 인공지능(AI) 및 의료진단 솔루션 (분석지능)[3][1]
+   * **주요 정보:** AI 기반의 의료 영상 진단 보조 솔루션(예: 파킨슨병 진단 보조 솔루션 *Kinon*, 갑상선 유두암 진단 보조 솔루션 *Conzar* 등)을 개발하는 기업입니다[3][1]. 정부의 AI 바우처 지원사업 등에서 공급기업으로 참여한 이력이 있습니다[3].
+   * **대표자:** 조용원[1]
+
+2. **조용원**
+   * 위 **테렌즈**의 대표자로 등록되어 있습니다[1].
+   * 또한 360도 VR 콘텐츠 및 디지털 혁신 솔루션 기업인 **'비지트(라운드픽)'**의 대표자 이름으로도 더브이씨 데이터베이스에 등장합니다[2].
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bNEQZB8--BIr7FF5_D3q7jVflyK418ioxcix2J6SdC0SfYlLCuXtbdA8XmRF-GX1-Ya3yMeu2RNrLfKqzEdge5rr-mnMGjdTmpAzcyeOahGrcZmgfholAMzYDB24hcmPZK4MPFvKvtTfyJGfcyDKAAmxBY8jKv3Gb933dMqDNRniqQgANp8_JHeaNh1RvHZz5qztEZrTtuOCVo3Ws3RztA==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw4XC-SOX5qGNoz37O4i14tO3llJsbGOESai4j-NMN1aMOtGrkc_coQuUb0PCt_OtULsyhxT9gEHv-uQFwIcSeszPjFw8HdEYa5PWi)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbvWfRbr67L5hiw_AxC0M_1yPEu3kEiMrLN-7lxhGqBtU5KZzkO-nj3Rmno-yUDufogTXs0661pmWQQWLlW8Gw9o6CdaWeO5JNLap72RGa5bsm9wviTswzoRXde43sw3MJAU97eH2NcIKLhJR88WL9jn1eJkOSpex3S_3RvrwdctkD5VTGpMezN5zBm9D9UPvIgYp9MQcLik_yOd2akLt2hOpoVcokWxAhOjzdRcEZs72DL3sS0IV2pgt1EWf0Lr06E7-9kYGyKx_jSN-Qv4cqRagTZekr87R03MATD1mO2FXQZG7UFcwaEIQf1c0V8YE4FVrlNmRW-pESOgqDZg6KOBKdciKm2GGZVOW6m8DLOyNL03jo92eD8hWGx2A=)

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+Status Class    FriendlyName                         InstanceId                         
+------ -----    ------------                         ----------                         
+OK     Mouse    HID �԰� �콺                      HID\SYN1B8B&COL01\5&154DB3C4&0&0000
+OK     HIDClass I2C HID �ġ                         ACPI\SYN1B8B\4&5C5684A&0           
+OK     HIDClass HID �԰� �ġ �е�                   HID\SYN1B8B&COL02\5&154DB3C4&0&0001
+OK     HIDClass Microsoft Input Configuration Device HID\SYN1B8B&COL03\5&154DB3C4&0&0002
+OK     HIDClass HID �԰� �޾�ü � �ġ          HID\SYN1B8B&COL04\5&154DB3C4&0&0003
+
+
+

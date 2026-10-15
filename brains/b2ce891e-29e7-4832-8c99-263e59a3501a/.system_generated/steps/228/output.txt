@@ -1,0 +1,9 @@
+The search for "site:play.google.com/store/apps "ABMLab" OR "에이비엠랩"" returned the following summary:
+구글 플레이 스토어에서 개발사 **ABMLab Corp.(에이비엠랩)**이 서비스 중인 주요 앱은 다음과 같습니다:
+
+* **캘박(Calvak) - 대학생 스마트 일정관리 캘린더**[1]
+* **Lolypoly - 모임 파티게임**[2]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcgk3wygyD0hu-cDID5gjlniafj4L4Pt0QZLiuZNEUMvrrfc8y_ejX7Qj41NXWO-grqYFDW6folVPkeZmedB0M6TIdIW4d0y-lBegVJMHcjigZBqPQEEUaCs_hmiH2sfkEONfwQhl8oS5GZUFJltB36AhUFGE=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgAVQiJvtjYtK99xHwI0OhoyjLyBeqkKlONmzEKb-mANtKjaM55nTnhdnXfC4IC2JqGxDM2COLxtuHrj-Madtogwt6mnZUfzsHL7B26yQNNR0BTf3jD12UZDmLYqMEUhFVXEIkNAjdWLO7so8x7s2LgMoLxjdi0A==)

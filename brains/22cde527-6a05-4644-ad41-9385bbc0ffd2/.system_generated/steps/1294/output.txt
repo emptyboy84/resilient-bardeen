@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+Error: browserBackend.callTool: net::ERR_NAME_NOT_RESOLVED at http://press.donga.ac.kr/
+Call log:
+[2m  - navigating to "http://press.donga.ac.kr/", waiting until "domcontentloaded"[22m

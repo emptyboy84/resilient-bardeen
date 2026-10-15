@@ -1,0 +1,15 @@
+The search for ""sankun.com" "바른중량"" returned the following summary:
+"sankun.com"과 "바른중량"을 함께 검색하신 결과는 다음과 같습니다.
+
+*   **산군 (sankun.com):** 국내 건설 빅데이터 플랫폼 '산업의역군'을 운영하는 기업입니다[1][2]. 건설 자재, 공사 업체 정보, 현장 정보 및 기업 DB 등을 제공하는 IT 서비스 기업으로, 건설 관련 기업의 데이터를 조회할 때 자주 활용됩니다[2][3].
+*   **바른중량:** 충청남도 천안시에 소재한 기계설비공사업체입니다[4][5]. 
+*   **연관성:** 사용자가 "sankun.com"에서 "(주)바른중량"이라는 기업을 검색하여 해당 기업의 상세 정보(기업 개요, 재무 정보 등)를 확인하는 과정에서 나타난 검색 결과로 보입니다[4][5]. 
+
+즉, **산군(sankun.com) 플랫폼을 통해 바른중량이라는 건설 관련 기업의 정보를 조회**하신 것으로 확인됩니다[4][5].
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi0DT-oGf57WWh1BP6Ih-aeG9alKqRYMTe_333COvX5oCJRXu2gz6NsC7W9CS4_ivCfn1d8FGrz9mtWwxwMlrT7zkOPe8iOPkw2ZG2qg==)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgTIeUQE4HqKdBLXClYc6_x9NC8Vbxs5EPo_cW4Pu7nbowHIs62v6024e8Bm31bXlsiF9UPELxykK1uAZvV3uAYfXVyvHYV-ylOhvmzU9_AIRz735oNzeDmOMCwYk6UW5Sfhjb3fE=)
+[3] [icak.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCJu4KRQDO0t5dhulbSyhGRsmrmSTV0CHZ86EkUAU0KCU5xWkD0zVQw9f8lo1qLBS4N9NF_LNnlh8wlsYX_8mvqoy56IrlweVf6hJD-Kic3FYESaWAAMb0whpIbOVDrjU665hc)
+[4] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtye10Hgg313wp_PkR4djYIOSavts8JRNT-poxsUAjmo_AgKYOBBOePvxgb633pwpb1hl9wjaM4uTMUEWjdV_IeqKZ0FdbjF8VcDZyJmkAoKtqU290JZPaCkSwEa5FbR9xMbwFzYB7I407JmPx9Sq)
+[5] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtye10Hgg313wp_PkR4djYIOSavts8JRNT-poxsUAjmo_AgKYOBBOePvxgb633pwpb1hl9wjaM4uTMUEWjdV_IeqKZ0FdbjF8VcDZyJmkAoKtqU290JZPaCkSwEa5FbR9xMbwFzYB7I407JmPx9Sq)

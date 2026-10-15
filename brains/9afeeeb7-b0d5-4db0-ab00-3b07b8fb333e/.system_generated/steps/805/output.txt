@@ -1,0 +1,15 @@
+The search for ""898-88-02742" "계속사업자" OR "폐업" OR "휴업"" returned the following summary:
+조회하신 사업자등록번호 **898-88-02742**(주식회사 케이안전기술원)는 현재 **계속사업자** 상태입니다[1].
+
+*   **상태:** 계속사업자[1]
+*   **기업명:** (주)케이안전기술원[1]
+*   **업종:** 건설재해예방 전문지도기관[1]
+
+해당 정보는 공공기관의 자료를 바탕으로 제공된 것이며[2], 실시간 상태 확인이 필요하신 경우 **국세청 홈택스(손택스)**의 '사업자등록상태조회' 메뉴에서 해당 번호를 입력하여 직접 확인하실 수 있습니다[3][4][5].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUAWV4QrKh_tJSvTMu3bSgBCrdDXFxX70PUhTHUsnkTyN-YRO6gpS-KUptVccG8ZqNRItMNxWlwQom_vhPL6uq-jlEd3MExpfTVtoQRBC00zTv0L6A0AKmppo=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUAWV4QrKh_tJSvTMu3bSgBCrdDXFxX70PUhTHUsnkTyN-YRO6gpS-KUptVccG8ZqNRItMNxWlwQom_vhPL6uq-jlEd3MExpfTVtoQRBC00zTv0L6A0AKmppo=)
+[3] [hometax.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJekZ_k0C5ANKkbvFlTOG_voY9z2dCOWU4AqY1iJiqzoeW1vXVmE96Ms44aAUcsihs9o7w6-9u6LVgMLhFJorsDuvgCRvXVQyyeb2MLmMoJqaWu2VrWfhpWIrTO-jLEjVxG0uSsykE5_iBp_fsmMb4QHZ33zyCkjLg9Q==)
+[4] [eventmoa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs3tqX1g2wNFQ3Z8RqYrZgs7k8S_QkZ90_tVl3qAmteIOr34YVpxvDIZJChWm7TRQHRmObGc6n2AoOQHFxMUBmIuNWBgfDbXsfivhuKw4XFuuAgwFX7oDYaLJig8YFCbb_XWNqhiavPm-MG72op8SmSbICYXEPBLOuKL6RRF2L9jkjcj18ZbYTI4zgkszmM2RrC4lAbwPj_9h822OpRTTtSRsHSe4xn9SVRxDgFxemlgpaaE9j9Ptf-C8n0MM=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFklSP_o2bYL2BBTJYmcIgUnnjdTlv3hGNahUrMKj6EEm34CWH15JqEssMDI8e9tcveFTEplQ9qLsav_GVu72X1t-9vsgBI3NrAfuG0akWVcTRIoRQL2yo=)

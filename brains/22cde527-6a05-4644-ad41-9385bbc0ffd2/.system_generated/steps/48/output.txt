@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Workspace data files: [
+  'all_500_factchecked.tsv',
+  'all_500_verified.tsv',
+  'bizno_filtered_result.csv',
+  'bizno_filtered_result.tsv',
+  'bizno_filtered_result_nice.csv',
+  'bizno_filtered_result_nice.tsv',
+  'current_pasted_batch.tsv',
+  'merged_500_perfect.tsv',
+  'rows_11847_12000_16col.tsv',
+  'rows_11847_12000_17col.tsv',
+  'rows_11847_12000_verified.tsv',
+  'user_pasted_rows.tsv'
+]
+File: all_500_factchecked.tsv | Lines: 500 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	--		http://www.luxtec.kr		2	일반용 전기 조명장치 제조업		
+File: all_500_verified.tsv | Lines: 500 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.k
+File: bizno_filtered_result.csv | Lines: 501 | Header/Sample: ﻿담당자,상태,상호명,사업자등록번호,대표자명,우편번호,회사주소,전화번호,팩스번호,홈페이지,회사이메일,종업원수,업종_종목,법인등록번호,결산월,대분류,중분류,소분류_비즈인포산업명
+File: bizno_filtered_result.tsv | Lines: 500 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.k
+File: bizno_filtered_result_nice.csv | Lines: 501 | Header/Sample: ﻿담당자,상태,상호명,사업자등록번호,대표자명,우편번호,회사주소,전화번호,팩스번호,홈페이지,회사이메일,종업원수,업종(NICE BizINFO),법인등록번호,결산월,대분류,중분류,소분류
+File: bizno_filtered_result_nice.tsv | Lines: 500 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.k
+File: current_pasted_batch.tsv | Lines: 507 | Header/Sample: <USER_REQUEST>
+File: merged_500_perfect.tsv | Lines: 500 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363		054-464-1173	http://www.luxtec.kr		2	일반용 전기 
+File: rows_11847_12000_16col.tsv | Lines: 154 | Header/Sample: 주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.kr		2	일반
+File: rows_11847_12000_17col.tsv | Lines: 154 | Header/Sample: 폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.kr		2
+File: rows_11847_12000_verified.tsv | Lines: 154 | Header/Sample: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.k
+File: user_pasted_rows.tsv | Lines: 718 | Header/Sample: <USER_REQUEST>
+

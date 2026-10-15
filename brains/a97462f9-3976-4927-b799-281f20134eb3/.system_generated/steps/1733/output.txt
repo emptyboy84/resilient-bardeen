@@ -1,0 +1,13 @@
+### Result
+Waited for 30 seconds (requested 2000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do
+- Page Title: 등록현황 - 공정거래위원회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-02-34-514Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-01-39-693Z.log#L2

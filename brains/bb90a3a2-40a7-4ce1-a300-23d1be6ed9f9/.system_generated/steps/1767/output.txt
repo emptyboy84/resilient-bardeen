@@ -1,0 +1,15 @@
+The search for ""유네이드홀딩스" OR "유네이드" "이병상" OR "147-87-02439" OR "1478702439"" returned the following summary:
+검색 결과 조회된 **(주)유네이드홀딩스** 관련 기업 정보는 다음과 같습니다.
+
+* **상호명:** (주)유네이드홀딩스[1]
+* **대표자:** 이병상 (정민영 공동대표 등 확인)[2]
+* **사업자등록번호:** 147-87-02439[3]
+* **소재지:** 부산광역시 강서구 대저중앙로 46[3]
+* **업종:** 경영 컨설팅업 / 산업 생산시설 종합 건설업 등[1][4]
+* **기업 형태:** 법인사업자 (중소기업)[1][3]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAw6gn3-nRBEXB6XM4inLMlAz0F6w6sw67Uo3LoMP-B-6rvMGi0MAKBuzPrZ4BCPFKBS11RbU08PM4uoQy-TbCa-drD5wxsmjduV8wnYpPa_MrHIVTy22NHkbdfPJIZSPAf3p2ogcUZ8Il6coSqwpRu0kLniDMZKDiKtq2wZAcvQpVmXH__IQ7nHZfxTUjYqoD5Vc-uim-qRiZNSGH8Vh7-V9nKI21y3h85-jA8kXUyDA7m5sKgC5vZ-Bat8TmTcirxIEN5yM9kDGg1swIar-eRBqQ8EE6CqsXijvzer_3UanHQ0Ec)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIeMVmGX70QP2LHbZczZ6esO-WIExnwiW592pesLaZJvKC6FNBCE5Qul-q--E7VE3lI55pNA673orO35lD8LNtU1dUpmC2EXxSTRmVSQcJ3z402uvybNitnBoIrzW7NVEgw3HbuQ==)
+[3] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc5Tg3GDy0rsjwiHHHbf_SUg2OLKLxnshbLtoMAW_0qRTq6wPLm-yNKdZjy1bIJRD-AVqIGq8PAz4tn5DzKWL7Doe2rloapzK64wwZdatQuggYroKVBqIkjXKB3QrljSYH1g==)
+[4] [mmll2.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLjOcMbJlsyd-UlpgNEiodjXqIzvOpDix-q-TbQU9jWsgFPYqjPFczus7McjcT-NFZKcqIOb1GgaCyHITHorwgK4a5zStvKU9yY7JqgnMkjOhFkBayICKgts1dEqcZ1pkvO8N7WH76wQDCSu7geOWCPmuHdzYNh09VJF3IjoszeRwVXWTda6cxO1mQM1gKyYtVz7NVAu-ZOKOzH1o8lqMUV3PCIznfSX1CDi7pZBzablXDt1lZP1sRR_rtKnZJYT-2P0xCE0hu)

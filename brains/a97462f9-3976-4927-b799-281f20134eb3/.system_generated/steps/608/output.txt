@@ -1,0 +1,33 @@
+The search for ""블루솜" "617-81-57256" OR "송호진" 매출액 OR catch.co.kr OR 사람인 OR 잡코리아" returned the following summary:
+문의하신 기업 **(주)블루솜**에 대한 정보는 다음과 같습니다.
+
+### 1. 기업 개요
+*   **기업명:** (주)블루솜 (BLUESOM)[1][2]
+*   **대표자:** 송호진[1][2]
+*   **설립일:** 2005년 8월 2일[1][2]
+*   **사업내용:** 게임 및 소프트웨어 개발[2][3]
+*   **본사 위치:** 부산광역시 남구 수영로 299, 14층 (대연동, 루미너스타워)[4][3]
+
+### 2. 재무 및 규모 정보
+*   **매출액:** 약 9억 8,123만 원 (2025년 기준)[1][5]
+    *   *참고: 과거 공시 자료에 따르면 2020년 기준 약 15억 8천만 원 수준이었으나, 연도별 실적 변동이 있을 수 있습니다[4][2].*
+*   **사원수:** 약 7명 (2026년 재직 기준)[1][5]
+
+### 3. 주요 채용 플랫폼 정보
+블루솜에 대한 기업 상세 정보, 채용 공고, 전·현직자 리뷰 등은 아래 주요 취업 포털에서 확인할 수 있습니다.
+
+*   **사람인:** [기업정보 페이지](https://www.saramin.co.kr)에서 기업 형태, 업력, 채용 공고 및 재무 정보 등을 조회할 수 있습니다[2][6].
+*   **잡코리아/게임잡:** [기업정보 페이지](https://www.jobkorea.co.kr)를 통해 실시간 채용 공고, 기업 리뷰, 연봉 정보 등을 확인할 수 있습니다[4][3][7].
+*   **캐치(catch.co.kr):** 기업 분석 및 채용 정보를 제공하는 플랫폼으로, 블루솜 관련 데이터를 검색해 보실 수 있습니다.
+
+**주의사항:** 제공된 재무 및 사원수 정보는 플랫폼마다 기준 시점이 다르거나 나이스평가정보 등의 데이터를 기반으로 하므로, 정확한 최신 정보는 공시 자료를 직접 확인하시거나 해당 채용 사이트의 공고를 참고하시기 바랍니다[4][8].
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwiGOJrMeMO03GK3ViI-qQZj23TsxcoDemVVSepOU1QVJ7mlpfE8dA0hP3gdr1yACLAk1XCHcVenGY7I4f4xpwqKmJ_smHS4-XEqaca3_a-dz8wmtrhfk4o-PZmTEG)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIWSa8mQfJ00JZzxZSNzS8sDbnzI42Y-Tdvms16p7Zmh4S3OKhMIdvEdPc3HTRhem64_P4iHnEdFwTYQMJcvjg5QLXOjTgDV0m9goYOmO_NsotEFTX4QWUNIQlRlEr42-xPTt5_h8M3r-HS4gKGIhH0hQpCV67q0DNvoKx9PelmoqcFeerMsRHYlPaBTcQj-Y6Rz1sqAnNFLMPFh3Qq44gft7GkX1NmvjQd71a2l6GTPIaXyNkK359sXoEZ2YTOnRM)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-ZhJIhGWN9MktS80VcWHChGoPU6pkgLjtJaY8P-CqQinzo0wzJl8Tg-Tv9a6-xosgCJ1oo4NJggQEDDtwBji8rpvtH8KEQvX5lmTqGiHFSsBueEKFS7Qwsd-rdBng6evLTKpPA4sFIA==)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdY8VtUXpni05UjPmLEdJmw5DqcO6vLz9wLyVKHuSnfIE-V-8ykZD0J5dfqUjyuXVvghbWQtAWOYDpcwSePLL-2hbUrtESu67EV17cKuZz5Kp13IgYW9eLu9oxkypDQ==)
+[5] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwiGOJrMeMO03GK3ViI-qQZj23TsxcoDemVVSepOU1QVJ7mlpfE8dA0hP3gdr1yACLAk1XCHcVenGY7I4f4xpwqKmJ_smHS4-XEqaca3_a-dz8wmtrhfk4o-PZmTEG)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIWSa8mQfJ00JZzxZSNzS8sDbnzI42Y-Tdvms16p7Zmh4S3OKhMIdvEdPc3HTRhem64_P4iHnEdFwTYQMJcvjg5QLXOjTgDV0m9goYOmO_NsotEFTX4QWUNIQlRlEr42-xPTt5_h8M3r-HS4gKGIhH0hQpCV67q0DNvoKx9PelmoqcFeerMsRHYlPaBTcQj-Y6Rz1sqAnNFLMPFh3Qq44gft7GkX1NmvjQd71a2l6GTPIaXyNkK359sXoEZ2YTOnRM)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdY8VtUXpni05UjPmLEdJmw5DqcO6vLz9wLyVKHuSnfIE-V-8ykZD0J5dfqUjyuXVvghbWQtAWOYDpcwSePLL-2hbUrtESu67EV17cKuZz5Kp13IgYW9eLu9oxkypDQ==)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSXq4aRdTHaj1UD8sk8sqmgs1hGCTd8Iog14g2i7GoSP3hGuZZK9CiFFZXS9QZlM8OIxTtfZYHlY3Dt1Y4YqORse_lkI-P8MAbuEbLEtAgRuj7ramS4VgBW6oRyLj7SY1QDJwzbJyR8w==)

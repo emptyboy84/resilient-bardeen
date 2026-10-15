@@ -1,0 +1,16 @@
+The search for ""블루호텔 레코딩" OR "블루호텔 레코딩스튜디오" OR ("블루호텔" "녹음실") OR ("블루호텔" "금정로 111")" returned the following summary:
+**블루호텔 레코딩 스튜디오**에 대한 정보는 다음과 같습니다.
+
+*   **위치:** 부산광역시 금정구 장전동 383-9[1][2]
+*   **연락처:** 051-514-0625[1][2]
+
+**참고 사항:**
+*   블루호텔 레코딩 스튜디오는 부산 지역의 인디 밴드 및 음악인들과 협업해 온 녹음실로 알려져 있습니다[3][4].
+*   밴드 '헤르츠(HERZ)'의 앨범 작업 등 지역 음악 신에서 활동한 기록이 확인됩니다[3].
+*   문의하신 "금정로 111" 주소와 블루호텔을 직접적으로 연결하는 정보는 검색 결과에서 확인되지 않았습니다[2]. 해당 스튜디오의 주소는 위와 같이 장전동 383-9로 안내되고 있습니다[1][2].
+
+Sources:
+[1] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC9x7uazP2cX7WbXT75PtshhNfAkgnTIiXNynjDgKG1F22WNx2HKKWBKUDWlwnMYdu_pydO-LVRfASMI0N7JGcqpeJcLIU0XhFd1yd1mLmkVMKpHpFcUE_bjjmqR1XLRAYPFnI5HEEVQ1nomSFwSpLcKcNg58l_U_nPQQBh0nswMh_Uv9D7Fm5CFHBfmfuSeHVGVIHXzb5JoNYI__dy5XM3dD3w43SwWbwk_ybUTz7620YpX5LSW9HDrvLQ4WkAVTqKELnuJikgvig85njD4j0RHthjzX-F03mAbNfHzZNVALf)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZv3Q14QiQLX9IvDVzaUCqEpK3uAoHZTPhHWb7yEbCIbASEgcbFzqn96_2rfxaRuMnwsTgDs0wxh2IZYkBPSfKqReFxbXDDrzgCGjJaG3UvZkCZ66n5nspzgYJWU79J1VdWmHz3kgMSJPnpHOatY-Zpl3Y99iU2vzhj_alknj6b_4AtOI3N60kG36KGVGYhf3L3XVQ2LANHsOqCt3i83vCl6Y7u0wYAOYnFgLyX-tQJVc-BndI3CVI-gKsjeDU3TqdrIZsuN0A1hTipb7uq9npAGpRNpN9TartozROawGLjxzic6GTjQ==)
+[3] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb7Vkijn67djfVe42wacwtPH1VLhmJfEMciyS-v4mZvUeiQWeNyT-wnZZ0cx_K6HN0xETB4NukhPyqj8U13wVVsNeGkCW7GJibU7NnRM8tdc13O40niUwGj11fYLwedN2UbMFACI_ytlciJc2dWPiliB-a_PYWAQTwqWd1xW3orDPennppukskK2YP)
+[4] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwcB8r66oamHLouusMib7SPaO9hgI1FqwgKbv6131FCI26g85wwGlPjdE7ELMsYEDZ3VUo158hXbZETof7O0vSTbNkueVQrG83OIFWKctx7HHK_MpyIphl1y7G5D_lmgRftA0BQe4V7wxysCtb8kSArlfAqGyYv-JrOqiv3c88pYVZpMyNuXxRAAFYurv3uD7T3KAxx4w9ZBMJpTN_PpGchaTpGnc3lC7TKCWTqffNyjED4ctYMolHDMryb1TiDDlpbZ0bQOwJdNXwMg_Pm4v2IOEs_bzX553kTwdMSnWxaacnCiMpuQMqDGqdFlG_VTmP_eeof3C9QEzm7M8NZVDVOLcfAQX1QEVhkZddAMJ_Gw08mUN_TkMObyy0DCC6C0QQr98qofWiNk7nSjFCaUT4czn3vc1pYZCMioaXfZqcr1HRT231u5tFGJk=)

@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+1818 {
+  cand: { bno: '6033796242', title: '이소민' },
+  detail: { bno: '6033796242', status: '폐업자', rep: '이소민' },
+  target: {
+    row_idx: 1818,
+    '순번': '1817',
+    name: '이소민',
+    rep: '이소민',
+    phone: '010-2801-2662',
+    addr: '남구 분포로 113(용호동 엘지메트로시티)',
+    type: '콘텐츠솔루션'
+  },
+  reason: 'rep_match'
+}
+

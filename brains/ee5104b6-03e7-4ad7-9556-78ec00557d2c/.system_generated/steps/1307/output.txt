@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+Invalid arguments for tool "browser_click":
+✖ Invalid input: expected string, received undefined
+  → at target

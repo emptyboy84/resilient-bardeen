@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:4 �:54
++     const regex = /<a class=\"result__snippet[^>]*>([\s\S]*?)<\/a>/gi ...
++                                                      ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:4 �:62
++ ...    const regex = /<a class=\"result__snippet[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:6 �:35
++     while ((m = regex.exec(html)) !== null) {
++                                   ~~~
+� �Ǵ� � �ġ � '!==' �ū�Դϴ�.
+�ġ �:6 �:34
++     while ((m = regex.exec(html)) !== null) {
++                                  ~
+'while' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ �:6 �:36
++     while ((m = regex.exec(html)) !== null) {
++                                    ~
+� � '!' �ڿ� � �ϴ�.
+�ġ �:6 �:43
++     while ((m = regex.exec(html)) !== null) {
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:7 �:44
++         console.log(m[1].replace(/<[^>]+>/g, '').trim());
++                                            ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:9 �:1
++ });
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:9 �:2
++ });
++  ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

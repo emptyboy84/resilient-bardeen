@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+data/(�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx ['� �', '� �Ʈ']
+data/�_�ǻ�DB_16�÷�_�Ϸ�_�.xlsx ['�_�Ϸ�']
+

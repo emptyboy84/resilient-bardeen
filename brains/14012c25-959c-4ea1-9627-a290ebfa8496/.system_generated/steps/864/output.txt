@@ -1,0 +1,14 @@
+The search for ""010-7189" ("박은현" OR "써니사이드업" OR "sunnysideup")" returned the following summary:
+검색하신 키워드와 연관된 기업 및 인물 정보는 다음과 같습니다.
+
+* **회사명:** 주식회사 써니사이드업 (SUNNY SIDE UP)[1]
+* **대표자:** 박은현[2]
+* **주요 사업:** 게임 제작 및 소프트웨어 개발 (대표작: PC 게임 《숲속의 작은 마녀 / Little Witch in the Woods》)[3][2]
+* **위치:** 부산광역시 해운대구 (센텀중앙로 / 수영강변대로 등)[1][2]
+
+기업 등록 정보 및 공개된 비즈니스 데이터상에서 위와 같은 연관성이 확인됩니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrOJqvFKsmMLyH2ZG6Hr8bzGrYBy_9imHXpI_0BRTMvvs8iWbo521FBHHu7-lnawTS4dVy4E1EtZFYkz1s8duDfGUXKkNQZi9XMkTjuGrM2pVp5KrL24fYkXA=)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe9R9zvswFhvp0X_vEh2PJGpZNDfK56x_j3zzMHXmkXVd2l5bwt8iibLXSQ006qprCt7mgchCtufOoc3tDun17nDukqONU7IoWu-sHqLbw19-zjlGQ6n3S_IWH4gCLLzlfna-HPCnesg==)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz70JNxlUzDJKk6gfMls7cEflpXmy8N5SbIcPwv9y_TTbJSAyFkLNPmuZq_P1t0hg2ZudPCwW426ICM5jb8Oq7YgsvOXupkN9c55wIvujtdgFTE-DenZC73ipyvSv8nyPvJKEd0ZDYIKp1cW8Ar_VeQN7uTA7pEFvkkgEvxkYiAwnwTrdLhdQue4N7UPu94odXLLLO65xPtQ0OZOItrVYRWEraD2Lommd5wl5ytMWCg4XsyVe_1y1IDBZe5mSgN6x6QreotLJKR6bt1-9raRccUCBPwQVu5uBrU_Op)

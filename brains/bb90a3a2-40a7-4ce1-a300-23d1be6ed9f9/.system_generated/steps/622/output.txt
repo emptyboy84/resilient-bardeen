@@ -1,0 +1,26 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-610
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-610.log
+Log output:
+<truncated 31 lines>
+aded: 11
+Progress: 728 / 2542 | Found new: 67, Upgraded: 12
+Progress: 808 / 2542 | Found new: 72, Upgraded: 12
+Progress: 888 / 2542 | Found new: 79, Upgraded: 12
+Progress: 968 / 2542 | Found new: 84, Upgraded: 12
+[KAKAO FOUND 100] Seq 1926 보물상자 -> 010-5005-4873 (부산 강서구 녹산산단232로 38-3)
+Progress: 1048 / 2542 | Found new: 89, Upgraded: 12
+Progress: 1128 / 2542 | Found new: 97, Upgraded: 13
+Progress: 1208 / 2542 | Found new: 104, Upgraded: 13
+Progress: 1288 / 2542 | Found new: 106, Upgraded: 13
+Progress: 1368 / 2542 | Found new: 107, Upgraded: 13
+Progress: 1448 / 2542 | Found new: 110, Upgraded: 13
+Progress: 1528 / 2542 | Found new: 116, Upgraded: 13
+Progress: 1608 / 2542 | Found new: 119, Upgraded: 14
+Progress: 1688 / 2542 | Found new: 121, Upgraded: 14
+Progress: 1768 / 2542 | Found new: 123, Upgraded: 15
+Progress: 1848 / 2542 | Found new: 128, Upgraded: 15
+Progress: 1928 / 2542 | Found new: 129, Upgraded: 15
+Progress: 2008 / 2542 | Found new: 130, Upgraded: 15
+
+Last progress: 1s ago

@@ -1,0 +1,6 @@
+### Result
+"본문 바로가기\nHOME\n\n전국 출판사/인쇄사 검색 시스템입니다.\n전국 또는 지역별로 등록현황을 검색할 수 있습니다.\n\n지역 선택\n-전체-\n서울특별시\n경기도\n인천광역시\n강원특별자치도\n부산광역시\n대구광역시\n충청북도\n충청남도\n세종시\n대전광역시\n전남광주통합특별시\n전북특별자치도\n경상북도\n경상남도\n울산광역시\n제주도\n \n전체\n영업\n폐업\n\n\n업종구분\n출판사\n인쇄사\n \n항목\n상호\n주소\n \n부산광역시\n등록업체수 : 3 개\n페이지수 : 1\n등록구분\t상호\t주소\t영업구분\n인쇄사\t비문 인쇄\t부산광역시 해운대구\t영업\n출판사\t비문\t부산광역시 해운대구\t영업\n출판사\t플랜비문화예술 협동조합\t부산광역시 수영구\t영업\n1\n출판사, 인쇄사 관련 문의 : 해당 지자체 문화예술과\n\n\n문화체육관광부 (우)30119 세종특별자치시 갈매로 388 정부세종청사 15동\n\nCopyright ⓒ Ministry of Culture, Sports and Tourism"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return document.body.innerText;\n}');
+```

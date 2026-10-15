@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+[eval]:1
+const str = '（주）교보문고 해운대 팝업스토어\t\t\t\t\t051-709-5958\t\t해운대구\t해운대구 좌동 해운대로 NC백화점  \t출판\t\t\t\t\t\t'; console.log(str.split('\t').map((v, i) => ${i}: ''));
+                                                                                                                                               ^
+Expected ',', got '{'
+
+SyntaxError: missing ) after argument list
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+

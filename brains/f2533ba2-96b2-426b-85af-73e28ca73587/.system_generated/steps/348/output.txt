@@ -1,0 +1,213 @@
+### Result
+[
+  {
+    "tagName": "INPUT",
+    "id": "mf_w2xPath",
+    "name": "w2xPath",
+    "type": "hidden",
+    "src": "",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_linkParam",
+    "name": "linkParam",
+    "type": "hidden",
+    "src": "",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_merchantNo",
+    "name": "merchantNo",
+    "type": "hidden",
+    "src": "",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_mallId",
+    "name": "mallId",
+    "type": "hidden",
+    "src": "",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887456",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_wfm_potal_main_wf_header_sbx_swrd___input",
+    "name": "",
+    "type": "text",
+    "src": "",
+    "placeholder": "검색어 입력",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_wfm_potal_main_wf_location_wf_help_main_wf_help_sub2_sbx_swrd___input",
+    "name": "",
+    "type": "text",
+    "src": "",
+    "placeholder": "검색어 입력",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887457",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "btn_meta_info1791254887765",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "결함등록"
+  },
+  {
+    "tagName": "SELECT",
+    "id": "mf_wfm_potal_main_wfm_content_nodeIdPath_input_0",
+    "name": "",
+    "type": "select-one",
+    "value": "-전체-"
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_wfm_potal_main_wfm_content_textQuestion___input",
+    "name": "",
+    "type": "text",
+    "src": "",
+    "placeholder": "찾고자 하는 단어 또는 문장을 입력하세요.",
+    "value": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "mf_wfm_potal_main_wfm_content_btn_scourt",
+    "name": "",
+    "type": "button",
+    "src": "",
+    "placeholder": "",
+    "value": "개선의견 보내기"
+  },
+  {
+    "tagName": "SELECT",
+    "id": "linkSiteList",
+    "name": "url",
+    "type": "select-one",
+    "value": ""
+  },
+  {
+    "tagName": "IFRAME",
+    "id": "mf_iframeChat",
+    "name": "",
+    "src": "about:blank"
+  },
+  {
+    "tagName": "IFRAME",
+    "id": "",
+    "name": "excelUploadFrame__",
+    "src": ""
+  },
+  {
+    "tagName": "IFRAME",
+    "id": "",
+    "name": "fileUploadFrame__",
+    "src": ""
+  },
+  {
+    "tagName": "IFRAME",
+    "id": "",
+    "name": "ozReportFrame__",
+    "src": ""
+  },
+  {
+    "tagName": "INPUT",
+    "id": "__IME_HIDDEN__",
+    "name": "",
+    "type": "text",
+    "src": "",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tagName": "IFRAME",
+    "id": "__processbarIFrame",
+    "name": "",
+    "src": "https://www.iros.go.kr/websquare/message/processMsg.html?param=%c3%b3%b8%ae+%c1%df%c0%d4%b4%cf%b4%d9.&postfix=2026_10_06"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input, select, iframe\')).map(el => ({\n    tagName: el.tagName,\n    id: el.id,\n    name: el.name,\n    type: el.type,\n    src: el.src,\n    placeholder: el.placeholder,\n    value: el.value\n  }));\n  return inputs;\n}');
+```

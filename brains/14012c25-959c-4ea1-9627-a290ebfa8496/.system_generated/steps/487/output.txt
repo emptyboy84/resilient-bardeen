@@ -1,0 +1,8 @@
+The search for "site:nicebizinfo.com "비솜" OR "538-86-00834" OR "5388600834"" returned the following summary:
+나이스비즈인포(nicebizinfo.com) 사이트 내에서 검색하신 검색어(`비솜`, 사업자번호 `538-86-00834` 또는 `5388600834`)와 일치하는 결과가 확인되지 않습니다[1][2]. 
+
+해당 기업정보가 나이스비즈인포 데이터베이스에 등록되어 있지 않거나, 입력하신 상호명 또는 사업자등록번호가 정확하지 않을 수 있습니다. 정확한 상호명이나 올바른 사업자번호를 통해 다시 검색해 보시기 바랍니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-06K7VVAUDWQYnNdlJINj6HPRYcxTyY8wB7-Y4oalB-r0zS1f5P2NcNhVWXCE6-TyFC28wNcdRo7QzG6XL-Qn3vz_21iio9yk5sIbDWGP8w==)
+[2] [reportworld.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdRzWX-iCeAWqFipQ_AK_JleMRmwTaOdBgSGx_f9efDho2pXbg47rAxmzmNMFymBzeJjeU3pPCphjDHdNfD82cr1rbTLNITzIWv1QXuxM-m8caGnfnYRaKjVRcMkWeCL0_c3k=)

@@ -1,0 +1,51 @@
+
+The command exited with code 0.
+Output:
+Starting data reading and correction...
+Read 20434 rows (including header).
+Total modifications made: 246 cells across 배현명 rows.
+Generating Excel Workbook with Blue Highlighting...
+Adding Sheet 2: 교정내역_상세...
+Saving Excel file to: C:\Users\lg\Desktop\Today\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.xlsx
+Excel file successfully created!
+Saving updated CSV file to: C:\Users\lg\Desktop\Today\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+CSV file successfully created!
+
+=== EXECUTION SUMMARY ===
+Total rows processed: 20433
+Total cells corrected: 246
+Modifications breakdown: {
+  "설립일자 끝 불필요 하이픈 제거 (연도 표기 통일)": 52,
+  "설립일자 단순 기호(.., -) 공백 처리": 7,
+  "단순 기호(플레이스홀더) 공백 처리": 55,
+  "형태에 들어간 종업원수(4) 이동 후 초기화": 1,
+  "종업원수 4 정상 반영": 1,
+  "설립일자에 오입력된 업종 텍스트 초기화": 1,
+  "실사 확인 전화번호 복구": 1,
+  "열 밀림 텍스트 제거": 1,
+  "설립일자에 들어간 업종 텍스트 제거": 1,
+  "창립일자에 복사된 주소 제거": 1,
+  "종업원수 1 복구": 1,
+  "주소 오복사 초기화": 5,
+  "사업자번호 복구": 1,
+  "앞주 오복사 초기화": 1,
+  "뒷주 오복사 초기화": 1,
+  "영문명 오복사 초기화": 1,
+  "구상호명 오복사 초기화": 1,
+  "결산월 복구": 1,
+  "재무/지역 열 주소 오복사 초기화": 16,
+  "코드/응답자 열 주소 오복사 초기화": 8,
+  "휴대폰 번호 앞자리 0 복원 및 표준 하이픈 서식화": 18,
+  "4자리 우편번호 앞자리 0 패딩 복원 (5자리)": 49,
+  "우편번호 열에 오입력된 대표자명 -> 도로명 우편번호(38459)로 교정": 1,
+  "이메일 열의 URL 제거": 1,
+  "전화번호 앞 줄바꿈(\\n) 제거": 3,
+  "휴대폰 번호 표준 하이픈 서식화": 7,
+  "비고 오타(\"옮은\") 교정": 2,
+  "비고의 정정 사업자번호를 사업자번호 열에 반영": 4,
+  "비고 오타(\"패업\") -> \"폐업\" 교정": 1,
+  "회사명에서 (폐업) 문구 분리": 1,
+  "비고란에 폐업 표기": 1,
+  "종업원수 텍스트(\"20 미만\") -> 숫자 20으로 표준화": 1
+}
+

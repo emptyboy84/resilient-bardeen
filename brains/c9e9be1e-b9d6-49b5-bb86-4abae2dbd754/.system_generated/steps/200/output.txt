@@ -1,0 +1,35 @@
+The search for ""정관읍 산단4로" 우편번호 OR "화전산단5로" 우편번호 OR "태복산로27번길" 우편번호" returned the following summary:
+도로명주소의 우편번호는 건물마다 다를 수 있으므로, 정확한 우편번호를 확인하시려면 상세주소(건물번호)가 필요합니다. 문의하신 도로명주소와 관련된 정보는 다음과 같습니다.
+
+### 1. 부산광역시 기장군 정관읍 산단4로
+*   **우편번호:** 도로 구간에 따라 **46021, 46025** 등의 우편번호가 사용됩니다.
+*   **예시:** 
+    *   산단4로 152-15: 46021[1]
+    *   산단4로 139: 46025[2]
+    *   산단4로 160: 46021[3]
+
+### 2. 부산광역시 강서구 화전산단5로
+*   **우편번호:** 화전산단5로의 건물들은 주로 **46735, 46738, 46739** 우편번호 구역에 속해 있습니다.[4]
+*   **예시:** 
+    *   화전산단5로 150: 46735[4]
+    *   화전산단5로 106: 46738[4]
+    *   화전산단5로 105: 46739[4]
+
+### 3. 경상남도 창원시 의창구 태복산로27번길
+*   **우편번호:** 태복산로 인근 지역은 **51166** 등의 우편번호가 주로 확인됩니다.[5][6] 
+*   태복산로27번길은 상세주소에 따라 우편번호가 달라질 수 있으므로, 도로명주소 안내시스템에서 정확한 건물 번호를 입력하여 검색하시는 것을 권장합니다.
+
+---
+**더 정확한 우편번호를 확인하시려면:**
+[도로명주소 안내시스템(www.juso.go.kr)](https://www.juso.go.kr)에 접속하신 후, 찾으시는 **도로명과 건물번호(상세주소)**를 입력하시면 정확한 5자리 우편번호를 바로 확인하실 수 있습니다.[7][8][9]
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn2S_sxtxlwpNRCa4gFgPETolmVbgQPBjpIFj4nNl5BWoJMg_p_ighnQtuonn-BdeSp0HoJOI_eHOaFDQhDqpOIrI1euqfoUtJa0RlOJgCKix0KRqh1AzuCyLKwy5tSX-yAo6FaDR3GlbX3AI7huNZW5RSuBKHgwoQ4NEAdQmklh3qVwouLFswHxGqJ8QmyqG5uMkhzzIuI5CZNIzDUtWlGrmQEXbn0vQ6yWOAEukfFFpLEFDeBw_OL5fdQoBspuUCIs-fx4Q=)
+[2] [dorojuso.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcPadTD0lQVjP_Rggm49xHD2k54M7htd0UXWW8hnN0-5ZCfBXqAU9vwCR6k6l5po03P5TgnnXUrpOyXpf76yIlRsioPwxbO7NHuNIRscV4_XsAaTzzSsTPMrOIxM7jD2VMxT0GP_QEX5TdUxBxpSYh)
+[3] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiENOF00f2o-h-6b9S-RqTDk6WaRqtvcPW33tcKWi8JWdMwRiEeY9ahwzYFdxJt9N-6BrKN9WiDlzSEiNLIxuhlUzp7s6m3xljtkhRpxNQ7kZn83NpKXJNIfLtp6dmItC2QvE-alIpUuoMKxOAhsqmk9kFI8QaK-gCRXiHVv7vg_KbIoqFEVapbWMijKjcAqOw935LuZJmzBxU-SvzHtuw5TfJu8LpR_qtPEAohzrRveshDeD5RRZFf1vazxrFFPF5VxkX5tve5VNF4WR4MvNw17vNj61Qc8qSjEC3RizQkOz20F4gl1NAklpE)
+[4] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX-e5zg4_7LfTZHVwRxnP5nKAyiy4pknQhEkp8au2eBzoLOq4HsuWDnsmas7G1ZMD1VNUpSZkBu5b8zYy1b1If6aXXz1fKIsi18f2JeWrgWw9KVE51bJSRx8JyeZNj80kmt8R-nt5r24ELUrf6YdWY8-E2oPXhdojrXb_INNJSnj5AKppeBmN1PL2rF0GFXimmGxLjo1oo_ej-3E9R2liXKYbLunZBCaGOjG9rKYodSIJUjz8XN_EcFt_TjtWO)
+[5] [addressview.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRyoieqfA5OccCsCm3LPrKtkoXKxxBWWQA-8ObYore7kAVwLwJIRGYJUhuZgPvoM7ncf8jNH8g1EXFeZguvHVgpf7AF7G7l8VQCMAN2k_3RmudrG2hibZYHe1WZWEoptLkehuq5B2_Gs7uVbApdYlCOHathlSwvmNmUw==)
+[6] [addressview.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9dBfciZz9THLL97JR6btsnSfHkWx6aF7Bc1mVvWzqQdpLYU1yxLmBZujHPSmqwNiCtpV7gHQ8cpm23ecbpFYtvid6m1KTSRqLdGkgoAVPGIXydOQxNXYfjdbFkYSb3P5vB_Db1TTDd-CHlqdALkLXJpnGWseyG2DRJw==)
+[7] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTaEHcl3tHf6xwaQ4pZeson1EFFYV6xSLK3UCLDZbW9Y8pxbZq1LK4CrgBjYIeTemtQheid4m0GL28WxDEAkfwU5qKT7kvaGszpmU7t9K8yghqwemBSXTjtJOxOOhYGg==)
+[8] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTaEHcl3tHf6xwaQ4pZeson1EFFYV6xSLK3UCLDZbW9Y8pxbZq1LK4CrgBjYIeTemtQheid4m0GL28WxDEAkfwU5qKT7kvaGszpmU7t9K8yghqwemBSXTjtJOxOOhYGg==)
+[9] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTaEHcl3tHf6xwaQ4pZeson1EFFYV6xSLK3UCLDZbW9Y8pxbZq1LK4CrgBjYIeTemtQheid4m0GL28WxDEAkfwU5qKT7kvaGszpmU7t9K8yghqwemBSXTjtJOxOOhYGg==)

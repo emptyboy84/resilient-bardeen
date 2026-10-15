@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Updated records with NICE BizINFO official 산업명: 0 / 200
+Additional CorpNos from NICE: 0
+Additional unmasked CEOs from NICE: 0
+Regenerated TSV/CSV successfully with accurate KSIC categories!
+

@@ -1,0 +1,16 @@
+The search for ""동화사" "출판" "부산" OR "초량" OR "051-464-0761"" returned the following summary:
+검색하신 "동화사", "출판", "부산/초량", "051-464-0761"과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **부산 초량 관련 정보**: 과거 대한불교계 종단 중 일부가 부산시 동구 초량동 일대에 총무원 등의 사무소를 둔 사례가 확인됩니다[1]. 다만, 제시하신 전화번호(051-464-0761)와 '동화사'라는 명칭을 가진 출판사의 직접적인 연관성을 보여주는 구체적인 정보는 검색 결과에서 확인되지 않았습니다[2][3].
+*   **동화사(사찰) 관련**: 대구 팔공산에 위치한 대한불교조계종 사찰 '동화사'는 불교 관련 행사나 출판 기념식 등을 진행하거나[4][5], 과거 목판본을 간행하는 등 불교 문화의 중심지로서 알려져 있습니다[6].
+*   **기타**: '동화사'라는 명칭은 일반적인 사찰 이름 외에도 일부 기업이나 단체명으로 사용될 수 있으나[2], 요청하신 특정 전화번호와 연결된 출판사에 대한 정보는 검색되지 않았습니다.
+
+혹시 찾으시는 곳이 특정 단체의 사무실이나 종교 관련 기관이라면, 해당 명칭 외에 추가적인 정보(정확한 업체명 등)를 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8al0l6KTwFF65xUylpfvr6D1c-X6OA4WfgYrGHyZfN99HimriuxVv277NNCBvKQ1OAx4Jf_42OappSb1txGQPO2oytixeA1n3jcC_qaCQKDnh5jcqt00=)
+[2] [ktbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOF4XHT2AhN34B2CuwDhDMLot9pAbxHwFQnprlpKKCyT6ljB7t5p0ohw2b8NtDt9DD-qXVks78U3klLGNDqHZqIsrT0jX3j0RdZVN4dRgbAkrFG3pms47JRKZIAeK8v0tb0I909yY-vk6lisG7Yw==)
+[3] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoi3lo2FYBlj6DylBVm3qMM6yiEGVsQNVv35MGVhN6vuQDojZIHqSdC7GCuAdeRvOO-5CnJEIglhBeeWkQwZIzz4C06BUpnSAja8DN6Y3pHfXAV0ECp-5la0c3kBsuGYGinmBJC1e_mNMpNfV9Va6uJ-chuPFn3nQd_5pXeZ70v0Xx9-Mh13kV6bH0uFicq6g2dzBbIffaekmxiFG5cHsX6GEq98WVZIvJJSgQ0JC4TYnlWfJudALPxZq-38w0SSvDUTKx)
+[4] [safetoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvfbvWTXRGFV23ZDyqpVxVfIE_d9CEt8cRDhyJETo5TpKXjwjn_s-dc5JplrClbwPuj9O6OK_hRmgLhUxl2RFAn_FPFO9mu-hfzc_9EL1GhFjpsAxBKhpRNQ2UPBxhE-QOx6-lz8F2dFvx_U=)
+[5] [hyunbulnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEd_qlX0FJXgkKXxXPeEGh7sdsE1MXv6bYVbiVXZapnRbfAhNkWhMy6vMqAxkNGekkb6vD_wPGc2cZjnana_AXeZGHOGkEb0uyNqnJDwAhXfV5VLxsFBu2W6GokMLOjSWVjmyU9t08ZlBzTa-7xCGk5ier)
+[6] [kci.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxAv0Y5FKbLdW69StuZ9b7w7jdXK3-Nkh0vT4NT2pggxrHr4UZAjC1twa_tL4x9Wlgud6dAdrUyN_gSd9QWBJMiM1FSbWSavFCd4NxbaFs-0TJZSZdpS3Mt6vtFbH42cDSCFU1iWiInScwgzafDNlG6L8yCkyQT1XYHM6g-iv)

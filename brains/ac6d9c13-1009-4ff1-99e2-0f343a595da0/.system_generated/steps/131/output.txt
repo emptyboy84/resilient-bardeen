@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                               
+--------                                                                                                               
+C:\Users\lg\Downloads\(�Ͱ�)�ǻ� DB �_�޿�_260720_� (22).xlsx                                        
+C:\Users\lg\Downloads\(�Ͱ�)�ǻ� DB �_�޿�_260720_� (21).xlsx                                        
+C:\Users\lg\Desktop\Today\(�Ͱ�)�ǻ� DB �_�޿�_260720_�_�Ϸ�.xlsx                                
+C:\Users\lg\Downloads\(�Ͱ�)�ǻ� DB �_�޿�_260720_� (20).xlsx                                        
+C:\Users\lg\Downloads\(�Ͱ�)�ǻ� DB �_�޿�_260720_� (19).xlsx                                        
+C:\Users\lg\Desktop\Today\(�Ͱ�)�ǻ� DB �_�޿�_260720_�_.xlsx                                        
+C:\Users\lg\Downloads\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+C:\Users\lg\Desktop\Today\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+C:\Users\lg\Desktop\Today\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+C:\Users\lg\Desktop\Today\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+C:\Users\lg\Downloads\�Ķ�_�ڹ�ȣ�_�_�.xlsx                                                         
+C:\Users\lg\Downloads\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+C:\Users\lg\Desktop\Today\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�...
+
+
+

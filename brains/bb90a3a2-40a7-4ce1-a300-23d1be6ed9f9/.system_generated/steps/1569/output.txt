@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Len: 962972
+KISCODE: LJ0779
+Phones in NICE: [ '02-3771-1514' ]
+[박현석]: founder": { "@type": "Person", "name": "박현석", "jobTitle": "대표" }, "address": { "@type": "PostalAddress", "postalCode": "
+[박현석]: 호 752-87-0**** 법인번호 180111-1****** 대표자명 박현석 설립일자 설립일자 툴팁 닫힘 상태 법인등기부등본 설립일자이며, 존재하지 않을 경우 사업자등록증 상 개업일자 표시 2020.07.07 주소
+[에이치에스]: 1gZlw_DVvO2BKC3eFRkJkIupN0ineRbj --- (주)에이치에스렌텍 - 기업상세 (function(w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.st
+[에이치에스]:  에이-2908호 (재송동,센텀스카이비즈)" }, "name": "(주)에이치에스렌텍", "url": "https://m.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=LJ0779"
+[에이치에스]: ", "@type": "PropertyValue" } ] } 쿠폰 (주)에이치에스렌텍 일반 중소기업 기업 정보 기업 정보 툴팁 닫힘 상태 기업 개요입니다. 사업자 및 법인 등록 정보를 기준으로 제공합니다. 기업 정보
+[2908]: 운대구", "streetAddress": "해운대구 97, 에이동 에이-2908호 (재송동,센텀스카이비즈)" }, "name": "(주)에이치에스렌텍", "url": "https://m.nicebizinfo.com/
+

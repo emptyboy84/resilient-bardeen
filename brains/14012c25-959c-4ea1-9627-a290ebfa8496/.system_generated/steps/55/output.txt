@@ -1,0 +1,12 @@
+The search for ""위너스매니지먼트" "센텀중앙로 48" OR "051"" returned the following summary:
+검색 결과에 따르면, **주식회사 위너스매니지먼트**(Winners Management)는 부산광역시에 위치한 기업으로 확인됩니다[1]. 
+
+* **기업 주소:** 부산광역시 해운대구 센텀중앙로 48 (우동, 에이스하이테크21) 등과 연관되어 등록 및 운영되어 왔습니다[1][2].
+* **주요 사업 내용:** 영화, 비디오물 및 방송프로그램 제작 관련 서비스업 또는 주식·증권 정보제공 및 투자 유치(위너스TV 등) 관련 업무를 진행하는 중소기업으로 채용 공고 등에 나타납니다[3][2][4]. 
+* **지역번호 (051):** 부산 지역에 본사 및 사업장을 두고 있어 부산 지역 번호인 `051` 구역에 해당합니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9F6V8wvUpErrQ1SjxxJEwysgADNFfWW0133Tl5fUiUJfMsMO-iKE2UfkQkcREsBAPEE31v0MvuSE3r_GN0RpPLealy7dis9ZzkX33vuJl7TdOaUIIYpPXqIw=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdRVErNRErRB7P3bF_Qt7Ri1rHmCGlkSyjuBnatswqeMLuSGQYT8XsjwYy29abhGLbD6Ak1o-AKIbdfwI3dQWxvmXkB5SdONXF0HmmPGP7HtGdl5OmuIn6KBF_h5gnsup18pPkomp0RCg=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeOXAKt9-dtsqotY8JEpuTsx0sEjWFWO1c_yMHPrJbMRugsrqEB0d6LqevEhNYDU7jdBionrm4mtgMaOYAszfPZdQThJJIaoZVVaLFZjh0AuLXRghaSMxSXWK-j2MIp6ViIKBtZ3SAPuZSvjkdm0QOyo_qAlKjT3iNTS7Zqh6iP_pcmI3SPToVTXbmH0yi_Xg93v9ulNW3V9Y1j13cZFp-HvjkE0ap3RROZmIZRBmjTmUOTuYyiLfUeMHCVchH-Y-bIT8sMhl7i_xaNJ_enBIDJXr5u7lPrHMFlorv4don2LxJhlaX9RWZ6eMur76O)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbx9LLhRq7pbMiTx8q2glO-3xYJv11_muuGz_mn9ybqsFQYO93PiG1UnNArtAWxgTA5ibER9fvKD60W72aEhd3N_7pRG-LRKrVdqA5ZCRMeM5vflNJsVJBTLtEj-acrDq9R6r4a1Sx1VioSbylzEktjYGqXa6dNtOEG1ArI7OUE7OcVSostM-vG7rAIN2yKdLkpRqxjmn9H2M1vHN44Vmd8m6bvPXdPyUYQymq8WHtGAjG9xci8WjUmw==)

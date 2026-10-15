@@ -1,0 +1,267 @@
+### Page
+- Page URL: https://bizno.net/?query=%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84
+- Page Title: 브이알코리아
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=f27e1]:
+  - text: 
+  - banner [ref=f27e2]:
+    - generic [ref=f27e4]:
+      - link [ref=f27e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f27e7]:
+        - list:
+          - listitem [ref=f27e8]:
+            - link "Home" [ref=f27e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f27e10]:
+            - link "사업자등록번호조회" [ref=f27e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f27e12]:
+            - link "법인등록번호조회" [ref=f27e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f27e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f27e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f27e16]:
+            - link "전화번호로 조회" [ref=f27e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f27e18]:
+            - link "대표자이름으로 조회" [ref=f27e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f27e20]:
+            - link "API" [ref=f27e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f27e22]:
+            - link "고객문의" [ref=f27e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f27e28]:
+    - heading "사업자등록번호조회" [level=1] [ref=f27e29]
+    - paragraph [ref=f27e30]:
+      - text: 사업자등록번호로
+      - generic [ref=f27e31]: 
+      - text: 사업자정보(회사명,법인번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f27e32]'
+    - paragraph [ref=f27e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,067"
+    - generic [ref=f27e35]:
+      - combobox "Select your city" [ref=f27e37]:
+        - option "지역전체" [selected]
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산"
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "사업자등록번호 / 법인등록번호 / 상호명 입력" [active] [ref=f27e39]
+      - button " 검색" [ref=f27e41] [cursor=pointer]:
+        - generic [ref=f27e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f27e43]:
+      - text: "\"브이알코리아\" 키워드로"
+      - strong [ref=f27e44]: "5"
+      - text: 개의 결과를 찾았습니다
+  - generic [ref=f27e47]:
+    - generic [ref=f27e48]:
+      - separator [ref=f27e49]
+      - generic [ref=f27e51]:
+        - generic [ref=f27e53]:
+          - link [ref=f27e54] [cursor=pointer]:
+            - /url: /article/7998801029
+            - heading "주식회사 브이알코리아" [level=4] [ref=f27e55]
+          - heading "유명*" [level=5] [ref=f27e56]
+          - heading "컴퓨터 및 주변장치, 소프트웨어 도매업" [level=5] [ref=f27e57]
+        - paragraph [ref=f27e58]:
+          - text: 서울특별시 광진구 아차산로78길 ...
+          - link "인기 여행지 탐색" [ref=f27e59] [cursor=pointer]
+      - separator [ref=f27e63]
+      - generic [ref=f27e65]:
+        - generic [ref=f27e67]:
+          - link [ref=f27e68] [cursor=pointer]:
+            - /url: /article/1480602864
+            - heading "샌드박스 브이알 코리아(Sandbox VR Korea)" [level=4] [ref=f27e69]
+          - insertion [ref=f27e71]:
+            - iframe [ref=f27e73]:
+              - iframe [ref=f36e1]:
+                - generic [ref=f43e1]:
+                  - generic [ref=f43e5]:
+                    - link [ref=f43e7] [cursor=pointer]:
+                      - /url: https://exch.quantserve.com/r?&a=p-0fA2ZNnagamty&labels=_qc.clk,_click.adserver.rtb,_click.rand.251527421&rtbip=103.229.8.95&rtb_id=CQ44AFEAl9IUEQIQAFEAl9IUGDw5-oKR7JJHNLVMzmM&qcclkid=139749cf-b58d-41d9-a5d5-f874264dc8e5&redirecturl3=https://www.dusit.com/dusitthani-guamresort/ko/specialoffers/?utm_source=quantcast&utm_medium=display&utm_campaign=DTGU_MicroConversions_AWO&utm_id=9249245&utm_term=11082852&utm_content=bizno.net&qcclkid=139749cf-b58d-41d9-a5d5-f874264dc8e5
+                    - link [ref=f43e9] [cursor=pointer]:
+                      - /url: https://pixel.quantcount.com/r?a=p-9fYuixa7g_Hm2;rand=251527421;labels=_click.creative.iab,_qc.iab.clk.p-0fA2ZNnagamty.0.11082852;redirecturl2=http://www.quantcast.com/adchoices
+                  - iframe
+                  - iframe
+          - heading "CH*" [level=5] [ref=f27e74]
+        - paragraph [ref=f27e75]: 서울특별시 마포구 토정로16길 8...
+      - separator [ref=f27e76]
+      - generic [ref=f27e78]:
+        - generic [ref=f27e80]:
+          - link [ref=f27e81] [cursor=pointer]:
+            - /url: /article/1348191894
+            - heading "(주)브이알코리아" [level=4] [ref=f27e82]
+          - heading "이경*" [level=5] [ref=f27e83]
+        - paragraph [ref=f27e84]:
+          - text: 경기도 시흥시 정왕동 1364 시...
+          - link "세계 지도 탐색" [ref=f27e85] [cursor=pointer]
+      - separator [ref=f27e89]
+      - generic [ref=f27e91]:
+        - generic [ref=f27e93]:
+          - link [ref=f27e94] [cursor=pointer]:
+            - /url: /article/2032695125
+            - heading "브이알엠피코리아" [level=4] [ref=f27e95]
+          - heading "김순*" [level=5] [ref=f27e96]
+          - heading "기타레져업소" [level=5] [ref=f27e97]
+        - paragraph [ref=f27e98]: 경기도 화성시 안녕길115번길 2...
+      - separator [ref=f27e99]
+      - generic [ref=f27e101]:
+        - generic [ref=f27e103]:
+          - link [ref=f27e104] [cursor=pointer]:
+            - /url: /article/6983400097
+            - heading "브이알박스코리아(VR BOX KOREA)" [level=4] [ref=f27e105]
+          - insertion [ref=f27e107]:
+            - iframe [ref=f27e109]:
+              - iframe [ref=f37e1]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - link:
+                          - /url: https://krrtb.c.appier.net/xclk?bidobjid=GXY2te2eDMCxoakpiZKoag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=Sdo_1zFMQ_Ok348r6Vf6yg&crpid=1KMx_ed7TiqVjqwoAlpueA&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_orMVKq6xo0fP7PI-uY79uqa1wYg_UYA9UYiRu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1Jmg9u1x1U8A121uVo4u-uYOPJ1u_uqGxKqd9o4QxujR&ui=CylYc8Myuqa1ordmKqGxonQVoq69oqdR2qaVo4lO&consent=1&ddhh=orIWod&flanding_rdr=
+                  - button [ref=f44e2] [cursor=pointer]
+          - heading "문혜*" [level=5] [ref=f27e110]
+          - heading "전자상거래업" [level=5] [ref=f27e111]
+        - paragraph
+      - separator [ref=f27e112]
+    - generic [ref=f27e114]:
+      - heading "실시간 조회기업" [level=4] [ref=f27e116]
+      - list [ref=f27e117]:
+        - listitem [ref=f27e118]:
+          - link [ref=f27e119] [cursor=pointer]:
+            - /url: /article/4840100302
+            - paragraph [ref=f27e120]: 씨앤유204호
+        - listitem [ref=f27e121]:
+          - link [ref=f27e122] [cursor=pointer]:
+            - /url: /article/5940700810
+            - paragraph [ref=f27e123]: 동인빌딩
+        - listitem [ref=f27e124]:
+          - link [ref=f27e125] [cursor=pointer]:
+            - /url: /article/4398602495
+            - paragraph [ref=f27e126]: 세류빌드협동조합
+        - listitem [ref=f27e127]:
+          - link [ref=f27e128] [cursor=pointer]:
+            - /url: /article/6035300407
+            - paragraph [ref=f27e129]: 오토 갤러리 29호
+        - listitem [ref=f27e130]:
+          - link [ref=f27e131] [cursor=pointer]:
+            - /url: /article/8123501215
+            - paragraph [ref=f27e132]: 링코모(LINCOMO)
+        - listitem [ref=f27e133]:
+          - link [ref=f27e134] [cursor=pointer]:
+            - /url: /article/1380853564
+            - paragraph [ref=f27e135]: 모쓰코퍼레이션
+        - listitem [ref=f27e136]:
+          - link [ref=f27e137] [cursor=pointer]:
+            - /url: /article/7201202236
+            - paragraph [ref=f27e138]: 예스넷(YESNET)
+        - listitem [ref=f27e139]:
+          - link [ref=f27e140] [cursor=pointer]:
+            - /url: /article/5048545700
+            - paragraph [ref=f27e141]: (주)자연에너지 삼정주유소
+        - listitem [ref=f27e142]:
+          - link [ref=f27e143] [cursor=pointer]:
+            - /url: /article/5484800542
+            - paragraph [ref=f27e144]: 월드푸드
+        - listitem [ref=f27e145]:
+          - link [ref=f27e146] [cursor=pointer]:
+            - /url: /article/4647100107
+            - paragraph [ref=f27e147]: 엠스퀘어 복합상가 513호
+        - listitem [ref=f27e148]:
+          - link [ref=f27e149] [cursor=pointer]:
+            - /url: /article/8980401705
+            - paragraph [ref=f27e150]: 나리양과점
+        - listitem [ref=f27e151]:
+          - link [ref=f27e152] [cursor=pointer]:
+            - /url: /article/6108636406
+            - paragraph [ref=f27e153]: 엘투케이파트너스
+        - listitem
+  - contentinfo [ref=f27e154]:
+    - generic [ref=f27e155]:
+      - generic [ref=f27e156]:
+        - generic [ref=f27e158]:
+          - heading "주요기능" [level=6] [ref=f27e159]
+          - list [ref=f27e160]:
+            - listitem [ref=f27e161]:
+              - link "사업자등록번호조회" [ref=f27e162] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f27e163]:
+              - link "법인등록번호조회" [ref=f27e164] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f27e165]:
+              - link "상호명으로 사업자등록번호조회" [ref=f27e166] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f27e167]:
+              - link "전화번호조회" [ref=f27e168] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f27e169]:
+              - link "대표자이름으로 조회" [ref=f27e170] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f27e171]:
+              - link "정정문의" [ref=f27e172] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f27e174]:
+          - heading "사업자검색" [level=6] [ref=f27e175]
+          - paragraph [ref=f27e176]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f27e179]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f27e181]
+            - button "검색 " [ref=f27e183] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f27e184]: 
+      - generic [ref=f27e185]:
+        - paragraph [ref=f27e186]: Copyright ©2019 All rights reserved.
+        - generic [ref=f27e187]:
+          - link "" [ref=f27e188] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f27e190] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f27e192] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f27e194] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f27e196]:
+    - list [ref=f27e197]:
+      - listitem [ref=f27e198]:
+        - link "Home" [ref=f27e199] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f27e200]:
+        - link "사업자등록번호조회" [ref=f27e201] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f27e202]:
+        - link "법인등록번호조회" [ref=f27e203] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f27e204]:
+        - link "상호명으로 사업자등록번호조회" [ref=f27e205] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f27e206]:
+        - link "전화번호로 조회" [ref=f27e207] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f27e208]:
+        - link "대표자이름으로 조회" [ref=f27e209] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f27e210]:
+        - link "API" [ref=f27e211] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f27e212]:
+        - link "고객문의" [ref=f27e213] [cursor=pointer]:
+          - /url: /voc
+```

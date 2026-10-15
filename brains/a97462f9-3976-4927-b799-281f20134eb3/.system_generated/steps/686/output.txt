@@ -1,0 +1,118 @@
+
+The command exited with code 0.
+Output:
+=== DEEP AUDIT: Header & Columns ===
+Header length: 19
+Col 0: [구분]
+Col 1: [순번]
+Col 2: [사업체명]
+Col 3: [사업자번호]
+Col 4: [설립연도(연도)]
+Col 5: [설립연도(월)]
+Col 6: [대표자 성함]
+Col 7: [연락처]
+Col 8: [팩스번호]
+Col 9: [시군구]
+Col 10: [주소]
+Col 11: [업종분류]
+Col 12: [컨택결과]
+Col 13: [폐업 날짜]
+Col 14: [비고]
+Col 15: [종사자수(명) 25년 기준]
+Col 16: [ 24년 매출액(원) ]
+Col 17: [ 25년 매출액(원) ]
+Col 18: []
+
+=== AUDIT RESULTS ===
+1. Column count mismatch: 0
+2. Name missing: 0
+3. Biz format weird: 10 [
+  {
+    rowNum: 524,
+    seq: '523',
+    name: '규성애드',
+    biz: '주소부산 부산진구 서전로37번길 25-9, 307호(전포동,예일프라자)'
+  },
+  { rowNum: 863, seq: '862', name: '씨오에스피', biz: '대표자명' },
+  { rowNum: 1919, seq: '1918', name: '주식회사 오픈와이즈', biz: '250-88-0' },
+  { rowNum: 1967, seq: '1966', name: '인디페이퍼', biz: '518-93-' },
+  { rowNum: 1976, seq: '1975', name: '부산일보 사직지국', biz: '606-06-85' },
+  { rowNum: 1991, seq: '1990', name: '대명기획', biz: '606-13-837' },
+  { rowNum: 1994, seq: '1993', name: '지플러스디자인', biz: '659-12-' },
+  { rowNum: 2006, seq: '2005', name: '우둥불', biz: '602-08-4' },
+  { rowNum: 2038, seq: '2037', name: '삼수니 다락방', biz: '617-21-98' },
+  { rowNum: 2045, seq: '2044', name: '그린토이나라', biz: '603-13-323' }
+]
+4. Biz duplicates (count): 44
+5. Est Year weird: 5 [
+  { rowNum: 863, seq: '862', name: '씨오에스피', estY: '정보용' },
+  { rowNum: 1525, seq: '1524', name: '남천서점', estY: '20012' },
+  { rowNum: 1591, seq: '1590', name: '일레갈로', estY: '218' },
+  { rowNum: 1688, seq: '1687', name: '시너샛코리아', estY: '22015' },
+  { rowNum: 2311, seq: '', name: '원스튜디오', estY: '2026년' }
+]
+6. Est Month weird: 0 []
+7. Closed date weird: 11 [
+  { rowNum: 122, seq: '121', name: '큐엠시네마', closedDate: '휴업자' },
+  { rowNum: 205, seq: '204', name: '나드소프트', closedDate: '휴업자' },
+  { rowNum: 735, seq: '734', name: '보성이노베이션', closedDate: '휴업자' },
+  { rowNum: 782, seq: '781', name: '빅트리이앤디', closedDate: '휴업자' },
+  { rowNum: 886, seq: '885', name: '아이콘엑스', closedDate: '휴업자' },
+  { rowNum: 1013, seq: '1012', name: '우리시네마', closedDate: '휴업자' },
+  { rowNum: 1197, seq: '1196', name: '태구기획', closedDate: '휴업자' },
+  { rowNum: 1352, seq: '1351', name: '동호전자', closedDate: '휴업자' },
+  { rowNum: 1443, seq: '1442', name: '외식하는사람들', closedDate: '휴업자' },
+  { rowNum: 1519, seq: '1518', name: '타이니넵', closedDate: '휴업자' }
+]
+8. Sales format weird: 0 []
+9. Emp format weird: 20 [
+  { rowNum: 1529, seq: '1528', name: '피플앤스토리', emp: '71(연구소10명포함)' },
+  { rowNum: 1549, seq: '1548', name: '신진사진인쇄', emp: '17(연구소 3명포함)' },
+  { rowNum: 1550, seq: '1549', name: '국제인쇄', emp: '80(연구소 2명포함)' },
+  { rowNum: 1636, seq: '1635', name: '아뮤즈', emp: '52(연구소 14명 포함)' },
+  { rowNum: 1641, seq: '1640', name: '주식회사띵킹프렌즈', emp: '4(연구소3명 포함)' },
+  { rowNum: 1650, seq: '1649', name: '샘코포레이션', emp: '3(연구소2명 포함)' },
+  { rowNum: 1668, seq: '1667', name: '동성로라', emp: '21(연구소4명포함)' },
+  { rowNum: 1688, seq: '1687', name: '시너샛코리아', emp: '12(연구소2명포함)' },
+  { rowNum: 1729, seq: '1728', name: '파노텍', emp: '18(연구소3명포함)' },
+  { rowNum: 1740, seq: '1739', name: '더블오', emp: '8(연구소2명포함)' },
+  { rowNum: 1747, seq: '1746', name: '크리에이텍', emp: '21(연구소4명포함)' },
+  { rowNum: 1813, seq: '1812', name: '주식회사 삼쩜일사', emp: '6(연구원3명포함)' },
+  { rowNum: 1826, seq: '1825', name: '뉴젠아이엔에스', emp: '5(연구소4명포함)' },
+  { rowNum: 1829, seq: '1828', name: '파운더', emp: '11(연구소4명포함)' },
+  { rowNum: 1830, seq: '1829', name: '주식회사후아', emp: '11(연구소2명포함)' },
+  { rowNum: 1871, seq: '1870', name: '나누기월드', emp: '12(연구소2명포함)' },
+  { rowNum: 1905, seq: '1904', name: '뉴아이', emp: '19(연구소3명포함)' },
+  { rowNum: 1915, seq: '1914', name: '이맥스정보기술', emp: '5(연구소3명포함)' },
+  { rowNum: 1916, seq: '1915', name: '이노팀스', emp: '11(연구소2명포함)' },
+  { rowNum: 2086, seq: '2085', name: '구석에감자짬뽕', emp: '???' }
+]
+10. Category missing: 0
+11. Newline in fields: 0
+
+Category breakdown: {
+  '콘텐츠솔루션': 135,
+  '지식정보': 383,
+  '광고': 417,
+  '공연': 91,
+  '게임': 253,
+  '음악': 135,
+  '애니메이션': 40,
+  '출판': 460,
+  '방송': 94,
+  '만화': 56,
+  '캐릭터': 134,
+  '영화': 98,
+  '1인 미디어': 13,
+  '인쇄': 2,
+  '영상 콘텐츠 및 사진 촬영': 1,
+  '조경': 1
+}
+Contact results breakdown: {
+  '확인완료': 92,
+  '게임사업단 요청으로 제외': 103,
+  '휴폐업': 7,
+  '확인불가': 6,
+  '사업체 → 개인': 1
+}
+

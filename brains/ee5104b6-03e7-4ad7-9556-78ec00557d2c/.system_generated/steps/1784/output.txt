@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://marketbz.com/company/5600702488');
+```
+### Page
+- Page URL: https://marketbz.com/company/5600702488
+- Page Title: 페이지 없음 | 마켓비즈
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-09-03-220Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-09-02-715Z.log#L1

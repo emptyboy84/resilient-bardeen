@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:4 �:89
++ ... \"(https:\/\/moneypin\.biz\/bizno\/detail\/[^\"]+)\"[\s\S]*?<\/a>/gi;
++                                                                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:6 �:35
++ while ((match = regex.exec(html)) !== null) {
++                                   ~~~
+� �Ǵ� � �ġ � '!==' �ū�Դϴ�.
+�ġ �:6 �:34
++ while ((match = regex.exec(html)) !== null) {
++                                  ~
+'while' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ �:6 �:36
++ while ((match = regex.exec(html)) !== null) {
++                                    ~
+� � '!' �ڿ� � �ϴ�.
+�ġ �:6 �:43
++ while ((match = regex.exec(html)) !== null) {
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:7 �:32
++   console.log('Moneypin link:', match[1]);
++                                ~
+',' �ڿ� � �ϴ�.
+�ġ �:7 �:33
++   console.log('Moneypin link:', match[1]);
++                                 ~~~~~~~~
+� �Ǵ� � �ġ � 'match[1]' �ū�Դϴ�.
+�ġ �:7 �:32
++   console.log('Moneypin link:', match[1]);
++                                ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:6 �:45
++ while ((match = regex.exec(html)) !== null) {
++                                             ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:7 �:41
++   console.log('Moneypin link:', match[1]);
++                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInExpression
+ 
+

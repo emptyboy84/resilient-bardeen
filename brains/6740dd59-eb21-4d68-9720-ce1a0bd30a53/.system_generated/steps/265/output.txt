@@ -1,0 +1,20 @@
+The search for ""레고스토어" "센텀시티몰" 개점 OR 오픈 OR 부산" returned the following summary:
+부산 해운대에 위치한 **신세계 센텀시티몰 지하 2층**에는 레고그룹 본사가 인증한 공식 **레고스토어(부산 센텀점)**가 운영 중입니다[1][2][3].
+
+해당 매장은 지난 **2021년 6월**에 국내 13번째 공식 레고스토어로 오픈하였습니다[2][4][5].
+
+**참고 사항:**
+* **위치:** 부산 해운대구 센텀4로 15, 신세계 센텀시티몰 지하 2층[1][6]
+* **특징:** 레고 제품 전시 및 체험존이 마련되어 있으며, 픽어브릭(Pick-A-Brick)존과 나만의 맞춤 미니피겨(Build-A-Minifigure)존 등을 이용할 수 있습니다[5][7].
+* **운영:** 현재도 정상 운영 중이며, 매장 관련 이벤트나 재고 확인은 레고스토어 공식 채널 등을 통해 확인 가능합니다[6][8][9].
+
+Sources:
+[1] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZkgVSSDVHGsLLtmUCQD3m3VylEvo0ul_hkuMA2nzZrjCicPkb-U4Fm_P8F_kFgkPjHWBBnVDnM1l2KT0MO7tFnEg35ajw4lYULbJL_g=)
+[2] [beyondpost.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5StouMO8buKOLvrVkjQEVWMHq0MY4M55DeDGIO6cS2DC0YzeMUUxnY8H2lAU1VnPG2OvsqDzE8IaIBTZdRe7hkLzBJo8s0fnXejMtebDrgmxlfumgQQlh19cXvPBTvig_JEkzD9FZMZbIv68hq_JvwCofmLDjFn3eAY4=)
+[3] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZkgVSSDVHGsLLtmUCQD3m3VylEvo0ul_hkuMA2nzZrjCicPkb-U4Fm_P8F_kFgkPjHWBBnVDnM1l2KT0MO7tFnEg35ajw4lYULbJL_g=)
+[4] [thebigdata.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqGfE0W4xsWlIJ5ysII4dkgSnHktMlIsMr3Pk8-_r_ySua7SnRBSE9pOM_nGwuUSSf2dj3312RQvv_S7izIyS6X5LQWv8QURIlLk_8GjORV-Lgv7_Il650wFLeLCeMczaShBESL5YlCU7d32ggfhADHP3Y3PaiLkR5Yo4=)
+[5] [beyondpost.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5StouMO8buKOLvrVkjQEVWMHq0MY4M55DeDGIO6cS2DC0YzeMUUxnY8H2lAU1VnPG2OvsqDzE8IaIBTZdRe7hkLzBJo8s0fnXejMtebDrgmxlfumgQQlh19cXvPBTvig_JEkzD9FZMZbIv68hq_JvwCofmLDjFn3eAY4=)
+[6] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF30QWFLUTZzJ5VOfZTKsCD0o9VAYPxtPmhvHEN4eWw0teZwFY3CsT6XMBV2HFNF94EjcsUKrZcw68i4GRquWvQrm3hk0iDhK1pu6vwJKXo7L3LoFsmh2CxAEZYLQD0P9NacM1sAlLpztU=)
+[7] [trip.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbOhHdVda4VUN0WKRXCVjmNBlQAQbdAmsDPQbirM0RmXRdmqBvN219Ek0mQSNO7AvsqRbYDC0YxSsdn2eiwFYMDGpkp6i89sUbw9EZTfg-wOaEit5CiFaZH_IcMsykyM3LTTqNug5-w27GRK0=)
+[8] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnkshc3WkdCv_8_RrMo933S_ax52GH05m-gyLuzhxOu6QePjOFp7_0N7U0razI8IKqK6KZqfvLorc4gHhYEMoP3F6jFwhKdXx9GtRwidlX_yp4VLE8dv0u09Cn4S8L)
+[9] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnkshc3WkdCv_8_RrMo933S_ax52GH05m-gyLuzhxOu6QePjOFp7_0N7U0razI8IKqK6KZqfvLorc4gHhYEMoP3F6jFwhKdXx9GtRwidlX_yp4VLE8dv0u09Cn4S8L)

@@ -1,0 +1,20 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 825 lines>
+: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[394/421] Row 2238 | "백앤센스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[395/421] Row 2239 | "시그마씨앤에스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[396/421] Row 2240 | "쉐어트리츠" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 625-81-00680 (주식회사 쉐어트리츠) | 주소: "부산광역시 해운대구 센텀동로 45 45, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "이홍배" [계속사업자]
+[397/421] Row 2241 | "팀리부뜨" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 882-86-03081 (주식회사 팀리부뜨) | 주소: "부산광역시 해운대구 센텀동로 45" | 대표: "최성철" [계속사업자]
+[398/421] Row 2242 | "에이치앤비스튜디오코리아" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[399/421] Row 2243 | "케어닥" | 대표: "" | 구: "해운대구"
+
+Last progress: 6s ago

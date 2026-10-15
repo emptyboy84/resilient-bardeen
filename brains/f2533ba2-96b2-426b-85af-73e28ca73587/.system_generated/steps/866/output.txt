@@ -1,0 +1,12 @@
+The search for ""코리아스틸파워" "10명" OR "10" "사원수" OR "종업원수"" returned the following summary:
+코리아스틸파워(주)의 사원수 및 기업 정보는 다음과 같습니다.
+
+*   **사원수:** 최근 자료에 따르면 약 **13명에서 16명** 규모로 파악됩니다[1][2]. (일부 자료에서는 18명 수준으로 언급되기도 합니다[3].)
+*   **기업 개요:** 경상남도 김해시 주촌면에 위치한 강주물 주조 전문 기업으로, 에너지 플랜트 및 조선 산업용 밸브, 펌프 부품 등을 생산합니다[1][2]. 2023년에 설립되었으며, 기술 중심 경영을 실천하고 있는 중소기업입니다[1].
+
+검색 결과에서 확인된 고용 규모는 10명대 초중반이며, '10명'이라는 구체적인 수치는 특정 시점이나 조사 기관의 집계 방식에 따라 차이가 있을 수 있으나 소규모 인원으로 운영되는 기업입니다[1][2].
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE6wPe27xQPZCZe8H5N2qXw_ScDTXVHuJlLtZ1g9ujlgNj1cPAWPF9LNIX6u0J6jUuONUH30jrQHZFF78MP86NjLA5puN57_yrXYOXsLMI2lVNAiLbjcCj1qKpUxsKeM1t5Clxj7Bo565eUHTlaLitaiKelSBG5ip8uhQ=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZUutetFpRqpvrDQwjzx88adq4640N6jbjDE-0JNyYG8PLAsv-RIKcBGgdl1r3d7bv0nU9jd7l4vpJeITfTosHuhQsAuDvJQvcv9AdxUxugEIYQlPyoyd--JkqKO5GXd8qJV3LA1IkdYG5RkYcFKA12Kgvvj6u3tp7MzzptYhzfdgh428rChekyXRtDQmxu4xS3yN6ATwqJ_V4lWS-n_9bUmjcTaP1C4GTue0ttGSJoMX4rRs2yYoQipne82cZ2hwxp10__ONHe-zVYcXiIc50P4IxxlZuZn8oMgD6qmBSDLwRFtiZoTooockQPg==)
+[3] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVAqk_xgyWWT3AP6k2iVi1_Bm_Br34LY1ly7U8qmlYW7I7Bh6Sce-ONnm5Wu0mde7YLI8rsVVOzdtaf-RsQbqGyZYOV6takvJp1Zre0ITb-BS9bjhkI7dO34A=)

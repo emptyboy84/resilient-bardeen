@@ -1,0 +1,7 @@
+Task: a97462f9-3976-4927-b799-281f20134eb3/task-716
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\.system_generated\tasks\task-716.log
+Log output:
+[CSV (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv Line 966] 안재한,종업원수가 다름,씨오에스피,1858102332,조상호,48002,해운대구 반송로513번길 66-35 (석대동),070-8883-9151,051-781-4949,,,,,,16,,,출판,,,,,,185810233
+
+Last progress: 6s ago

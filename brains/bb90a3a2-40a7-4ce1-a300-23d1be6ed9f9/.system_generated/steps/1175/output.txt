@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Company links: []
+GI links: [ '/Recruit/GI_Read/50096100', '/Recruit/GI_Read/50082276' ]
+

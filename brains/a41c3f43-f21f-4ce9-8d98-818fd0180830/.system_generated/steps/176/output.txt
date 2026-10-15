@@ -1,0 +1,5 @@
+Script ran on page and returned:
+```json
+undefined
+```
+Page navigated to https://search.naver.com/search.naver?query=site%3Areportworld.co.kr%20%22%EB%A9%94%EC%89%AC%EB%A7%81%ED%81%AC%22%20%22%ED%95%98%EC%A7%84%EC%88%98%22.

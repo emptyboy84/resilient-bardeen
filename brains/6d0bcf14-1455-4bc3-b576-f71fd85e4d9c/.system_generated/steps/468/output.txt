@@ -1,0 +1,13 @@
+The search for "site:oopy.io ("조벡스" OR "팜지니어스")" returned the following summary:
+노션 기반 웹사이트 제작 플랫폼(oopy.io)에 등록된 '조벡스' 및 '팜지니어스' 관련 검색 결과입니다[1][2]. 
+
+* **기업명:** (주)조벡스 (Zorvex)[1][3]
+* **주요 서비스:** **팜지니어스 (FarmGenius)** - 위성·환경·종자 데이터를 인공지능(AI)으로 통합 분석하여 노지 농업을 정밀 진단하고 최적의 종자 및 재배 전략을 제안하는 스마트 농업(푸드테크) 솔루션[1][4]
+* **주요 내용:** 기후 변화에 대응하여 노지 재배 성공률을 높이기 위한 위성 이미지 가공, 작물별 맞춤 머신러닝 모델, 생육 추적 기반 피드백 기술 등을 소개하는 기후테크 육성사업 관련 페이지 등에 활용되었습니다[1][4][5].
+
+Sources:
+[1] [oopy.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD4IqPdwgdia5HbW5bEE0yoL2Go5pTouO0OAKwGzMC8x1dqLpBTJoLcjSLNndY5z4jk_wvLFwehu4LGUxHzwM_R92vzOSMeqtseQNgLD_jP8AN09cl3yTV-5gCSKUkGjwHiQ==)
+[2] [oopy.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQwLjMvmRE4HbGkY-mYlhMRAnNbt29tK6MmR3MYvhszo9g-55lgAF4XFi5B_-8rLwnUw6u_P0H-It-SAn2SWLuyAoJdLI7KI8F6Q==)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1v5h_efKBXDNUUuHZWatqh1hfQfMP7WtXWeKt2okMKhLr9wjJXOXbbWqRAW6fXXLF_dtEvfrj3mW_Hn-hvraoLESbJFXpdYkhn0RrHw==)
+[4] [sdgnews.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnSzoIOgjevT6GzaSF9PZybCxv_MjoqG7SXgBelpa0jdHBow8-lx42wzsIBEA0EOu-Z1lnmlHuBLmO-WhNAZzfVxAg1mR5XSSAG6e9ctAytQBFatbNKPxaT2XNkDKfvO9R8QxHHiKgbfyLONjUsQ==)
+[5] [oopy.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD4IqPdwgdia5HbW5bEE0yoL2Go5pTouO0OAKwGzMC8x1dqLpBTJoLcjSLNndY5z4jk_wvLFwehu4LGUxHzwM_R92vzOSMeqtseQNgLD_jP8AN09cl3yTV-5gCSKUkGjwHiQ==)

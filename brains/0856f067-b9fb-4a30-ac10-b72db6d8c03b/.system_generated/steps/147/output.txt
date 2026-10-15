@@ -1,0 +1,6 @@
+### Result
+"https://pcmap.place.naver.com/place/1216657848?bk_query=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94&entry=bmp&from=map&fromPanelNum=2&timestamp=202609181130&locale=ko&svcName=map_pcv5&searchText=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.getElementById(\'entryIframe\').src');
+```

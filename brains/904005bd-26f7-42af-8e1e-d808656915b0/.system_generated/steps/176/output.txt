@@ -1,0 +1,22 @@
+The search for ""9514-1435" OR "95141435"" returned the following summary:
+The identifier **9514-1435** (or **95141435**) appears in several different contexts:
+
+*   **Industrial/Commercial Part Number:** It is used as a product identifier for a "RasterPlan" shelving unit with storage bins (manufactured by Kappes-Systeme GmbH)[1]. It also appears in technical spare parts lists for GEA Niro Soavi mechanical equipment, specifically for a flange[2].
+*   **Tender/Procurement:** It is referenced as a procurement or tender ID (e.g., in Russia for the supply of materials for bitumen emulsion)[3].
+*   **Educational Materials:** In Chinese educational databases, this ID is associated with exam papers and answer keys, such as for a "Feed Enterprise Management" course[4][5].
+*   **Other Uses:** 
+    *   It appears as a parcel number in property records[6].
+    *   It is used as a code for specific travel bookings[7].
+    *   Phone numbers starting with similar sequences (e.g., 080-9514-1435) appear in Japanese phone number directories, though they are often associated with automated or general search results rather than specific entities[8][9][10].
+
+Sources:
+[1] [contorion.de](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPbMDXUIAhHv8Hlm6Z_W-hOyQM5bUweAPjy5HEPEYSjRo_21HX8ZpD-g1KjddACkYzCfcnutGmFx4g8iG2EU5Fzif6NCuUAjwmFe2XGHtIl_gwaPcp84dIUIHCI8ln8hYqUcf5ghf27FAzbFReVHSaoaHQ4ZU-2g-JI5RYhGQrW3azRkoaJ9XkIVStzVR48Udh69W0QxafHse89ar76CuKDDHOK9pQZqgSjJeDp6Jt9DWM)
+[2] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE56cCNOQdbtSDQ7WPVwR_4MMd6-CjvP-nqu4IiqBqtjwdo4L9GPyhQDyZrBm61vOsQ8WMf1Xun2rX52JE5S3qRNJ7JSABtUNJAc1VfqmrzbvN_TVp8IX45ymKKLe2xVFLA51mTJ84SVZe0)
+[3] [tenderer.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAyF-S5YJJTKmeNAXkwvBAxvmGL1nnaO2BlJv0Kr1VKh808xAi-VBqZ2p6m9FK9wkTVCmnD9_R3dm4el3mxLzpqHQdM_dbbo03IRfvLfZNKQ6QjYcOWNah7ePgFsV5DZ_AkJyqhu7RZeBHYU3H_sikI5QEkvn9YOVhCutqL-GEG3g=)
+[4] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ERWIU7kogBRn4ukzKS0AwVXiy4S7JoDrVvxn4hP3Qra46rW-QX7uXMFsp1np-u3AjUjvHkqjHp4qMX5cIwz38G0f8wvaPgdrsNSvfI22BswlY9jRwilHNR9dN5TOIBA5N8GWnG1bua1KtpaIou6a27c8Lu1-QxicocGdFmudR0TVvsxnrw==)
+[5] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_df_xSylJCp5Ey0E7puIwH78f1dZ0jKFiyJbPRM0KfeLTtmYu4ShGg2Em3SsB-CJBg5cKj_TXqnw8odt8BePY9zEtuYiMZqztXAE690jijOiHB6dOLpURrNShy-SPR2WHYLnBREsADIjRHY4TPOd6eAK_iLBO6F1UVcUg)
+[6] [zillow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Is-bLHCztC8s10jK9lHngCq_j1KUx8JODSu4LqbCZB86DspDRilSWNbVrdMbx3wb2vXuSLAsuLfDKo0TsR-9ge-zOV7TnriN08pPPnJMGFE5X0_6k9HU1syQkgx05v2NZekxy_oi3tlz7a3ulVR4NpaG5WcOUL-CqjG9nqai2smyHTt1yLPHvSSiCw==)
+[7] [suntravel.sk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxhiRo2NyCIgoYxiowKPvahmKENbcUPB3Zk1m-LJhGktiJYsmf80VRqQI1E0EOSLdy7btkcW4BkMsBVA-w0_xdwCY_M62sKhKRyQ8z3dIBsOU9c5MkITvG4RhBtNNYsT6oaKWcSroD4QZwbmnwiEK70PBi)
+[8] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETdw5pJaQuxugpjUyOudWUcDYJjiJR5G-Ju4AasFxMANUpe27B33bVkONsoAKrFnkydu6ECpuUEsHjG6QoGL_gLJ3rx-j5EyjFyH31vq6jKrS6icPEhau4DV-Tkv9YdlIplK_lmq4E0AYcY--vYD-odpg=)
+[9] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWnNSepcMYTqw7a6LZxU6_uyCNsgDmfkK9F9g6S2tN_Ohn2tau3EO8qMvhZFkmUcUB-PS4f4Fh25q81Fs1lNOqBq2KPQVpwATja65e1U4eZUxgO4Cj3rHXDnFGxdOejqOtBoQW2j0E3nukp0uwxAjdn8o=)
+[10] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDp4j34oLuzaU_f-aMO8A2pVdeCgXeugtiJ-REVnXzlfbaVhAgNuP7l2Trpollc-QqnDBpgVa5vhrW7IwziDXiAppLWWr3iISl1C-roq_8BV0wbUeoKWG3_Edqnkl749X2SvUcOaR08OGX2k__jtI=)

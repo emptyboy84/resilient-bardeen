@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Total blue cells preserved: 921
+

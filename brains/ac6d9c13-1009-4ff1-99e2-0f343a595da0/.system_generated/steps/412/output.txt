@@ -1,0 +1,19 @@
+The search for ""유튜브리" "이태준" OR "유튜브리" 부산 OR "유튜브리" 사업자" returned the following summary:
+입력하신 키워드 조합(**"유튜브리" "이태준"**, **"유튜브리" 부산**, **"유튜브리" 사업자**)은 오타나 잘못 인식된 단어가 포함되어 있을 가능성이 높습니다. 맥락에 따라 다음과 같은 내용들을 찾으려 하신 것일 수 있습니다.
+
+1. **'유튜브리'가 '유튜브(YouTube)' 또는 '유튜버'의 오타인 경우:**
+   * **유튜버 이태준:** FPS 게임(오버워치, 발로란트 등) 전문 스트리머이자 유튜버인 **이태준**[1][2] 관련 검색 (과거 부산 여행 일상[3] 등이 포함될 수 있음).
+   * **유튜버 사업자등록:** 1인 크리에이터(유튜버)의 사업자등록 기준, 업종코드(1인 미디어 콘텐츠 창작업 등), 세무 절차 관련 정보[4][5].
+
+2. **'유튜브리'가 다른 특정 단어나 앱을 의미하는 경우:**
+   * 광고 차단 및 백그라운드 재생 기능을 제공하는 안드로이드 패치 앱인 **'유튜브 리밴스드(ReVanced)'**[6]
+
+혹시 찾고자 하셨던 구체적인 인물, 정보, 또는 정확한 명칭이 있다면 다시 검색어나 질문을 구체적으로 입력해 주세요.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHe8o08apR7v_SUXhGImIA9qxUeynM-ox_tNjCJcZ9PHa6gLVAD2f08CPB0rn8SMSyLZ0iVHVFNFqqce_AN5E8ICdGYgIVM5uM52htIghwC-jAUIKa)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGe_Szdjxt74RiJSkjhjwpXw-eXBqJK6t6zUyrX6GVTo9YNlhfdFlMRqxp36wvPXbTD9RtR_Xkm1G_Bfxehq5lzJhw9ChIF7Fgpnkg08A1QOiTC10I2yPcpspQh9FqyLo=)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN4YOGhF-jMxzTCnVo35XwJo07Hdj42uIc86gl18EXjJFjI1ignHV4wQu1egjwOXuU86XL3aKn9u5bmRO7A3375fWjwAauBm5l-tjfeXT5nFPeXE6k5EbizUvE)
+[4] [tosspayments.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2OOj8ZYUGTkK7_lBwFyez5esquIJ6JErllISXJ7Xpt3RbHui6wqr0lVU0ghHXVg_FpWdzCNsqxcastaoaHjBg16jCWItShdDIYFXbfMu3QY0Y8WX6UeRdTyxz4jY4hLSeiDD7wI5H)
+[5] [creativepartners.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9QGsm-XFDG0fHX9I-DFHPX6mQVqAgXIxGZ7qM8qZbBjwgyA1QNb-hxct4CJGpUnkSP3Z7PqnQHLX8BeuZ5KLhdpd8Pu5XRpiYcSUCr-q4IZQsR57pQ3sxU0jDbDNaI9ru9ADw0zULudMYgdjvBz-fDgGPhgbqYFohOoMIfg==)
+[6] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvOlHd85AUwBR2B3VystXNull-aXiX5VNhpDYsF_CR3oHt9ZX0r5bx4OZKM--VFCrKGKxVb1FUSvynZsvmx3PSbNmWMqLJH6tImsztZY8yHWs=)

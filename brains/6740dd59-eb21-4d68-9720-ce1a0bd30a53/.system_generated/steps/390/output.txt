@@ -1,0 +1,45 @@
+
+The command exited with code 0.
+Output:
+Worksheets: [ '기업체 리스트', '개인 리스트' ]
+
+--- Sheet: 기업체 리스트 (Rows: 2469) ---
+Header: [
+  <1 empty item>,           '구분',
+  '순번',                   '사업체명',
+  '사업자번호',             '설립연도(연도)',
+  '설립연도(월)',           '대표자 성함',
+  '연락처',                 '팩스번호',
+  '시군구',                 '주소',
+  '업종분류',               '컨택결과',
+  '폐업 날짜',              '비고',
+  '종사자수(명) 25년 기준', '24년 매출액(원)',
+  '25년 매출액(원)'
+]
+Row 1 colored cells: [{"col":1,"val":"구분","fg":{"theme":7,"tint":0.7999816888943144},"fontColor":{"theme":1}},{"col":2,"val":"순번","fg":{"theme":7,"tint":0.7999816888943144}},{"col":3,"val":"사업체명","fg":{"theme":7,"tint":0.7999816888943144}},{"col":4,"val":"사업자번호","fg":{"theme":7,"tint":0.7999816888943144}},{"col":5,"val":"설립연도(연도)","fg":{"theme":7,"tint":0.7999816888943144}},{"col":6,"val":"설립연도(월)","fg":{"theme":7,"tint":0.7999816888943144}},{"col":7,"val":"대표자 성함","fg":{"theme":7,"tint":0.7999816888943144}},{"col":8,"val":"연락처","fg":{"theme":7,"tint":0.7999816888943144}},{"col":9,"val":"팩스번호","fg":{"theme":7,"tint":0.7999816888943144}},{"col":10,"val":"시군구","fg":{"theme":7,"tint":0.7999816888943144}},{"col":11,"val":"주소","fg":{"theme":7,"tint":0.7999816888943144}},{"col":12,"val":"업종분류","fg":{"theme":7,"tint":0.7999816888943144}},{"col":13,"val":"컨택결과","fg":{"theme":5,"tint":0.7999816888943144}},{"col":14,"val":"폐업 날짜","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"비고","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 9 colored cells: [{"col":14,"val":"2023-08-31T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 12 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 13 colored cells: [{"col":14,"val":" ","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 16 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 17 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 20 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 35 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 41 colored cells: [{"col":13,"val":"게임사업단 요청으로 제외","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 42 colored cells: [{"col":14,"val":"2026-07-31T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 47 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 74 colored cells: [{"col":13,"val":"게임사업단 요청으로 제외","fg":{"theme":5,"tint":0.7999816888943144}},{"col":14,"val":"2020-08-21T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 76 colored cells: [{"col":14,"val":"2025-01-07T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 89 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 96 colored cells: [{"col":13,"val":"게임사업단 요청으로 제외","fg":{"theme":5,"tint":0.7999816888943144}},{"col":14,"val":"2019-09-30T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 100 colored cells: [{"col":14,"val":"2025-03-31T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 105 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 116 colored cells: [{"col":13,"val":"확인완료","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 122 colored cells: [{"col":14,"val":"휴업자","fg":{"theme":5,"tint":0.7999816888943144}},{"col":15,"val":"휴업자","fg":{"theme":5,"tint":0.7999816888943144}}]
+Row 126 colored cells: [{"col":4,"val":"627-40-00252","fg":{"theme":8,"tint":0.7999816888943144},"fontColor":{"argb":"FFFF0000"}},{"col":14,"val":"2026-04-30T00:00:00.000Z","fg":{"theme":5,"tint":0.7999816888943144},"fontColor":{"argb":"FFFF0000"}},{"col":15,"val":"폐업자","fg":{"theme":5,"tint":0.7999816888943144},"fontColor":{"argb":"FFFF0000"}}]
+Total rows with colored cells in 기업체 리스트: 550
+
+--- Sheet: 개인 리스트 (Rows: 1023) ---
+Header: [ <1 empty item>, '순번', '사업체명', '연락처', '업종분류', '컨택결과', '폐업 날짜', '비고' ]
+Row 1 colored cells: [{"col":1,"val":"순번","fg":{"theme":7,"tint":0.7999816888943144}},{"col":2,"val":"사업체명","fg":{"theme":7,"tint":0.7999816888943144}},{"col":3,"val":"연락처","fg":{"theme":7,"tint":0.7999816888943144}},{"col":4,"val":"업종분류","fg":{"theme":7,"tint":0.7999816888943144}},{"col":5,"val":"컨택결과","fg":{"theme":5,"tint":0.7999816888943144}},{"col":6,"val":"폐업 날짜","fg":{"theme":5,"tint":0.7999816888943144}},{"col":7,"val":"비고","fg":{"theme":5,"tint":0.7999816888943144}}]
+Total rows with colored cells in 개인 리스트: 1
+

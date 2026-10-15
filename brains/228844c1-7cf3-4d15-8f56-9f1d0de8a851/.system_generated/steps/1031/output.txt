@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Loaded 530 empty rows.
+Master indexed: 18984 names, 12211 phones.
+Matches found: 72 (by name: 70, by phone: 2)
+

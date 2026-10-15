@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Total unverified remaining: 271
+Sample 10 unverified:
+126 블루호텔레코딩스튜디오 | CEO: 김현 | Addr: 부산 금정구 장전1동 383-9 지하(다른 정보 안나옴) | Phone: 010-3568-1004
+504 89Light | CEO:  | Addr: 부산 동래구 충렬대로100번나길 6 | Phone: 0507-1314-6280
+508 LINC | CEO:  | Addr:  | Phone: 
+536 김정보 | CEO:  | Addr: 남구 | Phone: 
+537 꿈해몽 | CEO:  | Addr: 부산 사상구 주감로 187 | Phone: 051-337-6320
+539 나래바람 | CEO:  | Addr: 부산광역시 남구 분포로 111, 105동 2002호 (용호동, LG메트로시티) | Phone: 051-612-2133
+547 냉이영화 | CEO:  | Addr:  | Phone: 010-6893-4870
+552 녹생광고연합그린하우징 | CEO: 박명섭 | Addr:  | Phone: 051-442-2688
+568 단디콤 | CEO:  | Addr: 부산 동래구 중앙대로1381번길 11 | Phone: 051-313-3449
+589 도서출판국제 | CEO:  | Addr:  | Phone: 051-469-5204
+

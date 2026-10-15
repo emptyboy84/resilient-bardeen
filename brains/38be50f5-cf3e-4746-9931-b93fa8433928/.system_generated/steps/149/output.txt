@@ -1,0 +1,20 @@
+The search for ""운도게임스튜디오" OR ("운도" "김도현" 게임)" returned the following summary:
+'운도게임스튜디오' 및 '운도', '김도현'과 관련된 정보를 검색한 결과는 다음과 같습니다.
+
+*   **운도게임스튜디오**: 검색 결과, 개인 블로그나 게시판 등에서 개발일지(UI 정리, 다이얼로그 등)가 언급된 사례가 있으나[1][2], 별도의 공식 웹사이트나 대외적으로 널리 알려진 게임 개발사의 정보는 확인되지 않습니다.
+*   **'운도'와 '김도현'**:
+    *   **당구/스포츠**: 2025년 7월 '포르투 당구 월드컵' 관련 기사에서 김도현 선수가 언급되며 "운도 실력"이라는 표현이 사용된 바 있습니다[3].
+    *   **강연/레크리에이션**: 김동연 강사의 레크리에이션 프로그램 이름으로 "운도 실력이다! 다함께 즐기는 랜덤 팀빌딩"이 있으며[4][5], 관련 기사에서 다른 강사들과 함께 김도현 강사가 언급된 사례가 있습니다[4][5].
+    *   **기타**: KBO 리그 KIA 타이거즈의 야구 선수 김도현[6][7], 대학 축구부 기자 김도현[8] 등 동명이인이 다수 존재합니다.
+
+따라서 '운도게임스튜디오'라는 이름으로 특정된 게임 개발사는 일반적인 검색 범위 내에서 확인되지 않으며, '운도'와 '김도현'은 여러 분야에서 사용되는 일반적인 단어 조합으로 파악됩니다. 찾으시는 내용이 특정 게임이나 개발자를 지칭하는 것이라면, 추가적인 맥락(예: 장르, 플랫폼, 관련 인물의 직업 등)을 확인해 보시기 바랍니다.
+
+Sources:
+[1] [nabeerental.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFquchU3xJ70rXDmD3UYoobX676lBiTX1hQgZCplom7-Slq-9599zl6RTN_Op7GC3o6_GoXWI_APRfAM8FK-KJAbFqIGjyNMMW2B9nfY35cqN6dh2V_u2op3ZfvPwY9DQ-KDtp19h8sp_Xfm_i1o7PR5jOsKDh1RR9v078pvIH8dQFbJHghctf7UyGiqLc=)
+[2] [nabeerental.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg4BwAOjlPKP6t1bAWG0oKZpiD63sZp1J55gUOu5Ujq_pmKIhj14YAPJM5DbEWypiWUhhAIuB5QnWhEYy85pgMxAE94izzYAhk_U15mjHr4tQ-_LWhmmZKn8F7HH6NVxjA27-A3y8I_HSw69I5qRcNaLMuO7BqCd7ltyt2lSyBPLzHqTkhoa_GbpgoqLw=)
+[3] [thebilliards.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT5idntoG6XSETdav935eYO6Tz2CpQ1rJrTZCTr8Z2UERU_Ua2yPSUmWjBc-fdagYO4we3Hml18E6fS_uWx5rB1p_ElQwDG-a6fzoPgs2igX5bmbHjhKo2tzYIWqhEvbbEzG6yrmsOYaB-IzRF9PJtlb1b)
+[4] [lecturernews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFibJtN284vzT_yei8eunA_ONI4tK0ZhM7cpamQOBqB6gH5FBU22J70kgryHGGLIbBu_CA41tfo6_kBmlYrcojAN95p8rl2B8hqfboVKNzZfbW5UfWlVfYZ9gaL4T-L3HE6O2NsaHSgSsQkuDZyILiGa1PjocQ=)
+[5] [lecturernews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgpDbxL92J6foPnjdbUcOqdBDW9w49EizLQmk3MhV-ik7iNNYk2mrCw2c1EMxAEdh8MJCIZ6o2N433wjhF1JkwHG4hCtLhm_n4YPVRyPldQvtd4jzCFvapuw3R0hQmXISJqtRdDWg8YUrOPQbHoVlFjxqK7xI=)
+[6] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET-yMUqDnVVM6R8bf9CoUj23Hv6t_y_M6I1bXY6EmwUzHC6XW9k6vpTPWY1FZm5jedCaWS4InCVKIHL3Ag0-tqnr75pzRcycVarW4-763EPxP9O7bappUN3hr1SA==)
+[7] [ytn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuapXORLRgPns4NO-HavNT4pJxEO5BL0RJ82I-8FTQeJ2WEVXKOhoObO7BMB4BT-7hPJgoiAhNLMFTYCeNzTEkGtXuW8K_nL4nXtWECwxiwnOCKXBEglH8y2RoAaH1EczCkvHx5lz)
+[8] [cau.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5uA6fQcA57UXEZz-oJVMdcsivcgnBMnRIW2uqi4BWT6OgjegI5nO0PwnrI0_JfiZ8rJ0N5jk3XC5yU-3tVM-Ae7X-eX-ekAc5BJzJPtwBLAQhSo=)

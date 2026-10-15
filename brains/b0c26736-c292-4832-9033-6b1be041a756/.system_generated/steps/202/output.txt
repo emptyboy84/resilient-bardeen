@@ -1,0 +1,12 @@
+### Result
+"[\n  {\n    \"href\": \"https://bizno.net/article/5288800923\",\n    \"text\": \"지니에듀테크 주식회사\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/4662602232\",\n    \"text\": \"카페 엘리오\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/5088261642\",\n    \"text\": \"대한불교조계종 신흥암\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/3108702643\",\n    \"text\": \"하나베스트\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2738503131\",\n    \"text\": \"엔에이치투자증권（주）엔에이치금융플러스 세종웰스매니지먼트\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2171340594\",\n    \"text\": \"자이로토닉 정화\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/6110657310\",\n    \"text\": \"꼬르륵천사\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/4658103241\",\n    \"text\": \"(주)퍼스트클래스에듀\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2171776106\",\n    \"text\": \"체크포인트 외형복원점\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2172125448\",\n    \"text\": \"쭈쭈트럭\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2172212163\",\n    \"text\": \"행복상사\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2172567693\",\n    \"text\": \"겸\"\n  },\n  {\n    \"href\": \"https://bizno.net/article/2173901854\",\n    \"text\": \"힐스템건강 은계호수점\"\n  }\n]"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'a\')).map(a => ({href: a.href, text: a.innerText.trim()})).filter(x => x.text && x.href.includes(\'/article/\'));\n  return JSON.stringify(items, null, 2);\n}');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%EC%A7%80%EB%8B%88%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC
+- Page Title: 지니에듀테크
+- Console: 0 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-30-36-782Z.log#L3

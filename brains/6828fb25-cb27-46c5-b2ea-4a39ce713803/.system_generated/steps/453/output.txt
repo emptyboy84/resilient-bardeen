@@ -1,0 +1,10 @@
+The search for ""메기로 199" "1223호" OR ("삼정그린코아 더 시티" "1223호")" returned the following summary:
+검색하신 주소와 관련된 정보는 다음과 같습니다.
+
+*   **메기로 199, 1223호 (양산신도시 삼정그린코아 더 시티):** 해당 주소지는 양산시에 위치한 '양산신도시 삼정그린코아 더 시티' 건물 내의 호실로 확인됩니다 [1.1, 1.2]. 한국엔지니어링협회에 등록된 기업 정보 등에서 관련 주소지가 언급된 사례가 있습니다 [1.1].
+*   **삼정그린코아 더 시티:** 해당 건물은 업무시설 등을 포함하고 있으며[1], 여러 호실(1223호 등)이 존재하는 일반적인 오피스텔 또는 복합 건물로 보입니다[1].
+
+참고로, 동일한 건물명("삼정그린코아 더 시티")이 다른 지역(예: 송정 등)에도 존재할 수 있으므로[1], 정확한 확인이 필요한 경우 우편번호나 정확한 지역명을 함께 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [safehomes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmFAMK9E9FxE4-j67mxvkgg0jzq_Da-o9FOTXggj0JEMl-59diqjuRww15etWl6i1a1tQTjLxSfUjNia92YrPyAuu9lppPmWesGtR5wYjsGfpJZ7H7vnCyuInaFOgQWtBC2zMfGs7eKDUG8ZTyD4T7upKpIQQUJnxUy83g2Bgk-5iXftec5zrCsb9FuiPpIt_02-bss_zmTZTjF2TbyFPcYz1pvuFtW2_2lCt2_fxHFUmVOVunkZCBsI31VDyAHForFU4ty4mn4Irl2BI-dpl4dALHNwgLsx7qe2lqvTcaZ8MpLFXi0LnPQ3VuYiqMOY00O_1JKC3Po03FbU45Je_cj0Tm_F8E0QO9aaWgDNo0r_ceFVu5Ctd4oVclNUv7DmBYdAXzPZdTpx2Fv-VcpxOK1fdEl4C_1vq0hornu8oVRshAnB5FGPxJQN28SlvecuYaRZwP0i3rEgQs1w==)

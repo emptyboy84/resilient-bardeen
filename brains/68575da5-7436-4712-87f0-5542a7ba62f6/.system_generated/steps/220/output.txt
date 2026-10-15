@@ -1,0 +1,11 @@
+The search for ""대경산업개발" ("센텀스카이비즈" OR "벽산이센텀클래스원") (전화번호 OR TEL OR 051 OR 010)" returned the following summary:
+검색하신 조건에 부합하는 업체의 연락처 정보입니다.
+
+* **업체명:** 대경산업개발 (HSD)[1][2]
+* **주소:** 부산광역시 해운대구 센텀중앙로 97, A동 3911호 (센텀스카이비즈)[1][2]
+* **전화번호:** 051-714-0203[1][2]
+* **팩스번호:** 051-714-0243[1][2]
+
+Sources:
+[1] [hsd-e.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgKExtroEqkiPYg0CnfQeKobmz5axjABSzzN_TnsDwox2af05e-sNKOyPSubr9_tct7k36TyNWj3A6cSi9r2WMkdYaOwvpCCTvlVaCnmc1SzPx)
+[2] [hsd-e.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh8Y9vX40MozcHuayK3Jj39dB-xY8M1f-pIP7O8OOEzzq6_lActz3OPY2B8gspDCPEdGaZ6g-3xorCt2Cpkiiz8qTrTA9SeF0hKMdJztOy_ytL)

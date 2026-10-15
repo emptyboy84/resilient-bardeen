@@ -1,0 +1,15 @@
+### Result
+[
+  {
+    "title": "(주)바른중량 기업 정보 2026",
+    "href": "https://www.google.com/goto?url=CAESdQHrOzAVn66BqHtJVlkwkAnz9g1dbqPfruvKwwuI7raOTZUASjgQQ9MoGO2qK-qqqTumYiBhM-k66JtV9xBSWiYOvSOwLGjWPBtKbNpuxevrCuAEbP7ZLj2CuwC0GL0bai1KYhJPQ050WrcudI4STLpCT2X2Pg"
+  },
+  {
+    "title": "(주)바른중량 시공능력평가액 2026 | 건설업 실적",
+    "href": "https://www.google.com/goto?url=CAESdQHrOzAVux-JFRsklnJQgWkdUUgQ7FGBG_Pg8CUcwsZTvkg09tboRr6DJplSX5Ol8g5qsqMCsWhps7PsY4-Cr5_vFlFMCMZnZLZXzpP1tBpm5knD8qE9DRMiCDxIDDw4W4TrhTN5vQGg74gQ3WsabMhW-3ymrA"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const h3s = Array.from(document.querySelectorAll(\'h3\'));\n  return h3s.map(h => {\n    const a = h.closest(\'a\');\n    return {\n      title: h.innerText,\n      href: a ? a.href : null\n    };\n  });\n}');
+```

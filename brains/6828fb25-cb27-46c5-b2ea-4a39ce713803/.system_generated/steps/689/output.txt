@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/055-321-7094');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/055-321-7094
+- Page Title: 055-321-7094 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-50-30-594Z.yml)

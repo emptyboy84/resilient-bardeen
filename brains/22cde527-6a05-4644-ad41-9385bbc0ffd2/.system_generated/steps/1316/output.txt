@@ -1,0 +1,9 @@
+### Result
+{
+  "iframes": [],
+  "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"ko\" xml:lang=\"ko\"><head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<title>출판사인쇄사 검색시스템  | 문화체육관광부</title>\n<link rel=\"stylesheet\" type=\"text/css\" media=\"screen,print\" href=\"/html/css/common.css\">\n\n<script type=\"text/javascript\" src=\"/html/js/jquery.min.js\"></script>\n<script type=\"text/javascript\" src=\"/html/js/common_function.js\"></script>\n<script type=\"text/javascript\" src=\"/html/js/popcalendar.js\"></script></head><body><div onclick=\"bShow=true\" id=\"calendar\" style=\"top:270px; z-index:+999;left:450px;position:absolute;visibility:hidden;\"><table width=\"210\" style=\"font-family:arial;font-size:11px;border-width:1px;border-style:solid;border-color:#a0a0a0;font-family:arial; font-size:11px}\" bgcolor=\"#ffffff\"><tbody><tr bgcolor=\"#0000aa\"><td><table width=\"208\"><tbody><tr><td style=\"padding:2px;font-family:arial; font-size:11px;\"><font color=\"#ffffff\"><b><span id=\""
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframes = Array.from(document.querySelectorAll(\'iframe, frame\')).map(f => f.src);\n  return { iframes, html: document.documentElement.outerHTML.slice(0, 1000) };\n}');
+```

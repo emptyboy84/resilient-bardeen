@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+Search [부산이야]: 100 posts
+
+Search [이야]: 100 posts
+
+Search [부산이야기]: 2 posts
+MATCH: 부산이야기 정순* 전자상거래 소매업 인천광역시 계양구 주부토로 519...
+

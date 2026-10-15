@@ -1,0 +1,24 @@
+### Result
+{
+  "title": "인터넷등기소 - 법인등기 열람/발급",
+  "h1": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "간편도움말",
+    "법인등기 열람/발급",
+    "TOP 10",
+    "열람/발급",
+    "결제",
+    "프린트",
+    "환불",
+    "등기업무"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const scripts = Array.from(document.querySelectorAll(\'script\'));\n  const allText = document.body.innerText;\n  return {\n    title: document.title,\n    h1: Array.from(document.querySelectorAll(\'h1, h2, h3\')).map(h => h.innerText.trim())\n  };\n}');
+```

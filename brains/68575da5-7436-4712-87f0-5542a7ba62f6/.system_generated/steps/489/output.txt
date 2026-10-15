@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+12 [Contact](https://darewalk.com#contact)
+106 [contact@darewalk.com](mailto:contact@darewalk.com)
+

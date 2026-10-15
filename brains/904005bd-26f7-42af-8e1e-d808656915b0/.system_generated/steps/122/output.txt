@@ -1,0 +1,15 @@
+The search for "site:vkobis.or.kr OR site:vkobis.kr "수영강변대로 140"" returned the following summary:
+영화진흥위원회 온라인상영관 통합전산망(KOBIS)에 등록된 '부산광역시 해운대구 수영강변대로 140'(부산문화콘텐츠컴플렉스)에 위치한 주요 영화사 및 관련 업체 정보는 다음과 같습니다.
+
+*   **부산문화콘텐츠컴플렉스 내 입주사 (수영강변대로 140)**
+    *   **(주)씨지픽셀스튜디오**: 725호[1]
+    *   **기타 영화 제작사**: 5층, 706호, 618호 등 다양한 호실에 여러 영화 제작사가 등록되어 있습니다[2][3][4][5].
+
+해당 주소지는 부산콘텐츠코리아랩 및 부산문화콘텐츠컴플렉스가 위치한 곳으로, 다수의 영화 및 콘텐츠 관련 기업이 입주해 있습니다[4][5][1]. 특정 업체를 찾으시는 경우 KOBIS 영화사 정보 검색 페이지에서 상세 정보를 확인하실 수 있습니다.
+
+Sources:
+[1] [vkobis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSYsPBFI-iMDIuWJeAh8SQ_wBh5TxImObAlt61c29NP7iKPAzhAn2c164Vd9TTOaoXg0FRMSrcqgi2rrhHp7vIvz_EDmVpbvdNV9-VMkILLEdEUEVl7ty6QUOn46BKobFwZXWTyz7lAM08iK4xYhsiNg=)
+[2] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnZ3RA5dYjJQZ1C2UC1MzrJq5IE_SvyAcXPVvrP7SWxjuKuy63MAD5W1fOmqs1fUM-Tq7aY-MKjhXxgQAOAkQOcbjcZ1NoxaunvKjk1eDYUF6jYGac_1Ii16FbD0WXD73-6mkph5-Z6ZI3eke-JFmvE4hhiRPHrx8=)
+[3] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwIPwShgmwzY976WWoFzHmzruuukAGDY9b-pH7v3Lg-jSwBEDkp7y_36JTLPYNXQdaRdlZ2eck98NQIXTh-D32I_BPUx1SsbmFTJe0I9P6lDMff7G15oxrCPrLtHUNUPD_9qeUbq2WkXweLHpRwGNE4KCV19o=)
+[4] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRxLfEGBRCzcgk3Q-NFHOEIgE-wfMRks8Tt2bkAYKv_J1GIBQY_oJ6G9aBdIYk-nkxpa2Eix1EhTRh6Yf2Oe-FkbN8mIFSTB5X6F5QUNuPQcJuI4KKG1sVMrzK5W2Vau3NtjR-77NErzVtar0w5MxamrbUgLhs)
+[5] [vkobis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1Uoyd5Urz9sYzIQovXOkPV0Iw85IA3tMvwawG5QI6yzuxFwXJqUMNuRbSwf1NUEZlFYK1PjrdhE7aSMB5KrFsV3Y-G0mYSyUHe8vCXzFYs1noD-2I9S1u_FlVjIoVl3ykbmeMqCpKTZgsCXkPH96l9Q=)

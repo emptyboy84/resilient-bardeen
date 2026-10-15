@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+[FTC] 모두싸인 status: 200 length: 356081
+[FTC] Biz numbers found: null
+[FTC] 토탈소프트뱅크 status: 200 length: 356081
+[FTC] Biz numbers found: null
+

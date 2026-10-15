@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/list?query=%EC%9D%B4%EC%84%9D%EC%B0%BD');
+```
+### Page
+- Page URL: https://bizno.net/article/list?query=%EC%9D%B4%EC%84%9D%EC%B0%BD
+- Page Title: 404
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-01-36-839Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T01-01-35-691Z.log#L1

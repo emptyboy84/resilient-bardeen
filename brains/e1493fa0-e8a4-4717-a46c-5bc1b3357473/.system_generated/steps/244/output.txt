@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Step 126: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst ExcelJS = require('exceljs');\\nasync function run() {\\n  const workbook = new ExcelJS.Workbook();\\n  const filePath = 'C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\lg\\\\\\\\\\\\\\\\Desktop\\\\\\\\\\\\\\\\오늘\\\\\\\\\\\\\\\\(데이터검증팀)실사 
+Step 148: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines16 = fs.readFileSync('rows_11847_12000_16col.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\nconsole.log('16col total lines:', lines16.length);\\nlet bad16 = 0;\\nlines16.forEach((
+Step 243: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\nconsole.log('bizno_filtered_result_nice.tsv lines count:', lines.length);\\nconsole.l
+

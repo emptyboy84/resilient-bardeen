@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Row 639:
+c1 val="25년 모집단" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c2 val=639 font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c3 val="디자인에코" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c4 val="603-10-85753" font= { bold: true, color: { argb: 'FFFF0000' }, size: 10, name: '맑은 고딕' }
+c5 val="2009" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c6 val="4" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c7 val="이돈희" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c8 val="051-207-3530" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c9 val="051-517-3500" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c10 val="금정구" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c11 val="부산 금정구 장전동 222-39 서강빌딩 4층" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c12 val="캐릭터" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c13 val="" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c14 val="" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c15 val="" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c16 val="10" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c17 val="" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c18 val="" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+c19 val="https://bizno.net/article/6031085753" font= { color: { argb: 'FF000000' }, size: 10, name: '맑은 고딕' }
+

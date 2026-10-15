@@ -1,0 +1,10 @@
+The search for ""051-918-3001" "오션스타" 사업자등록번호 OR 대표자" returned the following summary:
+전화번호 `051-918-3001`을 사용하는 **주식회사 오션스타**의 기업 정보는 다음과 같습니다[1].
+
+* **회사명:** 주식회사 오션스타[1]
+* **사업자등록번호:** 649-86-02108[1]
+* **법인등록번호:** 180111-1384352[1]
+* **주소:** 부산광역시 해운대구 해운대해변로 291, 204호 (중동, 크리스탈비치오피스텔)[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcjNtJj7GP8oc03qxIHatfPebJTS1zQ-CTcLvsIJPTkj-u0DDMAIN1wByhmH41jMZwzsL8VprgUuExJGnPxgjiPI2tvRDl0FqVlYeXLj8P5EU_4Xpyt_6z240=)

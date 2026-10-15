@@ -1,0 +1,23 @@
+The search for "site:play.google.com "ABMLab Corp." "개발자" OR "010" OR "연락처" OR "전화"" returned the following summary:
+구글 플레이 스토어(Google Play)에 등록된 개발사 **ABMLab Corp.(주식회사 에이비엠랩)**의 앱 관련 정보 및 공식 연락처 정보는 다음과 같습니다.
+
+### 1. 주요 출시 앱
+* **캘박(Calvak) - 대학생 스마트 일정관리 캘린더**[1]
+* **Lolypoly - 모임 파티게임**[2]
+
+### 2. 공식 기업 정보 및 연락처 (ABMLab Corp.)
+구글 플레이의 개발자 정보 및 공식 채널을 통해 확인되는 기업 연락처 및 주소입니다[3][4]:
+* **대표이사:** 황의윤[3][5]
+* **사업자등록번호:** 820-87-03095[3]
+* **공식 웹사이트:** [abmlab.co.kr](https://abmlab.co.kr)[3]
+* **본사 주소:** 
+  * 부산광역시 영도구 태종로 727, 산학허브관 11층 (동삼동)[3][4]
+* **서울 사무소:** 
+  * 서울특별시 강남구 강남대로 120길 75, 2~4층[3]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZxo5XO3ctWFokNws8ilsMiBJocVwt7GhDp59punuCNQvXz_R1WFXalG1420d9DJ-B-xZolAkzzbSSmxrMJT36qFgHHkwTRoDgBjg8kph7jQV1jZOeNRaoVOZTeG-nFfpPxKkGoYSX3_ujMl0xGkEQ9bnM2ac=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4lK9sBU2qynb1_Oc6aFVzOnk4bw87rBuVWRMd0hqZQc9oOFBHkce2XrulOFe_f5_UjNMfIJajxXRf_PndA7XhmUuh4QexGFt4zbVKaTSIKOl2jp1W7kZYNP3kS7vX1WtyRmjNPBVIMyOQbcMSsNtSH6AkQzWzFg==)
+[3] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFfXPkhcDhEKAr_j1inQ9nPzjdmxNLH7lU22ydhskKXf_SYCTn5KlHw-x50zVhoZFJExLsu091-tLGP8gX6Ko_DLE1G37ICzm6RRkKTS8hcNsz)
+[4] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75HBLs2tM31lZOX-wrCd_6yHBu21QFXa5Ji5JxRLcH-kXbytmPz6Ru-lPgv5diuk2S9seLvUOUP_1SV5V3QhVKPUafYKCdWsNbA8ZRQ==)
+[5] [rememberapp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI6Segb5Wuog1uBZ07p-wgixPwANg8yaWdKxU811uvruIXfgxIqn2bwvcdEIrOhKboLKQRUL4ZipqeEiZW1OKQZtr4XlWrw0cZlMGcDzgoNyCUxTrXLAeLubD7ehQ8MDVRSOtODMEev0ai)

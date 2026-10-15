@@ -1,0 +1,2 @@
+The search for "site:book.mcst.go.kr "동화사" "부산" OR "초량동" OR "동구"" returned the following summary:
+site:book.mcst.go.kr "동화사" "부산" OR "초량동" OR "동구"

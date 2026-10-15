@@ -1,0 +1,10 @@
+The search for ""591-87-03125" OR "5918703125"" returned the following summary:
+해당 번호(`591-87-03125`)는 대한민국의 사업자등록번호로, 인공위성용 응용 소프트웨어 개발 등을 영위하는 법인기업 **(주)오앤비스페이스**의 고유 번호입니다[1].
+
+* **기업명:** (주)오앤비스페이스[1]
+* **사업자등록번호:** 591-87-03125[1]
+* **소재지:** 대전광역시 유성구[1]
+* **주요 업종:** 응용 소프트웨어 개발 및 공급업 (인공위성용 응용 소프트웨어 개발 등)[1]
+
+Sources:
+[1] [vcroute.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyyn4yHvHIwCeM3dQSTgMFQzwF9AbqGNWAxKauWYt61hmDW3cd-dpyhgzU9x2HN15veHydOMe7hSlR0R2jHAwgfs1XMVtfk6kcMjjDN4pY36utSffKqJIpn3zb3ArmrPqfYkwVLXZTZ6CqmsHHDk=)

@@ -1,0 +1,31 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:67
++ ... onst m = d.match(/<meta\s+name=\"description\"\s+content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:9 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:9 �:4
++   });
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:1
++ });
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:10 �:2
++ });
++  ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Found 부경기계산업 at Excel row 5425:
+  작성자 [1]: 배현명
+  회사명 [3]: 부경기계산업
+  전화번호 [8]: 051-314-8427 font: {"bold":true,"color":{"argb":"FF002060"},"size":10} fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFD9E1F2"}}
+  종업원수 [15]: 1 font: {"bold":true,"color":{"argb":"FF002060"},"size":10}
+  업종(NICE) [18]: 금속 절삭기계 제조업
+  주생산품 [19]:  font: {"bold":true,"color":{"argb":"FF002060"},"size":10}
+  사업자번호 [24]: 6063050800 font: {"bold":true,"color":{"argb":"FF002060"},"size":10}
+  결산월 [31]: 12월 font: {"bold":true,"color":{"argb":"FF002060"},"size":10}
+

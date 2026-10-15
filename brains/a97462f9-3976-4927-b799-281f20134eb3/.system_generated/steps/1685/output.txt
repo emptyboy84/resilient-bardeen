@@ -1,0 +1,27 @@
+The search for ""희웹툰" OR ("부산글로벌웹툰센터" "희") OR ("부산정보산업진흥원" "희웹툰")" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+### 1. "희웹툰" 관련
+*   **작품명:** '희'라는 제목의 웹툰(봄툰 등에서 제공)이 존재합니다[1].
+*   **유사 제목:** '애완희'[2], '마두희'[3], '사각/만첩/은밀희'[4] 등 '희' 자가 포함된 다양한 웹툰 작품들이 있습니다.
+*   **작가:** '장희'라는 이름의 웹툰 작가(주로 스토리 작가로 활동)가 있습니다[5].
+
+### 2. "부산글로벌웹툰센터"와 "희"의 연관성
+*   **창작 지원 사업:** 부산글로벌웹툰센터(부산정보산업진흥원 운영)에서 진행한 '웹툰 창작 지원사업' 선정자 명단에 '정*화' 작가의 작품 **'조아희좋아해!'**가 포함된 사례가 있습니다[6]. 
+*   **기타:** 센터 내에서 진행되는 각종 교육 프로그램이나 행사 등에 참여하는 작가 혹은 수강생 중 '희'라는 글자가 포함된 이름이나 작품이 있을 수 있으나, '희웹툰'이라는 명칭의 특정 기관이나 공식 프로그램은 확인되지 않습니다[7].
+
+### 3. "부산정보산업진흥원" 관련
+*   부산정보산업진흥원은 부산글로벌웹툰센터를 위탁 운영하며 지역 웹툰 산업 육성, 창작자 지원, 웹툰 페스티벌 개최 등의 업무를 수행합니다[8][9]. '희웹툰'이라는 별도의 사업 명칭보다는, 센터를 통해 다양한 웹툰 작가와 작품을 지원하는 역할을 하고 있습니다[8][6].
+
+혹시 특정 작가나 기관의 행사, 혹은 정확한 작품명을 찾으시는 것이라면 추가적인 정보를 제공해주시면 더 자세히 안내해 드릴 수 있습니다.
+
+Sources:
+[1] [bomtoon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWREhMj8qYQvlxvvCeBrOPezkwM449dQd6PO2CvRGU8akqvtiYlp6YHmR4YDthKnJXxfm1yopSOyVEffD5rk7d6QzcE8Z4V-wP4gBa2B1sCk0rTnfEhXXUA==)
+[2] [webtoonguide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc4IozKLNYz5E3sQBV9mQuVnG5hCdat7p0bT2z_9LiauYsGV0EXoFWSODHqFgm8BUnuOwUnKyh-z-T8Gi8dTlm1VQaYQEqarmnDicQadAyqLiKxk7D9v6KiYUwlLUfJh0AOXo3vJu4rA==)
+[3] [ulsanmaduhee.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK_3WM8aRbB08kHPytFGG_irBVbaLhAh0ZQgaCEo88msEpJSwPNR4_GUDgS5ChzGsY08fNI3K2Qvcg6VTJu6_Ulmzek9vuSfZdJfwZP5Sjs6PRkLo0RzRR6YjrPFSTesr5cw==)
+[4] [lezhin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc0GXj5gH2jHZ9jPd1RfHGnBrvi_mh5bvy_Nc3UZaOSc8J_2iybBdgJuja386OpLJE5hB3GJnE264xR_mD7AZJ9OrsWCi3wpSimSXTI2ciBwTenH0ZIGgGeYf7FgBTaQ==)
+[5] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG56Y2DljqgmzpNYX1b6h28fN6p01rsEvkz4GPlFA0PBl6swbFo8pXm8t-_fNF-okUsos1RoaTNZ6p1ZgiOTethm8U7kM1cTdw7zEWRNpmHm_tgiEpMEAcaqtuST0eMdbGRO4wyUTzX2R_9rsuk_C4M7XRtw0FxKbTa7Jr_1bGplIUQb08=)
+[6] [bipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_6c2GGjoqWQPDEpU0_e9zfqHr_q-zwaoJxxihPlrUyFyeEjMjzq-WXflaBw7zsmzG3zdf2BHY5EeMoow7O2iPNjSBLoRteyVk4REIqZe4o-yzttxcA_lkkoVXbYFhbw==)
+[7] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5wpEG8MpGJ2y7X_oeDAglfcowDwGYTuw_RBPzwMVMZPoQurbUZ6S4VvpSKowSXwL7aI05cgC8B8vQ2n729h-_Cy08CXyt79gwGO_n6NhOOJCSTOyleiBZ6FC87zLozW_Yem1Vbu_xZpn3htpgGJAJtUKeeIeJ686c82y7dpRdPd-UXl9TcnncfXxVAQoDpa2ozaN_2kXMZhZXMQQ90-Si4tc06L8KOtX2dAT8hR1RU6LaccOlf14id28O9eY7ZNl6_rqe8ciB1bwAfdtj7J2sHo1gc_Eu-xlFQqwiHsdT4VtZq9aFunbCjfoISVyTiQV3vcrHvwfQGgNrvBDfxIMs_UsX6wrGl5LrXNR2MA44WtCjTtized3e_jtIav0kcNAMnffaEJj6bx6F2fwc-_lNhoYs60BO4irIugKogyD5l1XpwerTg3XKq0YeZiuXTS0_yiaa2EzNAEf-ciYfBAIXKvI2W9RgUOoqIB5czEG5vUqx2oPH1kX52A3e76GfN03QfaCsIdYgiAz_tXkJr3GCb7KscdINR9nThkiRqHZmeC6QpgoKG_h_kyv9fAOe6CLQNrJXoL2tKi3GoF6FJxWzkVYcBTgdxdlGEnssWRZ6jYOSLnfJHJvhyfe_VjfQiQNLWFVtS9n3Lf7YY2_62wH3Zt2UIBGsUKPInFVpJjVLVSha5961AbBQ6E7a29A_f78AxbILPpwn-oMMyfsLimggy6ETUTZ0e3VzUwLMd-ofiaT3Dl95VHb08TFlvYYbUBcQT8AdHLNCsuYdvPVUmPzz7wkAUOkULRAySZkpIQ-QS54f5SRr347CVbNMrIumLVwpdM_vq8iecPJNKVhoTQH7PRHD7xS-RpanQSfJchA1tB-QTpgMBMTajJfE86laZv_qNHuiT752rZh0eAeOb2032IG2Cj-1jHFtqsl5z9yFeg==)
+[8] [newsa.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1YPsfldEVizyhGp6hSyTg6h6qs2QuAn4ZnKDfwObg60J7MWp44pFMDjrfLk3jGdjCLq2E2_rQWTMFAiDrfQ7NeOTTlGXcfFFj_poOC5jIsv9ypVxVZzuuJjwPFkrd7cWI4ISmcPVCAubyy7DD_VQ=)
+[9] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEywPNL_c5du4HEL77t5zgivCrmFd44Hr9ECOy71g_A0MjMkvNYjop6TDGL6Oh96uYvWLhEdq1IRwuzPil_wUJUXYkeH06rr7uViRoUGv5Mj2KyJ_fqD7se-WQXGGS0YG7gkvrpKe4iHaC4y-ObZ_T8UlAh4M79tMAZ-g==)

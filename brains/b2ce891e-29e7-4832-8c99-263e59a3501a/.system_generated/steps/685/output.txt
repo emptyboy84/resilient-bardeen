@@ -1,0 +1,20 @@
+The search for "site:saramin.co.kr "에스지이" "이혜정"" returned the following summary:
+사람인(saramin.co.kr) 사이트 내에서 검색하신 키워드(**"에스지이"**, **"이혜정"**)와 정확히 일치하거나 동시에 연관된 통합 기업 정보 또는 채용 공고 페이지는 직접적으로 매칭되어 조회되지 않습니다[1][2]. 
+
+다만 사람인 플랫폼 내에는 각각 개별 검색 키워드와 연관된 항목들이 존재합니다.
+
+1. **에스지이 관련 기업 정보**: 
+   - 아스팔트 콘크리트 및 혼합제품 제조업체인 **에스지이(주)**를 비롯하여 [주]에스지이, [주]에스지이에너지, 에스지이건설산업[주] 등 관련 상호명을 가진 기업들의 프로필, 채용 공고, 기업 리뷰 페이지가 등록되어 있습니다[3][2][4][5].
+2. **이혜정 관련 기업 및 상호**: 
+   - 사람인 기업검색 상에 대표자 성명이 '이혜정'으로 되어 있는 일부 소규모 임대업체, 학원(이혜정S&M학원 등), 그리고 개인 사업장 형태의 등록 정보들이 존재합니다[6][7].
+
+특정 기업명이나 인물명과 관련하여 구체적인 공고나 상세 정보를 찾으시는 경우, 사람인 통합검색창에서 각 명칭을 개별 검색하시거나 정확한 법인명을 이용해 조회해 보시기 바랍니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeVbYg4B1iY_eYHoRQ6i5_450b-qVk7MOqi9UxQJ1VqXz8V5C_OlB64NiaM5_v3REeZc0edmHOeEypOTMucW56wg1k5iIYN9rPkA6Q95KA90Qqz7OJQgUYiq6BOarMdJYboRPw5zxvjNqxJOtvXwhOJ_cZHDoSWp9xKH1uNjsLa2j3Vjz_n2sOQfTElROQBhLJBkoa8FuSd01jkGde-s8K3SvrCjSVpBn5haIxxpmo2W-yX0lJXinmdxHB0w==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx2yFm7fcP3p-bOHUV8kON9RBpRY_qq2CIrzVmzP7fggQZ3VxgcEQj0NtmqvWmzTB9orOulWL1KODeIiQ22FbwmEAGFXQ15hqr8FFEBE5uD8QBO5P6QkNB7RxiwaKEfn99gOdAn_mbB9052kveZ7RtLMMQZViJaLiWJguOsJmHiwVEJE7OiORDuo2P72ebXK3qGZBpX3X13roHpvnYUFOrnS1xwSkE4rqkuRSnRAbTLB4Us5c2l1r-0x3aPvO065_oMhk5ghx_ddY=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvV0snZSKseR69MGvA5TyTFBmDVz5EZ3r2qg-B6zNmsc8BWKpbFQ50CEkVx5wBSVzvov4tlkbd8CV7morXeL5qM0Fd2cBfkgwG7SGq-59eAfE-XzEe9uebY-s0fBAGlv9nm7CdBdYKh9xn8ItQzZUW3-W-EiMnQUtuDVkyjF3rq5X3bs0CZQ158y8fct4IA-VwxD4BRPs=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv0wWOzoUc-GZ48MZ9h9IHqmkcBILST853jzQ9JxOqjYCA5XRMh5OQIILPTgcTE6fzmnfByV-1sCg7PlGUM5HGyWcW8UYZppm5xtNb12mgVnWVRztFpDLlx3tO2a6-T-YHsGMPoQ2WLuyUSFnF8I0JAwly9ZHfvQD3ksiTF0nJANqPlc6WxoAVqqhTqyT6YcMdvD8J3OJWc7wNtYIqbbaqIOvkxI-qnpRl06OsopWlLyKD30Jd_RdHmj5b0dSPp_BjWqxhQrOh93pBy9oJxPeD)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbNnxe924HPE4qIF7M7weqa_MAXy33sFpqS_lKq6L5RUi65Bf_1rnZa62ea_ttx1A4Rf0lUacPlOIL3LV8ssXNfu3EsMgQDOM4mZZE8yI1TUVwbT6h96HAq_SyVWdDl-vLrwzAQknpxBQSXk09gMhgNtty29Heb3TN1r8uGK8enbSvahuJ06z6cD6AzyhUbnKtcxMimT2rh8f0lwZtHgX7IrNgfz3SJZe8_FRjEDV7CME7Bj_uyEbXbr8brKHlhnW4EybjXuFhG48hXR5KyNn1DUDCW6XqngzQ1HP_BTN_QPkCfwMODRlJV1ERDY=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuRmhtjzxrxkVqUdP1eSQfhFWWlJtBr7g7-UGPYCNAwC3ipMkYNsbxuyiWNdN4hIZ6Prw6jq2payN7WsPh6-hFf953-moq0FfMIacHrSj9ecUyuPPqcx4ZtDzbQu0n2rQFpOVwKazVWt4iJU1MB0LAd5cT1vMpvAW-JV2xldPVnTZQb6rv9eXgOACbTkFw8Rl-VY-7tMe0oBU22EqVbIqk9I15HB1oKhwZLBk4MZzJm0mK1BJCmNMQIQaLD5z44I0Mz8OJ__OoPTGTFtG9lUFDYihInbythFtwq36285Rkc0WL)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaTZ0XJJwKG7h0ZpOw4DdWIcb2_pzq720PUhHmcDmnfyPhpQ6TG-Uiwkayu_xWGF1KHWGfX8RMPo64HfMyJb6l46xRRV5xwG63OjNkaG8KEvaeXhNFxSgb6oYnORMGkcJ_juOuYwg93qz7nGUDwiAyMQ==)

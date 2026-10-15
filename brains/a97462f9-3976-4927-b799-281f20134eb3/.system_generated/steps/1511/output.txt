@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://m.place.naver.com/place/1625293474/home');
+```
+### Page
+- Page URL: https://m.place.naver.com/place/1625293474/home
+- Page Title: 네이버 플레이스
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-21-22-426Z.yml)

@@ -1,0 +1,16 @@
+The search for ""bluerecorders.com" OR "oceanbluerecording.com"" returned the following summary:
+These are two separate recording studio businesses, both located in the Atlanta, Georgia area:
+
+*   **Blue Recorders (bluerecorders.com):** This is a prominent recording studio facility with locations in Atlanta (Blue South) and Los Angeles (Blue West)[1][2]. They are known for hosting high-profile clients, including artists such as Andre 3000, Donald Glover, Travis Scott, Playboi Carti, and Summer Walker[3][2]. Their Atlanta studio is located at 500 Bishop Street[3].
+
+*   **Ocean Blue Recording (oceanbluerecording.com):** This is a recording studio located in Decatur, Georgia (minutes from Atlanta)[4][5]. They offer a variety of services, including vocal recording, mixing, podcast recording, and beat production, and cater to both independent artists and local organizations[6][7][8]. Their facility is located at 2223 Candler Rd, Decatur, GA[5].
+
+Sources:
+[1] [ams-neve.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCH09fcyDFvdFH70u7TpKswrJYDmI7rUzfC1SPay0-3_ZL8JARuKtBdlG_ddOgYgBDKQQbX5wjRnyjToqcMBSvTTTAq3CjrsVYIyfCpq2bVzyzN-XZejlXCjAXZDC7TRYpuw_czkad-q99bc5RVyc90Vf5oIo50-BlBMwA6CfQ3Wj_9qQHTdDaDc5Vjpx17jl-Kg=)
+[2] [digitalmarketingdeal.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5et3GZQ8VPdR2cbMBcqi3eS2DU_37y9cSmTsqH6DRN30BjdMRwAMH8Tl4_WQ9ZFoaAC8vnmEU04ryV5IgcofVzkKLvVuchO89jMl8cGrUeAwdd0Aeen86FMNhI9GbBUZN3AXedf1pcSWVraoE9X9GgVIv8kRG8aal)
+[3] [bluerecorders.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLsqMyBwGCCGymqv-u9KPmXCbc2R_XsqyZwzarkGEl4iHAEoYEUCQC8ug6m_Wna2wEiDcAidejiCH62cANArfB8sTVeglDYpQ-fH5chx_E5nbCaN0=)
+[4] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4jYTMrOGl9ekygCjWjwr1Y1x2La_lCj2wuP2txR3JEh_Q0tGBbROsdsYaUINDRHIJfVDKpjSNccasKhmAYdZp-dgx1rYCG8gcrbYKs3Qa2bEHAYom)
+[5] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrUJwP4dL-fM2r2mSLBwKh30Qlihvvbxm0pLgdVOCeqcSM6BttviqVP2gV2h5Mfqu6X5l8grxRfzAE1jkRkf_lqyBfkKWGbNJoTGwPjtp4zfTcs4Wa357cd2j5fFw=)
+[6] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuD9-7kFvhidWqX-4xDcE_eb4JI7qv9tZenbK16avu86tWI5W-VidIZ4ZfiOARKxT__j9JlawbwFCVcMRb2IcFbLaw5ATYAquhhE9DIAMO3jkLyx1AksvrTREqmZOfPDufbVLoaGwrJFlM8n87ZmREIg==)
+[7] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIfpIR5jq01khs-GlNzTcKAKdDm9gqPK-6uvWvcEyXNAgoUPuN3f364OkW53EXltbcaTwWaSdK3MjuLtjccVazG7kWLaaWm41ZLcHNs366fnmFmy7LLijYF3VApbUHnQwgu8YOS-tj)
+[8] [oceanbluerecording.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsNP62qzkgymRElofXqYVV3afSG7lY9mwjGHYdsqJhLzjnz-ZVFy9bHevFopcDbB36jQM3FeDireDk1l1G1eJ4pPsd-yvTSx0lUeRjViuNoikbSz6pMaX_FagJlKa2)

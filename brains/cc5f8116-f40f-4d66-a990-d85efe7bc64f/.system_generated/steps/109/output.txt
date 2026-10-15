@@ -1,0 +1,8 @@
+The search for ""도서출판 일광" "기장읍" 사업자등록번호 OR 비즈노" returned the following summary:
+검색 결과, '도서출판 일광'은 부산광역시 기장군 기장읍과 연관되어 언급된 바 있으나[1][2], 해당 업체의 사업자등록번호나 비즈노(Bizno) 등의 기업 정보 데이터베이스 정보는 공개된 검색 결과에서 확인되지 않습니다.
+
+일반적으로 개인 사업자나 소규모 출판사의 경우, 공식 홈페이지가 없거나 별도의 비즈니스 정보 사이트에 등록되어 있지 않으면 사업자등록번호를 직접 검색하기 어려울 수 있습니다. 공적인 확인이 필요하신 경우 국세청 홈택스의 '사업자등록상태조회' 서비스를 이용하시거나, 해당 출판사에서 발행한 도서의 판권 페이지를 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWSk6WeSoJeQ7C2kPJ_BtckDiHU03gT1n1aie8MQIywzOw2k0OdplNK6BvgMjznykxg66-rglQhS-_VoYdBgvc4ZIa5RK-2tKSp_LG4y-ikwNWZ56thCrh79Lrnp2JIpRDckmnCMfzpeEUeT1hX8-Vf0moNQ==)
+[2] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu8uanHr7swtLbjHEZkZlCl6US3yR_ii2TVSq5hA9GqO2W5-oWkzpVIlam0gQjcEPrzsr2E2Cq5xwgvGOUheiskof-dymtNXo8PR8Z0dOikujK6wKn7uSrdZyaruyWf333iknd3PPz_s1cX7elp4VZfl02)

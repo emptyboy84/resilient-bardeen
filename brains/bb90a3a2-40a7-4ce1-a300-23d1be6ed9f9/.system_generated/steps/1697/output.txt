@@ -1,0 +1,16 @@
+The search for ""주식회사 젤시스" "김효성" OR ("주식회사 젤시스" "550-81-02671") OR ("젤시스" "남산주유소")" returned the following summary:
+검색하신 키워드와 관련된 기업(주식회사 젤시스)의 사업자 정보 및 등기 사항은 다음과 같습니다[1][2].
+
+* **기업명:** 주식회사 젤시스[1]
+* **대표자명:** 김효성[2]
+* **사업자등록번호:** 550-81-02671[1]
+* **설립일자:** 2022년 7월 19일[1]
+* **소재지(주소):** 부산광역시 금정구 중앙대로 (남산주유소 건물 내 등재 정보 확인)[1]
+
+*(참고: 라이프스타일 및 슬라임 브랜드로 알려진 '주식회사 젤시스(대표 선나래, 경기도 부천 소재)'[3][4]와는 상호명이 같으나 대표자, 주소 및 사업자번호가 다른 별개의 법인입니다.)*
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWvSUC5ThrxAJlB2xu_7F612kCwkQUZ3B7AUrO_EelI4abT0ez2e7ZK91bEOT7PnPxkJ-VhCyGNdlFhrZr24aPdEpdW6c6xsXiuQ-SCh_CnhqG5Layd-2aq03DWij4xuFvR4WBB6iLMW-qKJ4tUpFXXg32fx1dL6cr22uLySO2gy3THQ==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWvSUC5ThrxAJlB2xu_7F612kCwkQUZ3B7AUrO_EelI4abT0ez2e7ZK91bEOT7PnPxkJ-VhCyGNdlFhrZr24aPdEpdW6c6xsXiuQ-SCh_CnhqG5Layd-2aq03DWij4xuFvR4WBB6iLMW-qKJ4tUpFXXg32fx1dL6cr22uLySO2gy3THQ==)
+[3] [jellsis.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjkJikK6-AC0vnVETFLDacoQFBUNpysf6qZguE3IgNlmu9K49GDYMQVNV_T6OR8QNUTLqNxjZEfPnsmQCIj44WbElcD62DAfjXAOU=)
+[4] [jellsis.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRQ7qN5Kj4HJ-YzhOMqfCHp2HWb-piLo6y6R4VS6OQvbd0JIc3PkBmpy7PWyPh0wH7qiY0B--aaFtJa-OjDXoZSd05M3_Xgo9DVCgj-VA7EuHXh3sib2UlqwXx7KrlVM=)

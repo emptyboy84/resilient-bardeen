@@ -1,0 +1,9 @@
+The search for "site:ftc.go.kr "877-88-03313" OR "8778803313"" returned the following summary:
+해당 사업자등록번호(`877-88-03313`)는 주식회사 **글로픽스**(스마트스티커 제작 브랜드 '머스티커' 등 운영)의 정보입니다[1][2]. 
+
+공정거래위원회(`ftc.go.kr`)의 통신판매사업자 정보 및 사업자 등록 정보와 관련된 조회는 공정거래위원회 공식 홈페이지의 **[사업자정보공개 > 통신판매사업자]** 메뉴에서 상호명, 대표자 성명 또는 사업자등록번호를 입력하여 직접 확인하실 수 있습니다[3].
+
+Sources:
+[1] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5OoEcGSNF2keK4kFNIMqrWAOeFemrQoOSQfLoiAFIgT2axilyQJRy3AUp9_YfvmdkmjRs7pK1FPqjszYLiiL-zAJHA3ZA6S4prHIBBZMmfuW1)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjoVSoIDeLVor5ph50hzsnnk1F2c3pi6AcbS9-izJWwHAjUxketv1yrHXAwGoZYFUtSd1FLFovHjkguyHf5wC5QHW4VD2DoFv_3wxxvB2__8W5SkTj738tgw==)
+[3] [ftc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5CjyLeMzKddTnao-i0CX_hGrcK_hRHigRoECbkum_RYMp_at3i8YbdRYbELNDhaz9hQ6GArhytdLzU2oSDQcbDejjjNcdjmb35Ju3)

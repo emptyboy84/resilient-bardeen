@@ -1,0 +1,11 @@
+The search for ""877-88-03313" OR "8778803313"" returned the following summary:
+입력하신 번호 **877-88-03313**(8778803313)는 대한민국의 **사업자등록번호**로, 법인사업자 **(주)글로픽스**의 정보와 일치합니다[1].
+
+* **상호:** (주)글로픽스[1]
+* **소재지:** 부산광역시 해운대구 해운대해변로 203, 오션타워 1014호 (우동)[2][1]
+* **대표이사:** 여일석[2]
+* **주요 서비스/브랜드 예시:** 머스티커 등[2]
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojydf9mkPdBsCdqqgkhzqOnRy2sjvPcKBiF0mjH5XpCgRhzQq2yem2wzskXe6yV4ILi3yx94Q3HCtDBuwVmkQHSu9A-io7VwtFsQaM10rQYcNN5_RkHGc9W92E7B8zdF4ug==)
+[2] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82qFD3jegfDj8mSnKI0JNl4ocSn7VADVfSpqX3fXq1a98s8qP2QmNjCZMhAs8dL4sdPIFvmHiRrTNRG2BiRel3JZabCXWBhF-8QfG0HmfgwjFBV9n2zjMAavlpuAsHyOzMtUUx6G1FCKAeA==)

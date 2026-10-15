@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Total shared strings count: 12347
+  String 0: 출판
+  String 1: 만화
+  String 2: 음악
+  String 3: 영화
+  String 4: 게임
+  String 5: 방송
+  String 6: 캐릭터
+  String 7: 콘텐츠솔루션
+  String 8: 출판
+  String 9: 만화
+  String 10: 음악
+  String 11: 영화
+  String 12: 게임
+  String 13: 애니메이션
+  String 14: 방송
+
+Sheet 1 Header Row XML: <c r="A1" s="64" t="s"><v>7845</v></c><c r="B1" s="63" t="s"><v>7453</v></c><c r="C1" s="149" t="s"><v>21</v></c><c r="D1" s="149" t="s"><v>22</v></c><c r="E1" s="149" t="s"><v>23</v></c><c r="F1" s="149" t="s"><v>24</v></c><c r="G1" s="149" t="s"><v>25</v></c><c r="H1" s="149" t="s"><v>26</v></c><c r="I1" s="149" t="s"><v>27</v></c><c r="J1" s="149" t="s"><v>6127</v></c><c r="K1" s="150" t="s"><v>28</v></c><c r="L1" s="149" t="s"><v>29</v></c><c r="M1" s="7" t="s"><v>7844</v></c><c r="N1" s="151" t="s"><v>9790</v></c><c r="O1" s="151" t="s"><v>9785</v></c><c r="P1" s="152" t="s"><v>9792</v></c><c r="Q1" s="153" t="s"><v>10195</v></c><c r="R1" s="153" t="s"><v>10196</v></c>
+

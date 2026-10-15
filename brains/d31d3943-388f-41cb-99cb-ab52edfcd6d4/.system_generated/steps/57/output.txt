@@ -1,0 +1,12 @@
+The search for ""에코캡" "센텀아이에스타워" OR "에코캡" "센텀북대로" OR "에코캡" "재송동"" returned the following summary:
+검색하신 키워드 조합(**에코캡, 센텀아이에스타워, 센텀북대로, 재송동**)과 관련된 정보를 확인한 결과, 자동차 부품 제조 기업인 **에코캡(주)** 본사 및 주요 사업장은 울산광역시 울주군(언양읍 반천반송산업로)에 위치해 있습니다[1][2].
+
+반면, **'센텀아이에스타워'**와 도로명 주소인 **'센텀북대로 60'**, 그리고 지역명인 **'재송동'**은 부산광역시 해운대구 센텀시티 인근(재송동 1209번지)에 위치한 대형 지식산업센터(아파트형 공장)의 주소 정보입니다[3][4]. 
+
+따라서 자동차 부품 상장 기업인 '에코캡'과 부산 재송동의 '센텀아이에스타워(센텀북대로)'는 서로 직접적인 연관성이 없으며, 각각 개별적인 기업 정보와 건물 주소로 조회됩니다. 특정 입주 기업이나 사무소 이전 등에 관한 내용이 필요하신 경우 정확한 세부 정보를 다시 한번 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [ecocab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFCUw0JXpKfqMY2PoHupBsJ-frPBLslsUQnwdB3bUgV-MyM9Y3MnrfVbWM0KeeVdGNlIQjT39rmxc5wF44S9G9ENZb85Jolj2y2vfKtqk2Il-4J9CUnR1EdGYbgpfDe1c=)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET7g-px2pT7Ib2pw79NfHJS0bdi-G3PJ5z0s9XUVeo14CkPcJZhvQuZFdc-X6otXj9zjH4LwvoFg5oLjBVbZMtPh4xssHlh37Y9Zv79xEggIQ_osMDoBpJQ950g_yfSQq8VsXtgt2H5_-n_r_5Ng==)
+[3] [kmecnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj0ZoAI9C2HI-iyw74UsZwBo1V_uHE-yd_88QLXZhG1x4dLj--g62Nfd5_E2kCwi094QZ937fVBe5h1Sh_UvMiYMuO-D6zCwGO-pFDHHiPlZRBQVtauJKIKacVg3F19E2-_4X6dryYAhv4c37j71CdRQ==)
+[4] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2lPpyUA4HHdaGD241XbrnLccyEcKQoHzcwsWrlgUaY6ZTd4McX_rurJ0exBeCw7Hp4G0nXBiUhIXm_fmsfsCo4O0weCPpKAHA1jb_H6YLCkSJVS16G9I1Yw3MH9qm2FiOl-xbJ4Fen55cn_t5tF9yrZztu02AgK194an0ONqqgIZsU-T7MCLNIqj99sYwxEXl04IndiLuO93mjKE6nZb0eLl322tmTTwmX0fE9cCgpMJNywVZTcp_RWbnJrKuTagmZP7em9JLOeJxFfqrKhk7H95_nkSG_39tHuG1J0UhecbsD82UtsFjoh9wd0LmMPNE3cm2q64E2-RG-xV2-d9HIQ3vbX0Fr_um)

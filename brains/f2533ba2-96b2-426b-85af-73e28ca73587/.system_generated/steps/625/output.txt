@@ -1,0 +1,95 @@
+
+The command exited with code 0.
+Output:
+<truncated 9 lines>
+  },
+  {
+    "text": "이미지",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQtKgLegQIFxAB"
+  },
+  {
+    "text": "쇼핑",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&udm=28&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&ved=1t:220175&ictx=111"
+  },
+  {
+    "text": "동영상",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&udm=vids&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQtKgLegQIFBAB"
+  },
+  {
+    "text": "뉴스",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&tbm=nws&source=lnms&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQ0pQJegQIFRAB"
+  },
+  {
+    "text": "짧은 동영상",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&udm=39&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQs6gLegQIFhAB"
+  },
+  {
+    "text": "지도",
+    "href": "https://maps.google.com/maps?sca_esv=06d919608393c2c0&output=search&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&source=lnms&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&entry=mc&ved=1t:200715&ictx=111"
+  },
+  {
+    "text": "도서",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&udm=36&source=lnms&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQ0pQJegQIIhAB"
+  },
+  {
+    "text": "웹",
+    "href": "https://www.google.com/search?sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&udm=web&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQs6gLegQIIxAB"
+  },
+  {
+    "text": "금융",
+    "href": "https://www.google.com/finance?sca_esv=06d919608393c2c0&output=search&q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&source=lnms&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQ0pQJegQIIRAB"
+  },
+  {
+    "text": "모든 언어",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22#"
+  },
+  {
+    "text": "한국어 웹",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=lr:lang_1ko&lr=lang_ko&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEAY"
+  },
+  {
+    "text": "모든 날짜",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22#"
+  },
+  {
+    "text": "지난 1시간",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEAo"
+  },
+  {
+    "text": "지난 1일",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEAs"
+  },
+  {
+    "text": "지난 1주",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEAw"
+  },
+  {
+    "text": "지난 1개월",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEA0"
+  },
+  {
+    "text": "지난 1년",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEA4"
+  },
+  {
+    "text": "모든 결과",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22#"
+  },
+  {
+    "text": "완전일치",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22&sca_esv=06d919608393c2c0&sxsrf=APpeQntWkylxIHknvq88b85lOqBRQL9ZAA:1791341718025&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwjpm5j286aXAxVrdfUHHY19KmQQpwV6BAgKEBU"
+  },
+  {
+    "text": "동구 부산광역시 - 이전 활동 기준",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22#"
+  },
+  {
+    "text": "의견 보내기",
+    "href": "https://www.google.com/search?q=site:sankun.com+%22%EB%B0%94%EB%A5%B8%EC%A4%91%EB%9F%89%22#"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.filter(a => a.href && a.href.includes(\'sankun.com\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```
+

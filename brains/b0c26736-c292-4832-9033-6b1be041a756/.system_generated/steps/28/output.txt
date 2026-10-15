@@ -1,0 +1,6 @@
+### Result
+"[{\"name\":\"query\",\"id\":\"query\",\"placeholder\":\"사업자등록번호 / 법인등록번호 / 상호명 입력\",\"action\":\"https://bizno.net/\"},{\"name\":\"q\",\"id\":\"q\",\"placeholder\":\"상호명,사업자등록번호,법인등록번호\",\"action\":\"https://bizno.net/\"}]"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\')).map(i => ({name: i.name, id: i.id, placeholder: i.placeholder, action: i.form ? i.form.action : null}));\n  return JSON.stringify(inputs);\n}');
+```

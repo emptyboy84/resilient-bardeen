@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+Fire_TouchPadChanged IL:
+0000: 14 
+0001: 72 [0x70000B5A] ("Hotkey Manager") 
+0006: 28 [0x06000045] (LGDeviceController.FindWindow) 
+000B: 28 [0x0A000038] (IntPtr.op_Explicit) 
+0010: 0A 
+0011: 06 
+0012: 2C 
+0013: 24 
+0014: 06 
+0015: 20 [0x000004DD] 
+001A: 16 
+001B: 03 
+001C: 28 [0x06000047] (LGDeviceController.PostMessage) 
+0021: 26 
+0022: 72 [0x70000B78] ("Fire_TouchPadChanged : PostMessage : ") 
+0027: 12 
+0028: 00 
+0029: 28 [0x0A00001F] (Int32.ToString) 
+002E: 28 [0x0A000015] (String.Concat) 
+0033: 28 [0x0A000013] (Trace.WriteLine) 
+0038: 2A 
+

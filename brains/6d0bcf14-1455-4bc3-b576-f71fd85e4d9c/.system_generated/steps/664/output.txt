@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Total files: 16182
+Total size MB: 321.17
+Top extensions by size:
+.jsonl 150.74 MB
+.db 48.03 MB
+.md 29.09 MB
+.txt 21.34 MB
+.html 17.59 MB
+.png 15.86 MB
+.json 13.85 MB
+.log 13.81 MB
+no_ext 4.18 MB
+.webp 1.79 MB
+.xlsx 1.78 MB
+.js 1.40 MB
+.py 0.79 MB
+.tsv 0.68 MB
+.ps1 0.05 MB
+

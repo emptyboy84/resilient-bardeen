@@ -1,0 +1,11 @@
+### Result
+Waited for 30 seconds (requested 3000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EB%B6%80%ED%8F%891%EA%B8%B8%2073?c=15.00,0,0,0,dh
+- Page Title: 부산광역시 중구 부평1길 73 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T04-03-49-628Z.yml)

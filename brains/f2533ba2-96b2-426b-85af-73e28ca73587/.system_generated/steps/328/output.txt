@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('http://www.iros.go.kr/PMainJ.jsp');
+```
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-06T02-44-29-472Z.yml)

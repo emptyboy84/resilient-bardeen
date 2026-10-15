@@ -1,0 +1,29 @@
+The search for ""이노커뮤니케이션즈" "605-19-82721" OR "윤오동" "매출액" OR "기업정보" site:saramin.co.kr OR site:jobkorea.co.kr OR site:catch.co.kr OR site:nicebizinfo.com" returned the following summary:
+요청하신 '이노커뮤니케이션즈' 및 '윤오동' 관련 기업 정보에 대해 검색한 결과는 다음과 같습니다.
+
+### 1. 이노커뮤니케이션즈 (Inno Communications)
+*   **기업 정보 및 현황:**
+    *   검색 결과에 따르면 대구광역시 중구 남산동 등에 소재지를 둔 업체로 나타나나[1][2], 동일 명칭의 소규모 업체들이 전국 여러 지역(군포 등)에 존재하거나[3][4] 과거 광고 관련 업계 리스트 등에 언급된 바 있어[5][6] 특정 단일 법인을 지칭하는지 확인이 필요합니다.
+    *   제시해주신 사업자번호(**605-19-82721**)에 대한 직접적인 기업 정보는 공개된 검색 결과에서 확인되지 않습니다.
+    *   광고 및 대행업 관련 리스트에 이름이 거론된 적은 있으나[5], 현재 시점의 매출액 등 구체적인 재무 정보는 주요 채용 사이트나 기업 정보 사이트에서 검색되지 않습니다.
+
+### 2. 윤오동
+*   **관련 기업:** 검색 결과, 부산광역시 금정구 소재의 **간판 및 광고물 제조업**체 대표자로 '윤오동'이라는 이름이 확인됩니다[7][8][9].
+    *   해당 업체는 간판, 광고물, 교통안전시설물 등을 생산하는 것으로 보입니다[7].
+    *   이외의 검색 결과(뉴스 등)에 나오는 '윤오동'은 동명이인일 가능성이 높습니다[10].
+
+**참고 사항:**
+*   제공해주신 사업자번호로 조회가 되지 않거나 정보가 미비한 경우, 해당 기업이 폐업했거나 영세한 규모일 가능성이 있습니다.
+*   보다 정확한 기업 정보(매출액 등)를 원하신다면 **NICE평가정보(nicebizinfo.com)** 또는 **데이터랩(DataLab)** 등 공식 기업 신용 평가 사이트에서 사업자등록번호로 직접 조회해보시는 것을 권장합니다.
+
+Sources:
+[1] [exco.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU9mG340MqqWhkCwICnW7eAlPNlrLnkMuZuZgoYfbIVXRc4yo76KcMFoefx7I6TXDenoNQInrsDaQtk4gqNx-JbbWCf32sgR3l_O2SwIPCiGA-l9loS0fcNdf16eAJ4LvYdw==)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwmmmZIMvkEpTiwTBWhlFyoqrJu1TT7T79mJ3zoTQZq96A-GMJYVXDVbqUd8R5XYcmHE7uysSfjWcvUk3dGguv7zRll3Xi2X3XKujoZsXUlwltZ3o642zqkjhjp1WKWbv-SIYQNG_aghl0oMCMiAPY8KLsWFmAdCgRg1owq-Tog2PZ6TPIsK0h2G3AyTjBdQt8MzddFhKTfI9XVCEfNuSzvtXLSPX4Z1wuhzMnpqJq6noZC2uCLsCvku2TSH3s_cQ-2_nGxzzZYk5O)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGElY8HH2MSFqCn7jT6GZieeOYLCMv4OhjtwEw8XhZ5GJAKfJoNY35iZNywcObbqn0SflEVMCN7V3MG2CFAcmO60thslB11_JhdZoJ-D7y9I8Dv5M69ioG1vQ==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGRDqnS5XcrIm9elLK3umgsnFJY3uErBoXplQ6c7HGHcOCzr_Uk40szkQ8K_dHLYDaYrWC9IEqPV2Xdt_8HJrK9iBvGhmfoUBvvpAfd_M6hm7S)
+[5] [slideshare.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKanqE_YA77vFMW5-sOaWLCJ1Tb_1Z9CLyFFnhnKgcdLxCYJW2VURi8zeKartR3rj4_TcP67jlMJ7ve7WxZPsmliUN7rtsx1db8nmbvqzgcNKPIFrrIMRcPAiIcFZWJLe6u904z0eQoKD7SAgvIJY=)
+[6] [slideshare.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKanqE_YA77vFMW5-sOaWLCJ1Tb_1Z9CLyFFnhnKgcdLxCYJW2VURi8zeKartR3rj4_TcP67jlMJ7ve7WxZPsmliUN7rtsx1db8nmbvqzgcNKPIFrrIMRcPAiIcFZWJLe6u904z0eQoKD7SAgvIJY=)
+[7] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUE020623zFHEy_gpCB5d1qCi1Ut1Sev2e07jExxtJXaNhPnvFuHrl1hOPNqVq908g5zRZebkb14shu6dvU2JRDCI3NCoZTkoc6n5bG792npxdNiM2nY72A6BeA3dOkq4b17BenInERVv4lX8LnLxXe2rj9inRQrqomZ57X5v6iejdLeKgRYanGz6ma4Nuq_kWqPRQjaDkWgkYbmTQn25Dzv07vzmeYR_loaFKhOrulR1OioaNjwSpTDWWjJYLvBL-ZSNk0yk0EsK4MvOrpzNtAPTjJXL0YYhwvfdz673UqhygmDhtwmvalHIG8Q==)
+[8] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeeRukpaKwgT4dmCEY1aarU3FpqymTit9a_azX1jEc4r4S3HC4124zUFRSH2ghz1wS5-LCkHQPxxgQMtmPEGKhc1e-roKLI6b4VDSIGys2LuKaa7lPzVIay5SaA6TMAUdDNy4HtWopLE0buMZOiYDs0L_N7IykIg-05-gmjAj6sTT55IC4VTuvzmi8ypNcWGNpS0N7wz2m-9GNZ1i-suXh16PpdzXqbQBnx2wzr01to6Sgwbq-Oj9wW4NHDYPCpLxtrTOKjmqH4b1Rv62Rqx4yQKJY7ridgi7TvKnk9OVs7Btk1BfXDtm3crrLSA==)
+[9] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiUHJfcYRUu1eK1u-kg8FymcnojwJZOqR3eLPYq0ppthzxlnb2ISHobzRTHqSR-TUWgWz3PDk1EO4XJTKUnP9h8od2-lGPDSAP7-JVaGv4To3yawNP23s--Vcf2ZM9l52mrPwlXOcpK-_g5VKN8MJkB0ITAq1WpFcp0CrR945Nf9vAkWr-m59MWS0cshiow89O3tw=)
+[10] [catholictimes.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoWdxNtHXsQAt2na0DN5VqU6t40smChCfncv0iviKEaLs24g7cbdo3MUaHDjFoBPAHZtARmmzQYEnCsJAJd_7Qzey04YXASruPnm2ZiMcrW_N3evICESWoxyAQqAdA1qf914KQYZ_Abj_dpg==)

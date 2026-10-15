@@ -1,0 +1,44 @@
+
+The command exited with code 0.
+Output:
+Total cached companies: 150
+Found 설립연도(연도): 136
+Found 설립연도(월): 136
+Found 연락처: 78
+Found 팩스번호: 39
+Found 종사자수(명): 143
+Found 폐업 날짜: 26
+Row 639 (디자인에코): {
+  regDate: '2009-04-20',
+  year: '2009',
+  month: '4',
+  tel: '051-207-3530',
+  fax: '051-517-3500',
+  employees: '10',
+  status: '계속사업자',
+  ceo: '이돈희',
+  address: '부산광역시 금정구 금정로 147, 4층(장전동)'
+}
+Row 703 (브이드림): {
+  regDate: '2018-01-25',
+  year: '2018',
+  month: '1',
+  tel: '1644-8619',
+  fax: '051-711-8573',
+  employees: '27',
+  status: '계속사업자',
+  ceo: '김민지',
+  address: '부산광역시 동구 중앙대로 216, 13층(초량동, 교원부산빌딩) 216, Jungang-daero, Dong-gu, Busan, Republic of Korea'
+}
+Row 848 (시드): {
+  regDate: '2012-11-07',
+  year: '2012',
+  month: '11',
+  tel: '070-7579-5330',
+  status: '폐업자',
+  ceo: '백병수',
+  address: '부산광역시 남구 석포로91번길 82 (대연동) 82, Seokpo-ro 91beon-gil, Nam-gu, Busan, Republic of Korea',
+  closeDate: '2013-03-18',
+  isClosed: true
+}
+

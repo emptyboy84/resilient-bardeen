@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:64
++ ...   const matches = data.match(/\/store\/apps\/details\?id=[^\"&']+/g);
++                                                                  ~
+�ۻ�(&) �ڸ� � � �ϴ�. & �ڴ� �߿� �ϵ� �Ǿ�ϴ�. �ۻ�带 �ڿ� �Ϻη� �Ϸ�
+� ū�ǥ� �ʽÿ�("&").
+�ġ �:11 �:25
++       console.log('Apps:', Array.from(new Set(matches)));
++                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+�ڿ� ' �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : AmpersandNotAllowed
+ 
+

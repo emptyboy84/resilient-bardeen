@@ -1,0 +1,9 @@
+The search for ""한국테크" "팔용로 245-1"" returned the following summary:
+한국테크 (사업자 정보)
+
+*   **소재지:** 경상남도 창원시 마산회원구 팔용로 245-1 (구암동)[1]
+*   **사업자 번호:** 609-09-45485[1]
+*   **법인 형태:** 개인사업자[1]
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9XDQWQtZIFbqD6eScEOMmJFOh2Ml3SZ46G2KK5Qk7ofes5CcGVDoxFQKDy99y2Ll_S_iAIx8d0PwJvQnbc2Lz-Dqrw3gV8RkCJlRJu2BJm4gk86Nb684M6Z3mybxits4MQQ==)

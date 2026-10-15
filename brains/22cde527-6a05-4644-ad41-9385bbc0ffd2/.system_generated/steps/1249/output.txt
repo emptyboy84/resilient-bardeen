@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:41
++     const nav = d.match(/<a[^>]+href=\"[^\"]*\"[^>]*>.*?�ȸ.*?<\/a>/gi ...
++                                         ~
+�迭 �ε� � �ų� �߸�Ǿ�ϴ�.
+�ġ �:10 �:70
++ ... t nav = d.match(/<a[^>]+href=\"[^\"]*\"[^>]*>.*?�ȸ.*?<\/a>/gi) || [];
++                                                                  ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:72
++ ... t nav = d.match(/<a[^>]+href=\"[^\"]*\"[^>]*>.*?�ȸ.*?<\/a>/gi) || [];
++                                                                    ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:10 �:76
++ ... t nav = d.match(/<a[^>]+href=\"[^\"]*\"[^>]*>.*?�ȸ.*?<\/a>/gi) || [];
++                                                                        ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:11 �:24
++     console.log('Nav:', nav);
++                        ~
+',' �ڿ� � �ϴ�.
+�ġ �:11 �:25
++     console.log('Nav:', nav);
++                         ~~~
+� �Ǵ� � �ġ � 'nav' �ū�Դϴ�.
+�ġ �:11 �:24
++     console.log('Nav:', nav);
++                        ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:11 �:28
++     console.log('Nav:', nav);
++                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:12 �:4
++   });
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingArrayIndexExpression
+ 
+

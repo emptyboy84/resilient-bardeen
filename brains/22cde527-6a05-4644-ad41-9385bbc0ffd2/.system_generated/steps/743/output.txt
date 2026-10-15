@@ -1,0 +1,23 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\save_final_excel.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -93,7 +93,7 @@
+     const rows = parseCSV(text);
+ 
+     const targetHeader = [
+-        '구분', '순번', '사업체명', '사업자번호',
++        '구분', '기존행번호', '사업체명', '사업자번호',
+         '설립연도(연도)', '설립연도(월)', '대표자 성함',
+         '연락처', '팩스번호', '시군구', '주소', '업종분류',
+         '컨택결과', '폐업 날짜', '비고',
+@@ -101,7 +101,7 @@
+     ];
+ 
+     const gubunIdx = targetHeader.indexOf('구분');
+-    const seqIdx = targetHeader.indexOf('순번');
++    const seqIdx = targetHeader.indexOf('기존행번호');
+     const nameIdx = targetHeader.indexOf('사업체명');
+     const bizIdx = targetHeader.indexOf('사업자번호');
+     const yearIdx = targetHeader.indexOf('설립연도(연도)');
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

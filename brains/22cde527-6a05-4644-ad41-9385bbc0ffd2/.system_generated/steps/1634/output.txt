@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Total original missing: 421
+Missing sample: {
+  rowNumber: 126,
+  rowIndex: 125,
+  seq: '125',
+  gubun: '25년 모집단',
+  name: '블루호텔레코딩스튜디오',
+  ceo: '김현',
+  phone: '010-3568-1004',
+  address: '부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)',
+  category: '음악'
+}
+

@@ -1,0 +1,239 @@
+### Result
+[
+  {
+    "text": "제이에스솔루션",
+    "href": null
+  },
+  {
+    "text": "제이에스솔루션",
+    "href": "/article/3338703683"
+  },
+  {
+    "text": "제이에스솔루션",
+    "href": null
+  },
+  {
+    "text": "제일폐차산업",
+    "href": null
+  },
+  {
+    "text": "제일폐차산업",
+    "href": "/article/3338703081"
+  },
+  {
+    "text": "제일폐차산업",
+    "href": null
+  },
+  {
+    "text": "로젠택배성곡대리점",
+    "href": null
+  },
+  {
+    "text": "로젠택배성곡대리점",
+    "href": "/article/3338703039"
+  },
+  {
+    "text": "로젠택배성곡대리점",
+    "href": null
+  },
+  {
+    "text": "만기",
+    "href": null
+  },
+  {
+    "text": "만기",
+    "href": "/article/3338702383"
+  },
+  {
+    "text": "만기",
+    "href": null
+  },
+  {
+    "text": "주식회사 에이치제이에스상사",
+    "href": null
+  },
+  {
+    "text": "주식회사 에이치제이에스상사",
+    "href": "/article/8248802571"
+  },
+  {
+    "text": "주식회사 에이치제이에스상사",
+    "href": null
+  },
+  {
+    "text": "몽키컴퍼니",
+    "href": null
+  },
+  {
+    "text": "몽키컴퍼니",
+    "href": "/article/3338701972"
+  },
+  {
+    "text": "몽키컴퍼니",
+    "href": null
+  },
+  {
+    "text": "봄날엔디자인",
+    "href": null
+  },
+  {
+    "text": "봄날엔디자인",
+    "href": "/article/8248802547"
+  },
+  {
+    "text": "봄날엔디자인",
+    "href": null
+  },
+  {
+    "text": "엘케이에이치어패럴",
+    "href": null
+  },
+  {
+    "text": "엘케이에이치어패럴",
+    "href": "/article/3338603124"
+  },
+  {
+    "text": "엘케이에이치어패럴",
+    "href": null
+  },
+  {
+    "text": "(주)공존 파주지점",
+    "href": null
+  },
+  {
+    "text": "(주)공존 파주지점",
+    "href": "/article/3338502939"
+  },
+  {
+    "text": "(주)공존 파주지점",
+    "href": null
+  },
+  {
+    "text": "제이케이섬유",
+    "href": null
+  },
+  {
+    "text": "제이케이섬유",
+    "href": "/article/3338502400"
+  },
+  {
+    "text": "제이케이섬유",
+    "href": null
+  },
+  {
+    "text": "한국의료기기검사원",
+    "href": null
+  },
+  {
+    "text": "한국의료기기검사원",
+    "href": "/article/3338200702"
+  },
+  {
+    "text": "한국의료기기검사원",
+    "href": null
+  },
+  {
+    "text": "한국생활체육회",
+    "href": null
+  },
+  {
+    "text": "한국생활체육회",
+    "href": "/article/3338200338"
+  },
+  {
+    "text": "한국생활체육회",
+    "href": null
+  },
+  {
+    "text": "디에스디사내근로복지기금",
+    "href": null
+  },
+  {
+    "text": "디에스디사내근로복지기금",
+    "href": "/article/3338200037"
+  },
+  {
+    "text": "디에스디사내근로복지기금",
+    "href": null
+  },
+  {
+    "text": "주식회사 원이성\n한상*",
+    "href": null
+  },
+  {
+    "text": "주식회사 원이성",
+    "href": "/article/8248802149"
+  },
+  {
+    "text": "주식회사 원이성",
+    "href": null
+  },
+  {
+    "text": "로이앤벨컴퍼니",
+    "href": null
+  },
+  {
+    "text": "로이앤벨컴퍼니",
+    "href": "/article/3338102514"
+  },
+  {
+    "text": "로이앤벨컴퍼니",
+    "href": null
+  },
+  {
+    "text": "실시간 조회기업",
+    "href": null
+  },
+  {
+    "text": "링코모(LINCOMO)",
+    "href": "/article/8123501215"
+  },
+  {
+    "text": "모쓰코퍼레이션",
+    "href": "/article/1380853564"
+  },
+  {
+    "text": "예스넷(YESNET)",
+    "href": "/article/7201202236"
+  },
+  {
+    "text": "(주)자연에너지 삼정주유소",
+    "href": "/article/5048545700"
+  },
+  {
+    "text": "월드푸드",
+    "href": "/article/5484800542"
+  },
+  {
+    "text": "엠스퀘어 복합상가 513호",
+    "href": "/article/4647100107"
+  },
+  {
+    "text": "나리양과점",
+    "href": "/article/8980401705"
+  },
+  {
+    "text": "엘투케이파트너스",
+    "href": "/article/6108636406"
+  },
+  {
+    "text": "씨드소프트",
+    "href": "/article/2311601808"
+  },
+  {
+    "text": "설탕",
+    "href": "/article/3207900292"
+  },
+  {
+    "text": "주식회사 히즈웨이",
+    "href": "/article/2968103403"
+  },
+  {
+    "text": "우리팜",
+    "href": "/article/5214401005"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n}');
+```

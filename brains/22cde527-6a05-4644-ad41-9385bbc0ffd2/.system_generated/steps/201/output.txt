@@ -1,0 +1,19 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 489 lines>
+ "박영진/공주석" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[234/421] Row 2062 | "이계승" | 대표: "이계승" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[235/421] Row 2063 | "오엠디아틀리에" | 대표: "박현지" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[236/421] Row 2064 | "박정희" | 대표: "박정희" | 구: "기장군"
+  => MATCH CONFIRMED: 437-33-00608 (박정희) | 주소: "부산광역시 부산진구 엄광로 163, 1층 (가야동) 163, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "박정희" [폐업자]
+[237/421] Row 2065 | "브랜드스퀘어" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 727-20-02251 (브랜드스퀘어) | 주소: "부산광역시 남구 용소로14번길 10, 4층 (대연동,대성빌딩) 10, Yongso-ro 14beon-gil, Nam-gu, Busan, Republic of Korea" | 대표: "" [폐업자]
+[238/421] Row 2066 | "주식회사 로웰프라이빗에쿼티" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+
+Last progress: 0s ago

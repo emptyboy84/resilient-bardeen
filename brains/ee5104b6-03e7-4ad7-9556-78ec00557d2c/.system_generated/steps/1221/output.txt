@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=H47836');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=H47836
+- Page Title: (주)비케이피 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T01-47-02-850Z.yml)

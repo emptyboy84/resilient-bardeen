@@ -1,0 +1,10 @@
+The search for "site:nomadher.com "309-86-01593" OR "3098601593" OR "김효정" OR "사업자"" returned the following summary:
+검색하신 조건(`nomadher.com` 도메인 내의 특정 사업자번호, 대표자명 "김효정", "사업자" 키워드)에 해당하는 정확한 사업자등록번호 데이터는 공식 웹사이트 페이지 상의 공개 정보 스니펫 내에서 직접적으로 확인되지 않습니다. 
+
+다만, 글로벌 여성 여행 플랫폼 **노매드헐(NomadHer)**은 **김효정** 대표가 창업한 기업 및 앱 서비스로[1], 한국(서울, 부산) 및 프랑스(파리) 등에 거점을 두고 활동하고 있습니다[2]. 
+
+특정 사업자등록번호(309-86-01593 등)에 대한 세부 조회가 필요하신 경우, 국세청 홈택스(사업자등록번호 상태조회) 또는 노매드헐 공식 웹사이트의 하단(Footer) 사업자 정보 및 이용약관 페이지를 직접 참고하시기 바랍니다.
+
+Sources:
+[1] [thebutter.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnU3W0o97SAAq5JU4NUfSSX_wvb4aPjdyexad5V2Qg091oYB1lJz-s9aw0M1ZWNzm6k4yCpxJHttrmXpVNJndiHQacwl3adiYNBkiE4AMMQECwxiJnq_OEzfvoMp8hMpoKX-QLz9YYdMfsFzF0Sq8=)
+[2] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv1_VDcl5ViKc4eGynaVybropFI4ynTGaOz0GnXnIKd4YBh390hYx_wJhhqZW7a-MTb1xnRXX2NF4ITFmTQSJIH6tPL9J791Q3roJNnguXAJCs)

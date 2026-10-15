@@ -1,0 +1,6 @@
+### Result
+"Clicked search button"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[placeholder*="기업명"]\');\n  if (!input) return \'Input not found\';\n  input.value = \'7758100670\';\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n  \n  // Find search button\n  const buttons = Array.from(document.querySelectorAll(\'button\'));\n  const searchBtn = buttons.find(b => b.innerText.includes(\'검색\'));\n  if (searchBtn) {\n    searchBtn.click();\n    return \'Clicked search button\';\n  }\n  return \'Search button not found\';\n}');
+```

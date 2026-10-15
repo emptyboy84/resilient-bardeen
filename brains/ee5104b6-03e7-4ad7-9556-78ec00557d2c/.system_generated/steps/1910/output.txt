@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5608102678');
+```
+### Page
+- Page URL: https://bizno.net/article/5608102678
+- Page Title: 에스알리츠
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-30-19-013Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-30-15-049Z.log#L1-L5

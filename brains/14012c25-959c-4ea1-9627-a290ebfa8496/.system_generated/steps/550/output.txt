@@ -1,0 +1,12 @@
+The search for "site:kipris.or.kr "비솜" OR "비솜주식회사" OR "538-86-00834"" returned the following summary:
+대한민국 특허 정보 검색 사이트인 **KIPRIS(키프리스)**[1] 및 **KIPRISPlus** 시스템에서 검색창 명령어(`site:kipris.or.kr`)를 활용하여 조회한 결과, 해당 검색어(**"비솜", "비솜주식회사", "538-86-00834"**)와 직접적으로 연계되어 등록·공개된 특허·실용신안, 디자인, 상표 등의 지식재산권 정보는 확인되지 않습니다. 
+
+*(참고: 검색어 중 '비솜'은 의약품 중 항진균제 브랜드명인 '암비솜(AmBisome)'[2][3]이나 일반 기업·상호명 등과 연관될 수 있으나[4], KIPRIS 내에 위 검색어 자체로 매칭되는 특정 지식재산 공보 데이터는 조회되지 않습니다.)*
+
+정확한 특허나 상표를 찾고 계신 경우, KIPRIS 공식 웹사이트( [kipris.or.kr](https://www.kipris.or.kr) )에 직접 접속하시어 출원인명이나 법인등록번호·사업자등록번호 대신 **정확한 명칭(국문/영문 상호)**이나 **대표자 성명**, 혹은 **출원인 분류** 등을 개별 입력하여 재검색해 보시기 바랍니다.
+
+Sources:
+[1] [kipi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5I1Rs8vMqQDkO1OzYUTH0wA4x0iSPnNEb47XEqkLyWPX2vRahwvb9r9NjMSTm8JyV3Q1DASDnRlCYZue-_sTXumbQ5uiQMajoGYyMoDInpbnV8en5IOtRdt8mIsmaytVs-pvjseYxEpDZEw5LfIW0gqJg)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGimLwoswHLVgZZoAWcQeLTHi2_cuO343-PX1MYUUix8gpzR15PSNzoXIWOZcAWYQTOxyyz8uTuyv9GxhOj9G6YULZ3nklJT2fuYWhVSKLzE7cr1EQcI3V6Z_Wd2cfLcGtZhrcv28kWew==)
+[3] [docdocdoc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPLnO0r6IuF9BD7pswl4QR5o5Oor05pjmVBLi7esZMp-Kn4H_Fph6QPux_tlSA-tkqDivVl6rcZL0Fj9Fp-m7Hdc85-bT4-7k3nXkJ1B_xvps7wKiltaC9xut7FWzdvhwx0fSxgI0eRbZSlwUZPJtytW9l)
+[4] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvL8Djixu66YdqlJYXuzNGukNhEvdYqhaAv7j0Sj4AyUr5CwrDo58DugRpCgMVxd05lCsDPUxKRIlh5oj_CmxHPI410RtYRSBz9VziIfOpw2aplnBptiVWRHTD6A==)

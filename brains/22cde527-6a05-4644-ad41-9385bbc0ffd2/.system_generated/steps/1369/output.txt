@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Page charset: utf-8
+UTF-8 "동아대" includes? true
+Row: <tr> <td>출판사</td> <td><a href="searchView.php?search_area=6260000&amp;search_kind=&amp;search_type=1&amp;search_word=동아대&amp;search_state=13&amp;regn=251002002000007&amp;ac1=6260000&amp;ac2=3340000&amp;area_code=6260000&amp;area_code2=&amp;page_type=&amp;cpage=1"><font color='ff6600'>동아대</font>학교출판사</a></td> <td>부산광역시 사하구</td> <td>영업</td> </tr>
+Page snippet around frm: <form name="frm" method="get" action="searchList.php" onsubmit="return send();" >
+					<div class="select_box" style="width:133px;">
+					<label class="hidden" for="search_area" >지역 선택을 선택하세요</label>
+						<select name="search_area"  id="select">
+						<option value="">지역 선택</option> 
+						<option value="전체"  >-전체-</option> 
+						<option value="6110000"  >서울특별시</option> 
+						<option value="6410000"  >경기도</option>
+						<option value="6280000"  >인천광역시</option>
+						<option value="65
+

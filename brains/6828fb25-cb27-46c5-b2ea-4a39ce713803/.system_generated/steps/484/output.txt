@@ -1,0 +1,1 @@
+Encountered error in step execution: Failed to fetch document content at https://www.saramin.co.kr/zf_user/company-info/view?csn=MTE5ODcxMjc5NA==: failed to get URL https://www.saramin.co.kr/zf_user/company-info/view?csn=MTE5ODcxMjc5NA==: status code 404

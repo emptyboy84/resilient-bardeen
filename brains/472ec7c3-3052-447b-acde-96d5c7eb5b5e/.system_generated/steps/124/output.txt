@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\resources
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-15   � 8:48                app.asar.unpacked                                                    
+-a----      2026-10-07   � 3:10         344414 app.asar                                                             
+
+
+

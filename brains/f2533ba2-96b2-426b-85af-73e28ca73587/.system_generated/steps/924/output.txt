@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22051-302-7590%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22051-302-7590%22
+- Page Title: "051-302-7590" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-32-53-085Z.yml)

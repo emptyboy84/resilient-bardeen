@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+
+
+0            : HID\SYN1B8B&Col01\5&154db3c4&0&0000
+Count        : 2
+NextInstance : 2
+1            : HID\{00001812-0000-1000-8000-00805f9b34fb}_Dev_VID&0232c2_PID&6621_REV&0001_e34f2f84ba8d&Col01\9&ab60cf2
+               &0&0000
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouhid\Enum
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouhid
+PSChildName  : Enum
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+

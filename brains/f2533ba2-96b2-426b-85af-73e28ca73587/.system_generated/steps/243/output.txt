@@ -1,0 +1,41 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Matches: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+Table entries: [
+  '<th></th>\n\t\t\t\t\t\t\t\t\t\t\t<td></td>',
+  '<th>업 태</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>제조업</td>',
+  '<th>종 목</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>그 외 기타 금속가공업</td>',
+  '<th>주요제품</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>자동화생산시스템</td>',
+  '<th>전화번호</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t051-527-7*** &nbsp;&nbsp;&nbsp; (※폐업자는 ***로 표시됩니다)\t\t\n' +
+    '\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>팩스번호</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>051-522-2253</td>',
+  '<th>기업규모</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>중소기업</td>',
+  '<th>과세유형</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>부가가치세 일반과세자</td>',
+  '<th >본사/지사</th>\n\t\t\t\t\t\t\t\t\t\t\t<td >본사</td>',
+  '<th>법인형태</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>영리법인의 본점</td>',
+  '<th>등록일</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td > \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\t2016-02-26\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>홈페이지</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>IR홈페이지</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>회사이메일</th>\n\t\t\t\t\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</td>',
+  '<th>대표자명</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t\t전현* (※폐업자는 *로 표시됩니다)\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>'
+]
+

@@ -1,0 +1,35 @@
+{
+  "backend": "excelize",
+  "sheets": [
+    {
+      "name": "기업체 리스트",
+      "usedRange": "A1:S2469",
+      "tables": [],
+      "pivotTables": [],
+      "pagingRanges": [
+        "A1:S210",
+        "A211:S420",
+        "A421:S630",
+        "A631:S840",
+        "A841:S1050",
+        "A1051:S1260",
+        "A1261:S1470",
+        "A1471:S1680",
+        "A1681:S1890",
+        "A1891:S2100",
+        "A2101:S2310",
+        "A2311:S2469"
+      ]
+    },
+    {
+      "name": "개인 리스트",
+      "usedRange": "A1:G1023",
+      "tables": [],
+      "pivotTables": [],
+      "pagingRanges": [
+        "A1:G571",
+        "A572:G1023"
+      ]
+    }
+  ]
+}

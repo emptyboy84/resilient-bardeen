@@ -1,0 +1,304 @@
+### Page
+- Page URL: https://bizno.net/?query=%EB%B8%94%EB%A3%A8+%EB%A0%88%EC%BD%94%EB%94%A9
+- Page Title: 블루 레코딩
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=f192e1]:
+  - text: 
+  - banner [ref=f192e2]:
+    - generic [ref=f192e4]:
+      - link [ref=f192e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f192e7]:
+        - list:
+          - listitem [ref=f192e8]:
+            - link "Home" [ref=f192e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f192e10]:
+            - link "사업자등록번호조회" [ref=f192e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f192e12]:
+            - link "법인등록번호조회" [ref=f192e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f192e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f192e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f192e16]:
+            - link "전화번호로 조회" [ref=f192e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f192e18]:
+            - link "대표자이름으로 조회" [ref=f192e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f192e20]:
+            - link "API" [ref=f192e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f192e22]:
+            - link "고객문의" [ref=f192e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f192e28]:
+    - heading "사업자등록번호조회" [level=1] [ref=f192e29]
+    - paragraph [ref=f192e30]:
+      - text: 사업자등록번호로
+      - generic [ref=f192e31]: 
+      - text: 사업자정보(회사명,법인번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f192e32]'
+    - paragraph [ref=f192e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,074"
+    - generic [ref=f192e35]:
+      - combobox "Select your city" [ref=f192e37]:
+        - option "지역전체" [selected]
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산"
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "사업자등록번호 / 법인등록번호 / 상호명 입력" [active] [ref=f192e39]
+      - button " 검색" [ref=f192e41] [cursor=pointer]:
+        - generic [ref=f192e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f192e43]:
+      - text: "\"블루 레코딩\" 키워드로"
+      - strong [ref=f192e44]: "0"
+      - text: 개의 결과를 찾았습니다
+  - generic [ref=f192e47]:
+    - generic [ref=f192e48]:
+      - separator [ref=f192e49]
+      - generic [ref=f192e51]:
+        - link [ref=f192e54] [cursor=pointer]:
+          - /url: /article/3328101491
+          - heading "충숙공" [level=4] [ref=f192e55]
+        - paragraph [ref=f192e56]: 경기도 이천시 호법면 덕평로437...
+      - separator [ref=f192e57]
+      - generic [ref=f192e59]:
+        - link [ref=f192e62] [cursor=pointer]:
+          - /url: /article/3327800643
+          - heading "청춘하수구설비" [level=4] [ref=f192e63]
+        - paragraph [ref=f192e64]: 경기도 평택시 원칠원길 56
+      - separator [ref=f192e65]
+      - generic [ref=f192e67]:
+        - link [ref=f192e70] [cursor=pointer]:
+          - /url: /article/3327700160
+          - heading "유파인땡큐" [level=4] [ref=f192e71]
+        - paragraph [ref=f192e72]: 경기도 안양시 동안구 일동로 13
+      - separator [ref=f192e73]
+      - generic [ref=f192e75]:
+        - link [ref=f192e78] [cursor=pointer]:
+          - /url: /article/3327300560
+          - heading "안하프텐" [level=4] [ref=f192e79]
+        - paragraph [ref=f192e80]: 경기도 김포시 봉화로 37 1층 ...
+      - separator [ref=f192e81]
+      - generic [ref=f192e83]:
+        - link [ref=f192e86] [cursor=pointer]:
+          - /url: /article/3326200623
+          - heading "도깨비" [level=4] [ref=f192e87]
+        - paragraph [ref=f192e88]: 경상남도 함안군 칠서면 계룡로 1...
+      - separator [ref=f192e89]
+      - generic [ref=f192e91]:
+        - link [ref=f192e94] [cursor=pointer]:
+          - /url: /article/3325300941
+          - heading "케이라이브" [level=4] [ref=f192e95]
+        - paragraph [ref=f192e96]: 경기도 성남시 분당구 벌말로50번...
+      - separator [ref=f192e97]
+      - generic [ref=f192e99]:
+        - link [ref=f192e102] [cursor=pointer]:
+          - /url: /article/3324201264
+          - heading "청소공방" [level=4] [ref=f192e103]
+        - paragraph [ref=f192e104]: 경기도 성남시 중원구 광명로 41...
+      - separator [ref=f192e105]
+      - generic [ref=f192e107]:
+        - link [ref=f192e110] [cursor=pointer]:
+          - /url: /article/3323501397
+          - heading "좋은느낌헤어" [level=4] [ref=f192e111]
+        - paragraph [ref=f192e112]: 경기도 수원시 장안구 팔달로247...
+      - separator [ref=f192e113]
+      - generic [ref=f192e115]:
+        - generic [ref=f192e117]:
+          - link [ref=f192e118] [cursor=pointer]:
+            - /url: /article/5231600902
+            - heading "부벽루" [level=4] [ref=f192e119]
+          - heading "윤찬*" [level=5] [ref=f192e120]
+        - paragraph [ref=f192e121]: 경기도 용인시 수지구 상현로 11...
+      - separator [ref=f192e122]
+      - generic [ref=f192e124]:
+        - generic [ref=f192e126]:
+          - link [ref=f192e127] [cursor=pointer]:
+            - /url: /article/2208808512
+            - heading "씨에이치이" [level=4] [ref=f192e128]
+          - heading "오총*" [level=5] [ref=f192e129]
+          - heading "보험 대리 및 중개업" [level=5] [ref=f192e130]
+        - paragraph [ref=f192e131]:
+          - text: 서울특별시 성동구 왕십리로4길 2...
+          - link "인기 여행지 탐색" [ref=f192e132] [cursor=pointer]
+      - separator [ref=f192e136]
+      - generic [ref=f192e138]:
+        - generic [ref=f192e140]:
+          - link [ref=f192e141] [cursor=pointer]:
+            - /url: /article/6063995912
+            - heading "삼성산업" [level=4] [ref=f192e142]
+          - heading "정기*" [level=5] [ref=f192e143]
+          - heading "기타 방적업" [level=5] [ref=f192e144]
+        - paragraph [ref=f192e145]: 부산광역시 사상구 낙동대로 151...
+      - separator [ref=f192e146]
+      - generic [ref=f192e148]:
+        - generic [ref=f192e150]:
+          - link [ref=f192e151] [cursor=pointer]:
+            - /url: /article/6088114011
+            - heading "삼성산업" [level=4] [ref=f192e152]
+          - heading "강대*" [level=5] [ref=f192e153]
+          - heading "판지 상자 및 용기 제조업" [level=5] [ref=f192e154]
+        - paragraph [ref=f192e155]: 경상남도 의령군 의령읍 구룡로 1...
+      - separator [ref=f192e156]
+      - generic [ref=f192e158]:
+        - link [ref=f192e161] [cursor=pointer]:
+          - /url: /article/4818503014
+          - heading "현대에스더블유디산업" [level=4] [ref=f192e162]
+        - paragraph [ref=f192e163]: 경기도 안산시 단원구 광덕대로 1...
+      - separator [ref=f192e164]
+      - generic [ref=f192e166]:
+        - link [ref=f192e169] [cursor=pointer]:
+          - /url: /article/2624900927
+          - heading "더블유제이(WJ)골프" [level=4] [ref=f192e170]
+        - paragraph [ref=f192e171]: 대구광역시 서구 와룡로 441
+      - separator [ref=f192e172]
+      - generic [ref=f192e174]:
+        - generic [ref=f192e176]:
+          - link [ref=f192e177] [cursor=pointer]:
+            - /url: /article/2250376610
+            - heading "교촌치킨" [level=4] [ref=f192e178]
+          - heading "박이*" [level=5] [ref=f192e179]
+        - paragraph [ref=f192e180]: 비공개
+      - separator [ref=f192e181]
+    - generic [ref=f192e183]:
+      - heading "실시간 조회기업" [level=4] [ref=f192e185]
+      - list [ref=f192e186]:
+        - listitem [ref=f192e187]:
+          - link [ref=f192e188] [cursor=pointer]:
+            - /url: /article/5940700810
+            - paragraph [ref=f192e189]: 동인빌딩
+        - listitem [ref=f192e190]:
+          - link [ref=f192e191] [cursor=pointer]:
+            - /url: /article/4398602495
+            - paragraph [ref=f192e192]: 세류빌드협동조합
+        - listitem [ref=f192e193]:
+          - link [ref=f192e194] [cursor=pointer]:
+            - /url: /article/6035300407
+            - paragraph [ref=f192e195]: 오토 갤러리 29호
+        - listitem [ref=f192e196]:
+          - link [ref=f192e197] [cursor=pointer]:
+            - /url: /article/8123501215
+            - paragraph [ref=f192e198]: 링코모(LINCOMO)
+        - listitem [ref=f192e199]:
+          - link [ref=f192e200] [cursor=pointer]:
+            - /url: /article/1380853564
+            - paragraph [ref=f192e201]: 모쓰코퍼레이션
+        - listitem [ref=f192e202]:
+          - link [ref=f192e203] [cursor=pointer]:
+            - /url: /article/7201202236
+            - paragraph [ref=f192e204]: 예스넷(YESNET)
+        - listitem [ref=f192e205]:
+          - link [ref=f192e206] [cursor=pointer]:
+            - /url: /article/5048545700
+            - paragraph [ref=f192e207]: (주)자연에너지 삼정주유소
+        - listitem [ref=f192e208]:
+          - link [ref=f192e209] [cursor=pointer]:
+            - /url: /article/5484800542
+            - paragraph [ref=f192e210]: 월드푸드
+        - listitem [ref=f192e211]:
+          - link [ref=f192e212] [cursor=pointer]:
+            - /url: /article/4647100107
+            - paragraph [ref=f192e213]: 엠스퀘어 복합상가 513호
+        - listitem [ref=f192e214]:
+          - link [ref=f192e215] [cursor=pointer]:
+            - /url: /article/8980401705
+            - paragraph [ref=f192e216]: 나리양과점
+        - listitem [ref=f192e217]:
+          - link [ref=f192e218] [cursor=pointer]:
+            - /url: /article/6108636406
+            - paragraph [ref=f192e219]: 엘투케이파트너스
+        - listitem [ref=f192e220]:
+          - link [ref=f192e221] [cursor=pointer]:
+            - /url: /article/2311601808
+            - paragraph [ref=f192e222]: 씨드소프트
+        - listitem
+  - contentinfo [ref=f192e223]:
+    - generic [ref=f192e224]:
+      - generic [ref=f192e225]:
+        - generic [ref=f192e227]:
+          - heading "주요기능" [level=6] [ref=f192e228]
+          - list [ref=f192e229]:
+            - listitem [ref=f192e230]:
+              - link "사업자등록번호조회" [ref=f192e231] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f192e232]:
+              - link "법인등록번호조회" [ref=f192e233] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f192e234]:
+              - link "상호명으로 사업자등록번호조회" [ref=f192e235] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f192e236]:
+              - link "전화번호조회" [ref=f192e237] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f192e238]:
+              - link "대표자이름으로 조회" [ref=f192e239] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f192e240]:
+              - link "정정문의" [ref=f192e241] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f192e243]:
+          - heading "사업자검색" [level=6] [ref=f192e244]
+          - paragraph [ref=f192e245]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f192e248]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f192e250]
+            - button "검색 " [ref=f192e252] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f192e253]: 
+      - generic [ref=f192e254]:
+        - paragraph [ref=f192e255]: Copyright ©2019 All rights reserved.
+        - generic [ref=f192e256]:
+          - link "" [ref=f192e257] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f192e259] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f192e261] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f192e263] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f192e265]:
+    - list [ref=f192e266]:
+      - listitem [ref=f192e267]:
+        - link "Home" [ref=f192e268] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f192e269]:
+        - link "사업자등록번호조회" [ref=f192e270] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f192e271]:
+        - link "법인등록번호조회" [ref=f192e272] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f192e273]:
+        - link "상호명으로 사업자등록번호조회" [ref=f192e274] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f192e275]:
+        - link "전화번호로 조회" [ref=f192e276] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f192e277]:
+        - link "대표자이름으로 조회" [ref=f192e278] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f192e279]:
+        - link "API" [ref=f192e280] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f192e281]:
+        - link "고객문의" [ref=f192e282] [cursor=pointer]:
+          - /url: /voc
+```

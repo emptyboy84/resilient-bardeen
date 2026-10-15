@@ -1,0 +1,17 @@
+The search for "site:marketbz.com "더플로우" OR "왓컴퍼니" OR "코드스테이션" OR "리걸테크" OR "트윈랩"" returned the following summary:
+기업정보 플랫폼 **마켓비즈(MarketBZ)**(`marketbz.com`) 내에서 검색된 각 키워드별 관련 내용은 다음과 같습니다.
+
+* **더플로우 / 더플로우커머스**: 
+  * 경기도 고양시 덕양구에 소재하며, 그 외 기타 생활용품 도매업 등의 사업을 영위하는 기업인 **‘주식회사 더플로우커머스’**의 기업정보 페이지가 확인됩니다[1][2].
+* **리걸테크**: 
+  * 법률 분야 데이터 분석 및 디지털 포렌식 조사지원 서비스를 제공하는 리걸테크 기업인 **‘프론테오코리아 주식회사’** 등의 기업 소개 및 관련 정보에서 키워드가 검색됩니다[3].
+* **트윈랩**: 
+  * 소프트웨어 개발 업종으로 등록되어 있는 **‘주식회사 트윈랩’**(설립일: 2018년 11월 12일)의 기업정보 페이지가 존재합니다[4].
+* **왓컴퍼니 / 코드스테이션**: 
+  * 현재 마켓비즈 검색 결과 내에서 직접적으로 매칭되는 상세 페이지나 데이터는 확인되지 않습니다.
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhFHnVBIbpNMfWNxFdX2-8jhX1ZGqCXH2AjNLyv0rw6UBEdlzF49x11beXRX2_L2hVKcWDf9_dNRlDwGflP_YAFh7swH9p1L-W7NcEQtIT27x6MrIMbWB7ag89qc2wrjBDmfU=)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjVc17Wrg1fGsqVgJ48XFi2X0b17tEVW0OYuqp8rEFWwyaEKHaddHd9PgJHKYkNTUXh92KagvZeco2H3NoqXYzb4aLYIRmQEhD--VuLA19QGrIp7sJZ3X8J9nBsWUNWhNe9nI=)
+[3] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBp4SA4735VVTldgkPg-2wqGKCX0azropeOHyOtewzHZx-kObZGnF1msOGsE85jbxpCFNuvY-My-5Q60ui47vgqOyKM3iRHmFUzmTHmfenRky19Z6Ye1za2K7ZpZvs-8lNBmI=)
+[4] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tepPj4q58MKtHjgzrQmVEVVwB96Q_U8nFFgpjJDekTA6fx-LTzllqPHV3ZYzHkRmf00HTW0DDN5L0wI2WcJnPvC0JsxCxpK9p49CU1UE38X0ieaG1AhGqvsOxCaaRWgGUD8=)

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+warning: in the working copy of 'merged_500_perfect.tsv', LF will be replaced by CRLF the next time Git touches it
+[master 794e3ba] feat: update 디에스케미칼 (5481701760) industry categories and status
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+

@@ -1,0 +1,11 @@
+The search for ""하이라이트스튜디오" 사업자등록번호 OR "하이라이트 스튜디오" 사업자등록번호" returned the following summary:
+특정 기업이나 스튜디오의 사업자등록번호를 찾으시는 경우, 다음 정보를 참고하시기 바랍니다.
+
+*   **비즈노 등 기업 정보 사이트의 검색 결과:** '하이라이트 스튜디오'라는 명칭으로 등록된 일부 데이터에서 **176-87-00574** 번호가 언급되는 사례가 있으나[1][2], 이는 해당 사이트의 데이터베이스 내에서 검색된 결과이므로 정확한 확인이 필요합니다.
+*   **주의사항:** 동일한 명칭을 사용하는 개인 사업자나 소규모 업체가 다수 존재할 수 있습니다. 거래를 위해 정확한 사업자 번호가 필요한 상황이라면, 해당 업체의 공식 홈페이지나 결제 페이지 하단(Footer), 또는 계약서를 통해 직접 확인하시는 것이 가장 정확합니다. 
+
+만약 특정 서비스나 제품 이용을 위해 문의하시는 것이라면, 해당 업체의 정확한 상호와 소재지를 함께 확인하여 국세청 '홈택스' 사이트에서 '사업자등록상태조회'를 통해 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErNgJBqO5Q1UTQvFO49QUYqfBGybT9Vy1LY6tSGsZwIGjql7A-U6JztM3MIBX_6mkctMQcl5N4KaMNqJNVSziJtmA8ir3rdGRSPVVg3uf0gQAt-A7NTZnXww==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErNgJBqO5Q1UTQvFO49QUYqfBGybT9Vy1LY6tSGsZwIGjql7A-U6JztM3MIBX_6mkctMQcl5N4KaMNqJNVSziJtmA8ir3rdGRSPVVg3uf0gQAt-A7NTZnXww==)

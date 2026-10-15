@@ -1,0 +1,5 @@
+The search for "우편번호 "18457"" returned the following summary:
+우편번호 **18457**은 경기도 화성시 동탄반석로 16 (반송동) 일대의 주소에 해당합니다[1].
+
+Sources:
+[1] [youbianku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa9OeQaexfObcgJnIbCJpavJb3uS6juq1N5MnaLqndSAZg2U972g9igLjexMHoohU2611iluOWJ1KjTHFrcA5dFLYv51EjYmAjKsZMbbwZO67OQwaO790-XZoYeEfJpHrY)

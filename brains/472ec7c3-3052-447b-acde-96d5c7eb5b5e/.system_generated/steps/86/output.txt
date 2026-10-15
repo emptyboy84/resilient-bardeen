@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                          CreationTime             LastWriteTim
+                                                                                                           e           
+--------                                                                          ------------             ------------
+C:\Users\lg\Desktop\Antigravity.lnk                                               2026-06-04 � 12:42:36 2026-06-0...
+C:\Users\lg\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity.lnk 2026-06-04 � 12:42:36 2026-06-0...
+
+
+

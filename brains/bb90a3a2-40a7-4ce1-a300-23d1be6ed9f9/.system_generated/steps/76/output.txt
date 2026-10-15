@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Regex extracted phone: 1833-9119
+Table match: [
+  '전화번호</th>\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t<td>\n' +
+    "\t\t\t\t\t\t\t\t\t\t\t<a href='tel:1833-9119'>1833-9119</a>\t\t\n" +
+    '\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t</tr>',
+  '전화번호 : 051-461-9200)<br/><br/>부산광역시 동구 진성로 23 (수정동)\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t</td>\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t</tr>'
+]
+

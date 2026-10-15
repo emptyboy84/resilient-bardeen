@@ -1,0 +1,29 @@
+Loading Target workbook...
+Loading FinalUpdated workbook (for reference)...
+AUDIT SUMMARY:
+Total 배현명 rows: 1500
+
+--- Part 1 (702-5500, 1000 rows) ---
+Status count: {"정상(공란)":914,"폐업":82,"휴업":4}
+Invalid BizNo: 47
+Individual with CorpNo: 5
+Corp without CorpNo: 52
+Corp invalid checksum: 11
+Missing Zip: 6
+Missing Addr: 63
+Missing NICE type: 2
+Missing Large type: 2
+
+--- Part 2 (11847-12346, 500 rows) ---
+Status count: {"폐업":96,"정상(공란)":401,"휴업":3}
+Invalid BizNo: 7
+Individual with CorpNo: 2
+Corp without CorpNo: 22
+Corp invalid checksum: 0
+Missing Zip: 15
+Missing Addr: 81
+Missing NICE type: 5
+Missing Large type: 5
+Rows differing from FinalCompleted (3,026 orange cells version): 345
+
+Saved full report to granular_audit_report.json

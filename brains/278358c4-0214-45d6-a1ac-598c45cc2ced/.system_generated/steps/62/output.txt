@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
++ add_genealogy_publisher_data   20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/add_genealogy_publisher_data) e
+* add_queserasera_data           20488d3 e
++ fill_missing_business_numbers  20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/fill_missing_business_numbers) e
++ find_buddhist_tv_number        20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_buddhist_tv_number) e
++ find_industry_code_6040126041  20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_industry_code_6040126041) e
++ genoray_busan_business_number  20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/genoray_busan_business_number) e
++ import_company_database_list   20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/import_company_database_list) e
++ issue_0507_tracker             706713c (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/issue_0507_tracker) feat: update 투콤마비 contact phone, zip, address and homepage
++ jonathan_eunseok_task          20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/jonathan_eunseok_task) e
++ master                         20488d3 (C:/Users/lg/resilient-bardeen) e
++ miu_design_registration_update f662d66 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/miu_design_registration_update) feat: update ㈜미우디자인 (5518501580) address, homepage, email, industry categories and corporate registration
++ parse_busan_company_data       20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_busan_company_data) e
++ ticket_0507_1447_1309          706713c (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/ticket_0507_1447_1309) feat: update 투콤마비 contact phone, zip, address and homepage
++ validate_corp_reg_number       20488d3 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_corp_reg_number) e
++ validate_db_final_check        f352cd0 (C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_db_final_check) fix: clear invalid corp number for personal biz 선진정밀 in merged_500_perfect.tsv
+C:/Users/lg/resilient-bardeen                                                               20488d3 [master]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/add_genealogy_publisher_data    20488d3 [add_genealogy_publisher_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/add_queserasera_data            20488d3 [add_queserasera_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/fill_missing_business_numbers   20488d3 [fill_missing_business_numbers]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_buddhist_tv_number         20488d3 [find_buddhist_tv_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_industry_code_6040126041   20488d3 [find_industry_code_6040126041]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/genoray_busan_business_number   20488d3 [genoray_busan_business_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/import_company_database_list    20488d3 [import_company_database_list]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/issue_0507_tracker              706713c [issue_0507_tracker]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/jonathan_eunseok_task           20488d3 [jonathan_eunseok_task]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/miu_design_registration_update  f662d66 [miu_design_registration_update]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_busan_company_data        20488d3 [parse_busan_company_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/ticket_0507_1447_1309           706713c [ticket_0507_1447_1309]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_corp_reg_number        20488d3 [validate_corp_reg_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_db_final_check         f352cd0 [validate_db_final_check]
+

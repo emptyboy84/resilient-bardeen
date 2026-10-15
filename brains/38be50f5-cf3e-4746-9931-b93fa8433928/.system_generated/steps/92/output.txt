@@ -1,0 +1,6 @@
+{"name":"README_대화기록.md", "sizeBytes":"427448"}
+{"name":"scratch", "isDir":true}
+{"name":"transcript.jsonl", "sizeBytes":"670439"}
+{"name":"transcript_full.jsonl", "sizeBytes":"1262342"}
+
+Summary: This directory contains 1 subdirectories and 3 files.

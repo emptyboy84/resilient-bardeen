@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Saved newly_found_table_utf8.md, count: 156
+

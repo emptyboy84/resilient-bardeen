@@ -1,0 +1,11 @@
+The search for "site:issuemaker.kr "글로픽스" OR "여일석"" returned the following summary:
+이슈메이커에 보도된 (주)글로픽스 여일석 대표 관련 기사 내용입니다[1].
+
+* **기사 제목:** “디자인의 마침표는 모니터가 아닌 고객의 손끝에 있다”[1]
+* **작성자:** 손보승 기자[1]
+* **주요 내용:** 
+  * 여일석 대표는 디자인이 화면 속 그림으로 끝나는 것이 아니라 **“고객의 손에 쥐어진 실물 그 자체”**로 완성된다는 철학을 가지고 있습니다[1].
+  * 오랜 기간 디자이너로 활동해 온 그는 디자인의 의도가 왜곡되지 않고 온전히 구현되기를 바라며, 펜 대신 기계를 잡고 책상 대신 공장을 택해 인쇄 및 실물 제작 분야로 업의 영역을 확장했습니다[1].
+
+Sources:
+[1] [issuemaker.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJO7Q4Za8QdwAksJtFgZuPPHrUxlBtJPVBrlTrM2I0dOBRraC80eXePfoXOy46P2sxwyV2DSRyIkNwo0bFt2U7JP0UUS9-ytMgG0X4ZirKF0sOlOwSgcR-2yp_8lFfGt9BItlKrpsJaoy_GOQuSti-3w==)

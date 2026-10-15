@@ -1,0 +1,59 @@
+
+The command exited with code 0.
+Output:
+Loading Desktop...
+Loading Repo...
+
+--- Row 11847 Comparison ---
+Col 1 (작성자): Desktop = "배현명" | Repo = "배현명"
+Col 2 (비고): Desktop = "폐업" | Repo = "폐업"
+Col 3 (회사명): Desktop = "주식회사 룩스텍" | Repo = "주식회사 룩스텍"
+Col 4 (사업자번호): Desktop = 5131909625 | Repo = {"text":"5131909625","hyperlink":"https://bizno.net/article/5131909625"}
+Col 5 (대표자): Desktop = "김길연" | Repo = "김길연"
+Col 6 (우편번호): Desktop = 39263 | Repo = "39263"
+Col 7 (주소): Desktop = null | Repo = "경상북도 구미시 산호대로 363"
+Col 8 (전화번호): Desktop = null | Repo = null
+Col 9 (팩스번호): Desktop = "054-464-1173" | Repo = "054-464-1173"
+Col 10 (홈페이지): Desktop = "http://www.luxtec.kr" | Repo = "http://www.luxtec.kr"
+Col 11 (이메일): Desktop = null | Repo = null
+Col 12 (형태): Desktop = null | Repo = null
+Col 13 (설립일자): Desktop = null | Repo = null
+Col 14 (창립일자): Desktop = null | Repo = null
+Col 15 (종업원수): Desktop = 2 | Repo = 2
+Col 16 (업종코드1): Desktop = null | Repo = null
+Col 17 (업종코드2): Desktop = null | Repo = null
+Col 18 (업종(NICE BizINFO(업종)참고): Desktop = "일반용 전기 조명장치 제조업" | Repo = "일반용 전기 조명장치 제조업"
+Col 19 (주생산품): Desktop = null | Repo = null
+Col 20 (주거래은행): Desktop = null | Repo = null
+Col 21 (주거래지점): Desktop = null | Repo = null
+Col 22 (그룹명): Desktop = null | Repo = null
+Col 23 (주식코드): Desktop = null | Repo = null
+Col 24 (사업자번호): Desktop = "5131909625" | Repo = "5131909625"
+Col 25 (법인번호): Desktop = null | Repo = null
+
+--- Checking why Desktop has missing zip/address in row 11847 ---
+merged_500_perfect.tsv line 1 (row 11847):
+[
+  '배현명',
+  '폐업',
+  '주식회사 룩스텍',
+  '5131909625',
+  '김길연',
+  '39263',
+  '경상북도 구미시 산호대로 363',
+  '',
+  '054-464-1173',
+  'http://www.luxtec.kr',
+  '',
+  '2',
+  '일반용 전기 조명장치 제조업',
+  '',
+  '',
+  '제조업',
+  '전기장비 제조업',
+  '전구 및 조명장치 제조업\r'
+]
+Rows with differences between Desktop and Repo in 11847-12346: 413 / 500
+Fill Desktop row 11847 col 3: {"type":"pattern","pattern":"solid","fgColor":{"theme":0},"bgColor":{"indexed":64}}
+Fill Repo row 11847 col 3: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+

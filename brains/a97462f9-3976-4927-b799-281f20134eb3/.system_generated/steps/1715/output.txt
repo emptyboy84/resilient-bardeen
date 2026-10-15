@@ -1,0 +1,79 @@
+### Result
+[
+  {
+    "text": "사업자단체금지행위",
+    "href": "https://www.ftc.go.kr/www/contents.do?key=694"
+  },
+  {
+    "text": "사업자정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizMtlvlInfoList.do?key=210&searchYr=2025"
+  },
+  {
+    "text": "다단계판매사업자",
+    "href": "https://www.ftc.go.kr/www/selectBizMtlvlInfoList.do?key=210&searchYr=2025"
+  },
+  {
+    "text": "후원방문판매사업자",
+    "href": "https://www.ftc.go.kr/www/selectBizSpvstInfoList.do?key=228&searchYr=2025"
+  },
+  {
+    "text": "방문판매사업자",
+    "href": "https://www.ftc.go.kr/www/selectBizClslVioltList.do?key=921&searchHt=202507"
+  },
+  {
+    "text": "전화권유판매사업자",
+    "href": "https://www.ftc.go.kr/www/selectBizTadvcList.do?key=245"
+  },
+  {
+    "text": "선불식할부거래사업자",
+    "href": "https://www.ftc.go.kr/www/selectBizPpitList.do?key=248"
+  },
+  {
+    "text": "통신판매사업자",
+    "href": "https://www.ftc.go.kr/www/bizContents.do?key=253"
+  },
+  {
+    "text": "사업자단체금지행위",
+    "href": "https://www.ftc.go.kr/www/contents.do?key=694"
+  },
+  {
+    "text": "상습 법위반사업자",
+    "href": "https://www.ftc.go.kr/www/contents.do?key=157"
+  },
+  {
+    "text": "사업자정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizMtlvlInfoList.do?key=210&searchYr=2025"
+  },
+  {
+    "text": "사업자 정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizMtlvlInfoList.do?key=210&searchYr=2025"
+  },
+  {
+    "text": "사업자 정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizSpvstInfoList.do?key=228&searchYr=2025"
+  },
+  {
+    "text": "위반사업자정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizClslVioltList.do?key=921&searchHt=202507"
+  },
+  {
+    "text": "사업자 정보공개",
+    "href": "https://www.ftc.go.kr/www/selectBizPpitList.do?key=248"
+  },
+  {
+    "text": "국외사업자 등록현황",
+    "href": "https://www.ftc.go.kr/www/selectBizOutnatnList.do?key=256"
+  },
+  {
+    "text": "사업자정보공개",
+    "href": "https://www.ftc.go.kr/www/sub.do?key=253"
+  },
+  {
+    "text": "예규\n\t                                                「가맹본부·가맹점사업자간 공정거래 및 상생협력 협약 절차·지원 등에 관한 기준」 일부개정\n\t                                                2026-05-22",
+    "href": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=6&key=19&searchCtgry=2&nttSn=47513"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.map(a => ({ text: a.innerText.trim(), href: a.href })).filter(a => a.text.includes(\'통신판매\') || a.text.includes(\'사업자\'));\n}');
+```

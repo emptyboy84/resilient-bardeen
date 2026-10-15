@@ -1,0 +1,5 @@
+The search for "site:busan.com "비솜" "전성록"" returned the following summary:
+부산일보 인사 기사 내용에 따르면, **전성록**은 **비솜㈜의 사장**으로 임명되었습니다[1]. (관련 인사 발령 보도일: 2023년 11월 15일자/16일 자)[1]
+
+Sources:
+[1] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMtOFAagK0ymOqkxc7I5KGwID8tx6KWs1u3Wp62QUaKrlDhfDOTgNVHfhbkKcVMc2HFpK7s_LHhlf8TBH8icMYdaeGnOFaOe7yxU-GgNk86p-XM1D4DuvVR46ugyS92HZzLQ2kx-jnoqeICr5qHVXZwQECJTsy_GY=)

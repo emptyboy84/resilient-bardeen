@@ -1,0 +1,6 @@
+### Result
+"앱 지원\nexpand_less\nemail\n지원 이메일\ntech@abmlab.co.kr\nshield\n개인정보처리방침\n개발자 소개\nABMLab Corp.\ntech@abmlab.co.kr\n727 Taejong-ro,\n영도구, 부산광역시 49112\nSouth Korea\n+82 10-6797-9799"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const container = document.getElementById(\'developer-contacts-heading\');\n  return container?.closest(\'section\')?.innerText || container?.parentElement?.parentElement?.innerText || \'not found\';\n}');
+```

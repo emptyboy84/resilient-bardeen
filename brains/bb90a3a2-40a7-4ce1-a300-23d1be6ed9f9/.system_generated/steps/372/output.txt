@@ -1,0 +1,27 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-324.log
+Log output:
+<truncated 45 lines>
+anned | Found so far: 180
+Progress: 1266 / 2658 scanned | Found so far: 182
+Progress: 1326 / 2658 scanned | Found so far: 184
+Progress: 1386 / 2658 scanned | Found so far: 186
+Progress: 1446 / 2658 scanned | Found so far: 188
+Progress: 1506 / 2658 scanned | Found so far: 192
+Progress: 1566 / 2658 scanned | Found so far: 197
+[FOUND 200] Seq 2588 (주)소통플래닛 -> 010-9172-2*** (Bizno-Masked)
+Progress: 1626 / 2658 scanned | Found so far: 202
+Progress: 1686 / 2658 scanned | Found so far: 206
+Progress: 1746 / 2658 scanned | Found so far: 214
+Progress: 1806 / 2658 scanned | Found so far: 219
+Progress: 1866 / 2658 scanned | Found so far: 228
+Progress: 1926 / 2658 scanned | Found so far: 233
+Progress: 1986 / 2658 scanned | Found so far: 235
+Progress: 2046 / 2658 scanned | Found so far: 235
+Progress: 2106 / 2658 scanned | Found so far: 235
+Progress: 2166 / 2658 scanned | Found so far: 235
+Progress: 2226 / 2658 scanned | Found so far: 238
+Progress: 2286 / 2658 scanned | Found so far: 240
+
+Last progress: 10s ago

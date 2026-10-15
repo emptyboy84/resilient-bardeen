@@ -1,0 +1,13 @@
+The search for "site:nicebizinfo.com 6090695719" returned the following summary:
+사업자등록번호 **609-06-95719**로 등록된 업체는 **신창산업**입니다[1].
+
+해당 업체와 관련된 정보는 다음과 같습니다[1]:
+*   **법인 형태:** 개인사업자[1]
+*   **소재지:** 경상남도 김해시 진영읍 진산대로251번길 9-12[1]
+
+나이스비즈인포(NICE BizINFO)는 국내 기업의 재무제표, 신용등급, 기업 정보 등을 조회할 수 있는 서비스로[2], 상세한 기업 신용분석 보고서가 필요하신 경우 해당 사이트에서 사업자등록번호를 통해 검색하실 수 있습니다[3].
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExenchwCXpD7TXYrgFP8yEi_U3j00e3WGqidXX3iJPcuqxLuGjjOUOsPYOk60uKNrW_qRe3GXripBFWjfayGt65vuVfPG6hpKbenFgWputxWNj_vxUf_0Jmw5_RU7AtY0Eyg==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAVJkeYx268gjCJ6lY5dxYm5ljzbszf85H83ce3bBjuHdiyruVBDGCrwOX9N22iFwiXCT1IZ5pZfxlZVcCAkoH7FLb2TW9bngvMJEfwX1Ndg==)
+[3] [niceinfo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA8DbXFETnso5Ztv2evh31OZIYwuUclSNBXXebadUzw7deKK6dxhNlElryh1u9ldaOxp8Kuil3YCEkRFZEAWz7vQr-ToWJSyFQjUINgSZrnGESIeci3J3hyn3JxLJww0s8RROjfchpC6iN)

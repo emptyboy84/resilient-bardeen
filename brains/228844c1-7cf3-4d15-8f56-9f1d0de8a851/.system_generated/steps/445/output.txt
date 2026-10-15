@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.daum.net/search?q="010-9514-1435"');
+```
+### Page
+- Page URL: https://search.daum.net/search?w=tot&q=%22010-9514-1435%22
+- Page Title: "010-9514-1435" – Daum 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-46-39-266Z.yml)

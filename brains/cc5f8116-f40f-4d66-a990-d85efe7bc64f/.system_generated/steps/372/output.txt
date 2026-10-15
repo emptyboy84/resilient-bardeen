@@ -1,0 +1,28 @@
+Task: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-342
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\.system_generated\tasks\task-342.log
+Log output:
+<truncated 3 lines>
+ؿ�)
+[20/318] Processed... (Matched so far: 1)
+[30/318] Processed... (Matched so far: 1)
+[40/318] Processed... (Matched so far: 1)
+[50/318] Processed... (Matched so far: 1)
+[60/318] Processed... (Matched so far: 1)
+[70/318] Processed... (Matched so far: 1)
+[80/318] Processed... (Matched so far: 1)
+[82/318] MATCHED: �÷�̱׶� -> 646-46-00594 (Emp: , CEO: �ΰ�)
+[89/318] MATCHED: �ũ�غ� �λ� -> 752-85-01941 (Emp: 3, CEO: �ֿ�)
+[90/318] Processed... (Matched so far: 3)
+[100/318] Processed... (Matched so far: 3)
+[110/318] Processed... (Matched so far: 3)
+[120/318] Processed... (Matched so far: 3)
+[130/318] Processed... (Matched so far: 3)
+[140/318] Processed... (Matched so far: 3)
+[141/318] MATCHED: �ֽ�ȸ� �̺� -> 101-14-84111 (Emp: 2, CEO: )
+[150/318] Processed... (Matched so far: 4)
+[160/318] Processed... (Matched so far: 4)
+[170/318] Processed... (Matched so far: 4)
+[180/318] MATCHED: �÷� -> 438-81-04307 (Emp: , CEO: �ȣ)
+
+Last progress: 0s ago

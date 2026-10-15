@@ -1,0 +1,120 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=5518101826
+- Page Title: '5518101826' - 검색상세
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=e6]:
+    - banner [ref=e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=e8]
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - heading [level=1] [ref=e11]:
+            - link "나이스 비즈인포" [ref=e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - button "쿠폰" [ref=e16] [cursor=pointer]
+            - listitem [ref=e18]:
+              - link "로그인" [ref=e19] [cursor=pointer]:
+                - /url: /cm/CM0200M001GE.nice
+            - listitem [ref=e20]:
+              - link "장바구니" [ref=e21] [cursor=pointer]:
+                - /url: /sp/SP0100M001GE.nice
+            - listitem [ref=e22]:
+              - button "추천 서비스 메뉴보기" [ref=e23] [cursor=pointer]
+        - navigation [ref=e26]:
+          - heading "주요 네비게이션" [level=2] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "홈" [ref=e30] [cursor=pointer]:
+                - /url: /cm/CM0100M001GE.nice
+            - listitem [ref=e31]:
+              - button "내 사업장 관리" [ref=e32] [cursor=pointer]
+            - listitem [ref=e34]:
+              - link "비즈마켓" [ref=e35] [cursor=pointer]:
+                - /url: /bm/BM0100M001GE.nice
+            - listitem [ref=e36]:
+              - link "블로그 새 창 열림" [ref=e37] [cursor=pointer]:
+                - /url: https://nice-info.inblog.io/
+                - text: 블로그
+                - generic [ref=e38]: 새 창 열림
+            - listitem [ref=e39]:
+              - button "고객센터" [ref=e40] [cursor=pointer]
+    - main [ref=e44]:
+      - generic [ref=e45]:
+        - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - textbox "키워드검색" [ref=e53]:
+                - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                - text: "5518101826"
+              - generic [ref=e54]: 키워드검색
+            - button "검색하기" [ref=e56] [cursor=pointer]
+          - button "조건검색" [ref=e59] [cursor=pointer]
+      - button "결과 내 재검색" [ref=e62] [cursor=pointer]
+      - generic [ref=e113]:
+        - heading "조회된 기업 검색 결과가 없습니다." [level=3] [ref=e114]
+        - paragraph [ref=e115]: 검색어가 정확한지 확인해 주세요.
+        - button "이전 화면으로" [ref=e117] [cursor=pointer]
+    - button "KakaoChannel" [ref=e70] [cursor=pointer]
+    - button "FAQ" [ref=e73] [cursor=pointer]
+    - contentinfo [ref=e76]:
+      - generic [ref=e77]:
+        - heading "NICE BizINFO" [level=2] [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=e81]
+            - generic [ref=e82]:
+              - heading "고객 지원 및 정보" [level=4] [ref=e83]
+              - list [ref=e84]:
+                - listitem [ref=e85]:
+                  - link "회사소개" [ref=e86] [cursor=pointer]:
+                    - /url: https://www.niceinfo.co.kr/main.nice
+                - listitem [ref=e87]:
+                  - link "이용약관" [ref=e88] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=TRM
+                - listitem [ref=e89]:
+                  - link [ref=e90] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=PIP
+                    - strong [ref=e91]: 개인정보 처리방침
+                - listitem [ref=e92]:
+                  - link "법적근거" [ref=e93] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=LEG
+                - listitem [ref=e94]:
+                  - link "문의/도움말" [ref=e95] [cursor=pointer]:
+                    - /url: /cs/CS0100M007GE.nice?tab=Question
+                - listitem [ref=e96]:
+                  - link "사이트맵" [ref=e97] [cursor=pointer]:
+                    - /url: /cs/CS0100M008GE.nice
+            - generic [ref=e98]:
+              - generic [ref=e99]: 주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: 대표자 김종윤
+                - paragraph [ref=e102]: 사업자번호 116-81-15020
+                - paragraph [ref=e103]: 통신판매업신고번호 2024-서울영등포-1095
+              - generic [ref=e104]:
+                - paragraph [ref=e105]: TEL 02-3771-1514
+                - paragraph [ref=e106]:
+                  - text: Email
+                  - link "help@nicebizinfo.com" [ref=e107] [cursor=pointer]:
+                    - /url: mailto:help@nicebizinfo.com
+            - paragraph [ref=e108]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link [ref=e110] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=e111]
+        - paragraph [ref=e112]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:23 �:12
++       if (m) console.log('HREF:', m[1]);
++            ~
+if ( � ) �ڿ� � � �ϴ�.
+�ġ �:23 �:34
++       if (m) console.log('HREF:', m[1]);
++                                  ~
+',' �ڿ� � �ϴ�.
+�ġ �:23 �:35
++       if (m) console.log('HREF:', m[1]);
++                                   ~~~~
+� �Ǵ� � �ġ � 'm[1]' �ū�Դϴ�.
+�ġ �:23 �:34
++       if (m) console.log('HREF:', m[1]);
++                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:23 �:39
++       if (m) console.log('HREF:', m[1]);
++                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:24 �:5
++     }
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:25 �:3
++   }
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:26 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:27 �:5
++ run().catch(console.error);
++     ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:27 �:13
++ run().catch(console.error);
++             ~
+�޼� ȣ�⿡ ')'� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingStatementBlock
+ 
+

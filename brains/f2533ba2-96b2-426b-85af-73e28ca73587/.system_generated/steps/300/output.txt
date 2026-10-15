@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+7650702346 법인형태: 개인과세사업자 법인번호: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+7651200610 법인형태: 개인과세사업자 법인번호: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+7651701079 법인형태: 개인과세사업자 법인번호: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+7653500720 법인형태: 개인과세사업자 법인번호: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+

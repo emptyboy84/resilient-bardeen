@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Nice status: 200
+Tel matches: [
+  'tElementsByTagName(s)[0],\n                j = d.creat',
+  'tel]{cursor:default}button,input[type=button]{backgro',
+  'teLltSKFjRs9BsK189xfz8ia6TEoQfpYc8jFDzD1farc/qQeSZyog',
+  'teleport start anchor-->',
+  'teleport anchor-->',
+  'TEL',
+  'teleport start-->',
+  'teleport end-->',
+  'teleports">'
+]
+Phone matches in Nice: [ '02-3771-1514' ]
+

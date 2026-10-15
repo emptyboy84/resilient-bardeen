@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Idx in Naver: 109357
+ss="sds-comps-text sds-comps-text-ellipsis sds-comps-text-ellipsis-3 sds-comps-text-type-body1 sds-comps-text-weight-sm HZ20AH4ODQUauZqh">대표자명 : 김경원, 설립년도 : 2018년, 사원수 : 12 명, 기업형태 : 중소기업(300명미만), 대표게임 : 캣점프, 무한의점프,바나툰:보물을찾아서!, 바나툰2:쥐라기월드!, 생존1%방탈출, 스폰지팝, 주요사업 : 모바일 게임 개발 및 서비스, 대표 번호  : 051-782-1801, 회사위치 : (48058 )  부산  해운대구 수영강변대로 140 (우동,  부산 문화콘텐츠컴플렉스) 622~623호 · http://seeplay.co.kr  새 창 열림           
+(function () {
+  
+  var jsList = ["https://ssl.pstatic.net/sst
+

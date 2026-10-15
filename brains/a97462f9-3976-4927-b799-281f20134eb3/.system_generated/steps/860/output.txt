@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total 24 sales count: 292
+Total 25 sales count: 119
+Invalid sales count: 12
+

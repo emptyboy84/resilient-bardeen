@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Added Row 2256 "저스티스어드벤처" => 177-81-00390
+Added Row 2259 "번들즈" => 876-87-02750
+Added Row 2307 "피커스튜디오" => 606-16-43962
+Added Row 750 "불교방송" => 604-82-04181
+Total verified companies now: 151
+

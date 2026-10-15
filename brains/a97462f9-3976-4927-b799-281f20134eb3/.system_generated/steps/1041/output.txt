@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Total companies with BLUE business numbers: 420
+- With sales: 18
+- WITHOUT sales (missing sales): 402
+
+Sample 15 companies WITHOUT sales (blue business numbers):
+1. Row 126 [블루호텔레코딩스튜디오] Biz: [627-40-00252] Cat: [음악] CEO: [박정현] Phone: [010-3568-1004]
+2. Row 276 [도서출판백양] Biz: [605-03-69653] Cat: [출판] CEO: [이진철] Phone: [051-806-1019]
+3. Row 504 [89Light] Biz: [null] Cat: [공연] CEO: [null] Phone: [0507-1314-6280]
+4. Row 508 [LINC] Biz: [535-20-00519] Cat: [애니메이션] CEO: [정대진] Phone: [070-8872-3577]
+5. Row 536 [김정보] Biz: [null] Cat: [출판] CEO: [null] Phone: [null]
+6. Row 537 [꿈해몽] Biz: [null] Cat: [출판] CEO: [null] Phone: [051-337-6320]
+7. Row 539 [나래바람] Biz: [null] Cat: [출판] CEO: [null] Phone: [051-612-2133]
+8. Row 547 [냉이영화] Biz: [null] Cat: [영화] CEO: [null] Phone: [010-6893-4870]
+9. Row 552 [녹생광고연합그린하우징] Biz: [null] Cat: [광고] CEO: [박명섭] Phone: [051-442-2688]
+10. Row 568 [주식회사 아이엠지로드] Biz: [709-86-03340] Cat: [게임] CEO: [최명학] Phone: [051-313-3449]
+11. Row 589 [도서출판국제] Biz: [602-33-02670] Cat: [출판] CEO: [하정무,조벽경] Phone: [051-469-5204]
+12. Row 593 [도서출판일광] Biz: [null] Cat: [출판] CEO: [null] Phone: [051-723-0037]
+13. Row 598 [도성회] Biz: [139-80-09994] Cat: [출판] CEO: [김광보] Phone: [051-512-3171]
+14. Row 602 [동그라미광고공사] Biz: [null] Cat: [광고] CEO: [정지후] Phone: [051-206-0777]
+15. Row 607 [동아대학교출판부] Biz: [603-82-01274] Cat: [출판] CEO: [이해우] Phone: [051-200-6705]
+

@@ -1,0 +1,27 @@
+The search for "site:c-graph.kr OR ("크로노그래프" "513-81-90287" "051" OR "070" OR "TEL")" returned the following summary:
+입력하신 조건(**주식회사 크로노그래프**, 사업자등록번호 **513-81-90287**)에 해당하는 기업 정보는 다음과 같습니다[1].
+
+* **회사명:** 주식회사 크로노그래프 (CHRONOGRAPH Corporation)[2][3]
+* **대표이사:** 김동우[1]
+* **사업자등록번호:** 513-81-90287[1]
+* **대표 이메일:** cgraph24@gmail.com / all@c-graph.me[1][4]
+* **본사 및 지사 주소:**
+  * 부산광역시 해운대구 센텀북대로 60, 14층 1409호 (센텀시티)[1][2]
+  * 광주광역시 북구 반룡로 34, 302-B호[1][2]
+  * 서울특별시 강서구 양천로 424, 905호[1]
+* **주요 서비스 및 에듀테크 플랫폼:**
+  * **라이팅미 (Writing me):** AI 자기소개서 작성 및 수정 솔루션[5][6]
+  * **디핀터 (Deepinter):** AI 면접 피드백 및 질문 생성 솔루션[2][6]
+  * **데일리NCS:** AI 알고리즘 기반 NCS 학습 및 모의고사 솔루션[7][8]
+  * **커리어킷 (Career Kit):** 강점 및 경험 기록 데이터 기반 컨설팅 툴킷[6][9]
+
+Sources:
+[1] [c-graph.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcJsHiAijOuGn0KH0KiRFSKOnCMFdaL0NGjDpKLjiohEE0IALibWN7xJP56oboVW07gbziVxi2PDDJFQ8DlKtNVYxwJjjGkuVm-_7SPA==)
+[2] [deepinter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD9DUk34xcJpREChsEZAXbbyhit-rBlBbgpMRlzLIdEPtiNF6YjZWBdYl-luls0WqCjo9U4JVuA5k36jeNGwfTd3ZSw39JgspPkNVJ)
+[3] [dailyncs.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYvqTsHyQmUz86IYsNxwbJFz9fiA33K0wD3-KdyB_YYcMguP9BXkB-ZH5U5pW70i4MAHUE7tiMKvXSrAaYL-jQU62DwH-s-Vfa3uydAz5Ph9OQ0LNLoGcD)
+[4] [dailyncs.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJsD4wO1X8q3W22RNecsJ02yj-Tj-vhQw0xaTUKyuVoNT0z-17zLuMlPuBStVyipWKdLL4plDBehD6itGR2oL9WZuoOHgbj8aQvLhT2r1lF9G5vzEgkCSPTQ==)
+[5] [writingme.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemxVukpeC8Hi9ATWfs8aNiMbZ_aBTzBG7FS_Sqc3kkP5LUdeLok6lSBwHrHHfDvFUdL084OU8s9fXjGcyaWhSPttk-ElLR8vhlq4=)
+[6] [c-graph.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7lZlklR6vAI94gHicqeUH5_6UWCIqcmP9rkJ4u7v8bLgSKGXjk0Mgrcg8f7BjhUoIYp-oL8dY8_X8G_RYqy9uvRWoQfs4Js-M-ZeMFTeZBnnRT7A=)
+[7] [dailyncs.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW62Aq8LMnqz5c_2b0bGaUBKv5SwW1YsdPHIdVYYxn5tTg_w0bU177xot_ErT787UOMpKM3thLJuILXbnGYcJwOhitlpbvZr7w0AdkX09SXI7R)
+[8] [c-graph.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbuHYLfccnohIWxXjsQO8ApYXFQRI__hTQvPqaw1jboJBVb3WA5WuBdxerq8VCpbrfI40ZdTevzYjkVP1xcI2JNOvaNIy3xM3DGj_MLFe1pYqz2GJUeM9k7x6IYi0=)
+[9] [c-graph.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfR-ljo8K-24rMWvpwA0lKpTuhXmbxM41uvh9n8ulom7NoYvmno5hLH1Sm1NYNeMwBXE_fAy9Z-cOLfa5N1fEqpOQhVeFj_LYHVuuGwbs_gzBNjC3P3MW3OlZam0Ec)

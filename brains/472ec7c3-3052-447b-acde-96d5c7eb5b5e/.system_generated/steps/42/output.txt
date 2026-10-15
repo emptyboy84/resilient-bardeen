@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                             
+--------                                                                                             
+C:\Users\lg\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity IDE                    
+C:\Users\lg\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity.lnk                    
+C:\Users\lg\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity IDE\Antigravity IDE.lnk
+
+
+

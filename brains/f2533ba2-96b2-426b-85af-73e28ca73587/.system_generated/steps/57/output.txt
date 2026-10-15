@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Checking (데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx total matches: 162
+Checking 배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx
+배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx total matches: 0
+

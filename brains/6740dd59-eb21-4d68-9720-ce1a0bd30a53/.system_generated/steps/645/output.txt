@@ -1,0 +1,32 @@
+The search for ""위니코니" OR "141-81-13988" "조은희" 매출액 OR 사원수 OR DART OR 잡코리아" returned the following summary:
+위니코니(주)에 대한 기업 정보는 다음과 같습니다.
+
+### 1. 기업 개요
+*   **기업명:** 위니코니(주)[1][2]
+*   **대표자:** 조은희[3][2]
+*   **사업자등록번호:** 141-81-13988[3][2]
+*   **주요 사업:** 종합 레저 스포츠 용품(PVC 튜브, 비치볼, 팽창식 구명조끼 등) 제조 및 유통[4][2]
+*   **특이사항:** 물놀이 용품 업계 국내 점유율 상위권 기업으로, 기획·생산·물류를 통합하는 시스템을 보유하고 있습니다[4][5]. 자사 브랜드로 '아라칸(ARAKHAN)'이 있습니다[4][2].
+
+### 2. 매출액 및 사원수
+*   **매출액:** 출처에 따라 다소 차이가 있으나, 최근 기준 약 **112억 원 내외**(2025년 기준, NICE평가정보 등)로 보고되고 있습니다[6][7]. (일부 채용 정보 등에서는 사업장별/분석 기준에 따라 20억~50억 원대로 표기되기도 합니다[2][8])
+*   **사원수:** 약 13명~50명 이하 수준의 중소기업으로 분류됩니다[2][9].
+
+### 3. 관련 정보 확인 경로
+*   **DART(금융감독원 전자공시시스템):** 위니코니(주)는 비상장 중소기업으로, 외부감사 대상 여부에 따라 DART에 공시되지 않을 수 있습니다. 상세한 재무 정보는 주로 **NICE평가정보**나 **캐치(Catch)**, **잡코리아** 등 기업 정보 제공 플랫폼을 통해 확인 가능합니다[10][6][7].
+*   **잡코리아/사람인:** 위니코니의 기업 정보, 채용 공고, 근무 환경 등을 확인할 수 있습니다[11][6][9].
+
+※ 위 정보는 검색 시점의 플랫폼 제공 데이터를 바탕으로 하며, 기업의 경영 상황에 따라 변동될 수 있습니다. 자세한 최신 재무제표나 공식 정보는 기업의 공식 홈페이지나 공인된 기업 분석 서비스를 참고하시기 바랍니다[11][8].
+
+Sources:
+[1] [airtoy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIip5kEAZF_bxBK56eKhcuJ-BDdC8w0k2mnpJEex4jOpmfcuJddr2IfFtfL_dhEopMte6kEN4-hkoveSpni5l1aEtoXNaE6_DxNUhqCYA=)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhC5bSQftdS8F5Uhg0OFhtjjjerBHgLq97sQRy0f4uZs_ue-cX4yL4tEhhlpYe7Oxq4A3dF4m7ewwhPbJ4ugYNESVKGgjCmeVKfPFw_l3Po_leUuGMCokwnrdr0UuOawAvTQwWwN8YcXzuWZPiBqi6xnMQTBkD-vN_4g==)
+[3] [arakhan.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFAbpHhhT2csMJCaZe6hZ1HHX9ui4ooBhukg9JdiNffM9f-GktrsPNi1Lg_DeCJlbUUs-OdNkOiQF9teWbYH_yhYgbZOqPg-KULautIKPKAKnCoEcoANkRNBGoa9mWx93eAQ==)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5JvaTv1ZUfPxrqwaH29ry6OQdc6-QUV-sU0QbUJTFL71K9q8AVaBbuITrUVds_O2p9TDO0aCPbvQOJZceGtd9f-c2sHSgodxNptmFF-xgu9sK20XN8qvcPa6TF1SqJw=)
+[5] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5JvaTv1ZUfPxrqwaH29ry6OQdc6-QUV-sU0QbUJTFL71K9q8AVaBbuITrUVds_O2p9TDO0aCPbvQOJZceGtd9f-c2sHSgodxNptmFF-xgu9sK20XN8qvcPa6TF1SqJw=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgHCQjxK6RNTuwjKzsFtgd21I1zwZ8xmQPqhx1Yk_MCWKbnvAoHePUIYTg9O7aWmHgHUyO8b6tjEtSSTlEcALvBNg7kE_DdPrf0yYa-M00OiEF-MzNR78GWmpjtJPpS-dlDSSNTn2tkz8A32Y21YhSp588GechDqXBfjEFJ-PA1v-fMQO-WqWSCWx4z3WxNTJIW6ITWuJ5EjDUX9uEMc0wnFJaPEbroiO-9de1FVJ0iJI__vVQM4vTO3ZPzrFWn2hO9Pd9SuVFLkoLysgWz4fy5lLoq7vFeA==)
+[7] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFpXoFfuPQ3AKlwZ73AkfbwoG-sheJk3ma4KEzc1F6vgDXeLSNrZVhS4QDzHdtLDP2FC4JryEPr0crV9PO-ZzPYIfWrzvTnjyoudXkVt59i3ofJzUSyf3ZgqnDgTF6tLME)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF16sMMEhhoPCyjw-DXWCGTsgmxtNUDxoBZTKRnfJu9_Gf9aKwS4hTv5O8W_LaO97CcE334QCPcxk_xIY83DcYS_tj_isYzdPlF_8-b-yBtdX7OL14ytk_Y92gC-ezR3Lo=)
+[9] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJ7JtXFvT_XLTc9TPyDLvptneSsuyCkTX6YGb3I7aJuBEt6-_t3RpZLDJp9FJRXoUZE2jSR3K3GC6r7gF-2NFNlVH127rqHn_Iwf4bfKwuRa4jo_YzWQqxuNRNGQEF8ykhIGTdDqE_g==)
+[10] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Txchcoa0I_HavzHO8B8rzbpgW_WrRtBafUfJIVPHoSsdgeHPEPF6a7TYf75jlxx2HxEp2FNe6Y2LEowOLEDTlOhlT9xuwZQIvGxfkQnWt2dVujw3URyrEg8gxyxSM_2Fte0P8rI9RVvO)
+[11] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4dS3gatX4gEbVxYO_XFaqnT--bRug-mWIGaNyfwhT_RT23AbzgVv4YRnoqBpU9v2PgILzRb2Yi1co7_p-CwGJgtWxihL13E5KUkuSCZspYzulPC54p5E-8ePWbkUxutVKNXbFD4DA3TV7)

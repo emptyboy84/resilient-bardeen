@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total companies: 3978
+Already have phone: 730
+Missing phone: 3248
+

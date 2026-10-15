@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+1: 25년 모집단
+2: 1867
+3: 부산이야
+4: None
+5: None
+6: None
+7: 조진성
+8: 010-2799-3270
+9: None
+10: 부산진구
+11: 부산진구 진연로 9번길 19 산호빌딩 302호
+12: 방송
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+

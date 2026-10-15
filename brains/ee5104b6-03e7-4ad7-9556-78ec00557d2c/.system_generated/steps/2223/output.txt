@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/%ED%8C%94%EC%9 vehicle%EB%A1%9C%20245-1');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%ED%8C%94%EC%9%20vehicle%EB%A1%9C%20245-1
+- Page Title: 네이버지도
+- HTTP status: 400
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T03-51-45-822Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T03-51-45-659Z.log#L1

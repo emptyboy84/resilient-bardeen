@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query="브이알코리아"+"수영강변대로"');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22+%22%EC%88%98%EC%98%81%EA%B0%95%EB%B3%80%EB%8C%80%EB%A1%9C%22
+- Page Title: "브이알코리아" "수영강변대로" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-38-14-647Z.yml)

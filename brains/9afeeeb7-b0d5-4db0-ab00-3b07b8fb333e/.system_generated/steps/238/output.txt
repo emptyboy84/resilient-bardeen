@@ -1,0 +1,19 @@
+The search for "site:bizno.net "씨에스물류" "벽산"" returned the following summary:
+검색 결과, `bizno.net` 사이트 내에서 **"씨에스물류"와 "벽산"을 동시에 포함하는 직접적인 정보는 확인되지 않습니다.** [1]
+
+다만, 관련 기업 및 물류 업계의 정보는 다음과 같습니다.
+
+*   **씨에스물류(주):** 경기도 평택시에 소재한 물류 보관 및 창고업 전문 기업(대표: 최상수)[1][2] 등이 확인되며, 지역별로 동일하거나 유사한 명칭의 소규모 물류 업체(예: CJ대한통운 양구대리점 등)들이 존재합니다[3][4].
+*   **벽산(건설그룹 등):** 벽산건설그룹은 물류센터 시공 등 물류 인프라 사업을 확대하고 있으며, 다양한 협력사와 동반성장 전략을 추진하고 있습니다[5][6][7]. 또한, 팩앤롤 등의 솔루션 업체를 통해 '벽산 익산공장'의 자재장비관리 시스템을 구축하는 등 물류 효율화 사례가 있습니다[8].
+
+두 키워드가 직접적으로 연관된 공적인 사업 정보는 검색되지 않으므로, 특정 거래 관계나 계약 여부를 확인하시려면 해당 기업의 공식 홈페이지나 공시 자료를 통해 확인하시기 바랍니다.
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4J2L8tSGcAu7AdIvS8QhT9_ijNcL--5goG4GV-Tx-ZSW90dhKxkrrK641tRpy3DEWtxZjPPyUilJpvo5HPHavu4Ba3i83pG18q06qEUEY_hFN2TrALMlTzhmYdU7FbM0D9IaFEOZ6wPw6sdIM4bBjCdXKf4ODtcdWOw==)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs9J9Vp9bEUCmlVMRS9D8rgqUXFeEt8bHcSpjyQ-RO4vXySxqqL_jh6g4tQz8lqtZSxYIBP6xtOCzZG2vmJmvnaEmnVWKYXJMsaQPBlnjoTh4i2D_xYaCSETOsLoOZgUMrM_0=)
+[3] [ygjob.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7udETN0T3WyG7B09nqTmYhG4HapcMa55Vi8LLzEAvmLo5BFrfxAWQX7ZGZW6UtwlmmeiAbfVPOnQ7dt_im4OLjLRnjR-wIENIqe7dFTzMRzx6JwT7oWMBnLq3wJYVeeOeS6MWIbFA)
+[4] [ygjob.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqXoI9E665gHAepbaEZ-xk4N4GSsg8S9Vtnw9lyRxqC2gMDRCCoVxe1QxV77EdutNBGVj8LUlhtM3ERmyUPTIFvgQiryl1xNkRbSI-Se5gq_XCEAT7h-AJl0wvYGk_Yl1GYs9ZTL1y)
+[5] [newsiesports.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtFXhnOF_MoAFBrTQKhNsoyu_1TZj5oXDOvFw7pEFXaA4skar3lTvW6i3A5KXK_oYgtSEHTY214oXCLK8lk_lhy5UidmG6T0zQ_ES8FJq-uSqWWSUdUOrwJjaQw726v5gKstYIRaYdsTf51k8DI9XmMNg=)
+[6] [womentimes.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhX_v4dKDotkEyZev2AeOaxorRX-3_-cIdxPPKCLbqXOdaGhSkF1Yc_ARnzUso4Q8Yj2ls62mrGKT_e1lb79pjKJfVLhhBIY30MTaikDRmMt6tpG7P13kCnbf7UYi1G2YCeXqfw1lRiC3-joAMshoV2Uan)
+[7] [ilyosisa.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfZ2SidB89um_cd1WmurQ0ebBnpe7qAriO_XL2IxbPlhx4ce1diiwL82TY1GLTYfruO2-0_0wE8ARjGvR2P-VBrTcxDSxTRDQFJFsLUVd9dLPHQpMpDCDl0l8F3FbZh05-dNIh_zoFay26Sg==)
+[8] [facnroll.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZdm-hp6EWFcQ_Gzld9CIr66DQActfmuJDl8oX_zUIHqqwdCRpOhM3uELedW32hrQDzNJr63G2CxN3BxjouflslsYi0Tgd2IOEzZDWraBA-3gxpmj_XGNjJIyv)

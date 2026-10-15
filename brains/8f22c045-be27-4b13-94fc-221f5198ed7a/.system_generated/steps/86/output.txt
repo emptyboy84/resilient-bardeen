@@ -1,0 +1,17 @@
+The search for "site:kiafa.org OR site:k-ani.or.kr "이은석" OR "조나단"" returned the following summary:
+요청하신 사이트(kiafa.org, k-ani.or.kr)에서 검색된 '이은석' 및 '조나단' 관련 정보는 다음과 같습니다.
+
+### **(사)한국독립애니메이션협회 (KIAFA)**
+*   **조나단 (Jonathan)**
+    *   **애니메이션 작품:** 2005년작 단편 애니메이션 **《I Am Jonathan》** (감독: 한경은)의 주인공으로, 날고 싶어 하는 병아리 캐릭터입니다[1][2].
+    *   **애니메이션 제작 스텝:** 이어송 감독의 2018년 작품 **《마이 문 (My Moon)》**의 애니메이션 스텝 명단에 '조나단 잡 콘도(Jonathan Job Kondo)'라는 이름이 포함되어 있습니다[3].
+*   **이은석**
+    *   검색 결과상 '이은석'이라는 이름은 해당 도메인 내에서 별도로 확인되지 않습니다. (유사한 이름인 '이어송' 감독의 정보는 확인됩니다[3].)
+
+### **한국애니메이션예술인협회 (k-ani.or.kr)**
+*   해당 사이트에서는 검색된 결과가 없습니다.
+
+Sources:
+[1] [kiafa.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQHVuGrP_nCqBaCUR58M9PHcXrKjfnVq1VwRZ-OGHE0HI-nggjLSl4J5PdarzRIIwshLss8wTs-rCPM7w6Bw3yM5pIbfmsL5lnjFvPDWyishNuOxNyZwAd8KCMu-1vyWMTg-pma8m6EuLvk79QLO0wTIDLH7IiMvWCW5YMZVBDLDVvN-zrKA1XkcZjokTxNrtgyd3a_fwzMsCmjQK6Yk_DeVgFWmLbgKOPd06hVmFc7N40q0oJdbD981Boujvfl8tncp7zQSqCPoNyiaXgYa9rb05PiIHeplPOQ2UPgb1lJqXpqKUEkDvc4nWvvj_smfY5NeRm-DCqLw-pspFhj6Q1rmuPaPRzr7rEMobVzSm4pxhPQrV-5TAQ0QKIGEarMzQh0kepDdQof5lDJjksHwv80wag34fhijDDWo27n5mclxNQ2Jgpdae1tKfS6nN3k9kP1SN1XpqLJFLviUQIrSidRBJV)
+[2] [kiafa.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCHRry7d5sZ_KXqSE2a9urbJRLIK4MwVS0sSUaAzarwfpwJkQhJLpP-PNcyQr1p7Lo3u5bwhue3JFOL6I0RzWs9osJx-dd3WOaO1Cuc7g5RMAIAtqbBY-wBMVFAwPZqgfK1zzLE-7EPr9AN6uYPavwvh_3P6ZU5VI4ml5BzDvPNh52uQF3MOtKX840Y-9IQnQT054iEustrozsbDsJHLohfyEnVJWdj88HC3cYaY3OPjgdObOwkGBLTSvEG7zqI_6_6PC8rujvx0O3Lqn245Icr72oi3cBoAOLNOA2YEyP1X-oivJOzd1_PPAlfQ6j0mhfLqzjlQB0G4AVsvfkRg3nYR0EA3GzFfN9kp8dpVkt5IyIUiwyOlYIYvgf79px0G-DmvrGc6ljdLupW2iPj6epKZfxdI6m2YjxxKGH3KH-Sh5MYIUAyaT_UtypqJqUQJ1bEphUfGmHZAEwWtlEQ==)
+[3] [kiafa.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFVxeiXR_L7NGvP60xEuKFnUYE3xDrBO1XSlnDmAFikA7RMd-b0rvZWDxHjUn0MdKVNry-99mCtoTc99HcVMxEyfzCcxt1z1NrslRZ9L7Uf7eWmx2tadczVRYBxsrjq4pIIyHkmjX6ISyc-8i5B4TE8PDfkkXyRk-f3Iza9ZFXDphZp4KGkDpvtzwQ-ZXL6z5suq9qVYMLgfvXzK5VSAZ80N3Ak17AhN8SJcf0xv70QxX4lDtLxVsGEaHlJb52Wlny0xErveqIXMWJ5aGUV2devHql9c3I92KawpotEXG3nkTzyITZ6bIoTFx7yLYNdM7mb3TvO3jnuYIRq7Q-mTyPFa_uPsKrg1RKXkCyCqg1F-oTlojx0IaUbY0EGLXzqDksG54-JTpUIWX0BFNzKsBWgTwMylvY4Q=)

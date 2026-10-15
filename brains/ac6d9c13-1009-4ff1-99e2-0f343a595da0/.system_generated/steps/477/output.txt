@@ -1,0 +1,2 @@
+Encountered error in step execution: ### Error
+Error: browserBackend.callTool: Unexpected token "" while parsing css selector "". Did you mean to CSS.escape it?

@@ -1,0 +1,167 @@
+### Result
+[
+  {
+    "text": "주식회사 브이알시네(VR CINE)\n이경*\n정보처리 및 기타컴퓨터운용관련사업",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알시네(VR CINE)",
+    "href": "/article/3178701121"
+  },
+  {
+    "text": "주식회사 브이알시네(VR CINE)",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알메디투어앤홈\n정성*",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알메디투어앤홈",
+    "href": "/article/2688703040"
+  },
+  {
+    "text": "주식회사 브이알메디투어앤홈",
+    "href": null
+  },
+  {
+    "text": "브이알플러스서면점\n전자 게임장 운영업",
+    "href": null
+  },
+  {
+    "text": "브이알플러스서면점",
+    "href": "/article/1433600193"
+  },
+  {
+    "text": "브이알플러스서면점",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알플러스남포점\n박경*\n장난감 및 취미, 오락용품 도매업",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알플러스남포점",
+    "href": "/article/3078149733"
+  },
+  {
+    "text": "주식회사 브이알플러스남포점",
+    "href": null
+  },
+  {
+    "text": "브이알플레이스(부산서면점)\n한식 일반 음식점업",
+    "href": null
+  },
+  {
+    "text": "브이알플레이스(부산서면점)",
+    "href": "/article/8350200832"
+  },
+  {
+    "text": "브이알플레이스(부산서면점)",
+    "href": null
+  },
+  {
+    "text": "캠프브이알 경성대점\n기타 오락장 운영업",
+    "href": null
+  },
+  {
+    "text": "캠프브이알 경성대점",
+    "href": "/article/4733400353"
+  },
+  {
+    "text": "캠프브이알 경성대점",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알스타\n이민*",
+    "href": null
+  },
+  {
+    "text": "주식회사 브이알스타",
+    "href": "/article/5868800496"
+  },
+  {
+    "text": "주식회사 브이알스타",
+    "href": null
+  },
+  {
+    "text": "브이알메이커스\n정유*\n시스템 소프트웨어 개발 및 공급업",
+    "href": null
+  },
+  {
+    "text": "브이알메이커스",
+    "href": "/article/8020501619"
+  },
+  {
+    "text": "브이알메이커스",
+    "href": null
+  },
+  {
+    "text": "브이알플러스해운대점\n기타 오락장 운영업",
+    "href": null
+  },
+  {
+    "text": "브이알플러스해운대점",
+    "href": "/article/8901000663"
+  },
+  {
+    "text": "브이알플러스해운대점",
+    "href": null
+  },
+  {
+    "text": "실시간 조회기업",
+    "href": null
+  },
+  {
+    "text": "세류빌드협동조합",
+    "href": "/article/4398602495"
+  },
+  {
+    "text": "오토 갤러리 29호",
+    "href": "/article/6035300407"
+  },
+  {
+    "text": "링코모(LINCOMO)",
+    "href": "/article/8123501215"
+  },
+  {
+    "text": "모쓰코퍼레이션",
+    "href": "/article/1380853564"
+  },
+  {
+    "text": "예스넷(YESNET)",
+    "href": "/article/7201202236"
+  },
+  {
+    "text": "(주)자연에너지 삼정주유소",
+    "href": "/article/5048545700"
+  },
+  {
+    "text": "월드푸드",
+    "href": "/article/5484800542"
+  },
+  {
+    "text": "엠스퀘어 복합상가 513호",
+    "href": "/article/4647100107"
+  },
+  {
+    "text": "나리양과점",
+    "href": "/article/8980401705"
+  },
+  {
+    "text": "엘투케이파트너스",
+    "href": "/article/6108636406"
+  },
+  {
+    "text": "씨드소프트",
+    "href": "/article/2311601808"
+  },
+  {
+    "text": "설탕",
+    "href": "/article/3207900292"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const titles = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return titles;\n}');
+```

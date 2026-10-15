@@ -1,0 +1,14 @@
+The search for "site:dart.fss.or.kr "제노레이" "지점" OR "영업소" OR "사업장"" returned the following summary:
+제노레이의 사업장 및 지점 관련 정보는 다음과 같습니다.
+
+*   **본사 및 주요 사업장**: 제노레이의 본점 소재지는 **경기도 성남시 중원구 둔촌대로541번길 60**입니다[1][2]. 해당 소재지에는 본사와 성남 제1공장이 위치해 있습니다[3][4][2].
+*   **추가 사무소**: 글로벌 비즈니스를 위한 글로벌 HQ가 **서울특별시 강남구 테헤란로114길 38, 동일타워 9층**에 운영되고 있습니다[3][4].
+*   **기타 정보**: 기업 공시 시스템(DART) 등에서 '지점'이나 '영업소'라는 명칭으로 별도 등록된 사업장에 대한 상세 내역은 일반적인 기업 정보 조회에서 본사와 공장 중심으로 통합 관리되는 것으로 파악됩니다[3][2].
+
+더 자세한 지점 등록 현황이나 법적 사업장 정보는 금융감독원 전자공시시스템(DART)에서 제노레이의 최신 **'사업보고서'** 내 **'사업의 내용'** 또는 **'회사의 개요'** 항목을 직접 확인하시면 가장 정확한 내용을 보실 수 있습니다.
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFDiDyO_Qo4d5G4ju0ru94OXBQQcRa9SRWqQfef6nmDtZEqb4dlZyJ71JAGfeEmHOpvGW-arlEYB2sYPEmZg8BFktynAmA3_50_mvp4aHq4eLMO3ETVqsdX_M77g-pzulrbZTdWOHH1juJhMyVSGsRwISZYIgEEIs=)
+[2] [deepsearch.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBK80C_2_umLinIGyRuHq3yqeCU84uxOEGOzcJ4Md_-3ZaS5Ot2sEyVXeMKAssBC77ESP7V631joXwjKyIx-yASkiPqGtcor7IDhHfciPYyzVxM8IkqMHY0AF4fMhACBLdx39jJLxEq7dZlQLXpvP9QuvU3KQh_ot75t2tIVxCQpjy4GnvmZu16vPwijeMKB3Vc9Ub1CyvP8tYuseHeHhYPJkPSHCA_oSnxiGaw_2Cd3u1c2ODGCmnKxPCYULicWy-avqf6MbHyk4WPecjbdSkdXXylaRS9CKUAA==)
+[3] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-y5R1T44jfTqBBmVfh4Bjn-6_oL7DvOHuRvkC_8RSLExMCx-zd-7dRpPJT_7Xxhe1F2LhYVGgyzjlUVlj5e3dYCAAPBK0-B1fjA43LUskKbchz_HUvLGyAdWoAzicf0rcZn30S9wg93jObud-4RHH5qN-JG7hRLH5kPs9TC6g)
+[4] [genoray.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsHHPH57E2zDjBRg_Kd39oAg7V3oR7gnxoAV1vvEWjfx_9aw6A7yjTlVXcorgbtCruTMGSBOI0UJnj9JMbZJ1vzSOYP61kWzYH4lRrLZ6uhCTNWe-EQgn_owsaU3BRrvRZySi5jUHidNM3hmuOztv4aL-ekU1msA==)

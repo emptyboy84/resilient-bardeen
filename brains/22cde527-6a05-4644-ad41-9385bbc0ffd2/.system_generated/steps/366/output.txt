@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+[PRUNED Row 2064] "박정희" (437-33-00608) => Rejected: Personal name company district mismatch: target="기장군" vs match="부산광역시 부산진구 엄광로 163, 1층 (가야동) 163, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea"
+[PRUNED Row 2070] "김지원" (194-17-01700) => Rejected: Personal name company district mismatch: target="연제구" vs match="부산광역시 금정구 동부곡로**번길 ****** 비비드 ******호 *****"
+[PRUNED Row 2120] "인생극장" (101-43-80997) => Rejected: Not in Busan (충청남도 천안시 동남구 용곡2길 43-10, 1층(용곡동) 43-10, Yonggok 2-gil, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea)
+
+Audit complete: 144 valid matches preserved, 3 false positives pruned.
+

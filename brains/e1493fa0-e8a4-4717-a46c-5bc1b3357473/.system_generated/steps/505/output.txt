@@ -1,0 +1,9 @@
+### Result
+"clicked p.name"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const p = document.querySelector(\'p.name\');\n  if (p) {\n    p.click();\n    return \'clicked p.name\';\n  }\n  return \'no p.name\';\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=261647
+- Page Title: 청우정공 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서

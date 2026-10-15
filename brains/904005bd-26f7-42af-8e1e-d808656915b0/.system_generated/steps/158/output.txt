@@ -1,0 +1,19 @@
+The search for "site:kobis.or.kr "부성은" OR "박학문"" returned the following summary:
+요청하신 검색어 `site:kobis.or.kr "부성은" OR "박학문"`에 대해 영화진흥위원회 영화관입장권통합전산망(KOBIS) 내 관련 자료를 검색하였으나, 해당 검색어로 직접 연결되는 데이터는 확인되지 않았습니다.
+
+참고를 위해 각 인물에 대한 정보를 정리해 드립니다.
+
+*   **부성 (傅聲, Fu Sheng):** 1970년대 쇼브러더스 스튜디오에서 활동한 홍콩의 유명 배우로, 장철 감독의 영화 등에 다수 출연하였습니다.[1][2] 한국에서는 '부성'이라는 이름이 일반 명사(아버지의 성품 등)로 쓰이거나, 홍콩 배우의 이름으로 언급됩니다.[3][2]
+*   **박학문:** 부산 지역에서 영상 제작사(룩스커뮤니케이션/룩스필름)를 운영하며 부산영화영상산업협회 회장 등으로 활동했던 인물입니다.[4][5][6] 주로 부산 지역의 영상 산업 발전 및 관련 협회 활동과 관련하여 언론에 언급된 바 있습니다.[4][7][8]
+
+KOBIS 사이트 내에서 특정 영화나 인물을 찾으시려면, 검색어를 '부성' 혹은 '박학문'으로 각각 분리하여 검색하시거나, 영화 제목 또는 관련 영화인 명단 등을 통해 다시 확인해 보시기 바랍니다.
+
+Sources:
+[1] [cine21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvflUYzFT7q_U2d9dRsmoJ_-kfB-68CvTnWFfK6drEwfWZq56cR9AuoGYWTLjbvNNIVnrhqZhQXp7y6XA2t9ACA2gubX4E2x-o7W2vzXTr25O_6NPV-HWikf7aGfB7xj4=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBJmEwdjw4BJHV_s7lC4a6I1BQDLeLC27FNrSETU6qg_ztfvkjXigOnct0RUE-KUWNdMuIaIfq0D8HwYH8qHe-2ViC8aQ_Jjmg4OJgkAS9n1cjUW7MGaeQr0qfYb0ceoV3xm_LsdsphIsfGDFQy6PP3t6tkYW75lKwJQOjuHqIOiGCOyihYv9A3CukkhQnQ_8-k951NUrJ9vf5mrQ_s76aif8evUMkahkyDgN95GbmzJkZZ5jOH-rISrOB7rle7wOGdoKbRZXKjCzSeQtThkHlfmAJTiczs1_lDJh4zOat-0KY21Sz62uq4VsrJXGovNoZrfEPyAEDFNNs)
+[3] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIMfvQDxWPdyAc0AfeilCXuD1WZhs-up4bKZe5mRZ5WBIQ7qJcR7i3rp64C5MX07wlsc6NiDXxl4n13CShBeWfcEWNN5bg__vdqYPgdd_CAlkUHxD1)
+[4] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMiGC6DuX-by54tAw62aD1WABiG3D66Kok4idv-gHFlbuBhojhpR1ZPueG6BHpKCf4bCdJSjKwmqsa2GvW1-8j4bmwmNzy4SnPeJrGKeSJxFK4nJygDzCuIgeu5cCvwIN3ONZV4-OF23Mcg3QazByRTpPkQ5hrkRYCnfa1yzfc3Xl0juGtQW6U1ARl43iPdTRqhCAsfn-5XJ7A1yAPP1sJW5quAM-FMAe-euas486gUMA6aC9BPO_oSxr2Jzhi7Ss7)
+[5] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4BApCxHKqFI80p1nLw-6AMMfl938eBxd2xz6OiFejvtc-UBpsVy0XNOLfPMO0WFq2ROEyp6_wnN9fTiQQJahmFtUP95bIwJKE5iKuBmbvMH5_iJONpSRWGNLw77haSwED_6loGE3nE8fLhSzOzLzp5-og)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOx6g8GgBO6wipJtHQbDvqGruR9ev92UnaFrmsiIQ-Uh9XqFb1tBEzv-_1dG65Fw9xGfywPhtRNVHD2OubdCxl6DOm0fH6vUrSlDmdXcQcyLEC2Q-chmKwlJE=)
+[7] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo7AS1s20ay1F84Nt6AkRw6mhcLNAY6obBSRiUElxYu3uQ60JBnW9Da5tmJ3mclG3Iuj4xU0Zc-TrBt4DY8os4L9kpCXIx87ze4qxRC9yW2GngmFJZIIkgg55p1S64R-VL9JiF3JCbMMGrpByR-9lfpL_fLK5dCwUykpHR65dZwEVBEgxMEqtyBQI-)
+[8] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCR1kBUjd9GxaFvPUSQhljLxRg2RWpXsrGJBrWzPZHW3p-bY2Og0WsgP1g8WNhVrKIKIEsc54axQV7XlQ5hs0Doc5HdWbsX5HZC9-F0OI5PcoRIVGcvs3itJtZvrDey9TG8So76f8CXp6kinsyC7yemxT0)

@@ -1,0 +1,5 @@
+The search for ""051-997-1234" OR "0519971234"" returned the following summary:
+세종행정사사무소[1]
+
+Sources:
+[1] [jardoa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs27TtYefOQ5n9T8RWMg20lsDFKMY9i8D205_YEua1yTkdraOLiquFXI9bx5R7oYHsSfpJMyL_6F0n1coe1oaHTghCYzbqgaI3y-HNLIi3aQZLe8weWEOsUTn7BtAT1f6PcNF1SAWi2XAgUg==)

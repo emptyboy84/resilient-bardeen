@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Row 19328: [null,null,null,"스타메디언스",7737500294,"이선미",null,"부산광역시 해운대구 센텀중앙로 97 (재송동) 센텀스카이비즈 A동 23층 2309호",null,null,null,null,null,"20200616",null,0,null,null,"비주거용 건물 임대업",null,null,null,null,null,"7737500294"]
+

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+완료! 192행 저장됨: C:/Users/lg/Desktop/오늘/사업자번호_찾은_192개.xlsx
+

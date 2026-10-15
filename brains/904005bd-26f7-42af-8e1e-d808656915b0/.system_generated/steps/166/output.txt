@@ -1,0 +1,17 @@
+The search for ""어메이즈브이알코리아" site:github.com" returned the following summary:
+GitHub에서 "어메이즈브이알코리아"와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **기업 정보:** GitHub의 Gist 등에 게시된 '한국경제 스타트업 정보 목록'을 통해 어메이즈브이알코리아(AmazeVR Korea)의 기업 정보(주소, 대표자 등)가 언급된 바 있습니다[1][2].
+*   **GitHub 조직 계정:** **AmazeVR** 공식 계정(github.com/AmazeVR)이 존재하며, 해당 계정을 통해 다수의 리포지토리가 공개되어 있습니다[3][4].
+*   **관련 인물:** AmazeVR과 관련된 개발자들이 GitHub에서 활동하고 있으며, 이들의 프로필 정보 등에서 'Seoul, Korea'에 위치한 AmazeVR, Inc. 관련 정보를 확인할 수 있습니다[5][6].
+
+더 구체적인 코드나 프로젝트 내용을 찾으신다면 [AmazeVR의 공식 GitHub 조직 페이지](https://github.com/AmazeVR)를 직접 확인하시는 것을 추천합니다[3][7].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ3tsG_2IeB6-NEo7yxVhdI96Ejl3Ka7o2yUg8GaZAC-3OQWBlPAyETBNzNoGHMLQFoArTzugF73_IPpa3sP3yKK2rA6lMqjpHhGqZOjcNlyJkNYUkPtDM6JgUUh2hInppw7jwPhOugL2q27Fd0oSjnPiZJQeT6Q==)
+[2] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ3tsG_2IeB6-NEo7yxVhdI96Ejl3Ka7o2yUg8GaZAC-3OQWBlPAyETBNzNoGHMLQFoArTzugF73_IPpa3sP3yKK2rA6lMqjpHhGqZOjcNlyJkNYUkPtDM6JgUUh2hInppw7jwPhOugL2q27Fd0oSjnPiZJQeT6Q==)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_b5ddVotaBG0EyxwPEO3mSiW9RQkhSyZOISzLUWW65j-atN-heVS-8pO5YypLQqUYcznFsJxZP_73Q2EuciWyjUTZKGyrIZcC4tTZZ4KZ)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_b5ddVotaBG0EyxwPEO3mSiW9RQkhSyZOISzLUWW65j-atN-heVS-8pO5YypLQqUYcznFsJxZP_73Q2EuciWyjUTZKGyrIZcC4tTZZ4KZ)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmXuMa8tEsCBIV0sx9TxNADOgNqh_-d5COx8epW01Tu891tMTsSmGFNEzBc4GDLGkSp04Z1WydO_oAZjxBTFroxbMjjsURHeNamP3B4zPt9w==)
+[6] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1SE5zv1Ndpxik7slxwj3EAw8l73V0m5Adw5kI7mMPYQ7hhXr7I26KmRfwqHLMzOZ-_Q64DHkc58Z8c7k-HRW8-zDwPLri6xamVKUhfZnspHXVwYxzYZ989l5QjHY=)
+[7] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERXWk-aKVpgtJK-huIQeYT3h_oc7G_aUMpe5vS07qp3Frnh6Y69pLjfEpZlgS9tkaFfTSDrbPDtBz7ePx3a4fOkWOtmWuIP43kEM3kNZnbXK9mV59SOGTOKxUffYbHhpe1)

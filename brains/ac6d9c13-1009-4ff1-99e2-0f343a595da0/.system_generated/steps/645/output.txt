@@ -1,0 +1,6 @@
+### Result
+"{\"encryptedResponse\":\"93895100302d01bb574d2ac7cc4c8139U2FsdGVkX18ofx4h782IBxSvBBQ1X2MC16o0bEqSrnU+WCBxE/MjOIANE6bkihWX+/pVJgWpm9w/PLb+LF1cf+bK+tUuiJsad3ct6E4BSnTq21iLTuzCykz+jIp5lacIz22qXE76e/oIde51wBi8rT/JL6EncgXi1bdVQ2rXWo3Ty+EISn1IWzLnEZejDQmUWPcElTTINq1XRNsWd298fzKFQEwnqDvDemkphVbVSPL3mjoH4TRDy/A5d7C4kr0T5psS3M83IQT1V/Ti1tpW5F7UQTFXunJaGN2DRLX4tTML8XvPgWhnOhXQSPyCJI2dKbEFIUZrc9pDzCBQE0ADTO178uZKM/Q3KaBbhuoyLJtslUZFLJO6HW0xzrTOF6sTQUWvx8ea7+KA4i4vb5r3Vhj0iL3KvwIk7XX/DEk8/XvENq4nf1bs8iOmsSmRQOblsIJ8Vz1cNE9/45j1oMmM+rh/uuchr/LDcGPB8/NkCXCZfAXK9yMEpDQXUwqNzPXRyKnblW/sYtMRfIYH1NhhwyJO2PfuMs8EU/Phd31sSKuu2w3lYLJCnLjOg7daXPmsgyi11HCttD750kF2Y0i4pHnLsTYX2cgE0cjwTUYLXIwZqmcWGnwAdlcMsTEucQ+ZAO7YusZq9PUd1VVx3cD4cQ==\"}"
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const res = await fetch(\'/nuxtApi/search/SR01/sr01M03Get.nice?srchNm=180111-0168303&srchkwrd=ALL&prn_cnt=10&pge_no=1&useOrgTotal=false\');\n  const json = await res.json();\n  return JSON.stringify(json);\n}');
+```

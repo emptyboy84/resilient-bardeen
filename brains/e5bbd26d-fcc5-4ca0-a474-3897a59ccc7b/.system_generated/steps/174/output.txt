@@ -1,0 +1,77 @@
+
+The command exited with code 0.
+Output:
+Total diff rows: 376
+Diffs sample: [
+  {
+    row: 13,
+    name: '아트핸즈',
+    bizno1: '605-18-21203',
+    bizno2: '605-18-21203',
+    status: ''
+  },
+  {
+    row: 519,
+    name: '(주)부산교차로',
+    bizno1: '869-81-01483',
+    bizno2: '869-81-01483',
+    status: ''
+  },
+  {
+    row: 524,
+    name: '규성애드',
+    bizno1: { richText: [Array] },
+    bizno2: '주소부산 부산진구 서전로37번길 25-9, 307호(전포동,예일프라자)',
+    status: undefined
+  },
+  {
+    row: 1091,
+    name: '작은통일출판사',
+    bizno1: undefined,
+    bizno2: '251002015000001',
+    status: undefined
+  },
+  {
+    row: 1113,
+    name: '조나단/이은석',
+    bizno1: undefined,
+    bizno2: undefined,
+    status: undefined
+  },
+  {
+    row: 1115,
+    name: '족보만드는곳족보관',
+    bizno1: undefined,
+    bizno2: undefined,
+    status: undefined
+  },
+  {
+    row: 1136,
+    name: '지엠이에스티부산지점',
+    bizno1: undefined,
+    bizno2: '120-87-38081',
+    status: undefined
+  },
+  {
+    row: 1146,
+    name: '창작집단1407',
+    bizno1: undefined,
+    bizno2: undefined,
+    status: undefined
+  },
+  {
+    row: 1147,
+    name: '창작집단한',
+    bizno1: undefined,
+    bizno2: undefined,
+    status: undefined
+  },
+  {
+    row: 1149,
+    name: '채널부산',
+    bizno1: '559-36-00291',
+    bizno2: '387-85-01558',
+    status: '2024-03-12'
+  }
+]
+

@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+
+=== Checking: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_automation.xlsx ===
+Sheet name: 2026_부산_CT산업_실태조사 Rows: 2314
+Red cells count: 2180
+Row 2: [
+  'Col 1: 25년 모집단 (BLACK)',
+  'Col 2: 1 (BLACK)',
+  'Col 3: 아이티에프씨 (BLACK)',
+  'Col 4: 243-86-01731 (BLACK)',
+  'Col 5: 2020 (BLACK)',
+  'Col 6: 9 (BLACK)',
+  'Col 7: 곽서준 (BLACK)'
+]
+Row 639: [
+  'Col 1: 25년 모집단 (BLACK)',
+  'Col 2: 638 (BLACK)',
+  'Col 3: 디자인에코 (BLACK)',
+  'Col 4: 603-10-85753 (FFFF0000)',
+  'Col 5:  (BLACK)',
+  'Col 6:  (BLACK)',
+  'Col 7: 이돈희 (BLACK)',
+  'Col 8:  (BLACK)'
+]
+
+=== Checking: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx ===
+Sheet name: 2026_부산_CT산업_실태조사 Rows: 2314
+Red cells count: 2180
+Row 2: [
+  'Col 1: 25년 모집단 (FF000000)',
+  'Col 2: 2 (FF000000)',
+  'Col 3: 아이티에프씨 (FF000000)',
+  'Col 4: 243-86-01731 (FF000000)',
+  'Col 5: 2020 (FF000000)',
+  'Col 6: 9 (FF000000)',
+  'Col 7: 곽서준 (FF000000)'
+]
+Row 639: [
+  'Col 1: 25년 모집단 (FF000000)',
+  'Col 2: 639 (FF000000)',
+  'Col 3: 디자인에코 (FF000000)',
+  'Col 4: 603-10-85753 (FFFF0000)',
+  'Col 5:  (FF000000)',
+  'Col 6:  (FF000000)',
+  'Col 7: 이돈희 (FF000000)',
+  'Col 8:  (FF000000)'
+]
+

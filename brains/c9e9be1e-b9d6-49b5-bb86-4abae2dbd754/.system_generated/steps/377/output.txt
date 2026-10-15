@@ -1,0 +1,30 @@
+
+The command exited with code 1.
+Output:
+Select-String : The file C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\.system_generated c
+annot be read: Access to the path 'C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\.system_g
+enerated' is denied.
+At line:1 char:1
++ Select-String -Path "C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Select-String], ArgumentException
+    + FullyQualifiedErrorId : ProcessingFile,Microsoft.PowerShell.Commands.SelectStringCommand
+ 
+Select-String : The file C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\.user_uploaded cann
+ot be read: Access to the path 'C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\.user_upload
+ed' is denied.
+At line:1 char:1
++ Select-String -Path "C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Select-String], ArgumentException
+    + FullyQualifiedErrorId : ProcessingFile,Microsoft.PowerShell.Commands.SelectStringCommand
+ 
+Select-String : The file C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\scratch cannot be r
+ead: Access to the path 'C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-db83-43ae-9987-b395c3eeaceb\scratch' is denied.
+At line:1 char:1
++ Select-String -Path "C:\Users\lg\.gemini\antigravity\brain\fb69dbf9-d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Select-String], ArgumentException
+    + FullyQualifiedErrorId : ProcessingFile,Microsoft.PowerShell.Commands.SelectStringCommand
+ 
+

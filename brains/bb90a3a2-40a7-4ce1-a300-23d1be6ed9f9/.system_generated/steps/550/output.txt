@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=7518103079
+- Page Title: '7518103079' - 검색상세
+              - button "쿠폰" [ref=f1e16] [cursor=pointer]
+              - button "추천 서비스 메뉴보기" [ref=f1e23] [cursor=pointer]
+              - button "내 사업장 관리" [ref=f1e32] [cursor=pointer]
+              - button "고객센터" [ref=f1e40] [cursor=pointer]
+        - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=f1e46]
+                - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                - text: "7518103079"
+            - button "검색하기" [ref=f1e56] [cursor=pointer]
+          - button "조건검색" [ref=f1e59] [cursor=pointer]
+      - button "결과 내 재검색" [ref=f1e62] [cursor=pointer]
+            - button "기업상세 범례 활성화 (주)메이브릿지 751-81-0**** 대표자명 김현진 산업명 시스템 소프트웨어 개발 및 공급업 기업주소 부산 해운대구 해운대로 ***, ****호" [ref=f1e114] [cursor=pointer]:
+                  - paragraph [ref=f1e119]: (주)메이브릿지
+                  - paragraph [ref=f1e120]: 751-81-0****
+                      - generic [ref=f1e125]: 대표자명
+            - button "첫 페이지" [disabled] [ref=f1e139]
+            - button "이전 페이지" [disabled] [ref=f1e141]
+            - button "1" [ref=f1e144] [cursor=pointer]
+            - button "다음 페이지" [disabled] [ref=f1e147]
+            - button "마지막 페이지" [disabled] [ref=f1e149]
+    - button "KakaoChannel" [ref=f1e151] [cursor=pointer]
+    - button "FAQ" [ref=f1e154] [cursor=pointer]
+                - paragraph [ref=f1e182]: 대표자 김종윤
+

@@ -1,0 +1,24 @@
+The search for ""수영강변대로 140" "영화상영관" OR "영화상영업"" returned the following summary:
+부산광역시 해운대구 **수영강변대로 140**은 **'부산문화콘텐츠컴플렉스(BCC)'**라는 건물의 주소입니다[1][2][3].
+
+이 건물은 다양한 영화·영상 관련 기업과 기관들이 입주해 있는 곳으로, 검색하신 '영화상영관' 또는 '영화상영업'과 관련하여 다음과 같은 정보들이 확인됩니다.
+
+*   **관련 기업 및 기관:** 부산문화콘텐츠컴플렉스 내에는 영화 제작사, 배급사, 영상 콘텐츠 관련 소프트웨어 개발사 등 다수의 기업이 입주해 있습니다[1][4][5][6][7]. 예를 들어, 영화 플랫폼인 '씨네폭스' 등이 이곳에 주소를 두고 있습니다[8][9].
+*   **영화상영업/상영관 관련:** 이 건물 내에 상업적인 대형 영화관이 입점해 있는 것은 아니나, 건물 내 '크리에이터 스튜디오' 등에서 **작은 영화 상영관**과 같은 영상 관련 시설을 운영하거나 지원하는 경우가 있습니다[10][11]. 또한, 입주 기업 중 일부가 사업 목적으로 '영화상영 및 유통업'을 포함하고 있는 경우가 있으나, 이는 주로 온라인 플랫폼이나 콘텐츠 배급 관련 사업을 의미하는 경우가 많습니다[7].
+*   **참고:** 인근(수영강변대로 120)에는 실제 영화관인 '영화의전당'이 위치해 있어, 대규모 영화 상영 시설을 찾으시는 경우라면 영화의전당을 확인하시는 것이 적절할 수 있습니다[3].
+
+특정 기업의 영업 등록 여부나 구체적인 시설 확인이 필요하시다면, 영화진흥위원회 온라인상영관 통합전산망 등 관련 공공 데이터베이스를 통해 해당 주소지에 등록된 개별 영화사 정보를 조회해 보시기 바랍니다[1][12].
+
+Sources:
+[1] [vkobis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr6NSwqF8LZKPf15Dsg0INeFUdmtTD7rudE7A0a2peGaZ8MXfMboa1b8MLKDhsCqb2gdtYKg8p6a60qVGg_CVlJw2DZw037VWbX6MPClbmybnDkzpay_VIRBZtDK4ZZSJcW16fNGIVCtl4v42XW9ZbLg==)
+[2] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA9jnZ2CHtk_TR2ey1ZSijocnWC6SStcFyVNyj9YPPOHpGs2hp51n01r_HhIcmyryXTJZ5K8O9WNNFaRnQKOGhsqtCaftva60Oz4qFaBdeg3rMWDKhIjIJfzKrxAbyGHsO_dpzvE42G728FlSt09ULR0Ovrc_JIIQddfiqy9OD9Xz13zYKs1CZTqy2nni6F7aLGr5q0OAsG1GSJHvQyCVjJjeBqExnw3noKK9DZGpyFXxdm5EPiVITcphkUY2GdXILLpvj10Di-r__FgWPkjTTUFxh7-iAZV7ibznMHP6XrQw2LAlXJyrdZDb9FiY0q4uRWOTyVN6x5xrBOK4qEd7-FL8FmQ==)
+[3] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXnUWWW6pRnY_EIT4lFcXH73aW_FDo33Fn6iDIinMd17WuGhE2PO1Oo5G8PRoC58_lugC5vPoOZI0eaq5AsybVw2eyXdtZmWIIZmqYvKmfoFoSKWhOVBe6FTc83DOGpAwF9l1_Iy158z8G9qkMFOV6q9v-fiRrpEVt322V_QnjQnUIARgJatUfQA==)
+[4] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDGtUzazy1MB5bgPk2X4IYMcQCP0Z80I2KTrvfp7KFnxQY1YYvUjUToxvyNpzhoKMRhz4uzolonYdmMucfajDUmatPpByt3qi_iM4LePEgyydA7tzqkuAAn_Ncbsxiuxg6MBjrKD4MHywU6e4gxc-QNLrhqgCENHs=)
+[5] [vkobis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGES6bUnKFTSaUU43R70I1N_9N_Lz_4n4CuAfOoZwV9pYuFSp31E22oAEwe4HBAjr30GBxyvXLByKbk6NHIJk_9d8ecqEBHq0m42cBfAyKzrQX8624-KsI8ZWjU4pGd1Nzo1nq6Jfxw0VAeVpvXlWt3Og==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHehbWAiV6sxhhB63yrpMW56VA_50v7-duf0z8LDSRW7TaIRYHcV6d0_AqL3_GYAMOLCFzt3eC1n9DdZCe2adTHa-3GBz3pZqMzAwJDHOwJayMjA7JLmic2PVTVEQG9yH51vfoQ9QYQOfdNc7UUIUWH1iLuRvFgjskuGMJlfDg1bQg26BKF5E__bbeQQrVmoUqqXt1RSyCCFko9RQ5oGEQDvrS_i7Wnix1ZDPVb1Eh7--PD4KAVHQmyFbzli-_7Yy8=)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgS_-s0R-yUxnCKUbveGDM6aztu0OKN7Ev86UKBkO_PJnOSMgNv4tLdFDOQmGha6vRvaM8OXXPtsp7zWhvylM82A4DiTXwswb3CXW2IoB6YGw9L2EaN5wol3YSxIRD8YTgD8MhqAXhfw==)
+[8] [cinefox.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDx9IzhsUyKEvaf1z8aNoRMkQ_-IB0drD9nK7o1rw5MAdsvqI2ev_ABTqwxdrH4wxo1lOOUlwYE9VgqWIwbuWQm4e7AVHYNsP1wBNESJ9wAXHFRgAfaQ==)
+[9] [cinefox.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhsZrtFT_pwLsaLbp-fxWasjvBPOhzxjocKhPMdodPfBtlS92iROHr8nyyMPDzlEGZMHb3rhE1wbeknMohI53DLMpy5jR24Cyv4VDO-8yvxz_Tgczh9cioR97pxbm9KHmX2QYHqj5_)
+[10] [arko.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB-cR95pWC2eo8O6ei4zcsH2HLTrUcRccpu2zv6IfHqjPByEuv5MKuqOfP9syus6to3UDqHu0nWSAdyeQmC23q0U9wJlTOPR3lqYj7W50qR442ALHhjWHhDxG3RWbefgAgl8tNJ7nOARX6PjwEwWHbVWDC8UIXn0hwfYw=)
+[11] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmFPV-8M7g-PCyyVnGl2Gn65nViiFkBRF3Nl6mqtP04qsBBedODJR1ETszgGeH2KkwtSufxvcb8ad2rj1rqJn7acmRPv0o3Ule38HDacF36p8gahkAzxSe)
+[12] [vkobis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr6NSwqF8LZKPf15Dsg0INeFUdmtTD7rudE7A0a2peGaZ8MXfMboa1b8MLKDhsCqb2gdtYKg8p6a60qVGg_CVlJw2DZw037VWbX6MPClbmybnDkzpay_VIRBZtDK4ZZSJcW16fNGIVCtl4v42XW9ZbLg==)

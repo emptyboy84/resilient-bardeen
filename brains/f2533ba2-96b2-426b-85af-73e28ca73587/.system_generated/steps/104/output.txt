@@ -1,0 +1,25 @@
+The search for ""스냅태그" "민경웅"" returned the following summary:
+**스냅태그(SnapTag)**는 비가시성 워터마크 기술을 전문으로 하는 IT 기업으로, **민경웅 대표**가 회사를 이끌고 있습니다[1][2][3].
+
+주요 정보는 다음과 같습니다:
+
+*   **기업 개요**: 2020년 9월에 설립된 스타트업으로, 핵심 기술인 '비가시성 워터마크'를 활용해 생성형 AI 콘텐츠 식별, 저작권 보호, 정보 유출 방지 등의 솔루션을 제공합니다[2][4][3].
+*   **대표자**: 민경웅 대표는 17년 이상 제조업 기반 회사를 운영하며 쌓은 M&A 및 상장 관련 업무 경력을 바탕으로 스냅태그를 성장시키고 있습니다[5][6].
+*   **핵심 기술 및 서비스**:
+    *   **비가시성 워터마크**: 사람의 눈에는 보이지 않지만 이미지나 영상 등에 정보를 내재시키는 기술입니다[7][1][8]. 캡처, 재촬영, 편집, 압축 등 다양한 변형 환경에서도 높은 검출률을 유지하는 것이 특징입니다[1][8].
+    *   **랩가드(LAB Guard)**: 데이터 유출 시 최초 유출자를 신속하게 확인할 수 있는 정보보호 솔루션입니다[1][9].
+*   **업계 활동**: 민경웅 대표는 최근 AI 기본법 시행과 관련하여 "AI 신뢰성은 단순 표시 기능을 넘어 생성 단계부터 유통 단계까지 연결된 검증 인프라가 필요하다"고 강조하며 관련 산업계에서 활발히 목소리를 내고 있습니다[7][10].
+
+스냅태그는 현재 대기업, 군·정부기관 등 다양한 분야에 기술을 제공하며 수백만 명의 사용자를 확보하고 있으며, 관련 국내외 특허와 GS인증 1등급 등을 취득하며 기술력을 인정받고 있습니다[1][9].
+
+Sources:
+[1] [snaptag.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNowewBKtjWu2hmPCOoYRNJUBa6SaXl8NGCKl1wBHGnwuUpJmLavDYxJ6mxJ81in10iM7pUpBjSsgHQmHJUra8hDshjpdvJPNCucMbb_uzw==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF7wqEOglDdFEVbQAkSF3aKF-uDakoHDNe441zPccBLkU-kzZDKTb4HTTFHeAMNA_RRFQhMnI63eFDuvkWqLG2Srvdkf7IswoRKJhrbiM=)
+[3] [gaisa.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2G1rkOnTmScBpRUvxRMdxtrGvl-mtcMTYDJfjZxKNx54REEegBilPBx2cKitZNZ21lc5w_bunokpbWewOdGr4FQxCCytMkwceA_YwoR8iJaGMUzcUBIydE_Dwao6mb_gQef4lPXq-2Rofq_3ZvK-Ru4aOH0SI)
+[4] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJTVTOrYjffCV0bDpxyEYhONPrRAE2UM3XSkQfLT5xODVvMGk35Jwy6eHsCiDXseFkHhXPfv8iQUnQtcb5c616m6kG6amAipK6JaaHzzrkNYWpsV08S5ZKf6LjFArUCpa6of2SqqrezpE=)
+[5] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECq_ypsdfavGDxueuurwmB9-LFFuYIZdi1LtTLguoVu2EuSGK1GERzRkfxISmSak-AG7LMpmGY9cuQgdfLREo7IQylhyCJXggDFk8vU_QiW7fjQy0lz0pXXWbrWD1kyKj0TXyB6LWnrhy2jwtUYKPH1u7T)
+[6] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECq_ypsdfavGDxueuurwmB9-LFFuYIZdi1LtTLguoVu2EuSGK1GERzRkfxISmSak-AG7LMpmGY9cuQgdfLREo7IQylhyCJXggDFk8vU_QiW7fjQy0lz0pXXWbrWD1kyKj0TXyB6LWnrhy2jwtUYKPH1u7T)
+[7] [epnc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEww_eD1ytpYym1e95UOwCDRh2VvLnMMCPbRvYcWibr6SLQzNrJPFemNABJePxX6PgzrdxR0dhWcFEycDftyCTf_Bjlqns2sa2TizqyJqv5u3ihD3z40eh-iNswe32P5hmx5LIDBa5YgbY1xC-o3Cc=)
+[8] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB976nJPz6msyfnYE8xLntIQy3uVjqRfpl8aV_5KOfijIZP5W2UlLORe_OIbEvf3ehtizmJ2f5oqoiksf5TBqA6AZ55xnCcxFChn4xTlQuIza3CzQuifgzrn-rIFbrrePZTiCbp-7lwOGxFzUpzpEGRLMK0g==)
+[9] [snaptag.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNowewBKtjWu2hmPCOoYRNJUBa6SaXl8NGCKl1wBHGnwuUpJmLavDYxJ6mxJ81in10iM7pUpBjSsgHQmHJUra8hDshjpdvJPNCucMbb_uzw==)
+[10] [epnc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEww_eD1ytpYym1e95UOwCDRh2VvLnMMCPbRvYcWibr6SLQzNrJPFemNABJePxX6PgzrdxR0dhWcFEycDftyCTf_Bjlqns2sa2TizqyJqv5u3ihD3z40eh-iNswe32P5hmx5LIDBa5YgbY1xC-o3Cc=)

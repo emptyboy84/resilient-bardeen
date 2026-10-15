@@ -1,0 +1,636 @@
+### Page
+- Page URL: https://search.naver.com/search.naver?query=070-4172-9541
+- Page Title: 070-4172-9541 : 네이버 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f224e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f224e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f224e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f224e6]:
+    - generic [ref=f224e8]:
+      - generic [ref=f224e10]:
+        - generic [ref=f224e11]:
+          - text: 현재 PC에 최적화된 브라우저
+          - strong [ref=f224e13]: 웨일을 설치하세요
+          - link "다운로드" [ref=f224e14] [cursor=pointer]:
+            - /url: https://whale.naver.com/ko/?wpid=search_theme1
+        - button "닫기" [ref=f224e16] [cursor=pointer]
+      - generic [ref=f224e18]:
+        - generic [ref=f224e20]:
+          - heading [level=1] [ref=f224e21]:
+            - link "NAVER" [ref=f224e22] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=f224e24]:
+            - group "검색" [ref=f224e25]:
+              - combobox "검색어를 입력해 주세요." [ref=f224e27]:
+                - text: 070-4172-9541
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=f224e29] [cursor=pointer]
+              - button "검색" [ref=f224e31] [cursor=pointer]
+        - generic [ref=f224e33]:
+          - strong [ref=f224e34]: 사용자 링크
+          - list [ref=f224e35]:
+            - listitem [ref=f224e36]:
+              - link "로그인" [ref=f224e37] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D070-4172-9541
+            - listitem [ref=f224e41]:
+              - link "서비스 더보기" [ref=f224e42] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=f224e45]:
+        - generic [ref=f224e47]:
+          - generic [ref=f224e48]:
+            - tab "AI new" [ref=f224e50] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f224e51]: new
+            - tab "블로그" [ref=f224e54] [cursor=pointer]
+            - tab "카페" [ref=f224e56] [cursor=pointer]
+            - tab "클립" [ref=f224e58] [cursor=pointer]
+            - tab "이미지" [ref=f224e60] [cursor=pointer]
+            - tab "지식iN" [ref=f224e62] [cursor=pointer]
+            - tab "동영상" [ref=f224e64] [cursor=pointer]
+            - tab "쇼핑 새 창 열림" [ref=f224e66] [cursor=pointer]:
+              - text: 쇼핑
+              - generic [ref=f224e67]: 새 창 열림
+            - tab "뉴스" [ref=f224e69] [cursor=pointer]
+            - tab "어학사전 새 창 열림" [ref=f224e71] [cursor=pointer]:
+              - text: 어학사전
+              - generic [ref=f224e72]: 새 창 열림
+          - button "더보기" [ref=f224e74] [cursor=pointer]
+        - list [ref=f224e77]:
+          - listitem [ref=f224e78]:
+            - button "공유" [ref=f224e79] [cursor=pointer]
+    - main [ref=f224e80]:
+      - generic [ref=f224e81]:
+        - heading "070-4172-9541 검색 결과" [level=1] [ref=f224e82]
+        - generic [ref=f224e83]:
+          - generic [ref=f224e89]:
+            - generic [ref=f224e90]:
+              - generic [ref=f224e91]:
+                - link "머니핀 moneypin.biz›bizno 새 창 열림" [ref=f224e92] [cursor=pointer]:
+                  - /url: https://moneypin.biz/bizno/detail/6482601330/
+                  - generic [ref=f224e94]:
+                    - generic [ref=f224e98]: 머니핀
+                    - generic [ref=f224e100]: moneypin.biz›bizno
+                  - generic [ref=f224e104]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f224e106] [cursor=pointer]
+              - generic [ref=f224e111]:
+                - link "김영주 - 머니핀 새 창 열림" [ref=f224e113] [cursor=pointer]:
+                  - /url: https://moneypin.biz/bizno/detail/6482601330/
+                  - generic [ref=f224e114]: 김영주 - 머니핀
+                  - generic [ref=f224e115]: 새 창 열림
+                - link "김영주는 운수업 기반 주차장 운영업 기업입니다. 업력 6년 차의 부가가치세 일반과세자 과세개인사업자로 현재 계속사업자 입니다. 사업장은 부산광역시 연제구 법원남로9번길 22(거제동)에 있습니다. 새 창 열림" [ref=f224e117] [cursor=pointer]:
+                  - /url: https://moneypin.biz/bizno/detail/6482601330/
+                  - generic [ref=f224e118]: 김영주는 운수업 기반 주차장 운영업 기업입니다. 업력 6년 차의 부가가치세 일반과세자 과세개인사업자로 현재 계속사업자 입니다. 사업장은 부산광역시 연제구 법원남로9번길 22(거제동)에 있습니다.
+                  - generic [ref=f224e119]: 새 창 열림
+            - generic [ref=f224e120]:
+              - generic [ref=f224e122]:
+                - link "김영주 - 머니핀 새 창 열림" [ref=f224e123] [cursor=pointer]:
+                  - /url: https://moneypin.biz/bizno/detail/8960701151/
+                  - generic [ref=f224e124]: 김영주 - 머니핀
+                  - generic [ref=f224e125]: 새 창 열림
+                - generic [ref=f224e126]: 김영주는 부동산업 기반 임대 기업입니다. 업력 8년 차의 부가가치세 일반과세자 과세개인사업자로 현재 계속사업자 입니다. 사업장은 부산광역시 부산진구 자유평화로37번길 25(범천동)에 있습니다.
+              - link "관련문서 더보기" [ref=f224e129] [cursor=pointer]:
+                - /url: "?page=2&qdt=0&query=070-4172-9541+site%3Amoneypin.biz&qvt=0&ssc=tab.ur.all"
+          - generic [ref=f224e133]:
+            - generic [ref=f224e139]:
+              - generic [ref=f224e140]:
+                - generic [ref=f224e141]:
+                  - link "새 창 열림" [ref=f224e143] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skfcl123
+                  - link "피가 되고 살이 되는 꿀정보 새 창 열림" [ref=f224e149] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skfcl123
+                    - generic [ref=f224e150]: 피가 되고 살이 되는 꿀정보
+                    - generic [ref=f224e151]: 새 창 열림
+                  - generic [ref=f224e152]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f224e156] [cursor=pointer]
+              - generic [ref=f224e162]:
+                - generic [ref=f224e163]:
+                  - link "070 모르는 전화번호 검색, 번호모아에서 회신 전 확인하기 새 창 열림" [ref=f224e164] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skfcl123/224424771030
+                    - generic [ref=f224e165]:
+                      - mark [ref=f224e166]: "070"
+                      - text: 모르는 전화번호 검색, 번호모아에서 회신 전 확인하기
+                    - generic [ref=f224e167]: 새 창 열림
+                  - link "모르는 070 전화가 왔나요? 먼저 번호 정보를 살펴보세요. 번호모아에서 070 전화번호 검색하기 070은 통신 방식의 단서입니다 070은 인터넷전화에 쓰이는 번호입니다. 정상적인 업무 연락에도 사용될 수 있어, 앞자리만으로 광고나 사기를 구분할 수는 없습니다. 지금 필요한 것은 숫자에 대한... 새 창 열림" [ref=f224e169] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skfcl123/224424771030
+                    - generic [ref=f224e170]:
+                      - text: 모르는
+                      - mark [ref=f224e171]: "070"
+                      - text: 전화가 왔나요? 먼저 번호 정보를 살펴보세요. 번호모아에서
+                      - mark [ref=f224e172]: "070"
+                      - text: 전화번호 검색하기
+                      - mark [ref=f224e173]: "070"
+                      - text: 은 통신 방식의 단서입니다
+                      - mark [ref=f224e174]: "070"
+                      - text: 은 인터넷전화에 쓰이는 번호입니다. 정상적인 업무 연락에도 사용될 수 있어, 앞자리만으로 광고나 사기를 구분할 수는 없습니다. 지금 필요한 것은 숫자에 대한...
+                    - generic [ref=f224e175]: 새 창 열림
+                - link "4 새 창 열림" [ref=f224e176] [cursor=pointer]:
+                  - /url: https://blog.naver.com/skfcl123/224424771030
+                  - generic [ref=f224e177]: "4"
+                  - generic [ref=f224e184]: 새 창 열림
+            - generic [ref=f224e190]:
+              - generic [ref=f224e191]:
+                - generic [ref=f224e192]:
+                  - link "새 창 열림" [ref=f224e194] [cursor=pointer]:
+                    - /url: https://blog.naver.com/mix010xim
+                  - link "믹스맥스의 일상공유 새 창 열림" [ref=f224e200] [cursor=pointer]:
+                    - /url: https://blog.naver.com/mix010xim
+                    - generic [ref=f224e201]: 믹스맥스의 일상공유
+                    - generic [ref=f224e202]: 새 창 열림
+                  - generic [ref=f224e203]: 2025.11.17.
+                - button "옵션 메뉴 열기" [ref=f224e207] [cursor=pointer]
+              - generic [ref=f224e213]:
+                - generic [ref=f224e214]:
+                  - link "070 스팸 전화 검색, 모르는 번호 받는 즉시 확인하는 방법 새 창 열림" [ref=f224e215] [cursor=pointer]:
+                    - /url: https://blog.naver.com/mix010xim/224079145072
+                    - generic [ref=f224e216]:
+                      - mark [ref=f224e217]: "070"
+                      - text: 스팸 전화 검색, 모르는 번호 받는 즉시 확인하는 방법
+                    - generic [ref=f224e218]: 새 창 열림
+                  - link "070 스팸 전화, 매일 받는 스트레스 하루에도 몇 번씩 울리는 070 인터넷 전화 때문에 불편함을 겪는 분들이 많습니다. 중요한 전화일 수도... 이처럼 불필요한 전화를 사전에 차단하고 대응하기 위해 070 스팸 전화 검색 방법을 알아두는 것은 매우 유용합니다. 070 번호의 정체와... 새 창 열림" [ref=f224e220] [cursor=pointer]:
+                    - /url: https://blog.naver.com/mix010xim/224079145072
+                    - generic [ref=f224e221]:
+                      - mark [ref=f224e222]: "070"
+                      - text: 스팸 전화, 매일 받는 스트레스 하루에도 몇 번씩 울리는
+                      - mark [ref=f224e223]: "070"
+                      - text: 인터넷 전화 때문에 불편함을 겪는 분들이 많습니다. 중요한 전화일 수도... 이처럼 불필요한 전화를 사전에 차단하고 대응하기 위해
+                      - mark [ref=f224e224]: "070"
+                      - text: 스팸 전화 검색 방법을 알아두는 것은 매우 유용합니다.
+                      - mark [ref=f224e225]: "070"
+                      - text: 번호의 정체와...
+                    - generic [ref=f224e226]: 새 창 열림
+                - link "3 새 창 열림" [ref=f224e227] [cursor=pointer]:
+                  - /url: https://blog.naver.com/mix010xim/224079145072
+                  - generic [ref=f224e228]: "3"
+                  - generic [ref=f224e235]: 새 창 열림
+              - link "070 스미싱 대처법, 모르면 내 돈 다 털린다? 지금 바로 확인하세요! 새 창 열림" [ref=f224e239] [cursor=pointer]:
+                - /url: https://blog.naver.com/mix010xim/224122975317
+                - generic [ref=f224e240]:
+                  - mark [ref=f224e241]: "070"
+                  - text: 스미싱 대처법, 모르면 내 돈 다 털린다? 지금 바로 확인하세요!
+                - generic [ref=f224e242]: 새 창 열림
+            - generic [ref=f224e248]:
+              - generic [ref=f224e249]:
+                - generic [ref=f224e250]:
+                  - link "새 창 열림" [ref=f224e252] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000
+                  - link "쁠로그 새 창 열림" [ref=f224e261] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000
+                    - generic [ref=f224e262]: 쁠로그
+                    - generic [ref=f224e263]: 새 창 열림
+                  - generic [ref=f224e264]: 2026.09.03.
+                - button "옵션 메뉴 열기" [ref=f224e268] [cursor=pointer]
+              - generic [ref=f224e274]:
+                - generic [ref=f224e275]:
+                  - link "070 모르는 전화번호 검색 조회 사이트 새 창 열림" [ref=f224e276] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000/224399373274
+                    - generic [ref=f224e277]:
+                      - mark [ref=f224e278]: "070"
+                      - text: 모르는 전화번호 검색 조회 사이트
+                    - generic [ref=f224e279]: 새 창 열림
+                  - link "070 모르는 전화번호 검색 조회 사이트 총정리 070 번호로 전화가 오면 광고인지, 업체 전화인지, 스팸인지 궁금할 때가 많습니다. 070은 인터넷전화 번호라서 정상적인 회사나 고객센터에서도 사용하지만, 광고전화나 스팸에 이용되는 경우도 있어 번호만 보고 판단하기는 어렵습니다. 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 070 번호는 어떤... 새 창 열림" [ref=f224e281] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000/224399373274
+                    - generic [ref=f224e282]:
+                      - mark [ref=f224e283]: "070"
+                      - text: 모르는 전화번호 검색 조회 사이트 총정리
+                      - mark [ref=f224e284]: "070"
+                      - text: 번호로 전화가 오면 광고인지, 업체 전화인지, 스팸인지 궁금할 때가 많습니다.
+                      - mark [ref=f224e285]: "070"
+                      - text: 은 인터넷전화 번호라서 정상적인 회사나 고객센터에서도 사용하지만, 광고전화나 스팸에 이용되는 경우도 있어 번호만 보고 판단하기는 어렵습니다. 모르는 전화번호 검색 ━━━━━━━━━━━━━━━
+                      - mark [ref=f224e286]: "070"
+                      - text: 번호는 어떤...
+                    - generic [ref=f224e287]: 새 창 열림
+                - link "7 새 창 열림" [ref=f224e288] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jjj_1000/224399373274
+                  - generic [ref=f224e289]: "7"
+                  - generic [ref=f224e296]: 새 창 열림
+              - link "032 02 010 070 모르는 전화번 검색 조회 사이트 새 창 열림" [ref=f224e300] [cursor=pointer]:
+                - /url: https://blog.naver.com/jjj_1000/224390532358
+                - generic [ref=f224e301]:
+                  - text: 032 02 010
+                  - mark [ref=f224e302]: "070"
+                  - text: 모르는 전화번 검색 조회 사이트
+                - generic [ref=f224e303]: 새 창 열림
+            - generic [ref=f224e309]:
+              - generic [ref=f224e310]:
+                - generic [ref=f224e311]:
+                  - link "새 창 열림" [ref=f224e313] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl
+                  - link "플레이스상위노출 새 창 열림" [ref=f224e319] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl
+                    - generic [ref=f224e320]: 플레이스상위노출
+                    - generic [ref=f224e321]: 새 창 열림
+                  - generic [ref=f224e322]: 2026.09.03.
+                - button "옵션 메뉴 열기" [ref=f224e326] [cursor=pointer]
+              - generic [ref=f224e332]:
+                - generic [ref=f224e333]:
+                  - link "010 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f224e334] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl/224399366636
+                    - generic [ref=f224e335]: 010 모르는 전화번호 검색 방법 확인하기 사이트
+                    - generic [ref=f224e336]: 새 창 열림
+                  - link "070 모르는 전화번호 검색 방법 확인하기 사이트 총정리 070 번호로 전화가 오면 광고인지, 업체 전화인지, 혹시 스팸인지 궁금할 때가 많습니다. 070은 인터넷전화 번호이기 때문에 정상적인 회사나 고객센터에서도 사용할 수 있지만, 광고전화나 스팸에 이용되는 경우도 있어 번호 자체만 보고 판단하기는 어렵습니다. 모르는 전화번호 검색... 새 창 열림" [ref=f224e338] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl/224399366636
+                    - generic [ref=f224e339]:
+                      - mark [ref=f224e340]: "070"
+                      - text: 모르는 전화번호 검색 방법 확인하기 사이트 총정리
+                      - mark [ref=f224e341]: "070"
+                      - text: 번호로 전화가 오면 광고인지, 업체 전화인지, 혹시 스팸인지 궁금할 때가 많습니다.
+                      - mark [ref=f224e342]: "070"
+                      - text: 은 인터넷전화 번호이기 때문에 정상적인 회사나 고객센터에서도 사용할 수 있지만, 광고전화나 스팸에 이용되는 경우도 있어 번호 자체만 보고 판단하기는 어렵습니다. 모르는 전화번호 검색...
+                    - generic [ref=f224e343]: 새 창 열림
+                - link "7 새 창 열림" [ref=f224e344] [cursor=pointer]:
+                  - /url: https://blog.naver.com/skdidbruddl/224399366636
+                  - generic [ref=f224e345]: "7"
+                  - generic [ref=f224e352]: 새 창 열림
+              - link "모르는 전화번호 검색 방법 확인하기 사이트 (02 070) 새 창 열림" [ref=f224e356] [cursor=pointer]:
+                - /url: https://blog.naver.com/skdidbruddl/224381884747
+                - generic [ref=f224e357]:
+                  - text: 모르는 전화번호 검색 방법 확인하기 사이트 (02
+                  - mark [ref=f224e358]: "070"
+                  - text: )
+                - generic [ref=f224e359]: 새 창 열림
+            - generic [ref=f224e365]:
+              - generic [ref=f224e366]:
+                - generic [ref=f224e367]:
+                  - link "새 창 열림" [ref=f224e369] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33
+                  - link "hellojw33님의 블로그 새 창 열림" [ref=f224e378] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33
+                    - generic [ref=f224e379]: hellojw33님의 블로그
+                    - generic [ref=f224e380]: 새 창 열림
+                  - generic [ref=f224e381]: 2026.08.26.
+                - button "옵션 메뉴 열기" [ref=f224e385] [cursor=pointer]
+              - generic [ref=f224e391]:
+                - generic [ref=f224e392]:
+                  - link "032 02 010 070 모르는 전화번 검색 카톡 차단 방법 새 창 열림" [ref=f224e393] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33/224390586802
+                    - generic [ref=f224e394]:
+                      - text: 032 02 010
+                      - mark [ref=f224e395]: "070"
+                      - text: 모르는 전화번 검색 카톡 차단 방법
+                    - generic [ref=f224e396]: 새 창 열림
+                  - link "032 02 010 070 모르는 전화번호 검색 카톡 차단 방법 총정리 모르는 번호로 전화가 오면 받아야 할지, 스팸인지, 광고전화인지 애매할 때가 많습니다. 특히 032·02·010·070 번호는 앞자리만으로는 안전한 전화인지 판단하기 어렵기 때문에 전체 번호 검색과 스팸 여부 확인이 중요합니다. 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 032·02·010·070 번호... 새 창 열림" [ref=f224e398] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33/224390586802
+                    - generic [ref=f224e399]:
+                      - text: 032 02 010
+                      - mark [ref=f224e400]: "070"
+                      - text: 모르는 전화번호 검색 카톡 차단 방법 총정리 모르는 번호로 전화가 오면 받아야 할지, 스팸인지, 광고전화인지 애매할 때가 많습니다. 특히 032·02·010·
+                      - mark [ref=f224e401]: "070"
+                      - text: 번호는 앞자리만으로는 안전한 전화인지 판단하기 어렵기 때문에 전체 번호 검색과 스팸 여부 확인이 중요합니다. 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 032·02·010·
+                      - mark [ref=f224e402]: "070"
+                      - text: 번호...
+                    - generic [ref=f224e403]: 새 창 열림
+                - link "7 새 창 열림" [ref=f224e404] [cursor=pointer]:
+                  - /url: https://blog.naver.com/hellojw33/224390586802
+                  - generic [ref=f224e405]: "7"
+                  - generic [ref=f224e412]: 새 창 열림
+            - generic [ref=f224e418]:
+              - generic [ref=f224e419]:
+                - generic [ref=f224e420]:
+                  - link "새 창 열림" [ref=f224e422] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01
+                  - link "짬짜면 새 창 열림" [ref=f224e431] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01
+                    - generic [ref=f224e432]: 짬짜면
+                    - generic [ref=f224e433]: 새 창 열림
+                  - generic [ref=f224e434]: 2026.08.31.
+                - button "옵션 메뉴 열기" [ref=f224e438] [cursor=pointer]
+              - generic [ref=f224e444]:
+                - generic [ref=f224e445]:
+                  - link "010 02 070 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f224e446] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01/224395761905
+                    - generic [ref=f224e447]:
+                      - text: 010 02
+                      - mark [ref=f224e448]: "070"
+                      - text: 모르는 전화번호 검색 방법 확인하기 사이트
+                    - generic [ref=f224e449]: 새 창 열림
+                  - link "010 02 070 모르는 전화번호 검색 방법 확인하기 사이트 모르는 번호로 전화가 오면 광고전화인지, 업체 전화인지, 중요한 연락인지 바로 판단하기 어렵습니다. 특히 010 휴대폰 번호 02 서울 지역번호 070 인터넷전화 는 정상적인 연락과 스팸전화가... ━━━━━━━━━━━━━━━ 070 번호는 무조건 스팸? 아닙니다. 070은 인터넷전화 번호입니다. 기업이나 소규모... 새 창 열림" [ref=f224e451] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01/224395761905
+                    - generic [ref=f224e452]:
+                      - text: 010 02
+                      - mark [ref=f224e453]: "070"
+                      - text: 모르는 전화번호 검색 방법 확인하기 사이트 모르는 번호로 전화가 오면 광고전화인지, 업체 전화인지, 중요한 연락인지 바로 판단하기 어렵습니다. 특히 010 휴대폰 번호 02 서울 지역번호
+                      - mark [ref=f224e454]: "070"
+                      - text: 인터넷전화 는 정상적인 연락과 스팸전화가... ━━━━━━━━━━━━━━━
+                      - mark [ref=f224e455]: "070"
+                      - text: 번호는 무조건 스팸? 아닙니다.
+                      - mark [ref=f224e456]: "070"
+                      - text: 은 인터넷전화 번호입니다. 기업이나 소규모...
+                    - generic [ref=f224e457]: 새 창 열림
+                - link "7 새 창 열림" [ref=f224e458] [cursor=pointer]:
+                  - /url: https://blog.naver.com/guru_01/224395761905
+                  - generic [ref=f224e459]: "7"
+                  - generic [ref=f224e466]: 새 창 열림
+              - link "(02 070 010) 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f224e470] [cursor=pointer]:
+                - /url: https://blog.naver.com/guru_01/224392048913
+                - generic [ref=f224e471]:
+                  - text: (02
+                  - mark [ref=f224e472]: "070"
+                  - text: 010) 모르는 전화번호 검색 방법 확인하기 사이트
+                - generic [ref=f224e473]: 새 창 열림
+            - generic [ref=f224e479]:
+              - generic [ref=f224e480]:
+                - generic [ref=f224e481]:
+                  - link "새 창 열림" [ref=f224e483] [cursor=pointer]:
+                    - /url: https://blog.naver.com/0d5x0pcmf2
+                  - link "플레이스상위노출 새 창 열림" [ref=f224e489] [cursor=pointer]:
+                    - /url: https://blog.naver.com/0d5x0pcmf2
+                    - generic [ref=f224e490]: 플레이스상위노출
+                    - generic [ref=f224e491]: 새 창 열림
+                  - generic [ref=f224e492]: 2026.07.23.
+                - button "옵션 메뉴 열기" [ref=f224e496] [cursor=pointer]
+              - generic [ref=f224e502]:
+                - generic [ref=f224e503]:
+                  - link "070 전화 차단 방법 아이폰 갤럭시 스팸 제한 새 창 열림" [ref=f224e504] [cursor=pointer]:
+                    - /url: https://blog.naver.com/0d5x0pcmf2/224355183443
+                    - generic [ref=f224e505]:
+                      - mark [ref=f224e506]: "070"
+                      - text: 전화 차단 방법 아이폰 갤럭시 스팸 제한
+                    - generic [ref=f224e507]: 새 창 열림
+                  - link "070 전화 차단 방법 아이폰 갤럭시 스팸 제한 총정리 070 번호로 걸려오는 광고전화와 보험·대출·통신상품 권유 전화가 반복되면 일상생활에 불편을 줄 수 있습니다. 한 번 차단해도 다른 070 번호로 다시 전화가 오는 경우가 많아 개별 번호 차단과 스팸 전화 제한 기능을 함께 설정하는 것이 좋습니다. 아이폰과 갤럭시는 기본 전화 앱에서 스팸 번호를 차단할 수 있지만... 새 창 열림" [ref=f224e509] [cursor=pointer]:
+                    - /url: https://blog.naver.com/0d5x0pcmf2/224355183443
+                    - generic [ref=f224e510]:
+                      - mark [ref=f224e511]: "070"
+                      - text: 전화 차단 방법 아이폰 갤럭시 스팸 제한 총정리
+                      - mark [ref=f224e512]: "070"
+                      - text: 번호로 걸려오는 광고전화와 보험·대출·통신상품 권유 전화가 반복되면 일상생활에 불편을 줄 수 있습니다. 한 번 차단해도 다른
+                      - mark [ref=f224e513]: "070"
+                      - text: 번호로 다시 전화가 오는 경우가 많아 개별 번호 차단과 스팸 전화 제한 기능을 함께 설정하는 것이 좋습니다. 아이폰과 갤럭시는 기본 전화 앱에서 스팸 번호를 차단할 수 있지만...
+                    - generic [ref=f224e514]: 새 창 열림
+                - link "8 새 창 열림" [ref=f224e515] [cursor=pointer]:
+                  - /url: https://blog.naver.com/0d5x0pcmf2/224355183443
+                  - generic [ref=f224e516]: "8"
+                  - generic [ref=f224e523]: 새 창 열림
+          - generic [ref=f224e524]:
+            - generic [ref=f224e529]:
+              - generic [ref=f224e530]:
+                - generic [ref=f224e531]:
+                  - link "gen.go.kr gen.go.kr›xboard XLS 새 창 열림" [ref=f224e532] [cursor=pointer]:
+                    - /url: https://gen.go.kr/xboard/board.php?mode=downpost&tbnum=320&sCat=0&page=1&keyset=&searchword=&number=413563&file_num=464536
+                    - generic [ref=f224e534]:
+                      - generic [ref=f224e552]: gen.go.kr
+                      - generic [ref=f224e554]: gen.go.kr›xboard
+                    - generic [ref=f224e558]: XLS
+                    - generic [ref=f224e560]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f224e562] [cursor=pointer]
+                - generic [ref=f224e567]:
+                  - link "사회적경제기업현황(수정).xlsx 새 창 열림" [ref=f224e569] [cursor=pointer]:
+                    - /url: https://gen.go.kr/xboard/board.php?mode=downpost&tbnum=320&sCat=0&page=1&keyset=&searchword=&number=413563&file_num=464536
+                    - generic [ref=f224e570]: 사회적경제기업현황(수정).xlsx
+                    - generic [ref=f224e571]: 새 창 열림
+                  - link "3MB사회적기업 인증 사회적기업 리스트(22년 4차 인증 기준)_사업자번호(본점,지점) 및 취소반납일 포함 연번 지역 인증번호 기관명 사업내용 사회적목적 실현 유형 사회서비스분야 사업자번호(본점,지점) 대표자 대표전화번호 소재지 홈페이지 실적관리(인증시작일) 실적관리(인증종료일) 인증일자 회차 비고... 새 창 열림" [ref=f224e573] [cursor=pointer]:
+                    - /url: https://gen.go.kr/xboard/board.php?mode=downpost&tbnum=320&sCat=0&page=1&keyset=&searchword=&number=413563&file_num=464536
+                    - generic [ref=f224e574]:
+                      - generic [ref=f224e575]: 3MB
+                      - text: 사회적기업 인증 사회적기업 리스트(22년 4차 인증 기준)_사업자번호(본점,지점) 및 취소반납일 포함 연번 지역 인증번호 기관명 사업내용 사회적목적 실현 유형 사회서비스분야 사업자번호(본점,지점) 대표자 대표전화번호 소재지 홈페이지 실적관리(인증시작일) 실적관리(인증종료일) 인증일자 회차 비고...
+                    - generic [ref=f224e576]: 새 창 열림
+              - generic [ref=f224e577]:
+                - generic [ref=f224e579]:
+                  - link "사회적경제기업현황.xlsx 새 창 열림" [ref=f224e580] [cursor=pointer]:
+                    - /url: https://gen.go.kr/xboard/board.php?mode=downpost&tbnum=320&sCat=0&page=1&keyset=&searchword=&number=377235&file_num=382634
+                    - generic [ref=f224e581]: 사회적경제기업현황.xlsx
+                    - generic [ref=f224e582]: 새 창 열림
+                  - generic [ref=f224e583]: 인증사회적기업(광주) 광주광역시 인증사회적기업 리스트('19년 6차) 2019.12.31. 지역 인증번호 기관명 사업내용 사회적목적실현유형 사회서비스분야 대표자 대표전화번호 팩스 소재지 홈페이지 인증일자 인증회차 광주 제2007-052호 (사)한누리 저소득아동 방과후 교육 혼합형 교육 나정승 062-527-5186 062-527-5180...
+                - link "관련문서 더보기" [ref=f224e586] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=070-4172-9541+site%3Agen.go.kr&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f224e595]:
+              - generic [ref=f224e596]:
+                - link "인스티즈 www.instiz.net›name 새 창 열림" [ref=f224e597] [cursor=pointer]:
+                  - /url: https://www.instiz.net/name/65288281
+                  - generic [ref=f224e599]:
+                    - generic [ref=f224e603]: 인스티즈
+                    - generic [ref=f224e605]: www.instiz.net›name
+                  - generic [ref=f224e609]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f224e611] [cursor=pointer]
+              - generic [ref=f224e616]:
+                - link "모르는 전화번호 확인하는 방법(스팸 보이스피싱) 새 창 열림" [ref=f224e618] [cursor=pointer]:
+                  - /url: https://www.instiz.net/name/65288281
+                  - generic [ref=f224e619]: 모르는 전화번호 확인하는 방법(스팸 보이스피싱)
+                  - generic [ref=f224e620]: 새 창 열림
+                - 'link "2025.12.29.통신사 스팸 차단 서비스 등록 SKT: T스팸필터링 KT: 올레 스팸차단 LGU+: 스팸필터링 플러스 첫번째 자리 010 016 011 017 018 019 070 080 02 031 032 033 041 042 043 044 051 052 053 054 055 061 062 두번째자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018... 새 창 열림" [ref=f224e622] [cursor=pointer]':
+                  - /url: https://www.instiz.net/name/65288281
+                  - generic [ref=f224e623]:
+                    - generic [ref=f224e624]: 2025.12.29.
+                    - generic [ref=f224e625]:
+                      - text: "통신사 스팸 차단 서비스 등록 SKT: T스팸필터링 KT: 올레 스팸차단 LGU+: 스팸필터링 플러스 첫번째 자리 010 016 011 017 018 019"
+                      - mark [ref=f224e626]: "070"
+                      - text: 080 02 031 032 033 041 042 043 044 051 052 053 054 055 061 062 두번째자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018...
+                  - generic [ref=f224e627]: 새 창 열림
+          - generic [ref=f224e628]:
+            - generic [ref=f224e634]:
+              - generic [ref=f224e635]:
+                - link "약업신문 www.yakup.com›download XLS 새 창 열림" [ref=f224e636] [cursor=pointer]:
+                  - /url: https://www.yakup.com/download.html?mid=70905
+                  - generic [ref=f224e638]:
+                    - generic [ref=f224e642]: 약업신문
+                    - generic [ref=f224e644]: www.yakup.com›download
+                  - generic [ref=f224e648]: XLS
+                  - generic [ref=f224e650]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f224e652] [cursor=pointer]
+              - generic [ref=f224e657]:
+                - link "yakup_pds70905.xlsx 새 창 열림" [ref=f224e659] [cursor=pointer]:
+                  - /url: https://www.yakup.com/download.html?mid=70905
+                  - generic [ref=f224e660]: yakup_pds70905.xlsx
+                  - generic [ref=f224e661]: 새 창 열림
+                - link "3MB(탑립동) 070-7596-9612 운동 및 경기용품 도매업 3 일자리친화 열린일자리를 만들어 가는 강소기업 노사문화우수기업 1348103347 동서공업㈜ 류시훈 15599 경기 안산시... 6층동 070-8610-5004 상품 종합 도매업 15 일자리친화 열린일자리를 만들어 가는 강소기업 노사문화우수기업 5068153663 화일산기(주) 박의룡 37894 경상북도 포항시 남구 오천읍... 새 창 열림" [ref=f224e663] [cursor=pointer]:
+                  - /url: https://www.yakup.com/download.html?mid=70905
+                  - generic [ref=f224e664]:
+                    - generic [ref=f224e665]: 3MB
+                    - generic [ref=f224e666]:
+                      - text: (탑립동)
+                      - mark [ref=f224e667]: 070-
+                      - text: 7596-9612 운동 및 경기용품 도매업 3 일자리친화 열린일자리를 만들어 가는 강소기업 노사문화우수기업 1348103347 동서공업㈜ 류시훈 15599 경기 안산시... 6층동
+                      - mark [ref=f224e668]: 070-
+                      - text: 8610-5004 상품 종합 도매업 15 일자리친화 열린일자리를 만들어 가는 강소기업 노사문화우수기업 5068153663 화일산기(주) 박의룡 37894 경상북도 포항시 남구 오천읍...
+                  - generic [ref=f224e669]: 새 창 열림
+            - generic [ref=f224e675]:
+              - generic [ref=f224e676]:
+                - link "고용노동부 www.moel.go.kr›common XLS 새 창 열림" [ref=f224e677] [cursor=pointer]:
+                  - /url: https://www.moel.go.kr/common/downloadFile.do?file_seq=21171323145&bbs_seq=1496041264669&bbs_id=LOCAL1
+                  - generic [ref=f224e679]:
+                    - generic [ref=f224e683]: 고용노동부
+                    - generic [ref=f224e685]: www.moel.go.kr›common
+                  - generic [ref=f224e689]: XLS
+                  - generic [ref=f224e691]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f224e693] [cursor=pointer]
+              - generic [ref=f224e698]:
+                - link "17년 강소기업 현황.xlsx 새 창 열림" [ref=f224e700] [cursor=pointer]:
+                  - /url: https://www.moel.go.kr/common/downloadFile.do?file_seq=21171323145&bbs_seq=1496041264669&bbs_id=LOCAL1
+                  - generic [ref=f224e701]: 17년 강소기업 현황.xlsx
+                  - generic [ref=f224e702]: 새 창 열림
+                - link "2MB2017년강소기업 2017년 강소기업 리스트(16,973개소) <유효기간 '17.4.27~'18년 강소기업 선정일 전일> 연번 사업자등록번호 명칭 우수기업 브랜드명 브랜드 관할기관 우편번호 주소 업종 전화번호 1 1068113006 (주)금가 중기청 우수중소기업 중기청 11410 서울 서대문구 연희로 18 건설업본사 02-796-3838 2 1078733730 (주)알톤스포츠... 새 창 열림" [ref=f224e704] [cursor=pointer]:
+                  - /url: https://www.moel.go.kr/common/downloadFile.do?file_seq=21171323145&bbs_seq=1496041264669&bbs_id=LOCAL1
+                  - generic [ref=f224e705]:
+                    - generic [ref=f224e706]: 2MB
+                    - text: 2017년강소기업 2017년 강소기업 리스트(16,973개소) <유효기간 '17.4.27~'18년 강소기업 선정일 전일> 연번 사업자등록번호 명칭 우수기업 브랜드명 브랜드 관할기관 우편번호 주소 업종 전화번호 1 1068113006 (주)금가 중기청 우수중소기업 중기청 11410 서울 서대문구 연희로 18 건설업본사 02-796-3838 2 1078733730 (주)알톤스포츠...
+                  - generic [ref=f224e707]: 새 창 열림
+          - generic [ref=f224e708]:
+            - generic [ref=f224e714]:
+              - generic [ref=f224e715]:
+                - generic [ref=f224e716]:
+                  - link "새 창 열림" [ref=f224e718] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/fashionk9
+                  - link "발빠른 패션정보 저장소 새 창 열림" [ref=f224e724] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/fashionk9
+                    - generic [ref=f224e725]: 발빠른 패션정보 저장소
+                    - generic [ref=f224e726]: 새 창 열림
+                  - generic [ref=f224e727]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f224e731] [cursor=pointer]
+              - generic [ref=f224e737]:
+                - generic [ref=f224e738]:
+                  - link "010 02 070 모르는 전화번호 검색, 연락 목적 확인방법 새 창 열림" [ref=f224e739] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/fashionk9/209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZhc2hpb25rOSIsImFydGljbGVJZCI6MjA5LCJpc3N1ZWRBdCI6MTc5MTQyMjM5MDE3OX0.PrKUGNvAmKCzZVwJnFJ6MC2V8JKpCY34wxqc5RZ-iJs
+                    - generic [ref=f224e740]:
+                      - text: 010 02
+                      - mark [ref=f224e741]: "070"
+                      - text: 모르는 전화번호 검색, 연락 목적 확인방법
+                    - generic [ref=f224e742]: 새 창 열림
+                  - link "010·02·070 전화가 왔나요? 회신 전 번호 정보를 살펴보세요. 번호모아 검색 방법을 소개합니다.... 070은 인터넷전화 번호입니다. 이 구분은 번호의 종류를 이해하는 데 도움이 되지만, 전화한 사람의... 번호 조회는 확인의 시작입니다 010, 02, 070이라는 앞자리보다 중요한 것은 실제 연락의 목적입니다.... 새 창 열림" [ref=f224e744] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/fashionk9/209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZhc2hpb25rOSIsImFydGljbGVJZCI6MjA5LCJpc3N1ZWRBdCI6MTc5MTQyMjM5MDE3OX0.PrKUGNvAmKCzZVwJnFJ6MC2V8JKpCY34wxqc5RZ-iJs
+                    - generic [ref=f224e745]:
+                      - text: 010·02·
+                      - mark [ref=f224e746]: "070"
+                      - text: 전화가 왔나요? 회신 전 번호 정보를 살펴보세요. 번호모아 검색 방법을 소개합니다....
+                      - mark [ref=f224e747]: "070"
+                      - text: 은 인터넷전화 번호입니다. 이 구분은 번호의 종류를 이해하는 데 도움이 되지만, 전화한 사람의... 번호 조회는 확인의 시작입니다 010, 02,
+                      - mark [ref=f224e748]: "070"
+                      - text: 이라는 앞자리보다 중요한 것은 실제 연락의 목적입니다....
+                    - generic [ref=f224e749]: 새 창 열림
+                - link "4 새 창 열림" [ref=f224e750] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/fashionk9/209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImZhc2hpb25rOSIsImFydGljbGVJZCI6MjA5LCJpc3N1ZWRBdCI6MTc5MTQyMjM5MDE3OX0.PrKUGNvAmKCzZVwJnFJ6MC2V8JKpCY34wxqc5RZ-iJs
+                  - generic [ref=f224e751]: "4"
+                  - generic [ref=f224e758]: 새 창 열림
+            - generic [ref=f224e764]:
+              - generic [ref=f224e765]:
+                - generic [ref=f224e766]:
+                  - link "새 창 열림" [ref=f224e768] [cursor=pointer]:
+                    - /url: https://blog.naver.com/aoddls123
+                  - link "컴공과 컴돌이 새 창 열림" [ref=f224e774] [cursor=pointer]:
+                    - /url: https://blog.naver.com/aoddls123
+                    - generic [ref=f224e775]: 컴공과 컴돌이
+                    - generic [ref=f224e776]: 새 창 열림
+                  - generic [ref=f224e777]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f224e781] [cursor=pointer]
+              - generic [ref=f224e787]:
+                - generic [ref=f224e788]:
+                  - link "02·031 모르는 전화번호 검색, 번호모아로 부재중 전화 확인하기 새 창 열림" [ref=f224e789] [cursor=pointer]:
+                    - /url: https://blog.naver.com/aoddls123/224424750581
+                    - generic [ref=f224e790]: 02·031 모르는 전화번호 검색, 번호모아로 부재중 전화 확인하기
+                    - generic [ref=f224e791]: 새 창 열림
+                  - link "휴대전화 070 · 인터넷전화 080 · 수신자 부담 전화 지역번호 안내 02 서울 · 031 경기 032 인천 · 033 강원 041 충남 · 042 대전 043 충북 · 044 세종 051 부산 · 052... 069 070 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090 091 092 093 094 095 096 097 098 099 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118... 새 창 열림" [ref=f224e793] [cursor=pointer]:
+                    - /url: https://blog.naver.com/aoddls123/224424750581
+                    - generic [ref=f224e794]:
+                      - text: 휴대전화
+                      - mark [ref=f224e795]: "070"
+                      - text: · 인터넷전화 080 · 수신자 부담 전화 지역번호 안내 02 서울 · 031 경기 032 인천 · 033 강원 041 충남 · 042 대전 043 충북 · 044 세종 051 부산 · 052... 069
+                      - mark [ref=f224e796]: "070"
+                      - text: 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090 091 092 093 094 095 096 097 098 099 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118...
+                    - generic [ref=f224e797]: 새 창 열림
+                - link "4 새 창 열림" [ref=f224e798] [cursor=pointer]:
+                  - /url: https://blog.naver.com/aoddls123/224424750581
+                  - generic [ref=f224e799]: "4"
+                  - generic [ref=f224e806]: 새 창 열림
+          - complementary "웨일 브라우저 설치 안내" [ref=f224e807]:
+            - generic [ref=f224e808]:
+              - img "웨일 브라우저" [ref=f224e810]
+              - generic [ref=f224e811]: 브라우저를 업데이트하세요
+              - generic [ref=f224e812]: 최신 기술을 품은 네이버 웨일에서 빠른 인터넷을 만나보세요
+            - link "웨일 다운로드" [ref=f224e814] [cursor=pointer]:
+              - /url: https://whale.naver.com/ko/?wpid=searchpopup_theme1
+            - button "배너 닫기" [ref=f224e815] [cursor=pointer]
+          - generic [ref=f224e818]:
+            - generic [ref=f224e819]: 이전
+            - generic "페이지 탐색" [ref=f224e821]:
+              - link "1 페이지" [ref=f224e822] [cursor=pointer]:
+                - /url: "?nso=&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.nx.all"
+                - text: "1"
+                - generic [ref=f224e823]: 페이지
+              - link "2 페이지" [ref=f224e824] [cursor=pointer]:
+                - /url: "?nso=&page=2&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=1"
+                - text: "2"
+                - generic [ref=f224e825]: 페이지
+              - link "3 페이지" [ref=f224e826] [cursor=pointer]:
+                - /url: "?nso=&page=3&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=21"
+                - text: "3"
+                - generic [ref=f224e827]: 페이지
+              - link "4 페이지" [ref=f224e828] [cursor=pointer]:
+                - /url: "?nso=&page=4&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=41"
+                - text: "4"
+                - generic [ref=f224e829]: 페이지
+              - link "5 페이지" [ref=f224e830] [cursor=pointer]:
+                - /url: "?nso=&page=5&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=61"
+                - text: "5"
+                - generic [ref=f224e831]: 페이지
+              - link "6 페이지" [ref=f224e832] [cursor=pointer]:
+                - /url: "?nso=&page=6&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=81"
+                - text: "6"
+                - generic [ref=f224e833]: 페이지
+              - link "7 페이지" [ref=f224e834] [cursor=pointer]:
+                - /url: "?nso=&page=7&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=101"
+                - text: "7"
+                - generic [ref=f224e835]: 페이지
+              - link "8 페이지" [ref=f224e836] [cursor=pointer]:
+                - /url: "?nso=&page=8&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=121"
+                - text: "8"
+                - generic [ref=f224e837]: 페이지
+              - link "9 페이지" [ref=f224e838] [cursor=pointer]:
+                - /url: "?nso=&page=9&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=141"
+                - text: "9"
+                - generic [ref=f224e839]: 페이지
+              - link "10 페이지" [ref=f224e840] [cursor=pointer]:
+                - /url: "?nso=&page=10&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=161"
+                - text: "10"
+                - generic [ref=f224e841]: 페이지
+            - link "다음" [ref=f224e842] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=070-4172-9541&sm=tab_pge&ssc=tab.ur.all&start=1"
+        - generic [ref=f224e847]:
+          - link [ref=f224e848] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f224e850]:
+              - strong [ref=f224e851]: 지나고 나면 그리울, 오늘의 가을 기록
+              - paragraph [ref=f224e852]: 클립에 올리면 매월 최대 12만 8천원 적립
+          - link [ref=f224e853] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2610-shopping-008&target=https%3A%2F%2Fmkt.naver.com%2Fplusmission%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2610-shopping-008
+            - generic [ref=f224e855]:
+              - strong [ref=f224e856]: 참여 누르고 쇼핑하면
+              - paragraph [ref=f224e857]: 최대 3만3천P 추가 적립!
+          - link [ref=f224e858] [cursor=pointer]:
+            - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt
+            - generic [ref=f224e860]:
+              - strong [ref=f224e861]: 적립적인 멤버십 전용카드
+              - paragraph [ref=f224e862]: 네이버 현대카드 Ed.3
+          - link [ref=f224e863] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f224e865]:
+              - strong [ref=f224e866]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f224e867]: 검색이 대화가 되다
+    - generic [ref=f224e868]:
+      - link "맨위로" [ref=f224e870] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f224e873]:
+        - link "전체서비스 새 창 열림" [ref=f224e875] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+          - text: 전체서비스
+          - generic [ref=f224e876]: 새 창 열림
+        - link "이용약관 새 창 열림" [ref=f224e878] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+          - text: 이용약관
+          - generic [ref=f224e879]: 새 창 열림
+        - link "개인정보처리방침 새 창 열림" [ref=f224e881] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f224e882]: 개인정보처리방침
+          - generic [ref=f224e883]: 새 창 열림
+        - link "검색 고객센터 새 창 열림" [ref=f224e885] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+          - text: 검색 고객센터
+          - generic [ref=f224e886]: 새 창 열림
+        - link "© NAVER Corp. 새 창 열림" [ref=f224e888] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
+          - text: © NAVER Corp.
+          - generic [ref=f224e889]: 새 창 열림
+```

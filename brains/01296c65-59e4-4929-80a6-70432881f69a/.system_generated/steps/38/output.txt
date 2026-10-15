@@ -1,0 +1,17 @@
+The search for ""스튜디오비오" OR "스튜디오 비오" 게임" returned the following summary:
+"스튜디오비오(Studio Bio)"라는 명칭의 유명 게임 개발사는 확인되지 않습니다 [1.3.1~1.3.9].
+
+검색 결과에서 나타난 관련 정보는 다음과 같습니다:
+
+*   **스튜디오 소개 글(Studio Bio):** 게임 업계에서 'Studio Bio'는 개발사가 자신의 게임 홍보 자료(Press Kit)나 웹사이트에 작성하는 **'스튜디오 소개글'**을 의미하는 일반적인 용어로 더 많이 사용됩니다[1][2][3][4][5].
+*   **유사 명칭:** 'StudioBio'라는 이름의 피트니스 관련 앱은 존재하지만, 게임과는 관련이 없습니다[6].
+
+혹시 특정 게임의 이름이나 개발사의 정확한 명칭을 다시 한번 확인해 보시는 것이 좋겠습니다. 찾으시는 정보가 특정 게임에 대한 것이라면, 해당 게임의 장르나 특징 등을 함께 알려주시면 더 정확한 검색이 가능합니다.
+
+Sources:
+[1] [senam-games.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaUglpY9aoMt12tzAPpjGKtOTMnq5m4W82GqDubAgqiyM4PtbZKEgNKXIBZmXEj0CJsfTaJS_xFZPYndtpEB6iepDZvqnZvEKLD5Prk-GWzG-4Gi0x7qcfLZR0i6ZJBtI)
+[2] [immutable.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkSa7fDsiPFQw4VDec7KWl760KiPc1LaUO8f0mlbWLf7u5veXOC2fBgQZuK266DjlpWIE5QF6hdHsa49rVrJeU0a4sPss__tzFe54pxxHkeC5OTlU_lUxbv8S-muBylrfwyIi7aTCwx-_jd4M=)
+[3] [truefuturemedia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi13Whs94d7Q2kxPsXB_qUyYpw2z64Io2LuV5xGnp9Xj8-p6JDVR_fy-ns9id0khRpngKCoXkHNbjPvQIiOKYxzEUPHxCgCj2E7F_bTLlW9cZ3TFmWusqlPL9u3Zu2CcySgOznob5_twO2NACwX71LKxFB65q3Q7O5LyDsl8Nw2qsGIz_Nr1Tov70GjcnsuHs76TZoqVSFV4dlQAEO5E3rUgxx8PEJ_AIoroJDKI0=)
+[4] [netlify.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7p7wgG3gWBxWzNenm_O07uY8xgO9K9GXQvQcLYJ3WIXRUXGt_kw29nRMWy-HwIBYJQgPH40kq3inq7IE_tzmMJr8Uuj1Qv_s0hQrczI2Zma3W56fdvIttorbFrMY=)
+[5] [godotengine.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl1hGAJC15eZVcUDcdV2Ck5138YBYXEPgEKVHQKNaIq2HhU_K4GWLovCmYLdcXBQIPBMfo3sNFPZHMSfGDyUyOT38f-gWCLcBw8RNEWAgAx5fm6rX-8j2j_1xA1wIJ6iyR20L2tRlcioE=)
+[6] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBoqPw7H46SWddUKNTUf3_0hGmwe3aOnvCGclkGu0F9sAFCL_DM3RFhVs-K4q9Gm6IchFi_gQsTkhvF8BBAdpuwK54ekx961BhgOpFFE9xBzFoCdvMulEIGIGixfSCPBwbZsMEvokmq8JDV3q7bPp6ro5Zi_w0c2SJC8LHXIFR9Q==)

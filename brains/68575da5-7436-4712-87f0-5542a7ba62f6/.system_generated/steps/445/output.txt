@@ -1,0 +1,9 @@
+The search for ""051-997-1234" 부산 OR 행정사" returned the following summary:
+입력하신 연락처(`051-997-1234`)는 부산에 위치한 **세종행정사사무소**의 전화번호입니다[1]. 
+
+* **업체명:** 세종행정사사무소[1]
+* **주요 업무:** 운전면허 구제, 행정심판, 국가보훈 등 관련 행정 업무[1]
+* **연락처:** 051-997-1234[1]
+
+Sources:
+[1] [jardoa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbiBQPoKKEalRKNuJ1Fr3aA2Gjcg9SnHgTJSmb3GgD-98Brd2HWTFqTivgGmKfWmBPf_-nkyOrMQIwP1lf2HjxRqbGvd2cbBJ-GW4-SROmcPelSVsc6AAp-Um0xLb3Hu9gIpmcXb__Zw1I9Q==)

@@ -1,0 +1,85 @@
+
+The command exited with code 0.
+Output:
+Verified data for row 639: {
+  "rowNumber": 639,
+  "name": "디자인에코",
+  "bizno": "603-10-85753",
+  "cleanBizno": "6031085753",
+  "year": "2009",
+  "month": "4",
+  "ceo": "이돈희",
+  "tel": "051-207-3530",
+  "fax": "051-517-3500",
+  "emp": "10",
+  "status": "계속사업자",
+  "closeDate": "",
+  "source": "https://bizno.net/article/6031085753",
+  "proof": "비즈노 사업자등록번호 및 부산 소재지/대표자 일치"
+}
+
+--- BEFORE modification ---
+  Col 1: value="25년 모집단" argb="FF000000"
+  Col 2: value="639" argb="FF000000"
+  Col 3: value="디자인에코" argb="FF000000"
+  Col 4: value="603-10-85753" argb="FFFF0000"
+  Col 5: value="" argb="FF000000"
+  Col 6: value="" argb="FF000000"
+  Col 7: value="이돈희" argb="FF000000"
+  Col 8: value="" argb="FF000000"
+  Col 9: value="" argb="FF000000"
+  Col 10: value="금정구" argb="FF000000"
+  Col 11: value="부산 금정구 장전동 222-39 서강빌딩 4층" argb="FF000000"
+  Col 12: value="캐릭터" argb="FF000000"
+  Col 13: value="" argb="FF000000"
+  Col 14: value="" argb="FF000000"
+  Col 15: value="" argb="FF000000"
+  Col 16: value="" argb="FF000000"
+  Col 17: value="" argb="FF000000"
+  Col 18: value="" argb="FF000000"
+  Col 19: value="https://bizno.net/article/6031085753" argb="FFFF0000"
+
+--- AFTER modification (in-memory) ---
+  Col 1: value="25년 모집단" argb="FFFF0000" bold=true
+  Col 2: value="639" argb="FFFF0000" bold=true
+  Col 3: value="디자인에코" argb="FF000000" bold=false
+  Col 4: value="603-10-85753" argb="FFFF0000" bold=true
+  Col 5: value="2009" argb="FFFF0000" bold=true
+  Col 6: value="" argb="FFFF0000" bold=true
+  Col 7: value="이돈희" argb="FFFF0000" bold=true
+  Col 8: value="" argb="FFFF0000" bold=true
+  Col 9: value="" argb="FFFF0000" bold=true
+  Col 10: value="금정구" argb="FFFF0000" bold=true
+  Col 11: value="부산 금정구 장전동 222-39 서강빌딩 4층" argb="FF000000" bold=false
+  Col 12: value="캐릭터" argb="FF000000" bold=false
+  Col 13: value="" argb="FFFF0000" bold=true
+  Col 14: value="" argb="FFFF0000" bold=true
+  Col 15: value="" argb="FFFF0000" bold=true
+  Col 16: value="10" argb="FFFF0000" bold=true
+  Col 17: value="" argb="FF000000" bold=false
+  Col 18: value="" argb="FF000000" bold=false
+  Col 19: value="https://bizno.net/article/6031085753" argb="FFFF0000" bold=true
+
+File written.
+
+--- AFTER re-read from file ---
+  Col 1: value="25년 모집단" argb="FFFF0000" bold=true
+  Col 2: value="639" argb="FFFF0000" bold=true
+  Col 3: value="디자인에코" argb="FF000000" bold=undefined
+  Col 4: value="603-10-85753" argb="FFFF0000" bold=true
+  Col 5: value="2009" argb="FFFF0000" bold=true
+  Col 6: value="" argb="FFFF0000" bold=true
+  Col 7: value="이돈희" argb="FFFF0000" bold=true
+  Col 8: value="" argb="FFFF0000" bold=true
+  Col 9: value="" argb="FFFF0000" bold=true
+  Col 10: value="금정구" argb="FFFF0000" bold=true
+  Col 11: value="부산 금정구 장전동 222-39 서강빌딩 4층" argb="FF000000" bold=undefined
+  Col 12: value="캐릭터" argb="FF000000" bold=undefined
+  Col 13: value="" argb="FFFF0000" bold=true
+  Col 14: value="" argb="FFFF0000" bold=true
+  Col 15: value="" argb="FFFF0000" bold=true
+  Col 16: value="10" argb="FFFF0000" bold=true
+  Col 17: value="" argb="FF000000" bold=undefined
+  Col 18: value="" argb="FF000000" bold=undefined
+  Col 19: value="https://bizno.net/article/6031085753" argb="FFFF0000" bold=true
+

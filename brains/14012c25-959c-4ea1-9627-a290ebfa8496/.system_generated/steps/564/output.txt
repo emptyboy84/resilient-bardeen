@@ -1,0 +1,6 @@
+### Result
+undefined
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input\');\n  input.value = \'비솜\';\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', bubbles: true }));\n  const btn = document.querySelector(\'button\');\n  if (btn) btn.click();\n}');
+```

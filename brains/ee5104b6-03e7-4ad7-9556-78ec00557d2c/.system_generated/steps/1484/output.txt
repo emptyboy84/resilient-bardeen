@@ -1,0 +1,12 @@
+The search for ""혜리점프" "010" OR "031" OR "02" OR "070"" returned the following summary:
+"혜리점프"와 관련하여 검색된 정보는 다음과 같습니다.
+
+*   **기업 정보**: "혜리점프"라는 명칭의 중소기업이 존재하며, 대표자는 서혜림으로 등록되어 있습니다[1][2].
+*   **업종**: 국세청 산업 분류상 '도매 및 소매업'으로 분류되어 있습니다[1].
+*   **연락처 관련**: 해당 기업의 관할 세무서인 용인세무서의 대표 전화번호가 031-329-2200으로 확인되나, '혜리점프' 자체의 개별적인 전화번호(010, 031, 02, 070 등)는 공개된 정보에서 특정되지 않았습니다[1].
+
+추가적인 연락처나 상세 정보가 필요하신 경우, 기업 정보 조회 사이트나 관련 비즈니스 디렉토리를 통해 확인하시기 바랍니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIDdj78hYnsTIHecaj1nOFKAEu03HQeR0SGdaFkh1oIS7CyFX6-zN68G2xqOfShAnNhHkFvOc9RVgVudwQkytrvEhC_TM_pzl-CZMFpwOIvc0l6ss6-tsEo_oThx6i)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRGZpTYJz9ezinJ14wuz3osSCO6vJrCM1UjvNKp8Q1hsS34eICv0v3M6xO6xusUWnt-CCSfbMNNqnlJxvTR2AClK3Km_AVM3XqrMg_5DZISGpKqmktYg-QwhHPx0f6xBktXdV2UQ==)

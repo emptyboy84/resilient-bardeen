@@ -1,0 +1,30 @@
+
+The command exited with code 1.
+Output:
+Add-Type : c:\Users\lg\AppData\Local\Temp\3bug3kz3.0.cs(29) : �ġ � '$' �Դϴ�.
+c:\Users\lg\AppData\Local\Temp\3bug3kz3.0.cs(28) :                 bool visible = IsWindowVisible(hWnd);
+c:\Users\lg\AppData\Local\Temp\3bug3kz3.0.cs(29) : >>>                 Console.WriteLine($"hWnd: {hWnd}, Visible: {visi
+ble}, Title: '{sb.ToString()}'");
+c:\Users\lg\AppData\Local\Temp\3bug3kz3.0.cs(30) :             }
+�ġ �:1 �:1
++ Add-Type @"
++ ~~~~~~~~~~~
+    + CategoryInfo          : InvalidData: (Microsoft.Power...peCompilerError:AddTypeCompilerError) [Add-Type], Except 
+   ion
+    + FullyQualifiedErrorId : SOURCE_CODE_ERROR,Microsoft.PowerShell.Commands.AddTypeCommand
+ 
+Add-Type : � �߰� � �ϴ�. � � �߻�߽�ϴ�.
+�ġ �:1 �:1
++ Add-Type @"
++ ~~~~~~~~~~~
+    + CategoryInfo          : InvalidData: (:) [Add-Type], InvalidOperationException
+    + FullyQualifiedErrorId : COMPILER_ERRORS,Microsoft.PowerShell.Commands.AddTypeCommand
+ 
+[WindowFinder] � ã� � �ϴ�.
+�ġ �:37 �:1
++ [WindowFinder]::FindWindows(516)
++ ~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (WindowFinder:TypeName) [], RuntimeException
+    + FullyQualifiedErrorId : TypeNotFound
+ 
+

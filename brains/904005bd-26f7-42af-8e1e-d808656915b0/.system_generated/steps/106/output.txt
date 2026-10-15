@@ -1,0 +1,42 @@
+The search for ""브이알코리아" "신설법인" OR "자본금" OR "설립"" returned the following summary:
+검색하신 "브이알코리아"와 관련하여, 동일하거나 유사한 명칭을 가진 여러 기업이 존재합니다. 주요 기업별 설립 정보와 자본금 현황은 다음과 같습니다.
+
+### 1. (주)어메이즈브이알코리아 (AmazeVR Korea)
+*   **설립일:** 2015년 9월 24일[1][2]
+*   **자본금:** 약 278억 원 (공시 자료 등에 따라 차이가 있을 수 있음)[3][4]
+*   **주요 사업:** VR 콘서트 제작 및 유통, 온라인 정보 제공업[1][3][5]
+
+### 2. (주)엠브이알코리아 (MVR Korea)
+*   **설립일:** 1998년[6][7]
+*   **자본금:** 2억 4,500만 원[6][8]
+*   **주요 사업:** 의료기기(수술실 장비, 재활·통증 치료 장비) 수입, 판매 및 기술 서비스[8][7][9]
+
+### 3. 기타 "브이알코리아" 명칭 기업
+과거 신설법인 자료 등에서 확인되는 동명의 다른 기업들이 있으나, 현재 운영 여부나 규모는 각각 다를 수 있습니다.
+*   **브이알코리아 (광진구 소재):** 2019년 1월 2일 설립, 교육용 가상현실(VR) 판매 및 컨설팅업[10][11][12]
+*   **클래스브이알코리아:** 가상현실 교육 플랫폼 사업 (이후 '메타키움'으로 사명 변경 사례 있음)[13][14][15]
+*   **오큘러스브이알코리아(유):** 2015년 3월 설립, 사업지원 서비스업[16]
+*   **브이알코리아 (부산 소재):** 2009년 7월경 신설법인으로 기록됨[17][18]
+
+**참고:** "신설법인"이라는 키워드는 특정 기업의 설립 당시 한국경제 등 언론의 신설법인 현황 목록에 포함되었던 이력을 나타냅니다[10][17]. 현재 기업의 상세 재무 정보나 운영 현황은 사람인, 잡코리아, 기업 신용평가 사이트 등에서 확인하실 수 있습니다[1][19][12].
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV_sFTnzYYGvvA_oOlg0MZHNgNxp52WRkZLccv2Mq4KioU7_35JZV44U40u1prVm9MQ-6jpxWqc2VUA821-QpyO9S4BRpmcqNDLCH555Pb4pdBXOriQKEz7kUp5vP6DWY4QvRnU9XNA_4MoXM=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAAKffZcaziLxiS0iIbG-OaLJa02tyYBNJRmX_PwW1A9NMAn-_GWMbQxh16NZBLMS1m9B6wThy4wbs5-AVch0K-DA1f8b6viR3Lp9KSNFOxy6QNM1hIgR_GaQxMyXRPmHeT2Kl2U-pQ-jsrrgF39mRc8H2bNj9LqK-3Rtv5o_vRhWR1k9k2xFmwhVT5Onku06CuGm3xqf7YXDocoAjhzROvDoaaWemr20qHOGs4YZXGUOkMBb_Bpph2geNPxpirjuNCO1dEGfgB16LLCnckdhGbOcWf-JDZpb4AXBImdaHd2uWNHXS_pMxdde2rgqxegW6ikJQ9UoKejL718TqGiJt)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WY0O7NOoLFY72COYlWDY4U0i2CIcdw6pcMtiVgRbdakrKW20Y1IGNceca7W6DRCyCQuoOKokvX-tVIJkGJXnmx_uFs-xzeB2CvBdBAOOOGn3tBWQ91T7vTohgzlxsAcJIa-VJH8XuQ==)
+[4] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WY0O7NOoLFY72COYlWDY4U0i2CIcdw6pcMtiVgRbdakrKW20Y1IGNceca7W6DRCyCQuoOKokvX-tVIJkGJXnmx_uFs-xzeB2CvBdBAOOOGn3tBWQ91T7vTohgzlxsAcJIa-VJH8XuQ==)
+[5] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkeX5oGW3WcaG2trRT5UFMHZClbEJV9E3A5Pls-DdxVVbGhU0lHhodI6wBINe91gx5ieAm3_j30tTL14r7REMm2ge0poYfg2VMsobDmWupzXKXIyKPe7-csKm7BH-DQJxMjugM0GlJOvcAWdGWn_jP5Ti2z4FCUXolaFA=)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf8cIzMMUSg0TExj3fhq9-MPNW7PBk6MkLEAzNvD15xJ337LnMeL97fTzmZQDDHgjAxMbqtOgo2QMmSq0DvCCsLrGF_o3O5OgxAdchF9PNslWFkfUNiMqXT89XMENDGj3G7yTr-O0t5hU=)
+[7] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKhG7e3QaL1gSMjRrU9XY0s_rMqzDuNP3YmlHmDt3eH6u5pNz7K0uF9hd_byxLtrRBCv6HJ9XiM_FEaDzNennkGSmcpKRWH6_gnYuTGGuumxgD6hQhsAauhi4=)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzvE8JEZbncTPbrGes_ufwJgrP105TAC_tLsdYlD-F-p5962hh2G-6jpp_mYtHDt8TMQ-u_4wItL6JJx07nytk21CupOq6xuCItGF0nV3yq6TxPyWnuNO-HwVUvP1wwzCJzbdVOXY6-jT84m7WFI8wvuhwxlO5tYoO-FUGRDHx9xN_emoZsYSfECpXfUuVZjbOXhQ8fWOCCwa0ZMz7i_UgMxDX7DwNuDFHGS6T3SdGegeoECA31K_gYIMY5lalgYHO9jD31uheRG7VbMkU14Pk8vAQc7MISJmDJPUCPBz)
+[9] [mvrkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRezDIv68scgElKRffE1mt-29TC2Q-qisRIlVSDz27jbv0h9gUsqjXYd6ARzGcW5VHA9mYTXwH0P1Vk7xTbLZ6n0H-GSHNHkrxjQ6j5VPRNtmECa8IdiAF8noo-wZi90wNP4CNpG04EMx3yXJvkeBjjvEoIoQ=)
+[10] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGihakmhma9LBCrgocETmYwUaCa_-xJp-PPg7B2H0V_DSvgH3idEDlh528eJa9haTZOaZTtNE4hRy4VIoeyIfHjoihxJHHtM8LkqyJ_svnEWw6FPXoAyCccAQh5tiv_jTkTqsNs)
+[11] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqWW_U_GX5pFTXFIG2uS6Qdr46GZfuBDfcliIZXTxfK2_oMwj6NRGWeohCxaGjrU_H2VbKhP2AfoIuE_4vIgrx-xWAfeO4K-K5HuGaeRMfN6qEm1oirX0d7ZUMLelceiGDxxwFnJAdnT1)
+[12] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCKBv1lIQW_Rtm0QIJKITsm_S1YQNuNlY1cQeHmU8s2GHsTuRAzWvLjDDtNX7aJVkL0T4pq6LKR08YD2Va6QYe1EK-aC2TVHGs261B22z30ZT7z2m9YTcF6mOGoGjCBqnf5hNxN8jDhdJ22qWEFgDG4wz5fiFBLdOcnsCM58XwbMCklfWPpzGKOmpRW-NfsYk7-pFt8S61px6pd5CvbyWZcX4dmwMpWGY7AjAfM-lCh5F64KSrhPBECxMMB6YWJP7FiGlGhCNKq4HYSjm6_zgggr4zWF4R9gJ88VhgQIuDJBTfVA==)
+[13] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnTolU6bodUIbu-FhO5veEWRg_FSWaEJrRehvAvQRVV1Px7lKWRRWhpIKbRdnyu1Qq6Ef2O3PE0f0hPbG8g3RqMeG0XB2jfvA1Dt2QbkqDvTougklJfmkEXngFg0WeVeNnoPPrUuk7id6u)
+[14] [yes9.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWCessByCZ3iuDRUjs1u2rPe_i1VV7ajhsRJwqMGYT3oAXRTBOs7jnoMz2fUVgY8M-YbUMfECjfxQ6FZfbeeh1dsAz4Ha71k4l0igILvQuJP0A6HORub1bmFm5RnX-KrLL6hQXG4ujDHwPptoBcZziNA==)
+[15] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8r7WQX3hPX-o0l15ZIQZ544msLIsDUyJ1VYjk6k9zjzbZux9wJt1Aevfl-k4DdeZZvrNQZlQ3lnhtSAPHYeah1yVExkg4EZWBc7wnKO17ZpdIudBUHFBkpR9Cu-Eg6edLIpnG)
+[16] [saram.in](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtgbU8lbKGCDghkESfccpKsq9BrwHfpFEN2_P_oE7KsypacaN6qsMXnAbHKYB2sm05zJfht38kCKtEQV_r9T-oBWoZs4H2oDoulUrPqu1Lr400)
+[17] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ_0VSziSzhdKMsSRXQMLU1XJVMLtRDlubRDX6RuAuUD3plG7_8G8TIwGLC_qojsE2kAbsyKbVgMZ0dGbOjDW_pLg9KgABhtCqacIpFSQZOu6rzkUsAUQi9G3ys7iCCPA=)
+[18] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7pB2-PT4dPzjTV3tl-ucJhkG8MTT8BDOYf-VV5YoeKW0HKKOxmaQvqdGTv12FjE_jCGQMbOm74rz0j-5_U9hHFWJ2RBDaWybfBS5hJiahNuOdY7jt9z4cSAThKIv_ac02PaP)
+[19] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnex5-qzFHiYiAA1fyD77hrX6jnJMtSxHYoUGIDdtlP5NCA26Ltar4nekzOcksUC-i_MBnJDYj7is7chKrsUd2KGBovR2UeMGsAI9bc1tMuT3sBLxrrjTytwnt1kNs0rRIQLCp5bmN4S4YFpHZwhFo0j0ZRrT0eMTnHQfHFKQWTJX1eoR2rufKWXox81EzhgpYBgFHCwal6t7Pk16XitfwyZUkVR03A50Hp33fWzm0fhhzIIrexZ8G4i2O_rJXQOz-r6TAqeKwpmjJRpCFJsjEiNH1egE9z4YioRrCuANGtD2u3YXCjbN_qKEthxMMfBmX2xuzn39q)

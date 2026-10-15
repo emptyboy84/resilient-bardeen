@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "name": "run_command",
+    "args": {
+      "CommandLine": "\"node -e \\\"\\nconst fs = require('fs');\\nconst http = require('http');\\nconst https = require('https');\\nconst { URL } = require('url');\\n\\nconst lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\nconst targetRows = lines.slice(0, 154);\\n\\nconsole.log('Total rows to verify:', targetRows.length);\\n\\nasync function checkUrl(urlString) {\\n  if (!urlString || typeof urlString !== 'string') return null;\\n  urlString = urlString.trim();\\n  if (!urlString || urlString === '-' || urlString === '.') return null;\\n  if (!urlString.startsWith('http://') && !urlString.startsWith('https://')) {\\n    urlString = 'http://' + urlString;\\n  }\\n  \\n  try {\\n    const parsed = new URL(urlString);\\n    if (!parsed.hostname || !parsed.hostname.includes('.')) return null;\\n    \\n    // Quick probe\\n    return new Promise((resolve) => {\\n      const client = parsed.protocol === 'https:' ? https : http;\\n      const req = client.request(urlString, { method: 'GET', timeout: 3500, headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {\\n        if (res.statusCode >= 200 && res.statusCode < 400) {\\n          resolve(urlString);\\n        } else if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {\\n          resolve(res.headers.location);\\n        } else {\\n          // Status >= 400\\n          resolve(null);\\n        }\\n      });\\n      req.on('error', () => resolve(null));\\n      req.on('timeout', () => { req.destroy(); resolve(null); });\\n      req.end();\\n    });\\n  } catch (e) {\\n    return null;\\n  }\\n}\\n\\nfunction checkEmail(email) {\\n  if (!email || typeof email !== 'string') return null;\\n  email = email.trim();\\n  if (!email || email === '-' || email === '.' || email === '*') return null;\\n  const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\\\.[a-zA-Z]{2,}$/;\\n  if (emailRegex.test(email)) {\\n    return email;\\n  }\\n  return null;\\n}\\n\\nasync function run() {\\n  const verifiedRows = [];\\n  \\n  for (let i = 0; i < targetRows.length; i++) {\\n    \n<truncated 1025 bytes>",
+      "Cwd": "\"c:\\\\Users\\\\lg\\\\resilient-bardeen\"",
+      "WaitMsBeforeAsync": "5000",
+      "toolAction": "\"Verifying 154 rows URLs and emails\"",
+      "toolSummary": "\"Verify URLs and emails for 154 rows\""
+    }
+  }
+]
+

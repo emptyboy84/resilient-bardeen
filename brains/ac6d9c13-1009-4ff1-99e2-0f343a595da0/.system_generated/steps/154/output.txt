@@ -1,0 +1,47 @@
+
+The command exited with code 1.
+Output:
+�ġ �:6 �:30
++   const m1 = html1.match(/"([^"]+)" Ű� <strong><span style="color:r ...
++                              ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:6 �:42
++   const m1 = html1.match(/"([^"]+)" Ű� <strong><span style="color:r ...
++                                          ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:6 �:79
++ ... .match(/"([^"]+)" Ű� <strong><span style="color:red">(\d+)<\/span>< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:7 �:37
++   console.log('Result with hyphen:', m1 ? m1[0] : 'not found');
++                                     ~
+',' �ڿ� � �ϴ�.
+�ġ �:7 �:38
++   console.log('Result with hyphen:', m1 ? m1[0] : 'not found');
++                                      ~~
+� �Ǵ� � �ġ � 'm1' �ū�Դϴ�.
+�ġ �:7 �:37
++   console.log('Result with hyphen:', m1 ? m1[0] : 'not found');
++                                     ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:7 �:62
++   console.log('Result with hyphen:', m1 ? m1[0] : 'not found');
++                                                              ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:32
++   const res2 = await fetch(url2, { headers: { 'User-Agent': 'Mozilla/ ...
++                                ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:10 �:59
++   const res2 = await fetch(url2, { headers: { 'User-Agent': 'Mozilla/ ...
++                                                           ~
+� �Ǵ� � �ġ � ':' �ū�Դϴ�.
+�ġ �:11 �:33
++   const html2 = await res2.text();
++                                 ~
+'(' �ڿ� � �;� �մϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

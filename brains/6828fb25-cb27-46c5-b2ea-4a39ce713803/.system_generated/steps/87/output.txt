@@ -1,0 +1,27 @@
+The search for ""초록누리" "문구"" returned the following summary:
+'초록누리'와 '문구'라는 키워드와 관련하여, 환경부에서 운영하는 **생활환경안전정보시스템 '초록누리'(ecolife.me.go.kr)**에서의 제품 정보 및 표시 문구에 관한 주요 내용은 다음과 같습니다.
+
+### 1. 생활화학제품의 표시 문구 주의사항
+*   **절대적 표현 금지:** 소비자가 오인할 수 있는 **'무독성', '인체 무해', '친환경', '자연 친화적'**과 같은 포괄적이고 절대적인 문구는 현행법(생활화학제품 및 살생물제의 안전관리에 관한 법률)상 사용이 엄격히 금지되어 있습니다[1].
+*   **안전기준 적합 확인:** 정부의 안전기준 검사를 통과한 제품에는 **'안전기준 적합확인'** 마크와 함께 신고번호(예: EB20-12-0001 등)가 부여됩니다[1]. 제품 구매 시 이러한 신고번호를 초록누리에서 직접 조회하여 실제 안전 확인을 받은 제품인지 확인하는 것이 권장됩니다[1][2].
+*   **기타 필수 표시사항:** 제품에는 용도, 사용 방법, 주의사항 등이 반드시 기재되어야 하며, 특정 제품군에 따라 '살균', '보존' 등의 기능 표시는 법적 요건에 맞게 제한적으로 허용됩니다[3][4].
+
+### 2. '초록누리' 시스템 활용 방법
+*   **제품 정보 조회:** 초록누리 누리집에 접속하여 제품명, 기업명, 또는 제품 포장에 기재된 신고번호를 검색하면 해당 제품의 **전성분, 용도, 안전 사용 수칙, 어린이보호포장 대상 여부** 등을 확인할 수 있습니다[5][2][6].
+*   **화학물질저감 우수제품:** 환경부와 시민단체가 심사하여 선정한 '화학물질저감 우수제품'의 경우, 관련 표시나 문구(마크)를 제품에 게재할 수 있습니다[7][8][9]. 이는 기업이 자발적으로 유해 물질을 저감하거나 대체한 제품임을 의미합니다[7][8].
+*   **정보 검색의 용이성:** 스마트폰 등을 활용해 제품의 바코드나 QR코드를 스캔하여 초록누리의 상세 정보 페이지로 바로 연결할 수도 있습니다[5][10].
+
+**결론적으로,** '초록누리'는 생활화학제품의 안전성을 소비자가 직접 확인할 수 있는 플랫폼이며, 제조사의 자극적인 광고 문구에 현혹되기보다 시스템을 통해 **공식 신고번호와 전성분, 주의사항**을 직접 확인하는 '까다로운 소비'가 권장됩니다[1][11].
+
+Sources:
+[1] [sobilife.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGThP4-e5LIC3sKJ3yceJVXWS_Wt2S0MG3r4QiHpXE0WQ8aXjOCrj00p3zQqdCDD9YduzweJE7I6DndsWk01QdZ8uM3SMopzJdOXEezBPHEpKRgzc7x3ocaVK8Jy42RsY0wt1KFVFLZ40_1OOpbA==)
+[2] [vegannews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpnJ2oFj8NR_LyJvKuuu-dfpksvI1M0PKj5rJzcwHFwlkmNfH0IJW8j8LDtlUnYzAyuFG2057Iowc0RgiodEg4clSbmubYviYOb-7Gh97S2NQGW3N_FWHclBbomp4vVX1SCXcq3MVZiLgPLiY=)
+[3] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgvHKb-4qY0dXMPapiywzALPUudtVwsgy8tE-6z-pQZtRJiGLokHWRk4tjPGAHklUTR9OgmPxzzMWJL4WWaN5hwTbMuys1i1zOVkiRlG-zDeyizZEXlNnj8OSzu8CLpvKj6ETQqJTWa3wnqg_eIMX89_ZPsvNNLfzvDwC)
+[4] [thesafelife.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtoi9FxQtbScKXUCeyLVS7OM70mmewHc5Ro_pSNfoWysRBfN36FtP-eC8py6eUjlcGHJilyA0tDKrllE8834bKXdwfrPdFGmmwmOXBiju5Jgooaz1vvqh2Mw==)
+[5] [safechem.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE83fKlbITSDK9FiK4ySs-V-364Q5cmUyc72jRUYoPsffIocnVf3UDspi-hbwEUVAn7GJUE9W2hkKogLLdHlFZ38n2S1B3mkJOsM9bqxcmVah8uU_6MTOB4u4TMZGvBM3fs6icjVY-TjR2TKuAAA==)
+[6] [safechem.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE83fKlbITSDK9FiK4ySs-V-364Q5cmUyc72jRUYoPsffIocnVf3UDspi-hbwEUVAn7GJUE9W2hkKogLLdHlFZ38n2S1B3mkJOsM9bqxcmVah8uU_6MTOB4u4TMZGvBM3fs6icjVY-TjR2TKuAAA==)
+[7] [chem-bio.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTBi7mz9vlD3JPLRKLETXIuUsVl5lZPEqSte9GCvMQYj92ryn2dwtyuh26IdPqGjS0evVlHWtpbs8UvBU0dxj90g0eHKOr1kdw0Ei-UDNGiui4jwpJH0x_TEswuMN9f-7mO-ch6nzr-3WRjc2VPOKYgX8yD-NzM8Ira0I=)
+[8] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqd1TwFn4XUt0FRYm9Thi07S-_ScUZLynF2RClEVHcZ4n_qKJTpfZHG58Gy0MWKOPZw7zCoh92LZVdjDqJ0v0R0AUABSnlPr7CRBf7thOPoXpf_V_FwgGgycRFO-_3kFQ=)
+[9] [ktr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCh2k-d7yRHGKjGgJ_MusH32_z4Oe6sf30PX2jKT0PbwBYxFNPfHMIlP8p-9Xn2TyTqXa1arqK3rkEPVQKFet9Eo-ckkkpaoFb_VujnbwR4grLWkGceRTYFmoDzmM5rgJ8133h4n3qTNcBOBHeQCX6d-mP)
+[10] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgpFZFZiEC6pZ63dTXOgdDhaUsd7jT_eWao2EhnN4qT-p4wsBxapNl3Ke5K182l0qVkpTexqHsPoWfFWGHb4y7AIDf-3Xgxo2lv6oyaGYI4fiJo5mJIsxVOAB9B6kUcvofS1xKEOgEPS5SeaUZElt_ehzmpPuAyr6PBFcI0BgzQkarnwzMFwUDE2vIhWsVuh-dnTslDspegtV54GKcoUODBvSmQKIDSVEDgueUYouz2OlkeFsEc9RqOgsddbOQuwYfIwcTriKv3w4_ICXb-VymXyeuoybcC3kMlupA1mtiU1tFvc-CsUDg9k_fTi0s8RNZ61tZF2EjRitHmAe7lwTHAkCj_3lNv_Zr1TocMJHHWHt0qtt1AZ51veck7SIftuwPVVTATbYpsUe-MOb3Hr8v9Qk=)
+[11] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaUtcmi0eLCejoRJi1dhqy7PLroVDqgzuVLwy_5PFrjH_7c7iYM8TlUuWDeTrsFGWmdjtLSL7vlOfjhuBoWIaviCkN_D3UbOTNhxaeJLNmH8Hme35wpczHjdVKiIhfDQ_auyXmZ_Em7mfDCA29x_s=)

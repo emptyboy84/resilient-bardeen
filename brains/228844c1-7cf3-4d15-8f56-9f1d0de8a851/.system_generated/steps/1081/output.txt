@@ -1,0 +1,71 @@
+
+The command exited with code 0.
+Output:
+Total publishing rows: 65
+[1/65] �ǻ� -> 0 MCST matches
+[2/65] �°� -> 0 MCST matches
+[3/65] �ڸ�췲�峻�ܰ�Ź� -> 0 MCST matches
+[4/65] Ŵ� -> 0 MCST matches
+[5/65] �۴Ͼ�Ʈ -> 0 MCST matches
+[6/65] �ѱ�̴�λ� -> 0 MCST matches
+[7/65] �¸�λ�ǻ� -> 0 MCST matches
+[8/65] � -> 0 MCST matches
+[9/65] �Ѽֱ� -> 0 MCST matches
+[10/65] �ѱ�ȭ�ȣ�κλ꼾� -> 0 MCST matches
+[11/65] �Ϻ�λ� -> 0 MCST matches
+[12/65] �ֽ�ȸ� ȫ� -> 0 MCST matches
+[13/65] �Ϻ� �Ż� � -> 0 MCST matches
+[14/65] �λ�⵶�Ÿ -> 0 MCST matches
+[15/65] �̺Ϸ� -> 0 MCST matches
+[16/65] �λ�߾�Ϻ� -> 0 MCST matches
+[17/65] �λ�Ϻ� �簨� -> 0 MCST matches
+[18/65] �ֽ�ȸ� �俥 -> 0 MCST matches
+[19/65] �(�λ�) -> 0 MCST matches
+[20/65] �λ� �ϴ� -> 0 MCST matches
+[21/65] �ǳ� �ż� �ҽ�Ƽ� -> 0 MCST matches
+[22/65] �֣� �ؿ� �˾� -> 0 MCST matches
+[23/65] �CTM -> 0 MCST matches
+[24/65] �̵�ͳ�ų�λ� -> 0 MCST matches
+[25/65] �Ǿ� -> 0 MCST matches
+[26/65] �Ѿ�ǻ� -> 0 MCST matches
+[27/65] �ũ�غ� �λ� -> 0 MCST matches
+[28/65] �Ϻ� -> 0 MCST matches
+[29/65] �ѱ�ȭ�ȣ�Σ�֣�λ� -> 0 MCST matches
+[30/65] �̵�Ͻ� -> 0 MCST matches
+[31/65] �ƺλ곲�뿬�߾Ӱ�Ÿ -> 0 MCST matches
+[32/65] (�)�漺�롤�ΰ�뼾� -> 0 MCST matches
+[33/65] �Ϻ� �/�Ϻ� � -> 0 MCST matches
+[34/65] �߾�Ϻ� �λ�Ϻ� �õ� -> 0 MCST matches
+[35/65] �Ϻ�,�Ϻ�  �߰�ݼ� -> 0 MCST matches
+[36/65] (�) � �λ� -> 0 MCST matches
+[37/65] �λ�Ϻ� -> 0 MCST matches
+[38/65] �ֱ�λ� -> 0 MCST matches
+[39/65] �Ϻ�ȭ�ݰ� -> 0 MCST matches
+[40/65] �ٸ� -> 0 MCST matches
+[41/65] �Ͽ� -> 0 MCST matches
+[42/65] Ǫ� -> 0 MCST matches
+[43/65] � -> 0 MCST matches
+[44/65] �,�,�Ѱܷ�,�Ѱ�,�,� �꼾Ÿ -> 0 MCST matches
+[45/65] � -> 0 MCST matches
+[46/65] �ܹ� �ѱ�̷�ȸ -> 0 MCST matches
+[47/65] � -> 0 MCST matches
+[48/65] �ã� -> 0 MCST matches
+[49/65] �߾ӣ� �λ꣮ �ȭ�Ϻ� �ۼ� -> 0 MCST matches
+[50/65] �ī� -> 0 MCST matches
+[51/65] �ֽ�ȸ� �̾ؾ�(Dowon E&I) -> 0 MCST matches
+[52/65] ũ�õ�Ź� -> 0 MCST matches
+[53/65] � -> 0 MCST matches
+[54/65] �ڵ�μ� -> 0 MCST matches
+[55/65] � -> 0 MCST matches
+[56/65] ĭ�ĭ -> 0 MCST matches
+[57/65] � -> 0 MCST matches
+[58/65] �Ϲ�ũ -> 0 MCST matches
+[59/65] �߾�Ϻ� � -> 0 MCST matches
+[60/65] �Ƽ� -> 0 MCST matches
+[61/65] �˿�Ź�λ�纻� -> 0 MCST matches
+[62/65] �λ�ô뱤� -> 0 MCST matches
+[63/65] � -> 0 MCST matches
+[64/65] � -> 0 MCST matches
+[65/65] �ؼ� -> 0 MCST matches
+Publishing MCST search completed!
+

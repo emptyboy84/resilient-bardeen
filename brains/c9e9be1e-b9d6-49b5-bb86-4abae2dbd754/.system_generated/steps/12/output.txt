@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+
+Name                 
+----                 
+scratch              
+README_대화기록.md       
+transcript.jsonl     
+transcript_full.jsonl
+
+
+

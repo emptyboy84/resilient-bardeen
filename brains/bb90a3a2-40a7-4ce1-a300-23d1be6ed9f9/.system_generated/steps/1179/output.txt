@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+
+=== Checking GI 50096100 ===
+Len: 132027
+Phones: []
+Contact JSON/text: [
+  '담당자\\",\\"department\\":null,\\"phoneNumber\\":\\"\\",\\"phoneExtensionNumber\\":null,\\"mobileNumber\\":\\"\\",\\"mobileExtensionNumber\\":null,\\"fax\\":null,\\"email\\":\\"\\",\\"nameExposable\\":true,\\"phoneNumberExposable',
+  '담당자\\",\\"celebrateAmount\\":\\"\\",\\"applyCloseDate\\":\\"2070-01-01 00:00:00\\",\\"applyCloseDisplayText\\":\\"상시채용\\",\\"applyModeType\\":\\"DIRECT\\",\\"giTypeCode\\":null,\\"companyUrl\\":\\"/Recruit/Co_Read/C/22554851?'
+]
+
+=== Checking GI 50082276 ===
+Len: 132291
+Phones: []
+Contact JSON/text: [
+  '담당자\\",\\"department\\":null,\\"phoneNumber\\":\\"\\",\\"phoneExtensionNumber\\":null,\\"mobileNumber\\":\\"\\",\\"mobileExtensionNumber\\":null,\\"fax\\":null,\\"email\\":\\"\\",\\"nameExposable\\":true,\\"phoneNumberExposable',
+  '담당자\\",\\"celebrateAmount\\":\\"\\",\\"applyCloseDate\\":\\"2070-01-01 00:00:00\\",\\"applyCloseDisplayText\\":\\"상시채용\\",\\"applyModeType\\":\\"DIRECT\\",\\"giTypeCode\\":null,\\"companyUrl\\":\\"/Recruit/Co_Read/C/22554851?'
+]
+

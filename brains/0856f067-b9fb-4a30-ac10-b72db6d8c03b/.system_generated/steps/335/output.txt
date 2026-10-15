@@ -1,0 +1,16 @@
+The search for ""낙동대로 210" 성현 OR "성현빌딩"" returned the following summary:
+부산광역시 사하구 낙동대로 210(괴정동) 주소지에는 **'이내과의원'**이 위치해 있습니다[1][2][3].
+
+문의하신 '성현' 또는 '성현빌딩'이라는 명칭은 해당 주소지(낙동대로 210)와 직접적으로 연관된 정보로 확인되지 않습니다[4][2][5]. 낙동대로 210 번지 일대는 괴정역 인근으로, 이내과의원을 비롯한 병원과 기업(건금 등)이 소재하고 있습니다[4][2][5][6].
+
+혹시 '성현'과 관련하여 특정 상호나 건물을 찾으시는 경우, 해당 지역의 인근 번지수(예: 낙동대로 210-5 등)를 확인하시거나 구체적인 업종을 알려주시면 추가로 검색해 드릴 수 있습니다[7][8].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgm3DaMf_LX4X37JS8pfE2YV5A-AP9wSkLNHtFgd1M4XtI2PYfYDuWwYPwWsju32WY5fw0Q8a11OIc5odBZ0YsO2iO06HrGUiEIouskHVlXZbtvCnVxQ==)
+[2] [hidoc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8I7MM36AkEiMl_5T3xZlql0tVvy4FpfMYiD9kRORtT2jyqABjgH367LY9LymJy6V7bL2gNyhaWDI8tF-pFqaFdHzPk_W4_YAuzO6V-B4nFTERfFn4crvoDvhQay68JneWAwYGPTU_DdpzNjc=)
+[3] [medieus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkcuonqDhCHlAPLcuamkiZpJxOy5EaNEIanoE41cFrZCumANYELztc2_9fa7Ny95-uxd_o7EaM14y7O07mt6zM9ak27DfziYwt2Z6d8x2QbLVEx8uA_oJPlLLq2NyaMS2fjpUMFblTIV6IRDD1RXAGgEVPC8E=)
+[4] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKY1dkVmWHG1QO0BPeLInJ5yHSdIjgYFIXfAA53mMCn1eHBm53jGoaKtX4rbVr_l0FYq5yWAxqm9_lfp2owO9c58U6_5OuVM3EisrqtxQ0wQnpRtL_RuO1Dbv-q867cOInlS_yC0iNqKEl-G_QUGbxbLgWoSOMsQ2ucH1RuXe37qjEM76G1eXh9zEekGCoZuc4d2mPIutLm-feLlFD1VCR7Vc1Yj4MT4uJr6ZZxMheZXuzSM1fadGYfEe_lrb5)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMGQUEeOJ5nxK8vGfB8o2hY-rtUG67kwzvNtpwZ_sIC7BR-7PLqbrJ0gmhUTF-2nvPFj3RhC_tGQXL-pG9shq3mWHhAeV51kh4ghb_YjgvRg03Q6CpIMr4EIyptZRFsrYGinCp_zhx51jAyDYHIRITZ0x1wITp0hcEXj_gliJRpLKXyO8s1xt6SrU83vSFDQX_I9bFeJXKzRi0Yn2OVZKgt-FF2PDp1N995k-EJjrP1NS8POBrb9gAlbmOiQ==)
+[6] [modoodoc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj-YwF6dsLbBVajohEYWLElkpNNjVu05BEFLd43g3_-58EMRrU-rwigWP7TfSOJdV58TXosagVJZDASyMdT4gsqfUAUhLQb1weBNlCUPb4uxEinocNyzaF15q3ngW4UUEe5k7vLnzyhJOY7Y_J1PXpMuiuzWF6gpO9akjec60PNKfpSsN_hOtuA4qMgMEdpEMHSOGHsNqN0lsXhaLTyk7iv3lrZv8oEqVfA1f91b8VZaxdtlwMMCoEJJc=)
+[7] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsb3lexZ2Bdtiw4Go8QGxCa0f2uaettw3m7sJIb2mG22m7JmpkltHPDlvq4zQEXnT1mewe8ZgVn-1lSrQJvtHA9IQJ8Iqwh9pZlOMciwdzw7j4o1jdhbM-YwunmgXkP1pEzSmlW9U6kKWd_GXGkBT_hzuTlCkOxNj9DizNDKWbLg==)
+[8] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgr3wDTLiyun5jetHWDqt0P8gZvcXnWz1CtIAzF4g4nxrEnwDSM-U68TZIyuEWoqVV7qSHanOZBPSkEpb2Zincl0yKfMdUxTXh7f5vP9EjeOHGffRb94kb-T8z6oeQBVbf)

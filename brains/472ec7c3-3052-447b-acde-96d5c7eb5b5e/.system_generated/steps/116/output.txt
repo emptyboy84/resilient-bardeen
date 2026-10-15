@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+Name                  Length LastWriteTime          
+----                  ------ -------------          
+Gemini.exe.16064.dmp 4930335 2026-10-15 � 8:50:16
+Gemini.exe.1688.dmp  4936047 2026-10-15 � 8:50:09
+Gemini.exe.22740.dmp 4958410 2026-10-15 � 8:50:12
+Gemini.exe.24196.dmp 4929664 2026-10-15 � 8:50:09
+Gemini.exe.27012.dmp 4940015 2026-10-15 � 8:50:15
+Gemini.exe.27048.dmp 4941875 2026-10-15 � 8:50:13
+
+
+

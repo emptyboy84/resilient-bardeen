@@ -1,0 +1,20 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\parse_company_data\parse_apis.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,7 +1,10 @@
+ const fs = require('fs');
+ const content = fs.readFileSync('C:/Users/lg/.gemini/antigravity/brain/ac6d9c13-1009-4ff1-99e2-0f343a595da0/.system_generated/steps/631/output.txt', 'utf8');
+-const jsonStr = content.replace(/^### Result\s*/i, '').trim();
+-const list = JSON.parse(jsonStr);
+-const apis = list.filter(x => !x.endsWith('.js') && !x.endsWith('.css') && !x.endsWith('.woff2') && !x.endsWith('.png') && !x.endsWith('.svg'));
+-console.log('APIs found:', apis);
++const match = content.match(/\"\[[\s\S]*?\]\"/);
++if (match) {
++  const list = JSON.parse(JSON.parse(match[0]));
++  const apis = list.filter(x => !x.endsWith('.js') && !x.endsWith('.css') && !x.endsWith('.woff2') && !x.endsWith('.png') && !x.endsWith('.svg'));
++  console.log('APIs found:', apis);
++}
++
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

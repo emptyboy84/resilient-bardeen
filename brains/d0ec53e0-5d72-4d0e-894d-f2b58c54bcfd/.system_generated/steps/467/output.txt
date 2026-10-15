@@ -1,0 +1,8 @@
+
+The command exited with code 1.
+Output:
+  File "<string>", line 12
+    print(f'{idx:2d}. [� {c[" row\]:4d}
+          ^
+SyntaxError: unterminated string literal (detected at line 12)
+

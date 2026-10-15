@@ -1,0 +1,18 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-128
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-128.log
+Log output:
+<truncated 156 lines>
+ | Snippet: 박기* 세무사업 대구광역시 동구 동부로22길 91... (
+   => NO DEFINITIVE MATCH
+
+[26/30] Row 730 | "버킷리스트" (대표: "", 주소: "")
+   -> Found 41 total, 41 name-matches
+      Candidate: 7054400190 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 이동* 전자상거래업(잡화) 인천광역시 계양구 장제로 719-...
+      Candidate: 8374800651 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 현은* 남녀용 겉옷 및 셔츠 도매업 서울특별시 중구 남대문시장8길 2...
+      Candidate: 1450203736 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 전선* 전자상거래 소매업
+      Candidate: 7392401665 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 서울특별시 중구 을지로45길 62
+      Candidate: 7721902236 (버킷리스트) | Busan: true | ValidChecksum: true | Snippet: 부산광역시 기장군 정관읍 모전1길...
+   => MATCHED: 772-19-02236 for 버킷리스트
+
+Last progress: 0s ago

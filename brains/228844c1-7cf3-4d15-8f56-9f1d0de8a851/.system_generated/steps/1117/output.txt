@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total rows resolved with data/status: 226
+  - With business registration number: 215
+  - With confirmed Ȯ�κҰ�: 11
+

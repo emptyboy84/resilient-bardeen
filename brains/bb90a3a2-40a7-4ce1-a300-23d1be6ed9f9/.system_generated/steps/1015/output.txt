@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+--- Probing FTC for bizNo 771-81-00829 ---
+FTC status: 200
+FTC len: 3372
+Phones in FTC: null
+

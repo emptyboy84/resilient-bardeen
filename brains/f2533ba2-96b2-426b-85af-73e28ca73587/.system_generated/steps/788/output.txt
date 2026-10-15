@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Found superspirit in: 실사DB_162건_전체_법인번호반영.txt
+   Line: 배현명		스위티라엘	7786400482	류예린						superspirit@nate.com		전자상거래 소매업			도매 및 소매업	소매업; 자동차 제외	무점포 소매업
+

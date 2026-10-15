@@ -1,0 +1,15 @@
+The search for "site:bizno.net "180111-0240307" OR "하나기술단"" returned the following summary:
+(주)하나기술단 정보:
+
+*   **회사명**: (주)하나기술단 (Hana Engineering and Registered Architect Co. Ltd)
+*   **법인등록번호**: 180111-0240307[1]
+*   **사업자등록번호**: 602-81-13275[1]
+*   **대표자**: 양영인[1]
+*   **설립일**: 1997-09-04[1]
+*   **주소**: 부산광역시 해운대구 센텀동로 99, 1508호(재송동, 벽산이센텀클래스원)[1]
+*   **주요 사업**: 토목설계, 감리 등 (기타 엔지니어링 서비스업)[1]
+*   **종업원 수**: 57명[1]
+*   **현재 상태**: 계속사업자[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErYygKDcyhykrn7edSiu8hpwggxNtUCFPvC2-_rcC3fGWbFyE2NQoiQBKB2nciuF2r6nuUbO5p8FMdCZUTVdw3KRLCyTNRESG9wIMHbWzuXxpml5ZiR4VjRsU=)

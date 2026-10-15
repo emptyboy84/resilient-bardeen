@@ -1,0 +1,19 @@
+The search for ""옥선영" "부산"" returned the following summary:
+'옥선영'이라는 이름을 가진 부산 지역의 인물 및 정보는 다음과 같습니다.
+
+*   **부산광역시 남구청 공무원**: 부산광역시 남구청 소속으로, 각종 공사 입찰 및 계약 업무를 담당하는 실무자(담당자/집행관)로 확인됩니다[1][2][3].
+*   **부산온누리교회 관계자**: 부산광역시 해운대구 소재 부산온누리교회에서 활동하는 교인으로 언급된 바 있습니다[4][5].
+*   **기타**: 과거 언론 보도 등을 통해 언급된 적이 있는 이름이나, 특정인을 지칭하는 정보가 아닐 수 있는 사례들도 있습니다 (예: 과거 육상 선수[6], 대학생 인터뷰[7], 기업인 등[8][9]).
+
+찾으시는 특정 분야나 구체적인 정보가 있다면 추가로 알려주시기 바랍니다.
+
+Sources:
+[1] [contech.ai.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNxE8olnjgmoSF-R99s6Xv1LDZWwKz60hPNQISni9R4MhtYMzNiE2FbnO1JqHvqo-FQYMmx5hF9szgi9BmRBFVG4vyOV9AWIvZU28rlzCxZ6fHHJDT6D-LnFys3RIooJc4xJidb8-l)
+[2] [bidpro.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE63vZH8mCHMp5wVdVt3v5amOr2KJImv0rMQ5dpU0fG68S-pIUyK9gNf9E9kCcYUQQQ0waTdbglQ0dbk5PW13Jss6nnifrfIEziB7qHj55Gb7576ZBrG1YEzqu1YllDmAE2wDo8DZjmJAe76QJXaEsa117gYLiyeOn93tUk3ncOWw==)
+[3] [contech.ai.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbrhRVKLwjPZVJ6W56vm5IwdbzbHyZqr_93d1mwNS-tEyxI8a9lboDt2h2tapcBOxSfrPyshCueGyNxffYgTAKFmkuN98EJQ_CPXZ3k7Cs_HW427IR6ujHkuHFAb4pKTqeE0uwC8-)
+[4] [onnurips.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyifgICnCnj5HjCLt_7raMcuml8zOy5t6f5tipWJ9FeCAvleprP8DWFlWsdfxGYCOti948zkMSqp9xHBK0qLBzO4PMSVKlV8JD3KAVw==)
+[5] [onnurips.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_ZcrBrQN689yuA6FbYuCfrgkvPs7mKJlxBB6XZhH64j1YEWpXo7RJ-Anw1FcD0DRmSZH4qAUL3ux98oTqecoR5-Q8P7qmMX9KVUnEG6BwFNdy6kiBAEFrIslWJBibDrUBCPu1Hs=)
+[6] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQAYx8dHwKzrowvnwNCz1T-9wZgGrRL4ESE_rNLQ9zGHLK-k25672fdiLA7-GzunTyynbpeZO7r6KhunE12XafTH9LpDH7tPY5NOQkA6eYN8-hzlIPk71GErD2mgWUr8Ui9wnREsS4nkthr5nSg-qt2-s=)
+[7] [civicnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENv7p5HKziq0QINwRaVQ_U04lh8hcjzrH1Pyv3jV-wE08L8rzbdWMPMezs2hCHmnX6WeXfP2THwDQo3CYeEtAozbJsp9e-jaKIodBHhW7sRlfYPwfg9Yo-QwH0rKjKT_Jz8okWFZa0dH0j1YTcv3XJ)
+[8] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd24JCOueLiprohS4pNUjeEJd-OhR17jNz0E_237EzLCDZLWVRsc3OHqTzdYjUAUj_K5wCPg8lr_b69LFLITs4GAGVi121QXDWKYB6tkDWtPI_qETCmVF5X1tlZMGiuk2jtG3wf_84RT_z7tUwZ53ZKfjtvLa90S2XKL7d-JJWJhatzg==)
+[9] [patissier.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIsUg-u2kYvjYApGAkkT5zQRhNh4DjJSw1m2A_7bUZ1NK8Ghugl3cFQDxUihxb1CYrd0UmoxltU-7QWDJREiFRM1S-RxV94KjdneyCHQf0PoULmkk6FBmvBmrk1CNTy2jqBGv5BLQD5olqHKDZ7asLYUsB5nH1LBYEta9mPe5iJ_O_jeqR6mrWktMzmtJfg2p1UgCuly9Om5Ki6A6jFrXbMAiSSzyZoljjlmxbGuRv5WBQTJgGr_sgrFmJwxXUa3O4GgqV6jvjR-KTDnejzSUOkLFh-xIiy6K-SWA-q1aePsUbhE7gGA==)

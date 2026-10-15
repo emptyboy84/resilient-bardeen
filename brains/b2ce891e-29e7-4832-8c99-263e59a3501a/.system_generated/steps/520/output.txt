@@ -1,0 +1,9 @@
+The search for ""아시아드대로 22" OR ("주식회사 보고" 부산) OR ("(주)보고" 부산)" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+* **주소 위치:** 부산광역시 연제구 **아시아드대로 22** (지번: 거제동 887-3)[1]
+* **관련 기업 정보:** 해당 주소지(부산 연제구 아시아드대로 22)를 사업장 주소 또는 부동산임대서비스 등의 업종으로 두고 있는 법인 중 **'(주)보고'** 상호명을 가진 기업이 확인됩니다[2].
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVwRJxM_X1FM6Bs8VcMVuqAgqw6VO1WVEo2ynWTH_L_gevwGIUTToPD9MEQKsKOoKVrgfPIGeYczXXu-UVnmKrKiwpzv9pbXr5UY6ohd92od0IrD2_5cGvUdyZXuzGlcoobr0fx5SY6mELfeB6kR4vesFmjZ54yQY_sINVyrtVwVj1E9aC9MILIUtTmGTU2YYoHKOb5QelSVnRFLpzByF42S4v8UMguvvZESmLHupbtBvc4tV_yO5Kbbu_0hLh)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-oh1PVaow6_s1ovhyg64DcH8HlZ4er2DEE2nE-45f2UFF9tZSAn1iHzuBP1J_Y0ExZabSHSyU3z34HDphEeU5p7nDyXwH1y9g9wQh_r8HrNH5Fm5rYDWQDsZNGlY2ORSQCd_Ut3Jo8Q208dJoL_Mka-tpV9cxAYMjwh-JF6Ke_zRCGdAH9CHywlT1HU1S5nqTH_75EEiYOhzOQzjZW_46u-JIG-dulYvvXXMUof3M_nq_W7ijTrrH4tsPAd80yA==)

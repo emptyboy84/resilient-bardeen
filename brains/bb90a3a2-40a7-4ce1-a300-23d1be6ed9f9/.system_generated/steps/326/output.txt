@@ -1,0 +1,22 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-324.log
+Log output:
+<truncated 1 lines>
+ng Deep Scan Stage 2 for 2658 pure missing companies...
+[FOUND 1] Seq 60 아타드(주) -> 010-4000-1*** (Bizno-Masked)
+[FOUND 2] Seq 46 (주)위너스매니지먼트 -> 010-5757-9542 (Saramin)
+[FOUND 3] Seq 42 (주)에스오더 -> 010-7103-1*** (Bizno-Masked)
+Progress: 6 / 2658 scanned | Found so far: 3
+[FOUND 4] Seq 96 (주)아라더엠 -> 051-987-8000 (Saramin)
+[FOUND 5] Seq 78 (주)에이엠매니지먼트 -> 010-3789-0*** (Bizno-Masked)
+[FOUND 6] Seq 128 (주)글로픽스 -> 010-9484-5*** (Bizno-Masked)
+[FOUND 7] Seq 152 세연소프트(주) -> 010-7132-1*** (Bizno-Masked)
+[FOUND 8] Seq 174 (주)씨플레이 -> 010-9194-9*** (Bizno-Masked)
+[FOUND 9] Seq 184 (주)보보스유 -> 010-9999-0*** (Bizno-Masked)
+[FOUND 10] Seq 153 (주)레오인베스트먼트 -> 051-924-7887 (Saramin)
+[FOUND 11] Seq 167 세종디엑스(주) -> 1555-0066 (Saramin)
+[FOUND 12] Seq 185 (주)에이비엠랩 -> 010-2727-8*** (Bizno-Masked)
+[FOUND 13] Seq 200 (주)아이쿠카 -> 010-3219-4*** (Bizno-Masked)
+
+Last progress: 0s ago

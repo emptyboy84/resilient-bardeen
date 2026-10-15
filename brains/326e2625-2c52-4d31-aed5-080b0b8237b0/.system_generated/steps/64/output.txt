@@ -1,0 +1,12 @@
+The search for "site:k-tass.com 사업자등록번호 OR 전화 OR FAX OR 메일" returned the following summary:
+주식회사 타스(k-tass.com)의 연락처 정보는 다음과 같습니다[1][2].
+
+* **전화번호:** 070-5067-6285[1][2]
+* **이메일:** hsh1084kr@naver.com[1][2]
+* **주소:** 경상남도 김해시 주촌면 서부로 1403번길 75[1][2]
+
+현재 홈페이지상에 사업자등록번호 및 별도의 FAX 번호는 공개되어 있지 않습니다[1][2].
+
+Sources:
+[1] [k-tass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY15L-RcaPzMJU0Xka57y9g15xxblL1xcJDC_jgo0FzvqJjjyk4qUCtu8Pukqkns83Irw27q1OtYPo2-kOg6KI_AB47tuxpRYwQ1PDolx53tdzxLjn)
+[2] [k-tass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhyYszC4caWKImtxMLwFXLYaM2_hzrcZLvdhktmwreXYxsIeR6DB4FGjoFamq8qJ6v8z1zs5UqSUmBIfyMjmdfx6PlyNtk_zU=)

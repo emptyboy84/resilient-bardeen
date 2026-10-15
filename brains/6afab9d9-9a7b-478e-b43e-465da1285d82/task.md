@@ -1,0 +1,5 @@
+- [x] `server.js` 수정: iframe 내부에서 `Ctrl + Win + Left/Right` 단축키 감지 시 부모 창으로 keydown 이벤트 메시지(`IFRAME_KEYDOWN`) 전달 로직 추가
+- [x] `public/app.js` 수정:
+    - [x] `setupEventListeners` 내 키 이벤트 리스너를 `Ctrl + Win` 단축키로 변경
+    - [x] `message` 수신 리스너에 `IFRAME_KEYDOWN` 메시지를 받아 처리하는 로직 추가
+- [x] 작동 테스트 및 검증

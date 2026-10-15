@@ -1,0 +1,66 @@
+### Result
+{
+  "formAction": "https://www.kiscon.net/gongsi/ksc_dft.asp",
+  "formName": "frm1",
+  "buttons": [
+    {
+      "tag": "A",
+      "text": "업체정보입력검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "맞춤형업체검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "공시업체 검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "CM계약실적 검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "지역정보검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "위치정보검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "업체정보입력검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "맞춤형업체검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "공시업체검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "CM계약실적검색",
+      "onclick": null
+    },
+    {
+      "tag": "A",
+      "text": "검색",
+      "onclick": "send('gongsi_list', document.frm1);return false;"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const form = document.querySelector(\'form\');\n  const buttons = Array.from(document.querySelectorAll(\'a, button, img\')).filter(el => {\n    return el.innerText && el.innerText.includes(\'검색\') || (el.getAttribute(\'onclick\') && el.getAttribute(\'onclick\').includes(\'Search\'));\n  });\n  return {\n    formAction: form ? form.action : null,\n    formName: form ? form.name : null,\n    buttons: buttons.map(b => ({ tag: b.tagName, text: b.innerText ? b.innerText.trim() : \'\', onclick: b.getAttribute(\'onclick\') }))\n  };\n}');
+```

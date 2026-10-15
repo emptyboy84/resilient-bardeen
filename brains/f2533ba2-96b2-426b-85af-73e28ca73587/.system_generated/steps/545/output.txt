@@ -1,0 +1,6 @@
+### Result
+"Removed dialogs: 0"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const dialog = document.querySelector(\'#q-portal--dialog--1\');\n  if (dialog) dialog.remove();\n  const overlays = Array.from(document.querySelectorAll(\'.q-dialog, .q-portal\'));\n  overlays.forEach(o => o.remove());\n  return \'Removed dialogs: \' + overlays.length;\n}');
+```

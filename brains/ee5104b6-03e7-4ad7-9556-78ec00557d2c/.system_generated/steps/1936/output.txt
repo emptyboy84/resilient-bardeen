@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5608701744');
+```
+### Page
+- Page URL: https://bizno.net/article/5608701744
+- Page Title: 주식회사 지성홀딩스
+- Console: 1 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-39-11-887Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-39-05-605Z.log#L1-L6

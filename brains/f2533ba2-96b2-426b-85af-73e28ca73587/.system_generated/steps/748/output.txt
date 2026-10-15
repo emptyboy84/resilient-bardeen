@@ -1,0 +1,64 @@
+### Result
+{
+  "inputs": [
+    {
+      "id": "menu-search",
+      "name": "",
+      "type": "text",
+      "placeholder": "찾고자 하는 메뉴명을 입력해 주세요",
+      "value": ""
+    },
+    {
+      "id": "",
+      "name": "key",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "761"
+    },
+    {
+      "id": "search-total-input-id",
+      "name": "q",
+      "type": "search",
+      "placeholder": "",
+      "value": ""
+    },
+    {
+      "id": "key",
+      "name": "key",
+      "type": "hidden",
+      "placeholder": "",
+      "value": "232"
+    },
+    {
+      "id": "searchKrwd",
+      "name": "searchKrwd",
+      "type": "text",
+      "placeholder": "검색어를 입력해주세요",
+      "value": ""
+    }
+  ],
+  "selects": [
+    {
+      "id": "searchCnd",
+      "name": "searchCnd",
+      "options": [
+        {
+          "text": "사업자등록번호",
+          "value": "BRNO"
+        },
+        {
+          "text": "회사명",
+          "value": "BZMNNM"
+        },
+        {
+          "text": "대표자",
+          "value": "RPRSVNM"
+        }
+      ]
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  const selects = Array.from(document.querySelectorAll(\'select\'));\n  return {\n    inputs: inputs.map(i => ({ id: i.id, name: i.name, type: i.type, placeholder: i.placeholder, value: i.value })),\n    selects: selects.map(s => ({ id: s.id, name: s.name, options: Array.from(s.options).map(o => ({ text: o.text, value: o.value })) }))\n  };\n}');
+```

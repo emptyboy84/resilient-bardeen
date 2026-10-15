@@ -1,0 +1,37 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\task_list.md. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,17 +1,17 @@
+ # 가용 전 플랫폼(비즈노·다음/카카오·네이버·채용포털) 심층 전수 조사 작업 목록 (task_list.md)
+ 
+-- [ ] **Task 1: 심층 타겟 고립화 (총 2,277개사)** <!-- id: 0 -->
+-  - 잔여 완전 결측 2,067개사 + 마스킹 번호 보유 210개사 고립화 및 배치 데이터셋 구성
+-- [ ] **Task 2: 비즈노 상호명 역추적 스캐너 구축 및 실행** <!-- id: 1 -->
+-  - 사업자번호 외 상호명(`cleanName`)+부산 조합 질의로 지점/법인 추가 발굴
+-- [ ] **Task 3: Daum / 카카오 통합 포털(로컬+웹 SSR) 전수 스캐너 실행** <!-- id: 2 -->
+-  - 장소 박스(`fn_tit`, `f_url`, `txt_address`) 및 웹 문서 동시 추출
+-- [ ] **Task 4: 네이버 검색 및 스마트플레이스 교차 스캔** <!-- id: 3 -->
+-  - 상호명 + 관내 주소 매칭으로 추가 유선 번호 발굴
+-- [ ] **Task 5: 다중 플랫폼 결과 교차 검증 및 우선순위 통합 병합** <!-- id: 4 -->
+-  - 완전체 유선 > 완전체 무선 > 비즈노 마스킹 무선 우선순위 적용 및 210개 마스킹 승격 처리
+-- [ ] **Task 6: Today 폴더 최종 17열 TXT / XLSX 파일 갱신 배포** <!-- id: 5 -->
+-  - `C:\Users\lg\Desktop\Today` 경로에 UTF-8 BOM 17열 규격 TSV 및 XLSX 최신화 저장
+-- [ ] **Task 7: QA 인스펙터 무결성 전수 검증 및 최종 보고** <!-- id: 6 -->
+-  - 3,979행 17열 컬럼 무결성 검증, 신규 발굴 현황 통계 산출
++- [x] **Task 1: 심층 타겟 고립화 (총 2,277개사)** <!-- id: 0 -->
++  - 잔여 완전 결측 2,067개사 + 마스킹 번호 보유 210개사 고립화 및 배치 데이터셋 구성 완료
++- [x] **Task 2: 비즈노 상호명 역추적 스캐너 구축 및 실행** <!-- id: 1 -->
++  - 법인등록번호 및 상호명 기반 역추적 스캔 완료
++- [x] **Task 3: Daum / 카카오 통합 포털(로컬+웹 SSR) 전수 스캐너 실행** <!-- id: 2 -->
++  - 카카오 로컬 장소 DB + 웹 문서 SSR 문맥 파서 전수 스캔 완료
++- [x] **Task 4: 네이버 검색 및 스마트플레이스 교차 스캔** <!-- id: 3 -->
++  - 스마트플레이스 태그 및 네이버 웹 검색 결과 교차 검증 완료
++- [x] **Task 5: 다중 플랫폼 결과 교차 검증 및 우선순위 통합 병합** <!-- id: 4 -->
++  - 관할 세무서/관공서 번호 100% 필터링, 신규 1,255개사 확보, 36개사 완전체 승격 병합 완료
++- [x] **Task 6: Today 폴더 최종 17열 TXT / XLSX 파일 갱신 배포** <!-- id: 5 -->
++  - `C:\Users\lg\Desktop\Today` 경로에 UTF-8 BOM 17열 규격 TSV 및 XLSX 최신화 저장 완료
++- [x] **Task 7: QA 인스펙터 무결성 전수 검증 및 최종 보고** <!-- id: 6 -->
++  - 3,979행 17열 컬럼 무결성 검증, 전체 1,985개사(49.9%) 확보 확정 완료
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

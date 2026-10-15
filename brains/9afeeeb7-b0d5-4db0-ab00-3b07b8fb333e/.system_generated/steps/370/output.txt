@@ -1,0 +1,14 @@
+The search for ""유잇츠" 양산" returned the following summary:
+검색 결과, '유잇츠'라는 명칭은 양산 지역에서 직접적인 상호나 업체명으로 확인되지 않습니다. 다만, 문의하신 내용과 관련하여 참고하실 만한 정보는 다음과 같습니다.
+
+*   **잇츠풋볼(Its Football):** 양산 지역에서 활동하는 유소년 축구 클럽인 **'잇츠풋볼'**과 **'양산유나이티드'** 간의 연습경기 영상들이 다수 검색됩니다[1][2][3]. 발음이 유사하여 혼동하셨을 가능성이 있습니다.
+*   **유사 명칭 사업체:** 양산시 물금읍 가촌리 일대의 건물 정보 중 '유잇츠'라는 명칭이 언급되는 경우가 있으나, 이는 특정 카페나 매장이 아닌 일반적인 상가 정보나 사업체 등록상의 명칭으로 보입니다[4][5].
+
+혹시 찾으시는 곳이 특정 업종(식당, 카페, 학원 등)인지 알려주시면 더 정확한 정보를 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHczcJtqK_GmyiBM3SwrigIGoT99f9qUl8GW58lZfje0Fnt9UlgYXBKTV1ZUK9CFv1FoD1Wg_0EFI5kqc5-gQ2yy0EDLjqTeM2u6BVh-Z9g756fVjiserynlnT3I-Wrlpw=)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0aMrEgOFt33_Id8x7MeP7ckecZShaAlCxVqW7_4ufkLQcaiVnJtCTy_3pig_cryYJO8zbzxsY6RKv4FGepL2AUWg2idWsypbHcqzSUofxkS7KWAC_fcYDh5AmIQnSB3I=)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvslAT5BNVw-ZtXPQTNJPREPYd_b0RHxmBAUbmv3e9Si8iDogtQKaRAZtNyX_WQa0c_2Z6XhNk1mJnlEb6QV6R8FClc4DJWgYM9s688x2B_pcT2yAs9DipSnSx48XUp7E=)
+[4] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Tldsaf-E0U-shQfmdRUuUrPWbXo13fCbo_ZipZ58V5wkdQVXe9v5Ol9i3nrqx4vRpr21h1sUnk1cqMuJki0dvfhRi1Zfxnk8LCajtbMbEGhamBO59pJgqz2HGqaayTtJqrCnAxDLUN_Dnzu9z97jRIV1RYP75XS-4euDW0AAbMR6P5vwln11o7Z_ldg4biotUkbdmbLqm_XyYj20loVVPrM7ruio_PE8oVyMyTsX-lYiyZXPlH_mGa6Z-zF0J8RefSkfZxYzFSF-yEfxrHqpKbn7ImRuls9myO-wGUQw9KPiA3sleZ5UHiHJggEI)
+[5] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Tldsaf-E0U-shQfmdRUuUrPWbXo13fCbo_ZipZ58V5wkdQVXe9v5Ol9i3nrqx4vRpr21h1sUnk1cqMuJki0dvfhRi1Zfxnk8LCajtbMbEGhamBO59pJgqz2HGqaayTtJqrCnAxDLUN_Dnzu9z97jRIV1RYP75XS-4euDW0AAbMR6P5vwln11o7Z_ldg4biotUkbdmbLqm_XyYj20loVVPrM7ruio_PE8oVyMyTsX-lYiyZXPlH_mGa6Z-zF0J8RefSkfZxYzFSF-yEfxrHqpKbn7ImRuls9myO-wGUQw9KPiA3sleZ5UHiHJggEI)

@@ -1,0 +1,24 @@
+### Result
+{
+  "url": "https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%80%B4%EB%8B%88",
+  "itemsFound": 10,
+  "items": [
+    "일\n\n(주)퀴니쿠니홀딩스\n\n-\n\n대표자명\n김화현\n산업명\n셔츠 및 블라우스 제조업\n기업주소\n서울 금천구 가산디지털*로 **, 제**층 ****-*호",
+    "일\n\n(주)퀴니쿠니\n\n-\n\n대표자명\n김화현\n산업명\n그 외 기타 분류 안된 교육기관\n기업주소\n서울 금천구 가산디지털*로 **, ****호",
+    "개\n\n퀴니스킨케어\n\n402-20-8****\n\n대표자명\n하문경\n산업명\n이용 및 미용업\n기업주소\n전북 전주시 완산구 중화산동*가 *****층 퀴니스킨케어",
+    "개\n\n퀴니퀼트\n\n124-46-0****\n\n대표자명\n최희경\n산업명\n전자상거래 소매 중개업\n기업주소\n경기 성남시 분당구 내정로***번길 **, ***동 **층 ****호",
+    "피\n\n(주)퀴니\n\n120-86-2****\n\n대표자명\n이화경/김성수\n산업명\n방송 프로그램 제작업\n기업주소\n경기 성남시 분당구 황새울로***번길 **",
+    "폐\n\n퀴니\n\n122-13-4****\n\n대표자명\nNAN\n산업명\n전자상거래 소매 중개업\n기업주소\n인천 부평구 이규보로 **-*",
+    "폐\n\n퀴니\n\n114-15-4****\n\n대표자명\n임솔지\n산업명\n전자상거래 소매 중개업\n기업주소\n서울 서초구 사평대로**길 **, *층 ***호",
+    "폐\n\n퀴니온미디어\n\n547-15-0****\n\n대표자명\n박혜진\n산업명\n전자상거래 소매업\n기업주소\n경기 용인시 수지구 죽전로 ***, *층 ***호 H**",
+    "폐\n\n퀴니젤\n\n727-14-0****\n\n대표자명\n이현복\n산업명\n전자상거래 소매 중개업\n기업주소\n서울 강북구 솔샘로**길 **, *층",
+    "폐\n\n퀴니스광고디자인\n\n-\n\n대표자명\n-\n산업명\n-\n기업주소\n경기 부천시 원미구 부일로 ***, *층 ***호"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.q-list > .q-item, .search-result-list > li, li, .q-item\')).map(el => el.innerText).filter(text => text.includes(\'대표자명\'));\n  return {\n    url: window.location.href,\n    itemsFound: items.length,\n    items\n  };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%80%B4%EB%8B%88
+- Page Title: '퀴니' - 검색상세

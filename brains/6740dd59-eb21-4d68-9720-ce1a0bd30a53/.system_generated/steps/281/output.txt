@@ -1,0 +1,27 @@
+The search for ""위니코니" 사업자등록번호 OR "또래나라" 사업자등록번호" returned the following summary:
+요청하신 "위니코니"와 "또래나라"의 사업자 정보와 관련된 검색 결과는 다음과 같습니다.
+
+### **1. 위니코니 (주식회사 위니코니)**
+*   **사업자등록번호:** 검색되는 정보에 따라 다를 수 있으나, 일반적으로 알려진 정보는 **141-81-13988**[1] 등이 확인됩니다. 
+*   **참고:** 온라인 쇼핑몰 등에서 판매되는 제품 정보에 따라 판매자가 상이할 수 있으므로, 특정 쇼핑몰에서 확인하신 사업자 정보와 차이가 있을 수 있습니다[2][3]. 또한 잡플래닛 등에 등록된 기업 정보의 경우 별도의 사업자번호(824-87-03495 등)가 기재된 경우도 있어[4][5], 거래 시 해당 사이트 하단의 사업자 정보를 직접 확인하시는 것이 가장 정확합니다.
+
+### **2. 또래나라**
+*   **사업자등록번호:** "또래나라"라는 명칭은 주로 물놀이 용품(튜브 등)의 브랜드나 어린이집 명칭으로 사용되고 있습니다[6][7][8][9].
+*   **참고:**
+    *   **물놀이 용품 브랜드:** 여러 쇼핑몰(다나와 등)에서 확인되는 또래나라 브랜드 제품의 판매자 사업자번호는 **117-81-40065**[8][9] 또는 **120-81-47521**[10] 등으로 나타납니다. 이는 판매 유통사가 서로 다를 수 있음을 의미합니다.
+    *   **어린이집:** '또래나라어린이집'은 지역별로 다수 존재하며, 이는 개별 어린이집의 고유 사업자 정보를 확인해야 합니다[6][11].
+
+**주의사항:** 동일한 브랜드나 상호를 사용하는 업체가 여러 곳일 수 있고, 온라인 판매의 경우 실제 판매자(입점사)의 사업자 정보가 표시되는 경우가 많습니다. 정확한 확인이 필요하시다면 이용하시려는 쇼핑몰이나 사이트 하단의 **'사업자 정보 확인'** 링크를 통해 해당 시점의 정보를 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSpNTWS2fcYTRnfcTj9qZj-j_fTaMb3yblPRFzwk9muyxj1uhCS7yqUVm4_FknFOxI5xEzC9wmwtxEmQ-3ZROA42ZajqLHLtkGu67iFZTDuybrB_RHsKKsZNOF-YWjGepq)
+[2] [shinsegaetvshopping.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1susaT5s9QZl9pB_mDlc-GKedGcag7GLcO2iQkJyn6dLnYjIXgmB3J7KcXgXGscz-ee4uUMToqO2OAVPbXB6_8miAVFD0gl_9Yp0SRrNtPEx3C3FKIqOLd46ay7_94NFqDB5m12PMQccKVMkHCRMi)
+[3] [homeplus.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEObvCjTKfB-hir-VO83H1R32zMen0Hahq8kTdqi3TzVIwSDHJx755Hap8VWzfNAwqVk7XUsUjR68LYupDNEuFzS1k_adWD1-nuEkYSIlrEYWyEeZVUwyZ0HhkIZDZTsoC73I5WWDnQp_EhXCXemitFHiDWZu18e-Y=)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaikDj42_0WrpMlI4TelqRlmiVWUgcKdIHT4IoLjNEinGy20FKguEN4nSvKUNnXlkbjAJfSPPj7LDOeeBtv4ZrOGIMzwJfVnonNNKyNyX8rrb2Zh8vbSUWGt1WyZgPCZuTFSj66GPUx_mQ-gmjOMAMn4xGBsl7HQW5S-K3X9-XtlcRfApXmIrOU68kR68=)
+[5] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi7qKEV1zn6oUy1tEgNHxIs1K9lFvF-67qm2KFV1utUW0je4uG4Rv9d6U3qavtWT-PIznQVnYLRPWjPAwa0O0c0ULscOi874kpXs-1T_l840wJLRhJ42XWXfajplQ8iJlp-kntlGytEJ2egD9sZDIBune1EnjhNuY59QqfobQpyK6YnB0TzRHX09yrLqPAVyQ=)
+[6] [mom-mom.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ah7G4mOzqWH_iA6zaZ4yCjpmyDXviSSZcsKPa1fbOPOyrTif6dUBXCIdcQQqcbJZtcpYRNx2iO1RxXlnWSmnnx0dgC5Pt5wQjPJTe3alDR6LP1Vhbx4GfeUQuFR_RD32GPq4KgMZTL5R9oc=)
+[7] [danawa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELYgQAh_vCku0rKcrrSiTGGTsSXao13y95CvSRvaNwUIqmnGQjoonojkAxg0YuOfxrs5joBudrpM_NrqwnGDY2O5Vk2giMgvD_s4o8QGqVyQ8goSkO1VJW5l_lVIxj9I8=)
+[8] [danawa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtVX_BVdl7BnCWU51mDCGzlxOD891dQvBJwN06CW76nyjJZ2KptNfC3V1hojeceudaGPizw7XB-b0BG0Z85THA0k274xgfmOUsaYTu7gkI-Z1PMZvxmBOuwL1vjvjIXHM=)
+[9] [danawa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw5cluiC1XGnVky6HxemIC8yEnJb1l2J2nOgJrC3tlwYGV7q2w4532_xvzeqaL7rdDwN89S0HcmBcg1uYN9WLT-bRa9GV9pm_dNY8SWAWaeumPO2DPcgT74b80FCoYIQ==)
+[10] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfEW60JCfoVPUAfUEKomX8Mv6sUiIzWjBk-6su1f9tuVyWaQdwhEFZbZWcdBG3h6YA20tkcQ-23IJl0SRNkJTbEKDrHf3trYfFo1McxlbpyNPRvRcu7mhgxnZuTrHFrBzq7kn2eRfiS16qgQ==)
+[11] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF99tvmE3XGCLbv-gKpFAq97rH0j0uMxo8kx8YIg6HpGXJbpX3G0d-PazMf2pHUEmF-hB3O8qRBHrYUudYX-ofFiVf1v2PSfVRgLOGo7vEqw_vmt4PjKsty3Uy4f08P4euRRF6KD0zZwxTOz1OFY6kbaAb6z2y_5u6Lo3iOenqOtfDoO9e4Rppcs8GzzNTglr7RGtxTt4jKqm6s0RbXZmIWKsWWZ3rnxPPfEtnPYndBdOwNwKxjUDJNUrb8cr7jv2TScklr1X08vuNPLsvlMMLGp0QtzG-SCnFm46_MxaRdGd-VeYq116eWE1mJ4Kb3MaO2iYTh2a7F3oE=)

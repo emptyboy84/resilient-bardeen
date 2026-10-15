@@ -1,0 +1,13 @@
+The search for "site:saramin.co.kr "에스지이" ("반송로" OR "석대동")" returned the following summary:
+사람인(saramin.co.kr)에 등록된 기업 정보 중 **(주)에스지이** (주소: 부산 해운대구 반송로525번길 15, 4층 405호)에 대한 검색 결과입니다[1].
+
+* **기업명:** (주)에스지이[1]
+* **업종:** 응용 소프트웨어 개발 및 공급업[1]
+* **대표자명:** 이혜정[1]
+* **주소:** 부산 해운대구 **반송로**525번길 15, 4층 405호 (반송동 인근)[1]
+* **기업 형태:** 중소기업 (국민연금 기준 사원수 약 3명)[1]
+* **설립일:** 2023년 8월 (업력 4년차)[1]
+* **사람인 기업정보 링크:** [(주)에스지이 사람인 정보 보기](https://www.saramin.co.kr/job-search/company-info-view/csn/RFNvbmpnTW00TC9YNUVoZWJkZ1BMdz09/company_nm/%28%EC%A3%BC%29%EC%97%90%EC%8A%A4%EC%A7%80%EC%9D%B4)[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_TTDUpDbd-LR4XrouCP1HiBUKWBO5Bio1N6T0QFLTI5E2swdraaCWs032MNei8L8s-0tUCtGmd5mq9PHLRFKil02bGllpb6KR5XlCOlUY-yvje6LxFztEaHKmMEG4S_vaQaVFm1Pm92NdDKOuXwxl6xQkHXduLgUjqnKRCELPeACF69z_qp-8ziyq5iy9DrQYnnYHHTtWv-TvKMFSpXAo6ND7HBHIOs-PCAMJ0FxehSqEsC7J8yk5wI2QsBxkZYKQbkJgcPqlKl5jCuXi2A==)

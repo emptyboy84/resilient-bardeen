@@ -1,0 +1,11 @@
+The search for "site:hanyeok.com "760-3" OR "오션타워" OR "1014"" returned the following summary:
+검색 결과, `hanyeok.com`(한역) 사이트의 고객센터 '오시는길' 페이지에 다음과 같은 부산지역 주소 정보가 등록되어 있습니다[1][2]:
+
+* **신주소:** 부산시 해운대구 해운대해변로 203 오션타워 (1712호)[1][2]
+* **구주소:** 부산시 해운대구 우1동 **760-3** 오션타워[1]
+
+(※ 검색어 중 '1014' 등의 번호는 해당 사이트 내 직접적인 매칭 결과 대신 다른 일반 문서들에서 주로 확인되며, '760-3'과 '오션타워'는 한역 부산사무실의 위치 주소 정보와 연관되어 있습니다[1].)
+
+Sources:
+[1] [hanyeok.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvAj1zzawp4p0eWs7D9eux7og-ylWbvWO8SRWA2njUcNFhczXt8Kib26g5JUanqpebCtTcOg8TF3g5GjsenS7uOkq1UjgiZZBJK66Qme-eGzKy4l4gPh1Qkbei0n1P5PMvTD_-BYssGUhe3ghnlhxsv8xw6Yk4pkusrMFVdrsvc-9OaQ==)
+[2] [hanyeok.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdDu1NbCk4kmjrDcoQqg7888Ic7GdVN_aCdNdD1qLyZM_-nnnsALv-5pipOeP5QgcT2-eASG-cm-hXHeXpgwjpz1P5CeoQGKvZc11vr9BHnBY1smckn9IPR7GLywBsQb6XaQXHlM0IjHmbVsahFWFWNOH0rmQyY5zhGAKhVF2fQZOM)

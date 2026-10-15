@@ -1,0 +1,857 @@
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22010-8074-7622%22
+- Page Title: "010-8074-7622" : 네이버 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f366e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f366e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f366e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f366e6]:
+    - generic [ref=f366e8]:
+      - generic [ref=f366e9]:
+        - generic [ref=f366e11]:
+          - heading [level=1] [ref=f366e12]:
+            - link "NAVER" [ref=f366e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=f366e15]:
+            - group "검색" [ref=f366e16]:
+              - combobox "검색어를 입력해 주세요." [ref=f366e18]:
+                - text: "\"010-8074-7622\""
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=f366e20] [cursor=pointer]
+              - button "검색" [ref=f366e22] [cursor=pointer]
+        - generic [ref=f366e1170]:
+          - strong [ref=f366e1171]: 사용자 링크
+          - list [ref=f366e1172]:
+            - listitem [ref=f366e1173]:
+              - link "로그인" [ref=f366e1174] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%2522010-8074-7622%2522
+            - listitem [ref=f366e1178]:
+              - link "서비스 더보기" [ref=f366e1179] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=f366e24]:
+        - generic [ref=f366e26]:
+          - generic [ref=f366e27]:
+            - tab "AI new" [ref=f366e29] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f366e30]: new
+            - tab "블로그" [ref=f366e33] [cursor=pointer]
+            - tab "카페" [ref=f366e35] [cursor=pointer]
+            - tab "클립" [ref=f366e37] [cursor=pointer]
+            - tab "이미지" [ref=f366e39] [cursor=pointer]
+            - tab "지식iN" [ref=f366e41] [cursor=pointer]
+            - tab "동영상" [ref=f366e43] [cursor=pointer]
+            - tab "쇼핑 새 창 열림" [ref=f366e45] [cursor=pointer]:
+              - text: 쇼핑
+              - generic [ref=f366e46]: 새 창 열림
+            - tab "뉴스" [ref=f366e48] [cursor=pointer]
+            - tab "어학사전 새 창 열림" [ref=f366e50] [cursor=pointer]:
+              - text: 어학사전
+              - generic [ref=f366e51]: 새 창 열림
+          - button "더보기" [ref=f366e53] [cursor=pointer]
+        - list [ref=f366e56]:
+          - listitem [ref=f366e57]:
+            - button "공유" [ref=f366e58] [cursor=pointer]
+    - main [ref=f366e59]:
+      - generic [ref=f366e60]:
+        - heading "\"010-8074-7622\" 검색 결과" [level=1] [ref=f366e61]
+        - generic [ref=f366e62]:
+          - generic [ref=f366e66]:
+            - strong [ref=f366e67]: "'\"010-8074-7622\"'"
+            - text: 에 대한 상세검색 결과를 보시겠습니까?
+            - link "상세 검색결과 보기" [ref=f366e68] [cursor=pointer]:
+              - /url: "?ssc=tab.nx.all&where=nexearch&query=%22010-8074-7622%22&sm=tab_dgs&qdt=1"
+          - generic [ref=f366e69]:
+            - generic [ref=f366e75]:
+              - generic [ref=f366e76]:
+                - link "hrdkorea.or.kr hrdkorea.or.kr›cms PDF 새 창 열림" [ref=f366e77] [cursor=pointer]:
+                  - /url: https://hrdkorea.or.kr/cms/download/downloadFile.hrd?attachSeq=2048583
+                  - generic [ref=f366e79]:
+                    - generic [ref=f366e97]: hrdkorea.or.kr
+                    - generic [ref=f366e99]: hrdkorea.or.kr›cms
+                  - generic [ref=f366e103]: PDF
+                  - generic [ref=f366e105]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f366e107] [cursor=pointer]
+              - generic [ref=f366e112]:
+                - link "2024년+기업직업훈련카드+신청목록(2만개소).pdf의 이미지 새 창 열림" [ref=f366e113] [cursor=pointer]:
+                  - /url: https://hrdkorea.or.kr/cms/download/downloadFile.hrd?attachSeq=2048583
+                  - img "2024년+기업직업훈련카드+신청목록(2만개소).pdf의 이미지" [ref=f366e115]
+                  - generic [ref=f366e117]: 새 창 열림
+                - link "2024년+기업직업훈련카드+신청목록(2만개소).pdf 새 창 열림" [ref=f366e119] [cursor=pointer]:
+                  - /url: https://hrdkorea.or.kr/cms/download/downloadFile.hrd?attachSeq=2048583
+                  - generic [ref=f366e120]: 2024년+기업직업훈련카드+신청목록(2만개소).pdf
+                  - generic [ref=f366e121]: 새 창 열림
+                - link "466페이지 5MB번호 소재지(지역) 인증 휴대전화번호 사업장관리번호 대표자명 1 경북 칠곡군 010-****-0000 558-**-028**-0 김*은 2 전남 목포시 010-****-0000 411-**-190**-0 장*진 3 경기 남양주 010-****-0001 859-**-015**-0 박*주 4 대전 대덕구 010-****-0001 439-**-004**-0 정*수 5 대구 북구 010-****-0001 504-**-104**-0 박*석 6 경기... 새 창 열림" [ref=f366e123] [cursor=pointer]:
+                  - /url: https://hrdkorea.or.kr/cms/download/downloadFile.hrd?attachSeq=2048583
+                  - generic [ref=f366e124]:
+                    - generic [ref=f366e125]: 466페이지5MB
+                    - generic [ref=f366e127]:
+                      - text: 번호 소재지(지역) 인증 휴대전화번호 사업장관리번호 대표자명 1 경북 칠곡군
+                      - mark [ref=f366e128]: 010-
+                      - text: "****-0000 558-**-028**-0 김*은 2 전남 목포시"
+                      - mark [ref=f366e129]: 010-
+                      - text: "****-0000 411-**-190**-0 장*진 3 경기 남양주"
+                      - mark [ref=f366e130]: 010-
+                      - text: "****-0001 859-**-015**-0 박*주 4 대전 대덕구"
+                      - mark [ref=f366e131]: 010-
+                      - text: "****-0001 439-**-004**-0 정*수 5 대구 북구"
+                      - mark [ref=f366e132]: 010-
+                      - text: "****-0001 504-**-104**-0 박*석 6 경기..."
+                  - generic [ref=f366e133]: 새 창 열림
+            - generic [ref=f366e138]:
+              - generic [ref=f366e139]:
+                - generic [ref=f366e140]:
+                  - link "인스티즈 www.instiz.net›pt 새 창 열림" [ref=f366e141] [cursor=pointer]:
+                    - /url: https://www.instiz.net/pt/59210
+                    - generic [ref=f366e143]:
+                      - generic [ref=f366e147]: 인스티즈
+                      - generic [ref=f366e149]: www.instiz.net›pt
+                    - generic [ref=f366e153]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f366e155] [cursor=pointer]
+                - generic [ref=f366e160]:
+                  - link "연예인들 전화번호 뿌림ㅋ 새 창 열림" [ref=f366e162] [cursor=pointer]:
+                    - /url: https://www.instiz.net/pt/59210
+                    - generic [ref=f366e163]: 연예인들 전화번호 뿌림ㅋ
+                    - generic [ref=f366e164]: 새 창 열림
+                  - link "2010.04.21.첫번째 자리 010 016 *** *** *** *** 두번째자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018 0019 0020 0021 0022 0023 0024 0025 0026 0027 0028 0029 0030 0031 0032 0033 0034 0035 0036 0037 0038 0039 0040 0041 0042 0043 0044 0045 0046 0047 0048 0049 0050 0051 0052 0053... 새 창 열림" [ref=f366e166] [cursor=pointer]:
+                    - /url: https://www.instiz.net/pt/59210
+                    - generic [ref=f366e167]:
+                      - generic [ref=f366e168]: 2010.04.21.
+                      - generic [ref=f366e169]:
+                        - text: 첫번째 자리
+                        - mark [ref=f366e170]: "010"
+                        - text: 016 *** *** *** *** 두번째자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018 0019 0020 0021 0022 0023 0024 0025 0026 0027 0028 0029 0030 0031 0032 0033 0034 0035 0036 0037 0038 0039 0040 0041 0042 0043 0044 0045 0046 0047 0048 0049 0050 0051 0052 0053...
+                    - generic [ref=f366e171]: 새 창 열림
+              - generic [ref=f366e172]:
+                - generic [ref=f366e174]:
+                  - link "난 너네 휴대전화번호 다알아ㅋㅋ 새 창 열림" [ref=f366e175] [cursor=pointer]:
+                    - /url: https://www.instiz.net/name/6096961
+                    - generic [ref=f366e176]: 난 너네 휴대전화번호 다알아ㅋㅋ
+                    - generic [ref=f366e177]: 새 창 열림
+                  - generic [ref=f366e179]:
+                    - text: 첫번째 자리
+                    - mark [ref=f366e180]: "010"
+                    - text: 016 *** *** *** *** 두번째자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018 0019 0020 0021 0022 0023 0024 0025 0026 0027 0028 0029 0030 0031 0032 0033 0034 0035 0036 0037 0038 0039 0040 0041 0042 0043 0044 0045 0046 0047 0048 0049 0050 0051 0052 0053...
+                - link "관련문서 더보기" [ref=f366e182] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%22010-8074-7622%22+site%3Awww.instiz.net&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f366e191]:
+              - generic [ref=f366e192]:
+                - link "나무원격평생교육원 www.namuedu.co.kr›custom PDF 새 창 열림" [ref=f366e193] [cursor=pointer]:
+                  - /url: https://www.namuedu.co.kr/custom/download.php?file_id=113
+                  - generic [ref=f366e195]:
+                    - generic [ref=f366e199]: 나무원격평생교육원
+                    - generic [ref=f366e201]: www.namuedu.co.kr›custom
+                  - generic [ref=f366e205]: PDF
+                  - generic [ref=f366e207]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f366e209] [cursor=pointer]
+              - generic [ref=f366e214]:
+                - link "2024 (홈페이지 게시용) 기업직업훈련카드 신청목록(2만개소)-압축파일.pdf의 이미지 새 창 열림" [ref=f366e215] [cursor=pointer]:
+                  - /url: https://www.namuedu.co.kr/custom/download.php?file_id=113
+                  - img "2024 (홈페이지 게시용) 기업직업훈련카드 신청목록(2만개소)-압축파일.pdf의 이미지" [ref=f366e217]
+                  - generic [ref=f366e219]: 새 창 열림
+                - link "2024 (홈페이지 게시용) 기업직업훈련카드 신청목록(2만개소)-압축파일.pdf 새 창 열림" [ref=f366e221] [cursor=pointer]:
+                  - /url: https://www.namuedu.co.kr/custom/download.php?file_id=113
+                  - generic [ref=f366e222]: 2024 (홈페이지 게시용) 기업직업훈련카드 신청목록(2만개소)-압축파일.pdf
+                  - generic [ref=f366e223]: 새 창 열림
+                - link "466페이지 5MB번호 소재지(지역) 인증 휴대전화번호 사업장관리번호 대표자명 1 경북 칠곡군 010-****-0000 558-**-028**-0 김*은 2 전남 목포시 010-****-0000 411-**-190**-0 장*진 3 경기 남양주 010-****-0001 859-**-015**-0 박*주 4 대전 대덕구 010-****-0001 439-**-004**-0 정*수 5 대구 북구 010-****-0001 504-**-104**-0 박*석 6 경기... 새 창 열림" [ref=f366e225] [cursor=pointer]:
+                  - /url: https://www.namuedu.co.kr/custom/download.php?file_id=113
+                  - generic [ref=f366e226]:
+                    - generic [ref=f366e227]: 466페이지5MB
+                    - generic [ref=f366e229]:
+                      - text: 번호 소재지(지역) 인증 휴대전화번호 사업장관리번호 대표자명 1 경북 칠곡군
+                      - mark [ref=f366e230]: 010-
+                      - text: "****-0000 558-**-028**-0 김*은 2 전남 목포시"
+                      - mark [ref=f366e231]: 010-
+                      - text: "****-0000 411-**-190**-0 장*진 3 경기 남양주"
+                      - mark [ref=f366e232]: 010-
+                      - text: "****-0001 859-**-015**-0 박*주 4 대전 대덕구"
+                      - mark [ref=f366e233]: 010-
+                      - text: "****-0001 439-**-004**-0 정*수 5 대구 북구"
+                      - mark [ref=f366e234]: 010-
+                      - text: "****-0001 504-**-104**-0 박*석 6 경기..."
+                  - generic [ref=f366e235]: 새 창 열림
+          - generic [ref=f366e236]:
+            - generic [ref=f366e242]:
+              - generic [ref=f366e243]:
+                - generic [ref=f366e244]:
+                  - link "새 창 열림" [ref=f366e246] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh
+                  - link "이실장은 출장중~ 새 창 열림" [ref=f366e252] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh
+                    - generic [ref=f366e253]: 이실장은 출장중~
+                    - generic [ref=f366e254]: 새 창 열림
+                  - generic [ref=f366e255]: 2025.12.11.
+                - button "옵션 메뉴 열기" [ref=f366e259] [cursor=pointer]
+              - generic [ref=f366e265]:
+                - generic [ref=f366e266]:
+                  - link "010 전화 차단방법 아이폰 갤럭시 스팸 제한 새 창 열림" [ref=f366e267] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                    - generic [ref=f366e268]:
+                      - mark [ref=f366e269]: "010"
+                      - text: 전화 차단방법 아이폰 갤럭시 스팸 제한
+                    - generic [ref=f366e270]: 새 창 열림
+                  - link "협찬 010 전화 차단 방법 아이폰 갤럭시 스팸 제한 010 전화 차단 방법 아이폰 갤럭시 스팸 제한 010 전화 차단 방법 아이폰 갤럭시 스팸 제한 스팸번호 차단 바로가기 요즘은 택배, 배달, 은행, 보험, 병원까지 거의 모든 연락이 휴대폰으로 오다 보니 모르는 전화번호가 뜨면 한 번쯤 망설이게 됩니다. “받아야 하나? 스팸 번호인가?” 한 번 잘못 받았다가 광고 전화에... 새 창 열림" [ref=f366e272] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                    - generic [ref=f366e273]:
+                      - text: 협찬
+                      - mark [ref=f366e274]: "010"
+                      - text: 전화 차단 방법 아이폰 갤럭시 스팸 제한
+                      - mark [ref=f366e275]: "010"
+                      - text: 전화 차단 방법 아이폰 갤럭시 스팸 제한
+                      - mark [ref=f366e276]: "010"
+                      - text: 전화 차단 방법 아이폰 갤럭시 스팸 제한 스팸번호 차단 바로가기 요즘은 택배, 배달, 은행, 보험, 병원까지 거의 모든 연락이 휴대폰으로 오다 보니 모르는 전화번호가 뜨면 한 번쯤 망설이게 됩니다. “받아야 하나? 스팸 번호인가?” 한 번 잘못 받았다가 광고 전화에...
+                    - generic [ref=f366e277]: 새 창 열림
+                - generic [ref=f366e278]:
+                  - link "새 창 열림" [ref=f366e279] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                  - link "새 창 열림" [ref=f366e284] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                  - link "새 창 열림" [ref=f366e289] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                  - link "새 창 열림" [ref=f366e294] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                  - link "새 창 열림" [ref=f366e299] [cursor=pointer]:
+                    - /url: https://blog.naver.com/1447sh/224105895009
+                  - generic [ref=f366e304]: "11"
+            - generic [ref=f366e310]:
+              - generic [ref=f366e311]:
+                - generic [ref=f366e312]:
+                  - link "새 창 열림" [ref=f366e314] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jejuzum
+                  - link "성수신당 새 창 열림" [ref=f366e320] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jejuzum
+                    - generic [ref=f366e321]: 성수신당
+                    - generic [ref=f366e322]: 새 창 열림
+                  - generic [ref=f366e323]: 3주 전
+                - button "옵션 메뉴 열기" [ref=f366e327] [cursor=pointer]
+              - generic [ref=f366e333]:
+                - generic [ref=f366e334]:
+                  - link "불당동 나무님 기도 새 창 열림" [ref=f366e335] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jejuzum/224393601667
+                    - generic [ref=f366e336]: 불당동 나무님 기도
+                    - generic [ref=f366e337]: 새 창 열림
+                  - 'link "점사문의 성수신당 010.****.**** #천안점집 #전화점사 #방문점사 #퀴어신점 #연애운 #건강운 #직업운 #쌀점 #재수굿 #우울증 #강박증 #죽음공포증 #워커홀릭 #집착 #영점 #젊은무당 #신점 #삼재풀이 #공수 #산맞이 #인간구설 #점사후기 #전화점사 #애정운 #작두굿 #제자굿 #수양자손 #사업굿 #황해도굿 #이북굿 #금전운 #건강운 #조상풀이 #진오기 #진오귀 #진오기굿 #상문중신내림... 새 창 열림" [ref=f366e339] [cursor=pointer]':
+                    - /url: https://blog.naver.com/jejuzum/224393601667
+                    - generic [ref=f366e340]:
+                      - text: 점사문의 성수신당
+                      - mark [ref=f366e341]: "010"
+                      - text: ".****.**** #천안점집 #전화점사 #방문점사 #퀴어신점 #연애운 #건강운 #직업운 #쌀점 #재수굿 #우울증 #강박증 #죽음공포증 #워커홀릭 #집착 #영점 #젊은무당 #신점 #삼재풀이 #공수 #산맞이 #인간구설 #점사후기 #전화점사 #애정운 #작두굿 #제자굿 #수양자손 #사업굿 #황해도굿 #이북굿 #금전운 #건강운 #조상풀이 #진오기 #진오귀 #진오기굿 #상문중신내림..."
+                    - generic [ref=f366e342]: 새 창 열림
+                - link "새 창 열림" [ref=f366e343] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jejuzum/224393601667
+              - link "도당할머니의 사랑 새 창 열림" [ref=f366e352] [cursor=pointer]:
+                - /url: https://blog.naver.com/jejuzum/224400200998
+                - generic [ref=f366e353]: 도당할머니의 사랑
+                - generic [ref=f366e354]: 새 창 열림
+            - generic [ref=f366e360]:
+              - generic [ref=f366e361]:
+                - generic [ref=f366e362]:
+                  - link "새 창 열림" [ref=f366e364] [cursor=pointer]:
+                    - /url: https://blog.naver.com/bedroom8697
+                  - link "bedroom8697님의 블로그 새 창 열림" [ref=f366e373] [cursor=pointer]:
+                    - /url: https://blog.naver.com/bedroom8697
+                    - generic [ref=f366e374]: bedroom8697님의 블로그
+                    - generic [ref=f366e375]: 새 창 열림
+                  - generic [ref=f366e376]: 4주 전
+                - button "옵션 메뉴 열기" [ref=f366e380] [cursor=pointer]
+              - generic [ref=f366e386]:
+                - generic [ref=f366e387]:
+                  - link "032 02 지역번호의 모르는전화번호 구별법 새 창 열림" [ref=f366e388] [cursor=pointer]:
+                    - /url: https://blog.naver.com/bedroom8697/224385416608
+                    - generic [ref=f366e389]: 032 02 지역번호의 모르는전화번호 구별법
+                    - generic [ref=f366e390]: 새 창 열림
+                  - link "전국 공통 휴대전화 번호 010 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는 010으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울... 요약 010 휴대전화 (전국 공통) 02, 031 등 지역 기반 유선 전화 1544, 1588 등 기업 대표번호, 상담센터 070 인터넷... 새 창 열림" [ref=f366e392] [cursor=pointer]:
+                    - /url: https://blog.naver.com/bedroom8697/224385416608
+                    - generic [ref=f366e393]:
+                      - text: 전국 공통 휴대전화 번호
+                      - mark [ref=f366e394]: "010"
+                      - text: 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는
+                      - mark [ref=f366e395]: "010"
+                      - text: 으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울... 요약
+                      - mark [ref=f366e396]: "010"
+                      - text: 휴대전화 (전국 공통) 02, 031 등 지역 기반 유선 전화 1544, 1588 등 기업 대표번호, 상담센터 070 인터넷...
+                    - generic [ref=f366e397]: 새 창 열림
+                - link "8 새 창 열림" [ref=f366e398] [cursor=pointer]:
+                  - /url: https://blog.naver.com/bedroom8697/224385416608
+                  - generic [ref=f366e399]: "8"
+                  - generic [ref=f366e406]: 새 창 열림
+            - generic [ref=f366e412]:
+              - generic [ref=f366e413]:
+                - generic [ref=f366e414]:
+                  - link "새 창 열림" [ref=f366e416] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33
+                  - link "hellojw33님의 블로그 새 창 열림" [ref=f366e425] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33
+                    - generic [ref=f366e426]: hellojw33님의 블로그
+                    - generic [ref=f366e427]: 새 창 열림
+                  - generic [ref=f366e428]: 4주 전
+                - button "옵션 메뉴 열기" [ref=f366e432] [cursor=pointer]
+              - generic [ref=f366e438]:
+                - generic [ref=f366e439]:
+                  - link "모르는 전화번호 검색 방법 확인하기 사이트 (02 031) 새 창 열림" [ref=f366e440] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33/224384649506
+                    - generic [ref=f366e441]: 모르는 전화번호 검색 방법 확인하기 사이트 (02 031)
+                    - generic [ref=f366e442]: 새 창 열림
+                  - link "전국 공통 휴대전화 번호 010 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는 010으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울... 요약 010 휴대전화 (전국 공통) 02, 031 등 지역 기반 유선 전화 1544, 1588 등 기업 대표번호, 상담센터 070... 새 창 열림" [ref=f366e444] [cursor=pointer]:
+                    - /url: https://blog.naver.com/hellojw33/224384649506
+                    - generic [ref=f366e445]:
+                      - text: 전국 공통 휴대전화 번호
+                      - mark [ref=f366e446]: "010"
+                      - text: 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는
+                      - mark [ref=f366e447]: "010"
+                      - text: 으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울... 요약
+                      - mark [ref=f366e448]: "010"
+                      - text: 휴대전화 (전국 공통) 02, 031 등 지역 기반 유선 전화 1544, 1588 등 기업 대표번호, 상담센터 070...
+                    - generic [ref=f366e449]: 새 창 열림
+                - link "6 새 창 열림" [ref=f366e450] [cursor=pointer]:
+                  - /url: https://blog.naver.com/hellojw33/224384649506
+                  - generic [ref=f366e451]: "6"
+                  - generic [ref=f366e458]: 새 창 열림
+              - link "032 02 010 070 모르는 전화번 검색 카톡 차단 방법 새 창 열림" [ref=f366e462] [cursor=pointer]:
+                - /url: https://blog.naver.com/hellojw33/224390586802
+                - generic [ref=f366e463]:
+                  - text: 032 02
+                  - mark [ref=f366e464]: "010"
+                  - text: 070 모르는 전화번 검색 카톡 차단 방법
+                - generic [ref=f366e465]: 새 창 열림
+            - generic [ref=f366e471]:
+              - generic [ref=f366e472]:
+                - generic [ref=f366e473]:
+                  - link "새 창 열림" [ref=f366e475] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000
+                  - link "쁠로그 새 창 열림" [ref=f366e484] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000
+                    - generic [ref=f366e485]: 쁠로그
+                    - generic [ref=f366e486]: 새 창 열림
+                  - generic [ref=f366e487]: 3주 전
+                - button "옵션 메뉴 열기" [ref=f366e491] [cursor=pointer]
+              - generic [ref=f366e497]:
+                - generic [ref=f366e498]:
+                  - link "032 02 010 070 모르는 전화번 검색 조회 사이트 새 창 열림" [ref=f366e499] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000/224390532358
+                    - generic [ref=f366e500]:
+                      - text: 032 02
+                      - mark [ref=f366e501]: "010"
+                      - text: 070 모르는 전화번 검색 조회 사이트
+                    - generic [ref=f366e502]: 새 창 열림
+                  - link "특히 02·031·032·070·010 번호는 지역번호나 휴대전화 번호라는 것만 알 수 있을 뿐, 번호 자체만으로 안전한 전화인지... 예를 들어 02-XXXX-XXXX 031-XXX-XXXX 070-XXXX-XXXX 010-XXXX-XXXX 형태로 검색하면 해당 번호가 업체 전화번호인지 광고전화로... ━━━━━━━━━━━━━━━ 010 번호도 검색할 수 있을까? 010은 휴대전화 번호입니다. 최근에는 광고나 사칭 전화도... 새 창 열림" [ref=f366e504] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jjj_1000/224390532358
+                    - generic [ref=f366e505]:
+                      - text: 특히 02·031·032·070·
+                      - mark [ref=f366e506]: "010"
+                      - text: 번호는 지역번호나 휴대전화 번호라는 것만 알 수 있을 뿐, 번호 자체만으로 안전한 전화인지... 예를 들어 02-XXXX-XXXX 031-XXX-XXXX 070-XXXX-XXXX
+                      - mark [ref=f366e507]: 010-
+                      - text: XXXX-XXXX 형태로 검색하면 해당 번호가 업체 전화번호인지 광고전화로... ━━━━━━━━━━━━━━━
+                      - mark [ref=f366e508]: "010"
+                      - text: 번호도 검색할 수 있을까?
+                      - mark [ref=f366e509]: "010"
+                      - text: 은 휴대전화 번호입니다. 최근에는 광고나 사칭 전화도...
+                    - generic [ref=f366e510]: 새 창 열림
+                - link "7 새 창 열림" [ref=f366e511] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jjj_1000/224390532358
+                  - generic [ref=f366e512]: "7"
+                  - generic [ref=f366e519]: 새 창 열림
+              - link "모르는 전화번호 검색 방법 확인하기 사이트 (070 010) 새 창 열림" [ref=f366e523] [cursor=pointer]:
+                - /url: https://blog.naver.com/jjj_1000/224381888747
+                - generic [ref=f366e524]:
+                  - text: 모르는 전화번호 검색 방법 확인하기 사이트 (070
+                  - mark [ref=f366e525]: "010"
+                  - text: )
+                - generic [ref=f366e526]: 새 창 열림
+            - generic [ref=f366e532]:
+              - generic [ref=f366e533]:
+                - generic [ref=f366e534]:
+                  - link "새 창 열림" [ref=f366e536] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01
+                  - link "짬짜면 새 창 열림" [ref=f366e545] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01
+                    - generic [ref=f366e546]: 짬짜면
+                    - generic [ref=f366e547]: 새 창 열림
+                  - generic [ref=f366e548]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f366e552] [cursor=pointer]
+              - generic [ref=f366e558]:
+                - generic [ref=f366e559]:
+                  - link "010 모르는 전화번호 검색 조회 사이트 새 창 열림" [ref=f366e560] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01/224396987241
+                    - generic [ref=f366e561]:
+                      - mark [ref=f366e562]: "010"
+                      - text: 모르는 전화번호 검색 조회 사이트
+                    - generic [ref=f366e563]: 새 창 열림
+                  - link "010 모르는 전화번호 검색 조회 사이트, 스팸·광고전화 확인 방법 모르는 010 번호로 전화가 오면 받아야 할지, 다시 전화해도 될지 고민되는 경우가 많습니다. 특히 부재중 전화만... 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 010 모르는 전화번호 조회 가능할까? 가능합니다. 다만 일반 휴대전화 번호의 실제 가입자 이름이나 개인정보를 임의로 확인하는... 새 창 열림" [ref=f366e565] [cursor=pointer]:
+                    - /url: https://blog.naver.com/guru_01/224396987241
+                    - generic [ref=f366e566]:
+                      - mark [ref=f366e567]: "010"
+                      - text: 모르는 전화번호 검색 조회 사이트, 스팸·광고전화 확인 방법 모르는
+                      - mark [ref=f366e568]: "010"
+                      - text: 번호로 전화가 오면 받아야 할지, 다시 전화해도 될지 고민되는 경우가 많습니다. 특히 부재중 전화만... 모르는 전화번호 검색 ━━━━━━━━━━━━━━━
+                      - mark [ref=f366e569]: "010"
+                      - text: 모르는 전화번호 조회 가능할까? 가능합니다. 다만 일반 휴대전화 번호의 실제 가입자 이름이나 개인정보를 임의로 확인하는...
+                    - generic [ref=f366e570]: 새 창 열림
+                - link "7 새 창 열림" [ref=f366e571] [cursor=pointer]:
+                  - /url: https://blog.naver.com/guru_01/224396987241
+                  - generic [ref=f366e572]: "7"
+                  - generic [ref=f366e579]: 새 창 열림
+              - link "010 02 070 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f366e583] [cursor=pointer]:
+                - /url: https://blog.naver.com/guru_01/224395761905
+                - generic [ref=f366e584]:
+                  - mark [ref=f366e585]: "010"
+                  - text: 02 070 모르는 전화번호 검색 방법 확인하기 사이트
+                - generic [ref=f366e586]: 새 창 열림
+            - generic [ref=f366e592]:
+              - generic [ref=f366e593]:
+                - generic [ref=f366e594]:
+                  - link "새 창 열림" [ref=f366e596] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl
+                  - link "꽃같은내인생 새 창 열림" [ref=f366e602] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl
+                    - generic [ref=f366e603]: 꽃같은내인생
+                    - generic [ref=f366e604]: 새 창 열림
+                  - generic [ref=f366e605]: 2주 전
+                - button "옵션 메뉴 열기" [ref=f366e609] [cursor=pointer]
+              - generic [ref=f366e615]:
+                - generic [ref=f366e616]:
+                  - link "010 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f366e617] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl/224399366636
+                    - generic [ref=f366e618]:
+                      - mark [ref=f366e619]: "010"
+                      - text: 모르는 전화번호 검색 방법 확인하기 사이트
+                    - generic [ref=f366e620]: 새 창 열림
+                  - link "전국 공통 휴대전화 번호 010 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는 010으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울 042대전 031경기 043충북 032인천 044세종특별자치시 033강원도 051부산 04 충남 052울산 053대구 061전남 054경북 062광주 055경남 063전북 064제주도 ※ 일반 유선... 새 창 열림" [ref=f366e622] [cursor=pointer]:
+                    - /url: https://blog.naver.com/skdidbruddl/224399366636
+                    - generic [ref=f366e623]:
+                      - text: 전국 공통 휴대전화 번호
+                      - mark [ref=f366e624]: "010"
+                      - text: 전국 공통 휴대전화 번호 (모든 이동통신사 공통 사용) 예전에는 011, 016, 017, 018, 019 번호도 있었지만 현재는
+                      - mark [ref=f366e625]: "010"
+                      - text: 으로 통합 운영됩니다. 2. 지역별 유선전화 번호 (일반전화) 02 서울 042대전 031경기 043충북 032인천 044세종특별자치시 033강원도 051부산 04 충남 052울산 053대구 061전남 054경북 062광주 055경남 063전북 064제주도 ※ 일반 유선...
+                    - generic [ref=f366e626]: 새 창 열림
+                - link "7 새 창 열림" [ref=f366e627] [cursor=pointer]:
+                  - /url: https://blog.naver.com/skdidbruddl/224399366636
+                  - generic [ref=f366e628]: "7"
+                  - generic [ref=f366e635]: 새 창 열림
+              - link "010 02 070 모르는 전화번호 검색 방법 확인하기 사이트 새 창 열림" [ref=f366e639] [cursor=pointer]:
+                - /url: https://blog.naver.com/skdidbruddl/224395725628
+                - generic [ref=f366e640]:
+                  - mark [ref=f366e641]: "010"
+                  - text: 02 070 모르는 전화번호 검색 방법 확인하기 사이트
+                - generic [ref=f366e642]: 새 창 열림
+            - generic [ref=f366e648]:
+              - generic [ref=f366e649]:
+                - generic [ref=f366e650]:
+                  - link "새 창 열림" [ref=f366e652] [cursor=pointer]:
+                    - /url: https://blog.naver.com/redwingheritage
+                  - link "레드윙 코리아 l Red Wing Korea 새 창 열림" [ref=f366e658] [cursor=pointer]:
+                    - /url: https://blog.naver.com/redwingheritage
+                    - generic [ref=f366e659]: 레드윙 코리아 l Red Wing Korea
+                    - generic [ref=f366e660]: 새 창 열림
+                  - generic [ref=f366e661]: 2026.07.22.
+                - button "옵션 메뉴 열기" [ref=f366e665] [cursor=pointer]
+              - generic [ref=f366e671]:
+                - generic [ref=f366e672]:
+                  - link "레드윙 코리아 - 6인치 목토 8074 블랙 하니스 슈케어 새 창 열림" [ref=f366e673] [cursor=pointer]:
+                    - /url: https://blog.naver.com/redwingheritage/224354212528
+                    - generic [ref=f366e674]:
+                      - text: 레드윙 코리아 - 6인치 목토
+                      - mark [ref=f366e675]: "8074"
+                      - text: 블랙 하니스 슈케어
+                    - generic [ref=f366e676]: 새 창 열림
+                  - 'link "이번에 슈케어를 진행한 부츠는 6인치 목토 8074 블랙 하니스 모델입니다. 2025년 발매된 제품으로, 기존 목토에 없었던 아웃솔과 스티치까지 올 블랙을 띄는 매력적인... 레드윙 성수 스토어 서울 성동구 성수이로18길 32 1F, 2F * TEL * 레드윙 가로수길 매장 전화번호 : 070-4610-2800 서플라이루트 & 레드윙 성수 스토어 전화번호 : 070-7622-0094 010-****-**** & 새 창 열림" [ref=f366e678] [cursor=pointer]':
+                    - /url: https://blog.naver.com/redwingheritage/224354212528
+                    - generic [ref=f366e679]:
+                      - text: 이번에 슈케어를 진행한 부츠는 6인치 목토
+                      - mark [ref=f366e680]: "8074"
+                      - text: "블랙 하니스 모델입니다. 2025년 발매된 제품으로, 기존 목토에 없었던 아웃솔과 스티치까지 올 블랙을 띄는 매력적인... 레드윙 성수 스토어 서울 성동구 성수이로18길 32 1F, 2F * TEL * 레드윙 가로수길 매장 전화번호 : 070-4610-2800 서플라이루트 & 레드윙 성수 스토어 전화번호 : 070-"
+                      - mark [ref=f366e681]: "7622"
+                      - text: "-0094"
+                      - mark [ref=f366e682]: 010-
+                      - text: "****-**** &"
+                    - generic [ref=f366e683]: 새 창 열림
+                - link "7 새 창 열림" [ref=f366e684] [cursor=pointer]:
+                  - /url: https://blog.naver.com/redwingheritage/224354212528
+                  - generic [ref=f366e685]: "7"
+                  - generic [ref=f366e692]: 새 창 열림
+          - generic [ref=f366e693]:
+            - generic [ref=f366e699]:
+              - generic [ref=f366e700]:
+                - generic [ref=f366e701]:
+                  - link "새 창 열림" [ref=f366e703] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv
+                  - link "케인TV 팬카페 새 창 열림" [ref=f366e709] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv
+                    - generic [ref=f366e710]: 케인TV 팬카페
+                    - generic [ref=f366e711]: 새 창 열림
+                  - generic [ref=f366e712]: 2025.04.21.
+                - button "옵션 메뉴 열기" [ref=f366e716] [cursor=pointer]
+              - generic [ref=f366e722]:
+                - generic [ref=f366e723]:
+                  - link "고전,스압주의) 아사람 전화번호를 알아내서 친목을 조이는 법 새 창 열림" [ref=f366e724] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e725]: 고전,스압주의) 아사람 전화번호를 알아내서 친목을 조이는 법
+                    - generic [ref=f366e726]: 새 창 열림
+                  - link "첫번째 자리 010 011 두번째 자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018 0019 0020 0021 0022 0023 0024 0025 0026 0027 0028 0029 0030 0031 0032 0033 0034 0035 0036 0037 0038 0039 0040 0041 0042 0043 0044 0045 0046 0047 0048 0049 0050 0051 0052 0053 0054 0055 0056... 새 창 열림" [ref=f366e728] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e729]:
+                      - text: 첫번째 자리
+                      - mark [ref=f366e730]: "010"
+                      - text: 011 두번째 자리 0000 0001 0002 0003 0004 0005 0006 0007 0008 0009 0010 0011 0012 0013 0014 0015 0016 0017 0018 0019 0020 0021 0022 0023 0024 0025 0026 0027 0028 0029 0030 0031 0032 0033 0034 0035 0036 0037 0038 0039 0040 0041 0042 0043 0044 0045 0046 0047 0048 0049 0050 0051 0052 0053 0054 0055 0056...
+                    - generic [ref=f366e731]: 새 창 열림
+                - link "새 창 열림" [ref=f366e732] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+              - generic [ref=f366e738]:
+                - generic [ref=f366e740]:
+                  - link "RE 그냥 은평구 노인회관 가면 되지않냐맨 새 창 열림" [ref=f366e741] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e744]:
+                      - generic [ref=f366e745]: RE
+                      - text: 그냥 은평구 노인회관 가면 되지않냐맨
+                    - generic [ref=f366e746]: 새 창 열림
+                  - link "RE 헉 중간에 내 전화번호도 있다맨 새 창 열림" [ref=f366e747] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e750]:
+                      - generic [ref=f366e751]: RE
+                      - text: 헉 중간에 내 전화번호도 있다맨
+                    - generic [ref=f366e752]: 새 창 열림
+                  - link "RE 세상 모든 스트리머 전화번호 알아버리는 거 아니냐맨이야 새 창 열림" [ref=f366e753] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e756]:
+                      - generic [ref=f366e757]: RE
+                      - text: 세상 모든 스트리머 전화번호 알아버리는 거 아니냐맨이야
+                    - generic [ref=f366e758]: 새 창 열림
+                  - link "RE 아, 아 아 괘씸한 돈통 같으니 당신두 지누처럼 민초 먹어버리렴 새 창 열림" [ref=f366e759] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e762]:
+                      - generic [ref=f366e763]: RE
+                      - text: 아, 아 아 괘씸한 돈통 같으니 당신두 지누처럼 민초 먹어버리렴
+                    - generic [ref=f366e764]: 새 창 열림
+                  - link "RE [함께 봉사활동을 할 [돈통] 를! 모집합니다!] 새 창 열림" [ref=f366e765] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/kanetv/47412?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImthbmV0diIsImFydGljbGVJZCI6NDc0MTIsImlzc3VlZEF0IjoxNzg5NDM1MDcxNjQ5fQ.Clpt2EbOpU1A0H3mVCka7r6NtQvCyToRY4_qXpX8IRo
+                    - generic [ref=f366e768]:
+                      - generic [ref=f366e769]: RE
+                      - text: "[함께 봉사활동을 할 [돈통] 를! 모집합니다!]"
+                    - generic [ref=f366e770]: 새 창 열림
+                - button "다음" [ref=f366e771] [cursor=pointer]
+            - generic [ref=f366e780]:
+              - generic [ref=f366e781]:
+                - generic [ref=f366e782]:
+                  - link "새 창 열림" [ref=f366e784] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/harnessland
+                  - link "하네스랜드 새 창 열림" [ref=f366e790] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/harnessland
+                    - generic [ref=f366e791]: 하네스랜드
+                    - generic [ref=f366e792]: 새 창 열림
+                  - generic [ref=f366e793]: 2025.03.17.
+                - button "옵션 메뉴 열기" [ref=f366e797] [cursor=pointer]
+              - generic [ref=f366e804]:
+                - link "오늘의 재고 (219) 새 창 열림" [ref=f366e805] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/harnessland/3259?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhcm5lc3NsYW5kIiwiYXJ0aWNsZUlkIjozMjU5LCJpc3N1ZWRBdCI6MTc4OTQzNTA3MTY0OX0.eQv-zVxK8gVW7LQnMKy4KvXaBTXbAIfwVOS9tevHLD8
+                  - generic [ref=f366e806]: 오늘의 재고 (219)
+                  - generic [ref=f366e807]: 새 창 열림
+                - link "(SOC11FTOVAL) 7622 5129 157-00066(T50SOSSBU-M8-HSW) 6437 5130 156-01464 5006 5131 156-01743(CSCT120R) 1999 5132 157-00203(T50SOSFT6LGE2) 2995 5133 156-00968... XL03-40D-010-110 941 5199 XL03-48D-15-390 2895 5200 XL03-32D-6.5-390 2698 5201 FR-019-310 401 5202 FR-004-100 1020 5203 FR-012-190 1012 5204 FR-012-380 859 5205 298250... 새 창 열림" [ref=f366e809] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/harnessland/3259?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imhhcm5lc3NsYW5kIiwiYXJ0aWNsZUlkIjozMjU5LCJpc3N1ZWRBdCI6MTc4OTQzNTA3MTY0OX0.eQv-zVxK8gVW7LQnMKy4KvXaBTXbAIfwVOS9tevHLD8
+                  - generic [ref=f366e810]:
+                    - text: (SOC11FTOVAL)
+                    - mark [ref=f366e811]: "7622"
+                    - text: 5129 157-00066(T50SOSSBU-M8-HSW) 6437 5130 156-01464 5006 5131 156-01743(CSCT120R) 1999 5132 157-00203(T50SOSFT6LGE2) 2995 5133 156-00968... XL03-40D-
+                    - mark [ref=f366e812]: 010-
+                    - text: 110 941 5199 XL03-48D-15-390 2895 5200 XL03-32D-6.5-390 2698 5201 FR-019-310 401 5202 FR-004-100 1020 5203 FR-012-190 1012 5204 FR-012-380 859 5205 298250...
+                  - generic [ref=f366e813]: 새 창 열림
+          - generic [ref=f366e820]:
+            - generic [ref=f366e821]:
+              - link "지역거점공공병원알리미 rhs.mohw.go.kr›(260424)2025년+감면.xlsx XLS 새 창 열림" [ref=f366e822] [cursor=pointer]:
+                - /url: https://rhs.mohw.go.kr/Disclosure/downloadFile.do?requestFile=10000004_202604300519540340.xlsx&requestOrgFile=(260424)2025%EB%85%84+%EA%B0%90%EB%A9%B4.xlsx
+                - generic [ref=f366e824]:
+                  - generic [ref=f366e828]: 지역거점공공병원알리미
+                  - generic [ref=f366e830]: rhs.mohw.go.kr›(260424)2025년+감면.xlsx
+                - generic [ref=f366e834]: XLS
+                - generic [ref=f366e836]: 새 창 열림
+              - button "옵션 메뉴 열기" [ref=f366e838] [cursor=pointer]
+            - generic [ref=f366e843]:
+              - link "https://rhs.mohw.go.kr/Disclosure/downloadFile.do?requestFile=10000004_202604300519540340.xlsx&requestOrgFile=(260424)2025%EB%85%8.... 새 창 열림" [ref=f366e845] [cursor=pointer]:
+                - /url: https://rhs.mohw.go.kr/Disclosure/downloadFile.do?requestFile=10000004_202604300519540340.xlsx&requestOrgFile=(260424)2025%EB%85%84+%EA%B0%90%EB%A9%B4.xlsx
+                - generic [ref=f366e846]: https://rhs.mohw.go.kr/Disclosure/downloadFile.do?requestFile=10000004_202604300519540340.xlsx&requestOrgFile=(260424)2025%EB%85%8....
+                - generic [ref=f366e847]: 새 창 열림
+              - 'link "3MB19,010,640 50 87,927,590 30 8,904,450 115,842,680 취약계층(기타감면) smc: 자료편의를 위해 종합검진비는... 57 010-****-**** 경기도 성남시 중원구 원터로18번길 4-1 윌프레도/필리핀/보험X 25.7.28대리인(신창규)... 60 010-****-**** 010-****-**** 경기도 수원시 장안구 장안로90번길 7 26년공공/호흡기장애(중증) 2 공공진료... 새 창 열림" [ref=f366e849] [cursor=pointer]':
+                - /url: https://rhs.mohw.go.kr/Disclosure/downloadFile.do?requestFile=10000004_202604300519540340.xlsx&requestOrgFile=(260424)2025%EB%85%84+%EA%B0%90%EB%A9%B4.xlsx
+                - generic [ref=f366e850]:
+                  - generic [ref=f366e851]: 3MB
+                  - generic [ref=f366e852]:
+                    - text: 19,
+                    - mark [ref=f366e853]: "010"
+                    - text: ",640 50 87,927,590 30 8,904,450 115,842,680 취약계층(기타감면) smc: 자료편의를 위해 종합검진비는... 57"
+                    - mark [ref=f366e854]: 010-
+                    - text: "****-**** 경기도 성남시 중원구 원터로18번길 4-1 윌프레도/필리핀/보험X 25.7.28대리인(신창규)... 60"
+                    - mark [ref=f366e855]: 010-
+                    - text: "****-****"
+                    - mark [ref=f366e856]: 010-
+                    - text: "****-**** 경기도 수원시 장안구 장안로90번길 7 26년공공/호흡기장애(중증) 2 공공진료..."
+                - generic [ref=f366e857]: 새 창 열림
+          - generic [ref=f366e859]:
+            - generic [ref=f366e860]:
+              - generic [ref=f366e862]:
+                - heading "네이버 가격비교" [level=2] [ref=f366e863]
+                - button "이 정보가 표시된 이유" [ref=f366e865] [cursor=pointer]
+                - generic [ref=f366e872]:
+                  - text: 다른 사이트를 보시려면
+                  - link "클릭" [ref=f366e873] [cursor=pointer]:
+                    - /url: https://search.naver.com/search.naver?sm=tab_clk.shpftc&qvt=0&query=%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90%EC%82%AC%EC%9D%B4%ED%8A%B8%20nsite%3Anaver.com&ssc=tab.ur.all
+                  - text: 하세요
+              - generic [ref=f366e874]: 찾으시는 상품과 유사한 상품을 노출합니다.
+              - generic [ref=f366e876]:
+                - generic [ref=f366e877]:
+                  - generic [ref=f366e879]:
+                    - checkbox "N배송 빠르게 받기" [ref=f366e880] [cursor=pointer]
+                    - generic [ref=f366e881]: N배송
+                    - generic [ref=f366e883]: 빠르게 받기
+                  - generic [ref=f366e886]:
+                    - checkbox "빠른배송" [ref=f366e887] [cursor=pointer]
+                    - generic [ref=f366e888]: 빠른배송
+                - button "배송지 설정 새 창으로 열기" [ref=f366e890] [cursor=pointer]:
+                  - text: 배송지 설정
+                  - generic [ref=f366e891]: 새 창으로 열기
+              - list [ref=f366e893]:
+                - listitem [ref=f366e894]:
+                  - generic [ref=f366e895]:
+                    - link "(국내매장판) 나이키 조던23 엔지니어드 재킷 DQ<mark>8074-</mark><mark>010</mark>" [ref=f366e896] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=85891952710&cat_id=50021640&query=%22010-8074-7622%22&t=mu1zftzd&h=aaab378b8d8b34bc4dad8ff51a4b4bb8fcb42a16&frm=NVSCPRO
+                      - img "(국내매장판) 나이키 조던23 엔지니어드 재킷 DQ<mark>8074-</mark><mark>010</mark>"
+                    - generic [ref=f366e898]:
+                      - link [ref=f366e899] [cursor=pointer]:
+                        - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=85891952710&cat_id=50021640&query=%22010-8074-7622%22&t=mu1zftzd&h=aaab378b8d8b34bc4dad8ff51a4b4bb8fcb42a16&frm=NVSCPRO
+                        - generic [ref=f366e900]:
+                          - text: (국내매장판) 나이키 조던23 엔지니어드 재킷 DQ
+                          - mark [ref=f366e901]: 8074-
+                          - mark [ref=f366e902]: "010"
+                      - generic [ref=f366e903]:
+                        - generic [ref=f366e904]:
+                          - generic [ref=f366e905]: 할인 전 판매가
+                          - generic [ref=f366e906]: 159,000
+                          - generic [ref=f366e907]: 원
+                        - generic [ref=f366e908]:
+                          - generic [ref=f366e909]:
+                            - generic [ref=f366e910]:
+                              - text: 6%
+                              - generic [ref=f366e911]: 할인
+                            - generic [ref=f366e912]: 149,000
+                            - generic [ref=f366e913]: 원
+                          - generic [ref=f366e915]:
+                            - generic [ref=f366e921]: 배송비
+                            - text: 3,500원
+                      - generic [ref=f366e922]:
+                        - generic [ref=f366e923]:
+                          - generic [ref=f366e926]: "3.0"
+                          - generic [ref=f366e927]: (1)
+                        - generic [ref=f366e928]: 찜 4
+                      - generic [ref=f366e929]:
+                        - link "사이쥬" [ref=f366e931] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fsizu%3Fnl-ts-pid%3DjqANYwp0jpqWgzXxBn4-140940%26tr%3Dslsmn
+                        - generic [ref=f366e932]: 네이버페이플러스
+                - listitem [ref=f366e939]:
+                  - generic [ref=f366e940]:
+                    - link "(국내매장정품) 나이키 조던23 엔지니어드 재킷 DQ<mark>8074-</mark><mark>010</mark>" [ref=f366e941] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=85906636990&cat_id=50021640&query=%22010-8074-7622%22&t=mu1zftzd&h=2af3ae0a2d72b667c34465a9243fed8d30d930b4&frm=NVSCPRO
+                      - img "(국내매장정품) 나이키 조던23 엔지니어드 재킷 DQ<mark>8074-</mark><mark>010</mark>"
+                    - generic [ref=f366e943]:
+                      - link [ref=f366e944] [cursor=pointer]:
+                        - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=85906636990&cat_id=50021640&query=%22010-8074-7622%22&t=mu1zftzd&h=2af3ae0a2d72b667c34465a9243fed8d30d930b4&frm=NVSCPRO
+                        - generic [ref=f366e945]:
+                          - text: (국내매장정품) 나이키 조던23 엔지니어드 재킷 DQ
+                          - mark [ref=f366e946]: 8074-
+                          - mark [ref=f366e947]: "010"
+                      - generic [ref=f366e949]:
+                        - generic [ref=f366e950]:
+                          - generic [ref=f366e951]: 159,000
+                          - generic [ref=f366e952]: 원
+                        - generic [ref=f366e954]:
+                          - generic [ref=f366e960]: 배송비
+                          - text: 3,000원
+                      - generic [ref=f366e961]:
+                        - generic [ref=f366e962]:
+                          - generic [ref=f366e965]: "5.0"
+                          - generic [ref=f366e966]: (1)
+                        - generic [ref=f366e967]: 찜 1
+                      - generic [ref=f366e968]:
+                        - link "민정잇슈" [ref=f366e970] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fskyshoes%3Fnl-ts-pid%3DjqANYwp0jpqWgzXxBn4-140940%26tr%3Dslsmn
+                        - generic [ref=f366e971]: 네이버페이플러스
+                - listitem [ref=f366e978]:
+                  - generic [ref=f366e979]:
+                    - 'link "[중고]20312876 (중고) NIKE JORDAN AS MJ 23E JKT/나일론 재킷/S/BLK/DQ<mark>8074-</mark><mark>010</mark> 상품 상태 : 중고" [ref=f366e980] [cursor=pointer]':
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=61416845466&cat_id=50020100&query=%22010-8074-7622%22&t=mu1zftze&h=a765f501da48aee63fd85d13b828fc1df77e66c1&frm=NVSCPRO
+                      - 'img "[중고]20312876 (중고) NIKE JORDAN AS MJ 23E JKT/나일론 재킷/S/BLK/DQ<mark>8074-</mark><mark>010</mark> 상품 상태 : 중고"'
+                    - generic [ref=f366e982]:
+                      - 'link "해외 중고 [중고]20312876 (중고) NIKE JORDAN AS MJ 23E JKT/나일론 재킷/S/BLK/DQ8074-010 상품 상태 : 중고" [ref=f366e983] [cursor=pointer]':
+                        - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=61416845466&cat_id=50020100&query=%22010-8074-7622%22&t=mu1zftze&h=a765f501da48aee63fd85d13b828fc1df77e66c1&frm=NVSCPRO
+                        - generic [ref=f366e984]: 해외
+                        - generic [ref=f366e985]: 중고
+                        - generic [ref=f366e986]:
+                          - text: "[중고]20312876 (중고) NIKE JORDAN AS MJ 23E JKT/나일론 재킷/S/BLK/DQ"
+                          - mark [ref=f366e987]: 8074-
+                          - mark [ref=f366e988]: "010"
+                          - text: "상품 상태 : 중고"
+                      - generic [ref=f366e990]:
+                        - generic [ref=f366e991]:
+                          - generic [ref=f366e992]: 76,990
+                          - generic [ref=f366e993]: 원
+                        - generic [ref=f366e995]:
+                          - generic [ref=f366e1001]: 배송비
+                          - text: 무료
+                      - link "G마켓" [ref=f366e1004] [cursor=pointer]:
+                        - /url: http://www.gmarket.co.kr/index.asp?jaehuid=200003874
+              - generic [ref=f366e1005]:
+                - text: 네이버는 상품 판매의 당사자가 아닙니다.
+                - link "법적고지 및 안내" [ref=f366e1006] [cursor=pointer]:
+                  - /url: https://shopping.naver.com/help/legal-basis
+              - link "네이버 가격비교 더보기" [ref=f366e1008] [cursor=pointer]:
+                - /url: https://search.shopping.naver.com/search/all?query=%22010-8074-7622%22&frm=NVSCPRO&nl-ts-pid=jqANYwp0jpqWgzXxBn4-140940
+            - generic [ref=f366e1012]:
+              - generic [ref=f366e1013]:
+                - strong [ref=f366e1014]: AI로 더 알아보기
+                - paragraph [ref=f366e1015]: 딱 맞는 상품을 찾고 구매해보세요.
+              - link [ref=f366e1016] [cursor=pointer]:
+                - /url: https://search.naver.com/search.naver?query=%22010-8074-7622%22&ssc=tab.ait.all&sm=tab_clk.aitabshop&ait_agent_type=shopping&dtm_source=search&dtm_medium=shopping_banner
+          - generic [ref=f366e1023]:
+            - generic [ref=f366e1024]:
+              - generic [ref=f366e1025]:
+                - link "새 창 열림" [ref=f366e1027] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824
+                - link "headache2824님의 블로그 새 창 열림" [ref=f366e1036] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824
+                  - generic [ref=f366e1037]: headache2824님의 블로그
+                  - generic [ref=f366e1038]: 새 창 열림
+                - generic [ref=f366e1039]: 2주 전
+              - button "옵션 메뉴 열기" [ref=f366e1043] [cursor=pointer]
+            - generic [ref=f366e1049]:
+              - generic [ref=f366e1050]:
+                - link "010 모르는 전화번호 검색 조회 사이트 새 창 열림" [ref=f366e1051] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                  - generic [ref=f366e1052]:
+                    - mark [ref=f366e1053]: "010"
+                    - text: 모르는 전화번호 검색 조회 사이트
+                  - generic [ref=f366e1054]: 새 창 열림
+                - link "010 모르는 전화번호 검색 조회 사이트, 누가 전화했는지 확인하는 방법 휴대폰에 모르는 010 번호가 찍혀 있으면 광고전화인지, 업체 연락인지, 다시 전화해도 되는 번호인지 궁금할... 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 모르는 010 번호 어디서 확인할까? 가장 간단한 방법은 검색엔진을 활용하는 것입니다. 전화번호 전체를 010-****-**** 처럼... 새 창 열림" [ref=f366e1056] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                  - generic [ref=f366e1057]:
+                    - mark [ref=f366e1058]: "010"
+                    - text: 모르는 전화번호 검색 조회 사이트, 누가 전화했는지 확인하는 방법 휴대폰에 모르는
+                    - mark [ref=f366e1059]: "010"
+                    - text: 번호가 찍혀 있으면 광고전화인지, 업체 연락인지, 다시 전화해도 되는 번호인지 궁금할... 모르는 전화번호 검색 ━━━━━━━━━━━━━━━ 모르는
+                    - mark [ref=f366e1060]: "010"
+                    - text: 번호 어디서 확인할까? 가장 간단한 방법은 검색엔진을 활용하는 것입니다. 전화번호 전체를
+                    - mark [ref=f366e1061]: 010-
+                    - text: "****-**** 처럼..."
+                  - generic [ref=f366e1062]: 새 창 열림
+              - generic [ref=f366e1063]:
+                - link "새 창 열림" [ref=f366e1064] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                - link "새 창 열림" [ref=f366e1069] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                - link "새 창 열림" [ref=f366e1074] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                - link "새 창 열림" [ref=f366e1079] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                - link "새 창 열림" [ref=f366e1084] [cursor=pointer]:
+                  - /url: https://blog.naver.com/headache2824/224396980936
+                - generic [ref=f366e1089]: "7"
+            - link "모르는 전화번호 검색 방법 확인하기 사이트 (070 010) 새 창 열림" [ref=f366e1093] [cursor=pointer]:
+              - /url: https://blog.naver.com/headache2824/224392909987
+              - generic [ref=f366e1094]:
+                - text: 모르는 전화번호 검색 방법 확인하기 사이트 (070
+                - mark [ref=f366e1095]: "010"
+                - text: )
+              - generic [ref=f366e1096]: 새 창 열림
+          - generic [ref=f366e1098]:
+            - generic [ref=f366e1099]: 이전
+            - generic "페이지 탐색" [ref=f366e1101]:
+              - link "1 페이지" [ref=f366e1102] [cursor=pointer]:
+                - /url: "?nso=&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.nx.all"
+                - text: "1"
+                - generic [ref=f366e1103]: 페이지
+              - link "2 페이지" [ref=f366e1104] [cursor=pointer]:
+                - /url: "?nso=&page=2&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=1"
+                - text: "2"
+                - generic [ref=f366e1105]: 페이지
+              - link "3 페이지" [ref=f366e1106] [cursor=pointer]:
+                - /url: "?nso=&page=3&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=21"
+                - text: "3"
+                - generic [ref=f366e1107]: 페이지
+              - link "4 페이지" [ref=f366e1108] [cursor=pointer]:
+                - /url: "?nso=&page=4&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=41"
+                - text: "4"
+                - generic [ref=f366e1109]: 페이지
+              - link "5 페이지" [ref=f366e1110] [cursor=pointer]:
+                - /url: "?nso=&page=5&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=61"
+                - text: "5"
+                - generic [ref=f366e1111]: 페이지
+              - link "6 페이지" [ref=f366e1112] [cursor=pointer]:
+                - /url: "?nso=&page=6&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=81"
+                - text: "6"
+                - generic [ref=f366e1113]: 페이지
+              - link "7 페이지" [ref=f366e1114] [cursor=pointer]:
+                - /url: "?nso=&page=7&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=101"
+                - text: "7"
+                - generic [ref=f366e1115]: 페이지
+              - link "8 페이지" [ref=f366e1116] [cursor=pointer]:
+                - /url: "?nso=&page=8&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=121"
+                - text: "8"
+                - generic [ref=f366e1117]: 페이지
+              - link "9 페이지" [ref=f366e1118] [cursor=pointer]:
+                - /url: "?nso=&page=9&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=141"
+                - text: "9"
+                - generic [ref=f366e1119]: 페이지
+              - link "10 페이지" [ref=f366e1120] [cursor=pointer]:
+                - /url: "?nso=&page=10&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=161"
+                - text: "10"
+                - generic [ref=f366e1121]: 페이지
+            - link "다음" [ref=f366e1122] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%22010-8074-7622%22&sm=tab_pge&ssc=tab.ur.all&start=1"
+        - generic [ref=f366e1127]:
+          - link [ref=f366e1128] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f366e1130]:
+              - strong [ref=f366e1131]: 태그 하나로, 기록은 더 멀리
+              - paragraph [ref=f366e1132]: 오늘의 경험을 기록하고 포인트 적립
+          - link [ref=f366e1133] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2609-shopping-002&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F6a4f0fb8e73d32500f261a71%3FlayerId%3DL_260811143826330%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2609-shopping-002
+            - generic [ref=f366e1135]:
+              - strong [ref=f366e1136]: 추석+세일
+              - paragraph [ref=f366e1137]: 선물핫딜부터 선착순 쿠폰까지!
+          - link [ref=f366e1138] [cursor=pointer]:
+            - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt
+            - generic [ref=f366e1140]:
+              - strong [ref=f366e1141]: 적립적인 멤버십 전용카드
+              - paragraph [ref=f366e1142]: 네이버 현대카드 Ed.3
+          - link [ref=f366e1143] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f366e1145]:
+              - strong [ref=f366e1146]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f366e1147]: 검색이 대화가 되다
+    - generic [ref=f366e1148]:
+      - link "맨위로" [ref=f366e1150] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f366e1153]:
+        - link "전체서비스 새 창 열림" [ref=f366e1155] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+          - text: 전체서비스
+          - generic [ref=f366e1156]: 새 창 열림
+        - link "이용약관 새 창 열림" [ref=f366e1158] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+          - text: 이용약관
+          - generic [ref=f366e1159]: 새 창 열림
+        - link "개인정보처리방침 새 창 열림" [ref=f366e1161] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f366e1162]: 개인정보처리방침
+          - generic [ref=f366e1163]: 새 창 열림
+        - link "검색 고객센터 새 창 열림" [ref=f366e1165] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+          - text: 검색 고객센터
+          - generic [ref=f366e1166]: 새 창 열림
+        - link "© NAVER Corp. 새 창 열림" [ref=f366e1168] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
+          - text: © NAVER Corp.
+          - generic [ref=f366e1169]: 새 창 열림
+```

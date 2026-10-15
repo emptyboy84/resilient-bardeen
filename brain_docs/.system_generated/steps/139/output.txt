@@ -1,0 +1,15 @@
+The search for "site:linkonbiz.com "726-86-01973" OR "온클레브"" returned the following summary:
+링크온비즈(Linkonbiz) 플랫폼에 등록된 **(주)온클레브(Onclev.Inc)** 기업 정보입니다[1]. 
+
+* **기업명:** (주)온클레브 (Onclev.Inc)[1][2]
+* **사업 분야:** AI 기반 가상자산 추적 자동화 및 블록체인·인공지능 딥테크 스타트업[3]
+* **주요 특징:** 
+  * 4차 산업 기술을 활용한 가상자산 범죄 대응 및 수사 지원 솔루션 연구·개발[3]
+  * 기술보증기금 및 창업진흥원 기술 우수 기업 선정[3]
+  * 서울경찰청 광역수사대 피드백을 반영한 일선 수사 환경 맞춤형 개발 진행[3]
+  * 주요 솔루션 예: AI 기반 가상자산 추적/수사 솔루션('ArrestBC' 등)[2]
+
+Sources:
+[1] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0hlbXiWlt-rvqcF0eHLfmySuCktxIq7CwKb7c--v_4uGPnH5Zx3tcmZOPg-HJOmiMf2dFjL3EGBvnrrQQgAHRwoV2JRSEB0d60BfJdHDbZhQDK2T5U6HLxNAX6mLcWGs=)
+[2] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKIZY59bDgKvpxklzAszdKeefm2aDYZ5XSan3eWO1uvBBRS_DTqkCL2YFF5B1Qfa3p1BkphlOwgVKoCadvU9pFml3cGUwN6WMPpZ7G-36Dm-41IAEyHecdDOm-Im5fb6BcAmn5)
+[3] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsp9hkxvd-RAD12SzeInSLAn9yn9G49DPz0j-FOo_Rm5Z7QK9kYpIdyn6Soe7tij-XyWrAtgk99X9yJOWgKqibiRmKU62RuW6aUmMlSC2aQoD7u62UgbLcgUU=)

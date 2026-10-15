@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Headers: {
+  'content-type': 'text/html; charset=utf-8',
+  'content-length': '9074',
+  connection: 'keep-alive',
+  date: 'Wed, 14 Oct 2026 02:44:05 GMT',
+  vary: 'Accept-Encoding, Origin',
+  'cache-control': 'private, no-cache, no-store, max-age=0, must-revalidate',
+  etag: '"iy7a3lf621702"',
+  'x-cache': 'Miss from cloudfront',
+  via: '1.1 106362173b98277cf826f726a8ec546c.cloudfront.net (CloudFront)',
+  'x-amz-cf-pop': 'ICN80-P3',
+  'x-amz-cf-id': 'BfRwYmT5gSGrZXhU-DneFFc7qhMjDWYWk3aAI6oI1D5W0Jz8mTU6TQ=='
+}
+Length: 9074
+<!DOCTYPE html><html lang="ko"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><style>:root {
+          --site-ratio: NaN;
+          --site-width: 1280px;
+          --cell-gap-size: 0px;
+          --site-max-width: calc(var(--site-width) + var(--cell-gap-size));
+          --cell-max-width: calc((min(var(--site-max-width), calc(100vw - 40px))) / 48 - var(--cell-gap-size));;
+          --cell-size-in-code: 0;
+          --mobile-ratio: 1;
+        }</style><title>OnB Space Inc.</title><meta name="google-site-verification" content="QhTENt0RufVDMW-4IyR79iu66LbSOzxhb_41Iv9Regs"/><meta name="language" content="kr"/><meta name="referrer" content="always"/><meta name="title" content="OnB Space Inc."/><meta name="description" content="OnB Space Inc. is deep-tech startup for new space market"/><meta name="keywords" content="satellite, artificial satellite, cubesat, gnss-ro, new space, space"/><meta name="author" content="OnB Space Inc."/><meta name="robots" content="index, follow"/><meta property="og:site_name" content="OnB Space"/><meta property="og:type" content="site"/><meta property="og:url" content="https://www.onbspace.com/"/><meta property="og:title" content="OnB Space Inc."/><meta property="og:description" content="OnB Space Inc. is deep-tech startup for new space market"/><meta property="og:image" content="https://cdn.qshop.ai/1132/static/thumbnail/75f67940c0dc11ef9e15cffdecea5cd1.jpg"/><link rel="canonical" href="https://www.onbspace.com/"/><link
+

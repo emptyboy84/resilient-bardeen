@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+\/article\/[0-9]+ : '\/article\/[0-9]+' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ�
+� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:9 �:50
++ ... st articles = [...html.matchAll(/<a href=\"(\/article\/[0-9]+)\"[^>]* ...
++                                                 ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/article\/[0-9]+:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

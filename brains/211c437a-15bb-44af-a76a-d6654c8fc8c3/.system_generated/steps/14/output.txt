@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+Status FriendlyName    InstanceId                                                                                      
+------ ------------    ----------                                                                                      
+OK     HID �԰� �콺 HID\SYN1B8B&COL01\5&154DB3C4&0&0000                                                             
+OK     HID �԰� �콺 HID\{00001812-0000-1000-8000-00805F9B34FB}_DEV_VID&0232C2_PID&6621_REV&0001_E34F2F84BA8D&COL0...
+
+
+

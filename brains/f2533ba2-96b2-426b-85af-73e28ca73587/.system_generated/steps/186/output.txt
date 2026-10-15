@@ -1,0 +1,13 @@
+The search for ""주식회사 주영" "삼성중공업" "765-86-01226" OR "7658601226"" returned the following summary:
+문의하신 사업자등록번호 **765-86-01226**에 해당하는 기업 정보는 다음과 같습니다.
+
+*   **기업명:** 주식회사주영[1][2]
+*   **소재지:** 경상남도 거제시 장평3로 80 (장평동, 삼성중공업(주) 거제조선소)[1]
+*   **업종:** 선박부품 관련 서비스[1][2]
+*   **영업 상태:** **폐업**[1][2]
+
+해당 기업은 삼성중공업 거제조선소 내에 소재했던 것으로 확인되며, 현재는 폐업 상태입니다[1].
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6G2VgohomA8fAXQfCvA33n_R2e53_dkDnwLZyYxA0Zt4xyCe3sX6ADV4IzqiDKU5LnPhlgFb9mvuEakb-RdAXaI_VVHkHOTD0vzudr_mSI1jxl5tWJ-F84NxspVAklnW8fg==)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6G2VgohomA8fAXQfCvA33n_R2e53_dkDnwLZyYxA0Zt4xyCe3sX6ADV4IzqiDKU5LnPhlgFb9mvuEakb-RdAXaI_VVHkHOTD0vzudr_mSI1jxl5tWJ-F84NxspVAklnW8fg==)

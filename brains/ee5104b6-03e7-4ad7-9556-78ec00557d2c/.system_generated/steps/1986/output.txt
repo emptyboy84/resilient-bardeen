@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?page=2&keyword=%EB%AA%85%EC%8A%B9%EA%B8%B0%EC%97%85');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?page=2&keyword=%EB%AA%85%EC%8A%B9%EA%B8%B0%EC%97%85
+- Page Title: '명승기업' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-48-41-255Z.yml)

@@ -1,0 +1,9 @@
+### Result
+"https://bizno.net/"
+### Ran Playwright code
+```js
+await page.evaluate('() => window.location.href');
+```
+### Page
+- Page URL: https://bizno.net/
+- Page Title: 비즈노(사업자등록번호조회)

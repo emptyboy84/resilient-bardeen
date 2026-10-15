@@ -1,0 +1,16 @@
+The search for ""마켓비즈" OR "marketbiz" 기업정보 OR 사업자등록번호" returned the following summary:
+기업정보 및 분석 플랫폼인 **‘마켓비즈(MarketBZ)’**의 사업자등록 및 회사 기본 정보는 다음과 같습니다[1].
+
+* **사이트 명칭 / 서비스명:** 마켓비즈 (MarketBZ)[1]
+* **사업자등록번호:** `205-21-72706`[1]
+* **대표자:** 설다은[1]
+* **업종:** 데이터베이스 및 온라인 정보 제공업[2]
+* **통신판매업신고:** 제 2024-서울마포-1524 호[1]
+* **주소:** 서울특별시 마포구 신촌로28길 8[1]
+* **공식 이메일:** marketing@marketbz.com[1]
+* **주요 서비스:** 기업 검색 및 통합 상세 조회, 재무·공시 분석, 이상징후 모니터링, 경쟁사 및 제품 시장 비교, 목적별 전문 기업 분석 보고서 제공[3]
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzQ9R1f-B7IwAYwTjfmOAwm1KbUftyg65s67JAJjTHyCKXm0m1YWKraNQylHFoaBJyXovfPSFOhHpWE_mUO18poFIk9Zk21mEqoIY=)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvptRrImPGXyjXdW5QDslPRLguIEdbjEMHn9VUk9alXvAQktdetm0Fnnsiw01GnoLeeOva7tb7mZTvjPHF2LeM-Bt9shyTlQgiSqp_fkIcN4uIbWoXYjM23r85z0X3ENxBtDw=)
+[3] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvk0YD-IASJFsLvoa4S8vO9x3Cv1p9K-4SWkrpg38t49uCpRqDQLNYMj1UsujVnv5eiDRZ0Oke_TS2clV4gqElNHeF0BPQou3dKIbOu88v-y1m_swtoVo=)

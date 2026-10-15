@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090793741');
+```
+### Page
+- Page URL: https://bizno.net/article/6090793741
+- Page Title: 대아정밀
+- Console: 1 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T02-23-00-165Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T02-22-54-304Z.log#L1-L9

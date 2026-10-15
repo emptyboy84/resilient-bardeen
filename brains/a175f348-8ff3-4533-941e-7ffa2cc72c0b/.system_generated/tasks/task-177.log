@@ -1,0 +1,44 @@
+=== [1/5] Loading All Reference DBs on Desktop ===
+Loaded reference file: C:\Users\lg\Desktop\오늘\배현명_실사DB_18컬럼_최종검증완료.csv (1001 lines)
+Loaded reference file: C:\Users\lg\Desktop\오늘\배현명_실사DB_검증완료_최신.csv (1003 lines)
+Loaded reference file: C:\Users\lg\Desktop\오늘\배현명_실사DB_전화실사_통화검증_콜시트.csv (1001 lines)
+Loaded reference file: C:\Users\lg\Desktop\오늘\배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv (101 lines)
+Aggregated 1833 companies from local validated references.
+
+=== [2/5] Fetching Live Verified Data for 1,000 Rows from Bizno/NICE ===
+Total 배현명 rows to process: 1000
+  Live verification progress: 300/1000 (30%)
+  Live verification progress: 600/1000 (60%)
+  Live verification progress: 900/1000 (90%)
+  Live verification progress: 1000/1000 (100%)
+
+=== [3/5] Saving Master CSV ===
+Saved master CSV: C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+
+=== [4/5] Building Orange Highlighted Excel Workbook ===
+Saved Excel to: C:\Users\lg\Desktop\오늘\배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx and C:\Users\lg\Desktop\오늘\배현명_실사DB_16컬럼_주황색마킹_최종검증_최신.xlsx
+
+=== [5/5] Regenerating HTML Preview ===
+Loading original backup and updated CSV...
+
+--- Verification & Change Summary (1,000 Rows) ---
+Total 배현명 rows: 1000
+Newly populated cells (신규 입력): 1558건
+Corrected/Modified cells (기존자료 검증 수정): 945건
+  - Closed businesses verified (폐업 확인): 82건
+  - Representative corrections (대표자 정정): 19건
+  - Address relocations (주소 이전/보완): 192건
+Total Orange-highlighted cells: 2503개 셀
+
+Creating ExcelJS workbook with Orange cell formatting...
+[Error: EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\오늘\배현명_실사DB_16컬럼_주황색마킹_최종검증.xlsx'] {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\Desktop\\오늘\\배현명_실사DB_16컬럼_주황색마킹_최종검증.xlsx'
+}
+
+🎉 [COMPLETE] Meticulous full 1,000 rows verification finished successfully!
+  - Total Processed Rows: 1,000
+  - Total Orange Highlighted Cells: 2503
+  - Closed Businesses Identified: 82

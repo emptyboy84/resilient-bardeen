@@ -1,0 +1,31 @@
+
+The command exited with code 1.
+Output:
+�ġ �:8 �:53
++   const nice = text.match(/nicebizinfo\.com[^\"]*/gi);
++                                                     ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:42
++   console.log('Nice matches in Saramin:', nice);
++                                          ~
+',' �ڿ� � �ϴ�.
+�ġ �:9 �:43
++   console.log('Nice matches in Saramin:', nice);
++                                           ~~~~
+� �Ǵ� � �ġ � 'nice' �ū�Դϴ�.
+�ġ �:9 �:42
++   console.log('Nice matches in Saramin:', nice);
++                                          ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:9 �:47
++   console.log('Nice matches in Saramin:', nice);
++                                               ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:14 �:2
++ "
++  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

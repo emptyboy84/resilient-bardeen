@@ -1,0 +1,6 @@
+### Result
+"다른 지역 검색하기\n괴정만화만화방\n현재 위치에서\n329km\n부산 사하구 괴정동\n상세주소 열기\n출발도착\n박서방 대전본점장난감\n영업 중19:00에 영업 종료\n현재 위치에서\n141km\n대전 서구 괴정동\n상세주소 열기\n출발도착\n이전페이지\n1\n다음페이지"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const buttons = Array.from(document.querySelectorAll(\'button\'));\n  const target = buttons.find(b => b.innerText.includes(\'상세주소\'));\n  if (target) target.click();\n  return document.body.innerText;\n}');
+```

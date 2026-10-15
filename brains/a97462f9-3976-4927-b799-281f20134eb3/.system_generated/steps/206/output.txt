@@ -1,0 +1,6 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6740dd59-eb21-4d68-9720-ce1a0bd30a53\\scratch\\export_results.js","LineNumber":277,"LineContent":"      note: '인크루트·쿠키딜 실적 교차 확인',"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6740dd59-eb21-4d68-9720-ce1a0bd30a53\\scratch\\export_results.js","LineNumber":278,"LineContent":"      source: '인크루트/쿠키딜'"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\implementation_plan.md","LineNumber":38,"LineContent":"  1. **기업정보 포털**: 비즈노(bizno.net), 머니핀(moneypin.biz), 나이스비즈인포(nicebizinfo.com), 쿠키딜(kookiedil.com)"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\implementation_plan.md","LineNumber":55,"LineContent":"    B --\u003e C[\"비즈노/머니핀/나이스/쿠키딜/지도 교차 수집\"]"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\implementation_plan.md","LineNumber":77,"LineContent":"  - **머니핀 / 나이스비즈인포 / 쿠키딜**: 비즈노 누락 항목 상호 보완 및 사업자번호 일치 검증"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\implementation_plan.md.metadata.json","LineNumber":2,"LineContent":"  \"summary\":  \"부산정보산업진흥원 CT산업 실태조사 모집단 엑셀 데이터 패턴 분석 결과 및 사업자번호 누락 318개사 대상 교차 검증/현행화 계획 수립. 종사자수 비즈노 고정 및 기타 정보 다채널(비즈노/머니핀/나이스비즈인포/쿠키딜/지도) 단일 최적값 입력, 엑셀 프로세스 비간섭 보장.\","}

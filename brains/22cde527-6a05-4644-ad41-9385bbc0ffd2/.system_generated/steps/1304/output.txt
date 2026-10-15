@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=site%3Abook.mcst.go.kr+%22%EB%8F%99%EC%95%84%EB%8C%80%ED%95%99%EA%B5%90%EC%B6%9C%ED%8C%90%EC%82%AC%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=site%3Abook.mcst.go.kr+%22%EB%8F%99%EC%95%84%EB%8C%80%ED%95%99%EA%B5%90%EC%B6%9C%ED%8C%90%EC%82%AC%22
+- Page Title: site:book.mcst.go.kr "동아대학교출판사" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-50-59-073Z.yml)

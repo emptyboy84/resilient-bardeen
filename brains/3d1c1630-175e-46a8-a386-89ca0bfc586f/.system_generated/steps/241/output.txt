@@ -1,0 +1,15 @@
+The search for ""듀오정보" "부산경남지사" "601-85-14298"" returned the following summary:
+문의하신 **"듀오정보"**, **"부산경남지사"**, **"601-85-14298"** 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **사업자등록번호 관련:** 문의하신 번호(601-85-14298)는 공식 결혼정보회사인 **듀오정보(주)**의 전국 공통 사업자등록번호와 일치하지 않습니다. 듀오정보(주)의 공식 사업자등록번호는 **214-86-28824**입니다[1][2][3].
+*   **지사 운영:** 듀오는 부산 등 전국 주요 도시에 지사를 운영하고 있으나, 각 지사는 듀오정보(주) 본사 체제로 운영되며 별도의 사업자등록번호를 사용하는 독립 법인이 아닌 경우가 많습니다[4][5][3].
+
+해당 번호(601-85-14298)를 사용 중인 업체가 듀오의 공식 지사인지 확인이 필요하시다면, 듀오 공식 고객센터(1577-8333)를 통해 직접 문의하시거나 듀오 공식 홈페이지의 지사 안내 페이지를 확인하시는 것을 권장합니다[6][3].
+
+Sources:
+[1] [duo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkBXv6v_xRuiUQUOjOjTT073B-Hp0p3RhZQ9MogoUKzsz_FT_fmLsL2hQZpDyQKZS8bZWEVySSCZ0qkZuDAVDnYAF9IRKpIyvnneQg1iL3L6FhvkPL70Uo2JuZxBuVILyKtdVhbr7pPJHZD6Sw8mRo34g=)
+[2] [duo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWgsfCA-cqxlW2k8e3e-Mi0xs8dPcUWhiiKaDv2fG_6z96KymqUgtTvUOH5ecxHGyPyakwAUaKpPBNL6LIEA_lPtJ4oF93sSHScezmFeUYryojjNB3uJrVPJjvLmBn)
+[3] [duo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHbfEObtqCI1efHyvLzRiRw6dNdJomZHuZhmntF6fgnmUKhAN8FCcLj0GEtgYQmGrqW-1Wlb3Dl3immLpQ-b3c5DQ6eZq3vD04iehT03DBRXl8VISNmj-rWQ4lT3fjxLYjuWY9VBaklfFR)
+[4] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWEpy_OYkwKSx2KyqQch-UThZhmrWL2CvH0uK1AirDrlHXw2EMdO-tj3ueot1al7sjyp2um0ev1XcV8Tb4t1sjbALrF82Psxy3fTTQWClWsSH-3D6yM5Jsd1XHd8oOzlGqqLvq-tilkWc7cgAn9qPuJhOpj6ZoDtxoIA==)
+[5] [duo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7JltJEdr0JKaRS6SLfb7TKe1ehIk3-f_Aiaw3cmRScgR73KbGOYQvFlAwi66FwN4g_NnurjsSMoodMC1g_V79wpMIFifKG1ylj0xb)
+[6] [duo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYIRMxWLrUJxihDyzl6tEyqrL9ULlc3kjSbm_eyUExw6quYQ6BIwTfnirxhIEPOxJALByA5e_oLrisYH7UE6X9DJWbtWlyFCee3iq_vZW8kcFzRZ5TVXOY8kc8wD9tErnbWViSXx8YENtXJjc=)

@@ -1,0 +1,59 @@
+### Result
+[
+  {
+    "id": "mf_wfm_potal_main_wf_header_gen_depth1_2_gen_depth2_3_btn_top_menu2",
+    "text": "상호검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_header_wq_uuid_5309",
+    "text": "검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_header_btn_srch",
+    "text": "검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_header_btn_close_search",
+    "text": "검색어입력닫기"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_header_gen_sitemap_depth1_2_gen_sitemap_depth2_3_lbl_sitemap_menu2",
+    "text": "상호검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_header_gen_sitemap_depth1_5_gen_sitemap_depth2_2_gen_sitemap_depth3_2_btn_sitemap_menu3",
+    "text": "통합검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_location_btn_location_level2",
+    "text": "상호검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_location_gen_location2_3_btn_location",
+    "text": "상호검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_location_wf_help_main_wq_uuid_5388",
+    "text": "용어검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wf_location_wf_help_main_wf_help_sub2_btn_srch",
+    "text": "검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_tac_conm_srch_tab_tabitem1_tabHTML",
+    "text": "상호(명칭)로 검색"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_tac_conm_srch_tab_tabitem2_tabHTML",
+    "text": "성명으로 검색(미성년자·법정대리인·지배인)"
+  },
+  {
+    "id": "mf_wfm_potal_main_wfm_content_btn_conm_name_search",
+    "text": "검색"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return Array.from(document.querySelectorAll(\'a, button\'))\n    .filter(a => a.textContent.trim().includes(\'검색\'))\n    .map(a => ({ id: a.id, text: a.textContent.trim() }));\n}');
+```

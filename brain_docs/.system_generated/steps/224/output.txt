@@ -1,0 +1,19 @@
+The search for ""506-87-01212" OR ("나인박스" "김대홍") 전화 OR TEL OR 010 OR 051 OR 070" returned the following summary:
+'(주)나인박스' 및 대표자 '김대홍', 사업자등록번호 '506-87-01212'와 관련된 기업 정보 및 연락처 안내입니다[1][2].
+
+* **기업명:** (주)나인박스 (서비스명: 나인톡)[3][1]
+* **대표자:** 김대홍[1]
+* **사업자등록번호:** 506-87-01212[1]
+* **연락처 (전화번호):** 
+  * 010-2722-8117[1]
+  * 010-2266-5502[2]
+  * 대표번호: 1670-0260[2]
+* **이메일:** 9boxkr@gmail.com / 9boxcokr@gmail.com[1][2]
+* **주소:** 
+  * 부산광역시 부산진구 연수로11번길 1, 2층[1]
+  * (이전/지사 주소: 부산광역시 해운대구 센텀동로 41, 센텀벤처타운 301호 / 센텀동로 35, 센텀SH밸리 902호 등)[2]
+
+Sources:
+[1] [9box.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3YjdW-oPWCZAXedJNBOjwyzUoi0AVMI2Yb0wPI2ESLHnPPZnJwt3TALqlPDDM6T3pVFPSfgRXZrgJkhJUR8gcrQ1PLFvb8wFF4KhqgyCCj7nPO5xlQ==)
+[2] [iif.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhLHmoLp8MISLSARdX8q8gw3Zansn9He60UIQ-Zi9JPmW6IWakl3-m0FW9b_YzxhUWPG4eu_LzPgml2MZ19xj2R32zJ2HLBvzJ)
+[3] [epsa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV2jl7oTusjNI1MxTgpkCDoMmMcHCIg357BSc2lTDlPXB2XvSmSTbxScsA9doaLBC0OoiTNFen-9C9S_jLfzEtR7IZZyKRTUOc4N10HTU4X8-PEf04nrCEfzzoXUH6kY8-GXRJYRq3M6I=)

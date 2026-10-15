@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+commit 69e229b3acde567d819ce9f2ea2251281672b902
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Wed Sep 2 12:44:36 2026 +0900
+
+    feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets
+
+ .gitignore                                         |   4 +
+ all_500_factchecked.tsv                            | 500 ++++++++++++++
+ all_500_verified.tsv                               | 500 ++++++++++++++
+ bizno_filtered_result.tsv                          | 500 ++++++++++++++
+ bizno_filtered_result_nice.tsv                     | 500 ++++++++++++++
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 0 -> 12147828 bytes
+ ...\214_\354\265\234\354\242\205\353\263\270.xlsx" | Bin 0 -> 193688 bytes
+ ...46\235\353\246\254\355\217\254\355\212\270.csv" | 101 +++
+ package-lock.json                                  |   8 +
+ package.json                                       |   1 +
+ rows_11847_12000_verified.tsv                      | 154 +++++
+ user_pasted_rows.tsv                               | 719 +++++++++++++++++++++
+ 12 files changed, 2987 insertions(+)
+

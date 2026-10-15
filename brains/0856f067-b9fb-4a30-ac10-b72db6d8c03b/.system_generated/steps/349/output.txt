@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('http://manh.mamama.kr/view/3547');
+```
+### Page
+- Page URL: https://manh.mamama.kr/view/3547
+- Page Title: 404 Not Found
+- HTTP status: 404 Not Found
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-59-36-009Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-59-34-784Z.log#L1

@@ -1,0 +1,11 @@
+### Result
+{
+  "name": "query",
+  "id": "query",
+  "placeholder": "전화번호 입력",
+  "formAction": "https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[type="text"]\') || document.querySelector(\'input\');\n  return {\n    name: input ? input.name : null,\n    id: input ? input.id : null,\n    placeholder: input ? input.placeholder : null,\n    formAction: input && input.form ? input.form.action : null\n  };\n}');
+```

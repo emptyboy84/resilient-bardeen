@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Location: https://cine21.com/db/company/info/?company_id=8900
+Location: https://www.vkobis.or.kr/company/searchMovieCompanyListLayerAjax.do?pageIndex=2142
+

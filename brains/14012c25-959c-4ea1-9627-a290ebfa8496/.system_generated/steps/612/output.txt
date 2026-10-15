@@ -1,0 +1,28 @@
+The search for ""윤효상" ("KAIST" OR "카이스트" OR "오앤비스페이스")" returned the following summary:
+**윤효상** 교수는 KAIST(한국과학기술원) 항공우주공학과의 교수이자[1], 우주항공 스타트업인 **'오앤비스페이스(OnB Space)'**의 대표입니다[2]. 
+
+주요 경력 및 관련 정보는 다음과 같습니다.
+
+### 1. 학력 및 주요 경력
+* **학력:** KAIST 항공우주공학과 학사 및 석사 03학번[3], 미국 MIT 항공우주공학과 박사(Space Systems 전공)[4]
+* **산업계 경력:** 국내 인공위성 전문 기업인 쎄트렉아이(SaTReC Initiative)와 미국의 초소형 위성 스타트업 플래닛 랩스(Planet Labs) 등에서 현장 경험을 쌓은 실전파 엔지니어 출신입니다[3][5].
+* **KAIST 임용:** 2019년 8월부터 KAIST 항공우주공학과 조교수로 부임하여 후학을 양성하고 있습니다[3].
+
+### 2. 주요 연구 분야 (KAIST 우주선원형개발연구실, SPL)
+* **우주 광통신 (Free Space Laser Communication):** 차세대 위성 간 통신 및 고속 데이터 전송을 위한 무선 광통신 기술[1][6]
+* **위성 자세 결정 및 제어 (ADCS):** 별 추적기(Star Tracker) 센서 기반의 상태 추정, 빔 제어 및 정밀 궤도 제어 연구[1][6]
+* **누리호 기여:** 누리호 발사 당시 위성 자세 제어 코드를 단기간에 성공적으로 작성하는 등 국내 발사체 및 위성 개발 사업에 실질적으로 기여한 바 있으며[7][5], 이러한 공로로 '포니정 영리더상' 등을 수상했습니다[7].
+
+### 3. 오앤비스페이스 (OnB Space)
+* 윤효상 교수가 설립한 우주항공·위성 분야의 스타트업입니다[8][2].
+* 초소형 큐브위성(예: 'SLEDGE' 등) 설계 및 운용, 위성항법(GNSS) 신호 변화를 이용한 전리권·우주환경 관측 기술 등의 사업을 전개하고 있습니다[8][2].
+
+Sources:
+[1] [kaist.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJRLpYp0Gop3uCFNqxZkSgvFgQCHP8D-jP-65HGSAghHo4NEArMlJQeHc6VXcDcKKmcfFi9ZeEbB1WGw9fxalSAGzE8B0vY8k7RNkWIuma8oIENWtgyUHRsqRCOp_GO5Qn3FxC)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETX9liiDT0xJE1-VqBZacltR38tW_JN4twg07cZnG29OBBiaGzeXy6l-BSP1MLXsdQgLIqGCSt8J-_BbqfIJf2j0xQXI4FGBkBMFC3Vb4=)
+[3] [kaist.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt686_ZbiTjYGuq2n-g50I0W9hCnSvBJ7_ryOqtl9lfycrud8-KenYgUYRaR1hggzI2pCoO6KXXqK3RfaiVzioTm2uM3CCL3YDtfrYc7nbln6MNoavu7aKKhkcWFmr)
+[4] [kaist.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENqdQ68xD4os2mrFxn81mq-3mu1_ms0P4J5kr5ppgVx048w7-0tVjLXE7BKRlOrVtRITo9nvBafgxR7xh4OFJSXq5pgYJEbI427oDdZ8LR4I5mWlhi4l4czF2OLJUxzwUb4JJR0Xd3Et3lErc=)
+[5] [hellodd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRU9GRL_LUHsljLrJ3FKWu50NWinRiekDiyudo5wuO7E71ssHD-Sx0P-2ewv4V8ey6qsIyIpZIIriBress7246ZfyvJeROiFdQ3xMbtLYbJpHX8DSrJP7Xhj7dAqMCcbjp01bFrEinBYABHyf6D4=)
+[6] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6shJwYmEasTaD9isIyit4zdi7sWYu9ZV-Jgs74K4oxa3prywKUpKDqHE-dTOZ3z8sOKsESobeJaRLhNAi4DTPEzNBLmICP_rsv_TXiOjnU1saha2vwO_T2_BTo18-aHZBlKGTsWM431rM9obA-KjokCNnjO7P)
+[7] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1S5DaVSIiLcZlLKFU2HWVQU0IOrnbCrq1qBKOhyx98XNijTV0ZCEGuhzyrsWPY9rrBWelxsBol03lHuWZ6xdcyYpHWp5zH6vhrJ0i0yAa7faGRl0daNGgq8g-iE1wCY=)
+[8] [banronbodo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELQMM3zNiCYSw9_29d-9f2kfvMsYlk4qCItCPddpViYhI9dmbsH-qiiEjMn4XojI9VhMrXsDOfEGKqZTC7i6wbNOIkbjZQe-1rLgxSgoY7mwoWSSjxWVyIZdtFzLP460HW4WBOxiUR4vY0ZH7KOG-6IQ==)

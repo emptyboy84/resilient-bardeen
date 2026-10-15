@@ -1,0 +1,48 @@
+
+The command exited with code 0.
+Output:
+No phone count: 254
+No biz count: 222
+Both No phone AND No biz count: 92
+Sample both empty: [
+  { rowNum: 508, name: 'LINC', cat: '애니메이션', addr: '', note: '' },
+  { rowNum: 536, name: '김정보', cat: '출판', addr: '남구', note: '' },
+  {
+    rowNum: 649,
+    name: '라온엔터테인먼트',
+    cat: '게임',
+    addr: '부산 사상구 모라동 75-8번지 신모라공단 903호',
+    note: '확인불가'
+  },
+  {
+    rowNum: 692,
+    name: '메리데브',
+    cat: '게임',
+    addr: '부산 동래구 명안로78번길 38',
+    note: ''
+  },
+  {
+    rowNum: 757,
+    name: '브이알코리아',
+    cat: '영화',
+    addr: '부산 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)',
+    note: ''
+  },
+  {
+    rowNum: 848,
+    name: '시드',
+    cat: '영화',
+    addr: '부산 남구 대연동 76-5번지 현대오피스텔 610호',
+    note: ''
+  },
+  { rowNum: 955, name: '에프지엔터테인먼트', cat: '게임', addr: '', note: '확인불가' },
+  { rowNum: 1015, name: '우수경', cat: '만화', addr: '', note: '' },
+  { rowNum: 1047, name: '윤서하', cat: '출판', addr: '부산 영도구', note: '' },
+  { rowNum: 1062, name: '이수연', cat: '만화', addr: '', note: '' },
+  { rowNum: 1070, name: '이지현', cat: '만화', addr: '', note: '' },
+  { rowNum: 1071, name: '이진수', cat: '만화', addr: '', note: '' },
+  { rowNum: 1113, name: '조나단/이은석', cat: '애니메이션', addr: '', note: '' },
+  { rowNum: 1136, name: '지엠이에스티부산지점', cat: '캐릭터', addr: '', note: '' },
+  { rowNum: 1162, name: '촬영감독최원욱', cat: '영화', addr: '', note: '' }
+]
+

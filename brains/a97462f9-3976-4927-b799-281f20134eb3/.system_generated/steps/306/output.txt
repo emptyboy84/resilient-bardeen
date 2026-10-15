@@ -1,0 +1,17 @@
+The search for "site:bizno.net "스튜디오바다" OR "류수환"" returned the following summary:
+비즈노(bizno.net)에서 검색하신 '스튜디오바다'와 '류수환'에 대한 검색 결과입니다.
+
+검색 결과에서 '스튜디오바다'와 관련된 직접적인 사업자 정보는 확인되지 않았으며, '류수환'이라는 대표자명을 가진 기업 정보는 다음과 같이 확인됩니다.
+
+*   **에이플러스(A+)건축사사무소**[1]
+    *   **대표자:** 류수환
+    *   **업종:** 건축사사무소
+    *   **주소:** 경기도 남양주시 진접읍 해밀예당1로 30-9 폴리프라자 706호
+*   **엔이티인터내셔날(NET International)**[2]
+    *   **대표자:** 류수환
+    *   **업종:** 전자상거래 소매업 (친환경식기, 양말, 잡화)
+    *   **주소:** 인천광역시 연수구 송도과학로 32, 1304-1호
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKAOL2U8lt8Q-hvOUN61RWcUN4zT0zZ_MdrY4hUOIfSJPHoQt7ci3UB4dJx-fWvx3ottW2_4ixFPHoLsae13FHVkmETx6rsq1Mb3nttvGQrzsACgSBF8HfPKY=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYonPMBH8NFgsuogwdjaasNknW4Cq2dFZ34lT27lWkwEBd36SWgc3REjt8ecyX3jILEdtk4LK4teEh7Z4QWT84nNwJfTPRMpJy2ZrbJm6kcRqj_1lOPtSXkqE=)

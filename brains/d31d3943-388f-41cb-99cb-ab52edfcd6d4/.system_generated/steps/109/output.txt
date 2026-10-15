@@ -1,0 +1,12 @@
+The search for ""에코캡" "@ecocab.co.kr" OR "이메일"" returned the following summary:
+에코캡(주) 공식 홈페이지 및 고객센터 안내에 따르면, 확인된 이메일 주소 및 연락처 정보는 다음과 같습니다[1].
+
+* **이메일(E-mail):** `eco_hr@ecocab.co.kr` (주요 인사/채용 등 관련 문의)[1]
+* **대표전화:** 052-264-1681[1]
+* **팩스(FAX):** 052-264-3337[1]
+* **주소:** 울산광역시 울주군 언양읍 반천반송산업로 137-66[1]
+* **공식 홈페이지:** [www.ecocab.co.kr](http://www.ecocab.co.kr)[2]
+
+Sources:
+[1] [ecocab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Ig67uZcFrDjU4IevAsH7uVZ43NTzOF2Ivj-L_Cqa-cP8gpa820h4y8oQeMvBOipufnPzfcIKOxPeWQSehXeii9smHf7Pho0-oh93Ywl7Mj0FeL3CqnoHsnM5HGHikMYp)
+[2] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpO92HCGTmlM-fZZOuCitlu9A72GEYXub0xGNmcB21t9i1IxBbg7o-fZE4Tx4D3q06ZBTAcjGopBdd5oJX3op7ZQozIh-k2h2gUG-lw0B6RHwrsBxly6YIZS6UCXXfj6puf-OSGr-GomukaG4MTZSpPAiQosfD6-C-gOXS2w==)

@@ -1,0 +1,24 @@
+The search for ""프로덕션 (주)시드" OR "프로덕션(주)시드" OR "프로덕션 시드"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+**1. (주)시드픽쳐스 (포스트 프로덕션)**
+*   과거(2008년경) CG 및 포스트 프로덕션 업무를 수행하던 기업으로, 당시 3D 아티스트 및 프로젝트 팀장을 모집했던 기록이 확인됩니다[1][2][3].
+
+**2. 온라이브 프로덕션 (시드 투자 관련)**
+*   '프로덕션'이라는 단어가 포함되어 있으나, 음악 교육 스타트업인 '온라이브 프로덕션(Onlive Productions)'이 2022년에 '시드(Seed) 투자'를 유치했다는 뉴스 기사들이 다수 검색됩니다[4][5][6]. 투자 단계로서의 '시드'와 기업명인 '프로덕션'이 결합하여 검색된 결과로 보입니다.
+
+**3. 기타 용어 (프로덕션 시드)**
+*   소프트웨어 개발 분야(특히 데이터베이스 설계 등)에서 테스트용 데이터를 의미하는 '시드(Seed)'를 '프로덕션 시드(Production Seed)'와 구분하여 사용하는 경우도 있습니다[7]. 
+*   또한 AI 모델이나 로그 시스템 분석 등에서 세션의 시작점을 의미하는 '시드(Seed)' 개념이 기술 문서 내에서 사용되기도 합니다[8].
+
+찾으시는 특정 업체가 위 정보와 다르다면, 해당 기업의 분야(영상, 광고, 게임 등)나 구체적인 정보를 추가로 알려주시면 더 정확한 확인이 가능합니다.
+
+Sources:
+[1] [cglink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMYy93fgHvLnKcSQ9itDhmpXMXRNefDBGs4uJ_-r6DVQd2_e72oJb0BMUILTjQ7OtbXRSipsQlCWRnfTXkTelClRPgKn8RCzyS-ZUFpYipR8XjeumG6pEP_A==)
+[2] [cglink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqrsxS54fNYPLji31rysctWv8MUKULLTJupUMfHUPFivuTT2Z9--Vh5qX3x4RnnOr2c790HbQ3F27nvGEs7vxdkQvGwgCEdcuozlLVw99esP_UG1DTRkgD8z89NvOFnTP_zseexL89-edJlF3ER7zJzOfh9k5zolLd25cu72ZwnqGGikigRtJq80V8Iaq3ju_gHiZCHJKB26z1IvwVbsDX1MzOrqUk6AvVeIBAO4w8XGo=)
+[3] [cglink.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMYy93fgHvLnKcSQ9itDhmpXMXRNefDBGs4uJ_-r6DVQd2_e72oJb0BMUILTjQ7OtbXRSipsQlCWRnfTXkTelClRPgKn8RCzyS-ZUFpYipR8XjeumG6pEP_A==)
+[4] [platum.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMoGbOUOYDp081glz1Xwx9-kxCYDU0qhTf0YrwVDLQb7qvuynx3q1cBFHBIduUiSvIR66VFN9hBNqWWiRTtKXIjKEqUp6YytwfLOiXun2Cg3dVaG_4Bg==)
+[5] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuSWjn48d0AHmsVPh6PJP4BQDwJnpbuALNnaX92KQXs_-5o1YEVkeyYB-ySTwV_SZgMAIOdm344RHBAe9d-L072umig40kmf2h7SBe6RzUNyVmdAEe4H04z0ykEf3F8jFku4X77VJ-DQ==)
+[6] [bdsplanet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6iBROZLywWCQqHpNV9qL7gESWqg33NUbHZCmJ7Sk1nTl9Qp_-yQgieuGDz3qhkbIexg_8OI8nrEnzbBizOx0D_5GRBTYsDaABw3KsYzX3rDl-7jzwUTwLKCp28VwEjGapbNHW14L7wSgc)
+[7] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFrQtwC5rCHnwwm8sFJD4V1VHFwW8RaKtyXcG5Y2fM1-Cn-V2llx2SSuj8On8ZBq-GfpnJz0N6vdNP0cFPXms6ovww_hkKt-lAYP2Qb2BS50WyrYH8jNs5aQSSHuGbMDMMW0VmZUyVxHcEEinsyd7AYeqfAmUY5Nt1cApZcg2BzGeNDmYV43Lo)
+[8] [vercel.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG648pXQlIRen3goZNL1gRscdjcLP4drkd1QjpsveESXE3RSc_KezS4FYa1ratjRxLZKSKdiNLwm29cP-ZzoMv_77CVk17xJghCnv0ESeiio4jBH2FIGhNFTjt-hxwDA7jn4NtTxSgetdotK7TIQnGjSp2dSp76_03JXfY=)

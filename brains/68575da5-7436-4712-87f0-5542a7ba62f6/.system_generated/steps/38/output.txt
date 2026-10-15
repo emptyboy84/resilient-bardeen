@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+f352cd0 fix: clear invalid corp number for personal biz 선진정밀 in merged_500_perfect.tsv
+ab94699 fix: finalize 1500 rows consolidation, clear 5 personal biz corp numbers, correct duo/kunst corp numbers
+f662d66 feat: update ㈜미우디자인 (5518501580) address, homepage, email, industry categories and corporate registration
+

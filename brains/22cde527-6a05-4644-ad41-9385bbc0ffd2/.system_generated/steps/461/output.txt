@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+저스티스어드벤처 biz: [ '177-81-00390', '177-81-00390' ]
+Snippet: 저스티스어드벤처 : 네이버 검색 try{performance.mark('nx-head-start')}catch(e){} naver = window.naver || {}; naver.search = naver.search || {}; naver.search.abt_param = ""; naver = window.naver || {}; naver.search 
+

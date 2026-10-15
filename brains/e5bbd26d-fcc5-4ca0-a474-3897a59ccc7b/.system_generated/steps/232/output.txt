@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+UNRESOLVED ROW: {'row_idx': 1818, '�': '1817', 'name': '�̼ҹ�', 'rep': '�̼ҹ�', 'phone': '010-2801-2662', 'addr': '� � 113(�ȣ� �Ʈ�ν�Ƽ)', 'type': '�ַ�'}
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.locator('#select').selectOption('부산광역시');
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchList.php?search_area=%EC%A0%84%EC%B2%B4&search_state=13&search_kind=&search_type=1&search_word=%EC%84%9C%EB%A6%BC%EB%AC%B8%ED%99%94%EC%82%AC&x=43&y=34
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-10-05-843Z.yml)

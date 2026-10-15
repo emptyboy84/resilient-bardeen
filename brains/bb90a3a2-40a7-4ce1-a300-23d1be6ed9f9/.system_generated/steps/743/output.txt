@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+KOBIS status: 200
+KOBIS length: 58052
+KOBIS phones: [ '02-6261-6573' ]
+

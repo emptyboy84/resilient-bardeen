@@ -1,0 +1,11 @@
+The search for ""ws-company@naver.com" OR "ws-company.co.kr"" returned the following summary:
+입력하신 정보는 외식 프랜차이즈 및 기업 관련 연락처 및 도메인으로 확인됩니다.
+
+* **`ws-company@naver.com`**: 외식 브랜드 **'고베규카츠'**의 공식 인스타그램 이벤트 및 고객 소통 창구로 사용되었던 이메일 주소입니다[1][2].
+* **`ws-company.co.kr`**: 음식점 경영 및 관련 사업을 영위하는 법인 **'더블유에스컴퍼니(WS COMPANY)'**의 공식 웹사이트 도메인입니다[3][4].
+
+Sources:
+[1] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeEusYyKC2fMmx2m_opFIDPcGTAFtz9Bi76ACM3IWFhxlYRSF6IU3e6qz08qYOZx-GN6xFJGdxJULRT3yGiWaAtoRAGk4Ss9gmRlwpgooJjrtKNmDKzwE8nJxRFhw=)
+[2] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt9gFFWx3Pd6NE1ArD83lwd0nLc5E4YrC-RLsBfI7cpXCd4868ZXQ28lvgvqewtIDBHRBZijgfH1ni8aMGdq64Slsk9rl81pe21bFsDoC5wzbxVzmE0OA=)
+[3] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJkLr7tjg0zKiRFLJP74GJpZNwS-gky-e2BZSGepOvqYiIJox863CjbEFlw_CvaDieMGfhx7o8TAoxg11bzr1sb1dvYAW9uhw19zomQJsyKdx6mjtm6JQyIhypa1XoC-uj7pjcK-OUok7L_56oaaMwtsd5KbTQJHCPOF6rjywwwX-UFZV1fgPRmIRSfsbHhQqHIH4sYUKdZiW3au6kvndw9as-aYNPXoSPYNuznw==)
+[4] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH74f1E18f4RjlIhsXWnGye-BrHj52RYfgYhqsPrZCiT0VVh0Ee7wzNyBjJDHMpfXpRyFqlw80rHoWsRpmSB5Z5P1YLsqfnAylvbsHEQgYPPlKALaAaMjVV1sD43NDCc0yNAvf3Lzp-jBi8HQNJlqWJkr-HeOvXYjT0xs4aWF9ZbdjD_SJTKrlHMf5dL6DGgzejtKwntQgBmcPnepvlKDcEj4nDBcuBxSCR1iIZfA4=)

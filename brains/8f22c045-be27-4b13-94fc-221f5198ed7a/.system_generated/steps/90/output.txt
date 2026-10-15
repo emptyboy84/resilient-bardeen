@@ -1,0 +1,31 @@
+The search for ""부산" "애니메이션" 제작사 OR 기업 목록" returned the following summary:
+부산을 거점으로 활동하고 있는 주요 애니메이션 제작사 및 관련 기업 목록입니다. 이들 기업 중 다수는 부산정보산업진흥원 등 지역 유관기관과 협력하며 활동하고 있습니다.
+
+### 부산 주요 애니메이션 제작사
+*   **(주)스튜디오반달**: TV 시리즈 애니메이션 전문 제작사로, '외계가족 졸리폴리', '달그락달그락 꼬마돌 도도' 등을 제작했습니다[1][2].
+*   **(주)아리모아**: 애니메이션 기획 및 제작사로, 다양한 콘텐츠를 개발하고 있습니다[3][4].
+*   **(주)빅파인애니메이션스튜디오**: AI 기술을 활용한 2D/3D 애니메이션 파이프라인을 구축하여 제작 효율을 극대화하고 있는 기업입니다[5][6].
+*   **콘텐츠코어(주)**: '꼬마갈매기 런즈', '와글와글 어묵탕' 등 부산 지역 특화 콘텐츠와 캐릭터(부기 등)를 활용한 사업을 전개하고 있습니다[7].
+*   **스튜디오인요(StudioINYO)**: 캐릭터 및 애니메이션 제작사로, 다양한 공모전 및 프로젝트에 참여하고 있습니다[4].
+*   **마루 애니메이션**: 2D 애니메이션을 전문으로 제작하는 디지털 스튜디오입니다[8][9].
+*   **(주)씨지픽셀스튜디오**: 3D 애니메이션 및 VFX 제작 등을 수행합니다[4][10].
+*   **(주)아트피큐**: 캐릭터 및 애니메이션 콘텐츠 제작 기업입니다[4].
+
+### 참고 사항
+*   **관련 단체**: **(사)부산애니메이션협회**가 지역 애니메이션 기업들의 권익 보호와 정보 교류, 네트워크 구축을 위해 활동하고 있습니다[2][11].
+*   **지원 기관**: **부산정보산업진흥원** 및 **부산문화콘텐츠콤플렉스** 등은 지역 내 콘텐츠 기업들이 입주하여 창작 활동을 할 수 있도록 인프라와 지원 사업을 제공하고 있습니다[1][4][11].
+
+위 목록은 주요 기업을 중심으로 정리한 것이며, 시기별로 기업의 사업 현황이나 입주 여부는 변동될 수 있습니다. 보다 상세한 최신 정보는 **부산정보산업진흥원**이나 **부산애니메이션협회**를 통해 확인할 수 있습니다[11].
+
+Sources:
+[1] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO2yTjRGQTUpe6VBUGECZQXY4pJvm1TrvQKKg6jWuYSZFSl5zI6pruEIW5gNsI8BSBuPipAVcl6Qyj8EdMR7h7RJjATc4ZLT8PDvXlIEVArLvHk3_lYk9Z8QaibpS3hs4jBfYNi5q77V9FZw==)
+[2] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSo6VIG_dr3tvpxXZ3F9i-Wusgvd10KZmEYw3lexrIlh86Ax-5wdfdn8KFgz7hAjopHmW1x8O40WK8ZZ49653riv_IctqBBLUN1ZCunsU-043aRcra22XWXMYTzwRDGLQ66FIN4eg4JlvvKGIGOKgXDMR1-Gfs9Ty1yaTWHHFUNeJT18EcIdedMBQ=)
+[3] [koreaanimation.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZjob0RNyaz6hjzUnlA8HhWRyfhN6JkU2M3CnnECVtXQV3HqKamhHs-kWYzQ70MOzfCWeVAMRgnbJDfhqaysYyKzLfbu3M6-cI6CWilKvPttMfmB8iP6JDhsITPWRJLjKoly6Vikjkf1o=)
+[4] [narangdesign.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrLNGqgjcP7h4gPhpGc-lW1JYlmE3n1c9qSYxOjwrAkgy7_2AvulsxLZ-YDVBKNRqXHqqz-ZskCI3WKWO35JPurvMIkxp0D5Q5rRQ57OhNTxpSmcIooqF_6nC4UXerzAsbrnrohcrYNv-HhbAnA==)
+[5] [zephyruslab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKvVEx5YQr9EEpzlQvRNn32cypagLZ5k4Vv5KPMxOxHwpenG4TjfHzS6G1NMgbWASvcJOfjoqlQBZLg0mSbQzu921dDTNNAYic51LIqU-lBl7kbaz29jrg12uQwLMmBCSqNHq4Kw==)
+[6] [zephyruslab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKvVEx5YQr9EEpzlQvRNn32cypagLZ5k4Vv5KPMxOxHwpenG4TjfHzS6G1NMgbWASvcJOfjoqlQBZLg0mSbQzu921dDTNNAYic51LIqU-lBl7kbaz29jrg12uQwLMmBCSqNHq4Kw==)
+[7] [ilovecharacter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-qxtfRKgQvYmBHtaUwEGGOXNPq6wUoYnuK6k51KgIAv8Gdltqc6tg_egXrk-A1Zgb-wBrt_HBeqdm2X9uLKFy029Oigs6poO8IZ1VML1Q1Y1C5sUbhd4jzf3ZcJtV7s03aJG8nH9yBjOe3Tk7-LnocHdnmQtt2sTtPVJEkQ==)
+[8] [maruani.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-XkiG9Ry-P6j7crExPRpu3ombp9o5DGUMKC8rOCdFf13EudblJTHxXLYWKg_k4d3zpFKhVwj3EemcDJcOdu0vnXzyWGTCkcRvtw==)
+[9] [maruani.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-XkiG9Ry-P6j7crExPRpu3ombp9o5DGUMKC8rOCdFf13EudblJTHxXLYWKg_k4d3zpFKhVwj3EemcDJcOdu0vnXzyWGTCkcRvtw==)
+[10] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd-SFKCTCwuf9T_2mpa2puY1oS_0jziMb03mnUtxWs0yjhAgS7cXfdm_Msr10UTeYdjODiRbwjWItsRPDtcRr9cFrhuSIN6Zix5SR1pD4vxzF0bEhu7TcwWIIljmjkmf8vu3NLURS6dDPWYA==)
+[11] [xn--or3bi2da813cfg612bzwbk0dvvg4xmq7c.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi6kzK8syhjQokL-Cz8j4jmAt9e9jHHC3U-aXsgAN7nAhmr3fcutTUJ9BZIHjHA2n7vbxG5_q1QcfCsJB231fcGhhCr6Ean-rHZuHq_bRhYcwLZhZVGvFXnMgkqtwx1jh2mnk2CM1ap5RYLpGKpmXaAoDe1qB4S_5BGDvxyDr1aqzG)

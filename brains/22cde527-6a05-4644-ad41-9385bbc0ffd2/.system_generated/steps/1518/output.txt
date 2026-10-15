@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Row 0: 영화사명 영화사명(영문) 분류 대표자 전화번호 홈페이지 주소 필모그래피
+Row 1: (주)어메이즈브이알코리아 AmazeVR Korea 배급사(1) 윤준식,배재한 02-6091-0709 http://www.amazevr.com/ &nbsp; 엔하이픈 브이알콘서트 : 데스티니 외 13편
+Row 2: (주)브이알코리아 상영업 박학문 부산시 해운대구 우동 &nbsp;1466-1번지 부산문화콘텐츠콤플랙스 302호
+

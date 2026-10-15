@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total lines in p2: 200
+Row 1 (한울기업, 7601400870): indLarge="제조업", indMid="기타 기계 및 장비 제조업", indSmall="일반기타 기계 및 장비 제조업", corpNo="", closing=""
+

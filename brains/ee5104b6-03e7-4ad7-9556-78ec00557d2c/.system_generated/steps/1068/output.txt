@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+User pasted columns count: 18
+Col 0: "배현명"
+Col 1: ""
+Col 2: "한국이미지시스템(주)"
+Col 3: "5498500536"
+Col 4: "한현정"
+Col 5: ""
+Col 6: "부산광역시 강서구 낙동남로533번길 95 (녹산동)"
+Col 7: "051-717-2631"
+Col 8: "051-717-2630"
+Col 9: "http://www.kimage.co.kr/"
+Col 10: ""
+Col 11: "20"
+Col 12: "물질 검사, 측정 및 분석기구 제조업"
+Col 13: "1801110474302"
+Col 14: ""
+Col 15: "제조업"
+Col 16: "기타 기계 및 장비 제조업"
+Col 17: "일반 목적용 기계 제조업"
+

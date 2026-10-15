@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Manually added 100% verified: Row 2260 "모두싸인" => 356-87-00243
+Manually added 100% verified: Row 2243 "케어닥" => 708-81-00933
+Manually added 100% verified: Row 2214 "에어딩동" => 286-86-02440
+Target recovery updated. Total matched: 147
+

@@ -1,0 +1,15 @@
+The search for ""바른중량" ("1648" OR "1601" OR "1611")" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **(주)바른중량:** 충남 천안시에 소재한 기계설비공사 기업으로, 2026년 기준 기업 정보(매출액, 연봉 등)가 확인됩니다[1][2][3].
+*   **육량궁(六兩弓):** 조선 시대 무과 시험에서 사용하던 활로, '육량(六兩)'의 무게를 가진 화살을 사용하며, 이것이 곧 **'바른 중량'**이라 하여 '정량궁(正兩弓)'이라고도 불렸습니다[4].
+*   **운동 용어:** 데드리프트 등 운동 시 올바른 자세와 함께 **'바른 중량'**을 설정하여 운동하는 것에 대한 일반적인 조언이 언급되기도 합니다[5].
+
+입력하신 숫자 "1648", "1601", "1611"과 "바른중량"을 직접적으로 결합한 특정 정보는 검색 결과에서 확인되지 않았습니다. 찾으시는 정보가 기업의 사업자 번호나 특정 코드와 관련된 것이라면, 해당 숫자가 포함된 문맥을 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq6ZoAzja_ZuAWG2e4iIOCsyiJIADUzs8_Y54-7CH0dUHHUVtV4LD1Wz9qn8BANblk7N-fFtiou8dCn5ZC4yXp13rT-xscR3ysYlq2o2lyDImgdx7nFbra99hC-Z1TOBlm_6yDXhyFJJg1MYW5Fn0i)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJaZbJDlVkcMmkftInGxJoUN9TqtvoMRw1MKe6r-LUoXr77ZfwZBgzhmI8Pm8CRhEr7AcIfFKFmo7FmDnAaFWnrCltvnUKxqd0NiTkc0iSTgLhXZyQoNMw49k8lW9deNA-Yrdd1Q==)
+[3] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzQMAZJcXsxf3gCD3II_V3H3s0S7zZbiS6ripOR6PfX_N-5oa51LifChaj0uxacqIx2fwlaKgLRT6GirIfLk4f1qQ91MSJi14foTCvrbst5jHqHCpPGMZ8f2ZRPc3r4w9xfA==)
+[4] [aks.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk8VijOVHz0Pdmb_Fxgj_T4qs1OSTgQ3Jxc3qSqFLRsacdff-hv7d1hOYhMsr8Shr9V1JI55EVh1mCFxKWsp8uNzBwhyEkPgOsLlndMZDsK5Z2X3qFO9HeqyDsBjMiiNdSKpuSPq-z5j_og0u4h2nA31FbYx3TCvFgA1Y77BYMagMXshXDCqXrFIffKinv4GkubpCOmfuRRg==)
+[5] [a-ha.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC9lWw1KZs_PAg1JnvB1cO4z1v87mZveHGEzxHf_V1C2tlXtHCWvS9acCdaVDuI2RFxd_l48lE8vxp6ZNRcYr6MJGaDSdfC3GvDQWmf4NeL-tup_AYtswlTfniuNLU09X3v1HtDvTMs7UH30ROdtaII2SYhA==)

@@ -1,0 +1,45 @@
+
+The command exited with code 0.
+Output:
+Match tel at 320754: ration:none}a[href*=tel]{cursor:default}button,input[type=button]{background:none;border:none;color:
+Match tel at 448694: =submit],input[type=tel],input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:no
+Match tel at 893207: light" style=""><!--teleport start anchor--><!----><!--teleport anchor--><div id="__nuxt"><!--[--><!
+Match tel at 893242: anchor--><!----><!--teleport anchor--><div id="__nuxt"><!--[--><!----><div class="q-layout q-layout-
+Match tel at 920194: er></div><!----><!--teleport start--><!--teleport end--></div><!--]--></div><div id="teleports"></di
+Match tel at 920215: eleport start--><!--teleport end--></div><!--]--></div><div id="teleports"></div><script>window.__NU
+Match tel at 920259: -]--></div><div id="teleports"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{node
+Match phone at 718579: :center;width:100%}.phone-verification-card{display:-webkit-box;display:-ms-flexbox;display:flex;-ms
+Match phone at 718776: tent:space-between}.phone-verification-card .q-radio{-webkit-box-flex:0;border:1px solid var(--line-
+Match phone at 718947: th:calc(50% - 4px)}.phone-verification-card .q-radio .q-radio__inner{display:none}.phone-verificatio
+Match phone at 719010: inner{display:none}.phone-verification-card .q-radio .q-radio__label{width:100%}.phone-verification-
+Match phone at 719071: __label{width:100%}.phone-verification-card .q-radio .card-img{display:-webkit-box;display:-ms-flexb
+Match phone at 719368: ;text-align:center}.phone-verification-card .q-radio .card-img .card-img-inner{display:inline-block}
+Match phone at 719449: splay:inline-block}.phone-verification-card .q-radio .card-img .card-img-inner img{width:106px}.phon
+Match phone at 719525: er img{width:106px}.phone-verification-card .q-radio.active{border-color:#5a5c63}.phone-verification
+Match phone at 719587: rder-color:#5a5c63}.phone-verification-card .q-radio.active .card-img,.phone-verification-card .q-ra
+Match phone at 719638: o.active .card-img,.phone-verification-card .q-radio.deactive .card-img{opacity:1}.phone-verificatio
+Match phone at 719701: card-img{opacity:1}.phone-verification-card .q-radio:first-child .card-img-inner img{width:104px}.ph
+Match phone at 719779: er img{width:104px}.phone-verification-card .q-radio:nth-child(2) .card-img-inner img{width:96px}.ph
+Match phone at 719857: ner img{width:96px}.phone-verification-card .q-radio:nth-child(3) .card-img-inner img{width:94px}.ph
+Match phone at 719935: ner img{width:94px}.phone-verification-card .q-radio:nth-child(4) .card-img-inner img{width:92px}.ph
+Match phone at 720013: ner img{width:92px}.phone-verification-card.all-border .q-radio{border-color:var(--line-color-normal
+Match phone at 720096: line-color-normal)}.phone-verification-card.all-border .q-radio .card-img{opacity:1}*+.phone-verific
+Match phone at 720163: rd-img{opacity:1}*+.phone-verification-card{margin-top:40px}.text-mark.is-top{margin-top:32px}.text-
+Match phone at 720256: }.text-mark.is-top+.phone-verification-form,.text-mark.is-top+.phone-verification-form-container{mar
+Match phone at 720299: ,.text-mark.is-top+.phone-verification-form-container{margin-top:16px}.phone-verification-form,.phon
+Match phone at 720350: er{margin-top:16px}.phone-verification-form,.phone-verification-form-container{margin-top:32px}.phon
+Match phone at 720375: -verification-form,.phone-verification-form-container{margin-top:32px}.phone-verification-form:first
+Match phone at 720426: er{margin-top:32px}.phone-verification-form:first-child{margin-top:0}.phone-verification-form.margin
+Match phone at 720476: child{margin-top:0}.phone-verification-form.margin-top-24px{margin-top:24px}.phone-verification-form
+Match phone at 720533: px{margin-top:24px}.phone-verification-form .form-item{margin-top:32px}.phone-verification-form .for
+Match phone at 720585: em{margin-top:32px}.phone-verification-form .form-item:first-child{margin-top:0}.phone-verification-
+Match phone at 720646: child{margin-top:0}.phone-verification-form .form-item .form-item-list{margin-top:40px}.phone-verifi
+Match phone at 720714: st{margin-top:40px}.phone-verification-form .form-item .form-item-list:first-child{margin-top:0}.pho
+Match phone at 720791: child{margin-top:0}.phone-verification-form .form-item.is-horizontal{display:-webkit-box;display:-ms
+Match phone at 720980: tent:space-between}.phone-verification-form .form-item.is-horizontal.is-divide-twin>*{width:50%}.pho
+Match phone at 721057: e-twin>*{width:50%}.phone-verification-form .form-item.is-horizontal.is-divide-twin .q-gutter-sm{mar
+Match phone at 721158: in-top:0!important}.phone-verification-form .form-item-inner-terms{margin-top:10px}.phone-verificati
+Match phone at 721222: ms{margin-top:10px}.phone-verification-form .form-item-inner-terms.top-line{border-top:1px solid var
+Match phone at 721357: x;padding-top:16px}.phone-verification-form .form-item-inner-terms .tooltip-inner h3{line-height:1;m
+Match phone at 724358: p:40px}.title-text+.phone-verification-form{margin-top:26px}.blank-text{color:var(--font-color-capti
+

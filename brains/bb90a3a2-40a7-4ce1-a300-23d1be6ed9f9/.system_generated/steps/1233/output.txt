@@ -1,0 +1,64 @@
+
+The command exited with code 0.
+Output:
+query : ws-company.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : ws-company.co.kr
+등록인                      : 주식회사더블유에스컴퍼니
+책임자                      : 주식회사더블유에스컴퍼니
+책임자 전자우편             : ws-company@naver.com
+등록일                      : 2015. 11. 19.
+최근 정보 변경일            : 2025. 06. 24.
+사용 종료일                 : 2030. 11. 19.
+정보공개여부                : N
+등록대행자                  : (주)후이즈(http://whois.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns1.whoisdomain.kr
+   IP 주소                  : 223.130.139.7
+
+2차 네임서버 정보
+   호스트이름               : ns2.whoisdomain.kr
+   IP 주소                  : 211.188.57.152
+   호스트이름               : ns3.whoisdomain.kr
+   IP 주소                  : 61.97.189.22
+   호스트이름               : ns4.whoisdomain.kr
+   IP 주소                  : 219.251.156.134
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : ws-company.co.kr
+Registrant                  : WS company
+Administrative Contact(AC)  : WS company
+AC E-Mail                   : ws-company@naver.com
+Registered Date             : 2015. 11. 19.
+Last Updated Date           : 2025. 06. 24.
+Expiration Date             : 2030. 11. 19.
+Publishes                   : N
+Authorized Agency           : Whois Corp.(http://whois.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns1.whoisdomain.kr
+   IP Address               : 223.130.139.7
+
+Secondary Name Server
+   Host Name                : ns2.whoisdomain.kr
+   IP Address               : 211.188.57.152
+   Host Name                : ns3.whoisdomain.kr
+   IP Address               : 61.97.189.22
+   Host Name                : ns4.whoisdomain.kr
+   IP Address               : 219.251.156.134
+
+
+- KISA/KRNIC WHOIS Service -
+
+
+

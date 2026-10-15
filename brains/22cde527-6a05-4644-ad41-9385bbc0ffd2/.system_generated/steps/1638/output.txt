@@ -1,0 +1,69 @@
+
+The command exited with code 0.
+Output:
+
+Row 2:
+  Col 1 [구분]: 25년 모집단 (BLACK)
+  Col 2 [순번]: 1 (BLACK)
+  Col 3 [사업체명]: 아이티에프씨 (BLACK)
+  Col 4 [사업자번호]: 243-86-01731 (BLACK)
+  Col 5 [설립연도(연도)]: 2020 (BLACK)
+  Col 6 [설립연도(월)]: 9 (BLACK)
+  Col 7 [대표자 성함]: 곽서준 (BLACK)
+  Col 8 [연락처]: 051-256-8500 (BLACK)
+  Col 10 [시군구]: 서구 (BLACK)
+  Col 11 [주소]: 서구 보수대로 111 , 2층(부용동1가, 동아빌딩) (BLACK)
+  Col 12 [업종분류]: 콘텐츠솔루션 (BLACK)
+
+Row 3:
+  Col 1 [구분]: 25년 모집단 (BLACK)
+  Col 2 [순번]: 2 (BLACK)
+  Col 3 [사업체명]: (주)씨드시스템 (BLACK)
+  Col 4 [사업자번호]: 605-81-69424 (BLACK)
+  Col 5 [설립연도(연도)]: 2004 (BLACK)
+  Col 6 [설립연도(월)]: 11 (BLACK)
+  Col 7 [대표자 성함]: 손석길 (BLACK)
+  Col 8 [연락처]: 051-553-1545 (BLACK)
+  Col 10 [시군구]: 해운대구 (BLACK)
+  Col 11 [주소]: 해운대구 센텀동로 71, 15층 1503,1504호(우동, 벽산이센텀클래스원2차) (BLACK)
+  Col 12 [업종분류]: 콘텐츠솔루션 (BLACK)
+
+Row 4:
+  Col 1 [구분]: 25년 모집단 (BLACK)
+  Col 2 [순번]: 3 (BLACK)
+  Col 3 [사업체명]: 커뮤니케이션다움 (BLACK)
+  Col 4 [사업자번호]: 617-31-79070 (BLACK)
+  Col 5 [설립연도(연도)]: 2011 (BLACK)
+  Col 6 [설립연도(월)]: 5 (BLACK)
+  Col 7 [대표자 성함]: 손은지 (BLACK)
+  Col 8 [연락처]: 051-626-8816 (BLACK)
+  Col 10 [시군구]: 남구 (BLACK)
+  Col 11 [주소]: 남구 진남로29번길 4 JM하우스 2층 (BLACK)
+  Col 12 [업종분류]: 콘텐츠솔루션 (BLACK)
+
+Row 5:
+  Col 1 [구분]: 25년 모집단 (BLACK)
+  Col 2 [순번]: 4 (BLACK)
+  Col 3 [사업체명]: 올립스 (BLACK)
+  Col 4 [사업자번호]: 182-88-00260 (BLACK)
+  Col 5 [설립연도(연도)]: 2016 (BLACK)
+  Col 6 [설립연도(월)]: 1 (BLACK)
+  Col 7 [대표자 성함]: 하현수 (BLACK)
+  Col 8 [연락처]: 051-515-3468 (BLACK)
+  Col 10 [시군구]: 수영구 (BLACK)
+  Col 11 [주소]: 수영구 수영로 411-1(남천동) (BLACK)
+  Col 12 [업종분류]: 지식정보 (BLACK)
+
+Row 6:
+  Col 1 [구분]: 25년 모집단 (BLACK)
+  Col 2 [순번]: 5 (BLACK)
+  Col 3 [사업체명]: 드림아이티 (BLACK)
+  Col 4 [사업자번호]: 607-81-52666 (BLACK)
+  Col 5 [설립연도(연도)]: 2001 (BLACK)
+  Col 6 [설립연도(월)]: 2 (BLACK)
+  Col 7 [대표자 성함]: 이병규 (BLACK)
+  Col 8 [연락처]: 051-507-6114 (BLACK)
+  Col 10 [시군구]: 사상구 (BLACK)
+  Col 11 [주소]: 사상구 모라로 22 (모라동, 부산벤처타워) (BLACK)
+  Col 12 [업종분류]: 지식정보 (BLACK)
+

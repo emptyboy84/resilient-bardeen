@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Header columns:
+  Col 1: �
+  Col 2: �
+  Col 3: �ü�
+  Col 4: �ڹ�ȣ
+  Col 5: �(�)
+  Col 6: �(�)
+  Col 7: �ǥ� �
+  Col 8: �ó
+  Col 9: �ѽ�ȣ
+  Col 10: �ñ�
+  Col 11: �ּ�
+  Col 12: �з�
+  Col 13: �ð�
+  Col 14: � �¥
+  Col 15: �
+  Col 16: �ڼ�(�) 25� �
+Workbook successfully opened and closed (Writable).
+

@@ -1,0 +1,17 @@
+The search for ""테크핀코리아" ("전화" OR "연락처" OR "TEL" OR "051" OR "070" OR "010")" returned the following summary:
+주식회사 **테크핀코리아** (부산 동구 자성로141번길 소재 등[1])와 관련하여 공개된 웹 문서 상에서 직접적으로 확인되는 대표 유선전화 번호(051, 070, 010 등) 정보는 특정되어 있지 않습니다. 
+
+참고로 유사한 명칭을 가진 주요 금융·핀테크 관련 기업들의 고객센터 및 대표 연락처는 다음과 같습니다.
+
+* **(주)테크핀레이팅스** (더존비즈온 계열 신용평가사)[2][3]
+  * 대표번호: **1660-3832**[4]
+  * 신용정보 관련 문의: 02-6233-2553 / 02-6233-2555[4]
+* **한국핀테크지원센터** (핀테크 관련 정책 및 지원 문의)
+  * 대표번호: **02-6375-1550**[5]
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGejbPkJmbzk9FD68Pi9x7VemWH-z9ratQL5YUTowtjeFE89ybPPqn_trSjUdpGhoWM8Krd7xJRskcRwlTsZ2Jql-WuwGwKlZ5KQsoT5SZIYo3YQLDiqqEu8nBbRcBKFg9l3Q==)
+[2] [douzone.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRtW-l0VYm2J8HhLVNgd90l5jZYpSgAPHLQbdrn_cKejgs09o-hSOyAm2dpeJniwH3LO_A84VdsAgpCYxqYlNzPj3OuPg0Tt5KtDQvf5B4cIpXKnf32jTn0blLzZph3YgIHQ_6GIX7)
+[3] [newsfinder.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIwZLj4mc4dccbLu1b31gxPJu90Y-_wBY3z8z2cw1hy5ZXDibpZ1FOSi-Jkh5VeX9H_176kHqMWf-oq6C1mWEQfyh6zEgnnCdNcCCpCN-XrDr_k4nycentHGMednd3OQdy5Pc-nb8H2I0Og==)
+[4] [techfinratings.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKGG25vRUIGcxc6Kn4dX81A1fAhhg2SIswZcZ7dLF98FfAt0kDRJ6EZq9e2V_AoSrl9N7Q4O-7Xwx0GqXpPL1t12JA2ghrodwemnO9xHuo8oB26p88o05ZEwpL-sNjMauKPw==)
+[5] [fintech.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuCcC1G3dZEoK01awp_I3iXM2g1x7sEn-d1G_7U_WC6q5rKC0sT20O04ZoHFrXDQ6Il2xBydKdn5nYXv76Ctgbw5kj8GHYk472QL9iszu0HY4IdZJXW7SVGnO0b-6QPiSoUTtSR8KF0o1qprdToeMpQZVSrEw6F3EJst40Z8xZPPoFWcKelZGl-5hO4ABPhbA4DD6kkFTgeqY5tZbRB55XtH1SdA==)

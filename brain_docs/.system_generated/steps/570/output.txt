@@ -1,0 +1,14 @@
+The search for "site:spero.co.kr OR ("디케이즈" "511-81-26213" "051" OR "070" OR "TEL")" returned the following summary:
+디지털기기 및 모바일 기반의 매장 자동화·주문 관리 플랫폼 **스페로(SPERO)**의 공식 웹사이트 및 운영 주체인 **디케이즈 주식회사**의 사업자 정보는 다음과 같습니다[1][2]:
+
+* **법인명(상호):** 디케이즈 주식회사[1]
+* **대표자:** 정도경[1]
+* **사업자등록번호:** 511-81-26213[1]
+* **주소:** 부산광역시 사상구 주례로 47, 2101호(주례동, 동서대 전자정보관)[1]
+* **대표 전화번호:** 070-4286-5321[1]
+* **이메일:** info@dkeiz.com[1]
+* **제공 서비스:** 스페로 포스(speroPOS), 키오스크, 테이블오더, 스마트오더, 웨이팅 관리 및 KDS(주방디스플레이시스템) 등[1]
+
+Sources:
+[1] [spero.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7MG_5iwUqQXkRE9NoDNHcAkWGrsT0gxac0Zc25T8E68F9Z1QcF1HMdSWqOwW7DX1B1nr-E_bXMtwhiX6Q_BiilIh-sYMH_r46l_GcAYU=)
+[2] [spero.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6sa4x-u6m2RxLp0sltVtaA75AYJIPcj8lWfCYp3Ka63JgRHRQtAPKCTuq_DDA5Ery15s-6w3XE_fYfGcUIReCJSRW8WopaXnLpETczb7RCrBitrxraUTD-93MuW-d3w==)

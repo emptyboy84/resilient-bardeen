@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5598801775');
+```
+### Page
+- Page URL: https://bizno.net/article/5598801775
+- Page Title: 더블유시스템
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T01-50-54-692Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T01-50-49-088Z.log#L1-L8

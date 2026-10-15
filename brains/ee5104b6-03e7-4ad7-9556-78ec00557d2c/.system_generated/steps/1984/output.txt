@@ -1,0 +1,6 @@
+### Result
+false
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const page2 = Array.from(document.querySelectorAll(\'a\')).find(a => a.innerText === \'2\');\n  if (page2) page2.click();\n  return !!page2;\n}');
+```

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+=== CHECKING PLACEHOLDERS AND HYPHENS ACROSS ALL CELLS ===
+Found 0 placeholder cells:
+

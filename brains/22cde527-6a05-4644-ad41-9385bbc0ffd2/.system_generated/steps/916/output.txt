@@ -1,0 +1,148 @@
+
+The command exited with code 0.
+Output:
+Sample companies: [
+  '126: 블루호텔레코딩스튜디오 (김현, 010-3568-1004, 부산 금정구 장전1동 383-9 지하(다른 정보 안나옴))',
+  '730: 버킷리스트 (김영선, 0507-1365-3489, 전라북도 정읍시 서부산업도로 363(연지동))',
+  '1051: 이노커뮤니케이션즈 (윤오동, 051-893-7081, 부산 부산진구 개금온정로 9, 102호 (개금동,석천오피스텔))',
+  '1285: 한국산업정보사 (김삼절, 051-504-6877, 부산 동래구 중앙대로 1291-1)',
+  '1517: 페이크스튜디오 (이제열, 010-4284-0739, 부산 강서구 녹산산단381로 29 (송정동, 햇님토이))',
+  '1542: 산마루 (이용진, 051-247-8848, 부산 남구 우암로200번길 16)',
+  '1571: 명진공업사 (이명성, 051-293-3161, 부산 사상구 가야대로 285 성훈빌딩 4,5층 (주례동,파크랜드))',
+  '1582: 디앤아이솔루션 (이경은, 010-9547-7856, 사하구 다대로300번길 25)',
+  '1603: 케이멕스 (정태석, 051-331-0718, 연제구 거제대로 215)',
+  '1604: 고움 (임서현, 051-510-7585, 연제구 거제천로 154, 4층)'
+]
+
+--- Searching for Row 126: [블루호텔레코딩스튜디오] CEO: [김현] Phone: [010-3568-1004] ---
+Query "블루호텔레코딩스튜디오": found 15 results
+Results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+Query phone "010-3568-1004": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 730: [버킷리스트] CEO: [김영선] Phone: [0507-1365-3489] ---
+Query "버킷리스트": found 41 results
+Results: [
+  { bizno: '8374800651', text: '버킷리스트' },
+  { bizno: '7054400190', text: '버킷리스트' },
+  { bizno: '7392401665', text: '버킷리스트' }
+]
+Query phone "0507-1365-3489": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1051: [이노커뮤니케이션즈] CEO: [윤오동] Phone: [051-893-7081] ---
+Query "이노커뮤니케이션즈": found 8 results
+Results: [
+  { bizno: '5020294352', text: '이노커뮤니케이션즈' },
+  { bizno: '1138641709', text: '주식회사 이노밸커뮤니케이션즈' },
+  { bizno: '2208832119', text: '주식회사 이노포스커뮤니케이션즈' }
+]
+Query phone "051-893-7081": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1285: [한국산업정보사] CEO: [김삼절] Phone: [051-504-6877] ---
+Query "한국산업정보사": found 11 results
+Results: [
+  { bizno: '2148209474', text: '사단법인한국산업정보연구소' },
+  { bizno: '6075177864', text: '한국산업정보사' },
+  { bizno: '7648600772', text: '주식회사 한국산업정보기술' }
+]
+Query phone "051-504-6877": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1517: [페이크스튜디오] CEO: [이제열] Phone: [010-4284-0739] ---
+Query "페이크스튜디오": found 1 results
+Results: [ { bizno: '2734500967', text: '페이크스튜디오' } ]
+Query phone "010-4284-0739": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1542: [산마루] CEO: [이용진] Phone: [051-247-8848] ---
+Query "산마루": found 100 results
+Results: [
+  { bizno: '1108019545', text: '산마루 어린이집' },
+  { bizno: '5080837201', text: '산마루산림기술사사무소' },
+  { bizno: '2240779548', text: '산마루' }
+]
+Query phone "051-247-8848": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1571: [명진공업사] CEO: [이명성] Phone: [051-293-3161] ---
+Query "명진공업사": found 28 results
+Results: [
+  { bizno: '1303768267', text: '명진공업사' },
+  { bizno: '5061922033', text: '명진공업사' },
+  { bizno: '2076140448', text: '명진공업사' }
+]
+Query phone "051-293-3161": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1582: [디앤아이솔루션] CEO: [이경은] Phone: [010-9547-7856] ---
+Query "디앤아이솔루션": found 4 results
+Results: [
+  { bizno: '6022261708', text: '디앤아이솔루션' },
+  { bizno: '5738603533', text: '(주)디앤아이솔루션' },
+  { bizno: '2063029688', text: '디앤아이솔루션（D&Isolution）' }
+]
+Query phone "010-9547-7856": found 15 results
+Phone results: [
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' },
+  { bizno: '2560203002', text: '부산열쇠' }
+]
+
+--- Searching for Row 1603: [케이멕스] CEO: [정태석] Phone: [051-331-0718] ---
+Query "케이멕스": found 1 results
+Results: [ { bizno: '1262056070', text: '케이멕스' } ]
+Query phone "051-331-0718": found 15 results
+Phone results: [
+  { bizno: '2560304051', text: '바닐라데이' },
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' }
+]
+
+--- Searching for Row 1604: [고움] CEO: [임서현] Phone: [051-510-7585] ---
+Query "고움": found 55 results
+Results: [
+  { bizno: '2591000969', text: '고움' },
+  { bizno: '4421600224', text: '고움' },
+  { bizno: '7061801475', text: '고움' }
+]
+Query phone "051-510-7585": found 15 results
+Phone results: [
+  { bizno: '2560304051', text: '바닐라데이' },
+  { bizno: '2560302903', text: '99렉카' },
+  { bizno: '2560300303', text: '크린토피아 종로서촌점' }
+]
+

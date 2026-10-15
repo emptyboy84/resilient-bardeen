@@ -1,0 +1,13 @@
+The search for "site:mcst.go.kr "동화사" "부산" OR "초량"" returned the following summary:
+문화체육관광부 홈페이지 내 자료를 검색한 결과는 다음과 같습니다.
+
+*   **동화사 관련 정보:** 검색된 자료들에서 '동화사'는 주로 **대구광역시 동구**에 위치한 사찰로 언급되고 있습니다[1][2][3]. 대구 팔공산 일대의 관광 자원으로서 파계사, 부인사 등과 함께 언급되며[4], 템플스테이 운영 사찰로도 소개되어 있습니다[3].
+*   **부산 및 초량 관련:** 부산 지역의 전통사찰 목록[1][2]이나 기타 문화체육관광부 자료에서 '동화사'와 '부산' 또는 '초량'을 연관 짓는 정보는 확인되지 않았습니다.
+
+따라서 문화체육관광부의 공식 자료상으로는 부산이나 초량 지역에 동화사라는 이름의 전통사찰이 등록되어 있지 않음을 알려드립니다.
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0uPjOyfBAUdHtwwDYi1SHSrc-clFPRyLFpc273DY8S1PuleZPu9fs-sBPdSuTQ4a5b6G_phQ9UcZ-atsJnxz5M5uFBMwbwpdKKHn_iSboLn5Hvf3NkGJYp-Ff793HMLHV0ZBKIolbvyGmeBRJJJakGJ2YTdXAcaFoIrMlwoYCf3ZdvGRhSIQ1unFs07fZf_reH1sL-Zhvxz93wDOvg1WgKrRS9DplImd9x86L8kp8r8YFMKXsdvewhZ8ABYFgTHuAYfiB-EO8hU_ZGf5znpR7xBd5xspDp8nJigsH0NYLQmG6V4H9s0xY4CDil4FBYTQ1Lc9OE0-LazgjTBxS7pPv0-7SmKv32oeVT9Ba6Unit9uzKd5YPvg4lthPdtn6bY-SW8_)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUcs7lYhX5bKvFRLkUQNY_CJh_vYdm-Wy3sgSdxNn0Rz5-uTkDIRAxqd_BlS4dXs-3JtLEC93m8BErjDPSQnHX1-2wLS5UJBOeTTKLJus591Afc85sbXds7lSiOK61_3Tm80tUDSa5ykb-lcIs6ybtZxmv8bFhF33-1pfFpzwy8qvC7eBOCF58-vlfdsoJG5Sp0Tnq08IL8NncBSzzpfYMYg-uMvktHGZ1iWuvZ1SYU18A9GbY3yTvtWHMiusdxWxRGzNxFHZaxLexHHmWrhRVG3X91otkf4kc4It42xayv6jgkH5kDmZM4WjNtQfgRsW65EKh1TOZNC9rAi_49u2MFmj7KrQVONl2p34uds9zkwnnOa52zeyzAzn5Ehctj4U=)
+[3] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ekbL07X8VR7MGpTUkewXMzogvdL-qLWJBEIN-8cLoEheGT-jaErLLo3W0Xa4BFFrHqHFTeE70gsDjp0N6dEMAewVsVugW22OE1LfkxkWgmdT33nAQC4FAcLMlz2ZZ7hJvq4LIuaCRvlBbnxovouBsJNHCsJ6EMcANerjAsxkbw5-nVkbegZU9HTVg5daWK3GVu8PPyuxVK350qANCROMFl5yB6tm3AW5V1JsrENbAE1F6whkoovq6Wup6Ws-GtQjo45jHop5M_vvp3EkTwI9m8552Ja3jfehrHrv8NM-SmwmF_tvissKZyj156MpMMPmsZ3zfCy2eg83ILohDD8aTUnu6hRFzFjF4vvSv0j4KVjtUU0bkQgyJ_y4WOBmkLpIOhSNegfh_ng586dsyRcsFB2qV6WwsjebCXHfO8lxDtvWA262zLxT6H774pffIZ0-DaQ2G2t7oSXgpi1w6RRjsLQEFeM2sTp8BIbBbA_nTmbbfBaKiRR6ELECsmaFHxBaim8zbXV0T-nY-mrOuoWOon2YhthQ6UO6iid0_V3CsFeDFj-3D0nau0HaXZnb0DMoLjdkblKtLFVhFB1bfhsH66ynDvDxoh15hrLWwHmxKLK5jAFNb20MDRuFE1VypdLnd11y78lqucA4ULgaOJzrFdhk)
+[4] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFijqioYo-ccquujSpSMYruYSxnmJLNP4au-0HbN3CMVCFl4NPGw84eLCiXlDwr3gREMHIJgz08-FrRfRcapMSF5fJWqJcMsU1C-Q2MNrwvlP1XEHX1RB07S8IASM7mpAiqCunbuRMozszHQha3KAfJoPTqKUsn2c0-KV0O1c-dPYpYPZcvOOONh_N7ouQHIYkwuX-IEc9bKff0t3SXi_7s40F_LXH7MfNJgjxJg38-Klpm69gL_KmnTwihsgYafXV8CfeGupuSHWkb1zHn9JimmTU9m7RCnrNVtt455DJLILDeQb5_LDnOcCQ2JqPUDnnBc5aY9dxy7WOW1FImWlA_6wQya3HwRxX-IgLd10PY_z_R)

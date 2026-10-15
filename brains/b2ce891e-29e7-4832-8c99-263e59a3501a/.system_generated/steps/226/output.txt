@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://play.google.com/store/apps/details?id=kr.co.abmlab.calvak&hl=ko');
+```
+### Page
+- Page URL: https://play.google.com/store/apps/details?id=kr.co.abmlab.calvak&hl=ko
+- Page Title: 찾을 수 없음
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-32-30-269Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-32-29-933Z.log#L1

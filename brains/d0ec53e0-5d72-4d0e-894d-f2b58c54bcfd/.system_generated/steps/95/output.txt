@@ -1,0 +1,127 @@
+
+The command exited with code 0.
+Output:
+<truncated 180 lines>
+  Col 7 [대표자 성함]: '김도현' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '010-7733-6343' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '게임' | Font: NONE | Fill: 00000000
+  Col 13 [컨택결과]: '게임사업단 요청으로 제외' | Font: NONE | Fill: Values must be of type <class 'str'>
+  Col 15 [비고]: '확인불가' | Font: NONE | Fill: Values must be of type <class 'str'>
+Row 2094: 비바몬스터 (Rep: 김지욱)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2093 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '비바몬스터' | Font: NONE | Fill: 00000000
+  Col 4 [사업자번호]: '646-87-02732' | Font: FFFF0000 | Fill: Values must be of type <class 'str'>
+  Col 5 [설립연도(연도)]: 2022 | Font: FFFF0000 | Fill: 00000000
+  Col 6 [설립연도(월)]: 10 | Font: FFFF0000 | Fill: 00000000
+  Col 7 [대표자 성함]: '김지욱' | Font: FFFF0000 | Fill: 00000000
+  Col 8 [연락처]: '0507-1381-8418' | Font: FFFF0000 | Fill: 00000000
+  Col 10 [시군구]: '남구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '남구 대연3동 55-1번지 21센츄리오피스텔 1901호' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '광고' | Font: NONE | Fill: 00000000
+  Col 16 [종사자수(명) 25년 기준]: 3 | Font: FFFF0000 | Fill: 00000000
+Row 2100: 와라봐라 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2099 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '와라봐라' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-582-0944' | Font: NONE | Fill: 00000000
+  Col 10 [시군구]: '남구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '남구 용호동 동명로  ' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '만화' | Font: NONE | Fill: 00000000
+Row 2101: 조은글방 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2100 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '조은글방' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-896-9967' | Font: NONE | Fill: 00000000
+  Col 10 [시군구]: '부산진구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '부산진구 개금동 개금본동로  ' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '만화' | Font: NONE | Fill: 00000000
+Row 2105: 엠에스네트워크 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2104 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '엠에스네트워크' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-505-4437' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '만화' | Font: NONE | Fill: 00000000
+Row 2107: 스튜디오바다 (Rep: 류수환)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2106 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '스튜디오바다' | Font: NONE | Fill: 00000000
+  Col 7 [대표자 성함]: '류수환' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '010-3855-8918' | Font: NONE | Fill: 00000000
+  Col 10 [시군구]: '동구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '동구 증산서로 52 ( 문화공간반달)' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '방송' | Font: NONE | Fill: 00000000
+Row 2117: 스튜디오더블린 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2116 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '스튜디오더블린' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-557-2381' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '애니메이션' | Font: NONE | Fill: 00000000
+Row 2118: 하이라이트스튜디오 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2117 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '하이라이트스튜디오' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-816-7092' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '애니메이션' | Font: NONE | Fill: 00000000
+Row 2124: 잭월드 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2123 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '잭월드' | Font: NONE | Fill: 00000000
+  Col 8 [연락처]: '051-912-8692' | Font: NONE | Fill: 00000000
+  Col 10 [시군구]: '부산진구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '부산진구 범천동 가야대로 서면3차 봄여름가을겨울 104 2201' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '음악' | Font: NONE | Fill: 00000000
+Row 2126: 온누리 (Rep: 윤상돈)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2125 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '온누리' | Font: NONE | Fill: 00000000
+  Col 4 [사업자번호]: '539-46-00637' | Font: FFFF3300 | Fill: Values must be of type <class 'str'>
+  Col 7 [대표자 성함]: '윤상돈' | Font: FFFF3300 | Fill: 00000000
+  Col 10 [시군구]: '영도구' | Font: FFFF3300 | Fill: 00000000
+  Col 11 [주소]: '부산 영도구 수정길 65(신선동3가)' | Font: FFFF3300 | Fill: 00000000
+  Col 12 [업종분류]: '음악' | Font: NONE | Fill: 00000000
+Row 2127: 파티온 (Rep: 정동휘)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2126 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '파티온' | Font: NONE | Fill: 00000000
+  Col 4 [사업자번호]: '254-19-00098' | Font: FFFF3300 | Fill: Values must be of type <class 'str'>
+  Col 5 [설립연도(연도)]: 2015 | Font: FFFF3300 | Fill: 00000000
+  Col 6 [설립연도(월)]: 8 | Font: FFFF3300 | Fill: 00000000
+  Col 7 [대표자 성함]: '정동휘' | Font: FFFF3300 | Fill: 00000000
+  Col 10 [시군구]: '해운대구' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '음악' | Font: NONE | Fill: 00000000
+  Col 14 [폐업 날짜]: datetime.datetime(2024, 12, 31, 0, 0) | Font: FFFF3300 | Fill: Values must be of type <class 'str'>
+  Col 15 [비고]: '폐업자' | Font: FFFF3300 | Fill: Values must be of type <class 'str'>
+Row 2142: 샐리북 (Rep: 임은선)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'> | Fill: 00000000
+  Col 2 [순번]: 2141 | Font: NONE | Fill: 00000000
+  Col 3 [사업체명]: '샐리북' | Font: NONE | Fill: 00000000
+  Col 4 [사업자번호]: '607-17-97342' | Font: FFFF3300 | Fill: Values must be of type <class 'str'>
+  Col 5 [설립연도(연도)]: 2011 | Font: FFFF3300 | Fill: 00000000
+  Col 7 [대표자 성함]: '임은선' | Font: NONE | Fill: 00000000
+  Col 10 [시군구]: '연제구' | Font: NONE | Fill: 00000000
+  Col 11 [주소]: '연제구 고분로 17' | Font: NONE | Fill: 00000000
+  Col 12 [업종분류]: '출판' | Font: NONE | Fill: 00000000
+
+Searching in 개인 리스트:
+Row 495: 이지현
+  Col 1 [순번]: 494 | Font: NONE
+  Col 2 [사업체명]: '이지현' | Font: NONE
+  Col 3 [연락처]: '010-5432-9515' | Font: NONE
+  Col 4 [업종분류]: '만화' | Font: NONE
+Row 496: 이지현
+  Col 1 [순번]: 495 | Font: NONE
+  Col 2 [사업체명]: '이지현' | Font: NONE
+  Col 3 [연락처]: '010-8986-6056' | Font: NONE
+  Col 4 [업종분류]: '공연' | Font: NONE
+Row 497: 이진수
+  Col 1 [순번]: 496 | Font: NONE
+  Col 2 [사업체명]: '이진수' | Font: NONE
+  Col 3 [연락처]: '010-6382-4823' | Font: NONE
+  Col 4 [업종분류]: '만화' | Font: NONE
+Row 721: 우수경(웹툰작가)
+  Col 1 [순번]: 720 | Font: NONE
+  Col 2 [사업체명]: '우수경(웹툰작가)' | Font: NONE
+  Col 3 [연락처]: '010-5645-1522' | Font: NONE
+  Col 4 [업종분류]: '만화' | Font: NONE
+

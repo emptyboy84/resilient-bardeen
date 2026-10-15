@@ -1,0 +1,23 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-970
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-970.log
+Log output:
+<truncated 25 lines>
+http\client.py", line 330, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lg\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\http\client.py", line 291, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lg\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lg\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lg\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+Last progress: 2s ago

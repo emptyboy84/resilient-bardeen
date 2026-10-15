@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Title matches: [
+  '"title":"<mark>스튜디오비오</mark>의방 - 머니핀"',
+  '"title":"주식회사 <mark>스튜디오비오</mark>엠"',
+  '"title":"<mark>스튜디오비오</mark>스에서 완벽한 속눈썹을 찾아보세요!"'
+]
+Content matches: [
+  '"content":"오늘은 제천 속눈썹 연장과 증모의 진수를 맛볼 수 있는 <mark>스튜디오비오</mark>스를 소개할게요. 요즘 속눈썹 관리에 관심이 많아서 많은 곳을 방문해봤지만, <mark>스튜디오비오</mark>스만큼 매력있는 곳은 처음이었어요. <mark>스튜디오비오</mark>스의 특별함 제천시 장락로에 위치한 <mark>스튜디오비오</mark>스는 정말 예쁜 공간이에요. 이곳의 아늑한 분위기는 편안함을 주고, 다양한 서비스로 고객님들을... "',
+  '"content":"#이천도자기축제 #방문후기 #셔틀버스 #뚜벅이 #너븐제 #토화담 #희고희고 #체험 #<mark>스튜디오비오</mark> #공방예작 #혜화요 #도자기 #B급 #할인 #프로그램 #아리아워크룸 #이정협갤러리 #에이보울 #자기소의봄 #이천도자기 #이천도자기공방 #이천도자기마을추천 #도자기축제 #이천도자기축제기간 #내돈내산 #이천도자기체험 #이천체험 #b급 #b급도자기 #상생페이백 안녕하세요... "'
+]
+Found 52 raw occurrences. Samples:
+[0] nt="telephone=no,address=no,email=no"> <meta property="og:title" content="&quot;스튜디오비오&quot; : 네이버 검색"/> <meta property="og:image" content="https://ssl.pstatic.net/sstatic/search/common/og_v3.png"> <m
+[1] tatic/search/common/og_v3.png"> <meta property="og:description" content="'&quot;스튜디오비오&quot;'의 네이버 검색 결과입니다."> <meta name="description" lang="ko" content="'&quot;스튜디오비오&quot;'의 네이버 검색 결과입니다."> <title>
+[2] 디오비오&quot;'의 네이버 검색 결과입니다."> <meta name="description" lang="ko" content="'&quot;스튜디오비오&quot;'의 네이버 검색 결과입니다."> <title>&quot;스튜디오비오&quot; : 네이버 검색</title> <link rel="shortcut icon" href="https://ssl.ps
+[3] cription" lang="ko" content="'&quot;스튜디오비오&quot;'의 네이버 검색 결과입니다."> <title>&quot;스튜디오비오&quot; : 네이버 검색</title> <link rel="shortcut icon" href="https://ssl.pstatic.net/sstatic/search/favicon/favicon_32x
+[4] .map/openapi/maps3.js" }; var nx_mobile_agent = 0 ; var headerfooter_query = "\"스튜디오비오\"" ; var headerfooter_query_encoded = "%22%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EB%B9%84%EC%98%A4%22" ; var header
+[5] ar headerfooter_time_wday_s = "2" ; var g_ssc = "tab.nx.all" ; var g_query = "\"스튜디오비오\"" ; var g_puid = "jrc54wqVge+7uNO12TN-054124" ; var g_suid = "4Hc95XrkkxKgnj4ce3p0M8Wd" ; var g_tab = "nexearch"
+[6] > <input id="nx_query" type="text" name="query" class="box_window" value="&quot;스튜디오비오&quot;" maxlength="255" accesskey="s" autocomplete="off" placeholder="검색어를 입력해 주세요." role="combobox" aria-expande
+[7] on, true, 150); })(); </script> <input type="hidden" name="oquery" value="&quot;스튜디오비오&quot;"> <input type="hidden" name="tqi" value="jrc54wqVge+7uNO12TN-054124"> <input type="hidden" value="" name="a
+[8] ner" role="main"> <div id="content" class="pack_group"> <h1 class="blind">&quot;스튜디오비오&quot; 검색 결과</h1><div id="main_pack" class="main_pack"><script> naver.search.option = {} ; naver.search.option.par
+[9] re" value="nexearch"> <input type="hidden" id="query" name="query" value="&quot;스튜디오비오&quot;"> <input type="hidden" id="sm" name="sm" value="tab_opt"> </form> <div id="lnbNavAddLayer" role="listbox" c
+

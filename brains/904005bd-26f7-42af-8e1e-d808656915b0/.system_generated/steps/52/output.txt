@@ -1,0 +1,33 @@
+The search for ""박학문" "사업자등록번호" OR "사업자번호" OR "법인등록번호"" returned the following summary:
+'박학문'이라는 이름을 가진 대표자가 운영하거나 관련되어 언급된 사업체 및 사업자 정보는 다음과 같습니다. 
+
+*   **한국해양장례문화원 (하나연)**
+    *   **사업자등록번호:** 503-82-87991[1][2]
+    *   **대표자:** 박학문[1][3]
+
+*   **(주)룩스커뮤니케이션** (폐업)
+    *   **사업자등록번호:** 607-81-62956[4][5]
+    *   **대표자:** 박학문[6]
+    *   **상태:** 폐업 (폐업일: 2014-06-30)[4][6]
+
+*   **기타 관련 정보**
+    *   **스페이스케이협동조합:** 기업 정보 내 대표자로 '박학문'이 언급된 바 있습니다[7].
+    *   **삼룡건설(주):** 기업 정보 내 대표자로 '박학문'이 언급된 바 있습니다[8].
+    *   **브이알코리아(VR코리아):** 2010년경 대표자로 '박학문'이 보도된 바 있습니다[9][10].
+
+검색 결과에 나타난 다른 사업자 번호(예: 608-81-33944, 106-81-48524 등)는 박학문 씨가 아닌 해당 기사나 게시물의 언론사 또는 관련 단체의 사업자 번호이므로 혼동하지 않도록 유의하시기 바랍니다[11][12][13].
+
+Sources:
+[1] [hanayeon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbKIOGSAxAeOTTeafQsuAdNF2NJCON326ZaeH_MT9botFtiMh6Jyc0KTsCHU0b9S4v4IyJ0Yra_bZ7l0GJvRgFa4OjjOrghY1tm8oupc9oetZ3VFgp2Q=)
+[2] [hanayeon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbKIOGSAxAeOTTeafQsuAdNF2NJCON326ZaeH_MT9botFtiMh6Jyc0KTsCHU0b9S4v4IyJ0Yra_bZ7l0GJvRgFa4OjjOrghY1tm8oupc9oetZ3VFgp2Q=)
+[3] [hanayeon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbKIOGSAxAeOTTeafQsuAdNF2NJCON326ZaeH_MT9botFtiMh6Jyc0KTsCHU0b9S4v4IyJ0Yra_bZ7l0GJvRgFa4OjjOrghY1tm8oupc9oetZ3VFgp2Q=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXXb5fnq8RHTiwqe-xQOPGCBIG7jdPju7ti7UrI0B8MWtOsLi04g3NG_cvdJElAT7zfThlAxn1jjUNQH1AyLkO6Mc8T3rdvR1dOMgb7v4Ejh1Tg0rsZgSGFM=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXXb5fnq8RHTiwqe-xQOPGCBIG7jdPju7ti7UrI0B8MWtOsLi04g3NG_cvdJElAT7zfThlAxn1jjUNQH1AyLkO6Mc8T3rdvR1dOMgb7v4Ejh1Tg0rsZgSGFM=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXXb5fnq8RHTiwqe-xQOPGCBIG7jdPju7ti7UrI0B8MWtOsLi04g3NG_cvdJElAT7zfThlAxn1jjUNQH1AyLkO6Mc8T3rdvR1dOMgb7v4Ejh1Tg0rsZgSGFM=)
+[7] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXSjQlIP0-jb0zxElIQLV4_3xYC_ynbIuqEWweYrR8iq78xzCK9sZs7BF-O_W-NKfLkIq29SvEjY9EqtyK9M8l-9Co_Ip65YyxdSB0jBdFUcmYXbiGjchTLXx38LpxYcZn47M6IwS_k6yH_V_SuhdNTXG1)
+[8] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnBAeOGBiM4Z3puEh1iQa25DNX8lPen8uVe_035RABxJTf6KXFpRnkZh-ed7Ho7PWGe67ZTtYv_yXN8UPQ_Rsqj9w_I6B70Af9u7pkjEWJYakfI--pKQjyBR1i8mfRIENRAA2IC6fxNklR4glRZotS1rmt)
+[9] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBlgvPJB_qZTe7C9Quge_e1w_perN2VPZrW5btuImceQETb3fY-zor2tSWCCQOS0-EkNp0osWZEtBNvZeAbaboj5hExxCaSf--VG3BzeA0mMGa76ccImocC7ttIXr1EtMLd6JzMLEDMe3IUW_2)
+[10] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlnCHbV3UlM7OsS64YZrDnALKCbRvDINwKi2jpZWsGXs55jXUglSKrLA5shyA4BvrypGNMq6pIiAyNelTGsbjkjNXqVHmlrM_OTVNowh3yjMkHS-hCeT5_R0DbSHvxVngJUnkrXa2odCojLAQf)
+[11] [idomin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBrkegFJs6oqooWlApmXxNDvZ-gH2svmpSzBWy0vC0k56JycpMDO_q3SimoOmca2paVMpDcrX2SbDP9jALoXMPLBnM-2EfImO8BmVRKJQRv9YeoZ5FrZOluNbeKeF2mq03IbDENoa8rq7L3LC0iPQ=)
+[12] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuEO9pVpZJIx1ieNOz8ec_JpMM7xYkFq6iLxVNbua0DkrXJPp8FZEEmiPnhNdx9guUJoT-dJq_yn44hmRCfc-V0U1tgFNe5xcK6HceAkj8ZgfOkGR0MM2MX79qOc1IRyNZfa4uFIRT_aNMsIl)
+[13] [ksilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2JzM-O0OOWHTXnoSEke1CjpnvTk8uLfKvXo0dustcm6jGIQQmxdqf-NPkhvNrGVI5PAgM9cEbl-sEz6NDIIX2k522COJX7Rean0OBcWo1J9v0n4MNZUp9kgXlDbyAg6ne-wj29NobT_k8ncheelmMnQ==)

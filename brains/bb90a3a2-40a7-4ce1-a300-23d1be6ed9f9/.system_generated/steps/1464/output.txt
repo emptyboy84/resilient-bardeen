@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Phones in YouTube: [ '051-754-3366' ]
+Match 손정희: 기, 수도\n즉시 입주 가능\n주차 2대 가능(유료)\n\n센텀위너스부동산공인중개사사무소\n부산시 해운대구 센텀중앙로 97, b동 105호\n26350-2017-00042\n소장 손정희"}]},"showMoreText":{"accessibility":{"accessibilityData":{"label":"Show more"}},"simpleText":"...more"},"showLessText":{"simpleText":"Show less"},"backgroundColorStyle":"BACKGROUND_COLOR_STYLE_COL
+

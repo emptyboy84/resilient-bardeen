@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Row 1750 | 명지 녹산 부산일보 및 동아일보 | Biz: 606-06-99924 | Rep: 박홍식 | 24: null | 25: null | blueCols: 4
+Row 1753 | 국제，동아，경향신문보급소 | Biz: 621-11-99553 | Rep: 손득자 | 24: null | 25: null | blueCols: 4
+Row 1755 | (사) 부산대학교 출판문화원 | Biz: 621-82-00477 | Rep: 차정인 | 24: null | 25: null | blueCols: 4
+Row 1757 | (주)창비부산 | Biz: 757-85-01489 | Rep: 신문수 | 24: 42675000000 | 25: null | blueCols: 4
+Row 1759 | 주식회사 홍조출판 | Biz: 376-86-01161 | Rep: 조영동 | 24: null | 25: null | blueCols: 4
+Row 1762 | 조선일보 신사직 지국 | Biz: 607-18-52885 | Rep: 김규형 | 24: null | 25: null | blueCols: 4
+Row 1763 | 새부산기독교서적센타 | Biz: 607-99-75121 | Rep: 김대희 | 24: 1318523000 | 25: 1408424000 | blueCols: 4
+Row 1765 | 아이북랜드 | Biz: 624-02-03904 | Rep: 안종호 | 24: null | 25: null | blueCols: 4
+Row 1766 | 부산중앙일보가야 | Biz: 605-15-72303 | Rep: 조만재 | 24: null | 25: null | blueCols: 4
+Row 1767 | 부산일보 당감지국 | Biz: 605-15-50255 | Rep: 김재익 | 24: null | 25: null | blueCols: 4
+Row 1769 | 주식회사 뷰엠 | Biz: 295-81-02546 | Rep: 강해숙 | 24: null | 25: null | blueCols: 4
+Row 1773 | 북컬쳐(부산) | Biz: 622-01-46462 | Rep: 김광윤 | 24: null | 25: null | blueCols: 4
+Row 1778 | 주식회사 아트몰링리노베이션 | Biz: 409-87-03113 | Rep: 김중근 | 24: null | 25: null | blueCols: 4
+Row 1793 | 도서출판CTM | Biz: 605-91-52150 | Rep: 김성철 | 24: null | 25: null | blueCols: 4
+Row 1797 | 도서출판양업서원 | Biz: 617-85-19793 | Rep: 민병선 | 24: null | 25: null | blueCols: 4
+Row 1798 | 한얼꿈출판사 | Biz: 607-92-00714 | Rep: 조서목 | 24: null | 25: null | blueCols: 4
+Row 1800 | 케이텍 | Biz: 714-11-01026 | Rep: 오상민 | 24: null | 25: null | blueCols: 4
+Row 1805 | 유한회사 키즈플레이타운 | Biz: 413-87-02355 | Rep: 이정엽 | 24: null | 25: null | blueCols: 4
+Row 1806 | 미디어CAPSULE | Biz: 607-10-88688 | Rep: 정태선 | 24: null | 25: 2200080000 | blueCols: 4
+Row 1807 | (주)삼성출판사 롯데동래점 | Biz: 343-85-00791 | Rep: null | 24: null | 25: null | blueCols: 4
+

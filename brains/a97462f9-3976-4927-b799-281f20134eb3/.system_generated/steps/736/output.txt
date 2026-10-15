@@ -1,0 +1,10 @@
+You have 1 background task(s) currently running:
+{
+  "taskId":  "a97462f9-3976-4927-b799-281f20134eb3/task-716",
+  "toolName":  "run_command",
+  "toolSummary":  "Execute search_old_files.js",
+  "description":  "node \"C:\\Users\\lg\\.gemini\\antigravity\\brain\\a97462f9-3976-4927-b799-281f20134eb3\\scratch\\search_old_files.js\"",
+  "startTime":  "2026-09-22T23:59:26.063125300Z",
+  "stepIndex":  716,
+  "logUri":  "file:///C:/Users/lg/.gemini/antigravity/brain/a97462f9-3976-4927-b799-281f20134eb3/.system_generated/tasks/task-716.log"
+}

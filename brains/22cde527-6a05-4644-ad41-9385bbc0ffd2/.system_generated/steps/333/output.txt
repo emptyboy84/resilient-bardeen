@@ -1,0 +1,15 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 845 lines>
+CONFIRMED: 109-86-57158 (주식회사 미라클링) | 주소: "부산광역시 해운대구 센텀중앙로 97 제이에이동 2305호(재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[403/421] Row 2247 | "오렌지랩스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 815-88-02655 (오렌지랩스 주식회사) | 주소: "부산광역시 해운대구 센텀중앙로 97 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김범진" [폐업자]
+[404/421] Row 2248 | "에스랩" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[405/421] Row 2249 | "아이시스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 701-81-02134 (주식회사 아이시스) | 주소: "부산광역시 해운대구 센텀북대로 60 60, Centum buk-daero, Haeundae-gu, Busan, Republic of Korea" | 대표: "박장식" [계속사업자]
+[406/421] Row 2250 | "에코비티" | 대표: "" | 구: "해운대구"
+
+Last progress: 7s ago

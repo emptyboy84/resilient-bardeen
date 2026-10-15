@@ -1,0 +1,11 @@
+The search for ""미르내이앤씨" "법인등록번호" OR "법인번호"" returned the following summary:
+주식회사 미르내이앤씨의 사업자 정보는 다음과 같습니다.
+
+*   **사업자등록번호**: 139-87-01370[1][2][3]
+
+법인등록번호는 일반적으로 공개된 웹 검색 결과에서 직접 확인하기 어려울 수 있으나, 위 사업자등록번호를 활용하여 [대법원 인터넷등기소](https://www.iros.go.kr/)의 '법인등기 열람' 서비스를 이용하시면 해당 법인의 정확한 법인등록번호를 확인하실 수 있습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7pCg_E2Af4fWEF3ceRV_DNhXeA7i2UD7Ovt6t7r9nuPvQckITlY7Vh7XiWCvMaG9V52G2aoCe8DxJQXAEQK1-R9U76A51_nn_LGwBiWIHR_YMOTJO7TTwo0nfdXrAf5mbfY7RICc6BV2dQ-BU4dkfLP8z5DP0ZLNrvbugCnmsB-WkNLHMuFKHXhv3ud0F1TS-ztsHOTR4GQsUoPlfjxQdXL0HGemjBnzxMlrX1LzZZ9Xt-tdF9xEcQxy1JWg46AiLfr5MwWx2WRHFlNqayEbKtWnqe_kbwwMcqA1UVpWuDFayw_C7TR_2i21n2KubFlj8b-yTBbAMVoo=)
+[2] [ibchal.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Fzqyuc9pYmotCLXcu-NjBEc6zTaNbMLN_KuFAYVIKks7l05BcSAAUMOOF2ALngMNrkGH4S66VsOouVupPJUpUhoQ989Ecobi9Y86xhJBIkveyb7r7hB3mt0=)
+[3] [ibchal.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgkIcnrH2-HTrounSNDVe58UsqeI8jBIneJ-FiSENwgRBfHHreTcc3KiNhf8C8Z8zjQn5MVcplq7fN0HNx9bWp-3Zn8aot16es8zDw3wx0oNV0Wk-gqkzatAU=)

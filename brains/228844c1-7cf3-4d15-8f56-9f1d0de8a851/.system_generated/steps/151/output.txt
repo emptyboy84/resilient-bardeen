@@ -1,0 +1,28 @@
+The search for "site:bizno.net "룩스커뮤니케이션" OR "605-" OR "602-"" returned the following summary:
+검색 결과에서 "룩스커뮤니케이션"이라는 이름의 기업 정보는 확인되지 않았습니다.
+
+요청하신 검색어(`site:bizno.net "룩스커뮤니케이션" OR "605-" OR "602-"`)를 통해 비즈노(bizno.net) 내에서 검색한 결과, "605-" 또는 "602-"가 포함된 다양한 사업자 정보가 조회되었습니다. 해당 결과들은 다음과 같습니다:
+
+*   **"605-" 포함 정보:**
+    *   **인제대학교:** 사업자등록번호 605-82-02094[1]
+    *   **한국광기술원:** 전화번호 062-605-9132 등[2]
+    *   **씨엔에스 주식회사:** 사업자등록번호 410-86-05133[3]
+
+*   **"602-" 포함 정보:**
+    *   **602마켓:** 상호명 및 통신판매업 번호 등[4]
+    *   **주식회사 미디어블커뮤니케이션:** 주소지 "602" 등[5]
+    *   **주식회사 이재605:** 기업명 포함[6]
+    *   **기타:** 602호 입주 사업자 및 지번 주소에 602-1이 포함된 업체(앤더스 등)[7][8][9]
+
+찾으시는 특정 업체가 있다면 정확한 상호명이나 사업자등록번호를 다시 확인해 보시기 바랍니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-AIMBZVT633asEoee98RRLqOLnzq54SfjLViYtxW3SidlHCk9uNsIQJQpLb1D0KIAphWotHOqwSDpgSNya0DUC4peAvBRPb4LlYQ1PjCHkyQUExGvU8f8xA==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc8VrRzpxkU9s_YXava37KnWlgEhBaaGB2-FpEpuje6ldS096NcKVpstK8oi028RcAfCYWBbkL8yaDTjKl30HTTPPuurHsZMc0iirr0B8wkFHcxanMOVUJyA==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUebwRZ328xE35tew9yEoEjXO45Kw88rnQLd7tCGEzOQl7YUZ6ACKV1TCTsiSfags-fmlecF4A6iiPfBsCzCZMJ2eVND7hnNHLNPeuiQyJpZZnW8mHk4bnyw==)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpmytTzvn1BU6bdpc-LKch1O91Qv30_040y5YAoKwAOFoBu-l8hVbzGA0Efya4irxm6n-Xlt51oCQZcVzALwIQPqsmjRjFylvBIRmKpe0ZhVwa3S4JdXHh_w==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc44B9nntVAuzQYLBV9J6jvYgzIkS6nxjjKMJK1yWWC_nOOfLPsPvH9Vxn87NfAmb7V5Px7UhDXoKEXHe2l516_WNi57NYJh-4zTh2WbInLSzDsIDv_rDhYg==)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK3h92vFFmSufZaxxGRyn3Qo9-sEWZdkF2n-I9KzQy6ygB9M1bM1gxZYOpADGVpxcsdSr2E6zlN1bxPM5MnCOLsh9qFZm8DKUrVwT2CK9arY_jecWXB_-jGQ==)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf49OMorj75OUzu-W4vAqmCTP_-KIGx0NebXma4U458RcovUHo5drVdOJkiqFr1zbReT0Mwjav9mf7AdMNBoKcJQFrDsKaxt9ETpJCf7OJjLHysqj_es1o0w==)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPx2PzSzi505Xxk9v0JeI5YTZuvczJGhsSSJF8p9wqniOyfXNdh4_zxp6EzeX9ZnJIpzIMer0YScrBHEboCzSR1fO5A7ad9_F76kyYWSJd5_fPnuEoojOopg==)
+[9] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkq1h9cuW26B2nze3AHRAcCa--v6f-QTzqopEoQYKAa1Nt4HdZ-ievpKA44iUYIyIgJedaIQuPyZXxphVDSmYwKRgbgTe3lvo8FBtemJXXiejgaZkl9thonQ==)

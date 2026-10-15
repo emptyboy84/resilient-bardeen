@@ -1,0 +1,11 @@
+The search for "site:etnews.com "VR코리아" OR "브이알코리아" "박학문"" returned the following summary:
+전자신문(etnews.com) 검색 결과, 'VR코리아'와 '박학문' 대표에 관한 주요 내용은 다음과 같습니다.
+
+*   **부산 동물원 '더파크' 4D 체험형 사업 추진 (2013년):** VR코리아는 부산 동물원 '더파크'에 VR 및 AR 기술을 접목하여 온·오프라인 양방향 관람이 가능한 '4D 체험형 더파크' 사업을 추진했습니다[1]. 당시 박학문 대표는 단순 관람 위주인 동물원의 한계를 극복하고 교육과 재미를 동시에 제공하기 위해 이 사업을 추진한다고 설명했습니다[1].
+*   **IT엑스포 부산 성과 (2010년):** 2010년 개최된 'IT엑스포 부산'에서 VR코리아(대표 박학문)는 국내 유명 게임사와 50억원 규모의 홀로그램 및 3D 컴퓨터그래픽(CG) 도입 상담을 진행하였으며, 당시 30억원 상당의 계약을 앞두고 있다는 소식이 보도된 바 있습니다[2].
+
+VR코리아는 2009년에 설립된 부산 지역의 가상·증강현실 장비 및 콘텐츠 개발업체로 소개되었습니다[1].
+
+Sources:
+[1] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhwzuABGnp-oHUqD9qHo4UfbZUY-6T61iek9LqkSK6cHuvm2jGNhofR3u87-yQCteFLcPV_-5FNSguxw3tk8umm4SynyFrqoEohhlxVn2g46nG227r50lwprEh4j_LizVvuliGMm109EhwFTKr7IklgAOtbOj4XRM83Mqpom5b0xm0DuLGLAHTIyWCw5daSxVYzlr0jzFbHcfiuHTac5QbCPj0xPeDxkmDkKIc_SWZ3qwtnEZ1WbP476bNnb0tHTdm)
+[2] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPSNKS289G4-7H7avTIImqvUQydMJiX-Ic_A0aLF1yo-FVa5g0WvY_HBvLpRxXOVFY0Pd7wzXi970OWp_JItJgUy17dEy8YVC73P-CI8hqI4vJp7iKykgBOp4RSwxHi-k_RyWiyg2J9s1EZ2rcmxiiSreFQ7ZUqjlrXmRdxU3RJqbA6_UGlCNoKXXYGFCvqif7a3LU9QJisEIM3zu8CO-Ae3MzbYzpFWOGoSF3QBffMhyAa3U-A0LybGJsAgcT9X4m)

@@ -1,0 +1,15 @@
+Task: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-467
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\.system_generated\tasks\task-467.log
+Log output:
+Resolving 132 remaining unmatched targets...
+[RESOLVED 1] Row 1091 | �ǻ� -> 446-07-00715 (Emp: , CEO: �)
+[RESOLVED 2] Row 1251 | �÷�Ʈ� -> 587-80-00775 (Emp: , CEO: )
+[RESOLVED 3] Row 1758 | �Ϻ�λ� -> 605-86-16918 (Emp: , CEO: �̰�)
+[RESOLVED 4] Row 1296 | � -> 429-18-01258 (Emp: , CEO: �μ�)
+[RESOLVED 5] Row 1857 | �ڸ�ȭ�ްԽ� -> 290-85-02480 (Emp: , CEO: )
+[RESOLVED 6] Row 1986 | �ֱ�λ� -> 290-85-02480 (Emp: , CEO: )
+[RESOLVED 7] Row 1992 | �Ͽ� -> 606-14-68218 (Emp: , CEO: �)
+[RESOLVED 8] Row 2000 | � -> 290-85-02480 (Emp: , CEO: )
+
+Last progress: 33s ago

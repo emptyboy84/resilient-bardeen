@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-06T09:42:03+09:00
+Prompt: Check task-112 status
+Early Termination: f2533ba2-96b2-426b-85af-73e28ca73587/task-112
+
+[2026-10-06T09:41:53+09:00] Still waiting. Remaining time: 10s
+[2026-10-06T09:42:03+09:00] Timer fired.

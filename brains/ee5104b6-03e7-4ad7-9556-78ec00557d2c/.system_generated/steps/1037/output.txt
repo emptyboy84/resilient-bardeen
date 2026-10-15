@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+gmail.com MX records: OK
+mmhub.kr MX records: []
+naver.com MX records: OK
+

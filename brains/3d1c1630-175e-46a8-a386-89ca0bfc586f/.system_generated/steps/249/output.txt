@@ -1,0 +1,20 @@
+The search for ""274-81-03887" OR ("스카텍이엔지" "박재출")" returned the following summary:
+스카텍이엔지(주)에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 스카텍이엔지 주식회사[1][2]
+*   **사업자등록번호:** 274-81-03887[1][3]
+*   **대표자:** 박재출[2][3]
+*   **설립일:** 2025년 3월 21일[4][5]
+*   **업종:** 그 외 기타 전기장비 제조업[1][3][4]
+*   **주소:** 부산광역시 남구 신선로 2, 부산지식산업센터 우암점 3층 304호[2][6][4]
+    *   *참고: 일부 자료에는 부산 남구 용호로159번길 94 (부산시범공단) 주소가 함께 언급되기도 합니다[3].*
+*   **기업 규모:** 중소기업[2][3][7]
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlPsEklRdvqt4sWuYl9PFT-SE60v9M1PVns0ZO3kcdfKRFfT0h3Kj-6yoE24lqvYO43XOMzO4irO5Hpe3gYwLmxh9Uo4JTYhX0IpfTPlY7LZO6Nbd89eOA_T9FkJaDmwygWeI=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvW4dKAUkJy_OS3gowt-kiKOM7MxbrCYG1wt5067s_nvo5c2kRnPyowFFJGqCdq8M0UFd89yZGY2iCdPewLaS4iJ14JFy5bG0F8MNU3FTtLVroxwxo2SczT6i12Blz8Fzzqcg12EmLbHG4GLd77mxRlgz1ZpQxiC2xlNbmRG2QtFyZ0wjQTkSWMuGhuj_Hv-MVwZVuUPkGkuiYRw4eVP9myF_P5XEJmJlQFlpDd8_MwpnoEY3XLXwwMfgNKH74MOYQ8pewMq_0WomEEE_eFIntOYeDGEruLyG3gynm)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET_0Y7_e8JQFQZ8NY1PtbYjxnU1DdH7kzFkv9b-AEyxJ05b51Pi1zH-yQZQ7JTQtX-egMucKYpakFuOYXAnTqCUkkpAqAVy9WMGdTldYqy3FYf4H623aswdfY=)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGefzS6myEae_wco1kullPX-1V7poKSVeMpjrWRv_v_I9_B2892rWc1AB03kA7lht-a_bgKkBnU5qUXEftHQEKgoXkypr0_iU7sWiYOjt0Cf8pbE5U-PLZ-2opANYlGLaRYZ96yeRYl-5an5PNk_Ho0vjjU)
+[5] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZZu-1Zu5GQ7fnjttd3rh-bZSOEKLan1U3fk8H8qp4NDRTgYwbT-eNP6X0qah0LvaXBSmR2mwtjsHJeQ5GfjP1yGQeAs1c4eSCYMz1DkR6ClkjvB7lPHCYKjlrptrGm8t3IH8l)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUBtkQt3NJgNedAScKHv2VNaMhRqb_TTfQ2syAlI8A9CbrCx2Vsqg4TNmzvQ0bg1-jta4X86LUtt9SvvaVo6ZazUVpfzVPJZDAfW84DyIhbbkES8_0E7MHwfmvBZIf-ldVJT9xHuau_MroCrBBNqW1jn1Xv9e2HIA=)
+[7] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkGYRFcEMJRGYG-nexlyfuN5HKvMwpIhg5QXp4H3mEBBw9WOo3n4rHlBpIKE5CYtD5wCdxDovJrbe4NuNGhuoOCtT3FISZuQiUvIaos5kuWafDIkrXOD4TaToC2Vips_bhCPL1)

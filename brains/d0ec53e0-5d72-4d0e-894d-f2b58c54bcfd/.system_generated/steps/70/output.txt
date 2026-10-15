@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+=== STEP 1006 ===
+=== STEP 1036 ===
+=== STEP 1238 ===
+=== STEP 1286 ===
+

@@ -1,0 +1,9 @@
+The search for ""중소조선연구원" "우공소프트" OR ("녹산산단232로 38-6" "우공소프트")" returned the following summary:
+검색 결과, **(주)우공소프트**는 정보처리 및 컴퓨터 관련업체로[1], 부산광역시 강서구에 위치한 **(재)중소조선연구원 창업보육센터**에 입주해(또는 입주했던) 이력을 가진 기업입니다[1]. 
+
+제시하신 주소인 **‘부산광역시 강서구 녹산산단232로 38-6’**은 (재)중소조선연구원(본원)의 소재지이자[2], 내부에 창업보육센터 등 관련 시설이 위치한 주소와 일치합니다[3].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrouaBKKTV9ASkxGOC4NDkHmwlpxxbtih338YZ3SBUkvHNjMOnF4hYcf9uzj1BydRKwhb0c9wECr1febvz76sAQPLqi29A91u9T1RsYf3UIvCj36r44C4PUYvhItVfGkBONoSoT33zcK4o0YTSwI54DAtYuDoNBiuQh8ATbKlt-69EQDxb8p_wnhtQSt9By30lltTGdqKAgpZT-mrNRBGsM7_eT0JF26GdxteM-2PZW2bUqpF_tCdStDixS8_sWTea3ZlFyyAKYbDZQ7y7fRRloVoZJ4u8xa7-YaD7bgw9kpTrP17mMXqP5q-6KvggjrBUe674GY6V14E7npJVhgg7ydFdIIZLknV_3QoHhprHl8IuRzBp4dlqB-J_WOQP6SbBTsQ3KftnrUFEx3ggrzTwJfBhsp878YpnNIXvgCsyWAE=)
+[2] [data.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFePtEPFbam8G75iMT8I0F7VdcrxEcIr8vbDwSoW-0vI3ynOqfJHEGnG35zaeii3CMN54yJx8X7udHG1aD14OiRUbHt87ggG_96gw5ZcGeBIuixnp8kLOWPnd7h71nZHOysX2nHvg==)
+[3] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW47k8QEsPibojKNVHXcIh7807W_9mdp8ULesXWKDk5ESh2flso3_mCsKD9Dr3x0Ioy5_097yYT2PALjk363yBNPrZ_8iFVxDNFcpDrpmhWzEg6-EI-N-f5Z47uDViOxYTtPfqu673bOY=)

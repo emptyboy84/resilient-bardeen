@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                Length
+----                                                ------
+.gitignore                                              47
+AGENTS.md                                              859
+all_500_factchecked.tsv                             134720
+all_500_verified.tsv                                138057
+article_test.html                                    25920
+bizno_filtered_result.csv                           128152
+bizno_filtered_result.tsv                           130093
+bizno_filtered_result_nice.csv                      130977
+bizno_filtered_result_nice.tsv                      130093
+bizno_test.html                                      24690
+current_pasted_batch.tsv                            110584
+merged_500_perfect.tsv                              138448
+package-lock.json                                    41125
+package.json                                            85
+query_test.html                                      17011
+rows_11847_12000_16col.tsv                           36805
+rows_11847_12000_17col.tsv                           37115
+rows_11847_12000_verified.tsv                        38655
+user_pasted_rows.tsv                                192164
+�ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md    4157
+�ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf 169882
+
+
+

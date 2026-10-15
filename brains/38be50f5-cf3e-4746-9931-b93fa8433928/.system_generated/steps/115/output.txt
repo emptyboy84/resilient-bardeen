@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
++ add_genealogy_publisher_data   20488d3 e
++ add_goejeong_manhwa_data       20488d3 e
++ add_isomin_business_data       20488d3 e
++ add_kyobo_popup_store          20488d3 e
++ add_playground_business_data   20488d3 e
+* add_posys_business_data        79e2604 docs: update agent guidelines in AGENTS.md
++ add_queserasera_data           20488d3 e
++ add_soul_pictures_data         20488d3 e
++ add_studio_bio_data            79e2604 docs: update agent guidelines in AGENTS.md
++ add_undo_game_studio           79e2604 docs: update agent guidelines in AGENTS.md
++ add_vision_joy_data            20488d3 e
++ drifting_beacon_beams_08h59    20488d3 e
++ fill_missing_business_numbers  20488d3 e
++ find_buddhist_tv_number        20488d3 e
++ find_industry_code_6040126041  20488d3 e
++ genoray_busan_business_number  20488d3 e
++ import_company_database_list   20488d3 e
++ issue_0507_tracker             706713c feat: update 투콤마비 contact phone, zip, address and homepage
++ jonathan_eunseok_task          20488d3 e
++ master                         79e2604 docs: update agent guidelines in AGENTS.md
++ miu_design_registration_update f662d66 feat: update ㈜미우디자인 (5518501580) address, homepage, email, industry categories and corporate registration
++ parse_busan_company_data       20488d3 e
++ ticket_0507_1447_1309          706713c feat: update 투콤마비 contact phone, zip, address and homepage
++ validate_corp_reg_number       20488d3 e
++ validate_db_final_check        f352cd0 fix: clear invalid corp number for personal biz 선진정밀 in merged_500_perfect.tsv
+

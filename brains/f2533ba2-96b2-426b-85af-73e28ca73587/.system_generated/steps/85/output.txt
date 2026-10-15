@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+colCorpNo index: 25 colCompany index: 3 colBizno index: 4
+Total with corpNo: 1
+[
+  {
+    row: 19408,
+    company: '(주)랩포유',
+    bizno: 7818800034,
+    corpNo: '1311110402899'
+  }
+]
+

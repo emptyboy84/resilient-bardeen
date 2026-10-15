@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/goto?url=CAESiQEB6zswFSVuyEhiu63G-jbv6c63Uw3sul8D0OI2yOl1BJf1PBJTIFJ444KYCfJPbyKs1i6nNQFGI18CdyR37ObNxvsgG6WV13W9wRxHkCidbHJlVmL4bfzCcP16x3fRLXteoGdieqVK4ha4mfcQUe0KK-Fs8Sv4uNLeh_8MU0_WXl1lcb5c7t54TA');
+```
+### Page
+- Page URL: https://m.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=OQ2336&siteid=SARAMIN_M
+- Page Title: (주)나음 - 기업상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-29-39-786Z.yml)

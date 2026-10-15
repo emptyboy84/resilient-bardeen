@@ -1,0 +1,70 @@
+### Result
+{
+  "heading": "\"FG엔터테인먼트\" 키워드로 0 개의 결과를 찾았습니다",
+  "items": [
+    {
+      "text": "경기산업",
+      "href": null
+    },
+    {
+      "text": "경기산업",
+      "href": "/article/3368803597"
+    },
+    {
+      "text": "경기산업",
+      "href": null
+    },
+    {
+      "text": "비제이컴퍼니",
+      "href": null
+    },
+    {
+      "text": "비제이컴퍼니",
+      "href": "/article/3368803340"
+    },
+    {
+      "text": "비제이컴퍼니",
+      "href": null
+    },
+    {
+      "text": "성덕4리협동조합",
+      "href": null
+    },
+    {
+      "text": "성덕4리협동조합",
+      "href": "/article/3368803210"
+    },
+    {
+      "text": "성덕4리협동조합",
+      "href": null
+    },
+    {
+      "text": "차스파이낸셜",
+      "href": null
+    },
+    {
+      "text": "차스파이낸셜",
+      "href": "/article/3368703630"
+    },
+    {
+      "text": "차스파이낸셜",
+      "href": null
+    },
+    {
+      "text": "케이에스에이엔에프 무역\n장일*",
+      "href": null
+    },
+    {
+      "text": "케이에스에이엔에프 무역",
+      "href": "/article/6058173710"
+    },
+    {
+      "text": "케이에스에이엔에프 무역",
+      "href": null
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const heading = document.querySelector(\'h3\');\n    const items = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return { heading: heading ? heading.innerText : \'\', items: items.slice(0, 15) };\n}');
+```

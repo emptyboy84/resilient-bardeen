@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+6058184196 valid?: true
+9508184196 valid?: false
+

@@ -1,0 +1,7 @@
+The search for ""부산교통솔루션" "김승훈" OR "부산교통솔루션" "달맞이길"" returned the following summary:
+검색 결과에 따르면, **'부산교통솔루션'**은 2021년 1월경 부산 지역에 설립된 정보통신업(교통카드 시스템 개발, 설치 및 운영) 법인이며, 대표이사는 **김승훈**입니다[1]. 
+
+입력하신 키워드 중 `"부산교통솔루션" "김승훈"` 조합은 해당 기업의 신설 법인 공시 자료 등을 통해 확인되나[1], `"달맞이길"`과의 직접적인 연관성은 공식 자료상에서 확인되지 않습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPoTjc3VR6iGHC8ojvuRCuU_ziGyXa0tJ9Qh1zu2n8FdtRvC6IivZDVuS-v6z0KsPmaCwK2hZ0fyceeBwLMboCvagzePqlE6vO1jcE0vucYA6JSax70oS1UIL5AtZknttsuo2F)

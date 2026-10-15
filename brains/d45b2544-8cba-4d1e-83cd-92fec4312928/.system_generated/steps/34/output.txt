@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Workbook loaded. Worksheets: [ '기업 정보', '사용 사이트' ]
+Scanning sheet: 기업 정보 rows: 1048576
+Scanning sheet: 사용 사이트 rows: 4
+

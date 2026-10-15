@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.getByRole('button', { name: '검색' }).click();
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/main.php
+- Console: 2 errors, 0 warnings
+### Modal state
+- ["alert" dialog with message "검색항목을 선택해 주시기 바랍니다."]: can be handled by browser_handle_dialog
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-09-32-889Z.yml)

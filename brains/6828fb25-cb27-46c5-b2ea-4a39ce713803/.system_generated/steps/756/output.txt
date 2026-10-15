@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.saramin.co.kr/zf_user/search/company?searchword=%EC%B4%88%EA%B0%95%EC%88%98%EA%B2%BD%EC%98%81%EC%BB%A8%EC%84%A4%ED%8C%85');
+```
+### Page
+- Page URL: https://www.saramin.co.kr/zf_user/search/company?searchword=%EC%B4%88%EA%B0%95%EC%88%98%EA%B2%BD%EC%98%81%EC%BB%A8%EC%84%A4%ED%8C%85
+- Page Title: 초강수경영컨설팅 기업정보 | 총 1건의 검색결과 - 사람인
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T03-05-07-063Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T03-05-02-645Z.log#L1

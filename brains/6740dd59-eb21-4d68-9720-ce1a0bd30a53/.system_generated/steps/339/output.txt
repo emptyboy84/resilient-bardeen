@@ -1,0 +1,23 @@
+The search for ""분포로 113" ("콘텐츠" OR "소프트웨어" OR "솔루션" OR "디자인")" returned the following summary:
+부산광역시 남구 **분포로 113**은 대규모 아파트 단지인 **'LG메트로시티'**의 도로명 주소입니다[1][2].
+
+질문하신 "콘텐츠", "소프트웨어", "솔루션", "디자인"과 관련하여 검색된 정보는 다음과 같습니다.
+
+*   **해당 주소의 성격:** 분포로 113은 상업용 오피스 빌딩이 아닌 대단지 아파트(LG메트로시티) 소재지입니다[3][2]. 따라서 해당 주소지에 검색하신 키워드와 관련된 대형 기업이나 사무실이 위치해 있을 가능성은 낮습니다.
+*   **신설법인 정보:** 과거 신설법인 명단 중 분포로 113(LG메트로시티 아파트 내 특정 동·호수)을 주소지로 등록한 사례들이 다수 확인됩니다[4][5][6][7][8][9]. 이는 소규모 1인 기업이나 개인 사업자가 자택 또는 공유 오피스 개념으로 아파트 주소를 임시 사업장으로 등록한 경우일 가능성이 큽니다[10][11].
+*   **관련성:** 검색 결과에서 해당 주소지를 기반으로 한 '소프트웨어', '콘텐츠', '솔루션', '디자인' 업종의 등록 사례가 일부 확인되나, 이는 아파트 내 개인 거주지에서 등록된 개별 신설법인들이며, 특정 업체가 해당 분야의 서비스를 주도적으로 제공하는 건물은 아닙니다[4][5][6][7].
+
+결론적으로, 분포로 113은 특정 IT/디자인 기업의 본사가 아닌 **아파트 단지 주소**이며, 해당 키워드와 관련된 법인들은 이 아파트에 거주 중인 개인 사업자들이 등록한 소규모 업체들로 보입니다[1][2][10][4].
+
+Sources:
+[1] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpoG8XxwyCVM0CpNx2GbULh1dpAM8dW5jL8pq4D48MmHrltX69RNdQK80iFfBpnxPBDAYNLycluGUjMhwDd3MbiJq2uErowk-vmIjh0X6z2Cnxq7rFhjUCIhx8dvPAE6jlOsQfbFw2OQS8kGDiDudUHS1uMY0mzYolayDT4EMYYuTVyA3nxEGzTa6arAfZGq79qs4aU5SlLsCUkjKb_BCAZTkU0quav9ZH_IiUu1S_Ri5KqWXGtxmKY-xI90BPYC5VmzcZpKP3gUy9Dma3NMnXPEm0B8vumjbsJbR3wAbjuY-Z5oT0QAfiEFKCQJBzIv2y_s_6PfX-Bgn5mbJU8prD0z3xae7-cjNZaJ0aiYhisuRFoDWVaTeEkgBppD8ic6c=)
+[2] [emetro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGec0ptAXUFysfJ9xw8N_mqaPNC5EfyNgqQ4usAKf-CfCQmvRrqWwKpz5tzoxx44Koi8pqmTXMUqZw_CrO11fRoLjcbCP-9v_DddDpSvRiFv60CZR_XgpxfYrrX2L5LLP2RILA=)
+[3] [kbland.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZUMGxr5CRSqVGI4TGUHlRCtcX5Aaw-UE04NcSSGlVI42ZgLadrsKtwqcvuuyK3vuCZynB3Hfi0na4mKfAhKF7j6JJtLqELDObHQDTk6RNPew=)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKYIXuqn3sLgcnR3IaW8TzJqG6clxihns5tluIdhQ3nw5g9_3tNzPLcfoNd5MRHq7oIrdRglr8hB5BtC79q9_30hREZ06QEiugmK2kbEZHOWMaHKqwCuwh3qMFI1rNZBA2eoo=)
+[5] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTL5hIRVZp2no3fP4ZKQeeaV6Ok9q916DiaY7TYkIz5-hWfn_h1XgH7cB9mpHPR9Hp066CQvH0kJ_vAjrYcZDHxNhO8Zm_rHV_0RhkNpl8gZ7UCnU9ukVPef7uQSOQAdMC5QSzyshtGNg=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVLT4HFL4vH4EQPJPZzhz2TQYVi9TtRZgM0uPZOGSHdEs6-d49ysmg24rYu3dBDAHiyk9Pof5cKj2XC-hHlG6bfFMLUcLFh4rjtXKBeR6EKil92ZqzUw==)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMx1t_Fw7AyWE801iXEi8Gmb9zFymniykyzXI1l5cC5oJWanCzuoC342RdKl8SImwP8-EfE0lPbeNPsvAwCkq4l2UyYJ9wPclfcQ1e5pbkMJYlak75nkoj6V9kiuEBdsHL4IE=)
+[8] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF130nyilZoM7ePD2K9lzHbuei1ltEm1NnkTCY7SvN1NpxqL4WOmZq84P9p6rH4VZYvgLEtriyJU9oUXq6oV7NMohMv9oeNYVAys0RROSPDPf4aja2K1chQQbds_VFASwdvLpPOgpykcAs=)
+[9] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGcmNBbrultQb2-wumYEzsCeVosJaPOl3xr0uRnfQf27ep61SCwr2yC5FrXH1F8ywJ5-0ZkR5kd_z5Be-M-CEh7B69p28QnJ5K3rWu5NeB5vXrXp63CF70qdsiOobqTAjtDHw=)
+[10] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1rC2HcNWPYYZZ2vRWZ4-d0zvRQ9W6fc90g4lwUz97y7mWKkuujqytoNyC4bZIg5fURkSGK7rn8KJ95cWSuQQjMUH_KsIp5vuShXhh92gBx0M_EnEq-jzlg7rM-cD1WLSFjN9j5gneX-idNjVKQEmPdMCjgmkaghVgFUyxs6S4bUP1c4T2Uz8dcY1AqprJ9dMUEA==)
+[11] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTT_h1YSMpSQNJN0rSEnVGbEulO4-rjLeajrVDlo3abllCaNp8bTJgyfi3Pl0Fp-8bYNS6O9xJjFJ9K9NbUUYAS6CUSLCXNCAJeZsiu91YdXGGsHFSKMsUoH6TKr49v7JAh0PFZfEjLKgCOJe4NKMV3w4WcMPJuqMpe4vMj9DGoYhN9caHR9YBfQ1rOuY)

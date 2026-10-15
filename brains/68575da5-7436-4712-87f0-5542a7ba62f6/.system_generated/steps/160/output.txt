@@ -1,0 +1,105 @@
+
+The command exited with code 0.
+Output:
+<truncated 62 lines>
+4488 @media (min-width: 991px) {
+4502 @media all and (max-width : 768px) {
+4552 @media (max-width: 991px) {
+4603 @media (max-width: 767px) {
+4634 @media (min-width: 768px) {
+4661 @media all and (max-width:768px) {
+4701 @media all and (max-width : 767px) {
+4744 @media all and (max-width : 767px) {
+4754 @media all and (max-width:768px) {
+4777 #addFormw2026030387e53dda4c61e .phonenumber_wrap .form-control {
+4782 #addFormw2026030387e53dda4c61e .phonenumber_wrap .line {
+4786 #addFormw2026030387e53dda4c61e .phonenumber_wrap .form-control ~ .form-control {
+4798 @media (max-width : 991px) {
+4837 @media all and (max-width:768px) {
+4930 #s2026030321b1a84407782 .board_view .grid_ignore header a, #s2026030321b1a84407782 .widget.board .grid_ignore .author .date, #s2026030321b1a84407782 .widget.board .grid_ignore a.board, #s2026030321b1a84407782 .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s2026030321b1a84407782 .content-tit .board {
+4945 #s2026030321b1a84407782 .phonenumber_wrap .line {
+5297 @media (min-width: 991px) {
+5311 @media all and (max-width : 768px) {
+5361 @media (max-width: 991px) {
+5412 @media (max-width: 767px) {
+5443 @media (min-width: 768px) {
+5503 @media all and (max-width : 767px) {
+5513 @media all and (max-width:768px) {
+5606 #s20260303aeb3744ce22d6 .board_view .grid_ignore header a, #s20260303aeb3744ce22d6 .widget.board .grid_ignore .author .date, #s20260303aeb3744ce22d6 .widget.board .grid_ignore a.board, #s20260303aeb3744ce22d6 .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s20260303aeb3744ce22d6 .content-tit .board {
+5621 #s20260303aeb3744ce22d6 .phonenumber_wrap .line {
+5973 @media (min-width: 991px) {
+5987 @media all and (max-width : 768px) {
+6037 @media (max-width: 991px) {
+6088 @media (max-width: 767px) {
+6119 @media (min-width: 768px) {
+6146 @media all and (max-width:768px) {
+6188 @media all and (max-width : 767px) {
+6231 @media all and (max-width : 767px) {
+6272 @media all and (max-width : 767px) {
+6296 #addFormw20260303df8077dee3bc3 .phonenumber_wrap .form-control {
+6301 #addFormw20260303df8077dee3bc3 .phonenumber_wrap .line {
+6305 #addFormw20260303df8077dee3bc3 .phonenumber_wrap .form-control ~ .form-control {
+6317 @media (max-width : 991px) {
+6356 @media all and (max-width:768px) {
+6449 #s20260303426f655aa9cdb .board_view .grid_ignore header a, #s20260303426f655aa9cdb .widget.board .grid_ignore .author .date, #s20260303426f655aa9cdb .widget.board .grid_ignore a.board, #s20260303426f655aa9cdb .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s20260303426f655aa9cdb .content-tit .board {
+6464 #s20260303426f655aa9cdb .phonenumber_wrap .line {
+6816 @media (min-width: 991px) {
+6830 @media all and (max-width : 768px) {
+6880 @media (max-width: 991px) {
+6931 @media (max-width: 767px) {
+6962 @media (min-width: 768px) {
+6989 @media all and (max-width:768px) {
+7029 @media all and (max-width : 767px) {
+7072 @media all and (max-width : 767px) {
+7115 @media all and (max-width : 767px) {
+7158 @media all and (max-width : 767px) {
+7201 @media all and (max-width : 767px) {
+7244 @media all and (max-width : 767px) {
+7254 @media all and (max-width:768px) {
+7347 #s20260226e44ca4fb195bc .board_view .grid_ignore header a, #s20260226e44ca4fb195bc .widget.board .grid_ignore .author .date, #s20260226e44ca4fb195bc .widget.board .grid_ignore a.board, #s20260226e44ca4fb195bc .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s20260226e44ca4fb195bc .content-tit .board {
+7362 #s20260226e44ca4fb195bc .phonenumber_wrap .line {
+7714 @media (min-width: 991px) {
+7728 @media all and (max-width : 768px) {
+7778 @media (max-width: 991px) {
+7829 @media (max-width: 767px) {
+7860 @media (min-width: 768px) {
+7887 @media all and (max-width:768px) {
+7927 @media all and (max-width : 767px) {
+7968 @media all and (max-width : 767px) {
+8011 @media all and (max-width : 767px) {
+8021 @media all and (max-width:768px) {
+8153 @media (max-width : 992px) {
+8176 @media (max-width:640px) {
+8202 @media all and (min-width:320px) and (max-width:639px) {
+8242 "@context": "https://schema.org",
+8243 "@type": "OnlineStore",
+8248 "@type": "PostalAddress",
+8252 "@type": "ShippingService",
+8257 "@type": "ShippingConditions",
+8259 "@type": "DefinedRegion",
+8263 "@type": "DefinedRegion",
+8267 "@type": "MonetaryAmount",
+8272 "@type": "MonetaryAmount",
+8280 "@type": "MerchantReturnPolicy",
+8287 "@type": "MonetaryAmount",
+8624 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_595b6ab531a55   btn-default btn_custom "   href="/ContactUs"   style="border-radius:9999px; padding:10px 24px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+8698 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_595b6ab531a55   btn-default btn_custom "   href="/ContactUs"   style="border-radius:9999px; padding:10px 24px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+8718 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_1bd961b227b90   btn-default btn_custom "   href="/DemoRequest"   style="border-radius:9999px; padding:8px 16px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+8753 <div class="text-table "><div><p><strong><span style="font-size: 48px; letter-spacing: -2px; color: rgb(255, 255, 255);">Contact Us</span></strong></p></div></div>
+8771 <div class="text-table "><div><p><span style="font-size: 30px;"><strong><span style="letter-spacing: -1px; color: rgb(255, 255, 255);">Contact Us</span></strong></span></p></div></div>
+8840 Company name, contact person, mobile phone number, and email address.<br />
+8968 Company name, contact person, mobile phone number, and email address.<br />
+9052 <div class="text-table "><div><p><span style="font-size: 13px; color: rgb(179, 179, 179);">CEO : Yong Oh &nbsp; Email : bunker@seanergyp.com</span></p></div></div>
+9060 <div class="text-table "><div><p style="line-height: 1.15;"><span style="font-size: 13px; color: rgb(179, 179, 179);"><strong>Head Office</strong></span></p><p style="line-height: 1.15;"><span style="font-size: 13px; color: rgb(179, 179, 179);">24F, ASTI Hotel Busan, 7-8, Jungang-daero<br>214beon-gil, Dong-gu, Busan, Republic of Korea</span></p></div></div>
+9108 <div class="footer-company-info"><p id='footer-company-info-line'><span class="footer-company-info__item">대표자 이메일: designbl@naver.com</span><span class="footer-company-info__item footer-company-info__hosting">호스팅 제공자: (주)아임웹</span></p></div>																	</div>
+9481 LOCALIZE.설명_배송전에미리연락바랍니다 = function(){ return LOCALIZE.convArguments("Contact prior to delivery.", arguments); };
+9483 LOCALIZE.설명_부재시전화나문자를남겨주세요 = function(){ return LOCALIZE.convArguments("Contact if absent.", arguments); };
+9488 LOCALIZE.설명_소유자만구매가능1 = function(){ return LOCALIZE.convArguments("This item is not allowed to view prices and purchase. Contact the administrator.", arguments); };
+9489 LOCALIZE.설명_소유자만구매가능2 = function(){ return LOCALIZE.convArguments("Your list contains items that are not allowed to view prices and purchase. Contact the administrator.", arguments); };
+9564 LOCALIZE.설명_소유자에게액세스를요청 = function(){ return LOCALIZE.convArguments("Contact the site administrator for access<br/>or sign in with an account with permission.", arguments); };
+9576 LOCALIZE.설명_탈퇴문구 = function(){ return LOCALIZE.convArguments("Your posts will still be there even if your account information is deleted completely.", arguments); };
+9644 LOCALIZE.설명_연락처 = function(){ return LOCALIZE.convArguments("Contact", arguments); };
+9776 LOCALIZE.설명_전화번호 = function(){ return LOCALIZE.convArguments("Contact", arguments); };
+10182 $('input[type="tel"]').focus(function(){
+10230 $('input[type="tel"]').focus(function(){
+

@@ -1,0 +1,24 @@
+The search for ""페타브루" site:saramin.co.kr OR site:jobkorea.co.kr OR site:wanted.co.kr OR site:incruit.com" returned the following summary:
+주식회사 **페타브루(PETABREW)**는 고주파(FMCW) 레이더 및 지능형 센서 기술을 기반으로 하드웨어, 신호처리 소프트웨어, 데이터 모니터링 솔루션을 개발하는 스타트업입니다[1][2][3]. 
+
+요청하신 주요 채용 및 구직 플랫폼(사람인, 잡코리아, 원티드, 인크루트)에 등록된 페타브루의 기업 정보 및 관련 내용은 다음과 같습니다.
+
+* **주요 사업 분야:** 고주파 레이더 기반 비접촉 센서 신호처리 소프트웨어, 임베디드 펌웨어, 지능형 센서 및 모니터링 시스템 개발[1][4][5]
+* **기업 형태:** 중소기업·비상장 스타트업 (설립년도: 2021년, 본사: 부산광역시)[1]
+* **주요 이력:** 한양대학교 기술지주 등으로부터 시드(Seed) 투자 유치 및 중소벤처기업부 팁스(TIPS) 프로그램 선정[4]
+* **채용 플랫폼별 특징:**
+  * **사람인 / 잡코리아 / 인크루트:** 임베디드 펌웨어, 센서 신호처리 엔지니어 등 기술직 채용 공고(신입 및 경력)가 등록된 이력이 있으며[6], 기업의 연봉 정보, 재무 현황, 과거 채용 통계 등을 조회할 수 있습니다[7][8][9].
+  * **원티드(Wanted):** 주로 IT·기술 중심의 포지션 채용 시 공고가 등록되거나 업데이트될 수 있습니다.
+
+현재 진행 중인 구체적인 상시 채용 공고나 상세 모집 요강은 채용 시즌 및 기업의 인력 소요에 따라 변동되므로, **사람인, 잡코리아, 원티드, 인크루트** 각 플랫폼의 검색창에 직접 **"페타브루"**를 검색하여 실시간 공고 및 마감 여부를 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt63bJFCtlrBElheokejlcgnb7HhTX7-l-THuDpsOJ1Ws69WaOQdzK-MDaL4IgKCgkH7lN561dsyIDFwWyDdi2vBBChtA6ciLY130GAT-0)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV4CoV8FS76vq3qR_PdfT4BT957VAn-jNe7LIvE4wGicX9_q_DiXVrcSi4NVRM8goDhM2kPTJ7O3wjdsOrghqkRmhGExYGs_LSES4J94wT2ixrx-0lByAxxp-Whs9BDPgofvuxq0nNFccOicat78GCnitxOwradHgBVs0=)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxcYITqXK9PhdJ-9qU86Ml0diLLF1GJzeFb6tT91zXrFLQqPunOAfI7ai8HKzjX53JVSrs5p1A07O5Kr1dunylkGzjyJQkknUXzg==)
+[4] [hellot.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHQCeZxWyk2k9A2xiuDIouZdMnsHZ5EZPtbaTz6tB5rYqkjhotVRlCODd8C8T9svmhGmEvYtsd4WFBBXq7RsDtMm99Lp7kUKLUD8COuUmO9pQzvLcZFYJOzPbLN_gKaQig_0XJxB7W)
+[5] [techinasia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHavPUtGvNMC3kA2cI_jF3WDdy0M2YMxa9RE2SdzucltOdcFrNGwAwCEzDcTqufuag3LI4yYKUILx4kHUpeti51mEm5owuKdr9bmCHIbxzBreOvD0qF7FRksv6SjlIQwyVPo=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJdxEJqjCxMMjREhAvdxDTiQMhlPoY_D-TFm5bgFvIvAmnLUsEMZVchRp1VEqhwkWUkEt3Vkm_wt_n_N5ZvQPeDed1SlX1WWwCoEeyXdx5-NLEhD9iIVdsUD5yaUaUNLthIVfOarEWFLCbEK7qlhX5SGY=)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxCm2wwcvDEGQKZaG6qz1p9Mn611H-yryOe0RlUIcn9nqJPp7jROwjC3aZ0co2eDJzg_AYSqsIbxMvu7sKBznorUkUYaErfHHlbIzXcJzrbb6f-J56laje__baGwHEz0oCFUu4W4oiGA==)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_2d1KlojSZyovzGzF87XPzID2_ufY6NqondPv9WCAljt9a1QTmHKFf3bDCbthlLN8RqPUo8YiCzMORRmLhU6uMOgC2ggh8_rWPFGCNGTX7FrT6rKkllzEFxtx5XaWPEpfgExv1X858cuDa80_Hjj5fnZAJR6CIsurNqlyuWAw8d_ey-ieJ8qywE0ITdv8rAnt1pTFSljondDtCjEMv30X8hQ67rV9aAdq4TygoChSI9UDUY=)
+[9] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEahXNHQn4XACbfm10mHxHK8uG0WCHc3XjPbUHXSQ1pWk_DYcebh5vJmhiH47NXfOHwVIMedAADC6wvZuNz3CPeLgI21-PbDT25Uzt56e5HjoaQvDEp5UPW-_n-SAjnoJY)

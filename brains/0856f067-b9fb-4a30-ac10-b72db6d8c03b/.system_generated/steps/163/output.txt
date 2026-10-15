@@ -1,0 +1,12 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.PlaceItem, .placelist > li\'));\n  return items.map(el => el.innerText);\n}');
+```
+### Page
+- Page URL: https://place.map.kakao.com/511432746
+- Page Title: 대박만화 | 카카오맵
+- Console: 2 errors, 0 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-31-50-911Z.log#L1-L2

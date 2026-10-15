@@ -1,0 +1,16 @@
+The search for ""은구비남로33번길 13-8"" returned the following summary:
+입력하신 **"대전광역시 유성구 은구비남로33번길 13-8"**은 대전광역시 유성구 지족동에 위치한 도로명 주소입니다[1].
+
+* **건물명:** 양지빌딩[2]
+* **지번 주소:** 대전광역시 유성구 지족동 906-3[3]
+* **우편번호:** 34086[4]
+* **참고사항:** 대전 지하철 1호선 노은역(4번 출구 기준 약 300~400m 내외) 인근에 위치해 있으며[3][5], 주변에 상가 및 여러 시설(음식점, 사무실 등)이 입주해 있는 지역입니다[6][7].
+
+Sources:
+[1] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4pfpnbPholvlEM3eNPqkCXWjXCOjS6LxMXkKYT1KH-DM4YWJ7qNAg7UctW6Nh7kJc-LL1mEe7s64hTlM38_6X_Q5bD_gozylh7ttJJ1yBEIcB1xp8NMqHqj0bDCaFGOmhbWWK2NY-iDvuKe-3KEDVI-DOuCVzMUJgvKHWbJFrZ-Ahuj1A_-044-JqgiFpSbQKgCKb3s_cNzo0O92ntnbYkBpf76yAc3WbWmTfaO7YSMa9HOyo4lhh_iQHnuYw2ZoEyczaJok2HPt2VE_Mos1rKyPAomU8r4R9acVqJsWrAjKv99GBk4pTofMN7hPgNzo6wnXzPJx5dt7NolXYfbbDumagI4M_bcuqoK2DhAtquNk=)
+[2] [apt4.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfXIj7Jm0SrukNUYtHK1ALr4zGg7R7sYPuGVp1O9jr9HvwM-PTnx5gN0hHXlI9fUw6SaS4_f_UJO84Wlejsk4b1dqmdmLMRrhKyCZ_LgCT4RpKR5dA33tDnUWS2mzc5RHRImAqv7_MVen6p8fk6Kg1wRKL_v_9TRHN)
+[3] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsQQW_CevNr2R_KQ3F2OxJEgHBcLQgg9tP8DKvy2UUe6sVmSAae_0yZcgG8pX3MoaAT01JicracsznmfWlogyug6d4S8oxK38Q1ehfyCsrj8ha9I7y6RXUHfD6mMlIiPqtPmRHw_JRvMw_pJWADPqUjl1ITBFFIoIR7iXcLTpUfbNRMfCsWkWqegfVO_Ybh_bRBy999RRsnKUHAlIXj1tgM9avH64JxWa9QewPFL7eL0yk9rhTvOVPk6IRdvko1xrfh46xGIptjjVnOihGitG9cp8UUeZ9bS7m8rGH8A==)
+[4] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58YpJrkpRN6BYTg6Gk9L8MiJ3ozioNQHp1dk20f_Zfu_yOXyvFWcym7pdWOmzTxzswDXzZGNH34Ozz7ZkAyV7QHP8Gy_V1x5Ep2kHp19dxkqWLmB6q-5SjmtGNURVRB4Svot9nkVxuxcSYCVQsw==)
+[5] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67_gN8lfme5mWSV4yHnRU2o6-AYggzksVRcHS8pUVi2yy4coe2pLdNx-yz3aMEZGKkc9G_eBDn7dioBDRM2Vyqv-KoIXRvmUjY3PdtK1qhn1F9gTXROAOJOa09cENuYdJm_M4mP-XoZ87T62Hf8Jy3a-7GqwY5ZWgJD90YdrcjxB2h2lOswfqdtp32S3dgNPtgHf_CHVVPtjaK4NWyWWumMQ=)
+[6] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJalyrDZM3q3mQu6tWs91hH2bdR7V5qW3-GRa-EucCRPs2vYXl-kQZ1KCdfiYATOGPOAqAVgBsniy-P2Ct8oHUrxafTqwDOlVZj39aip1UqoT9bF4bskoXA==)
+[7] [brandingforme.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd6bZUym06mJiVvlGT6d6bA-4bTWs8Ny-hNpm1jqPXZgB4wj6Jag4_1mPNcH98IhOW4WEaO6bYu7hqwlr-tKtY9TevAPk5AlDipV_5RV_VnxEjelVfgXbhqlPMMQ==)

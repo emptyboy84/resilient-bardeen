@@ -1,0 +1,27 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:10
++ foreach ( in ) {
++          ~
+foreach �ڿ� � �̸� �ϴ�.
+�ġ �:7 �:14
++ foreach ( in ) {
++              ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:22
++         Write-Output " === File:  ===\
++                      ~~~~~~~~~~~~~~~~~
+�ڿ� " �ڰ� �ϴ�.
+�ġ �:8 �:21
++     if (Test-Path ) {
++                     ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:7 �:16
++ foreach ( in ) {
++                ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingVariableNameAfterForeach
+ 
+

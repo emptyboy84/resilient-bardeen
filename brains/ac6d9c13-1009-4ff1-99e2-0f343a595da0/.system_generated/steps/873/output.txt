@@ -1,0 +1,9 @@
+Created the following subagents:
+{
+  "conversationId": "9ae91d73-4136-4e50-abd8-f89cfdf3c90a",
+  "logAbsoluteUri": "file:///C:/Users/lg/.gemini/antigravity/brain/9ae91d73-4136-4e50-abd8-f89cfdf3c90a/.system_generated/logs/transcript.jsonl",
+  "workspaceUris": [
+    "file:///C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_company_data"
+  ]
+}
+The subagents will send you a message when they have completed their task or require guidance. There is no need to poll for their responses.

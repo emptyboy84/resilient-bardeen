@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+addr: : 'addr:' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ
+� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:9 �:59
++ ...   print(f\"Row {t['row_idx']} [{t['�']}]: {t['name']} (addr: {t['add ...
++                                                             ~~~~~
+    + CategoryInfo          : ObjectNotFound: (addr::String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

@@ -1,0 +1,6 @@
+### Result
+null
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const a = Array.from(document.querySelectorAll(\'a\')).find(x => x.href.includes(\'cookiedeal.io\'));\n  return a ? a.href : null;\n}');
+```

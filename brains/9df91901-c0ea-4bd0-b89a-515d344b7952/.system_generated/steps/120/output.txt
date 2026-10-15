@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+fnTopSearch(){
+	const frm = document.topSearchForm;
+	if(isEmpty(frm.schStr.value)){
+		alert("검색어를 입력해 주세요.");
+		frm.schStr.focus();
+		return;
+	}
+	if(frm.schFld.value == 'issn') {
+		frm.action = "/seoji/contents/S80200000000.do";
+	} else {
+		frm.action = "/seoji/contents/S80100000000.do";
+	}
+	submit(frm);
+}
+
+function fnTopDetailSearch(){
+	const frm = document.topDetailSearchForm;
+	if(isEmpty(frm.v1.value)
+		&& isEmpty(frm.v2.value)
+		&& isEmpty(frm.v3.value)
+		&& isEmpty(frm.v
+

@@ -1,0 +1,199 @@
+
+The command exited with code 0.
+Output:
+Set_TouchPadMode IL analysis:
+0000: string "Set_TouchPadMode"
+0005: op_28 WriteLine (Trace)
+0012: op_28 GetModelName (LGDeviceController)
+0017: string "15G890"
+001C: op_6F Contains (String)
+0023: op_28 GetModelName (LGDeviceController)
+0028: string "15GD890"
+002D: op_6F Contains (String)
+0035: op_7B ACPIController (LGDeviceController)
+003F: op_6F GetMethod (ACPIHelper)
+0048: op_7B ACPIController (LGDeviceController)
+0052: op_6F GetMethod (ACPIHelper)
+005C: op_28 GetModelName (LGDeviceController)
+0061: string "15G890"
+0066: op_6F Contains (String)
+006D: op_28 GetModelName (LGDeviceController)
+0072: string "15GD890"
+0077: op_6F Contains (String)
+007F: op_7B ACPIController (LGDeviceController)
+008A: op_6F SetMethod (ACPIHelper)
+009A: op_7B ACPIController (LGDeviceController)
+00A5: op_6F SetMethod (ACPIHelper)
+00BA: string "nResult = ACPIController.GetMethod(0x409); ex :  "
+00C1: op_6F ToString (Object)
+00C6: op_28 Concat (String)
+00CB: op_28 WriteLine (Trace)
+00D5: op_7E CurrentUser (Registry)
+00DA: string "Software\LGE\OSD"
+00E0: op_6F OpenSubKey (RegistryKey)
+00ED: string "Touchpad"
+00F8: op_6F GetValue (RegistryKey)
+0104: string "rkOSDMouseInfo.GetValue(Touchpad) success"
+0109: op_28 WriteLine (Trace)
+0116: string " nResult : "
+011D: op_28 ToString (Int32)
+0122: op_28 Concat (String)
+0127: op_28 WriteLine (Trace)
+012F: op_7B ACPIController (LGDeviceController)
+0136: op_6F GetMethod (ACPIHelper)
+0140: string " nResult : "
+0147: op_28 ToString (Int32)
+014C: op_28 Concat (String)
+0151: op_28 WriteLine (Trace)
+017C: op_7B ACPIController (LGDeviceController)
+0184: op_6F SetMethod (ACPIHelper)
+0192: string "Touchpad"
+019D: op_6F SetValue (RegistryKey)
+01A4: op_28 Fire_TouchPadChanged (LGDeviceController)
+01AB: string " nResult : "
+01B2: op_28 ToString (Int32)
+01B7: op_28 Concat (String)
+01BC: op_28 WriteLine (Trace)
+01CB: string " nResult : "
+01D2: op_28 ToString (Int32)
+01D7: op_28 Concat (String)
+01DC: op_28 WriteLine (Trace)
+01EE: op_7B ACPIController (LGDeviceController)
+01F6: op_6F SetMethod (ACPIHelper)
+0204: string "Touchpad"
+020F: op_6F SetValue (RegistryKey)
+0216: op_28 Fire_TouchPadChanged (LGDeviceController)
+021D: string " nResult : "
+0224: op_28 ToString (Int32)
+0229: op_28 Concat (String)
+022E: op_28 WriteLine (Trace)
+023D: string " nResult : "
+0244: op_28 ToString (Int32)
+0249: op_28 Concat (String)
+024E: op_28 WriteLine (Trace)
+025E: op_7E LocalMachine (Registry)
+0263: string "SYSTEM\CurrentControlSet\Services\mouhid\Enum\"
+0268: op_6F OpenSubKey (RegistryKey)
+0275: string "Count"
+027A: op_6F GetValue (RegistryKey)
+0299: op_28 Fire_TouchPadChanged (LGDeviceController)
+029F: op_7B ACPIController (LGDeviceController)
+02A7: op_6F SetMethod (ACPIHelper)
+02B5: string "Touchpad"
+02C0: op_6F SetValue (RegistryKey)
+02CB: string " nResult : "
+02D2: op_28 ToString (Int32)
+02D7: op_28 Concat (String)
+02DC: op_28 WriteLine (Trace)
+02EF: op_28 Fire_TouchPadChanged (LGDeviceController)
+02F5: op_7B ACPIController (LGDeviceController)
+02FD: op_6F SetMethod (ACPIHelper)
+030B: string "Touchpad"
+0316: op_6F SetValue (RegistryKey)
+0321: string " nResult : "
+0328: op_28 ToString (Int32)
+032D: op_28 Concat (String)
+0332: op_28 WriteLine (Trace)
+033C: string " nResult : "
+0343: op_28 ToString (Int32)
+0348: op_28 Concat (String)
+034D: op_28 WriteLine (Trace)
+035D: string "switch ("
+0364: op_28 ToString (Int32)
+0369: string ") ex : "
+0370: op_6F ToString (Object)
+0375: op_28 Concat (String)
+037A: op_28 WriteLine (Trace)
+0388: string " nResult : "
+038F: op_28 ToString (Int32)
+0394: op_28 Concat (String)
+0399: op_28 WriteLine (Trace)
+
+Get_TouchPadMode IL analysis:
+0000: string "Get_TouchPadMode"
+0005: op_28 WriteLine (Trace)
+000E: op_28 GetModelName (LGDeviceController)
+0013: string "Z160"
+0018: op_6F Contains (String)
+001F: op_28 GetModelName (LGDeviceController)
+0024: string "H160"
+0029: op_6F Contains (String)
+0030: op_28 GetModelName (LGDeviceController)
+0035: string "Z170"
+003A: op_6F Contains (String)
+0041: op_28 GetModelName (LGDeviceController)
+0046: string "11T730"
+004B: op_6F Contains (String)
+0052: op_28 GetModelName (LGDeviceController)
+0057: string "11T"
+005C: op_6F Contains (String)
+0066: op_28 GetModelName (LGDeviceController)
+006B: string "15G890"
+0070: op_6F Contains (String)
+0077: op_28 GetModelName (LGDeviceController)
+007C: string "15GD890"
+0081: op_6F Contains (String)
+0089: op_7B ACPIController (LGDeviceController)
+0093: op_6F GetMethod (ACPIHelper)
+009C: op_7B ACPIController (LGDeviceController)
+00A6: op_6F GetMethod (ACPIHelper)
+00B6: op_7E CurrentUser (Registry)
+00BB: string "Software\Microsoft\Windows\CurrentVersion\PrecisionTouchPad\Status"
+00C1: op_6F OpenSubKey (RegistryKey)
+00C6: string "Enabled"
+00CB: op_6F GetValue (RegistryKey)
+00DA: op_7E CurrentUser (Registry)
+00DF: string "SOFTWARE\Microsoft\Windows\CurrentVersion\PrecisionTouchPad"
+00E5: op_6F OpenSubKey (RegistryKey)
+00EA: string "LeaveOnWithMouse"
+00F5: op_6F GetValue (RegistryKey)
+0109: string "PTPState :  "
+011B: string "   PTPAutoState : "
+012B: op_28 Concat (String)
+0130: op_28 WriteLine (Trace)
+018A: string "nResult = ACPIController.GetMethod(0x409); ex :  "
+0191: op_6F ToString (Object)
+0196: op_28 Concat (String)
+019B: op_28 WriteLine (Trace)
+01A2: op_7E CurrentUser (Registry)
+01A7: string "Software\LGE\OSD"
+01AD: op_6F OpenSubKey (RegistryKey)
+01B7: string "Touchpad"
+01C2: op_6F GetValue (RegistryKey)
+01D7: op_7B ACPIController (LGDeviceController)
+01DE: op_6F GetMethod (ACPIHelper)
+01EA: string "nResult = ACPIController.GetMethod(0x30); ex :  "
+01F1: op_6F ToString (Object)
+01F6: op_28 Concat (String)
+01FB: op_28 WriteLine (Trace)
+0232: string "null == rkOSDMouseInfo nResult : "
+0239: op_28 ToString (Int32)
+023E: op_28 Concat (String)
+0243: op_28 WriteLine (Trace)
+024A: string "OSDTouchPadMode: "
+0251: op_28 ToString (Int32)
+0256: op_28 Concat (String)
+025B: op_28 WriteLine (Trace)
+0261: op_7B ACPIController (LGDeviceController)
+0268: op_6F GetMethod (ACPIHelper)
+0274: string "nResult = ACPIController.GetMethod(0x30); ex :  "
+027B: op_6F ToString (Object)
+0280: op_28 Concat (String)
+0285: op_28 WriteLine (Trace)
+02C1: op_28 Set_TouchPadMode (LGDeviceController)
+02C7: string "0 != OSDTouchPadMode case 0"
+02CC: op_28 WriteLine (Trace)
+02DB: op_28 Set_TouchPadMode (LGDeviceController)
+02E1: string "2 != OSDTouchPadMode case 2"
+02E6: op_28 WriteLine (Trace)
+02F5: op_28 Set_TouchPadMode (LGDeviceController)
+02FB: string "2 != OSDTouchPadMode case3"
+0300: op_28 WriteLine (Trace)
+030F: op_28 Set_TouchPadMode (LGDeviceController)
+0315: string "2 != OSDTouchPadMode case1"
+031A: op_28 WriteLine (Trace)
+0325: string " nResult : "
+032C: op_28 ToString (Int32)
+0331: op_28 Concat (String)
+0336: op_28 WriteLine (Trace)
+

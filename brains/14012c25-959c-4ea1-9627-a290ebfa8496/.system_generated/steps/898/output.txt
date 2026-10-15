@@ -1,0 +1,11 @@
+The search for ""부평동2가 79-6" OR "부평1길 73" ("전화" OR "051" OR "상호" OR "빌딩")" returned the following summary:
+입력하신 주소(**부산광역시 중구 부평1길 73** / 지번: **부평동2가 79-6**)에 해당하는 위치의 정보입니다[1].
+
+* **도로명 주소:** 부산광역시 중구 부평1길 73 (1층)[2]
+* **지번 주소:** 부산광역시 중구 부평동2가 79-6 (1층)[2]
+* **위치 특징:** 보수사거리 및 국제시장 인근에 위치해 있습니다[1].
+* **관련 상호:** 해당 주소지(또는 동일 건물 번지)에는 과거 '진짬뽕' 등의 일반음식점이 위치했던 기록이 있습니다[2].
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLU0Rq5MBg9uAH-OlFoj3FeIBPZ9WOtDNsZn7ImvwUtCBWH1y2wOYYPCiXd2QHv3KlqKLBTbR878p9C3Mb-j7n2WoyuS2ExL1Eh40Z7IZ29-lwMqV8CfC7nKIDrww5MBSEqzHexh2ZpgLFhdKvGfokH2TKmg==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtnpag--xS3E3E4p5RwwTysK3hV4mxC5kpsfzqni8_vJ9e6aTHWJ7lNQ_t_3HDt8225XveQLEIzn40e-wF-2uyu2cw0l_YnurGbG1Lg4czGQm2c_pl)

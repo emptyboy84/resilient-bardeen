@@ -1,0 +1,9 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-318
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-318.log
+Log output:
+Searching Bizno for 77 targets with strict name matching...
+[FOUND] 1225 (주)엠에스테크놀로지 (이동수) -> 210-81-45530 [주식회사 엠에스테크놀로지 | 이윤* | 서울특별시 도봉구 도봉로 461,...]
+[FOUND] 1257 (주)와컴퍼니 (박규태) -> 209-16-55122 [와컴퍼니 | 박주* | 서울특별시 성북구 동소문로 47-...]
+
+Last progress: 3s ago

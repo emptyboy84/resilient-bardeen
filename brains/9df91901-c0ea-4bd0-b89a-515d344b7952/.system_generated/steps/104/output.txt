@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+FORM: <form name="topSearchForm" method="post" class="topSearchForm" onsubmit="fnTopSearch();return false;">
+					<fieldset>
+						<legend class="blind">통합검색 영역</legend>
+						<input type="hidden" name="schType" value="simple">
+						<div class="topSearchWrap" id="topSearchWrap">
+							<select name=
+FORM: <form name="topDetailSearchForm" method="post" onsubmit="fnTopDetailSearch();return false;">
+						<input type="hidden" name="schType" value="detail">
+						<div class="board-write">
+							<ul>
+								<li>
+									<div>
+										<div class="tit">
+											<select name="f1" title="검색유형1 
+FORM: <form name="loginFrmPub" id="loginFrmPub" method="post">
+								<div class="mainLoginForm">
+									<input type="hidden" name="schM" value="proc">
+									<input type="hidden" name="loginType" value="pub">
+									<input type="hidden" name="systemType" value="">
+									<input type="text" 
+FORM: <form name="loginFrmGov" id="loginFrmGov" method="post">
+								<div class="mainLoginForm">
+									<input type="hidden" name="schM" value="proc">
+									<input type="hidden" name="loginType" value="gov">
+									<input type="text" name="identifier" id="digitalID" placeholder="아이디(행정기관코드)" 
+FORM: <form name="loginFrmThesis" id="loginFrmThesis" method="post">
+								<div class="mainLoginForm">
+									<input type="hidden" name="schM" value="proc">
+									<input type="hidden" name="loginType" value="thesis">
+									<input type="text" name="identifier" id="thesisID" placeholder="아이디(행
+Link: #publish 출판사/기관
+Link: /seoji/contents/FAQ_UCI.do?page=1&schM=view&id=18623&schBcid=FAQ_UCI 출판사명이 바뀐 경우 어떻게 해야하나요?
+

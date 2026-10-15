@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+=== Reading Original CSV ===
+Original rows: 2313
+Writing XLSX to: C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx
+XLSX written successfully!
+Writing CSV with UTF-8 BOM to: C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+CSV written successfully!
+
+===== FINAL POPULATION STATISTICS =====
+Total rows in dataset: 2313
+Total newly filled cells (styled with RED font): 2031
+{
+  "biznoFilled": 0,
+  "ceoFilled": 0,
+  "districtFilled": 0,
+  "addressFilled": 0,
+  "remarkFilled": 0,
+  "sourceFilled": 2031
+}
+Saved summary of 150 filled companies to scratch/filled_companies_summary.json
+

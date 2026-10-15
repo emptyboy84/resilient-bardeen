@@ -1,0 +1,9 @@
+### Result
+{
+  "input": "<input value=\"\" type=\"text\" placeholder=\"상호명을 입력하세요\" class=\"input pl-10\">",
+  "forms": []
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input\');\n  return {\n    input: input ? input.outerHTML : null,\n    forms: Array.from(document.querySelectorAll(\'form\')).map(f => f.action)\n  };\n}');
+```

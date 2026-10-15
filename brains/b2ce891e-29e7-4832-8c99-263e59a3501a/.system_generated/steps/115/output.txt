@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=명지국제2로28번길 26');
+```
+### Page
+- Page URL: https://bizno.net/article/5918703125
+- Page Title: 접속대기_no1
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-42-42-969Z.yml)

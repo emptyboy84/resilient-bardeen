@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+<meta name="Description" content="(주)브이드림 기업소개 - 업력 : 9년차, 기업형태 : 중소기업, 업종 : 응용 소프트웨어 개발 및 공급업 | (주)브이드림의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요." >
+<meta name="keywords" content="(주)브이드림, (주)브이드림 기업정보, (주)브이드림 기업소개, (주)브이드림 직원수, 매출액, 자본금, (주)브이드림 영업이익, (주)브이드림 공시정보, (주)브이드림 재무제표, (주)브이드림 감사보고서, 취업사이트, 채용정보, 기업뉴스, 복지, 구인, 구직, 사람인" >
+{"@context":"http:\/\/schema.org","@type":"Organization","name":"(주)브이드림 기업정보","description":"(주)브이드림 기업소개 - 업력 : 9년차, 기업형태 : 중소기업, 업종 : 응용 소프트웨어 개발 및 공급업 | (주)브이드림의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요.","url":"https:\/\/www.saramin.co.kr\/zf_user\/company-info\/view\/csn\/ZjQvcWk4cUVOYW9KWnh3b1AxWUNNZz09\/company_nm\/(주)브이드림","sameAs":["vdream.co.kr","http:\/\/www.facebook.com\/vdreamedutech","https:\/\/www.instagram.com\/vdream_able\/"],"legalName":"(주)브이드림","logo":"https:\/\/clogo.saramin.co.kr\/company\/logo\/202607\/15\/ti71e463_gwdt-w8cbel_logo.png","foundingDate":"2018-01-25","founder":{"@type":"Person","name":"김민지"},"address":{"@type":"PostalAddress","name":"서울 서초구 반포대로18길 36, 제오피스동 제7층 제7층호 (서초동,서초센트럴아이파크)"},"contactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"+82 051-711-8572"},"makesOffer":{"@type":"Offer","name":"응용 소프트웨어 개발 및 공급업"}}</script>
+{"@context":["https:\/\/schema.org",{"csvw":"http:\/\/www.w3.org\/ns\/csvw#"}],"@type":"Dataset","name":"(주)브이드림 2026년 기업정보 | 직원수, 근무환경, 복리후생 등","description":"(주)브이드림 기업소개 - 업력 : 9년차, 기업형태 : 중소기업, 업종 : 응용 소프트웨어 개발 및 공급업 | (주)브이드림의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요.","publisher":{"@type":"Organization","name":"사람인"},"mainEntity":{"@type":"csvw:Table","csvw:tableSchema":{"csvw:columns":[{"csvw:name":"번호","csvw:datatype":"string","csvw:cells":[{"csvw:value":"1","csvw:primaryKey":"1"},{"csvw:value":"2","csvw:primaryKey":"2"},{"csvw:value":"3","csvw:primaryKey":"3"}]},{"csvw:name":"기업소개","csvw:datatype":"string","csvw:cells":[{"csvw:value":"업종","csvw:primaryKey":"1"},{"csvw:value":"대표자명","csvw:primaryKey":"2"},{"csvw:value":"사업내용","csvw:primaryKey":"3"}]},{"csvw:name":"내용","csvw:datatype":"string","csvw:cells":[{"csvw:value":"응용 소프트웨어 개발 및 공급업","csvw:primaryKey":"1"},{"csvw:value":"김민지","csvw:primaryKey":"2"},{"csvw:value":"소프트웨어개발","csvw:primaryKey":"3"}]}]}}}</script>
+재무정보
+target="_blank" title="새 창 열림" class="link ga_data_layer">NICE평가정보</a>
+NICE 평가정보 출처 : 설립일, 기업형태, 매출액, 업종, 대표자명, 사업내용, 주소<br>                                                국민연금 출처 : 사원수<br>                        기업 직접입력 : 홈페이지, SNS, 기업 한줄소개, 기업소개, 기업비전<br>                    </p>
+*정보제공자 : NICE평가정보, 금융감독원(DART), 국민연금, 기업회원(직접 수정시)<br>
+*기업정보는 사업자등록번호 기준으로 동일하게 관리됩니다.<p>
+data-ga_data_layer="ga_lead|company_view|com_intro|edit_nice">NICE에서 기업정보 수정하기</a>
+

@@ -1,0 +1,196 @@
+
+The command exited with code 0.
+Output:
+<truncated 180 lines>
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Total rows in nice.tsv:', lines.length);
+
+let niceBizCount = 0;
+let corpNoCount = 0;
+let settleMonthCount = 0;
+let catLargeCount = 0
+Line: 263 Step: 264 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Processing 500 rows...');
+
+// Categor
+Line: 264 Step: 265 Type: GENERIC
+Line: 277 Step: 278 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function processFull500() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backu
+Line: 278 Step: 279 Type: GENERIC
+Line: 310 Step: 311 Type: SYSTEM_MESSAGE
+Line: 311 Step: 312 Type: PLANNER_RESPONSE
+Line: 314 Step: 315 Type: GENERIC
+Line: 319 Step: 320 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function updateFactCheckedExcel() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배
+Line: 321 Step: 322 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function updateFactCheckedExcel() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배
+Line: 322 Step: 323 Type: GENERIC
+Line: 343 Step: 344 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function updateFactCheckedExcelWithZip() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_2
+Line: 344 Step: 345 Type: GENERIC
+Line: 369 Step: 370 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv'];
+for (const file of files) {
+  if (fs.existsSync(file)) {
+    const lines = fs.readFileSync(file, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+      if (l.
+Line: 370 Step: 371 Type: GENERIC
+Line: 373 Step: 374 Type: PLANNER_RESPONSE
+Line: 375 Step: 376 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv'];
+for (const file of files) {
+  if (fs.existsSync(file)) {
+    const lines = fs.readFileSync(file, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+      if (l.
+Line: 376 Step: 377 Type: GENERIC
+Line: 377 Step: 378 Type: PLANNER_RESPONSE
+Line: 393 Step: 394 Type: CHECKPOINT
+Line: 432 Step: 432 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+      if (l.includes('517
+Line: 433 Step: 433 Type: GENERIC
+Line: 439 Step: 439 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+      if (l.includes('527
+Line: 440 Step: 440 Type: GENERIC
+Line: 445 Step: 445 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+
+const files = ['bizno_filtered_result.tsv', 'bizno_filtered_result_nice.tsv', 'all_500_factchecked.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n').filter(l => l.trim().length > 0);
+    console.log(f,
+Line: 446 Step: 446 Type: GENERIC
+Line: 447 Step: 447 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const sample = lines.slice(0, 25).map(l => {
+  const p = l.split('\t');
+  return { company: p[2], bizno: p[3], employees: p[11] };
+});
+
+console.log('
+Line: 462 Step: 462 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+console.log('Row 1 (Excel 11847):', lines[0].split('\t')[2], '->', lines[0].split('\t')[11]);
+console.log('Row 154 (Excel 12000):', lines[153].split(
+Line: 464 Step: 464 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function updateEmployeesFromBizno() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720
+Line: 465 Step: 465 Type: GENERIC
+Line: 495 Step: 495 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv', 'user_pasted_rows.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+ 
+Line: 496 Step: 496 Type: GENERIC
+Line: 497 Step: 497 Type: PLANNER_RESPONSE
+Line: 503 Step: 503 Type: PLANNER_RESPONSE
+Line: 504 Step: 504 Type: GENERIC
+Line: 510 Step: 510 Type: GENERIC
+Line: 529 Step: 529 Type: PLANNER_RESPONSE
+Line: 530 Step: 530 Type: GENERIC
+Line: 531 Step: 531 Type: PLANNER_RESPONSE
+Line: 533 Step: 533 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv', 'user_pasted_rows.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+ 
+Line: 534 Step: 534 Type: GENERIC
+Line: 535 Step: 535 Type: PLANNER_RESPONSE
+Line: 536 Step: 536 Type: GENERIC
+Line: 538 Step: 538 Type: GENERIC
+Line: 539 Step: 539 Type: PLANNER_RESPONSE
+Line: 543 Step: 543 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv', 'user_pasted_rows.tsv'];
+files.forEach(f => {
+  if (fs.existsSync(f)) {
+    const lines = fs.readFileSync(f, 'utf-8').split('\n');
+    lines.forEach((l, idx) => {
+ 
+Line: 544 Step: 544 Type: GENERIC
+Line: 546 Step: 546 Type: GENERIC
+Line: 547 Step: 547 Type: SYSTEM_MESSAGE
+Line: 548 Step: 548 Type: PLANNER_RESPONSE
+Line: 549 Step: 549 Type: GENERIC
+Line: 553 Step: 553 Type: GENERIC
+Line: 558 Step: 558 Type: PLANNER_RESPONSE
+Line: 561 Step: 561 Type: GENERIC
+Line: 575 Step: 575 Type: GENERIC
+Line: 576 Step: 576 Type: PLANNER_RESPONSE
+Command snippet: git add .gitignore package.json package-lock.json all_500_factchecked.tsv all_500_verified.tsv bizno_filtered_result.tsv bizno_filtered_result_nice.tsv rows_11847_12000_verified.tsv user_pasted_rows.tsv data/
+Line: 577 Step: 577 Type: GENERIC
+Line: 579 Step: 579 Type: GENERIC
+Line: 586 Step: 586 Type: PLANNER_RESPONSE
+

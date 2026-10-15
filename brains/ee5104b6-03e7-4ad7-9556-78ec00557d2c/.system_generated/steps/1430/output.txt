@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=%ED%8F%AC%EC%BB%A4%EC%8A%A4+%EC%A0%95%EB%8C%80%ED%98%B8');
+```
+### Page
+- Page URL: https://bizno.net/?query=%ED%8F%AC%EC%BB%A4%EC%8A%A4+%EC%A0%95%EB%8C%80%ED%98%B8
+- Page Title: 포커스 정대호
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T02-23-52-824Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T02-23-48-176Z.log#L1-L3

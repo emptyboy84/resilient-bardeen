@@ -1,0 +1,6 @@
+### Result
+"글로픽스\n즐겨찾기\n로드뷰\nA 글로픽스 광고기획,광고대행\n별점\n0.0\n0건\n리뷰 0\n\n서울 강남구 도곡로3길 20-9\n\n(지번) 역삼동 836-7\n\n상세보기"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.getElementById(\'info.search.place.list\') ? document.getElementById(\'info.search.place.list\').innerText : document.body.innerText');
+```

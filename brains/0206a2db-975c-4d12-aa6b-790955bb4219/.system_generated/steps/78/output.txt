@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+--- query_8985800242.html ---
+Line 8: <title>8985800242</title>
+Line 9: <meta name="title" content="8985800242">
+Line 13: <meta name="description" content="8985800242에 대한 사업자 정보 조회 결과입니다.">
+Line 15: <meta name="keywords" content="8985800242,사업자등록번호 조회">
+Line 22: <meta property="og:title" content="8985800242">
+Line 23: <meta property="og:description" content="8985800242에 대한 사업자 정보 조회 결과입니다.">
+Line 144: <h3 class="text-white"><span>"8985800242"</span> 키워드로 <strong><span style="color:red">0</span></strong> 개의 결과를 찾았습니다</span> </h3><br/>
+Line 145: <p class="text-white">검색하신 사업자번호 "8985800242"의 정보는 삭제(비공개) 또는 미등록 처리된 사업자입니다.
+
+--- article_8985800242.html ---
+Line 13: <meta name="description" content="에 대한 사업자정보  법인형태 : - 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 사업자등록번호 : 898-58-00242">
+Line 20: <meta property="og:description" content="에 대한 사업자정보  법인형태 : - 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 사업자등록번호 : 898-58-00242">
+Line 77: <li><a href="/대표자조회/">대표자이름으로 조회</a></li>
+Line 134: <h4><span style="color: blue;font-size:10pt">"8985800242" 번호를 국세청에 질의한 결과 (사업자상태 : 계속사업자, 부가가치세 일반과세자)로 조회됩니다</span></h4>
+Line 137: <table class="table_guide01" >
+Line 151: <tr><th>대표자명</th><td>-</td></tr>
+Line 152: <tr><th>사업자 현재 상태</th><td><span style="color: red;font-weight: bold;">계속사업자</span>
+Line 166: <tr><th>회사주소</th><td >-</td></tr>
+Line 308: <li><a href="/대표자조회">대표자이름으로 조회</a></li>
+

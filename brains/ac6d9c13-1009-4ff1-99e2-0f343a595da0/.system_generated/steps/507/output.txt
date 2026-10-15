@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+[
+  '<form name="headerForm" action="/subscript/favoApplPage" method="post"><input type="hidden" name="_csrf" value="7bcb8b55-ead8-48e1-a7ea-00716e3b0e75"/></form>'
+]
+[
+  '<input type="hidden" name="_csrf" value="7bcb8b55-ead8-48e1-a7ea-00716e3b0e75"/>',
+  '<input aria-label="기업명, 사업자번호, 제품, 대표자, 주소, 주제 검색"\n' +
+    '                               aria-controls="tagList"\n' +
+    '                               class="form-control"\n' +
+    '                               id="searchInput"\n' +
+    '                               name="searchInput"\n' +
+    '                               top_nm=""\n' +
+    '                               placeholder="기업명, 사업자번호, 제품/서비스 검색"\n' +
+    '                               title="기업 검색어 입력"\n' +
+    '                               type="search"\n' +
+    '                               autocomplete="off" />',
+  '<input type="hidden" id="searchUrl"\n' +
+    '                               value="/업체명으로기업조회/" />',
+  '<input type="hidden" id="searchUrl" value="" />'
+]
+

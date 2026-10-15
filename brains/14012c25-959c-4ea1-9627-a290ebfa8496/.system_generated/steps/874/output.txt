@@ -1,0 +1,14 @@
+### Result
+Waited for 30 seconds (requested 3000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://opaque-cell-384.notion.site/SUNNY-SIDE-UP-7ce0449eef104c28a70af3b95260a195
+- Page Title: SUNNY SIDE UP
+- Console: 26 errors, 3 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-37-59-767Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-37-14-202Z.log#L66-L83

@@ -1,0 +1,15 @@
+### Result
+{
+  "btnsInParent": [
+    {
+      "tag": "BUTTON",
+      "className": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-main-search",
+      "text": "",
+      "ariaLabel": null
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input.q-field__native\');\n  const parent = input ? input.closest(\'.q-field\') : null;\n  const grandParent = parent ? parent.parentElement : null;\n  const btnsInParent = grandParent ? Array.from(grandParent.querySelectorAll(\'button, i, .q-icon, [role="button"]\')).map(el => ({\n    tag: el.tagName,\n    className: el.className,\n    text: el.innerText,\n    ariaLabel: el.getAttribute(\'aria-label\')\n  })) : [];\n  return { btnsInParent };\n}');
+```

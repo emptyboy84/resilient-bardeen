@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.onbspace.com');
+```
+### Page
+- Page URL: https://www.onbspace.com/
+- Page Title: OnB Space Inc.
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-44-20-743Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-44-17-469Z.log#L1

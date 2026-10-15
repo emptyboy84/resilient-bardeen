@@ -1,0 +1,56 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\verify_and_update_db
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026-09-30  오전 10:46                brain_logs                                                           
+d-----        2026-09-30  오전 10:46                data                                                                 
+d-----        2026-09-30  오전 10:46                node_modules                                                         
+-a----        2026-09-30  오전 10:46             47 .gitignore                                                           
+-a----        2026-09-30  오전 10:46            859 AGENTS.md                                                            
+-a----        2026-09-30  오전 10:46         134720 all_500_factchecked.tsv                                              
+-a----        2026-09-30  오전 10:46         138057 all_500_verified.tsv                                                 
+-a----        2026-09-30  오전 11:03           5096 apply_updates_to_master_excel.js                                     
+-a----        2026-09-30  오전 10:46          25920 article_test.html                                                    
+-a----        2026-09-30  오전 10:56         286587 bizno_200_raw.json                                                   
+-a----        2026-09-30  오전 10:46         128152 bizno_filtered_result.csv                                            
+-a----        2026-09-30  오전 10:46         130093 bizno_filtered_result.tsv                                            
+-a----        2026-09-30  오전 10:46         130977 bizno_filtered_result_nice.csv                                       
+-a----        2026-09-30  오전 10:46         130093 bizno_filtered_result_nice.tsv                                       
+-a----        2026-09-30  오전 10:46          24690 bizno_test.html                                                      
+-a----        2026-09-30  오전 10:58          14872 build_verified_dataset.js                                            
+-a----        2026-09-30  오전 10:49           3893 check_input_in_excel.js                                              
+-a----        2026-09-30  오전 11:02           8053 create_html_report.js                                                
+-a----        2026-09-30  오전 10:46         110584 current_pasted_batch.tsv                                             
+-a----        2026-09-30  오전 10:55           5976 fetch_200_bizno.js                                                   
+-a----        2026-09-30  오전 11:02           8316 finalize_200_records.js                                              
+-a----        2026-09-30  오전 10:49          31378 input_user_raw.txt                                                   
+-a----        2026-09-30  오전 11:08          31442 input_user_raw_2.txt                                                 
+-a----        2026-09-30  오전 10:51            758 inspect_11847.js                                                     
+-a----        2026-09-30  오전 10:50         143909 match_analysis.json                                                  
+-a----        2026-09-30  오전 10:46         138448 merged_500_perfect.tsv                                               
+-a----        2026-09-30  오전 10:46          41125 package-lock.json                                                    
+-a----        2026-09-30  오전 10:46             85 package.json                                                         
+-a----        2026-09-30  오전 10:46          17011 query_test.html                                                      
+-a----        2026-09-30  오전 10:46          36805 rows_11847_12000_16col.tsv                                           
+-a----        2026-09-30  오전 10:46          37115 rows_11847_12000_17col.tsv                                           
+-a----        2026-09-30  오전 10:46          38655 rows_11847_12000_verified.tsv                                        
+-a----        2026-09-30  오전 10:46         192164 user_pasted_rows.tsv                                                 
+-a----        2026-09-30  오전 11:02         122179 verified_200.json                                                    
+-a----        2026-09-30  오전 11:02         123173 verified_200_final.json                                              
+-a----        2026-09-30  오전 11:02           2831 verify_urls_and_emails.js                                            
+-a----        2026-09-30  오전 11:02          53544 배현명_실사DB_200개기업_16컬럼_회사명시작.tsv                                       
+-a----        2026-09-30  오전 11:02          53985 배현명_실사DB_200개기업_17컬럼_상태포함.tsv                                        
+-a----        2026-09-30  오전 11:02          56280 배현명_실사DB_200개기업_18컬럼_최종검증완료.csv                                      
+-a----        2026-09-30  오전 11:02          55995 배현명_실사DB_200개기업_18컬럼_최종검증완료.tsv                                      
+-a----        2026-09-30  오전 11:02         230408 배현명_실사DB_200개기업_검증결과리포트.html                                         
+-a----        2026-09-30  오전 10:46           4157 법인등록번호_추적_및_검증_가이드_110111-8382593.md                                 
+-a----        2026-09-30  오전 10:46         169882 법인등록번호_추적_및_검증_가이드_110111-8382593.pdf                                
+
+
+

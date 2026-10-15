@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=머스티커');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%A8%B8%EC%8A%A4%ED%8B%B0%EC%BB%A4
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-41-37-757Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-41-35-437Z.log#L1-L2

@@ -1,0 +1,33 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-101
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-101.log
+Log output:
+<truncated 282 lines>
+기도 안산시 상록구 서암로1길 ...'
+  },
+  {
+    bizno: '2521602518',
+    title: '리브 앤 리프(Liv&Leaf)',
+    snippet: '경기도 부천시 소사구 안곡로 22'
+  },
+  {
+    bizno: '2521602478',
+    title: '천궁불사',
+    snippet: '전남광주통합특별시 광산구 상무대로...'
+  },
+  { bizno: '2521601601', title: '완승유통', snippet: '엄완* 비공개' },
+  {
+    bizno: '2521600505',
+    title: '주스탐',
+    snippet: '김미* 경상남도 창원시 마산합포구 동서동...'
+  },
+  {
+    bizno: '2521502530',
+    title: '플렉스트레이드',
+    snippet: '경기도 파주시 와석순환로 347 ... (adsbygoogle = window.adsbygoogle || []).push({}); --> 실시간 조회기업 유한회사 성산개발 주식회사 재미코리아 유엠프로젝트 시아 제이제이기획 제이네일 보람공인중개사사무소 서호용암마을 영농조'
+  }
+]
+[Saramin] Length: 2259811 Contains results: true
+[Catch] Length: 35409 Contains comp: true
+
+Last progress: 0s ago

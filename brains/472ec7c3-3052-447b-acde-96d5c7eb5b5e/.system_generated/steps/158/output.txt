@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+Name                  Length LastWriteTime           
+----                  ------ -------------           
+app-1.15.0                   2026-10-15 � 8:48:34 
+Crashpad                     2026-10-15 � 8:48:36 
+logs                         2026-10-15 � 9:10:19 
+Gemini.exe            419048 2026-10-07 � 10:13:32
+GeminiAppLauncher.exe 419056 2026-10-07 � 10:13:32
+Uninstall Gemini.exe  426896 2026-10-07 � 10:13:32
+
+
+

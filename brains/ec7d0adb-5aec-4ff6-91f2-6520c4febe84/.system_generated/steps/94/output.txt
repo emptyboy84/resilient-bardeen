@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+[ <1 empty item>, '사용한 사이트', '주소' ]
+[ <1 empty item>, '네이버 검색(AI 정리 또는 바로 보이는 정보 사용)', 'www.naver.com' ]
+[ <1 empty item>, 'NICE BizINFO(업종)', 'www.nicebizinfo.com' ]
+[ <1 empty item>, 'BizNo', 'www.bizno.net' ]
+

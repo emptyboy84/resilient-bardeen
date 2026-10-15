@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+0 <!doctype html> <html lang="ko"><head> <meta charset="utf-8"> <meta name="referrer" content="strict-origin-when-cross-origin">  <meta name="format-detection" content="telephone=no,address=no,email=no"
+6 <script>(function(){if(window.__nx_whale_dl_bnr_boot)return;window.__nx_whale_dl_bnr_boot=!0;var e="https://ssl.pstatic.net/sstatic/fe/sfe/whale-dl-banner/app_260819.js",t=function(){var t=window.requ
+46       entry.bootstrap(document.getElementById("fdr-fe62f64c58a44679804b32c870958c5f"), {"refs":{"blockId":"ai-briefing/prs_template_aib_answer_desk.ts"},"appElementAttrs":{"className":"sc_new _slog_vi
+106       entry.bootstrap(document.getElementById("fdr-3cbb5f1eec6347c589e6b4039b85d1cd"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","
+120 </script><div id="fdr-2323a3e3eaa8487ca5f0b77b1c487c5b" data-fender-root="true" data-block-id="web/prs_template_v2_web_basic_desk.ts" data-meta-area="urB_coR" data-meta-nscs="" data-meta-ssc="tab.nx.a
+158       entry.bootstrap(document.getElementById("fdr-2323a3e3eaa8487ca5f0b77b1c487c5b"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","
+210       entry.bootstrap(document.getElementById("fdr-90f9f8a438524deea2315e3ad9586191"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","
+224 </script><div id="fdr-b7b6353a5e044ed7b8b4d7455817af06" data-fender-root="true" data-block-id="review/prs_template_v2_review_blog_rra_desk.ts" data-meta-area="urB_coR" data-meta-nscs="" data-meta-ssc=
+262       entry.bootstrap(document.getElementById("fdr-b7b6353a5e044ed7b8b4d7455817af06"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","
+276 </script><div id="fdr-5ddd3468bbab42438653493527cd9ae9" data-fender-root="true" data-block-id="review/prs_template_v2_review_blog_rra_desk.ts" data-meta-area="urB_coR" data-meta-nscs="" data-meta-ssc=
+314       entry.bootstrap(document.getElementById("fdr-5ddd3468bbab42438653493527cd9ae9"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_coR","nscs":"","query":"\"스튜디오비오\"","
+371       entry.bootstrap(document.getElementById("fdr-cff770afb620475698f8bd62f31808c7"), {"appElementAttrs":{"className":"sc_new _slog_visible","data-collection":"fender_renderer","data-heatmap-area":"k
+431       entry.bootstrap(document.getElementById("fdr-332088c5c4264166ad718c5ffd8a149c"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_boR","nscs":"","query":"\"스튜디오비오\"","
+483       entry.bootstrap(document.getElementById("fdr-cc14af64cfec4892aa4acc23306294f6"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_boR","nscs":"","query":"\"스튜디오비오\"","
+535       entry.bootstrap(document.getElementById("fdr-071af961c6dd428991746e41229bf830"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_boR","nscs":"","query":"\"스튜디오비오\"","
+587       entry.bootstrap(document.getElementById("fdr-d2e18b3dbaf14490bda88349e708489f"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_boR","nscs":"","query":"\"스튜디오비오\"","
+639       entry.bootstrap(document.getElementById("fdr-5a2bedf89a8f4706a81ca7bc72a9c462"), {"appElementAttrs":{"className":"sc_new _slog_visible"},"meta":{"area":"urB_boR","nscs":"","query":"\"스튜디오비오\"","
+

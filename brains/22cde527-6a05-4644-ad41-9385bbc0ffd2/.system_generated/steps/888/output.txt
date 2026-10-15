@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Automation - Filled: 2042 Missing: 271 Total: 2313
+

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:19 �:33
++     console.log('Article link:', m[1]);
++                                 ~
+',' �ڿ� � �ϴ�.
+�ġ �:19 �:34
++     console.log('Article link:', m[1]);
++                                  ~~~~
+� �Ǵ� � �ġ � 'm[1]' �ū�Դϴ�.
+�ġ �:19 �:33
++     console.log('Article link:', m[1]);
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:18 �:10
++   if (m) {
++          ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:19 �:38
++     console.log('Article link:', m[1]);
++                                      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:20 �:60
++     const detailHtml = await fetchUrl('https://bizno.net' + m[1]);
++                                                            ~
+'+' � �ڿ� � � �ؾ� �մϴ�.
+�ġ �:20 �:61
++     const detailHtml = await fetchUrl('https://bizno.net' + m[1]);
++                                                             ~~~~
+� �Ǵ� � �ġ � 'm[1]' �ū�Դϴ�.
+�ġ �:20 �:60
++     const detailHtml = await fetchUrl('https://bizno.net' + m[1]);
++                                                            ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:20 �:65
++     const detailHtml = await fetchUrl('https://bizno.net' + m[1]);
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:21 �:70
++ ...  clean = detailHtml.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterToken
+ 
+

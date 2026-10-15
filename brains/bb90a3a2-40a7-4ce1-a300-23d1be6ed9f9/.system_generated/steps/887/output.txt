@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Idx: 89180
+omps-text-type-body1 sds-comps-text-weight-sm HZ20AH4ODQUauZqh">대표자명 : 박원빈, 설립년도 : 2015년, 자본금 : 3억 5000만원, 기업형태 : 중소기업(300명미만), 대표게임 : 모바일 RPG / Casual, 주요사업 :  썬더게임즈 , 대표 번호  : 051-000-0000, 회사위치 : (48058 )  부산  해운대구 우동 센텀시티 · -  새 창 열림           
+(function () {
+  
+  var 
+

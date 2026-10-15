@@ -1,0 +1,40 @@
+
+The command exited with code 0.
+Output:
+20 		<meta name="description" content="세종인쇄에 대한 사업자 정보 조회 결과입니다. 세종인쇄 경 인쇄업(제판) 인천광역시 미추홀구 석정로202번길1 (도화동) 세종인쇄 스크린 인쇄업 서울특별시 영등포구 당산로47길 5 세종인쇄 전자상거래 소매업 부산광역시 연제구 고분로 17, 1층 세종인쇄 세종인쇄  인천광역시 남동구 남동대로 322,">
+   15 		<title>세종인쇄</title>
+   16 		<meta name="title" content="세종인쇄">
+   17 		<!-- Author Meta -->
+   18 		<meta name="author" content="bizno.net">
+   19 		<!-- Meta Description -->
+   20 		<meta name="description" content="세종인쇄에 대한 사업자 정보 조회 결과입니다. 세종인쇄 경 인쇄업(제판) 인천광역시 미추홀구 석정로202번길1 (도화동) 세종인쇄 스크린 인쇄업 서울특별시 영등포구 당산로47길 5 세종인쇄 전자상거래 소매업 부산광역시 연제구 고분로 17, 1층 세종인쇄 세종인쇄  인천광역시 남동구 남동대로 322,">
+   21 		<!-- Meta Keyword -->
+   22 		<meta name="keywords" content="세종인쇄,사업자등록번호 조회">
+   23 		<meta property="og:type" content="website">
+   24 		<meta property="og:author" content="bizno.net">
+   25 		<meta property="og:article:author" content="bizno.net">
+30 		<meta property="og:description" content="세종인쇄에 대한 사업자 정보 조회 결과입니다. 세종인쇄 경 인쇄업(제판) 인천광역시 미추홀구 석정로202번길1 (도화동) 세종인쇄 스크린 인쇄업 서울특별시 영등포구 당산로47길 5 세종인쇄 전자상거래 소매업 부산광역시 연제구 고분로 17, 1층 세종인쇄 세종인쇄  인천광역시 남동구 남동대로 322,">
+   25 		<meta property="og:article:author" content="bizno.net">
+   26 		<meta property="og:site_name" content="비즈노(사업자등록번호조회)">
+   27 		<meta property="og:url" content="https://bizno.net/">
+   28 		<meta property="og:image" content="https://bizno.net/img/logo.png">
+   29 		<meta property="og:title" content="세종인쇄">
+   30 		<meta property="og:description" content="세종인쇄에 대한 사업자 정보 조회 결과입니다. 세종인쇄 경 인쇄업(제판) 인천광역시 미추홀구 석정로202번길1 (도화동) 세종인쇄 스크린 인쇄업 서울특별시 영등포구 당산로47길 5 세종인쇄 전자상거래 소매업 부산광역시 연제구 고분로 17, 1층 세종인쇄 세종인쇄  인천광역시 남동구 남동대로 322,">
+   31 				<!-- Mobile Specific Meta -->
+   32 		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+   33 		<!-- Favicon-->
+   34 		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+   35 		<link rel="icon" href="/favicon.png" type="image/x-icon">
+236 										부산광역시 연제구 고분로 17, ...
+   231 											
+   232 										</div>
+   233 
+   234 									</div>
+   235 									<p>
+   236 										부산광역시 연제구 고분로 17, ...
+   237 									</p>
+   238 									 
+   239  
+   240 								</div>
+   241 							</div>	
+

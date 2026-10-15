@@ -1,0 +1,27 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-324.log
+Log output:
+<truncated 29 lines>
+Found so far: 96
+[FOUND 100] Seq 1046 아이네트 -> 010-4566-**** (Bizno-Masked)
+Progress: 426 / 2658 scanned | Found so far: 104
+Progress: 486 / 2658 scanned | Found so far: 111
+Progress: 546 / 2658 scanned | Found so far: 119
+Progress: 606 / 2658 scanned | Found so far: 128
+Progress: 666 / 2658 scanned | Found so far: 135
+Progress: 726 / 2658 scanned | Found so far: 137
+Progress: 786 / 2658 scanned | Found so far: 143
+[FOUND 150] Seq 1565 (주)더블커뮤니티 -> 010-9507-9*** (Bizno-Masked)
+Progress: 846 / 2658 scanned | Found so far: 154
+Progress: 906 / 2658 scanned | Found so far: 158
+Progress: 966 / 2658 scanned | Found so far: 160
+Progress: 1026 / 2658 scanned | Found so far: 165
+Progress: 1086 / 2658 scanned | Found so far: 170
+Progress: 1146 / 2658 scanned | Found so far: 175
+Progress: 1206 / 2658 scanned | Found so far: 180
+Progress: 1266 / 2658 scanned | Found so far: 182
+Progress: 1326 / 2658 scanned | Found so far: 184
+Progress: 1386 / 2658 scanned | Found so far: 186
+
+Last progress: 0s ago

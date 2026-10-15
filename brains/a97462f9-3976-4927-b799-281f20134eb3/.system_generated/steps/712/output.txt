@@ -1,0 +1,12 @@
+The search for ""오픈와이즈" "하단동" OR "낙동대로 542" 사업자등록번호" returned the following summary:
+검색하신 "오픈와이즈"와 "하단동" 또는 "낙동대로 542"라는 주소를 조합하여 확인한 결과, 해당 주소지에 위치한 "오픈와이즈"라는 업체의 사업자등록번호에 대한 직접적인 정보는 확인되지 않습니다[1][2][3].
+
+참고로, 과거 IT 분야 스타트업으로 언급된 "오픈와이즈"[2][3]는 존재했으나, 문의하신 특정 주소지(부산 하단동 낙동대로 542)와의 연관성이나 현재 해당 사업자의 등록 정보는 공개된 자료에서 찾을 수 없습니다[1][4].
+
+정확한 사업자등록번호 확인이 필요하시다면, **국세청 홈택스(사업자등록상태조회)** 또는 **공정거래위원회(통신판매사업자 조회)** 사이트에서 상호명 또는 사업자등록번호를 통해 직접 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEieQrAm7QOLqtuEMOeAe92IMW00OeEAqxDflp4B-t3OtIg5LVNxrRo5fcSY6m8ftG_pBqU3B-TKYxvHwn-mCKyFqmO3MjbBsKKCuEQ2SYZIEJ7mr5nio0gzRK-omQ7naO86KAOC9dPVkoF5qN-GVNh-3KW)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiaW4Z9nVUBVunU23Ru1aEFNIXYB1w_gT24SLaZ2PQUgOW1Xcm5mekANyCJzrvHCM7Nw9P8jhsUbdNjUbYcpnAAZX3yg86yJZn29zUCZBgu0X-ew=)
+[3] [rssing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKbQw5jXWAVYZkXIelw9ePSfrM7JUiihwNQk-eMsnndYhFyl_Q1medAKdGjRndCMfeR3Rh254Ks4CPpe7IzXgn3CW9NBlsxG2Z4Bu_dP9CIIQ4fL12NkghkCACSAxzFEhRdONU1TBs29UR)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4tnOmIrCMZ5wi5UasIIz_dxRgXAF7wAF7dGDD0R-FrDdMSPGP_ACfFog9Zh0Fz6NX9puDHBtb7rkq12NJIudvoRs-4mUvviX6HbTwMucQHMtI1omuO65_k6weCsQbOO5DSQdB)

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+The operation completed successfully.
+The operation completed successfully.
+

@@ -1,0 +1,6 @@
+### Result
+"<div class=\"VMq4uf\" id=\"developer-contacts-heading\"><div class=\"EaMWib\"><h2 class=\"XfZNbf\">앱 지원</h2></div><div jsaction=\"JIbuQc:Ptdedd\"><button class=\"VfPpkd-Bz112c-LgbsSe yHy1rc eT1oJ mN1ivc VxpoF\" jscontroller=\"soHxf\" jsaction=\"click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mous"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const el = Array.from(document.querySelectorAll(\'*\')).find(e => e.textContent === \'앱 지원\');\n  if (!el) return \'no element\';\n  const parent = el.closest(\'[role="button"]\') || el.closest(\'button\') || el.parentElement;\n  if (parent) {\n    parent.click();\n    return parent.outerHTML.slice(0, 300);\n  }\n  return \'no parent\';\n}');
+```

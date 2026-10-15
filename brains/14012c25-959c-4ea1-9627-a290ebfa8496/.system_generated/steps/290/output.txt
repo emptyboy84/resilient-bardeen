@@ -1,0 +1,20 @@
+The search for ""동부전기" "맥도길" OR "변동훈" 전화번호 OR 연락처" returned the following summary:
+검색하신 키워드(**"동부전기", "맥도길", "변동훈"**)와 일치하는 정확한 통합 연락처 정보(단일 인물 및 기업 정보)는 공식 공개 데이터베이스상에서 직접적으로 연관되어 확인되지 않습니다. 
+
+다만, 입력하신 키워드와 관련된 개별 정보는 다음과 같습니다.
+
+1. **맥도길 / 전기 관련 업체**: 
+   * 부산광역시 강서구 대저2동(**맥도길** 일대) 및 인근 지역에는 다수의 전기공사업 등록 업체, 배전반 및 전기 자동제어반 제조 기업(예: JK라이팅[1], 대동 및 강서구 일대의 전기 관련 법인 등)이 위치하고 있으나, '맥도길'에 위치한 '동부전기'라는 상호의 직접적인 전화번호는 공식 등록된 정보가 제한적입니다.
+   * 참고로 부산 사상구(부산산업용품상가)에 **'동부전기'**(대표자: 이정태, 전화번호: **051-319-3091**)라는 상호의 유통업체가 존재합니다[2].
+
+2. **변동훈**: 
+   * 법조계(김·장 법률사무소 변호사)[3] 및 일부 기업(코나아이 부사장 등)에서 동명이인의 활동 이력이 확인되나[4][5], 전기 업체 및 맥도길 주소지와 연관된 공식 연락처 정보는 확인되지 않습니다.
+
+특정 사업자나 정확한 상호명, 혹은 사업자등록번호 등을 추가로 알려주시면 보다 자세한 확인이 가능합니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIMF_s5E07Okln8OdMI3PNXQ0_ZMcSeN6cmy7jnEX8QX1acnLn_KAZQH8iC8eN3s1tpRI3ukkgj-OvXKFwLLyige74qbLBwDyePkQo6BxM12M2mwII5XSJAITaKFdr__i3gk-oNTxlvyNtnrbcWYyjwMBLhvf_hWQ_BMtvzST0bdioit1puVMnNwVNlHHukYJdyd2oKV9op1m_)
+[2] [yeogie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO3BUk4KeUHHUHIOqmWYdnlFHQAO9MX40AKIB6uaz-_2qE0F4_bRcjFNSoyOSkudOLgWG0q2uB_W7HNs3ciLmvexJ6VIrqAd_u1KU9Lx_TgYLmdq2bXa6SGKrn)
+[3] [lawtimes.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsqRFw6VFbWJX_dZgrY1K-wYvWEGzHD9amTW9Y1CfXVMe5ZNu9WZdYR2T4NxxfdjCQX-Bsz89X69awvLO4mnQd6Dlp_Twa7UYe0txbg4TnJQKlanGq0GWzQYAA1_VsBQAtMlWfTzkQDsPPdQ==)
+[4] [sungnam.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFvNJay9E-yCbPYz28kAAPmt--TIWkJMqMdmdAGgS8c7C1CzjhZvboE2h3TKF22BCv0fi15bCDSBpmrnkV5sGg62XkOlkF5MJelNGW0dVEfaraX92_4daBMCt72XImGgisHzyuarp1RavpBv4bffCX-_0=)
+[5] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Wxg9Q_5mUaUDwtxKap3XpkpsMCmQCszO8TuyUUvyIJraPGeTbhuo4Ry30ZmTDV_sLfB1-_4Z7R7creqK7uTWCyQZAiqrAVfKycESIXHPqj39Cm_n3R7VEciU1Fs_AbWjOspZrbOsca0-0_TGVW26ofCFZgtuCN4PUenrnUqN8FLa5MXNGlQcJHIiNmhf2MDsID2GT3apFBQKS2fP0-ZFivO_HcJ8dTW7U3x6IyqFBKqTe0z5XVfEBA==)

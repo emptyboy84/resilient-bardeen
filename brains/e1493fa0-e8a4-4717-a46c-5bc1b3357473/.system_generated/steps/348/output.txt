@@ -1,0 +1,56 @@
+### Result
+[
+  {
+    "bizno": "6090653247",
+    "name": "청우정공",
+    "found": true,
+    "industry": "선박 구성 부분품 제조업",
+    "matchedRep": "하임숙",
+    "matchedAddr": "경남 창원시 의창구 평산로**번길 **,",
+    "source": "bizno"
+  },
+  {
+    "bizno": "6090657239",
+    "name": "도경테크",
+    "found": true,
+    "industry": "선박 구성 부분품 제조업",
+    "matchedRep": "하임숙",
+    "matchedAddr": "경남 창원시 의창구 평산로**번길 **,",
+    "source": "bizno"
+  },
+  {
+    "bizno": "6090657409",
+    "name": "한웅정공",
+    "found": true,
+    "industry": "선박 구성 부분품 제조업",
+    "matchedRep": "하임숙",
+    "matchedAddr": "경남 창원시 의창구 평산로**번길 **,",
+    "source": "bizno"
+  },
+  {
+    "bizno": "6090658771",
+    "name": "백봉제어기계",
+    "found": true,
+    "industry": "선박 구성 부분품 제조업",
+    "matchedRep": "하임숙",
+    "matchedAddr": "경남 창원시 의창구 평산로**번길 **,",
+    "source": "bizno"
+  },
+  {
+    "bizno": "6090658790",
+    "name": "선도",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedRep": "한기수",
+    "matchedAddr": "경남 함안군 칠원읍 무기로 **",
+    "source": "bizno"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const router = window.useNuxtApp().$router;\n  const list = [\n    { bizno: \'6090653247\', name: \'청우정공\', rep: \'이상원\' },\n    { bizno: \'6090657239\', name: \'도경테크\', rep: \'하임숙\' },\n    { bizno: \'6090657409\', name: \'한웅정공\', rep: \'한기수\' },\n    { bizno: \'6090658771\', name: \'백봉제어기계\', rep: \'\' },\n    { bizno: \'6090658790\', name: \'선도\', rep: \'윤양호\' }\n  ];\n\n  async function search(keyword) {\n    await router.push(\'/ep/EP0100M001GE.nice?keyword=\' + encodeURIComponent(keyword));\n    // wait for render\n    for (let i = 0; i < 30; i++) {\n      const text = document.body.innerText;\n      if (text.includes(\'검색 결과가 있습니다\') || text.includes(\'검색결과가 없습니다\')) break;\n      await new Promise(r => setTimeout(r, 100));\n    }\n    const text = document.body.innerText;\n    if (text.includes(\'검색결과가 없습니다\')) return [];\n    \n    // extract items\n    const items = Array.from(document.querySelectorAll(\'.search-item-list .q-item, .search-item-list > div\')).filter(el => el.innerText && el.innerText.includes(\'산업명\'));\n    return items.map(el => {\n      const t = el.innerText;\n      const indMatch = t.match(/산업명\\s*([^\\n]+)/);\n      const repMatch = t.match(/대표자명\\s*([^\\n]+)/);\n      const addrMatch = t.match(/기업주소\\s*([^\\n]+)/);\n      const nameMatch = t.match(/^[^\\n]+\\n\\n([^\\n]+)/);\n      return {\n        raw: t,\n        name: nameMatch ? nameMatch[1].trim() : \'\',\n        industry: indMatch ? indMatch[1].trim() : \'\',\n        rep: repMatch ? repMatch[1].trim() : \'\',\n        addr: addrMatch ? addrMatch[1].trim() : \'\'\n      };\n    });\n  }\n\n  const results = [];\n  for (const item of list) {\n    let res = await search(item.bizno);\n    let match = res[0];\n    let source = \'bizno\';\n    \n    if (!match && item.name) {\n      // search by company name\n      res = await search(item.name);\n      source = \'name\';\n      if (res.length === 1) {\n        match = res[0];\n      } else if (res.length > 1) {\n        // match by rep or region\n        match = res.find(r => (item.rep && r.rep.includes(item.rep)) || r.addr.includes(\'경남\') || r.addr.includes(\'창원\') || r.addr.includes(\'김해\')) || res[0];\n      }\n    }\n\n    results.push({\n      bizno: item.bizno,\n      name: item.name,\n      found: !!match,\n      industry: match ? match.industry : \'\',\n      matchedRep: match ? match.rep : \'\',\n      matchedAddr: match ? match.addr : \'\',\n      source\n    });\n    await new Promise(r => setTimeout(r, 100));\n  }\n\n  return results;\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6090658790
+- Page Title: '6090658790' - 검색상세
+- Console: 1 errors, 0 warnings

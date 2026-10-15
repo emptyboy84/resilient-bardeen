@@ -1,0 +1,23 @@
+The search for ""온클레브" "부산"" returned the following summary:
+**주식회사 온클레브(ONCLEV)**는 인공지능(AI)과 블록체인 기술을 활용해 가상자산 범죄 및 금융 자금세탁을 추적·대응하는 대한민국의 딥테크·레그테크(RegTech) 스타트업입니다[1][2]. 
+
+주요 정보는 다음과 같습니다:
+
+* **본사 위치:** 부산광역시 남구 (전포대로 등)[3][4]
+* **대표자:** 이재원[5]
+* **주요 사업 및 솔루션:**
+  * **가상자산 추적 및 수사 솔루션 (`ArrestBC` 등):** 다크웹, SNS, 온체인(On-chain) 데이터 등 공개 신호(OSINT)를 수집·분석하여[6] 복잡한 가상자산 자금 흐름을 자동으로 추적하고 수사기관을 지원하는 포렌식 및 컴플라이언스 소프트웨어를 제공합니다[6][1][2].
+  * 일선 수사기관(경찰 등)과의 협력 및 자문 경험을 바탕으로 실사건 데이터 기반의 범죄 패턴 분석 기술을 고도화하고 있습니다[1][7].
+* **주요 성과:**
+  * 부산을 기반으로 성장하여 서울핀테크랩 입주, IBK창공 및 핀테크 이노베이션 스쿨 선정 등 유망 핀테크·스타트업 육성 프로그램에 참여했습니다[2][8].
+  * 벤처캐피털(VC) 및 임팩트 투자사 등으로부터 시드(Seed) 투자를 유치하며 기술력을 인정받고 있습니다[5][2].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxyHzIL9ipJRnOSR71kyzEelQngLdWOhZY0AQ7hGD2eNo8FpN003jcMJT6E_RmSPNNbDSo6q8TGihLJ5-V2Yn8_LrC3OAEQJER5dgq1Nh0Wv0BYJgtzgZrSYZnJtIPYAyKZJeGu7I143sLs755MQ39)
+[2] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmYVGCcJ9opSBYsEjNpEGxWhOhCxORc4T8QmIr5cGsCOAWUS8pc-v55ddTg4qnrT8Nxq9LsTG-qPo0VabcAmVBFI-8LDlkdFvnuqadR4I-C-GJ5krXxficgEmRHL1O_3LyiRZpOMhQdRIzf8wjc5gm--E=)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBar8DmQ8S6Wg3LrqDa-02nV4D9VG1z30FL2GTqXRIy5WMHJ4Lf1_xNOCwq4zeHj47oqz29PJRWBzGQZnUzGz2LnF5Na3aHTHvQvmncHAPq9qzI44uVooNZI_dnIDnV3UX1jkkYhIiA==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeSyHJTcDITfmIXuCOJvr-lilPn1_SGfCWAINUQjc9dmioS0J8GDwO0MfA3AzFOhCyaGaIqGT3swZEXSMsBxjtd1EQmmf2eCW0YnaXyFRYSkUG6OS-48kAAlWmgHcsrYACqAxUvkH6YZPWNwN6OoMPOqKzhVGVY6EAIGnVx53rsQqttTW9LXJjF-omdUkIPcbjz0qgA4_gJwDtPp9VCoJ5b5GQIYUU-oNrVpoeYaiaPvNqUsrweA24wXLKpFHeAXsqu_B2UUPvri8=)
+[5] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxYkPOXk4wTdrPQGCCm9T_arReRSNyLoQsSnI-YxnmjrdaDs91kk_5met-bhritm352yLVvpAW0dttmhYIeiYHmNR4gt9IY3uO50ce)
+[6] [onclev.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkSDFfw7R1VTs20rMdaUBfiX3_dItNaQvvi6ZoimxEMQyoGC1JUJTTeLLfJW854kc1R3FhDK83Z1Zq08o4BnqBLDARJD2dW80=)
+[7] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuuXAaCEWRmvaHfS8qrU2Tcq8rEU2aFwRdHJFPhKb5LrBha7nt7r6puuQW4Rou2nHk_4tpyEC-RLqAy-r5DAo0Ob0_FCqKIC-nrwCqg0wJtLKFvxXWMGz7Qw==)
+[8] [dailysecu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH40M5hP87bUCrHCvybF7NL_fehJCgVNVYB2_Jt10I2ZRofqm8IMkEjsDg82PsFtLiwmsiDOXOmzMLRccN31J4FfungPmFjytu93WIXHif0eLdB_FvPdwTxg1AufdfdkKzike0KtUyc6VykDFjXqI-Tkw==)

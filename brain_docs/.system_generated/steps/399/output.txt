@@ -1,0 +1,16 @@
+The search for ""비에스일렉트릭" ("전포대로 133" OR "문현금융로 40" OR "문현동")" returned the following summary:
+검색하신 키워드 **'비에스일렉트릭'**과 주소 정보(**'전포대로 133'**, **'문현금융로 40'**, **'문현동'**)는 부산광역시 남구 문현금융단지 내에 위치한 기업 및 건물과 연관되어 있습니다[1][2][3].
+
+* **비에스일렉트릭 주식회사**: 클린에너지 및 ESCO(에너지절약전문기업) 컨설팅, 신재생에너지 발전 자산 투자 등을 다루는 기업으로, 본사 주소가 **부산광역시 남구 전포대로 133 (문현동, 아이에프씨부산 / BI CITY)** 내에 위치해 있습니다[4][1][2][5].
+* **전포대로 133 / 문현동**: 문현금융단지 2단계 복합시설인 **IFC부산(BI CITY)** 건물의 도로명 주소입니다[2][5].
+* **문현금융로 40**: 부산문현금융단지의 랜드마크인 **부산국제금융센터(BIFC)**의 도로명 주소입니다[6][3]. (인근 또는 위워크(WeWork) BIFC점 등의 공유오피스 및 금융·비즈니스 인프라가 밀집해 있는 지역입니다[7][8].)
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSvfOq9WyC00W5IN52GTtjSGUlK5ESRDehi6VV7S4-Xx7bg4F29jkRa4-9R_qIDP-xHUFtkwMy4geHCaheqGULakJVD_I5H_-5lLCZY5yc1TM5bFnj8AfGNUo9jwR2IU5X3zB3Um9-L8FYk9O0c3w2Y8AKBxK9ZjxGXG5L2Wpyy7ia9hEBACyggKqjn0TE10rqURT1xRZjgcraRieS42v-w_psXzxpyBZxljYTPi0or7_jEKTYci3g1LbnSoOobvMtPexWpc82dHwUvwKBqVYXFPMX69tHrRKeQ8_3_Zs4_awf8S8G)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphQbN1hoDyASJ7DTWGqRtsufhvpMsjL7WKMKkUl_1PIj50b6V3vciqPz9e-VWHl9vbPLb8Y6Zw2UdJj-f1Ru6BUMHrNbtmJuvmniPQ-h87Zf-mw==)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoI2zGe3VbnL9HZ1dJ6CGu-M0XOu5J7eEHrN_shfT6LF5OaUomhS7GUdQPswMa3qx43AdfbAZ0A6F-7B9Fma0CXC_ItjAxO1BK1ybCxrq39JJ7whd90rz8510jVBMLgkCAT80MfFnhVmvSa3xbqN0kgDpQ4RS-yvvAPyFh5_BnU-rN09W8gyzWzNWv2X3zWdYj5w==)
+[4] [bselectric.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGknhXsH3g_z0kDLzMNo5mbWAPw6J1jzGDpHuG2XeMXfjwjiv-itDxYp0WhaJhclJ1ys_r8PYyRFU6XzXnr-xVGaZc7nT5VeX3SUXYwpkH9)
+[5] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrh0VxkWfJ4hRBvExXHLX5M4a_irNuoNRJQHo5IF--pc4lr3PJftYlW2D_hndWpJ-SLWz3W2tLgazdZOyNn5QYoyo23VWcUBHmjJVp9tarWWT-MkcmQjMx0T2k97xWHejb2WREdA8sh067_dfr5B8odV_jtQ9X9fsnotpOhMbCKomQiRPPqsTS1_8G_UZl4FnX-pqCnPkxyqXy4BBwrmWRtvvJQjnBMZzItJqnRbOUYapzShOF8-K0sV7Tu2ptw62c2KFWN7-hwXRzsPltYHXZy62589QJWSeIkCFxkPd7ToQU5ea9tjwLRLiTvv6m0ck93mQ0kz9ZYFzZeDFKjnds8z9PciQ=)
+[6] [busannavi.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXeDt_Q5a0AEBb3fgSJJQ4GGFuhCw8mnja672wvKkmSlTmzL4mDc80380X1T2U9P1-8OPa8hoXqQf0R77-tf849wTbGG3bCSQSncuKbEKWeTzCGfiEf0eP)
+[7] [finpc.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECt_AMMsCw4t2lVNWY3xCxQi9boOE0anqlQ7NC40KXDJdBrCrYuwKOoKb4eqwxY3isBIlwLzRvXC1zqStc52NA4toL8JptNx0xSrz6RwRehWnlXMjEqAoevtL_O3s=)
+[8] [wework.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTvZBHDfVrA4Oy9Mj8OWyLdHScrdi-s9ybi0vnAS_0M8FccxP41JbE2MtpEqmwQ2iFkIxD639mCXwbcw4v2Z7MIqZTscTtoOAjDRXoY_A7bn7sYdX2-4MJ5GU2UFfu3zhyvO8ijAla_Q==)

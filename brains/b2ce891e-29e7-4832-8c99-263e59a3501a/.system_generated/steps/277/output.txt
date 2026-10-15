@@ -1,0 +1,15 @@
+The search for "site:techcntlab.com "에이비엠랩"" returned the following summary:
+테크블로그 및 데모데이 프리뷰 매체인 `techcntlab.com`에 발행된 기사에 따르면, **에이비엠랩(ABMLab)**은 '대학생활 서포트 인공지능(AI)'을 키워드로 성장한 스타트업입니다[1]. 
+
+주요 내용과 사업 영역은 다음과 같습니다:
+
+* **핵심 서비스 (엔퍼센트):** 대학생 올인원 정보 제공 플랫폼인 **'엔퍼센트'**를 운영하고 있습니다[1]. 대학생들의 다양한 관심사, 구매 및 활동 데이터, 마이데이터 등을 기반으로 초개인화된 맞춤형 정보와 혜택을 AI로 정교하게 추천하는 서비스를 제공합니다[1].
+* **주요 사업 영역:** 
+  * 양질의 대학생 빅데이터 수집 및 가공 역량을 바탕으로 한 **데이터 사업화**[1]
+  * **SaaS**(서비스형 소프트웨어) 기반 기업용 AI 대시보드 개발[1]
+  * 웹사이트 및 애플리케이션 개발 등 **SI(시스템 통합) 사업**[1]
+
+에이비엠랩은 초개인화된 맞춤 서비스로 정보 소비자(학생)와 제공자(기업) 모두에게 실익을 제공하며, 다양한 비즈니스 영역으로 확장해 나가고 있는 주목받는 스타트업으로 소개되고 있습니다[1].
+
+Sources:
+[1] [techcntlab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJa2gOV0Z89E6Ow3iZt2omUbnbyNSdPJ6XLdfvUUUQTrRFN82ipmfg1gntoL5qm_kWvKvoM4P7asJHXviy4cDTHxwFviug65hi_nJoaA2x_ldVPYwdaEt0mG6xrX9UlKrhVdPCjkmnqKrXOpfacPfc_UATgoXLgtk3kFmSrfGgmKlMp0U9PERZjq79E5p49hEDYHB_zu0wtELEFHwWMfa5pLQot4S8SvCrY7teHSPT_z2wJYBb9Pdo2HhJWMJ7GK39wWaeJtuC-ifXKz5W-RyXMHjid_m8jz4abX9hOowj8c9EsgGooUcvnKVJTV8T8IoceyV2bn9LIOBKaXlKzbJ1podeWir6KI66yIXjjN4dZFaqA1o=)

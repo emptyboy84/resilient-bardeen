@@ -1,0 +1,233 @@
+Starting STRICT verification for 421 records...
+[1/421] Row 126 | "블루호텔레코딩스튜디오" | 대표: "김현" | 구: "금정구"
+  => UNVERIFIABLE / EMPTY
+[2/421] Row 504 | "89Light" | 대표: "" | 구: "동래구"
+  => UNVERIFIABLE / EMPTY
+[3/421] Row 508 | "LINC" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[4/421] Row 536 | "김정보" | 대표: "" | 구: "남구"
+  => UNVERIFIABLE / EMPTY
+[5/421] Row 537 | "꿈해몽" | 대표: "" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[6/421] Row 539 | "나래바람" | 대표: "" | 구: "남구"
+  => UNVERIFIABLE / EMPTY
+[7/421] Row 547 | "냉이영화" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[8/421] Row 552 | "녹생광고연합그린하우징" | 대표: "박명섭" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[9/421] Row 568 | "단디콤" | 대표: "" | 구: "동래구"
+  => UNVERIFIABLE / EMPTY
+[10/421] Row 589 | "도서출판국제" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 10/421 | Matched: 0 | Unverifiable: 10 <<<
+[11/421] Row 593 | "도서출판일광" | 대표: "" | 구: "기장군"
+  => UNVERIFIABLE / EMPTY
+[12/421] Row 598 | "도성회" | 대표: "" | 구: "북구"
+  => UNVERIFIABLE / EMPTY
+[13/421] Row 602 | "동그라미광고공사" | 대표: "정지후" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[14/421] Row 607 | "동아대학교출판부" | 대표: "한석정, 정갑두" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[15/421] Row 611 | "동화사" | 대표: "" | 구: "동구"
+  => UNVERIFIABLE / EMPTY
+[16/421] Row 619 | "드림유엔터테인먼트" | 대표: "" | 구: "부산진구"
+  => UNVERIFIABLE / EMPTY
+[17/421] Row 639 | "디자인에코" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 603-10-85753 () | 주소: "부산광역시 금정구 금정로 147, 4층(장전동)" | 대표: "이돈희" [계속사업자]
+[18/421] Row 645 | "디지털포토2017" | 대표: "" | 구: "기장군"
+  => UNVERIFIABLE / EMPTY
+[19/421] Row 649 | "라온엔터테인먼트" | 대표: "" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[20/421] Row 692 | "메리데브" | 대표: "" | 구: "동래구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 20/421 | Matched: 1 | Unverifiable: 19 <<<
+[21/421] Row 701 | "문화일보 수정중앙지국" | 대표: "" | 구: "동구"
+  => MATCH CONFIRMED: 605-01-99891 () | 주소: "부산광역시 동구 망양로 739 739, Mangyang-ro, Dong-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[22/421] Row 703 | "주식회사 브이드림" | 대표: "" | 구: "동구"
+  => MATCH CONFIRMED: 186-86-00972 () | 주소: "부산광역시 동구 중앙대로 216, 13층(초량동, 교원부산빌딩) 216, Jungang-daero, Dong-gu, Busan, Republic of Korea" | 대표: "김민지" [계속사업자]
+[23/421] Row 708 | "모션박스" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[24/421] Row 714 | "무몽크" | 대표: "" | 구: "금정구"
+  => UNVERIFIABLE / EMPTY
+[25/421] Row 725 | "박기양" | 대표: "최보필" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[26/421] Row 730 | "버킷리스트" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 673-23-01581 () | 주소: "전라북도 정읍시 서부산업도로 363(연지동)" | 대표: "김영선" [폐업자]
+[27/421] Row 745 | "불교문학신문" | 대표: "최경식" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[28/421] Row 749 | "북인더백" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[29/421] Row 750 | "불교방송" | 대표: "박형수" | 구: "동구"
+  => UNVERIFIABLE / EMPTY
+[30/421] Row 751 | "불교텔레비젼" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 30/421 | Matched: 4 | Unverifiable: 26 <<<
+[31/421] Row 757 | "브이알코리아" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[32/421] Row 764 | "블루레코딩" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[33/421] Row 768 | "비문" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[34/421] Row 787 | "사단법인한국문화콘텐츠협회" | 대표: "" | 구: "연제구"
+  => UNVERIFIABLE / EMPTY
+[35/421] Row 811 | "센텀아트" | 대표: "김경수" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[36/421] Row 817 | "소울필름(SOULFILM)" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[37/421] Row 831 | "스카이미디어" | 대표: "" | 구: "부산진구"
+  => UNVERIFIABLE / EMPTY
+[38/421] Row 848 | "시드" | 대표: "" | 구: "남구"
+  => UNVERIFIABLE / EMPTY
+[39/421] Row 874 | "아브뉴다연" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[40/421] Row 955 | "에프지엔터테인먼트" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 40/421 | Matched: 4 | Unverifiable: 36 <<<
+[41/421] Row 987 | "예일광고사" | 대표: "양종권" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[42/421] Row 1015 | "우수경" | 대표: "이석창" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[43/421] Row 1022 | "월간좋은세상" | 대표: "" | 구: "남구"
+  => UNVERIFIABLE / EMPTY
+[44/421] Row 1034 | "위컴퍼니" | 대표: "" | 구: "연제구"
+  => UNVERIFIABLE / EMPTY
+[45/421] Row 1035 | "위플라이엔터테인먼트" | 대표: "" | 구: "영도구"
+  => UNVERIFIABLE / EMPTY
+[46/421] Row 1047 | "윤서하" | 대표: "" | 구: "영도구"
+  => UNVERIFIABLE / EMPTY
+[47/421] Row 1048 | "희웹툰" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[48/421] Row 1051 | "이노커뮤니케이션즈" | 대표: "윤오동" | 구: "부산진구"
+  => UNVERIFIABLE / EMPTY
+[49/421] Row 1061 | "이송" | 대표: "이정석" | 구: ""
+  => MATCH CONFIRMED: 440-86-00648 () | 주소: "부산광역시 강서구 과학산단1로60번길 31(지사동, 부산테크노파크) 31, Gwahaksandan 1-ro 60beon-gil, Gangseo-gu, Busan, Republic of Korea" | 대표: "이정석" [폐업자]
+[50/421] Row 1062 | "이수연" | 대표: "최유창" | 구: ""
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 50/421 | Matched: 5 | Unverifiable: 45 <<<
+[51/421] Row 1070 | "이지현" | 대표: "곽재홍" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[52/421] Row 1071 | "이진수" | 대표: "이진수" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[53/421] Row 1091 | "작은통일출판사" | 대표: "" | 구: "강서구"
+  => UNVERIFIABLE / EMPTY
+[54/421] Row 1113 | "조나단/이은석" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[55/421] Row 1115 | "족보만드는곳족보관" | 대표: "" | 구: "중구"
+  => UNVERIFIABLE / EMPTY
+[56/421] Row 1136 | "지엠이에스티부산지점" | 대표: "이나현" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[57/421] Row 1146 | "창작집단1407" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[58/421] Row 1147 | "창작집단한" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[59/421] Row 1149 | "채널부산" | 대표: "박민규" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[60/421] Row 1158 | "체스테크" | 대표: "" | 구: "북구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 60/421 | Matched: 5 | Unverifiable: 55 <<<
+[61/421] Row 1162 | "촬영감독최원욱" | 대표: "최원욱" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[62/421] Row 1165 | "카다모임" | 대표: "이제은" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[63/421] Row 1166 | "카리시모" | 대표: "박소영" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[64/421] Row 1167 | "컬러풀미카" | 대표: "김다형" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[65/421] Row 1179 | "코리아헤럴드내외경제신문" | 대표: "김종욱" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[66/421] Row 1192 | "킴엔존슨" | 대표: "" | 구: "부산진구"
+  => UNVERIFIABLE / EMPTY
+[67/421] Row 1194 | "타원글로벌" | 대표: "" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[68/421] Row 1215 | "팀포테이토" | 대표: "김태영" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[69/421] Row 1226 | "퍼니아트" | 대표: "" | 구: "동구"
+  => UNVERIFIABLE / EMPTY
+[70/421] Row 1246 | "프로젝트원" | 대표: "강현철" | 구: ""
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 70/421 | Matched: 5 | Unverifiable: 65 <<<
+[71/421] Row 1251 | "플레이트리" | 대표: "" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[72/421] Row 1278 | "한국가이던스부산지사" | 대표: "" | 구: "금정구"
+  => UNVERIFIABLE / EMPTY
+[73/421] Row 1285 | "한국산업정보사" | 대표: "김삼절" | 구: "동래구"
+  => UNVERIFIABLE / EMPTY
+[74/421] Row 1296 | "한집" | 대표: "홍정훈" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[75/421] Row 1342 | "다인커뮤니케이션즈" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 602-02-99846 () | 주소: "부산광역시 중구 흑교로75번길 10, 2층 10, Heukgyo-ro 75beon-gil, Jung-gu, Busan, Republic of Korea" | 대표: "이진수" [폐업자]
+[76/421] Row 1367 | "리얼라이즈" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 617-28-83782 () | 주소: "부산광역시 수영구 감포로8번길 15" | 대표: "" [계속사업자]
+[77/421] Row 1418 | "쏘울픽처스" | 대표: "최웅식" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[78/421] Row 1468 | "재영애드콤" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[79/421] Row 1483 | "케세라세라" | 대표: "강민지" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[80/421] Row 1493 | "태림부산음악사" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 80/421 | Matched: 7 | Unverifiable: 73 <<<
+[81/421] Row 1517 | "페이크스튜디오" | 대표: "이제열" | 구: "강서구"
+  => UNVERIFIABLE / EMPTY
+[82/421] Row 1522 | "에스아이에이" | 대표: "신지선" | 구: "강서구"
+  => UNVERIFIABLE / EMPTY
+[83/421] Row 1542 | "산마루" | 대표: "이용진" | 구: "남구"
+  => UNVERIFIABLE / EMPTY
+[84/421] Row 1565 | "대한기획" | 대표: "김주환" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-08-83345 () | 주소: "부산광역시 부산진구 중앙대로 940-1 940-1, Jungang-daero, Busanjin-gu, Busan, Republic of Korea" | 대표: "김주환" [계속사업자]
+[85/421] Row 1567 | "클린스쿨" | 대표: "최보필" | 구: "부산진구"
+  => MATCH CONFIRMED: 279-88-01812 () | 주소: "부산광역시 사상구 모라로 22, 4층 416호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea" | 대표: "최보필" [계속사업자]
+[86/421] Row 1570 | "신우사" | 대표: "김갑수" | 구: ""
+  => MATCH CONFIRMED: 603-01-84752 () | 주소: "부산광역시 사하구 승학로151-2 (괴정동)" | 대표: "김갑수" [계속사업자]
+[87/421] Row 1571 | "명진공업사" | 대표: "이명성" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[88/421] Row 1573 | "디자인필" | 대표: "정민주" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[89/421] Row 1582 | "디앤아이솔루션" | 대표: "이경은" | 구: "사하구"
+  => UNVERIFIABLE / EMPTY
+[90/421] Row 1586 | "플레이그라운드" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 90/421 | Matched: 10 | Unverifiable: 80 <<<
+[91/421] Row 1589 | "에스씨제이" | 대표: "윤성원" | 구: "사하구"
+  => MATCH CONFIRMED: 607-81-83801 () | 주소: "부산광역시 연제구 법원남로16번길 21, 301호" | 대표: "윤성원" [폐업자]
+[92/421] Row 1601 | "성창산업" | 대표: "" | 구: "수영구"
+  => UNVERIFIABLE / EMPTY
+[93/421] Row 1603 | "케이멕스" | 대표: "정태석" | 구: "연제구"
+  => UNVERIFIABLE / EMPTY
+[94/421] Row 1604 | "고움" | 대표: "임서현" | 구: "연제구"
+  => UNVERIFIABLE / EMPTY
+[95/421] Row 1606 | "해승J&T" | 대표: "박해승" | 구: "연제구"
+  => MATCH CONFIRMED: 618-02-22245 () | 주소: "부산광역시 기장군 기장읍 대청로8번길 43 (기장읍)" | 대표: "박해승" [계속사업자]
+[96/421] Row 1611 | "시드게임즈" | 대표: "홍재영" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[97/421] Row 1625 | "에이치와이선라이즈" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[98/421] Row 1626 | "네오테크놀리지" | 대표: "공기정" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[99/421] Row 1627 | "삼주" | 대표: "백승용" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[100/421] Row 1629 | "나웅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 100/421 | Matched: 12 | Unverifiable: 88 <<<
+[101/421] Row 1630 | "한스이엔지" | 대표: "김종균" | 구: "해운대구"
+  => MATCH CONFIRMED: 603-81-24251 () | 주소: "부산광역시 강서구 녹산산단381로 29 (송정동, 햇님토이)" | 대표: "김" [계속사업자]
+[102/421] Row 1642 | "헤윰아이씨티" | 대표: "우석규" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[103/421] Row 1643 | "웅진씽크빅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[104/421] Row 1645 | "한솔교육" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[105/421] Row 1647 | "한국전화번호부부산센터" | 대표: "김용섭" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[106/421] Row 1664 | "팀브레드" | 대표: "강홍" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[107/421] Row 1674 | "북카페심심푸리" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 482-52-00083 () | 주소: "부산광역시 부산진구 중앙대로702번길 33" | 대표: "" [계속사업자]
+[108/421] Row 1676 | "모드니" | 대표: "" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[109/421] Row 1677 | "대박만화" | 대표: "" | 구: "사하구"
+  => UNVERIFIABLE / EMPTY
+[110/421] Row 1679 | "블루젯" | 대표: "" | 구: "수영구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 110/421 | Matched: 14 | Unverifiable: 96 <<<
+[111/421] Row 1680 | "봐라봐라만화" | 대표: "" | 구: "수영구"

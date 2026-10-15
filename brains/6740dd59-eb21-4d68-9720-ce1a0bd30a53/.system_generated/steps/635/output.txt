@@ -1,0 +1,13 @@
+The search for ""010-3227-1759" OR ("에이치앤제이" "부산" "캐릭터")" returned the following summary:
+검색 결과, 문의하신 전화번호 "010-3227-1759"와 직접적으로 연관된 정보는 확인되지 않았습니다 [1.2.1-1.2.9].
+
+또한, 부산 지역의 "에이치앤제이"라는 상호를 가진 업체는 여러 곳이 검색되나[1][2][3], "캐릭터" 사업과 명확하게 연결되는 특정 업체에 대한 정보는 찾기 어려웠습니다[4][5].
+
+더 정확한 정보를 확인하시려면 해당 업체의 공식 홈페이지나 관련 소셜 미디어 채널을 다시 한번 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7OLCerRh1iG7QSnptYpPFIsMRj_H5H2EmMACMJ_xAPA0zdNh_FQjLY7Zi32HZEwhZJIIagHiKHZ4f3jfenkch8oNq_ruihktit8SokflcjMGsD2OebQCupbZPpiDjeq4j9ng=)
+[2] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt4QMp9hHhvqZqn4hI2e1sngCYoRWHR2j3xB0OlDLEyTw8B4-1nTGNBHe1ONSWOPjyraqZLiD2z2PrRXg0yc07eHXSUgXw2lWh8irsDOmetO0G6fNTetjuenopgeSk6EtHuZV4usxjjjg=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp3WBzNWH3uw67uLvqQIJagMlRsGFbX9w2kQ8_Y53bDQsB5taNhFtX3HIqEV_A09gSR5XNKkeomXUCTvVNIPlb9uHzz07lhRP8yHvmYkscnVlSM1b-fls=)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOBsPNv2sLMwcn3HQUujpZsLxcnMkzpEuQTK2ZDSy2Fz05-hyEooAm-v9P4XkAgp7LJrU5WMBPb-_GiCokbLrYeabGx7decIlLlezdD_8g5gWHSUnxny-6Z9GWVsHrpCTQAhIV9DntvGL5rw7uskIQmdbzM3FI66ryDCjQnBdWlz_qHIM18Z8E2VN3fK4ON5j5mpjhQmVkmrIQzDL5IQ==)
+[5] [visitkorea.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzPhNauARNvfUTWHqG5dKud07w_P8a4JwIjz5Ka4nmlQeeRwB2nj7pX_upa9tPKkq4dCSeRePwe3IYvRoIVJPFNqC-fgQ8vB2twQhBNFVVkZq2qyapL15Ppd8sdKE5NcnL7cGqYSqq483nCVsm2OhDq_GEdcXonww_Ot2nlhEgERnjZXpNY65w5gq5d4dS_w==)

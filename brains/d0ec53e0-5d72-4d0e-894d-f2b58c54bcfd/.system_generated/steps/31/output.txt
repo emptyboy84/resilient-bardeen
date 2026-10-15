@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+Source                                                     
+------                                                     
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python.exe 
+C:\Users\lg\.local\bin\python3.11.exe                      
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python3.exe
+
+
+

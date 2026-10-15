@@ -1,0 +1,23 @@
+The search for ""룩스커뮤니케이션" "박학문" OR "부산"" returned the following summary:
+'룩스커뮤니케이션' 및 '박학문'과 관련된 주요 정보는 다음과 같습니다.
+
+### **박학문과 룩스커뮤니케이션**
+*   **박학문 대표:** 과거 **부산영화영상협회 회장**을 역임하였으며, 부산 지역의 영화·영상 산업 발전을 위해 활동한 인물입니다[1][2].
+*   **룩스커뮤니케이션:** 박학문이 대표로 있었던 기업으로, 주로 광고 제작 및 대행, 영상 관련 사업을 수행했습니다[3][4]. 2008~2009년경 부산 해운대구 센텀벤처타운 등에 사무실을 두고 활동했으나[3][5], 현재는 폐업 처리(폐업일 2014년 6월 30일)된 상태로 확인됩니다[6].
+
+### **관련 활동 및 배경**
+*   **부산영화영상협회:** 박학문 대표가 결성을 주도한 단체로, 영화와 영상을 중심으로 광고, 게임, 애니메이션 등 연관 업종을 아우르는 순수 기업 중심의 협회였습니다[1][7]. 
+*   **기타 사업:** 룩스커뮤니케이션은 과거 일산·분당선 전동차 출입문 조명광고 사업권을 획득하는 등 옥외광고 및 매체 대행 분야에서도 활동한 바 있습니다[8]. 
+
+참고로, 최근(2025년 4월) 부고 기사에서 '룩스커뮤니케이션 대표 연승진'이라는 이름이 언급된 사례가 있으나[9], 이는 박학문 대표가 운영했던 룩스커뮤니케이션과는 별개의 기업이거나 대표자가 변경된 것으로 보입니다.
+
+Sources:
+[1] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCmGX-8Hwllq8dAvjXz50TpvAEmXoy2KD4QfdBCxFrsSbAIpFDsewV8Fn8G5-sUNKYtPSdydLZ4-Hvmt94W2-dKGtsTJMsv1N9NSzqSekqixjghsHCRmr24ND0qsG-uOw8wSnoe7fElMKvC3uEF5ip0hfcmdY9x_6dZbXn-FCTf9MnsevetX9TrWHCRm7NbtFbE2c1nScH5I3DfuAMNg8XjXMmPmSSLcjAfLSvp0sqmu72yabOIx7-1_9Zg_MjXVkm)
+[2] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDXYFgAPFRNlpAaMEWf6ByW9qvKrCMyeDHLCgkBM5ycCsOG2_vW8JE6N97H93Jw3nRdl64TYakQdOsgc2X6FC701nxGApDaRbGmdkMXsKjUKYK6Qiphm7u5yEn53khvcNf8nHziOlbqAP6MlEr8ND39Mcp)
+[3] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKXIByZrnnF3brJq5w3uFvvsHLbpKlWymoIPHi0EnRi60N4C0ZU4yH8iHnUnjMkaGJp3TbgMbSJmyBAtv2m-4l2-jHJCL_9BroAbAKnW1u4D9Mja47xVWU7ffsragSzocVp3rYwHAfJ61DiGe-TdqF4r6bxw==)
+[4] [bulgungnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKXIByZrnnF3brJq5w3uFvvsHLbpKlWymoIPHi0EnRi60N4C0ZU4yH8iHnUnjMkaGJp3TbgMbSJmyBAtv2m-4l2-jHJCL_9BroAbAKnW1u4D9Mja47xVWU7ffsragSzocVp3rYwHAfJ61DiGe-TdqF4r6bxw==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw9GWUgwyhTFLOQkLM2E01tNRn9S2uZe9LxVbTWTg3YIe4SjvUasRd0puag-fqBZjU8q435Kgkt9mx-NdzEpMnNiQFFBVloAUHpLii1wWnnogfwfu8SGWAc3k=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw9GWUgwyhTFLOQkLM2E01tNRn9S2uZe9LxVbTWTg3YIe4SjvUasRd0puag-fqBZjU8q435Kgkt9mx-NdzEpMnNiQFFBVloAUHpLii1wWnnogfwfu8SGWAc3k=)
+[7] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCmGX-8Hwllq8dAvjXz50TpvAEmXoy2KD4QfdBCxFrsSbAIpFDsewV8Fn8G5-sUNKYtPSdydLZ4-Hvmt94W2-dKGtsTJMsv1N9NSzqSekqixjghsHCRmr24ND0qsG-uOw8wSnoe7fElMKvC3uEF5ip0hfcmdY9x_6dZbXn-FCTf9MnsevetX9TrWHCRm7NbtFbE2c1nScH5I3DfuAMNg8XjXMmPmSSLcjAfLSvp0sqmu72yabOIx7-1_9Zg_MjXVkm)
+[8] [sptoday.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCmeSIidwCFPQfFQH0vxfWTmG4RA8NpgySxyAGEfkl_MK5_plvhGrY72fivLtVDzCfgXG4cMel66lxokAMKeoY5RevUwhNQ8WO83NHv0pwePtwUolUpSCKXJGwL5f2dgZaWzQKlhnTsOOUDh02B54IMW29YvfQMg3VcXzlbGPbONWwqv3FqD-CD4fx7naznBmUBlXhiNk8iUxwAgpETS4Sv-h5i4o8hS3peeNsbnwKIVwa3KTfvvQDhSXuYb3x4CPiSE=)
+[9] [sjnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ1FEtAWsRWdDtWvlOe3L-n6zm6nwLA5h2u1Ik53fmzdWYFelvgHzYL57zqQ9P3WzaKMbVYWRLmMTHnDjZxtVtND22biJDEpWolrj-i2X8J0d3vgJxQ12p4s4WyT22Wst0K1p0Dhr6IUEUToxMcYR8)

@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+{
+  "biz_no_10": "2148795150",
+  "biz_no": "214-87-95150",
+  "title": "(�) �Ƽ�÷�ͷ�Ƽ�",
+  "ceo": "�¿�",
+  "est_year": 2006,
+  "est_month": 8,
+  "emp_cnt": 98,
+  "tel": "070-8275-2088",
+  "fax": "070-4009-7471",
+  "addr": "�⵵ � �д籸 Ȳ� 246 246, Hwangsaeul-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea",
+  "status": "�ӻ�",
+  "closed_date": ""
+}
+

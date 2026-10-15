@@ -1,0 +1,15 @@
+The search for "site:bizno.net "제노레이"" returned the following summary:
+제노레이우리사주조합에 대한 비즈노(Bizno) 검색 결과는 다음과 같습니다[1].
+
+*   **법인형태:** 소득세법 제1조 제3항에 해당하는 자로서 '(3)'이외의 자 및 다단계판매업자(아파트관리사무소 등)[1]
+*   **과세유형:** 고유번호가 부여된 단체[1]
+*   **사업자 상태:** 계속사업자[1]
+*   **대표자명:** 노구영[1]
+*   **사업자등록번호:** 738-80-00960[1]
+*   **회사주소:** 경기도 성남시 중원구 둔촌대로 560, 5층 512호 (상대원동, 벽산테크노피아)[1]
+
+※ 비즈노의 정보는 공공기관의 자료를 수집하여 제공하는 것으로, 실제 정보와 다를 수 있으니 단순 참고용으로 활용하시기 바랍니다[2].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWHXkZO10fIDYNNPIhB6wVCYNh6T8_J1KNbR8P3HWALo06jVALOPfzJQhW73GzdfGv76hhd7WWtUBoofy2V1Rz6_zkqtPVFtsQpOkE0WQgqNMm7LDHUmuu7w=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWHXkZO10fIDYNNPIhB6wVCYNh6T8_J1KNbR8P3HWALo06jVALOPfzJQhW73GzdfGv76hhd7WWtUBoofy2V1Rz6_zkqtPVFtsQpOkE0WQgqNMm7LDHUmuu7w=)

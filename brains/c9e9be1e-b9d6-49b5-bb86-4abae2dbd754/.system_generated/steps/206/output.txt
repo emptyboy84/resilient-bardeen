@@ -1,0 +1,12 @@
+The search for ""정관읍 산단4로 63" 우편번호 OR "주촌면 서부로1499번길 11" 우편번호 OR "화전산단5로84번길 22" 우편번호 OR "물금읍 야리3길 22" 우편번호" returned the following summary:
+문의하신 주소들의 우편번호는 다음과 같습니다.
+
+*   **정관읍 산단4로 63:** 부산광역시 기장군 정관읍 산단4로 63의 우편번호는 **46029**입니다.
+*   **주촌면 서부로1499번길 11:** 경상남도 김해시 주촌면 서부로1499번길 11의 우편번호는 **50970**입니다.
+*   **화전산단5로84번길 22:** 부산광역시 강서구 화전산단5로84번길 22의 우편번호는 **46738**입니다[1][2].
+*   **물금읍 야리3길 22:** 경상남도 양산시 물금읍 야리3길 22의 우편번호는 **50652**입니다[3].
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFEsMFlE55auWjc5rCjg5pyMsggDdq_ta2b6pXFNtHKSQaAjcslAfv0RhGFt-Fa-XATgcbA7jjyRMiHGZIDk86Hh6VJHkwvo8YZX_ZdnQoZOl0WpaN4zjOiM2qjgYO6twDhWCkDEtCyyTFt5u1zWhNUSx2PvD3oL-JqyyARw9swwDxky57FJGSM3hdQrYKv0BShGhwJT6K7NoyJwzR4NZE4b-AqUvFeEPII1Q4F5uVCHDLH0YzCkMeRjev_cY=)
+[2] [addresskorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpnnxb8R3yqvyIjUNUHK5yBvulR_TC09D3yW3kD-T92uPnNlbNswVAQ5DQIMvRTrABiKEpNnPoLrPx-MgvO7kG-yqWyfEkyynj3Mo2CcUQsX7EGzUQ6U6oN8nIebKS2gn89_ayMEVMvUFQW7yzmcHWMz8n_1oDp15YvCRwdY0PUXSkkVcVBps4rVNEQHDjfzn92Or-4ujr2sH6_mpxoVw4iWuiyJmCfzRfy2RQLK_vKt-ZyCePOquz9ih_Cgvnc82ZPmPrpwapP4t8)
+[3] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQseTcQoz6TWIoSYLxB_7X88C7XaYwM5bHGh2i-Pcz8vier__Bq2GuFtc3a2Euqba8vqTI_vrYMZ9eO9EhRZbl9sPmBRj7e4Zq_5vFgYwu4hirOIIBhgWLfyXi7_hJaoWvzYoLZKXEL3asWrMUp33kjpk=)

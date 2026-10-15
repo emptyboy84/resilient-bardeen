@@ -1,0 +1,6 @@
+### Result
+"Clicked 앱 지원"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const btn = Array.from(document.querySelectorAll(\'div, button, span\')).find(el => el.innerText && el.innerText.trim() === \'앱 지원\');\n  if (btn) {\n    btn.click();\n    return \'Clicked 앱 지원\';\n  }\n  return \'앱 지원 not found\';\n}');
+```

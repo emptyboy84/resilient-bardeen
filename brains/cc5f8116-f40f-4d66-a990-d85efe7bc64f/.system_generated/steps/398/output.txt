@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Row 2260: {'row': 2260, 'name': '�ν�', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+Row 2246: {'row': 2246, 'name': '�̶�Ŭ�', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+Row 2252: {'row': 2252, 'name': '�ũ', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+Row 2263: {'row': 2263, 'name': '�ο췦', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+Row 504: {'row': 504, 'name': '89Light', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+Row 539: {'row': 539, 'name': '�ٶ�', 'status': 'unmatched_bizno', 'score': 0, 'promising_checked': 0}
+

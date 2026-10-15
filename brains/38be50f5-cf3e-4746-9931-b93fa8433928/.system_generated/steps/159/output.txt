@@ -1,0 +1,13 @@
+The search for "site:bizno.net "김의준"" returned the following summary:
+site:bizno.net "김의준"에 대한 검색 결과는 다음과 같습니다.
+
+*   **엘플러스조경기술사사무소**: 대표자 김의준, 경상남도 창원시 성산구 소재, 도시계획 및 조경설계 서비스업[1]
+*   **주식회사 해솔**: 대표자 김의준, 경기도 용인시 기흥구 소재[2]
+*   **(주)영동콘크리트산업(지점)**: 대표자 김의준, 강원도 고성군 토성면 소재[3]
+*   **상주정화사**: 대표자 김의준, 경상북도 상주시 소재, 분뇨 처리업[4]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrzDZDrCWBz1zWBI8WwnesJ2owtxQP9VHBTgaHGbpjUMQsmcdVgJp0VxJfIaQJLJtW9zGoIAco68yEgV5ZH26XpG-0jyMuhbXz-DA4DasNHpbw13VfK9gduVU=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHphaZBrvHjG_wlhgWyerk0VGnJ4CcHL_y_mlkH8eMJNJImYTGXcaaRMuwBxl9s_imdpSkO7GJF_Y4G7BQ8nx_N8cq-Pti9e3slfuT6ZSNh7mIDzvbdHqvsPTw2Lctm)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPjSCPDdRj4xHmL0Apr017X9aG_QF2dFSpfhbSj3P2b_wCRkqexkLRQfngrMceHxCKkIqvQKhMB-ZhkRvQFFb0ReHvzM8ZRe162AyCzgOCGj9_YzzVQixhJqQ=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xRwveRDErYbQjg4Ut23ETdkFjhuuJSZX1Ch175lv27WJgovTPqs7d1md8Fh7_p5lbAyl47PpuRqMh49RtvYscTs13Yl6EAdH5r_WSpVffnzWvZcT0UcRLis=)

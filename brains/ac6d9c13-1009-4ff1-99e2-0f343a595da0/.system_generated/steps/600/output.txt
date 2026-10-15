@@ -1,0 +1,81 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/cm/CM0100M001GE.nice
+- Page Title: 기업정보 조회·신용분석보고서 - 나이스비즈인포 | NICE평가정보
+### Snapshot
+```yaml
+- generic [ref=f1e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=f1e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=f1e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=f1e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=f1e6]:
+    - banner [ref=f1e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=f1e8]
+      - generic [ref=f1e9]:
+        - generic [ref=f1e10]:
+          - heading "나이스 비즈인포" [level=1] [ref=f1e11]
+          - list [ref=f1e14]
+        - navigation [ref=f1e26]:
+          - heading "주요 네비게이션" [level=2] [ref=f1e27]
+          - list [ref=f1e28]
+    - generic [ref=f1e45]:
+      - generic [ref=f1e46]:
+        - paragraph [ref=f1e48]: 사업자의 재무 및 신용 정보를 확인해 보세요.
+        - generic [ref=f1e49]:
+          - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=f1e50]
+          - generic [ref=f1e51]
+      - generic [ref=f1e65]:
+        - heading "NICE 평가정보가 엄선한 B2B 솔루션을 만나보세요" [level=2] [ref=f1e66]
+        - generic [ref=f1e67]:
+          - button "이전 슬라이드" [ref=f1e68] [cursor=pointer]
+          - list [ref=f1e71]
+          - button "다음 슬라이드" [ref=f1e403] [cursor=pointer]
+      - generic [ref=f1e405]:
+        - generic [ref=f1e406]:
+          - heading "슬라이드 컨텐츠" [level=2] [ref=f1e407]
+          - tabpanel [ref=f1e652]
+          - generic [ref=f1e414]
+        - generic [ref=f1e434]:
+          - heading "순위 컨텐츠" [level=2] [ref=f1e435]
+          - generic [ref=f1e437]
+      - generic [ref=f1e475]:
+        - heading "보고서 상품을 확인하세요" [level=2] [ref=f1e476]
+        - generic [ref=f1e477]:
+          - generic [ref=f1e478]
+          - generic [ref=f1e488]
+          - generic [ref=f1e498]
+          - generic [ref=f1e506]
+          - generic [ref=f1e516]
+      - generic [ref=f1e526]:
+        - generic [ref=f1e528]:
+          - tablist "Tabs Navigation" [ref=f1e529]
+          - paragraph [ref=f1e533]: 2026-10-13
+          - tabpanel "종합"
+        - generic [ref=f1e534]:
+          - heading "'종합 ' 탭 컨텐츠 시작" [level=4] [ref=f1e535]
+          - list [ref=f1e537]
+      - generic [ref=f1e578]:
+        - heading "국내 1위의 금융인프라 기업 NICE" [level=2] [ref=f1e579]
+        - generic [ref=f1e580]:
+          - generic [ref=f1e581]
+          - generic [ref=f1e588]
+          - generic [ref=f1e595]
+          - generic [ref=f1e602]
+    - button "KakaoChannel" [ref=f1e609] [cursor=pointer]
+    - button "FAQ" [ref=f1e612] [cursor=pointer]
+    - contentinfo [ref=f1e615]:
+      - generic [ref=f1e616]:
+        - heading "NICE BizINFO" [level=2] [ref=f1e617]
+        - generic [ref=f1e618]:
+          - generic [ref=f1e619]
+          - link "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=f1e649] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+        - paragraph [ref=f1e651]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

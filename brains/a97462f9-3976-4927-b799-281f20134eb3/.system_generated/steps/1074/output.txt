@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Total blue targets: 418
+With sales in orig: 17
+Missing sales in orig: 401
+- Among missing sales, with valid biz number: 287
+- Among missing sales, WITHOUT valid biz number: 114
+Saved to scratch/blue_missing_sales_targets.json
+

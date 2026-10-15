@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Saved 34 master curated updates to scratch/master_curated_updates.json
+

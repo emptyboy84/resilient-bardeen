@@ -1,0 +1,20 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 701 lines>
+대구"
+  => MATCH CONFIRMED: 647-07-02320 (오케이스크린골프) | 주소: "부산광역시 해운대구 좌동로 88 (좌동, 울트라타워) 14층 88, Jwadong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[335/421] Row 2175 | "중앙일보 동래，명륜센터" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[336/421] Row 2176 | "동아서적" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 606-99-77903 (동아서적) | 주소: "부산광역시 남구 용소로 4" | 대표: "" [계속사업자]
+[337/421] Row 2177 | "범죄예방신문부산울산취재본부" | 대표: "강병기" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[338/421] Row 2178 | "부산시대광고대행" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[339/421] Row 2179 | "더천유" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[340/421] Row 2180 | "인터그라픽스커뮤니케이션" | 대표: "심상도" | 구: ""
+
+Last progress: 0s ago

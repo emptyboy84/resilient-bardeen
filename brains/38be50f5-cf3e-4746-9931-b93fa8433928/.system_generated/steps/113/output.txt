@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+commit 79e26040db20f02e527abc753faacd36648d3abe
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 21 11:58:32 2026 +0900
+
+    docs: update agent guidelines in AGENTS.md
+
+ AGENTS.md                                          |   1 +
+ ...\200\354\235\264\353\223\234_110111-8382593.md" |  81 +++++++++++++++++++++
+ ...200\354\235\264\353\223\234_110111-8382593.pdf" | Bin 0 -> 169882 bytes
+ 3 files changed, 82 insertions(+)
+

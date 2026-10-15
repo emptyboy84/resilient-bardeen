@@ -1,0 +1,13 @@
+The search for ""세컨드툴" (스마트스토어 OR 쿠팡 OR 통신판매 OR 쇼핑몰 OR 대표)" returned the following summary:
+검색 결과 "세컨드툴"이라는 명칭으로 스마트스토어, 쿠팡, 통신판매업 등 쇼핑몰을 운영하거나 해당 명칭의 대표자와 관련된 정보는 확인되지 않습니다.
+
+검색된 결과 중 "세컨드 툴"이라는 용어는 다음과 같은 맥락에서 사용되고 있습니다:
+
+*   **음악 제작 소프트웨어(Logic Pro X):** 로직 프로 X의 기능 중 하나로 언급되는 단축키 명령어 [1.1].
+*   **산업 장비(공작기계):** NTX 1000과 같은 기계에서 '세컨드 툴 체인지 타임(Second Tool Change Time)'이라는 용어로 공구 교체 시간을 의미하는 기술적 맥락[1][2].
+
+찾으시는 특정 쇼핑몰이나 기업 정보가 맞는지 다시 한번 확인해 주시기 바랍니다.
+
+Sources:
+[1] [motioncontrol.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tMrQqFLheC9_Gypo7zr-ALvUahx8f05BPBDmxHD9TO9hw01z-reeoW49RmqTruABNRVa0z9hBjsIcoo91s0NlfVRDVn12-vwfgbqt1xhP9yLaAn-B1xmM7S0ijMYYZ5WsWS_9Vk4v9m1P3_9lIbngZGgpNQNpJQ060WbyV4rEjK7RYXPUAGhlmsT4PhoF-ZKj9sQkc-9Ztiy54Tnhyd1FPmvT9F2Ozq6KsS58nbO0SzdNxHix7gWBUnGS0pminIuwqI=)
+[2] [motioncontrol.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tMrQqFLheC9_Gypo7zr-ALvUahx8f05BPBDmxHD9TO9hw01z-reeoW49RmqTruABNRVa0z9hBjsIcoo91s0NlfVRDVn12-vwfgbqt1xhP9yLaAn-B1xmM7S0ijMYYZ5WsWS_9Vk4v9m1P3_9lIbngZGgpNQNpJQ060WbyV4rEjK7RYXPUAGhlmsT4PhoF-ZKj9sQkc-9Ztiy54Tnhyd1FPmvT9F2Ozq6KsS58nbO0SzdNxHix7gWBUnGS0pminIuwqI=)

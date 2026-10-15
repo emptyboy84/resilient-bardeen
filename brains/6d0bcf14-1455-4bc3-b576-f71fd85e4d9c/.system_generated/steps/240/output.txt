@@ -1,0 +1,17 @@
+The search for ""104-10-06310" OR ("시럽" "김현수" "선혜빌딩") 전화 OR TEL" returned the following summary:
+검색하신 조건에 정확히 부합하는 통합 정보(사업자번호, 대표자명, 건물명 등)가 매칭되는 단일 기관이나 기업 정보는 확인되지 않습니다. 
+
+다만 키워드 중 일부인 **'선혜빌딩'** 주소지를 이용 중인 대표적인 단체 또는 관련 정보는 아래와 같습니다.
+
+* **서울시 중구 을지로30길 24 선혜빌딩 5층**
+  * 단체명: 따로또가치 (신중부시장협동조합)[1]
+  * 연락처: **02-2272-0022**[1]
+* **경상북도 포항시 북구 대신로 1-1 선혜빌딩 2층**
+  * 관련 사무소: 한울법무사사무소 등[2]
+  * 연락처: **054-231-1515**[2]
+
+만약 특정 기업의 사업자등록번호(`104-10------`)나 성함(`김현수`), 건물명을 통한 상세 전화번호 조회를 원하실 경우, 찾고자 하시는 정확한 상호명이나 업종을 함께 기재해 주시면 보다 자세한 확인이 가능합니다.
+
+Sources:
+[1] [junggu.seoul.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwE5lRjvh8aIQTcwBW5ZrsltgUzje-sBflClNEd8KDP1TXncG42Bs-lvp-xt3FRCHO4T9wpinJ5O3_MS0V8LsJNBHrkv15iQRZnU_T8_7krAw8vcTMA3mZmCY-FZD8W8Dli0LmEL2_eohOKX6Z11XiOPfxlwNbFoN6BWGtXoCbGIaPpkygLOIKTADq-z4vzPAVYW8hEs=)
+[2] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKZhBRtM5Gt91zNSkCyKp0STJC9WiV9qPsFL1dQtQKxSBUUlhV6vb3dYKuGGx6aFsqwdO7DhD5b8xBafSY-0XsCLL5FM-g1NQ6EzqJHitzkVEtMQQ_iXqAzaeyBPdSX_TfhzGV8Ssuo03sdtprso39xGVgMTINthxbudwcSxTr6dYp8sIv3QUVs36Yk4J_1VoUOFHFPn10mReg-nQQnuGIiV4W6PTO6zQFuEB1zesm9_opF95dTzIO5BDxj1blgRH5JQOyqcgjW-MAF9uX9AU52A8Y9PYNp8k79i-Mig==)

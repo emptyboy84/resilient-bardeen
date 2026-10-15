@@ -1,0 +1,11 @@
+Cell 10 (homepage): http://www.mmhub.kr {
+  font: { charset: 129, family: 3, scheme: 'minor', size: 10, name: '맑은 고딕' },
+  border: {
+    left: { style: 'thin', color: [Object] },
+    right: { style: 'thin', color: [Object] },
+    top: { style: 'thin', color: [Object] },
+    bottom: { style: 'thin', color: [Object] }
+  },
+  fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } },
+  alignment: { horizontal: 'left', vertical: 'middle' }
+}

@@ -1,0 +1,12 @@
+The search for ""7758601219" OR ("HSG중공업" "태건")" returned the following summary:
+**(주)태건**에 대한 정보는 다음과 같습니다[1][2].
+
+*   **사업자등록번호**: 775-86-01219[1][2]
+*   **대표자**: 임상규[2]
+*   **설립일**: 2019년 4월 11일[2]
+*   **업종**: 선박 구성 부분품 제조업[1][2]
+*   **주소**: 경상남도 사천시 사남면 해안산업로 401 (HSG중공업 사천공장 내)[2]
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJOaozMxwy7_bs-wcZaMMjo0NT-Gi7uoWCl5dgAOXT6bo-XFc6b-AfxBBnR-upNHNRihkAMvJjWqWYAiqelsmFj1kkIo92dXcNmihZhnFP8M-vNXM=)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJOaozMxwy7_bs-wcZaMMjo0NT-Gi7uoWCl5dgAOXT6bo-XFc6b-AfxBBnR-upNHNRihkAMvJjWqWYAiqelsmFj1kkIo92dXcNmihZhnFP8M-vNXM=)

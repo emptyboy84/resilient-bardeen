@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Failed count: 1
+Failed item: 7780500791 센스케이 글로벌(Sense-k Global) HTTP 404
+

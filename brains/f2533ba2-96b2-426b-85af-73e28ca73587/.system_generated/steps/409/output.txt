@@ -1,0 +1,43 @@
+
+The command exited with code 1.
+Output:
+�ġ �:4 �:31
++ for ( = .Count - 1;  -ge 0; --) {
++                               ~
+� � '--' �ڿ� � �ϴ�.
+�ġ �:7 �:138
++ ... ba2-96b2-426b-85af-73e28ca73587\scratch\last_user_input.txt', .conten ...
++                                                                  ~
+',' �ڿ� � �ϴ�.
+�ġ �:7 �:139
++ ... 426b-85af-73e28ca73587\scratch\last_user_input.txt', .content, [Syste ...
++                                                          ~~~~~~~~
+� �Ǵ� � �ġ � '.content' �ū�Դϴ�.
+�ġ �:7 �:147
++ ... 26b-85af-73e28ca73587\scratch\last_user_input.txt', .content, [System ...
++                                                                 ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:6 �:33
++     if (.type -eq 'USER_INPUT') {
++                                 ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:4 �:33
++ for ( = .Count - 1;  -ge 0; --) {
++                                 ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:7 �:177
++ ... scratch\last_user_input.txt', .content, [System.Text.Encoding]::UTF8)
++                                                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:5
++     }
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:11 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterOperator
+ 
+

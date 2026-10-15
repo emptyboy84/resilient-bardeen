@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+ 중앙대로 805',
+  '051-819-0173',
+  <1 empty item>,
+  'https://sehunghospital.co.kr/',
+  <4 empty items>,
+  233,
+  <2 empty items>,
+  '병원',
+  <5 empty items>,
+  '6059007342',
+  <23 empty items>,
+  '보건업 및 사회복지 서비스업',
+  '보건업',
+  '병원',
+  <2 empty items>,
+  '이지현',
+  '총무부',
+  '사원',
+  '051-819-0173',
+  'dlwlgus1764@gmail.com'
+]
+Row 6301: [
+  <1 empty item>,
+  '차민영(7.20~)',
+  <1 empty item>,
+  '글로벌미래인재연구소',
+  2178139873,
+  '이지현',
+  <2 empty items>,
+  '02-948-8600',
+  <6 empty items>,
+  '1-9인',
+  <2 empty items>,
+  '만화',
+  <5 empty items>,
+  '2178139873'
+]
+Row 6864: [
+  <1 empty item>,  '김유진(7.20~)',
+  <1 empty item>,  '유창한녀석들',
+  2238601488,      '최유창',
+  <2 empty items>, '051-714-6488',
+  <9 empty items>, '광고',
+  <5 empty items>, '2238601488'
+]
+
+

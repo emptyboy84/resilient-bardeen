@@ -1,0 +1,15 @@
+The search for ""잭월드" OR "051-912-8692" OR "0519128692"" returned the following summary:
+검색하신 키워드와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **"잭월드"**: 여행업 등을 영위하는 중소기업으로 확인됩니다[1][2]. 서울특별시 영등포구에 본사를 두고 있으며[3], 기업 정보 사이트(사람인, 잡코리아 등)를 통해 기업 개요 및 채용 정보를 확인할 수 있습니다[1][4][2]. 이 외에도 '잭 월드피노'와 같은 어린이 직업 체험 관련 콘텐츠[5]나 의류 제품명[6], 과거 크라우드 펀딩 프로젝트명[7] 등으로도 언급됩니다.
+*   **"051-912-8692" / "0519128692"**: 해당 전화번호에 대한 특정 업체나 개인의 정보는 검색 결과에서 명확하게 식별되지 않습니다. 전화번호 검색 사이트 등에서 번호 대역으로 나열되는 정보는 확인되나[8], 특정 대상과 연결된 직접적인 정보는 확인되지 않습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwX7ukffhXjAQGoy8R8eYMRnidDGiuxaOy5nwd4x2OTFbR1ssOFWv_6MNkTJKynMGEImMyqBU6nmgAhM3rHrzXwISp-RwS6-M6_i7GshU66isZUB9_Nm5l5cXiRwHF007ptNq6p5tqta6eLfGrg92Nh3-GvZJyj82wgCA9shaiIaDhQ9DjyL_BpUtrKpMSY3-iTNw-VrgaApk4fajpQK6kkLyTcDrE1QrU3FN8yCd-7xUkoMrNxVFOo0vmXDY5PqhW)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6DqlUOuRH9L2gtuJrfSBFNVO5QX1Rpe1dXqCZgqWnlwU4qK6DK36iNrUCUvnPLXZUrCPtrjrb-2EjAu9ykzcgbYFBEFcAch83a6HReYa3BRs4Bu29iaEcBX5Cde2Sx7c_32WBdC_Kk47R6G_e1kkkG39cxmR0XVGlIQpzAUpJ-Cn8h0tnHNDBxzFgxlM6KR4NOWjregNXMGOJfm4-1i5WVOxbrDngRSqxNUye37XHvCx_0lRk)
+[3] [kata.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXjh2OLREQ06umQ0idIERS8gs6m2rrY2W_BfO2duHdugE38qp_UyKe27slA3xHAOwpwQ9sH_6ukRiIXgFe9T-unPQTn-s5fVZJuoHfSCUYF4CMnczyYrivhg6Fnbr0_FEEsg3vphyxlzfclKOW6WkXbx8UDQaLJbkhn-5cM8GM2A==)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk_Tg9Au-AItnyD87CqKZF3DKUn8u2xVW_tvLxWTSOq52ezphaiYjdFTXxwtkWyyq7Ng9VJK4N9e0GhqjYBand4dh3UzC76-6afVZwT5RoF6Htb6j3cEP7ojbobih68aeXB_uFc9LU)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp_u26XTrSKqTbO1j1yfl2JDNKyYkVRWMJSc_GHjuFHBNkU22V-J_iihE6wj8fGv-0J6ODzbeG0vE3t1P_JKv5QUSXk5nlBl3QsPzH1GuviEZlEIbMs8GOi_RixlVdfhk=)
+[6] [mustit.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0jKtVfuyPk1wwKa_m38TIeZoC8FZR1traJlojbojliskuEKpQJRlsFpB6r1I2x4pCaHC9XUxko05KDWZWSOPBuDuPbHlrZcGYffo37IUqdFYFUSaplHh3REO0QKTH5qHSu63QJrIx4GfPPgYO6ZEQEZQiao6IR0qCkgeHBEhep0jAjb8xeMRiWNXvGoBjBGr4n5PPdiPrjrc7jrRIgOJH7WzvPxk3gjADw21muEVkyDurqtL943Y=)
+[7] [tumblbug.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfFftuDh6Gc3aypAUPeGYkGA-uA7wg_Q6-v_rld18dLgtAMPwevYLsdBiZWt0fjPCTtR-NcRYbkxSbDxeTy3vaC8nZOdkGTmYrNucYcAodY7ouery946SJeiWk)
+[8] [telefonforsaljare.nu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqRATEcECS-JYkGKRgVsqBWUvGMiMYqhHc3iVHONRPo8N9FdHBcp5Jqu2_727Mhmgm2D8EgCFlBDLPDNiGa7Rvi-Aq_8VX__4s7S89PoozKVUu1zsWG3opxUGNfsCU9SLAZQet_MyL3GL4yJklMg==)

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Search status: 200
+CSN matches in search: [ '/company-info/view?csn=dnoyVWdiNjBlM2djSzJpRFRIRGt3QT09' ]
+

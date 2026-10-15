@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Target 318 rows that have sales data:
+Row  692 | 메리데브                      | Q(24년): 0 | R(25년): None | P(종사자): 0
+Row 1517 | 페이크스튜디오                   | Q(24년): 0 | R(25년): None | P(종사자): 1
+Row 1837 | 엠엔에이윅스                    | Q(24년):   | R(25년): None | P(종사자):  
+Row 2083 | 하드롤게임즈                    | Q(24년): 0 | R(25년): None | P(종사자): 0
+

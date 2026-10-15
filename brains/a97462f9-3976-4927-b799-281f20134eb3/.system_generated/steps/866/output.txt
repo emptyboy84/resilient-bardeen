@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Row 254 [신예락] Col 16: [-]
+Row 692 [메리데브] Col 16: [-]
+Row 916 [액트온게임] Col 16: [-]
+Row 1517 [페이크스튜디오] Col 16: [-]
+Row 1519 [타이니넵] Col 16: [-]
+Row 1585 [도약민] Col 16: [-]
+Row 1656 [투디픽스] Col 16: [-]
+Row 1657 [프로토팩토리] Col 16: [-]
+Row 1661 [오드볼게임즈] Col 16: [-]
+Row 1834 [트윈채리엇] Col 16: [-]
+Row 1935 [데이터스피라] Col 16: [-]
+Row 2083 [하드롤(HARDROLL)] Col 16: [-]
+

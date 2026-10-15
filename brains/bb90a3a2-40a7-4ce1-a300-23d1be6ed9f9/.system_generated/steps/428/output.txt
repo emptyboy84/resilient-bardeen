@@ -1,0 +1,14 @@
+The search for "site:incruit.com "저스티스어드벤처"" returned the following summary:
+인크루트 사이트에 등록된 **(주)저스티스어드벤처** 기업 정보 요약은 다음과 같습니다[1].
+
+* **기업 형태:** 중소기업 (응용 소프트웨어 개발 및 공급업)[1][2]
+* **주요 사업:** 벤처산업 (벤처기업 발굴, 운영 및 투자 등)[1]
+* **사원수:** 약 8명[1]
+* **매출액:** 약 22억 원대[1]
+* **업력:** 10년 이상[1]
+
+인크루트 홈페이지에서는 해당 기업의 상세한 채용 공고, 연봉 정보, 복리후생 및 기업 형태 등의 최신 정보를 확인하실 수 있습니다[1].
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoMg_T0MGR1urgN0yXx9_KARfHmldNJQeRru4Jk9vOIUtLJU68gJnurY9jhC1ZvdRZ1TQ0FS0yLB0LY74efz6SPhp5jZ3FIrEaBy2QC-Ynm9PVMZld4dKdmw3s3hGHc8pE)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGCbYSE6edR1daEt1quS0640usMrR8HCdL5J5T9UFaCvh7f_OxYHhpmbkvyt_K0TMmtAO_2EbcT17iIYPzHocd4nj-vTjnwipp5mkPvZxZojfTapJBTECB6eQx62zc9TVjLNoKU6jI-1bYq9EJ-AXgpOEtSb0DKR9Y85vJ9XCxAQr6IvSqQss1lkkyKvqEClD9lD7gEauWGA0o9IpKjanRyW1kDMRNCIK6XS9T)

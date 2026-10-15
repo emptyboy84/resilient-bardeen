@@ -1,0 +1,16 @@
+The search for ""우수경" "이석창" 만화 OR 웹툰" returned the following summary:
+문의하신 '우수경' 작가와 '이석창' 작가의 공동 작품이나 관련 웹툰/만화에 대해 확인한 결과는 다음과 같습니다.
+
+*   **우수경 작가:** 웹툰 **<디어 마이 유니버스>**의 작가로 잘 알려져 있습니다[1][2]. 이 작품은 네이버 시리즈 등에서 연재된 바 있는 BL 장르의 웹툰입니다[1].
+*   **이석창 작가(또는 인물):** 검색 결과, '이석창'이라는 이름을 가진 분은 주로 영화/영상 콘텐츠 관련 연구자, 교수, 혹은 칼럼니스트로 활동하고 있습니다[3][4][5][6]. 만화나 웹툰을 전문적으로 창작하는 작가로서의 연관 정보는 확인되지 않았습니다. (드라마 <스타일>의 등장인물 이름이 '이석창'인 사례는 있습니다[7].)
+
+따라서 두 사람이 협업한 만화나 웹툰은 존재하지 않을 가능성이 높습니다. 혹시 두 작가의 성함이 포함된 특정 작품을 찾으시는 것이라면, 작품의 제목이나 장르 등 추가적인 정보를 알려주시면 더 정확한 확인이 가능합니다.
+
+Sources:
+[1] [naver.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkifoYla9pRdPRJ4fU9U9ymMy4aE_jRLPWkixaCG4Tzr3Zxeer7SVj2gHESdpgs9fqkIV4YcAO3jSJswYCU8kQ3g3i-cLJ5uvaf2XqLZ0Hb36C32RNWBHhrPekf9mzlnz8VINAzooUy7fChAOhhWkQw5wc)
+[2] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6OBTNSQ9xx4Z1d4doqxOAbLKqTD8u5x2bfdNgHEMfV-QvEMAcB_PVl0lWgcT6xPdBTKpwaE2qz1lwurJyPn1p9Bk3w-HaUNTWuF4oaamYDxhrd-2Etq1ZPBzbD4k3lYPh9cNmC-8NwL4tYQ82-rIb0p6gaBi1YqjEahYE)
+[3] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbhvzW65S-_kJwpLXWB1KbZ9cPtBHoK8Cp1NU7QLrEv4QLYNOtSNguafpEIr7UvVshA7kUczFaokpRxprlvzssXIYaKtlhwucRx7sD6uU5uD9CO91hpYQaNMyP)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvhQrGYmDWIoKhStkqMA1jjDIC8MHwsKDDkp8U8H_1mbg_VTHdtl5cKuN6Z2XXF2gOlq-1xbzVIzVThr-rlzgOiWkTsibEpS3p7OkojKYfTsK3Y38JrRUy8WlKBObFqQfmvg==)
+[5] [esquirekorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGucJMkvRi26iPnbsTuphpg-qYtkmHsuxRrEXgUuilgQCF_BGOkfrVar3-MR30BLCILNnsR7MUkLixFxFEnn8RsUsBDECrHCKpWZl9KxOPE5di8oAwIl10da5qbT42eD1hu)
+[6] [arenakorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw-9z7QAvKEJ4xhawd9pme-W9EjADryt1yGUq3a6FW5FAPuRk-XSFBeYZ8ENfZFOsL6-hKxZCzgjuCCJne4Zb0Q-t2ANggX7VyMAAQZ-zEad2AbLOBMCuIxyjAiVZN13jF5cqvxOiiycxFvH6xRIMckA==)
+[7] [onul.works](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6JTX0dNvEyZBjJOnaVmAS5zVNtLQFdjkGmYnG4pn3Vzr3w7GxzMJkZuBdqhui_CV6IHxiVO6CNAILUtMiZyxdkI072ePaB-rKVgbK0Q1FrPMh6zarUBSrOq6ss_vZIfF0xFXsEVn6JRae29YNMvejjxXcdxBKJjb9ITObsegD_oNb0NrGbJU)

@@ -1,0 +1,62 @@
+
+The command exited with code 0.
+Output:
+table "기업 정보에 관련된 표입니다. 사업자번호,법인번호,대표자,설립일자등 정보를 제공합니다." [ref=f1e242]:
+                - caption: 기업 정보에 관련된 표입니다. 사업자번호,법인번호,대표자,설립일자등 정보를 제공합니다.
+                - rowgroup [ref=f1e250]:
+                  - row [ref=f1e251]:
+                    - rowheader "사업자번호" [ref=f1e252]
+                    - cell "751-81-0****" [ref=f1e253]
+                    - rowheader "법인번호" [ref=f1e254]
+                    - cell "180111-1******" [ref=f1e255]
+                    - rowheader "대표자명" [ref=f1e256]
+                    - cell "김현진" [ref=f1e257]
+                  - row [ref=f1e258]:
+                    - rowheader [ref=f1e259]:
+                      - text: 설립일자
+                      - generic [ref=f1e260]:
+                        - button "툴팁 활성화 버튼" [ref=f1e262] [cursor=pointer]:
+                          - generic [ref=f1e263]: 설립일자 툴팁 닫힘 상태
+                        - tooltip [ref=f1e265]:
+                          - generic [ref=f1e267]: 법인등기부등본 설립일자이며,존재하지 않을 경우 사업자등록증 상 개업일자 표시
+                    - cell "2023.01.31" [ref=f1e268]
+                    - rowheader "주소" [ref=f1e269]
+                    - cell "(48104) 부산 해운대구 해운대로 ***, ****호" [ref=f1e270]
+                  - row [ref=f1e271]:
+                    - rowheader "그룹명" [ref=f1e272]
+                    - cell "-" [ref=f1e273]
+                    - rowheader "표준산업분류" [ref=f1e274]
+                    - cell "시스템 소프트웨어 개발 및 공급업(J58221)" [ref=f1e275]
+                  - row [ref=f1e276]:
+                    - rowheader "인증현황" [ref=f1e277]
+                    - cell "벤처기업" [ref=f1e278]:
+                      - generic "벤처기업" [ref=f1e280]
+                  - row [ref=f1e283]:
+                    - rowheader [ref=f1e284]:
+                      - text: 투자현황
+                      - generic [ref=f1e285]:
+                        - button "툴팁 활성화 버튼" [ref=f1e287] [cursor=pointer]:
+                          - generic [ref=f1e288]: 투자현황 툴팁 닫힘 상태
+                        - tooltip [ref=f1e290]:
+                          - generic [ref=f1e292]: M&A, 주식양수도, 지원금은 비투자데이터로최종투자단계, 누적투자유치금액, 투자유치건수에 포함되지 않습니다.
+                    - cell [ref=f1e293]:
+                      - generic [ref=f1e294]:
+                        - generic [ref=f1e295]:
+                          - term [ref=f1e296]: 최종투자단계
+                          - definition [ref=f1e297] [cursor=pointer]: "-"
+                        - generic [ref=f1e298]:
+                          - term [ref=f1e299]: 투자유치건수
+                          - definition [ref=f1e300] [cursor=pointer]: "-"
+                        - generic [ref=f1e301]:
+                          - term [ref=f1e302]: 누적투자유치금액
+                          - definition [ref=f1e303] [cursor=pointer]: "-"
+        - generic [ref=f1e305]:
+          - term [ref=f1e306]:
+            - generic [ref=f1e307]: 보고서 구매
+          - definition [ref=f1e308]:
+            - generic [ref=f1e309]:
+              - list [ref=f1e310]:
+                - listitem [ref=f1e311]:
+                  - generic [ref=f1e312]:
+                    - 
+

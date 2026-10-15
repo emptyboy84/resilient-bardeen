@@ -1,0 +1,1963 @@
+Total diffs: 245
+[
+  {
+    "row": 12285,
+    "company": "포커스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48059",
+    "corp": ""
+  },
+  {
+    "row": 12285,
+    "company": "포커스",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산 해운대구 센텀중앙로 48 1413호 (에이스하이테크21)",
+    "corp": "부산 해운대구 센텀중앙로 48 1413 (우동)"
+  },
+  {
+    "row": 12285,
+    "company": "포커스",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "051-741-3402",
+    "corp": ""
+  },
+  {
+    "row": 12285,
+    "company": "포커스",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "08066",
+    "corp": ""
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울특별시 양천구 남부순환로83길 17 (신월동, 목동 센트럴 아이파크 위브 1단지) 제상가동 제지하1",
+    "corp": "서울특별시 양천구 남부순환로83길 17 (우)08066"
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "02-2605-7770",
+    "corp": ""
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "1명"
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 48,
+    "colName": "업종_대",
+    "current": "건설업",
+    "corp": ""
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "전문직별 공사업",
+    "corp": ""
+  },
+  {
+    "row": 12286,
+    "company": "㈜새로운집",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "실내건축 및 건축마무리 공사업",
+    "corp": ""
+  },
+  {
+    "row": 12287,
+    "company": "월드피앤엘",
+    "col": 5,
+    "colName": "대표자",
+    "current": "전종식",
+    "corp": ""
+  },
+  {
+    "row": 12287,
+    "company": "월드피앤엘",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51568",
+    "corp": ""
+  },
+  {
+    "row": 12287,
+    "company": "월드피앤엘",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "055-294-8220",
+    "corp": ""
+  },
+  {
+    "row": 12287,
+    "company": "월드피앤엘",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "4",
+    "corp": "3"
+  },
+  {
+    "row": 12288,
+    "company": "(주)모노플로우",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "54871",
+    "corp": ""
+  },
+  {
+    "row": 12288,
+    "company": "(주)모노플로우",
+    "col": 7,
+    "colName": "주소",
+    "current": "전북 전주시 덕진구 오공로 33-6, 5층 금융혁신 공유오피스9호실 (주)모노플로우 (중동)",
+    "corp": "전북특별자치도 전주시 덕진구 기린대로 886 (우)54849"
+  },
+  {
+    "row": 12288,
+    "company": "(주)모노플로우",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12288,
+    "company": "(주)모노플로우",
+    "col": 11,
+    "colName": "이메일",
+    "current": "sales@monoflow.kr",
+    "corp": "flzlahd@naver.com"
+  },
+  {
+    "row": 12288,
+    "company": "(주)모노플로우",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "1명"
+  },
+  {
+    "row": 12289,
+    "company": "진테크",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50969",
+    "corp": ""
+  },
+  {
+    "row": 12289,
+    "company": "진테크",
+    "col": 7,
+    "colName": "주소",
+    "current": "경남 김해시 주촌면 골든루트로130번길 12-3, B동 1층 명성정밀(명성정밀) (농소리)",
+    "corp": "경남 김해시 주촌면 골든루트로130번길 12-3, B동동 1층층 명성정밀(명성정밀) (농소리)"
+  },
+  {
+    "row": 12289,
+    "company": "진테크",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "010-9822-0100"
+  },
+  {
+    "row": 12289,
+    "company": "진테크",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12289,
+    "company": "진테크",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12290,
+    "company": "곰문",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48058",
+    "corp": ""
+  },
+  {
+    "row": 12290,
+    "company": "곰문",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "010-6514-0514"
+  },
+  {
+    "row": 12291,
+    "company": "코스코스",
+    "col": 5,
+    "colName": "대표자",
+    "current": "이수정",
+    "corp": ""
+  },
+  {
+    "row": 12291,
+    "company": "코스코스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "18123",
+    "corp": ""
+  },
+  {
+    "row": 12291,
+    "company": "코스코스",
+    "col": 7,
+    "colName": "주소",
+    "current": "경기 오산시 대호로71번길 22-1, 804호 (궐동)",
+    "corp": ""
+  },
+  {
+    "row": 12291,
+    "company": "코스코스",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "1"
+  },
+  {
+    "row": 12292,
+    "company": "시우테크",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51390",
+    "corp": ""
+  },
+  {
+    "row": 12292,
+    "company": "시우테크",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-281-3939"
+  },
+  {
+    "row": 12292,
+    "company": "시우테크",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12292,
+    "company": "시우테크",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12292,
+    "company": "시우테크",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "주형 및 금형 제조업",
+    "corp": "플라스틱 필름 제조업"
+  },
+  {
+    "row": 12293,
+    "company": "지디기업",
+    "col": 5,
+    "colName": "대표자",
+    "current": "김경득",
+    "corp": ""
+  },
+  {
+    "row": 12293,
+    "company": "지디기업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "53006",
+    "corp": ""
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 5,
+    "colName": "대표자",
+    "current": "최병필",
+    "corp": ""
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "53261",
+    "corp": ""
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 거제시 거제대로 3370 (아주동)"
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": ""
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "선박 구성 부분품 제조업",
+    "corp": "그 외 자동차용 신품 부품 제조업"
+  },
+  {
+    "row": 12294,
+    "company": "진영산업",
+    "col": 25,
+    "colName": "법인번호",
+    "current": "",
+    "corp": "110111-0215536"
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 5,
+    "colName": "대표자",
+    "current": "김지욱,임우식",
+    "corp": "김지욱/임우식"
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "06153",
+    "corp": ""
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 성동구 연무장15길 11 비동 2층",
+    "corp": "서울특별시 강남구 도산대로92길 32 (우)06070"
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "0507-1357-0646",
+    "corp": "070-4366-0647"
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 10,
+    "colName": "홈페이지",
+    "current": "https://merry-go-round.co.kr",
+    "corp": ""
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "hustlepd@mgrmember.com"
+  },
+  {
+    "row": 12295,
+    "company": "㈜메리고라운드컴퍼니",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "10",
+    "corp": "17명"
+  },
+  {
+    "row": 12296,
+    "company": "짱구네 팜(farm)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "56188",
+    "corp": ""
+  },
+  {
+    "row": 12296,
+    "company": "짱구네 팜(farm)",
+    "col": 7,
+    "colName": "주소",
+    "current": "전북 고창군 성내면 선운대로 4420 (조동리)",
+    "corp": ""
+  },
+  {
+    "row": 12296,
+    "company": "짱구네 팜(farm)",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "pms32145@naver.com"
+  },
+  {
+    "row": 12297,
+    "company": "에이엘케이(A.L.K)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "02644",
+    "corp": ""
+  },
+  {
+    "row": 12297,
+    "company": "에이엘케이(A.L.K)",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 동대문구 한천로2길 107, 4층 403호 (장안동,형인타워)",
+    "corp": ""
+  },
+  {
+    "row": 12297,
+    "company": "에이엘케이(A.L.K)",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "alkcompany123@gmail.com"
+  },
+  {
+    "row": 12298,
+    "company": "치즈룸(chizurum)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "10318",
+    "corp": ""
+  },
+  {
+    "row": 12298,
+    "company": "치즈룸(chizurum)",
+    "col": 7,
+    "colName": "주소",
+    "current": "경기 평택시 고덕중앙로 322, 2층 205호 (고덕동,에이스S-TOWER지식산업센터)",
+    "corp": ""
+  },
+  {
+    "row": 12298,
+    "company": "치즈룸(chizurum)",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "antisugar@naver.com"
+  },
+  {
+    "row": 12299,
+    "company": "한국고려삼유통공사",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "34983",
+    "corp": ""
+  },
+  {
+    "row": 12299,
+    "company": "한국고려삼유통공사",
+    "col": 7,
+    "colName": "주소",
+    "current": "대전 중구 문화로105번안길 33, 201호 (유천동)",
+    "corp": ""
+  },
+  {
+    "row": 12300,
+    "company": "정안에너텍",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51711",
+    "corp": ""
+  },
+  {
+    "row": 12300,
+    "company": "정안에너텍",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 창원시 성산구 두산볼보로 22 (귀곡동,두산중공업(주))"
+  },
+  {
+    "row": 12300,
+    "company": "정안에너텍",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-278-8762"
+  },
+  {
+    "row": 12300,
+    "company": "정안에너텍",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12300,
+    "company": "정안에너텍",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12301,
+    "company": "갤러리에디션",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "47020",
+    "corp": ""
+  },
+  {
+    "row": 12301,
+    "company": "갤러리에디션",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산 사상구 학감대로177번길 56, 6층(학장동)",
+    "corp": "부산광역시 해운대구 센텀북대로 60, 4층 413호(재송동, 센텀아이에스타워) 4층 413호"
+  },
+  {
+    "row": 12301,
+    "company": "갤러리에디션",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "7"
+  },
+  {
+    "row": 12301,
+    "company": "갤러리에디션",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "전자상거래 소매업",
+    "corp": "광고 대행업"
+  },
+  {
+    "row": 12302,
+    "company": "청사테크",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51567",
+    "corp": ""
+  },
+  {
+    "row": 12302,
+    "company": "청사테크",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 창원시 성산구 웅남로 316, 1동 103호 (웅남동,창원지식산업센터)"
+  },
+  {
+    "row": 12302,
+    "company": "청사테크",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-255-3456"
+  },
+  {
+    "row": 12302,
+    "company": "청사테크",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "055-299-7431"
+  },
+  {
+    "row": 12302,
+    "company": "청사테크",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "*"
+  },
+  {
+    "row": 12303,
+    "company": "이엠브이엘",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "39161",
+    "corp": ""
+  },
+  {
+    "row": 12303,
+    "company": "이엠브이엘",
+    "col": 7,
+    "colName": "주소",
+    "current": "경상북도 구미시 산동면 송백로 398-90",
+    "corp": "경북 구미시 인동25길 15, 202호 (인의동,정우빌딩)"
+  },
+  {
+    "row": 12303,
+    "company": "이엠브이엘",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "02-3453-9154"
+  },
+  {
+    "row": 12303,
+    "company": "이엠브이엘",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12303,
+    "company": "이엠브이엘",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "*"
+  },
+  {
+    "row": 12304,
+    "company": "㈜끌림이노베이션",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "06168",
+    "corp": ""
+  },
+  {
+    "row": 12304,
+    "company": "㈜끌림이노베이션",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울특별시 강남구 테헤란로 501, 3층 310호",
+    "corp": "서울 강남구 테헤란로19길 5 3층"
+  },
+  {
+    "row": 12304,
+    "company": "㈜끌림이노베이션",
+    "col": 10,
+    "colName": "홈페이지",
+    "current": "https://finlim.co.kr/",
+    "corp": ""
+  },
+  {
+    "row": 12304,
+    "company": "㈜끌림이노베이션",
+    "col": 11,
+    "colName": "이메일",
+    "current": "myzipdao@finlim.co.kr",
+    "corp": "finlim2022@naver.com"
+  },
+  {
+    "row": 12305,
+    "company": "(주)클레이노즈",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "06083",
+    "corp": ""
+  },
+  {
+    "row": 12305,
+    "company": "(주)클레이노즈",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "ymkim@klainoz.com"
+  },
+  {
+    "row": 12306,
+    "company": "리나게이브 컴퍼니(LINAGABE COMPANY)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "05021",
+    "corp": ""
+  },
+  {
+    "row": 12306,
+    "company": "리나게이브 컴퍼니(LINAGABE COMPANY)",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 송파구 백제고분로51길 7, 1301호 (방이동,엘퍼스트)",
+    "corp": ""
+  },
+  {
+    "row": 12306,
+    "company": "리나게이브 컴퍼니(LINAGABE COMPANY)",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "333image@naver.com"
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 센텀중앙로 90, 6층 611호(재송동, 큐비이센텀)",
+    "corp": "부산광역시 해운대구 센텀중앙로 90, 6층 611호(재송동, 큐비이센텀) 6층 611호"
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "비주거용 건물 임대업",
+    "corp": "초등학교"
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 48,
+    "colName": "업종_대",
+    "current": "부동산업",
+    "corp": ""
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "부동산업",
+    "corp": ""
+  },
+  {
+    "row": 12307,
+    "company": "(김소영)",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "부동산 임대 및 공급업",
+    "corp": ""
+  },
+  {
+    "row": 12308,
+    "company": "에스와이에스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50062",
+    "corp": ""
+  },
+  {
+    "row": 12308,
+    "company": "에스와이에스",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 함안군 군북면 국우로 162 (유현리)"
+  },
+  {
+    "row": 12308,
+    "company": "에스와이에스",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-800-7711"
+  },
+  {
+    "row": 12308,
+    "company": "에스와이에스",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "4",
+    "corp": ""
+  },
+  {
+    "row": 12309,
+    "company": "탱커 주식회사",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "07238",
+    "corp": ""
+  },
+  {
+    "row": 12309,
+    "company": "탱커 주식회사",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "1057770963"
+  },
+  {
+    "row": 12309,
+    "company": "탱커 주식회사",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "hyunseo@tanker.fund"
+  },
+  {
+    "row": 12310,
+    "company": "신성인슈",
+    "col": 5,
+    "colName": "대표자",
+    "current": "왕대중",
+    "corp": ""
+  },
+  {
+    "row": 12310,
+    "company": "신성인슈",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51623",
+    "corp": ""
+  },
+  {
+    "row": 12310,
+    "company": "신성인슈",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "055-545-6936",
+    "corp": ""
+  },
+  {
+    "row": 12311,
+    "company": "(주)에스알제이",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "42009",
+    "corp": ""
+  },
+  {
+    "row": 12311,
+    "company": "(주)에스알제이",
+    "col": 7,
+    "colName": "주소",
+    "current": "대구광역시 수성구 들안로78길 16 (범어동) 2층",
+    "corp": ""
+  },
+  {
+    "row": 12311,
+    "company": "(주)에스알제이",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "070-8648-1241",
+    "corp": ""
+  },
+  {
+    "row": 12311,
+    "company": "(주)에스알제이",
+    "col": 11,
+    "colName": "이메일",
+    "current": "jin@srj-trade.com",
+    "corp": "hyunki.jin01@gmail.com"
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "08381",
+    "corp": ""
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울특별시 구로구 디지털로 285 (구로동, 에이스트윈타워1차 102호 일부) 지하1층",
+    "corp": "서울특별시 구로구 디지털로 285 (우)08381"
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "070-4354-7339",
+    "corp": "02-6925-1546"
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 10,
+    "colName": "홈페이지",
+    "current": "https://www.metamotion.io/",
+    "corp": ""
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 11,
+    "colName": "이메일",
+    "current": "gounbada@gmail.com",
+    "corp": "work@netamotion.io"
+  },
+  {
+    "row": 12312,
+    "company": "㈜메타모션",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "11",
+    "corp": "8명"
+  },
+  {
+    "row": 12313,
+    "company": "딛고건축사사무소",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48059",
+    "corp": ""
+  },
+  {
+    "row": 12313,
+    "company": "딛고건축사사무소",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12314,
+    "company": "팍스이엔지",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51128",
+    "corp": ""
+  },
+  {
+    "row": 12314,
+    "company": "팍스이엔지",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12315,
+    "company": "한울테크",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50870",
+    "corp": ""
+  },
+  {
+    "row": 12315,
+    "company": "한울테크",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "10",
+    "corp": ""
+  },
+  {
+    "row": 12316,
+    "company": "레어인터내셔널",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "alscoals@naver.com"
+  },
+  {
+    "row": 12316,
+    "company": "레어인터내셔널",
+    "col": 48,
+    "colName": "업종_대",
+    "current": "정보통신업",
+    "corp": ""
+  },
+  {
+    "row": 12316,
+    "company": "레어인터내셔널",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "출판업",
+    "corp": ""
+  },
+  {
+    "row": 12316,
+    "company": "레어인터내셔널",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "서적, 잡지 및 기타 인쇄물 출판업",
+    "corp": ""
+  },
+  {
+    "row": 12317,
+    "company": "제이피플",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48059",
+    "corp": ""
+  },
+  {
+    "row": 12317,
+    "company": "제이피플",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 센텀북대로 60 (재송동, 센텀아이에스타워) 10층 1011호",
+    "corp": "부산 해운대구 센텀북대로 60 10111012 (재송동)"
+  },
+  {
+    "row": 12317,
+    "company": "제이피플",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "051-803-8573",
+    "corp": ""
+  },
+  {
+    "row": 12318,
+    "company": "스페레에어파워에이에스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48058",
+    "corp": ""
+  },
+  {
+    "row": 12318,
+    "company": "스페레에어파워에이에스",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 센텀중앙로 97, A동 201호(재송동)",
+    "corp": "부산 해운대구 센텀중앙로 97 A동201-2호 (재송동)"
+  },
+  {
+    "row": 12318,
+    "company": "스페레에어파워에이에스",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "그 외 기타 기계 및 장비 도매업",
+    "corp": "컴프레셔"
+  },
+  {
+    "row": 12319,
+    "company": "(주)인터마인즈",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "13493",
+    "corp": ""
+  },
+  {
+    "row": 12319,
+    "company": "(주)인터마인즈",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경기 성남시 분당구 대왕판교로644번길 21 3층"
+  },
+  {
+    "row": 12319,
+    "company": "(주)인터마인즈",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "031-625-4119",
+    "corp": "070-4275-5893"
+  },
+  {
+    "row": 12319,
+    "company": "(주)인터마인즈",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "sales@interminds.ai"
+  },
+  {
+    "row": 12319,
+    "company": "(주)인터마인즈",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "33",
+    "corp": "20~40미만"
+  },
+  {
+    "row": 12320,
+    "company": "제이앤제이인베스트",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "34324",
+    "corp": ""
+  },
+  {
+    "row": 12320,
+    "company": "제이앤제이인베스트",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "042-931-8774"
+  },
+  {
+    "row": 12320,
+    "company": "제이앤제이인베스트",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "의료용 물질 및 의약품 제조업",
+    "corp": "기타 기계 및 장비 제조업"
+  },
+  {
+    "row": 12320,
+    "company": "제이앤제이인베스트",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "의약품 제조업",
+    "corp": "일반 목적용 기계 제조업"
+  },
+  {
+    "row": 12321,
+    "company": "청송",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "52017",
+    "corp": ""
+  },
+  {
+    "row": 12321,
+    "company": "청송",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12321,
+    "company": "청송",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12322,
+    "company": "더블유시스템",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48059",
+    "corp": ""
+  },
+  {
+    "row": 12322,
+    "company": "더블유시스템",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 센텀중앙로 90 (재송동, 큐비이센텀) 본동810호",
+    "corp": ""
+  },
+  {
+    "row": 12322,
+    "company": "더블유시스템",
+    "col": 11,
+    "colName": "이메일",
+    "current": "jung8609@naver.com",
+    "corp": ""
+  },
+  {
+    "row": 12323,
+    "company": "(주)하이퍼콘",
+    "col": 5,
+    "colName": "대표자",
+    "current": "구현철",
+    "corp": ""
+  },
+  {
+    "row": 12323,
+    "company": "(주)하이퍼콘",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "52828",
+    "corp": ""
+  },
+  {
+    "row": 12323,
+    "company": "(주)하이퍼콘",
+    "col": 7,
+    "colName": "주소",
+    "current": "경상남도 진주시 진주대로 501 (가좌동, 경상국립대학교 창업보육센터) 씨-215호",
+    "corp": "경상남도 진주시"
+  },
+  {
+    "row": 12323,
+    "company": "(주)하이퍼콘",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": ""
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51340",
+    "corp": ""
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 함안군 군북면 함안산단1길 26-9 (월촌리)"
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12324,
+    "company": "모아텍",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "5",
+    "corp": ""
+  },
+  {
+    "row": 12325,
+    "company": "니쥬상점",
+    "col": 5,
+    "colName": "대표자",
+    "current": "이주희",
+    "corp": ""
+  },
+  {
+    "row": 12325,
+    "company": "니쥬상점",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "08591",
+    "corp": ""
+  },
+  {
+    "row": 12325,
+    "company": "니쥬상점",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 금천구 가산디지털1로 58, 709호 (가산동,에이스한솔타워)",
+    "corp": ""
+  },
+  {
+    "row": 12325,
+    "company": "니쥬상점",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "0504-347-3087",
+    "corp": ""
+  },
+  {
+    "row": 12325,
+    "company": "니쥬상점",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12326,
+    "company": "이엔에프에너지",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "40114",
+    "corp": ""
+  },
+  {
+    "row": 12326,
+    "company": "이엔에프에너지",
+    "col": 7,
+    "colName": "주소",
+    "current": "경상북도 고령군 성산면 신기길 85-16",
+    "corp": ""
+  },
+  {
+    "row": 12326,
+    "company": "이엔에프에너지",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "053-965-0563",
+    "corp": "1048070567"
+  },
+  {
+    "row": 12326,
+    "company": "이엔에프에너지",
+    "col": 10,
+    "colName": "홈페이지",
+    "current": "http://www.enfenergy.kr/",
+    "corp": ""
+  },
+  {
+    "row": 12326,
+    "company": "이엔에프에너지",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "2",
+    "corp": ""
+  },
+  {
+    "row": 12327,
+    "company": "신화에프에이",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "51340",
+    "corp": ""
+  },
+  {
+    "row": 12327,
+    "company": "신화에프에이",
+    "col": 7,
+    "colName": "주소",
+    "current": "경남 김해시 율하1로 97, 4층 402호(율하동,미래빌딩)",
+    "corp": "경남 김해시 율하1로 97, 4층 401호 (율하동,미래빌딩)"
+  },
+  {
+    "row": 12327,
+    "company": "신화에프에이",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "2",
+    "corp": ""
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 2,
+    "colName": "비고",
+    "current": "폐업",
+    "corp": ""
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 5,
+    "colName": "대표자",
+    "current": "",
+    "corp": "박경자"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "부산광역시 해운대구 센텀중앙로 97, A동 B213호 (재송동)"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "2"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "경영컨설팅서비스업",
+    "corp": "비주거용 건물 임대업"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 48,
+    "colName": "업종_대",
+    "current": "전문, 과학 및 기술 서비스업",
+    "corp": "부동산업"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "전문 서비스업",
+    "corp": "부동산업"
+  },
+  {
+    "row": 12328,
+    "company": "YH컨설팅",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "회사 본부 및 경영 컨설팅 서비스업",
+    "corp": "부동산 임대 및 공급업"
+  },
+  {
+    "row": 12329,
+    "company": "정형섭공인회계사무소",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48059",
+    "corp": ""
+  },
+  {
+    "row": 12329,
+    "company": "정형섭공인회계사무소",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 센텀6로 21, 505호(우동, 인텔리움센텀)",
+    "corp": "부산광역시 해운대구 센텀6로 21, 505호(우동, 인텔리움센텀) 505호"
+  },
+  {
+    "row": 12329,
+    "company": "정형섭공인회계사무소",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "051-468-1308",
+    "corp": ""
+  },
+  {
+    "row": 12329,
+    "company": "정형섭공인회계사무소",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "2",
+    "corp": "0"
+  },
+  {
+    "row": 12330,
+    "company": "(주)유니드",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "34368",
+    "corp": ""
+  },
+  {
+    "row": 12330,
+    "company": "(주)유니드",
+    "col": 7,
+    "colName": "주소",
+    "current": "대전광역시 대덕구 대화로 160 (대화동, 산업용재유통상가) 17동302-에이호",
+    "corp": "대전광역시 대덕구 대화로 160 (우)34368"
+  },
+  {
+    "row": 12330,
+    "company": "(주)유니드",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12330,
+    "company": "(주)유니드",
+    "col": 10,
+    "colName": "홈페이지",
+    "current": "http://www.youneed.co.kr/",
+    "corp": ""
+  },
+  {
+    "row": 12330,
+    "company": "(주)유니드",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "-"
+  },
+  {
+    "row": 12331,
+    "company": "주식회사 복컴퍼니",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "16071",
+    "corp": ""
+  },
+  {
+    "row": 12331,
+    "company": "주식회사 복컴퍼니",
+    "col": 7,
+    "colName": "주소",
+    "current": "경기도 의왕시 고래들길 15 (오전동)",
+    "corp": ""
+  },
+  {
+    "row": 12331,
+    "company": "주식회사 복컴퍼니",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "070-4820-1212",
+    "corp": ""
+  },
+  {
+    "row": 12331,
+    "company": "주식회사 복컴퍼니",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "4",
+    "corp": ""
+  },
+  {
+    "row": 12332,
+    "company": "에스알리츠",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50969",
+    "corp": ""
+  },
+  {
+    "row": 12333,
+    "company": "아론해양산업",
+    "col": 5,
+    "colName": "대표자",
+    "current": "조현욱",
+    "corp": ""
+  },
+  {
+    "row": 12333,
+    "company": "아론해양산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "52535",
+    "corp": ""
+  },
+  {
+    "row": 12333,
+    "company": "아론해양산업",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "055-834-6556",
+    "corp": ""
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "05855",
+    "corp": ""
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 송파구 법원로6길 7 2층 201호 E1110",
+    "corp": "서울특별시 용산구 이태원로 190 (우)04406"
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "010-2253-9432",
+    "corp": ""
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": ""
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48407",
+    "corp": ""
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 해운대로76번길 40, 204동 1502호",
+    "corp": "부산광역시 해운대구 센텀중앙로 90 (재송동) 큐비이센텀 722호"
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "08588",
+    "corp": ""
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 금천구 가산디지털2로 43-14, B동 115호 (가산동)",
+    "corp": ""
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 11,
+    "colName": "이메일",
+    "current": "5534386@hanmail.net",
+    "corp": "feeiio@naver.com"
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "34627",
+    "corp": ""
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 7,
+    "colName": "주소",
+    "current": "대전광역시 동구 태전로 18",
+    "corp": "대전광역시 동구 태전로 18 (우)34627"
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "2명"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 2,
+    "colName": "비고",
+    "current": "",
+    "corp": "폐업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46028",
+    "corp": ""
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "4"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "절삭 가공 및 유사 처리업",
+    "corp": "자동차 엔진용 신품 부품 제조업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "금속 가공제품 제조업; 기계 및 가구 제외",
+    "corp": "기타 제품 제조업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "기타 금속 가공제품 제조업",
+    "corp": "그외 기타 제품 제조업"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50853",
+    "corp": ""
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-328-0705"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "19",
+    "corp": ""
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 2,
+    "colName": "비고",
+    "current": "",
+    "corp": "폐업"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46250",
+    "corp": ""
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산 금정구 금단로 38, 102동 10층 1003호 (구서동,협성그린아파트)",
+    "corp": "부산광역시 해운대구 센텀북대로 60, 7층 702 (재송동, 센텀 아이에스타워)"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "010-4666-3877"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "2"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "광고 영화 및 비디오물 제작업",
+    "corp": "광고 대행업"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 5,
+    "colName": "대표자",
+    "current": "장인수",
+    "corp": "장인수, 강정자"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46257",
+    "corp": ""
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "051-902-8000"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50850",
+    "corp": ""
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "055-345-2257"
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50875",
+    "corp": ""
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "21005",
+    "corp": ""
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "8",
+    "corp": "7"
+  },
+  {
+    "row": 12345,
+    "company": "제이엔비산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50852",
+    "corp": ""
+  },
+  {
+    "row": 12345,
+    "company": "제이엔비산업",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 김해시 한림면 안곡로 426-9 (안곡리)"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50803",
+    "corp": ""
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 7,
+    "colName": "주소",
+    "current": "경상남도 김해시 상동면 동북로1007번길 8-4",
+    "corp": ""
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-327-5678"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  }
+]

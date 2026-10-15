@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+FTC Response length: 0
+FTC match: 
+

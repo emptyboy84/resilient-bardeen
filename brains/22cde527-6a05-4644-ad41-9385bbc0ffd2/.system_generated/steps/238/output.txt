@@ -1,0 +1,21 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 593 lines>
+충청남도 천안시 동남구 용곡2길 43-10, 1층(용곡동) 43-10, Yonggok 2-gil, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea" | 대표: "김영숙" [계속사업자]
+[283/421] Row 2121 | "뉴아태항공" | 대표: "선태미" | 구: ""
+  => MATCH CONFIRMED: 617-86-21165 (뉴아태항공) | 주소: "부산광역시 해운대구 센텀중앙로 90, 본동 819호" | 대표: "선태미" [폐업자]
+[284/421] Row 2122 | "플랫폼" | 대표: "김민수" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[285/421] Row 2123 | "예담프로덕션" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[286/421] Row 2124 | "잭월드" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[287/421] Row 2125 | "거창레코드" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[288/421] Row 2126 | "온누리" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[289/421] Row 2127 | "파티온" | 대표: "" | 구: "해운대구"
+
+Last progress: 0s ago

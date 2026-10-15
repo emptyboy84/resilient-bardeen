@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Brown cell counts by column: { '주소': 568, '사업자번호': 222, '대표자 성함': 438, '연락처': 254 }
+

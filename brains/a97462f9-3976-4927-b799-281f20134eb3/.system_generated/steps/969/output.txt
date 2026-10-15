@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Cell A2 fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFF8CBAD"}}
+Row 2 fill: {"type":"pattern","pattern":"none"}
+

@@ -1,0 +1,18 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 483 lines>
+ 2
+  >>> Progress Saved: 230/421 | Matched: 54 | Unverifiable: 176 <<<
+[231/421] Row 2059 | "대신산업" | 대표: "탁기만" | 구: ""
+  => MATCH CONFIRMED: 617-03-45150 (대신산업) | 주소: "부산광역시 사하구 하신중앙로3번가길 26 (장림동) 26, Hasinjungang-ro 3beonga-gil, Saha-gu, Busan, Republic of Korea" | 대표: "탁기만" [폐업자]
+[232/421] Row 2060 | "조이풀사이언스" | 대표: "강민수" | 구: ""
+  => MATCH CONFIRMED: 621-21-49635 (조이풀사이언스) | 주소: "부산광역시 수영구 수영로 648 (광안동, 광안동롯데골드로즈) 201호 648, Suyeong-ro, Suyeong-gu, Busan, Republic of Korea" | 대표: "강민수" [폐업자]
+[233/421] Row 2061 | "에코인더스" | 대표: "박영진/공주석" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[234/421] Row 2062 | "이계승" | 대표: "이계승" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[235/421] Row 2063 | "오엠디아틀리에" | 대표: "박현지" | 구: "기장군"
+
+Last progress: 5s ago

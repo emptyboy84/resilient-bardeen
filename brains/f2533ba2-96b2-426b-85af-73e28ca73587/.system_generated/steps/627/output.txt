@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const results = Array.from(document.querySelectorAll(\'#search .g, #rso .g, #rso [data-sokoban-container]\'));\n  return results.map(r => r.innerText);\n}');
+```

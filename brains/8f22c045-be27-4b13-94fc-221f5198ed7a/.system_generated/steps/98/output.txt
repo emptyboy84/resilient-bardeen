@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+parts length: 16
+  idx 0 : "창작집단1407"
+  idx 2 : "2021"
+  idx 5 : "010-6767-9391"
+  idx 9 : "만화"
+

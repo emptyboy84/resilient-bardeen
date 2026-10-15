@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Match: 3568700243 주식회사 모두싸인 |  이영* 소프트웨어개발 및 공급업 비공개 
+Match: 6891701324 모두싸인 |  박효* 금속 표시판 제조업 강원도 원주시 치악로 1529-1... 
+Match: 3342500911 모두싸인 |  그 외 기타 나무제품 제조업 울산광역시 울주군 범서읍 모두박길... (adsbygoogle = window.adsbygoogle || []).
+

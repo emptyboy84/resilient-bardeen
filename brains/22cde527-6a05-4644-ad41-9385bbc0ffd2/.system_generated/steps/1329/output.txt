@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+
+Name                                     Length LastWriteTime           
+----                                     ------ -------------           
+test_moneypin.js.metadata.json               92 2026-09-14 � 10:49:35
+test_moneypin.js                            966 2026-09-14 � 10:49:35
+inspect_bizno_index.js.metadata.json         96 2026-09-14 � 10:49:04
+inspect_bizno_index.js                      224 2026-09-14 � 10:49:04
+inspect_bizno_nav.js.metadata.json          102 2026-09-14 � 10:48:57
+inspect_bizno_nav.js                        404 2026-09-14 � 10:48:57
+test_bizno_areas.js                        2024 2026-09-14 � 10:48:45
+test_bizno_areas.js.metadata.json           105 2026-09-14 � 10:48:45
+test_bizno_addr_search.js.metadata.json     118 2026-09-14 � 10:48:33
+test_bizno_addr_search.js                  1828 2026-09-14 � 10:48:33
+batch_deep_search_pass2.js.metadata.json    116 2026-09-14 � 10:47:12
+batch_deep_search_pass2.js                 6646 2026-09-14 � 10:47:12
+inspect_mcst_form.js.metadata.json          108 2026-09-14 � 10:47:00
+inspect_mcst_form.js                        373 2026-09-14 � 10:47:00
+test_mcst.js.metadata.json                  123 2026-09-14 � 10:46:40
+
+
+

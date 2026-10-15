@@ -1,0 +1,73 @@
+
+The command exited with code 0.
+Output:
+SetMethod(int, int) IL:
+0000: 02 
+0001: 03 
+0002: 04 
+0003: 28 [0x0600000D] (ACPIHelper.SetMethod2) 
+0008: 2C 
+0009: 02 
+000A: 17 
+000B: 2A 
+000C: 02 
+000D: 28 [0x06000004] (ACPIHelper.GetPrefix) 
+0012: 28 [0x06000002] (ACPIHelper.set_Prefix) 
+0017: 72 [0x70000001] ("root\WMI") 
+001C: 72 [0x70000165] ("Method_ULong.InstanceName='ACPI\PNP0C14\") 
+0021: 02 
+0022: 28 [0x06000001] (ACPIHelper.get_Prefix) 
+0027: 0F 
+0028: 01 
+0029: 28 [0x0A00002B] (Int32.ToString) 
+002E: 72 [0x700001B7] ("'") 
+0033: 28 [0x0A00002D] (String.Concat) 
+0038: 14 
+0039: 73 
+003A: 2E 
+003B: 00 
+003C: 00 
+003D: 0A 
+003E: 25 
+003F: 72 [0x70000243] ("SetULong") 
+0044: 6F [0x0A000032] (ManagementObject.GetMethodParameters) 
+0049: 0A 
+004A: 06 
+004B: 72 [0x700001CD] ("Data") 
+0050: 04 
+0051: 8C 
+0052: 40 
+0053: 00 
+0054: 00 
+0055: 01 
+0056: 6F [0x0A000033] (ManagementBaseObject.set_Item) 
+005B: 25 
+005C: 72 [0x70000243] ("SetULong") 
+0061: 06 
+0062: 14 
+0063: 6F [0x0A00002F] (ManagementObject.InvokeMethod) 
+0068: 26 
+0069: 6F [0x0A00001C] (ManagementObject.Dispose) 
+006E: 17 
+006F: 0B 
+0070: DE 
+0071: 28 [0x9372160C] 
+0076: 00 
+0077: 00 
+0078: 70 
+0079: 72 [0x700001D7] ("ACPIHelper: An exception has occurred in GetMethod > ") 
+007E: 08 
+007F: 6F [0x0A000028] (Exception.get_Message) 
+0084: 28 [0x0A000021] (String.Concat) 
+0089: 28 [0x0A000029] (Debugger.Log) 
+008E: 16 
+008F: 0B 
+0090: DE 
+0091: 08 
+0092: 02 
+0093: 14 
+0094: 7D [0x04000001] (ACPIHelper.prefix) 
+0099: DC 
+009A: 07 
+009B: 2A 
+

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5608801417');
+```
+### Page
+- Page URL: https://bizno.net/article/5608801417
+- Page Title: (주)에트
+- Console: 1 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-42-17-223Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-42-13-623Z.log#L1-L6

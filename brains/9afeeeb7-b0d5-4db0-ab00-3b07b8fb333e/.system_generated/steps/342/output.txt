@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Last data row number: 20434
+

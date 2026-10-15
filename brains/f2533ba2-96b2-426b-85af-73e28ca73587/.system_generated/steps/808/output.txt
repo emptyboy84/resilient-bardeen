@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=%22superspirit%40nate.com%22');
+```
+### Page
+- Page URL: https://www.google.com/search?q=%22superspirit%40nate.com%22
+- Page Title: "superspirit@nate.com" - Google 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-19-40-277Z.yml)

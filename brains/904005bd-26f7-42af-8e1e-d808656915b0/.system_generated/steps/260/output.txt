@@ -1,0 +1,16 @@
+The search for "site:hankyung.com "대연동" "현대오피스텔" "부산" "시드"" returned the following summary:
+부산광역시 남구 대연동 현대오피스텔을 소재지로 하는 신설법인 관련 정보를 한국경제 기사에서 검색한 결과는 다음과 같습니다.
+
+질문하신 내용과 관련하여 해당 주소지를 소재지로 등록한 여러 법인들의 이름이 확인됩니다. 다만, 검색 결과상 '시드'라는 이름이 직접적으로 해당 오피스텔과 결합된 특정 법인명으로 명시된 사례는 확인되지 않았습니다.
+
+참고로, 해당 오피스텔(부산광역시 남구 수영로 282)을 주소지로 사용하는 법인들은 다음과 같습니다:
+
+*   **실크레스인터내셔널트레이딩**: 2020년 6월 신설 [1.1]
+*   **기타 다수의 법인**: 해당 주소지는 신설법인들이 빈번하게 등록하는 오피스텔 건물 중 하나로, 과거부터 다양한 상호의 법인(예: 306호, 806호, 1009호 등)이 입주해 있었던 것으로 나타납니다[1][2][3].
+
+만약 '시드'가 포함된 정확한 법인명을 찾으시는 경우, 해당 단어를 포함한 더 구체적인 정보나 정확한 법인 명칭을 확인하시면 추가 조회가 가능할 수 있습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEIm6sRuMnsNPviNVjJ9ey_cS9GM8v8KYFiMmMcKZHKpW9Lepzc1OfIZf4NwSFDu1aLj-ADHR3gFPy6YZv4DGspccuM4fpVjlRkE0ayazALxiz8jky1Ec6WGuSzRiMs5pjkN2)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDsHHu66GzNizYbBVTcxgowUsQjCde6wXiD-dQywOFjvI3CMEOwGrRy740Fsac2ph191SS4bnrED0rx9HH4kEcJxTzOu6GLrTf6Q0phoxNIDWgiuYHTZVthoDP_pLu2dd4-jte)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGYS9mY50pMmkxeRAp_uutfjpPHmomtTcziDbJKMmvMt55ygT77T5rvrgPFz_QJei97dmT0fbcWGjmYdUQrTPxqkZQ2Cr4o0gdKjID3Fs0KdMqLFeTZiU1bijh2Jt5qx1297Ei)

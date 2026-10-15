@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://section.blog.naver.com/Search/Post.naver?pageNo=1&rangeType=ALL&orderBy=sim&keyword=010-9514-1435');
+```
+### Page
+- Page URL: https://section.blog.naver.com/Search/Post.naver?pageNo=1&rangeType=ALL&orderBy=sim&keyword=010-9514-1435
+- Page Title: 네이버 블로그
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-47-12-118Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-47-10-988Z.log#L1

@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+(adsbygoogle = window.adsbygoogle || []).push({});
+주요제품
+팩스번호
+과세유형 부가가치세 일반과세자
+법인형태 개인과세사업자
+등록일
+홈페이지
+IR홈페이지
+회사이메일
+대표자명
+사업자 현재 상태 계속사업자 &nbsp;&nbsp;&nbsp;※국세청 홈택스 실시간 정보제공
+(adsbygoogle = window.adsbygoogle || []).push({});
+사업자등록번호 273-45-00967
+종업원수
+회사주소
+관할세무서
+결산월
+정정문의
+

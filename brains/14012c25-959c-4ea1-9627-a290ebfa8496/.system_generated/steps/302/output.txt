@@ -1,0 +1,17 @@
+The search for ""덴티스원" "수영로 312" OR "677-87-03128" 전화번호 OR 연락처" returned the following summary:
+입력하신 정보와 일치하는 기업 정보는 다음과 같습니다.
+
+* **기업명:** 주식회사 덴티스원[1]
+* **사업자등록번호:** 677-87-03128[1]
+* **소재지 주소:** 부산광역시 남구 수영로 312 (대연동, 21센츄리시티 오피스텔)[2][3]
+* **업종:** 의료용품 도매업[1]
+
+공개된 기업 정보 및 신용평가·채용 플랫폼 데이터베이스 상에 **‘주식회사 덴티스원’의 대표 유선 전화번호(연락처)는 공식적으로 등재되어 있지 않아** 확인이 어렵습니다[4][3]. 
+
+해당 건물(부산 남구 수영로 312, 21센츄리시티 오피스텔) 내 입주한 사업장이나 세부 호실(예: 604호 등)[2]과 관련된 구체적인 유선 문의가 필요하실 경우, 해당 건물 관리사무소 또는 인근 상가 안내를 통해 확인하시는 방법을 권장합니다.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLXrNW_JD72cPy6wz513CqS9ExEUkEJTW7PxI9KhDxJR999pW8e57HCwWyIGcZZJrmlg56sbitGwtLCwoPbYVP4ymEZVH-VoQDTnHjMDENLuisog-FQZix)
+[2] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLXrNW_JD72cPy6wz513CqS9ExEUkEJTW7PxI9KhDxJR999pW8e57HCwWyIGcZZJrmlg56sbitGwtLCwoPbYVP4ymEZVH-VoQDTnHjMDENLuisog-FQZix)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNulKY-dBxXLlQYGouzhQkoYUnLzTU9JbymmpYlpF9zQHZWS7ZWrDwormGTGN811yXDN1rpuWamFxwwPMX4D51aNd3ri8ff91X83X28F0OC3ybrhj0X8iZAwWF-GC6LOcq8g1V0rlKBrctdpLrE76rKI4c0vc5mms09YQy9EGzm4oGp93iKqzjy2zaNqAlk1fI8tUluZSQq1IadnCuOKQ8issVHu_pE53KlOO_oZfFHKuqA3pqMqE61YiCMOIsoPfMp4nZdIHnpeNsgAYS-BmdZOaZOGidj1XK5aK57ftZCqR9)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNulKY-dBxXLlQYGouzhQkoYUnLzTU9JbymmpYlpF9zQHZWS7ZWrDwormGTGN811yXDN1rpuWamFxwwPMX4D51aNd3ri8ff91X83X28F0OC3ybrhj0X8iZAwWF-GC6LOcq8g1V0rlKBrctdpLrE76rKI4c0vc5mms09YQy9EGzm4oGp93iKqzjy2zaNqAlk1fI8tUluZSQq1IadnCuOKQ8issVHu_pE53KlOO_oZfFHKuqA3pqMqE61YiCMOIsoPfMp4nZdIHnpeNsgAYS-BmdZOaZOGidj1XK5aK57ftZCqR9)

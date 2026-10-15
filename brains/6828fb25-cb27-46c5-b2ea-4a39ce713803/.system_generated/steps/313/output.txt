@@ -1,0 +1,18 @@
+The search for ""플로우텍" "해안로 309-8" OR ("플로우텍주식회사" "안산")" returned the following summary:
+요청하신 '플로우텍' 및 '플로우텍주식회사'에 대한 기업 정보는 다음과 같습니다[1][2].
+
+*   **기업명**: 플로우텍(주)[1][3]
+*   **대표자**: 신경섭[1][2]
+*   **주소**: 경기도 안산시 단원구 해안로 309-8 (초지동)[1][2][3]
+*   **사업자등록번호**: 768-88-01817[2][3]
+*   **주요 업종**: 탭, 밸브 및 유사장치 제조업, 기타 직물제품 제조업[1][2]
+*   **설립일**: 2020년 7월 1일[2][4]
+*   **연락처**: 031-494-2588 (팩스: 031-494-2585)[3]
+
+해당 기업은 2020년에 설립된 중소기업으로, 주로 밸브 및 관련 장치 제조업을 영위하고 있습니다[1][2]. 상세 정보는 관련 기업 정보 플랫폼(사람인, 볼타 등)을 통해 추가로 확인하실 수 있습니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLkprj3FRegerKFZZelXElZ-5Dx3Ylu8mnpvRDf5F42-3M-QvjFOsMXReSVIhXof4XmqXch_7dqNor80oyLHkpMonuk9wMR7kx0XfRb6mLZNBz47vfGvjUqn_7VQEWY4i8xLVQVjOVkDzLObGAKiEVpMmaiYCznwMuF9jcoH19DB9TcKt5A3k9mYPYkiUB2Nplh4IAIoNBQj-HHtB4wwhFZL9HTJhfq8xQMYbNroP_Q14qRf28S7CmMeClLka_sM8rBj7Xb4BmpCGY)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Nu-qrCB2-hVk32N32JAPHUDoffMurcqxCIVoh2SdT8Rj849GwiJZ2XauaS4vvfvO5MaMDyewuHdk7ovMLRipViN1hG2RUum4HlnLwEYnVOZIUr5O)
+[3] [ksnara.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfZ72X17M_oes9cr1RfZQ0Qgi2azlfXaQ028u_qZH_xk9dCqcZWey0vq7FfFnVcFEmBFLl0sKhClKxA1wZH-twiA1YEab-6ZtCG-XTmnIiJ07G2v9JDtBc36iB-bnHYbiBj5Ao8EBdWjmgYcyB6RLwRwvCWDba2BCoKq-bblM_m2lu2zpJ5Tm2hDAGnLAp60EYyv-GbqBw7ncGDd_gXrEZY9c2MHUP-qoq6YHQTMISdFkNgzotpvT7d_WKMmPhOzo8oPZCUOmYCXUdvQ5yBuFjqdJOi3cMgqEDYxL7MEyn_TpuT1CIl60fjvmSKatLT_jfWalH2BCwuYX90fu0StKFrIr96BRJ8CUGJm5SkWQgqPtH8QCIgTbbWJADfnSdsD0dt5wQ7U7Qk8jFKar2SFecRgLgA8tN6u7Q3WVR4GDIsFAYg1J92cz6VoKVpCzoSDw=)
+[4] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Nu-qrCB2-hVk32N32JAPHUDoffMurcqxCIVoh2SdT8Rj849GwiJZ2XauaS4vvfvO5MaMDyewuHdk7ovMLRipViN1hG2RUum4HlnLwEYnVOZIUr5O)

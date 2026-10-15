@@ -1,0 +1,18 @@
+The search for ""알파" "창원" "테크노파크" OR "055-600-6500" OR "055-600-6800"" returned the following summary:
+문의하신 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+**알파 창원테크노파크점**에 대한 정보입니다[1][2].
+
+*   **업체명:** 알파 창원테크노파크점[2]
+*   **주소:** 경상남도 창원시 성산구 완암로 50 (성산동 77-1), 창원SK테크노파크 넥스존 B120호[1][3]
+*   **전화번호:** 055-600-6500[4][2]
+*   **팩스번호:** 055-600-6501[1][5]
+
+검색하신 번호 중 **055-600-6800**은 알파 창원테크노파크점과 연결되는 번호로 확인되지 않습니다. 알파 창원테크노파크점은 주로 **055-600-6500**을 대표번호로 사용하고 있으니 이용에 참고하시기 바랍니다[1][2].
+
+Sources:
+[1] [alpha.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcgg4Zn8oeVH85lCANHsa30Ug2cXHWLO06WhM9uPDJCULVwkcefCD-mqlOGfpw4ZgZgcyjHMJkG64JqcExK_B3vLEe8baLoUni3OEYF8r1SYalefKs4ZhmOvqYKZtHkjeWyejIJMF7LaWorN7P_feCQMggpJcBWd6q3FQeSBqeCnSsvA==)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXjOHXbvOMLFnWB1noEGW5k1yOKxW6ZkOi8tKI04mVXMgDstucjmo9c664l9H1KJuvtfO-6qnRNEQSiwBRWvAPJNC2ue4UolCDQyb27cRzp1MknyXIGliytFuRBRbscyh8BhAv1m9L8B4e0_UQM4xSjTqHWnqluUaX0XfRcDUfKQu3CTYEgTK1ndorjgM5obrktU-kTZFuProUjnhkHqQp9PkltX5Q-90ifOzB7990hSweVfbPt0pr83JKAvxd3Ay682mWe2eA8bgCNyPwrVxCrJAA68hRuvwl1HyX-ZBUZXtIz0oC7h3NCg==)
+[3] [alpha.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcgg4Zn8oeVH85lCANHsa30Ug2cXHWLO06WhM9uPDJCULVwkcefCD-mqlOGfpw4ZgZgcyjHMJkG64JqcExK_B3vLEe8baLoUni3OEYF8r1SYalefKs4ZhmOvqYKZtHkjeWyejIJMF7LaWorN7P_feCQMggpJcBWd6q3FQeSBqeCnSsvA==)
+[4] [cwsktpark.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnfAARKweD6Cgnm1dIC6i3mW0xHeItZhKuTdZ-FaWWkEoksF5TqXSfT7s7E-mmmiChZvtxKIOYvLRTmOex0uBPwtfgG1nWafq6LAVY2dhFU41eRNT584cJ3i4auCbM4DbPU_M3vn0HtNC3KcUCp59PoBWYtna4Nw5BUoqKB-5aHg==)
+[5] [alpha.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ3WNBMWAjZuWe7NtnNXkfhIZNl5nihagO74EpnND_9XyxhJFi5MUGZZ0IbuSR4WONqQ4XIt-wqrSbHyNsHZzMG9TxtSE5gwQj9ZVilLjX9CaJujHvfYzp_pRlFZBOFB9P4QAG_OSHcyQxIhMlF9TSxA6OfHGJWVvN)

@@ -1,0 +1,18 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\e1493fa0-e8a4-4717-a46c-5bc1b3357473\scratch\generate_final_all.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -241,8 +241,10 @@
+ <div class="summary">
+   <b>검증 결과 요약:</b><br>
+   - 총 기업 수: <b>200개사</b> (행 번호 15001 ~ 15200)<br>
+-  - 나이스비즈인포(NICE BizINFO) 산업명 일치 매칭: <span class="badge badge-success">198개사 확인 완료 (99.0%)</span><br>
+-  - 나이스비즈인포 미등재(공란 처리 원칙 준수): <span class="badge badge-warning">2개사 (가야정기, 선진광학)</span><br>
++  - 나이스비즈인포(NICE BizINFO) 산업명 일치 매칭: <span class="badge badge-success">195개사 확인 완료 (97.5%)</span><br>
++  - 나이스비즈인포 산업분류 미제공(원칙 준수 공란): <span class="badge badge-warning">5개사</span><br>
++    &nbsp;&nbsp;* NICE 기업정보 내 표준산업분류 미분류('-') 상태: 3개사 (주미엔지니어링, 대아기계, 영진)<br>
++    &nbsp;&nbsp;* NICE 사이트 완전 미등재: 2개사 (가야정기, 선진광학)<br>
+   - 국세청 상태 검증: 정상 계속사업자 189개사, <span class="badge badge-danger">폐업 11개사 마킹 완료</span><br>
+   - 법인번호 및 결산월: <b>전원 개인사업자 판정 (200개사 100% 공란 유지)</b><br>
+   - 도로명 우편번호(5자리): <b>200개사 100% 완벽 매칭</b>
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

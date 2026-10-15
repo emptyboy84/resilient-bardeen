@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://pcmap.place.naver.com/place/list?query=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94');
+```
+### Page
+- Page URL: https://pcmap.place.naver.com/place/list?query=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94
+- Page Title: 네이버 플레이스
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-32-22-150Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-32-20-830Z.log#L1-L2

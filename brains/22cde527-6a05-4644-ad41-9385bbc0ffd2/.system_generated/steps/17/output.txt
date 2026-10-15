@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+C:\Program Files\nodejs\node.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+�: "py"�(�) ã� � �ϴ�.
+�: "uv"�(�) ã� � �ϴ�.
+�: "pwsh"�(�) ã� � �ϴ�.
+

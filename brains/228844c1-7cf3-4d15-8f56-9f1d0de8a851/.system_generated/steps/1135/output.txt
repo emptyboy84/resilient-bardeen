@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Checking branch records in existing rows:
+Row 651: �ǳ�(�λ�ϴ�) | BNO: 260-38-01040 | Note: 
+Row 1224: �ǳ� | BNO: 773-86-01800 | Note: 
+Row 1750: � � �λ�Ϻ� � �Ϻ� | BNO: 606-06-99924 | Note: 
+Row 1751: �Ϻ�ų� | BNO: 621-13-85257 | Note: 
+Row 1756: �Ϻ�ϼ� | BNO: 497-04-00954 | Note: 
+Row 1785: �ҳ⵿�Ϻ�λ� | BNO: 601-94-12521 | Note: 
+Row 1955: �Ϻ� � | BNO: 435-64-00149 | Note: 
+Row 1972: �Ϻ�õ� | BNO: 605-15-37403 | Note: 
+Row 1977: �Ϻ�õ� | BNO: 607-08-78853 | Note: 
+Row 1979: �Ϻ� �Ÿ | BNO: 211-17-73789 | Note: 
+Row 1987: �Ϻ� | BNO: 605-24-08346 | Note: 
+

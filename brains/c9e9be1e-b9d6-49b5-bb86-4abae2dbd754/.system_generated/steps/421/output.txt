@@ -1,0 +1,113 @@
+
+The command exited with code 0.
+Output:
+Sample rows from 19150 to 19200:
+[
+  {
+    "r": 19150,
+    "ind": "전동기 및 발전기 제조업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19151,
+    "ind": "온라인공동물류",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19152,
+    "ind": "영화, 비디오물 및 방송프로그램 제작 관련 서비스업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19153,
+    "ind": "응용 소프트웨어 개발 및 공급업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19154,
+    "ind": "출판, 영상, 방송통신 및 정보서비스",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19155,
+    "ind": "그 외 자동차용 신품 부품 제조업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19156,
+    "ind": "그 외 기타 일반목적용 기계 제조업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19157,
+    "ind": "그 외 기타 일반목적용 기계 제조업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19158,
+    "ind": "비주거용 건물 임대업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19159,
+    "ind": "건설",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19160,
+    "ind": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19161,
+    "ind": "기타 엔지니어링 서비스업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19162,
+    "ind": "일반 서적 출판업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19163,
+    "ind": "산업처리공정 제어장비 제조업",
+    "large": null,
+    "mid": null,
+    "small": null
+  },
+  {
+    "r": 19164,
+    "ind": "선박교육서비스",
+    "large": null,
+    "mid": null,
+    "small": null
+  }
+]
+Existing category mappings in sheet: 874
+

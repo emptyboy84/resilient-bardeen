@@ -1,0 +1,15 @@
+The search for ""한국테크" "김대선"" returned the following summary:
+검색 결과, '한국테크'와 '김대선'이라는 인명과 관련하여 다음과 같은 정보가 확인됩니다.
+
+*   **한국테크(기업):** 환경산업기계 제조 및 오·폐수 처리 설비 등을 전문으로 하는 기업입니다(대표자: 엄경용)[1][2]. 
+*   **김대선(인명):** 일부 기업 데이터베이스에서 '한국테크'의 대표자로 '김대선'이라는 이름이 언급되는 사례가 있으나[3], 이는 동명이인의 다른 기업(예: 영대테크, 세창이엔지 등)의 대표자 정보가 혼재되어 나타난 결과일 가능성이 높습니다[4][5]. 
+
+따라서 '한국테크'라는 사명을 가진 기업은 여러 곳이 존재할 수 있으며, 현재 환경산업기계 전문 기업으로 알려진 '한국테크(대전 소재)'의 대표자는 엄경용입니다[6][2]. 특정 기업을 찾으시는 경우, 해당 기업의 소재지나 업종을 확인하시는 것이 정확합니다.
+
+Sources:
+[1] [hkt21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwPOHv8aZ_qGNAueMmBWvNiOCoIqWcDXJatA8iwXvGzZbj-3nekBxbPcdMqy3A1EOmp6ak69SSurTytXQgR5yb9UjzSTyoXFLglFLb)
+[2] [hkt21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNxcgCCHgczU3CE1SPSwPF-T7H_lQxMbVsHrLJixhAHqK9tvgzV6bb5XTfAeqAch8OvZt6EcGyVepxjqOCMZtJ9pED2mIXPsSPtOiOhcwE6ln6IzRqsoUZVS3OUL4PhHhyADbGFez5U1PhTXKFXwet45FICiXmgtVrEIa241mcrviBrg==)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbCO6nYOM_wO6q_4a8i9nPgMjk8yyxT6BpG9N4N938jRF-BQ6-nMryRD3jQkhkcIFN4hotZjEv7al5oK7ICoX04nipz9dfYeTwAfutOqMsL_QMQEehqaZIJpM_Jyx_5n5YfQ==)
+[4] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJaVogEK0K0ayjJVqop8iB_-3S7zlRIS-t2IHeNtwbng2sRZ0-znMITYKVCLg3GU3yC9iWNoBe24ytbr5vCuZgsnsxO3EHlhIlv-JHP1mbZEH__UbobV1XaZqvaLXt7H5RGMZSiw==)
+[5] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcOgVJU_RMcP9T4ZNL6wi6PDxbQiB-q4swiXHTgYqyf-mfqLGIqG6ux-017h7nPzNjF-umnJAc7IdZdtsAKxlKNDGqk-RDpfO2MvtVDk_3mCafkYfLhAr2y1P-ehQbBibD)
+[6] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7DZAwjwLBSq3Xof23qRneHUxwzTRqEqCniPPbW0YmiCVNeYZrzpW8PPP3wdXwnV01B1pvIUj6HPRgw7O8-KyxL6XnoT3d7a62ccC949jU2mVV_FjWF3kSAH6nOy_tg9mQuB70tkykTiqWf4xinAeCx7aYrxPAslp9E4mVaNbO0qzFJoR-sZKOsnXBm_OSjVSGaNArxGdhB8FnTnUgokOfgogoYB2CTmR4g6QIfwoIyycbVbufdr7ohoaR0ghqYhfeVRiLyS34UT887L_IdqF7iwnD_EjZeHZwMEF38LM=)

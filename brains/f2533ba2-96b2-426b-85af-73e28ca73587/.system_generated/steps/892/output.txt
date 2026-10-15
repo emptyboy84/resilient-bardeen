@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=site:nicebizinfo.com+%22%EB%82%A8%ED%9D%A5%EC%9A%A9%22');
+```
+### Page
+- Page URL: https://www.google.com/search?q=site:nicebizinfo.com+%22%EB%82%A8%ED%9D%A5%EC%9A%A9%22
+- Page Title: site:nicebizinfo.com "남흥용" - Google 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-29-25-498Z.yml)

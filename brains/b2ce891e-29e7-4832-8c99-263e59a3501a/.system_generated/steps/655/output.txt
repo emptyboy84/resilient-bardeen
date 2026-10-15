@@ -1,0 +1,8 @@
+The search for ""주식회사 파이" 부산 강서구 OR 대저1동 OR 대저중앙로" returned the following summary:
+검색 결과에 따르면, 입력하신 조건에 해당하는 기업 정보는 다음과 같습니다.
+
+* **회사명:** 주식회사 파이[1]
+* **소재지 (주소):** 부산광역시 강서구 대저중앙로394번길 32 (지번: 대저1동)[1]
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfgjl9AuYQTxJvXi0hLG8V6fpUA_sQqnyFDELaFEv01HTxh8nGDN7Q6f4UbzShrUkbxCy1ziLQ0qcPk-y4KDIJhD5ww8myITcX-Dcfwg8d5P5J2xYx9QWWBw==)

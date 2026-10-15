@@ -1,0 +1,23 @@
+
+The command exited with code 1.
+Output:
+�ġ �:5 �:66
++ ... nst m = content.match(/<meta property=\"og:url\" content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:6 �:16
++   console.log(f, m ? m[1] : 'no og:url');
++                ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:7 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:8 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

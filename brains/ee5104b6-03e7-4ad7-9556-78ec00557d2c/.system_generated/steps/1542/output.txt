@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5548702791');
+```
+### Page
+- Page URL: https://bizno.net/article/5548702791
+- Page Title: 주식회사 키녹스
+- Console: 2 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T03-16-24-344Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T03-16-18-633Z.log#L1-L7

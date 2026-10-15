@@ -1,0 +1,14 @@
+### Result
+Waited for 30 seconds (requested 3000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4?c=15.00,0,0,0,dh
+- Page Title: 글로픽스 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-41-15-605Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-40-38-725Z.log#L1-L4

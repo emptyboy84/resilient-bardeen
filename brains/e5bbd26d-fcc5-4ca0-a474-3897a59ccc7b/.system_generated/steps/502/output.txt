@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+1867 {
+  "biz": "617-81-77868",
+  "est_year": "",
+  "est_month": "",
+  "rep": "이름으로",
+  "close_date": "",
+  "note": "폐업자"
+}
+

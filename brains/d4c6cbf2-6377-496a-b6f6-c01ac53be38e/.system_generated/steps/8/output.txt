@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+MouseSpeed        : 1
+MouseThreshold1   : 0
+MouseThreshold2   : 0
+MouseSensitivity  : 10
+SmoothMouseXCurve : {0, 0, 0, 0...}
+SmoothMouseYCurve : {0, 0, 0, 0...}
+
+
+
+

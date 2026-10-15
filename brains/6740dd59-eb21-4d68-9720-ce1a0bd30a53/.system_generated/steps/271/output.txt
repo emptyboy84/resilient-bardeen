@@ -1,0 +1,11 @@
+The search for ""주식회사 엘씨엠" "센텀" OR "부산" 사업자등록번호" returned the following summary:
+주식회사 엘씨엠의 사업자등록번호는 **755-81-00415**입니다[1][2].
+
+해당 기업은 유통 대기업 내 레고스토어를 운영하는 업체로, 본사는 서울특별시 강서구 마곡동에 위치하고 있습니다[3][1][4]. 부산 지역의 경우 해운대구 센텀시티몰(센텀시티점) 등에 매장을 운영하고 있으나[1][5], 이는 기업의 사업장(지점) 중 하나이며 기업 전체의 사업자등록번호는 위와 동일합니다[1][2].
+
+Sources:
+[1] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoCTe0pWl92xk3Yccqf3t4kNJZBIa8BayXQ6PJuwtiM-6T7-tnmj4U2NQQvaK-E9lq_o2D_w36oU1VWXLS0cKAJ95QnivNNAxbRDlsrYOy)
+[2] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmaV-wXauP3TE3rcYMfKDkRsm87dJZY-og8d9BEFcYtORrfzPYVIff_oWNvgdMehfrxlGBD7treF0Zgv3krVZ04iU_tsANjTt_mvtqBo8bWx4=)
+[3] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZOisH8v79S1LBHxPraunXSKrUmggyad5i6PKNQFUR2TbO6YxkMiPrIazq4u2k2dKm1PdfFOoxwt-h6Og_BPHlqxDc3dFOBbNjP0iR6vL9ZEH_FEVHZlHDMikjmN5DAkyORxM_g7lNu7wk0pJzHU9F9_yAM3HEAIQRkA==)
+[4] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZOisH8v79S1LBHxPraunXSKrUmggyad5i6PKNQFUR2TbO6YxkMiPrIazq4u2k2dKm1PdfFOoxwt-h6Og_BPHlqxDc3dFOBbNjP0iR6vL9ZEH_FEVHZlHDMikjmN5DAkyORxM_g7lNu7wk0pJzHU9F9_yAM3HEAIQRkA==)
+[5] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoCTe0pWl92xk3Yccqf3t4kNJZBIa8BayXQ6PJuwtiM-6T7-tnmj4U2NQQvaK-E9lq_o2D_w36oU1VWXLS0cKAJ95QnivNNAxbRDlsrYOy)

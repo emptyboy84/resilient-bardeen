@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+R2: Name: [6108203800], Col5: [백헌기] (string), Col24: [6108203800], SalesYear: [null], Sales: [null]
+R3: Name: [6108204454], Col5: [정준채] (string), Col24: [6108204454], SalesYear: [null], Sales: [null]
+R4: Name: [4498703412], Col5: [이경성] (string), Col24: [4498703412], SalesYear: [null], Sales: [null]
+R5: Name: [6108205491], Col5: [전상헌] (string), Col24: [6108205491], SalesYear: [null], Sales: [null]
+R6: Name: [6200176989], Col5: [이성윤] (string), Col24: [6200176989], SalesYear: [null], Sales: [null]
+R7: Name: [6208501310], Col5: [정수진] (string), Col24: [6208501310], SalesYear: [null], Sales: [null]
+R8: Name: [7240400690], Col5: [김광태] (string), Col24: [7240400690], SalesYear: [null], Sales: [null]
+R9: Name: [7529000892], Col5: [김은경] (string), Col24: [7529000892], SalesYear: [null], Sales: [null]
+R10: Name: [6031333445], Col5: [허정욱] (string), Col24: [6031333445], SalesYear: [null], Sales: [null]
+

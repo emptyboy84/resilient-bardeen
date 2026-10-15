@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+sunnysideup.dev: 3.33.251.168
+

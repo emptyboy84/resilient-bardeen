@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+회사명 : (주)톡플<br>대표자 : 조용일<br>사업자등록번호 : 706-88-03476<br style="box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --
+상호명: (주)톡플</span><span class="footer-company-info__item">대표자: 조용일</span><span class="footer-company-info__item">사업장주소: 서울 종로구 율곡로 272 (종로6가) 1층 106-1호</span><span class="footer-company-info__item">사업자등록번호: 706-88-03476</span></p><p id='footer-company-info-line-2'><span class="footer-company-info__item">대표자 이메일: master@talkple.company</span><span class="footer-company-info__item footer-company-info__hosting">호스팅 제공자: (주)아임웹</span></p></div>						<div class="copryright-area _copy_menu" style="disp
+

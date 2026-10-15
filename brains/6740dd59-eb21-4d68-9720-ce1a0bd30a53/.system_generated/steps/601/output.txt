@@ -1,0 +1,16 @@
+The search for ""주식회사 영풍문고" OR "773-86-01800" 매출액 "감사보고서" DART" returned the following summary:
+**주식회사 영풍문고**의 감사보고서 및 매출액 정보를 확인하시려면 금융감독원에서 운영하는 **[전자공시시스템(DART)](https://dart.fss.or.kr)**을 이용해 주시기 바랍니다[1][2].
+
+### DART에서 확인하는 방법
+1. **[DART 홈페이지](https://dart.fss.or.kr)**에 접속합니다[1].
+2. 상단 메뉴에서 **[공시서류검색] > [회사별검색]**을 클릭합니다[2].
+3. '회사명' 입력란에 **'영풍문고'**를 입력하고 검색합니다[2].
+4. 검색 결과에서 영풍문고를 선택한 뒤, 공시유형에서 **[외부감사관련]** 항목의 **[감사보고서]**를 체크하고 기간을 설정하여 검색하면 관련 보고서를 확인하실 수 있습니다[2].
+   * 해당 보고서 내의 '재무제표' 또는 '연결재무제표' 항목에서 매출액 정보를 확인할 수 있습니다[3].
+
+참고로, 사업자등록번호(773-86-01800) 등을 통한 직접 검색보다는 **회사명 검색**을 권장하며, 기업의 공시 여부에 따라 자료가 조회되지 않을 수도 있습니다[1][2].
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeV2ORjiqQjs3oFa0_iaPOa2U8AJXiu7AJYH6b98D6xzgObCQQz-5vaYX43zkTr2eEnA8Uv0RZgwd4f6Lp11SKFQhrYZmSFKSe5I3Dw==)
+[2] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdHbdrd89vV5wpmQ2PjxHrBsoS2nqOa1Ylx_O6jZfkiX-YNtVByjQKeC0Fbq_JgaRsp3i6xOrmLgsT5CpR1Zc8VRpvCkeV7K4o_TYWFUlPCUzOKKcpxAXO_16tGQ==)
+[3] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY_PHoR3zgOUZ0k31EPw6fwb3ieyc66LlcYmZ9umShfpkmnWN4oYT1OrQRL2wftfCMLDl6lg7AQoFYoLLL1mNKiHwIqHgBLSdKkQ9NTiWJzQKtRvPMtazNxU87W-LvXr-p2m-Y8lqSnZ1Ut1i2Q-1DcLqb)

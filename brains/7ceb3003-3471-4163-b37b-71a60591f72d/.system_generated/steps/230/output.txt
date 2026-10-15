@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+At line:7 char:42
++   const regex = /<a\s+href="\/article\/([^"]+)"[^>]*>([\s\S]*?)<\/a>/ ...
++                                          ~
+Missing type name after '['.
+At line:7 char:56
++   const regex = /<a\s+href="\/article\/([^"]+)"[^>]*>([\s\S]*?)<\/a>/ ...
++                                                        ~
+Missing type name after '['.
+At line:7 char:64
++ ... const regex = /<a\s+href="\/article\/([^"]+)"[^>]*>([\s\S]*?)<\/a>/g;
++                                                                  ~
+The '<' operator is reserved for future use.
+At line:7 char:71
++ ... const regex = /<a\s+href="\/article\/([^"]+)"[^>]*>([\s\S]*?)<\/a>/g;
++                                                                         ~
+Missing closing ')' in expression.
+At line:9 char:41
++   while ((match = regex.exec(res.data)) !== null) {
++                                         ~~~
+Unexpected token '!==' in expression or statement.
+At line:9 char:40
++   while ((match = regex.exec(res.data)) !== null) {
++                                        ~
+Missing closing ')' after expression in 'while' statement.
+At line:9 char:42
++   while ((match = regex.exec(res.data)) !== null) {
++                                          ~
+Missing expression after unary operator '!'.
+At line:9 char:49
++   while ((match = regex.exec(res.data)) !== null) {
++                                                 ~
+Unexpected token ')' in expression or statement.
+At line:10 char:25
++     console.log(match[1], match[2].replace(/<[^>]+>/g, '').trim());
++                         ~
+Missing argument in parameter list.
+At line:10 char:54
++     console.log(match[1], match[2].replace(/<[^>]+>/g, '').trim());
++                                                      ~
+Missing argument in parameter list.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

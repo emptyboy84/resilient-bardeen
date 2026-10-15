@@ -1,0 +1,12 @@
+### Result
+{
+  "hasNoResult": false,
+  "resultCountText": "1건의 기업 검색 결과가 있습니다",
+  "itemsText": [
+    "개\n\n청우정공\n\n609-06-5****\n\n대표자명\n이만우\n산업명\n자동차 엔진용 신품 부품 제조업\n기업주소\n경남 창원시 의창구 차상로 **, ***호"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  // wait up to 3 seconds for result or no result\n  for (let i = 0; i < 30; i++) {\n    const text = document.body.innerText;\n    if (text.includes(\'검색 결과가 있습니다\') || text.includes(\'검색결과가 없습니다\')) break;\n    await new Promise(r => setTimeout(r, 100));\n  }\n  \n  const text = document.body.innerText;\n  const items = Array.from(document.querySelectorAll(\'.q-item, .search-item-list > div\')).filter(el => el.innerText && el.innerText.includes(\'산업명\'));\n  return {\n    hasNoResult: text.includes(\'검색결과가 없습니다\'),\n    resultCountText: (text.match(/\\d+건의 기업 검색 결과가 있습니다/) || [\'\'])[0],\n    itemsText: items.map(i => i.innerText)\n  };\n}');
+```

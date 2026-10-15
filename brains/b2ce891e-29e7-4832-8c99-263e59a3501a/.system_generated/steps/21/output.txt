@@ -1,0 +1,11 @@
+### Result
+Waited for 30 seconds (requested 12000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://www.gongsinara.com/company/4359964
+- Page Title: 비솜주식회사 | 부산 동구 · 주거용 건물 임대업 - 공시나라
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-28-22-255Z.yml)

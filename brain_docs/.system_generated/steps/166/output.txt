@@ -1,0 +1,12 @@
+The search for ""569-86-02122" OR ("레드에셋" "길영준") 전화 OR TEL" returned the following summary:
+제시해주신 사업자등록번호(`569-86-02122`)와 기업명(`레드에셋`), 대표자명(`길영준`)에 해당하는 기업의 연락처 정보는 다음과 같습니다[1][2].
+
+* **기업명:** 주식회사 레드에셋 (Red Asset)[1]
+* **대표자:** 길영준[1]
+* **대표 전화번호:** **1833-7169**[1]
+* **사업자등록번호:** 569-86-02122[2]
+* **주소:** 부산광역시 부산진구 중앙대로 630, BCC빌딩 7층, 8층[1]
+
+Sources:
+[1] [xn--hy1b43dj7khue.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwnKSL5Pk0ctRU8V_lfmjnFFYHfEHnd1SS9jH4J-0vcvQrjDCo06GiBnQPB2nx76cpTiB-K7uhKAyWiGYvDDZUG2mJOZeHrtaPz4KAOllc3QPaGsE6rELtUpVC2CE=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl9d9lNR4Dg4kU4ArTgUR74KCoPI-S3JEi4tW5h_hJOryYEDXDGRM4UbkEJ2z0V7j7wdrvBEFM4_UIfypWZwazy3AasJAuovSOaycOss8VJu7_xQTu3aHSOgk=)

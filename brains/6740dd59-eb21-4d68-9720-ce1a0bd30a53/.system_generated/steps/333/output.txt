@@ -1,0 +1,15 @@
+The search for "site:bizno.net "이소민"" returned the following summary:
+비즈노(Bizno) 사이트에서 '이소민'으로 검색된 사업자 정보는 다음과 같습니다.
+
+*   **이소민국어교습소**: 경기도 고양시 일산서구 소재, 개인면세사업자[1]
+*   **아엘(a.l)**: 대전광역시 대덕구 소재, 전자상거래업(의류/패션/잡화/뷰티)[2]
+*   **미니몰스토어**: 광주광역시 북구 소재, 전자상거래업(의류/패션/잡화/뷰티)[3]
+*   **축지에프에스 주식회사**: 인천광역시 중구 소재, 수산식료품제조업[4]
+*   **농업회사법인 주식회사 대흥농장**: 충청남도 천안시 소재, 농업 및 전자상거래업[5]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs-L4d262LO8oHoyIM_M8z4fy_B9pS65zVfuMuUks8Ox5HZ7gyaU3hYP01oy5wyid-kUjro-yKQ2d6cuyZtK-E2YhzaklUUm-0yNlc9ohCbzRxZeStpa4F8w==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM1S2ajg82kcracqsjjhghvBCuFAJv0v-uuTYQDfdQKKNMoe0qlflgrQM2a7jMcQVE9th1G2grXGbeAXjJ-c99qHaTmzAIvp3sj67MWXG_1u_vlYMBkbqMWw==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVDF66raisaOAt042QJISBTu72SI-coD1LKV7zrEjjmlnE_TyyaxxVGg2f7KDAZq06-6DbmaejbYVfNtt31CNZAgvudab7kL_pkAFgR1LANbgxzfhBCJLP5Q==)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8kjrRrehV0-a1P_IWz5UauHaCufJKhGGVE8m3Q0iPtfp09q-Z22B1VtjBt_bFpF-CE11gI2BGu0kjKW6YGeIOymRgpYqTtO5TzN2nPJmHUbS69lekqSQvYA==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEee_DBPd9PjP0-G8TYRonlkp74MDfszwduhkDasfH_b6CACqaJ2JwU7BZthu3tgfdYhaA5nEyCjxNwJyWjPktuhR3Lo0LUtNU7EOcyR_yJI09gS2RVuux0Q==)

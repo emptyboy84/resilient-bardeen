@@ -1,0 +1,15 @@
+The search for ""대표자" "이은석" "조나단" OR "대표: 이은석"" returned the following summary:
+검색하신 키워드와 관련된 주요 정보는 다음과 같습니다.
+
+*   **이은석 대표자:** 현재 **국립해양유산연구소 소장**으로 재직 중이며, 2026년 기준 '2026 섬지기 시민강좌' 등을 운영하고 있습니다[1][2].
+*   **게임 개발자 이은석:** 과거 '듀랑고' 개발을 주도하였으며, 크래프톤의 '파파랑 스튜디오'에서 차기작을 개발한 이력이 있습니다[3].
+*   **조나단:** 방송인 조나단은 예능 프로그램 〈벌거벗은 한국사〉 등에 출연한 바 있으며[4], 이 외에도 다양한 분야에서 이름이 언급되고 있습니다(금융권 팀장 등)[5].
+
+질문하신 "대표자 이은석"과 "조나단"을 직접적으로 연결하는 단일 조직이나 사건은 확인되지 않으며, 각 인물은 서로 다른 분야에서 활동하고 있습니다. 혹시 특정 기업이나 단체의 대표를 찾으시는 것이라면, 해당 단체명을 함께 검색하시면 더 정확한 정보를 확인하실 수 있습니다.
+
+Sources:
+[1] [newsseoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk82g4RE2YvVhOW_KpteESoAV9nVSFsKBVHs3s704Ooug2WmAUMaCcWXRnIyrz1WfyziGwgw-2geuMdZFTvldePvpCyjYWSglsqiOBo4DAaP9CFpEC8ADTJLfEfnyivNMLPtnnLvheFftqk5qFE_8GdqwZzbSQJqB5roxYwCHgv6n8mz_x2tbKgZRJtuJjmn0qpVqVkQqiKQv9r3WyZmcLNaTv33rPDoEmQOo=)
+[2] [newssearch.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAaS90Jyw7JmDaxSjL8ejronSFp-lrQDGUSNjHCYzuBU1Ofc5fr-2hiB1l72v_76iEflp3URcLPbAWa7M4XPCCtEezSAzcoNtpw6VTWFWtNNeU94vRoKZYkLbSB7TzKgqpIIYzBUpb7dLXQVDOJc0WOA9RygaSspLkFYUvs9SYMjsJHe3Jva00uLUWUQSzL7HGxfk1mMAbERTu3uAfFWlhn2htEpWg7_6h)
+[3] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbZGVBmfpfvXKmgnCy9ZhlVbzzDdlH3zs037QGxQazR9pUw2tJzZoxJ18KggRWd5aoJLxGhwHtODh42QEIXQFPeLVyBYp2jx-Dzy3f1iQIOpRuhK2YqdYAQTbgStfuUJwK7eM4f4g=)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELIbgyGG_oa7RO_jR0_ai73MRGZ69qI5DZhfFvXTY5pARnExlgrZ_YAWm0VNbeAnzqIkIGF15QvOYUjxMwQj8duEQNf1B15krDOX0Y6I0N0xQvupYfXkjHsoAKudHh8XxqkZA=)
+[5] [newsian.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyJWyBn8FJGS4tGmwdTsgElJMJntyFlyK7b_JsUb73Sfx_XjcH2q0x8Iv6Cu7WrPUGd5EV2Wxokqhgw2WtCDw-3hmi0w6KsL_AlitbZ2wqhXWI96BNNQC3VM-LVxPWNIuCnuUned2CaTsVCD_2-rTV)

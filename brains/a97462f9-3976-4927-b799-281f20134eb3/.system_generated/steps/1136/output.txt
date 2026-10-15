@@ -1,0 +1,16 @@
+The search for ""노매드헐" OR "팀리부뜨" OR "타이어비즈" "매출액" OR "투자" OR "실적" site:thevc.kr OR site:saramin.co.kr OR site:jobkorea.co.kr" returned the following summary:
+요청하신 기업들의 주요 정보(투자, 실적 등)에 대한 검색 결과는 다음과 같습니다.
+
+### 1. 팀리부뜨 (Reboott)
+*   **투자 및 실적:** 주관기관 소개자료에 따르면, 팀리부뜨는 2024년 선정기업으로서 **2억 원의 직접 투자**를 유치한 실적이 있습니다[1].
+*   **기업 개요:** AI 기반 분석 지능 및 언어·음성 지능 솔루션을 개발하는 기업으로, LLM(거대언어모델)을 활용한 무역 업무 자동화 서비스 'askyour.trade'를 운영하고 있습니다[2].
+
+### 2. 노매드헐 (NomadHer) 및 타이어비즈
+*   해당 기업들에 대해서는 요청하신 사이트(thevc.kr, saramin.co.kr, jobkorea.co.kr) 내에서 매출액이나 구체적인 투자 실적과 관련된 직접적인 데이터가 검색되지 않았습니다.
+
+---
+*참고: 위 정보는 검색 시점에 확인된 공공 데이터 및 관련 웹페이지를 기반으로 합니다. 기업의 최신 매출액이나 상세 투자 현황은 [THE VC](https://thevc.kr/) 또는 각 기업의 공시 자료를 통해 직접 확인하시는 것이 가장 정확합니다.*
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UOId-BYQPhOEDrV4ss22llq_28sD-h7BRS_EQegF3IZT2XNfGCspl_b5mzem-R89GRZlRcCB3UYmpRr3Ps1o7Djxc68Y4i8rKUFYz31PSjzbzvX1pq1R1qh7FrkTvcJiAa5opVheFIrFnFkDPM2WbErOdKYqcxb8x8Kt-7t2_iB4j5RL02AGCHo_Lk0gFnhjGVLYZrFxBrvpPRdSkT2moijr3liTZMWpsE4jnvzxdVABMKT7s-7MzmxhO3txLiHpLFIhvT3IFnGqJlR_3IP9C64Haf1aW1kxQjx4DImYRK9VL6UhQFi-iFA3jvAJ9eqcARQbxhUyN9uZcdFOxF2XAkxmUrzho2tbSI_BI4TtojjVzmOy_9Fl6lBdRxAe)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp3CK7I6GrjOu9uPyVQgSznVxDYJOaLrjVV9eIQpB4W-2pZGimCeRXXOr-yqWSjcla3lFOI7x47RQK-WLOXz9C_jZPeVMhR0Blouv4ExRL_UiDvzDGgW7abVQ9m3ro4Fmn10fbvqgVPJ_T6FkE9QFcchwcVkfbuVW9-HMK3siLZq45A3MVVYlFxF8LG61N-juZmvmdzE8NAwS6JP2zJ-jiazaflh1mCM5tPp0Ho-VfhUcpBilvsIv3u7hhCuZ2WjUrkMQr1ZOXMx1UzMmL8NXupykCyZONJF013xNGczMCi9tPiwAWORLH2pFcfrXuFazAY7hKhPSkVmaMjg7NMuOjWyD_pCEkCOb_ON8LmsXQycsK0he4oIidT1r2G6AjEw9w7j27vqhR)

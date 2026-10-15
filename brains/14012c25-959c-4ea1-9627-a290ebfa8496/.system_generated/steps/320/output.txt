@@ -1,0 +1,11 @@
+The search for ""부산스마트시티" "대동로 303" OR "760-86-01935" 전화번호 OR 연락처" returned the following summary:
+제시해주신 정보(`부산스마트시티`, 사업자등록번호 `760-86-01935`, 주소 `부산 사상구 대동로 303` / 부산디지털밸리)에 해당하는 기업은 **(주)부산스마트시티**입니다[1][2]. 
+
+국세청 등록 정보 상 계속사업자로 등록되어 있는 법인이지만[2], 일반에 공개된 별도의 대표 고객센터 전화번호나 공식 연락처 정보는 확인되지 않습니다. 
+
+해당 주소지(부산광역시 사상구 대동로 303, 부산디지털밸리)는 여러 아파트형 공장 입주 기업 및 지원 시설들이 함께 위치한 건물입니다[1]. 정확한 부서나 담당자 내선 번호가 필요하신 경우 정부·지자체 스마트시티 추진단이나 관련 공공 사업(예: 부산에코델타시티 관련 한국수자원공사 부산스마트시티추진단 등)의 공식 채널을 통해 문의하시는 것을 권장합니다[3].
+
+Sources:
+[1] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrf7EF20GPnS7P421mgYjacUsthlyZ2UGnYOGWDq49wemvqNEU4rW4CZCt2-5SEHfzYBTDAKErK5nUyCB0AyiQ_lbikISSrKQKC6g3kVBnVfIPQkuEcBXwZ_cDkiTNjmE8mgs8oMYBzS_5ZG-dH_SF15_kKRtWM2xrUmns7tn6J8xTvSVa5twpOMDtr6wS_3xZMGFCSV217RgW2VAK0dtC9aiCdy35CDEM2huQIPM2V0aTg29S13KhFrN5ykP8CKjmWN5b_9OUlzlzpbMjotEjzd8pBn4nzODO5kpDtMY1QWY54lgxYcm9weE=)
+[2] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApaM3WPVLPe6-_FJNzUcQLHU7MEOUYutHwycwRWqC0I1mW6BQsbqJ7cOl99u5nQkvH3kjcie2Xd_a5K8yGGEn18ZEwjX6p0Q2X-0iNKwPKq8ROZCLDgaIqw==)
+[3] [kwater.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3VNhXmuo_-bzwkNyohNxq-Ydi0SdDFQKsVeEgrWUr7hH2Dj9qfqt3R3HVRguH5Ot4HbmNQ_qVHZRxTMeht4wM4bXf8hxoH6KuaNrowRU4kDLDUs8gzXDaqMVDV_nNMFNWubFPpBh4nRJLhNc9ECRZrBw4uAXzI7Rt1OEqv217UAJKIrlsOkJg8qAY)

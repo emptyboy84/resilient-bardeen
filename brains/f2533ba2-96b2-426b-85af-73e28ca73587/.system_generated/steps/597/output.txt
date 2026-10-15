@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.kiscon.net/');
+```
+### Page
+- Page URL: https://www.kiscon.net/
+- Page Title: 건설산업지식정보 시스템
+- Console: 6 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-53-53-633Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-53-49-213Z.log#L1-L8

@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+- Page Title: 부산 신카 | No.1 전화번호검색 - 114On
+- searchbox "검색어 입력" [ref=f2e11]: 부산 신카
+- /url: /search/result/all?query=부산 신카
+- /url: /search/result/db?query=부산 신카
+- /url: /search/result/public?query=부산 신카
+- link "A 신카서비스 자동차정비/수리 부산 사상구 운산로 72 지번 부산 사상구 괘법동 928-18 051-322-4053" [ref=f2e308] [cursor=pointer]:
+- strong [ref=f2e314]: 신카서비스
+- listitem [ref=f2e322]: 051-322-4053
+- /url: /search/result/db?query=부산 신카
+- link "주식회사 신카 통신판매업 [정상영업] 부산광역시 해운대구 센텀동로 **, 센텀에스에이치밸리 ***호 (우동) 지번 부산광역시 해운대구 우동 **** 센텀에스에이치밸리" [ref=f2e337] [cursor=pointer]:
+- strong [ref=f2e343]: 주식회사 신카
+- /url: /search/result/public?query=부산 신카
+- /url: /connection/telNumQnaList
+- strong [ref=f2e185]: 전화번호 묻고답하기
+- strong [ref=f2e189]: 전화번호 제보하기
+

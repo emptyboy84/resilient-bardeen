@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+KOBIS Form 0: <form action="/kobis/business/mast/mvie/searchMovieList.do" id="searchMainTopMovie" name="searchMainTopMovie" method="post">
+            	<input type="hidden" name="CSRFToken" value="7R52RMXL_z28EkvWqfr9X3Tzw8dzwCYKWy_RX9moaGQ" />            	
+                <fieldset>
+                    <legend class="blind">검색</legend>
+                    <div class="hd_slt">
+                        <sele
+KOBIS Form 1: <form action="searchCompanyList.do" name="searchForm" id="searchForm" method="post">
+                	<input type="hidden" name="CSRFToken" value="7R52RMXL_z28EkvWqfr9X3Tzw8dzwCYKWy_RX9moaGQ" />
+                	<input type="hidden" name="curPage" value="1">
+					<input type="hidden" name="searchType" value="">
+                    <input type="hidden" name="point" value=""/>
+                 
+KOBIS Form 2: <form action="searchCompanyList.do" name="pagingForm" id="pagingForm" method="post">
+             	<input type="hidden" name="CSRFToken" value="7R52RMXL_z28EkvWqfr9X3Tzw8dzwCYKWy_RX9moaGQ" />
+				<input type="hidden" name="curPage" value="1"/>
+				<input type="hidden" name="searchType" value="">
+				<input type="hidden" name="useYn" value="Y"/>
+				<input type="hidden" name="sCompanyLang" val
+

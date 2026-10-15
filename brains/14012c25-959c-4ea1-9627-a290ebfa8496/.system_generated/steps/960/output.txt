@@ -1,0 +1,22 @@
+The search for ""play.google.com" "펫펄스" OR "Petpuls" OR "Pippo" OR "펫펄스랩"" returned the following summary:
+구글 플레이(Google Play) 스토어에서 제공되는 주식회사 **펫펄스랩(PetpulsLab)**의 주요 반려동물 관련 모바일 어플리케이션 및 관련 정보는 다음과 같습니다[1][2]:
+
+1. **Petpuls (펫펄스)**
+   * **설명:** 반려견의 음성(짖음)을 인공지능(AI)으로 분석하여 감정 상태(안정, 불안, 슬픔, 분노, 행복 등)를 파악하고, 스마트 디바이스(목걸이 등)와 연동하여 활동량·산책 기록·소모 칼로리를 관리해 주는 스마트 펫케어 앱입니다[3][4].
+
+2. **삐뽀 (Pippo) - 강아지 건강관리 & 감정인식 앱**
+   * **설명:** 집에서 스마트폰 카메라와 키트를 통해 반려견의 소변검사(신장 질환, 당뇨, pH 등 11가지 건강 지표)를 손쉽게 수행하고 분석할 수 있는 홈 헬스케어 기능과 감정 번역 기능을 함께 제공하는 앱입니다[5][6].
+
+3. **기타 펫펄스랩 출시 앱**
+   * **펫터(Petter):** 펫시터와 견주를 연결해 주는 매칭 및 펫시팅 플랫폼 앱[2]
+   * **펫노트:** 국내 최초의 펫 알림장 앱[1]
+
+구글 플레이 스토어에서 `PetpulsLab`을 검색하시면 위 앱들을 다운로드하고 자세한 기능을 확인하실 수 있습니다[1].
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67ppsYelcwdaWX-uWAI2zFBLtWeA3tEd-DFfpI4FOTcNzFI9-W63r4Zo_QmfJMUVMNLGdIUt2s_skiypwAHcWSZpouTdc1l8--XRFihkajzDICrA2MfnmRcCsP1VoeAP8kvxEvm5xKo5ZN5bp9rtSsBmmVvoy)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1Njs1Ia44JsJyPjLQr61FI6D3-7lSZB9llbnIo_82deU-Hd1-6KJ8_ZBuaVxVlHBEubAt3UhyqcJbJJGt43Kzl7p9NHXi9EqkuNSGlkUaT9a6hhMsqEUo65la29Oq4rjULyQl7EKBITuQGjqxKa66Paf_yr07)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl0vmIqJdnOlIC0rPXSrhDlhW7qB76AQ0DMZ5wIEIzr7G_oF5VIcbfLYQ-V2YoOzTAWpK_824W0iNA8AbQF15W5okOzD0DT5Q1JLWXGCtzstrBoDiHKmhsYRTyjjia2iEifgFPYP8GiSivR_O5VbqE-vhXzJg=)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDVmz_P99I4uZAr4cO99o_93Lm6VuNqjX8lMQOyu9Vn9u4JJNGWXed-gSpgyBkE7fW4sU_KKZ35VNYTS9IWgHSaBDsyZH_LqIXeKk7LaZKNbIMhQZ0GxIFo1xvppV8v35)
+[5] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE-3a2me9wKlj7xKGgYK5fvldcBLjDVQPzTvESIpncb6JIrdAE8uj700d5NENUTZhBje0qH1DflexVm_MA-tCkgCGFnOiwpqXHhDkHITgq5YP6LoUjK2LqO_uulL0YH9U6gNEq_XezxoulpmNYnUQKeoA8ATnNr-l4LLhpHmA=)
+[6] [news1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIHoZAFC5LcmApJIXg1q4ZJHPuDCNq7VwqA0iJhJRHP2iAh1Nv9GzP_GNLgaQmfYv374xfDHO2j4gQKw29f-n2xwD-iU7k0NViK-RjCf0JJmZrxxZJGHaZpH2AoTBUPy39d-9m_OxNPUrePxA=)

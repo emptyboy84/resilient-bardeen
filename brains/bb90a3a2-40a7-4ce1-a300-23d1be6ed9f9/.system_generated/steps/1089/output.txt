@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Bizno len: 24650
+Row: 전화번호
+Row: 팩스번호
+Row: 대표자명 김대곤
+Row: 회사주소 부산광역시 부산진구 전포대로 274, 3017호(전포동, 서면대우디오빌2) 부산광역시 부산진구 전포동 181-1 서면대우디오빌2
+Row: 영문주소 274, Jeonpo-daero, Busanjin-gu, Busan, Republic of Korea
+Row: 관할세무서 부산진세무서 (전화번호 : 051-461-9200) 부산광역시 동구 진성로 23 (수정동)
+

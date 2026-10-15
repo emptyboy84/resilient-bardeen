@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://smartstore.naver.com/neejoostore');
+```
+### Page
+- Page URL: https://smartstore.naver.com/neejoostore
+- Page Title: 네이버
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-08-39-034Z.yml)

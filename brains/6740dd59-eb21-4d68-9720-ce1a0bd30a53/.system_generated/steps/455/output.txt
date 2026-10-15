@@ -1,0 +1,187 @@
+
+The command exited with code 0.
+Output:
+Total emptyBizRows: 336
+Sample of emptyBizRows (first 10):
+{
+  rowNumber: 504,
+  sn: 503,
+  name: '89Light',
+  rep: null,
+  phone: '0507-1314-6280',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 508,
+  sn: 507,
+  name: 'LINC',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 536,
+  sn: 535,
+  name: '김정보',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 537,
+  sn: 536,
+  name: '꿈해몽',
+  rep: null,
+  phone: '051-337-6320',
+  status: null,
+  note: '철학관으로 확인'
+}
+{
+  rowNumber: 539,
+  sn: 538,
+  name: '나래바람',
+  rep: null,
+  phone: '051-612-2133',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 547,
+  sn: 546,
+  name: '냉이영화',
+  rep: null,
+  phone: '010-6893-4870',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 552,
+  sn: 551,
+  name: '녹생광고연합그린하우징',
+  rep: '박명섭',
+  phone: '051-442-2688',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 593,
+  sn: 592,
+  name: '도서출판일광',
+  rep: null,
+  phone: '051-723-0037',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 602,
+  sn: 601,
+  name: '동그라미광고공사',
+  rep: '정지후',
+  phone: '051-206-0777',
+  status: null,
+  note: null
+}
+{
+  rowNumber: 611,
+  sn: 610,
+  name: '동화사',
+  rep: null,
+  phone: '051-464-0761',
+  status: null,
+  note: null
+}
+Sample of emptyBizRows (last 10):
+{
+  rowNumber: 2255,
+  sn: 2254,
+  name: '크리에이티브올라',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2256,
+  sn: 2255,
+  name: '저스티스어드벤처',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2257,
+  sn: 2256,
+  name: '아크리아스튜디오',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2258,
+  sn: 2257,
+  name: '컨벤션숲',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2259,
+  sn: 2258,
+  name: '번들즈',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2260,
+  sn: 2259,
+  name: '모두싸인',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2261,
+  sn: 2260,
+  name: '뱅크다이어리',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2262,
+  sn: 2261,
+  name: '아신홀딩스',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2263,
+  sn: 2262,
+  name: '인우랩',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 2264,
+  sn: 2263,
+  name: '엑스에이아이에듀랩스',
+  rep: null,
+  phone: null,
+  status: null,
+  note: null
+}
+

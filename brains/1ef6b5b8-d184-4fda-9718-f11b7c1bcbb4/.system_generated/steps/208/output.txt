@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+On branch miu_design_registration_update
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   "data/(\353\215\260\354\235\264\355\204\260\352\262\200\354\246\235\355\214\200)\354\213\244\354\202\254 DB \354\267\250\355\225\251_\354\240\204\353\213\254\354\232\251_260720_\353\260\260\355\230\204\353\252\205.xlsx"
+	modified:   merged_500_perfect.tsv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+

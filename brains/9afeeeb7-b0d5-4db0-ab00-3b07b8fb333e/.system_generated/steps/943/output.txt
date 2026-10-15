@@ -1,0 +1,11 @@
+### Result
+Waited for 3 seconds
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 3 * 1000));
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EA%B9%80%ED%98%9C%EC%A7%84+%EB%B3%B4%EC%97%B0
+- Page Title: '김혜진 보연' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-12T00-58-38-390Z.yml)

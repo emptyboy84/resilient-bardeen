@@ -1,0 +1,13 @@
+### Result
+[
+  {
+    "id": "staticUrl",
+    "placeholder": "",
+    "name": "",
+    "className": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ id: i.id, placeholder: i.placeholder, name: i.name, className: i.className }));\n}');
+```

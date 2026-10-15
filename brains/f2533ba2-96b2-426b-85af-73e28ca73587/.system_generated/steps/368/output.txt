@@ -1,0 +1,11 @@
+The search for ""뉴스본다코리아" ND소프트 OR "newsbonda"" returned the following summary:
+검색하신 "뉴스본다코리아" 또는 "ND소프트", "newsbonda"와 직접적으로 일치하는 기업이나 서비스 정보는 현재 검색 결과에서 확인되지 않습니다.
+
+다만, 검색어에 포함된 **'뉴스본다'**라는 키워드는 최근 미디어 환경 변화와 관련하여 **"한국인 절반이 유튜브를 통해 뉴스를 본다"**는 언론 보도 및 조사 결과와 관련하여 자주 언급되는 표현입니다[1][2][3].
+
+혹시 찾으시는 정보가 특정 언론사 솔루션이나 웹사이트와 관련된 것이라면, 정확한 명칭이나 관련 분야(예: 언론사 홈페이지 제작, 뉴스 큐레이션 서비스 등)를 다시 확인해 주시면 추가적인 조사가 가능합니다.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvAAhOZLg6D9sK7aD9N6U-8EoKzdQcSsZApMMiTirgzpwunuSwtNhERMyZmaH5LETlm-VHq8JwR8gjd2483WTvNVwyXWONHp9sMc-AwOF7ktC4Tc3GpG0Zp0xW6lFCFw==)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTJFleTNNzDYXqoepZjQRn1RwwZY1vBHSkmKVMYi8bi-OkgHHsW_0COgCcXoCxBGfpNbEhpehHmKFcG4asV20c4_xe79VzGrenG0ELMOxPV9gJQHh-B04zTHqbjB-6Lpw=)
+[3] [datanews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKQ8LSLmgohvEBnizyOmeNC3KlFGLfMqVrlsCUCMH3KFQX8VNZKUHR32t6Kry2lSnPKZccx7zk2jluBA6WXj3gMfFi1nqe1T740Y6wWGWUDibHZJSevDuCOsEV9cGDf0IhJQZ45LfFvuUTqw==)

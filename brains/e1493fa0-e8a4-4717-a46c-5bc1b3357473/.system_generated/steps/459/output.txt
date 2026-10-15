@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+rawLines: 200 niceList: 200
+niceByBizno size: 200
+

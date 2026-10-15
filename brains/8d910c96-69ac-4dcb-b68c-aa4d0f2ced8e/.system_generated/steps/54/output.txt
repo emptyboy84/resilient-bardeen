@@ -1,0 +1,20 @@
+The search for ""최유창" "이수연" 만화" returned the following summary:
+"최유창"과 "이수연"이라는 이름이 함께 언급되는 특정 만화 작품은 확인되지 않습니다. 두 인물은 서로 다른 영역에서 활동하고 있거나, 우연히 이름이 함께 언급된 사례로 보입니다.
+
+관련된 정보는 다음과 같습니다.
+
+*   **이수연 (만화가):** 청각장애인의 일상을 담은 웹툰 **《나는 귀머거리다》**의 작가로 잘 알려져 있습니다(필명 '라일라')[1][2]. 그 외에도 《내 어깨 위의 두 친구》와 같은 작품을 발표했으며[3][4], 다양한 만화 단행본의 번역가로도 활동하고 있습니다[5].
+*   **최유창:** 만화가나 만화와 직접적으로 연관된 인물이라기보다는, 드라마 **《너의 목소리가 들려》**에 등장하는 극 중 캐릭터 이름(배우 최성준이 연기한 국선전담변호사 사무실 사무원)[6][7]이거나, 일반적인 동명이인으로 검색됩니다[8][9].
+
+따라서 찾으시는 내용이 특정 웹툰이나 만화책이라면, 작품의 줄거리나 장르 등 추가적인 정보를 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXJKVnWI5kyXJ27pVwIH2KHl_9wjA_HcX0R6dlLYP2MxLd7CLuRW_kOwV7VPoZ3O3ylAL6-tkNKRJKNojX9a6S813UHRFX3oMAi5kWpACb03B38BRn3_F3lVPrU-HsMXxY7YCysGNyRtYPP9hGNHM)
+[2] [theasian.asia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeL2YGihlpZxjM4hmLgDfEfV49YaTG7bk3NCDJ3mxLnCA-uBEdt9nQIpOz37bmbiTIXu7bDRFf6LKLJBe143bQH_SlrdOm74ZuStbAYz6GFNKORW2blqm1_bYzUoou)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhb_Mkmp-d3RVABfGWT0GV0DxCr6nYI0VOq0QITIVxfXZ37za0V3MKyS4Cl24B-BflLlCqvBdvNy1MaooiDCHQmqx1-nFs8P81aPnQYXAxXj5TqnWjkodVtc9jbAowi6Q=)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5sF7PI5i0_fVYm7PlM2j9QcOzSxpNKjlx-28NKUk1JX7Hd3XfTEmYoASYZrXApe3nbEeAb5kJh8CbfXNOW8hjF5JYSAG34fxwXog7gy69EhuvkdbX14JRe6VQef1Y8Ug=)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_pB5nsX4WWBGzU7qeK6PMUN2cDPOJTxCrFPjEj_HL6HbGgUeL5dKi7-4p1yEPHA_8HsMmFOaBhDLzNfkFxqpLqfJEEryhBYhwDpzPNO3FE0bXw5KvrjL5kvXGyGZWLpYNJH4wpGc=)
+[6] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpamwtKst9cpi72QN2iJkQuYHr7cFEItYxa_e163zB9R9tcMhSHJoYhc1mmK00KoXR8CicyiwnMJQhQxNICLlNqi22bG7A68Nry3-RmXyAPjzCWlwUZ2tIwoWHYV5llbaI3ZnY4BxxEVNxOg==)
+[7] [sportsseoul.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4IuuBE5tj-N9L-VEgBIoWYVa46WCDGFp99QQbaRML3OSTcxXdOVsCH5Y6u-5BKhhzjJ2anTCGd9hgtMNj59Md8w7XFK0ClD8L4vu7n8cJsLX0bZXOkxAdCLYAGP6M0zo=)
+[8] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY5tzBdNJpfIdcPWyja2Hu452hm-UG801mZvL16VTiDP4b0uNHjlbVpvyJrX4xyuh27M-nYgXHgge_tnoIlBO2e1mO4xIAUZ0J-BQy-lhfRmziy97IvtUFBRDHsEeY7SvwHjM=)
+[9] [linkareer.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Yz3lOEOv2Dg45gGZQAxuKx70MkGOPbxmqLLTBC-rb1rj-0bBiFweLBxVdCn2phBCKI3VXPs_M6mF4MFwGX_OW6wXR0wegtOoNQEzk8e3E5FruqGP7JNXjA==)

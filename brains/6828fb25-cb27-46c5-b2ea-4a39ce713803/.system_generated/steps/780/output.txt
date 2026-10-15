@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Excel match row: 20394 [null,null,null,"파트너스인드림",8965700138,"김현옥",null,"부산광역시 해운대구 센텀동로 99, 4층 410 (재송동, 벽산e센텀클래스원)","010-3997-4030",null,null,null,null,"20160503",null,3,null,null,"비주거용 건물 임대업",null,null,null,null,null,"8965700138"]
+

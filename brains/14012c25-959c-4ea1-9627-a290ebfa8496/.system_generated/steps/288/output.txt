@@ -1,0 +1,12 @@
+The search for ""대성기전" "유통단지1로57번길" OR "자동차부품단지" OR "김열우" 전화번호 OR 연락처" returned the following summary:
+검색하신 조건에 해당하는 업체의 정보는 다음과 같습니다.
+
+* **상호명:** 대성기전[1]
+* **주소:** 부산광역시 강서구 유통단지1로57번길 34, 104동 114호 (대저2동, 자동차부품유통단지 / 서부산유통단지 T플렉스 내)[1][2]
+* **대표 전화번호:** **051-831-4701**[1]
+
+*(참고: 입력하신 성함 '김열우' 관련해서는 공개된 공식 임인력 정보나 매칭되는 데이터가 직접적으로 조회되지 않아 전화번호 확인에 제한이 있을 수 있으나, 해당 주소 및 자동차부품단지 내 '대성기전'의 대표 연락처는 위와 같습니다.)*
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzfFDeTSd8zodcJnF53ol4gQxmn8A1SSAST5EhuKVVG2yWwAKYh5ZGInbgRUZc60nPwUY4PlahWoAWNfvzJqKRxdSy2LAxtsHe9yHPfpib2UD47UVIwTs6xE13-gghTSRKw4ruEle8_oo=)
+[2] [yeogie.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIgvspTK9WPG8C6WbG4Qcx5DPA32kxra1bivwRgsVG8xmxRA--ZJswm7p2g_1-rh8JESbd2g6lYPhp1iWJBPu1jjlU-SLTh0zGsdEz5LqLcx8C7UzM7OqDMmdi4_6jrJUK9oq3IlX_Bw0poNU27qGZgyypp0IKvCLQZuOb)

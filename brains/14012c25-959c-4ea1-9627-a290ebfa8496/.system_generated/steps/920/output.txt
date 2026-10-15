@@ -1,0 +1,22 @@
+The search for "site:bsjunggu.go.kr "부평1길 73" OR site:bsjunggu.go.kr "부평동2가 79-6"" returned the following summary:
+부산광역시 중구청(`bsjunggu.go.kr`) 홈페이지 자료에서 검색하신 주소 및 지번(`부평1길 73`, `부평동2가 79-6`)과 직접적으로 일치하는 상세 본문 기록은 확인되지 않습니다. 
+
+다만 부산광역시 중구 부평동 및 부평1길 일원과 관련된 중구청 공식 자료의 주요 내용은 다음과 같습니다:
+
+* **부평1길 관련 정보:** 
+  * 부평1길 일대는 부평깡통시장 및 부평깡통야시장이 위치한 지역으로[1][2], 도로 특화포장 공사[3][4], 하수 덮개 교체[5], 즉석판매제조가공업 및 식육판매업 등의 업소 주소(예: 부평1길 39, 부평1길 48, 부평1길 59 등)로 중구청 행정 자료 및 물가·위생 점검 문서에 자주 언급됩니다[6][7][8].
+* **부평동2가 지번 정보:** 
+  * 부평동2가 내 다른 지번들(예: 부평동2가 68-9, 75-10 등)은 중구청의 인허가 업소 목록(즉석판매제조가공업 등)이나 착한가격업소, 행정 문서에서 확인됩니다[6][9].
+
+특정 문서나 공고 번호, 상호명 등 추가 검색어가 있으실 경우 이를 함께 입력해 주시면 더욱 정확한 정보를 찾으실 수 있습니다.
+
+Sources:
+[1] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqMSPQYcSb3kdVcxPm5xqS-JqegFqJ2Bv9t3Tu75cDU5zjhZbe-g57HORj9A_E8oMlbn4BCDJr2oUXjgfZ46yOyMD5JLhtAli60kXrXTahMTWfw54HTznp5e8CEFZ6VTUW9bj_hDSfXxSXUNd4tOXagGiHqJG04fY7RAm65ALBLBGx9A8OnudxTm-FHj53cXBi)
+[2] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaxUd8eaR8H6iaQnTELHdBSvkhrbDxxkn7eRuXz_bBx3LvT5MfjZAaX81QbldpsoiXqzD7ACDwE_wZlbVonp8VXVse2Wlg320Dxy8kJnsrS1a6GvcV58ArodTa5g_3D_i7xojF5_kqYqjm9cUaK8rTwHPDVEkpxnbcKVc6tzkkXA==)
+[3] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkCA2jKzyvntJ-7jV737euY3jPcBaeeUUuiqsB08VhUlrez5Ly2VQ2cXV872UBe8dTC0MKCkRxcRo0D3gl3QNA6sVD_XR8CcdEIdfxP1r8r-T7BwDpZGir_cRHMzXQLQJPrKZT7qxZVmw9qhOjGr-MsJcTVSHQnarhP-yq8l0-VcQu0O1DZWLrjn-Pib7-LIj-PfsB0PKCdk4Ex6tX_OnKjJMe_jIfPZaNQNM=)
+[4] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf6Cp_6g4t7VqK83HJfn9-wL-Sy6OrS_y5PWXTXtiWnrU0Tv99z0tV9uGgUCzqreYURxLfVBd1cZEYsLUsrtfmElc7F_0bQvB5w84P7LqQHaCFmtrWjzKa8f0txeLkXN1GK_DU8S5ccB2--mTVgsJT2Nc4HEzXAMzix5sHhmBv8Nv6Ej35Yn44TsJoQvrq_PeFlQntcQXEjfRZWzY=)
+[5] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0r-aC4KcfTznlcujtnXblI4mZahm0UaZ5LO9v6TqXdUF0z0AGuxrwluQDMSk-QIUCrrZdMtPPN29G4UJu8fXu--Q-fcQBYTE20WLVpxLQlMXyZk9S4rhqt2tNQhs5F35FtlAezfeCtNWzmYYvJwyx43Jxy8rC8-VJVM5dXor_jR9-MFKwE10-5ZwaNhOxFMkwmiRQn5BmZuTRphhCd47XWYsRMWsX9NxW72i2-TYwQ_XU067EiNNYBzb0Q85bKqvg_1G9Ja9kg60-lapq5UtaqryMHiAdBXGV49-o)
+[6] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_vSTDdr9VdWkkktrRg2y-DMAWwGi4WFkOiaRUsgaFhiLBsUFPW8fc4l8IRYkJAdPJdSABr5XXMe8kIq6mNi82FEcOvArMy352RF3OR2xAxttzM_7W-XumD_frpjg77EvxjgY_1o1-x591hoG04erVYNGfplUyhb8p8YJ_-1QJ_SibuE9QwTN5_8QstwcgiK8=)
+[7] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc5rK9eZ6rsHiTdB_ao3XG1Ea9MKLibzoPQK58FX-QCsM95NjCIU6Adt3NpGw1AAop6bGSyNnq8L_9vIOKCweWuuT7poJeYjx8dHvUqJUaMzmnUyjOh1KgnIFvcisAeSk8DO0kjayfb4FiiykXIn3JxawNwqQu0RZ-Pn8uRYWukXXy_XOKkCOeiw2pZbzeGIdeIfg=)
+[8] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbiGqPhYXVHe1BijHamdZUGL0qgTv77zfJj5dAYKOLf41gPVmLL1iCP2ubdebC5T7_t9NzqlsHvGSAZNCxItHcWvqyjLlvgkmtA0xtpvHrmZfwcPyI0jOqEvNjL2XRENMRQ0umTUqYh6Rg3Y2MWT6KiWrJyjG4rl0dKcaqp6ePbO_7-tJCfUMv2eK0gcYO8Y_L7twwiOK_Zvdv1gozvy8dDeLbAm0b3O8jqr56grsKQoSaGXXxtqhoLDuPkS7GRNwF)
+[9] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_YOTNirgRT_WMitSuQpECRYnVF_6FWmSiVu2JVWMcdz8YqQ3ld6ViJcL2PZT_wjTvQYoA1dDNyJQDxiJD5n30hitCZ6_UZzT9i-xzFQBlH3EJOYPzcyPbd8GFMDbXIV41yKoFXa4YBvB4-PhzZl8ZM5JQQuAajg0BlEElre1Ptw3gV_c3FehFKRn32FH9nhpOWlRhy9osw==)

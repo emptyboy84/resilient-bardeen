@@ -1,0 +1,63 @@
+
+The command exited with code 0.
+Output:
+commit 79e26040db20f02e527abc753faacd36648d3abe
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 21 11:58:32 2026 +0900
+
+    docs: update agent guidelines in AGENTS.md
+
+commit 20488d321f81ad38467f4a5d62a2afee33145c06
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 12:58:40 2026 +0900
+
+    e
+
+commit b44b0bd272cda49d06cd101f1df579c61b94fafb
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:16:43 2026 +0900
+
+    feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+
+commit 794e3badb29e5f9845cc118a1e2d2ec34d6a9519
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:13:03 2026 +0900
+
+    feat: update 디에스케미칼 (5481701760) industry categories and status
+
+commit 706713c53d6c73691a687ed09cde602387314afa
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 10:54:23 2026 +0900
+
+    feat: update 투콤마비 contact phone, zip, address and homepage
+
+commit 3f8176c97de62095688e769c06e043a3cc54787a
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 09:37:04 2026 +0900
+
+    fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+
+commit 82effd4740f804a436f54eb2c55e61e850227e45
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 09:03:18 2026 +0900
+
+    feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+
+commit cf52caab1629db249888759a13581e5462ca7907
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 09:00:07 2026 +0900
+
+    feat: 500 records verified and 3026 cells populated with orange fill (rows 11847-12346)
+
+commit 14890abbd2a58e6936a855a52f84b16516130c9b
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Wed Sep 2 12:49:20 2026 +0900
+
+    docs: add full chat conversation history, readable markdown summary, and brain logs
+
+commit 69e229b3acde567d819ce9f2ea2251281672b902
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Wed Sep 2 12:44:36 2026 +0900
+
+    feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets
+

@@ -1,0 +1,24 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-957
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-957.log
+Log output:
+<truncated 15 lines>
+: [동아대학교출판부 부산] -> Found BizNos: []
+ Snippets: [
+  "동아대학교출판부 부산 : 네이버 검색 try{performance.mark('nx-head-s",
+  'r nx_mobile_agent = 0 ; var headerfooter_query = "동아대학교출판부 부산" ; var headerfooter_query_encoded = "%EB%8F%99'
+]
+Query: ["나래바람" "051-612-2133"] -> Found BizNos: [ '621-82-09482' ]
+ Snippets: [
+  '&quot;나래바람&quot; &quot;051-612-2133&quot; : 네이버 검색 try',
+  'nx_mobile_agent = 0 ; var headerfooter_query = "\\"나래바람\\" \\"051-612-2133\\"" ; var headerfooter_query_enco'
+]
+Query: [도서출판일광 기장] -> Found BizNos: [ '579-95-01063' ]
+ Snippets: [
+  "도서출판일광 기장 : 네이버 검색 try{performance.mark('nx-head-s",
+  'r nx_mobile_agent = 0 ; var headerfooter_query = "도서출판일광 기장" ; var headerfooter_query_encoded = "%EB%8F%84'
+]
+Query: ["동화사" "051-464-0761"] -> Found BizNos: []
+Query: ["한국산업정보사" "051-504-6877"] -> Found BizNos: []
+
+Last progress: 1s ago

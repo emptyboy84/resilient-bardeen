@@ -1,0 +1,6 @@
+### Result
+"주소정책소개"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const layer = document.querySelector(\'.more_info, .detail_layer, .sub_info, .view_more\');\n  return layer ? layer.innerText : document.querySelector(\'li.on, .list_item.on, li\')?.innerText;\n}');
+```

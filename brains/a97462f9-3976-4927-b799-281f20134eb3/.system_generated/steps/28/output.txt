@@ -1,0 +1,5 @@
+{"name":"(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx", "sizeBytes":"11200645"}
+{"name":"배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx", "sizeBytes":"193688"}
+{"name":"배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv", "sizeBytes":"30094"}
+
+Summary: This directory contains 0 subdirectories and 3 files.

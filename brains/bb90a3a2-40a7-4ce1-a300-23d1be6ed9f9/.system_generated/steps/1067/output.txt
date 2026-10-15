@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Len: 69848
+Phones in NextRound: [ '02-6959-1303', '02-6959-1303' ]
+Emails in NextRound: [ 'swj@rndpartners.org', 'nextround@kdb.co.kr', 'nextround@kdb.co.kr' ]
+

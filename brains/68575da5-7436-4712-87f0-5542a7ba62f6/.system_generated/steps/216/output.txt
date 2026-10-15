@@ -1,0 +1,11 @@
+The search for ""대경산업개발" ("벽산지점" OR "센텀동로 99" OR "1408호")" returned the following summary:
+검색 결과에 따르면, 제시해주신 키워드와 일치하는 기업 및 주소 정보는 다음과 같습니다.
+
+* **기업명:** (주)대경산업개발 벽산지점[1]
+* **소재지(주소):** 부산광역시 해운대구 센텀동로 99, 1408호 (재송동, 벽산이센텀클래스원)[1]
+* **업종:** 비주거용 건물 임대업[1] (또는 관련 지식산업센터 내 사업장)
+
+부산 해운대구 센텀시티에 위치한 지식산업센터 **'벽산이센텀클래스원'** 건물의 1408호에 사업장을 두고 있는 **(주)대경산업개발 벽산지점**에 대한 정보입니다[1].
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy-glz23h4_VQMODxdojp_M23AwhO3vAdDv1XHOzmSl2E1Zap7EMP6fontaxjM0ByKU5w6n2y54oxZoiEPaKOFYJtiAZXEk3ZMkTNFI45QSPtOeo1T8FecJgrAn8cx1zS9p3i28pAZuDQriMQQkSrBrO3-)

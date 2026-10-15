@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Kakao Map search status: 200
+Kakao Map search length: 3717
+Places count: 1
+Place: 메이브릿지 | Phone: undefined | Address: 부산 해운대구 좌동 1473-2 | Road: 부산 해운대구 해운대로 794
+

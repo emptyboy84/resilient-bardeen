@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+Row 59: {
+  idx: 59,
+  rawBizno: '6090793741',
+  rawName: '대아정밀',
+  found: true,
+  industry: '가공 공작기계 제조업',
+  matchedName: '대아정밀',
+  matchedRep: '김해룡',
+  matchedAddr: '경남 창원시 의창구 소계동 351번지',
+  source: 'bizno'
+}
+Row 194: {
+  idx: 194,
+  rawBizno: '6091294934',
+  rawName: '동이정공',
+  found: true,
+  industry: '농업 및 임업용 기계 제조업',
+  matchedName: '동이정공',
+  matchedRep: '이복동',
+  matchedAddr: '경남 창원시 의창구 차룡단지로 135',
+  source: 'bizno'
+}
+

@@ -1,0 +1,21 @@
+The search for ""디제이테크" "603-81-40590" OR "이동재" 매출액 OR 사람인 OR 잡코리아" returned the following summary:
+"디제이테크"라는 명칭을 사용하는 기업은 다수 존재하며, 요청하신 특정 사업자번호(603-81-40590)나 대표자명(이동재)과 일치하는 기업 정보는 검색 결과에서 직접 확인되지 않았습니다[1][2][3][4][5][6].
+
+참고로, 사람인 및 잡코리아 등 채용 플랫폼에 등록된 '디제이테크' 관련 기업들은 다음과 같은 특징이 있습니다.
+
+*   **기업 현황:** 세종특별자치시에 위치한 전자기기 제조 기업((주)디제이테크, 대표: 박시범)[7][8]을 비롯하여, 기타 조명장치 제조업, 인력 공급업, 금형 제조업 등 다양한 업종의 기업들이 '디제이테크'라는 이름을 사용하고 있습니다[1][2][5].
+*   **연봉 및 채용 정보:** 잡코리아 등에서 제공하는 '디제이테크'의 연봉 정보는 약 4,500만 원~5,000만 원 수준으로 나타나나[9][10], 이는 동명 기업들이 혼재되어 나타날 수 있는 통계이므로 특정 기업을 확인하실 때는 반드시 **사업자등록번호**를 기준으로 사람인, 잡코리아, 혹은 '크레딧잡'이나 '나이스기업정보'와 같은 기업 정보 사이트에서 직접 조회하시는 것을 권장합니다[1][10].
+
+찾으시는 기업의 정확한 정보를 확인하시려면 사업자번호를 통해 **국세청 홈택스(사업자등록상태조회)** 또는 **공정거래위원회** 사이트에서 기업명을 검색해 보시는 것이 가장 정확합니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF115qK7wfucHEnTDmXLiZiPkhk6zMOwQgb6zrySWJELYVoRaX2Av-GYTkyAwz4VNtIVfBI5wtvQwq54XpkFpArsZgcxeoJ7YIdjaUq5VFs1DXBIkqYrx3A7SPB9RcLzAvK6ZMvFxOBgClUxwOcvy9dg_GHNjL6RM8pejRux2OhBQtT6KbXJGkNHXpBAVLcIB7VWd3-S7mhE3DVBjEMb7t_Fg0X3Nb6kXbAF3IHNsSu1dOFI6Ne8Vo_yzJPz-Whzc5Z5eczu3doCH_Y2m0xWsuQtNTxxRC-6Q==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHshehUu2CI7P_MZCMeBVlwIXapTxk6jP1abq-dSP8geGz4k8xep1NTMg0whuGbDlVcVzhdy1RlgkoE0rqUS1GHFmWzJLnl7SamAh5g9NoPkhxvDKvt1I0c2OordSa6rWbso-arZ8KQdxxVUSqHm2WewkgssXhLKsacvpbrR4H5JVZ5YaR5Gz6GmTC1sZFWhJ68pKrH6vPGmHNWHCOiBtok_lub_rxIAxvZ5jrbqA8wNfVXDwaBH6U-bG4lfzs77_KkBpNkImBRjowFtjX1Vvy2mgYRpdNODzNTQ==)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_4ewgRVHy_cO_icoDGVz6pzGXoN7gVyOvJaYUdy7tQCnJk8XMzs4FeVF-3Yphu_5t1xi1xkA6xTX9EwSlCU9rA42SsCS5ytwmeugS2bnC2B3ePXN3SukYnceOlbTw4lRkyQed4_6H8HrtcgNVKT4RE6nc5WQ2YZ8oI9KwVHeHEsvQxVzVBg_EjRh9o_HmBEDPkLMvAaBt9rMOFoBm1QjjL_c7WYfkotiUlZC-jpNvS6hLkpv0w0lZfm2_tkhwTXjp1hFOiAy6kYs=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHySU5kUV2mHFXbAVeagLL7qq63dN6cW_XUVxNqvOWL_-WeDdQqp9ybCx8fsUPxDhDhsqQPsNkiXFT7I73kt5WgmdW1TIo5iuvM_F3d3TZ_UHk3yKtdcGNan4d_cZ4oGuPp4-GpCZAWXytwl9HOU7pbdLFRnIe41D4sYRHLly9XQV8X30VtHlavdOV5KUHgUP5mrETQLpuuzv4Wm6ji6anCbtHEuoyTCUAFckRVYH8dPs9XTrjV2abjlN63uFnIVw8IK2XvFRaAQrmcHlk-JuPxXKLcFz-VRA==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIxITim2lrlkQoxckN2s3RMszC4sNy4VsERss8QLOKPSl0bjC84pPmK83HfnPDdBRFi7JB5LD5zCufPHRr6oBPeEBLp5Y_UR3uqdXRe4chyeCLy9d1xBTL-99RD5Z0HEqqhKSly5ZNyDTLd-AiFI0G4_QjamcTX9yvHfp4W8R-3EW57rQM0cpATEBVqr7e0iCMcYGsr_wrSPUAcx8QBcobKcJdmnDnBIusWs0iuClQV3N--OlfMg1uUGfO7Z3yxy69HAdt7_dTnVt7NdQBvA==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM--tzrQ8LdnJ-AXtHWQZS4QCsrBS_f-GgDHjh4CSG1k2J-iL-C1H8QndaHaU5RZjLd4ggA2xL8uNXwxh0q8qAyw4YoeSqMcVfvM-nQWzhWjfP1E_Nzk35aCBnxbTnjZY1t7zNZLoA0god3DBl5g4svOZHK42M5cBsowE4PIYlPv2nv8MqnK_cSuQM50iUMD9iUT6fyUCrvAYwvjZMWUJ6z48tdSxQ4uZoX-v2g8nJU-OclY-NjghQPsCYjBQuvI1eBRBq58Ux_g2FMlBFGdE=)
+[7] [djhrd.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBidF0TCxjL4gPp2qwWKUT4w3uOgBfNfog_3b01A-LPbvnVCNBdxTPwNpigHHaDoSnd0TzRtfpVqXzw_D4eJEv-cE83mMVWrCIDXawpYAWnZyOqwz58Asic_DatLhvdrNa943958LKQin-KM_LHRiN3ecKeOaZYnQGzbG7ME0FKy-SXRacveIUJMhBL67S)
+[8] [djhrd.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBidF0TCxjL4gPp2qwWKUT4w3uOgBfNfog_3b01A-LPbvnVCNBdxTPwNpigHHaDoSnd0TzRtfpVqXzw_D4eJEv-cE83mMVWrCIDXawpYAWnZyOqwz58Asic_DatLhvdrNa943958LKQin-KM_LHRiN3ecKeOaZYnQGzbG7ME0FKy-SXRacveIUJMhBL67S)
+[9] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrZ10sYI6BFDVIre_2JZckJYDPb64ayuLEoDfkZlqOciOoQUxd7M9wA_htAlp_LvJiXgQpf1U7XnMxD-flRCjgL7538-NopLsyw1G9yud_K8-Q8FhDxY7-IgmHgMDU9GBJ_wjMKQOpp9k=)
+[10] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAboGOpcX4DvuDco99zWaGHcsMqmmbY4hVbyNTXighA_QyqLjyMJpS7ImBYacKW2e1KmGtjce6uxKEW5oCOnUVgSQr9TTFvk1J5uZfDHX3y63swNkTVmRtp6yj5PEr4K_U_gk9TWQRmA==)

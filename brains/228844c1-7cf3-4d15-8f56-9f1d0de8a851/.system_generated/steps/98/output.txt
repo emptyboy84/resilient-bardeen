@@ -1,0 +1,9 @@
+The search for "site:onkorea.co.kr "수영강변대로 140" OR "브이알코리아"" returned the following summary:
+검색 결과, 해당 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **주소 및 위치:** 부산광역시 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)[1][2]
+*   **관련 기업:** (주)브이알코리아 (업종: 영화상영관)가 해당 주소지에 위치해 있는 것으로 확인됩니다[2]. (참고: 동일한 주소지에 주식회사 퍼니콘 관련 정보도 함께 검색됩니다[1][2])
+
+Sources:
+[1] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYLiT_Vl3BFtThURhRcOe2EBC1Uc2_NEjgVhihxA7NSn36iSo3y3tk78sEkod43zbpwHl__V-pfm_LzHrewxwJ1alogREUIknS-DGg0reD1uVPRbuIP-SHDhPbx9Wv-dgXqhuCeg==)
+[2] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYLiT_Vl3BFtThURhRcOe2EBC1Uc2_NEjgVhihxA7NSn36iSo3y3tk78sEkod43zbpwHl__V-pfm_LzHrewxwJ1alogREUIknS-DGg0reD1uVPRbuIP-SHDhPbx9Wv-dgXqhuCeg==)

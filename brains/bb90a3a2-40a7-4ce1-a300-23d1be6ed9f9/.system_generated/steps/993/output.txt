@@ -1,0 +1,15 @@
+The search for ""771-81-00829" OR "7718100829" OR "180111-1128312"" returned the following summary:
+제시해주신 번호 중 **`771-81-00829` (또는 `7718100829`)**은 대한민국 법인사업자인 **‘주식회사 지알비’**의 사업자등록번호입니다[1]. 
+
+* **기업명:** 주식회사 지알비 (GRB)[1][2]
+* **업종/주요 판매 품목:** 언더웨어(속옷), 스킨케어, 뷰티/미용 소품 등 온라인 유통 및 쇼핑몰 판매[2][3]
+* **소재지:** 부산광역시 남구 분포로 145 등[1]
+
+종합쇼핑몰(SSG.COM, 롯데홈쇼핑 등)에서 언더웨어 및 패션·잡화 상품 등을 판매하는 판매자 상호 및 사업자번호로 확인됩니다[2][3]. 
+
+*(※ 함께 적어주신 `180111-1128312` 등의 번호는 특정 공공 데이터나 일반적인 식별 코드와 연관지어 조회되지 않는 임의의 번호 혹은 개인 식별 번호로 보입니다.)*
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHljeiVkn3oFKBn6ZvwkXzDcWzpA8TFuGCXQLlwjVXxnA7sTf7_n83ZRN6OA1KYJkcJIToaRK2815OV-WbLnUgE0uGgqn6F0tO1J7SOAHse56AWZSHQOpgBrqYIqBdy8HJ_vA==)
+[2] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6blrmobuTzXDMR28vy875C75v9uahBq-WksIG4t1-E9t2DnYV0Z5-KJiueXNxNU_HwEkkXt4oBP9QpAdYIPX6lIMsF4XbJONq7RysO9G3A0s6JWhkOlieEHQlhSE=)
+[3] [lotteimall.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDYTrdx8Y-BEDbqnR25_LeuDJKVmRme36OHGKhNArC1M3IcXL1qSvz7vpbEd4XEHjmnpm84BX1GeJ0iK1VlXKaJgV4aJxtvttr2aYuL1zpJFIvB88oq0jdv-kxBb90ol1jNKL_kl2NZHbmlnvjXYenrqDUVLQQysB9ASlFMXg=)

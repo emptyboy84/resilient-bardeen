@@ -1,0 +1,65 @@
+
+The command exited with code 0.
+Output:
+--- FOUND AT 4176246 ---
+omise((resolve) => {
+        const wizardWindow = new electron_1.BrowserWindow({
+            width: 720,
+            height: 580,
+            resizable: false,
+            minimizable: false,
+            maximizable: false,
+            fullscreenable: false,
+            titleBarStyle: 'hidden',
+            trafficLightPosition: { x: 12, y: 12 },
+            backgroundColor: '#0D0D0D',
+            show: false,
+            webPreferences: {
+                nodeIntegration: false,
+                contextIsolation: true,
+                preload: pa
+--- FOUND AT 4322146 ---
+b = dark ? '#9A9A9A' : '#6B6E76';
+    const win = new electron_1.BrowserWindow({
+        width: 380,
+        height: 150,
+        frame: false,
+        resizable: false,
+        minimizable: false,
+        maximizable: false,
+        alwaysOnTop: true,
+        show: false,
+        backgroundColor: bg,
+        webPreferences: { sandbox: true },
+    });
+    const html = `<!doctype html>
+<html>
+  <head>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: ce
+--- FOUND AT 4392994 ---
+tiveWslDistro)()})`
+        : '';
+    const win = new electron_1.BrowserWindow({
+        width: 1400,
+        height: 900,
+        minWidth: 500,
+        minHeight: 400,
+        title: electron_1.app.getName() + wslBadge,
+        icon: path_1.default.join(__dirname, '..', 'icon.png'),
+        titleBarStyle: 'hidden',
+        titleBarOverlay: isMacOS()
+            ? false
+            : {
+                color: backgroundColor,
+                symbolColor: foregroundColor,
+                height: 30,
+            },
+        backgroundColor,
+      
+

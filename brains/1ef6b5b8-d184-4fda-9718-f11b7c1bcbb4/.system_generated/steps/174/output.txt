@@ -1,0 +1,55 @@
+
+The command exited with code 0.
+Output:
+<truncated 2146 lines>
+f94b5745-aba0-4e93-88bc-409461abeeaf 32 <USER_REQUEST> 070-4275-5869 팩슨데 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 20
+f94b5745-aba0-4e93-88bc-409461abeeaf 99 <USER_REQUEST> 		(주)우신환경	장현도	우) 51722	경남 창원시 마산합포구 오동동10길 56, 111호 (오동동,가고파오피스텔)	055-246-0035	(055)2
+f94b5745-aba0-4e93-88bc-409461abeeaf 99 <USER_REQUEST> continue </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-07-14T
+f94b5745-aba0-4e93-88bc-409461abeeaf 115 <USER_REQUEST> 070-4275-5869 팩스맞냐고  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is
+f94b5745-aba0-4e93-88bc-409461abeeaf 119 <USER_REQUEST> 		(주)우진산업	김명옥	우) 52948	경남 고성군 고성읍 율대6길 63 (율대리)		(055)648-2550			6848701550 	19501100
+f94b5745-aba0-4e93-88bc-409461abeeaf 164 <USER_REQUEST> 		(주)우진축산	박진범	우) 50970	경남 김해시 유하로133번길 92-8					3268101797 			  </USER_REQUEST> <ADDI
+f94b5745-aba0-4e93-88bc-409461abeeaf 164 <USER_REQUEST> 전화번호왜 찾다마노 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-07-1
+f94b5745-aba0-4e93-88bc-409461abeeaf 169 <USER_REQUEST> 하시던고하세요 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-07-14T0
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 0 <USER_REQUEST> 구글드라이브접근해라 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-1
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 24 <USER_REQUEST> oauth </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 24 <USER_REQUEST> oauth </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 45 <USER_REQUEST> 니가해 emptyboy84@gmail.com </USER_REQUEST> <ADDITIONAL_METADATA> The current local time
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 68 <USER_REQUEST> 진행ㅇ </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:32
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 72 <USER_REQUEST> 니가해 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:32
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 72 <USER_REQUEST> 니가해 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:32
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 92 <USER_REQUEST> 어제한거보이제  그거 내가 한거 포스탈코드만 카카오맵에서 검증하고 틀린거만 고쳐서 틀린거 빤간색표시하고 </USER_REQUEST> <ADDITIONAL
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 118 <USER_REQUEST> 구글드라이브에 접근하라고 엑셀프로글램 손대지만ㄹ고] </USER_REQUEST> <ADDITIONAL_METADATA> The current local 
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 129 <USER_REQUEST> 야 안전안하단다  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 139 <USER_REQUEST> 644272098234-ttl84a4aiqh0j9f6mb33nsvcqfv28s3l.apps.googleusercontent.com 니가해 </USER_R
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 143 <USER_REQUEST> 644272098234  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 147 <USER_REQUEST> 모르갰다 페이지주소 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-1
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 149 <USER_REQUEST> ****h62Q  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-1
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 151 <USER_REQUEST> https://console.cloud.google.com/auth/clients/644272098234-ttl84a4aiqh0j9f6mb33nsvcqf
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 159 <USER_REQUEST> 띄어바 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:48
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 165 <USER_REQUEST> 엣지 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:48:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 168 <USER_REQUEST> 띄우라고 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:4
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 175 <USER_REQUEST> 니가해 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:49
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 194 <USER_REQUEST> 아니 emptyboy85@gmail.com에 있어요 자료가 </USER_REQUEST> <ADDITIONAL_METADATA> The current lo
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 196 <USER_REQUEST> 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 </USER_REQUEST> <ADDITIONAL_METADATA> The current
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 215 <USER_REQUEST> 시즈 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:53:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 219 <USER_REQUEST> sieze </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 223 <USER_REQUEST> https://docs.google.com/spreadsheets/d/1MhzN0H0kyie8B7sv07J0HPnCOabJv6hb/edit?gid=949
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 226 <USER_REQUEST> 여기있어요 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 232 <USER_REQUEST> 우편번호 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T09:5
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 236 <USER_REQUEST> https://docs.google.com/spreadsheets/d/1MhzN0H0kyie8B7sv07J0HPnCOabJv6hb/edit?usp=sha
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 247 <USER_REQUEST> 뭐해야되는지알지 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 236 <USER_REQUEST> https://docs.google.com/spreadsheets/d/1MhzN0H0kyie8B7sv07J0HPnCOabJv6hb/edit?usp=sha
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 247 <USER_REQUEST> 뭐해야되는지알지 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-10T
+f9613914-a4de-4dfa-bc5f-32826d4f9c9b 279 <USER_REQUEST> 서브에이전트는뭐하냐 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-06-1
+fa318aa4-6426-4b76-88aa-93f828b2191e 0 <USER_REQUEST> 화면분활기능 crtl+window+ 방향키 이게 화면이 예를들면 엣지창이 1번화면 에 있던게 2번가고 고쳐이런거 불편함 오류면고쳐 </USER_REQUE
+fb512cd2-35b4-462e-abb8-7afced67cd1b 0 <USER_REQUEST> 배현명		영도병원	6019626091	정준환	49036	부산광역시 영도구 태종로 85	051-419-7756	051-419-7776	https://www
+fb512cd2-35b4-462e-abb8-7afced67cd1b 18 <USER_REQUEST> https://github.com/emptyboy84/niceBizinfo.git 여기서 땡여와바라 </USER_REQUEST> <ADDITIONAL_M
+fb512cd2-35b4-462e-abb8-7afced67cd1b 30 <USER_REQUEST> 차민영		마하플라스틱	1348803365	하정철	50561	양산시 상북면 석계산단 2길 113	055-374-3363			mach21@daum.net	1
+fb512cd2-35b4-462e-abb8-7afced67cd1b 62 <USER_REQUEST> 안재한	주소가 다름	브레인힐	6258802197	정상원	48099	부산광역시 해운대구 해운대해변로 310 , B1층 103호 (중동, 호텔마리안느)	07
+fc18978e-8954-4092-a1e1-2f38c438afdf 0 <USER_REQUEST> Please verify companies with indices 31 to 60 in companies.json. Search for each comp
+fc47ed12-b523-4d84-9421-40e6756ddcef 0 <USER_REQUEST> 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263			054-464-1173	http://www.luxtec.kr		2	일반용 전기 조명
+fc47ed12-b523-4d84-9421-40e6756ddcef 167 <USER_REQUEST> cvs로 보기좋게 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-08-31
+fc47ed12-b523-4d84-9421-40e6756ddcef 175 <USER_REQUEST> 전쳊경로 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-08-31T10:2
+fc47ed12-b523-4d84-9421-40e6756ddcef 177 <USER_REQUEST> 내가 업종(NICE BizINFO(업종)참고 열 나이스비즈인포사이트에서만 산업명만보랬잔아  </USER_REQUEST> <ADDITIONAL_METAD
+ffb7c759-d8a8-449d-85a1-b0d6affa6cf3 0 <USER_REQUEST> Please run the command "node scrape_chunk.mjs 0 50 results_1.json" inside C:\Users\lg
+

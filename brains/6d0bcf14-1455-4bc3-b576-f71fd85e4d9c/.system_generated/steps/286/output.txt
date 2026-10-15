@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Row 282 (인코어) cell 10 fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFC6EFCE"}}
+Row 283 (스페이스포트) cell 10 fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFC6EFCE"}}
+

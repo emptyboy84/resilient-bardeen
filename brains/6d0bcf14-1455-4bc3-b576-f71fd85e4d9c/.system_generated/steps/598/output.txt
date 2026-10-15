@@ -1,0 +1,8 @@
+The search for "site:petabrew.com "미음산단로" OR "부산" OR "Contact" OR "Email" OR "Tel"" returned the following summary:
+- **본사 주소:** 부산광역시 강서구 미음산단로295번길 14, 1층(사무동)[1]
+- **서울 R&D (기업부설연구소):** 서울특별시 금천구 가산디지털2로 169-16 하우스디가산퍼스타 A404호[1]
+- **서울 지점:** 서울특별시 강서구 마곡중앙8로 14 서울창업허브 엠플러스 310호[1]
+- **이메일 (Email):** info@petabrew.com[1]
+
+Sources:
+[1] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc28GlXDZeGOhBn32jy2NziGB1ZAr3oyeCKLwHM4N5hYkfRQCYYpmAHBy24fgqcOL9ppez2TgYb0m4_326yC-2ypoyo1SZU0rJSw==)

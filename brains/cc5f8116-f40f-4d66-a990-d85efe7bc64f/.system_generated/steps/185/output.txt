@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Query '�ظ�': len=21703
+Query '�ٶ�': len=65877
+Query '�ϱ�': len=21724
+

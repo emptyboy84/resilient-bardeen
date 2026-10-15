@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+   }
+        }
+        return true;
+    }
+    async getUpdateInfoAndProvider() {
+        await this.app.whenReady();
+        if (this.clientPromise == null) {
+            this.clientPromise = this.configOnDisk.value.then(it => (0, providerFactory_1.createClient)(it, this, this.createProviderRuntimeOptions()));
+        }
+        const client = await this.clientPromise;
+        const stagingUserId = await this.stagingUserIdPromise.value;
+        client.setRequestHeaders(this.computeFinalHeaders({ "x-user-staging-id": stagingUserId }));
+        return {
+            info: await client.getLatestVersion(),
+            provider: client,
+        };
+    }
+    createProviderRuntimeOptions() {
+        return {
+            isUseMultipleRangeRequest: true,
+            platform: this._testOnlyOptions == null ? process.platform : this._testOnlyOptions.platform,
+            executor: this.httpExecutor,
+        };
+    }
+    async doCheckForUpdates() {
+        this.emit("checking-for-update");
+        const result = await this.getUpdateInfoAndProvider();
+        const updateInfo = result.info;
+       
+

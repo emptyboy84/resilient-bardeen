@@ -1,0 +1,45 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\e1493fa0-e8a4-4717-a46c-5bc1b3357473\scratch\generate_final_all.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -186,15 +186,30 @@
+ const csv17 = '\uFEFF' + [toCsvRow(headers17), ...rows17.map(toCsvRow)].join('\r\n');
+ const csv16 = '\uFEFF' + [toCsvRow(headers16), ...rows16.map(toCsvRow)].join('\r\n');
+ 
+-// Write _최신.csv files
+-fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_18컬럼_작성자포함_최신.csv'), csv18, 'utf-8');
+-fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_17컬럼_검증완료_최신.csv'), csv17, 'utf-8');
+-fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_16컬럼_검증완료_최신.csv'), csv16, 'utf-8');
+-
+-// Try writing non-최신 files
+-try { fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_18컬럼_작성자포함.csv'), csv18, 'utf-8'); } catch (e) { console.log('18col standard locked'); }
+-try { fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_17컬럼_검증완료.csv'), csv17, 'utf-8'); } catch (e) { console.log('17col standard locked'); }
+-try { fs.writeFileSync(path.join(todayDir, '배현명_실사DB_200개기업_16컬럼_검증완료.csv'), csv16, 'utf-8'); } catch (e) { console.log('16col standard locked'); }
++// Safe write helper function
++function safeWrite(filePath, content) {
++  try {
++    fs.writeFileSync(filePath, content, 'utf-8');
++    console.log('Successfully written:', path.basename(filePath));
++    return true;
++  } catch (e) {
++    console.log('Could not write (locked by user):', path.basename(filePath));
++    return false;
++  }
++}
++
++// Write to dedicated NICE verified files
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_18컬럼_NICE검증_최종.csv'), csv18);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_17컬럼_NICE검증_최종.csv'), csv17);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_16컬럼_NICE검증_최종.csv'), csv16);
++
++// Also attempt updating _최신 and standard files if unlocked
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_18컬럼_작성자포함_최신.csv'), csv18);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_17컬럼_검증완료_최신.csv'), csv17);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_16컬럼_검증완료_최신.csv'), csv16);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_18컬럼_작성자포함.csv'), csv18);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_17컬럼_검증완료.csv'), csv17);
++safeWrite(path.join(todayDir, '배현명_실사DB_200개기업_16컬럼_검증완료.csv'), csv16);
+ 
+ console.log('Saved CSVs to Desktop/오늘.');
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

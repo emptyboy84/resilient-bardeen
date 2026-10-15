@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://tumblbug.com/littlewitchinthewoods');
+```
+### Page
+- Page URL: https://tumblbug.com/littlewitchinthewoods
+- Page Title: 마녀 엘리의 견습 생활, 「숲속의 작은 마녀」 | 텀블벅 - 크리에이터를 위한 크라우드펀딩
+- Console: 7 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-34-59-647Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-34-53-073Z.log#L1-L63

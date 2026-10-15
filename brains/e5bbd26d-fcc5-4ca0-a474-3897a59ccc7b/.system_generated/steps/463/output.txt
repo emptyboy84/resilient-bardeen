@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+  File "<string>", line 6
+    url = 'https://bizno.net/?query=' + urllib.parse.quote('" 부산이야\')
+                                                           ^
+SyntaxError: unterminated string literal (detected at line 6)
+

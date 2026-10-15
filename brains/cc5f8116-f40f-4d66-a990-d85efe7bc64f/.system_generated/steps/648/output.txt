@@ -1,0 +1,17 @@
+The search for "site:bizno.net "와이즈온미디어" OR "와이즈 온 미디어"" returned the following summary:
+요청하신 `site:bizno.net "와이즈온미디어" OR "와이즈 온 미디어"` 검색 결과, 해당 사이트(bizno.net) 내에서는 관련 정보가 확인되지 않습니다.
+
+참고로, **와이즈온미디어(주)**에 대한 일반적인 기업 정보는 다음과 같습니다.
+
+*   **주요 사업:** 음악 교육 에듀테크 콘텐츠 개발 (2D 애니메이션 제작, 게임화 요소가 결합된 음악 학습 모델 등)[1][2][3][4]
+*   **대표 상품:** '고둥둥심포니 for EDU'[5][4]
+*   **주소:** 서울특별시 마포구 성암로 330 (상암동, DMC첨단산업센터)[3][4]
+*   **설립:** 2020년[6][3]
+
+Sources:
+[1] [wiseonmedia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiNylyVDoOL6phXkHzNuV63hjHyNDBmhr6M7ACnr2qziZOq5uLj2rPWvi7_AuWI_djzVomL_T9tQsGbfM2pEdJPnZOys-aoMbX0Kqc8Xf5t8_sVGViEJJZcg==)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc2IXeRWj4e6GizN_rVAgEBY9jdKhlUXkKqVCNfzLDNciOh4cIBp-XloI3ctdsqvkQUh01i2fAfFYAs56pZQfspLjYQvi7cJeo865iHsQeSDWIRx0r0440gStR_HY-VFAbg0QqCj9dKqsTJbSu)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-D8zxTIcV8pbtciP-uUdfL0NlzCQBXJsATMhL7-Nu5NnFg-0hAYc_TT8LUiwbXwhT-HBSdv6CyX86-AG16q1KLQ9Ne-MJD-5jkgLRd0r4nFVHGu6EbBxwY-4WU1WVyzZUtXDRJilh)
+[4] [sba.seoul.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDReSs1TBDYzEMYiTB7jYDwrkHvibnMh3xILB4rLRQJPSyq_TbLEXe5hzCPig57PGS7eKH0IWcO30L3KNeoDQQ5gY_VTzPwM5amF1WQtVQI6eQmWlLp4zA5nkVVPMDvZi80RRmsOKIYvQt9rH7c7l4ktK3AH7iKi7ot95Ya3DxxeE1w49l3mNEsXy7OKlxjYaSgnTChNt2Iz8xkHqE82OLHxfQ)
+[5] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtJ_9QzKph67AqoXnjg78SCkjX6kopNII9x6DQpZ7tiVfVam-9xCYWLMtwveMwI0XcorqJDMXjGpy6ZI-l8jg7N9oJKYFUSxFZgHShm9CzUmwK0VTJ6U9BcmOb)
+[6] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGChrMi0upB2gJshPXVguckfrSzRCOaCQQlgN4V18j-RqqMM3BZs7yxqxOKtXj6o9QoTwbLqjJ5zz4rgN_QhuRkDpA4VpKh31SonkSP4wroZzwiv9e4-n1yYlsZcunbCmTSNUQWhr4Tl688RD0abntgRy95f4aCWfI_M2vDxKrudJe4hZUgcRBa6jeutYE_w1RXV73qkLcBUzxLxE_8lXIEb2kEQIp41Jwq)

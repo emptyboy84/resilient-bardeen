@@ -1,0 +1,23 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -31,11 +31,12 @@
+     console.log('Redirect:', r.headers.location);
+   }
+   if (r.data) {
+-    console.log('Length:', r.data.length);
+-    // look for numbers with hyphens
+-    const bizMatches = [...r.data.matchAll(/\d{3}-\d{2}-\d{5}/g)];
+-    console.log('Biz matches:', bizMatches.map(m => m[0]));
+-    console.log('Footer snippet:', r.data.substring(Math.max(0, r.data.length - 2000)));
++    const text = r.data.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
++    console.log('Searching terms in haemirae:');
++    ['사업자', '고유번호', '등록번호', '051', '좌동', '이구창', '비전'].forEach(term => {
++      const idx = text.indexOf(term);
++      console.log(term, '=> idx:', idx, idx !== -1 ? text.substring(idx, idx + 100) : '');
++    });
+   }
+ }
+ run();
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

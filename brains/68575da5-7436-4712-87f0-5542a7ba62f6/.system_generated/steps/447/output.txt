@@ -1,0 +1,11 @@
+The search for ""부산벤처타워" "1412" OR "중앙아이티" "부산"" returned the following summary:
+검색하신 키워드와 관련된 기업 및 위치 정보는 다음과 같습니다.
+
+* **회사명:** (주)중앙아이티 (구 중앙정보기술)[1][2]
+* **주소:** 부산광역시 사상구 모라로 22, **부산벤처타워 1412호** (모라동)[3][1]
+* **주요 사업:** 병·의원 IT 통합 솔루션(PACS, EMR, 서버, 전산 장비, 네트워크 관리 및 유지보수 등)을 제공하는 헬스케어 IT 전문 기업입니다[1].
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-tzgELY4reW1O2E1HoS46vB0vLjarj0wRAWN82QRuxcf7mpw4pYK2BOh23sXod5eAFAocY0VUIGD1DrCnv1dICYJVmwWAfPhBmjNIhkgDLywrNRHppgsMo0VMGxIi6uqK)
+[2] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjMS2NuKVLeQv-hllgjQ0YYsv9QOUKt8ZPAPa4mTZPKLxp_7VKldaCRrpay9o4GxGoDF4T-GdWkfl35vJHE3NfVNv8tr1G4lNuoHo-tevNcdkKCdPf8s1PTA==)
+[3] [joongangit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDVxe2bqzPaCMqagQl5FiAI4AS-i6L3ElAyG_fYEXH4J5vD9jkvi2dDW56V40GkGzFCDoMKcPfeTlCsS7FptbXZnhSWaNKsGIFkF8O4w==)

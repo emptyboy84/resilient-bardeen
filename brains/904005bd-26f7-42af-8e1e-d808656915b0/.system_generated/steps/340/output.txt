@@ -1,0 +1,28 @@
+The search for ""124.137.58" OR "이석창" "혜성디자인"" returned the following summary:
+문의하신 키워드에 대한 정보는 다음과 같습니다.
+
+**1. "이석창" 및 "혜성디자인"**
+*   **혜성디자인**은 편집디자인, 인쇄물 기획·제작(리플릿, 브로슈어, 연간보고서 등), 소프트웨어 개발, 온라인 마케팅 및 영상 제작 등을 주요 사업으로 하는 기업입니다[1][2][3].
+*   **이석창**은 혜성디자인의 대표자입니다[1][4][3].
+*   인천광역시 부평구 부평대로 283(청천동, 부평우림라이온스밸리)에 위치하고 있으며, 디자인 컨설팅부터 기획, 제작까지 서비스를 제공하는 것으로 알려져 있습니다[1][5].
+
+**2. "124.137.58"**
+*   검색 결과에서 "124.137.58"은 특정 문맥에 따라 다음과 같이 나타납니다.
+    *   **도서관리 관련:** 도서관 시스템의 IP 주소 예시(예: 특정 도서 정보 검색을 위한 서버 IP)로 언급된 사례가 있습니다[6].
+    *   **행정 및 재정 자료:** 일부 문서에서 예산 집행 내역이나 수치 데이터의 일부로 포함되어 나타납니다[7].
+    *   **기타:** 해외 사이트 등에서 제품 가격이나 데이터 값으로 표기되는 등, 고유한 단일 의미를 가진 정보라기보다는 문서 내의 수치 데이터로 주로 확인됩니다[8][9][10][11].
+
+따라서 "이석창"과 "혜성디자인"은 인천 소재의 디자인 관련 기업 및 대표자를 지칭하며, "124.137.58"은 이와 직접적인 관련이 있는 고유 명사라기보다 문서 내에서 사용된 IP 주소 예시나 수치로 보입니다[6][1].
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmZ5DrehXgTFCDDc0XO04Pssz8lBgCcRF1pcGkWHg_Yf9kAiJPUXv64VSRNiGIzvje6IulvYri6w7uTU5hDrWlCbMfQYRrVh1S4xy4Bw45UKX79o1_NovAgV9TGTtuaA==)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6jt1EaDhovrdgNhw4ZycutcauWLyoGRQ5sUixYL9yE3hQeyvjCcqPzEd553Bvi5khn_Y-pxN5q2sFaUVOBFpgNvT2OfD4Da5NoJ9y90xva1WaLhsIDfPR_xLp5CKWHnuCxao0cOQZSAkO8w==)
+[3] [hsd4744.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh7BSqaZE9hJBwPS8YkLszdQ8iGddkYj7GY4r55ys9DUwY3G0KmBQC5hEhDX46hv6Z63159R3drFqpUKxNH0dJrcF61of8NRKwq4treygKl3ie-983j5xoC_qin5inlFSRKw==)
+[4] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPIaxumydNJ3-1V-cYH7R0-5mqNO7qG750OXhTAFLahUaVlgbcTNKAWnnCQGkbW4PkX40MWXhftT0mrUymWEmnpBmPU0b-yBlvFk36twI3zzXhp1yHJkN6JU4FNtWtTKM1wEsse-cvlenBhknBafr4-wdK5KLXzDxAJg==)
+[5] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG16SHVJFbhJOx6uBUlHcdQw4x2ne7bfYpE_Nivpt6wi6NwT35_x6YiD0vp032vUxoyBnC1GNLlCuMvNorHXjh45NmENYyRN0R3MjtWsF-O-1eUQhbeF10bsD1yV7tyEoNZiOm35ebmAMWVH7k=)
+[6] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB9ra6k-wq6G0lcNS5jKVVCzRpXDnKFlPj4eRrAnZZbbmMk6GL0w737JZAZwhGxLGMfry2r8vPA1E8U8yf2UjBx-uGMBTeYEa5FhmcLHkb4-6i_0Mr9Ul1whPXy-IAxuq-tNvhoXOzRQ==)
+[7] [tce.pr.gov.br](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRxBWmFd7rGDdXk1mrs28jvssXar4qVGFIu6XyssZNLm4TsDjdbwgnMsj4J-cLSwTgbnleXIk8vWpxGghji-jMfgPCLJFDtIsZIF5geEvjwj2cFTxBPidEW-zr6DUts6XosLbPMl3i3shq7gvga-MaCu6-TWnXEjPCIiPqdQn2awCKubJeK3j-IfcxU2t77wMtt-dWALPCQaqd)
+[8] [trabzon.edu.tr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbL8baf6aIJFwpbDGV-gS_mWDWGMaE7ZwX0Kj87D8tjAoHRl-2EmYh2RdwdR8bVtG65gM-x3cxw6Qk_FoYiCxc0V7QGOy-NAEVri09XLnhhHcfeajU9HP9gLpoZThq_xcEiJlwSaQRstj1Vku6ZRukpI1E71EbzW08fk7R)
+[9] [mercadolibre.com.ar](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSk2lOYHdm6WfZBqp06kKvn-W8ddcaN974tZmz491FbUDDUk2-LXrG-fXBAJlrJTAGCq9EDQbvmMJaCZe5_MibqdO54ycdeL5XPHrXgOmWFnSWUcZinux6-sz8-sBpZp4iFIrXCmQa54uHXGBrec9ES4BwItDNuXOWObInJ8PRn3gBK9BGlRjYQqAnD0CiCswhwEhhmCyBW8YycnyeFVw=)
+[10] [mercadolibre.com.ar](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG75N6xujen88YzMjpEci3HOw-wx2jqmFAfbt651AVAb3m6gGuZVlKZamXn9bsHyumOkqKYsUaFHprVCKd86WAvNWpp_DDCguL6QdGY8jWgu8nnb7WnZZBPSBnk5NY0fIKH5XZFyr_2tahkgE343DuCxVkmGlDHPFDIxS0I3dOJSibcJrve3lRN1MBFBJM3vjSIoIeVSraO4yEI_XyXVubLVNg=)
+[11] [mercadolibre.com.ar](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfANk5fHiBZGM9tNhfUUpYkohChI_lWhKn2nq0iTEfOtaaV2tvwDUcaiEVEwlmSlxZJvUnMge2iHtKMJ8zzw5gEW6QvUQwbD1gavC_pAkO7BTVGKchGKsQtFi5dtG8PTl5Cgxsp7I_BpEIfSV4bgxihtYhkBEkPQb20fgo5T-fmcY=)

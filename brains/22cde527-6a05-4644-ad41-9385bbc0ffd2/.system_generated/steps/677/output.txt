@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+=== VERIFICATION OF OVERWRITTEN ORIGINAL FILES ===
+CSV Path: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+CSV Size: 433038 bytes | mtime: 오전 9:59:38
+XLSX Path: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx
+XLSX Size: 308811 bytes | mtime: 오전 9:59:38
+

@@ -1,0 +1,5 @@
+The search for "site:114.co.kr "547-81-02092" OR ("엑스타" "김홍진")" returned the following summary:
+검색 결과에 따르면, 사업자등록번호 **547-81-02092**, 대표자명 **김홍진**, 기업명 **(주)엑스타**(서울특별시 도봉구 소재)에 대한 기업 정보가 확인됩니다[1].
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgOZkeI_BIKYRFKZ6-XtHShsxMj97L_KMIdMM9PL7UYqArVEXTQG6Se04zvnL-_vx5AdfC0OuDzd4qdBeLKUpRy5QBbCdbOynX5pYABJMUZ6D9sOuzSRenqpHiHHkVuARGoOOGtZze0PI=)

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:83
++ ... match(/<div class=\"results_links[\s\S]*?<\/div>\s*<\/div>/gi) || [];
++                                                                  ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:85
++ ... match(/<div class=\"results_links[\s\S]*?<\/div>\s*<\/div>/gi) || [];
++                                                                    ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:9 �:89
++ ... match(/<div class=\"results_links[\s\S]*?<\/div>\s*<\/div>/gi) || [];
++                                                                        ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:10 �:33
++     console.log('Blocks count:', blocks.length);
++                                 ~
+',' �ڿ� � �ϴ�.
+�ġ �:10 �:34
++     console.log('Blocks count:', blocks.length);
++                                  ~~~~~~~~~~~~~
+� �Ǵ� � �ġ � 'blocks.length' �ū�Դϴ�.
+�ġ �:10 �:33
++     console.log('Blocks count:', blocks.length);
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:10 �:47
++     console.log('Blocks count:', blocks.length);
++                                               ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:30
++       console.log('Block 0:', blocks[0]);
++                              ~
+',' �ڿ� � �ϴ�.
+�ġ �:12 �:31
++       console.log('Block 0:', blocks[0]);
++                               ~~~~~~~~~
+� �Ǵ� � �ġ � 'blocks[0]' �ū�Դϴ�.
+�ġ �:12 �:30
++       console.log('Block 0:', blocks[0]);
++                              ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

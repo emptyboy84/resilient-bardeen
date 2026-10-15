@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-21T09:10:00+09:00
+Prompt: Check task-255 progress
+Early Termination: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-255
+
+[2026-09-21T09:09:50+09:00] Still waiting. Remaining time: 10s
+[2026-09-21T09:10:00+09:00] Timer fired.

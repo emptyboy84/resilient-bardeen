@@ -1,0 +1,8 @@
+The search for ""남태희" ("영화" OR "비디오" OR "배급" OR "제작") "부산"" returned the following summary:
+검색 결과, 영화, 비디오, 배급, 제작 등의 키워드와 연관된 ‘남태희’는 주로 문학·예술 분야에서 활동하는 인물(예: 부산문인협회 소속 수필가·심사위원 등으로 활동하는 남태희 작가 등)[1]이거나, 축구선수 남태희 관련 뉴스 중 부산에서 열린 경기(예: 부산 아시아드주경기장 등에서 열린 축구 국가대표 매치나 동아시안컵 등)[2], 혹은 동명이인의 어린이 기자 및 일반 저작물 관련 내용들이 혼재되어 검색됩니다. 
+
+특정 영화나 제작·배급 작품에 관한 구체적인 정보가 필요하시다면 찾으시는 정확한 작품명이나 인물의 세부 정보를 함께 입력해 주세요.
+
+Sources:
+[1] [angelbook.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFK91vhUwk9zgDHAFO5RZliulNPgIoSRw1OTUwvFuNR39-f_Tvtf6klnnWqqzmmbE_MSKRdea9FbMdI2Z7YZNiatZIEO3RmxCiRYNUOhRMResAV_vxq8uBGvOHqu5sumauZEMJ0wZ3dr4TGpZCn_7aPwdKmccVXVUpLtMyXLJ83IvxqxCJAfeyuv5zTZ0_AtXzOdlE)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0sIUxQIbwMa0AZqHR40AbhFR78YcqkxyOhEIWzxfPZm-jrsgetoQ6gfpMg0iJW3U4OEsHhA2dtCtNqK3gm6RF25XYn0qt7b8C1E7qxAv11zVxIDd7Yl0fG6kXKkYqQ7vzVNx3Eg==)

@@ -1,0 +1,4 @@
+{
+  "summary": "Fixed version of the Excel builder script. Key change: verified rows no longer get a blanket black font reset. Each cell gets its final font exactly once - RED BOLD for newly found data, BLACK for existing data. Includes built-in verification pass.",
+  "updatedAt": "2026-09-14T02:16:19.423164500Z"
+}

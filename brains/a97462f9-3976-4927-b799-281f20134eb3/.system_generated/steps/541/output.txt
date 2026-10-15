@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+cL63JCD5j_vjlg- --- (주)비즈폼 2012년 재무정보 | 매출액 19억 8,053만원 영업이익, 자본금, 공시정보 등 - 사람인 (fu
+me":"(주)비즈폼 재무정보","description":"(주)비즈폼 매출액, 영업이익, 투자정보, 당기순이익, 자본금, 신용등급, 공시정보, 주주
+":"Dataset","name":"(주)비즈폼 2012년 재무정보 | 매출액 19억 8,053만원 영업이익, 자본금, 공시정보 등","descrip
+tion":"(주)비즈폼 매출액, 영업이익, 투자정보, 당기순이익, 자본금, 신용등급, 공시정보, 주주정보를 사람인에서 확인해보세요.","publ
+svw:primaryKey":"2010"}]},{"csvw:name":"매출액","csvw:datatype":"string","csvw:cells":
+svw:primaryKey":"2010"}]},{"csvw:name":"영업이익","csvw:datatype":"string","csvw:cells":
+svw:primaryKey":"2010"}]},{"csvw:name":"자본금","csvw:datatype":"string","csvw:cells":
+/r3czu1_r7qx-ge41zj_workenv-bg.jpg"}}); 매출액 Information 기업의 활동으로 얻는 연간 수익금액으로 기업의 규
+.7억 2011 23.5억 2012 19.8억 출처 : NICE평가정보 영업이익 Information 매출총액에서 원가, 판매비, 일반관리비를 뺀 금액
+을 의미합니다. 닫기 2012년 기준 1,473만 영업이익률 0.7% 2010 3억 2011 8,622만 2012 1,473만 출
+처 : NICE평가정보 당기순이익 Information 매출액에서 매출원가, 판매비, 관리비 등을 빼고 여기에 영업외 수익과 비용, 
+.9억 2011 1.6억 2012 5,585만 출처 : NICE평가정보 자본금 Information 기업의 소유자 또는 소유자라고 생각되는 자가 사업
+의 밑천으로 기업에 제공한 금액을 의미합니다. 닫기 전년 대비 자본금 변동이 없습니다. 2010 3억 2011 3억 2012 3억 출처 : 
+

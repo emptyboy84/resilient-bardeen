@@ -1,0 +1,21 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1923,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\unpopulated_271.json","LineNumber":2370,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_blanks.json","LineNumber":2456,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_229_blanks.json","LineNumber":1589,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":2911,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\exact_blanks_229.json","LineNumber":2456,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119_list.txt","LineNumber":86,"LineContent":"[86] Row 2101 (순번 2100): 조은글방 | Type: 만화 | Rep:  | Phone: 051-896-9967 | Addr: 부산진구 개금동 개금본동로"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119.json","LineNumber":770,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_rows.json","LineNumber":2895,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\real_unmatched_274.json","LineNumber":2895,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1695,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_unverified.json","LineNumber":1620,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_274_results.json","LineNumber":4251,"LineContent":"      \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":2839,"LineContent":"    \"사업체명\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_utf8.txt","LineNumber":92,"LineContent":" 92 | Row 2101 | 조은글방                      | CEO:            | Tel: 051-896-9967   | Addr: 부산진구 개금동 개금본동로                     "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_detail.json","LineNumber":1917,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132.txt","LineNumber":94,"LineContent":"[92] Row 2101 | 상호: 조은글방 | 대표:  | 전화: 051-896-9967 | 시군구: 부산진구 | 주소: 부산진구 개금동 개금본동로 | 업종: 만화"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3387,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1732,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1143,"LineContent":"    \"name\": \"조은글방\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2741,"LineContent":"    \"name\": \"조은글방\","}

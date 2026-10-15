@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Package    Version
+---------- -------
+et_xmlfile 2.0.0
+openpyxl   3.1.5
+pip        26.1.2
+setuptools 82.0.1
+

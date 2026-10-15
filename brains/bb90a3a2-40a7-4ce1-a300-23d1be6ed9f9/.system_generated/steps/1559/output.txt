@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Snippet around 에이치에스렌텍:
+div></div></div></div><div class="XJdTz" data-laim-exp-id="loc_plc" data-loc_plc-doc-id="1891517708"><div class="IRr3U"><div class="yWUqC"><a href="#" target="_self" role="button" class="F6XAJ"><span>에이치에스렌텍</span></a><span class="zAeFj">전기공급,전기제어장치제조</span></div><div class="Ke48U"><div class="kXw6i MFzXM"><div><span class="JsCty MiJZM"><a href="https://map.naver.com/p/directions/-/14374076.594562273,4187704.328575665,%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%90%EC%8A%A4%EB%A0%8C%ED%85%8D,1891517708,PLACE_POI/-/car" target="_blank" role="button" class="_T0lO"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="yR6ue" aria-hidden="true"><path d="M8.9,1.1c0.2-0.2,0.6-0.2,0.8,0l4.2,4c0.2,0.2,0.2,0.6,0,0.8c-0.2,0.2-0.6,0.2-0.8,0l-3.1-3v4.8 c0,0.9-0.7,1.6-1.6,1.6H3.5c-0.2,0-0.4,0.2-0.4,0.4v4.8c0,0.3-0.3,0.6-0.6,0.6s-0.6-0.3-0.6-0.6V9.7c0-0.9,0.7-1.6,1.6-1.6h4.8 c0.2,0,0.4-0.2,0.4-0.4V2.9L5.6,6C5.4,6.2,5,6.2,4.8,6s-0.2-0.6,0-0.8L8.9,1.1z"></path></svg><span class="place_blind">길찾기</span></a><div class="yuT2R" aria-hidden="true">길찾기</div></span><span class="JsCty MiJZM"><a href="https://map.naver.com/p/entry/place/1891517708?p=znzqVG49BZGBqT3SNNPykA,-118.89,10.00,Float" target="_bl
+Place ID matches: [ '"id":"1891517708"' ]
+

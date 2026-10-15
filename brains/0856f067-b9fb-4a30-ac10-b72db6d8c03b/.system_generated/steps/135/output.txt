@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.locator('iframe[title="Naver Place Search"]').contentFrame().getByRole('button', { name: '괴정만화만화방' }).click();
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94/place/1216657848?c=15.00,0,0,0,dh&placePath=%3Fbk_query%253D%2525EA%2525B4%2525B4%2525EC%2525A0%252595%2525EB%2525A7%25258C%2525ED%252599%252594%2526entry%253Dbmp
+- Page Title: 장소 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-30-56-293Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-30-32-181Z.log#L1-L4

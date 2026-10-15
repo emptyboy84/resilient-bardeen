@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=부산&query=브이알');
+```
+### Page
+- Page URL: https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EB%B8%8C%EC%9D%B4%EC%95%8C
+- Page Title: 브이알
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-37-15-522Z.yml)

@@ -1,0 +1,16 @@
+The search for ""109-81-99487" OR ("에스아이엠테크" "김승기")" returned the following summary:
+제시해주신 검색어는 국내 법인 기업인 **(주)에스아이엠테크**의 사업자등록번호(`109-81-99487`)[1][2] 및 관련 정보와 연관되어 있습니다. 
+
+* **기업명:** (주)에스아이엠테크 (SIM Tech)[3][4]
+* **사업자등록번호:** 109-81-99487[1][2]
+* **주요 사업:** 응용 소프트웨어 개발 및 공급업, EMR/OCS/ERP/그룹웨어 등 솔루션 및 수주개발[3][4]
+* **소재지:** 부산광역시 연제구 (법원남로 등)[1][2]
+
+특정 기업의 사업자 정보나 대표자, 혹은 언론인/기자 등 동명이인(김승기 기자 등)[5]과 관련된 세부 조회를 위한 검색어로 보입니다. 추가로 궁금하신 내용이 있으시면 말씀해 주세요.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuMJavtXjBCEqU-m46J5ZebxJCrfsJp3rNX9cL5uZ1BmEBHJx1jLPHO_z38VKiSr5Iu9sHJnUQjI-2Nma6gsHlWvkIgWWeOOvfq5Rbx4yVXNHzTqjrtdcHqw==)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-FcG9yOFmTgMPx4akrkbKkNZGt86QXKOmv7NeC05JOVJDcOTsCX9K_7KTmKmwabltempzPLXzciWNxJqL3L6jCzTpDRt3k1Yw25bg9R0kjML-OiPn6Zs-_V-Zt98P3Nj0BQ==)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiK2R_TI9rnLDQU6THYP23KFZT68FOjmZrMKekuNZcYDlBPljQjgc93cs9RcqDPflL7wNOt8mHUxpDX13ZY359pGHDdMtu_zWcwv_7Mb-jmsPrtRVwM-3x7aA1G_7gh5FRf9X61dcUm-Ld3vB-4Ps8ZswahZD4z0wleHrLQ5NBSDUQEnJiY50xakn0QHu_4kUVyVsg_f3zgzz-ptnMZoOfRuRsyddL8PXGlNwEEFNRUaqDO7FLTkndP-824ZhwweaPr05X0BSqIvdTQdRJIFImJmrCYJk4__0pxHzTyXuTaZJnihPwLN3DOg==)
+[4] [simtk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPEtQLIX9KbzRD_HS9w4u8QjmQpggz3_Pktjed2adChiOyuaPhadaQeRgvGs_3ZA__fAu9Hf6Iiz_0xqokwYt-rO2IwO9TQeS89elGng==)
+[5] [epnc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMThXTBWqA_Mb3Z67hfigSqOGZlAtwVxqv_jjVGhrN_M5MUkTz_vidTPe6gxdB_JFua5fwaLOZzgrjQ4iPAp3W-qSVFeEDBYwiz0Q5Rb1UHMas9yi9qvKkZ3uNa6bizXa3HZp_Zzz5PtIEx-bhG6I=)

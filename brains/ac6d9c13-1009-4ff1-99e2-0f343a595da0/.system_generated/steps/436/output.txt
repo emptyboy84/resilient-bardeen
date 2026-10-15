@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Status code: 200
+Length: 2089 
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>접속대기_no1</title>
+<link rel="stylesheet" href="/css/500.css">
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+</head>
+<body>
+<div class="connect_wait">
+ 
+  <main class="content" role="main">
+    <h2 class="title">현재 접속인원이 많아 접속이 지연되고 있습니다.</h2>
+	<p><b style="color:r
+

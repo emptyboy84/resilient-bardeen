@@ -1,0 +1,15 @@
+The search for ""부산벤처타워" "1412" OR "중앙정보기술" "051"" returned the following summary:
+입력하신 키워드와 관련된 정보는 다음과 같습니다.
+
+* **건물 위치**: 부산광역시 사상구 모라로 22 (모라동), **부산벤처타워**[1][2]
+* **입주 기업**: **중앙정보기술** (병원·의원 IT 구축 및 전산 장비·전자문서 관리 등을 담당하는 기업)[3][2][4]
+* **상세 위치**: 부산벤처타워 **14층 1413호** (일부 문서나 검색어에서 언급되는 1412호 인근 또는 관련 호실로 확인됨)[2][4]
+* **연락처**: 
+  * 대표 번호: `051-995-9558`[2]
+  * A/S 고객센터: `1670-9558` (전산장비), `1670-3987` (전자동의서)[2]
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVvku03fWkTbojQhSawCh3bOltOoaqQ1KlBIjczVSiY0g3uNWqLi8GvRIGr6tWEeTh2dj3IXqWQqsgy0M1JDjF0M2s72sd3bDsp-sSZ3DKlqcJpTtrZaZPhEbyiKpWwDSM61JwVSujfaPQbLLxKghH5B5m8Y_oeCV0mj0yZQNtL45HobIiI2swg==)
+[2] [jait.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF991jqvYwXXR0DSRgCzGBUXTb_3-9hMixV2Jzp50uz9z1f1LIDJXImyr6BUAOL71J7XcEWDtN2yBiGx72Xh32AgizkvaOD1Bg=)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1d5obtZWiSTyZsFhaEyJqyZeHfck4Skz4OjahbkYiNdMBC_kfqJSXi6MqHfpFn0ZReJtlMwhciMY1fqS4V7Ec2vZFpO_AnI0ZICQQUN4phFzyyElVbmXIecGxkHwalxK)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44ct8qCaQ0sFTpk1yjd2llfwK0AzUZdRlF7Wv2lcUpNFqHnJbWrpYC0TXfvbU_rGBJEOFLTxNatNrB4GPMnxvkN3wMDXldXKt2iYKHSNdhXMl5ig5OhCeWEVVGGm4VVhdTaVHPUuQBnbq3ksgdjEd42CG)

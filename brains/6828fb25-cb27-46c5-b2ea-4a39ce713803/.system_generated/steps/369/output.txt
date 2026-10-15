@@ -1,0 +1,51 @@
+
+The command exited with code 0.
+Output:
+Total rows in sheet: 1048576
+19240 Col 1: null | Col 2: null | Col 3: (주)엑스퍼
+19241 Col 1: null | Col 2: null | Col 3: (주)레드키
+19242 Col 1: null | Col 2: null | Col 3: 수성이앤씨(주)
+19243 Col 1: null | Col 2: null | Col 3: 우강마케팅
+19244 Col 1: null | Col 2: null | Col 3: 왕꼬앙마
+19245 Col 1: null | Col 2: null | Col 3: 한국엠에스티
+19246 Col 1: null | Col 2: null | Col 3: 초록누리
+19247 Col 1: null | Col 2: null | Col 3: (주)화승코퍼레이션 기장공장
+19248 Col 1: null | Col 2: null | Col 3: (주)하나기술단
+19249 Col 1: null | Col 2: null | Col 3: 주영
+19250 Col 1: null | Col 2: null | Col 3: 스냅태그(주)
+19251 Col 1: null | Col 2: null | Col 3: 코리아스마트시스템
+19252 Col 1: null | Col 2: null | Col 3: 아이오
+19253 Col 1: null | Col 2: null | Col 3: 위 마들렌 빠띠세리 청담 (Oui Madeleine Patisserie CheongDam)
+19254 Col 1: null | Col 2: null | Col 3: 리와인드프롬오아시스
+19255 Col 1: null | Col 2: null | Col 3: 클라우드나인 (CLOUD9 H&B KOREA)
+19256 Col 1: null | Col 2: null | Col 3: 바로펫㈜
+19257 Col 1: null | Col 2: null | Col 3: 에스텍㈜
+19258 Col 1: null | Col 2: null | Col 3: ㈜파리로엠엔비
+19259 Col 1: null | Col 2: null | Col 3: 아이엔바이오
+19260 Col 1: null | Col 2: null | Col 3: 금영
+19261 Col 1: null | Col 2: null | Col 3: 웰포드
+19262 Col 1: null | Col 2: null | Col 3: 라이크셀
+19263 Col 1: null | Col 2: null | Col 3: 제이더블유
+19264 Col 1: null | Col 2: null | Col 3: 윤슬컴퍼니
+19265 Col 1: null | Col 2: null | Col 3: 넥스다임
+19266 Col 1: null | Col 2: null | Col 3: 캑터스인터내셔널
+19267 Col 1: null | Col 2: null | Col 3: (주)디에스원 부산공장
+19268 Col 1: null | Col 2: null | Col 3: 성우이노텍
+19269 Col 1: null | Col 2: null | Col 3: (주)브리오
+19270 Col 1: null | Col 2: null | Col 3: 서강테크
+19271 Col 1: null | Col 2: null | Col 3: 햅라운드
+19272 Col 1: null | Col 2: null | Col 3: 스위트로렐(sweet laurel)
+19273 Col 1: null | Col 2: null | Col 3: 태금촬영업
+19274 Col 1: null | Col 2: null | Col 3: 중앙테크
+19275 Col 1: null | Col 2: null | Col 3: 은성
+19276 Col 1: null | Col 2: null | Col 3: ㈜미르내이앤씨
+19277 Col 1: null | Col 2: null | Col 3: 대원오토텍
+19278 Col 1: null | Col 2: null | Col 3: 플로우텍 주식회사
+19279 Col 1: null | Col 2: null | Col 3: 지오스이엔지
+19280 Col 1: null | Col 2: null | Col 3: 선옥디자인
+19281 Col 1: null | Col 2: null | Col 3: 울트라그린
+19282 Col 1: null | Col 2: null | Col 3: 티엠에스
+19283 Col 1: null | Col 2: null | Col 3: 다올
+19284 Col 1: null | Col 2: null | Col 3: 다올
+19285 Col 1: null | Col 2: null | Col 3: 광선정밀
+

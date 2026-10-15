@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-14T13:26:28+09:00
+Prompt: Wait for task-29 completion
+Early Termination: task-29
+
+[2026-10-14T13:26:28+09:00] Timer fired.

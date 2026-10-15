@@ -1,0 +1,20 @@
+The search for "site:play.google.com/store/apps "seyeonsoft" OR "파스텔걸" OR "세연소프트"" returned the following summary:
+구글 플레이 스토어에서 개발사 **세연소프트(SeyeonSoft)** 및 대표작 **파스텔걸**과 관련된 주요 앱 정보는 다음과 같습니다[1][2]:
+
+* **파스텔걸 : 옷입히기 게임 (Pastel Girl)**[1][3]
+  * 파스텔 색감의 귀여운 소녀와 배경을 꾸미는 힐링 캐주얼 게임입니다[1]. 드래그 앤 드롭 UI를 지원하여 의류와 아이템을 자유롭게 배치 및 삭제할 수 있는 것이 특징입니다[1].
+* **세연소프트(SeyeonSoft)의 다른 주요 꾸미기 시리즈 앱**[2]
+  * **파스텔파티 (Pastel Party)**[4]
+  * **릴리스타일 (Lily Style)**[5]
+  * **릴리다이어리 (Lily Diary)**[6]
+  * **파스텔프렌즈 (Pastel Friends)**[2]
+  * **릴리스토리 (Lily Story)**[7]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3m68qfkLXO2lM6aXIBkf84xjeoZBaAZWlg9UX2Oqh2sQB-BwZWQeTAXXJz1qPUlB0Q34LHIVX-SHs2TVN28lEdFLBZTjTss7z5qFiWBIBbaQKqrxYdB9YZs7ilZUaIp3SeKrj7tWSLCxlkxIZLwQPNlfFFaGq7ypubXsO39X2)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPAPoyLT7_pQrhvu1lEUnQ1CE0uNA9NS_PZE8zlx-HpAjeaCjh-T0nho0koU6mcnK7Zan76DjQ6NYBl71cVNjWyg9zWQouDxhjEZUkyYj4x8ZCzVBZmv1Qn88yJQNu7T_dZCGnmMa7G0hSvUfphmbQ1dHNTmM7Qg3O)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsaIB3ik-0AOcml2SomKWbSkJS93Ywgkwe64bAKs90Usd5WzRXS2ptxNs7K8bJZ499S47SxiMjOKFw92PShHCQ1uibUaXaVx-pH6Q2rJFqTDTXjF4NYkaxogartCkSXI6gfTWIoSg3VkApCFvkk89bvK98U11XYIJsYp1qcOkE)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsVsO_TLH-xt3lXBFE8kDOQ7HcQBI91Kfjjd7xup_ofbov1h4gcnuMthexC9rZ-2zL3d2xPHWQ15iEAbXelGRsxM288bS5lld_btu6YREpydtVPO0ZiGZrahxEGtM1oOLU5hjQwT9qSYl3zrBfIbqC4otjyZD03AfG-1YnDJs=)
+[5] [seyeonsoft.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEOsTSs_OGhwWda3yxKD9atQawu-0AcCMeuqEcbTCb9L5OqwAEsRO6oL8MV4tnj-Uxuni9RzKXn1NnFYmz14Ia0u_LmZ3jMy7iDTlaeyDGN_kVWg==)
+[6] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXCTo_p7kZCYiiRsee4rUUu-g8lCnRr7793ZKZnaZkapu5wMZR9y8f8oACB_PImo7V-0xOa4kP5_9ol6j1qYtQUN9wod8cNRIisKlpWAAnyU2R6YRcscVFCc0hf77DK6kveS5JRcoiJ939Bob0b7-a4jwahLr16O-_o8j2AaNNmXDnOTIjhMpsBoe4Ond5Mh3Kueg8-fSv)
+[7] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ea-hIMrU7JeD9QH4ZR2EKMwrykUEMWTXbq9iyW9YCReL62NAbXzeUxKgi0PhO2Ue_MBEP4rpBB3GUnT1uEFymb2cLMF6KNPpvVFrzuWK51OSSgju_kyucdWL-nfixhT5EuuVqSfrwQlAxzWkJaouoHJuWR5lV4CeMDNmeg==)

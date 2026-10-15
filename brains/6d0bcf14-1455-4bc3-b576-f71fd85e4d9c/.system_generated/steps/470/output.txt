@@ -1,0 +1,14 @@
+The search for ""536-81-00866" OR ("엔케이비글로벌" "박성수")" returned the following summary:
+제시해주신 검색어는 법인기업 **(주)엔케이비글로벌**의 사업자등록번호 및 대표자 정보와 관련된 키워드입니다[1][2]. 
+
+관련 기업 정보는 다음과 같습니다:
+
+* **기업명:** (주)엔케이비글로벌[1]
+* **대표자:** 박성수[1]
+* **사업자등록번호:** 536-81-00866[2]
+* **소재지:** 부산광역시 금정구 남산로 9, 지하1층 (남산동)[2]
+* **주요 사업:** 응용 소프트웨어 개발 및 공급업 등[1]
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpru_q93pWs9599Fl3wax63etzNgB_bS0Oo2nModj6Mfxz5c3vkkOHuh1svclO12NK75K7PSIW9aTevBOiB2khlL9J_Ml9IUMZUyz8pcCtNyOICIFDjRpeSw8VmoWXMzJTcIOYM_ecUHShjVsvQWQWaOHC)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEb1DBnZNU5ZNy5HFgWjgZd4xVoMV43CtE3KG1rM9PNQH3tO-OHNnHk6_PBTZYAb0kuFdLlssg3N--AUGWQ50OLB08fy-XLUtfWebMjWI4WElCbck3-2-GYeMWkArwa8Fweg==)

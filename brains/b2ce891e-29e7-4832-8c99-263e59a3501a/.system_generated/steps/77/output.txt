@@ -1,0 +1,8 @@
+The search for "site:smartstore.naver.com "877-88-03313" OR "8778803313"" returned the following summary:
+해당 검색어로 네이버 스마트스토어(`smartstore.naver.com`) 내에서 직접적으로 일치하는 결과는 확인되지 않았습니다[1][2]. 
+
+참고로 사업자등록번호 `877-88-03313`은 법인사업자 **(주)글로픽스**의 정보로 조회됩니다[2].
+
+Sources:
+[1] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPGv28IUAFjWrLTJ_z6E-d8LHTa6Zfx3qpx9zr8tHArgUX4AJg8LSGRraYFysXGC6snDsBHzEDfsWmHScAC-DZw0JFyg39QGiE0HW43Nsmn97j1Dklf9m_4xRDkcGNqIZjUJ5swntRKEf)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphE2Daw3zkFPMvSXPqvd6eMK5JRqCQLkDRNnG_pQHEOX8x-__wbSBAXpVS0K19qubLQttroee_dMWFMwHGD7j-xgaAptRsJadkc9mJFftNKUxksA4hCMsj2o5FCYOd66h)

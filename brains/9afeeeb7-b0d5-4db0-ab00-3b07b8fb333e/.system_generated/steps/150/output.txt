@@ -1,0 +1,15 @@
+The search for ""윤슬컴퍼니" "신산로 120" OR "1017호"" returned the following summary:
+검색하신 **"부산광역시 사하구 신산로 120, B동 10층 1017호 (신평동)"** 주소지에 위치한 기업 정보는 다음과 같습니다.
+
+*   **기업명:** 윤슬컴퍼니[1][2]
+*   **주소:** 부산광역시 사하구 신산로 120, B동 10층 1017호 (신평동)[1][2]
+*   **업종:** 임대업[1][2]
+*   **소속 단지:** 서부산스마트밸리[1][2]
+
+참고로, '윤슬컴퍼니'라는 명칭을 사용하는 다른 업체들이 경남 창원(푸드트럭 등)이나 경기도 안산 등 다른 지역에도 존재하므로[3][4], 업무 관련 확인이 필요하실 경우 위 주소지를 다시 한번 대조해 보시기 바랍니다.
+
+Sources:
+[1] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvitoHxiQVzkjCBvcFcT9MmpU2zazh9MgCGXwzS1elpv3S8-dcuLRwdSz3H2EG05TS--YFyaqhruJc_0U3C1ZXC0ktDiWfy8kljEPFcp01W_d5aS0HsgHqc2v9n9FqjRtLOq20yNYhuzm1NSaATdhLa7CCe4c-pzNbe8mM-4lY1mRjvTYm9tU=)
+[2] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvitoHxiQVzkjCBvcFcT9MmpU2zazh9MgCGXwzS1elpv3S8-dcuLRwdSz3H2EG05TS--YFyaqhruJc_0U3C1ZXC0ktDiWfy8kljEPFcp01W_d5aS0HsgHqc2v9n9FqjRtLOq20yNYhuzm1NSaATdhLa7CCe4c-pzNbe8mM-4lY1mRjvTYm9tU=)
+[3] [yoonseull.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVrDYu1jFmbKPN6rlgXrQsttYlqeXs4xvALnINoCRFbet4zEAGmlrBmjYq5pajmoz4e9GkW4Suco5PiX7Ix_ISdkhyRUbllbOi2VuB)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa_gESeb-m8xLNCVWNQO0NWAnkNaYgg9sBqjg1KZhjadKWRz4p3qPzOX_sdavpO_3eUjSU_JKQPIS6MAGYTCv9A6HTGKne6ClXCWz2wXSe9YtuBjy8h4RHFPjlS1nSkBvgD7a5V0dmtn-dIsW1mj_2oJhV)

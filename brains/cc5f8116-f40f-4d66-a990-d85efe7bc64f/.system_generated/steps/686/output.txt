@@ -1,0 +1,12 @@
+The search for ""한국가이던스" 사업자등록번호 OR site:guidance.co.kr 사업자등록번호" returned the following summary:
+한국가이던스 공식 웹사이트(guidance.co.kr)에 명시된 사업자 정보는 다음과 같습니다[1][2].
+
+*   **기업명:** (주)가이던스프로[1][2]
+*   **사업자등록번호:** 643-88-02517[1][2]
+*   **대표자:** 황태일[1][2]
+
+참고로, 과거 '한국가이던스'라는 명칭으로 운영되던 기업 정보가 검색될 수 있으나, 현재 공식 사이트 하단에 표기된 법인명은 **(주)가이던스프로**입니다[1][2].
+
+Sources:
+[1] [guidance.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmzsK7-pvVqYmuk7C25o_ltY9H7VK5A9LBS6p5_aB0teT5jyCFiVucV_3ZTOj3p2GOzKHyW_QvCy8LFfkNmzqQsC5dwiTFa6_DteXps1RZRJgoKJxBLLo40_P9re_7lL0k0Rt94aop0Q==)
+[2] [guidance.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY3lFF5RrCzgPlShJYTelSC9FDGz7LyPyAVrp-JJmO09mI5Bhkbu7fL2bsOWD5LJvaWeM42qf4-6QW87Oig4JSWsYGB2USmKLjJZ5wSn-5YLX5GUJeg22V)

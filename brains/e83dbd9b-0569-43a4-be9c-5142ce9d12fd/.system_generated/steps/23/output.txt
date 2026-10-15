@@ -1,0 +1,73 @@
+
+The command exited with code 0.
+Output:
+
+Name                 
+----                 
+.antigravity         
+.antigravity-ide     
+.antigravitycli      
+.azure               
+.cache               
+.cagent              
+.claude              
+.config              
+.connect-ai-brain    
+.dbclient            
+.gemini              
+.gradle              
+.grok                
+.local               
+.m2                  
+.mcp-auth            
+.minikube            
+.ms-ad               
+.mysqlsh-gui         
+.notebooklm-mcp      
+.npm                 
+.ollama              
+.playwright-mcp      
+.redhat              
+.ssh                 
+.sts4                
+.th-client           
+.visualizers         
+.vscode              
+AntiProject          
+AppData              
+Application Data     
+Contacts             
+Cookies              
+CrossDevice          
+Desktop              
+Documents            
+Downloads            
+Favorites            
+fix                  
+Intel                
+IntelGraphicsProfiles
+Links                
+Local Settings       
+Music                
+My Documents         
+NetHood              
+PrintHood            
+Recent               
+resilient-bardeen    
+Saved Games          
+scratch              
+Searches             
+SendTo               
+spring               
+Templates            
+Videos               
+결번                   
+고용iarise참여기업리스트      
+고용허가제참여기업리스트         
+기업검증_출처              
+비즈노검수                
+시작 메뉴                
+자바스크립트의진화            
+
+
+

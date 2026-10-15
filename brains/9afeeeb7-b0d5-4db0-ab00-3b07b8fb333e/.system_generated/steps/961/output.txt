@@ -1,0 +1,38 @@
+The search for ""탑플랜트" "노정하" 법인등록번호 OR 사업자등록번호 OR 전화번호 OR "899-81"" returned the following summary:
+"탑플랜트"라는 명칭을 사용하는 기업은 다수가 존재하며, 대표자나 업종에 따라 구분됩니다. 문의하신 정보와 관련하여 확인된 주요 내용은 다음과 같습니다.
+
+### 1. 주요 기업 정보
+*   **탑플랜트(주)**
+    *   **대표자:** 노정하[1]
+    *   **소재지:** 경상남도 창녕군[1]
+*   **탑플랜트치과의원 (전북 전주시)**
+    *   **전화번호:** 063-271-2879[2][3][4]
+    *   **주소:** 전북특별자치도 전주시 덕진구 혁신로 697, 3층[2]
+*   **(주)케이탑플랜트**
+    *   **사업자등록번호:** 311-81-35922[5][6]
+    *   **소재지:** 충청남도 당진시 순성면 백석길 14[7][8]
+    *   **전화번호:** 041-355-4585[7][8]
+*   **기타 업체**
+    *   **탑플랜트공조닥트:** 경남 통영시 소재 (사업자번호: 612-09-26470)[9]
+    *   **(주)태산탑플랜트:** 경남 창녕군 소재 (전화번호: 055-521-1518)[10]
+    *   **탑플랜트:** 경북 포항시 소재 (전화번호: 054-612-3800)[11]
+    *   **탑플랜트:** 전남 영암군 소재 (전화번호: 061-462-4438)[12]
+
+### 2. 참고 사항
+*   **"899-81" 관련:** 문의하신 "899-81"은 사업자등록번호의 중간 번호(899-81-XXXXX) 형식으로 보이나, 검색 결과 해당 번호로 시작하는 기업 중 "탑플랜트"라는 상호를 가진 특정 업체는 확인되지 않았습니다[13].
+*   **정확한 정보 확인:** 찾으시는 업체가 위 목록에 없다면, 정확한 주소지나 업종을 확인하신 후 [국세청 홈택스](https://www.hometax.go.kr/)에서 '사업자등록번호 조회'를 통해 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm8211H38HlHNwtVWeeN_NRCvdx_WeAhSU2CcOf2-w3DlnhYadLwdZNXKvHcov4o5wpp0zLbboFJ9uxdNYCwyUPW5Q18TygSRfufGiT4a6j45Hgo54CowgZM9EsvyT7BR3V8zViEdabWDFL9nSYkqt)
+[2] [goodhosrank.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE34putY2qfVXDtBoEIpju6QiYx9HJMelwEjJWykRXYbMn_2a3gg_xnYnHyXZ6sNm1vZaqj_yeEi7NCN8WilRf_BS4pHkbtTDPJO92GTf8zXOfB5bYRyDHqE6P1R1yZGwFD3d1zdRDcgxy5XYKSJo6GiLEgMw-JlEM=)
+[3] [medi114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZrTurZvH-F0Q1WkQQqjbhjY01NvwBA0PI0CYazgD0yHVKFzYozQNog6J7bHLLu00wzeRX5n0MfDftzeKgd1NFmbXyn0qVckWg2JYpP5ukjo_6Uk97savd3K37zbXBoOToEuSDGE-tQhBFOuksYQOJSnRz8GsrVljdRBC4F7RWvg==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJPI_yyu-YeAAwv-Xgl4seRRiXidi3vDvqa452FvOMt0J6RVM7gMLztysc67jxQdLZaA8d508SdV7fAuVkolFg5Bp4aMdVxLDu41JC6Jch30LGfno=)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErBdob9rfVTSOqQZAvUDAT7xdCZJCz5TewA-OGiWQX6wy9PEnz2oCDrD2I9_Y4hWStiUCa77l8z27Q7u3nr_3WgIToD07nT4XVl028fFCGFjbuq2z8Q6f4z44NwJemmMVP5g==)
+[6] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErBdob9rfVTSOqQZAvUDAT7xdCZJCz5TewA-OGiWQX6wy9PEnz2oCDrD2I9_Y4hWStiUCa77l8z27Q7u3nr_3WgIToD07nT4XVl028fFCGFjbuq2z8Q6f4z44NwJemmMVP5g==)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElR-068bftJyYjfBI71e5Fz3O0hgFZSmcmKP0iOYzkvR-jwyJI3Wg_riByGVeZvsaUhglKqyd94KIKDv1cEvcxgUMvvzNOSMGtxNsSGSpvlIVgqd-GRkE=)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElR-068bftJyYjfBI71e5Fz3O0hgFZSmcmKP0iOYzkvR-jwyJI3Wg_riByGVeZvsaUhglKqyd94KIKDv1cEvcxgUMvvzNOSMGtxNsSGSpvlIVgqd-GRkE=)
+[9] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeKmd5MmUaFM0S6UDLchxuvEVMv4m_zWx6Fu38j-7e0GQ2XGo6gd5eTJ_acSA-tJvIteGCtupMA8xCJvFGP-IBcWau1QwYhI7eMKPmDcVXqLbBzq8yEw_5LhyOZpOEDPd6VzYqy62caYAgkxLsMuZLBcGgMH1eDMdgfmU8G_xTHibHL_gLVR0bateqjOHdF14SDrg4VPej8HHN-SoZnLzS9TuLPA_FIlAUmfZ1DmYIVxLxkHGaonsyeO0AgklRkZMk5Eb5RK5yIo0RRoHuHx0eTlN4mkv4OkpDSLEkAKNLiOgYikxFHssh0OGR7x6ENpfL8a--Z8YlxeKXSD8SgcCOjkU2rHC5CT5jf8Vdxqi13qTc2V4q2GgmvmByJDyEqvsd)
+[10] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEEqlQpnqCK8F5JK_Hvc7ZRErNHpd8YokN_MwgrHjvM1VmhsfvCOTnHNjI_iianLRXZfR07KrXRhASlWZMmyxOL7HVIWVHBak9TTbBbkDq7Xw6oZXEE-akkTNCng==)
+[11] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGukuWV8tpRB1TklRp7lSyRljA-fMgeGXgiCeCJs2jJPkSfKfqcbz-Q-iB7RDLkEIxK_sirbr8qyC0eANUvy8SLsYJ8x6seL8rXU_4n15kRa5INJBuCb31Z8GL2KGuZgorF3g8QAImFjTHZ__s7nw6I8LnS1CAmaIKKY4ER_938jxrmpCt6_X1b7g==)
+[12] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ73Zn4apmcBwRUencpCF0UZORTpuZBIXuAdC_5WAXGj_9a-VzlCt9jFS1EsHXVIslfCxIgftnju_WpkK2rsIMf0D3M7CuLXW-DGKQnKVY-2mIFh8eH5VoqZQqUvNqmMyg4tbUgu7Fw4EyEwfxksA_ODKridQPtYk0r9ExpNmmyna58eDlHFtMFJ_U3WTVoorVoUQ5uMZRTAqsbno=)
+[13] [moneta.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAczM6T8uIYOD9ntwuyLHnvlwthc4rj4pnfvpXa2HKQWMZTfnlnnucHoVu3aOXWIIWYqqjoRyspLbXE72icfdGkUlKtYSQDI4f71R0oR8GS4t7jrSL8qjUZ-XxmIV9jnIbfL__HoFSJzQkKhV3c5VMnkXsYKB-SZnXFSguYK8K4QJhVxQ=)

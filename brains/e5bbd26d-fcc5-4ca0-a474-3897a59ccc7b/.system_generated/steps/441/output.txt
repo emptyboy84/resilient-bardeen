@@ -1,0 +1,49 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:88
++ ...  class=\"titles\">.*?<a href=\"(/article/[^\"]+)\"><h4>(.*?)</h4></a> ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:10 �:109
++ ... <a href=\"(/article/[^\"]+)\"><h4>(.*?)</h4></a>.*?<h5>(.*?)</h5>.*?< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:10 �:126
++ ... le/[^\"]+)\"><h4>(.*?)</h4></a>.*?<h5>(.*?)</h5>.*?<h5>(.*?)</h5>.*?< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:10 �:142
++ ... >(.*?)</h4></a>.*?<h5>(.*?)</h5>.*?<h5>(.*?)</h5>.*?<p>(.*?)</p>', ht ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:17 �:23
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                       ~~~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:17 �:31
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                               ~~~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:17 �:39
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                                       ~~~~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:17 �:54
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                                                      ~~
+�ڿ� ' �ڰ� �ϴ�.
+�ġ �:17 �:48
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                                                ~~~~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:17 �:54
++     print(f'{title} | {rep} | {ind} | {addr} | {href}')
++                                                      ~~
+� �Ǵ� � �ġ � '')
+" }' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : RedirectionNotSupported
+ 
+

@@ -1,0 +1,14 @@
+The search for "site:airtoy.co.kr "사업자등록번호" OR "대표" OR "주소"" returned the following summary:
+위니코니(주)(airtoy.co.kr)의 회사 정보는 다음과 같습니다[1].
+
+*   **주소:**
+    *   부산광역시 기장군 정관면 산단 7로 99-48[1]
+    *   경기도 파주시 탄현면 축현산단로 63-19[1]
+*   **대표:** 조은희(과거 '또래나라' 시절)[1] / 조관수(1972년 회사 창립 당시)[1]
+
+제공된 자료에는 현재 기준의 정확한 사업자등록번호가 명시되어 있지 않습니다[1]. 추가적인 정보가 필요하시다면 공식 홈페이지의 '회사소개' 또는 '고객센터' 페이지를 직접 확인하시기 바랍니다[2][3].
+
+Sources:
+[1] [airtoy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3BcXrD6TIfLHwUkb6_JXR-zIsNp2DaR6UpiVDuQA2Lh-UhsIMTJDWIBoy5hgmYWUDgixMzLfcxjrR60AOCDiCZOI4jln0H2UjKwoiGCPPYr4elq9z6hxuAI=)
+[2] [airtoy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3BcXrD6TIfLHwUkb6_JXR-zIsNp2DaR6UpiVDuQA2Lh-UhsIMTJDWIBoy5hgmYWUDgixMzLfcxjrR60AOCDiCZOI4jln0H2UjKwoiGCPPYr4elq9z6hxuAI=)
+[3] [airtoy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3BcXrD6TIfLHwUkb6_JXR-zIsNp2DaR6UpiVDuQA2Lh-UhsIMTJDWIBoy5hgmYWUDgixMzLfcxjrR60AOCDiCZOI4jln0H2UjKwoiGCPPYr4elq9z6hxuAI=)

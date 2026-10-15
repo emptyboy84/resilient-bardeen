@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+APIs in 114: null
+Sample URLs: [
+  'https://www.114.co.kr/search',
+  'https://www.114.co.kr/pc/image/logo-for-share.png',
+  'https://www.114.co.kr/sign/snsKakaoLogin',
+  'https://www.114.co.kr/sign/snsNaverLogin',
+  'https://www.facebook.com/media114/',
+  'https://www.instagram.com/media114/',
+  'https://blog.naver.com/ktis02114'
+]
+

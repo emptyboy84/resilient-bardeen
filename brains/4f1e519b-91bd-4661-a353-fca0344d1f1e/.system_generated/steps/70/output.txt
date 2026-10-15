@@ -1,0 +1,535 @@
+### Page
+- Page URL: https://www.youtube.com/watch?v=wHMm-ql0Sig
+- Page Title: 안 쓰는 기능 '딱 1개' OFF! 노트북·데스크탑 반응속도 50% 향상시키는 법! 컴퓨터 업그레이드 필요 없다! - YouTube
+- Console: 3 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=e88]:
+  - banner [ref=e63]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - button "가이드" [ref=e68] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img
+        - generic [ref=e70]:
+          - link "YouTube 홈" [ref=e91] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e96]:
+              - img
+          - generic [ref=e97]: KR
+        - button "탐색 건너뛰기" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]: 탐색 건너뛰기
+      - generic [ref=e71]:
+        - search [ref=e72]:
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - combobox "검색" [expanded] [ref=e106]
+              - button [ref=e80] [cursor=pointer]
+            - button "Search" [ref=e81] [cursor=pointer]:
+              - generic [ref=e108]:
+                - img
+        - generic [ref=e110]:
+          - button "음성으로 검색" [ref=e112] [cursor=pointer]
+          - tooltip "tooltip"
+      - generic [ref=e118]:
+        - button "설정" [ref=e123] [cursor=pointer]
+        - link "로그인" [ref=e127] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dko%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DwHMm-ql0Sig&hl=ko&ec=65620
+          - generic [ref=e130]: 로그인
+  - main [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e138]:
+        - complementary [ref=e145]:
+          - generic "YouTube 동영상 플레이어" [active] [ref=e5]:
+            - generic [ref=e150] [cursor=pointer]:
+              - img [ref=e151]
+              - generic [ref=e152]: 음질을 놓칠 순 없지! 가성비, 음질 모두를 비교하는 오픈형 이어버드 비교 언박싱을 해 봤습니다 Sanag S8S Ultra, S6S Ultra, Bose 오픈 이어버드
+              - button "닫기" [ref=e153]:
+                - img
+            - generic [ref=e157]: 만렙
+            - generic [ref=e10]:
+              - generic [ref=e11] [cursor=pointer]:
+                - slider "탐색 슬라이더" [ref=e12]
+                - generic:
+                  - generic:
+                    - generic:
+                      - slider "세밀한 탐색을 하려면 패널을 클릭하거나 스크롤하세요."
+              - generic [ref=e22]:
+                - generic [ref=e23]:
+                  - button "일시중지(k)" [ref=e24] [cursor=pointer]:
+                    - img
+                  - generic [ref=e25]:
+                    - button "음소거(m)" [ref=e27] [cursor=pointer]:
+                      - img
+                    - slider "볼륨"
+                  - button "0 분 0 초/8 분 9 초" [ref=e31] [cursor=pointer]: 0:00 / 8:09
+                - generic [ref=e32]:
+                  - generic [ref=e33]:
+                    - button "자동재생 사용 설정" [ref=e162] [cursor=pointer]
+                    - button "자막 사용 불가" [pressed] [ref=e34] [cursor=pointer]:
+                      - generic [ref=e35]:
+                        - img
+                    - button "설정" [ref=e36] [cursor=pointer]:
+                      - img
+                  - generic [ref=e37]:
+                    - button "영화관 모드(t)" [ref=e38] [cursor=pointer]:
+                      - img
+                    - button "전체 화면(f)" [ref=e39] [cursor=pointer]:
+                      - img
+        - generic [ref=e166]:
+          - generic [ref=e168]:
+            - heading "안 쓰는 기능 '딱 1개' OFF! 노트북·데스크탑 반응속도 50% 향상시키는 법! 컴퓨터 업그레이드 필요 없다!" [level=1] [ref=e170]
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - link "모바일랩" [ref=e174] [cursor=pointer]:
+                    - /url: /@neonchang
+                    - img "모바일랩" [ref=e176]
+                  - generic [ref=e177]:
+                    - generic "모바일랩" [ref=e181]:
+                      - link "모바일랩" [ref=e182] [cursor=pointer]:
+                        - /url: /@neonchang
+                    - generic "구독자 18.9만명" [ref=e183]
+                  - button "이 채널 가입" [ref=e190] [cursor=pointer]:
+                    - generic [ref=e191]: 가입
+                - generic [ref=e198]:
+                  - button "모바일랩을(를) 구독합니다." [ref=e200] [cursor=pointer]:
+                    - generic [ref=e201]: 구독
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                    - generic:
+                      - img
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - generic [ref=e213]:
+                    - button "다른 사용자 2,091명과 함께 이 동영상에 좋아요 표시" [ref=e217] [cursor=pointer]:
+                      - generic [ref=e220]: 2천
+                    - button "동영상에 싫어요 표시" [ref=e227] [cursor=pointer]
+                  - button "공유" [ref=e235] [cursor=pointer]:
+                    - generic [ref=e238]: 공유
+                - button "재생목록에 저장" [ref=e245] [cursor=pointer]:
+                  - generic [ref=e248]: 저장
+                - button "추가 작업" [ref=e253] [cursor=pointer]
+            - generic [ref=e261] [cursor=pointer]:
+              - generic [ref=e262]:
+                - generic [ref=e264]: 조회수 5.1만회 2일 전
+                - tooltip "tooltip"
+              - generic [ref=e265]:
+                - generic [ref=e266]:
+                  - generic [ref=e269]:
+                    - text: "☞ 실시간으로 반영되는 최신 이벤트 안내 :"
+                    - link "https://docs.google.com/spreadsheets/..." [ref=e271]:
+                      - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21YQ3N1cnJ6VXZmWjExWE8wNmU5YW5WMnFSQXxBQ3Jtc0ttaU5VWlI0aUxJQndqcXBoMExVQnR2THNJZUpGenFNTnktWGhQcHRlUm9oRXZ4T1dZcVlBcjBBVmtqeHJqb241eGNLWENXRmJWTWI4VmN2Umh4T3BBZmdzeTVGUWJRQjN4M3JrNDBTYWFtZURlX01oTQ&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ohlo_I_srLNVkecl7JF3_54cu-KyU-PW8sYrqZN88OE%2Fedit%3Fgid%3D0%23gid%3D0&v=wHMm-ql0Sig
+                  - generic: …
+                - button "...더보기" [ref=e272]
+          - text: •
+      - generic [ref=e279]:
+        - generic [ref=e281] [cursor=pointer]:
+          - link [ref=e282]:
+            - /url: /watch?v=RfjSgFiEkk8&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e289]: 6:28
+          - generic [ref=e291]:
+            - generic [ref=e292]:
+              - heading "답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠?" [level=3] [ref=e293]:
+                - link "답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠? 6분 28초" [ref=e294]:
+                  - /url: /watch?v=RfjSgFiEkk8&pp=ugUEEgJrbw%3D%3D
+                  - text: 답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠?
+              - generic [ref=e296]:
+                - group [ref=e297]:
+                  - generic [ref=e298]: 모바일랩
+                - group [ref=e299]:
+                  - generic [ref=e300]: 조회수 2.2만회
+                  - generic [ref=e301]: •
+                  - generic "3주 전" [ref=e302]
+            - button "추가 작업" [ref=e305]
+        - generic [ref=e312] [cursor=pointer]:
+          - link [ref=e313]:
+            - /url: /watch?v=v5yyv1J9O9g
+            - generic [ref=e320]: 11:33
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - heading "이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다" [level=3] [ref=e324]:
+                - link "이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다 11분 33초" [ref=e325]:
+                  - /url: /watch?v=v5yyv1J9O9g
+                  - text: 이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다
+              - generic [ref=e327]:
+                - group [ref=e328]:
+                  - generic [ref=e329]:
+                    - text: 누나IT
+                    - img [ref=e332]
+                - group [ref=e333]:
+                  - generic [ref=e334]: 조회수 3.1만회
+                  - generic [ref=e335]: •
+                  - generic "3일 전" [ref=e336]
+                - group [ref=e337]:
+                  - generic [ref=e341]: 새 동영상
+            - button "추가 작업" [ref=e344]
+        - generic [ref=e351] [cursor=pointer]:
+          - link [ref=e352]:
+            - /url: /watch?v=-gR00H0j1is
+            - generic [ref=e359]: 15:55
+          - generic [ref=e361]:
+            - generic [ref=e362]:
+              - heading "바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;;" [level=3] [ref=e363]:
+                - link "바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;; 15분" [ref=e364]:
+                  - /url: /watch?v=-gR00H0j1is
+                  - text: 바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;;
+              - generic [ref=e366]:
+                - group [ref=e367]:
+                  - generic [ref=e368]:
+                    - text: ITSub잇섭
+                    - img [ref=e371]
+                - group [ref=e372]:
+                  - generic [ref=e373]: 조회수 24만회
+                  - generic [ref=e374]: •
+                  - generic "13시간 전" [ref=e375]
+                - group [ref=e376]:
+                  - generic [ref=e380]: 새 동영상
+            - button "추가 작업" [ref=e383]
+        - generic [ref=e390] [cursor=pointer]:
+          - link [ref=e391]:
+            - /url: /watch?v=wxg5vAbLQjM
+            - generic [ref=e398]: 19:51
+          - generic [ref=e400]:
+            - generic [ref=e401]:
+              - heading "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥" [level=3] [ref=e402]:
+                - link "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥 19분" [ref=e403]:
+                  - /url: /watch?v=wxg5vAbLQjM
+                  - text: "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥"
+              - generic [ref=e405]:
+                - group [ref=e406]:
+                  - generic [ref=e407]:
+                    - text: 디글 :Diggle
+                    - img [ref=e410]
+                - group [ref=e411]:
+                  - generic [ref=e412]: 조회수 133만회
+                  - generic [ref=e413]: •
+                  - generic "11개월 전" [ref=e414]
+            - button "추가 작업" [ref=e417]
+        - generic [ref=e424] [cursor=pointer]:
+          - link [ref=e425]:
+            - /url: /watch?v=y_LUDAPCH20&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e432]: 10:08
+          - generic [ref=e434]:
+            - generic [ref=e435]:
+              - heading "안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN" [level=3] [ref=e436]:
+                - link "안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN 10분 8초" [ref=e437]:
+                  - /url: /watch?v=y_LUDAPCH20&pp=ugUEEgJrbw%3D%3D
+                  - text: 안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN
+              - generic [ref=e439]:
+                - group [ref=e440]:
+                  - generic [ref=e441]: KNN NEWS
+                - group [ref=e442]:
+                  - generic [ref=e443]: 조회수 28만회
+                  - generic [ref=e444]: •
+                  - generic "16시간 전" [ref=e445]
+                - group [ref=e446]:
+                  - generic [ref=e450]: 새 동영상
+            - button "추가 작업" [ref=e453]
+        - generic [ref=e460] [cursor=pointer]:
+          - link [ref=e461]:
+            - /url: /watch?v=5a83G733fco
+            - generic [ref=e468]: 17:48
+          - generic [ref=e470]:
+            - generic [ref=e471]:
+              - heading "미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체" [level=3] [ref=e472]:
+                - link "미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체 17분" [ref=e473]:
+                  - /url: /watch?v=5a83G733fco
+                  - text: 미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체
+              - generic [ref=e475]:
+                - group [ref=e476]:
+                  - generic [ref=e477]:
+                    - text: 뻘짓연구소
+                    - img [ref=e480]
+                - group [ref=e481]:
+                  - generic [ref=e482]: 조회수 124만회
+                  - generic [ref=e483]: •
+                  - generic "5개월 전" [ref=e484]
+            - button "추가 작업" [ref=e487]
+        - generic [ref=e494] [cursor=pointer]:
+          - link [ref=e495]:
+            - /url: /watch?v=UzZco8U2ngY&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e502]: 26:10
+          - generic [ref=e504]:
+            - generic [ref=e505]:
+              - heading "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유" [level=3] [ref=e506]:
+                - link "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유 26분" [ref=e507]:
+                  - /url: /watch?v=UzZco8U2ngY&pp=ugUEEgJrbw%3D%3D
+                  - text: "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유"
+              - generic [ref=e509]:
+                - group [ref=e510]:
+                  - generic [ref=e511]: 한국찐반응
+                - group [ref=e512]:
+                  - generic [ref=e513]: 조회수 3.3만회
+                  - generic [ref=e514]: •
+                  - generic "12시간 전" [ref=e515]
+                - group [ref=e516]:
+                  - generic [ref=e520]: 새 동영상
+            - button "추가 작업" [ref=e523]
+        - generic [ref=e530] [cursor=pointer]:
+          - link [ref=e531]:
+            - /url: /watch?v=lL9qyW6kBI4
+            - generic [ref=e538]: 26:18
+          - generic [ref=e540]:
+            - generic [ref=e541]:
+              - heading "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후" [level=3] [ref=e542]:
+                - link "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후 26분" [ref=e543]:
+                  - /url: /watch?v=lL9qyW6kBI4
+                  - text: "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후"
+              - generic [ref=e545]:
+                - group [ref=e546]:
+                  - generic [ref=e547]: 김재민TV
+                - group [ref=e548]:
+                  - generic [ref=e549]: 조회수 29만회
+                  - generic [ref=e550]: •
+                  - generic "16시간 전" [ref=e551]
+                - group [ref=e552]:
+                  - generic [ref=e556]: 새 동영상
+            - button "추가 작업" [ref=e559]
+        - generic [ref=e566] [cursor=pointer]:
+          - link [ref=e567]:
+            - /url: /watch?v=rjpZRVPqvRc&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e574]: 6:08
+          - generic [ref=e576]:
+            - generic [ref=e577]:
+              - heading "속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가" [level=3] [ref=e578]:
+                - link "속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가 6분 8초" [ref=e579]:
+                  - /url: /watch?v=rjpZRVPqvRc&pp=ugUEEgJrbw%3D%3D
+                  - text: 속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가
+              - generic [ref=e581]:
+                - group [ref=e582]:
+                  - generic [ref=e583]: 트래블튜브
+                - group [ref=e584]:
+                  - generic [ref=e585]: 조회수 10만회
+                  - generic [ref=e586]: •
+                  - generic "10시간 전" [ref=e587]
+                - group [ref=e588]:
+                  - generic [ref=e592]: 새 동영상
+            - button "추가 작업" [ref=e595]
+        - generic [ref=e602] [cursor=pointer]:
+          - link [ref=e603]:
+            - /url: /watch?v=XGjdTZrDPXE&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e610]: 13:57
+          - generic [ref=e612]:
+            - generic [ref=e613]:
+              - heading "가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까?" [level=3] [ref=e614]:
+                - link "가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까? 13분 57초" [ref=e615]:
+                  - /url: /watch?v=XGjdTZrDPXE&pp=ugUEEgJrbw%3D%3D
+                  - text: 가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까?
+              - generic [ref=e617]:
+                - group [ref=e618]:
+                  - generic [ref=e619]:
+                    - text: 민티저
+                    - img [ref=e622]
+                - group [ref=e623]:
+                  - generic [ref=e624]: 조회수 94만회
+                  - generic [ref=e625]: •
+                  - generic "11개월 전" [ref=e626]
+            - button "추가 작업" [ref=e629]
+        - generic [ref=e636] [cursor=pointer]:
+          - link [ref=e637]:
+            - /url: /watch?v=O2nha-m8sm4
+            - generic [ref=e644]: 15:54
+          - generic [ref=e646]:
+            - generic [ref=e647]:
+              - heading "대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부)" [level=3] [ref=e648]:
+                - link "대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부) 15분" [ref=e649]:
+                  - /url: /watch?v=O2nha-m8sm4
+                  - text: 대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부)
+              - generic [ref=e651]:
+                - group [ref=e652]:
+                  - generic [ref=e653]:
+                    - text: 지식인사이드
+                    - img [ref=e656]
+                - group [ref=e657]:
+                  - generic [ref=e658]: 조회수 153만회
+                  - generic [ref=e659]: •
+                  - generic "10개월 전" [ref=e660]
+            - button "추가 작업" [ref=e663]
+        - generic [ref=e670] [cursor=pointer]:
+          - link [ref=e671]:
+            - /url: /watch?v=wX-80QWb2tg&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e678]: 36:34
+          - generic [ref=e680]:
+            - generic [ref=e681]:
+              - heading "단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수" [level=3] [ref=e682]:
+                - link "단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수 36분" [ref=e683]:
+                  - /url: /watch?v=wX-80QWb2tg&pp=ugUEEgJrbw%3D%3D
+                  - text: 단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수
+              - generic [ref=e685]:
+                - group [ref=e686]:
+                  - generic [ref=e687]: 시간책방
+                - group [ref=e688]:
+                  - generic [ref=e689]: 조회수 26만회
+                  - generic [ref=e690]: •
+                  - generic "4주 전" [ref=e691]
+                - group [ref=e692]:
+                  - generic [ref=e697]: 자동 더빙
+            - button "추가 작업" [ref=e700]
+        - generic [ref=e707] [cursor=pointer]:
+          - link [ref=e708]:
+            - /url: /watch?v=mXYn1tC9aGo
+            - generic [ref=e715]: 16:00
+          - generic [ref=e717]:
+            - generic [ref=e718]:
+              - heading "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부)" [level=3] [ref=e719]:
+                - link "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부) 16분" [ref=e720]:
+                  - /url: /watch?v=mXYn1tC9aGo
+                  - text: "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부)"
+              - generic [ref=e722]:
+                - group [ref=e723]:
+                  - generic [ref=e724]:
+                    - text: 지식인사이드
+                    - img [ref=e727]
+                - group [ref=e728]:
+                  - generic [ref=e729]: 조회수 174만회
+                  - generic [ref=e730]: •
+                  - generic "1년 전" [ref=e731]
+            - button "추가 작업" [ref=e734]
+        - generic [ref=e741] [cursor=pointer]:
+          - link [ref=e742]:
+            - /url: /watch?v=54u2Nmry7yc
+            - generic [ref=e749]: 33:26
+          - generic [ref=e751]:
+            - generic [ref=e752]:
+              - heading "월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후" [level=3] [ref=e753]:
+                - link "월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후 33분" [ref=e754]:
+                  - /url: /watch?v=54u2Nmry7yc
+                  - text: 월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후
+              - generic [ref=e756]:
+                - group [ref=e757]:
+                  - generic [ref=e758]:
+                    - text: 달빛부부
+                    - img [ref=e761]
+                - group [ref=e762]:
+                  - generic [ref=e763]: 조회수 80만회
+                  - generic [ref=e764]: •
+                  - generic "2일 전" [ref=e765]
+                - group [ref=e766]:
+                  - generic [ref=e770]: 새 동영상
+            - button "추가 작업" [ref=e773]
+        - generic [ref=e780] [cursor=pointer]:
+          - link [ref=e781]:
+            - /url: /watch?v=_umna3uMDHU&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e788]: 3:35
+          - generic [ref=e790]:
+            - generic [ref=e791]:
+              - heading "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송" [level=3] [ref=e792]:
+                - link "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송 3분 35초" [ref=e793]:
+                  - /url: /watch?v=_umna3uMDHU&pp=ugUEEgJrbw%3D%3D
+                  - text: "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송"
+              - generic [ref=e795]:
+                - group [ref=e796]:
+                  - generic [ref=e797]:
+                    - text: 올스
+                    - img [ref=e800]
+                - group [ref=e801]:
+                  - generic [ref=e802]: 조회수 48만회
+                  - generic [ref=e803]: •
+                  - generic "13시간 전" [ref=e804]
+                - group [ref=e805]:
+                  - generic [ref=e809]: 새 동영상
+            - button "추가 작업" [ref=e812]
+        - generic [ref=e819] [cursor=pointer]:
+          - link [ref=e820]:
+            - /url: /watch?v=__herUip5T0
+            - generic [ref=e827]: 26:27
+          - generic [ref=e829]:
+            - generic [ref=e830]:
+              - heading "비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원" [level=3] [ref=e831]:
+                - link "비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원 26분" [ref=e832]:
+                  - /url: /watch?v=__herUip5T0
+                  - text: 비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원
+              - generic [ref=e834]:
+                - group [ref=e835]:
+                  - generic [ref=e836]: 제이런컴퓨터
+                - group [ref=e837]:
+                  - generic [ref=e838]: 조회수 11만회
+                  - generic [ref=e839]: •
+                  - generic "3개월 전" [ref=e840]
+            - button "추가 작업" [ref=e843]
+        - generic [ref=e850] [cursor=pointer]:
+          - link [ref=e851]:
+            - /url: /watch?v=0QonhdVu_sU&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e858]: 27:59
+          - generic [ref=e860]:
+            - generic [ref=e861]:
+              - heading "상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다!" [level=3] [ref=e862]:
+                - link "상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다! 27분" [ref=e863]:
+                  - /url: /watch?v=0QonhdVu_sU&pp=ugUEEgJrbw%3D%3D
+                  - text: 상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다!
+              - generic [ref=e865]:
+                - group [ref=e866]:
+                  - generic [ref=e867]: 시니어생생정보
+                - group [ref=e868]:
+                  - generic [ref=e869]: 조회수 16만회
+                  - generic [ref=e870]: •
+                  - generic "1개월 전" [ref=e871]
+            - button "추가 작업" [ref=e874]
+        - generic [ref=e881] [cursor=pointer]:
+          - link [ref=e882]:
+            - /url: /watch?v=4r5U9z3m894
+            - generic [ref=e889]: 25:07
+          - generic [ref=e891]:
+            - generic [ref=e892]:
+              - heading "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환" [level=3] [ref=e893]:
+                - link "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환 25분" [ref=e894]:
+                  - /url: /watch?v=4r5U9z3m894
+                  - text: "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환"
+              - generic [ref=e896]:
+                - group [ref=e897]:
+                  - generic [ref=e898]: 샤를의 군사연구소
+                - group [ref=e899]:
+                  - generic [ref=e900]: 조회수 25만회
+                  - generic [ref=e901]: •
+                  - generic "21시간 전" [ref=e902]
+                - group [ref=e903]:
+                  - generic [ref=e907]: 새 동영상
+            - button "추가 작업" [ref=e910]
+        - generic [ref=e917] [cursor=pointer]:
+          - link [ref=e918]:
+            - /url: /watch?v=RuxGjaN6Low&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e925]: 22:54
+          - generic [ref=e927]:
+            - generic [ref=e928]:
+              - heading "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일" [level=3] [ref=e929]:
+                - link "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일 22분" [ref=e930]:
+                  - /url: /watch?v=RuxGjaN6Low&pp=ugUEEgJrbw%3D%3D
+                  - text: "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일"
+              - generic [ref=e932]:
+                - group [ref=e933]:
+                  - generic [ref=e934]: 얄궂은 경제학
+                - group [ref=e935]:
+                  - generic [ref=e936]: 조회수 1.7만회
+                  - generic [ref=e937]: •
+                  - generic "8시간 전" [ref=e938]
+                - group [ref=e939]:
+                  - generic [ref=e943]: 새 동영상
+            - button "추가 작업" [ref=e946]
+        - generic [ref=e953] [cursor=pointer]:
+          - link [ref=e954]:
+            - /url: /watch?v=RhgQ6eZybHY&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e961]: 5:40
+          - generic [ref=e963]:
+            - generic [ref=e964]:
+              - heading "왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다" [level=3] [ref=e965]:
+                - link "왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다 5분 40초" [ref=e966]:
+                  - /url: /watch?v=RhgQ6eZybHY&pp=ugUEEgJrbw%3D%3D
+                  - text: 왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다
+              - generic [ref=e968]:
+                - group [ref=e969]:
+                  - generic [ref=e970]: 모바일랩
+                - group [ref=e971]:
+                  - generic [ref=e972]: 조회수 1.3만회
+                  - generic [ref=e973]: •
+                  - generic "2주 전" [ref=e974]
+            - button "추가 작업" [ref=e977]
+    - generic [ref=e984]:
+      - button "설명" [ref=e987] [cursor=pointer]
+      - button "댓글" [ref=e995] [cursor=pointer]
+      - button [ref=e1003] [cursor=pointer]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-07-07T00-05-25-847Z.log#L4-L6

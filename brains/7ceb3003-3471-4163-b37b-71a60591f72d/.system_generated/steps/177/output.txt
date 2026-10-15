@@ -1,0 +1,16 @@
+The search for ""0505-349-8000"" returned the following summary:
+The number **0505-349-8000** follows the format used for dialing U.S. Air Force base numbers in South Korea (specifically Osan Air Base) from a commercial or mobile phone[1][2][3].
+
+### Key Information:
+*   **Purpose:** In South Korea, the **0505** prefix is specifically used to allow individuals to call U.S. Air Force DSN (Defense Switched Network) numbers from off-base, civilian, or mobile phones[2][3].
+*   **Context:** This format is commonly associated with contact numbers for offices, services, or facilities located on **Osan Air Base**[1][3].
+*   **Dialing Instructions:**
+    *   **From a Korean mobile/commercial phone:** Dial the number exactly as shown: `0505-349-8000`[2][3].
+    *   **From the U.S.:** Dial `011-82-505-349-8000`[2][3].
+
+If you are trying to reach a specific office on base and this number is not connecting or you are unsure of the department, you can try contacting the **Osan Air Base Operator** at **0505-784-1110** for assistance[1][3].
+
+Sources:
+[1] [usfk.mil](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZfiPDO3XNFeznXfFBr_nbXrpitZamHxPQdcRvGesjbXFG0zB7oZ2yBZsbbGf3ZX-H1coYI0bH-4mDUEANGuo5iEhV7yccRQt5C77Dr6NyywVSemYXR7-KosaqxZzV4q0mdqAYRWPqGsDIfj7iY947ktMkdrn_TeHuWuHTy252W-EwVGtV1-oVSJ1ziY3oIzFcfZ2hgaBtd_BUFT_X)
+[2] [rsokorea.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFos2DA8jKK7j7dCLRVpVZJ_9i0QWAhbxkpf5-MKZ6lVL0AxYlhGbYgccLGgGcPtdQUgwFbKRmZKycWBpzJ5uQxNhRO0mD0ZCA_8TWKI6iJQwvMzk0XEr0CHbv3N4jH)
+[3] [af.mil](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJl0WlTnq6XpxtV-jIexoo6nzKmzVCa2PNl5QRD0Nav_OBOwb3l9yADfDgRYeTrwCalw13xlrcVGlDuKZw4oDk-jetWQSjFqtiyDj1znjcn2duZNoaiNn-7X797lNJ0gixVdE=)

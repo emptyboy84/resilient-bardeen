@@ -1,0 +1,8 @@
+Task: cc5f8116-f40f-4d66-a990-d85efe7bc64f/task-738
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\.system_generated\tasks\task-738.log
+Log output:
+Running fast batch matcher on 132 targets...
+[ 1] Row 1278 | 한국가이던스부산지사 -> 한국가이던스 (621-15-82249) | Emp: 9 | CEO: 서금석 | 이유: 전화번호 일치 (051-517-7548)
+
+Last progress: 16s ago

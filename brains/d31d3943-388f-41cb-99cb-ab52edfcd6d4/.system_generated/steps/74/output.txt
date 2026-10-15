@@ -1,0 +1,13 @@
+The search for ""에코캡" "센텀북대로" OR "에코캡" "재송동" OR "에코캡" "센텀아이에스"" returned the following summary:
+자동차 부품 제조 기업인 **에코캡(주)**은 현재 본사와 주요 공장 및 연구소가 **울산광역시 울주군 언양읍 반천반송산업로 137-66 (반천일반산업단지)**에 위치하고 있습니다[1][2][3]. 
+
+문의하신 내용과 관련된 과거 자료를 보면, 에코캡은 과거 부산광역시 해운대구 재송동에 위치한 **센텀IS타워(센텀아이에스타워)** 내에 지점 또는 관련 주소지를 두었던 이력이 있습니다(병역지정업체 및 기업 등록 정보 등 참조)[4][5]. 센텀IS타워가 위치한 도로명 주소가 바로 **‘센텀북대로’**입니다. 
+
+따라서 해당 키워드 조합은 에코캡의 과거 부산 사무소나 지점(센텀IS타워 / 센텀북대로 / 재송동) 위치와 연관된 정보로 확인됩니다[4][5].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2T4f6fPPHMPEhETSIdPX3MZ0GXOx8d2I5kLzkq5Ne5z3aB0qnZhyA57MnkZKUjErZm46jSFFdd5VNhXqjbwPdR7GjCC0ioXNnvVEezP-hG2c5kzcQNcM-JJzSl__b008QX9cLYwRixYUSo0jPiRSx68xOmH9SVhz5rqHAW73zpYicO0K4IxQU3dprTTvc9r1pInTrCUzz30R6tH5UzHwKNDN-72zkupGzT89c2iOfokzFA2CQsovWhcDzwfkcRRIj)
+[2] [ecocab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UbfWlwg2i0sodtkMoDS9DzovGy3TwDX0-TIxdLjcuWemU3FcuIc7cicitfGBeckAygceL-6gl7RpdqTIaTGvjn8jibZI-gfhI2wSR9I=)
+[3] [ifactoryhub.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES8oj9C1cbi-_QbiacukeI6DW6lr2RuoOzOTUmx89js1qZsEHYWhGVit17d7A2AvO3_vsFdt4bWAuHDJV0yjFOC0ix1Yo4GQLxDfQwTITKsorcRO12NljGz-eOwJFv8bLYcFdcsdBIYxlsOYOEWBqpd8gC1vtsQBXgGfoQdg6ck1g6avwWgs33UBekmAbUNWGK-kclnXLXxzFZyDZoK4Fu3C27D6NYAl11tRpWOLZZppHb9ysVMfriECEu_sXw7LHYYKigIGyNSSNo6mS7fx8LVsVgJrzLEr1rafybiMNG6Qr4HyISu1B_T9h8GjdQU_DyHxxK4RGxy-gJsd3zUeNhMfV-_oc2U-bFaiaQhPKLcgfHVsAFKEBLXvli1i9a)
+[4] [kaap.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHshUp2K5bhdS_O1Pzd5X1GoxrxEUxdElp870QkON9STQNURf_klhIXYhiiDW2ZqqUBmu3E7wKYAhc3Zu87eYYp-TzvTTcVS6lh0AJmd_4U_YtekShMFpCiKGRL2E9yN-m63jLE8JrnD2ocOfVugp71mLju42JgNJ_bh9wsfnubB2L8Mtv0YSlfj6toWgKYxJzbxbRAwPH6rhTOs21UlgR12mBNmNQs6C2HXzmlmM8CxINvnZLv9S7IWtaW9lUc7cg-W1sTaFv9jJ4ALgQtlhQ7a71b_qHUMX2Vuf13ztJKGsSgUbGFexJOckdzhSQkaWn1HxyXqY04E0FyvMttb3jzdC_sZvjLtsic)
+[5] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9MdJ83ywdTeazzFJI5XbPz1lBNxO3BvRB4qs_Z7JbDV6ZYgi6Ee4nFs5CvtrrtgqS6MQxZPjim32lTXcq-7pDbTbP1ugaEM88BjcCWkYWj78oARotOibBLhz6avM9Yku_Vl_fnqXHtm5pbsmPmtO96PgzbGy1_dWMHuOE01qRNlGg38I5va41lELP-NjbM4B806g_g5BGPKD54M7_IOQbDnlF7OvqSLgem-lYU_ZFIsctpAcsJfDFUfOQVWEsmhxednxTGNLDl68BjLc1ZMxSaO2a8cuIPMM=)

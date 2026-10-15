@@ -1,0 +1,35 @@
+### Result
+{
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "className": "q-field__native q-placeholder",
+      "placeholder": "기업명, 사업자번호, 법인번호, 대표자명",
+      "value": "180111-0168184"
+    },
+    {
+      "tag": "INPUT",
+      "type": "button",
+      "className": "q-select__focus-target",
+      "placeholder": "",
+      "value": "10개씩 표시"
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "BUTTON",
+      "className": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-btn--actionable q-focusable q-hoverable search-filter-btn",
+      "text": "조건검색"
+    },
+    {
+      "tag": "BUTTON",
+      "className": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-search-toggle",
+      "text": "결과 내 재검색"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\')).map(i => ({\n    tag: i.tagName,\n    type: i.type,\n    className: i.className,\n    placeholder: i.placeholder,\n    value: i.value\n  }));\n  const buttons = Array.from(document.querySelectorAll(\'button\')).map(b => ({\n    tag: b.tagName,\n    className: b.className,\n    text: b.innerText.trim()\n  })).filter(b => b.text.includes(\'검색\'));\n  return { inputs, buttons };\n}');
+```

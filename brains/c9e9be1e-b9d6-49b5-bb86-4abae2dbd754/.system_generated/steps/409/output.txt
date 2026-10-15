@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Missing count: 49
+Matched by name/CEO: ㈜에코앤 -> 조경 건설업 (1368701124)
+Matched by name/CEO: 한서전자 -> 그 외 기타 전자부품 제조업 ()
+Matched by name/CEO: (주)에스와이엘솔루션 -> 상용 인력 공급 및 인사관리 서비스업 ()
+Matched by name/CEO: (주)엑스퍼 -> 주방용 및 음식점용 목재가구 제조업 (1478700839)
+Matched by name/CEO: ㈜미르내이앤씨 -> 건물 건설업 (1398701370)
+Matched by name/CEO: 태겸하이테크 -> 그 외 기타 일반목적용 기계 제조업 ()
+Additional matched by name: 6
+

@@ -1,0 +1,13 @@
+The search for "site:bizno.net "이석창"" returned the following summary:
+비즈노(bizno.net)에서 검색된 '이석창' 대표자명을 가진 기업 및 단체 정보입니다.
+
+*   **석창세무회계사무소**: 경상북도 문경시 소재, 세무사업[1]
+*   **(주)혜성디자인**: 인천광역시 부평구 소재, 전자상거래 소매업(기타 인쇄업)[2]
+*   **주식회사 동화엘에스씨**: 서울특별시 종로구 소재, 기타 기계 및 장비 도매업(자동차 중고 부품 등)[3]
+*   **안암골벽산아파트 입주자대표회의**: 서울특별시 동대문구 소재, 재생용 재료 수집 및 판매업[4]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPlpP3lzBAkbiJVIyP4STyIAlrUYZjdPpncHfZDis-4Qyb0G7jGbAUe2cPRiO12S0vGJ96REUwcZKL2ovugl6j4WoS5LerPFo314zA68D92tli8TM1d2CQ_3Y=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhg3_DdJlp6HjJxVOmZ_9jhqj-jywPrUhbDs_I3l0Vm67CmbNtFKwddT_OUu2yk0_BWr_fOKrW7bi01szBhqCWLOp_zKOpkG7Dno8yzvxPzkBvP8Cmhso1kcc=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTV0ed07P6YQyezDusDJS06SapSCmFxQpby7j1AksiQvMidB6bmjSz69SD6fI952df3ggBCuhD45XUM795edRMCO65YxoIRsOnAnm0WPlIK36KSbWIELwB6-U=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTAPQ8VqPFd7meMWoFpTfyUwPcN3Sx1VzJpa0ievROvRuoefiQMSv54qgWy4jwx0fLfAQd8GixLkx7E1egXNqeXNDSTwnHSHv80nP4IZGhIdx5Y8i3pWzAJCI=)

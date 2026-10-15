@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+=== BASE: Row 2 (non-verified) font details ===
+  Col 1: value="25년 모집단" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 2: value="2" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 3: value="아이티에프씨" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 4: value="243-86-01731" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 5: value="2020" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+
+=== OUTPUT: Row 2 (non-verified) font details ===
+  Col 1: value="25년 모집단" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 2: value="2" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 3: value="아이티에프씨" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 4: value="243-86-01731" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 5: value="2020" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+
+=== BASE: Row 100 font details ===
+  Col 1: value="25년 모집단" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 2: value="100" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 3: value="(주)현대ICT" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 4: value="201-86-31565" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+  Col 5: value="2013" font= {"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129}
+
+=== OUTPUT: Row 100 font details ===
+  Col 1: value="25년 모집단" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 2: value="100" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 3: value="(주)현대ICT" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 4: value="201-86-31565" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+  Col 5: value="2013" font= {"bold":true,"color":{"argb":"FFFF0000"},"size":10,"name":"맑은 고딕"}
+
+=== BASE: Row 2 Col 1 full style ===
+  style: {"font":{"size":10,"color":{"argb":"FF000000"},"name":"맑은 고딕","family":3,"charset":129},"border":{"left":{"style":"thin","color":{"argb":"FFE8E8E8"}},"right":{"style":"thin","color":{"argb":"FFE8E8E8"}},"top":{"style":"thin","color":{"argb":"FFE8E8E8"}},"bottom":{"style":"thin","color":{"argb":"FFE8E8E8"}}},"fill":{"type":"pattern","pattern":"none"},"alignment":{"horizontal":"center","vertical":"middle"}}
+

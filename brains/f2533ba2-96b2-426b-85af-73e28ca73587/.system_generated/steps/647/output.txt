@@ -1,0 +1,319 @@
+### Result
+[
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_btnChangeUsrTyCd",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger link-toggle"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_trgLoginExtension",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn_cm"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_myUserClose",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_btnDecrease",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn minus"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_btnIncrease",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn plus"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbTop_btnResetSize",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn reset"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_inpGlobalSearch",
+    "name": "",
+    "placeholder": "검색어를 입력해 주세요.",
+    "className": "w2input "
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_btnGlobalSearch",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn search"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_366",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_367",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_368",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_369",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_370",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_wq_uuid_371",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chip"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_closeSrchPopup",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_0",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_1",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_2",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_3",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_4",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_5",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_6",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_7",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_8",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_9",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_10",
+    "name": "mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input",
+    "placeholder": "",
+    "className": "w2checkbox_input"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbMenu_btnSitemap",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn sitemap"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbMenu_iptSearchText",
+    "name": "",
+    "placeholder": "어떤 메뉴를 찾으세요?",
+    "className": "w2input ipt-sitemap"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbMenu_wq_uuid_461",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn ipt-srch"
+  },
+  {
+    "id": "mf_wfm_gnb_wfm_gnbMenu_btnSitemapClose",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_cntsHeader_btnMenuPoup",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn menual hide"
+  },
+  {
+    "id": "mf_wfm_cntsHeader_btnFavorite",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn favorite"
+  },
+  {
+    "id": "mf_wfm_cntsHeader_btnPrint",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn print"
+  },
+  {
+    "id": "mf_wfm_cntsHeader_btnInspect",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn inspect hide"
+  },
+  {
+    "id": "wq_uuid_60_btnHelpToggle",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn toggle"
+  },
+  {
+    "id": "mf_btnTooltipClose",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_92",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn shortcut"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_93",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_rnb_btnNtceSrvc",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn shortcut"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_106",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_117",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn shortcut"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_118",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_131",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn shortcut"
+  },
+  {
+    "id": "mf_wfm_rnb_wq_uuid_132",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn close"
+  },
+  {
+    "id": "mf_wfm_rnb_btnGoToTop",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn go-to-top"
+  },
+  {
+    "id": "mf_wfm_rnb_btnChatbot",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn chatbot_nara"
+  },
+  {
+    "id": "mf_wfm_footer_wq_uuid_178",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger link-toggle"
+  },
+  {
+    "id": "mf_wfm_footer_wq_uuid_181",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger link-toggle"
+  },
+  {
+    "id": "wq_uuid_184_ibxFile",
+    "name": "",
+    "placeholder": "",
+    "className": "w2input raonkdropzone w2input_readonly"
+  },
+  {
+    "id": "wq_uuid_184_btnAtcm",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn_cm grid_file_up"
+  },
+  {
+    "id": "wq_uuid_184_btnDel",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn_cm"
+  },
+  {
+    "id": "wq_uuid_184_btnDnld",
+    "name": "",
+    "placeholder": "",
+    "className": "w2trigger btn_cm grid_file_down btn-hide"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ id: i.id, name: i.name, placeholder: i.placeholder, className: i.className }));\n}');
+```

@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+[https://www.kobis.or.kr/kobis/business/mast/comp/searchCompanyDtl.do?companyCd=20125855] Status: 420, Length: 4596
+Snippet:  KOFIC 영화관 입장권 통합전산망 .lpop03 {position:absolute;top:35%;left:50%;margin-left:-240px;} .nonpageMid {background:url(/kobis/web/comm/images/comm/error_bg.gif) no-repeat; width:481px;} .nonpageMid .npbox .toptit {padding:27px 19px 0 0;text-align:right;} .nonpageMid .npbox .scbox {margin:12px 10px; padding:12px 10px;width:430px;height:60px;line-height:18px; text-align:center;overflow-y:scroll;border:no
+[https://www.kobis.or.kr/kobis/business/mast/comp/findCompanyInfo.do?companyCd=20125855] Status: 404, Length: 2551
+Snippet:  KOFIC 영화관 입장권 통합전산망 .lpop03 {position:relative;;margin:0 auto;margin-top:8em;} .nonpageMid {background:url(/kobis/web/comm/images/comm/page_error.jpg) no-repeat; max-width:65em; text-align:center;background-position-y:6em;background-position-x:center;margin:0 auto;background-color:#fff;} .logo {background:url(/kobis/web/comm/images/comm/logo_comm.png) no-repeat; text-align:center;background-posit
+

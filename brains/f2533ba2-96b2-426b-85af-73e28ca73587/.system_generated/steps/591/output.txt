@@ -1,0 +1,167 @@
+### Result
+[
+  {
+    "tag": "LI",
+    "text": "열람·발급\n부동산\n열람·발급\n간편 열람·발급\n일괄등록 열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 등 발급예약(사전음영화)\n소유현황 열람\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 등 발급예약\n소유현황 열람\n법인\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 발급예약(사전음영화)\n다량발급예약\n인감증명서 발급예약\n전자법인인감증명서 발급\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 발급예약\n발급예약\n전자법인인감증명서 발급\n법인인감증명서 발급지원\n매도용 매수자 등록\n매도용 매수자 등록내역\n인감증명서 발급 내역\n동산·채권담보\n열람·발급\n집행관 발급\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n집행관 발급\n전자확정일자\n정보제공(부여현황 열람)\n계약증서 발급\n신청결과 확인 (미열람/재열람/미발급 등)\n정보제공(부여현황 열람)\n계약증서 발급\n신청정보및첨부정보\n부동산 열람\n법인 열람\n신청결과 확인 (미열람/재열람)\n부동산등기 신청 열람\n법인등기 신청 열람\n열람·발급 확인\n열람·발급 내역확인\n부동산\n법인\n동산·채권담보\n전자확정일자\n신청정보및첨부정보\n증명서 발급확인",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "부동산\n열람·발급\n간편 열람·발급\n일괄등록 열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 등 발급예약(사전음영화)\n소유현황 열람\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 등 발급예약\n소유현황 열람",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "간편 열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "간편 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "일괄등록 열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "일괄등록 열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 등 발급예약\n소유현황 열람",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "법인\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 발급예약(사전음영화)\n다량발급예약\n인감증명서 발급예약\n전자법인인감증명서 발급\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 발급예약\n발급예약\n전자법인인감증명서 발급\n법인인감증명서 발급지원\n매도용 매수자 등록\n매도용 매수자 등록내역\n인감증명서 발급 내역",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n이미지폐쇄등기부 열람\n이미지폐쇄등기부 발급예약\n발급예약\n전자법인인감증명서 발급",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "동산·채권담보\n열람·발급\n집행관 발급\n신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n집행관 발급",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "신청결과 확인 (미열람·미발급/재열람 등)\n열람·발급\n집행관 발급",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급 확인\n열람·발급 내역확인\n부동산\n법인\n동산·채권담보\n전자확정일자\n신청정보및첨부정보\n증명서 발급확인",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급 내역확인\n부동산\n법인\n동산·채권담보\n전자확정일자\n신청정보및첨부정보",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급 내역확인",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "LI",
+    "text": "나의 등기정보\nMy Q&A\n결제내역 조회\n열람·발급 결제내역\n전자신청 결제내역\n전자납부 결제내역\n알림 서비스\n부동산 알리미 서비스\n법인인감 문자전송 서비스\n자주사용하는 정보\n등기유형 등록\n등기소 등록\n법인 등록\n첨부서면 등록\n등기명의인 등록\n신청사건 조회\n나의 사건 조회\n소속사용자 사건 조회\n전자신청 등기필정보 수령\n관심등기 관리",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "결제내역 조회\n열람·발급 결제내역\n전자신청 결제내역\n전자납부 결제내역",
+    "href": null
+  },
+  {
+    "tag": "LI",
+    "text": "열람·발급 결제내역",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급 결제내역",
+    "href": "javascript:void(null);"
+  },
+  {
+    "tag": "A",
+    "text": "열람·발급",
+    "href": "https://www.iros.go.kr/index.jsp#"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const menus = Array.from(document.querySelectorAll(\'a, button, li\')).filter(el => {\n    return el.innerText && (el.innerText.includes(\'열람·발급\') || el.innerText.includes(\'등기열람\'));\n  });\n  return menus.map(m => ({ tag: m.tagName, text: m.innerText.trim(), href: m.href || m.getAttribute(\'onclick\') }));\n}');
+```

@@ -1,0 +1,24 @@
+The search for "site:bizno.net/article/ "케이엘정보통신"" returned the following summary:
+검색하신 '케이엘정보통신'에 대한 비즈노(bizno.net) 내 주요 정보는 다음과 같습니다.
+
+*   **케이엘정보통신(주) (본사)**[1]
+    *   **업종:** 컴퓨터 및 주변장치, 소프트웨어 도매업[1]
+    *   **주요제품:** 서버, 스토리지 외[1]
+    *   **주소:** 서울특별시 강남구 삼성로91길 28, 6~8층 (삼성동, 케이엘타워)[1]
+    *   **설립일:** 2001-05-15[1]
+
+*   **케이엘정보통신(주) 대전지점**[2]
+    *   **업종:** 소프트웨어 개발 및 공급업 (응용 소프트웨어 개발 및 공급업)[2]
+    *   **주요제품:** 정보시스템유지관리서비스[2]
+    *   **주소:** 대전광역시 서구 둔산대로117번길 95, 에이동 3층 302호[2]
+
+*   **케이엘정보통신(주) 광주지점**[3]
+    *   **주소:** 전남광주통합특별시 서구 상무시민로 103, 14층 1호 (치평동, 상무비즈센터)[3]
+
+이 외에도 비즈노에는 '케이엘정보통신'이라는 명칭으로 등록된 사업자 정보가 일부 존재합니다[4]. 더 자세한 세부 정보는 [비즈노 웹사이트](https://www.bizno.net)에서 확인하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA72nR5EsaanQODOGdhQLLE64_Vjm9qz1fI07UKbVp-Ao-LSHh2w-5s6QYqqlss8B_qxug7Mp75Q-fRq559ycoA3eKLA0Quc0acWDSyU1xebpp_MYeSEI4O0Q=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrLd4jHnGlMP0Q7OiEULPqL1XQjQ1Du63S3ZG9QKl0R-ZfIvF0bbvD9la-t-_gcjHYA-ZaYfp_Ap7owT8f2YpkEPq8WreOC97pf2OR8rQ-OqkwJ46xnbhMhkY=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu6zBqorXodiODDDM9qEpV6194rvyX8tjvoM7fYu9zGecfT7SOW-O6y8cfZrHyiO3Wxr_XojtUBqe7rILYnVE8TEmjlKv2ZnBPfw7Q1iFa2Yoz_Wg5Pdfn7aU=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_wgQyrAVI6oHZGXIqxuEcheCw6M5MmX2c8Jud96FdNLlH2_v4371HdzI61BEmzMDg3lLUhY5ZZLk7jQ1M_xBcHu4Qq8DkjGKj8ifVNPO-AWW1_Bocd5xgcvw=)

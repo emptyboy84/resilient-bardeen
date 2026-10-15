@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+Name                                Length
+----                                ------
+inspect_orig_excel.js                  910
+inspect_orig_excel.js.metadata.json    112
+
+
+

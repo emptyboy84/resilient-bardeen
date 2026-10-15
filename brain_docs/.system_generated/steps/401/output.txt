@@ -1,0 +1,27 @@
+The search for "site:saramin.co.kr "비에스일렉트릭"" returned the following summary:
+사람인(Saramin)에 등록된 **비에스일렉트릭 주식회사**의 주요 기업 정보 및 채용 관련 내용은 다음과 같습니다.
+
+### 1. 기업 개요
+* **기업명:** 비에스일렉트릭(주)[1]
+* **업종:** 응용 소프트웨어 개발 및 공급업[1]
+* **주요 사업:** 에너지관리시스템(EMS) 관련 소프트웨어 개발 및 백엔드·프론트엔드 개발 부문[2]
+* **위치:** 경기 과천시[2]
+* **기업 형태:** 중소기업 (업력 6년차)[3]
+
+### 2. 주요 재무 정보 (NICE평가정보 기준)
+* **매출액:** 약 26.9억 원 (2025년 기준, 전년 대비 꾸준한 성장세 기록)[4]
+* **영업이익:** 약 6,971만 원 (2025년 기준)[4]
+* **당기순이익:** 약 2.3억 원 (2025년 기준)[4]
+* **자본금:** 5,000만 원[4]
+* **산업 내 평가:** 활동성 및 성장성 지표가 상위 수준으로 평가됨[4]
+
+### 3. 채용 특징
+* 에너지관리시스템(EMS) 개발을 위한 백엔드 및 프론트엔드 소프트웨어 개발자(경력직 등) 채용 공고를 진행한 이력이 있습니다[2].
+
+사람인 플랫폼 내에서 구체적인 채용 공고 이력, 상세 복리후생, 현직자 평판 및 재무 세부 지표를 더 자세히 확인하실 수 있습니다[3].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXmy7WnafwpRbP3_C3zcPoE-P194vhQSH7NX7V73N2iF58Un1ZuZj7FRyS8WLXK4LVBzIooLynu8XHjGc1Ejo4qbf5i8ZjW4TUe8itWARB_ig6vMcoKYu_IEq2OH9dNwJY_4p9QJE8f0aoAoqPBUr_s9cLGAz4mKyJ1LMAjg6MvK8dgfznUmvuet_7bVkqqbBEExu0UK9zbNsHC-37eN8LhOPQtxg5cL3COgvSf9_iLzyh1lSHzHalbRC8_O2f4P3lq6n4-UAxI7CDhN7jd3HawQszx4m5mqzwZTgsakpFWPyow-W)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZ98hJTiJtajvZSTtSE_3YQnwToeVEVEna4KMAQ8TyLTkPGqbsabWWF943H6HF82rUA80sbqu-Eioc5_XZACEbppa6QOpfsP0WE5Ah3-Z5hDOc3G6h1C7ZAMDQZmY7uut79PbPkMZfy1WWE5At7qoE9zNCZBCMe_VdjdSZqJHR-pZrYNh94o12h3gu1woVTyV0lY90Bie)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXmy7WnafwpRbP3_C3zcPoE-P194vhQSH7NX7V73N2iF58Un1ZuZj7FRyS8WLXK4LVBzIooLynu8XHjGc1Ejo4qbf5i8ZjW4TUe8itWARB_ig6vMcoKYu_IEq2OH9dNwJY_4p9QJE8f0aoAoqPBUr_s9cLGAz4mKyJ1LMAjg6MvK8dgfznUmvuet_7bVkqqbBEExu0UK9zbNsHC-37eN8LhOPQtxg5cL3COgvSf9_iLzyh1lSHzHalbRC8_O2f4P3lq6n4-UAxI7CDhN7jd3HawQszx4m5mqzwZTgsakpFWPyow-W)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIfwIfHkHfchC6PRS3qyo8KNdMASa5FQRz4MG2jkaX3KtWQ8xQbyZ9FCwHNszcU9dVGr1WXSMSRuCL7Cjc9UEQnV93rxeFfJLj2GjvfxzH7YbWMouQNtCcpy-PbLcmHafohINxOdx5DPICsY66acTWlox3ejs5etVHfIKpmcED-_VwI5sHfNu4PzEJ_hm6tiIqz5S4TiT4SKXwHJ30wGbhwsNfc_bzt-7PpLAwE3u97ikWkZQQGKGMhrTU8jTYAODbKna-kqn8ou4dYFbqSTgYEvZQPBc_RNUplb7ftjGmyq-9JQ4czFtWgH1l6vOoUDNQAT49K-uD)

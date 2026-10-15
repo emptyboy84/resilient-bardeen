@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Len: 285616
+Recruit links: null
+Contact matches: [
+  '이메일: help@saramin.co.kr / 사람인 고객센터 02-6226-5000 (평일 09:00~19:00, 주말·공휴일 휴무)</p>\n' +
+    '    <p>Fax: 02-6937-003',
+  '이메일 바로가기">이메일 문의</a>\n' +
+    `        <button type="button" onclick="window.open('http://www.ftc.go.kr/bizCommPo`
+]
+

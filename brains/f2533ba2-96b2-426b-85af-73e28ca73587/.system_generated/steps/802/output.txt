@@ -1,0 +1,6 @@
+### Result
+"후원방문판매사업자 등록현황 목록 - 번호, 회사명, 등록번호, 대표이사, 등록일, 조회 정보 제공\n번호\t지역\t상호\t대표자\t도메인\t운영상태\t신고일자\n등록된 정보가 없습니다"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const table = document.querySelector(\'table\');\n  return table ? table.innerText : \'Table not found\';\n}');
+```

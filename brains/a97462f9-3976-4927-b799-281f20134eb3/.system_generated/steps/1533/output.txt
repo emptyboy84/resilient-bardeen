@@ -1,0 +1,30 @@
+The search for "site:data.go.kr "부산" "출판사"" returned the following summary:
+부산 지역의 출판사 및 인쇄사 현황에 관한 정보는 **공공데이터포털(data.go.kr)** 및 문화체육관광부에서 운영하는 **출판사인쇄사 검색시스템**을 통해 확인할 수 있습니다[1][2][3].
+
+### 1. 공공데이터포털 활용 (data.go.kr)
+공공데이터포털에서는 부산광역시 각 구·군별로 관리하는 출판사 및 인쇄사 등록 현황 데이터를 파일 데이터(CSV, XML 등) 형태로 제공하고 있습니다[1][4].
+
+*   **주요 데이터 항목:** 업체명, 소재지(도로명/지번 주소), 업종, 전화번호(일부 제외) 등[1][4][5]
+*   **검색 방법:** 공공데이터포털 사이트에 접속하여 검색창에 **"부산 출판사"** 또는 **"부산 인쇄사"**를 입력하시면 각 자치구(남구, 강서구, 연제구, 중구 등)에서 제공하는 최신 현황 데이터를 찾을 수 있습니다[1][4][5].
+
+### 2. 출판사인쇄사 검색시스템 (문화체육관광부)
+전국 출판사 및 인쇄사의 등록 현황을 실시간으로 검색할 수 있는 공식 사이트입니다[2][3].
+
+*   **사이트:** [https://book.mcst.go.kr](https://book.mcst.go.kr)[6][2]
+*   **기능:** 지역별(부산광역시 및 하위 구·군), 영업 상태(영업/폐업), 업종(출판사/인쇄사)별로 상세 검색이 가능합니다[6][2][7].
+*   **참고:** 개인정보보호법에 따라 대표자명이나 상세 주소 등은 제한될 수 있으며, 관련 상세 문의는 해당 지자체 문화예술과로 연락해야 합니다[2][3].
+
+### 3. 기타 유의사항
+*   **데이터 업데이트:** 각 지자체에서 등록·관리하는 자료이므로, 검색 결과가 실제 현황과 차이가 있을 수 있습니다[2].
+*   **활용 목적:** 통계 분석, 학술 연구, 마케팅 자료 등으로 활용할 수 있으며, 공공데이터포털에서 제공하는 데이터는 대부분 무료로 이용 가능합니다[4][8][9].
+
+Sources:
+[1] [edmgr.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa048EJWR9bp6M6Ni1wcDoyolQv9WvoildOfKLHF4Q41Cldm3y0C95G9bSAB4H0BrNAbDJ9fkfzSHgh5AuRETNcKZzxC3gUyh4AB0989Qp_Kb65bZGufnFXmdvJYpBAJUHz4C2ydgTKpJNwcbwU3kSHiO43A==)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjPE_81WSAvh8Y7F8t55f9XEpB_mdIVE6VM6AUAGQftuQHZRyECdPF2SEaPNZqX-LNjVQq96hjEHrTRGzZgt3_AhrZjoFsgBGf1Q5szIY=)
+[3] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjPE_81WSAvh8Y7F8t55f9XEpB_mdIVE6VM6AUAGQftuQHZRyECdPF2SEaPNZqX-LNjVQq96hjEHrTRGzZgt3_AhrZjoFsgBGf1Q5szIY=)
+[4] [edmgr.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBGywMJAvLezwLinRFIpeoShlCx1lihVLFCw4MBml_FndmETmYnSzoNwDHSvFtZ1YGxBmfH8uA9T5Uuu40nVvAMfJT798SANFy6r-6UeCqlfqyeygiDELdvm50sQwVDcf0LKj5LE5_8V9A6l863dkdgdaYexxEzS4p5Mk_Sf2l)
+[5] [edmgr.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo6S6XyiGUtfPw-6bE-LVMqV7A5wiJfyjcUozOBZhZoQPDC7-75CBDTRj9t1byWRLMNNCb-b6bFz_fZInbE1EuRTh-vr5myZkiHflxsr8-nb8Q2kHfy9b2JIp3HbSJorNeE2v9a_L71x7vOtTGeeIfd3g3MkHE-13uYoXiwd5O)
+[6] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUsy6MoIY3hLp94KzOG6S4QpvpmrODCTiZW3zihGSc-cUefYJuojaKkM5c1avnPx1Lrs_R2BXsS5vh2wBasQNTwF1jPg2BZ2i3d5j6EYsqyWojNNdgwIG1iWFfY-djIax3lwV_6xQTVWZJJX8hfaHyYC11-fkgiCtZ5pROVBxPGkwKtZzT-kMqaog_m5416MUwniwpeTOJLnU3IghWUdEEdMYGSClQ8H9elRqfscktF7bm7HDjb5DapXEUhYQHBpqzCJK9f7du1okx-reuQuek-mi5pYKeQwMvtkBOEnxDaZJbgpFJO0w=)
+[7] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQBEnY6zHWtg0ZUCAfRWjsOFA3mLb2-AtODBFFX8dpVsM-fH0II8VV_hE-TZxrIbJtXWEXDP8kKWGraryIXQw3_rakZEk_sWSuJQepoGBjgwtmkSuRSqKLjs-_TxFS1Xea-3S1pjL08ANGceHYO2WkLVX_zPL9AXldXSCHwKkIktuAST8=)
+[8] [ex.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvawZVllHdNudMP_ArPcdHID8FoLxKBTso4_F33ZwFhqtFPJX2I-kAsBTlcf9bhlv0Jkrio5TduJ7GEJjwfyJ24InoxIUzii1Aclo6F_yww_QOT_GRSojjNNVloqi8k5daeYHgydeAFEQkxqtjqw==)
+[9] [accesson.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMuvwBP8E7Hw7ZGgtGk8Eav32hs54WNWIonNvBmn1VJD83C44aAZWHi2s-tMDNZV2IlkdoX6Rs2NR_2--595xAfC-T1usdVA0mkaeKHGgFWptPjsr2GfpS8AybbI5Zy34w3sPBue39t6eIwty7TxVC39jqWw==)

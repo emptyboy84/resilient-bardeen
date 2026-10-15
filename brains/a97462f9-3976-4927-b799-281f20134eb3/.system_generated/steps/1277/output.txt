@@ -1,0 +1,27 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\build_new_entries_brown.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -330,8 +330,19 @@
+ 
+   // 5. Save Final Excel
+   console.log(`Writing final Excel to ${finalExcelPath}...`);
+-  await finalWb.xlsx.writeFile(finalExcelPath);
+-  console.log('Final Excel successfully created!');
++  try {
++    await finalWb.xlsx.writeFile(finalExcelPath);
++    console.log('Final Excel successfully created!');
++  } catch (err) {
++    if (err.code === 'EBUSY') {
++      const fallbackPath = path.join(dir, '(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본_최신.xlsx');
++      console.log(`File is currently open in Excel! Saving safely to fallback: ${fallbackPath}`);
++      await finalWb.xlsx.writeFile(fallbackPath);
++      console.log('Fallback Final Excel successfully created!');
++    } else {
++      throw err;
++    }
++  }
+ 
+   // 6. Write Synchronized Master CSVs
+   const cleanCsvData = dataRows.map(r => {
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

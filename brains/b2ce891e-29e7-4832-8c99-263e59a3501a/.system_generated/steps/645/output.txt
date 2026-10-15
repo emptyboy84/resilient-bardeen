@@ -1,0 +1,13 @@
+The search for "site:nicebizinfo.com "180111-1227958" OR "507-86-01751" OR "주식회사 파이"" returned the following summary:
+나이스비즈인포(NICE BizINFO) 데이터베이스 및 국세청 사업자 정보에 따르면, 검색하신 조건 중 사업자등록번호 **507-86-01751**은 **'주식회사 파이'**의 기업 정보와 일치합니다[1]. 
+
+* **기업명:** 주식회사 파이[1]
+* **사업자등록번호:** 507-86-01751[1]
+* **업종:** 응용 소프트웨어 개발 및 공급업 등[1][2]
+
+나이스비즈인포 공식 웹사이트에서 해당 사업자번호 또는 기업명으로 검색하시면 주식회사 파이의 상세한 기업분석보고서, 재무제표, 신용등급 등의 정보를 확인하실 수 있습니다[3][1].
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcuvbdrGZndnq_kzozATMOVIZyiJPFqBCAIpIbc-YkCxb9hu0a85g3bU73g2kyC795hKqBGgs_puU3ffdbk8RQqh5YfgDwDGolXkx9Jv-HP504a1Z1_7k_)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBcE0O_2jWJu-z_dznzodAgf2Z6g96xZTIb6IG8CQai8Z09mtK6D0RsyQR-AEOhe2Qnkm_IkjMuEDqIa9ebv8CDB1X6GWwW3OzSea8nuVkG7sYnf0pz9OEMhKPw5mNDz8=)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Tu1DIgQpAw60OKaYbSdocgu0CuOVgdybUBscynLYh1zavjX36X5e0v4kYsV5YRI9pHOJHNr1dpjdQCnVIuZbNQ61lvPTms1l3H9h4PFtohSWbsr_b6gsByZ_BeAuinJmvxXs-3sfsM1uQLZNxq2KmKw4)

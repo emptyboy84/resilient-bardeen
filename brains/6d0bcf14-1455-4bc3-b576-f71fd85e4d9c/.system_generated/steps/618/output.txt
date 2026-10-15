@@ -1,0 +1,12 @@
+The search for "site:saramin.co.kr "페타브루"" returned the following summary:
+사람인(Saramin) 사이트에 등록된 **(주)페타브루** 관련 채용 공고 정보입니다[1].
+
+* **채용 공고 예시:** `[(주)페타브루] 임베디드 펌웨어 / 신호처리 신입 엔지니어 채용`[1]
+* **주요 사업 내용:** 고주파 레이더 기반 센서 신호처리 소프트웨어, 지능형 센서 기술 및 데이터 통합 솔루션 개발 (환경/에너지 및 레벨측정 분야 등)[2][3]
+
+구체적인 모집 요강, 직무 자격 요건, 마감일 등의 실시간 채용 정보는 사람인 공식 웹사이트에서 `페타브루`를 검색하여 확인하실 수 있습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8q2NWcvnDvuHxP72gjTIZX4tcpb0czqXpAIDlFJXPN_Atu_v0UZ52OJxdVhVwQTBO82GvgS8vsjYbNrSMEarKNFOMb26moRZLozDdUtSYen4QYQRTs8t9-XvmviJyQg7YDg1AJFdgXj4tSvoK3sImzQ==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTcYAcg23untDSpXOL5wkLEZo7Bs85l4zRHD8ZU9n7oLfGin-VmikqfK9lZ2qpIa9GBxSHxDcc2o3Xl2NDglkA3nfalCZJQI-hJR87_SM=)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfd2gXCnYKRklKxV124_zCeHW8dYWUFbUnfRDCyqASMxuPs9cIJZQNiwUPRLllvdjITkdd8ijgoriaEYW7T5BnLG_q6QU8aMFM)

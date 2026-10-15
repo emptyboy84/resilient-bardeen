@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=비케이피');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EB%B9%84%EC%BC%80%EC%9D%B4%ED%94%BC
+- Page Title: '비케이피' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T01-47-43-883Z.yml)

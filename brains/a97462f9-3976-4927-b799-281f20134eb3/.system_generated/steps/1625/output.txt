@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+
+--- Checking C:\Users\lg\Desktop\Today\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv ---
+Found at Line 770:
+  Col 0 (﻿구분): 25년 모집단
+  Col 1 (기존행번호): 764
+  Col 2 (사업체명): 블루레코딩
+  Col 7 (연락처): 010-9514-1435
+  Col 11 (업종분류): 음악
+
+--- Checking C:\Users\lg\Desktop\Today\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본.csv ---
+Found at Line 764:
+  Col 0 (﻿구분): 25년 모집단
+  Col 1 (순번): 763
+  Col 2 (사업체명): 블루레코딩
+  Col 7 (연락처): 010-9514-1435
+  Col 11 (업종분류): 음악
+

@@ -1,0 +1,62 @@
+
+The command exited with code 0.
+Output:
+
+
+Id               : 8848
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 19316
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 19812
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 25240
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 26112
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 26980
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 39292
+ProcessName      : Gemini
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 18300
+ProcessName      : GeminiAppLauncher
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+Id               : 9976
+ProcessName      : GeminiCrashpadHandler
+SessionId        : 2
+MainWindowTitle  : 
+MainWindowHandle : 0
+
+
+
+

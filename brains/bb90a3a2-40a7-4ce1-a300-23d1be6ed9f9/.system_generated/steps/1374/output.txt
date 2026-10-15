@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Query: 대경산업개발 센텀 Len: 87794
+Phones: []
+Snippet:  대경산업개발 센텀 &ndash; Daum 검색 var uk = "52f7d103-c606-4dd8-a524-2e732b8c496f"; var mk = "52f7d103-c606-4
+Snippet: 61014132701"; var utf8Query = encodeURIComponent("대경산업개발 센텀"); var topQuery = "대경산업개발 센텀"; var backQuery = encodeURIComponent("대경산업개발 센텀"); var login_
+Snippet:  encodeURIComponent("대경산업개발 센텀"); var topQuery = "대경산업개발 센텀"; var backQuery = encodeURIComponent("대경산업개발 센텀"); var login_yn = "N"; var encodeType = "2
+Snippet:  "대경산업개발 센텀"; var backQuery = encodeURIComponent("대경산업개발 센텀"); var login_yn = "N"; var encodeType = "2"; var refCode = ""; var bucketType = ""; var na
+Snippet: )(window.SF || {}); SL.mkeyLog(); 본문 바로가기 메뉴 바로가기 대경산업개발 센텀 다음 검색 검색폼 입력삭제 선택된 항목 통합 지도 새창 통합웹 뉴스 이미지 동영상 사이트 어학사전 새창 더보기/접기 백과사전 새창 쇼핑 새창 책 멜론뮤직 새창 전
+Snippet:  '> '> 레이어 닫기 장소 신규등록 전체보기 확대 축소 부산 해운대구 센텀시티역 주변 대경산업개발 상세검색옵션 주요옵션 정확도순 거리순 이전 컨텐츠보기 다음 컨텐츠보기 정렬 정확도순 거리순 초기화 A 대경 산업 개발 컨설팅 1km 해운대구 재송동 접기 도로명 부산 
+Snippet: poiRegionId\":\"\",\"isRealPos\":true,\"query\":\"대경산업개발 센텀\",\"gidx\":\"0\",\"attd\":\"\"},\"map\":{\"level\":4,\"markers\":[{\"marker_type\":\"norma
+Snippet: "rtmaxcoll": "TWA,TWD,TWE"}, "data": {"TITLE":"(주)대경산업개발 벽산지점 (.) 부산 해운대구 공장찾기 기업정보 위세브", "DESCRIPTION":"웹문서", "TH_MOBILE_WEB_URL_0":"https://weseb.co
+Snippet: board=facto&command=body&no=40725", "prefix": "(주)대경산업개발 벽산지점 (.) 부산 해운대구 공장찾기 기업정보 위세브", "service_name": "웹문서"} (주) 대경 산업 개발 벽산지점 (.) 부산 해운대구 공장찾기 기업
+Snippet: , qsearch: { params: {m: 'DNS', type: 'list', q: '대경산업개발 센텀', viewtype: 'json', issue: '0'}, version: 2 }, logParams: { fold: {dc: 'DNS', pg: 1, at: '
+Snippet: l-src]', function(e) { SF.loadImage(e); }); }); ' 대경산업개발 센텀 ' 관련 광고입니다. 광고노출기준은 애드센스에서 결정하며, 제휴를 통해 노출되는 광고입니다. 문의하기 SG.ready( 'div[id="adSenseColl"]'
+

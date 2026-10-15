@@ -1,0 +1,30 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\task_list.md. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -2,14 +2,14 @@
+ 
+ - [x] **Task 1: 순수 결측 2,658개사 타겟 데이터셋 고립화** <!-- id: 0 -->
+   - 기존 1,320개사 확보 목록과 완전 분리하여 불필요한 중복 호출 원천 차단 완료 (`pure_missing_2658.json`)
+-- [/] **Task 2: 사람인(Saramin) 전수 비동기 배치 스캐너 구축 및 실행** <!-- id: 1 -->
+-  - 2,658개사 대상 사업자등록번호 기반 기업정보/JSON-LD 전화번호 추출 중 (진행 중)
+-- [/] **Task 3: 비즈노(Bizno) 휴대폰 번호(010) 및 마스킹 태그 전수 스캐너 실행** <!-- id: 2 -->
+-  - `010-xxxx-x***` 등록 기업 전수 추출 및 임시 저장 중 (진행 중)
+-- [ ] **Task 4: 교차 검증 및 우선순위 통합 병합** <!-- id: 3 -->
+-  - 사람인 완전체 번호 우선 적용 및 비즈노 휴대폰 번호 보완
+-- [ ] **Task 5: 최종 17열 TXT / XLSX 파일 갱신 및 Today 폴더 배포** <!-- id: 4 -->
+-  - `C:\Users\lg\Desktop\Today` 경로에 UTF-8 BOM 17열 규격 파일 저장
+-- [ ] **Task 6: QA 인스펙터 무결성 검증 및 보고** <!-- id: 5 -->
+-  - 3,979행 보존, 구분자 누락 여부, 최종 발굴 통계(기존 1,320개 + 신규 발굴분) 확인
++- [x] **Task 2: 사람인(Saramin) 전수 비동기 배치 스캐너 구축 및 실행** <!-- id: 1 -->
++  - 2,658개사 대상 사업자등록번호 기반 기업정보/JSON-LD 전화번호 115개사 완전체 발굴 완료
++- [x] **Task 3: 비즈노(Bizno) 휴대폰 번호(010) 및 마스킹 태그 전수 스캐너 실행** <!-- id: 2 -->
++  - `010-xxxx-x***` 등록 기업 234개사 전수 추출 및 임시 저장 완료
++- [x] **Task 4: 교차 검증 및 우선순위 통합 병합** <!-- id: 3 -->
++  - 사람인 완전체 번호 우선 적용 및 비즈노 휴대폰 번호 보완 병합 완료 (총 349개사 추가 확보)
++- [x] **Task 5: 최종 17열 TXT / XLSX 파일 갱신 및 Today 폴더 배포** <!-- id: 4 -->
++  - `C:\Users\lg\Desktop\Today` 경로에 UTF-8 BOM 17열 규격 파일 TXT 및 XLSX 저장 완료
++- [x] **Task 6: QA 인스펙터 무결성 검증 및 보고** <!-- id: 5 -->
++  - 전체 3,979행(1 헤더 + 3,978사) 전수 17컬럼 일치 검증 완료 (총 1,669개사 확보, 42.0%)
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

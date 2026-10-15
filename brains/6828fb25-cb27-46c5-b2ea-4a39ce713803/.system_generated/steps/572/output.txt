@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.daum.net/search?w=tot&q=070-4172-9541');
+```
+### Page
+- Page URL: https://search.daum.net/search?w=tot&q=070-4172-9541
+- Page Title: 070-4172-9541 – Daum 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-20-39-934Z.yml)

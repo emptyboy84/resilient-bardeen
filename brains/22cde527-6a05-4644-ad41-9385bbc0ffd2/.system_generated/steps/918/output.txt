@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:26 �:70
++ ... t m = html.match(/<meta\s+name=\"description\"\s+content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:27 �:25
++     console.log('--- ' + item.name + ' ---');
++                         ~
+'+' � �ڿ� � � �ؾ� �մϴ�.
+�ġ �:27 �:26
++     console.log('--- ' + item.name + ' ---');
++                          ~~~~~~~~~
+� �Ǵ� � �ġ � 'item.name' �ū�Դϴ�.
+�ġ �:27 �:25
++     console.log('--- ' + item.name + ' ---');
++                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:27 �:44
++     console.log('--- ' + item.name + ' ---');
++                                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:28 �:25
++     console.log('Meta:', m ? m[1] : 'none');
++                         ~
+',' �ڿ� � �ϴ�.
+�ġ �:28 �:26
++     console.log('Meta:', m ? m[1] : 'none');
++                          ~
+� �Ǵ� � �ġ � 'm' �ū�Դϴ�.
+�ġ �:28 �:25
++     console.log('Meta:', m ? m[1] : 'none');
++                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:28 �:43
++     console.log('Meta:', m ? m[1] : 'none');
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:29 �:3
++   }
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

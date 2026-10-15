@@ -1,0 +1,180 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Length: 456640
+Matches: [
+  'tElement":[{"@type":"ListItem","position":1,"name":"마켓비즈","item":"https://marketbz.com/"},{"@type":"Lis',
+  'tElementById(id);\n' +
+    "                    if (!link || link.getAttribute('href')) return;\n" +
+    '                 ',
+  "tElementById('mbzCompanyDetailMobileOverviewRuntime')) return;\n" +
+    '                var src = gate.getAttrib',
+  'tElement.clientWidth <= 767;\n' +
+    '            }\n' +
+    '\n' +
+    '            if (isMobileNow()) ensureMobileAssets();\n' +
+    '\n' +
+    '     ',
+  "tElementById('chartContainer')\n" +
+    "\t\t\t\t\t&& typeof doSlsAmtMiniChart1 === 'function'\n" +
+    '\t\t\t\t\t&& mbzSalesChartVa',
+  '연락처로기업조회"><svg aria-hidden="true"><use href="/type/common/img/mbz-nav-icons.svg#phone"></use></svg><spa',
+  '연락처</span></a>\n' +
+    '                        <a class="mbz-primary-nav__link" href="/주제로기업조회"><svg aria-hidde',
+  '연락처로기업조회" title="연락처로 기업 찾기">연락처</a></li>\n' +
+    '                    <li><a href="/주제로기업조회" title="주제·키워드로 기업 ',
+  '연락처검색</button></li>\n' +
+    '                    <li><button type="button" class="svc-opt w-full text-left px-3 ',
+  '전화번호">전화번호</span></a>\r\n' +
+    '        </div>\r\n' +
+    '    \r\n' +
+    '        <div class="carousel-item">\r\n' +
+    '            <a href=',
+  '연락처로기업조회" title="연락처로 기업조회 현재창 이동" target="_self">연락처로 기업조회</a>\r\n' +
+    '                    </li>\r\n' +
+    '           ',
+  'tely a compact GLOBAL rail above company\n' +
+    '         identity, not a fact about the currently viewed compa',
+  `tElementById('div-badge').scrollIntoView({behavior: 'smooth',block: 'start'});" data-bs-title="기업의 위치·인`,
+  "tEl  = document.getElementById('mbz-sic-list-' + bno);\n" +
+    '          var emptyEl = document.getElementById(',
+  "tEl  = document.getElementById('mbz-sic-report-count-' + bno);\n" +
+    '          var entryEl = document.querySe',
+  'tEl) return;\n' +
+    '\n' +
+    '          // ---------- parse ----------\n' +
+    '          function parseLines(text) {\n' +
+    '          ',
+  'tEl) rcntEl.textContent = String(lines.length); // 현재는 라인=보고서 제공 개수 가정\n' +
+    '\n' +
+    "          listEl.innerHTML = ''",
+  'tEl.appendChild(frag);\n' +
+    '\n' +
+    '          // ---------- modal (한 번만 생성) ----------\n' +
+    '          function ensureMod',
+  "tElementById('mbz-sic-report-modal');\n" +
+    '            if (modal) return modal;\n' +
+    '\n' +
+    '            modal = documen',
+  "tElementById('mbz-sic-report-iframe');\n" +
+    '            if (iframe) {\n' +
+    '              iframe.addEventListener(',
+  "tElementById('mbz-sic-loading');\n" +
+    "                if (loading) loading.style.display = 'none';\n" +
+    '         ',
+  "tElementById('mbz-sic-report-modal-title');\n" +
+    '            if (titleEl && title) titleEl.textContent = tit',
+  "tElementById('mbz-sic-loading');\n" +
+    "            if (loading) loading.style.display = 'flex';\n" +
+    '\n' +
+    '            ',
+  "tElement.classList.add('mbz-sic-modal-open');\n" +
+    "            document.body.classList.add('mbz-sic-modal-op",
+  "tElementById('mbz-sic-report-iframe');\n" +
+    '              if (iframe) iframe.src = url;\n' +
+    '            });\n' +
+    '    ',
+  "tElementById('mbz-sic-report-modal');\n" +
+    '            if (!modal) return;\n' +
+    '\n' +
+    '            modal.classList.remo',
+  "tElement.classList.remove('mbz-sic-modal-open');\n" +
+    "            document.body.classList.remove('mbz-sic-mo",
+  "tElementById('mbz-sic-report-iframe');\n" +
+    "            if (iframe) iframe.src = 'about:blank';\n" +
+    '          }\n',
+  'tEl)에만 한번 바인딩: 매우 빠르고 중복 없음\n' +
+    '          if (!listEl.__sicBound) {\n' +
+    '            listEl.__sicBound = true;\n' +
+    ' ',
+  "tEl.addEventListener('click', function (e) {\n" +
+    '              var target = e.target;\n' +
+    '              if (!ta',
+  "tElementById('ceoEtcTabcont' + seq);\n" +
+    '                        if (!targetPanel) return;\n' +
+    '\n' +
+    '               ',
+  "tElementById('mbzDetailTabAnchor');\n" +
+    '                        if (!hub) {\n' +
+    '                            ret',
+  'tElementById(target)\n' +
+    "                                : hub.querySelector('.mbz-main-panel.is-active');\n",
+  'tElementById(target);\n' +
+    '                            if (panel) {\n' +
+    '                                panel.re',
+  'tElementById(panelId);\n' +
+    '                            if (!panel) return false;\n' +
+    '\n' +
+    '                         ',
+  'tElementById(sourceId);\n' +
+    '                            if (!source) return false;\n' +
+    '\n' +
+    '                       ',
+  'tElementById(panelId);\n' +
+    '                            }\n' +
+    '\n' +
+    '                            var source = document',
+  'tElementById(cfg.sourceId);\n' +
+    '                            return !!(source && hasMeaningfulContent(source',
+  'tElementById(panelId)) {\n' +
+    '                                    ensureMountedPanel(panelId);\n' +
+    '             ',
+  "tElementById('mbzMfdsRiskAjaxRoot')\n" +
+    '                                && typeof window.mbzLoadMfdsRiskDet',
+  'TELLIGENCE</div>\n' +
+    '\n' +
+    '            <div class="mbz-product-title-row">\n' +
+    '                <span class="mbz-prod',
+  '연락처·주소·사업장 정보</div>\n' +
+    '                <div class="mbz-qk-anchor mbz-quick-menu" data-major-word="주소" data',
+  '연락처/주소">연락처·주소·사업장 정보\n' +
+    '                </div>\n' +
+    '            </div>\n' +
+    '            <ul class="nav d4-tab mbz-u',
+  '연락처/주소 개인정보처리방침을 준수합니다.\n' +
+    '            </div>\n' +
+    '\n' +
+    '\n' +
+    '            <script>\n' +
+    '                $(document).ready(fun',
+  "tElementById('mbzFinanceTabList');\n" +
+    "                        var source = document.getElementById('mbzFin",
+  "tElementById('tabBtn' + idx);\n" +
+    "                        var panel = document.getElementById('tabcont' + i",
+  "tElementById('mbzFinanceTabList');\n" +
+    '                        return {\n' +
+    '                            hasFull',
+  "tElementById('tabcont' + seq);\n" +
+    '                        if (!panel) return false;\n' +
+    '\n' +
+    '                     ',
+  "tElementById('mbzFinanceTabList');\n" +
+    '                        if (!wrap) return;\n' +
+    '                        i',
+  'tElementById("topButton");\r\n' +
+    '    const bottomButton = document.getElementById("bottomButton");\r\n' +
+    '    cons',
+  'tElementById("companyReportButton");\r\n' +
+    '\r\n' +
+    '    if (!topButton || !bottomButton) {\r\n' +
+    '        return;\r\n' +
+    '    }\r',
+  'tElement.scrollTop || 0;\r\n' +
+    '        const maxScroll = Math.max(\r\n' +
+    '            0,\r\n' +
+    '            document.doc',
+  'tElement.scrollHeight - window.innerHeight\r\n' +
+    '        );\r\n' +
+    '\r\n' +
+    '        if (scrollTop > 200) {\r\n' +
+    '            t',
+  'tElement.scrollHeight,\r\n' +
+    '            behavior: "smooth"\r\n' +
+    '        });\r\n' +
+    '    });\r\n' +
+    '\r\n' +
+    '    window.addEventList'
+]
+Phones in text: null
+

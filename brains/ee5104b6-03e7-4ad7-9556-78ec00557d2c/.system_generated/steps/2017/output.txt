@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090673281');
+```
+### Page
+- Page URL: https://bizno.net/article/6090673281
+- Page Title: 청록엔지니어링
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T00-36-37-844Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T00-36-32-307Z.log#L1-L5

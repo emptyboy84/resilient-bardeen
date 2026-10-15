@@ -1,0 +1,35 @@
+The search for ""업종 중 경상남도 창원시" OR "업종 중" "매출 성장"" returned the following summary:
+경상남도 창원시를 포함한 특정 업종의 매출 성장 현황을 파악하기 위해 활용할 수 있는 데이터와 정보는 다음과 같습니다.
+
+### 1. 창원시 지역 업종별 매출 및 경제 동향 확인 방법
+*   **창원시 데이터 포털 (BigData):** 창원시에서 운영하는 데이터 포털을 통해 산업경제 통계분석 및 업종별 매출 현황을 확인할 수 있습니다. 카드 데이터 기반의 소비 매출 추이 등을 통해 지역 내 특정 업종의 성패와 흐름을 파악하는 데 유용합니다[1][2].
+*   **경남 빅데이터 허브 플랫폼:** 경상남도 전반의 사업체 조사 데이터와 업종별 현황을 제공합니다. 창원시를 포함한 경남 지역의 행정동별, 업종별 사업체 정보와 통계를 확인할 수 있습니다[3][4].
+*   **통계지리정보서비스 (SGIS) 기업생태 분석지도:** 특정 지역 및 업종을 선택하여 기업의 성장(전년 대비 매출액 성장 여부), 생존율, 종사자 수 등을 시각화된 지표로 확인할 수 있습니다[5].
+
+### 2. '업종 중 매출 성장' 분석 참고 자료
+특정 업종의 매출 성장세를 분석할 때는 아래와 같은 외부 리포트와 통계 기준을 활용할 수 있습니다.
+*   **중소기업 매출 기준:** 중소기업청이나 세무 법인 등에서 발표하는 업종별 매출액 기준(중소기업 범위 기준)을 통해 해당 기업이 동종 업계에서 어느 정도의 규모와 성장 구간에 있는지 판단할 수 있습니다[6].
+*   **산업별 경영실태조사:** 정부나 연구기관에서 발표하는 '외식업 경영실태조사'[7][8] 또는 '상장사 경영실적 분석'[9][10][11] 리포트는 특정 시점의 업종별 매출 성장률과 수익성 추이를 보여줍니다. 예를 들어, 최근 외식업계에서는 '출장 및 이동 음식점업'이나 '김밥 및 간이음식점'이 가성비 트렌드에 힘입어 높은 매출 성장세를 보였다는 분석 등이 있습니다[7][8][12].
+*   **기업평가 플랫폼 (KoDATA, 머니핀 등):** 개별 기업의 업력, 매출 규모, 동일 업종 내 순위 등을 조회할 수 있는 플랫폼을 통해 구체적인 기업 단위의 성장을 확인할 수 있습니다[13][1].
+
+### 3. 유의사항
+*   **단순 참고용:** 특정 업체의 매출 성장 데이터(예: '성장 준비 중', '생활형' 등)는 공공데이터를 기반으로 추정한 정보인 경우가 많으므로, 실제 기업의 경영 상태와는 차이가 있을 수 있습니다[13].
+*   **최신성 확인:** 업종별 성장은 경기 상황(고금리, 고물가 등)에 따라 급변하므로, 분석 시점의 최신 통계 보고서(예: 2025-2026년 발표 자료)를 우선적으로 검토하시기 바랍니다[7][8][12].
+
+구체적으로 특정 업종(예: 기계, 음식점, 서비스업 등)이나 특정 구역(예: 마산합포구, 성산구 등)에 대한 정보를 찾으신다면 해당 지역이나 업종명을 조합하여 창원시 데이터 포털이나 통계청(KOSIS)에서 추가 검색을 수행하는 것을 권장합니다[1][3][14].
+
+Sources:
+[1] [changwon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2fhTgvb96Amea4OeC5PaC-nYcUNJUo5FXDUHAbJTAT6wl80lq3MTBjE76ykI47ADLZxe--Qqq_L-ZXMaYUMalE5ctwDaTYHr-LWo6FIULhjG4mqEem25DsnA7JBN_jSCUbyIvRe2UFbpfvaspwmuO13T_vRk60ulLYrOG_93qnx4CuwBubn7c)
+[2] [changwon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9mfcBKMZ4CY3FKHtQmv1c9l936Aa_3yA0ZNmimuF_x-NcITysw3JOD26ALS0b1E6L-D2cKCylbY_wvC-a_fkM1E30_528TDzYlYdC6UAuwAUrkss3tuJKme0LE_5EHDQYtbfbhuc2jrDAVjhxDMAuXNJLHj-ibOSmQOR0Ud3LwcjecJT6AH89Yg==)
+[3] [gyeongnam.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYN3KKYrHMfJ54m2vCrxYYlxzvnBlz9CTEggT0z9gsp_X7TzPCF4uTgUFwJ74sT6IpEnUEIkFYxgrL_zX6Mr83ZBVq8BVaJU7_8MJ0iG9tjnwgxI3OSoAxQyVL0885OwNlAQGQPAmw)
+[4] [gyeongnam.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0W9nzWu5jNDCZM5nwQvT06EdeBWmT9yRy31aZCn6wKQCnh1UbVLo41DgnX7tLxkQxrYo3_JdMA8H9G8uM-lmxH6A6lW6rCdShsx_tPsgR4kW3yWl7HMQknDZwjWdrsTGnyJbx2s6hGD9BuNkPZ9VrRgecP1CuWGaTytcB)
+[5] [mods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjhYI95ZDWDoFVu4Y-4f59SisXYcZBYKM9CwDf-_0JBFsU4fxeh_nW7_oW3sMKfj8fPlCeJXKXoAF87VUzwV0N6TucDI0Ol3VYM4bQCzlHV1LvmsSqSAiCkuXLEg0zNmawHi03LJdCBg==)
+[6] [heumtax.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyjOhOgOAQS6pJPKiwpdYYVKKnwoXMg5MNMTHRIBJ1E11G6QGFE6AoJUvS_1dqEPby4e8wCkdT0xC6M0Y5HiirVjU-leGXUVfcZ0hS4BrMpr2iQfm5I4w7GQRKjMSn9Om243kJlsgb8fmBrkavP1snIQfFOAksolrsFl6uoGyl-Gg23Q==)
+[7] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2fCoWxlF8eMK7sF6-cpYi-p5LrisUgHX--aZYbTAQnrGPt4ZR8YIo2gQqTiarMjHLjGX12EljYp2bUcprpMIZzBlJ903lpKgxBwBx6LKBshiRVykm_R8xey5K-IKEjn_QyDgRucn9Hw_VfMR7pLiX5K36tbD_3M9yg==)
+[8] [mafra.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdZKWSgUj4sFpguseLOkLGAasHJF3ga7BTcyRMAyuhOd3DjG7Qd2T6IOIvtCHvP0H_9uVquczo_mbsqEnQMlloGeW-Nm1VeOF2coDFrg92L3RQXJ2MPjqB3cnum6dghTGNVtZ9S0QZEMaWWRQEGw==)
+[9] [wfri.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4BMTlSG2Cxrwa4whRScNBjPs1Q91qu6Ip31nUn4_TSkEIZ1hYSTjle7lWESbQa7Zf6gVeIW2_ACRmcdK1feWU9jMd7GeB70HqkkXLjzN5CAqXTRelzyfxDJxWb9TKVz7HDsl6x5dCUWdcEeYN-nU0rx0SZ2jxAlH6JVETs3mVbdtu-euWpvej5uF-25u2ZCTD-2U5lNrAEUle6g==)
+[10] [medisobizanews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamukH9HB5RC0d0cubGf8Ab_prlO5ey1IWRPPRde9xuvY4X-etY3QLVnsSgQXCaNljZHs65HB1baCfThosWDaf9_ISOPXzuDvduKSpnRL9oOn8xchOshNRWTJrm3f4zM-WHgqqo6mSJckOC98ome3tLSQIWqjF)
+[11] [kefplaza.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ974CelEB3KwFWAn485Xs9uHwbJ8lbrb4H9opgOzP6OBwyTSTZZHCB18CvIuA0XvS4cUVfGC3nvp1JJzJ3vZv2RLpPioaIPGcX-y5sNFPxgAgULSsAATavIG9Mv6uDtjTO0DT1odI8xVzOuV5y4goVPsGfY-ThxdsiCEcQj0MSTNtnwTQIYuwmi1hqRKXvHiCVoR1IVYJPyCoV6uRmQVR97HSjkgedoB3dfc0BntUwKqj-WZp3LJsAyD4AtSQMAMiPnZh2GPsXAL9n1gRIItiq-whct5AS68=)
+[12] [kfmn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhvvGIOwdL9iHuKgfKSRwKefN7s-Zr0A2w1P35l1FDqFIi-OGUj8ttMB_NLyCfIPR6NVN1cRogqcy7tnX7gS50vsK7vqV6nI3T2oHmkxK603kXbwAdnqwgvxQgJgvngNH-0lh0Ru21FNYmzYbhFg==)
+[13] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmvMvjXTjUsO-CtXOQPSBahdzJ5Qn0ukzd5JD_HlUsUvqpSZn5U5PMJFYAbHVx5E6Iot_tNCou29A9g5VJSn8kLmKTtpDqE9hTt1cj5nI9G8d25f7DyN9MgZ-ykqaDht6_bzeWelU=)
+[14] [kosis.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYooERyuR8D6AnBuC7Edawc6agU7QRcY3KGYR8hYt6jMX_c8aEriL2RajaOy6MRPXDTU15bfP5bIdjmSU6FJNa0dKbkFupIvxV67zY8U5kFnxlOEyMyH6nxoZ-Xz02ZXySKokUK0583GvSlCPaV0uWs2b4iZy0PZSrfbOCKMh5ERz-5LWEYv2_tPc-0_9ttjBRMToTMuH_iKf87X5RKagAvcGabvxouIZ-aaAihvK8SN6LRsWjBdPcJXaMUpCsfJqzDshDemuDK91LPYVgNafoKO9yTC8Gg0cym9k0O8hKnRCNWPVmmV1zQtXLlaCAi7MafcaXDjbFP0RFvSmYbNmfPYuFfhy9HgMH3nOtujfBP84a7zfAwlsg0FADPHM3J7Y37v4viNtRtTAUpo56jZu4j3cjmwAbqYnbf_ogOytRyXLJEEfOLbpCvMWbutu8SXP01CfcZhz5ug==)

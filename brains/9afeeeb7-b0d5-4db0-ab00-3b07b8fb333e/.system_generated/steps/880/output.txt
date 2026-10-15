@@ -1,0 +1,16 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-878
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-878.log
+Log output:
+<truncated 3 lines>
+ntent="8990100125">
+Found: <meta name="description" content="8990100125에 대한 사업자 정보 조회 결과입니다.">
+Found: <meta name="keywords" content="8990100125,사업자등록번호 조회">
+Found: <meta property="og:title" content="8990100125">
+Found: <meta property="og:description" content="8990100125에 대한 사업자 정보 조회 결과입니다.">
+Found: <h3 class="text-white"><span>"8990100125"</span> 키워드로 <strong><span style="color:red">0</span></strong> 개의 결과를 찾았습니다</span> </h3><br/>
+Found: <p class="text-white">검색하신 사업자번호 "8990100125"의 정보는 삭제(비공개) 또는 미등록 처리된 사업자입니다.
+Found: <p class="text-white">국세청에 질의한 결과 해당 사업자의 현재 상태는  <strong><span style="color:red">폐업자</span><span>(폐업일:20260731, 부가가치세 일반과세자)</span></strong>입니다.  </p>
+Found: <a href="/article/5859401246"><h4>주택임대</h4></a>
+
+Last progress: 1s ago

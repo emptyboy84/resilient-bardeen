@@ -1,0 +1,17 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 671 lines>
+| "스톰아트스쿨학원" | 대표: "황정욱" | 구: ""
+  => MATCH CONFIRMED: 617-91-39863 (스톰아트스쿨학원) | 주소: "부산광역시 남구 수영로 300, 503호" | 대표: "황정욱" [폐업자]
+  >>> Progress Saved: 320/421 | Matched: 93 | Unverifiable: 227 <<<
+[321/421] Row 2159 | "디자인스탠다드" | 대표: "조형래" | 구: ""
+  => MATCH CONFIRMED: 617-81-78547 (주식회사 디자인스탠다드) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 405호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "조형래" [폐업자]
+[322/421] Row 2161 | "이에이치" | 대표: "김휘복" | 구: ""
+  => MATCH CONFIRMED: 621-81-47140 (주식회사 이에이치) | 주소: "부산광역시 사상구 주례로 148" | 대표: "김휘복" [계속사업자]
+[323/421] Row 2162 | "에니파크디자인" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[324/421] Row 2163 | "플레이박스" | 대표: "조수진" | 구: "동구"
+
+Last progress: 1s ago

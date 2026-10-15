@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+wscompany.co.kr -> Reg: 주식회사 웹스타일 Name: 주식회사 웹스타일 Phone: 02-472-2408
+wscompany.kr -> Reg: 후이즈 도메인 관리자 Name: 후이즈 도메인 관리자 Phone: NONE
+ws-company.co.kr -> Reg: 주식회사더블유에스컴퍼니 Name: 주식회사더블유에스컴퍼니 Phone: NONE
+ws-company.kr -> Reg: NONE Name: NONE Phone: NONE
+ws-c.co.kr -> Reg: NONE Name: NONE Phone: NONE
+wscorp.co.kr -> Reg: NONE Name: NONE Phone: NONE
+wscomp.co.kr -> Reg: NONE Name: NONE Phone: NONE
+ws-corp.co.kr -> Reg: NONE Name: NONE Phone: NONE
+

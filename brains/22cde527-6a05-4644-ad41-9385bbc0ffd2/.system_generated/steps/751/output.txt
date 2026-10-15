@@ -1,0 +1,22 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\save_final_excel.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -318,6 +318,16 @@
+     await workbook.xlsx.writeFile(targetXlsxPath);
+     console.log('XLSX written successfully!');
+ 
++    const targetXlsxPathBang = 'C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx';
++    if (fs.existsSync(targetXlsxPathBang)) {
++        try {
++            await workbook.xlsx.writeFile(targetXlsxPathBang);
++            console.log('XLSX (!!) also written successfully!');
++        } catch(e) {
++            console.log('Could not write to (!!):', e.message);
++        }
++    }
++
+     console.log(`Writing CSV with UTF-8 BOM to: ${targetCsvPath}`);
+     const csvContent = '\uFEFF' + finalCsvRows.map(r => toCSVLine(r)).join('\r\n');
+     fs.writeFileSync(targetCsvPath, csvContent, 'utf8');
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

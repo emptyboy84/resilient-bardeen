@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Saved grb_bizno.html len: 24659
+Row: 전화번호
+Row: 팩스번호
+Row: 대표자명 최**
+Row: 회사주소 부산광역시 남구 분포로 145 에이동 4504호 (용호동, 더블유) 부산 남구 용호동 954
+Row: 관할세무서 수영세무서 (전화번호 : 051-620-9200) 부산광역시 수영구 남천동로 19번길 28 (남천동)
+

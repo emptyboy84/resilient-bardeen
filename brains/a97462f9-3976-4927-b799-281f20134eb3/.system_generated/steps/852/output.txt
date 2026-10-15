@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Unhyphenated 10-digit biz numbers count: 16
+Examples: [
+  { rowNum: 2293, name: '늘아이엔씨', biz: '6068185602' },
+  { rowNum: 2294, name: '빅잼', biz: '6078601783' },
+  { rowNum: 2299, name: '아이티에프씨', biz: '2438601731' },
+  { rowNum: 2300, name: '에핀', biz: '6178600442' },
+  { rowNum: 2301, name: '오윈스', biz: '3408100590' }
+]
+

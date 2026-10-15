@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+ 지오시스 전자 부품, 컴퓨터, 영상, 음향 및 통신장비 제조업 > 전자 부품 제조업 > 기타 전자 부품 제조업 > 그 외 기타 전자 부품 제조업 업태 : 제조업 업종 : 그 외 기타 전자부품 제조업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2003-02-01 대표자명 : 김철주 전화번호 : 055-264-8051 종업원수 : 12명 사업자등록번호 : 609-07-37152"> 전자 부품, 컴퓨터, 영상, 음향 및 통신장비 제조업 > 전자 부품 제조업 > 기타 전자 부품 제조업 > 그 외 기타 전자 부품 제조업 업태 : 제조업 업종 : 그 외 기타 전자부품 제조업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2003-02-01 대표자명 : 김철주 전화번호 : 055-264-8051 종업원수 : 12명 사업자등록번호 : 609-07-37152"> (function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})(); .div_t { display:table; width:100%; border:0px solid #ddd; border-width:0px 0 0 0px; margin-
+

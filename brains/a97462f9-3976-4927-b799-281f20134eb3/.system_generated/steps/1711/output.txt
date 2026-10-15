@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ftc.go.kr/bizCommList.do');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/bizCommList.do
+- Page Title: 페이지 변경 안내
+- HTTP status: 404 Not Found
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-01-11-878Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-01-11-718Z.log#L1

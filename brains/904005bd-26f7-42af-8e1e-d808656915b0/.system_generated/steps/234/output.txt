@@ -1,0 +1,13 @@
+The search for "site:dbmon.kr "대연동 76-5" OR "시드"" returned the following summary:
+dbmon.kr 사이트에서 검색하신 "대연동 76-5" 또는 "시드"와 관련된 정보는 다음과 같습니다.
+
+*   **대연동 76-5:** 부산광역시 남구 대연동 76-5번지(현대오피스텔)에 위치한 **(주)시드**라는 업체 정보가 확인됩니다[1]. 해당 업체는 영화수입업을 영위하는 것으로 기재되어 있습니다[1].
+*   **시드(Seed):** 검색 결과 내에서 '(주)시드' 외에도 '시드랩(SeedLab)'[2], '웰시드 주식회사'[3], '스타시드'[4], '그레이프시드코리아 주식회사'[5], '콘시드서울'[6] 등 '시드'라는 명칭을 포함한 다양한 사업체 정보들이 디비몬(dbmon.kr) 데이터베이스에 등록되어 있습니다.
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUWVGX9bXqiXXxo5NXS9IOEuMcqW71L43Pax1zjeNS1cvG3__9KdyYfFeZU7TYE0HGAp-1uJRWL9V2yXEf3ZHarZs_ElqStJ71UCTB787pJlSeCj60Vxa0IKnXhGWNF6BffHf3k7_8kG9vUlIthsVh9-2w8mQG7KmRsDWBUnrJPmwXFuU4EFuMptkYRKoxYczZ2OVuLGpJpiRWQCEXwr-so1b6)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHm3SY0s-navJ0hpkDkWfyIn0Qz7qwM-j067QgaUsSz2ZxghBCH0YhtU7nyPXyhhszven1hbpiBT6QmIf9VJu4sZfYwASCHyhKulcCN4KYI7zqpC3jXL3OZpNX7mPQjgWJPnUkng7OX2nw6Mg=)
+[3] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1MP0_FGOgzPWbY87GRzTwAVkV2Uxd0QLTZiFYrkASg0fQDi4lGSKvAPO3KNrHsw4BmXK0y7e0t06s9gUZt580EdhRKGuDbtqqBzBE_Ejd7mQse512hF365aCHDP-HkfS2bNHf7OazhBqmO3TJKukIPi5CyqkIRk8=)
+[4] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD8OsTNDi6e_R8hYa6-Du6WA8ZRSQhnHYW0K8d8jDgYHSJkQoJUnh02A76QvfyCNUJvBsau_Wy9CFkRqHvOgr3qN2wmcePHZtuXK4oMGK9oTPYmCf-9sFT3T5SDPGp0elw-v5ElO8IcUmO5RxBxStUraOE0HpOR2uJztRD5ed7brKqpU66lTeCzsg8WvTd7MCZBQ==)
+[5] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-skr-cJUN7u6ZZTTTL_hmYRt30czY0WjNu9c0sIo-oC6VJwzWA4ecOrnU9_BTZBcr4rhm0ch-HKi8U-mhj42hc6qkS6xPSRLfH0ypn72RPbzh0WXidM7tYZEVA2e8-ntx26s9GPk2VQ==)
+[6] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbR_ojaRUlD3Xap1romscgzorw3z-MQ4Zs5hucfA3AoUKufUAjqjm5EOUsdu88yi1LYF7Fm1MEPQJjz_IGe8tsaIkInTeYMPo3z1SxgnorFtQ5iDgRCkHKFbVG4bn5as3KgWgTYcKETilLrs0cY6sc1eP6o2mm)

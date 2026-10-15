@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Final URL: https://www.ndsoft.co.kr/bbs/list.html?table=bbs_2&total=6563&sc_area=A&sc_word=&code=&page=169
+Length: 37326
+

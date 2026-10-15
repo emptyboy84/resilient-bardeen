@@ -1,0 +1,13 @@
+The search for ""링크빈" "이승주" OR "링크빈" "김대곤" OR "링크빈" "윤주현"" returned the following summary:
+검색 결과, **주식회사 링크빈(Link bean)**은 사람과 사람, 기업과 기업을 연결해 주는 플랫폼 개발 및 창업 기업 컨설팅 등을 수행하는 기업입니다[1]. 
+
+* **설립일:** 2019년 9월 17일[1]
+* **주요 서비스:** 선불식 장기 상품 중개 거래 플랫폼 '해약노노' 개발 등[1]
+* **소재지:** 부산광역시 부산진구 전포대로 274[1]
+* **대표자 관련 정보:** 
+  * 기업 신용평가 데이터 등 일부 문서에서는 **이승주** 대표로 언급되기도 하며[2], 
+  * 스타트업 IR 및 공식 플랫폼 자료 등에서는 **윤주현, 김대곤** 대표 체바로 확인됩니다[1].
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVBP4FKN-TpHT1o8cZxZ6Mj8_ZJdTPvFbZ1ieOqJiT-KxGVQThx3VPdFmog4xFUqfQ8OdH5V4iGP-D8o0FLe_vFccNRL7MtdnK9QgGJ43tcimrsd9Z3_NGgiTJc0GYhp1uGg==)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2PGgy0BuXX4Z95QRmOg69GwHz43x2v8tJz2xRpyMzSnxWvgyCXqYdFn6313-d0HMizBWX3eKpGKW34WKq0zRd-2bx-5TyDjIk7kR9C4TPxW7rZbA1Lk9s5d2lmhw0pSlWU329Zg==)

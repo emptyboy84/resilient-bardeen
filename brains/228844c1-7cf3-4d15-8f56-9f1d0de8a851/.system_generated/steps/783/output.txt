@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/%ED%9D%AC%EC%9B%B9%ED%88%B0');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 희웹툰 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-18-31-811Z.yml)

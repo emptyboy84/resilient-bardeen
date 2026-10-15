@@ -1,0 +1,5 @@
+{
+  "summary":  "가상 데스크톱 단축키(Ctrl+Win+방향키) 충돌 문제를 해결하기 위해 AetherOS 내부 가상 데스크톱 전환 단축키를 Alt+Shift+방향키로 수정한 내용을 담은 워크스루 문서입니다.",
+  "updatedAt":  "2026-06-30T01:41:28.888836700Z",
+  "userFacing":  true
+}

@@ -1,0 +1,27 @@
+
+The command exited with code 0.
+Output:
+13: <meta name="description" content="주식회사 위너스매니지먼트에 대한 사업자정보  회사명(영문) : Winners management 기업규모 : 중소기업 법인구분 : 법인 과세유형 : 부가가치세 일반과세자 법인형태 : 영리법인의 본점 홈페이지 
+20: <meta property="og:description" content="주식회사 위너스매니지먼트에 대한 사업자정보  회사명(영문) : Winners management 기업규모 : 중소기업 법인구분 : 법인 과세유형 : 부가가치세 일반과세자 법인형태 : 영리법인의 본
+68: <a href="/"><img src="/img/logo.png" alt="" title="" /></a>
+76: <li><a href="/전화번호조회/">전화번호로 조회</a></li>
+133: <table class="table_guide01" summary="주식회사 위너스매니지먼트에 대한 사업자정보  회사명(영문) : Winners management 기업규모 : 중소기업 법인구분 : 법인 과세유형 : 부가가치세 일반과세자 법인형태 : 영리법인의 본점 홈
+155: <th>통신판매업번호</th>
+196: <th>전화번호</th>
+198: 010-5757-9*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+203: <th>팩스번호</th>
+239: 2022-02-12
+355: 해운대세무서 (전화번호 : 051-660-9200)<br/><br/>부산광역시 해운대구 좌동순환로 17(좌동) 해운대세무서(본관)
+376: <p>※ 법인(개인사업자 포함)이나 단체에 관한 정보는 개인정보에 해당하지 않으며, 개별사업주의 동의 없이도 이용 가능한 정보입니다. <a href="#" onclick="window.open('/img/private.png');">[관련자료]</a></p>
+377: <p>※ 사업주의 요청이 있는 경우에는 등록/수정/비공개등의 처리를 해드리고 있으며 대표자명/전화번호/주소/직원수 항목별 비공개 처리가 가능합니다.</p>
+466: <img src="https://map3.daumcdn.net/map_roadview/2023/01/9132854/2_100906_9132854_20230119030723_cube/left_1200.jpg"  alt="주식회사 위너스매니지먼트"/>
+474: <img src="https://map3.daumcdn.net/map_roadview/2023/01/9132854/2_100906_9132854_20230119030723_cube/left_1200.jpg" alt="주식회사 위너스매니지먼트_1"/>
+479: <img src="https://map3.daumcdn.net/map_roadview/2023/01/9132854/2_100906_9132854_20230119030723_cube/front_1200.jpg" alt="주식회사 위너스매니지먼트_2"/>
+484: <img src="https://map3.daumcdn.net/map_roadview/2023/01/9132854/2_100906_9132854_20230119030723_cube/right_1200.jpg" alt="주식회사 위너스매니지먼트_3"/>
+489: <img src="https://map3.daumcdn.net/map_roadview/2023/01/9132854/2_100906_9132854_20230119030723_cube/back_1200.jpg" alt="주식회사 위너스매니지먼트_4"/>
+543: <li><a class="justify-content-between d-flex" href="/article/5290103150"><p>새정운수</p><span></span></a></li>
+627: <li><a href="/전화번호조회">전화번호조회</a></li>
+733: //	$("#addpay1").html("<a href=\"https://addpay.co.kr/?ref=bizno\"><img src='/img/addpay.png' width='100%'/></a>");
+735: //	$("#addpay2").html("<a href=\"https://addpay.co.kr/?ref=bizno\"><img src='/img/addpay.png' width='100%'/></a>");
+756: $('.main_image img').attr('src',$(this).children('img').attr('src'));
+

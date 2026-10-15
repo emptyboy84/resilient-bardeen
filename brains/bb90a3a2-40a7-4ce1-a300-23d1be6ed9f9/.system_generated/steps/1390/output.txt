@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Kakao Place API status: 404
+Raw data snippet: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+

@@ -1,0 +1,97 @@
+
+The command exited with code 0.
+Output:
+Worksheet name: 크레탑_부산CT_전화번호검증
+Dimensions: 3979 x 17
+Column widths: [
+  { col: 1, header: '순번', width: 6 },
+  { col: 2, header: '기업명', width: 26 },
+  { col: 3, header: '대표자명', width: 12 },
+  { col: 4, header: '기업상태', width: 10 },
+  { col: 5, header: '기업유형/형태', width: 18 },
+  { col: 6, header: '사업자번호', width: 15 },
+  { col: 7, header: '법인번호', width: 18 },
+  { col: 8, header: '산업분류', width: 25 },
+  { col: 9, header: '주소', width: 45 },
+  { col: 10, header: '전화번호', width: 16 },
+  { col: 11, header: '최근 재무년도', width: 12 },
+  { col: 12, header: '브리핑', width: 10 },
+  { col: 13, header: '일반', width: 10 },
+  { col: 14, header: '현황', width: 10 },
+  { col: 15, header: '재무', width: 10 },
+  { col: 16, header: '신용', width: 10 },
+  { col: 17, header: 'EW리포트', width: 10 }
+]
+--- Row 1 styles ---
+H1 (순번): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H2 (기업명): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H3 (대표자명): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H4 (기업상태): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H5 (기업유형/형태): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H6 (사업자번호): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H7 (법인번호): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H8 (산업분류): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H9 (주소): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H10 (전화번호): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H11 (최근 재무년도): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H12 (브리핑): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H13 (일반): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H14 (현황): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H15 (재무): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H16 (신용): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+H17 (EW리포트): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FF1F4E79"}}, font={"bold":true,"color":{"argb":"FFFFFFFF"}}, align={"horizontal":"center","vertical":"middle"}, border={}
+--- Row 2 styles ---
+R2 C1 (1): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C2 (부산문화방송(주)): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C3 (최병한): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C4 (정상): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C5 (외감·주식회사): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C6 (601-81-06335): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C7 (180111-0000222): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C8 (지상파 방송업): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C9 (부산 동구 자성로133번길 15 (범일동)): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C10 (051-760-1000): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C11 (2025-12-31): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C12 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C13 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C14 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C15 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C16 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R2 C17 (): fill=undefined, font=undefined, align=undefined, border=undefined
+--- Row 14 styles (green phone) ---
+R14 C1 (13): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C2 ((주)케어닥): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C3 (박재병): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C4 (정상): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C5 (일반법인·주식회사): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C6 (708-81-00933): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C7 (180111-1151040): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C8 (데이터베이스 및 온라인정보 제공업): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C9 (부산 해운대구 센텀동로 45, 3층 307호 우동 (우동,웹스)): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C10 (1833-9119): fill={"type":"pattern","pattern":"solid","fgColor":{"argb":"FFC6EFCE"}}, font={"bold":true,"color":{"argb":"FF006100"}}, align=undefined, border={}
+R14 C11 (2025-12-31): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C12 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C13 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C14 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C15 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C16 (): fill=undefined, font=undefined, align=undefined, border=undefined
+R14 C17 (): fill=undefined, font=undefined, align=undefined, border=undefined
+Row green counts for rows 2-100: {
+  '14': 1,
+  '24': 1,
+  '35': 1,
+  '43': 1,
+  '46': 1,
+  '47': 1,
+  '53': 1,
+  '56': 1,
+  '57': 1,
+  '61': 1,
+  '64': 1,
+  '70': 1,
+  '73': 1,
+  '79': 1,
+  '81': 1,
+  '97': 1
+}
+

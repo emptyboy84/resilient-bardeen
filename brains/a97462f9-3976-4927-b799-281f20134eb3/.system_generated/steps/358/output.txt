@@ -1,0 +1,1 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6740dd59-eb21-4d68-9720-ce1a0bd30a53\\scratch\\export_results.js","LineNumber":7,"LineContent":"  const outPathFullUpdated = 'C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_매출액실사완료.xlsx';"}

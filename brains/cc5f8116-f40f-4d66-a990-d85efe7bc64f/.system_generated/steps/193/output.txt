@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Tested detail parser
+6042312006 �Ǿ� �ڻ�ȣ  
+6179038101 �Ż�ǻ� � �λ걤� � �׷� 86 () 051-633-4429
+

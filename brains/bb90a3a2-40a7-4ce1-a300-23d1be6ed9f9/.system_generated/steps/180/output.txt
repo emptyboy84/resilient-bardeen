@@ -1,0 +1,145 @@
+
+The command exited with code 0.
+Output:
+Starting Full Batch check for 3248 missing companies...
+Initial cached phones available: 154
+Progress: 6/3248 | Total Found: 154
+Progress: 36/3248 | Total Found: 154
+Progress: 66/3248 | Total Found: 154
+Progress: 96/3248 | Total Found: 154
+Progress: 126/3248 | Total Found: 154
+Progress: 156/3248 | Total Found: 154
+Progress: 186/3248 | Total Found: 154
+Progress: 216/3248 | Total Found: 154
+Progress: 246/3248 | Total Found: 154
+Progress: 276/3248 | Total Found: 154
+Progress: 306/3248 | Total Found: 154
+Progress: 336/3248 | Total Found: 154
+Progress: 366/3248 | Total Found: 154
+Progress: 396/3248 | Total Found: 154
+[FOUND 1] Seq 800 (주)토스 -> 051-505-4177
+[FOUND 2] Seq 801 (주)스마트체인 -> 051-510-2733
+[FOUND 3] Seq 799 아이티어스 -> 070-4616-7111
+[FOUND 4] Seq 806 (주)마코랑 -> 070-4366-0962
+[FOUND 5] Seq 808 (주)아정당파이낸셜 -> 1833-6334
+[FOUND 6] Seq 809 (주)나무교육 -> 051-364-2448
+[FOUND 7] Seq 818 (주)한세티앤엘 -> 055-912-1400
+[FOUND 8] Seq 819 (주)에이아이씨티 -> 051-911-0225
+Progress: 426/3248 | Total Found: 162
+[FOUND 9] Seq 821 (주)애로우윙즈 -> 070-7785-2690
+[FOUND 10] Seq 829 미디어줌 -> 051-623-1906
+[FOUND 11] Seq 845 (주)와이시스랩 -> 051-410-4315
+[FOUND 12] Seq 842 오션쓰리디 -> 051-741-8720
+[FOUND 13] Seq 859 (주)지인연구소 -> 070-7620-9822
+[FOUND 14] Seq 857 씨텍 -> 051-939-2493
+[FOUND 15] Seq 856 망고미디어 -> 051-714-4141
+Progress: 456/3248 | Total Found: 169
+[FOUND 16] Seq 865 더웰 -> 070-8722-6321
+[FOUND 17] Seq 868 유비플러스 -> 1544-3486
+[FOUND 18] Seq 878 (주)이노솔루션 -> 051-253-0005
+[FOUND 19] Seq 887 (주)태디 -> 051-782-6668
+Progress: 486/3248 | Total Found: 173
+[FOUND 20] Seq 902 (주)니즈포 -> 051-752-7645
+Progress: 516/3248 | Total Found: 182
+Progress: 546/3248 | Total Found: 184
+Progress: 576/3248 | Total Found: 191
+Progress: 606/3248 | Total Found: 196
+[FOUND 50] Seq 1077 제로투원 -> 051-635-5544
+Progress: 636/3248 | Total Found: 204
+Progress: 666/3248 | Total Found: 212
+Progress: 696/3248 | Total Found: 217
+Progress: 726/3248 | Total Found: 222
+Progress: 756/3248 | Total Found: 223
+Progress: 786/3248 | Total Found: 231
+Progress: 816/3248 | Total Found: 235
+Progress: 846/3248 | Total Found: 236
+Progress: 876/3248 | Total Found: 240
+Progress: 906/3248 | Total Found: 245
+Progress: 936/3248 | Total Found: 249
+Progress: 966/3248 | Total Found: 249
+[FOUND 100] Seq 1452 (주)엠에스씨앤씨 -> 051-331-0019
+Progress: 996/3248 | Total Found: 255
+Progress: 1026/3248 | Total Found: 257
+Progress: 1056/3248 | Total Found: 261
+Progress: 1086/3248 | Total Found: 266
+Progress: 1116/3248 | Total Found: 275
+Progress: 1146/3248 | Total Found: 278
+Progress: 1176/3248 | Total Found: 286
+Progress: 1206/3248 | Total Found: 287
+Progress: 1236/3248 | Total Found: 291
+Progress: 1266/3248 | Total Found: 296
+Progress: 1296/3248 | Total Found: 300
+[FOUND 150] Seq 1807 에이치케이디자인 -> 051-717-0116
+Progress: 1326/3248 | Total Found: 308
+Progress: 1356/3248 | Total Found: 312
+Progress: 1386/3248 | Total Found: 314
+Progress: 1416/3248 | Total Found: 321
+Progress: 1446/3248 | Total Found: 327
+Progress: 1476/3248 | Total Found: 340
+Progress: 1506/3248 | Total Found: 348
+Progress: 1536/3248 | Total Found: 348
+Progress: 1566/3248 | Total Found: 351
+Progress: 1596/3248 | Total Found: 352
+Progress: 1626/3248 | Total Found: 352
+[FOUND 200] Seq 2190 아이지미술 -> 070-8031-4038
+Progress: 1656/3248 | Total Found: 359
+Progress: 1686/3248 | Total Found: 362
+Progress: 1716/3248 | Total Found: 365
+Progress: 1746/3248 | Total Found: 367
+Progress: 1776/3248 | Total Found: 369
+Progress: 1806/3248 | Total Found: 372
+Progress: 1836/3248 | Total Found: 374
+Progress: 1866/3248 | Total Found: 375
+Progress: 1896/3248 | Total Found: 380
+Progress: 1926/3248 | Total Found: 382
+Progress: 1956/3248 | Total Found: 388
+Progress: 1986/3248 | Total Found: 390
+Progress: 2016/3248 | Total Found: 393
+Progress: 2046/3248 | Total Found: 394
+Progress: 2076/3248 | Total Found: 398
+Progress: 2106/3248 | Total Found: 402
+Progress: 2136/3248 | Total Found: 403
+[FOUND 250] Seq 2711 (주)디아르떼 -> 051-320-2127
+Progress: 2166/3248 | Total Found: 404
+Progress: 2196/3248 | Total Found: 407
+Progress: 2226/3248 | Total Found: 409
+Progress: 2256/3248 | Total Found: 415
+Progress: 2286/3248 | Total Found: 419
+Progress: 2316/3248 | Total Found: 422
+Progress: 2346/3248 | Total Found: 426
+Progress: 2376/3248 | Total Found: 428
+Progress: 2406/3248 | Total Found: 429
+Progress: 2436/3248 | Total Found: 429
+Progress: 2466/3248 | Total Found: 429
+Progress: 2496/3248 | Total Found: 430
+Progress: 2526/3248 | Total Found: 430
+Progress: 2556/3248 | Total Found: 430
+Progress: 2586/3248 | Total Found: 430
+Progress: 2616/3248 | Total Found: 431
+Progress: 2646/3248 | Total Found: 433
+Progress: 2676/3248 | Total Found: 434
+Progress: 2706/3248 | Total Found: 434
+Progress: 2736/3248 | Total Found: 434
+Progress: 2766/3248 | Total Found: 435
+Progress: 2796/3248 | Total Found: 439
+Progress: 2826/3248 | Total Found: 440
+Progress: 2856/3248 | Total Found: 440
+Progress: 2886/3248 | Total Found: 441
+Progress: 2916/3248 | Total Found: 441
+Progress: 2946/3248 | Total Found: 442
+Progress: 2976/3248 | Total Found: 448
+[FOUND 300] Seq 3665 (주)버거소프트 -> 070-8970-9595
+Progress: 3006/3248 | Total Found: 454
+Progress: 3036/3248 | Total Found: 458
+Progress: 3066/3248 | Total Found: 467
+Progress: 3096/3248 | Total Found: 477
+Progress: 3126/3248 | Total Found: 487
+Progress: 3156/3248 | Total Found: 496
+[FOUND 350] Seq 3879 (주)에디스교육 -> 051-913-2700
+Progress: 3186/3248 | Total Found: 505
+Progress: 3216/3248 | Total Found: 515
+Progress: 3246/3248 | Total Found: 524
+Progress: 3248/3248 | Total Found: 525
+
+All done! Total verified phones collected: 525
+

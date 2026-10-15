@@ -1,0 +1,26 @@
+The search for "부산 "비쓰리디" OR "디쓰리디" "패션비즈센터"" returned the following summary:
+부산광역시 동구 범일동(망양로 978)에 위치한 **부산패션비즈센터** 내에는 3D 가상의류 및 패션테크와 관련된 인프라가 조성되어 있습니다[1][2]. 
+
+검색하신 키워드 중 **"디쓰리디(D3D)"**는 3D 가상의류 및 패턴 데이터, 샘플 제작 플랫폼 등을 제공하는 패션테크 기업으로[3], 부산패션비즈센터 내에서 진행되는 메타패션 및 3D 디지털 가상의류 관련 사업·전시·체험 공간(부산 메타패션 플레이그라운드 등)과 깊은 연관이 있습니다[1][2].
+
+부산패션비즈센터와 디쓰리디(D3D) 및 3D 패션테크와 관련된 주요 내용은 다음과 같습니다:
+
+* **부산 메타패션 플레이그라운드 (부산패션비즈센터 내 조성)**:
+  * **위치**: 부산패션비즈센터 1층 및 3층[1]
+  * **주요 구성**: 
+    * **체험존**: 최신 AI·AR 기술을 활용한 3D 가상의류, 가상매장(버추얼 쇼룸), AR 가상착의 등을 체험할 수 있는 공간[2]
+    * **창작존**: 고성능 PC와 3D 패션 디자인 소프트웨어(CLO 등)가 구비되어 있어 3D 가상의류 제작 및 전문 인력 양성을 지원하는 공간[4][2]
+    * **쏘잉 아뜰리에**: 3D로 창작된 가상의류를 실제 의상으로 구현·제작해 볼 수 있는 실증 지원 공간[2]
+* **디쓰리디(D3D)의 역할 및 연계**:
+  * 국내외 패션 산업에서 3D 가상의류 및 방대한 패턴 데이터(D3DFASHION.COM), 원데이 샘플 제작 플랫폼 등을 운영하는 대표적인 패션테크 기업입니다[3].
+  * 부산 지역의 섬유·패션·IT 융합 및 디지털 전환(DX) 과정에서 3D 패션 기술과 데이터 활용을 위해 관련 전시, 스마트 의류 제작, 프로그램 연계 등의 협력이 이루어져 왔습니다[5][2].
+
+부산패션비즈센터의 3D 가상의류 제작 지원, 공간 대여, 메타패션 체험 및 교육 프로그램 등에 대한 자세한 정보는 **부산패션비즈센터 공식 홈페이지**를 통해 확인하실 수 있습니다[6].
+
+Sources:
+[1] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTEC4ow2VYwJTfXQGjttbl7iV2u4KjsDepeTOqVP-CevJS6ykCS9ofRErdua8SrnimRwca3KOwIwGBB03JQh9AAbUjuTETSaRgxxgE2274WAkRnjRY1KKXsII7vbXk8A==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHvlB41dws-jQKbod1JY-Lrf2nCBKWlYeRMT2-mLCKU2pC2amME7DlnqV8ln-TTB6v36KWgjYsNBjmtxL5hiLazV6UKEAqDD0Hp3GYJSbB6zU7EGSobP4=)
+[3] [d3d.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7BedmMd71LkoXQ6dE8TeoztJCWWaWKD_wPtf6FPoYgakXirdgQqAnKofjyrYKj0xA1jmaxJtl4gu88-cwtKWeI3HjJkTCeA==)
+[4] [fashioncity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeXtGH3JzdNPvGKhPwhgqgeFAMhYvyz7HpWzm5z9qGy1dX1AJo7Lz-Kvuvrp0TPQmsnxUALEDJrkDo-s94c-EuRT9iHe-y_P-sXsFwaH8oa4K2RJZWCyszDvYZfPhPl4c_0g==)
+[5] [fashionbiz.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJcKw6Qm9NOcq4siMDFiNfLNxWxQXcG3U7PHNKS65f5UV_MZZAC5Ld9FJWigAHigRIBdN2kztT9hso7wFSXQ_DqrkRWyqtmcNUXGLk5hDeebMqChI4g8BDLNR6vg==)
+[6] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_AeXfihxpSFSD1cpbqSkspqgyBBk1A1DJp7lS9ih5lMNb2LDVD5SYXD3-kcFVQdQQ2EPo0X4ei6LfJThlsml_KEtBSdYfhSkbe4gOnGLvfc6fQ5NNkWnmG19fDCRI)

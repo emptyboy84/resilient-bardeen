@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=0505-349-8000');
+```
+### Page
+- Page URL: https://bizno.net/?query=0505-349-8000
+- Page Title: 05053498000
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-34-33-622Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-34-29-243Z.log#L1-L4

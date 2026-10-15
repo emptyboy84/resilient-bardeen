@@ -1,0 +1,64 @@
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+out-file : FileStream was asked to open a device that was not a file. For support for devices like 'com1:' or 'lpt1:', 
+call CreateFile, then use the FileStream constructors that take an OS handle as an IntPtr.
+At line:4 char:5
++     $size = (cmd /c "dir /s /a /w `"$dirPath`"" 2>nul | Select-String ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], NotSupportedException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 

@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+7644000677 시은산업 | zip:  | addr: - | status: 정상
+7619600388 미래치과기공소 | zip:  | addr: - | status: 
+7792800250 대진정공 | zip:  | addr: - | status: 정상
+7811000976 백광 | zip:  | addr:  | status: 정상
+7724400211 유잇츠 | zip:  | addr: - | status: 정상
+7740502180 우신기전 | zip:  | addr:  | status: 정상
+7678702500 (주)브리오 | zip:  | addr: 부산광역시 기장군 장안읍 오리 1117-4 (에이4-4) | status: 정상
+

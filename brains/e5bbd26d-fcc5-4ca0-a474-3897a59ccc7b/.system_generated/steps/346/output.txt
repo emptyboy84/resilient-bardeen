@@ -1,0 +1,10 @@
+The search for ""대박만화휴게실" OR ("대박만화" "망미동") OR ("과정로" "만화")" returned the following summary:
+부산광역시 수영구 망미동 및 연제구 과정로 인근의 만화 관련 시설 정보는 다음과 같습니다.
+
+*   **대박만화**: 부산 수영구 망미동(과정로 43)에 위치한 만화방입니다[1].
+*   **필만화카페**: 부산 연제구 과정로 112(연산동)에 위치한 만화카페입니다[2][3].
+
+Sources:
+[1] [store114.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlRhiLOJIzASlW6WT9m72xBSpVPlTUjiaWW_HXr4HLV_ca5OSa3Iopg5F_I2dQRNCSw3kZEq4jBgeRKY4140F60usPWJleXB3tUtRMwDx2a_L4IyijMNM_TijEiMFfNGKcmpRt3eRONacAyl15vBM=)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaV6hWpftCVr9phSwt9o2q-NateMscsjhkzEB5P1Bqpg-9T0r8xrdjAi4hBbkovoh07xTgc7QHhbVkT6PQNfK2OmLNihK4xh-hLSDSr8Jm6HWNTyLHBCTCjglD--qEG6ZkGvfYc7qIGmlAfvAuL-TKspttuC0dglv3HsXCZmQ0emKRGC1Ai_tK-EDsSJnvoDSimHVwNE07lt2wqh1ms_h0eSI6q2YtKqtPN0Mp5ATB3KPx-y92Dg==)
+[3] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyij_FsUbPCqyjP9DQzvqHsKrdWEWfitst0_tYczNnYF1MiwgjcR_2hDPtM-Zz4gJd9nYBZqYrbraESPEbdj1ZY4L1kMO255GLtoH0KnBL_T-10wP1VA3GPovFHQ_PRXXQ8s9z4-Enei43gMfr8-_ObykQu8aySwhKsnz5jjM5Ch38BRSM1ovpKgslpMd4cQDUCkxkIliuLKYAw3-2JaumnnU=)

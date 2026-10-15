@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Total parsed rows: 2314
+Row 1 (Header): 구분 순번 사업체명
+Row 2 (First data, seq was 1): 25년 모집단 아이티에프씨
+Row 639 (seq was 638): 25년 모집단 디자인에코
+Row 2307 (seq was ): 게임사업단 리스트 피커스튜디오
+Row 2314 (seq was ): 게임사업단 리스트 주식회사 이데아디엑스
+

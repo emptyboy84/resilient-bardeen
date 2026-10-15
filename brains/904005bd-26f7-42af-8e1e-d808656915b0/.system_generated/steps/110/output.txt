@@ -1,0 +1,21 @@
+The search for ""부성은" "브이알코리아" OR "센텀벤처타운" OR "사업자등록번호"" returned the following summary:
+검색하신 **"부성은"**과 **"브이알코리아"**, **"센텀벤처타운"** 관련 정보는 2009년경 부산 지역 기업 정보 기록에서 확인됩니다[1][2].
+
+### 관련 정보 요약
+*   **브이알코리아 (VR Korea):** 2009년 당시 부산 우동 센텀벤처타운 610호에 소재했던 기업으로, 대표자명으로 **'부성은'**이 기재되어 있습니다[1][2]. 주요 사업 영역은 유원지 테마파크, 과학관, 체험박물관, 교육시설 및 연구시설의 건립·운영으로 나타납니다[1].
+
+### 참고 사항
+*   **동명 기업 주의:** '부성'이라는 이름을 가진 기업은 냉동·공조 전문 기업(주식회사 부성, 1984년 설립)[3][4], 자동차 부품 제조사[5], 운전학원[6] 등 다수가 존재합니다.
+*   **사업자등록번호:** 문의하신 '브이알코리아(대표 부성은)'와 관련된 사업자등록번호는 검색 결과상에서 구체적으로 확인되지 않습니다. 만약 특정 기업의 사업자등록번호를 찾으시는 경우, 해당 기업의 정확한 소재지나 업종 정보를 함께 확인하시는 것이 좋습니다[3][7][8].
+
+질문하신 내용이 2009년 당시의 특정 기업 정보를 찾으시는 것이라면 위 내용을 참고하시기 바랍니다[1].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6PxYbAyyLpIRDBXqdRapCxC8T2QWq4gcN-t15SamYmLmYIbAwgygbWzP30OTD3U1rqz5YVZ0BpuYbpnFH7NeFQHHe9olMe8BWvPtScxJiF_27nN7aq4QuX41wIMiGhlo=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6PxYbAyyLpIRDBXqdRapCxC8T2QWq4gcN-t15SamYmLmYIbAwgygbWzP30OTD3U1rqz5YVZ0BpuYbpnFH7NeFQHHe9olMe8BWvPtScxJiF_27nN7aq4QuX41wIMiGhlo=)
+[3] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBIzHJLFla6KaEFyUn-OP8YOrYBuUjC_9M4TNNITeU8meWev2yagTMt8oWMb8xXKt0bkrdQvljvm_Obe7fviwGnTnz9j0vg2MsP0lCiNg9TfHSUOudKXOLZygHRY4fbUvg4g-vrQH9guuS64LtsUN69IBhMYuuEl9GkYQ=)
+[4] [busungrh.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Ai3C5TMUyaI9skBks0xUsXRZbR30hTI3sqS2ssiNh4-yXEDGyDoYPinqYuCRjKnsr3wJ9aGRDXPe3xDGNoiGs4SlLQA2iHP0fg==)
+[5] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdGOZVlqK5XN5XgKfMMsNcwH9tEbZ6-2rzbkpe7IsAiASGLanVz-ybgNRU2Tg-SwyQOpdVuZx9vGLa5NhgGbBkCzEFkLaVMnypb2KnQYkxhUtRLW0BHVV5K_86tM0FO784LJVHk_wVnfDjoHU10mRWyFs9tpVFAKPgHts=)
+[6] [bsdrive.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEucMm5taF-bTidDWRkzw38dSYpKK_DY1BiBZiD-jZCN7xD3xMi45DJnqsPz6RRb8VsfK2ab2alH1f5D9a4kyr_TKTx9S8T3lNsPqTQs0of)
+[7] [alffiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtlq35nETCuU-IpnXIW4hIBluJ2V439w4umLPeu38OJ3YtXyY-NsnjVEBiGP4aCjlpvH9Zik7YrbXWtJ-rekPzWPyWlC7yKeghdL5xJKQ0At94UdsJxeTTx4pl5yUcPQ551dvjRA==)
+[8] [alffiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtlq35nETCuU-IpnXIW4hIBluJ2V439w4umLPeu38OJ3YtXyY-NsnjVEBiGP4aCjlpvH9Zik7YrbXWtJ-rekPzWPyWlC7yKeghdL5xJKQ0At94UdsJxeTTx4pl5yUcPQ551dvjRA==)

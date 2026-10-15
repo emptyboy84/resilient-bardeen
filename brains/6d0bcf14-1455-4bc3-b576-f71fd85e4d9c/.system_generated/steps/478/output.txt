@@ -1,0 +1,5 @@
+The search for ""주식회사 파이" "김도응" ("051" OR "070" OR "010" OR "02" OR "전화" OR "TEL")" returned the following summary:
+검색 결과 "주식회사 파이"와 "김도응"이라는 이름이 함께 언급된 기록은 확인되나[1], 해당 기업의 공식적인 대표 전화번호나 상세한 연락처 정보는 공개된 웹 데이터베이스에서 조회되지 않습니다.
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdH0-S2ARSgdh1tBNHLWoa62N08svuTeBFtQeR4BwZauKwvgOm1JZBuLc-ExKcPXYkZoC-ldE5xlupKoXI_WkVfvgmZZlal6uD9Jb6IlzoIy3mGFD8EOxjNpU=)

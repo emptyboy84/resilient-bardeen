@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-31-40-906Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-31-39-750Z.log#L1-L2

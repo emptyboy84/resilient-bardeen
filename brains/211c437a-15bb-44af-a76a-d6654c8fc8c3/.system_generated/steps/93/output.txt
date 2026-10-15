@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ �:1 �:173
++ ... trlLib.ACPIHelper'); $t.GetMembers() | Select-Object MemberType, Name
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+

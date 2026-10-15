@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+CSV includes 180111-1362374: false
+CSV includes 와이피엔터테인먼트: false
+C:/Users/lg/Desktop/Today/인공지능으로찾을거.xlsx total matches: 0
+C:/Users/lg/Desktop/Today/사업자번호_찾은_192개.xlsx total matches: 0
+C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본_최신.xlsx total matches: 0
+

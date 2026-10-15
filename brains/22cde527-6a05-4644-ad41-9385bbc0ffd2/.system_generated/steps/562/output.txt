@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Count: 150
+Is sorted by rowNumber: true
+Min rowNumber: 639
+Max rowNumber: 2307
+

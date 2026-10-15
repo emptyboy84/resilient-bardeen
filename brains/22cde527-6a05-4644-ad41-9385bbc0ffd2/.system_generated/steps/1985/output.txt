@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Reading base pristine file...
+Writing to: C:/Users/lg/Desktop/오늘/인공지능으로찾은거.xlsx...
+Writing to: C:/Users/lg/Desktop/오늘/인공지능으로찾을거.xlsx...
+Writing to: C:/Users/lg/Desktop/오늘/인공지능으로찾은거.csv...
+
+=== COMPLETE INTEGRATION SUCCESS ===
+- Sheet 1: 전체 2,314행 통합 (신규 발굴 192개사 + 50개사 매출액 빨간색 반영)
+- Sheet 2: 인공지능 발굴 192개사 전용 시트
+- Saved Excel: C:/Users/lg/Desktop/오늘/인공지능으로찾은거.xlsx
+- Saved Excel (Alias): C:/Users/lg/Desktop/오늘/인공지능으로찾을거.xlsx
+- Saved CSV: C:/Users/lg/Desktop/오늘/인공지능으로찾은거.csv
+

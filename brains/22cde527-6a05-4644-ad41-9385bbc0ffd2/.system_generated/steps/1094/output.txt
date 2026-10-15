@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+const fs = require('fs');
+const path = require('path');
+const ExcelJS = require('C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\fill_missing_business_numbers\\node_modules\\exceljs');
+
+const SCRATCH_DIR = 'C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch';
+const targetCsvPath = 'C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv';
+const targetXlsxPath = 'C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx';
+const targetXlsxPathBang = 'C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx';
+
+const missingFile = path.join(SCRATCH_DIR, 'missing_421.json');
+const originallyMissingList = JSON.parse(fs.readFileSync(missingFile, 'utf8'));
+const originallyMissingSet = new Set(originallyMissingList.map(m => m.rowNumber));
+
+const verifiedResultsFile = path.join(SCRATCH_DIR, 'verified_results.json');
+const verifiedData
+

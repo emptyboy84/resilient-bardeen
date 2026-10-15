@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+Row 548 Author: 이재호 Company: 굿보이픽쳐스 BizNo: 4782200049
+Row 909 Author: 안재한 Company: 만세픽처스 BizNo: 6020477507
+Row 979 Author: 안재한 Company: SJPictures(에스제이픽쳐스) BizNo: 6211588525
+Row 1069 Author: 배현명 Company: 지움픽처스 BizNo: 6020139157
+Row 1111 Author: 안재한 Company: 소울필름 BizNo: 6211651097
+Row 1142 Author: 안재한 Company: 미루픽처스 BizNo: 1068700482
+Row 1188 Author: 안재한 Company: 서울동화픽처스 BizNo: 5038700849
+Row 1324 Author: 정은미 Company: 소울 BizNo: 6284100801
+Row 4395 Author: 안재한(7.20~) Company: 모멘텀픽쳐스 BizNo: 4988103765
+Row 5267 Author: 배현명 Company: 소울테크 BizNo: 6031337873
+Row 6250 Author: 차민영(7.20~) Company: 도서출판디오픽처스 BizNo: 1019054926
+Row 6371 Author: 차민영(7.20~) Company: 매드소울차일드 BizNo: 5780100102
+Row 6582 Author: 김유진(7.20~) Company: 엘제이엠픽쳐스 BizNo: 2118779296
+Row 6583 Author: 김유진(7.20~) Company: 엘리먼트픽쳐스 BizNo: 2118883759
+Row 6592 Author: 김유진(7.20~) Company: 루팡픽쳐스 BizNo: 2200569985
+Row 6611 Author: 김유진(7.20~) Company: 리온픽쳐스 BizNo: 5518700945
+Row 6672 Author: 김유진(7.20~) Company: 퍼니픽쳐스 BizNo: 3878800074
+Row 8498 Author: null Company: 모카픽쳐스 BizNo: 2152098138
+Row 12072 Author: 배현명 Company: 유한회사애드픽처 BizNo: {
+  text: '5338801244',
+  hyperlink: 'https://bizno.net/article/5338801244'
+}
+Row 12486 Author: null Company: 알바트로스픽쳐스㈜ BizNo: 5778102486
+Row 13989 Author: null Company: (주)소울이엔지 BizNo: 6068646851
+Row 15424 Author: null Company: 소울텍 BizNo: 6091982631
+Row 18982 Author: null Company: 허니뱃저픽처스 주식회사 BizNo: 7368702345
+Row 19478 Author: null Company: 소울메카텍 BizNo: 7884700027
+

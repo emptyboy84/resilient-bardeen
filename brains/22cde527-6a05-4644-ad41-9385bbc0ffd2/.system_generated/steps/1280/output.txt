@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.donga.ac.kr');
+```
+### Page
+- Page URL: https://www.donga.ac.kr/kor/Main.do
+- Page Title: 동아대학교
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-50-05-811Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-50-01-036Z.log#L1-L3

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+F17 first 50 lines length: 50
+F16 first 50 lines length: 50
+

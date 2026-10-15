@@ -1,0 +1,145 @@
+
+The command exited with code 1.
+Output:
+<truncated 48 lines>
+        109, 225, 169,  76,  56, 101,  73,  96, 141,  62,  48, 116,
+        243,   6,  23, 146,
+        ... 194 more items
+      ],
+      bits: 2048,
+      valid_from: 'May 13 00:00:00 2026 GMT',
+      valid_to: 'Nov 27 23:59:59 2026 GMT',
+      fingerprint: 'F1:E9:DF:8C:2E:9B:8F:BF:B2:BA:10:84:B3:54:3E:9A:55:CC:0B:A5',
+      fingerprint256: '1D:9B:8F:ED:C7:B9:74:D1:4C:1F:BE:B6:A9:9B:1D:2B:07:DA:01:C4:DA:E0:E4:B1:64:E0:93:9E:34:71:85:2B',
+      fingerprint512: 'F6:04:3F:2B:D3:5F:6E:1B:0E:E5:64:E8:FA:19:3E:6F:F8:74:68:4E:08:1D:3D:D8:27:04:28:F0:DD:86:10:35:FF:3D:AD:EB:62:06:5C:C1:FB:FA:AF:C8:14:B3:09:68:C2:93:3B:6F:9D:1B:C8:8D:52:00:6E:A1:CF:E5:DB:32',
+      ext_key_usage: [ '1.3.6.1.5.5.7.3.1', '1.3.6.1.5.5.7.3.2' ],
+      serialNumber: '02F4E91255CD67CE6D71D5EE1BAB134C',
+      raw: Buffer(1760) [Uint8Array] [
+         48, 130,   6, 220,  48, 130,   5, 196, 160,   3,   2,   1,
+          2,   2,  16,   2, 244, 233,  18,  85, 205, 103, 206, 109,
+        113, 213, 238,  27, 171,  19,  76,  48,  13,   6,   9,  42,
+        134,  72, 134, 247,  13,   1,   1,  11,   5,   0,  48,  89,
+         49,  11,  48,   9,   6,   3,  85,   4,   6,  19,   2,  85,
+         83,  49,  21,  48,  19,   6,   3,  85,   4,  10,  19,  12,
+         68, 105, 103, 105,  67, 101, 114, 116,  32,  73, 110,  99,
+         49,  51,  48,  49,   6,   3,  85,   4,   3,  19,  42,  68,
+        105, 103, 105,  67,
+        ... 1660 more items
+      ],
+      asn1Curve: undefined,
+      nistCurve: undefined,
+      issuerCertificate: {
+        subject: [Object: null prototype] {
+          C: 'US',
+          O: 'DigiCert Inc',
+          CN: 'DigiCert Global G2 TLS RSA SHA256 2020 CA1'
+        },
+        issuer: [Object: null prototype] {
+          C: 'US',
+          O: 'DigiCert Inc',
+          OU: 'www.digicert.com',
+          CN: 'DigiCert Global Root G2'
+        },
+        subjectaltname: undefined,
+        infoAccess: [Object: null prototype] {
+          'OCSP - URI': [ 'http://ocsp.digicert.com' ],
+          'CA Issuers - URI': [ 'http://cacerts.digicert.com/DigiCertGlobalRootG2.crt' ]
+        },
+        ca: true,
+        modulus: 'CCF710624FA6BB636FED905256C56D277B7A12568AF1F4F9D6E7E18FBD95ABF260411570DB1200FA270AB557385B7DB2519371950E6A41945B351BFA7BFABBC5BE2430FE56EFC4F37D97E314F5144DCBA710F216EAAB22F031221161699026BA78D9971FE37D66AB75449573C8ACFFEF5D0A8A5943E1ACB23A0FF348FCD76B37C163DCDE46D6DB45FE7D23FD90E851071E51A35FED4946547F2C88C5F4139C97153C03E8A139DC690C32C1AF16574C9447427CA2C89C7DE6D44D54AF4299A8C104C2779CD648E4CE11E02A8099F04370CF3F766BD14C49AB245EC20D82FD46A8AB6C93CC6252427592F89AFA5E5EB2B061E51F1FB97F0998E83DFA837F4769A1',
+        exponent: '0x10001',
+        pubkey: Buffer(294) [Uint8Array] [
+           48, 130,   1,  34,  48,  13,   6,   9,  42, 134,  72, 134,
+          247,  13,   1,   1,   1,   5,   0,   3, 130,   1,  15,   0,
+           48, 130,   1,  10,   2, 130,   1,   1,   0, 204, 247,  16,
+           98,  79, 166, 187,  99, 111, 237, 144,  82,  86, 197, 109,
+           39, 123, 122,  18,  86, 138, 241, 244, 249, 214, 231, 225,
+          143, 189, 149, 171, 242,  96,  65,  21, 112, 219,  18,   0,
+          250,  39,  10, 181,  87,  56,  91, 125, 178,  81, 147, 113,
+          149,  14, 106,  65, 148,  91,  53,  27, 250, 123, 250, 187,
+          197, 190,  36,  48,
+          ... 194 more items
+        ],
+        bits: 2048,
+        valid_from: 'Mar 30 00:00:00 2021 GMT',
+        valid_to: 'Mar 29 23:59:59 2031 GMT',
+        fingerprint: '1B:51:1A:BE:AD:59:C6:CE:20:70:77:C0:BF:0E:00:43:B1:38:26:12',
+        fingerprint256: 'C8:02:5F:9F:C6:5F:DF:C9:5B:3C:A8:CC:78:67:B9:A5:87:B5:27:79:73:95:79:17:46:3F:C8:13:D0:B6:25:A9',
+        fingerprint512: '0A:25:C3:C3:36:45:96:51:C6:BE:37:E6:08:D4:5D:20:C5:00:BF:78:8C:71:5A:9D:92:F2:E0:29:FF:8B:E4:8F:A1:ED:0F:76:EC:59:56:F0:F7:FB:C8:3F:3E:75:61:DD:E1:96:9F:B2:8B:C4:2C:A0:75:68:4E:60:F0:A9:23:B3',
+        ext_key_usage: [ '1.3.6.1.5.5.7.3.1', '1.3.6.1.5.5.7.3.2' ],
+        serialNumber: '0CF5BD062B5602F47AB8502C23CCF066',
+        raw: Buffer(1228) [Uint8Array] [
+           48, 130,   4, 200,  48, 130,   3, 176, 160,  3,   2,   1,
+            2,   2,  16,  12, 245, 189,   6,  43,  86,  2, 244, 122,
+          184,  80,  44,  35, 204, 240, 102,  48,  13,  6,   9,  42,
+          134,  72, 134, 247,  13,   1,   1,  11,   5,  0,  48,  97,
+           49,  11,  48,   9,   6,   3,  85,   4,   6, 19,   2,  85,
+           83,  49,  21,  48,  19,   6,   3,  85,   4, 10,  19,  12,
+           68, 105, 103, 105,  67, 101, 114, 116,  32, 73, 110,  99,
+           49,  25,  48,  23,   6,   3,  85,   4,  11, 19,  16, 119,
+          119, 119,  46, 100,
+          ... 1128 more items
+        ],
+        asn1Curve: undefined,
+        nistCurve: undefined,
+        issuerCertificate: <ref *1> {
+          subject: [Object: null prototype] {
+            C: 'US',
+            O: 'DigiCert Inc',
+            OU: 'www.digicert.com',
+            CN: 'DigiCert Global Root G2'
+          },
+          issuer: [Object: null prototype] {
+            C: 'US',
+            O: 'DigiCert Inc',
+            OU: 'www.digicert.com',
+            CN: 'DigiCert Global Root G2'
+          },
+          subjectaltname: undefined,
+          infoAccess: undefined,
+          ca: true,
+          modulus: 'BB37CD34DC7B6BC9B26890AD4A75FF46BA210A088DF51954C9FB88DBF3AEF23A89913C7AE6AB061A6BCFAC2DE85E092444BA629A7ED6A3A87EE054752005AC50B79C631A6C30DCDA1F19B1D71EDEFDD7E0CB948337AEEC1F434EDD7B2CD2BD2EA52FE4A9B8AD3AD499A4B625E99B6B00609260FF4F214918F76790AB61069C8FF2BAE9B4E992326BB5F357E85D1BCD8C1DAB95049549F3352D96E3496DDD77E3FB494BB4AC5507A98F95B3B423BB4C6D45F0F6A9B29530B4FD4C558C274A57147C829DCD7392D3164A060C8C50D18F1E09BE17A1E621CAFD83E510BC83A50AC46728F67314143D4676C387148921344DAF0F450CA649A1BABB9CC5B133832985',
+          exponent: '0x10001',
+          pubkey: Buffer(294) [Uint8Array] [
+             48, 130,   1,  34,  48,  13,   6,   9,  42, 134,  72, 134,
+            247,  13,   1,   1,   1,   5,   0,   3, 130,   1,  15,   0,
+             48, 130,   1,  10,   2, 130,   1,   1,   0, 187,  55, 205,
+             52, 220, 123, 107, 201, 178, 104, 144, 173,  74, 117, 255,
+             70, 186,  33,  10,   8, 141, 245,  25,  84, 201, 251, 136,
+            219, 243, 174, 242,  58, 137, 145,  60, 122, 230, 171,   6,
+             26, 107, 207, 172,  45, 232,  94,   9,  36,  68, 186,  98,
+            154, 126, 214, 163, 168, 126, 224,  84, 117,  32,   5, 172,
+             80, 183, 156,  99,
+            ... 194 more items
+          ],
+          bits: 2048,
+          valid_from: 'Aug  1 12:00:00 2013 GMT',
+          valid_to: 'Jan 15 12:00:00 2038 GMT',
+          fingerprint: 'DF:3C:24:F9:BF:D6:66:76:1B:26:80:73:FE:06:D1:CC:8D:4F:82:A4',
+          fingerprint256: 'CB:3C:CB:B7:60:31:E5:E0:13:8F:8D:D3:9A:23:F9:DE:47:FF:C3:5E:43:C1:14:4C:EA:27:D4:6A:5A:B1:CB:5F',
+          fingerprint512: '56:22:20:7E:1B:A2:85:F1:72:75:6F:60:19:AF:92:AC:80:8E:D6:32:86:E2:4D:FE:CC:1E:79:87:3F:B5:D1:40:F1:CE:B7:13:3F:24:76:E8:9A:5F:75:F7:11:F9:81:3A:9F:BB:8F:D5:28:7F:64:AD:FD:CC:53:B8:64:F9:BD:C5',
+          ext_key_usage: undefined,
+          serialNumber: '033AF1E6A711A9A0BB2864B11D09FAE5',
+          raw: Buffer(914) [Uint8Array] [
+             48, 130,   3, 142, 48, 130,   2, 118, 160,   3,   2,   1,
+              2,   2,  16,   3, 58, 241, 230, 167,  17, 169, 160, 187,
+             40, 100, 177,  29,  9, 250, 229,  48,  13,   6,   9,  42,
+            134,  72, 134, 247, 13,   1,   1,  11,   5,   0,  48,  97,
+             49,  11,  48,   9,  6,   3,  85,   4,   6,  19,   2,  85,
+             83,  49,  21,  48, 19,   6,   3,  85,   4,  10,  19,  12,
+             68, 105, 103, 105, 67, 101, 114, 116,  32,  73, 110,  99,
+             49,  25,  48,  23,  6,   3,  85,   4,  11,  19,  16, 119,
+            119, 119,  46, 100,
+            ... 814 more items
+          ],
+          asn1Curve: undefined,
+          nistCurve: undefined,
+          issuerCertificate: [Circular *1]
+        }
+      }
+    }
+  }
+}
+
+Node.js v24.11.1
+

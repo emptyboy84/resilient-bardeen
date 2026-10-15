@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+& : 'C:\Users\lg\AppData\Local\Programs\Python\Python313\python.exe' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � 
+�ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� 
+�õ�Ͻʽÿ�.
+�ġ �:1 �:3
++ & "C:\Users\lg\AppData\Local\Programs\Python\Python313\python.exe" -c ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\lg\App...n313\python.exe:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

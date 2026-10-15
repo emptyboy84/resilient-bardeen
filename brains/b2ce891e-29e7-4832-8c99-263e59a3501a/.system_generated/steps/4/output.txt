@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_missing_phone_number
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-14  � 11:27                brain_logs                                                           
+d-----      2026-10-14  � 11:27                data                                                                 
+d-----      2026-10-14  � 11:27                node_modules                                                         
+-a----      2026-10-14  � 11:27             47 .gitignore                                                           
+-a----      2026-10-14  � 11:27            859 AGENTS.md                                                            
+-a----      2026-10-14  � 11:27         134720 all_500_factchecked.tsv                                              
+-a----      2026-10-14  � 11:27         138057 all_500_verified.tsv                                                 
+-a----      2026-10-14  � 11:27          25920 article_test.html                                                    
+-a----      2026-10-14  � 11:27         128152 bizno_filtered_result.csv                                            
+-a----      2026-10-14  � 11:27         130093 bizno_filtered_result.tsv                                            
+-a----      2026-10-14  � 11:27         130977 bizno_filtered_result_nice.csv                                       
+-a----      2026-10-14  � 11:27         130093 bizno_filtered_result_nice.tsv                                       
+-a----      2026-10-14  � 11:27          24690 bizno_test.html                                                      
+-a----      2026-10-14  � 11:27         110584 current_pasted_batch.tsv                                             
+-a----      2026-10-14  � 11:27         138448 merged_500_perfect.tsv                                               
+-a----      2026-10-14  � 11:27          41125 package-lock.json                                                    
+-a----      2026-10-14  � 11:27             85 package.json                                                         
+-a----      2026-10-14  � 11:27          17011 query_test.html                                                      
+-a----      2026-10-14  � 11:27          36805 rows_11847_12000_16col.tsv                                           
+-a----      2026-10-14  � 11:27          37115 rows_11847_12000_17col.tsv                                           
+-a----      2026-10-14  � 11:27          38655 rows_11847_12000_verified.tsv                                        
+-a----      2026-10-14  � 11:27         192164 user_pasted_rows.tsv                                                 
+-a----      2026-10-14  � 11:27           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+-a----      2026-10-14  � 11:27         169882 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf                  
+
+
+

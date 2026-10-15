@@ -1,0 +1,1 @@
+Encountered error in step execution: Failed to fetch document content at https://sankun.com/company/3565017260/%ED%83%91%ED%94%8C%EB%9E%9C%ED%8A%B8(%EC%A3%BC): failed to get URL https://sankun.com/company/3565017260/%ED%83%91%ED%94%8C%EB%9E%9C%ED%8A%B8(%EC%A3%BC): status code 401

@@ -1,0 +1,18 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-610
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-610.log
+Log output:
+<truncated 14 lines>
+AKAO FOUND 12] Seq 402 (주)취업인 -> 051-512-0055 (부산 금정구 금정로 77-1)
+[KAKAO FOUND 13] Seq 413 (주)비전파크 -> 010-4226-2068 (부산 금정구 부산대학로50번길 68)
+[KAKAO FOUND 14] Seq 457 (주)에이아이로직스 -> 1544-4136 (부산 중구 해관로 65)
+Progress: 88 / 2542 | Found new: 11, Upgraded: 3
+[KAKAO FOUND 15] Seq 505 (주)소나무엔터테인먼트 -> 010-6880-7747 (부산 부산진구 중앙대로 630)
+[KAKAO FOUND 16] Seq 516 (주)제로 -> 051-808-8602 (부산 부산진구 서전로 62)
+[KAKAO FOUND 17] Seq 525 (주)롱뷰멤버스 -> 010-7203-5267 (부산 해운대구 해운대해변로298번길 24)
+[KAKAO FOUND 18] Seq 533 (주)메디펀 -> 070-8279-8507 (부산 남구 전포대로 133)
+[KAKAO FOUND 19] Seq 550 (주)마인드플러스 -> 1522-7236 (부산 해운대구 센텀2로 28)
+[KAKAO FOUND 20] Seq 546 아리온스튜디오 -> 010-9663-2546 (부산 수영구 연수로275번길 18-1)
+Progress: 168 / 2542 | Found new: 21, Upgraded: 6
+
+Last progress: 3s ago

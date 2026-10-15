@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+{
+  rowNum: 19201,
+  author: '배현명',
+  status: '',
+  company: '한울기업',
+  bizno: '7601400870',
+  ceo: '이동진',
+  zip: '50875',
+  addr: '경남 김해시 진례면 고모로526번길 42-5 (고모리)',
+  tel: '055-312-0061',
+  fax: '0507-351-9001',
+  homepage: '',
+  email: '',
+  employees: '4명',
+  industry: '기타 섬유, 의복 및 가죽 가공 기계 제조업',
+  corpNo: '',
+  closingMonth: '',
+  catLarge: '제조업',
+  catMid: '기타 기계 및 장비 제조업',
+  catSmall: '일반 목적용 기계 제조업'
+}
+

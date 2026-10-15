@@ -1,0 +1,20 @@
+
+The command exited with code 1.
+Output:
+wc : 'wc' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� 
+Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:1
++ wc -l merged_500_perfect.tsv; head -n 5 merged_500_perfect.tsv
++ ~~
+    + CategoryInfo          : ObjectNotFound: (wc:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+head : 'head' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ�
+� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:31
++ wc -l merged_500_perfect.tsv; head -n 5 merged_500_perfect.tsv
++                               ~~~~
+    + CategoryInfo          : ObjectNotFound: (head:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

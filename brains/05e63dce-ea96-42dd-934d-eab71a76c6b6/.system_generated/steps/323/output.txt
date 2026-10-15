@@ -1,0 +1,67 @@
+<h2>Written Sheet</h2>
+<h2>Sheet Data</h2>
+<table>
+<tr><th></th><th>E</th></tr>
+<tr><th>2</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A2, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A2&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>3</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A3, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A3&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>4</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A4, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A4&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>5</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A5, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A5&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>6</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A6, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A6&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>7</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A7, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A7&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>8</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A8, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A8&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>9</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A9, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A9&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>10</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A10, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A10&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>11</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A11, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A11&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>12</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A12, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A12&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>13</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A13, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A13&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>14</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A14, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A14&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>15</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A15, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A15&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>16</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A16, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A16&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>17</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A17, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A17&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>18</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A18, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A18&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>19</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A19, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A19&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>20</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A20, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A20&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>21</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A21, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A21&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>22</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A22, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A22&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>23</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A23, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A23&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>24</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A24, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A24&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>25</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A25, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A25&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>26</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A26, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A26&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>27</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A27, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A27&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>28</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A28, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A28&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>29</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A29, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A29&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>30</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A30, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A30&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>31</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A31, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A31&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>32</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A32, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A32&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>33</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A33, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A33&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>34</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A34, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A34&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>35</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A35, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A35&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>36</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A36, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A36&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>37</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A37, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A37&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>38</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A38, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A38&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>39</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A39, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A39&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>40</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A40, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A40&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>41</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A41, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A41&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>42</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A42, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A42&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>43</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A43, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A43&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>44</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A44, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A44&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>45</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A45, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A45&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>46</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A46, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A46&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>47</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A47, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A47&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>48</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A48, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A48&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>49</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A49, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A49&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>50</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A50, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A50&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>51</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A51, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A51&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>52</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A52, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A52&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>53</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A53, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A53&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>54</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A54, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A54&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+<tr><th>55</th><td>=IFERROR(INDEX(직원정보!$B$1:$B$21, MATCH(A55, 직원정보!$A$1:$A$21, 0)), INDEX(직원정보!$B$1:$B$21, MATCH(&amp;#34;*&amp;#34;&amp;amp;A55&amp;amp;&amp;#34;*&amp;#34;, 직원정보!$A$1:$A$21, 0)))</td></tr>
+</table>
+<h2>Metadata</h2>
+<ul>
+<li>backend: excelize</li>
+<li>sheet name: 복지몰구매내역</li>
+<li>read range: E2:E55</li>
+</ul>
+<h2>Notice</h2>
+<p>Values wrote successfully.</p>

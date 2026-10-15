@@ -1,0 +1,17 @@
+The search for "site:gamejob.co.kr "세연소프트" OR "성병철"" returned the following summary:
+게임잡(Gamejob)에 등록된 **세연소프트 주식회사**의 기업 정보는 다음과 같습니다[1]:
+
+* **기업명:** 세연소프트 주식회사[1]
+* **대표자명:** 성병철[1]
+* **설립연도:** 2015년[1]
+* **사원수:** 4명[1]
+* **기업형태:** 벤처기업[1]
+* **자본금:** 1,000만 원[1]
+* **매출액:** 5억 원[1]
+* **주요 사업내용:** 모바일 게임 개발[1]
+* **대표 게임명:** 파스텔파티, 릴리스타일, 릴리다이어리, 파스텔프렌즈, 릴리스토리, 파스텔걸[1]
+* **위치:** 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠컴플렉스 9층 917호[1]
+* **공식 홈페이지:** http://www.seyeonsoft.kr[1]
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-tmEztCGxJ37LdLYqOMnpiUx6X1216Aqo-29fsPlUsSpLjalw4bOT-PgNW1p2zP1SuuKLjHhPN90RT0g4OQwgDku4ebkEcjMQoxD6aukqQ4PpLzFFWttraQFwB2AUu5Z_xoYF7Irpw==)

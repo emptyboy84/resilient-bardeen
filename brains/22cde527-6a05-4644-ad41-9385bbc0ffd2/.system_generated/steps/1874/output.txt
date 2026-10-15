@@ -1,0 +1,42 @@
+
+The command exited with code 0.
+Output:
+<truncated 482 lines>
+    '<link href="/sri_css/pattern.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/header_default.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/gnb_default_override.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/common_ui_keeping.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/components.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/etc.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/company_view.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/sri_css/powerlink.css?v=20260910103236" media="all" rel="stylesheet" type="text/css" >\n' +
+    '<link href="/favicon.ico?ver=3" rel="favicon" >\n' +
+    '<link href="/favicon.ico?ver=3" rel="icon" type="image/x-icon" >\n' +
+    '<link href="/favicon.ico?ver=3" rel="shortcut icon" type="image/x-icon" >        <script type="text/javascript" src="//www.saraminimage.co.kr/js/libs/jquery-1.11.1.min.js"></script>\n' +
+    '    <script type="text/javascript">var $j = jQuery.noConflict();</script>\n' +
+    '    <script type="text/javascript" src="/js/libs/saramin/common.js?v=20260910103236"></script>\n' +
+    '    <!--[if lt IE 9]> <script type="text/javascript" src="//www.saramin.co.kr/js/html5shiv.min.js"></script><![endif]-->\n' +
+    '    <script type="text/javascript" src="//www.saraminimage.co.kr/js/libs/jquery.tinyscrollbar.min.js"></script>\n' +
+    '    <script type="text/javascript" src="/js/ui-component.js?v=20260910103236"></script>\n' +
+    '    <script type="text/javascript" src="/js/layout/default-layout.js?v=20260910103236"></script>\n' +
+    '    <script type="text/javascript" src="//www.saraminimage.co.kr/js/libs/bxslider-4-4.2.12/sri_jquery.bxslider.js"></script>\n' +
+    '<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js?v=20260910103236"></script>\n' +
+    '<script type="text/javascript" src="https://ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js"></script>\n' +
+    `<script type="text/javascript" src="/js/powerlink_ui.js?v=20260910103236"></script>        <script type='text/javascript'>\n` +
+    '    var nestads = window.nestads || { cmd: [] };\n' +
+    '\n' +
+    "    document.addEventListener('DOMContentLoaded', function () {\n" +
+    "        var useSSL = 'https:' === document.location.protocol;\n" +
+    "        var $script = document.createElement('script');\n" +
+    "        $script.src = (useSSL ? 'https:' : 'http:') + '//static.nestads.com/sdk/js/v2.9.3/nestads-sdk.js';\n" +
+    '        document.body.appendChild($script);\n' +
+    '    });\n' +
+    '</script>\n' +
+    '\n' +
+    "<script type='text/javascript'>\n" +
+    '    (function() {\n' +
+    '        nestads.cmd.push(() => {\n' +
+    '            const scriptList = ([{"inventory_code":"recruit-view_728x90","location_id":"9af1ea08-8d9f-44bd-a927-429801a8eab3","width":"728","height":"90"},{"inventory_code":"area-list_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"etc_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"CS_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"profession-list_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"logout_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"memcom_1260x60","location_id":"202cd25c-486d-43ce-bc0e-35e124291660","width":"1200","height":"57"},{"inventory_code":"member_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"talent_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"successHelper_728x90","location_id":"9579c10f-0444-4828-a538-23af02ff5716","width":"728","height":"90"},{"inventory_code":"companyinfo_240x90","location_id":"b374fa93-e44b-422e-bac1-f2da87ee3260","width":"240","height":"90"},{"inventory_code":"hiring_applicatns_258x136","location_id":"043b3575-153a-474a-aa2e-6a639a7d4ac1","width":"258","height":"136"},{"inventory_code":"hiring_home_main_big_894x64","location_id":"513ae9ea-18fa-4d77-8395-edcb6c337ff4","width":"894","height":"64"},{"inventory_code":"hiring_home_main_wing_160x160","location_id":"01094d82-845e-45c0-ac78-aeb2614d259a","width":"160","height":"160"},{"inventory_code":"Main-Big_543x113","location_id":"div-gpt-ad-1425521803564-0","width":"543","height":"113"},{"inventory_code":"big_1260x60","location_id":"a0bd30f0-2df2-4a6e-b802-afa8f746b539","width":"1260","height":"60"},{"inventory_code":"Main-image_230x142","location_id":"div-gpt-ad-1426837722822-0","width":"230","height":"142"},{"inventory_code":"box_300x216","location_id":"5fc011a1-5f2a-4190-8dcd-8d01d8a61382","width":"300","height":"216"},{"inventory_code":"recruit-view_250x250","location_id":"c9b4e321-23a9-4a0d-a6a8-72341ae1594f","width":"250","height":"250"},{"inventory_code":"area-list_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"1000-list_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337\\t","width":"120","height":"600"},{"inventory_code":"rapid-view_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337\\t","width":"120","height":"600"},{"inventory_code":"etc_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"CS_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"category-list_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"profession-list_120x600","location_id":"1a886bfa-6588-4f06-a3e0-902513b9d990","width":"120","height":"600"},{"inventory_code":"logout_120x600","location_id":"1a886bfa-6588-4f06-a3e0-902513b9d990","width":"120","height":"600"},{"inventory_code":"memcom_120x600","location_id":"1a886bfa-6588-4f06-a3e0-902513b9d990","width":"120","height":"600"},{"inventory_code":"member_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"recruit-view_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"talent_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"etc_office_worker_in_120x600","location_id":"b05395ca-dbfd-42ab-9d44-b8bcf6092337","width":"120","height":"600"},{"inventory_code":"area-list_120x240","location_id":"div-gpt-ad-1511846653839-0","width":"120","height":"240"},{"inventory_code":"1000-list_120x240","location_id":"div-gpt-ad-1511847708022-0","width":"120","height":"240"},{"inventory_code":"etc_120x240","location_id":"div-gpt-ad-1511846339912-0","width":"120","height":"240"},{"inventory_code":"CS_120x240","location_id":"div-gpt-ad-1511845587070-0","width":"120","height":"240"},{"inventory_code":"category-list_120x240","location_id":"div-gpt-ad-1511845706684-0","width":"120","height":"240"},{"inventory_code":"profession-list_120x240","location_id":"div-gpt-ad-1511846020570-0","width":"120","height":"240"},{"inventory_code":"memcom_120x240","location_id":"div-gpt-ad-1550543155169-0","width":"120","height":"240"},{"inventory_code":"member_120x240","location_id":"div-gpt-ad-1553056482914-0","width":"120","height":"240"},{"inventory_code":"recruit-view_120x240","location_id":"div-gpt-ad-1511933728215-0","width":"120","height":"240"},{"inventory_code":"talent_120x240","location_id":"div-gpt-ad-1553056822382-0","width":"1'... 261839 more characters,
+  groups: undefined
+]
+

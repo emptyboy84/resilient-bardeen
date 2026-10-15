@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+=== Found in: 부산기업_전화번호검증_완료본_20261014.txt
+=== Found in: 크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+

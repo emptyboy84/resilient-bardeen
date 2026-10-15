@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+=== AUDITING [개인 리스트] ===
+Total rows: 1023
+Header: [ <1 empty item>, '순번', '사업체명', '연락처', '업종분류', '컨택결과', '폐업 날짜', '비고' ]
+Empty names: 0
+Invalid closed dates: 0
+Categories: {
+  '1인 미디어': 268,
+  '방송': 40,
+  '출판': 183,
+  '음악': 177,
+  '만화': 141,
+  '공연': 111,
+  '영화': 51,
+  '애니메이션': 2,
+  '광고': 13,
+  '캐릭터': 11,
+  '콘텐츠솔루션': 11,
+  '지식정보': 10,
+  '게임': 4
+}
+Contact Results: {}
+

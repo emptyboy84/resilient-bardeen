@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+File: C:/Users/lg/Downloads/부산_CT산업_사업자번호_확정기입현황_260914.xlsx
+Sheet: 진행현황 요약 Rows: 21
+Matches for sample companies: 0
+File: C:/Users/lg/Downloads/부산_CT산업_실태조사_사업자번호_보완_260914.xlsx
+Sheet: 기업체 리스트 Rows: 2469
+Matches for sample companies: 0
+File: C:/Users/lg/Downloads/부산_CT산업_실태조사_전열데이터_보완_260915.xlsx
+Sheet: 기업체 리스트 Rows: 2314
+Matches for sample companies: 0
+File: C:/Users/lg/Downloads/최종검수_결과보고_부산CT산업_실태조사_모집단현행화.xlsx
+Sheet: 검수요약 Rows: 62
+Matches for sample companies: 0
+File: C:/Users/lg/Downloads/파란색_사업자번호행_매출액_추출결과.xlsx
+Sheet: 요약 Rows: 49
+Matches for sample companies: 0
+File: C:/Users/lg/Downloads/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명 (4).xlsx
+Sheet: 기업체 리스트 Rows: 2469
+Matches for sample companies: 0
+

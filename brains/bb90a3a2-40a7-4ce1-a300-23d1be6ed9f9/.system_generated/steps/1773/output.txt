@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:57
++   const links = html.match(/\/company-info\/view[^\"]+/g) || [];
++                                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:59
++   const links = html.match(/\/company-info\/view[^\"]+/g) || [];
++                                                           ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:10 �:63
++   const links = html.match(/\/company-info\/view[^\"]+/g) || [];
++                                                               ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:11 �:34
++   console.log('Saramin links:', [...new Set(links)]);
++                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:11 �:32
++   console.log('Saramin links:', [...new Set(links)]);
++                                ~
+',' �ڿ� � �ϴ�.
+�ġ �:11 �:33
++   console.log('Saramin links:', [...new Set(links)]);
++                                 ~~~~~~~
+� �Ǵ� � �ġ � '[...new' �ū�Դϴ�.
+�ġ �:11 �:32
++   console.log('Saramin links:', [...new Set(links)]);
++                                ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:11 �:52
++   console.log('Saramin links:', [...new Set(links)]);
++                                                    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:14 �:34
++     const dRes = await fetch(dUrl, { headers: { 'User-Agent': 'Mozill ...
++                                  ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:14 �:61
++     const dRes = await fetch(dUrl, { headers: { 'User-Agent': 'Mozill ...
++                                                             ~
+� �Ǵ� � �ġ � ':' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

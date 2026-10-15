@@ -1,0 +1,30 @@
+The search for "site:bizno.net "임은선" OR site:bizno.net "샐리북" OR (site:bizno.net "세종인쇄" "부산")" returned the following summary:
+요청하신 키워드들에 대해 검색한 결과는 다음과 같습니다.
+
+### 1. 임은선
+비즈노(bizno.net) 및 관련 자료에서 확인되는 '임은선' 대표자 정보는 다음과 같습니다.
+*   **바이너리브릿지 주식회사:** 부산광역시 연제구 소재, 화물운송 중개 및 전자상거래 소매업[1].
+*   **선 스포츠타운:** 경기도 포천시 소재, 실내 스크린 골프연습장 운영[2].
+*   **하하호호 스토어:** 충북 청주 소재 (현재 폐업 상태), 전자상거래업[3].
+*   **제이시스템 주식회사:** 충청남도 소재[4].
+*   참고로, 최근 '샐리북'이라는 이름의 전자책 저자로 '임은선'이라는 인물이 확인되나[5], 해당 저자와 사업자 임은선 씨가 동일인인지에 대한 공식적인 연관 정보는 확인되지 않습니다.
+
+### 2. 샐리북
+*   '샐리북'은 특정 전자책 저자(임은선)의 저작물 출판과 관련된 키워드로 검색되나[5], 비즈노(bizno.net) 내에서 별도의 사업자 등록 정보는 검색되지 않습니다.
+
+### 3. 세종인쇄 (부산)
+*   '세종인쇄'라는 명칭은 전국적으로 다수 존재합니다.
+*   **세종특별자치시:** 사단법인 공감과어울림이 운영하는 '세종인쇄정보'라는 시설이 존재합니다[6][7][8].
+*   **부산/경남 지역:** '세종인쇄출판'이라는 명칭의 업체가 경상남도 김해시 등에 존재하며, 관련하여 일자리안정자금 체납 등으로 공시송달 대상자에 포함된 이력이 있습니다[9].
+*   비즈노 검색 결과상 부산 지역에 특화된 '세종인쇄'라는 업체가 비즈노에 별도로 등재되어 있지는 않습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYbVwWIZF9kKOAlxlIK1s_P56dL94eo7GgRpr_q5T-TcNi4xuHJb6vXTM0sbUNfI6sxTOBC4OE_uRjpDZ__KzIno7Wp0F9QmNBMoXlgyWNqg-n7PVbSG0Jlw==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3q9JZKoaKZYdFdMDQwHrwcmqOlM6FRNt-6fxMTdTSj8HR1zCNmXSftHU57uG2Zupr-43gx6Gsb74Cl0brsaGh_Py_UaXTFezpt60b4rmfc24hOCSqmgJKdQ==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMNrMoqwgzUXxrULDZoTtT5u25sL7p7LmignESKhi--9eMJ_ewQocO9zL-9HlwTFAV210bSsoZMDTgt5zUziHwSTvN15zTdvVXJM1fHIwXKDQsiOH6liyGeQ==)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESP_4V_-0y2BAUC5Dmq7BX4kBUvC8EKQMnpqZiSMTBbXcUS4147PvAvKbXizSg65s2g4CXe5hj4cQQvGpfsJbR6IQTWNqcWC6lrdqanb5yqJY9N9WBN4FlMR9_k40=)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYF4DN1GCsfnD_cV6BNmtyw1w5EBXMae6qbt0w5HhEPSvv9fsFGZ2WRkW8sH9D-GJnDBVLhIlNWkoIHFiC2Xef6RAl2oZZo01Xbk5HTtOYzGtwZfMTveG1bKU1gdQQw7B3EImnRU46mtfc38_kZdlW2zuAQklDlOd9ofFJNwEnRAZ8oDs6FXTojoUrn8meWQ==)
+[6] [kead.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8txgsnBtAnjeH4ha0rfQ_qSb11YUugBOcYpo52v4haXP-BAEeNqqB0Fio5ItoWb67ACum-oaFVDOaJS71Ho68DtV3vFda_g6sCps4-Gn36l5-Kq7ZRiL4k_XzaMj_KXWZFN_wjgF_pO1Z)
+[7] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi24OqB-KKdEtahdT0BtQqdPjPIgnTljYYpwtqGjqBkY4fMEc217L85d7UNdc6atgz8TwykzKs_ptkbYB9rygO51rXZX4vunGqJqGoMb_H5yUD_j83bE-qdEaRUHMmIMVBeGLoCoK4Xd9JPHDofiZA1mGMterIbyTfjiAtwYss-toucIF6V9zAoN3bwaSKVhXU1nhijVyj)
+[8] [goods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGusrNd9bQrXBSd9UBD-bChZ8Og_XTwWDnloi1tPyCdtmnKsA_Kso77YqNqOavG9P25rOqC1MeivINbv63FKy-a1xEro66hltL_R6R6bjAui-nJE8y37UEnc3Kbmhq4H_uHJEtt5B9j_3o5N7lkAD3bCHfR09Is-Wj2P0zJ5C78emgdj0XG)
+[9] [moel.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonQ4J2qLku9_cgzAIqzf_-KKK95BcFzOmfMj4Dn8rq5ll0JmWCyQ-BAV2QJYKB9ZRPX778ZYVp5i9TF09Hmj3lHcIU3-CavUr28dwzS9ZtD3t3gZIRj60SVCyhkBH3d9jVw3XydazUX8QDNDe6YqzcTGgvt8iYTEIU2GRrwP6T15ExbMXeqaWZjcZM6Au1LX-7-_lmHSj_sH7GW5nTccW5k7bNQMG)

@@ -1,0 +1,24 @@
+The search for "site:bizno.net "분포로 113"" returned the following summary:
+비즈노(bizno.net)에서 검색된 '부산광역시 남구 분포로 113'(용호동, 엘지메트로시티) 소재의 주요 사업체 정보는 다음과 같습니다.
+
+*   **넥스라이즈**: 부가가치세 일반과세자[1]
+*   **(주)국민은행메트로시티지점**: 부가가치세 면세사업자[2]
+*   **최정화소아과**: 보건업 (일반의원)[3]
+*   **주식회사 리치인베스트**: 부동산업[4]
+*   **지에스(GS)25 메트로3호점**: 체인화 편의점[5][6]
+*   **주식회사 유한홀딩스**: 의료용 기기 제조업 (안경테, 선글라스 등)[7]
+*   **동국씨엠부산어린이집**: 보육시설 운영업[8]
+*   **대우감정평가사사무소**: 감정평가사사무소[9]
+
+이 외에도 해당 주소지(엘지메트로시티 단지 내 상가 등)에는 다양한 사업체가 등록되어 있습니다. 더 자세한 정보는 [비즈노](https://bizno.net) 사이트에서 직접 검색하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1A7aZkHVz7jIoAfHO4TWtbx-p-Y7C8jSRGPN3FAX_Z003GBu311o_xEmh9NH3-vXtuI6vmhkba9HGG7GuHrRxTQa9_TCkHDp6csJY0DkDCNuoxZpJxo2vpg==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvQN4x-0-4KKQaj5hyjZgDBwZCPcKl3fTcqUIyVF06Y8vkP7pJdS-Qv5QlUeibBMZy43syjgGQ57QTMHnK7ZBe3OeQHZTSK0ksNMvoOzFRIbUC11LUQNV7gQ==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGENjYIDKAhuHtHljKsWi0jABS3APM8l_x7zafRiP-2QsxMY8kagJye0M46y_h2f-goOBznUH_olafxhzI-EYwT3ZST6cZhJescpS-5CZLLRB_FqLIZl38RA==)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjSRnTsg5L99PZckNlchEVQ2QYB8E0MuDCYn8tPckmxcf2Ggp3HX6SqKAD5YZc9K2m3nzJBmqdhbgLtpjxUCJeE8Voe1_C-f07LOO3HU9hb9i01SruiN_ZZA==)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5CIQNXNtiF0FUpjxLb33wwRp1_r0NpNTTq2ZRlLtUm0gfxAh1amaUimtJhiSNxVHXbeQdB9kUe-na-IkdtFb5Vm6mCECzamF9K9rdk7Q3v8Wi0TDdRK2Nw==)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5CIQNXNtiF0FUpjxLb33wwRp1_r0NpNTTq2ZRlLtUm0gfxAh1amaUimtJhiSNxVHXbeQdB9kUe-na-IkdtFb5Vm6mCECzamF9K9rdk7Q3v8Wi0TDdRK2Nw==)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpfUsmBUVJ1zZ0KVbfzC4WNKxfsBYd16KkNQLy8gBq1F1HbdzOwSqFAJhBIG5ywbJoLrB4q7Uf_tOLZVXrJ27YXXDz9wBZBHijm6EgqaIYn6R_5TfyzaKQ6w==)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-w3rrvTJSl5wCd0kWWz0MKy1OBESmKBA6UyucHh2G6LyESMazxrHFM4GIi7Gn5cUU23cfZVUsik7FRyh-KLqe9X7s68AUaVarwVpQEZCs2FHkOfgyV_ayhg==)
+[9] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjd3JRfJSGtGKXy5Ep9J0OAIEZ9VwYs0UzpG8TjqBazpxAkKtrf6TRzNEyXhNG8mkws4mylzwZMYIv9Qk3568jFG61fxKlO6VbiV8u4UtxCL4jov8MubIKBBLKRCeMWWY=)

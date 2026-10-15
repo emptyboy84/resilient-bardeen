@@ -1,0 +1,40 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\check_mcst.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -11,10 +11,30 @@
+ }
+ 
+ async function main() {
+-  const html = await fetchUrl('https://book.mcst.go.kr/html/main.php');
+-  const m = html.match(/name="search_type"[^>]*>([\s\S]*?)<\/select>/);
+-  if (m) {
+-    console.log('search_type options:', m[1]);
++  const params = new URLSearchParams({
++    search_area: '',
++    search_state: '13',
++    search_kind: '1',
++    search_type: '1',
++    search_word: '비전조이'
++  });
++  const searchUrl = 'https://book.mcst.go.kr/html/searchList.php?' + params.toString();
++  console.log('Querying:', searchUrl);
++  const html = await fetchUrl(searchUrl);
++  
++  // Find all searchView links
++  const links = [...html.matchAll(/href="(searchView\.php\?[^"]+)"/g)];
++  console.log('Found links:', links.map(l => l[1]));
++
++  for (const l of links) {
++    const detailUrl = 'https://book.mcst.go.kr/html/' + l[1].replace(/&amp;/g, '&');
++    console.log('\n--- Detail:', detailUrl);
++    const detailHtml = await fetchUrl(detailUrl);
++    // strip tags or print table
++    const tableMatch = detailHtml.match(/<table[\s\S]*?<\/table>/);
++    if (tableMatch) {
++      console.log(tableMatch[0].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' '));
++    }
+   }
+ }
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

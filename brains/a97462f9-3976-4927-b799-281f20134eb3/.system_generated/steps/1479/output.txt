@@ -1,0 +1,15 @@
+The search for "쿠키딜 기업정보 OR 사업자등록번호" returned the following summary:
+'쿠키딜(CookieDeal)'을 운영하는 기업에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 주식회사 프렉탈테크놀로지 (Fractal Technology)[1]
+*   **사업자등록번호:** 131-86-73816[2]
+*   **주요 서비스:** AI 기반 중소기업 M&A 중개 플랫폼 및 법인영업 지원 앱 '쿠키딜'[3][1][4]
+*   **기업 개요:** 프렉탈테크놀로지는 AI 기술을 활용하여 중소기업 M&A 과정의 복잡한 절차를 자동화하고 거래 효율성을 높이는 플랫폼 기업입니다[3][5]. 앤틀러코리아, 스프링캠프 등으로부터 투자를 유치한 바 있습니다[3][5].
+*   **본사 소재지:** 서울특별시 마포구 마포대로 122, 13층 (공덕동)[2]
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0GJ83QXZPPSciweHd0K-y0Id4gwVZvu4aQyoSnyYBBNhmuIAxou6BGzqvfkye3Fs29wy0_2PCDceOLjXOlz5tCc-KcByG4EBQb5Va3HTKYXkP_8KiJhdB)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPXvBg9t5UbRWQN7F9va7Bhc5qbX0GzbEypQXHFQystLhjtDYrgkH8qWXtga0l3RsOwHSlOyLH30-NBJlcruQ_KI7R16dsRPq61DVZz-SfOcTH5xAjyWlnh1IKnM0nrpG1z-BWgibHEQmhaJ8wa4qeIuG70HndppKh6gU=)
+[3] [groupby.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqXZXlDQjwhCJ-qfhTyxEKiFwbMhpsEuK3UD3T1BCH5Ecw-dQ-aqGa0kgmRllegQucFHVEKMO1niiOoaRLzfk1-jSi5cYMVtRop0Z3hUUM0hJ4J4SMFw==)
+[4] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLjgPfJfp_AehdRRBTPaBoO6kNBR9ddNFWjWrx-OJS5A1sRChl62R5hIA5HvuZ3ON1EjKNHItjfqz3JCca_AHk2B4Nhoon63V71b-q5uYmvINNDIcgIyVO4CVd7oZBiTM-ijx4G2Yq7H0Pyb3CSdHf0lC5B-QkiG2j)
+[5] [platum.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL-uO9pW-G57OKVq8FSNZiv2Y8Pt61HTDt-x7Q2V-c3MOzNTbhnpXtNQ9XeRSEzEbSJhW18DN5zoP6V7_gklXV3PuLiVBC-0UexOtfH47oI61Jz99sHVQ=)

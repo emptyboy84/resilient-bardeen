@@ -1,0 +1,10 @@
+### Result
+{
+  "tagName": "HTML",
+  "className": "pretendard_98a9ede8-module__6kB-4q__variable",
+  "outerHTML": "<html lang=\"ko\" class=\"pretendard_98a9ede8-module__6kB-4q__variable\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preload\" as=\"image\" href=\"/imgs/landing/cookiedeal-logo.svg\"><link rel=\"stylesheet\" href=\"/_next/static/chunks/3zhjls1ynb8so"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const elements = Array.from(document.querySelectorAll(\'*\'));\n  const searchEl = elements.find(el => el.innerText && el.innerText.includes(\'기업명, 업종, 조건 검색\'));\n  return {\n    tagName: searchEl?.tagName,\n    className: searchEl?.className,\n    outerHTML: searchEl?.outerHTML?.substring(0, 300)\n  };\n}');
+```

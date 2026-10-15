@@ -1,0 +1,202 @@
+
+The command exited with code 0.
+Output:
+Line: 4 Step: 3 Type: GENERIC
+Line: 6 Step: 5 Type: GENERIC
+Line: 7 Step: 6 Type: PLANNER_RESPONSE
+Line: 8 Step: 7 Type: GENERIC
+Line: 9 Step: 8 Type: PLANNER_RESPONSE
+Line: 10 Step: 9 Type: GENERIC
+Line: 14 Step: 13 Type: GENERIC
+Line: 26 Step: 25 Type: PLANNER_RESPONSE
+Line: 27 Step: 26 Type: GENERIC
+Line: 29 Step: 28 Type: PLANNER_RESPONSE
+Line: 30 Step: 29 Type: GENERIC
+Line: 31 Step: 30 Type: PLANNER_RESPONSE
+Line: 32 Step: 31 Type: GENERIC
+Line: 33 Step: 32 Type: PLANNER_RESPONSE
+Command snippet: python -c "
+with open('bizno_filtered_result_nice.tsv', 'r', encoding='utf-8') as f:
+    lines = f.readlines()
+
+print(f'Total lines: {len(lines)}')
+for i in range(58, 65):
+    print(f'Line {i+1}: {repr(lines[i])}')
+"
+Line: 35 Step: 34 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n');
+console.log('Total lines:', lines.length);
+for (let i = 58; i < 65; i++) {
+  console.log('Line ' + (i+1) + ':', lines[i]);
+}
+"
+Line: 37 Step: 36 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+console.log('Lines 60 to 110 (index 60 to 109, which is 61st to 110th row):');
+const batch = lines.slice(60, 110);
+batch.forEach((line, idx) => 
+Line: 39 Step: 38 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const batch = lines.slice(60, 110);
+const output = batch.map(line => {
+  const parts = line.split('\t');
+  // parts[0] is 담당자 ('배현명')
+  // parts
+Line: 41 Step: 40 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const batch = lines.slice(60, 110);
+batch.forEach((line) => {
+  const parts = line.split('\t');
+  console.log(parts.slice(1).join('\t'));
+});
+"
+Line: 43 Step: 42 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('Count:', lines.slice(60, 110).length);
+lines.slice(60, 110).forEach((l, i) => {
+  const p = l.split('\t');
+  console.log((i+61) + ':
+Line: 45 Step: 44 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const batch = lines.slice(60, 110);
+batch.forEach((line, idx) => {
+  const parts = line.split('\t');
+  console.log(parts.slice(1).join('\t'));
+}
+Line: 47 Step: 46 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const batch = lines.slice(60, 110);
+console.log(batch.map(l => l.split('\t').slice(1).join('\t')).join('\n'));
+"
+Line: 51 Step: 50 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+
+// Read existing verified database
+const dbLines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+const db = new Map();
+
+dbLines.forEach(line => {
+  const parts = line.split('\t');
+  // parts[0]: 담당자, part
+Line: 53 Step: 52 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+
+const userInput = `배현명		대신	5170900200	문*훈		부산광역시 사하구 장평로 204 (장림동)					5	기타 신발 제조업					
+배현명		라리트레이딩	5174300465	김덕환						jin891219@naver.com		글로벌쇼핑몰입점판매					
+배현명		호조참의	5177000063	이성식		경기 고양시 일산서구 구산로 140-12 B동 1층	031-973-6404					데이터베이스 및 온라인정보 제공업					
+배현명		야나닷컴	
+Line: 54 Step: 53 Type: GENERIC
+Line: 58 Step: 57 Type: PLANNER_RESPONSE
+Line: 59 Step: 59 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+
+const dbLines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('DB line 63:', dbLines[62]); // index 62 is row 63 '대신'
+console.log('DB line 144:', dbLines[143]); // let's see where 신진메디칼 is
+"
+Line: 61 Step: 61 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+console.log('Range 63 to 144 count:', lines.slice(62, 144).length);
+console.log('First:', lines[62].split('\t')[2]);
+console.log('Last:', lines[
+Line: 63 Step: 63 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const dbLines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+const range = dbLines.slice(62, 144);
+console.log('Total in range:', range.length);
+range.forEach((l, i) => {
+  const p = l.split('\t');
+  cons
+Line: 64 Step: 64 Type: GENERIC
+Line: 68 Step: 68 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+const range = lines.slice(62, 144);
+const tsvWithStatus = range.map(l => l.split('\t').slice(1).join('\t')).join('\n');
+console.log('Total rows:
+Line: 69 Step: 69 Type: GENERIC
+Line: 73 Step: 73 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+const range = lines.slice(62, 144);
+console.log(range.map(l => l.split('\t').slice(1).join('\t')).join('\n'));
+"
+Line: 95 Step: 96 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const ExcelJS = require('exceljs');
+async function run() {
+  const workbook = new ExcelJS.Workbook();
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  await workbook.xlsx.readFile(filePath);
+  const sheet = workbook.getWorksheet('기업 정보');
+ 
+Line: 96 Step: 97 Type: GENERIC
+Line: 125 Step: 126 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const ExcelJS = require('exceljs');
+async function run() {
+  const workbook = new ExcelJS.Workbook();
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  await workbook.xlsx.readFile(filePath);
+  const sheet = workbook.getWorksheet('기업 정보');
+ 
+Line: 126 Step: 127 Type: GENERIC
+Line: 137 Step: 138 Type: SYSTEM_MESSAGE
+Line: 138 Step: 139 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+console.log('Line 1 in nice.tsv:', lines[0].split('\t').slice(0, 5));
+console.log('Line 154 in nice.tsv:', lines[153].split('\t').slice(0, 5));
+
+Line: 140 Step: 141 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const { URL } = require('url');
+
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+const targetRows = lines.slice(0, 154);
+
+console.l
+Line: 141 Step: 142 Type: GENERIC
+Line: 153 Step: 154 Type: CHECKPOINT
+Line: 242 Step: 243 Type: PLANNER_RESPONSE
+Command snippet: node -e "
+const fs = require('fs');
+const lines = fs.readFileSync('bizno_filtered_result_nice.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+console.log('bizno_filtered_result_nice.tsv lines count:', lines.length);
+console.log('Row 1 (maps to 11847):', lines[0].split('\t').slice(0, 5))
+Line: 243 Step: 244 Type: GENERIC
+

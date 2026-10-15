@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=5531001292');
+```
+### Page
+- Page URL: https://bizno.net/?query=5531001292
+- Page Title: 5531001292
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T02-29-42-812Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T02-29-38-272Z.log#L1-L3

@@ -1,0 +1,13 @@
+The search for "티앤북스 사업자 번호 부산" returned the following summary:
+'티앤북스'는 가맹점 형태로 운영되는 경우가 많아 지점별로 사업자 번호가 다릅니다. 부산 내 일부 지점에 대한 정보는 다음과 같습니다.
+
+*   **티앤북스 사직점**: 사업자등록번호 **662-39-00244** (현재 폐업 상태로 확인됨)[1]
+
+그 외 광안점, 하단점 등 부산 내 다른 지점의 경우, 각 지점은 독립된 사업자로 운영되므로 정확한 사업자 번호를 확인하시려면 해당 매장에 직접 문의하시거나 국세청 홈택스의 '사업자등록번호 조회' 서비스를 이용하시는 것이 가장 정확합니다[2][3].
+
+**참고**: 특정 지점의 연락처나 정확한 사업자 정보를 알고 싶으시다면 해당 지점의 네이버 지도(플레이스) 정보나 매장으로 직접 전화하여 확인하시기 바랍니다.[3]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAlfvkFKCpSMFjTb_zk71bcAGpiXsNNNZOM_p1NUEaQ5x6G_KM7oTmXZchTK9VPmqEBrEco66Fw2u8XD42GEPR0KHjBXDAahpkZPVknfn1PU9HQeaZMnxb4Q==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTXTDHhZ661sferBMoQ_2c5UdkJjCjDfgUH-yEQUUFH2z_orqnLO7rp559tE16hE01vZ2271AEJaqMLyRpy6R9gKcjWsJWKXSj7Fd6_9oMn_UEFEIyZ37AnIDKKJ3Qt7UWOkExOk7Mlqk7sReYC4eqD8XHh1Ii7m8UnZHrg11f5oBvaGz91vAM75kYG0JLefXqRpX4IvxEYRxH3goD-P29gRnmi1rEcxUGFFDmSdODUWJTqntJ9BlHj9LIbtQX_cbprjKv15jQWXiJ8AedCOuZjPbqwIWT7orwMfra)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4O2-ZkFh9v5Los5kvKZSwdTzeosUQBO4zm03WD68pkTk-GpJhhHUhsZhWFHIGGEIJtD0omALDQcSZax_3lr3-tEkSNGO3B_Bs4stDi_GA1U7arIZ2-hkd7nLacW0ItbFu6bS5Uq7qlSaS7BYpK8CYrk6F3AAJzbaOzhgyCrRLolDFQjmfgPg=)

@@ -1,0 +1,6 @@
+### Result
+"https://www.onbspace.com/"
+### Ran Playwright code
+```js
+await page.evaluate('() => window.location.href');
+```

@@ -1,0 +1,10 @@
+### Ran Playwright code
+```js
+await page.locator('#select').selectOption('-전체-');
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/main.php
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-09-30-904Z.yml)

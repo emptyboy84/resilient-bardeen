@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Inspection Summary (Rows 1091 ~ 2314, Total: 1224):
+  - Filled �ڹ�ȣ: 1128
+  - Blank �ڹ�ȣ with Ȯ�κҰ�/�: 96
+  - Completely unhandled (No biz AND No note): 0
+

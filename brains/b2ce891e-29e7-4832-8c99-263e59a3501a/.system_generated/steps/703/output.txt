@@ -1,0 +1,17 @@
+The search for ""SGE Corp" ("이혜정" OR "부산" OR "석대동")" returned the following summary:
+검색하신 키워드(**"SGE Corp", "이혜정", "부산", "석대동"**)와 일치하거나 직접적으로 연관된 공식 정보나 통합 데이터베이스 기록은 확인되지 않습니다. 
+
+각 키워드별로 파편화된 정보는 다음과 같습니다.
+* **SGE Corp / SGE**: 해외의 여러 기업이나 상표명(예: 미국의 영상·콘텐츠 제작/배급 관련 SGE Corp, 기타 에너지 및 기술 관련 기업 등)에서 사용되는 명칭입니다[1][2]. 국내에서는 유사한 영문명을 가진 기업(에스지이 등)이 존재하나[3], 질문하신 조건들과 한데 묶인 공신력 있는 단체나 기업 실체는 특정하기 어렵습니다.
+* **부산 / 석대동**: 부산광역시 해운대구에 위치한 법정동으로[4], 과거 쓰레기 매립장 부지였던 곳에 수목원(해운대수목원)이 조성된 지역이며[5], 주변에 중소 규모의 공장 및 사업장들이 위치해 있습니다.
+* **이혜정**: 동명이인의 인물(요리연구가, 대학교수, 의료계 및 기업인 등)이 다양하게 존재합니다[6].
+
+혹시 특정 기업의 상세 사업자 정보, 판결문, 논문, 뉴스 기사 등 구체적인 맥락이 있으시다면 세부 내용을 함께 알려주세요.
+
+Sources:
+[1] [supergreenenergycorp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_cNoz3bvhPL3IINBbfYv4jZPUvCADEWwiV_-pLQ3Qn84WGllkifjipiSQv3KvWlXtGm9PjGYeQrpf_UnzDGYqYEYIUDMvsihZ6rhMLRO1NsE2wK3PBM=)
+[2] [ebay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuWivzl40jRNwPgz3-Y0Vf_PyADttXSbQ90aYM_1t9sO6KHuE2h6HF6ggw0jJlwxq_2XmgZOUKxx7NSsUit2sdcoTmUHOkfNWcvbNUYpuns-qyY5tj7IlDvSph)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG7iJRHmVTVHr6axLqnb0tSnNmCgINv3yWQu7Y243M6fS4c8tY2C4tSeELsqHOrUrdgCRzSmgsgh6PqrkNxWazIWYoZc2bJDRXPn3RGb4BPLWFkPPuedjmQ-5rhE4qsLRyhLL5TBRKZxRqMM2p2YoKFKu-)
+[4] [koreafree.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzc4hu87vfY_t9zz3Tibdio8T5uRxbpE3sp80E9kubmczIXLrus7x14IVaNFApcKghe6hAMQAnTzxxXcoFRYBmw6nMseaX5KikFvJf4anGG0XBJOCTfjHAetDVg5v6Pz_y8ADL5MX9JRRTxApCckye9jprsi2e1Wy8O85I7khGbzqKtrsT1cCiwGuT2X1hw==)
+[5] [seoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvmmm5Ac3_EHA87DXM_WmcHAWvS5UKgzbmttcuoTY2IQTxRdll6a16Z-TB0pa7HQo5dv8b3S__kUOyVU2G29-yOSk_e5EtjmmL4jm1LMfj2AF78r3rBo_ro7v0BidmWs0LS-KLRWLIHnyEkivpFo9fT1UvxIvt1Yo=)
+[6] [dongwonmall.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjEOdkBn8QHTm7dC0iBWDcUWgbbHUpmyR-lCkcbSigJndq180WwXHgNb8Yi4gV6Q8ayAaeZD7NsKUZc_lkuof8otrjpOSE-_z24Hxr5KW25-J0gj1Jjju23-mjgcvp9cBCPDf5Lc79eLpHTjwaz2X29rSEApnBeH4d_LEb-TmQGkCyZyNzwp2denfJT73bElX43VuLgid48eM=)

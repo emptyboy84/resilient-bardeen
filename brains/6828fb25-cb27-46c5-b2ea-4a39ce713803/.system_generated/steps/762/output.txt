@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.saramin.co.kr/zf_user/company-info/view?csn=NVNLdlRVUi9wVmJSZWl1alZCU1FiUT09');
+```
+### Page
+- Page URL: https://www.saramin.co.kr/zf_user/company-info/view?csn=NVNLdlRVUi9wVmJSZWl1alZCU1FiUT09
+- Page Title: 초강수경영컨설팅 2026년 기업정보 | 직원수, 근무환경, 복리후생 등 - 사람인
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T03-05-24-603Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T03-05-22-591Z.log#L1

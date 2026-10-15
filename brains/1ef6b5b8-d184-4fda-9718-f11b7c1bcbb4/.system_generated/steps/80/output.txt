@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
++ issue_0507_tracker
++ master
+* miu_design_registration_update
++ ticket_0507_1447_1309
+

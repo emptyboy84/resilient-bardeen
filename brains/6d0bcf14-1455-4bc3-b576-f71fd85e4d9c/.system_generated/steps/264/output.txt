@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+=== QA Verification Report ===
+1. Checking file existence:
+Target exists: true
+New Excel exists: true Size: 436257
+2. Checking Row Counts: ws.rowCount = 3979
+Test R282 [Seq 281 인코어]: Phone="070-4693-7034" | Expected="070-4693-7034" -> PASS
+Test R283 [Seq 282 (주)스페이스포트]: Phone="070-7122-7679" | Expected="070-7122-7679" -> PASS
+Test R306 [Seq 305 (주)에스아이엠테크]: Phone="051-714-1070" | Expected="051-714-1070" -> PASS
+Test R316 [Seq 315 (주)웨이브그램]: Phone="051-711-0305" | Expected="051-711-0305" -> PASS
+Test R319 [Seq 318 (주)온클레브]: Phone="0504-1361-2922" | Expected="0504-1361-2922" -> PASS
+Test R324 [Seq 323 (주)테렌즈]: Phone="051-791-2021" | Expected="051-791-2021" -> PASS
+Test R328 [Seq 327 (주)지앨]: Phone="070-4231-0729" | Expected="070-4231-0729" -> PASS
+Test R336 [Seq 335 (주)비에이블랩]: Phone="010-4343-7707" | Expected="010-4343-7707" -> PASS
+Test R337 [Seq 336 (주)레드에셋]: Phone="1833-7169" | Expected="1833-7169" -> PASS
+Test R345 [Seq 344 언커먼랩(주)]: Phone="051-711-0805" | Expected="051-711-0805" -> PASS
+Test R357 [Seq 356 (주)내방니방]: Phone="010-3135-3104" | Expected="010-3135-3104" -> PASS
+Test R367 [Seq 366 (주)새온아이티]: Phone="070-4012-1862" | Expected="070-4012-1862" -> PASS
+Test R368 [Seq 367 (주)호랑이얼굴]: Phone="070-7704-5700" | Expected="070-7704-5700" -> PASS
+Test R392 [Seq 391 (주)팀리부뜨]: Phone="1644-1664" | Expected="1644-1664" -> PASS
+Test R416 [Seq 415 (주)나인박스]: Phone="1670-0260" | Expected="1670-0260" -> PASS
+Test R441 [Seq 440 (주)사운드리더]: Phone="0507-1301-6920" | Expected="0507-1301-6920" -> PASS
+Test R448 [Seq 447 (주)빅웨이브카]: Phone="1551-8880" | Expected="1551-8880" -> PASS
+Test R461 [Seq 460 나눔솔루션]: Phone="02-830-7036" | Expected="02-830-7036" -> PASS
+
+Test Result: 18/18 passed!
+Phone format invalid characters count: 0
+

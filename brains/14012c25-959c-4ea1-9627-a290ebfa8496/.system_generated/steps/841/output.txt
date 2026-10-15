@@ -1,0 +1,13 @@
+The search for "site:tumblbug.com "숲속의 작은 마녀" OR "써니사이드업"" returned the following summary:
+국내 인디게임 개발팀 **'써니사이드업(Sunny Side Up)'**이 개발한 힐링 어드벤처 게임 **《숲속의 작은 마녀 (Little Witch in the Woods)》**는 과거 크라우드 펀딩 플랫폼 텀블벅에서 프로젝트를 진행하여 큰 성공을 거둔 바 있습니다[1][2][3].
+
+* **텀블벅 프로젝트 주요 내용:**
+  * **프로젝트명:** 마녀 엘리의 견습 생활, 「숲속의 작은 마녀」[4]
+  * **관련 링크:** [텀블벅 공식 프로젝트 페이지](https://tumblbug.com/littlewitchinthewoods)[1]
+  * **성과:** 2020년 7월 진행된 펀딩에서 당시 텀블벅 비디오 게임 개발 프로젝트 중 역대 최다 수준인 **약 1억 3,600만 원 이상의 후원금**을 모으며 큰 화제를 모았습니다[2]. 이후 텀블벅 '올해의 프로젝트'에 선정되기도 했습니다[2].
+
+Sources:
+[1] [gigdc.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNBVxY8lNe1DZy1J0f6V5L4NN-BPWOO1HrzG16koBR5sDoT69_HAyL8eEZVk5sD2aIDDpE3BBjM32hNRLSwo46t1NFMSZRWrAO6uXENBfd3UwC1TFUtBo_0L6Fh1XjR6FfhJ0SHy2go9utnKiWdlOhTZc0QCNeWF9yRdhHAw7dS5Z-TKKut9y74wVnuGKLCzdlAyv9QaV40C-_P4OwsFufLr1fr1ZNbTpLM2sifmcFhfa7cAQ498mEFeCv)
+[2] [khgames.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9GsAi07jJztpsyZ3VIQG1vzR9atM3yuY8fCoRNPPNQfjI6YeYEmpoHaicF18_BrgADdEkoOGPCSkxLh0Mtd4Ke5RG7wp1eSoyajssQZuNaIsZTMTd1X82lUiBzw-O4zhEOX_vNEJOoB3BPyY9_PQTQe4=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp7X-l-TTsK7XXIJUEig23AriuumvL2rWoA9BJZyrd_H56hstIjwVVwYmLfVqTOGE85KyXn9MnNz_fLCs0SBgiBAL5HRii9gjaPqkHdTEmSqdpiLOXaw==)
+[4] [tumblbug.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEenvMzoU6wOdm4WSVQjqK2as7H-ddL8_U4FbwdZawQplpSb6JiCzpEmXCSL3NG2o-9VlyMcU0VX-AGkPxc6UbvyfpYHeCUrYD5Rirj2vL78xVIxGyf_vmnLjUxOlw7Wrc=)

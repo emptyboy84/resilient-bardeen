@@ -1,0 +1,17 @@
+The search for ""marineschedule.com" OR "marineschedule" (전화번호 OR 연락처 OR tel OR mail)" returned the following summary:
+선박 수리(Ship Repair) 산업을 위한 커뮤니케이션 및 일정 관리 플랫폼인 **marineschedule.com**과 관련된 운영 주체 정보는 다음과 같습니다.
+
+* **운영 기업:** (주)저스티스어드벤처 (Justice Adventure)[1][2]
+* **서비스 내용:** 조선·해양 및 선박 수리 산업 분야의 의사결정권자들을 위한 커뮤니케이션 소프트웨어 및 공유 타임테이블/진척도 관리 플랫폼 제공[3][2]
+* **기업 주소 (이전/소재지 관련):** 
+  * 부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 (NICE BizINFO 기준)[4]
+  * (초기 설립/소재지) 부산광역시 영도구 태종로 727, 한국해양대학교 아산관 / 부경대학교 용당캠퍼스 내[2][5]
+
+현재 글로벌 비즈니스 데이터베이스(PitchBook 등)상 해당 웹사이트 도메인을 사용하던 플랫폼 서비스 및 기업은 **폐업(Out of Business)** 상태로 등록되어 있어[3][2], 별도의 공식 고객센터 전화번호나 이메일 연락처는 공개되어 있지 않거나 이용이 불가능한 상태입니다.
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECMREyhY_r9CofUTMfiRPDkK6FtoI0MkIxVqb3xnjD8h8xO1-p25mgpWQuRbBn6Aou0NUb3xPaKrwiSD7i5vxWyOFMEMATh0lj-TcsxPVQg4eLo1Z_Xc_1JxcKEzKKp7K6yA==)
+[2] [pitchbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyeIyzHw9EwHgmY4EkBScNz2ay1YuHQ4GSLMDsgWOexyl4sSZV8RlSdzF06SaEV83FaCixfGr3VG8wZBmCBWb-cwvrcASfXniBfl95Zz4aK-uPVF3gtcRyKl8bd0rQ1JjeUMyH_qY=)
+[3] [pitchbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyeIyzHw9EwHgmY4EkBScNz2ay1YuHQ4GSLMDsgWOexyl4sSZV8RlSdzF06SaEV83FaCixfGr3VG8wZBmCBWb-cwvrcASfXniBfl95Zz4aK-uPVF3gtcRyKl8bd0rQ1JjeUMyH_qY=)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjzLewICbEG0Gpb3ePuYMnJ2lIngV0e8vt64NnXM1hhMCffnPLdKu2cj81DwYA4xpvzdPjA-Ky49UYsxJR8oBhpAmL7Z6ecPVeS9sa_mkOFUPd0WObrZrIBH-BsG-nZ1GYXUE3p5wkpYF-_z2TiiYPI1v)
+[5] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5cI6f3PyuFwt_plFGQGNt9jJTHgh1qy7qNM79gZxg2b52AlI1zxXFdhQo1TgACjtD7vK_7fRdMPTUzhAnM5MVIk0YYxW5_2Y-OJydPTPnnbzi-CEk6jJO8mSumFXh764NK1vU)

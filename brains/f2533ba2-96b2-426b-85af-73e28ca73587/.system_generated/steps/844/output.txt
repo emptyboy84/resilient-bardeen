@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('http://www.k-steelpower.com/');
+```
+### Page
+- Page URL: http://www.k-steelpower.com/
+- Page Title: 코리아스틸파워
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-25-48-642Z.yml)

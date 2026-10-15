@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=블루레코딩');
+```
+### Page
+- Page URL: https://bizno.net/?query=%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9
+- Page Title: 블루레코딩
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-34-54-273Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-34-51-049Z.log#L1-L4

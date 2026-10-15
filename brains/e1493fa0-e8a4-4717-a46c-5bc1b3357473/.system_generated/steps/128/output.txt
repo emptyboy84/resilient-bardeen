@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Sample text snippet:
+사업자등록번호 : 609-06-53247"> 기타 기계 및 장비 제조업 > 일반 목적용 기계 제조업 > 베어링, 기어 및 동력 전달장치 제조업 > 기어 및 동력전달장치 제조업 업태 : 제조업 업종 : 기어 및 동력전달장치 제조업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2001-01-01 대표자명 : 이만우 전화번호 : 055-342-2388 회사주소 : 경상남도 김해시 생림면 상동로 78-73 종업원수 : 3명 사업자등록번호 : 609-06-53247"> (function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})(); .div_t { display:table; width:100%; border:0px solid #ddd; border-width:0px 0 0 0px; margin-bottom:0px; } .div_tr { display:table-row; } .div_tc { display:table-cell; border:0px solid #ddd; border-width:0 0px 0px 0; height:20px;min-width:100px; vertical-align:middle; } Home 사업자등록번호조
+

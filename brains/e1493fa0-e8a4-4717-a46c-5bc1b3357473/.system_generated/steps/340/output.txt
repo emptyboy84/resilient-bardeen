@@ -1,0 +1,19 @@
+### Result
+{
+  "provides": [],
+  "vueApp": true,
+  "payload": [
+    "data",
+    "state",
+    "once",
+    "_errors",
+    "config",
+    "serverRendered",
+    "path",
+    "pinia"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  return {\n    provides: Object.keys(nuxt.provide || nuxt.$ || {}),\n    vueApp: !!nuxt.vueApp,\n    payload: Object.keys(nuxt.payload || {})\n  };\n}');
+```

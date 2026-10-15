@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Phones: [ '010-9226-0114', '051-754-3366' ]
+Match 손정희: MENT_PANEL_VISIBILITY_HIDDEN"}},"attributedDescription":{"content":"부산 센텀스카이비즈 분양팀이 직접운영하는 센텀위너스부동산 손정희 소장입니다. 010-9226-0114, 051-754-3366
+많은문의주세요","styleRuns":[{"startIndex":0,"length":78,"styleRunExtensions":{"styleRunColorMapExtension":{"colorMap":[{"key":"USER_INTERFACE_THEME_DARK","value":4294
+Match 손정희: impleText":"Show less"},"attributedDescriptionBodyText":{"content":"부산 센텀스카이비즈 분양팀이 직접운영하는 센텀위너스부동산 손정희 소장입니다. 010-9226-0114, 051-754-3366
+많은문의주세요","styleRuns":[{"startIndex":0,"length":78,"styleRunExtensions":{"styleRunColorMapExtension":{"colorMap":[{"key":"USER_INTERFACE_THEME_DARK","value":4294
+Match 손정희: ckground":3423150135},"colorSampledDescriptionBodyText":{"content":"부산 센텀스카이비즈 분양팀이 직접운영하는 센텀위너스부동산 손정희 소장입니다. 010-9226-0114, 051-754-3366
+많은문의주세요","styleRuns":[{"startIndex":0,"length":78,"styleRunExtensions":{"styleRunColorMapExtension":{"colorMap":[{"key":"USER_INTERFACE_THEME_DARK","value":4292
+

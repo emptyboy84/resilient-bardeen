@@ -1,0 +1,4 @@
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do?key=232
+### Modal state
+- ["alert" dialog with message "검색어를 입력해주세요."]: can be handled by browser_handle_dialog

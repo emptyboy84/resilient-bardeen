@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://ayo.pe.kr/localMaps/detail/5457616');
+```
+### Page
+- Page URL: https://ayo.pe.kr/localMaps/detail/5457616
+- Page Title: 부산 해운대구 우동 비문 인쇄 인쇄사 위치·전화번호 | 찾아요! 홈즈
+- Console: 0 errors, 3 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-41-44-771Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-41-37-465Z.log#L1-L3

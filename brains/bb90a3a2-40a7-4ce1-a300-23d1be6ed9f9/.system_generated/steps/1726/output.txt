@@ -1,0 +1,15 @@
+The search for ""명지국제8로10번길 51" "101호" OR ("명지국제6로 238" "5층")" returned the following summary:
+입력하신 두 가지 주소 정보는 모두 부산광역시 강서구 명지동(명지국제신도시)에 위치한 건물들입니다[1][2]:
+
+1. **부산광역시 강서구 명지국제8로10번길 51, 101호**[1]
+   * 건물명: **씨엘주차타워** (지상 9층 규모의 주차타워 건물)[1]
+
+2. **부산광역시 강서구 명지국제6로 238, 5층**[2]
+   * 건물명: **가온프라자** (1층에 '길세이로무시' 등의 점포가 입점해 있는 상가 건물)[3]
+
+혹시 이 주소들과 관련하여 찾으시는 특정 상호명, 위치 안내, 또는 다른 궁금한 점이 있으신가요?
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO5h7wURLW2F73lEjQqY60jLjv-52Mibyp1Y93sd684QDxMf2sAl8gP7gKJGSsshsjxiXDtQx6XEIH8DTiGk7nr2tYI9exFQxY5tboc-ztQz803evksOK2pLTMzxYzbb5X5oJuIO7ZGaW3ERLMp_mC4PqTw2WlB-oqLnfUSybMogVN09ghEDB8czV1EYtF4A-93p9UHr4hPf0xO0dZC3m8pgwJ5y5gblxzkboYy4BWgV1u6whvKr2b1bqA59Vodj71wr4CUlLP-IL5NGG855xmOePfDLi4Jbl9ZTZHZA8tWOrJ1t3RTNAFFJ7zyTqNQg==)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3lDd3o77Ep5SbMYIPkN0Mg8hQ2Y7195sL5RBe1MVTfeStQ-xMvla-JD65P0mrSi91EU9EvN2SGDvB2ey_0l8KVphXm-xKfTfUgpMaDrY2tsBsIQe8q-FA1npktRASWYjUl1Jz)
+[3] [instagram.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrVf3teqtIlR33oorYra0O_qpwmj1Kod1sdNLASpUMrH7m4HXQ-BiEkc_wXnTuyxosAI40UWKhsvX20id2u2qgpVm0UbpEtFfYQ_ZUmAQjZHB912ZkC-JRAIhgE6KY)

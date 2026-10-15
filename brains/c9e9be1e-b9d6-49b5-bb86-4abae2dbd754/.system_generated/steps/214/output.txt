@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+At line:8 char:74
++ ...  matches = [...html.matchAll(/href=[\"'](\/article\/[0-9]+)[\"']/g)];
++                                                                       ~
+Unexpected token ')' in expression or statement.
+At line:9 char:26
++   console.log('Matches:', matches.map(m => m[1]));
++                          ~
+Missing expression after ','.
+At line:9 char:27
++   console.log('Matches:', matches.map(m => m[1]));
++                           ~~~~~~~~~~~
+Unexpected token 'matches.map' in expression or statement.
+At line:9 char:26
++   console.log('Matches:', matches.map(m => m[1]));
++                          ~
+Missing closing ')' in expression.
+At line:9 char:49
++   console.log('Matches:', matches.map(m => m[1]));
++                                                 ~
+Unexpected token ')' in expression or statement.
+At line:11 char:31
++   console.log('Corp matches:', corpMatches);
++                               ~
+Missing expression after ','.
+At line:11 char:32
++   console.log('Corp matches:', corpMatches);
++                                ~~~~~~~~~~~
+Unexpected token 'corpMatches' in expression or statement.
+At line:11 char:31
++   console.log('Corp matches:', corpMatches);
++                               ~
+Missing closing ')' in expression.
+At line:11 char:43
++   console.log('Corp matches:', corpMatches);
++                                           ~
+Unexpected token ')' in expression or statement.
+At line:12 char:1
++ }
++ ~
+Unexpected token '}' in expression or statement.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

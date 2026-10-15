@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+대표: : The term '대표:' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the s
+pelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:40 char:64
++ ... rint(f\"{idx}. [행 {r} / 순번 {data['seq']}] {data['name']} (대표: {data[' ...
++                                                               ~~~
+    + CategoryInfo          : ObjectNotFound: (대표::String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

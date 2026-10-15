@@ -1,0 +1,15 @@
+The search for ""라온엔터테인먼트" "모라동" OR "신모라공단" OR "모라로"" returned the following summary:
+검색 결과에 따르면, **(주)라온엔터테인먼트는 대구광역시 남구 명덕로 104 (대명동) 대구디지털산업진흥원(DIP) 별관에 위치한 기업**입니다[1][2][3].
+
+질문하신 '모라동', '신모라공단', '모라로'와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **(주)라온엔터테인먼트와 모라동의 연관성:** 병역지정업체 명부 등 각종 공공 데이터에서 (주)라온엔터테인먼트의 소재지는 대구로 명시되어 있으며[1][4][3], 부산 사상구 모라동이나 모라로, 신모라공단에 위치한다는 정보는 확인되지 않습니다[1][2][3].
+*   **혼동 가능성:** 부산 사상구 모라동의 '모라로'나 '신모라공단' 지역에는 다른 산업체들이 위치해 있으며[5][6][4], 해당 지역의 업체 명단과 (주)라온엔터테인먼트의 정보가 포함된 문서들이 동일한 리스트(병역지정업체 명부 등)에 나열되어 있어 혼동이 발생했을 수 있습니다[1][2][4].
+
+Sources:
+[1] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK3Ion8v0qkYD14slbk_B_a6jJ9UvQ1CT9UtG_Bs1b9xesgGYxqI8IM3UuvTT74l0k6AJKW3I_w_O5XXYOsfUeMj7wrnTcxCedx_3rs0NdWUfDp97giu0L2ggLDp8wJGYifvr6XQU_Kh-x_4RpFj0HX-V4MgUP-DDsD_vFGBtoHX9OH9jR9T-qgT_iE3EjXg0bbN6z1zats2fkbqRpTKNODdSHzlIGA0oLaN98WnjeiRKKcHdYtj4THOL4biOHbv2aKUDOE84TKo3ytDclk-OS5vn8KZal73OBAuPautJ1M6XXzgjK5pvU5H-WaV0=)
+[2] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5LGZwXqR7kb8mvGj7lLGJ2s1cCgaVZ3DAjdEwOJZsiH3Pdiz_UmqTEnPUFVRl3mcn5Xqgu_p1hVqMYhAOHgEf0KpHsATGL1I8TcRflxLzyU0SiynZQCten4bCgEQ48IQQVYkEf290ANwdEnW7H4_trSKeJn8TOzUtmFXBTgx2lBHHZISkriTXftmBfDXYYFu07GkXz5a7fuoofBOK3B22_exsM_uPl1owIxpj6lTe_ezm_WVGOXkFF8N7v23yz0neB5bg_didA0lRLxeH5kN9qOtBGV_b0gDW9I2IORq3oOTxtxyJifungVF7q4=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCKx7laWzyfs1QLRAUI4lEqF4Z-zhWV3zEKSzWk4HEw9A4nHcRwJfxltOBQDGZ8yVRlePx6jCd8jbCzC1SM0raMzsT6yrDXxoMw-_wvepCXSK_kSMk)
+[4] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK3Ion8v0qkYD14slbk_B_a6jJ9UvQ1CT9UtG_Bs1b9xesgGYxqI8IM3UuvTT74l0k6AJKW3I_w_O5XXYOsfUeMj7wrnTcxCedx_3rs0NdWUfDp97giu0L2ggLDp8wJGYifvr6XQU_Kh-x_4RpFj0HX-V4MgUP-DDsD_vFGBtoHX9OH9jR9T-qgT_iE3EjXg0bbN6z1zats2fkbqRpTKNODdSHzlIGA0oLaN98WnjeiRKKcHdYtj4THOL4biOHbv2aKUDOE84TKo3ytDclk-OS5vn8KZal73OBAuPautJ1M6XXzgjK5pvU5H-WaV0=)
+[5] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr2R2aQkLtU9ZBfQwJJdT85EtlawZYda49-mJM9JmdgFk45PiIZGk7fHRAvaBP6aJ6WFofRJ06Oe51fl9_SpinmZziYcxQx-W_bVgF0AdbHaNFNxuBA5EhnFJICVXF6EOXfLRxuDRlgl46C7hdi5ot_g7aRZsgckc_dvDdzn0o9YRLs7hUBOnk09qapQ3eArJrImuhq42SAd0zZ2Y9FHtUUvaVJ00UUn9GJv2x25_AaoP1bhH8BhE5AAdKnAaZ8dbE9n2NeU-sgGMP5UNhiKkc8TcyE5fJyDd0kWo2OlVrXFAhRVoHrnB1uhQrYL2L)
+[6] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbslOqY7M-cb2hZCoH4guOWT2HgNV5Z9CS4CvIxas2oZRbWDur8YgNGsAOkZlXgPSG8cJroWyARVWY2Nlx5v2n4HAJWqzQRyjHvSM--KH6YPyrSZSXZAagYL-IKV77qdrzYs03qq5iPeJYbjNl6sUbcW6by6Nv1JtSZ8rjBytjMIacW_k=)

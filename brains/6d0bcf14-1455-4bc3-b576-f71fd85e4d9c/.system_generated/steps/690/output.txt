@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\main
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-15   � 1:26                brain_docs                                                           
+-a----      2026-10-15   � 1:26        2100198 �_�ó_FullURL_�.xlsx                                  
+-a----      2026-10-15   � 1:26        5752209 �.xlsx                                                      
+
+
+

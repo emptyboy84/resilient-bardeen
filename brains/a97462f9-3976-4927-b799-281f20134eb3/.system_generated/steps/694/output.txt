@@ -1,0 +1,31 @@
+The search for ""남천서점" "일레갈로" "시너샛코리아" 설립연도 OR 사업자등록번호 부산" returned the following summary:
+요청하신 기업 및 사업체에 대한 정보는 다음과 같습니다.
+
+### 1. 남천서점
+*   **설립연도 및 사업자등록번호:** 공개된 데이터베이스에서 '남천서점'이라는 상호로 특정된 사업자등록번호나 명확한 설립연도는 확인되지 않습니다. 
+*   **참고:** 부산 수영구 남천동에는 '남천서점'이라는 이름의 업체가 운영 중인 것으로 확인되나[1][2], 독립서점이나 소규모 문구·잡화점[3][4] 등 여러 관련 공간이 혼재되어 있어 상세 기업 정보(사업자등록번호 등)는 별도의 공공 데이터나 현장 확인이 필요할 수 있습니다.
+
+### 2. 일레갈로 (ILLREGALO)
+*   **사업자등록번호:** **449-31-00607**[5][6][7]
+*   **설립 및 운영:** 일레갈로는 부산을 기반으로 하는 라이프스타일 디자인 브랜드로[5][8], 캐릭터 굿즈(일레베어 등) 제작 및 판매를 주력으로 합니다[9][10]. 통신판매업 신고(2019-부산동구-0283) 및 공개된 쇼핑몰 정보 등을 통해 영업 중임을 확인할 수 있으며[5][8], 2018년 전후로 운영이 확인되는 브랜드입니다[8].
+
+### 3. (주)시너샛코리아 (SynerSAT Korea)
+*   **사업자등록번호:** **626-87-00031**[11][12][13]
+*   **설립연도:** **2015년 3월 3일**[11]
+*   **기업 정보:** 부산 해운대구(센텀시티 소재)에 본사를 둔 위성통신 솔루션 전문 기업입니다[11][12]. 글로벌 위성 사업자(스타링크, 인말새트 등)와 파트너십을 맺고 해상 및 도서 산간 지역 등에 위성 통신 서비스를 제공하고 있습니다[14][11].
+
+Sources:
+[1] [dir.today](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYOHj0sXCaxzfPIdaWd7jflc99xAWyjiJ0xOFGHzh8fZl3xNQOtzu9cjfjmNOVXRZDLR8xdphL4sPd-vdDHiz0aRg0GiJj6U1nTCCUGaOg8x35NA3wqCBeqde0gB6EDsI32LTBE64o6Zv1cxK)
+[2] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhM_xAsQmH0fCBoDu7_gwr4oEMGuNgkoGNUnoDAfmn8bBoMTgOaadNIiBsQeePSy1e58Am4dPeljYzXQ_aJ_U14NvumXT8Lli_SUU9WCS6zLY9TYHoJYYLc5SrfnFt22JxyiNRWEkecsI8dzxl2FNqW90wGyus1aYKX1jjyNlHviO41MLOYkiPg==)
+[3] [bookshopmap.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpICvqTNE1nnqhweFyhwX8LbApkLFAYHarPlwv48H6u2TwrepSeeKPwmVTkYsaJY5cPb6keVHnXetKdnXJiVPOsTd59w7K4VZCOXc-1szQKGqH3xmx2x33wP5cTn4iUQ==)
+[4] [bookshopmap.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF366u8JHweH2_mchXeGnXzcy0hzOA4vpx4qJSQXA3G8hCgzhuH6O-B_tO7lZHHTx0eXeKjTjgSHpqNpFr9QOOR7devCxuI5SPq8W0UWeyBMJ1oAwM9DXkCyNUYtbxC5uyMTrubrXg5o9IvuS4srbhjM6ZVoYdPFwnUtQZJ26pMsgIHsyv8VS3O9o40CXmCJolXZp_9jaXrlmU=)
+[5] [illregalo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUgVSqqQeMzpy6bXOvYSqBC3-OBoQm3n0LtQbqpgbZJqi_QPT8U1vdNBRkC98NQNkjDLWdsXwhDkEJOb1dM139lMSYLhA6Og7fN8O)
+[6] [illregalo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhz1dglq63cLWRKvQ59fFOu_HtYXZqZ15HfCPIJWuq1dl052oT21jhKvP5DBQCfd2exQ6dCh622R2U3WOL7TFVaBu5SAIb2wkcf5Q7O6NwfNqDPke0zkFA5NxBl-g=)
+[7] [illregalo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk1YBcBOVoQpwFji7MMy3FYDOxsFIRrtfcedqF4ciMMrN1UlFiR6EJBde1ZnLgaD3q5kgdhRMmUJR_KmGNNfZBtL-x9Waj3RIJBBEwbtbIPPHAs1Qwbks-BjfYlrYCWN2a)
+[8] [sellerbiz.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp-Ssz0X79XQ-PNsz2OwH7GuK7LUSyGFz9osjjo00Hdvcvb29pYXL0TS3sT0yMjQi56woyNHdWLIl17wG6NddQp3etXq3JJwUcyXdfXYSNCG0g3fnHcLl8645bqc-20ciJXUSjZbrhoX80a-OHBYoz9sq2p29gnNA7Vjnahz2S8tDiA1ITVjRpX7tw-hEPzq0qwbvi)
+[9] [illregalo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvKGnCiA4sTHhdwAduKRMfYXiIjdMxplTBVBZF9OlB9VKJSC2Hkj6NczeiJBkT3E6A8OiU0tJtWhfHa7I9wgkPQ2O1MKhJIA-H5a2YV1dvPksYtspyO9yvNtVazDGQjM4=)
+[10] [musinsa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzTQ41AeY0NxLOTPpcMS9MO6Oqy-iVtJzK9aS4NUbgd49Te_TdGFYQmA6TrepmlL8QfbAjxbFKJptMUpQ06Jse1XdXDAv6n14Kz8oqTLYHKfbwFdht5n07P-0H8_XH)
+[11] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKq-aWfnEwfs4cwFuKtMYXA7EsGVbiC3wbIuP-DexYaATypEgiEnHgTNPnoLmwBxEdjcoiupib5Y7OOF6fTCVFQVDQTCk9kdIOqxjKpvBM5whOwfYytQmbuY_-OyFWlP_3_ZrjsUGF_Zn_Sv3nOEKFzazeU8fJRultUWo=)
+[12] [synersat.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGohTawajz5xJvLol2emJPqoajaqWT1Togk1PyhQmrf1pxKkcq3FpU3PKabj-FieO_BhzoCMcW5AlH7GYe3eARN7jpEqzO241mCgGSWkoyKabqsN0ab5i5EqL4DOw8rTbDQUKn05ci7TVD_1EQsEjxfe7I=)
+[13] [synersat.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_-peZKNF96uE92cJMzVbduC40hYN1OJAOGPhueyCzbvHBB2T6N-dzZ4rcqWp2KFYJh0GMplXL3L70mg6RsTHL9njyfyZVTWfOLnBNhzIxYI2BhFOl3UoLzvGbZLmtkuWm)
+[14] [synersat.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOiYR_jRP401CjSa7dzajLLdTqM3Hc6vpvUSjQrq5LaMOb-XEYbgRJj7dNoc8kGew8aJKLq3Menc755JGy3GVXAP92SwyVPmx--3EPQw==)

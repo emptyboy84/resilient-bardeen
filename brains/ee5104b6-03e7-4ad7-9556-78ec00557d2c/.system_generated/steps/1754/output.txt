@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://weseb.com/b/g0100/103986');
+```
+### Page
+- Page URL: https://weseb.com/b/g0100/103986
+- Page Title: 404 Page Not Found
+- HTTP status: 404 Not Found
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T01-51-35-874Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T01-51-35-311Z.log#L1

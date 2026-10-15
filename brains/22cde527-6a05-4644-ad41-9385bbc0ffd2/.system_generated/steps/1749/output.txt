@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+Sheet name: 2026_부산_CT산업_실태조사
+Row count: 2314
+Before mod - Row 639 Col 4: value= 603-10-85753 font= {"bold":true,"size":10,"color":{"argb":"FFFF0000"},"name":"맑은 고딕","family":3,"charset":129}
+Written test file.
+Row 639 Col 4: value="TEST_RED_4" argb="FFFF0000" theme="undefined" bold=true
+Row 639 Col 5: value="TEST_RED_5" argb="FFFF0000" theme="undefined" bold=true
+Row 639 Col 6: value="TEST_RED_6" argb="FFFF0000" theme="undefined" bold=true
+Row 639 Col 7: value="TEST_RED_7" argb="FFFF0000" theme="undefined" bold=true
+Row 640 Col 4: value="TEST_RED_DIRECT_4" argb="FFFF0000" theme="undefined" bold=true
+Row 640 Col 5: value="TEST_RED_DIRECT_5" argb="FFFF0000" theme="undefined" bold=true
+Row 640 Col 6: value="TEST_RED_DIRECT_6" argb="FFFF0000" theme="undefined" bold=true
+Row 640 Col 7: value="TEST_RED_DIRECT_7" argb="FFFF0000" theme="undefined" bold=true
+Row 641 Col 4: value="TEST_STYLE_4" argb="FFFF0000" theme="undefined" bold=true
+Row 641 Col 5: value="TEST_STYLE_5" argb="FFFF0000" theme="undefined" bold=true
+Row 641 Col 6: value="TEST_STYLE_6" argb="FFFF0000" theme="undefined" bold=true
+Row 641 Col 7: value="TEST_STYLE_7" argb="FFFF0000" theme="undefined" bold=true
+

@@ -1,0 +1,15 @@
+The search for "site:gamejob.co.kr "씨플레이"" returned the following summary:
+게임전문 취업포털 게임잡(Gamejob)에 등록된 **(주)씨플레이(Seeplay)** 관련 채용 정보 요약입니다[1][2][3]:
+
+* **기업 위치:** 부산광역시 해운대구 센텀중앙로 (센텀시티역 인근)[1][2]
+* **주요 사업 및 게임 분야:** 캐주얼, 아케이드 등 모바일·웹 게임 개발[1][2]
+* **주요 채용 이력 (마감된 공고 포함):**
+  * **개발 직군:** 유니티 클라이언트 프로그래머 (경력)[2]
+  * **기획 직군:** 모바일 게임 기획 (신입/경력)[4]
+  * **아트/기타 직군:** 게임 아트, 애니메이션, 원화, 이펙트·FX, 영상 제작·편집 (신입/경력)[1]
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBrKVLNCxDDVuWOUO0xAdqOL_jq3HNnwsh6eulhULLSRTU8wxObcA76pPvdLk-S8khkklH-85UcYW-u93jsiEDAo2T7uKMpdQSxvxGZsQWTTV_3aZXOah3JzCRRse5aDvTgBij67Ungic2EtRRItX-)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe3I4utYSnVu58a1lQUtOpaQT2BKWB3fIvROulGkVEVMTnHXnXm2oRE81SwpKJPQ2VzEFkjK7ynJjgUD0U24JkaceFs6yKh7dh_RRD73vrP6A9wBPRqmSFwp9F8W2t1muPsg==)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_uHvISBJaVvkX98bJpd7w-p4HgIoJ_Xm0-luQRRht1-0qsS_W9U0_yc0ocKPvxssUVIIFS2EiWjyf8ogjWGaetIZhlb8SOCLyp4c3GPhx63NAmC7uALrQM-3NfnCAnQN_-ozQNFiKcn22XuY5YgVDfeQVdE1xlogglaySwdc=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJsmQnDmFng5bQt4wxaU6xnuFl1qqd9pBVY113SFIIaPYqzs_JELtAjrAlYb4C3jTEBEjvBmMrdylbLJFG6gS8gsazhDgZAJqOQBTIb5UqzqlidnEFYZt3wHY4iGRj0lq2j6GjunDz-lGjLJ0A2nVpLqoJiQ9bXhY=)

@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+
+
+FriendlyName           : HID �԰� �콺
+InstanceId             : HID\SYN1B8B&COL01\5&154DB3C4&0&0000
+Status                 : OK
+Problem                : CM_PROB_NONE
+ConfigManagerErrorCode : CM_PROB_NONE
+
+FriendlyName           : I2C HID �ġ
+InstanceId             : ACPI\SYN1B8B\4&5C5684A&0
+Status                 : OK
+Problem                : CM_PROB_NONE
+ConfigManagerErrorCode : CM_PROB_NONE
+
+FriendlyName           : HID �԰� �ġ �е�
+InstanceId             : HID\SYN1B8B&COL02\5&154DB3C4&0&0001
+Status                 : OK
+Problem                : CM_PROB_NONE
+ConfigManagerErrorCode : CM_PROB_NONE
+
+FriendlyName           : Microsoft Input Configuration Device
+InstanceId             : HID\SYN1B8B&COL03\5&154DB3C4&0&0002
+Status                 : OK
+Problem                : CM_PROB_NONE
+ConfigManagerErrorCode : CM_PROB_NONE
+
+FriendlyName           : HID �԰� �޾�ü � �ġ
+InstanceId             : HID\SYN1B8B&COL04\5&154DB3C4&0&0003
+Status                 : OK
+Problem                : CM_PROB_NONE
+ConfigManagerErrorCode : CM_PROB_NONE
+
+
+
+

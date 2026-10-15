@@ -1,0 +1,11 @@
+### Result
+[
+  {
+    "text": "주식회사 창원고시학원 - 사업자등록번호 조회\n\n머니핀\nhttps://moneypin.biz › bizno › detail",
+    "href": "https://www.google.com/goto?url=CAESaAHrOzAVwyRUZ8vTcKzyYzvmYs6HeV68iN-Ia8L4jaJgBK12dY7y9oJ3BFsPltxZfQ1zwhgZRvF5YEO_H-GcfJ1Anfnvj2kZJq5YkfjAXNR-RCHQ_mV-YWb2yDNgEVqVjfsP7T9XIaDk"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\')).filter(a => a.innerText.includes(\'창원고시학원\') || a.href.includes(\'moneypin\'));\n  return links.map(a => ({ text: a.innerText, href: a.href }));\n}');
+```

@@ -1,0 +1,145 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "col": 1,
+    "name": "작성자",
+    "val": "배현명",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 3,
+    "name": "회사명",
+    "val": "타스",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 4,
+    "name": "사업자번호",
+    "val": {
+      "text": "5478603136",
+      "hyperlink": "https://bizno.net/article/5478603136"
+    },
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 5,
+    "name": "대표자",
+    "val": "황성현",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 6,
+    "name": "우편번호",
+    "val": "50877",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 7,
+    "name": "주소",
+    "val": "경남 김해시 주촌면 서부로1403번길 73 (내삼리)",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 8,
+    "name": "전화번호",
+    "val": "0507-1447-1309",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 13,
+    "name": "설립일자",
+    "val": "20230614",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 15,
+    "name": "종업원수",
+    "val": 3,
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 18,
+    "name": "업종(NICE BizINFO(업종)참고",
+    "val": "그 외 기타 일반목적용 기계 제조업",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 24,
+    "name": "사업자번호",
+    "val": "5478603136",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 25,
+    "name": "법인번호",
+    "val": "195511-0286827",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 31,
+    "name": "결산월",
+    "val": "12월(추정)",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 33,
+    "name": "최근매출액",
+    "val": "390800",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 48,
+    "name": "업종_대",
+    "val": "제조업",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 49,
+    "name": "업종_중",
+    "val": "기타 기계 및 장비 제조업",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  },
+  {
+    "col": 50,
+    "name": "업종_소",
+    "val": "일반 목적용 기계 제조업",
+    "fill": {
+      "argb": "FFFFA500"
+    }
+  }
+]
+

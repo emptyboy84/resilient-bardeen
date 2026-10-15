@@ -1,0 +1,10 @@
+The search for ""와이피엔터테인먼트" OR "와이피엔터" "김재훈" OR "문중길 41"" returned the following summary:
+검색 결과, **와이피엔터테인먼트(주)**는 2021년 5월 12일에 설립된 법인으로 확인되며, 관련 정보는 다음과 같습니다[1][2]:
+
+* **대표자/설립자:** 김재훈[1][2]
+* **소재지:** 부산광역시 기장군 일광읍 문중길 (번지 상세 주소 생략)[1]
+* **업종:** 유선, 위성 및 기타 방송업 (표준산업분류: J60222)[1][2]
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsdNHJ3wF2zFh_FcYoN2fMbbXHASP-fs1gOeDqZnObkrcVc6Ea7GMVHUdHhw-oBfCLkLfF78lS0e1htSio8GZkDf7evzo76zH_aFNsr77LBt5HlLMGsfjxAmkQMWsZac4wDuW6pHAcdjuu-kwtqQWt3ak=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET5PvyrF-mw60l-ewPMQgS4XKrjU-mHoI9IU6g5DCKb-vYL7kb0En1Zx_5m9RUzp4zlvuTD6yl4Y1MJcZACfFo1AnL9TyUa-MJWgmCJZfPnr9-ly-Hq1zSy-Q2hzLejpN5d46S)

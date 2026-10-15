@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EC%9E%91%EC%9D%80%ED%86%B5%EC%9D%BC');
+```
+### Page
+- Page URL: https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EC%9E%91%EC%9D%80%ED%86%B5%EC%9D%BC
+- Page Title: 작은통일
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-22-46-679Z.yml)

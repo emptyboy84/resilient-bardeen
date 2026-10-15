@@ -1,0 +1,18 @@
+The search for ""레고스토어" "센텀" "알케이" OR "알케이이앤에스" OR "미래엔" OR "사업자등록번호"" returned the following summary:
+부산 신세계 센텀시티몰에 위치한 레고스토어의 운영사는 **주식회사 엘씨엠(LCM)**입니다[1][2].
+
+문의하신 '알케이', '알케이이앤에스', '미래엔' 등과는 직접적인 운영 관계가 확인되지 않으며, 해당 레고스토어와 관련된 사업자 정보는 다음과 같습니다[3][4].
+
+*   **운영사:** 주식회사 엘씨엠[3][4][1]
+*   **사업자등록번호:** 755-81-00415[3][4]
+*   **대표자:** 이혜진[3][4]
+*   **주소:** 서울특별시 강서구 마곡중앙로 111, 101동 3층 304~308호 (마곡동, 롯데캐슬 르웨스트)[3][4][1]
+
+레고스토어 센텀시티점은 레고그룹의 가이드라인에 따라 운영되는 공식 인증 매장으로, 국내 여러 레고스토어 지점들 또한 주식회사 엘씨엠에서 운영을 맡고 있습니다[4][5][2].
+
+Sources:
+[1] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAuxZ6ZcduGL8OrI0aFyJGsHEiKoQ1eh0pHJ2tyGUifCQiVX8xne4jDCJPUARMR9c2waeljAtZAepcO4fYqF3QZizwHIHxHXA5rIrz9VZJAzzcb6pdOQol8i3TXw8tW2BuJpoWNPYf0GIIhivtgDC0koTczCHxFQlFDn-__pbcgmY16yatwABvBHip6zRUdGJdUmfXwTKEzrCC6O4hu7GmJXAm76r30nKmjVJBZebUYIUQZmVJ6Ng31dHK7xKkZoIDYvWQPIzgf5DEksGLg4bnhg==)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcDqLrR74MVSkxdxrZqG_yZQ1vvyd8iy1S2Qei1PeTDL2z-gNMCaxKPiplgGCquL1ANiN9GEJuMGbLCrhWOWxgfMoVannZs_WS80TvNMM6alsnfvBbKYlUGZ5R64Rc05i7gIBTahbRgYGrUQ6Jb3GsmLg_M_rIog==)
+[3] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0tw0A568QVopAYOrRhrxVgufoyrV3IIF6MmhmE6FbMFwFunMVhYRSrePrQ30OUVNGdwD6M6eFaQXTzUmJP3MhEiGFhunUK4I3NaJtTOEw)
+[4] [lesprepay.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW6reaoCnzto-dlauP6Xnz5t_Y_9Pbxih1DiW5tWZJ6Cy-THUh8twHnU2DotSn6nK914L6BA48ybiZJn7BaigyorQS_Otx9TeBCEBg2pFCmpY=)
+[5] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcDqLrR74MVSkxdxrZqG_yZQ1vvyd8iy1S2Qei1PeTDL2z-gNMCaxKPiplgGCquL1ANiN9GEJuMGbLCrhWOWxgfMoVannZs_WS80TvNMM6alsnfvBbKYlUGZ5R64Rc05i7gIBTahbRgYGrUQ6Jb3GsmLg_M_rIog==)

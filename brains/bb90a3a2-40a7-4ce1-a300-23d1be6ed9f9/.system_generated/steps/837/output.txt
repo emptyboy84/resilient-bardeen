@@ -1,0 +1,8 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-835
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-835.log
+Log output:
+Corp Search (주)에스오더 (120111-1204742) -> 13 articles
+Corp Search (주)스튜디오정글 (180111-1398329) -> 13 articles
+
+Last progress: 0s ago

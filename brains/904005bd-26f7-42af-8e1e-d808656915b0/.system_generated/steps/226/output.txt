@@ -1,0 +1,19 @@
+The search for ""부산" "녹음실" "블루" OR "BLUE"" returned the following summary:
+부산에서 '블루(BLUE)'와 관련된 녹음실 및 스튜디오 정보는 다음과 같습니다.
+
+*   **블루엘 녹음실 (Blue L Recording Studio):** 콘텐츠 제작 및 포트폴리오 작업을 수행하는 녹음실입니다[1][2].
+*   **스튜디오 블루 (Studio Blue):** 부산 남구 유엔로215번길 35에 위치한 스튜디오로, 주로 사진 촬영 관련 서비스로 안내되고 있습니다[3].
+*   **블루바이브 (Blue Vibe):** 부산 서면에 위치한 댄스 및 보컬 연습실입니다[4].
+
+검색 결과 중 **'레블 스튜디오(Reble Studio)'**라는 곳이 부산 녹음실(부산광역시 소재)로 등록되어 있으나, '블루'와의 직접적인 연관성은 확인되지 않았습니다[5][6]. 또한, 서울 서초구에는 '블루소노(BlueSono) 레코딩 스튜디오'라는 전문 녹음실이 있으니 혼동하지 않도록 주의하시기 바랍니다[7].
+
+찾으시는 특정 업체가 위 목록에 없다면, 정확한 상호명이나 위치 정보를 추가로 확인해 보시는 것을 추천드립니다.
+
+Sources:
+[1] [blue-l.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJXsqSrqf-o4yV0HgYa3XFVHoDljy4opi1Ur7WfHTeqvG6Lmie6nGQrOXE6mXI8sxYabIfHIVZhy3LrDuxL086FOc8y7a825zXnSjFBeSmx1bFIeY=)
+[2] [blue-l.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJXsqSrqf-o4yV0HgYa3XFVHoDljy4opi1Ur7WfHTeqvG6Lmie6nGQrOXE6mXI8sxYabIfHIVZhy3LrDuxL086FOc8y7a825zXnSjFBeSmx1bFIeY=)
+[3] [dir.today](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW3sJPuq2GQSEMV8cQp4VsneW5ckUT3ofTn7Wx5yPfi4nawSYbOrNyShOF6TI-QQVUZri9KN3VZatLjpKs9jNhNLvAYkZxWcuSM1twT91N1IXH7zVy2Gijam__BiyuhX1gV6fAPe2twv9IeYu-GlVLgIduvzbTuLX-9NZCPBM2)
+[4] [spacecloud.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoD2LAEv5HuleXmSIFwOromc6ykSM4b0O8wlBWSbc1z4WAmOZs4_JHmqkIiXgNQUYAyOEQVUFMInfkINZHKYkH-M8eXtdgNYHrSm2tmS2Xucd_-Yt6-q_LRPA=)
+[5] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj2LG5IUMGycj4ZwIzxDSfaMXjGQIQDZ-O_weHCVkUkRq90-K3h7fwot0wCOYj8Orw_VOW6H7K7VGnqIdikdjTqDiBOkDXjRimqH6sI-O0KdN06vhGQQGS)
+[6] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTs4OeMOvFg1r6dtFQaF5RhBRejBKbtLUPJI1yYJlvjzZSPSTiKTdxwMGKJ_C7Odm4KHqcAWOXnb5H_DIbVN420ya1hfrG9IOPY4R1a5rbvCW9xrV6rWP5)
+[7] [bluesono.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA46ZRBx6MfUzDwkfmxb2D1onDn4H77V3qcQUbRv6AYBqRzQKt6c9GNn-37zYkQhgrXOOiCY1ofXJs48nENpez4iXPl_tbie3eDIYOWRQH4os=)

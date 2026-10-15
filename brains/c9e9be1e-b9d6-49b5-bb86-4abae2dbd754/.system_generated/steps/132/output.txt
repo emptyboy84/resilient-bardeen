@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+7601400870 한울기업 | status: 정상 | ceo:  | zip: 50875 | corpNo:  | cat: 제조업 / 기타 기계 및 장비 제조업 / 일반 목적용 기계 제조업
+7601501084 디케이이(DKE) | status: 정상 | ceo:  | zip: 46728 | corpNo:  | cat: 제조업 / 금속 가공제품 제조업; 기계 및 가구 제외 / 기타 금속 가공제품 제조업
+7606400410 디에이치글로벌 | status: 정상 | ceo: 황소용 | zip: 46729 | corpNo:  | cat:  /  / 
+7608700059 주식회사 에이치티나노 | status: 정상 | ceo: 김현태 | zip: 46334 | corpNo: 180111-0967068 | cat: 제조업 / 화학 물질 및 화학제품 제조업; 의약품 제외 / 기타 화학제품 제조업
+7610401908 사브와비브르 | status: 정상 | ceo:  | zip:  | corpNo:  | cat:  /  / 
+7610701383 유민테크(U-MinTech) | status: 폐업 | ceo: 송상* (※폐업자는 *로 표시됩니다) | zip: 46729 | corpNo:  | cat: 도매 및 /  / 무점포 소매업
+7611000012  | status: 폐업 | ceo:  | zip:  | corpNo:  | cat:  /  / 
+7617400052 남민테크 | status: 정상 | ceo:  | zip: 52066 | corpNo:  | cat: 제조업 / 기타 기계 및 장비 제조업 / 일반 목적용 기계 제조업
+7618700130 유한회사 을분문화산업전문회사 | status: 정상 | ceo: 이진훈 | zip: 04627 | corpNo: 110114-0165339 | cat:  /  / 
+7618701110 한서전자 유한회사 | status: 정상 | ceo: 신양호 | zip: 51554 | corpNo: 194214-0012992 | cat: 제조업 / 기타 제품 제조업 / 그외 기타 제품 제조업
+

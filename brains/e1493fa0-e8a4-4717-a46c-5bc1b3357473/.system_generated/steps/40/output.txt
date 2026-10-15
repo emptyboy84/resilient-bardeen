@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Searching rows...
+Found: [
+  { rowNumber: 15001, colNumber: 4, val: '6090653247', name: '청우정공' },
+  { rowNumber: 15001, colNumber: 24, val: '6090653247', name: '청우정공' }
+]
+

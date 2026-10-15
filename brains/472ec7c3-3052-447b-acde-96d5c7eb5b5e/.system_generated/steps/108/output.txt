@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+
+
+FileVersionRaw     : 157.0.8089.0
+ProductVersionRaw  : 157.0.8089.0
+Comments           : 
+CompanyName        : Google LLC
+FileBuildPart      : 8089
+FileDescription    : Google Installer (x86)
+FileMajorPart      : 157
+FileMinorPart      : 0
+FileName           : C:\Users\lg\Downloads\GeminiSetup.exe
+FilePrivatePart    : 0
+FileVersion        : 157.0.8089.0
+InternalName       : Google Installer (x86)
+IsDebug            : False
+IsPatched          : False
+IsPrivateBuild     : False
+IsPreRelease       : False
+IsSpecialBuild     : False
+Language           : �(�̱�)
+LegalCopyright     : Copyright 2026 Google LLC. All rights reserved.
+LegalTrademarks    : 
+OriginalFilename   : UpdaterSetup.exe
+PrivateBuild       : 
+ProductBuildPart   : 8089
+ProductMajorPart   : 157
+ProductMinorPart   : 0
+ProductName        : Google Installer (x86)
+ProductPrivatePart : 0
+ProductVersion     : 157.0.8089.0
+SpecialBuild       : 
+
+
+
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://m.map.naver.com/search?query=010-9514-1435');
+```
+### Page
+- Page URL: https://m.map.naver.com/search?query=010-9514-1435
+- Page Title: 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-43-49-748Z.yml)

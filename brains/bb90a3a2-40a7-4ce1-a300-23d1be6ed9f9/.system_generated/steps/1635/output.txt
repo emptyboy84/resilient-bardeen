@@ -1,0 +1,11 @@
+The search for ""김정헌" "벽산이센텀클래스원" OR ("김정헌" "센텀동로 99") OR ("에보솔루션" "김정헌")" returned the following summary:
+입력하신 검색어 조합은 부산 해운대구 센텀시티 내 지식산업센터인 **‘벽산이센텀클래스원’**(부산광역시 해운대구 센텀동로 99은 1차, 센텀동로 71은 2차 건물 주소)[1][2] 내에 사업장을 두거나 법인 설립 이력이 있는 인물, 혹은 특정 상호명(**에보솔루션**)과 연관된 **‘김정헌’**이라는 이름의 데이터를 찾기 위한 것으로 보입니다.
+
+공개된 법인 및 주소지 데이터에 따르면, 2019년 12월 부산 해운대구 센텀동로 99(재송동, 벽산이센텀클래스원 1차) 주소지에 신설된 법인(예: 티투티 등 유통·기획 관련 법인)의 대표자 성명으로 **김정헌**이라는 이름이 등록된 기록이 존재합니다[3]. 
+
+특정 기업 정보나 인물에 대한 상세 내용(연락처, 사업자 세부 정보 등)은 개인정보 보호 및 보안 정책에 따라 제한될 수 있으므로, 정확한 공식 확인이 필요할 경우 해당 주소지의 건축물관리대장나 관련 공공기관의 법인등기 정보를 통해 조회하시기 바랍니다.
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Xfh1ak3YF_4jCFSZIsDN4GgUiRyFVtUUFXtBqn7tEhJ-1F3O45SC_1GltNdox7kqmqMY5hi-MFCdF2rbFbCNI7cPdhUtiugAjpkuz2oE-p0PVRIUKsz54S1tsZDQgSEeznMJOdGeAsTK6uoIWuxCk-bq7rpLgYsOlBgYGJVpT9foHRYblzQGk1p4N64v2QV38nsako1MJglWLVmolry3X2W1_PJxWa9EBmlti0iacaegDFahdc7aOzBJnazn22couO-u6wtDPONkymEoRXXJBIi87hOrGFCP_oN18EXqZo_2CXC_PHOivIg_MKITE_o8K9veI_9srGcsh2znwQcRH1vlY2o4oUCv1N1sTdlk49nKDQ==)
+[2] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUonMa2GUhVpAun7g7iGSOy5YydQgfgSgZt3k7UXoWF1L2x23nDCLZ3YT1qBOKva4sPesV1Yru3Mu-jgYf-uT-MZDwM53gYkFLPgpu-lfKGcOpHoYsP83sOxnyWRcwcTCpSrGyHLEshYOyjhyjLcV397wp8fLVupShb3fKbYLKj9q2BZGb26cTsT5l61AXjdaIDu5oL8sfXq8LVpIFiq7WtQJzxmzK1KBgV0qbtpBGIICEhGoqw43DE0IcUm4XWH3Rz0yA3uW9N9KNcspz9gmSrIbwXl024ZGgZkTz7bx-CPmm7VLsmyq2Ywgd9p-cmGI1GBBfMfRXTIG8c2krllfruJW6WiVL8waRzgnXw6Uy9LhI2wBxABMEtEbuBR0iKmYu1UQJZM8-GqYkkolTawgGnYszoqDHu0On0h5VTruiPDZ5EkJIG8GKTWQ=)
+[3] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEU2jJ-gT0Q9Pvv2YmcRHQZTG1hZy83gRRnmT2uaCRr9ezzZktwkt2_aWzp7YeMPGS3OfFmfVacog6otUIm8D2MXn7AuXDUx_lTa42pImXCoFSUOZsK2f9_BPbsVUQqLC7yALaV8Xkenim)

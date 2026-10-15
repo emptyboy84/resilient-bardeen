@@ -1,0 +1,13 @@
+The search for ""증산서로" 부산 동구 우편번호" returned the following summary:
+부산광역시 동구 **증산서로**는 건물번호(상세주소)에 따라 우편번호가 다를 수 있습니다.
+
+예를 들어, 증산서로의 특정 주소 우편번호는 다음과 같습니다.
+
+*   **부산광역시 동구 증산서로18번길 12-6:** 우편번호 **48767**[1]
+
+도로명주소의 우편번호는 상세 주소(건물번호 및 길 번호)에 따라 차이가 있으므로, 정확한 우편번호를 확인하시려면 [도로명주소 안내시스템](https://www.juso.go.kr/)에서 찾으시는 정확한 주소(예: 증산서로 + 건물번호)를 입력하여 검색하시는 것을 권장합니다[2][3].
+
+Sources:
+[1] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDlDciZajtQ3Vzc90n6bApi1HofsPkCAsRgCI9xFC4HhrG5wlUyeC4bnHZfFtS6VJ4b81sm1GMejqEGpsaTkzBT5T4H2K6ebwXhzA-pzZ9dMzOJ5OZWqMqx2karHmTQozCU8lkL_5q1bAd7LGd_blcSKiufBSVDJH7HzJ5uU0BYMA=)
+[2] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXEDLq40UoT5gJiQBGVjfNw07sZw-Vky-rP2Pev_gVj6xH8B1WAoox38IsZHa3Wel0KYtcvUy6Zj2axOumBEqhvBFLah3TZcuJ2HXzzvYve2W1YFwK_S_lO5-5Uegijw==)
+[3] [eps.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRWF6_zZzCgrbIcPzDLQl1tR_bB3dTyJ34LCCo7Ifdm1NmDwaMja_96DXSdUivGNhz3L3autS7VK1MmcIvNapFnhLbd2IhArfSn1KtrSLsEhelj6qt9zYv0EV6acBHnPUU)

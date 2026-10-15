@@ -1,0 +1,9 @@
+The search for ""뉴스본다코리아"" returned the following summary:
+'뉴스본다코리아'는 **ND소프트(인터넷신문 솔루션 업체)의 고객사 중 하나인 인터넷 언론사**로 확인됩니다[1]. 2021년 10월경 해당 업체 서비스를 통해 프로젝트가 진행된 바 있습니다[1].
+
+한편, 질문하신 단어가 특정 언론사 이름이 아닌 '뉴스를 본다'는 일반적인 표현과 관련이 있다면, 최근 미디어 환경 변화(숏폼, OTT, AI 챗봇 등을 통한 뉴스 소비)와 관련된 기사나 언급에서 사용되었을 가능성도 있습니다[2][3].
+
+Sources:
+[1] [ndsoft.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBFoh04f1KCLaz2XaPj9QxrlMr3UI4F8_keOZuzfT_o7dds6wc7rH8SyZsRSo-RGEXEI-PQz9n_YZU46FHNmV90UiFTkkF7RZUNKhtskuTX5ovJKpSmgyLQq0ActnGrPF6AafSmwMypmNqF9mvzpIKfydxcJ8xuKUmftMTOPbfV5wcnZ3bb1_touoRAfrCxoBstjSrWg==)
+[2] [banronbodo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx3qBqANtKq-CkzRZl5heh_CNCkfOVbzqpLLQL9AphGnR0WoCDeD3qSdTAMq6nk-hDLLUJN5oBAU__9C54ecjEzDpouTPOZR_-xsXuDUkBF4SZTeWIPDbcQPRHtLR7E5uVcjE5jkp-VNaQqxOzScyh6_k=)
+[3] [kukinews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcXm3WkU_19Jgtj8KKidriHqqagbSJg_Tvbk7HsUPb8kYg0XENkjmnULnZfilxbcuS-Q35FRkwOLZTrykwDPCH_ehxh4AZ2jCnTSOThD-UEvauI8UbFqiOCqARKL9VM2GRsdPT51c35gyRKQ==)

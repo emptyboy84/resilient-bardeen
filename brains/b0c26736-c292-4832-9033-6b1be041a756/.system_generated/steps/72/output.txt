@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%EC%A0%95%EC%84%9D%EC%9D%B8+%EC%9E%90%EC%84%B1%EB%A1%9C');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EC%A0%95%EC%84%9D%EC%9D%B8+%EC%9E%90%EC%84%B1%EB%A1%9C
+- Page Title: 정석인 자성로 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-25-54-819Z.yml)

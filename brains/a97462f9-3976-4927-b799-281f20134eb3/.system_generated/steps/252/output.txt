@@ -1,0 +1,21 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1917,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\unpopulated_271.json","LineNumber":2358,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_blanks.json","LineNumber":2442,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_229_blanks.json","LineNumber":1580,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":2900,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\exact_blanks_229.json","LineNumber":2442,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119_list.txt","LineNumber":85,"LineContent":"[85] Row 2100 (순번 2099): 와라봐라 | Type: 만화 | Rep:  | Phone: 051-582-0944 | Addr: 남구 용호동 동명로"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119.json","LineNumber":761,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_rows.json","LineNumber":2878,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\real_unmatched_274.json","LineNumber":2878,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1686,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_unverified.json","LineNumber":1603,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_274_results.json","LineNumber":4230,"LineContent":"      \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":2826,"LineContent":"    \"사업체명\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_utf8.txt","LineNumber":91,"LineContent":" 91 | Row 2100 | 와라봐라                      | CEO:            | Tel: 051-582-0944   | Addr: 남구 용호동 동명로                         "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_detail.json","LineNumber":1896,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132.txt","LineNumber":93,"LineContent":"[91] Row 2100 | 상호: 와라봐라 | 대표:  | 전화: 051-582-0944 | 시군구: 남구 | 주소: 남구 용호동 동명로 | 업종: 만화"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3366,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1739,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1150,"LineContent":"    \"name\": \"와라봐라\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2724,"LineContent":"    \"name\": \"와라봐라\","}

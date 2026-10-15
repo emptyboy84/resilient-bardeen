@@ -1,0 +1,16 @@
+The search for "site:nicebizinfo.com "에스지이" "이혜정" ("전화" OR "TEL" OR "팩스" OR "051")" returned the following summary:
+NICE기업정보(NICEbizinfo) 데이터에 등록된 **(주)에스지이** 기업의 기본 정보는 다음과 같습니다[1].
+
+* **회사명:** (주)에스지이[1]
+* **대표자:** 이혜정[2]
+* **업종:** 응용 소프트웨어 개발 및 공급업 (표준산업분류: J58222)[1]
+* **설립일자:** 2023년 8월 25일[1]
+* **소재지:** 부산광역시 해운대구 반송로525번길 15, 4층 405호 (반송동)[1][2]
+
+※ NICEbizinfo 사이트의 세부 기업분석보고서 및 유료 상세 정보(전화번호, 팩스 등 상세 연락처 포함)는 해당 플랫폼에서 로그인 및 보고서 열람/구매를 통해 확인하실 수 있습니다[3][4].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA-K1IO0GQIdYMYMAhIjCSyyCDg9sU1TTxyTCsN5PiUugYwEEizwEEpqr1ulXlxZPvRcYICRNIyA3vZqf6qstdUeoG8gTYL0Oavm43DWO4VxKVx1otTPiBkOJgIknMaokrvEt0ttAZteaIJ-Fh187z-j2o)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJq1XkN_leASV0Psr-6n6RlW9auQu97qkSZDZA9TaWxwYbHzlGmR09mipKWNhM2Fi-ohO_IwW1SEmXiXV13bfjfrTCr0FvnhxWF0UHbJKKXj0-W2NcNZP7H4L7meLopZmqmg0CLOTtR4JkC8tnS2dwdTFLahnwGy5teCvcqYFSisP6i3eG3Z7gGkPo9AD01VRjzEFwDqVZfDlpp52Axb9kJtvV5FqnAh3x7PUUEGLaMwfLGi7sXvVXSvtAfmz_u57we1PzYtb2gnAT1BvPuUqXDA==)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHbHPatnh-BkRLkQdl32exNXa7N6uxoBmwsqtY23dKd26Z5CN5qTNOITG5WZCQJcqgOxqGNeixcokkhWjuxz3KPFyqlP2k9rg_4d4-xdfI1sVmkkvpusIXnIyspzx9IANFcuq8_IAqYi6S6-ifaimxsk=)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA-K1IO0GQIdYMYMAhIjCSyyCDg9sU1TTxyTCsN5PiUugYwEEizwEEpqr1ulXlxZPvRcYICRNIyA3vZqf6qstdUeoG8gTYL0Oavm43DWO4VxKVx1otTPiBkOJgIknMaokrvEt0ttAZteaIJ-Fh187z-j2o)

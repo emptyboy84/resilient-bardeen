@@ -1,0 +1,19 @@
+
+The command exited with code 1.
+Output:
+�ġ �:5 �:12
++     .Close()
++            ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:8 �:18
++     Write-Output " FILE_IS_LOCKED:  \
++                  ~~~~~~~~~~~~~~~~~~~~
+�ڿ� " �ڰ� �ϴ�.
+�ġ �:7 �:9
++ } catch {
++         ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedExpression
+ 
+

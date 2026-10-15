@@ -1,0 +1,14 @@
+The search for ""창원시 의창구 소계동 351" 도로명주소 우편번호" returned the following summary:
+경상남도 창원시 의창구 소계동 351번지는 현재 **팔용동**으로 편입된 지번입니다[1].
+
+해당 지번은 도로명주소 체계에서 건물의 위치에 따라 개별적으로 부여되므로, 정확한 도로명주소를 확인하시려면 [도로명주소 안내시스템](https://www.juso.go.kr)에서 해당 지번의 상세 건물명이나 정확한 위치를 입력하여 검색하시는 것을 권장합니다[2][3].
+
+참고로, 소계동 일대(의창구 소계동)의 우편번호는 대체로 **51183~51186** 구역에 해당합니다[4][5]. 우편물을 보내시거나 정확한 주소 정보가 필요하신 경우, 검색 사이트에서 지번(소계동 351)을 입력하면 해당 건물의 구체적인 도로명주소와 5자리 우편번호를 확인하실 수 있습니다[6][3].
+
+Sources:
+[1] [changwon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDHtUPDRLlJ5FehENdM7X7W8Znj4BmACt4ZqkhgGBwvoeJhHkjOjnUOY-QXmxidocS7bCKfpeZPooQJXSCjau9mCcXQwf4XN5fv4QBA8tgUUD30G4mDSYUPifXUimVFKcciF7M-bgIaYZvI6Ryv2M=)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEjZt8K2YAYeNB0wdDv7vmxiXlstnLfnMl4ycTnPBonut7WII_gaOWxDsZVgrui7V3OzvvZuITFiXnO1XQ1JIkGXb4U4n2srRFNoh3Y6knSMK1PIxI58u3qBlXAufzaF1Iwds2vQKjeyw3)
+[3] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF93ncGDpdb_d7Tip7eHEj7CsdQ3JzEchGfj_t7Hxfxrje7otoAAXSL96lGFjOyYjRvrX7Qc29Aur_a4lb_hHiGFcNa_NjpNqVW0Hb2AmpU8eSPTLnjKrQ_cBLTaQo9t7wqxCKmh6ZfC1ul5VJABAOoCNtBx2nouGJhsAU=)
+[4] [apt4.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoNgIER8rrGrp2nzizsgJf1M-sQCMb8SyEptaalGH0nD-lSA5cseph-XW3-JG30_A_aiA3M_JzPCTLB8Jkt1X8Y8IYSQk8FuV-udwF9lG_EItjkz0EcIoW0KOR_--8RSMslFx793G6utAsflgRgSftL04quf8sKRSOG9AlegiIOV9foc-GVzlVQZ0dRJ0EPUiAyvfNQvtJZd8drx2osKUBIy8U_27UlJBd3O2vPhJJrU77eK1uQ1EGp5MLlZWJyKkP7KTGx1o685Ppcsg5njURFVU75UKmGORLXVdxaRDxyO3pjVVxjD53lBr2iw==)
+[5] [apt4.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoNgIER8rrGrp2nzizsgJf1M-sQCMb8SyEptaalGH0nD-lSA5cseph-XW3-JG30_A_aiA3M_JzPCTLB8Jkt1X8Y8IYSQk8FuV-udwF9lG_EItjkz0EcIoW0KOR_--8RSMslFx793G6utAsflgRgSftL04quf8sKRSOG9AlegiIOV9foc-GVzlVQZ0dRJ0EPUiAyvfNQvtJZd8drx2osKUBIy8U_27UlJBd3O2vPhJJrU77eK1uQ1EGp5MLlZWJyKkP7KTGx1o685Ppcsg5njURFVU75UKmGORLXVdxaRDxyO3pjVVxjD53lBr2iw==)
+[6] [cyhds.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM47H7y-KWS4eJM0A8sVZGJJ-5xLAruIWfQ_td9So6Wure6M3QwwY_Zn_gr7mqZTrDQL6kyMXzHLUpcQiklq4CazfPqT0vnPtXXgzndh6xZmIEbzhQT1dqjicerU-Mx_-_ReTJR3tRKNn8uiQzatRt5Es0Z559y9xH-v4sSe2O674=)

@@ -1,0 +1,21 @@
+The search for "site:bizno.net "케이엘정보통신" "재송동" OR "센텀IS" OR "센텀북대로"" returned the following summary:
+케이엘정보통신(주) 부산지점에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 케이엘정보통신(주) 부산지점[1][2]
+*   **주소:** 부산광역시 해운대구 센텀북대로 60, 5층 508호 (재송동, 센텀아이에스타워)[3][4][5]
+*   **전화번호:** 051-714-1076[3][4][5]
+*   **팩스:** 051-808-1076[3][5]
+*   **주요 업종:** 소프트웨어 개발 및 유지관리[6][7][8]
+
+해당 기업은 전국 단위의 IT 서비스 전문 기업으로, 부산지점 외에도 서울 본사 및 대전, 대구, 광주, 원주에 지사를 두고 있습니다[9][8].
+
+Sources:
+[1] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEtS6CnYwf5dMKN5-jWtHxUR7hlAeaAOUVu_TT4TcpB9-tkjWEaky33zpX2qe_GLzxJOCvp1T5OhMLzyKec8_jZxYrf3_8P9ixuMfRv1ltoRluGp-sotZr-yvn8kjO1NZb2cErebmYkH1j6LUkWAvI3io3aJ62Dh02iRMxL1tcZUAhXoNC0oE=)
+[2] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEtS6CnYwf5dMKN5-jWtHxUR7hlAeaAOUVu_TT4TcpB9-tkjWEaky33zpX2qe_GLzxJOCvp1T5OhMLzyKec8_jZxYrf3_8P9ixuMfRv1ltoRluGp-sotZr-yvn8kjO1NZb2cErebmYkH1j6LUkWAvI3io3aJ62Dh02iRMxL1tcZUAhXoNC0oE=)
+[3] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8mIm9mWShe2npZEAwyQt6I_jTxvbKa62xDXosWCmM5bNzI9MW0MvEyVMzPkDbE_fW-IxusWNvobcplkbYa-H-9eGNPy6qT90OUIkUioqDYTAfrtXg-nNjXpvTZKd5I1ryppfmQkRUQs4=)
+[4] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdB09dzmiIbqY54c6w8NtqqfGVXWXo6JB73W0dBSd_Xn6LOMZm3ZDyst_Avgwny1Q638emjRRveEDrWEgVPEyzTlGRWb3MHQ5pknq-Lg==)
+[5] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKrbSUyQrQbau3r77u4iMMTCzdvO_mgiibHbecx-ijULdsgZ3gWLrifQD5vKapgR1qViJzYzY8t6XCkyJqcuEp3FxBAbXjzNn3O6DsmLHd4IecT6Po6n2Nj8vM69CAKZatxN57BX3d)
+[6] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaICCg9JiUOXeLv5851ATmIbu8JwuJ8USChx4pODBusZLs_jzn9ruAh1em4KkcizvSrkPehfkQJXSUx-RWRr-8_JGhKDMzhjHDY2seQ01k3ChbFO-MKzqAS4HrOmQDAIB8e4AXXhfNU3Yzj6JIPg2XM5S)
+[7] [kais99.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF50rUjnSmHniNp8Ah2iGOpTlTD78lTQpk_dyMukxQinUOujfu70jmA7dPfWK86RvVjs4WhWDzxZVjfEUPjchrq5g25lEwhxKRtsR5q3p7ctSbzBhECNfi6lXSt-fWrn35rRXvWQDf-Le4LwcxjfMYgQhkk1hXXMJcJ1cld5FBvY_60Fp_Y31k=)
+[8] [kais99.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF50rUjnSmHniNp8Ah2iGOpTlTD78lTQpk_dyMukxQinUOujfu70jmA7dPfWK86RvVjs4WhWDzxZVjfEUPjchrq5g25lEwhxKRtsR5q3p7ctSbzBhECNfi6lXSt-fWrn35rRXvWQDf-Le4LwcxjfMYgQhkk1hXXMJcJ1cld5FBvY_60Fp_Y31k=)
+[9] [klic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKrbSUyQrQbau3r77u4iMMTCzdvO_mgiibHbecx-ijULdsgZ3gWLrifQD5vKapgR1qViJzYzY8t6XCkyJqcuEp3FxBAbXjzNn3O6DsmLHd4IecT6Po6n2Nj8vM69CAKZatxN57BX3d)

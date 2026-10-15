@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+=== Current Status ===
+ACPI 0x30: 0
+TouchPadMode: 9
+
+=== 1. Hardware ACPI Touchpad ON ===
+Set ACPI 0x30 to 0 (Enabled): True
+
+=== 2. Update LG OSD Registry ===
+HKCU\Software\LGE\OSD Touchpad set to 0 (On)
+
+=== 3. Update Windows Precision Touchpad Registry ===
+Windows Precision Touchpad Enabled=1, LeaveOnWithMouse=1
+
+=== 4. Notify LG Hotkey Manager ===
+"2"� �μ� �ִ� "Invoke"�(�) ȣ�ϴ� � �ܰ� �߻�߽�ϴ�. "�Ű� � � �ġ� �ʽ�ϴ�."
+�ġ C:\Users\lg\.gemini\antigravity\brain\211c437a-15bb-44af-a76a-d6654c8fc8c3\scratch\fix_touchpad.ps1:40 �:5
++     $fireMethod.Invoke($ctrl, @())
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : TargetParameterCountException
+ 
+Fired TouchPadChanged to Hotkey Manager
+
+=== Verification ===
+ACPI 0x30: 0
+TouchPadMode: 8
+LG OSD Touchpad Reg: 0
+PTP Enabled Reg: 1
+PTP LeaveOnWithMouse Reg: 1
+

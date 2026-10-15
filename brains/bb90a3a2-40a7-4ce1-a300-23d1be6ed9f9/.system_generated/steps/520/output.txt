@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.getByRole('button', { name: '기업상세 범례 활성화 (주)저스티스어드벤처 177-' }).click();
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=HS6553
+- Page Title: '1778100390' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T01-42-23-978Z.yml)

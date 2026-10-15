@@ -1,0 +1,14 @@
+The search for ""주식회사 메타존" 사업자등록번호" returned the following summary:
+'주식회사 메타존'이라는 상호를 사용하는 기업은 다수 존재할 수 있으며, 검색 결과에 따르면 에듀테크 관련 사업을 영위하는 기업의 정보는 다음과 같습니다.
+
+*   **사업자등록번호:** **809-88-02607**[1]
+*   **대표자:** 김태환[2][3][1]
+*   **주요 사업:** XR(확장현실) 실감형 콘텐츠 개발 및 에듀테크 콘텐츠 제작[2][4][3]
+
+참고로, 기업 정보는 본점 소재지 이전이나 사업 확장 등에 따라 변경될 수 있으며, 동일한 상호를 사용하는 다른 법인이 있을 수 있으므로 계약이나 공적인 업무를 위해 확인이 필요하신 경우 '국세청 홈택스'의 [사업자등록상태조회] 메뉴에서 해당 사업자번호를 입력하여 정확한 상호와 상태를 재확인하시기 바랍니다.
+
+Sources:
+[1] [aidi-edu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWLz8JKD0V8OEk2VBfOh8UALxBIQP0naiTeMmDf9II2w-I5mcGWcsL4rDLjAz1PutcPkde7nToXqPNLr2TvjBmhWSBeKecz2eMGg==)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAolgbOvTLMiL2JKvrOEU_HgeiZ-61BiiWF_hvFLerxJor_txrEocazYxWv7_HUNdIRuYzs52J3v2kAAw7HQKKFCo0hI42kIUdhUHe5-3pRnlh_HeSbJ6jH5stQGQMALu6a_p3VJkpQ6U0KtEhSa2yx9_P9uS9dZCHIl3qAl4UzuGixFSeFQ==)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTj-mgHXbLHrQyOGyqcjRwt1dsetBM9wzURU-a_jHJWJJGTAGrsh46TlqcNs3yWz3zYrZO0agpVW3ESXgk4-OUvH7KS6JGfDQivVS66hNw)
+[4] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw_3BjrJkDaP6UPhGEBUHuPM6rh1GG3V6kVJzb4L4ZM1wcJADeMbRr4qEZ_xiswvam51joGjylb-NBP2GFj65_QYXp2889E8rCWUVZkmrQBlUH3DGWyasVfwXWffOC7XOFiHvjQqIc__c=)

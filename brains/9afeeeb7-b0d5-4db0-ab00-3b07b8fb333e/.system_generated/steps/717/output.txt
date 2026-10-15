@@ -1,0 +1,23 @@
+The search for ""청정하이텍" "부산" OR "강서구"" returned the following summary:
+검색 결과, 부산광역시 강서구에 **'청정하이텍'**이라는 이름으로 등록된 업체는 확인되지 않습니다[1].
+
+다만, 이름이 유사하거나 부산 강서구에 위치한 다른 '하이텍' 관련 업체들은 다음과 같습니다.
+
+*   **MS하이텍**: 부산 강서구 유통단지1로 50 (대저2동)[2][3]
+*   **원진하이텍크**: 부산 강서구 녹산산업중로 227 (송정동)[4][1]
+*   **동성하이텍 (부산사무소)**: 부산 강서구 녹산산단382로 14번길 55 (송정동)[5]
+*   **지오하이텍크**: 부산 강서구 공항앞길33번길 85-1 (대저2동)[6]
+*   **서진하이텍(주)**: 부산 강서구 녹산산업중로 219 (송정동)[7]
+
+과거(1999년경) 뉴스 등에서 '청정하이텍'이라는 명칭이 언급된 사례[8][9]가 있으나, 현재 부산 강서구 소재 기업 목록에서는 찾을 수 없습니다. 혹시 찾으시는 기업의 업종이나 다른 구체적인 정보를 알려주시면 다시 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnMHhU_bfy9oqtpRVqgFnCvnlowUw1ytx31Nyfrs8Hae9qgBjSw4TqjNuYczMZTlK6bDCkSNUpFXDSMk5fLMhCH-PTHrTp72Bs5Hptj-LF4iKBwLIU8G-b2gP9YcNNQU68p0J-g==)
+[2] [mshitec.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d-jloatUeLPNxROYMjqvxMLPzW7xyIzTrpgd0W2piWAB5NdT8EqFU5i160tMa1vDVbZ52ZsJZMkgeLVoWdK3Nqnx-Um9bg3q-D6wlxUlQBsnNzHcYbZ7BZS3GpkBwjqtxfv-gqdZ67nQZWFDyA==)
+[3] [mshitec.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9d-jloatUeLPNxROYMjqvxMLPzW7xyIzTrpgd0W2piWAB5NdT8EqFU5i160tMa1vDVbZ52ZsJZMkgeLVoWdK3Nqnx-Um9bg3q-D6wlxUlQBsnNzHcYbZ7BZS3GpkBwjqtxfv-gqdZ67nQZWFDyA==)
+[4] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnMHhU_bfy9oqtpRVqgFnCvnlowUw1ytx31Nyfrs8Hae9qgBjSw4TqjNuYczMZTlK6bDCkSNUpFXDSMk5fLMhCH-PTHrTp72Bs5Hptj-LF4iKBwLIU8G-b2gP9YcNNQU68p0J-g==)
+[5] [ds-hitec.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF3LopHP0YFsGYTISCXhVJCjd0y2r-4t6Kt_p-437upi9nS_iPwiEOH43L-5a0D45K2GNC7FPLhg4-QUCOXg0wVfPk9VXNbIYwkjPcXEWIkrMTcH4dRrrQKkWz9ld7uVqXCAzQujMrRiG14JMnHbbYhiKS)
+[6] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LxMImopcxRr2Rdlqn5-SA-XQwHKIywIPE11GKiB3SRLB5HM6qrJqcwOqupfNpdwiQdPB4o5ejiK6ExcBiItYjn08-r7aCIARRrCUIdA7Uzzat3zLpZ5iKy6N)
+[7] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2GWLCH6Cs6eyPXSqSPF6xwcbBE8oLQMtTlH-1g6RVH32a-dypv_Je5EhU70l_HWrN6eK2MVAsKQkFLg5HjxQDZmlNLtwjHr9CuAGH35T2YWZKoxmmmXUQ0Md)
+[8] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoJPdSG9CSO6kWzhZunnNRmK15TsUVPkjDddKh884g8PUOUVhZ1WvegODxdBviDAysS7NL5xq2R2-EkbeF2HnrSSucQl6KMw4kb76YpDGQJuktKDVA64mpGou3HDN45dTk)
+[9] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzFoCSTKe3JSfSXRqIqSuS9udyFcetnZ_Ui0B2owvCLW8UlklvPXtSFmi0HTqfEz8EcKDPRImAIGSdCwmXsc-sKhqpaNcxnVkG3stip6fMKTgzaD_yZrTkj8OOBYBGKuJW)

@@ -1,0 +1,32 @@
+Task: 211c437a-15bb-44af-a76a-d6654c8fc8c3/task-56
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\211c437a-15bb-44af-a76a-d6654c8fc8c3\.system_generated\tasks\task-56.log
+Log output:
+<truncated 87 lines>
+ged
+2A 
+OnInheritanceContextChangedCore
+7E 9E 06 00 04 02 6F 55 04 00 0A 0A 02 6F 71 03 00 0A 28 21 65 00 06 0B 06 07 2E 20 7E 9E 06 00 04 02 07 6F 5A 04 00 0A 06 2C 07 02 06 28 41 06 00 06 07 2C 07 02 07 28 40 06 00 06 2A 
+ChangeSubtreeHasLoadedChangedHandler
+12 00 03 28 E4 64 00 06 12 00 28 FC 64 00 06 0B 02 28 03 06 00 06 2C 0A 02 12 00 07 28 45 06 00 06 2A 02 12 00 07 28 46 06 00 06 2A 
+get_HasNumberSubstitutionChanged
+02 18 28 1B 06 00 06 2A 
+set_HasNumberSubstitutionChanged
+02 18 03 28 1D 06 00 06 2A 
+get_HasStyleChanged
+02 20 00 00 00 02 28 1C 06 00 06 2A 
+set_HasStyleChanged
+02 20 00 00 00 02 03 28 1E 06 00 06 2A 
+get_HasTemplateChanged
+02 20 00 00 00 04 28 1C 06 00 06 2A 
+set_HasTemplateChanged
+02 20 00 00 00 04 03 28 1E 06 00 06 2A 
+get_AncestorChangeInProgress
+02 20 00 00 08 00 28 1B 06 00 06 2A 
+set_AncestorChangeInProgress
+02 20 00 00 08 00 03 28 1D 06 00 06 2A 
+add_ResourcesChanged
+02 17 28 6E 06 00 06 02 7E 98 06 00 04 03 28 FB 05 00 06 2A 
+remove_ResourcesChanged
+02 7E 
+Last progress: 0s ago

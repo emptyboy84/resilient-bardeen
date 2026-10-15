@@ -1,0 +1,18 @@
+The search for "site:bizno.net "배둔공단길"" returned the following summary:
+비즈노(bizno.net)에서 검색된 **경상남도 고성군 회화면 배둔공단길** 소재 기업들은 다음과 같습니다.
+
+*   **비아이피(주) 고성공장**: 경상남도 고성군 회화면 배둔공단길 67[1]
+*   **주식회사 성진이제닉**: 경상남도 고성군 회화면 배둔공단길 103[2]
+*   **주식회사 송효**: 경상남도 고성군 회화면 배둔공단길 104[3]
+*   **(주) 삼부**: 경상남도 고성군 회화면 배둔공단길 109[4]
+*   **주식회사 해강산업**: 경상남도 고성군 회화면 배둔공단길 116[5]
+
+참고: 비즈노의 기업 정보는 공공기관에서 수집된 자료를 바탕으로 하며, 행정기관의 자료 갱신 시점에 따라 실제 정보와 다를 수 있으므로 단순 참고용으로 활용하시기 바랍니다[6].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1wLYAa9tDQzR8wm65NnwPxjDFgLIQ8CdCu6zCG-jPG_XI85paetHNlZhaxsDfnZ8vUgnde0CsiKnRvWgDQs9DyiTzM1ESeV6yfC25dRz9UTRxsgynNXeVuoU=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqa3SfHpuFyQs1S4BNa1Pmj64F158Drl36V53EjuSROIX4j0LH2QkggxbofP6ym1PQzpsrZdVLamo8cObl-i_2pQauROIcAvFDQB7LDJeQRhbWL94LR5IPfCc=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCe6dEu2F2EUIKJJfFVnU-SfF1iDFuPQlkoUaCPStUw2X8OM4iV6o_9JSNs9d531IIXDLr4QWff1wIfn8kRpfBxJm6NxdcH-CX2IPPquCqo0LyhRR9b1dqamk=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn8O0_wVU9e7cDsp2D1BL8Tp_0mUNfctBACfolKQvVQ7UZRqbkiwYX2q8OifwO0bPLu2QiOkBtMCoNy83I9xXoNtHksKAI4SBg6d1CthK6nDWaTzmOmBoAznyi41hE)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaSbcrb1ddfa3HL5cYPADwoV0unozTJ99SmuNOiExv6Use0LUZIBz6sPOCWHlPOBs6N78sypKQRkFnVx2E89TtI7KCpuVyK417tC94aPI3lfo8Ys6J_mat9No=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1wLYAa9tDQzR8wm65NnwPxjDFgLIQ8CdCu6zCG-jPG_XI85paetHNlZhaxsDfnZ8vUgnde0CsiKnRvWgDQs9DyiTzM1ESeV6yfC25dRz9UTRxsgynNXeVuoU=)

@@ -1,0 +1,85 @@
+### Result
+{
+  "html": "<!--teleport start anchor--><!----><!--teleport anchor--><div id=\"__nuxt\"><!--[--><!----><div class=\"skip-navi\"><ul><li><a href=\"#gnb\">&gt;메뉴 헤더 바로가기</a></li><li><a href=\"#content\">본문 바로가기</a></li><li><a href=\"#footer\">하단 푸터 바로가기</a></li></ul></div><div class=\"q-layout q-layout--standard page-wrap\" style=\"min-height: 699.8px;\" tabindex=\"-1\" id=\"wrapper\"><!----><!----><!--[--><!----><!----><header id=\"header\" class=\"page-header\"><h2 id=\"main-header-title\" class=\"visually-hidden\">사이트 메인 헤더</h2><div class=\"page-inner\"><div class=\"header-top\"><h1 class=\"logo\"><a href=\"/\" class=\"head-logo\"><span class=\"visually-hidden\">나이스 비즈인포</span></a></h1><ul class=\"login-form\"><li class=\"coupon\"><button class=\"q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-coupon\" style=\"\" tabindex=\"0\" type=\"button\" btnsize=\"\" notclass=\"true\" newwindow=\"false\" title=\"쿠폰등록\"><span class=\"q-focus-helper\"></span><span class=\"q-btn__content text-center col items-center q-anchor--skip justify-center row\"><!--[--> 쿠폰 <!--]--><!----></span><!----></button></li><li><a href=\"/cm/CM0200M001GE.nice\" class=\"login\"> 로그인 </a></li><li><a href=\"/sp/SP0100M001GE.nice\" class=\"head-cart\" title=\"장바구니\"><!----></a></li><li class=\"service\"><button class=\"q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable service-link\" style=\"\" tabindex=\"0\" type=\"button\" btnsize=\"\" notclass=\"true\" newwindow=\"false\" title=\"추천 서비스 메뉴보기\"><span class=\"q-focus-helper\"></span><span class=\"q-btn__content text-center col items-center q-anchor--skip justify-center row\"></span><!----></button><div class=\"recommend-service\" tabindex=\"-1\"><div class=\"recommend-header\"><h2>추천서비스</h2></div><div class=\"recommend-list\"><ul><!--[--><li><div class=\"tooltip-wrap\"><div class=\"tooltip-head\"><!----><!--[--><a href=\"https://en.nicebizinfo.com\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"새 창 열림\" class=\"link-item\"><div class=\"img-w\"><img src=\"/images/icon/icon-nice-bizreport.svg\" alt=\"\"></div><p>NICE<br>BizREPORT</p></a><!--]--><div class=\"blind\">기업상태 범례 닫힘 상태</div></div><div class=\"tooltip-body\" style=\"\" role=\"tooltip\"><i class=\"tooltip-arr\" style=\"\" aria-hidden=\"true\"></i><div class=\"tooltip-inner\" tabindex=\"0\"><!--[--><p>Reliable Korean companies' data for navigating Korean markets</p><!--]--></div></div></div></li><li><div class=\"tooltip-wrap\"><div class=\"tooltip-head\"><!----><!--[--><a href=\"https://openapi.nicebizline.com\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"새 창 열림\" class=\"link-item\"><div class=\"img-w\"><img src=\"/images/icon/icon-api.svg\" alt=\"\"></div><p>기업 정보 연동</p></a><!--]--><div class=\"blind\">기업상태 범례 닫힘 상태</div></div><div class=\"tooltip-body\" style=\"\" role=\"tooltip\"><i class=\"tooltip-arr\" style=\"\" aria-hidden=\"true\"></i><div class=\"tooltip-inner\" tabindex=\"0\"><!--[--><p>내 비즈니스에 기업 정보를 더하여 효율성을 높여보세요</p><!--]--></div></div></div></li><li><div class=\"tooltip-wrap\"><div class=\"tooltip-head",
+  "result": [
+    {
+      "tag": "HTML",
+      "class": "",
+      "text": ">메뉴 헤더 바로가기\n본문 바로가기\n하단 푸터 바로가기\n사이트 메인 헤더\n나이스 비즈인포\n쿠폰\n로그인\n주요 네비게이션\n홈\n내 사업장 관리\n비즈마켓\n블로그\n새 창 열림\n고객센터\n기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1\nNICE BizINFO\n회사 정보 및 저작권\n고객 지원 및 정보\n회사소개\n이용약관\n개인정보 처리방침\n법적근거\n문의/도움말\n사이트맵\n주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보\n\n대표자 김종윤\n\n사업자번호 116-81-15020\n\n통신판매업신고번호 2024-서울영등포-1095\n\nTEL 02-3771-1514\n\nEmail help@nicebizinfo.com\n\nCopyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.\n\nNICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다."
+    },
+    {
+      "tag": "DIV",
+      "class": "",
+      "text": ">메뉴 헤더 바로가기\n본문 바로가기\n하단 푸터 바로가기\n사이트 메인 헤더\n나이스 비즈인포\n쿠폰\n로그인\n주요 네비게이션\n홈\n내 사업장 관리\n비즈마켓\n블로그\n새 창 열림\n고객센터\n기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1\nNICE BizINFO\n회사 정보 및 저작권\n고객 지원 및 정보\n회사소개\n이용약관\n개인정보 처리방침\n법적근거\n문의/도움말\n사이트맵\n주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보\n\n대표자 김종윤\n\n사업자번호 116-81-15020\n\n통신판매업신고번호 2024-서울영등포-1095\n\nTEL 02-3771-1514\n\nEmail help@nicebizinfo.com\n\nCopyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.\n\nNICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다."
+    },
+    {
+      "tag": "DIV",
+      "class": "q-layout q-layout--standard page-wrap",
+      "text": "사이트 메인 헤더\n나이스 비즈인포\n쿠폰\n로그인\n주요 네비게이션\n홈\n내 사업장 관리\n비즈마켓\n블로그\n새 창 열림\n고객센터\n기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1\nNICE BizINFO\n회사 정보 및 저작권\n고객 지원 및 정보\n회사소개\n이용약관\n개인정보 처리방침\n법적근거\n문의/도움말\n사이트맵\n주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보\n\n대표자 김종윤\n\n사업자번호 116-81-15020\n\n통신판매업신고번호 2024-서울영등포-1095\n\nTEL 02-3771-1514\n\nEmail help@nicebizinfo.com\n\nCopyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.\n\nNICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다."
+    },
+    {
+      "tag": "DIV",
+      "class": "q-page-container page-body",
+      "text": "기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1"
+    },
+    {
+      "tag": "DIV",
+      "class": "page-inner",
+      "text": "기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1"
+    },
+    {
+      "tag": "MAIN",
+      "class": "q-page page-pd1",
+      "text": "기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1"
+    },
+    {
+      "tag": "DIV",
+      "class": "",
+      "text": "1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***\n1"
+    },
+    {
+      "tag": "DIV",
+      "class": "q-list search-item-list",
+      "text": "폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***"
+    },
+    {
+      "tag": "DIV",
+      "class": "q-item q-item-type row no-wrap",
+      "text": "폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***"
+    },
+    {
+      "tag": "BUTTON",
+      "class": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-item",
+      "text": "폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***"
+    },
+    {
+      "tag": "SPAN",
+      "class": "q-btn__content text-center col items-center q-anchor--skip justify-center row",
+      "text": "폐\n\n룩스텍\n\n513-19-0****\n\n대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***"
+    },
+    {
+      "tag": "DIV",
+      "class": "flex items-center",
+      "text": "대표자명\n김길연\n산업명\n일반용 전기 조명장치 제조업\n기업주소\n경북 구미시 산호대로 ***"
+    },
+    {
+      "tag": "DL",
+      "class": "datalist",
+      "text": "산업명\n일반용 전기 조명장치 제조업"
+    },
+    {
+      "tag": "DT",
+      "class": "",
+      "text": "산업명"
+    },
+    {
+      "tag": "SPAN",
+      "class": "",
+      "text": "산업명"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = document.querySelectorAll(\'.search-result-list li, .search-result-item, .company-item, ul.result-list > li, .tbl_search_result tr\');\n  const result = [];\n  document.querySelectorAll(\'*\').forEach(el => {\n    if (el.innerText && el.innerText.includes(\'산업명\') && el.children.length < 5) {\n      result.push({ tag: el.tagName, class: el.className, text: el.innerText });\n    }\n  });\n  return { html: document.body.innerHTML.slice(0, 3000), result };\n}');
+```

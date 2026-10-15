@@ -1,0 +1,28 @@
+The search for "site:nomadher.com/privacy OR site:nomadher.com/terms OR site:nomadher.com/contact" returned the following summary:
+Here is the information gathered from NomadHer’s official pages corresponding to your query:
+
+### 1. Contact Information
+* **General Inquiries & Support Email:** [aloha@nomadher.com](mailto:aloha@nomadher.com)[1]
+* **Instagram:** [@nomad_her](https://instagram.com/nomad_her)[1]
+* **Global Office Locations:**
+  * **South Korea (Busan - Headquarters):** BIFC 55th floor, Nam-Gu, Busan, South Korea[2][3]
+  * **South Korea (Seoul):** Chenonggyecheonro-85, 9th floor, Seoul, South Korea[1]
+  * **France (Paris):** Station F, 5 Parvis Alan Turing, Paris, 75013, France[1]
+
+---
+
+### 2. Terms of Service Summary
+* **Governing Entity:** NomadHer.LTD, a corporation organized under the laws of South Korea[3].
+* **Agreement:** By accessing or using the NomadHer platform (including their website, mobile application, and related services), you agree to comply with and be bound by their Terms of Service[3]. 
+
+---
+
+### 3. Privacy Policy Highlights
+* **Data Protection Officer (DPO):** Hyojeong KIM ([aloha@nomadher.com](mailto:aloha@nomadher.com))[2]
+* **Data Handling:** NomadHer collects user information (such as registration and identity verification details like IDs and selfies to ensure a safe, women-only community environment) as outlined in their privacy guidelines[2][4].
+
+Sources:
+[1] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkcqfUqNo8KhNb5DyyYAn6dinTnQ33MSfhv1EFeej67cd8D6mqnuUjwfK4h2t8Uur4A18Ll2sTpwndGHPQFgzBrDeHt611wMecgj3rvP5ujFA69YUepg==)
+[2] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvJgLE1WnN8y10_TpKqLFK5FULD7sCZ4BTa7DaN2H4cUk9xLuVEtGwB0R78b5TSann5KWQyl9azbzw68ol_d9YTGFaG2TCVc275S18MPzrJIziGcjgHOvQ9K_-H4o=)
+[3] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk14AsyR1pRqTVRIh9VXzL97bzGPIYnmOkUu0-G05mny1vioF3Txafc6eWiG-z6clOj2krVUztTlTRfdsjsoWHfHaW9xIWXry2qWfz_dSgfhi6IH4XThY7G3qK)
+[4] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHyQwDyUt1thHibqk3XMFxQJmTEc--jKQRR7h7gKnp98Yvgb18CjUkzNiCjPAiV32-WbrEB05B4Yu_d_isX-qmwul5EK02cEULMwDtPDjgkRk5BA==)

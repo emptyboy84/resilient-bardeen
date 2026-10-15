@@ -1,0 +1,117 @@
+
+The command exited with code 0.
+Output:
+<truncated 3243 lines>
+-a----      2026-10-06   � 9:26            567 v4.js                                                                
+-a----      2026-10-06   � 9:26            111 v5.js                                                                
+-a----      2026-10-06   � 9:26            147 validate.js                                                          
+-a----      2026-10-06   � 9:26            210 version.js                                                           
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\uu
+    id\dist\esm-node
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26            420 index.js                                                             
+-a----      2026-10-06   � 9:26            293 md5.js                                                               
+-a----      2026-10-06   � 9:26             54 nil.js                                                               
+-a----      2026-10-06   � 9:26           1140 parse.js                                                             
+-a----      2026-10-06   � 9:26            133 regex.js                                                             
+-a----      2026-10-06   � 9:26            334 rng.js                                                               
+-a----      2026-10-06   � 9:26            296 sha1.js                                                              
+-a----      2026-10-06   � 9:26           1421 stringify.js                                                         
+-a----      2026-10-06   � 9:26           3400 v1.js                                                                
+-a----      2026-10-06   � 9:26            110 v3.js                                                                
+-a----      2026-10-06   � 9:26           1726 v35.js                                                               
+-a----      2026-10-06   � 9:26            569 v4.js                                                                
+-a----      2026-10-06   � 9:26            113 v5.js                                                                
+-a----      2026-10-06   � 9:26            147 validate.js                                                          
+-a----      2026-10-06   � 9:26            210 version.js                                                           
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\uu
+    id\dist\umd
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           8160 uuid.min.js                                                          
+-a----      2026-10-06   � 9:26            280 uuidNIL.min.js                                                       
+-a----      2026-10-06   � 9:26            883 uuidParse.min.js                                                     
+-a----      2026-10-06   � 9:26            829 uuidStringify.min.js                                                 
+-a----      2026-10-06   � 9:26           2020 uuidv1.min.js                                                        
+-a----      2026-10-06   � 9:26           5145 uuidv3.min.js                                                        
+-a----      2026-10-06   � 9:26           1366 uuidv4.min.js                                                        
+-a----      2026-10-06   � 9:26           3267 uuidv5.min.js                                                        
+-a----      2026-10-06   � 9:26            420 uuidValidate.min.js                                                  
+-a----      2026-10-06   � 9:26            506 uuidVersion.min.js                                                   
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\wr
+    appy
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26            938 wrappy.js                                                            
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\xm
+    lchars
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           7101 xmlchars.js                                                          
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\xm
+    lchars\xml\1.0
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           5539 ed4.js                                                               
+-a----      2026-10-06   � 9:26           3446 ed5.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\xm
+    lchars\xml\1.1
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           4881 ed2.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\xm
+    lchars\xmlns\1.0
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           2317 ed3.js                                                               
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\zi
+    p-stream
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           5431 index.js                                                             
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\node_modules\zi
+    p-stream\node_modules\archiver-utils
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           6814 file.js                                                              
+-a----      2026-10-06   � 9:26           3643 index.js                                                             
+
+
+

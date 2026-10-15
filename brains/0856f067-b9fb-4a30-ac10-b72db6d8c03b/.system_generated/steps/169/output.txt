@@ -1,0 +1,12 @@
+### Result
+"https://pcmap.place.naver.com/place/list?query=051-206-3991&x=127.033357&y=37.495484&clientX=127.033357&clientY=37.495484&display=70&ts=1789698723559&additionalHeight=76&locale=ko&mapUrl=https%3A%2F%2Fmap.naver.com%2Fp%2Fsearch%2F051-206-3991&svcName=map_pcv5&searchText=051-206-3991"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframe = document.getElementById(\'searchIframe\');\n  return iframe ? iframe.src : \'no iframe\';\n}');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/051-206-3991
+- Page Title: 051-206-3991 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-32-00-441Z.log#L1-L4

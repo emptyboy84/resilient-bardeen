@@ -1,0 +1,7 @@
+The search for "site:writingme.kr OR site:deepinter.com "고객센터" OR "전화" OR "051" OR "070" OR "02" OR "1"" returned the following summary:
+검색하신 사이트(`writingme.kr`, `deepinter.com`)들은 AI 기반 자기소개서 작성 및 면접 컨설팅 서비스를 제공하는 웹 플랫폼으로[1][2], 웹페이지 상에 공개된 별도의 유선 전화번호(고객센터, 02, 070, 051 번호 등)는 노출되어 있지 않으며주로 온라인 문의 및 단체교육 신청서 등을 통해 소통을 지원하고 있습니다[3].
+
+Sources:
+[1] [writingme.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwwSoD_rmwqiRivvbKb1yaiNRc1mobl_cbLNJa-wTvI4hs55vF9SjZb1npVsPuL3dlGK2V1oYnbtKpOctDI7xaRLwXExrCmX1IPz8=)
+[2] [deepinter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEECeDtJyprMYJy1OjexfegQlvrFHKbxV4LUDUL9L_xOsO1hjl0vPuBmF9vGtoI0hpGr-jaBi5nStOjy5O4E8vY5nGBG99XwSdeb5ED)
+[3] [deepinter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFyh7oKeRf6VK6GCvqwQSxe6LnEETtTyqEhQ7xscJm7Q_gG79Pf3-YABSEN7nkSuqN0idnP1coiXY_ywvLiLB-__xiTckgJNs9PbdF_KmtSznR1pNJ_w==)

@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "exceljs": "^4.4.0"
+  }
+}
+
+

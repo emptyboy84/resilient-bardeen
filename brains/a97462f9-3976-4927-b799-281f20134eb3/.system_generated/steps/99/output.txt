@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+79e2604 add_undo_game_studio@{0}: branch: Created from HEAD
+

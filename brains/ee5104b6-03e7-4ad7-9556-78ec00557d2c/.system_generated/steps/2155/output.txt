@@ -1,0 +1,10 @@
+The search for ""한국테크" "팔용로 245-1" OR "김대선" "창원"" returned the following summary:
+검색하신 정보에 대한 결과입니다.
+
+*   **한국테크**: 경상남도 창원시 마산회원구 팔용로 245-1(구암동)에 소재한 개인사업자로 확인됩니다 [1.1].
+*   **김대선**: 창원 지역과 연관된 인물로 검색 결과 여러 동명이인이 확인되나, '한국테크'라는 사업체와 직접적으로 명시된 특정 인물 정보는 검색되지 않았습니다 [1.2.1~1.2.9]. 참고로 김대선이라는 이름을 가진 인물들은 학계[1], 소방[2], 종교계[3] 등 다양한 분야에서 활동하고 있습니다.
+
+Sources:
+[1] [kosae.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Bs7tuNUR737Xo9Usl0QH2zXuoqM-i5z2xS38XXhbaFbaYMCm4e83zSw9EoKs04xG4UmWRagiCMcMlEGLxGLOWDdL6jsNYd1akgEGosj9tSQ0O5xmfMLq-d-tcbGTSz3JWoqi03Ew1NG2OTdWqpcuaZHOa9mB7XINFz0zOrnVS9S31RAlAcDtjDA_aaxUDVuE0rBZDgAgRZs=)
+[2] [kela.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8HOcaxEypk4qhyYCkzo4n9tpG6Y8dEMsaj_TI4Le7yO4UL_BxBZcN3NPJeXct7HVdrYW_eyWsEmqPvS82QAdvScrc5qdriyI8ev1XbaWP71p12PxbcwlBR7MN_IcX5pJOWPx6tGHsq2OrYHeBb0Yvpr_Aq5vKNgn5N7Im)
+[3] [wonnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNbf8fP643-9NGKLiMq9X5fvGfDDZ4KIx7t8HXB6wTVwzO3E1hkDJzoj0zlMNLb1-kQ_uy6p2G6SGPZ4zKvOFZ0cg8ntxVmBVFZ3DFwQCZ9fUvcUM6aJLMK9pGaTCdgrLMoKYDfjiWVheQnjoSNxRWisB835qJeiB8_iuAiqCUOeM6hUdudOnoKJAel7Y=)

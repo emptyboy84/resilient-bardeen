@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+[
+  'step_index',
+  'source',
+  'type',
+  'status',
+  'created_at',
+  'tool_calls'
+]
+

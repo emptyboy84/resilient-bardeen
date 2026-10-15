@@ -1,0 +1,13 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-1389
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-1389.log
+Log output:
+<truncated 33 lines>
+업 -> 1 matches:
+   - 성창산업 | 인쇄사 | 부산광역시 연제구 | 영업 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=성창산업&search_state=13&regn=252001984000001&ac1=6260000&ac2=3370000&area_code=6260000&area_code2=&page_type=&cpage=1
+[FOUND 6] Row 1629: 나웅 -> 1 matches:
+   - (주)나웅 | 출판사 | 부산광역시 사상구 | 영업 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=나웅&search_state=13&regn=251002012000001&ac1=6260000&ac2=3390000&area_code=6260000&area_code2=&page_type=&cpage=1
+[FOUND 7] Row 1797: 도서출판양업서원 -> 1 matches:
+   - 양업서원 | 출판사 | 부산광역시 부산진구 | 폐업 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=양업서원&search_state=13&regn=251002005000004&ac1=6260000&ac2=3290000&area_code=6260000&area_code2=&page_type=&cpage=1
+
+Last progress: 0s ago

@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+Full 162 rows count: 162
+[Not in 162] Row 1: 우강마케팅 (7650702346)
+[Not in 162] Row 2: 제이앤에이치 (7651200610)
+[Not in 162] Row 3: 한국엠에스티 (7651701079)
+[Not in 162] Row 4: 초록누리 (7653500720)
+[Diff Status] Row 7: 주영 (7658601226)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 9: 코리아스마트시스템 (7658601890)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 10: 아이오 (7660401349)
+   User: "폐업" | Prev 162: ""
+[Diff CorpNo] Row 16: ㈜파리로엠엔비 (7668802810)
+   User: "" | Prev 162: "164811-0168886"
+[Diff Status] Row 17: 아이엔바이오 (7671301500)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 23: 넥스다임 (7678101168)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 29: 햅라운드 (7680302046)
+   User: "폐업" | Prev 162: ""
+[Diff CorpNo] Row 35: 대원오토텍 (7688801307)
+   User: "768-88-01307" | Prev 162: ""
+[Diff Status] Row 44: (주)씨에스물류에스에이치지점 (7698101503)
+   User: "맞는사업자번호:769-85-01503" | Prev 162: ""
+[Diff Status] Row 45: ㈜나인피스 (7698101790)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 46: (주)리콘 (7698601439)
+   User: "폐업, 맞는사업자번호:796-86-01439" | Prev 162: ""
+[Diff Status] Row 47: (주)뉴스본다코리아 (7698602168)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 51: (주)나우인터내셔널 (7698801746)
+   User: "폐업" | Prev 162: ""
+[Diff Status] Row 54: 엠링크 (7702100934)
+   User: "폐업" | Prev 162: ""
+

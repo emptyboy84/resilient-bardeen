@@ -1,0 +1,19 @@
+### Result
+[
+  {
+    "idx": 0,
+    "text": "일 | (주)키녹스 | - | 대표자명 | 강신용 | 산업명 | 주형 및 금형 제조업 | 기업주소 | 경기 김포시 대곶면 소래로**번길 ***-**, *동"
+  },
+  {
+    "idx": 1,
+    "text": "개 | 키녹스 | 367-12-0**** | 대표자명 | 강신용 | 산업명 | 가방 및 기타 보호용 케이스 제조업 | 기업주소 | 경기 김포시 대곶면 대곶서로***번길 **"
+  },
+  {
+    "idx": 2,
+    "text": "폐 | 이키녹스 | 411-02-1**** | 대표자명 | 임형만 | 산업명 | 커피 전문점 | 기업주소 | 광주 목포시 영산로**번길 *"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.q-item\')).map((item, idx) => ({\n    idx,\n    text: item.innerText.replace(/\\n+/g, \' | \')\n  }));\n  return items;\n}');
+```

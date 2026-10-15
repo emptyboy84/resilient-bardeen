@@ -1,0 +1,11 @@
+The search for ""511-81-26213" OR ("디케이즈" "정도경")" returned the following summary:
+검색 결과, 입력하신 사업자등록번호(`511-81-26213`)와 상호명(`디케이즈`), 대표자명(`정도경`)은 다음과 같은 법인(사업체) 정보와 일치합니다[1].
+
+* **상호(법인명):** 디케이즈 (DKEIZ CO., LTD.)[1][2]
+* **사업자등록번호:** 511-81-26213[1]
+* **대표이사:** 정도경[1]
+* **소재지:** 부산광역시 사상구 주례로 47, 2101호 (주례동, 동서대 전자정보관)[1]
+
+Sources:
+[1] [spero.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Ef8o329QODk5hlg3D55wUzWWVNXOOlqUAnUTSjYTjt79TAK410W-MPtkjZ-ih0d7oIj7w8ckbpW9hip_XsZ-Mq8KDdRhgjEW8TOH9OaMZQi4e6wAMjRR4QB__wo7uU2-Be0=)
+[2] [spero.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9j3C6zCsx3DSN7bXwt-TRuiKXQIOezvFpRbH-PQrXsP3_jamnlvfiilLHf2rceoQESdKP0z5WUvaY3LZvFRFWnzb5uGnkstiqG1nQQLXhCb1EldvLpru7L5HVXQTSVkzqWOXt)

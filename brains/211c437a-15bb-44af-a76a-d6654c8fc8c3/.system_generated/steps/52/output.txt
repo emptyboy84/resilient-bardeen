@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Local: System.Int32
+Local: System.Int32
+Local: System.Int32
+Local: Microsoft.Win32.RegistryKey
+Local: System.Int32
+Local: System.Int32
+Local: System.Int32
+Local: System.Exception
+Local: System.Exception
+Local: System.Exception
+70000635: Get_TouchPadMode
+70000657: Z160
+70000661: H160
+7000066B: Z170
+70000675: 11T730
+70000683: 11T
+7000068B: 15G890
+70000699: 15GD890
+700006A9: Software\Microsoft\Windows\CurrentVersion\PrecisionTouchPad\Status
+70000730: Enabled
+70000740: SOFTWARE\Microsoft\Windows\CurrentVersion\PrecisionTouchPad
+700007B8: LeaveOnWithMouse
+700007DA: PTPState :  
+700007F4:    PTPAutoState : 
+7000081A: nResult = ACPIController.GetMethod(0x409); ex :  
+7000087E: Software\LGE\OSD
+700008A0: Touchpad
+700008B2: nResult = ACPIController.GetMethod(0x30); ex :  
+70000914: null == rkOSDMouseInfo nResult : 
+70000958: OSDTouchPadMode: 
+7000097C: 0 != OSDTouchPadMode case 0
+700009B4: 2 != OSDTouchPadMode case 2
+700009EC: 2 != OSDTouchPadMode case3
+70000A22: 2 != OSDTouchPadMode case1
+

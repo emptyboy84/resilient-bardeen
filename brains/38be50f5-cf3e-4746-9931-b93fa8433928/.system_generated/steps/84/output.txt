@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+배현명_전수검증완료 row count: 1001
+

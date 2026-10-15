@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\parse_company_data\data
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-13   � 9:30       11200645 (�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx                 
+-a----      2026-10-13   � 9:30         193688 �_�ǻ�DB_16�÷�_�Ϸ�_�.xlsx                        
+-a----      2026-10-13   � 9:30          30094 �_�ǻ�DB_�̹�_īī�_�ȭ�ȣ�Ʈ.csv             
+
+
+

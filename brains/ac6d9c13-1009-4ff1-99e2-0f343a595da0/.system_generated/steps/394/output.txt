@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Formatted biz numbers: [ '116-81-15020' ]
+Raw 10 digits around keywords: []
+Title: 와이피엔터테인먼트(주) - 기업상세
+NUXT length: 712
+Bz in NUXT: null
+

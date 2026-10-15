@@ -1,0 +1,4 @@
+- [ ] Update package.json to add Electron scripts and entry point
+- [ ] Create main.js as the Electron startup script
+- [ ] Install Electron using npm
+- [ ] Test launch AetherOS as a desktop app and verify

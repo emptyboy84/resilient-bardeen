@@ -1,0 +1,401 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+    "current": "05855",
+    "corp": ""
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 송파구 법원로6길 7 2층 201호 E1110",
+    "corp": "서울특별시 용산구 이태원로 190 (우)04406"
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "010-2253-9432",
+    "corp": ""
+  },
+  {
+    "row": 12334,
+    "company": "㈜비프레임디자인",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": ""
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "48407",
+    "corp": ""
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산광역시 해운대구 해운대로76번길 40, 204동 1502호",
+    "corp": "부산광역시 해운대구 센텀중앙로 90 (재송동) 큐비이센텀 722호"
+  },
+  {
+    "row": 12335,
+    "company": "주식회사 지성홀딩스",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "08588",
+    "corp": ""
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 7,
+    "colName": "주소",
+    "current": "서울 금천구 가산디지털2로 43-14, B동 115호 (가산동)",
+    "corp": ""
+  },
+  {
+    "row": 12336,
+    "company": "(주)에트",
+    "col": 11,
+    "colName": "이메일",
+    "current": "5534386@hanmail.net",
+    "corp": "feeiio@naver.com"
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "34627",
+    "corp": ""
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 7,
+    "colName": "주소",
+    "current": "대전광역시 동구 태전로 18",
+    "corp": "대전광역시 동구 태전로 18 (우)34627"
+  },
+  {
+    "row": 12337,
+    "company": "다이스미디어협동조합",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "2명"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 2,
+    "colName": "비고",
+    "current": "",
+    "corp": "폐업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46028",
+    "corp": ""
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "4"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "절삭 가공 및 유사 처리업",
+    "corp": "자동차 엔진용 신품 부품 제조업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 49,
+    "colName": "업종_중",
+    "current": "금속 가공제품 제조업; 기계 및 가구 제외",
+    "corp": "기타 제품 제조업"
+  },
+  {
+    "row": 12338,
+    "company": "명승기업",
+    "col": 50,
+    "colName": "업종_소",
+    "current": "기타 금속 가공제품 제조업",
+    "corp": "그외 기타 제품 제조업"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50853",
+    "corp": ""
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-328-0705"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12339,
+    "company": "한울",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "19",
+    "corp": ""
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 2,
+    "colName": "비고",
+    "current": "",
+    "corp": "폐업"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46250",
+    "corp": ""
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 7,
+    "colName": "주소",
+    "current": "부산 금정구 금단로 38, 102동 10층 1003호 (구서동,협성그린아파트)",
+    "corp": "부산광역시 해운대구 센텀북대로 60, 7층 702 (재송동, 센텀 아이에스타워)"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "010-4666-3877"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "3",
+    "corp": "2"
+  },
+  {
+    "row": 12340,
+    "company": "케이비이엔엠",
+    "col": 18,
+    "colName": "업종(NICE BizINFO(업종)참고",
+    "current": "광고 영화 및 비디오물 제작업",
+    "corp": "광고 대행업"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 5,
+    "colName": "대표자",
+    "current": "장인수",
+    "corp": "장인수, 강정자"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "46257",
+    "corp": ""
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "051-902-8000"
+  },
+  {
+    "row": 12341,
+    "company": "(장인수,강정자)",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "",
+    "corp": "0"
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50850",
+    "corp": ""
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "055-345-2257"
+  },
+  {
+    "row": 12342,
+    "company": "삼정정밀",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50875",
+    "corp": ""
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12343,
+    "company": "해송산업",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "21005",
+    "corp": ""
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12344,
+    "company": "(주)서은시스템",
+    "col": 15,
+    "colName": "종업원수",
+    "current": "8",
+    "corp": "7"
+  },
+  {
+    "row": 12345,
+    "company": "제이엔비산업",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50852",
+    "corp": ""
+  },
+  {
+    "row": 12345,
+    "company": "제이엔비산업",
+    "col": 7,
+    "colName": "주소",
+    "current": "",
+    "corp": "경남 김해시 한림면 안곡로 426-9 (안곡리)"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 6,
+    "colName": "우편번호",
+    "current": "50803",
+    "corp": ""
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 7,
+    "colName": "주소",
+    "current": "경상남도 김해시 상동면 동북로1007번길 8-4",
+    "corp": ""
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 8,
+    "colName": "전화번호",
+    "current": "",
+    "corp": "055-327-5678"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 9,
+    "colName": "팩스번호",
+    "current": "",
+    "corp": "-"
+  },
+  {
+    "row": 12346,
+    "company": "금정산업기계",
+    "col": 11,
+    "colName": "이메일",
+    "current": "",
+    "corp": "-"
+  }
+]
+

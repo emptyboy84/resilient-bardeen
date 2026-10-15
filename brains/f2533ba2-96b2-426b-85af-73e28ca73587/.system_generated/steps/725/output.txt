@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7778100884');
+```
+### Page
+- Page URL: https://bizno.net/article/7778100884
+- Page Title: (주)금강기업
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T03-58-52-600Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T03-58-50-143Z.log#L1-L5

@@ -1,0 +1,22 @@
+The search for ""유리 및 창호 공사업" 한국표준산업분류 대분류 중분류 소분류" returned the following summary:
+"유리 및 창호 공사업"의 한국표준산업분류(KSIC) 체계는 다음과 같습니다[1][2].
+
+*   **대분류: F 건설업 (41~42)**[1][2]
+*   **중분류: 42 건설업 (42)**[1][2]
+    *   *참고: 42는 '전문직별 공사업'에 해당합니다.*
+*   **소분류: 424 실내건축 및 건축마무리 공사업 (424)**[1][2]
+*   **세분류: 4242 유리 및 창호 공사업 (4242)**[1][2]
+*   **세세분류: 42420 유리 및 창호 공사업**[3][1][2]
+
+**산업 활동 설명:**
+전문직별 건설업자가 각종 유리 공사 및 창호 공사를 전문적으로 수행하는 산업 활동을 의미합니다[4][5][6].
+*   **예시:** 유리 공사, 유리 끼우기 공사, 창문 유리 설치 공사, 플라스틱/목재/금속 창호 설치 공사, 새시(샤시) 설치 공사, 일반 셔터 설치 공사 등[7][6]
+
+Sources:
+[1] [ptp.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-619NeVxD00TY6QyjhlFi77pTVdl57vrznMidQh6DlqZ-aaTNcwNIvEc6efrELm58hEpH3WkEMB1nM_OcNoFbwfu2le8RlFBmfVMJQ-QsdzpvYU7h6DvmY6XT7yPB8mP8eS3Kt7FOU7iqTM_r2SXyE9nu)
+[2] [ptp.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-619NeVxD00TY6QyjhlFi77pTVdl57vrznMidQh6DlqZ-aaTNcwNIvEc6efrELm58hEpH3WkEMB1nM_OcNoFbwfu2le8RlFBmfVMJQ-QsdzpvYU7h6DvmY6XT7yPB8mP8eS3Kt7FOU7iqTM_r2SXyE9nu)
+[3] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhp_Smb1zlmQto_GGUBIF_aDbXEog4ORm0H_C4muC9c3eY45AbEpB7SCbUDazYP2hH-z3XI3UfPtSae90H78frVtN5BFBOwyAWgvOmLC6fArkcMTCKnNiYchXmsE2PcVNrEhk4Xp_bmGNa1gZkRsO3RSznm4eoXYZo4rr_OeA=)
+[4] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU9xbsEj-ztozB3Soh1UmEjl3h1NVankjEPmkKQg2R7SoooB9JjX7kXsjFuVBzKMViFvW6Im5SUuwGLZUXhWjdpa2wGfXFnOLqQnJOMVBqQOAXVAm0jNmYhEvAg-MTd94TQA-_cXk=)
+[5] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU9xbsEj-ztozB3Soh1UmEjl3h1NVankjEPmkKQg2R7SoooB9JjX7kXsjFuVBzKMViFvW6Im5SUuwGLZUXhWjdpa2wGfXFnOLqQnJOMVBqQOAXVAm0jNmYhEvAg-MTd94TQA-_cXk=)
+[6] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFngT0rXYiYSYn-KmA63ZvYJhMiJUQxoJC1fSrhlNRWilJUBNOmUkOP2Hp68lhH6jkQg2zGMo-lJGZmSMAdHfB6KrX9JXG-kqEPBWXlMwrTks-JMrZ41mHMhCuIeLsSOnig-AdFcNl_)
+[7] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELU4fLj3GmZciSOCc0rZ-NU7xZCVpZTQKz0SThxNnX0csCe71KmX2zFGc3OsRhEotdjV2Rs9Kv_6MhIVpuYQ_lFeQQ6nsDR1e6nV7Uxh6RgKT7mrjlaXDN8uxonW_7vJBGwRueG0PT)

@@ -1,0 +1,56 @@
+
+The command exited with code 0.
+Output:
+Source exists: False
+"4"� �μ� �ִ� "Open"�(�) ȣ�ϴ� � �ܰ� �߻�߽�ϴ�. "�ο� �߸� �ڰ� �ֽ�ϴ�."
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:9 �:1
++ $fileStream = [System.IO.File]::Open($sourceFile, [System.IO.FileMode ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:11 �:1
++ $fileStream.CopyTo($outStream)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:12 �:1
++ $fileStream.Close()
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Copied to temp. Size: 0 bytes
+"1"� �μ� �ִ� "OpenRead"�(�) ȣ�ϴ� � �ܰ� �߻�߽�ϴ�. "�߾� �͸� �ջ�Ǿ�ϴ�."
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:17 �:1
++ $zip = [System.IO.Compression.ZipFile]::OpenRead($tempCopy)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : InvalidDataException
+ 
+=== Archive Entries ===
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:27 �:1
++ $wbEntry = $zip.GetEntry("xl/workbook.xml")
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:37 �:1
++ $s1Entry = $zip.GetEntry("xl/worksheets/sheet1.xml")
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_xlsx.ps1:67 �:1
++ $zip.Dispose()
++ ~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+

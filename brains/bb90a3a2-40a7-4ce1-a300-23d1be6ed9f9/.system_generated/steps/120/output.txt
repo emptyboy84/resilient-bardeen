@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Header length: 17
+Output data rows: 799
+Original rows with phone: 393
+Newly found phone numbers: 156
+Still missing: 250
+Total with phone now: 549 (68.7%)
+Saved busan_companies_phone_verified.tsv
+Saved busan_companies_phone_verified.xlsx
+

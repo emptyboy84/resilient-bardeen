@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+ 051-961-0404 : 네이버 검색 try{performance.mark('nx-head-start')}catch(e){} naver = window.naver || {}; n
+e_agent = 0 ; var headerfooter_query = "051-961-0404" ; var headerfooter_query_encoded = "051-961-0404" ; var headerfooter_time_year = 2026 
+04" ; var headerfooter_query_encoded = "051-961-0404" ; var headerfooter_time_year = 2026 ; var headerfooter_time_month = 10 ; var headerfoo
+r g_ssc = "tab.nx.all" ; var g_query = "051-961-0404" ; var g_puid = "jWsyhsqosq4ssEP2Jjs-439395" ; var g_suid = "maAyUECRvZq156Apxk+dw8+7" 
+ll", "r": 6},{"n": "urB_b3R", "r": 7}]; 051-961-0404 검색 결과 naver.search.option = {} ; naver.search.option.params = {} ; naver.search.option.
+0동 205호(대저2동, 부산티플렉스), 등록구분 : 전문, 연락처 : 051-961-0404 새 창 열림 소방통합 소방안전본부 소방시설업 현황.xls 새 창 열림 소방통합 소방안전본부 소방시설업 현황_20240731 번호 업체명 업종구분 위치 등록구
+rce":"*w"}},"href":"?page=2&qdt=0&query=051-961-0404+site%3A119.busan.go.kr&qvt=0&ssc=tab.ur.all","text":"관련문서 더보기"}},"bodyText":"주식회사 해민전력 
+0동 205호(대저2동, 부산티플렉스), 등록구분 : 전문, 연락처 : 051-961-0404 ","bodyVariants":"3line","card":{},"clickLog":{"title":{"element":".link","g":"","i":"a
+rce":"*w"}},"href":"?page=2&qdt=0&query=051-961-0404+site%3Awww.busan.go.kr&qvt=0&ssc=tab.ur.all","text":"관련문서 더보기"}},"bodyPrefixes":[{"text
+rce":"*w"}},"href":"?page=2&qdt=0&query=051-961-0404+site%3Agen.go.kr&qvt=0&ssc=tab.ur.all","text":"관련문서 더보기"}},"bodyPrefixes":[{"text":"3MB
+=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=051-961-0404&sm=tab_smr&sort=0&ssc=tab.news.all"}},"size":"md","subjectTitle":"뉴스","title":"더보기","ti
+=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=051-961-0404&sm=tab_smr&sort=0&ssc=tab.news.all","titleTarget":"_self","type":"more","variant":"divi
+arch.naver?api_type=pc_lens&mode=&query=051-961-0404&ssc=tab.image.all&vintageid=&where=image&p_nvmid={=nvmid}&articleid={=articleid}&parent
+&api_type=pc_image_id&mode=column&query=051-961-0404&ssc=tab.image.all&where=image&imgId={=imgId}"},relatedImagesAPI:{url:"https://s.search.
+ed&nso=so%3Ar%2Cp%3Aall&nx_search_query=051-961-0404&qdt=0&query=051-961-0404&section=image&sm=&ssc=tab.nx.all&imgId={=imgId}&p_signature={=
+x_search_query=051-961-0404&qdt=0&query=051-961-0404&section=image&sm=&ssc=tab.nx.all&imgId={=imgId}&p_signature={=signature}&p_nvmid={=nvmi
+aver.com/search.naver?mode=column&query=051-961-0404&ssc=tab.image.all&where=image"},shoppingZzimAPI:{check:"https://s.search.naver.com/p/im
+6/search.naver?api_type=pc_report&query=051-961-0404&imgId={=imgId}",reportUrl:"https://s.search.naver.com/n/srm/report"}},mode:"portal"},s=
+

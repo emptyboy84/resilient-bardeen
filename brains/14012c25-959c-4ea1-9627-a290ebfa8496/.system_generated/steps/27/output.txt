@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-14   � 9:46            859 AGENTS.md                                                            
+-a----      2026-10-14   � 9:46           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+
+
+

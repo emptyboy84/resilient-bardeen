@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:21 �:31
++     console.log('Detail URL:', detailUrl);
++                               ~
+',' �ڿ� � �ϴ�.
+�ġ �:21 �:32
++     console.log('Detail URL:', detailUrl);
++                                ~~~~~~~~~
+� �Ǵ� � �ġ � 'detailUrl' �ū�Դϴ�.
+�ġ �:21 �:31
++     console.log('Detail URL:', detailUrl);
++                               ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:19 �:10
++   if (m) {
++          ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:21 �:41
++     console.log('Detail URL:', detailUrl);
++                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:23 �:70
++ ...  clean = detailHtml.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:24 �:68
++ ...                      .replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*< ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:25 �:48
++                             .replace(/<[^>]+>/g, ' ')
++                                                ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:26 �:44
++                             .replace(/\s+/g, ' ');
++                                            ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:27 �:32
++     console.log('Detail text:', clean.slice(0, 1500));
++                                ~
+',' �ڿ� � �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterToken
+ 
+

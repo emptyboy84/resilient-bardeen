@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+배현명_실사DB_200개기업_18컬럼_NICE검증_최종.csv => BOM: true Line count: 201 Header cols: 18
+배현명_실사DB_200개기업_17컬럼_NICE검증_최종.csv => BOM: true Line count: 201 Header cols: 17
+배현명_실사DB_200개기업_16컬럼_NICE검증_최종.csv => BOM: true Line count: 201 Header cols: 16
+

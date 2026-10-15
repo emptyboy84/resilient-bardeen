@@ -1,0 +1,12 @@
+The search for ""605-81-85763" OR ("남태희" "부평1길 73")" returned the following summary:
+입력하신 검색어는 사업자등록번호 또는 특정 인물·주소 관련 정보로 보입니다. 
+
+* **주소 관련 정보:** '부평1길 73'은 부산광역시 중구 부평동2가(도로명주소: 부산광역시 중구 부평1길 73)에 위치한 지번이며[1][2], 해당 주소에는 영화배급업 등을 영위하는 기업 **(주)태성**(대표자 남태희) 등의 정보가 등록되어 있습니다[3].
+* **기타 번호:** '605-81-85763' 형태의 번호는 일반적인 사업자등록번호 체계와는 일치하지 않는 조합입니다.
+
+혹시 특정 기업, 소상공인 정보나 세부조회를 원하시는 내용이 있다면 구체적인 기관이나 목적을 함께 알려주세요.
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8lfgkx4NaNtkjc8nG6GHMZ7in-YsvDfdqSGqC3Hmy65gq2zqMQmqSmSWAt1o0sjb_eoUWUGDe2E2fhCpJ47j7HkobcT1caTKugpvGNacj4kVeuclkggdzvXUf4aSW5AMruL5UHoe-f4o5sl9PrqKP-WqEFw==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlKE6JrQVrQTVqwd59XcF3_kP9CyExoOYiooOuFTrrG89cUK-kAv4hdRQcdvUAVawe-BKq3khag_OBpFjopv6rmb1GTWLoDxBysQAfgwQNk6wBtNcj)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM9eVvWaF9DBXhh9Nsp30w6yxoOseTX3fDtrcs2IyqUj6ViwG8iGlE7e_hP1vZ4hbqhz9qh92jc6Ytd0A684IDwEpCyVKBEUjEtfP7Ov2xej2lxyyDdHuqP33UdaAhzNoiCeQKIPsAdwyIPBhbpe75616Mnh4CdTXXvdPKilBp9EpQR4Mh39SXKfcu7qNzS3jPwseQ5FqX5y0yA2w77x0He2l76Aa0wTuiY8wc0JTEVHGZ4ZJi97dwAbzL5P0=)

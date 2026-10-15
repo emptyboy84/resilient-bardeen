@@ -1,0 +1,10 @@
+The search for ""조형준" "맥스폼" "부산" OR "해운대구"" returned the following summary:
+검색 결과에 따르면, **조형준** 대표가 설립한 법인 **‘주식회사 맥스폼’**(설립일: 2022년 2월 1일, 업종: 응용 소프트웨어 개발 및 공급업 등)과 관련된 정보는 다음과 같습니다[1][2].
+
+* **대표자:** 조형준[1]
+* **기업명:** 주식회사 맥스폼 (맥스폼)[1][2]
+* **관련 지역:** 부산광역시 해운대구 (기업신용분석 보고서 및 지역 신설법인 데이터 등에서 본사 또는 주요 주소지 관할 지역으로 부산 해운대구 달맞이길 등이 확인됨)[1][2]
+
+Sources:
+[1] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk1wBGX_AFE_ka5hfU1gycHwKzi9D5mcbwn1fgtqHX0yxzVLT78j6QjwniyLNHnn_k_o5yuX9vw24bUjbhSOvQCfaYeSMQDky9vBgm8DpWn5OyZxwNabC7fLZiR5bSg4S6V_ME)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcOZMlg5MDCwsiXmDw6cfa70qFM5D1pBP2znER-Lg0cw46hjxQNfzlfYK66G2Hk3f_8vVaE3fHyz5kYHCDJRDDIZREb1WOyCwjIW7zO8aactHpWDqiQZL1Vt7hTxDD4a5n8lnp)

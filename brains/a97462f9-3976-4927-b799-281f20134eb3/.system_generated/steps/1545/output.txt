@@ -1,0 +1,13 @@
+### Result
+[
+  " |  | ",
+  " | ",
+  "",
+  "",
+  "등록구분 | 상호 | 주소 | 영업구분",
+  "출판사 | 한국동화치료연구소 | 부산광역시 영도구 | 영업"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const rows = Array.from(document.querySelectorAll(\'table tr\'));\n  return rows.map(r => Array.from(r.querySelectorAll(\'th, td\')).map(c => c.innerText.trim()).join(\' | \'));\n}');
+```

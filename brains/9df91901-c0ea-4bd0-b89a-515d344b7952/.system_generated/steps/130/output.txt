@@ -1,0 +1,23 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -42,12 +42,11 @@
+ 
+   console.log('Status:', r.status);
+   console.log('Body length:', r.body.length);
+-  const idx = r.body.indexOf('검색결과');
+-  if (idx !== -1) {
+-    const section = r.body.substring(idx, idx + 4000);
+-    // find book items or no results
+-    console.log(section.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' '));
+-  }
++  // find total count
++  const cntMatch = r.body.match(/총\s*<strong>([\d,]+)<\/strong>\s*건/);
++  console.log('Total count match:', cntMatch ? cntMatch[1] : 'not found');
++  const noResult = r.body.indexOf('검색된 결과가 없습니다');
++  console.log('No result found text idx:', noResult);
+ }
+ run();
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

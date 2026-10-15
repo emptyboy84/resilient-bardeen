@@ -1,0 +1,7 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-327
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-327.log
+Log output:
+Starting STRICT BUSAN Bizno Search for 77 targets...
+
+Last progress: 4s ago

@@ -1,0 +1,10 @@
+The search for ""제이이테크" "박정언" OR "제이이테크" "수영로 298" OR "제이이테크" "산암빌딩"" returned the following summary:
+검색 결과에 따르면, **(주)제이이테크**와 관련된 정보는 다음과 같습니다.
+
+* **설립일자:** 2022년 12월 7일[1]
+* **소재지:** 부산광역시 남구 수영로 298 (산암빌딩) 10층[1][2]
+* **대표자 / 주요 인물:** 박정언[1]
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnyNQvXELDxyS9Q3iT3XwhlqLDC6DrLvwjAtTTSKqStXMVZol1lXOyz6P9Po2Q3mk0TJh9RtF4CPqfGtyyZYOV5in9B2LPqfaeYCsAlwHb74xDrAh09v3xYQZXzON4UuY-jJaKAY6_Jo63UByVHSJ_B4OS)
+[2] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jEaiBtF43cFIBJuYj562nmuQZJsyE1RK9rJB-NMCbAJQyajIpsaSGMeP8LFU9x1K5gEEMqaFaMXBZcE6GtTjhnCoZ5URMmn49YRNRKdnkQpPI61NjLXwceUncBNdSHt1-CP-t9koXRST3wodB6yL-Yxt78Y3tvb2ynkit_-okKUfdH9oYcvDKiNmDk1xhtE7HjOTgJiW7Jzb0CWcBHx78Xnf9c9HddidxIUIcMqnxmZzNU1mtjcyCYd3mQ==)

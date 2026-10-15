@@ -1,0 +1,18 @@
+The search for ""브이알코리아" "이온리얼리티" OR "홀로박스" OR "역피라미드"" returned the following summary:
+브이알코리아(VR Korea)는 가상현실 분야의 글로벌 기업인 **이온리얼리티(EON Reality)**사의 국내 총판을 맡았던 기업입니다[1][2].
+
+2010년 'IT 엑스포 부산' 당시, 브이알코리아는 이온리얼리티의 기술을 기반으로 한 다양한 홀로그램 및 가상현실 장비를 선보였습니다[1][3][4]. 주요 전시 품목은 다음과 같습니다:
+
+*   **홀로박스 (HoloBox):** 제품 디스플레이나 옥외광고 등에 활용되는 홀로그램 장치입니다[1][3].
+*   **역피라미드 (Inverted Pyramid):** 홀로그램 광고판의 일종으로, 국내 기술로 제작되어 경쟁사 대비 가격이 저렴하고 준 HD급의 선명한 화질을 구현한 것이 특징입니다[1][4][5].
+*   **기타 전시 품목:** 이 외에도 '터치 라이트'와 실제 크기의 사람이나 사물을 투영하는 3D 비디오 오브젝트인 'ICrystal', 'Holographic I' 등을 전시한 바 있습니다[1][2].
+
+당시 브이알코리아는 이러한 장비 외에도 디지털 교과서 개발 사업 등 가상현실 기반의 다양한 콘텐츠 사업을 전개하기도 했습니다[6].
+
+Sources:
+[1] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD-FGMXASiNyvYURIBTrFRcCzAG_334pF0PJ6C48MXNihrpiLGtTOHmKhrV8GQFUIrmKr13IrBGNE2C09AE2jL1TWOnDSlRC7X0GeS39GDMa4yUHk1knIGkHvllHAvKdq6Plo6ZoaxxxXegVEH)
+[2] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD-FGMXASiNyvYURIBTrFRcCzAG_334pF0PJ6C48MXNihrpiLGtTOHmKhrV8GQFUIrmKr13IrBGNE2C09AE2jL1TWOnDSlRC7X0GeS39GDMa4yUHk1knIGkHvllHAvKdq6Plo6ZoaxxxXegVEH)
+[3] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmUGam3tLn7guizBXGW-TB9uR7RyMQcPcoz0Mqd6IfCYEWSjKH_80RvKPCJRREclVSj-U5fGFHGCfvhwINtrysskFYVvUBaQVxZJc-N-kU-kvQcSNuS72X8OMpdLdOaT6MGMh9SBVQ1oUJhpzu)
+[4] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnuZIOhHdDBaIjp2rcJHsDDDqlSqRd58M6YBU54yqSOF5p2wnBtyr5auI88yZl4-wx05qHp_-qu1zZ14-D09bLvntwetRjRXtxI__Daxb9C2DCI0LjbilT6dpHDmJwj0j7iBjXY1xXu7iSi6xx)
+[5] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnuZIOhHdDBaIjp2rcJHsDDDqlSqRd58M6YBU54yqSOF5p2wnBtyr5auI88yZl4-wx05qHp_-qu1zZ14-D09bLvntwetRjRXtxI__Daxb9C2DCI0LjbilT6dpHDmJwj0j7iBjXY1xXu7iSi6xx)
+[6] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuYf5Hh-0Iit3UBpqJptKw75uCxKFeZkv6cQxf8YVM3bCz-e8UggkwIiSXZmADAxhNJmjJ5YoiQWr2O6bj-QfzBsEyCEz6AddX3y9wORnTpWTvVJ_lPrbCLbmRLCmdDmE-b6Y55bNziCe6hKGFwSqR17tL1VOQmB_-PROCVBP9MkXXv-H1-LDDU428)

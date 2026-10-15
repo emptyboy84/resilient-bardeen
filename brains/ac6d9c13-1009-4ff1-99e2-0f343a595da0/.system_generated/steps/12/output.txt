@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+C:\Program Files\nodejs\node.exe
+
+
+    �͸�: C:\Users\lg\AppData\Local\Programs\Python
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2025-12-02   � 5:30                Python313                                                            
+
+
+

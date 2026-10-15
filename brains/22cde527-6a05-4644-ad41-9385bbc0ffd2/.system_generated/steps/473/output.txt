@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+피커스튜디오 biz: [ '606-16-43962', '606-16-43962' ]
+
+

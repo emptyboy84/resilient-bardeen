@@ -1,0 +1,22 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 767 lines>
+사업자]
+[366/421] Row 2209 | "가람스토어" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[367/421] Row 2210 | "하늘연" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[368/421] Row 2211 | "인코누스" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[369/421] Row 2212 | "이수" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[370/421] Row 2213 | "엣지러너스클럽" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 636-88-03051 (주식회사 엣지러너스클럽) | 주소: "부산광역시 사하구 낙동대로 542, 3층 302-에이171호 (하단동, 대우에덴프라자) 542, Nakdong-daero, Saha-gu, Busan, Republic of Korea" | 대표: "오형석" [계속사업자]
+  >>> Progress Saved: 370/421 | Matched: 115 | Unverifiable: 255 <<<
+[371/421] Row 2214 | "에어딩동" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[372/421] Row 2215 | "더비치" | 대표: "" | 구: "수영구"
+
+Last progress: 12s ago

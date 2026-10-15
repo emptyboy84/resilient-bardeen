@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+['-c', 'C:\\Users\\lg\\Desktop\\Today\\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�.xlsx']
+

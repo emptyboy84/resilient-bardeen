@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+cess_type:"main",channel:t},globalExtra:{prod:Rt,ver:e,product:Rt,version:e,channel:t}}}function La(e,t){if(!R
+

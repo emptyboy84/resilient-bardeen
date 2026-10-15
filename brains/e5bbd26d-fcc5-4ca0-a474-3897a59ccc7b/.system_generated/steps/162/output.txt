@@ -1,0 +1,6 @@
+### Result
+"https://pcmap.place.naver.com/place/2033734187/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202609181030&locale=ko&svcName=map_pcv5"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframe = document.querySelector(\'#entryIframe\');\n  return iframe ? iframe.src : \'No iframe\';\n}');
+```

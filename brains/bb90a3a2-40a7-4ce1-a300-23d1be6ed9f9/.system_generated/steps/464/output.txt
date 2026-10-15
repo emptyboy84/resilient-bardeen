@@ -1,0 +1,9 @@
+The search for "site:innopolis.or.kr "저스티스어드벤처" OR "연구소기업" "저스티스어드벤처"" returned the following summary:
+검색하신 `site:innopolis.or.kr` 조건에서는 해당 키워드(`저스티스어드벤처`)와 일치하는 문서가 조회되지 않습니다. 
+
+다만 일반 웹 검색 결과에 따르면, **(주)저스티스어드벤처**는 응용 소프트웨어 개발 및 공급업을 영위하는 기업이자[1], 한국해양대학교기술지주회사의 자회사 및 연구소기업으로 등록된 이력이 있는 스타트업입니다[2][3]. 연구개발특구진흥재단의 공식 홈페이지(innopolis.or.kr) 내 세부 사업 공고나 특정 관리 시스템 데이터베이스에 직접 노출되어 있지 않거나, 검색어와 정확히 일치하는 웹페이지 색인이 존재하지 않아 검색 결과가 없는 것으로 보입니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPj_jgV6R67TxpjZJrZ0CH_MPcf-Pr3YEofnK_nfb0flvjHuDHuKPjna-HveQR6kxyFxRogoVxXABVw0IJb3nMSU4SP-C1-hSGLkaO3ffBuhyWyEwfqKmXk-NA-M7Vn2lNhLUNWXQssDm_brFQCTBBwn5yXTAAl-rU2zSU7qCtrbWn4rbEIFlb-xpfZ8NDD1Nk21pOpWPNaGXfn7l8xZeEiVvO9O8FoApMa339_ixvM8uZnSjjF-swDYuCMi07I2FkFEYsU0Lo_7nSHTkYsbfcF-8tTRqbkG5_Tiz4IzhGFTrtX1ABVK5WJ9HRNgOH)
+[2] [kmou.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydlX52VdxnCsVBf1IQavsCaQoiNMyZ0bkdWUhij7PcVqYvnBq1lzb6XEbfj7OspVLWSPFcA8v0cWoH40FuEblr1JUTnm2X6mt-hhww-vqxdKLYacWst1TjsI-i7ayAwzDtrc38mZGTJ3Bc9k5CwuXDuD0DBFupq8=)
+[3] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA5opHQze0nIXvUYhdEslKGiUFidhZ6HE0TPTYnr1QKw8d6BYhWpXEpWUjkX5Y5bOL2O_yHvfQ9KJJD2lmWjymIj_OhDKGXMoLn_c0RY7zlQ8CuBIALKuSS3MjOJ3I4wgBzFCw)

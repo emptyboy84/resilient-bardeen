@@ -1,0 +1,16 @@
+The search for "site:dbmon.kr "현대오피스텔"" returned the following summary:
+디비몬(dbmon.kr) 사이트에서 '현대오피스텔'을 검색한 결과, 주로 전국의 신규 사업자 리스트나 공공수집 DB 내에서 주소지 정보로 확인됩니다[1][2].
+
+주요 검색 결과 내용은 다음과 같습니다:
+
+*   **사업자 주소지 정보:** 부산광역시 남구 대연동, 경상남도 창원시 성산구 중앙동 등 여러 지역의 '현대오피스텔'에 위치한 사업체 정보가 수집되어 있습니다[1][2].
+*   **관련 상호:** '세븐일레븐 제주현대오피스텔점'과 같이 현대오피스텔 내에 입점한 사업체명도 확인됩니다[3][4].
+*   **데이터 성격:** 해당 사이트는 공공데이터를 기반으로 한 사업자 주소록 및 전화번호 리스트를 제공하며, 특정 오피스텔에 입주한 업체들의 목록을 확인할 수 있는 형태입니다[1][2].
+
+더 자세한 특정 지역이나 업체 목록이 필요하시다면 디비몬 사이트 내의 검색 기능을 이용하시기 바랍니다.
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdugOhTETvqPznHFmC4QVBKZD4aM8GZIJxNAfdWQJQyaaxXXLXz4bj1C0TE-rvm69S3Ou7nYsZoHjpD0TEqSa_lBzZGPAOL1OYqfbucI5pRLqF4R1i6LGagr8NgaNOGhp3UFpcm1krUpQ1yq3f-16A_u1iGNaADTduJMReceEuKKLDGIxYcaCxYGR-LoHfJsl2s5-GqT5cm7HdUY8bn4tBtN0=)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgoWK_2frJWgZjna0bIsi3dvaBRwkVZTzV1tTxvFTk6NIkbR2KjEWsXUp97UN-L985V0QYLIYMLoZlKr5KkonFntmANtgO_2U7JswS6mLLz8gXJAehSrvrIkZN784E2i19mRgSIXryEjXgb2J-5QyEngNDGrbUzW0aDAMXt0OduNFxmmjWu7-MuEu9-wiIBBf54YhrPCr0zhXGf2dnFedR_AKnfA==)
+[3] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX0va6hCfxNyhGD0fKP3KcHWe-bLKZwwrgNpLYn4_OcVq0ow7Kj8Gk5nTHy2eoWKFLN68gvO15mUGLUsbEHtbCXcwDnp3Tp0U-BeYvS1LouDpRqCP2mX5qXYRfZZSL-Npsx1AhN0UF0TluLsvYnbX4zjSc4mo=)
+[4] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVRWa9BMeHzj02MJaK46A-R-bywAE9-AIKupDS_6sSl9GNhlxLTAzpH1-yL1c36qbWeoqriUdAfUtR5UoAk11opA79NRfnFLBCHcAfAxCbxSp0jcpJjcm04D1Ld5Lq6vJzyueiaW4zAAY6ra2x9CRt_R0XVbU=)

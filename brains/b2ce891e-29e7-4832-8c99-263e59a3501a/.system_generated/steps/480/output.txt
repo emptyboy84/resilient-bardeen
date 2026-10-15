@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+5: 케미캐스트	7838800705	김효정	46974	부산광역시 사상구 새벽로202번길 25, 302호	051-731-3553		https://www.chemycast.com/	chemy.studios@gmail.com	11	그 외 기타 정보 서비스업	180111-1104726	12월	정보통신업	정보서비스업	기타 정보 서비스업
+

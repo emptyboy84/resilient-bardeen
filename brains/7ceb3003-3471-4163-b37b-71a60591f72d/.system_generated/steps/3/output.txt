@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\fix
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        2026-06-19   오전 9:04                .agents                                                              
+d-----        2026-06-10   오전 8:51                node_modules                                                         
+d-----        2026-06-10   오전 8:52                public                                                               
+d-----        2026-09-08  오전 11:27                scratch                                                              
+-a----        2026-06-25   오전 9:54           2111 fix_clipboard_admin.ps1                                              
+-a----        2026-06-10   오전 8:51          36759 package-lock.json                                                    
+-a----        2026-06-10   오전 8:51            370 package.json                                                         
+-a----        2026-07-02   오전 8:59          16611 server.js                                                            
+-a----        2026-06-11   오전 8:51            503 skills-lock.json                                                     
+
+
+

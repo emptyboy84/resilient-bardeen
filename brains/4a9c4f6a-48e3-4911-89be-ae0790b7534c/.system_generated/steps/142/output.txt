@@ -1,0 +1,12 @@
+The search for ""코리아실리콘" OR "7620901925" OR "762-09-01925"" returned the following summary:
+검색하신 검색어와 관련된 정보는 다음과 같습니다.
+
+*   **코리아실리콘:** 실리콘 제품을 전문으로 생산하는 제조업체로 확인됩니다. 주요 제품으로 실리콘 압출 성형 제품(호스, 가스켓 등)과 압축 성형 제품(O-Ring, 패킹 등)을 다루며, 주문 제작이 가능하다고 소개되어 있습니다[1].
+*   **사업자등록번호(762-09-01925):** 입력하신 번호로 조회한 결과, 해당 번호가 특정 기업의 고유 식별 번호로 명시된 공개 자료는 검색되지 않았습니다. 만약 특정 업체의 사업자 정보를 확인하려는 목적이시라면, 국세청 홈택스 등 공식 사이트의 '사업자등록상태조회' 서비스를 이용하시는 것을 권장합니다.
+
+참고로, 최근 실리콘 소재와 관련하여 울산 등지에서 'HS효성에너지솔루션코리아'와 같은 대규모 실리콘 음극재 생산 공장 투자 협약 소식이 있으나[2][3], 이는 검색하신 '코리아실리콘'이라는 업체와는 별개의 사안으로 보입니다[1].
+
+Sources:
+[1] [workieum.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFutstpqNrtc8K6OQfb_-DjGECAMVt-J2RnNMg5q362GAZOw-qhmRydKGhN852BpUnUA9vSey5q9Db9u6ng4hVDEz9NBjjLBXSo7R_VJqnVPEokcwaNgw==)
+[2] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuJhWD5dHfhBlOcjPrYhzQ4-ZZNRbGEHSIC4N8oXDYLIStXRMXkhDrHKU2u-AA7BFD2l6Sr_lx1M6Cpykex8kpWOlCVuGRQkkoC5s7GGz17vS_j32lGTMCXo240tKFPcSTfk5p_u6re1G49kBeGWUSbsUPAVOaialEpkhVSRpG590DrA==)
+[3] [knnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdruuIuY7nhKSGvZVw6g3Sal21mo587yhOtjVaa8VMIs1R4bksnMWDU4yT-Qg3jRZFmsJiScz5hcvBfqgVAvtKlZelsQD03Eu3UVDhyoPBoXRN7mH8ZSbOMkseaxlfzITCZ5HRGgd2dHl6ooBaaSzB)

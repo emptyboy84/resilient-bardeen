@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Cell A2 fill in test_out: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF8CBAD' } }
+Cell H3 fill in test_out: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF8CBAD' } }
+

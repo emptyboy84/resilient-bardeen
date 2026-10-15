@@ -1,0 +1,11 @@
+### Result
+{
+  "searchKeyword": "6090657409",
+  "totalCount": 1,
+  "isFetched": true,
+  "listLen": 1
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n  return {\n    searchKeyword: store.searchKeyword,\n    totalCount: store.totalCount,\n    isFetched: store.isFetched,\n    listLen: store.searchResultList.length\n  };\n}');
+```

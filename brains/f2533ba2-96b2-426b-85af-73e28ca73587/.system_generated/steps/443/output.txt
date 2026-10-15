@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+--- CORPORATE NUMBERS LIST (58 ROWS) ---
+[Row 5] (주)화승코퍼레이션 기장공장 | BizNo: 7658500671 | CorpNo: 184511-0001252 | Checksum: PASS
+[Row 6] (주)하나기술단 | BizNo: 7658502363 | CorpNo: 180111-0240307 | Checksum: PASS
+[Row 8] 스냅태그(주) | BizNo: 7658601847 | CorpNo: 131111-0605021 | Checksum: PASS
+[Row 14] 바로펫㈜ | BizNo: 7668102617 | CorpNo: 141211-0131741 | Checksum: PASS
+[Row 15] 에스텍㈜ | BizNo: 7668601501 | CorpNo: 170111-0757073 | Checksum: PASS
+[Row 23] 넥스다임 | BizNo: 7678101168 | CorpNo: 180111-1197440 | Checksum: PASS
+[Row 24] 캑터스인터내셔널 | BizNo: 7678102658 | CorpNo: 195511-0279129 | Checksum: PASS
+[Row 25] (주)디에스원 부산공장 | BizNo: 7678501400 | CorpNo: 180111-0820852 | Checksum: PASS
+[Row 26] 성우이노텍 | BizNo: 7678601052 | CorpNo: 194211-0292128 | Checksum: PASS
+[Row 27] (주)브리오 | BizNo: 7678702500 | CorpNo: 180111-1496975 | Checksum: PASS
+[Row 28] 서강테크 | BizNo: 7678802827 | CorpNo: 194211-0369068 | Checksum: PASS
+[Row 33] 은성 | BizNo: 7688101142 | CorpNo: 194911-0047785 | Checksum: PASS
+[Row 34] ㈜미르내이앤씨 | BizNo: 7688801078 | CorpNo: 110111-7003140 | Checksum: PASS
+[Row 35] 대원오토텍 | BizNo: 7688801307 | CorpNo: 768-88-01307 | Checksum: FAIL
+[Row 36] 플로우텍 주식회사 | BizNo: 7688801817 | CorpNo: 131411-0463663 | Checksum: PASS
+[Row 43] 광선정밀 | BizNo: 7698100490 | CorpNo: 195511-0207667 | Checksum: PASS
+[Row 44] (주)씨에스물류에스에이치지점 | BizNo: 7698101503 | CorpNo: 180111-0676172 | Checksum: PASS
+[Row 45] ㈜나인피스 | BizNo: 7698101790 | CorpNo: 110111-7831468 | Checksum: PASS
+[Row 46] (주)리콘 | BizNo: 7698601439 | CorpNo: 180111-1241742 | Checksum: PASS
+[Row 48] 블랜 | BizNo: 7698702995 | CorpNo: 110111-8441927 | Checksum: PASS
+[Row 49] ㈜돔팸 | BizNo: 7698800674 | CorpNo: 110111-6374360 | Checksum: PASS
+[Row 50] 동현이앤씨 | BizNo: 7698801668 | CorpNo: 194911-0055316 | Checksum: PASS
+[Row 51] (주)나우인터내셔널 | BizNo: 7698801746 | CorpNo: 134811-0570136 | Checksum: PASS
+[Row 52] (주)프리하라 | BizNo: 7698802177 | CorpNo: 170111-0828824 | Checksum: PASS
+[Row 56] (주)올라운드스톤 | BizNo: 7708602116 | CorpNo: 220111-0232892 | Checksum: PASS
+[Row 57] 엠에스케이 | BizNo: 7708602867 | CorpNo: 194511-0018594 | Checksum: PASS
+[Row 58] 티지씨 | BizNo: 7708702511 | CorpNo: 194214-0015889 | Checksum: PASS
+Total corporate numbers present: 27
+

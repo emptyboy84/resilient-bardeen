@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+개인사업자: 200
+법인/기타: 0
+

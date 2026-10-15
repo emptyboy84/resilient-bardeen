@@ -1,0 +1,12 @@
+The search for "site:kyobobook.co.kr "051-709-5958"" returned the following summary:
+전화번호 **(051) 709-5958**은 교보문고 매장에서 사용하는 대표 전화번호입니다[1][2]. 
+
+해당 번호는 교보문고의 여러 매장 안내 페이지에서 확인되며, 주로 매장 내 도서 재고 확인이나 위치 안내 등과 관련하여 게시되고 있습니다[1][3][4]. 특정 도서의 재고 현황을 검색할 때 해당 전화번호와 함께 매장 내 상세 위치(예: [A관 0-24] 벽면 등)가 안내되는 경우가 많습니다[1][5][6].
+
+Sources:
+[1] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zASmZ_EB1s5T57pNmyOtCFy-U-n_jOYeqjDO1w7EyjkdlkQYhpllOlyqDE4nQamdQzbWDPigisQd07NyOITa184dDhUPkkU3iBZJQTPqlW8ecjGLmlJDomtHCv86sHnJiFJJzO_OiVSVSu7hk6TqfDzFt__Gf2sNpnAPp1I-B56mJOB8KY6s)
+[2] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFevMsXWHcGmHRQTck3v3ayHTH-QDelCkh0KTIBP25S7TYwGO6eaJKWm8EEhqQJ7EhPl6GeEBemmjkyIcKKEyutLC7OKh3E8knaMnIR1IvHHCscdFgjxmlCqk7_Ll_aClonuMeOr63oASHUmdw1-OS8m_6VOgPMrLE9wyGSVlHzdZFDLwhgHcrh)
+[3] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0_qsLYbwRqFn4JVrlWwSYLuxi2bCb460Heb6PPLCj_7Pq3DIRL_gT7zb-fSCHI3gbYF6lHEGXWruAqQBahmmFFtVm4Q-_1k-oKFC8Oy7RMjD31NyFpigiP0yhPLXekBYhffhnf11A-Yal22uydk_vbC2ngbbFlCnIb2_lhdfU7flbpFUCN2p)
+[4] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvs1uygIy48RAJnQ9lQCWOZE203s4XrERvxfFLOAGng_IYMXbM_lAgZ2L2g3nyxCnHcIxmRfWP5BkuGT7gMmNgt62GR-N035u3e7JPtbOnsCiVmVRhj6FpvYOWqX8UJu8_gHsAXsSJqeSCSw4RC-CE_5UjAo2tYTEy_4EOQyLnL7Swxt2Wz0m5)
+[5] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0TOcxnHpEHzhZymrbLoxJKBunIMpd4q_Iym47zQHvGGWrE_oMomcq3hC_iQi3vIU5MD0whnb8uT-liFNjLeLrC71YAOSuolsBJXsmoHrGf5JJn5JPnwkYcmYpnTkXJIshap3e7G6kzSOnhOmQJurwvT7fR3JROffsgpBe-FJPWM-rLIfwPqEm)
+[6] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaXJmuYLo_3nJQi1ZbQLABNtYIQZ4-lFhBaLRgwE5J0yoTzXVdmREoqx0B84LIxtE8VskWLbI9U60NnLwVpSYaqTtSpRG1Nt9qkZWDo-aKLA0Jd4Ew4X22POsUIZsNsdTL45zKdUb8f3x-PsL9dHwzJ6kl7HrLzIyXJECrYuJQE2zjnGJxauoz)

@@ -1,0 +1,20 @@
+The search for ""스튜디오바다" site:book.mcst.go.kr OR "류수환" 출판사" returned the following summary:
+요청하신 내용에 대한 검색 결과는 다음과 같습니다.
+
+**1. "스튜디오바다" 관련**
+*   문화체육관광부의 '출판사인쇄사 검색시스템' 등록 정보에 따르면, **'스튜디오바다'**라는 명칭의 출판사가 존재하며 부산광역시 동구에 소재하고 있습니다[1].
+
+**2. "류수환" 출판사 관련**
+*   **금융/경제 도서 저자 류수환:** 경제·금융 관련 수험서(예: 《미스터뱅 은행권 필기대비 경제/금융상식》 등)를 집필한 저자 류수환의 경우, 주로 **'와우패스'**와 같은 출판사에서 도서를 출간했습니다[2][3][4].
+*   **교수/연구자 류수환:** 영산대학교 만화애니메이션학과 교수인 류수환의 경우, 과거 《스토리보드제작기법》 등의 저서를 **'북스앤피플'**에서 출판한 기록이 확인됩니다[5][6][7]. 
+
+따라서 찾으시는 '류수환'이라는 저자가 집필한 도서의 분야에 따라 관련 출판사가 다를 수 있습니다.
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEX8aDLCjaEo6kBaBqVmeUhaX7C__l3BZaZrowAJOJQvBj2K8i8wa86aB0MAG6XLg1Yzw8UM_mHdOmL8ddWfLFr-c9dmZMFqeIJFuxxSpbau96VRi1Bpi9HvfaqVHih0ScAeH6hWSWSPyshHqDuPk1wWzQR0S_McQzQxv17vuCj4r75oNVnlixifetKNlm1HjLtrxQYJ5TNU44ksNTYj59k12tFM4UfdV9GIqa-4lS0v0_ZGu-XxV9XjT_pdYvw2zZxB2mxBO61LCGs-c2a7m4df900wR00w35d5Tl8jU1S4U=)
+[2] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfKBXFKnwLWAEjD9GQr6cdcJrgGTzcVEdNHCjwEsf_-EAf0Ge7vCiLrYrjHOHL_UVFRzFvkd0LQkBrjdrP3ZOgqEaz1ijNVleGCbhFA6BuCWnTNt-kgTNXNlchuTAEegZb9J252dkzgXjbTo53UchhHAaTvxwNHp2qXYIFGPe-r5WdQQekPasWI81qBBt9U4Ttz8wbMes_3wLytdrxnlFXPMe_WIg0IOOHcxOs-zr29K1Ioh7QRvFIcU2HZzSbsUIllnnNRw==)
+[3] [wowpass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdc-C1CSMwjEtKloV7JcJ6WmJ3YT-t9Z32j-ZMTj8Xw6czqAkGpJsMiEx0qBHofIElgLkW5D7ilYvcwSQh4aQ82NTACE4uCMKeQHXJTZ1VkWeD0DQijPDONz8xz2B89n8KB3-7KhPjOLhzBu6ucnHIQYoHrJk2kA4=)
+[4] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGL1ic9G4iQ-P-gJyOMIEejcpcZXILx2z6fDYl5_ClPTLYzHnZyu86tIEiSDGny4oHx1iR9-j7VAjD4ew6WmTQAWik7AkEvLyGD03gLqA-QKOzxZpUvDfoYLYPFtVyhT6uKPysJ9O2FtM=)
+[5] [ysu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaaKf9rgx8bKqG21WgFmmkoThrkOzo5YUph4lUTaGWFpe7H0ERuUbq620yxh-AHGtweWV0h-XXUMHzIAFPhheUqlKEO2yVkb7sxuKWUQzxs1_b7Uq9R0XDLwi-d-E4c9AHbCZK_RJc6NVrKASpaoxq9Vln)
+[6] [mgood.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3trbbhYaqDw3dKhJ5hsqxCvGDNKQBXp3xItVjP6Jwde0xdq6aREKSSEJJ8Mywl8ggrZB-i5b4udOaUm63rl0IOSBG-KJajEi2y2k_IIC773EzxXy6bDLIokafGpXcr01gcj3E4zNyOqP85lpBR1qCx1w9sv0UaKwsgXmzlyoFwMge4j0yqRxwaG6D9S9Nt4fIj7rEcws50DWWYCFZsKs1A==)
+[7] [shoseo.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Q5_w2bex-xtAh3kBfhddMgbyPZvZyDIhFjk3cFI3aDeXWwJSjjYASBz-_NwFq79mznozgrM0e8y7yP1AHSxd624vSbn7iHyQDr9kD0ClV6YjaZ97R0_seexub3hiTokzQhY0Rd2mWynwrw==)

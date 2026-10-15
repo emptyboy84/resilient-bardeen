@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Extracted: {
+  phone: '1522-3008',
+  chunk: ' 화린 부산광역시 해운대구 재송동 1208-2 비동 404호 연락처 : 1522-3008 부산푸르지오분양'
+}
+

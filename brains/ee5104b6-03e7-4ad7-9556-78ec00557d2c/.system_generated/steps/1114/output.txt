@@ -1,0 +1,7 @@
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_verified.tsv","LineNumber":401,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t48059\t부산광역시 해운대구 센텀중앙로 90, 1710호(재송동, 큐비이센텀)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_factchecked.tsv","LineNumber":401,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t48059\t부산광역시 해운대구 센텀중앙로 90, 1710호(재송동, 큐비이센텀)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\merged_500_perfect.tsv","LineNumber":401,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t48059\t부산광역시 해운대구 센텀중앙로 90, 17층 1710호(큐비이센텀) (재송동)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.tsv","LineNumber":401,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t48059\t부산광역시 해운대구 센텀중앙로 90, 1710호(재송동, 큐비이센텀)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.tsv","LineNumber":401,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t48059\t부산광역시 해운대구 센텀중앙로 90, 1710호(재송동, 큐비이센텀)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\current_pasted_batch.tsv","LineNumber":404,"LineContent":"배현명\t\t디아트워크\t5513200760\t이민석\t\t부산광역시 해운대구 센텀중앙로 90, 17층 1710호(큐비이센텀) (재송동)\t\t\t\t\t0\t비공연 예술가\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.csv","LineNumber":402,"LineContent":"배현명,,디아트워크,5513200760,이민석,48059,\"부산광역시 해운대구 센텀중앙로 90, 1710호(재송동, 큐비이센텀)\",,,,,0,비공연 예술가,,,,,"}

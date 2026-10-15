@@ -1,0 +1,53 @@
+
+The command exited with code 0.
+Output:
+Visible rows: 845
+Visible blue rows: 418
+Visible blue rows with revenue: [
+  {
+    rowNumber: 1686,
+    sn: 1685,
+    name: '비비스로지틱스',
+    biz: '835-02-03047',
+    rep: '유성빈',
+    r24: 98973000,
+    r25: null
+  },
+  {
+    rowNumber: 1757,
+    sn: 1756,
+    name: '(주)창비부산',
+    biz: '757-85-01489',
+    rep: '신문수',
+    r24: 42675000000,
+    r25: null
+  },
+  {
+    rowNumber: 1763,
+    sn: 1762,
+    name: '새부산기독교서적센타',
+    biz: '607-99-75121',
+    rep: '김대희',
+    r24: 1318523000,
+    r25: 1408424000
+  },
+  {
+    rowNumber: 1806,
+    sn: 1805,
+    name: '미디어CAPSULE',
+    biz: '607-10-88688',
+    rep: '정태선',
+    r24: null,
+    r25: 2200080000
+  },
+  {
+    rowNumber: 1837,
+    sn: 1836,
+    name: '엠엔에이윅스',
+    biz: null,
+    rep: '고태연',
+    r24: ' ',
+    r25: null
+  }
+]
+

@@ -1,0 +1,23 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-1186
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-1186.log
+Log output:
+<truncated 19 lines>
+래구] found: []
+
+--- Row 593: [도서출판일광] | Phone: 051-723-0037 | CEO:  | Addr: 부산 기장군 기장읍 차성로344번길 13 ---
+Naver by Phone [051-723-0037] found: []
+Naver by Name+Addr [도서출판일광 기장군] found: [ '579-95-01063', '101-82-72797' ]
+
+--- Row 598: [도성회] | Phone: 051-512-3171 | CEO:  | Addr: 부산 북구 금곡대로 287 (화명동) ---
+Naver by Phone [051-512-3171] found: []
+Naver by Name+Addr [도성회 북구] found: [ '129-35-46411', '738-87-03933', '831-97-01820', '620-13-76639' ]
+
+--- Row 611: [동화사] | Phone: 051-464-0761 | CEO:  | Addr: 부산 동구 중앙대로226번길 7-6 (초량동) ---
+Naver by Phone [051-464-0761] found: []
+Naver by Name+Addr [동화사 동구] found: [ '502-82-21074', '502-82-10825', '502-82-67726', '649-08-01590' ]
+
+--- Row 619: [드림유엔터테인먼트] | Phone: 0507-1332-9831 | CEO:  | Addr: 부산 부산진구 서면로68번길 45 3층 (부전동) ---
+Naver by Phone [0507-1332-9831] found: []
+
+Last progress: 0s ago

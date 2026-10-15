@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=%22051-302-7590%22+OR+%22051-302-7599%22');
+```
+### Page
+- Page URL: https://www.google.com/search?q=%22051-302-7590%22+OR+%22051-302-7599%22
+- Page Title: "051-302-7590" OR "051-302-7599" - Google 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-32-39-839Z.yml)

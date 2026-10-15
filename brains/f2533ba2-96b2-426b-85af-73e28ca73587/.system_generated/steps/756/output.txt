@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.locator('#searchKrwd').fill('7780500791');
+await page.locator('#searchKrwd').press('Enter');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do
+- Page Title: 2020년 정보공개 - 공정거래위원회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-08-53-142Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-08-05-385Z.log#L2

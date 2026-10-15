@@ -1,0 +1,13 @@
+The search for ""바른중량" ("164811" OR "160111" OR "법인등록번호")" returned the following summary:
+질의하신 내용과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **(주)바른중량**: 충남 천안시에 소재한 기업으로, 기계설비공사 등을 주력으로 하는 업체입니다[1]. 해당 기업의 법인등록번호나 특정 코드(164811, 160111 등)에 대한 정보는 공개된 검색 결과에서 직접적으로 일치하는 데이터를 찾을 수 없었습니다[1][2].
+*   **용어의 중의적 의미**: "바른중량"이라는 표현은 기업명 외에도 운동 시 올바른 무게 설정을 의미하는 용어[3]나, 조선 시대 무과 시험 등에서 사용된 '육량궁(六兩弓)'과 관련하여 "육량이 곧 바른 중량"이라는 의미로 언급되는 경우가 있습니다[4].
+
+찾으시는 특정 번호(164811, 160111)가 기업의 고유 식별 번호나 특정 문서 번호일 경우, 금융감독원 전자공시시스템(DART) 또는 관할 등기소의 법인 등기부등본을 통해 정확한 정보를 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBWXHWNJiY1vf0jeppHmiRLnoumJ4cXcifIX7Znu3Ffmv16nEO8RaecuaUl9Yk1vX6ZPOrWuxPjhUP6J-sljUnRfQqHpdMWn98dbn9LpZcwgyXLoPSqFLQ88Kvk5WT4jW5aWc2r_MGUF_yjTjM6dk2)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIbLykat8m0pmLPwq7laY0ctUeAYFi9bM9baIgJlJ3_5YV8CKt8z0LQCNf4FYg7uoO6RESfjaCoYtkmcQ1kvOhuTxqPZEN3ej5ICF3v-V8Sco474fw-gf_HaZk264VTGtQeGDricRHqwbi0uYVu6BX6Oa0)
+[3] [a-ha.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7eKMRweUZ1XRvJATOFY5IQQUZK-q2VBwFQt8f8glCse8a4vzk6QWC-U_iqlTugl2PoJfVjmZyUT2Bz57eLNQi-kbuIGnAYGvCsvo7lfVdFXpSC0XclBdYWgF6C_IvQ-5QSGVTlfRnMesE7MDKbtprHi5eEw==)
+[4] [aks.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDeC8-keDR3XbIO9UdVI38aHjxPqksPOB1n8mX9Uzn31iFrQ46DhZqsfJjL3WEmA6LPwNVWehuqCA0MWXtkX-DRMfpNS6mKD-tebmgmtPiFEeZaVZ7rZIGyJZQIbP-iWF9hmD5EF9P0Tmu4HZ-Ycx-Bze3G0_WBAit4GwfX22FEXabfg5X_cN2gs5vxq3RsaxWqNBXTK9PlQ==)

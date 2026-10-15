@@ -1,0 +1,13 @@
+The search for ""에코캡" "센텀지점" OR "에코캡주식회사" "센텀"" returned the following summary:
+자동차용 전장 부품 및 전선 제조 기업인 **에코캡 주식회사(ECOCAB)**와 부산 **센텀** 지역 간의 연관성에 대한 정보입니다[1][2].
+
+과거 에코캡 주식회사는 부산 해운대구 센텀 지역(예: 센텀동로 등)에 사무소나 지점 형태의 거점을 두고 채용 공고를 진행하거나 관련 업무를 수행한 이력이 존재합니다[2]. 
+
+다만, 에코캡의 본사와 주요 제조 공장은 주로 울산광역시 울주군(언양읍 반천반송산업로)에 위치하고 있으며[3], 해외(중국, 멕시코 등)에도 생산 거점을 두고 있습니다[3]. 
+
+특정 채용 공고, 지점 등록 정보 또는 과거 부산 센텀 지역 오피스 관련 상세 내용(연락처, 담당 업무 등)을 찾으시는 경우, 해당 시기의 구인공고나 기업 비즈니스 디렉토리 자료를 참고하실 수 있습니다[2].
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7SaBuorVAVOxMnyWRpeiG2EP-JMKZgpXDYAQVIAF7xQlDGXpP0Xqy6aXU2Zc8HqK0whZZBZk3qKE7y8Zqn6K4zRXAfRaOCF9eRCrhQSDASHlHH4TVLxlnVjxTUQLHGnhcIdlxWxK2qa2xIQ47Sg==)
+[2] [ubpi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNp0VyG4XmipvRTfquQsfzoDBVN5Nt6Zy0gpFpm2g2l3FF2DT_Xnf9BMQ3IkCj6aogTeWGALKy9c1AvrNYxZkAwm1YhRQkV5YtXnKKDgKZ_YN1JNdzZknPdb4HvtlBpk2PpWRxtSpBRSGCXhh2nBadHBN8fwXPy3g=)
+[3] [ecocab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSyyWj5-At0Wtqvh_faDS1mEwBIdCg6KJLSZAjFxnGeOoz3WawnS1CKA4qcrJAaIWJJZCVUNfA79AN1M_rcRbZauK_VKmdwYGOWPr6P0H2ZaQRsLCrLFmnBayjGF4tKro=)

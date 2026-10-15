@@ -1,0 +1,30 @@
+The search for ""칸투칸" "617-81-54865" OR "한영란" "매출액" OR "감사보고서" OR "실적"" returned the following summary:
+주식회사 칸투칸(대표자: 한영란, 이병철)에 대한 기업 정보는 다음과 같습니다.
+
+### 1. 기업 개요
+*   **법인명:** 주식회사 칸투칸[1]
+*   **사업자등록번호:** 617-81-54865[2]
+*   **대표자:** 한영란, 이병철[1][2]
+*   **설립일:** 2005년 3월 1일[3][4]
+*   **주요 사업:** 아웃도어 의류 및 용품 전자상거래 소매업[1][5]
+
+### 2. 재무 정보 및 실적
+칸투칸의 매출액은 정보 출처에 따라 다르게 나타나고 있으며, 이는 회계 기준이나 공시 시점의 차이로 보입니다.
+
+*   **매출액 관련 정보:**
+    *   **2023년 기준:** 약 98억 2,200만 원으로 보고된 바 있습니다[3].
+    *   **기타 자료:** 출처에 따라 연매출을 50억 원 내외[6][7] 또는 과거 370억 원(2021년 기준)[4] 등으로 명시하는 곳도 있어, 구체적인 최신 실적을 확인하기 위해서는 금융감독원 전자공시시스템(DART) 등을 통해 공식 감사보고서를 확인하는 것이 가장 정확합니다.
+
+### 3. 기타 참고사항
+*   **회사 위치:** 부산광역시 수영구 남천동로 109 동다송빌딩 4층에 소재하고 있습니다[2]. (과거 잡플래닛 등에는 부산 연제구 주소지가 등록되어 있으나, 현재 칸투칸 공식 홈페이지상의 사업장 주소는 수영구로 안내되고 있습니다[2][4].)
+*   **기업 정보 확인:** 사람인, 잡코리아, 캐치 등 기업 정보 제공 사이트에서 재무 정보와 채용 현황 등을 조회할 수 있습니다[5][8][7].
+
+Sources:
+[1] [kantukan8.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRTxg_d2PrMJ3OmzxAVeeqGb4GLn7qLyd7HuIE9Y8xt4IOE6SNqnRhQax596VuqBa3ejVAy6Y-8ZdcGyX89GOD50cY8hzM01VYw-r6krNhrzqn5QF4ZFQ_yVw2MDrJLLL4tYI=)
+[2] [kantukan8.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkH1pHLN1wB3x8RKtzuYTWDR4GKqcAMjoc1fpwX8Qdyi0HDcPHtexv1pUbD1bzONkiSAShP2i3Xw2_3dBIWD_2adwBd90eOdQHFlq6Vrc=)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoJPlrZOEzoMF_EPJYOdDmlZgoaw06nzMupZV5_blu1U0kfZi0yf5b_a0DISTDI_XTHL0wFwCmakcI-znxooefoyeP4qpvIr620rioKpEn7eBelrqEDGBfaggZvsGjZQ==)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu8tf2E9SCMq4rIOr1jaQJVhFFk9HhME5lSrUBD3mYNcZGcKjrvyGmiWuL7uJ2MEslnpVJJqHKm4BndfUigKrr0IqsSZJMTZ4wYyDevwuEvAkaddlfhlLXKh-eE8vDhXFlnBOCmLGgbTfWxOEG2V80O4Z4JdiZUDz62lGZZfo2aOu0HKPT)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe5Te7O7JDoR4Yscbo_K5oXndH_xbLxuYtoq-zNTa7Qmw5VKeza9yxw-oa-TN8upRDLxVRoTkrZU6nssPV9ORPRyuFqP4jIAQU2sRxulxFP5NaFz0azhFaGu_fD2do9riCOKs22Rs4w9mLO0uv3oC9v8fMcASDbTmnk09zcBQhYSqckGm44EoWgp5C9LAr07H-Tiz5k0ZZScVFp4qDcyzHIdaj49L6hFKEGYlP-xmh-PIsfAFo67v448no0s0Tftr-M7ZS1Q==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHecWUteHYNTiHUt9o3MOljZwzgt3qzOde70sxpf55chneLbgwSYXw4SKhwozv0afb4KFkU-j0bSIr5dFaBa7oagpkYPNOvcZUiV3it9G3u0wyb2oelEBKYfHunUj5s0dur0bsABLwlWSWq5QtkwS7J811mMN9g_23YwYUCf327w4pn70MZe1_anfMh8HOpcro_MDZEvfn3K7jxw6lH8frSo8_1Cbh_qdCMxDX-DeVFb4YjzZL9FWRNrQswg4LhlEHuP7K-biTPUxuiSNVHkPw=)
+[7] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWl_6-sdmEWYzgewG8Oa5G1gu1etjKFfvow2YhEsJsxCJDnQKwqr_Z5GSnCmXn495gbbnx9ulC6r_94y1vpHTja8L-UyVjHfrTYP51DkCLitQ1S2GTUj5RtN6mUtXBhpeRRYDGpw==)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELtVoUZ53XCZ0YpAssia-wtrLfGkDZBGhuRX9G8wx4CPIc4Rimvm1bLql_flErWdUJrTjKzyao_1ufhM9_Pgy_BI3mMxcXo5ao9rA6vS01FcXVte5uq9wgXMvGZbZCyrXd)

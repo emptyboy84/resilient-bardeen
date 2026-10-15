@@ -1,0 +1,13 @@
+The search for "site:designjob.co.kr "메이브릿지"" returned the following summary:
+디자인잡(designjob.co.kr)에 등록된 **주식회사 메이브릿지** 관련 채용 정보 요약입니다[1]:
+
+* **기업명:** 주식회사 메이브릿지[1]
+* **근무지:** 부산 해운대구[1]
+* **채용 공고 제목:** 영상 콘텐츠 제작 신입/경력(1~3년) 모집[2]
+* **주요 업무 및 내용:** 
+  * 자체 콘텐츠로 구성된 유튜브 채널 운영을 계획 및 준비 중인 단계로, 채널 초기부터 함께 참여할 영상 콘텐츠 제작 담당자를 모집[2].
+* **지원 자격:** 경력무관, 학력무관[1]
+
+Sources:
+[1] [designjob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwp9-30uGij_dZ_FQC-pAZmpCuqUkHxvUe2SsuDe0mxsdrA1fsalzMW8EJQ91744XxVWACztHYZjsSSE4mOCEJuuaYrN2TtaBjgm5lw5nZokGQIjTqOSqchtjwa5f5OlGfU5jQKJw1UvOLtudsTQ0Un7sMNNowSOM=)
+[2] [designjob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5hPFA0TdOAbb8SRvo8gvlouZaRgoCxrqCL38Aih21-khrSmXp47_GiihSZbO5HTHJzlzmO0V67eRX4PpbQRCWhNE_0UVoRPShbfNN34FGpbp1BdEkAHBOjrJXdhfEloTEMEz5BahCKtuTEpomYMMCiMUd8HGsLZnd-dE=)

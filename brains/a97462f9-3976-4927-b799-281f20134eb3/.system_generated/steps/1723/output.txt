@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ftc.go.kr/www/selectBizCommList.do?key=253&token=618DE498-4FB0-CBAC-1598-F8C02F8D39082020C1C9238728F5F919147026F720D0');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do?key=253&token=618DE498-4FB0-CBAC-1598-F8C02F8D39082020C1C9238728F5F919147026F720D0
+- Page Title: 등록현황 - 공정거래위원회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-01-41-027Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-01-39-693Z.log#L1

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Status: 302
+Location: https://www.i-um.co.kr/kr/companies/external/2b229f5b-7635-4014-933d-abcabf873b72
+

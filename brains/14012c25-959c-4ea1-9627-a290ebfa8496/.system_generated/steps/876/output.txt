@@ -1,0 +1,6 @@
+### Result
+"Skip to content\nSUNNY SIDE UP\nGet Notion free\nSUNNY SIDE UP\nMain\nGame\nNews"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.body.innerText;\n}');
+```

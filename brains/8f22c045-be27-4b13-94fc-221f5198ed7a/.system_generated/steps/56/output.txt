@@ -1,0 +1,30 @@
+The search for ""조나단" "이은석" OR site:kobis.or.kr "조나단" OR "애니메이션" "조나단"" returned the following summary:
+검색하신 키워드와 관련된 정보들을 정리해 드립니다.
+
+### 1. "조나단"과 "이은석" 관련
+*   **인물 및 서적:** 검색 결과에서 '조나단'이라는 이름과 '이은석'이라는 이름이 동시에 언급되는 경우는 주로 도서 번역이나 특정 인물 목록에서 확인됩니다. 예를 들어, 조나단 리노위즈의 저서를 이은석 등이 번역한 사례[1]나, 대학 교직원 명단[2], 연극의 스태프 명단[3] 등에서 두 이름이 함께 나타납니다.
+*   **기타:** 문학 작품이나 범죄 사건과 관련된 서술에서 '이은석'이라는 인물이 언급되기도 하지만[4][5], 이는 검색하신 '조나단'과는 직접적인 연관성이 없는 독립적인 정보들입니다.
+
+### 2. KOBIS(영화관입장권통합전산망) 검색 결과
+*   `site:kobis.or.kr "조나단"`으로 검색하였으나, KOBIS 공식 사이트 내에서 해당 키워드로 직접 연결되는 명확한 결과는 확인되지 않았습니다[1.2.1].
+
+### 3. "애니메이션"과 "조나단" 관련
+*   **카봇 애니메이션(Carbot Animations):** 블리자드 게임을 기반으로 한 단편 애니메이션 채널 '카봇 애니메이션'의 제작자인 **조나단 버튼(Jonathan Burton)**이 잘 알려져 있습니다[6][7][8].
+*   **죠죠의 기묘한 모험:** 애니메이션 《죠죠의 기묘한 모험》의 주인공인 **죠나단 죠스타**가 있습니다[9].
+*   **기타 애니메이션 관련:** 3D 애니메이션 제작과 관련하여 '조나단'의 더빙 실력을 다룬 방송 콘텐츠[10]나, 현대 애니메이션 감독으로서 '조나단 조브 은콘도'가 언급되는 사례[11], 애니메이션 시리즈를 개발 중인 '조나단 스터츠먼'[12] 등이 있습니다.
+
+원하시는 구체적인 인물이나 작품에 대한 정보라면 추가 검색어를 통해 더 자세히 확인하실 수 있습니다.
+
+Sources:
+[1] [jpelib.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErfuRQeRlBr87Mfahbl2VIONi8s_YeOeDQoio1vFiAxwoyBMJi90jGdw4ons-g-F9jXd39a8_c5uPn0et-fYilkbHbCifeI3V0r-X4_UtTzDROyfBoCY7ngrm76a6EE_Hpi-a5k1qdMenVGeBtQX1CKDPVrq3gwJVQLwGh-17E18cCkFxCoV2eG3kUq02RaHZmEMGZff5g8L18A5uEscLg5AQYkvpol9QNC_ZB6kx5YdxcSuTHTrVNTz1mhDM65GbWhPGn3zIU8bcegyv8JTRsrX4xufe1BFvaKMuwc2k-9fAA7r9lHSfXOEd4GKKd3AFQJQGVt4VrWy_T4mh7zhLeojggqMgoCRf1Hd-xrEoueCqDJUbV)
+[2] [skku.edu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgydPzri0p3e-OI3Lu6kR34tNiD7Uvzmuskmq_agstdD1v1vgHN6PWh1xWMasyDDxyYZ2ry5O2RFwDdAfHsqLoVU6xKIJuXDasDI_6Qf7roefacudk4bdhghnjuXXuFYm92f6HBV5ig==)
+[3] [doublekent.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbqfTPCB88pZAzy6tNiyOh06IFmXE5sanODEqU4bX2tDCRlDclLecJSTUvKZiwPl-vDVJv0A2Pl5GYTeG1djW2KEVeUPMOIe4_1ZQvna6gnE_Zch9VsD0zimoAcU_Qd-PjX1kCMpI9tQCvNUGTQzaxUtX_hIUlhycR6zrUnDRVkmxJ5tINpknl0cMNC0ngARQKGw==)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU6P6aLrB4vzJg90-B5JiDenYVp_r4HrPg_vzXFCSHSVFJdK9cu74V07qxs7rLTC6iw8H-AqaIHJGmc22I9cIY-U9jYxE1kXvQXaTJOj5sVDaagatSBkE92Bt1ZIejPyJpw20=)
+[5] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPKU-YRNs6BFaHfCm9OYpfZqpc1hUNovGY2pzXKuWVUZXXV78edFlvwl6XkqlI1yRCsNR7cKSU3a9R89Z8b8SAlRkEwpZqqTKfEd7k0QcNcvOBxoQ1d9MR44YIOEwYJEzcNN5msEqiGQmRFrurjzRvySJ4y6b9FQ==)
+[6] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvY8XfGTH_8jqnsQQ6cUDB5ayIXbjwJtEW5SxCHH7FPoj3RUIijLcsSWnqK2hN3ywscMdZ_70Gq7QIpfGcpDferOj5fVRUlHwuQxvVMArcHtmu9wdfLI09YZRaGWWh__aZ5xjdsw==)
+[7] [tgdaily.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjdnsSyKSvQqb2EvnQljBeQTXqlKtuWTADgKhJm_-tHt1iUruMWWNoi8mHuJlIgEYelB26i1uPCIW5QBSeR8Hm6WiYVGx2LYh75Sdm5g8SInKOa2C8p63uzO87qqSeFhO8FzzaCNxkJhy3E5hvMqFTb8w=)
+[8] [xportsnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVQ_PyIVzxueEwOVcI6ukgz-2TmggbSGbW51sMNm7icG0H1_uIFwhi6RJUaeb2roK8pPc9fYLRZCoJj1arOGHS0zsacnR4rLlLF49UPpyRpSeo8vq3I6YAYkID05IL5A==)
+[9] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2uwzEgyGrQYBhTQeX2PuT-M3w8MAWmBtT7R6HgYPQ8ZgSCDzIGdYpEfbJ2VWi3YL1cNFVkZW-ordVqSOP9b8iAcUD5IWa29VwECQmOV_A541sXx66RDWoyzc0R4_loJbw3-RqhCTfqD5RTgswlYePgbJldCYqse3iVEmWYsScNi7RYQ==)
+[10] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF62H83L5DtOtiQc1y5GXNqRs5kOJ-OhuNwHA6ufuY1YUhvMtKR5q3TTtzvTcVODVZTDtEzI6VzgFZtyTEV-14DLbPnBpA_ZJmajl6hC_quLYRAOcnQwLhq_w_hA1fgBIo3)
+[11] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWw2kn17gGzUSJxe8ich4ey0dHnT2PJz1CEzKjL3Kh8jREFt8d9AOW_I9PkvwbmlizGUsf0Kq3Q64Aa0S4eBbqadifNRwP-qEy0ScIeMlggrukEaaytSsAL8RedbWatLqh-f2xX38UWUCwH-yUNRL7LsfnJIbh6w6HmCLSVFVJgK-6VX4MRVI6-o-8MybWoeaF4_bdn5zf1tUC51bvmCX7gsaSAqe2pg==)
+[12] [animationmagazine.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjhVlzq6bA69WQ5FDDUqvqNu-jE5tgo3V9JEiJwN-VV5LrytoYUNPDaUM_ZRh1hESqhAii9lAjbe_lnJVSz8At312r53cXBvejgBDFIN-AKcPBbJD3HzuODkKiMWZSttUNQojHio2z9JmwNwwb_8attA==)

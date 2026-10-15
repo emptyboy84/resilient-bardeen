@@ -1,0 +1,12 @@
+The search for ""문화공간 반달" OR "문화공간반달" 주소" returned the following summary:
+'문화공간 반달'은 부산광역시 동구에 위치한 공간으로, 애니메이션 제작사 '스튜디오 반달'이 지역 아이들을 위해 조성한 곳입니다[1][2].
+
+구체적인 도로명 주소는 **부산광역시 동구 망양로 501(수정동)** 입니다.
+
+이곳은 스튜디오 반달 김지인 대표가 자택을 리모델링하여 만든 문화 공간으로[3][4], 1층 도서관, 2층 영상관(애니메이션 및 VR 체험), 3층 공부방 등으로 구성되어 있습니다[3][4]. 방문 전 운영 여부 등을 미리 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [igoodnews.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt-VuZQOyAKSs-Bkk2Gb-uBbiyVdpIWTiAY_jmIzkvwWUqG_Hl3HRQJuk_qcQGd8bDTIyMy1HqTcCzYaKTckODaESblyQvDhKNFFPR1o1JzVn-L9XVkCziROtWQ8EUBqx6mZ-hrk5iRH3DzFWtI2OMA9M=)
+[2] [igoodnews.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt-VuZQOyAKSs-Bkk2Gb-uBbiyVdpIWTiAY_jmIzkvwWUqG_Hl3HRQJuk_qcQGd8bDTIyMy1HqTcCzYaKTckODaESblyQvDhKNFFPR1o1JzVn-L9XVkCziROtWQ8EUBqx6mZ-hrk5iRH3DzFWtI2OMA9M=)
+[3] [ilovecharacter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1N6nx_SCs5FtkqzdrFEKTJW9uloBiza9FD-0X--GrrcyR3xQytqAGA0V3zSR0VnOpD851NiKYwol5AH9lg_4C5ErgVk2ZKcR3GTYqyK5AYgGM8FqG-zlOH_jdJ1rNSiWkZnK4XJbk_OyBiWj9bHjx_5JNAkpYx9GwY4cgT2Q=)
+[4] [ilovecharacter.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1N6nx_SCs5FtkqzdrFEKTJW9uloBiza9FD-0X--GrrcyR3xQytqAGA0V3zSR0VnOpD851NiKYwol5AH9lg_4C5ErgVk2ZKcR3GTYqyK5AYgGM8FqG-zlOH_jdJ1rNSiWkZnK4XJbk_OyBiWj9bHjx_5JNAkpYx9GwY4cgT2Q=)

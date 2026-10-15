@@ -1,0 +1,20 @@
+The search for ""로파스튜디오" "최미교" 사업자등록번호 OR 매출액" returned the following summary:
+(주)로파스튜디오에 대한 정보는 다음과 같습니다.
+
+*   **대표자:** 최미교[1][2]
+*   **사업자등록번호:** 202-21-56304[3]
+    *   한국산업기술진흥협회(KOITA) 자료 등에 따르면, (주)로파스튜디오의 사업자번호는 **202-21-56304**로 기재되어 있습니다[3].
+*   **매출액:** 공개된 공식 재무제표상의 정확한 최신 매출액 정보는 검색 결과에서 확인되지 않습니다. 
+    *   (주)로파스튜디오는 부산광역시에 소재한 인형 및 장난감 제조업체로[4][5], 2022년에 설립된 기업입니다[4]. 
+    *   참고로, 일부 기업 신용평가 보고서 등에서 타 기업의 주요 매입처로 언급되기도 하지만[6][7], 해당 기업 자체의 상세한 매출액 데이터는 일반에 공개된 자료가 제한적입니다.
+
+상세한 기업 정보나 재무 상태가 필요하신 경우, '공시나라'[4] 또는 신용평가사의 기업 요약 신용분석 보고서[1] 등을 통해 확인하실 수 있습니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFMThfxg02x3h_pV8OeuZiHEJFC9DCimpyCZm5OjjpX4_KNTATOat9hVMYV_cvnQ--feK98Idf_Q6txu17Dy5HxwTFGfJru7KDwEhegt2tcxrruxQsCbLtnnCJAwpfBGTNM46a)
+[2] [bsec.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErE5ZJwqGQUZfzOM9iX10plMZ9grztYKTR9vPb2uZCK1CRFV-JQPRWfR0WqssbtIERtfU2bf2ivceWyGrqS4iDwOz72Ztvr5FZulWkUMZh1jqmCYVV-zP4_5F3UCyCbq64wpM=)
+[3] [koita.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXi85SXx14-s3cChORnTzw7BQCv5h0hA5eX_oGrq03yY1jD-qCTQMCgaJoHx4UV55nXDuiFKt453r5WCqQPNgK8lSbL1a2Y8k5MKDbG7F5ahUdvDSRwOFrkBgQFaTWXV0lpvVRYqOaQNnmAUxHj9M3tvy3fuJQ)
+[4] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbgz0WbSXzSojVH250dzXuioz6JjNiaTcYp0ptXdZgdbhTwDZ9x3GwderWdsgRMQHLDe42ldjB7itmYBzvegHwbow8_fbbblj0j7-mcscgsxPNWSo1XZXtd1j)
+[5] [earlyuniv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjmqfHRVikmDndEFnT32DsxdOzY_t62olLSflUwcPVKlU7ztzrMnsz7I1RjuNfSmehO_2H9SeUyJM8mUWv4-z3TNte9l3nG5xqSpUkZbbYtCxTUDHLJawtdEkULEJc23PoBoAKdD_gOBinoaN2hLGh_cAdXSUi_8mKmTVs8MJYbMQ057sdKOLjGTyD5mI2PA-uvy2tNiiXD8GU7IwkbycFwTSukuw=)
+[6] [gnstartup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHRLXsSpoe1fRvXhDV8piSSSTCSLqOaerKGtYiRuIxm2e4jYPoMR2xE678i6bPD63BfFickRi5qi94OtkkU9ZqhCOl2BJVTBPXZkLWeUiPG2vEVn2FI1XwOid4y6vmofUlebpBy5KLSB_7pHjJLzuy_P2Y0KQJWwyVUE5Ps_34owZexos=)
+[7] [gnstartup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHRLXsSpoe1fRvXhDV8piSSSTCSLqOaerKGtYiRuIxm2e4jYPoMR2xE678i6bPD63BfFickRi5qi94OtkkU9ZqhCOl2BJVTBPXZkLWeUiPG2vEVn2FI1XwOid4y6vmofUlebpBy5KLSB_7pHjJLzuy_P2Y0KQJWwyVUE5Ps_34owZexos=)

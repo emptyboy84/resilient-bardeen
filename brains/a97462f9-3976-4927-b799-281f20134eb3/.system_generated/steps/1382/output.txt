@@ -1,0 +1,12 @@
+### Result
+"이전 페이지\n동화사\n저장\n페이지 닫기\n동화사\n서적출판\n출발\n도착\n거리뷰\n공유\n주소\n부산 동구 중앙대로226번길 7-6\n1초량역 2번 출구에서 256m\n미터\n영업시간 정보 수정\n영업시간 수정 제안하기\n추가\n전화번호\n051-464-0761복사\n이 장소의 관리자라면,\n무료로 직접 관리하세요!\n권한 받기\n알고 계신 정보와 다른 정보가 있나요?\n사진으로 간단하게 제보해 주세요.\n정보 수정 제안하기\n이용약관고객센터리뷰운영정책신고센터\n네이버"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.body.innerText;\n}');
+```
+### Page
+- Page URL: https://pcmap.place.naver.com/place/1625293474/home
+- Page Title: 네이버 플레이스
+- Console: 0 errors, 4 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-06-59-548Z.log#L4

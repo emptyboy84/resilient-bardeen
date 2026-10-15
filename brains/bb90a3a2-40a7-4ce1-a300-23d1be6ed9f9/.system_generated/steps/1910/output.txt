@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Len: 2125717
+Saramin links: [
+  '/zf_user/company-info/view?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09',
+  '/zf_user/company-info/view-inner-finance?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09',
+  '/zf_user/company-info/view-inner-salary?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09'
+]
+Phones in /zf_user/company-info/view?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+이병상"},"address":{"@type":"PostalAddress","name":"부산 강서구 유통단지1로 50, 216동 205호 (대저2동,부산티플렉스)"},"makesOffer":{"@type":"Offer","name":"경영 컨설팅업"}} {"@context":["https:\/\/schema.org",{"csvw":"http:\/\/www.w3.org\/ns\/csvw#"}],"@type":"Dataset","name":"(주)유네이드홀딩스 2026년 기업정보 | 직원수, 근무환경, 복리후생 등","descripti
+Phones in /zf_user/company-info/view-inner-finance?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+Phones in /zf_user/company-info/view-inner-salary?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+

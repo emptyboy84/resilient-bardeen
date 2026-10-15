@@ -1,0 +1,28 @@
+The search for ""불교방송" OR "위컴퍼니" OR "에스아이에이" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+요청하신 기업들의 주요 매출액 정보는 다음과 같습니다. (각 플랫폼에 공시된 최신 자료 기준)
+
+### 1. 불교방송
+*   **매출액:** 약 106억 7,000만 원 (2024년 12월 말 기준)[1][2]
+    *   참고: 인크루트 등 일부 플랫폼에는 2025년 기준 255억 원대로 표기된 자료가 있으나, 잡코리아 등 공시 기반의 상세 재무 자료에서는 2024년 기준 106억 7천만 원으로 확인됩니다.[1][3][2]
+
+### 2. 위컴퍼니
+*   **매출액:** 약 2억 8,857만 원[4]
+    *   본 정보는 사람인 기업정보 기준이며, 동명이인이나 유사 사명을 가진 기업이 있을 수 있으니 상세 확인이 필요합니다.[4][5]
+
+### 3. 에스아이에이 (SIA)
+*   **매출액:** 약 39억 ~ 40억 원대[6][7][8]
+    *   주요 채용 사이트(사람인, 인크루트, 잡코리아)에서 2025년 기준 약 39억 4,800만 원에서 40억 8,400만 원 사이로 공시되어 있습니다.[6][9][7]
+
+---
+※ 위 정보는 각 채용 포털 사이트에서 제공하는 기업 정보이며, 업데이트 시점이나 데이터 출처(국민연금, 경영공시 등)에 따라 실제와 차이가 있을 수 있습니다. 정확한 재무 상태는 금융감독원 전자공시시스템(DART) 등을 통해 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExymP1UPxdWuTo4IVtVpKgLUIyvkuISOPw9xqhpwDnCHwkSZ8BSy8RrbN8X6JBoLLlU-s-uO_duojV44KdOnCnyMVFxlwtuPMfCgk2JtusMQAkwIHUdIOIaXJ-YDpkmyGA5jgQwgf-6Z4vXGY=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvdGnHFVX_s6_NrIgDK562rBuMyL-4GNHPQ6ZsldVznrk0IT23O-O_3DaOB1iunElusGi-rICvjtQJ4hOsX0VOR1uPpQUJ_9VWtrACdKvxeCjAZP_9zrsRoQ_X1P5fjg==)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcyCL9rJkQvw2OiGwQIz4DZnaOTUSTW1HSvJ4gEmqlar8M2CqvNnrOxuj1J1wmmQv4wNpi9eVDlHWQs6E0W-sPN19FAi6vx76L8LrlxaXvwCQYdliTzye-spgMVlq43R91)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZ0lDbl5KK6-7vDLq7dWFgNIwX7DZhy0ifybIPBMEv1Qkx3LK2UDbMQ_D9q0ZanpDgU5VwZYuR1QI3pq9CiQ78GfIMr12vGZDg8YiwyJNA8jOHE_ha2Fb4XVDk_5gh0R33PzOGVOlHs2YLl4_INO-WF5LvFjvtvDKiWt-OFqyefTdmtbaMhAivlu23wHeb7NC2kwUQqmQi-T1gwFKKXEVdbUquDEk4EpX1zYeFCQ256FnxudwVrq0yAgUVSC6iA==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8KjcHcigpP4G1WbVMc5Vns1OwjyPm-qrGkkvGW6rwhaIUpfv6VU4hkAJo7JGI5Be-Ovd7fZacGuirgpL3gEnDIB4-0fjLWlq5WfesEAFimdmu2fnK4VZrMqiw8VAojD0-W0XDO7U1-xfRc19mbygW_7uzqBUovQQJ9DJy0F-JXi__q6M3eppqH6XmXVKSj9FDIeSWP-R-VRVKCuj6gpLmFRD4mxLJK5rASy3SVpkJfrZadZeUB1kfCSNwuOijnqDa0OFFLq8Gjvbdy0d5T0OhaoJBNLggF8yD5eHkHAVqhYKUQrgXorrUJA76jT5ZQUasVYM5e-uGycq4)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP46URks5xqJQl6Ib1i6wsPoDGumhvoMZvj2DUQnq9ByoZjRnE7KbHfv9D6f490uTpVLZqlnEzewPjJd0XOAarZCmfgGA8K8fKeBRWbLJlK4w8b0fKVnGs4E_Cj2j8GPJ96zKcab5rMj_z5UVD73VhOMeIm0GPcF4GON5lgl1wI_G4t2Ow5HKm79lzNu_yG_hR0SoYQhIQw-cJb-mPcExg7VbdVWc5IxrhxZoHR4PaPs7qf1OyTj2zwN_cmnrfuLfggMsY6hdPupbsAsqn369OLVNarNLraf13lCO5)
+[7] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRN3eFXCOYFSvmzRGHk0mvCER83Dgpjvmy0v45yaa3ag5hshFPRoEI5JkmJupBgptXgYNyXguO3TQn-H7joLxSkOk4LQzQuv8kOJKGO5Me2uWOJybFxZJ1Ujmk_KfMpQltmO2vdhAZSA8mr-2oxBEYahm0thUngZytSZ9ZGBXT94-bldLgi3CNUwemBjtYVWLMDME6GJrhYJZJq2yahfhLxqhBDDBR6kSVZBE7i5mDT1sVLzWMtN93bzJGw-8FWP6fPVZFiXydyGQZKiSaDu8S)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzl1huMtxi6WvW7nbqOml_qCgpEbIuXUL5_Q2btUpSkLgoe47t1EEFrc3jqXXXM3fKB8U8davP-xWh5dY5MhwFlfM5c2Dkxe-EvBxasdH2IcSsh5emT76m-lemCo0ZB6KEWMfnHNjh2u5aXHnXIHWYSrxsyJbeex9igRslt9qvF-Kk2iQNwHroKm7qUXY=)
+[9] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZw8OqhHl5fEtB9pVTASHo9G5dL2f41Yovgkd8eQZGxnvaqpTVgS4ZmKq2wn9IvgJhLFtUBGkaeaMIIe85JX7EYTJHovrTTp0Pvvtxw84pFFyJM2A6RGQABvirqnSx75TJ)

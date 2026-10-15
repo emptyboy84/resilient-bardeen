@@ -1,0 +1,55 @@
+
+The command exited with code 0.
+Output:
+Links for 강봉천흡선: [
+  '/article/7738501012',
+  '/article/6178606956',
+  '/article/1328262804',
+  '/article/2375400018',
+  '/article/5988200634',
+  '/article/4508200327',
+  '/article/6101516924',
+  '/article/6071706725',
+  '/article/6102399920',
+  '/article/6102555528',
+  '/article/5162700235',
+  '/article/6102641526',
+  '/article/4511700128',
+  '/article/6102418720'
+]
+Article: /article/7738501012 <title>(주)강봉천흡선 센텀지점</title>
+Article: /article/6178606956 <title>(주)강봉천흡선</title>
+Corp matches: [
+  '180111-0853390',
+  '180111-0853390',
+  '180111-0853390',
+  '180111-0853390',
+  '180111-0853390'
+]
+Article: /article/1328262804 <title>사단법인불교아미타염불선원</title>
+Corp matches: [
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893'
+]
+Article: /article/2375400018 <title>피앤피컴퍼니</title>
+Article: /article/5988200634 <title>구국학사개척사업협회</title>
+Corp matches: [
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077'
+]
+Article: /article/4508200327 <title>중랑마을교육사회적협동조합</title>
+Article: /article/6101516924 <title>도산상회</title>
+Article: /article/6071706725 <title>블루스카이</title>
+Article: /article/6102399920 <title>시스매니저울산</title>
+Article: /article/6102555528 <title>비아쥬디스</title>
+Article: /article/5162700235 <title>몽마르조</title>
+Article: /article/6102641526 <title>박동태찜탕</title>
+Article: /article/4511700128 <title>고집센그집갈비탕울산옥동점</title>
+Article: /article/6102418720 <title>기현ENG</title>
+

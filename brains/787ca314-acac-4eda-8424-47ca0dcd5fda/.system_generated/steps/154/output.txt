@@ -1,0 +1,22 @@
+The search for ""5558802700" OR "모노플로우"" returned the following summary:
+'5558802700'은 **주식회사 모노플로우(Monoflow)**의 사업자등록번호입니다[1][2].
+
+**모노플로우(Monoflow)**에 대한 주요 정보는 다음과 같습니다.
+
+*   **기업 개요**: 공공기관, 학교, 기업 등을 대상으로 해외 구독형 AI 서비스 및 에듀테크(Edutech) 소프트웨어 라이선스를 도입하고 관리해 주는 기업입니다[2][3][4]. 
+*   **주요 서비스**: 
+    *   **모노프로(Monopro)**: 해외 소프트웨어 라이선스 간편 구매 서비스입니다[4]. 달러 기반의 구독 상품을 원화로 결제하고 세금계산서를 발행받을 수 있도록 지원하며, 계정 관리 및 사후 지원을 제공합니다[5][4].
+    *   **모노GPT(MonoGPT)**: 챗GPT, 클로드(Claude), 제미나이(Gemini) 등 다양한 생성형 AI 모델을 하나의 플랫폼에서 통합 관리할 수 있는 기관용 멀티 AI 솔루션입니다[6]. 최근에는 AI 영상 제작 기능(시댄스 2.5, 클링 비디오 3.0 옴니 등)도 도입되었습니다[6][7].
+*   **대표자**: 이기문[1][2]
+*   **관련 정보**: 의류 브랜드 중에도 '모노플로우(MONOFLOW)'라는 이름의 브랜드가 있으나[8][9], 사업자등록번호 '555-88-02700'은 AI/에듀테크 솔루션 기업인 주식회사 모노플로우와 연결되어 있습니다[1][2].
+
+Sources:
+[1] [monopro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyBJv8u5a8S5-YGIDkH0RMs6eU7bsEoKCeTORa9XdvuULrhfTvOJRdFZSMpX96S_L-AQIfqEcjM0y1pze7X3c-2kIBpVh4Klv6wmu)
+[2] [monoflow.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8aVk3dibZ9s_nnjjBIKS2uGD6uPOgBE1Bkx-rcbv2uMYVOCYp9Gnnsq4LJBjv935IQ5q5i5LziwytfzdLMrEpjnzZ-TlVfJEy)
+[3] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlHCdgTicRAuYxRQNQ1KX_P_S5dmu8-ZlA_XYAubWoSjggyCYf5GUHurY2IxXalnS8kafOGhqIbGpUx3eu2_sbkTVF-LxigZQnQP7n4htGjm4ozwyREojx_m6O_Q1oPK4Il1HsXS1kS_xz-csx8hGc)
+[4] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkGtgVR0yBr0qCSJYLh5KA4IkO_q9lfknuJ0RJFktt0wpKyntYUv9cLL2klBcq2OLKjqjzMNTum1tO41ujzccXRyQrQAzX8ny4PBdUTDEiH8kjlMqXm8U98wASGcr4vFOn)
+[5] [monopro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyXSb_ieK-7foCk9x6UTEO-aQdsFY2H4dAQIWDI-6pqg2e6BSuw5xa5CRUAOqG3XZ9CaDzkvmGy6HPimfm5pf2FHwY7JX8Ahh2)
+[6] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4Y7uSf_GwE9HXPImWvNtRRLO3qThMUw1g7oZwfYQiRgnXhsEwgD0mkkF1uSrRNdP3XWNqhaOGw8Jx0tfc75pVwQy1M0qu8eoJAQXmJNaqQpUiMjpWnVkVgJE4)
+[7] [supple.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhEMtbMJE7a_WK51l2i7rXb4Gq4i71_37LWa8rcYyqO6WXiuxzYPphwIEreefheRZb491LZcGEKfbr_EKSL90FrU810twEIT4diimy3e3ObxdtE8pcg8slvhBtxPJ8rfd5NhFT1yE=)
+[8] [musinsa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcrQNKjfZtOzdrQggaEhV6XhjZRXPQySSu6JUdVQMBsOmDNVknyn_o59w9LtFKGck2FOF7n7VLV4QOSOFhZuVMaLcs3ZPmEZwS_qbBGP0mvizOruzhkcTx4ytw==)
+[9] [fruitsfamily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGx0D9U-S2ED2le8xCLsVnDEPt63A0wj4qd1WmfZB-PrU04ygsgKs49vWy7OmP44Kfump86u6OoWMUaKwn5aVGrXvqGuB0BL7oiRC6pLYjAIuT0FNWsE1Thr9Pyus=)

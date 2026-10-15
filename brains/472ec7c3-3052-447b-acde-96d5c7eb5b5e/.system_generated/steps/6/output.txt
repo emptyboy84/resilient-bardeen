@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+   Id ProcessName Path                                                           StartTime              
+   -- ----------- ----                                                           ---------              
+  516 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:47:48
+ 3972 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:47:58
+22296 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:47:42
+23928 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:47:42
+37196 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:47:41
+39316 Antigravity C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe 2026-10-15 � 8:48:00
+
+
+

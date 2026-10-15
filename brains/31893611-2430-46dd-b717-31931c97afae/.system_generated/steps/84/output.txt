@@ -1,0 +1,56 @@
+### Result
+Total messages: 27 (Errors: 25, Warnings: 1)
+Returning 26 messages for level "info"
+
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[WARNING] setPolicyInfo {versionInfo: Object, sdkInfo: Object, sentryInfo: Object} @ https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/v1/test-maps-web-sdk/props?url=https%3A%2F%2Ftest-cmdo.map.naver.com%2Fv1%2Ftest-maps-web-sdk%2Fprops:0
+[ERROR] replaceState rewrite failed: SecurityError: Failed to execute 'replaceState' on 'History': A history state object with URL 'https://map.naver.com/p?url=https%3A%2F%2Fmap.naver.com%2Fp%3Furl%3Dhttps%253A%252F%252Fmap.naver.com%252Fp%252F%26c%3D15.00%2C0%2C0%2C0%2Cdh&c=15.00%2C0%2C0%2C0%2Cdh' cannot be created in a document with origin 'http://localhost:3000' and URL 'http://localhost:3000/p/?url=https%3A%2F%2Fmap.naver.com%2Fp%2F'.
+    at history.replaceState (http://localhost:3000/p/?url=https%3A%2F%2Fmap.naver.com%2Fp%2F:246:44)
+    at history.replaceState (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/index-d9dd04d.js:6:26330)
+    at Object.st [as replace] (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:2417)
+    at Pn (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:22971)
+    at ln (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:29925)
+    at Yr (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:26906)
+    at Object.Br [as navigate] (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:24664)
+    at https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:61:8053
+    at https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/index-d9dd04d.js:33:18689
+    at Le.current.Le.current (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:71:29876) @ http://localhost:3000/p/?url=https%3A%2F%2Fmap.naver.com%2Fp%2F:249
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55844/25924.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55844%2F25924.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55844/25925.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55844%2F25925.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55844/25926.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55844%2F25926.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55844/25927.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55844%2F25927.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55845/25924.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55845%2F25924.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55845/25925.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55845%2F25925.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55845/25926.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55845%2F25926.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55845/25927.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55845%2F25927.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55846/25924.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55846%2F25924.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55846/25925.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55846%2F25925.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55846/25926.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55846%2F25926.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55846/25927.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55846%2F25927.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55847/25924.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55847%2F25924.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55847/25925.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55847%2F25925.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55847/25926.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55847%2F25926.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55847/25927.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55847%2F25927.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55848/25924.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55848%2F25924.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55848/25925.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55848%2F25925.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55848/25926.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55848%2F25926.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+[ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/picker/basic/1781263792/16/55848/25927.json?mt=ts.lko&crs=EPSG:4326&url=https%3A%2F%2Ftest-nrb.map.naver.com%2Fpicker%2Fbasic%2F1781263792%2F16%2F55848%2F25927.json%3Fmt%3Dts.lko%26crs%3DEPSG%3A4326:0
+SecurityError: Failed to execute 'replaceState' on 'History': A history state object with URL 'https://map.naver.com/p?url=https%3A%2F%2Fmap.naver.com%2Fp%2F&c=15.00,0,0,0,dh' cannot be created in a document with origin 'http://localhost:3000' and URL 'http://localhost:3000/p/?url=https%3A%2F%2Fmap.naver.com%2Fp%2F'.
+    at history.replaceState (http://localhost:3000/p/?url=https%3A%2F%2Fmap.naver.com%2Fp%2F:253:40)
+    at history.replaceState (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/index-d9dd04d.js:6:26330)
+    at Object.st [as replace] (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:2417)
+    at Pn (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:22971)
+    at ln (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:29925)
+    at Yr (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:26906)
+    at Object.Br [as navigate] (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:58:24664)
+    at https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:61:8053
+    at https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/index-d9dd04d.js:33:18689
+    at Le.current.Le.current (https://maps-service.pstatic.net/pcweb_navermap_v5/260608-d9dd04d/js/2083918811.9GK5HdiS.js:71:29876)
+Internal Server Error
+### Page
+- Page URL: http://localhost:3000/
+- Page Title: AetherOS - Premium Virtual Desktop
+- Console: 25 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-06-15T03-39-46-798Z.log#L2-L46

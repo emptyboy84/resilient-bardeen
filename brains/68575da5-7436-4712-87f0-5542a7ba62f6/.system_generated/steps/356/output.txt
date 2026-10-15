@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Emails: [ 'contact@onclev.com', 'CONTACT@ONCLEV.COM', 'name@company.com' ]
+Phones: [ '010-0000-0000' ]
+

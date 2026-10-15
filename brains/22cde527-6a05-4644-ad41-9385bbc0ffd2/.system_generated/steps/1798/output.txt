@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Total verified: 192
+Corporations approx count: 21
+Sample corps: [
+  { row: 703, name: '주식회사 브이드림', bizno: '186-86-00972' },
+  { row: 1684, name: '주식회사초록이웃', bizno: '308-88-02725' },
+  { row: 1718, name: '주식회사 우리누리 사직동지점', bizno: '772-85-00887' },
+  { row: 1731, name: '주식회사 씨에스케이', bizno: '893-88-00021' },
+  { row: 1757, name: '(주)창비부산', bizno: '757-85-01489' },
+  { row: 1759, name: '주식회사 홍조출판', bizno: '376-86-01161' },
+  { row: 1769, name: '주식회사 뷰엠', bizno: '295-81-02546' },
+  { row: 1807, name: '(주)삼성출판사 롯데동래점', bizno: '343-85-00791' },
+  {
+    row: 1810,
+    name: '주식회사 로파스튜디오(ROPA STUDIO)',
+    bizno: '707-86-02739'
+  },
+  { row: 1820, name: '주식회사하날', bizno: '516-81-02666' }
+]
+

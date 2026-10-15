@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://opaque-cell-384.notion.site/2da385a5b0a64178b04c141b53125b5b?pvs=25');
+```
+### Page
+- Page URL: https://opaque-cell-384.notion.site/2da385a5b0a64178b04c141b53125b5b?pvs=25
+- Page Title: Main
+- Console: 8 errors, 3 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-38-18-702Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-38-15-941Z.log#L1-L47

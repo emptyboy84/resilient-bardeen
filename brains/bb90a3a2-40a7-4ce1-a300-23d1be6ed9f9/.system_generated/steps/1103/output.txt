@@ -1,0 +1,8 @@
+The search for ""해약노노" OR "링크빈" (특허 OR 출원 OR 등록 OR 발명자)" returned the following summary:
+선불식 장기상품(상조) 중개거래 플랫폼 **'해약노노'**를 운영하는 **주식회사 링크빈**(Link Bean)은 플랫폼 개발 및 서비스와 관련하여 특허 출원 이력을 가지고 있습니다[1].
+
+* **특허 관련 현황:** 주식회사 링크빈은 선불식 장기 상품 중개 거래 서비스 '해약노노' 플랫폼 개발과 관련하여 **특허 출원 2건**을 진행한 바 있습니다[1]. (해당 플랫폼은 상조 계약 등의 양도·양수자 권리이전 절차 간소화, 다중 Round/Pricing 경매 방식 등을 골자로 하고 있습니다[1].)
+* **발명자 정보:** 공개된 일반 기업 정보 및 IR 자료상 구체적인 세부 특허의 명칭이나 발명자 개인 성명까지는 상세히 명시되어 있지 않으나, 기업의 기술 연구소 및 핵심 인력을 중심으로 관련 비즈니스 모델 및 플랫폼 기술에 대한 지식재산권 출원을 진행해 왔습니다[1].
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEts3U245CwcAl3Co0TkSh_WzE3WP7UgWqwwgg3DPPI0XdEQmJ3kjj_SpJSGFs5lUsavAJj6Wrg2SzIGbHK8oBtj9MXaxvxRwBnu4HeucgTHjvCU17TD9Bppqcm2Dqsi46A)

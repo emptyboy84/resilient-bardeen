@@ -1,0 +1,15 @@
+Task: 68575da5-7436-4712-87f0-5542a7ba62f6/task-76
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\68575da5-7436-4712-87f0-5542a7ba62f6\.system_generated\tasks\task-76.log
+Log output:
+<truncated 38 lines>
+sers/lg/.gemini/antigravity/worktrees/resilient-bardeen/miu_design_registration_update  f662d66 [miu_design_registration_update]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_busan_company_data        20488d3 [parse_busan_company_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_company_data              79e2604 [parse_company_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/secure_storage_space            79e2604 [secure_storage_space]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/ticket_0507_1447_1309           706713c [ticket_0507_1447_1309]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_corp_reg_number        20488d3 [validate_corp_reg_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_db_final_check         f352cd0 [validate_db_final_check]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/verify_and_update_db            79e2604 [verify_and_update_db]
+
+Last progress: 0s ago

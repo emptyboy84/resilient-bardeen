@@ -1,0 +1,17 @@
+The search for "site:abmlab.co.kr OR site:calvak.kr OR site:kirokkirok.com "010" OR "051" OR "02" OR "070" OR "전화" OR "TEL"" returned the following summary:
+요청하신 사이트(`abmlab.co.kr`, `calvak.kr`, `kirokkirok.com`) 내 검색 결과, 주요 기업 정보 및 주소는 확인되나 별도의 전화번호(`TEL`, `전화`, `010`, `051`, `02`, `070` 등)는 공개되어 있지 않거나 명시적으로 노출되어 있지 않습니다[1][2][3].
+
+참고로 확인된 각 업체의 기본 정보는 다음과 같습니다:
+
+* **주식회사 에이비엠랩 (ABMLab Corp.)**[4]
+  * **대표이사:** 황의윤[4]
+  * **사업자등록번호:** 820-87-03095[4]
+  * **부산 주소:** 부산광역시 영도구 태종로 727, 산학허브관 11층, 에이비엠랩 (우편번호: 49112)[4]
+  * **서울 주소:** 서울특별시 강남구 강남대로120길 75, 2층~4층 (우편번호: 06118)[4]
+  * **관련 서비스:** 캘박(Calvak, `calvak.kr`), 기록기록(KIROK KIROK, `kirokkirok.com`)[1][3][4]
+
+Sources:
+[1] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVdI7WIFVslby-4hZ1nbRHxqEDwQmrfe4gb1o-clppa3eizoz6UZsUYFM5sKRmG92NwBNPvKoSp3dlwA_H9lsEEJobH1Qy0Kl-Ew=)
+[2] [calvak.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBMLAxxkZ-8RbrrpyRmVlK_yR2k-gkYt1VvabAJhU5_C85-lzKaDucq2gu5ZscvHAMWdh8aH1tDaTeMmYKyoSD03OiOVsfeoLZYmhpgJ7_TaPkEJgSxdgqneQg)
+[3] [kirokkirok.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDop1OUKJzFiRXzBDJVbsy53KTCrJbE7y9WkcOLAQjABVtQHBCO_zKhUjgoJZ0IYjGVX0oKKIoU9yGOUhyNF_kI0qHhzmuVpCw09ac8w==)
+[4] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVrVmszQbjxNo3YKOejZltASjCCY6kSn4HiZ8xjT7NtZ75_CEFKDMf0aJ2NkiiNu0VQFbSVrK6wivpZ9cVxLTmnEFw0Gp24skZK9hYwQ==)

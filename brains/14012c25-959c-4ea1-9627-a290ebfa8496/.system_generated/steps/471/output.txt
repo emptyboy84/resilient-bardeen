@@ -1,0 +1,6 @@
+The search for "site:hankyung.com "비솜" OR "전성록"" returned the following summary:
+한경닷컴 등의 인사 관련 보도에 따르면, **전성록**은 **비솜㈜ 사장**으로 선임되었습니다[1][2]. 이 인사는 관련 언론사의 인사이트(인사 및 동정) 기사 등을 통해 보도된 바 있습니다[1][2].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDMbT-VKWw9G22ENcHYNVloeNESKGIMvWFJQq6PkaZQP64OgiwtfOw_Av1jPnZM3gKS013pYa8gXp5xjXV2_KGKjxYIoQT1gXSFwmO-1-g7aoIlI1IyUhKq2VOz-Jx4AeSGM=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrgOKRqDnV3GhX7nqfzmSvE03VWlZUTEO-ABOITAEAHgw4rxwUhIKLADsh3P2aIFXdKKrLDMW726bf85keFpFe_0Zo9XITiDMfYKyeNQru1vaO4G1AXciO0dYvnZ4lZW3Vqo=)

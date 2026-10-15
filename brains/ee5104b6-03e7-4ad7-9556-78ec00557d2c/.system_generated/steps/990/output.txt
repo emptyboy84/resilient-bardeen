@@ -1,0 +1,7 @@
+Task: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-984
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ee5104b6-03e7-4ad7-9556-78ec00557d2c\.system_generated\tasks\task-984.log
+Log output:
+Row 12217 before Col 10: null Col 11: mmhub@mmhub.kr
+
+Last progress: 3s ago

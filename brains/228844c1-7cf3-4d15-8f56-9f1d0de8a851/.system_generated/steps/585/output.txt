@@ -1,0 +1,10 @@
+### Ran Playwright code
+```js
+await page.getByRole('textbox', { name: '대표자명 입력' }).fill('우수경');
+await page.getByRole('textbox', { name: '대표자명 입력' }).press('Enter');
+```
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=&query=%EC%9A%B0%EC%88%98%EA%B2%BD
+- Page Title: 우수경
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-03-22-781Z.yml)

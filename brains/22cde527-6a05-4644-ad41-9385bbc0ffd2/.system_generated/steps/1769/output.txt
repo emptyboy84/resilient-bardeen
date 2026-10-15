@@ -1,0 +1,54 @@
+
+The command exited with code 0.
+Output:
+=== Comparison: Base (크레탑!!) vs Output (크레탑) ===
+Base RED cells: 2180
+Output RED cells: 43947
+NEW RED cells (not in base): 41767
+LOST RED cells (in base but not in output): 0
+
+First 20 new RED cells:
+  Row 2 Col 1: "25년 모집단"
+  Row 2 Col 2: "2"
+  Row 2 Col 3: "아이티에프씨"
+  Row 2 Col 4: "243-86-01731"
+  Row 2 Col 5: "2020"
+  Row 2 Col 6: "9"
+  Row 2 Col 7: "곽서준"
+  Row 2 Col 8: "051-256-8500"
+  Row 2 Col 9: ""
+  Row 2 Col 10: "서구"
+  Row 2 Col 11: "서구 보수대로 111 , 2층(부용동1가, 동아빌딩)"
+  Row 2 Col 12: "콘텐츠솔루션"
+  Row 2 Col 13: ""
+  Row 2 Col 14: ""
+  Row 2 Col 15: ""
+  Row 2 Col 16: ""
+  Row 2 Col 17: ""
+  Row 2 Col 18: ""
+  Row 3 Col 1: "25년 모집단"
+  Row 3 Col 2: "3"
+
+--- Row 639 comparison ---
+  Col 1: base="25년 모집단" (BLK) -> out="25년 모집단" (RED)
+  Col 2: base="639" (BLK) -> out="639" (RED)
+  Col 3: base="디자인에코" (BLK) -> out="디자인에코" (RED)
+  Col 5: base="" (BLK) -> out="2009" (RED)
+  Col 6: base="" (BLK) -> out="4" (RED)
+  Col 7: base="이돈희" (BLK) -> out="이돈희" (RED)
+  Col 8: base="" (BLK) -> out="051-207-3530" (RED)
+  Col 9: base="" (BLK) -> out="051-517-3500" (RED)
+  Col 10: base="금정구" (BLK) -> out="금정구" (RED)
+  Col 11: base="부산 금정구 장전동 222-39 서강빌딩 4층" (BLK) -> out="부산 금정구 장전동 222-39 서강빌딩 4층" (RED)
+  Col 12: base="캐릭터" (BLK) -> out="캐릭터" (RED)
+  Col 13: base="" (BLK) -> out="" (RED)
+  Col 14: base="" (BLK) -> out="" (RED)
+  Col 15: base="" (BLK) -> out="" (RED)
+  Col 16: base="" (BLK) -> out="10" (RED)
+  Col 17: base="" (BLK) -> out="" (RED)
+  Col 18: base="" (BLK) -> out="" (RED)
+
+=== Verified Row Font Check ===
+Rows with ALL expected fields RED: 192/192
+Rows with PARTIAL red (missing some): 0
+

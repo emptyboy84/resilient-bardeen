@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%22276-9823%22');
+```
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%22276-9823%22
+- Page Title: "276-9823" – Daum 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-10T01-26-38-093Z.yml)

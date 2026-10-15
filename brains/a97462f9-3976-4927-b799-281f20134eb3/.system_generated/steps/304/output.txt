@@ -1,0 +1,20 @@
+The search for ""류수환" "스튜디오바다" OR "문화공간반달"" returned the following summary:
+류수환 교수는 애니메이션 감독이자 영산대학교 만화애니메이션학과 교수로서, **스튜디오바다**와 **문화공간반달**과 다음과 같은 관련이 있습니다.
+
+*   **스튜디오바다**: 류수환 교수가 대표로 있는 곳입니다[1][2]. 그는 이곳을 통해 애니메이션, 캐릭터, 웹툰 콘텐츠 등을 기획·제작하고 있으며[3][4], 최근에는 에세이 『인생낚시 낚시인생』을 출판하였습니다[5][6].
+*   **문화공간반달**: 부산 동구 범일동에 위치한 아동·청소년을 위한 복합문화시설입니다[7][8]. 류수환 교수가 지역 아이들을 위한 문화 향유 공간이 필요하다는 생각으로 자신의 자택을 리모델링하여 조성하였으며[9][10], 애니메이션 제작사인 '(주)스튜디오 반달'의 기획·콘텐츠 지원 등을 받아 운영되고 있습니다[9][10].
+
+참고로, 류수환 교수는 과거 '(주)스튜디오 반달'을 설립한 인물이기도 합니다[1][11].
+
+Sources:
+[1] [ysu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeXmJZo3E6QGRWuHpkDsl8em98FfDNBIHVz84eJrYkZp3E9uSngHo1EV_z-7X75ftVDEMtv4iCEjR8Oe4NAya8WuNKd0WP_r3rLOVCRD0rgZLPymDgVOA6310GpS1YZRZ-AqcCM8glisZEDwzgXwx3KCYIhA==)
+[2] [ysu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeXmJZo3E6QGRWuHpkDsl8em98FfDNBIHVz84eJrYkZp3E9uSngHo1EV_z-7X75ftVDEMtv4iCEjR8Oe4NAya8WuNKd0WP_r3rLOVCRD0rgZLPymDgVOA6310GpS1YZRZ-AqcCM8glisZEDwzgXwx3KCYIhA==)
+[3] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsYyjY045lHJdai1R5edap-9Jrod2w0JdX_Qr5pAUE7TrelnM8j6lSDFi-MXEQuYz1n_AprV2E01oCsRwq9FRUJ2qexGZhCX7wqW0sXqYyTdzW0jqTBgzWQA5YrDnNVuDipCFVKTPNRQxUJbwE9H8ZuGxx3ZEW7Q-sAwHvHixQ2jkz)
+[4] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT1oXNnDsaxGDyGw751rtzqiYQrREhjAeo5z_3ebqVbpeKd5t_5FV7sePERxwmBqdR9DmA9V_BhUery_XW4WCaJIEPDMx5Cw2TjSFmrBzRnhiajDwI6QUNU79HCVKojLTvymdr1nCds1mB)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu3paXtooS4Q0mwNHvgPTt4ViRRH2ncnUM6HNnxamVvGD9MgYNArqEijS2NlTcBChJLhwnUF3zMv8IQHSOK5NTJHij4Lk27154I-1zDFT8GtPGm7Z7fGzJa8UNW42k6gtYXEE=)
+[6] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbBTGD-_G5VPuxegZXnF8SqS-FGLbFoVCTGK3fw71c4aZ_0YxlLJLfEF2zfRoi29HAZB-wA-bAleuVEi1TwWYHC_7Y3rjxeVB8L0s_NvbBIhClwZ3wFxqdVzVlhmTOtRv-LNx0A2KC0Y400PhozoC-WjgDqhk=)
+[7] [cando.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmT1bTEicvJM_xvXyQD8IlA5jEI1pmj8OUR20tsRHGF5cVxt976dmcrnFz5fMO4x0DtURGiaueCfdbLvQ25uoF-iuGNY3K5rbLiXmuG7wlb1ZeFZc4DbEe7t-VZ3MmLnDe-4kvxDeDMLyhmRzhekBuO7ZQOJKMWG4taw==)
+[8] [joongang.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIJbORYbYclKu1yJxgBgCZsfmXjezn-xxJ_0RUngr2ktpp_hI9fk4ERLj8Dzm_3DOgMDCwib5Y8zaQ0dMKOeqkdNLJDx1CAE0p_iBvLQDrCVogHlDMJgdjRJUZhdLz_7q-)
+[9] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyEk33upH8KkK7zr8CJtaFbXt_lMS5xa4tf3FHwklojU52Gmn92X0f9bAv8DS0pomSfUlzX8YIZ6m2A7n8p_OeybKxRlsnxyC_e-iPb4KPGY3HKckyesyZD4l92s92sPyomT0SX177RYuJYkVzLigxmYfk5v8LFjNRE0WLrAAZDf3-J6fC83ZZ26NN)
+[10] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyEk33upH8KkK7zr8CJtaFbXt_lMS5xa4tf3FHwklojU52Gmn92X0f9bAv8DS0pomSfUlzX8YIZ6m2A7n8p_OeybKxRlsnxyC_e-iPb4KPGY3HKckyesyZD4l92s92sPyomT0SX177RYuJYkVzLigxmYfk5v8LFjNRE0WLrAAZDf3-J6fC83ZZ26NN)
+[11] [igoodnews.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa_AfYAe2usj43ndM_6HfLpIq5737RxxozriRghYJTy0DfjCy8ed9RBjPA1e3MsR1XQsf4CrMHFRdSfosyGFhFk2AC08h-OnnXtxYticMV2edxOJJFGfSDxEp-e9MNsjx2LIEN6fIdvk6sUXMphX1rjfo=)

@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+& : 이 시스템에서 스크립트를 실행할 수 없으므로 C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect
+_sheets.ps1 파일을 로드할 수 없습니다. 자세한 내용은 about_Execution_Policies(https://go.microsoft.com/fwlink/?LinkID=135170)를 참조하십시오.
+위치 줄:1 문자:61
++ ... g]::UTF8; & 'C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : 보안 오류: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+

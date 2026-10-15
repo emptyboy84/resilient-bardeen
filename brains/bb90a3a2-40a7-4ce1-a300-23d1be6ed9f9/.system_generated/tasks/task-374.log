@@ -1,0 +1,9 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-14T10:18:17+09:00
+Prompt: Deep scan finish check and merge
+Early Termination: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+
+[2026-10-14T10:17:27+09:00] Still waiting. Remaining time: 50s
+[2026-10-14T10:17:37+09:00] Still waiting. Remaining time: 40s
+[2026-10-14T10:17:47+09:00] Still waiting. Remaining time: 30s
+[2026-10-14T10:17:56+09:00] Timer cancelled: early-termination condition (bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324) met by a message from bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324.

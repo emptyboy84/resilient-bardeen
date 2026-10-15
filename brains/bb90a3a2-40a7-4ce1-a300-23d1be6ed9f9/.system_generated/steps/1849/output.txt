@@ -1,0 +1,12 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-1847
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-1847.log
+Log output:
+<truncated 78 lines>
+Ar%2Cp%3Aall&nx_search_query=051-923-0405&qdt=0&query=051-923-0405&section=image&sm=&ssc=tab.nx.all&imgId={=imgId}&p_signature={=signature}&p_nvmid={=nvmid}&articleid={=articleid
+   },keepAPI:{dataUrl:"https://search.naver.com/search.naver?mode=column&query=051-923-0405&ssc=tab.image.all&where=image"},shoppingZzimAPI:{check:"https://s.search.naver.com/p/image/46/search.naver?wher
+   tps://s.search.naver.com/p/c/image/46/search.naver?api_type=pc_report&query=051-923-0405&imgId={=imgId}",reportUrl:"https://s.search.naver.com/n/srm/report"}},mode:"portal"},s=new e({selectors:t,conte
+HIT for [0519230405]
+   브 새 창 열림 2026.08.24. 주식회사 유솔라 ; ※ 소재지 : 경남 창원시 성산구 웅남동, ※ 전화번호 : 정보없음 (Fax. 051-923-0405), ※ 업종명 : 태양력 발전업, ※ 용지면적 : 2800.000, ※ 건축면적 : 1631.000, ※ 용도지역 : 도시지역/공업지역/일반공업지역, ※ 도로명주소 : 경상남도 창원시 성산구 창곡로 
+
+Last progress: 1s ago

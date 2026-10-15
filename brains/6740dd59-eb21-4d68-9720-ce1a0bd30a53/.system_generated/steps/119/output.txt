@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                   
+--------                                                                                   
+C:\Users\lg\resilient-bardeen\brain_logs\scratch\check_74.tsv                              
+C:\Users\lg\resilient-bardeen\data\(�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx    
+C:\Users\lg\resilient-bardeen\data\�_�ǻ�DB_16�÷�_�Ϸ�_�.xlsx           
+C:\Users\lg\resilient-bardeen\data\�_�ǻ�DB_�̹�_īī�_�ȭ�ȣ�Ʈ.csv
+C:\Users\lg\resilient-bardeen\all_500_factchecked.tsv                                      
+C:\Users\lg\resilient-bardeen\all_500_verified.tsv                                         
+C:\Users\lg\resilient-bardeen\bizno_filtered_result.csv                                    
+C:\Users\lg\resilient-bardeen\bizno_filtered_result.tsv                                    
+C:\Users\lg\resilient-bardeen\bizno_filtered_result_nice.csv                               
+C:\Users\lg\resilient-bardeen\bizno_filtered_result_nice.tsv                               
+C:\Users\lg\resilient-bardeen\current_pasted_batch.tsv                                     
+C:\Users\lg\resilient-bardeen\merged_500_perfect.tsv                                       
+C:\Users\lg\resilient-bardeen\rows_11847_12000_16col.tsv                                   
+C:\Users\lg\resilient-bardeen\rows_11847_12000_17col.tsv                                   
+C:\Users\lg\resilient-bardeen\rows_11847_12000_verified.tsv                                
+C:\Users\lg\resilient-bardeen\user_pasted_rows.tsv                                         
+
+
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/051-206-3991');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/051-206-3991
+- Page Title: 051-206-3991 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-32-03-471Z.yml)

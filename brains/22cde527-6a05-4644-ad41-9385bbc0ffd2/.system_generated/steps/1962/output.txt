@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+		<form class="serach-form-area" onsubmit="return goSearch()">
+								<div class="row justify-content-center form-wrap">
+							       <div class="col-lg-2 form-cols">                            
+                                    <select id="area" name="area" class="form-control" data-live-search="true" data-live-search-style="begins" title="Select your city">
+										<option value=""  selected>지역전체</option>
+                                 
+

@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+19206 7610701383 유민테크 | user ceo: 송*훈 | bizno ceo: 송상* | status: 폐업
+19218 7628102750 효원산업 | user ceo:  | bizno ceo:  | status: 정상
+19223 7638600143 ㈜네모랩스 | user ceo: 남현우 | bizno ceo: 남현* | status: 폐업
+19227 7638801694 대원스틸 | user ceo:  | bizno ceo:  | status: 정상
+19238 7647300281 더가바인터네셔널 | user ceo: 김충성 | bizno ceo: 김충* | status: 폐업
+19241 7648701652 (주)레드키 | user ceo: 장준 | bizno ceo: 장준* | status: 폐업
+19242 7648702699 수성이앤씨(주) | user ceo: 정성훈 | bizno ceo: 정성* | status: 폐업
+19246 7653500720 초록누리 | user ceo: 채경희 | bizno ceo: 채경* | status: 폐업
+19247 7658500671 (주)화승코퍼레이션 기장공장 | user ceo: 허*룡 | bizno ceo: 허성* | status: 폐업
+19252 7660401349 아이오 | user ceo: 신영현 | bizno ceo: 신영* | status: 폐업
+19259 7671301500 아이엔바이오 | user ceo:  | bizno ceo: 윤채* | status: 폐업
+19264 7674100917 윤슬컴퍼니 | user ceo: 박*진 | bizno ceo:  | status: 정상
+19265 7678101168 넥스다임 | user ceo: 박동진 | bizno ceo: 박경* | status: 폐업
+19270 7678802827 서강테크 | user ceo:  | bizno ceo:  | status: 정상
+19271 7680302046 햅라운드 | user ceo: 김도경 | bizno ceo: 김도* | status: 폐업
+19275 7688101142 은성 | user ceo:  | bizno ceo:  | status: 정상
+19287 7698101790 ㈜나인피스 | user ceo: 김민석 | bizno ceo: 김민* | status: 폐업
+19289 7698602168 (주)뉴스본다코리아 | user ceo: 김규식 | bizno ceo: 김규* | status: 폐업
+19293 7698801746 (주)나우인터내셔널 | user ceo: 최한옥 | bizno ceo: 최한* | status: 폐업
+19299 7708602867 엠에스케이 | user ceo:  | bizno ceo:  | status: 정상
+19300 7708702511 티지씨 | user ceo:  | bizno ceo:  | status: 정상
+19302 7708801708 (주)비에스아이종합건설 | user ceo: 김용균 | bizno ceo: 김용* | status: 폐업
+19303 7708802110 (주)공생 | user ceo: 이한식 | bizno ceo: 이한* | status: 폐업
+19304 7710602271 유윤송 | user ceo: 유*송 | bizno ceo:  | status: 정상
+19322 7728602029 엠에스지티에스 | user ceo:  | bizno ceo: 홍종* | status: 폐업
+19325 7732401160 하이드로유니텍 | user ceo: 서융덕 | bizno ceo: 서융* | status: 폐업
+19329 7738100785 (주)트러스랩 | user ceo: 이삼일 | bizno ceo: 이삼* | status: 폐업
+19330 7738501012 (주)강봉천흡선 센텀지점 | user ceo: 이현기 | bizno ceo: 이현* | status: 폐업
+19332 7738801099 에이치아이에스 | user ceo:  | bizno ceo:  | status: 정상
+19345 7758101155 부광기전 | user ceo: 이정숙 | bizno ceo: 이정* | status: 폐업
+19355 7768601449 주식회사비비얀 | user ceo:  | bizno ceo: 김진* | status: 폐업
+19360 7778100884 금강기업 | user ceo:  | bizno ceo: 최재* | status: 폐업
+19361 7778101957 맥킨리소재기술 | user ceo:  | bizno ceo:  | status: 정상
+19363 7778800296 ㈜화성테크원 | user ceo: 전현식 | bizno ceo: 전현* | status: 폐업
+19365 7778802673 아시아파이프코스터 | user ceo:  | bizno ceo: 나백* | status: 폐업
+19369 7786400482 스위티라엘 | user ceo: 류예린 | bizno ceo: 류예* | status: 폐업
+19371 7788102696 코리아스틸파워 | user ceo:  | bizno ceo:  | status: 정상
+19396 7808600298 이제이엔 | user ceo: 박찬제 | bizno ceo: 박찬* | status: 폐업
+19397 7808601337 아이씨티플러스 | user ceo:  | bizno ceo: 박준* | status: 폐업
+

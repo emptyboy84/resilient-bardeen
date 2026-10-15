@@ -1,0 +1,28 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-610
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-610.log
+Log output:
+<truncated 42 lines>
+ess: 1448 / 2542 | Found new: 110, Upgraded: 13
+Progress: 1528 / 2542 | Found new: 116, Upgraded: 13
+Progress: 1608 / 2542 | Found new: 119, Upgraded: 14
+Progress: 1688 / 2542 | Found new: 121, Upgraded: 14
+Progress: 1768 / 2542 | Found new: 123, Upgraded: 15
+Progress: 1848 / 2542 | Found new: 128, Upgraded: 15
+Progress: 1928 / 2542 | Found new: 129, Upgraded: 15
+Progress: 2008 / 2542 | Found new: 130, Upgraded: 15
+Progress: 2088 / 2542 | Found new: 130, Upgraded: 15
+Progress: 2168 / 2542 | Found new: 132, Upgraded: 15
+Progress: 2248 / 2542 | Found new: 132, Upgraded: 15
+Progress: 2328 / 2542 | Found new: 132, Upgraded: 16
+[KAKAO FOUND 150] Seq 3658 민트 -> 051-782-9070 (부산 해운대구 센텀북대로 60)
+Progress: 2408 / 2542 | Found new: 137, Upgraded: 16
+Progress: 2488 / 2542 | Found new: 141, Upgraded: 18
+Progress: 2542 / 2542 | Found new: 144, Upgraded: 21
+
+=== Kakao Map Deep Scan Complete ===
+Total Kakao matches found: 165
+New blank filled: 144
+Masked numbers upgraded: 21
+
+Last progress: 1s ago

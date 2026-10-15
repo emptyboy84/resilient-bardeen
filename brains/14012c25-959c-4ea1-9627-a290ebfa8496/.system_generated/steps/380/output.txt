@@ -1,0 +1,27 @@
+### Result
+[
+  "public웹사이트phone전화번호+82517428772email지원 이메일help@thundergames.co.krshield개인정보처리방침개발자 소개 THUNDER GAMES CO., LTD.  help@thundergames.co.kr  Rm A-3511 센텀 스카이비즈\n해운대구 센텀중앙로 97\n해운대구, 부산광역시 48058\nSouth Korea  +82 51-742-8772",
+  "public웹사이트phone전화번호+82517428772email지원 이메일help@thundergames.co.krshield개인정보처리방침개발자 소개 THUNDER GAMES CO., LTD.  help@thundergames.co.kr  Rm A-3511 센텀 스카이비즈\n해운대구 센텀중앙로 97\n해운대구, 부산광역시 48058\nSouth Korea  +82 51-742-8772",
+  "public웹사이트",
+  "public웹사이트",
+  "public웹사이트",
+  "public웹사이트",
+  "웹사이트",
+  "웹사이트",
+  "phone전화번호+82517428772",
+  "phone전화번호+82517428772",
+  "전화번호+82517428772",
+  "전화번호",
+  "email지원 이메일help@thundergames.co.kr",
+  "email지원 이메일help@thundergames.co.kr",
+  "email지원 이메일help@thundergames.co.kr",
+  "email지원 이메일help@thundergames.co.kr",
+  "지원 이메일help@thundergames.co.kr",
+  "지원 이메일",
+  "help@thundergames.co.kr",
+  "THUNDER GAMES CO., LTD.  help@thundergames.co.kr  Rm A-3511 센텀 스카이비즈\n해운대구 센텀중앙로 97\n해운대구, 부산광역시 48058\nSouth Korea  +82 51-742-8772"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const container = document.querySelector(\'[aria-label="앱 지원"]\') || document.body;\n  const matches = Array.from(document.querySelectorAll(\'*\')).filter(el => \n    el.innerText && (el.innerText.includes(\'이메일\') || el.innerText.includes(\'웹사이트\') || el.innerText.includes(\'전화번호\') || el.innerText.includes(\'@\'))\n  );\n  return matches.map(m => m.innerText.trim()).filter(t => t.length < 300).slice(0, 20);\n}');
+```

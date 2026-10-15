@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Saramin len: 280257
+All phones in Saramin: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+Tel block: NONE
+JSON-LD: 
+{"@context":"http:\/\/schema.org","@type":"Organization","name":"(주)링크빈 기업정보","description":"(주)링크빈 기업소개 - 업력 : 8년차, 기업형태 : 중소기업, 업종 : 경영 컨설팅업 | (주)링크빈의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요.","url":"https:\/\/www.saramin.co.kr\/zf_user\/company-info\/view\/csn\/TTlMZHR5M0pMcFZ3VU5rSGRCNzFndz09\/company_nm\/(주)링크빈","legalName":"(주)링크빈","foundingDate":"2019-09-17","founder":{"@type":"Person","name":"이승주"},"address":{"@type":"PostalAddress","name":"부산 부산진구 전포대로 274, 3017호 (전포동,서면대우디오빌2)"},"makesOffer":{"@type":"Offer","name":"경영 컨설팅업"}}
+

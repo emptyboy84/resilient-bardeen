@@ -1,0 +1,7 @@
+Title: Live Content
+
+OG Description: Fetched live
+
+The full content of the article at https://bizno.net/?query=%EC%84%B8%EC%A2%85%EC%9D%B8%EC%87%84 has been saved to: C:\Users\lg\.gemini\antigravity\brain\38be50f5-cf3e-4746-9931-b93fa8433928\.system_generated\steps\335\content.md
+
+You can use the view_file tool to read specific sections if needed.

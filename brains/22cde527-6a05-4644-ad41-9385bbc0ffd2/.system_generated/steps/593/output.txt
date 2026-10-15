@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Successfully written 150 items to rows_table.md
+

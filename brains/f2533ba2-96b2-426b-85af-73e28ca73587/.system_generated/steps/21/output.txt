@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\extract_corporate_numbers\brain_logs
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:33         427448 README_�ȭ�.md                                                   
+
+
+

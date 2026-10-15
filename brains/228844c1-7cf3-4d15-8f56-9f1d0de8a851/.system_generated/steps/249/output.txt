@@ -1,0 +1,6 @@
+### Result
+"\n회사명(영문)\tLOOKSCOMMUNICATION\n업 태\t전문, 과학 및 기술 서비스업\n주요제품\t광고영화제작\n전화번호\t051-744-1***     (※폐업자는 ***로 표시됩니다)\n팩스번호\t051-742-0645\n법인구분\t법인기업\n과세유형\t부가가치세 일반과세자\n본사/지사\t본사\n법인형태\t영리법인의 본점\n등록일\t2003-01-22\n홈페이지\t\nIR홈페이지\t\n회사이메일\t\n대표자명\t박학* (※폐업자는 *로 표시됩니다)\n사업자 현재 상태\t폐업자 (폐업일 : 20140630)\n\n\n사업자등록번호\t607-81-62956\n법인등록번호\t\n종업원수\t4명\n우편번호\t48058\n회사주소\t부산광역시 해운대구 ****** (폐업자는 주소 일부가 ** 표시됩니다)\n관할세무서\t해운대세무서 (전화번호 : 051-660-9200)\n\n부산광역시 해운대구 좌동순환로 17(좌동) 해운대세무서\n결산월\t\n정정문의"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const table = document.querySelector(\'table\');\n    return table ? table.innerText : document.body.innerText;\n}');
+```

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+b44b0bd HEAD@{0}: reset: moving to HEAD
+b44b0bd HEAD@{1}: 
+

@@ -1,0 +1,701 @@
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98
+- Page Title: 유티에스솔루션 – Daum 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f1e1]:
+  - navigation:
+    - link "본문 바로가기" [ref=f1e2] [cursor=pointer]:
+      - /url: "#daumBody"
+    - link "메뉴 바로가기" [ref=f1e3] [cursor=pointer]:
+      - /url: "#daumGnb"
+  - generic [ref=f1e4]:
+    - banner [ref=f1e5]:
+      - generic [ref=f1e6]:
+        - heading "다음" [level=1] [ref=f1e7]
+        - heading "검색" [level=2] [ref=f1e8]
+        - generic [ref=f1e9]:
+          - group "검색폼" [ref=f1e11]:
+            - generic [ref=f1e13]:
+              - link "Daum 메인페이지로 가기" [ref=f1e14] [cursor=pointer]:
+                - /url: https://www.daum.net/
+              - textbox "검색어 입력" [ref=f1e23]: 유티에스솔루션
+              - button "입력삭제" [ref=f1e24] [cursor=pointer]
+              - button "가상키보드 열기" [ref=f1e26] [cursor=pointer]
+              - button "검색" [ref=f1e42] [cursor=pointer]
+          - generic [ref=f1e48]:
+            - heading "서비스 바로가기" [level=2] [ref=f1e49]
+            - link "로그인" [ref=f1e51] [cursor=pointer]:
+              - /url: https://logins.daum.net/accounts/loginform.do?url=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26DA%3DYZR%26t__nil_searchbox%3Dbtn%26sug%3D%26sugo%3D%26sq%3D%26o%3D%26q%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598
+            - generic [ref=f1e52]:
+              - link "메일" [ref=f1e54] [cursor=pointer]:
+                - /url: https://mail.daum.net/?nil_profile=mini&nil_src=mail
+              - button "Daum 미니 사이트맵" [ref=f1e57] [cursor=pointer]
+        - generic [ref=f1e59]:
+          - generic:
+            - list [ref=f1e60]:
+              - listitem [ref=f1e61]:
+                - generic [ref=f1e62]: 선택된 항목
+                - link "통합" [ref=f1e63] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ec%9c%a0%ed%8b%b0%ec%97%90%ec%8a%a4%ec%86%94%eb%a3%a8%ec%85%98&DA=NTB"
+              - listitem [ref=f1e65]:
+                - link "동영상" [ref=f1e66] [cursor=pointer]:
+                  - /url: "?w=vclip&nil_search=btn&DA=NTB&enc=utf8&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+              - listitem [ref=f1e68]:
+                - link "통합웹" [ref=f1e69] [cursor=pointer]:
+                  - /url: "?w=fusion&nil_search=btn&DA=NTB&p=2&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+              - listitem [ref=f1e71]:
+                - link "이미지" [ref=f1e72] [cursor=pointer]:
+                  - /url: "?w=img&nil_search=btn&DA=NTB&enc=utf8&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+              - listitem [ref=f1e74]:
+                - link "사이트" [ref=f1e75] [cursor=pointer]:
+                  - /url: "?w=site&nil_search=btn&DA=NTB&enc=utf8&lpp=10&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+              - listitem [ref=f1e77]:
+                - link "뉴스" [ref=f1e78] [cursor=pointer]:
+                  - /url: "?w=news&nil_search=btn&DA=NTB&enc=utf8&cluster=y&cluster_page=1&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+              - listitem [ref=f1e80]:
+                - link "쇼핑 새창" [ref=f1e81] [cursor=pointer]:
+                  - /url: https://shoppinghow.kakao.com/search/%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98/&srchhow=Cexpo
+                  - generic [ref=f1e82]:
+                    - text: 쇼핑
+                    - generic [ref=f1e83]: 새창
+              - listitem [ref=f1e84]:
+                - link "어학사전 새창" [ref=f1e85] [cursor=pointer]:
+                  - /url: http://dic.daum.net/search.do?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98
+                  - generic [ref=f1e86]:
+                    - text: 어학사전
+                    - generic [ref=f1e87]: 새창
+            - button "더보기/접기" [ref=f1e89] [cursor=pointer]
+          - button "전체 기간" [ref=f1e92] [cursor=pointer]
+    - generic [ref=f1e93]:
+      - main [ref=f1e94]:
+        - generic [ref=f1e96]:
+          - generic [ref=f1e97]: 검색 본문
+          - generic [ref=f1e100]:
+            - heading "관련 검색어" [level=2] [ref=f1e101]:
+              - text: 관련
+              - generic [ref=f1e102]: 검색어
+            - link "와이즈 솔루션" [ref=f1e104] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%99%80%EC%9D%B4%EC%A6%88%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=NSJ"
+            - link "솔루션 뜻" [ref=f1e106] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%86%94%EB%A3%A8%EC%85%98%20%EB%9C%BB&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=NSJ"
+            - link "에너지 솔루션" [ref=f1e108] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=NSJ"
+            - link "르사덤 솔루션" [ref=f1e110] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EB%A5%B4%EC%82%AC%EB%8D%A4%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=NSJ"
+            - link "제이알 에너지 솔루션" [ref=f1e112] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%A0%9C%EC%9D%B4%EC%95%8C%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=NSJ"
+          - generic [ref=f1e114]:
+            - generic [ref=f1e115]:
+              - generic [ref=f1e117]:
+                - heading "프리미엄링크" [level=2] [ref=f1e118]
+                - generic [ref=f1e119]: 유티에스솔루션 관련 광고입니다.
+                - link "안내" [ref=f1e121] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f1e122]: i
+              - link "신청하기" [ref=f1e125] [cursor=pointer]:
+                - /url: https://business.kakao.com/info/keywordads
+            - list [ref=f1e127]:
+              - listitem [ref=f1e128]:
+                - generic [ref=f1e130]:
+                  - generic [ref=f1e131]:
+                    - strong [ref=f1e132]:
+                      - link "UTS대학교 진학과정IEN" [ref=f1e133] [cursor=pointer]:
+                        - /url: https://ka.ds.kakao.com/click/https%3A%2F%2Fwww.ienau.com%2Fau_ad%2F%3Futm_source%3Ddaum%26utm_medium%3Dsa%26utm_campaign%3Dau%26utm_source%3Dkakao%26utm_medium%3Dkeyword%26utm_campaign%3DPREMIUM_LINK%26utm_term%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26k_campaign%3D50143001516658%26k_adgroup%3D15960856%26k_media%3DPREMIUM_LINK_SEARCH%26k_creative%3D669553711669440512%26k_creativelink%3D669553711786881024%26k_rank%3D1%26k_keyword%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%26k_keyword_id%3D1835522231%26k_keyword_type%3D1%26k_query%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26kclid%3DxYh5FohC8KSo350fXqNUT0iYy09VQIjLYuFDwBsnakBvJFpB9Pwoau_2pIT0ALcf/Tpn-g6RqQ1niHX169JvMshhJy1llVqHwgGX9CMaVe3lr1pFobUtuvhf4BJccQ-KJhd6mzTeSe_rf5PtbEz9gd-p-6TbBsax06gur_feNn1KlOJDmtoJWfgApyu8OW2Xp5ZokSmLTApHjld70KyYAlt7nF2GY-OC5A9tpI33JMHBSj9yhDfRLzaJ5U1eeYlsZAbXyqX9n5l1sR0-JIBsSLLN8d11msdEFMm5ao_7U3ip6kfSHMVW_yGSfDEJ9phSbV3t9LRt5FB9Qv4IPKD-P6kzwPwva7_V992gPaiGmHaC7OhwZ6tTir5gua8p2ZaBhjda3BZhytyPBtfBRsTPAyu-0zMCMpIAJ8oELx7Bl1xcONdo_g4rNyZskb_xZODLJcLd8fnegw-n6LmBQC7XjZQ4Uf4gj65uMbSQfz-Yp_K4ab668bWbWOnEUbG5Ua4OdLdPzUoSIPcr4LEW1uJixTHfC5A5aqoJxqXJEXCAN8tgOQ2HEUknW9bO1GQ==?p=2z502pS2x6wy4TqQUHuUmw
+                    - link "www.ienau.com" [ref=f1e134] [cursor=pointer]:
+                      - /url: https://ka.ds.kakao.com/click/https%3A%2F%2Fwww.ienau.com%2Fau_ad%2F%3Futm_source%3Ddaum%26utm_medium%3Dsa%26utm_campaign%3Dau%26utm_source%3Dkakao%26utm_medium%3Dkeyword%26utm_campaign%3DPREMIUM_LINK%26utm_term%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26k_campaign%3D50143001516658%26k_adgroup%3D15960856%26k_media%3DPREMIUM_LINK_SEARCH%26k_creative%3D669553711669440512%26k_creativelink%3D669553711786881024%26k_rank%3D1%26k_keyword%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%26k_keyword_id%3D1835522231%26k_keyword_type%3D1%26k_query%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26kclid%3DxYh5FohC8KSo350fXqNUT0iYy09VQIjLYuFDwBsnakBvJFpB9Pwoau_2pIT0ALcf/Tpn-g6RqQ1niHX169JvMshhJy1llVqHwgGX9CMaVe3lr1pFobUtuvhf4BJccQ-KJhd6mzTeSe_rf4_tbGiUXCYQupHrY8vgu5BPpsrqMmR_taYrvtJRUfx00369SHHj904EwaXvaUMeth5meN3k_05jXG3S_-OK4L8w_UDvYPDYEjN2mWrwdl7osRlbLfQoAUubu8WRm7hM_QEjZdRtHKe43dRQMmYNuXCgF8bid1Soig7K1KliM3y_GWFBppwiXFDI-LB1wJxgaxJJfZy6Aswvgdk3e68Vt5llUIGbUdcemIQwZ_M3mvp84dsRoZKZo_bndVdEhsCPDtLcYvjOO1L60i4me59Yc9pBUgLg6kBBfatM_0JXNmt1kZL0KOmPAJrZyKnOixrysImMLVbDqMl4Td4wg65veZDZV3aVmqqYPerOvaFvXfAJSJSEfZNTYa5qqGYvfbozocwaz7c21HXHG511f8NByoHJBX3YC-YsOQm-fUkjT_6iuVvzh3A==?p=2z502pS2x6wy4TqQUHuUmw
+                  - paragraph [ref=f1e137]:
+                    - link "호주정부공인과정, IELTS면제, 호주대 1~2학년 100%입학, 장학금 보장" [ref=f1e138] [cursor=pointer]:
+                      - /url: https://ka.ds.kakao.com/click/https%3A%2F%2Fwww.ienau.com%2Fau_ad%2F%3Futm_source%3Ddaum%26utm_medium%3Dsa%26utm_campaign%3Dau%26utm_source%3Dkakao%26utm_medium%3Dkeyword%26utm_campaign%3DPREMIUM_LINK%26utm_term%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26k_campaign%3D50143001516658%26k_adgroup%3D15960856%26k_media%3DPREMIUM_LINK_SEARCH%26k_creative%3D669553711669440512%26k_creativelink%3D669553711786881024%26k_rank%3D1%26k_keyword%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%26k_keyword_id%3D1835522231%26k_keyword_type%3D1%26k_query%3D%25EC%259C%25A0%25ED%258B%25B0%25EC%2597%2590%25EC%258A%25A4%25EC%2586%2594%25EB%25A3%25A8%25EC%2585%2598%26kclid%3DxYh5FohC8KSo350fXqNUT0iYy09VQIjLYuFDwBsnakBvJFpB9Pwoau_2pIT0ALcf/Tpn-g6RqQ1niHX169JvMshhJy1llVqHwgGX9CMaVe3lr1pFobUtuvhf4BJccQ-KJhd6mzTeSe_rf9PdcHCgLC5xFxxaIv7Q3p0ezvKLO1lLsb8en5Y5dfQs23rJPCTihlJwkX2DOc96k1c_QJT5Vz8foXjKP9PefL84-fCyOT3AVgJvwWb0awPJ6HE6eaAtVTbf3ojd6tgg-SAaKchwXfO5icElHm8oEdHpun_7Ch2xriLLtOB6-xCL1Txsw8xqDFS4yb1QzJh4T95UVHD7Q_BrvLwrOooNp4mlEMVePP4DUSWsE593mqIY8Z8N-eah2_L_UJb5L4GqQs7cav3TH2776ldieoJ8OtcZBhKll1xgALdRuj5zNycJkN_tKMSKTJOd7fHKskriuJzZdWbOxbFsaINwn45_dZDYH1LcsuOVALLu6fUbEeT9TY1JZLZuTZM3vX8KGJYO_IECjso6zSCTCtltb84N3-iBCVnYH-t0BSTyfU0aI_6mrXOf6kzyn0Q==?p=2z502pS2x6wy4TqQUHuUmw
+          - generic [ref=f1e142]:
+            - generic [ref=f1e143]:
+              - generic [ref=f1e147]:
+                - heading "동영상" [level=2] [ref=f1e148]
+                - link "안내" [ref=f1e151] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f1e152]: i
+              - list [ref=f1e154]:
+                - listitem [ref=f1e155]:
+                  - generic [ref=f1e156]:
+                    - link "[전극추출 예제] - 유티에스 솔루션 펌! 재생시간 09:57" [ref=f1e159] [cursor=pointer]:
+                      - /url: https://cafe.daum.net/kct4u/3A6y/3?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98
+                      - img "[전극추출 예제] - 유티에스 솔루션 펌!" [ref=f1e160]
+                      - generic [ref=f1e161]:
+                        - generic [ref=f1e162]: 재생시간
+                        - generic [ref=f1e163]: 09:57
+                    - generic [ref=f1e164]:
+                      - strong [ref=f1e166]:
+                        - link "[전극추출 예제] - 유티에스 솔루션 펌!" [ref=f1e167] [cursor=pointer]:
+                          - /url: https://cafe.daum.net/kct4u/3A6y/3?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98
+                      - generic [ref=f1e169]:
+                        - link "Daum 카페" [ref=f1e171] [cursor=pointer]:
+                          - /url: https://top.cafe.daum.net
+                        - text: 2006.07.06
+            - generic [ref=f1e172]: 동영상 검색 결과에는 Youtube 영상이 포함되어 있으며, Youtube API를 사용하여 제공합니다. Youtube 영상을 검색할 경우, Youtube의 서비스 약관 및 Google 개인정보 보호 정책에 동의한 것으로 간주합니다.
+            - generic [ref=f1e178]:
+              - generic [ref=f1e179]: 안내
+              - generic [ref=f1e180]:
+                - link "유튜브 서비스 이용약관" [ref=f1e181] [cursor=pointer]:
+                  - /url: https://www.youtube.com/t/terms
+                - text: ","
+                - link "구글 개인정보 처리방침" [ref=f1e182] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy
+            - link "동영상 더보기" [ref=f1e184] [cursor=pointer]:
+              - /url: "?w=vclip&DA=VOI&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98"
+          - generic [ref=f1e186]:
+            - generic [ref=f1e187]:
+              - heading "통합웹" [level=2] [ref=f1e188]
+              - generic [ref=f1e189]:
+                - strong: 상세검색옵션
+                - generic [ref=f1e192]:
+                  - generic [ref=f1e193]:
+                    - text: 전체
+                    - generic [ref=f1e194]: 선택됨
+                  - link "블로그" [ref=f1e195] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA&p=2"
+                  - link "카페" [ref=f1e196] [cursor=pointer]:
+                    - /url: "?w=fusion&col=cafe&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA&p=2"
+                  - link "웹문서" [ref=f1e197] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA&p=2"
+            - generic [ref=f1e199]:
+              - generic [ref=f1e201]:
+                - link "유저썸네일 autoelectronics.co.kr article" [ref=f1e206] [cursor=pointer]:
+                  - /url: https://autoelectronics.co.kr/article/articleView.asp?idx=2350
+                  - img "유저썸네일" [ref=f1e209]
+                  - strong [ref=f1e211]:
+                    - generic [ref=f1e212]: autoelectronics.co.kr
+                    - generic [ref=f1e214]: article
+                - generic [ref=f1e217]:
+                  - strong [ref=f1e220]:
+                    - link "첨단 전자 서스펜션으로 주행성, 제어력 강화" [ref=f1e221] [cursor=pointer]:
+                      - /url: https://autoelectronics.co.kr/article/articleView.asp?idx=2350
+                  - paragraph [ref=f1e224]:
+                    - link "인장강도(UTS)가 530 Mpa 이하인 문제가 있고 AFRP는 흡습과 커팅 문제로 대량생산이 어렵다. CFRP는 대량생산은 아니지만 그 이하의 볼륨에 대한 솔루션으로 고려되고 있으며, 향후 서스펜션에서 얇거나 샌드위치 패널과 같은 형태의 부품으로 이용되고, 그 이후 롤, 단조, 접착에 활용될 전망이다. 대부분의 OEM은..." [ref=f1e225] [cursor=pointer]:
+                      - /url: https://autoelectronics.co.kr/article/articleView.asp?idx=2350
+                - generic [ref=f1e227]:
+                  - link "웹문서 검색 더보기" [ref=f1e228] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA"
+                  - generic [ref=f1e230]: 2026.08.05
+              - generic [ref=f1e235]:
+                - link "유저썸네일 cafe.daum.net 씨마트론카페-cimatron_it,엘리트" [ref=f1e240] [cursor=pointer]:
+                  - /url: https://cafe.daum.net/cimatron
+                  - img "유저썸네일" [ref=f1e243]
+                  - strong [ref=f1e245]:
+                    - generic [ref=f1e246]: cafe.daum.net
+                    - generic [ref=f1e248]: 씨마트론카페-cimatron_it,엘리트
+                - generic [ref=f1e251]:
+                  - strong [ref=f1e254]:
+                    - link "유티에스솔루션 홈페이지 혹 닫았나여?" [ref=f1e255] [cursor=pointer]:
+                      - /url: https://cafe.daum.net/cimatron/LbrC/584?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&re=1
+                  - paragraph [ref=f1e258]:
+                    - link "얼마전부터 접속이 안되더라구여. 거기서 간간히 소식도듣고 좋은 자료는 참고도 한고 했는데, 만약 그런거라면 참 아쉽네여.." [ref=f1e259] [cursor=pointer]:
+                      - /url: https://cafe.daum.net/cimatron/LbrC/584?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&re=1
+                - generic [ref=f1e261]:
+                  - link "카페 검색 더보기" [ref=f1e262] [cursor=pointer]:
+                    - /url: "?w=fusion&col=cafe&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA"
+                  - generic [ref=f1e264]: 2008.01.31
+              - generic [ref=f1e269]:
+                - link "유저썸네일 wwv.soonwidot.co.kr rank board" [ref=f1e274] [cursor=pointer]:
+                  - /url: https://wwv.soonwidot.co.kr/rank/board.php?id=5298&board_type=%EB%85%B8%EC%9B%90%EA%B5%AC%EC%A4%91%EA%B3%84%EB%B3%B8%EB%8F%99%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90
+                  - img "유저썸네일" [ref=f1e277]
+                  - strong [ref=f1e279]:
+                    - generic [ref=f1e280]: wwv.soonwidot.co.kr
+                    - generic [ref=f1e282]: rank
+                    - generic [ref=f1e284]: board
+                - generic [ref=f1e287]:
+                  - strong [ref=f1e290]:
+                    - link "노원구중계본동영어학원 - 인기순위 추천 순위닷" [ref=f1e291] [cursor=pointer]:
+                      - /url: https://wwv.soonwidot.co.kr/rank/board.php?id=5298&board_type=%EB%85%B8%EC%9B%90%EA%B5%AC%EC%A4%91%EA%B3%84%EB%B3%B8%EB%8F%99%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90
+                  - paragraph [ref=f1e294]:
+                    - 'link "잉글리쉬솔루션영어교습소 서울특별시 노원구 중계동 366-14 연락처 : 02-931-0701 153. 대치슈어영어교습소 서울특별시 노원구 중계동 434-2 154. 이지연영어학원 서울특별시 노원구 중계동 366-15 에덴프라자 4층 연락처 : 02-935-7505 155. 라임잉글리쉬 영어교습소 서울특별시 노원구 중계동 434-1 연락처 : 02-6080..." [ref=f1e295] [cursor=pointer]':
+                      - /url: https://wwv.soonwidot.co.kr/rank/board.php?id=5298&board_type=%EB%85%B8%EC%9B%90%EA%B5%AC%EC%A4%91%EA%B3%84%EB%B3%B8%EB%8F%99%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90
+                - generic [ref=f1e296]: 2026.07.22
+                - generic [ref=f1e303]:
+                  - generic [ref=f1e304]:
+                    - strong [ref=f1e305]: 같은 출처 내 관련문서
+                    - link "전체보기" [ref=f1e307] [cursor=pointer]:
+                      - /url: "?w=fusion&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98%20site%3Awwv.soonwidot.co.kr&DA=TWA"
+                  - list [ref=f1e309]:
+                    - listitem [ref=f1e310]:
+                      - link "서울 스쿠버다이빙 - 인기순위 추천 순위닷" [ref=f1e312] [cursor=pointer]:
+                        - /url: https://wwv.soonwidot.co.kr/rank/board.php?id=33081&board_type=%EC%84%9C%EC%9A%B8+%EC%8A%A4%EC%BF%A0%EB%B2%84%EB%8B%A4%EC%9D%B4%EB%B9%99
+                    - listitem [ref=f1e313]:
+                      - link "상계역영어학원 - 인기순위 추천 순위닷" [ref=f1e315] [cursor=pointer]:
+                        - /url: http://wwv.soonwidot.co.kr/rank/board.php?id=5308&board_type=%EC%83%81%EA%B3%84%EC%97%AD%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90
+              - generic [ref=f1e317]:
+                - link "유저썸네일 bidnara.com bids v" [ref=f1e322] [cursor=pointer]:
+                  - /url: https://bidnara.com/bids/v/award/2965/%EA%B0%80%EC%B9%AD%EA%B2%80%EB%8B%A8%EC%8B%A0%EB%8F%84%EC%8B%9C%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B3%B5%EA%B0%84%EC%A1%B0%EC%84%B1%EA%B3%B5%EC%82%AC%ED%86%B5%EC%8B%A0
+                  - img "유저썸네일" [ref=f1e325]
+                  - strong [ref=f1e327]:
+                    - generic [ref=f1e328]: bidnara.com
+                    - generic [ref=f1e330]: bids
+                    - generic [ref=f1e332]: v
+                - generic [ref=f1e335]:
+                  - strong [ref=f1e338]:
+                    - link "[공사 개찰결과] (가칭)검단신도시도서관 공간조성공사(통신)" [ref=f1e339] [cursor=pointer]:
+                      - /url: https://bidnara.com/bids/v/award/2965/%EA%B0%80%EC%B9%AD%EA%B2%80%EB%8B%A8%EC%8B%A0%EB%8F%84%EC%8B%9C%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B3%B5%EA%B0%84%EC%A1%B0%EC%84%B1%EA%B3%B5%EC%82%AC%ED%86%B5%EC%8B%A0
+                  - paragraph [ref=f1e342]:
+                    - link "제이에스솔루션 274-86-00944 백** 20,873,630원 90.3810% 89.8320% 100.0703% +0.0921 03, 10 정상 24 에이치제이정보통신 주식회사 283-81-00230 이** 20,874,040원 90.3830% 89.8340% 100.0723% +0.0940 04, 07 정상 25 주식회사 동아기술 192-86-01170 김** 20,874,100원 90.3830% 89.8340% 100.0726% +0.0943 11..." [ref=f1e343] [cursor=pointer]:
+                      - /url: https://bidnara.com/bids/v/award/2965/%EA%B0%80%EC%B9%AD%EA%B2%80%EB%8B%A8%EC%8B%A0%EB%8F%84%EC%8B%9C%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B3%B5%EA%B0%84%EC%A1%B0%EC%84%B1%EA%B3%B5%EC%82%AC%ED%86%B5%EC%8B%A0
+                - generic [ref=f1e344]: 2026.01.19
+              - generic [ref=f1e351]:
+                - link "유저썸네일 cafe.daum.net 최강씨마트론유져모임" [ref=f1e356] [cursor=pointer]:
+                  - /url: https://cafe.daum.net/kct4u
+                  - img "유저썸네일" [ref=f1e359]
+                  - strong [ref=f1e361]:
+                    - generic [ref=f1e362]: cafe.daum.net
+                    - generic [ref=f1e364]: 최강씨마트론유져모임
+                - generic [ref=f1e367]:
+                  - strong [ref=f1e370]:
+                    - link "Re:[전극추출 예제] - 유티에스 솔루션 펌!" [ref=f1e371] [cursor=pointer]:
+                      - /url: https://cafe.daum.net/kct4u/3A6y/26?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&re=1
+                  - paragraph [ref=f1e374]:
+                    - link "잘보고 갑니다" [ref=f1e375] [cursor=pointer]:
+                      - /url: https://cafe.daum.net/kct4u/3A6y/26?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&re=1
+                - generic [ref=f1e376]: 2010.03.21
+                - generic [ref=f1e383]:
+                  - strong [ref=f1e385]: 같은 출처 내 관련문서
+                  - list [ref=f1e386]:
+                    - listitem [ref=f1e387]:
+                      - link "[전극추출 예제] - 유티에스 솔루션 펌!" [ref=f1e389] [cursor=pointer]:
+                        - /url: https://cafe.daum.net/kct4u/3A6y/3?q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&re=1
+              - generic [ref=f1e391]:
+                - link "유저썸네일 blog.naver.com sotatek_kr님의 블로그" [ref=f1e396] [cursor=pointer]:
+                  - /url: https://blog.naver.com/sotatek_kr
+                  - img "유저썸네일" [ref=f1e399]
+                  - strong [ref=f1e401]:
+                    - generic [ref=f1e402]: blog.naver.com
+                    - generic [ref=f1e404]: sotatek_kr님의 블로그
+                - generic [ref=f1e407]:
+                  - strong [ref=f1e410]:
+                    - link "SotaTek, Viet Nam – Australia Tech Connect 2026에서 ‘Made by SOTA’ 기술 생태계 선보여" [ref=f1e411] [cursor=pointer]:
+                      - /url: https://blog.naver.com/sotatek_kr/224388346004
+                  - link "SotaTek, Viet Nam – Australia Tech Connect 2026에서 ‘Made by SOTA’ 기술 생태계 선보여 5 개" [ref=f1e415] [cursor=pointer]:
+                    - /url: https://blog.naver.com/sotatek_kr/224388346004
+                    - img "SotaTek, Viet Nam – Australia Tech Connect 2026에서 ‘Made by SOTA’ 기술 생태계 선보여" [ref=f1e416]
+                    - generic [ref=f1e418]:
+                      - text: "5"
+                      - generic [ref=f1e419]: 개
+                  - paragraph [ref=f1e422]:
+                    - 'link "협력 #AI #인공지능 #디지털전환 #AI솔루션 #AI에이전트 #AI교육 #디지털교육 #컴퓨터비전 #기업용AI #기업자동화 #MadeBySOTA #글로벌기술협력 #베트남IT #호주...기업 SotaTek이 호주 시드니공과대학교(University of Technology Sydney, UTS)에서 열린 ‘Viet Nam – Australia Tech Connect Forum 2026’에 참가해..." [ref=f1e423] [cursor=pointer]':
+                      - /url: https://blog.naver.com/sotatek_kr/224388346004
+                - generic [ref=f1e425]:
+                  - link "블로그 검색 더보기" [ref=f1e426] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA"
+                  - generic [ref=f1e428]: 2026.08.24
+              - link "통합웹 더보기" [ref=f1e436] [cursor=pointer]:
+                - /url: "?w=fusion&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=TWA&p=2"
+          - generic [ref=f1e438]:
+            - heading "이미지" [level=2] [ref=f1e442]
+            - generic [ref=f1e443]:
+              - figure [ref=f1e444]:
+                - link [ref=f1e446] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "트레일러(Trailar), 이동식 태양광 솔루션에 소리우(Souriau)의 커넥터 채택" [ref=f1e447]
+              - figure [ref=f1e448]:
+                - link [ref=f1e450] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "호주 명문 공대 UTS의 데이터 분석 & 활용 전문가 양성마이크로 크리덴셜 과정 오픈!!" [ref=f1e451]
+              - figure [ref=f1e452]:
+                - link [ref=f1e454] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "호주 명문 공대 UTS의 데이터 분석 & 활용 전문가 양성마이크로 크리덴셜 과정 오픈!!" [ref=f1e455]
+              - figure [ref=f1e456]:
+                - link [ref=f1e458] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "분당 호주유학원 - 호주 UTS 메타버스 관련 전공 알아보기" [ref=f1e459]
+              - figure [ref=f1e460]:
+                - link [ref=f1e462] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "퓨어스토리지, 퓨어//액셀러레이트 서울 2025에서 AI 및 사이버 복원력 위한 신규 솔루션 발표" [ref=f1e463]
+              - figure [ref=f1e464]:
+                - link [ref=f1e466] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[랜드] 북유럽 여행, UTS와 상의 하세요" [ref=f1e467]
+              - figure [ref=f1e468]:
+                - link [ref=f1e470] [cursor=pointer]:
+                  - /url: javascript:;
+                  - 'img "[LS ELECTRIC] UTS 열동형 과부하 계전기: 특징, 사양, 인증, 대체품" [ref=f1e471]'
+              - figure [ref=f1e472]:
+                - link [ref=f1e474] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "트레일러(Trailar), 이동식 태양광 솔루션에 소리우(Souriau)의 커넥터 채택" [ref=f1e475]
+              - figure [ref=f1e476]:
+                - link [ref=f1e478] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[호주대학교] 호주시드니공대 UTS대학교 IT학과" [ref=f1e479]
+              - figure [ref=f1e480]:
+                - link [ref=f1e482] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[호주대학교] 호주시드니공대 UTS대학교 IT학과" [ref=f1e483]
+            - link "이미지 더보기" [ref=f1e485] [cursor=pointer]:
+              - /url: "?w=img&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=IIM"
+          - generic [ref=f1e487]:
+            - heading "사이트" [level=2] [ref=f1e488]
+            - list [ref=f1e492]:
+              - listitem [ref=f1e493]:
+                - generic [ref=f1e494]:
+                  - generic [ref=f1e497]:
+                    - generic [ref=f1e498]:
+                      - strong [ref=f1e499]:
+                        - link "U-Training Science" [ref=f1e501] [cursor=pointer]:
+                          - /url: http://blog.naver.com/utrainingscience
+                      - generic [ref=f1e502]: 네이버 블로그
+                    - link "blog.naver.com/utrainingscience" [ref=f1e505] [cursor=pointer]:
+                      - /url: http://blog.naver.com/utrainingscience
+                  - paragraph [ref=f1e510]:
+                    - link "운동능력을 측정한 데이터를 기반으로 과학적인 맞춤 훈련을 처방하여 최적화된 훈련 솔루션을 제공합니다." [ref=f1e511] [cursor=pointer]:
+                      - /url: http://blog.naver.com/utrainingscience
+          - generic [ref=f1e514]:
+            - heading "뉴스" [level=2] [ref=f1e515]
+            - generic [ref=f1e516]:
+              - heading "뉴스" [level=2] [ref=f1e519]
+              - generic [ref=f1e521]:
+                - link "정확도순" [ref=f1e522] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&sort=accuracy&DA=DNS"
+                - link "최신순" [ref=f1e523] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&sort=recency&DA=DNS"
+                - button "뉴스검색 설정" [ref=f1e525] [cursor=pointer]
+            - generic [ref=f1e529]:
+              - text: 뉴스제휴 언론사 검색결과
+              - link "안내" [ref=f1e531] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f1e532]: i
+            - list [ref=f1e534]:
+              - listitem [ref=f1e535]:
+                - link "매일경제" [ref=f1e539] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/7/home
+                  - strong [ref=f1e542]: 매일경제
+                - generic [ref=f1e543]:
+                  - link [ref=f1e546] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20260209160906071
+                    - img "\"기업 생존 흔드는 정보유출 …'데이터 주권' 더 중요해져\"" [ref=f1e547]
+                  - generic [ref=f1e548]:
+                    - strong [ref=f1e550]:
+                      - link "\"기업 생존 흔드는 정보유출 …'데이터 주권' 더 중요해져\"" [ref=f1e551] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20260209160906071
+                    - generic [ref=f1e552]:
+                      - paragraph [ref=f1e553]:
+                        - link "비즈니스 리스크로 변모했다. 글로벌 데이터 스토리지 솔루션 기업인 퓨어스토리지의 매슈 우스트빈 아시아·태평양 및 일본 지역...최근 매일경제와의 영상 인터뷰에서 지난해 여름 시드니공과대(UTS)와 공동으로 진행한 연구 결과를 언급하며 데이터 주권이 더..." [ref=f1e554] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20260209160906071
+                      - generic [ref=f1e555]: 2026.02.09
+              - listitem [ref=f1e556]:
+                - generic [ref=f1e559]:
+                  - link "IT동아" [ref=f1e560] [cursor=pointer]:
+                    - /url: https://v.daum.net/channel/226/home
+                    - strong [ref=f1e563]: IT동아
+                  - generic [ref=f1e564]: 언론사 픽
+                - generic [ref=f1e565]:
+                  - link "플랑크랩 \"비싼 소모품·시설 없이 반도체 개발...진입 장벽 낮췄다\"[도전 K-스타트업 2025] 3" [ref=f1e568] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20251218133602502
+                    - img "플랑크랩 \"비싼 소모품·시설 없이 반도체 개발...진입 장벽 낮췄다\"[도전 K-스타트업 2025]" [ref=f1e569]
+                    - generic [ref=f1e570]: "3"
+                  - generic [ref=f1e572]:
+                    - strong [ref=f1e574]:
+                      - link "플랑크랩 \"비싼 소모품·시설 없이 반도체 개발...진입 장벽 낮췄다\"[도전 K-스타트업 2025]" [ref=f1e575] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20251218133602502
+                    - generic [ref=f1e576]:
+                      - paragraph [ref=f1e577]:
+                        - 'link "연구용 솔루션에서 DLP 기술을 활용한 적은 있지만, 지나치게 고가의 외산 장비 위주라 한계가 있었다. - 반도체 산업에서 왜 이런 정밀한 투사 기술이 필요한가? 기존 제품과의 차별화 요소도 궁금하다 : 기존에 이용하던 노광 장비는 반도체 설계 및 생산에 필요한..." [ref=f1e578] [cursor=pointer]':
+                          - /url: http://v.daum.net/v/20251218133602502
+                      - generic [ref=f1e579]: 2025.12.18
+              - listitem [ref=f1e580]:
+                - link "파이낸셜뉴스" [ref=f1e584] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/139/home
+                  - strong [ref=f1e587]: 파이낸셜뉴스
+                - generic [ref=f1e588]:
+                  - link [ref=f1e591] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20250930170748451
+                    - img "퓨어스토리지, '퓨어//액셀러레이트 2025 서울'서 신규 솔루션 선보여" [ref=f1e592]
+                  - generic [ref=f1e593]:
+                    - strong [ref=f1e595]:
+                      - link "퓨어스토리지, '퓨어//액셀러레이트 2025 서울'서 신규 솔루션 선보여" [ref=f1e596] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20250930170748451
+                    - generic [ref=f1e597]:
+                      - paragraph [ref=f1e598]:
+                        - link "코어 플랫폼 사업부 총괄 겸 부사장 숀 한센, 람다256 오재훈 기술연구소장이 참여했다. 퓨어스토리지는 또한 시드니공과대학교(UTS)와 함께한 데이터 주권 관련 최신 연구 결과를 발표했다. 이번 분석은 지정학적 불확실성과 규제 변화가 데이터 주권을 단순한..." [ref=f1e599] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20250930170748451
+                      - generic [ref=f1e600]: 2025.09.30
+              - listitem [ref=f1e601]:
+                - link "디지털타임스" [ref=f1e605] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/94/home
+                  - strong [ref=f1e608]: 디지털타임스
+                - generic [ref=f1e609]:
+                  - link [ref=f1e612] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20250930170025073
+                    - img "“데이터주권이 국가 경쟁력 좌우”…퓨어스토리지, 사이버 복원력 강조" [ref=f1e613]
+                  - generic [ref=f1e614]:
+                    - strong [ref=f1e616]:
+                      - link "“데이터주권이 국가 경쟁력 좌우”…퓨어스토리지, 사이버 복원력 강조" [ref=f1e617] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20250930170025073
+                    - generic [ref=f1e618]:
+                      - paragraph [ref=f1e619]:
+                        - link "공대(UTS)와 공동으로 진행했다. 올해 7~8월 9개국(한국·호주·프랑스·독일·인도·일본·뉴질랜드·싱가포르·영국) 산업계와 연구 분야 전문가들을 대상으로 조사(정성적 인터뷰)를 했다. 조사 결과에 따르면 응답자들은 기업과 국가에 전례 없는 위협을 초래..." [ref=f1e620] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20250930170025073
+                      - generic [ref=f1e621]: 2025.09.30
+            - link "펼쳐보기" [ref=f1e623] [cursor=pointer]:
+              - /url: javascript:;
+            - link "뉴스 더보기" [ref=f1e626] [cursor=pointer]:
+              - /url: "?w=news&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&enc=utf8&cluster=y&cluster_page=1&DA=DNS"
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]:
+              - generic [ref=f1e631]:
+                - heading "쇼핑하우 by kakao" [level=2] [ref=f1e632]
+                - link "i" [ref=f1e634] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic "안내" [ref=f1e635]: i
+              - link "다른 사이트 더보기" [ref=f1e637] [cursor=pointer]:
+                - /url: "?w=site&DA=SNP&enc=utf8&lpp=10&q=%EC%87%BC%ED%95%91+-%EB%8B%A4%EC%9D%8C"
+            - list [ref=f1e638]:
+              - listitem [ref=f1e639]:
+                - generic [ref=f1e640]:
+                  - link [ref=f1e642] [cursor=pointer]:
+                    - /url: https://shoppinghow.kakao.com/search/%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98/docid:W35574759482&srchhow:Cexpo&
+                  - link "UDT 체인블록거치대 UTS-1T(1.0T) 68,950 원 배송비 3,000원 원비즈솔루션 구매" [ref=f1e644] [cursor=pointer]:
+                    - /url: https://shoppinghow.kakao.com/search/%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98/docid:W35574759482&srchhow:Cexpo&
+                    - strong [ref=f1e646]: UDT 체인블록거치대 UTS-1T(1.0T)
+                    - generic [ref=f1e647]:
+                      - emphasis [ref=f1e648]: 68,950
+                      - text: 원
+                    - generic [ref=f1e649]:
+                      - generic [ref=f1e650]: 배송비
+                      - text: 3,000원
+                    - generic [ref=f1e651]:
+                      - generic [ref=f1e652]: 원비즈솔루션
+                      - generic [ref=f1e653]: 구매
+            - generic [ref=f1e659]:
+              - text: Daum과 Kakao는 상품판매의 당사자가 아닙니다.
+              - link "법적고지 및 안내" [ref=f1e660] [cursor=pointer]:
+                - /url: https://shoppinghow.kakao.com/html/noticeOfLaw.html
+            - link "쇼핑 더보기" [ref=f1e662] [cursor=pointer]:
+              - /url: https://shoppinghow.kakao.com/search/%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98/srchhow:Cexpo
+          - generic [ref=f1e664]:
+            - button "이전페이지" [disabled] [ref=f1e665]
+            - generic [ref=f1e667]:
+              - generic [ref=f1e668]: 현재페이지
+              - emphasis [ref=f1e669]: "1"
+              - link "2" [ref=f1e670] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&p=2"
+              - link "3" [ref=f1e671] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&p=3"
+              - link "4" [ref=f1e672] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&p=4"
+              - link "5" [ref=f1e673] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&p=5"
+            - button "다음페이지" [ref=f1e674] [cursor=pointer]
+          - generic [ref=f1e678]:
+            - heading "관련 검색어" [level=2] [ref=f1e679]:
+              - text: 관련
+              - generic [ref=f1e680]: 검색어
+            - link "와이즈 솔루션" [ref=f1e682] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%99%80%EC%9D%B4%EC%A6%88%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=DCC"
+            - link "솔루션 뜻" [ref=f1e684] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%86%94%EB%A3%A8%EC%85%98%20%EB%9C%BB&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=DCC"
+            - link "에너지 솔루션" [ref=f1e686] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=DCC"
+            - link "르사덤 솔루션" [ref=f1e688] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EB%A5%B4%EC%82%AC%EB%8D%A4%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=DCC"
+            - link "제이알 에너지 솔루션" [ref=f1e690] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%A0%9C%EC%9D%B4%EC%95%8C%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=DCC"
+        - complementary [ref=f1e691]:
+          - generic [ref=f1e694]:
+            - generic [ref=f1e697]:
+              - heading "실시간 트렌드" [level=2] [ref=f1e698]
+              - link "안내" [ref=f1e700] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f1e701]: i
+            - list [ref=f1e704]:
+              - listitem [ref=f1e705]:
+                - link "1 위 김지훈 아주대 입학 순위 변동없음" [ref=f1e706] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B9%80%EC%A7%80%ED%9B%88+%EC%95%84%EC%A3%BC%EB%8C%80+%EC%9E%85%ED%95%99&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e707]:
+                    - text: "1"
+                    - generic [ref=f1e708]: 위
+                  - generic [ref=f1e709]: 김지훈 아주대 입학
+                  - generic [ref=f1e710]: 순위 변동없음
+              - listitem [ref=f1e711]:
+                - link "2 위 고은아 뱃살 공개 순위 상승" [ref=f1e712] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B3%A0%EC%9D%80%EC%95%84+%EB%B1%83%EC%82%B4+%EA%B3%B5%EA%B0%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e713]:
+                    - text: "2"
+                    - generic [ref=f1e714]: 위
+                  - generic [ref=f1e715]: 고은아 뱃살 공개
+                  - generic [ref=f1e716]: 순위 상승
+              - listitem [ref=f1e717]:
+                - link "3 위 2차 공공기관 이전 순위 상승" [ref=f1e718] [cursor=pointer]:
+                  - /url: "?w=tot&q=2%EC%B0%A8+%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80+%EC%9D%B4%EC%A0%84&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e719]:
+                    - text: "3"
+                    - generic [ref=f1e720]: 위
+                  - generic [ref=f1e721]: 2차 공공기관 이전
+                  - generic [ref=f1e722]: 순위 상승
+              - listitem [ref=f1e723]:
+                - link "4 위 다니엘 뉴진스 퇴출 순위 상승" [ref=f1e724] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%8B%A4%EB%8B%88%EC%97%98+%EB%89%B4%EC%A7%84%EC%8A%A4+%ED%87%B4%EC%B6%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e725]:
+                    - text: "4"
+                    - generic [ref=f1e726]: 위
+                  - generic [ref=f1e727]: 다니엘 뉴진스 퇴출
+                  - generic [ref=f1e728]: 순위 상승
+              - listitem [ref=f1e729]:
+                - link "5 위 두리랜드 순위 신규진입" [ref=f1e730] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%91%90%EB%A6%AC%EB%9E%9C%EB%93%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e731]:
+                    - text: "5"
+                    - generic [ref=f1e732]: 위
+                  - generic [ref=f1e733]: 두리랜드
+                  - generic [ref=f1e734]: 순위 신규진입
+              - listitem [ref=f1e735]:
+                - link "6 위 9월 모의고사 등급컷 순위 상승" [ref=f1e736] [cursor=pointer]:
+                  - /url: "?w=tot&q=9%EC%9B%94+%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC+%EB%93%B1%EA%B8%89%EC%BB%B7&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e737]:
+                    - text: "6"
+                    - generic [ref=f1e738]: 위
+                  - generic [ref=f1e739]: 9월 모의고사 등급컷
+                  - generic [ref=f1e740]: 순위 상승
+              - listitem [ref=f1e741]:
+                - link "7 위 정부 발전5사 통합 순위 하락" [ref=f1e742] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%A0%95%EB%B6%80+%EB%B0%9C%EC%A0%845%EC%82%AC+%ED%86%B5%ED%95%A9&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e743]:
+                    - text: "7"
+                    - generic [ref=f1e744]: 위
+                  - generic [ref=f1e745]: 정부 발전5사 통합
+                  - generic [ref=f1e746]: 순위 하락
+              - listitem [ref=f1e747]:
+                - link "8 위 나는 솔로 순위 상승" [ref=f1e748] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%82%98%EB%8A%94+%EC%86%94%EB%A1%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e749]:
+                    - text: "8"
+                    - generic [ref=f1e750]: 위
+                  - generic [ref=f1e751]: 나는 솔로
+                  - generic [ref=f1e752]: 순위 상승
+              - listitem [ref=f1e753]:
+                - link "9 위 us오픈 테니스 대회 순위 상승" [ref=f1e754] [cursor=pointer]:
+                  - /url: "?w=tot&q=us%EC%98%A4%ED%94%88+%ED%85%8C%EB%8B%88%EC%8A%A4+%EB%8C%80%ED%9A%8C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e755]:
+                    - text: "9"
+                    - generic [ref=f1e756]: 위
+                  - generic [ref=f1e757]: us오픈 테니스 대회
+                  - generic [ref=f1e758]: 순위 상승
+              - listitem [ref=f1e759]:
+                - link "10 위 예인선 순위 상승" [ref=f1e760] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%98%88%EC%9D%B8%EC%84%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f1e761]:
+                    - text: "10"
+                    - generic [ref=f1e762]: 위
+                  - generic [ref=f1e763]: 예인선
+                  - generic [ref=f1e764]: 순위 상승
+            - generic [ref=f1e765]: 오늘 11:51 기준
+          - generic [ref=f1e767]:
+            - generic [ref=f1e768]:
+              - heading "분야별 검색어" [level=2] [ref=f1e769]
+              - generic [ref=f1e770]: 09.03. 11:54
+            - generic [ref=f1e771]:
+              - list [ref=f1e773]:
+                - listitem [ref=f1e774]:
+                  - text: 선택된 메뉴
+                  - link "라디오방송" [ref=f1e775] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f1e777]:
+                  - link "외국드라마" [ref=f1e778] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f1e780]:
+                  - link "공연" [ref=f1e781] [cursor=pointer]:
+                    - /url: "javascript:"
+              - generic [ref=f1e783]:
+                - list [ref=f1e784]:
+                  - listitem [ref=f1e785]:
+                    - generic [ref=f1e786]:
+                      - generic [ref=f1e787]: "1"
+                      - link "은가은의 빛나는 트로트" [ref=f1e789] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%9D%80%EA%B0%80%EC%9D%80%EC%9D%98%20%EB%B9%9B%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%A1%9C%ED%8A%B8&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e790]:
+                    - generic [ref=f1e791]:
+                      - generic [ref=f1e792]: "2"
+                      - link "정선희, 문천식의 지금은 라디오 시대" [ref=f1e794] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%A0%95%EC%84%A0%ED%9D%AC%2C%20%EB%AC%B8%EC%B2%9C%EC%8B%9D%EC%9D%98%20%EC%A7%80%EA%B8%88%EC%9D%80%20%EB%9D%BC%EB%94%94%EC%98%A4%20%EC%8B%9C%EB%8C%80&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e795]:
+                    - generic [ref=f1e796]:
+                      - generic [ref=f1e797]: "3"
+                      - link "두시탈출 컬투쇼" [ref=f1e799] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EB%91%90%EC%8B%9C%ED%83%88%EC%B6%9C%20%EC%BB%AC%ED%88%AC%EC%87%BC&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e800]:
+                    - generic [ref=f1e801]:
+                      - generic [ref=f1e802]: "4"
+                      - link "박성태의 뉴스쇼" [ref=f1e804] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EB%B0%95%EC%84%B1%ED%83%9C%EC%9D%98%20%EB%89%B4%EC%8A%A4%EC%87%BC&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e805]:
+                    - generic [ref=f1e806]:
+                      - generic [ref=f1e807]: "5"
+                      - link "조정식의 FM대행진" [ref=f1e809] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%A1%B0%EC%A0%95%EC%8B%9D%EC%9D%98%20FM%EB%8C%80%ED%96%89%EC%A7%84&rtmaxcoll=R1T,TCS"
+                - list [ref=f1e810]:
+                  - listitem [ref=f1e811]:
+                    - generic [ref=f1e812]:
+                      - generic [ref=f1e813]: "6"
+                      - link "이현우의 음악앨범" [ref=f1e815] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%9D%B4%ED%98%84%EC%9A%B0%EC%9D%98%20%EC%9D%8C%EC%95%85%EC%95%A8%EB%B2%94&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e816]:
+                    - generic [ref=f1e817]:
+                      - generic [ref=f1e818]: "7"
+                      - link "이진우의 손에 잡히는 경제" [ref=f1e820] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%9D%B4%EC%A7%84%EC%9A%B0%EC%9D%98%20%EC%86%90%EC%97%90%20%EC%9E%A1%ED%9E%88%EB%8A%94%20%EA%B2%BD%EC%A0%9C&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e821]:
+                    - generic [ref=f1e822]:
+                      - generic [ref=f1e823]: "8"
+                      - link "김종배의 시선집중" [ref=f1e825] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EA%B9%80%EC%A2%85%EB%B0%B0%EC%9D%98%20%EC%8B%9C%EC%84%A0%EC%A7%91%EC%A4%91&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e826]:
+                    - generic [ref=f1e827]:
+                      - generic [ref=f1e828]: "9"
+                      - link "박명수의 라디오쇼" [ref=f1e830] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EB%B0%95%EB%AA%85%EC%88%98%EC%9D%98%20%EB%9D%BC%EB%94%94%EC%98%A4%EC%87%BC&rtmaxcoll=R1T,TCS"
+                  - listitem [ref=f1e831]:
+                    - generic [ref=f1e832]:
+                      - generic [ref=f1e833]: "10"
+                      - link "주현미의 러브레터" [ref=f1e835] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R1T&q=%EC%A3%BC%ED%98%84%EB%AF%B8%EC%9D%98%20%EB%9F%AC%EB%B8%8C%EB%A0%88%ED%84%B0&rtmaxcoll=R1T,TCS"
+          - generic [ref=f1e837]:
+            - heading "관련검색어" [level=2] [ref=f1e839]
+            - list [ref=f1e841]:
+              - listitem [ref=f1e842]:
+                - link "와이즈 솔루션" [ref=f1e843] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%99%80%EC%9D%B4%EC%A6%88%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=RSJ"
+              - listitem [ref=f1e844]:
+                - link "솔루션 뜻" [ref=f1e845] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%86%94%EB%A3%A8%EC%85%98%20%EB%9C%BB&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=RSJ"
+              - listitem [ref=f1e846]:
+                - link "에너지 솔루션" [ref=f1e847] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=RSJ"
+              - listitem [ref=f1e848]:
+                - link "르사덤 솔루션" [ref=f1e849] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%A5%B4%EC%82%AC%EB%8D%A4%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=RSJ"
+              - listitem [ref=f1e850]:
+                - link "제이알 에너지 솔루션" [ref=f1e851] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%A0%9C%EC%9D%B4%EC%95%8C%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%86%94%EB%A3%A8%EC%85%98&nzq=%EC%9C%A0%ED%8B%B0%EC%97%90%EC%8A%A4%EC%86%94%EB%A3%A8%EC%85%98&DA=RSJ"
+      - contentinfo [ref=f1e852]:
+        - generic [ref=f1e854]:
+          - link "검색블로그" [ref=f1e855] [cursor=pointer]:
+            - /url: http://daumsearch.tistory.com
+          - text: "|"
+          - link "검색원칙" [ref=f1e856] [cursor=pointer]:
+            - /url: https://cs.daum.net/faq/service/15/category/15649
+          - text: "|"
+          - link "검색등록" [ref=f1e857] [cursor=pointer]:
+            - /url: https://register.search.daum.net
+          - text: "|"
+          - link "검색제휴" [ref=f1e858] [cursor=pointer]:
+            - /url: mailto:contentpartnership@axzcorp.com
+          - text: "|"
+          - link "고객센터" [ref=f1e859] [cursor=pointer]:
+            - /url: https://cs.daum.net/
+          - text: "|"
+          - link "유해정보신고" [ref=f1e860] [cursor=pointer]:
+            - /url: javascript:;
+          - generic [ref=f1e861]:
+            - text: ⓒ
+            - link "Daum Corp." [ref=f1e862] [cursor=pointer]:
+              - /url: https://daumcorp.com/
+      - link "맨위로" [ref=f1e863] [cursor=pointer]:
+        - /url: javascript:;
+```

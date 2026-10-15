@@ -1,0 +1,211 @@
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=%EB%B6%80%EC%82%B0&query=%EC%9A%B0%EC%88%98%EA%B2%BD
+- Page Title: 우수경
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=f236e1]:
+  - text: 
+  - banner [ref=f236e2]:
+    - generic [ref=f236e4]:
+      - link [ref=f236e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f236e7]:
+        - list:
+          - listitem [ref=f236e8]:
+            - link "Home" [ref=f236e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f236e10]:
+            - link "사업자등록번호조회" [ref=f236e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f236e12]:
+            - link "법인등록번호조회" [ref=f236e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f236e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f236e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f236e16]:
+            - link "전화번호로 조회" [ref=f236e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f236e18]:
+            - link "대표자이름으로 조회" [ref=f236e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f236e20]:
+            - link "API" [ref=f236e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f236e22]:
+            - link "고객문의" [ref=f236e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f236e28]:
+    - heading "대표자이름으로 사업자등록번호조회" [level=1] [ref=f236e29]
+    - paragraph [ref=f236e30]:
+      - text: 대표자이름으로
+      - generic [ref=f236e31]: 
+      - text: 사업자정보(회사명,사업자등록번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f236e32]'
+    - paragraph [ref=f236e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,294"
+    - generic [ref=f236e35]:
+      - combobox "Select your city" [ref=f236e37]:
+        - option "지역전체"
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산" [selected]
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "대표자명 입력" [active] [ref=f236e39]
+      - button " 검색" [ref=f236e41] [cursor=pointer]:
+        - generic [ref=f236e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f236e43]:
+      - text: "\"우수경\" 키워드로"
+      - strong [ref=f236e44]: "1"
+      - text: 개의 결과를 찾았습니다
+  - generic [ref=f236e47]:
+    - generic [ref=f236e48]:
+      - separator [ref=f236e49]
+      - generic [ref=f236e51]:
+        - generic [ref=f236e53]:
+          - link [ref=f236e54] [cursor=pointer]:
+            - /url: /article/8885300707
+            - heading "더블유커머스" [level=4] [ref=f236e55]
+          - heading "우수*" [level=5] [ref=f236e56]
+          - heading [level=5] [ref=f236e57]:
+            - link "전자상거래" [ref=f236e58] [cursor=pointer]:
+              - /url: "#"
+            - text: 소매업
+        - paragraph [ref=f236e61]: 부산광역시 북구 효열로220번길 ...
+      - separator [ref=f236e62]
+    - generic [ref=f236e64]:
+      - heading "실시간 조회기업" [level=4] [ref=f236e66]
+      - list [ref=f236e67]:
+        - listitem [ref=f236e68]:
+          - link [ref=f236e69] [cursor=pointer]:
+            - /url: /article/4364600911
+            - paragraph [ref=f236e70]: 청라큐브 904
+        - listitem [ref=f236e71]:
+          - link [ref=f236e72] [cursor=pointer]:
+            - /url: /article/4383300111
+            - paragraph [ref=f236e73]: 최정필외2명
+        - listitem [ref=f236e74]:
+          - link [ref=f236e75] [cursor=pointer]:
+            - /url: /article/4388803705
+            - paragraph [ref=f236e76]: 서원기중기
+        - listitem [ref=f236e77]:
+          - link [ref=f236e78] [cursor=pointer]:
+            - /url: /article/4528104211
+            - paragraph [ref=f236e79]: 에스비삼보산업
+        - listitem [ref=f236e80]:
+          - link [ref=f236e81] [cursor=pointer]:
+            - /url: /article/8440402686
+            - paragraph [ref=f236e82]: 페인트,옥상방수,건물방수,오일스테인,바닥에폭시,전문,영광공사
+        - listitem [ref=f236e83]:
+          - link [ref=f236e84] [cursor=pointer]:
+            - /url: /article/4622201311
+            - paragraph [ref=f236e85]: 동탄레이크원 B동541호
+        - listitem [ref=f236e86]:
+          - link [ref=f236e87] [cursor=pointer]:
+            - /url: /article/4648803704
+            - paragraph [ref=f236e88]: 케이와이포춘
+        - listitem [ref=f236e89]:
+          - link [ref=f236e90] [cursor=pointer]:
+            - /url: /article/4662301611
+            - paragraph [ref=f236e91]: 바로고
+        - listitem [ref=f236e92]:
+          - link [ref=f236e93] [cursor=pointer]:
+            - /url: /article/2838103936
+            - paragraph [ref=f236e94]: 제이에이치텍스
+        - listitem [ref=f236e95]:
+          - link [ref=f236e96] [cursor=pointer]:
+            - /url: /article/4689502011
+            - paragraph [ref=f236e97]: 전농노마즈402호
+        - listitem [ref=f236e98]:
+          - link [ref=f236e99] [cursor=pointer]:
+            - /url: /article/4716000808
+            - paragraph [ref=f236e100]: 대성빙과
+        - listitem [ref=f236e101]:
+          - link [ref=f236e102] [cursor=pointer]:
+            - /url: /article/4724000711
+            - paragraph [ref=f236e103]: 선남태양광발전소
+        - listitem
+  - contentinfo [ref=f236e104]:
+    - generic [ref=f236e105]:
+      - generic [ref=f236e106]:
+        - generic [ref=f236e108]:
+          - heading "주요기능" [level=6] [ref=f236e109]
+          - list [ref=f236e110]:
+            - listitem [ref=f236e111]:
+              - link "사업자등록번호조회" [ref=f236e112] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f236e113]:
+              - link "법인등록번호조회" [ref=f236e114] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f236e115]:
+              - link "상호명으로 사업자등록번호조회" [ref=f236e116] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f236e117]:
+              - link "전화번호조회" [ref=f236e118] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f236e119]:
+              - link "대표자이름으로 조회" [ref=f236e120] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f236e121]:
+              - link "정정문의" [ref=f236e122] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f236e124]:
+          - heading "사업자검색" [level=6] [ref=f236e125]
+          - paragraph [ref=f236e126]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f236e129]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f236e131]
+            - button "검색 " [ref=f236e133] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f236e134]: 
+      - generic [ref=f236e135]:
+        - paragraph [ref=f236e136]: Copyright ©2019 All rights reserved.
+        - generic [ref=f236e137]:
+          - link "" [ref=f236e138] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f236e140] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f236e142] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f236e144] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f236e146]:
+    - list [ref=f236e147]:
+      - listitem [ref=f236e148]:
+        - link "Home" [ref=f236e149] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f236e150]:
+        - link "사업자등록번호조회" [ref=f236e151] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f236e152]:
+        - link "법인등록번호조회" [ref=f236e153] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f236e154]:
+        - link "상호명으로 사업자등록번호조회" [ref=f236e155] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f236e156]:
+        - link "전화번호로 조회" [ref=f236e157] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f236e158]:
+        - link "대표자이름으로 조회" [ref=f236e159] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f236e160]:
+        - link "API" [ref=f236e161] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f236e162]:
+        - link "고객문의" [ref=f236e163] [cursor=pointer]:
+          - /url: /voc
+```

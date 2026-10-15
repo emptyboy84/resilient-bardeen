@@ -1,0 +1,30 @@
+The search for ""김성홍" "실종" "(주)시드" OR "시드" OR "영화"" returned the following summary:
+김성홍 감독의 영화 **《실종》**(2009)에 관한 정보는 다음과 같습니다.
+
+### 영화 개요
+*   **감독:** 김성홍[1]
+*   **주연:** 문성근(판곤 역), 추자현(현정 역), 전세홍(현아 역)[2][1]
+*   **개봉일:** 2009년 3월 19일[1]
+*   **제작사:** **활동사진**, 팀웍스[1] (※ 질문하신 '(주)시드'와는 연관된 기록이 확인되지 않습니다.)
+
+### 주요 내용 및 특징
+*   **소재:** 2007년 전남 보성에서 발생한 어부 살인사건을 모티프로 기획되었으나, 영화의 실제 내용은 창작된 부분이 많습니다[3][4][5].
+*   **줄거리:** 배우를 꿈꾸던 동생 현아가 실종되자 언니 현정이 직접 동생을 찾아 나서며, 연쇄살인범 판곤의 실체와 맞닥뜨리게 되는 리얼리티 스릴러입니다[2][6][7].
+*   **감독의 의도:** 김성홍 감독은 살인마를 미화하는 기존 스릴러 영화들에 반감을 가지고, 살인범의 추악함을 사실적으로 그려내고자 했다고 밝혔습니다[8].
+*   **제작 배경:** 충무로의 일반적인 자본을 받지 않고 독립영화와 유사한 환경에서 제작되었으며, 제작비 부족으로 인해 배우 문성근이 노개런티로 출연하는 등 열악한 환경 속에서 촬영되었습니다[9][10].
+
+개봉 당시 《추격자》나 강호순 사건과 유사하다는 평을 받기도 했으나, 김성홍 감독은 해당 사건들과는 별개로 이전부터 기획해 온 작품임을 강조하며 억울함을 호소하기도 했습니다[11][12][7].
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH13DKUf1dR3ZWogCg8mVeJt6gzJS03gJNQbVC_C1MaiXoaYlHqdUiRiZNUz1SF6A9YWAHS5MMa75tv8DUQnILx_z7-JAZTkJkFlvZJtLZmLUCONZbwNUet3B_iO1VReIUUmbDUVyf49DrNFI9ynlPnTIkQPyHDyBuKIggNBluQbe1G9Rv0ElvNvA==)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2Yslybj5F7Oro0pPPYGuiqzWzebtFd6o2OYmirFg9IgMYNlqzXZjzy5oN9-jIVkKR_gdQjnUo7_9mis10OsgD5am4S-rYF9cgaP_NSY9cUWsFpuzDZXmeWsg1FbmHCiQsrfz9zrJ692FC-RnltAp9VgqDVFyyVrkqA0CdyZ1f2lTc_23)
+[3] [segye.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY6xV_K9a2XDP_BLzMD5vN1pNHsax3pRs9zdkwRbzLsNOQKrpRB4EEG4-E5H1qsVHJGEQSy5XB5uZIWhd5vZyWZRNzAEeUMKbEywFw6cajt7C3nZpIsGprDsSYUUu0ZvUPLVk=)
+[4] [apartmanrozsaalsoors.hu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3seAYe1dl3z5jN37XjRoLmLCDDZlEF-PGbMtU3AT3_fDsWdrxVnoOPL4vE0E58ewV_AyOVYPFE4Zw5NLAYhVLR5rw0zgKnKWR3-fFjMcacAST3TaHD1XaVvNfUolU6Ygt41cQUA7Vn0X0vZ9l9SvAhcY7MCjuJpHmXT8HV9MlN59CWADXXFbF3pfMsWO6jA==)
+[5] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVfss72tmeikPenvoXQ3d4w8DTiabZp4AhIb9O_cD2qV4sY8l84fzMPb4w6vj4sNNgWMM1zP4C_ntwD4LgQhbyktwXznLcgMxSk9HvymU9oRGCi1ViL58i6WcV7TbxzbBg3VC4K4U21AcKojA)
+[6] [ohmynews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb07C9ja88pego6VuO4H_UeKlSHxroa4PFxtWUU88JcwlrGPMoVWumai0BgFWfOa5z4UD5ZO9Ink4OPpgDti3Za7FpUAU3pUjpaw1Xlx0smD8veVaWFYlqazGKxH_ZLWF_mEryBPwlSpeSro4XHDPlpaKsBkztCXc8aYm7zhu7)
+[7] [dailian.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWVA-Qcexj-kCJbrQB3RfCtbr75Dx6UAy7ig_LC3rn1c9PEuCWGYdhPykx2rLvuEbvJ4EZTV8IGxG4Pz9Z1tw6net5SOc_IUXbDfBMkkHWrTfBxUfBtXgNj3GkvetwvpIyLnNI0_1rnW3qv_H4tZPTuy_0kb3H1b-3VjMCKEo7F-hD_2bwnsQsd5Vz6yZLyMtY1MELEiBmk74V2LjryWOFBNqjxQgwY-QzvQRHGx4SjEoLPRnZ86BLsAShfqPDz0EXSnHkQaLFfoFigWlRcuEmsxZ9wf087Joy84E0WZzkK_yRWaVppBcAZ0eC5u2swfgMZk8=)
+[8] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUNxKXBcLbxa3LHVJ2w4Wpw2KCuZvf2YKN8hA406zKFLNIojEVz63k1jYAazcRUGI08-6fzOgB5AplPZi-WB0uPH8E5pLhIA53DL_gZ_i427YRoFDSCs5JSANcgojJ0QBS7Gg-3iQk8j9hxbDGu2flXF_zJWLcXhfwmjiTOQ==)
+[9] [seoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLutM5Y60xNSGoIaYgNHpjbtQFepUuHKMNZxLa5DcR3w48zrRqkYIGcZag4omTWXSxN_6sbPqImrJDtXjOIFVSS9kluqpIAVxcxnj2RdiWv33cmFdAnQ5hlHXKAy_HACQFGCessE0doU8FjGzMHbFFKbiNhZM5ojrHCdyXPMwypg4iz2dUDmw=)
+[10] [enewstoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2oCXvlakZKbSHXYSFKc72XL2CX9SgOfmkOmnkbZb8AgnqEljDYYJ8eI-Sr6VHcDiPiaobAbHsWpwt0RtE3nbFgKH7I-uQz2bmLeQ-lmSbezfzFXw8PxcQWq0hxaFgBEnAI3eJGJfR_jGDhTFRsWtCafsWvQ==)
+[11] [dailian.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWVA-Qcexj-kCJbrQB3RfCtbr75Dx6UAy7ig_LC3rn1c9PEuCWGYdhPykx2rLvuEbvJ4EZTV8IGxG4Pz9Z1tw6net5SOc_IUXbDfBMkkHWrTfBxUfBtXgNj3GkvetwvpIyLnNI0_1rnW3qv_H4tZPTuy_0kb3H1b-3VjMCKEo7F-hD_2bwnsQsd5Vz6yZLyMtY1MELEiBmk74V2LjryWOFBNqjxQgwY-QzvQRHGx4SjEoLPRnZ86BLsAShfqPDz0EXSnHkQaLFfoFigWlRcuEmsxZ9wf087Joy84E0WZzkK_yRWaVppBcAZ0eC5u2swfgMZk8=)
+[12] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUNxKXBcLbxa3LHVJ2w4Wpw2KCuZvf2YKN8hA406zKFLNIojEVz63k1jYAazcRUGI08-6fzOgB5AplPZi-WB0uPH8E5pLhIA53DL_gZ_i427YRoFDSCs5JSANcgojJ0QBS7Gg-3iQk8j9hxbDGu2flXF_zJWLcXhfwmjiTOQ==)

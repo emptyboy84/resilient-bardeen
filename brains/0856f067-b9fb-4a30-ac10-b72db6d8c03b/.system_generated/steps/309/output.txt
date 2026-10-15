@@ -1,0 +1,12 @@
+### Result
+"https://pcmap.place.naver.com/place/list?query=%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%20%EA%B4%B4%EC%A0%95%EC%A0%90&x=127.033357&y=37.495484&clientX=127.033357&clientY=37.495484&display=70&ts=1789699112762&additionalHeight=76&locale=ko&mapUrl=https%3A%2F%2Fmap.naver.com%2Fp%2Fsearch%2F%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%20%EA%B4%B4%EC%A0%95%EC%A0%90&svcName=map_pcv5&searchText=%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%20%EA%B4%B4%EC%A0%95%EC%A0%90"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframe = document.getElementById(\'searchIframe\');\n  return iframe ? iframe.src : \'no searchIframe\';\n}');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%ED%8B%B0%EC%95%A4%EB%B6%81%EC%8A%A4%20%EA%B4%B4%EC%A0%95%EC%A0%90
+- Page Title: 티앤북스 괴정점 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-38-29-479Z.log#L1-L4

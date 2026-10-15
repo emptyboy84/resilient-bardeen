@@ -1,0 +1,24 @@
+The search for ""BIC" "인디랩" "이한빈" OR "스튜디오비오" OR "Studio Bio"" returned the following summary:
+검색 결과, 문의하신 키워드 조합(**"BIC", "인디랩", "이한빈", "스튜디오비오"**)과 직접적으로 일치하는 특정 인물이나 기업 정보는 확인되지 않습니다. 다만, 각 키워드와 관련된 맥락은 다음과 같이 파악됩니다.
+
+*   **BIC (부산인디커넥트페스티벌):** 국내 최대 규모의 인디게임 축제입니다.[1][2][3]
+*   **인디랩 (Indie Lab):** 부산글로벌게임센터(BGC)에서 운영하는 인디게임 개발자 및 예비 창업자를 위한 입주 지원 공간(인큐베이팅 공간)의 명칭으로 자주 사용됩니다.[1][4][5][6]
+*   **이한빈:** 동명이인이 존재합니다. 
+    *   **기업인:** 자율주행 스타트업 '서울로보틱스'의 공동 창업자(대표) 이한빈이 있습니다.[7]
+    *   **가수/연예인:** '판타지 보이즈' 멤버로 활동 중인 이한빈(2001년생)이 있습니다.[8]
+*   **스튜디오비오 (Studio Bio):** 게임 개발사 혹은 스튜디오 이름으로 검색하였으나, 해당 명칭으로 활동하는 구체적인 게임 개발사는 검색 결과에서 찾을 수 없었습니다. (일반적인 'Studio Bio'라는 용어는 게임 개발자의 소개글/프레스킷 등을 지칭하는 표현으로 쓰이기도 합니다.)[9][10][11]
+
+질문하신 내용이 특정 게임 개발 팀이나 프로젝트와 관련된 것이라면, 정확한 명칭이나 관련 게임 제목을 다시 한번 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX50h9l00yI1F-JalnPcjvoEpQocOsE1uNo6WcBnBxxtGr22k2NIYMP8yMPKpNg4fAVb2ghVqBWvGN066oO6eMm0HIgc8jNk2zPlolb_xGlKe-QpRPFe0q5l39ZrfUHTe2tAWJOriyrLyFf4_sMFy2DUmxazBq0thM3j8uJKWY9zNU-ZUDPxojOSIk)
+[2] [ajunews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE2iCxynKZlEhu9vYAoc_VS53R9F3BYJd0PDqC4-vahO5TtwHrtxdfp4-LnMSMhK0D_Huvj_oyVW6NaJ8mw-7kwJLdotXrJ6kJZAsTg5G78bQQ1fShsE3S99TDGQvMNsNq1CsV)
+[3] [pressman.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8fEaf6aaM1WGdDSv5WBAyyPeqGnhsEJ3t6DetKDnd53ZjAlF7lzAtyET274z0JFio2L305eghsj_10BdoiDIAweU13RObvzfPslI-8KEDkaHbkcuo1ADyLNV3_le2OXTDPCi_CrQXshMCqyxD4TI=)
+[4] [bistep.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnX0Qf_QojC9LHkOSem0a0T4bd_uSoz0SiKPK7YH90XyMGpNqkcfIzxll58zmMSKn2XFqu9G18ijAPiQBnf8fduetfQJhR0bGucHFk3piPaIYTampJG5a73X07_rVxQJ-WdM74b4kbACnvmiDHdGAmwXgRLbh2)
+[5] [indiegame.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLqlIdHL6EexhYfdXZNbiElbXBJPB5UWqD5X9hQ0qFMeOx03rykgFd74aHospZwm24CrkKf2DTBRQGr-iw0R8lKROA2jbmjaTftl3jS-0qOcMqqfRJ6mzafA==)
+[6] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvu4bufsx8EXfNd-bEY9G3arA5hqMEid5QD7kbePvmF9rxj0SvFtTt3uzMppfir9LhxcTbmlsXjgAiVEecTzej_f3BKDEgknvW_XQ9hDUIMNIv7ONiAlsGmsQGv6LkWQ4Efax5Dw=)
+[7] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfogbUcmjomlZIznSUMq4yV_go9Zc6WC0lWaWFJogZhVyclS5BDSw_sDZQ2s2tzJFS0jBUvDVqlL7znyqkZP0pKS677k5Y0g4E9gksA-ytUB8AD60UXz743Hs4Ha7z9ONqo0h4BvGdVb-nP0NKweuEfqxh7OocRSeOwNyFVaK4PMJR)
+[8] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrpZyk0S_ZSZdB1ZA5xlvxXry6lkjEAZkUpdnRMVBfDjmXY-pcnCCzPo3lUy1crl2k-vrHov-cR_XQPFGOHm1Tbx17GpAyTAeG6482Gwotrax7etiVwDEE0Z0puE5SZHyg0PFEL25rw9t2NmT1Yqsm_aZBF5l0iw==)
+[9] [electricsaint.co.uk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb63ZE1J1aICH7xLndi8qgnlfQ3oNTTlENlHwODhTh12KOPRUNTd19ySWqrKKE4jQ8gt6YMabmQvaeUDjiDdd9coe5d3p08qydgHXIYC1tXGaiP9X4UUBN2LITwBzWbA==)
+[10] [presskit.gg](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFzAFMbyK4nCyvk_qRZ83X5xpKcpGVaY7XW_0akr1N-T1p0QlmsHhAOOBzuPGyznintJ0E4Xu83Q7HhISwwAvd9L05qSmd4hVYnqxQf3MVAAnxUIaNea3BfwBxlAQ5r0goCkfl7giE32KdyQ==)
+[11] [immutable.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWn2DlM1ybkqkUAndLeE7eb1rXh76Imkm4M4XxJ9_R6nLl-VNb9FzyUuh0AagHtdfAO6MXpA8SO8sGM8Ga85XHaDsz3ajKgXI0tgACXndBfdYOkpo8fLEm5tSgzZPu-kgBb2j3PFulGQtucq8v)

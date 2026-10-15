@@ -1,0 +1,18 @@
+
+The command exited with code 1.
+Output:
+[eval]:18
+    console.log(tc.args.Arguments.function.slice(0, 800));
+                   ^
+
+TypeError: Cannot read properties of undefined (reading 'args')
+    at Interface.<anonymous> ([eval]:18:20)
+    at Interface.emit (node:events:520:35)
+    at Interface.close (node:internal/readline/interface:555:10)
+    at ReadStream.onend (node:internal/readline/interface:273:10)
+    at ReadStream.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+Node.js v24.11.1
+

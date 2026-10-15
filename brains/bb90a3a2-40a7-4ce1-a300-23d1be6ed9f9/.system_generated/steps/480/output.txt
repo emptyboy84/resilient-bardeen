@@ -1,0 +1,12 @@
+The search for ""센텀스카이비즈" ("B동 603호" OR "603호")" returned the following summary:
+부산광역시 해운대구 센텀중앙로 97(재송동 1208-2)에 위치한 **센텀스카이비즈** 지식산업센터 내 건물 정보입니다[1][2].
+
+* **도로명 주소:** 부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 **B동 603호**[1]
+* **지번 주소:** 부산광역시 해운대구 재송동 1208-2 센텀스카이비즈 B동 603호[1][3]
+
+참고로 센텀스카이비즈는 A동(지상 42층)과 B동(지상 6층)으로 나누어져 있으며[3], 검색하신 **B동 603호**는 B동의 최고층인 6층에 위치한 호실입니다[3].
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzpQPvmTLQDn8rjYwCGWvkh4gp5rM0RZ8i3A_Ps2lRxe3zZwsEeoaBWDp5yZ1r9nfTL8MyU_ccVJZyvn51PzqmKU_CVZKWl1mWFx5fvPrhjT9mTGxsckfaaC1vI-lflBg)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqddjYSGw5lKNzJiqCQSq6RplVg0MxYtfaHaDMg6E-ZGzoOXJJzmVWbvcu49_5xCBOmSFN2Fg-kscFcD7fCtKrE4kzFPuSRajpN4xA-Mk_SWpBP37ZJJ5VdrFyCWegTzlRppXmUdB1wvvO22pnojx1lG2Os280-78TpPH4MaYVfWaIlFv-w2kgm0Pi)
+[3] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Osmad0SR6TjV6HldCJ8M5r6-yYdQIxyVLic1Oaydllx1knKFY-Ue3T8I2h0i7r9oA-tOaCm-WSindzoxwzLzmXcheqsdsZbmY5w7XmlKJQi9iNj3_Qx_YWwhigivWoGA5ZEqdOt5BoVsrLuMBailAgCLssa7qz3dcI5U6QeJqnbjAihYyMIUGQwnCFTyybcfIQ==)

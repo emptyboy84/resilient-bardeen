@@ -1,0 +1,20 @@
+The search for "site:nicebizinfo.com "536-81-00866" OR "엔케이비글로벌"" returned the following summary:
+NICE 비즈인포(NICE BizINFO)에 등록된 **(주)엔케이비글로벌**의 기업 정보 요약은 다음과 같습니다[1]:
+
+* **기업명:** (주)엔케이비글로벌[1]
+* **사업자등록번호:** 536-81-00866[2]
+* **법인등록번호:** 180111-1******[1]
+* **대표자명:** 박성수[1]
+* **설립일자:** 2017년 7월 28일[1]
+* **주소:** 부산광역시 금정구 남산로 9, 지하1층 (남산동)[3][1]
+* **표준산업분류:** 응용 소프트웨어 개발 및 공급업 (J58222)[1]
+* **기업 형태:** 중소기업, 법인사업자[2][1]
+
+상세한 재무제표, 신용평가등급, 기업 분석 보고서 등은 [NICE BizINFO 공식 홈페이지](https://www.nicebizinfo.com)에서 로그인 후 확인하실 수 있습니다[4][5].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVE9pq85iwjTBYrKBmqu0c4cOiwqC_LJ3nzhtbqsv0l23VEqFZDA5bkcfV3PvBrDJdctHyIq_f8KN9MyKIcyLFW09Yy9ZnGQbrtr1IFpUFA-x7iaU_cEAh5Sh7M8zn3XZWhtPIIPY03G1p90MgPhtgzLi-)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYyS3-jjzWB7hYmpZ6jjYFx08Md7-Z4lHC-21USbPK_0t7UfKgy9L-4JduOW7KZTu-zhfyQf9rVcyWMNxOzeqO3AIYfo_tCmFOm6LpBJSGrXEb0cVKduw3-B37fRrDOz_UTQ==)
+[3] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jA0hoJXahkyXPD62XCBT6qMveT7xtnjkMVG9hhFvMuvTMhuIwtc-u2FjoLjYTC2TqHzwTKyLl7IvwXF_ngGlxgDABa9QkfYUBFPAZVRkugT_BaHaFt00sc9LfrDO0Mfn7w==)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWAVxJPO4jQk6HD0htwnW8bKrVFQFWXIprMtK8PQlBa-_vfYFA3tE_fK1rSqVqJ80KwEUxmStEHTJ1CGnsq0GlmiFxFLglvMxPpACkcs-oDQmjuN_pEbQu1cVP0TxqEsCITyT1R2EVqPK5R5bzWj03cnOO)
+[5] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVE9pq85iwjTBYrKBmqu0c4cOiwqC_LJ3nzhtbqsv0l23VEqFZDA5bkcfV3PvBrDJdctHyIq_f8KN9MyKIcyLFW09Yy9ZnGQbrtr1IFpUFA-x7iaU_cEAh5Sh7M8zn3XZWhtPIIPY03G1p90MgPhtgzLi-)

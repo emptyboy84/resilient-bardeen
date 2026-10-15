@@ -1,0 +1,29 @@
+The search for ""케이텍" "오상민" OR "714-11-01026" 매출액 OR 부산" returned the following summary:
+문의하신 '케이텍' 및 '오상민' 대표와 관련된 정보를 정리해 드립니다.
+
+### 1. 케이텍 (오상민 대표) 관련 기업 정보
+오상민 대표가 운영하는 '케이텍'은 주로 **드론 및 무인 이동체 개발**을 전문으로 하는 기업입니다[1][2].
+
+*   **주요 사업:** 임무형 드론(화재 진압, 채수용 드론 등) 설계, 제작 및 서비스 제공[1][3].
+*   **소재지:** 부산광역시 수영구 광안해변로(해링턴타워광안디오션) 및 금정구 오륜대로(부산가톨릭대학교 내) 등에 사업장 이력이 확인됩니다[4][5][2].
+*   **매출액:** 관련 기업 정보 플랫폼(사람인 등)에 따르면 해당 기업의 매출액은 약 **19억 8,843만 원**으로 기재되어 있습니다[4][6]. (※ 해당 데이터는 참조 시점에 따라 변동될 수 있습니다.)
+*   **특징:** 드론 기술 국산화 및 핵심 부품인 플라이트 콘트롤러(FC) 자체 개발 기술을 보유하고 있으며, 평균 연령 20대의 청년 인재들로 구성된 기술 중심 스타트업으로 소개된 바 있습니다[1][7].
+
+### 2. 참고 사항
+*   **사업자 번호(714-11-01026):** 해당 번호로 직접 조회되는 공개된 기업 정보는 검색 결과에서 명확하게 매칭되지 않았습니다. 특정 기업의 정확한 사업자 번호 확인이 필요하신 경우, 국세청 홈택스의 '사업자등록상태조회' 서비스를 이용하시길 권장합니다.
+*   **유사 상호 주의:** 부산 지역에는 '케이텍'이라는 명칭을 사용하는 기업이 다수 존재합니다 (예: 케이텍시스템, 케이텍글로벌, 케이텍엔지니어링 등)[8][9][10][11]. 위 정보는 질문에 언급하신 **오상민 대표**와 관련된 드론 제조 기업 케이텍을 기준으로 작성되었습니다.
+
+추가적인 확인이 필요하시다면 기업의 공식 홈페이지나 관할 세무서 등을 통해 공식적인 정보를 확인하시는 것이 가장 정확합니다.
+
+Sources:
+[1] [uwc.center](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZSUXBk1TmQFMHjsQrfejQwW6zvqMCyS_cgTdyImeObQUGvGcQg64gO9LAqrmHJTo9mpbSbgbgTTJ092HK0n5yMdZQLUpyPNRCOmmxZzhw7FH5kTflhe31Ozvq6KGC0-y5X4c=)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7c---61mo2WfeITe-Q3UcW15Px_HmX5esxJJgNLGyyycDPuGJjoWgw29mTZI6rTkAt2WeK09OpagnNb9eN5HF0p2v56XQlL6sMRIDz21Q4CJ9XX8BJ7BOc3gU8Q_1mUNExRfPdWHpK74fCrlZZQEgy1o=)
+[3] [fntoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqIUqRvuTF024agkMJCO_Hl6SePwGwfg1kP2qbnHlP_LQv1H2-w8R605Zxk3CheZZ1mQG8FjXlubnwX8V8IK9gDjmNoYnnoUvTTesGmsbFMsNm-LjF3nGzbRu46fr8YIw94DEnB73HbVWRunAt2OdiRQ==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEU0azs9KTIkDhP784XiKy6CIBERG05uVPSyQ9WqB57h2C_ZhmCnP8ZZ-I1YI3FDE6mRwDPlMuS1KOkYlc-ojO8OoZuuz_xYzWXB0oYj3X4TV15nWKQMa5-0ZS13NLWQohq_zWZwQMY5u5nuY9lj4102NJRpHmNOw3_6lxJ_bEqA6QDAzTvnNFk9mTygPrK436aM1dEsAB09uEJXVY0HJx_FDSjUTW_n8IEhgrS10KeDS1MyQ=)
+[5] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM8y50xYJ7KW_U-Cn0t3THf810-EF2e-neqyC7m5ZTGmsE55VPwIBNlF8e1IHH4CTzc4cLVnCKyKMHQCmCXGSBoBfzeoHC5hQ-4Mg6KBPeuWFwQ_jVfPUyfkqTpVsJABawKy6_2FyNdw==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEU0azs9KTIkDhP784XiKy6CIBERG05uVPSyQ9WqB57h2C_ZhmCnP8ZZ-I1YI3FDE6mRwDPlMuS1KOkYlc-ojO8OoZuuz_xYzWXB0oYj3X4TV15nWKQMa5-0ZS13NLWQohq_zWZwQMY5u5nuY9lj4102NJRpHmNOw3_6lxJ_bEqA6QDAzTvnNFk9mTygPrK436aM1dEsAB09uEJXVY0HJx_FDSjUTW_n8IEhgrS10KeDS1MyQ=)
+[7] [interview365.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnFxfijtB7NabW7fffA345CLAdAoGNlkOaKVNOR2qilbwnpQ9B-UOrGzpJJKFRmD3GXmOcFEgutZzYYGNgaJCRSnm_M1MSb_QtozGQH38YDEmzHZqS8r_kjIM4GaMue5lcHAH_50tWVJ_LYX_sZeIY7Wa3)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5oXJ-8bgEG4-F_x52He431L2Pys8e18UBA-UwwkuM2w8G-61wF9UQbZeKI50eGk5RpzNJzWQwv_nZaypVsTyCL9kBKensnUxOlcDUqiVCb7u560BJcoyTMAeU-5A7MCEibDfLAqKYCRCYwPfINF2Fc8Af_qA5uOta1fGhG9Tqj4wtuDuK_ktrOfQbFvJs9X4T6yKx-JQeqHjabifSdrctNQc5FlwsHny3g4xe7MhkG1fvgM=)
+[9] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqzG1K_iD1F7g0Z0q_sXiQgU2EYE2TAOhy44n_aGrcZbrWn-Ynrc-8a22UstMbV_1O8cNjZw_eS3dUX5aL4IEBnQ94lPJbSxHHO6QTpbZLgP5uR5PqYzdcB3zBJQPGPKYEFFJZNytq3202UGfc0kKMsWfgq_3_X9E6sw==)
+[10] [opensalary.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-OY2Ot3yjm38zjS9WrhIZNbrNpupd8vwqpl9cN3g6m4ug9rDVN8ZL5TGCEy9jeIAX0yL7rhqOouBi2Qp7o-WsHP7M75VvFSSayMLUHxRr_CVJOAalq4kh1Wqu-8VVICLMg==)
+[11] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELZnnVb3xLex3miiwCYGGOa9aowNKAWA18z_dBXbsUs57sYMpDjAOYy79WKTkMwAqiL_rMD3hp02o3qQwMrj3-6EXz-f5bW1XUx__ZF9nPmp4nppy8Xak7bpk-wGdwcA7h)

@@ -1,0 +1,6 @@
+### Result
+"콘텐츠로 건너뛰기\nMain"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.body.innerText;\n}');
+```

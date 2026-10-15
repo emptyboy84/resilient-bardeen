@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Thinkzon len: 292123
+Phones in Thinkzon: [ '02-123-4567', '02-1234-5678' ]
+

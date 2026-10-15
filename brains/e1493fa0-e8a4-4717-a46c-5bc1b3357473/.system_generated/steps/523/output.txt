@@ -1,0 +1,56 @@
+
+The command exited with code 0.
+Output:
+36 {
+  idx: 36,
+  rawBizno: '6090731236',
+  rawName: '주미엔지니어링',
+  found: true,
+  matchedName: '주미엔지니어링',
+  matchedRep: '강희승',
+  matchedAddr: '경남 창원시 성산구 가음동',
+  source: 'bizno'
+}
+62 {
+  idx: 62,
+  rawBizno: '6090817814',
+  rawName: '가야정기',
+  found: false,
+  industry: '',
+  matchedName: '',
+  matchedRep: '',
+  matchedAddr: '',
+  source: 'not_found'
+}
+108 {
+  idx: 108,
+  rawBizno: '6090977804',
+  rawName: '대아기계',
+  found: true,
+  matchedName: '대아기계',
+  matchedRep: '박식',
+  matchedAddr: '경남 창원시 성산구 양곡동 8블럭 1로트',
+  source: 'bizno'
+}
+150 {
+  idx: 150,
+  rawBizno: '6091156404',
+  rawName: '선진광학',
+  found: false,
+  industry: '',
+  matchedName: '',
+  matchedRep: '',
+  matchedAddr: '',
+  source: 'not_found'
+}
+167 {
+  idx: 167,
+  rawBizno: '6091222328',
+  rawName: '영진',
+  found: true,
+  matchedName: '영진',
+  matchedRep: '이재현',
+  matchedAddr: '경남 김해시 월산로 112-55',
+  source: 'bizno'
+}
+

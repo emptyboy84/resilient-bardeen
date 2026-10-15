@@ -1,0 +1,8 @@
+The search for ""와이피엔터테인먼트" "김재훈" OR "180111-1362374"" returned the following summary:
+와이피엔터테인먼트(주)는 2021년 5월 12일에 설립된 법인 기업으로, 당시 신설법인 공시 자료에 따르면 대표이사는 **김재훈**으로 등재되어 있습니다[1][2]. (본점 소재지: 부산광역시 기장군)[2]
+
+제시하신 번호(`180111-1362374` 등)는 대한민국 법인등기부등본에 부여되는 **법인등록번호** 형식입니다. 기업 정보 데이터베이스나 신설법인 공표 자료 등에서 해당 기업 및 대표자 정보를 조회할 때 사용되는 식별 정보와 연관되어 있습니다.
+
+Sources:
+[1] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGouYdKnHze5IXbhMjFAoGxros0HpOH1vNK_K7DBjgurvN7ltuP5fbnq4XSwfWiV6l8r3tVbe8lqMzDcu-FPzOQsNQrKxRmdjuUJAH5QOupMcbio-_pIskkO92Yo0bUX-1qeZ68aZXcFtuX)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG28NK0vvVHENEHoyD14yC_Vn5oG7JVJLS1MRRpF3cnoapat1ubnKfuxZYAWaF43eD7hoAfDkL7GdFry2md_arms5qJhLYCcvP3M9wBvtMF9Jl4yaKpNJZfE125GJjBmblizQlU17lcPU8K_iSzycqaENrF)

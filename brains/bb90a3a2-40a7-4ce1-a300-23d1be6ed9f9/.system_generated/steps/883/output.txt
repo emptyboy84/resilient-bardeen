@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Target Cplay: {
+  seq: 174,
+  name: '(주)씨플레이',
+  ceo: '김경원',
+  bizNo: '354-87-00849',
+  cleanBiz: '3548700849',
+  corpNo: '180111-1133296',
+  address: '부산 해운대구 센텀중앙로 97, A동 2101호 (재송동,센텀스카이비즈)',
+  currentPhone: '010-9194-9***',
+  status: 'MASKED'
+}
+

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.g2b.go.kr/index.jsp');
+```
+### Page
+- Page URL: https://www.g2b.go.kr/
+- Page Title: 나라장터
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-56-52-309Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-56-49-661Z.log#L1

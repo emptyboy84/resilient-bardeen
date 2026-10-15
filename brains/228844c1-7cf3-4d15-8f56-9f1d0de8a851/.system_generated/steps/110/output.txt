@@ -1,0 +1,15 @@
+The search for ""9514-1435" OR "95141435"" returned the following summary:
+The string "9514-1435" (or "95141435") refers to several different items depending on the context:
+
+*   **Product Part Number:** It is a specific product/article number (Art.-Nr. 95141435) for a **Kappes RasterPlan shelving unit** (specifically an add-on shelf with volume bins, 2000 x 1000 x 400 mm)[1].
+*   **Industrial Equipment Component:** In technical documentation for **GEA Niro Soavi** mechanical equipment, "9514-1435-000" is listed as a **flange** (FLANGIA/FLANGE) used in their 2nd stage homogenizing group[2].
+*   **Document ID:** It appears as an identifier (ID: 9514-1435) in online repositories for educational materials, specifically associated with a document titled "Feed Enterprise Management - A and Answers" (饲料企业管理-A-及答案)[3][4].
+*   **Property/Tender Reference:** In other databases, this number appears as a parcel number for a property in Calgary[5] or as a reference number for a Russian tender regarding the supply of materials for bitumen emulsion[6].
+
+Sources:
+[1] [contorion.de](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF78BAbS6k74sjNZ7kKz-pX-5_M3f7_ObyofMozt1NMZnlp97eyefOSdMa0Hm6iBM1jckcinaQADLQm_ADMdGnvKwhr0abQ0nVOZzFWv7e9OO--YJ4U77a_XnsZ2x70_6umIk1juQzLH-5RUqvrxHHTOP7iHwQboPTINgrlfIwJ5GJfqo_7pX1smOVxCLyLFaC-AkDJkNDMbdZoQkBBxu0KLGYLsRl0HlXSOZoS5xeOgUFfug==)
+[2] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJhT3BunKyGC7QZ1CYxJFUi6ohnRlvnECVMC-IDGKIBlVj-Jq-BanxPmumfEXRwN_gtF9HYCe_nupUtU8tYfsnHFMeiovcSwTMsygdFLCD6whAAc0KbB0VgFBo4-965nKUudNcso_WNCMi7Q==)
+[3] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7pfEFbxSuGUxjwOW-sjq454tJSRBL3KWSy-c9WKl-DjqYZUscA8Iu-_m0OCumZIxYm5F7X6Gy2LMxKPpWS2_SA_CnDMnXWtRXEaOHwWyqbrYgLOvKT3_1nGbi5iXjQr9PRK0tmfZ1Nsd1Kcnu5iIyHnpmKKSnKHOu-FjXR_UmoH1YygmUoGA=)
+[4] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-bNul8Z2IUxGiR7WTigte0_BVoGH6hAQqNbO7qrh8mYkqmDj71NUgUdM6DAxj2Hmz99CbaOjGs-i1ZcyARMaOCa2ZH8GE4CkMrbLXsBldgE5gmQ-1JIXS_sCFbvCe3JETni1uKG07Z0IyOxxm2ry3RbDVNV_Fl4Yw1MIPpA==)
+[5] [zillow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt7Kpdn7xVfGOoF6qLMQk4De4RP3rt0Kt8GKKi1Zav6v0OWuhAaV6CwDE9-VHkW0PRjgRaI1MJ1rDguinYoVTR_F9yWeYBzga4dBPuSJqUdCBkxjgQommIKJFY0J7ANu-zJORDjHmPmmz1rxBIv7q3sGdFZrSRyhaU9B0j5WxkOU79NV_dITZhZrggofM=)
+[6] [tenderer.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFXV0048jNb4N9Qwah_bsgNcYwTI8McJRftiRGA0Z0MPMylj-xkRylm5P9UqkiRG9s9OOW-ZftsrbIUVqcqc-QIox7okmP-qZGmlUMCu2rYkGWV8OywWow3kzn6qRanBJRG4bnwevg6jSSu3AXdrE4ng4-lD9IGS_C8uwFzDWaiN9u)

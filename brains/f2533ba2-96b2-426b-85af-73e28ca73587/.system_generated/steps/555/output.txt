@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/');
+```
+### Page
+- Page URL: https://bizno.net/
+- Page Title: 비즈노(사업자등록번호조회)
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-51-09-405Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-51-03-893Z.log#L1-L3

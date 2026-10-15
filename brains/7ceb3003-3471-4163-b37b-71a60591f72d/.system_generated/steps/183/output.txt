@@ -1,0 +1,22 @@
+The search for ""비문 인쇄" OR ("비문" site:book.mcst.go.kr)" returned the following summary:
+'비문 인쇄' 또는 '비문'과 관련하여 검색하신 결과는 다음과 같습니다.
+
+### 1. 용어의 의미
+*   **비밀 문서(비문) 인쇄**: 국가기관이나 공공기관 등에서 다루는 '비밀 문서'를 인쇄하는 것을 의미합니다. 관련하여 공공기관의 계약 정보 등에서 '비문 인쇄'라는 용어가 사용된 사례가 확인됩니다[1].
+*   **인쇄 오류(비문)**: 문서나 책자 등에서 문법에 맞지 않거나 잘못된 문장을 뜻하는 '비문(非文)'의 경우, 인쇄물 제작 과정에서 발생하는 오탈자나 편집 오류를 지칭하는 맥락으로 쓰이기도 합니다[2].
+*   **비석에 새기는 글(비문)**: 사전적 의미로는 비석에 새긴 글(碑文)을 뜻하며, 특수 인쇄나 공예 분야에서 관련 작업이 언급되기도 합니다[3][4].
+
+### 2. 관련 정보
+*   **문화체육관광부 출판사인쇄사 검색시스템**: 해당 사이트에서 '비문 인쇄'를 검색할 경우, 비밀 문서 인쇄 업무를 수행하는 특정 업체 정보 등이 검색될 수 있습니다[5][6].
+*   **역사적 문맥**: '삼전도 비문 인쇄 독촉'과 같이 과거 역사적 기록에서 비밀스럽거나 중요한 문서를 인쇄/제작하도록 강요하거나 독촉했던 사례가 문헌에 등장하기도 합니다[7].
+
+검색 의도에 따라 찾으시는 정보가 '비밀 문서(비문) 인쇄 업체'인지, 혹은 '문법상 비문(非文) 오류'에 관한 것인지 확인해 보시기 바랍니다.
+
+Sources:
+[1] [dalseong.daegu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnHzpYpf6p-bODzJWZQQ6loURVQnSqOkZVRwfgp6KuMPQuQ73YcitFqSdqr4XtFeLG7_tig6aG_8rR9fQHKx3UQQMp6ayKzixY_TK_12L9xMPQe6zrN4uz7Q1W9rlOiCGfG0T1J8nnehM0RJKRcD5KkHOJDWGJlIbnowHTPy-kwgMq-LqLjxIRJYaIJFGKa5K04E=)
+[2] [theqoo.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-tEktfW_DTQnpKZFu8sOx6kk0pDuM04vc9geIx8CSPZu0piPvF8qb8Vobkt-F-w77yOm5e-sn1ZDOGJwVk8x9nyAJxgDDdf5wuxbPsDa46m8CxukRDHtQ5A=)
+[3] [haftkomputerowy.com.pl](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDj5iZRfFg3xWc3dNYVo2EOSYgC6jNYHF64BhKpgJm9HZW4AGz3tckKCz9idw-Me92n4h1TN_jlrwmz6Qk5M0j0n3eDu2UkzLmTCbYmN79D8qjmwBfK7v2YwUhsasOqwgOUlUH_WoAcaUKsfLSkhrhnFww5gXNvIpibj_VuweVfWP_b600WkwK7SxhmQoI-L3sPxzCZpFtZkNFlK6J-mysKqOZZY5IVQfyMM9eo01nAkxrKbEa-UnEm3C0zA==)
+[4] [peashin-packingmachinery.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHRI6_m43VkAw7_9BEF9UnSwTx6OO3-7mkeqanjb6_6cbYwgnHNh5ajXcXN-KODK6sQwZldRzl05zGawcXQUPcDFbREm4ubmiG3tbWwxfX5DHsn9Cqn96Ttiei3QZhorxsuiolo8eAMRE6Cr7u5z5_rkrPeK-kDGC3lEV8A6dgVVIG4T_Vlnwq5VnnNiPet9XeSbAj)
+[5] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5-Z9osDSZMr-PQ4jMTR2eTqvg4eHBZMN7gcRHqUB6klIdBkLXIl72UcQODWOfjoJv_uzDMJrylUuS38fUZ-SFtY1jJMuAu8J_EstvkFgXte6jtKT6RNI34tOr_h9J1jUQTqAGUU6CT_txDO11e0aPrOTTpUtRkleP8cIBcHtP-OUpaK33dNRma8FjSGO7X7tFpEFvaul5gCuhbcjfLRZVYAF6yv8rI26jtFHETrQlGWO1i3Q3r5hG5D3td0Coe9zPhfyhHy5YgxFOhVeZatv3jwlfa0y0AWGMD0DBQrZ4ujyC8ND4-xlqU50-)
+[6] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5-Z9osDSZMr-PQ4jMTR2eTqvg4eHBZMN7gcRHqUB6klIdBkLXIl72UcQODWOfjoJv_uzDMJrylUuS38fUZ-SFtY1jJMuAu8J_EstvkFgXte6jtKT6RNI34tOr_h9J1jUQTqAGUU6CT_txDO11e0aPrOTTpUtRkleP8cIBcHtP-OUpaK33dNRma8FjSGO7X7tFpEFvaul5gCuhbcjfLRZVYAF6yv8rI26jtFHETrQlGWO1i3Q3r5hG5D3td0Coe9zPhfyhHy5YgxFOhVeZatv3jwlfa0y0AWGMD0DBQrZ4ujyC8ND4-xlqU50-)
+[7] [lotteimall.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1bQCW2m9ByE1KCkMXDqVjfQAkwe9ooWjhP0cAEZyqNF9gh-7IH6QTqVGyGSr6imRZoM_T2gIs3NqL9Qy26fwzwie63K2wp8slONxq34doaSkvq7dSE4dAIWkN5BGAiX-z-ZhGwI4OCkJti2kEYcX1sPF2a7TBR0JPzOIGnIE=)

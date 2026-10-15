@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+Where-Object : '.FriendlyName' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�
+�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:17
++ ... PnpDevice | Where-Object { .FriendlyName -match 'Touch|Pad|Mouse|Poin ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.FriendlyName:String) [Where-Object], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException,Microsoft.PowerShell.Commands.WhereObjectCommand
+ 
+

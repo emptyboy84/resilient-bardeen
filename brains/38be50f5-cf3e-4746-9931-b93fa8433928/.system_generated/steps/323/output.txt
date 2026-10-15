@@ -1,0 +1,17 @@
+The search for ""연산동 756-7" 우편번호 OR "고분로 17" 우편번호" returned the following summary:
+요청하신 주소에 대한 우편번호 정보는 다음과 같습니다.
+
+**1. 부산광역시 연제구 연산동 756-7**
+*   **우편번호:** **47581** (해당 지역 연산동 일대 우편번호 범위 내)[1]
+    *   참고: 연산동의 지번 주소에 따른 우편번호는 상세 지번마다 차이가 있을 수 있으므로, 정확한 우편물 발송을 위해서는 [도로명주소 안내시스템](https://www.juso.go.kr)에서 해당 지번을 정확히 조회하시는 것을 권장합니다[2].
+
+**2. 고분로 17**
+*   **우편번호:** **47565**[3]
+    *   '고분로 17'은 부산광역시 연제구 연산동에 위치한 도로명 주소로, 해당 번지의 우편번호는 **47565**입니다[3].
+
+※ 주소 검색 결과는 행정 구역 개편이나 도로명 주소 체계에 따라 변경될 수 있으므로, 정확한 확인이 필요하신 경우 [도로명주소 안내시스템](https://www.juso.go.kr)을 이용해 주시기 바랍니다[2].
+
+Sources:
+[1] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCFarhd33DVwDm85iQaYsE6XS0unXdJSUvVsXZX-ELx6o-fdC05paNqgge5dodEGr3w7M5gMlEvRmS2dfvgv5pqnqCBAj3PLdmO9sa0CwhPIJ9grCCGzIMvTUNKLDtjHfODH7Uctx290JonAeKFLnFHRYLOR8rHohiZ3TkXqxHnkQ=)
+[2] [juso.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdt4K_UUNnkPRQu8y-9CtszrAZWYQwINHN6L3eGDB_FW7FE2nsMC0jVSNlp9U4gY47GRu8AwGTIwDAo88IeFzBzf_txjMILj8hs2F_LhWPhvYduS-Y14yvzaOEAk8LUQ==)
+[3] [enjoyjapan.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzzqzwasE4k8EQqfmyCKIhG-xF5-INRflBtXTkz2hUXeG_q-0IpAtZ3M6Vkh87FHJvdxRVGWRVao0i3vHtBjn2OhIFcIBjYfStFFfpziQlFLl_pgk1N7fgCjn543uKxymwNTFw8qzawTpwX17DMT76jKPe938mQvwhc5a77pazqDHup8VWAEwSXvGO-11_FlGPxXRWdPABBotclX2Yb-zdNMAz_1dOmvMgw-BmVmmiW5oTS7fqenHr3OBOIqver4TyWIlVyURP-D2aBsaEErUt8b4LjMV2Rt0_XL-vLnJ4_54-SGF7jrjOlA==)

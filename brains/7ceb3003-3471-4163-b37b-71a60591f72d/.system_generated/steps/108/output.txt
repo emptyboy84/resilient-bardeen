@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+At line:11 char:86
++ ... = res.data.match(/<a[^>]*href=\"\/article\/[^\"]*\"[^>]*>.*?<\/a>/g);
++                                                                        ~
+Unexpected token ')' in expression or statement.
+At line:12 char:28
++     console.log('Matches:', matches ? matches.slice(0, 10) : 'none');
++                            ~
+Missing expression after ','.
+At line:12 char:29
++     console.log('Matches:', matches ? matches.slice(0, 10) : 'none');
++                             ~~~~~~~
+Unexpected token 'matches' in expression or statement.
+At line:12 char:28
++     console.log('Matches:', matches ? matches.slice(0, 10) : 'none');
++                            ~
+Missing closing ')' in expression.
+At line:12 char:68
++     console.log('Matches:', matches ? matches.slice(0, 10) : 'none');
++                                                                    ~
+Unexpected token ')' in expression or statement.
+At line:13 char:3
++   } catch (e) {
++   ~
+Unexpected token '}' in expression or statement.
+At line:13 char:15
++   } catch (e) {
++               ~
+Unexpected token '{' in expression or statement.
+At line:14 char:28
++     console.error('Error:', e.message);
++                            ~
+Missing expression after ','.
+At line:14 char:29
++     console.error('Error:', e.message);
++                             ~~~~~~~~~
+Unexpected token 'e.message' in expression or statement.
+At line:14 char:28
++     console.error('Error:', e.message);
++                            ~
+Missing closing ')' in expression.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

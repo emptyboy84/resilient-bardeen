@@ -1,0 +1,21 @@
+The search for "site:chosun.com "비솜" OR "정수장학회" "비솜"" returned the following summary:
+조선일보(`chosun.com`) 사이트 내에서 검색어 `"비솜"`과 `"정수장학회"`를 각각 검색한 결과는 다음과 같습니다.
+
+### 1. `"비솜"` 검색 결과
+* 조선일보 지면 및 온라인 인물 인사(人事) 기사 등에서 기업 이름으로 언급되었습니다[1][2].
+* 예: `비솜㈜ 사장 전성록`, `비솜 사장 진용성` 등의 임원 인사 발령 소식이 보도된 바 있습니다[1][2].
+
+### 2. `"정수장학회"` 검색 결과
+* 역사적 배경(5·16장학회 및 부일장학회 강제 헌납 논란), 역대 이사장(박근혜 전 대통령, 허원제 전 이사장 등), 그리고 장학회 출신 모임인 '상청회'와 관련된 다양한 시사·뉴스 기사가 검색되었습니다[3][4][5][6].
+* MBC 지분 보유 구조 및 정치적 쟁점, 서울시교육청의 감사 착수 등 사회적 이슈가 될 때마다 보도된 기사들이 다수 존재합니다[3][5][7].
+
+*(※ 두 검색어를 동시(`AND`)에 포함하는 기사는 조선일보 보도 내에서 직접적으로 연관되어 나타나지 않으며, 각각 독립된 키워드로 위와 같은 맥락의 기사들이 확인됩니다.)*
+
+Sources:
+[1] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW0-dO6EtHCMqQNJdDvugTBzg6MMGMS2pXWdStwSj9K4HkKiqTzDvOg25VjebB23iOwE1uLzyhAen8PXfak2mvSthhcEHOt9P-RzSPreUDTCxrY5x-WELoDcEUApOjbaJoy63pvup2cTRmi1o3apWB02J_Ed7GhB1VlqTwpEVew7bRjHjDCn3PACEI3cUWFw==)
+[2] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAGQJtk-5D_8gTE2YlorKdi1EwBkV7H0SOtcgSoEgNdjwao8y13ruyFp8IhKbptqPCGLHhrIvYU8VP0GbVxstuG02ktdcB7hRVb4TcG4Kdjw8-NT2Vc8nXyaeA7B0Hvw-tWaJgO42P0DiVC7re7Z2ilLc50HGmXiK1Hqmp2A==)
+[3] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpGj8KO4TubooHoVImcqGG_SiuIDmc18_wqqN10neLGX0zzsV5EDYvMemxaDosaheo1pv2Q2vRnEknwys1_CFKm09RgaXUWN7FULZuRN2AciBwsdo0m9IwGTsQjqGaiXRSmhmBiv3EpHoS5YpcR6Mc2I8vySE2y9olb66SjRXizpzZIHVa7jZFLeTDF5g=)
+[4] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzee01W4e39hwweI6PuYkaaWWxQp_lSUwkFHaff3dXAsaCzcwicjGu126lPLS7L7RJ7fTZAp-vtGiLs6OAPzxi0MpYLs5zR64pOQLCFVtRFD3f8lNg_0y2HAfIpGdBj5dzGu3Qlep89QQkkulTbECcpvs=)
+[5] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElg21NTUiOFi-lTTuH5_2c6MGppsgjap9f_2MydeCjZSjOV2RN8ef3-HKOB0Zs9fQnAwrdEy8g8qDJzTDfiV3FfQHx3c57DRNOj8VvbI4BcTe7bvfrUdnogvV3RjfVu5_8XVKR_QoNzj-ZyK4F_Gs8my5FQ70DlgHrYNtxlA==)
+[6] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIPKRK0ACsRKFqEWJOnFTb6CZ68ziyftcgsVACDm3Cfamh-LiYsZaWjmexNaYhRMCvgGSiFyx8CFyn_viRA_FhPVGd27ZZduvu7unJmT-E3UIVboByglEWPMOQdi29mu_dNQWv5djOXCf3T7XvDCJh8QIxtzJ75Swu95pUZA==)
+[7] [chosun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-KpPmmHPTljunex2zB5O9vd7-m9KcPMxDstz5GM90f8d60OoiXDdSYiRmQqX2F9QZDyFCZA0_fpeNVRcS1EnHClwP1VzoCn5MDFAF47zDePKYWNIo-HHOw18mrm4iaL7gV5fQwgEuEtCxULlqcBfTH3jG72KzHMfmLVjhA==)

@@ -1,0 +1,6 @@
+### Result
+"https://www.saramin.co.kr/zf_user/company-info/view?csn=NVNLdlRVUi9wVmJSZWl1alZCU1FiUT09"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const link = document.querySelector(\'a[href*="/zf_user/company-info/view"]\');\n  if (link) {\n    return link.href;\n  }\n  return \'No link found\';\n}');
+```

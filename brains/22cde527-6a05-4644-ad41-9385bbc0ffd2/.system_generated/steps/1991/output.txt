@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Worksheets:
+  Sheet 1: "전체 통합 모집단 (2314행)" (2314 rows)
+  Sheet 2: "인공지능 발굴 192개사" (193 rows)
+
+--- Row 639 (디자인에코) in Sheet 1 ---
+  Col 3 (사업체명): 디자인에코
+  Col 4 (사업자번호): 603-10-85753 Color: FFFF0000
+  Col 5 (설립연도): 2009 Color: FFFF0000
+  Col 16 (종사자수): 10 Color: FFFF0000
+
+--- Row 703 (브이드림) in Sheet 1 ---
+  Col 4 (사업자번호): 186-86-00972
+  Col 17 (24년 매출액): 6,001,810,000 Color: FFFF0000
+
+--- Sheet 2 Sample (Row 2) ---
+  기존행번호: 639
+  사업체명: 디자인에코
+  사업자번호: 603-10-85753 Color: FFFF0000
+

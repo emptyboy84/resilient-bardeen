@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=0504-347-3087');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=0504-347-3087
+- Page Title: 0504-347-3087 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-09-48-803Z.yml)

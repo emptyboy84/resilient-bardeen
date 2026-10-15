@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Desktop: Antigravity IDE.lnk
+Desktop: Antigravity.lnk
+Desktop: desktop.ini
+Desktop: Excel.lnk
+Desktop: Microsoft Edge.lnk
+Desktop: Outlook.lnk
+Desktop: Today
+Desktop: Z.lnk
+Desktop: ~$연구소_전문, 과학 및 기술 서비스업+배현명_314번~384번.xlsx
+Desktop: 다운로드.lnk
+

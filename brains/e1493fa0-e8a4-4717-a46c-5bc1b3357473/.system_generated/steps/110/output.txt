@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Step 335: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines = fs.readFileSync('all_500_factchecked.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\n\\n// Address to Zip mapping rules\\nconst zipRules = [\\n  { match: /센텀중앙로\\\\\\\\s*97/i, z
+Step 337: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines = fs.readFileSync('all_500_factchecked.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\n\\nconst zipRules = [\\n  { match: /센텀중앙로\\\\s*97/, zip: '48058' },\\n  { match: /센텀서로\\\\s*
+Step 339: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines = fs.readFileSync('all_500_factchecked.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\n\\nconst rem = [];\\nlines.forEach((l, i) => {\\n  const p = l.split('\\\\t');\\n  if (!p[5]
+Step 342: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst lines = fs.readFileSync('all_500_factchecked.tsv', 'utf-8').split('\\\\n').filter(l => l.trim().length > 0);\\n\\nconst specificFixes = {\\n  '5148634082': { zip: '06133', addr: '서울특별시 강남구 테헤란로 127, 15층(
+

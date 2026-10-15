@@ -1,0 +1,75 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+-a----      2026-10-14  � 10:07        1013096 pure_missing_2658.json                                               
+-a----      2026-10-14  � 11:27           2774 qa_inspector.js                                                      
+-a----      2026-10-14   � 9:04          17011 query_test.html                                                      
+-a----      2026-10-14   � 9:04          36805 rows_11847_12000_16col.tsv                                           
+-a----      2026-10-14   � 9:04          37115 rows_11847_12000_17col.tsv                                           
+-a----      2026-10-14   � 9:04          38655 rows_11847_12000_verified.tsv                                        
+-a----      2026-10-14  � 10:08           6049 run_stage2_deep_scan.js                                              
+-a----      2026-10-14  � 10:56           6586 run_stage3_kakao_scan.js                                             
+-a----      2026-10-14  � 11:02           6917 run_stage4_all_platforms.js                                          
+-a----      2026-10-14  � 11:18          10521 run_stage4_full_scan.js                                              
+-a----      2026-10-14   � 9:28           1235 save_to_today.js                                                     
+-a----      2026-10-14   � 9:21           1650 save_utf8_table.js                                                   
+-a----      2026-10-14  � 10:48            901 search_kakao.js                                                      
+-a----      2026-10-14   � 9:15          27245 sharetreats.html                                                     
+-a----      2026-10-14  � 10:49          40407 stage2_results.json                                                  
+-a----      2026-10-14  � 11:06          41045 stage3_kakao_results.json                                            
+-a----      2026-10-14  � 11:03              2 stage4_results.json                                                  
+-a----      2026-10-14  � 12:14          10728 stage4_verified_results.json                                         
+-a----      2026-10-14   � 9:17           3465 step1_bizno_batch.js                                                 
+-a----      2026-10-14   � 9:26         118483 step1_results.json                                                   
+-a----      2026-10-14  � 10:58            729 test_114.js                                                          
+-a----      2026-10-14   � 9:15            904 test_bizno_article.js                                                
+-a----      2026-10-14   � 9:45           1832 test_bizno_query.js                                                  
+-a----      2026-10-14   � 9:14          25124 test_bizno_res.html                                                  
+-a----      2026-10-14  � 11:13            776 test_bizno_structure.js                                              
+-a----      2026-10-14  � 12:35           1260 test_co_read.js                                                      
+-a----      2026-10-14  � 11:14           4453 test_daum_20.js                                                      
+-a----      2026-10-14  � 10:58           1729 test_expanded_platforms.js                                           
+-a----      2026-10-14  � 12:03           1130 test_ftc.js                                                          
+-a----      2026-10-14  � 12:02           2020 test_grb.js                                                          
+-a----      2026-10-14  � 11:04           2253 test_improved_kakao.js                                               
+-a----      2026-10-14  � 10:36            807 test_incruit.js                                                      
+-a----      2026-10-14   � 1:07            967 test_jetech_whois.js                                                 
+-a----      2026-10-14   � 1:06           1821 test_je_tech.js                                                      
+-a----      2026-10-14  � 12:36            521 test_jk_body.js                                                      
+-a----      2026-10-14  � 12:34           1188 test_jk_comp.js                                                      
+-a----      2026-10-14  � 12:34            531 test_jk_links.js                                                     
+-a----      2026-10-14  � 12:33           1165 test_jobkorea_ws.js                                                  
+-a----      2026-10-14  � 10:51           1919 test_kakao_sample.js                                                 
+-a----      2026-10-14  � 12:10           1034 test_linkbean_saramin.js                                             
+-a----      2026-10-14  � 12:34            686 test_more_gi.js                                                      
+-a----      2026-10-14   � 9:15           1233 test_multi.js                                                        
+-a----      2026-10-14  � 11:15           7585 test_multi_50.js                                                     
+-a----      2026-10-14  � 10:40            757 test_naver.js                                                        
+-a----      2026-10-14  � 11:01           2248 test_naver_sample.js                                                 
+-a----      2026-10-14  � 10:41            555 test_nice.js                                                         
+-a----      2026-10-14  � 12:40            801 test_nice_ws.js                                                      
+-a----      2026-10-14  � 10:08           1684 test_phone_cleaner.js                                                
+-a----      2026-10-14  � 11:08           2831 test_probe_platforms.js                                              
+-a----      2026-10-14  � 11:10           4046 test_sample_10.js                                                    
+-a----      2026-10-14   � 9:46           2457 test_sample_100.js                                                   
+-a----      2026-10-14  � 12:39            657 test_saramin_detail.js                                               
+-a----      2026-10-14  � 12:38            574 test_saramin_inspect.js                                              
+-a----      2026-10-14   � 9:45           1385 test_saramin_sample.js                                               
+-a----      2026-10-14  � 12:38           1140 test_saramin_ws_job.js                                               
+-a----      2026-10-14   � 1:20           1112 test_search_number.js                                                
+-a----      2026-10-14   � 9:43            373 test_sources.js                                                      
+-a----      2026-10-14  � 12:03            819 test_ssg.js                                                          
+-a----      2026-10-14  � 12:15            993 test_ssg_seller_api.js                                               
+-a----      2026-10-14  � 12:33           1430 test_ws_company.js                                                   
+-a----      2026-10-14  � 12:39            987 test_ws_whois.js                                                     
+-a----      2026-10-14   � 9:04         192164 user_pasted_rows.tsv                                                 
+-a----      2026-10-14  � 12:35         134521 ws_co_read.html                                                      
+-a----      2026-10-14  � 12:34         114408 ws_jobkorea.html                                                     
+-a----      2026-10-14  � 12:40         989985 ws_nice.html                                                         
+-a----      2026-10-14  � 12:38         406534 ws_saramin_job.html                                                  
+-a----      2026-10-14   � 9:04           4157 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.md                   
+-a----      2026-10-14   � 9:04         169882 �ε�Ϲ�ȣ_�_�_�_�̵�_110111-8382593.pdf                  
+
+
+

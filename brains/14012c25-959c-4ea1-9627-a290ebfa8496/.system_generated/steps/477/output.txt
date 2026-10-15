@@ -1,0 +1,11 @@
+The search for ""부산일보" "비솜" OR "전성록"" returned the following summary:
+검색 결과에 따르면, **전성록**은 **부산일보**의 주요 간부 및 자회사 인사에서 언급되는 인물입니다[1][2]. 
+
+주요 이력과 관련 내용은 다음과 같습니다:
+* **직위 변동:** 부산일보 문화사업국장, 독자서비스국장 등을 거쳐[2][3], 부산일보의 자회사 또는 관련 법인인 **비솜㈜의 사장**으로 임명된 바 있습니다[1].
+* **비솜(주):** 부산일보와 연관된 법인 및 자회사(미디어·사업 관련 등)로, 전성록 사장이 경영을 맡고 있는 것으로 보도되었습니다[1].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHssCMgOcG3dQP6wWDftA-0mqwtS-v5I6tR_4qbTgcK9evB1t2au6Hm56IUm_nbJKVkDDRYwdnb2cjDTnptnUA97Glr2PJOCHHmc6XCX-7oMdpOfBuu4EcgzO6HEp8Qh0_phHUh)
+[2] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4nzZc45BoLGqrz5nwReM5mkoT19L7fApJTwUbluPOlzpHtDzLOuIa1yCVDtq3d0Wq9lcoZLBo8FxCKWkKuiu2gGiyH9TRG8rZP14UDGhw6GHV8lnvWm16ZZn8mLHxDIc4-BRo321eAV6-yeNIOndSbB7LqTtioS9N0Aup0SxHmUFhaNn4h4CY-5oXbg3buE07-Z9cRwoOAkHxWN8MTzoKGRcwCL8dEw9VrSz8TLSTsAQhPGequlOZa_qJyqh8yNQ-i6c=)
+[3] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwseDth5pN-r21H1MZnUWWS6fkROz48r7RHVrQBD2EkPYjeTLsXlhC8UA1rcFtuwUNt4WUdbEOFlAq1G-J-qK6n0fxOEGZI7mcetu5gUFmqpYt7DrtuDvjNVCUAxKpS2MtjZrKprHIawJsLtsBKbaCf4QV)

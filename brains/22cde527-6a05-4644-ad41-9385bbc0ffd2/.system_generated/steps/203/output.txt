@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+{
+  rowNumber: 2064,
+  rowIndex: 2063,
+  seq: '2063',
+  gubun: '25년 모집단',
+  name: '박정희',
+  ceo: '박정희',
+  phone: '010-7576-7250',
+  address: '기장군 정관읍 산단4로 139(정관 1차 동원 료얄듀크) 111동 302호',
+  category: '콘텐츠솔루션'
+}
+

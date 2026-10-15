@@ -1,0 +1,14 @@
+The search for ""박현석" "센텀스카이비즈" OR ("박현석" "에이치에스렌텍")" returned the following summary:
+검색 결과에 따르면, **박현석** 대표가 이끄는 **(주)에이치에스렌텍**의 사업장 소재지는 부산광역시 해운대구 센텀중앙로(재송동)에 위치한 **센텀스카이비즈** 내에 있습니다[1][2][3]. 
+
+* **대표자:** 박현석[4]
+* **기업명:** (주)에이치에스렌텍[4]
+* **설립일:** 2020년 7월 7일[4]
+* **업종:** 응용 소프트웨어 개발 및 공급업[2]
+* **소재지:** 부산광역시 해운대구 센텀중앙로 97, **센텀스카이비즈** (A동 등)[1][3]
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC1g7-AzGgSPyYnZmYqqOPUjVd2DD2-2L0WEEOVRC42OnkCApYGpj8CyFvF08qcPaT20amUQJWeadHelL54w43a8QadV-UDyiqcac4KHzIRieqGkxAWwhEN8cCOTg2DYISwIq326OAbYGpaRnvYjTrDeoeqGz_tgaIMnbDDlpmGZ-lmkuxtSpbuw==)
+[2] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeqd6zn6FxkcZ3x9k6s_ENYMoNzfi5tYX4B_XSMr8ht31-Uel-OLKAmFgqB-TZGopkxI2ffNGlMRI4uIXRRuy1JeElXDMX57Kxhm5NxZJeXXH5y9Ak0URa179BOucN0P5w8sqRnsbowf8Vh9-DEpka7mUWm7HHDDBm3K8iO7RZ6VAeimkRuRUu4NhJTpnZhl_LqPaK9ePF4pY58wopmFa3FL1_Jzs=)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiowzs1eVgePoetYd4EqSmdnBc8Jfgrjfgkg5YMvDg-brz502y7PldfLOpycRt1X-2ELZyk5HmzibF94i3x81RzSJpEuw2HRLa3Loz6yRSsuGiJbRHLr2N5ZGDw2fkGJcqsoCDTKBIN5GTVwk0pRXUE8t)
+[4] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKt_mMR2jXx4i4HYe_iOQrGoiWndxHrKljWSDFHl6FZz2soQgELe9uPvytKHUGg0lY_AIvjOa87eaBr6MGc7bWjZyHe5jplZm54uQp4kWrUJFiJlfAwYeHPVSy0KuZLpvxg-zx)

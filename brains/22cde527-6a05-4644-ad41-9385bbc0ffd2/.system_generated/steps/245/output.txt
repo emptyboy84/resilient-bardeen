@@ -1,0 +1,14 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 630 lines>
+제이에이치바이오시스템) | 주소: "부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "황재섭" [휴업자]
+  >>> Progress Saved: 300/421 | Matched: 85 | Unverifiable: 215 <<<
+[301/421] Row 2139 | "타이어비즈" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 276-88-00416 (주식회사 타이어비즈) | 주소: "부산광역시 부산진구 서면로 39, 6층 606호(부전동, KT&amp;G 상상마당부산) 39, Seomyeon-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "송봉균" [계속사업자]
+[302/421] Row 2140 | "센디" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 617-86-04939 (주식회사 센디) | 주소: "부산광역시 부산진구 서면로 39, 6층 9,10호(부전동, KT\u0026amp;G 상상마당부산)" | 대표: "염상준" [계속사업자]
+[303/421] Row 2141 | "페이타랩" | 대표: "" | 구: "부산진구"
+
+Last progress: 0s ago

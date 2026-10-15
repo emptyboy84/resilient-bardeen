@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+True
+SUCCESS: ACPI 0x30=0, TouchPadMode=8, OSD=0, PTP_Enabled=1
+

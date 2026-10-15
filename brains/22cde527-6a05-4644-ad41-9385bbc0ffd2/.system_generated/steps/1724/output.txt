@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+origMissing: {
+  rowNumber: 639,
+  rowIndex: 638,
+  seq: '638',
+  gubun: '25년 모집단',
+  name: '디자인에코',
+  ceo: '',
+  phone: '',
+  address: '부산 금정구 장전동 222-39 서강빌딩 4층',
+  category: '캐릭터'
+}
+verified: {
+  rowNumber: 639,
+  name: '디자인에코',
+  bizno: '603-10-85753',
+  cleanBizno: '6031085753',
+  year: '2009',
+  month: '4',
+  ceo: '이돈희',
+  tel: '051-207-3530',
+  fax: '051-517-3500',
+  emp: '10',
+  status: '계속사업자',
+  closeDate: '',
+  source: 'https://bizno.net/article/6031085753',
+  proof: '비즈노 사업자등록번호 및 부산 소재지/대표자 일치'
+}
+Condition for Col 5: true
+

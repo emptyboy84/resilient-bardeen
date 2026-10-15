@@ -1,0 +1,10 @@
+The search for "site:busan.com "비솜" "전화" OR "문의" OR "051"" returned the following summary:
+부산일보 자회사인 '비솜(주)' 관련 검색 결과에서 전화번호나 문의처와 직접적으로 매칭되는 상세 051 전화번호는 해당 검색 범위 내에서 구체적으로 확인되지 않습니다[1]. 
+
+참고로 부산일보사(비솜의 모기업 관련 본사)의 대표적인 고객 센터 및 서비스 문의 연락처는 다음과 같습니다:
+* **부산일보 서비스 문의 및 구독 안내:** 051-461-4200~1[2]
+* **부산일보 팩스:** 051-463-8880[2]
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0EvBWw9Rb8C0kAUFEwQJ-9YXVi0thpn7DFTJ4HqMuDd2j8_2coXeKEXqtd8amYXYZIHJXVM9cwSa4_vBCz1LjDtyH05hgngGq2sOk3oy_2Ha8V7Ekh71rhDHozF6XcEoQg0Ux7P_CPk-9sWEzF8PlzGrtpet7FRU=)
+[2] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv1Pt-lkOwgjCzEoAQr9c0gA-cILNgexkBCbyKXoX-ugH6XrysHMEKpLQ2EIQKyNGrPNmu23Y-KzsyiR184BJSxfdgRqzsGMKjjkZP5_v7rqUNJRT-)

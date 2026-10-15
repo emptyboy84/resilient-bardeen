@@ -1,0 +1,14 @@
+### Result
+{
+  "url": "https://www.qoo10.jp/g/989769403",
+  "sellerText": "Not found in specific node"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const allText = document.body.innerText;\n  const sellerInfo = Array.from(document.querySelectorAll(\'*\')).find(el => el.innerText && el.innerText.includes(\'superspirit\'));\n  return {\n    url: window.location.href,\n    sellerText: sellerInfo ? sellerInfo.innerText.substring(0, 500) : \'Not found in specific node\'\n  };\n}');
+```
+### Page
+- Page URL: https://www.qoo10.jp/g/989769403
+- Page Title: [Qoo10] WOOLILIWOO [韓国通信販売サンクッション部門1位]
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-19-51-343Z.log#L4-L7

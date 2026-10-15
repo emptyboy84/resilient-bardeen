@@ -1,0 +1,19 @@
+The search for "site:onkorea.co.kr "브이알코리아"" returned the following summary:
+검색하신 `site:onkorea.co.kr "브이알코리아"`와 관련하여, 해당 도메인 내에서는 **(주)브이알코리아**라는 명칭의 업체 정보가 확인됩니다[1][2][3].
+
+검색 결과에 나타난 주요 내용은 다음과 같습니다:
+
+*   **업체명:** (주)브이알코리아[1][3]
+*   **업종:** 영화상영관[1][3]
+*   **주소:** 부산광역시 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)[1][3]
+
+참고로, 웹상에서 '브이알코리아'라는 명칭은 다양한 기업에서 유사하게 사용되고 있으므로(예: (주)어메이즈브이알코리아, 클래스브이알코리아, 오큘러스브이알코리아 등)[4][5][6], 특정 기업을 찾으시는 경우 해당 기업의 정확한 영문 명칭이나 업종을 함께 확인하시는 것이 좋습니다[6][7].
+
+Sources:
+[1] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN_A0IDeXKbYDzrUY7bpcPKVNd7pZ4kkJKkCdLux0ALVRYrE8NNP5V10QEvqzU2KryKsBAort-Q5yT492rlDkeuNq2ST8Qj81OTiXIOrmrYmyNj8sSGnGfHzjqbOopF5MejVRT)
+[2] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpkgblvDT9oakhqCnNsYY_N47Ni4F5bCq1At164hTASpMLF7ZSSMkk3NYwdu5KGTwNcGalKHOdRVff8LhjVmOOwB3wjMm9bnOXwJBwOaIHBF21EePU-86V7SkZMk9TSbFrvN8x)
+[3] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpkgblvDT9oakhqCnNsYY_N47Ni4F5bCq1At164hTASpMLF7ZSSMkk3NYwdu5KGTwNcGalKHOdRVff8LhjVmOOwB3wjMm9bnOXwJBwOaIHBF21EePU-86V7SkZMk9TSbFrvN8x)
+[4] [rememberapp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnAe7Wykkvu0bTA8CKYt1mVSA3NVYiUraMqc9-VspDq_mfQqsY7OTNw_0EFOheJWW9IeD7bU3Rxf-_HKaKBV9qFb7r3AxlVfORFViE9o2ulv47WbP39BLf-SSpsHX5CAsh3bQk-wXFVw==)
+[5] [lecturernews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwxgj5g4gupXuS_xX-Ns0DQZ2EnWPl7UGF972z7RwBAljB8xntl8ZAbqtn6bpIO9J7qoPt_ojerjHUiR94LvmPwzXgEo2g7gjQt2nmVQ2BqIfznyWYf-NTuI-lMvc4qB0BEVajZWY3lc8bRVg7qTHUaaw2)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEPvOIfnozdoSLeZnwDTh4J65jyjD1RT3wcvndCjwPW48ZNxnuhg3fjcwzwRP6BZoQE0r2TXuRuAgLTvaXBSUyfVjPFFyAeUmciNy9DNPFOJcznYuIJH8kLoh1)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF05dhdtqoINcHYh9R34ffQs5aqmOIHAVpIkRsM6Vag2rAUmWKShy10BKyipuGXVE7hOwPBGiNbAQbEgmQ8GdDnltQyEwtJO_rLFAXYdb1B6IWRSMaQdOT81doz)

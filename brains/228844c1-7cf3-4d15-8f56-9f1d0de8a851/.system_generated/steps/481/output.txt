@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=에프지엔터테인먼트');
+```
+### Page
+- Page URL: https://bizno.net/?query=%EC%97%90%ED%94%84%EC%A7%80%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8
+- Page Title: 에프지엔터테인먼트
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-53-21-521Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-53-11-538Z.log#L1-L8

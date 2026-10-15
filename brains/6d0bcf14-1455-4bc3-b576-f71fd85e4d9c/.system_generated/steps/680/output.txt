@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+Total conversation dirs: 156
+With transcripts: 138
+With artifacts: 27
+Recent 10 conversations:
+11a8d362-4d29-4f4c-90a5-378c3d45be06 2026-10-15T03:47:03.855Z LogSize: 4.4KB MDs: 
+e3d48621-f4a2-4c1d-b7cb-6ae77414328f 2026-10-15T01:44:02.722Z LogSize: 2.1KB MDs: 
+33c85b29-8947-4137-94fc-b62ba86b4d38 2026-10-15T01:39:41.861Z LogSize: 2.4KB MDs: 
+6d0bcf14-1455-4bc3-b576-f71fd85e4d9c 2026-10-15T01:00:27.270Z LogSize: 839.4KB MDs: implementation_plan.md, task_list.md
+57a3fdd8-dcc7-4aa3-a4b8-271648e61b55 2026-10-15T00:21:24.855Z LogSize: 3.2KB MDs: 
+36a341fc-1b0b-459d-9d18-5ca5956c4fa3 2026-10-15T00:16:28.205Z LogSize: 20.0KB MDs: 
+472ec7c3-3052-447b-acde-96d5c7eb5b5e 2026-10-15T00:16:21.209Z LogSize: 288.7KB MDs: implementation_plan.md, task_list.md
+3245efe3-26d4-4970-be6c-ed23876ad2a7 2026-10-14T23:41:29.014Z LogSize: 104.3KB MDs: implementation_plan.md, task_list.md
+68575da5-7436-4712-87f0-5542a7ba62f6 2026-10-14T03:36:35.824Z LogSize: 715.9KB MDs: 
+b2ce891e-29e7-4832-8c99-263e59a3501a 2026-10-14T02:27:03.956Z LogSize: 826.5KB MDs: 
+

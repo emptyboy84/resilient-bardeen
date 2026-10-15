@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.juso.go.kr');
+```
+### Page
+- Page URL: https://www.juso.go.kr/
+- Page Title: 주소정보누리집(도로명주소 안내시스템) < 메인
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-33-22-154Z.yml)

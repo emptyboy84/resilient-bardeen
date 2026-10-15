@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Saved 271 unpopulated rows to unpopulated_271.json. Count: 271
+With CEO: 98, With Addr: 187, With Phone: 225
+

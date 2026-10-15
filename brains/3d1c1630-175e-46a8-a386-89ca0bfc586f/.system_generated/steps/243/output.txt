@@ -1,0 +1,13 @@
+The search for ""(주)대아선재" 법인등록번호 OR 사업자등록번호" returned the following summary:
+(주)대아선재의 등록번호 정보는 다음과 같습니다.
+
+*   **사업자등록번호:** 603-81-20274[1][2]
+*   **법인등록번호:** 180111-0149850[1]
+
+참고로, 별도로 운영되는 '(주)대아선재 녹산공장'의 경우 사업자등록번호가 606-85-26839로 확인되니 이용에 참고하시기 바랍니다[3][4].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_RwZaaUp7J0ByBac5A2fyMnN4EHlN8EoGnMXrIg3TLJhnq2iCHFzLaVG2F9yhBuhfq4p7_t8UEIL296TeDEqZ2rDSCPV0wibG1y4zUQiEsXjV9evXUKOL6A==)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuCz_p0sbXwB9aE9b8gW1LdIpVrZK3RyXIahLSfBT8qsFXa6ddzbiPQlxrc4k2bDt9YCwYgZRWjHJ4s_lQ2GxfvkcUKhqSJNIQUzTabmI6Tkkm450S4PWvmxNSVzf6XfcIfqcaL_RVwnX2DcIS7IlKBwbOSA1aYFswTA==)
+[3] [ksnara.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIRO2DKsXIELLx5GRzXBDFovTNCJ8GH4o7mhirmbkKb7-tvJvbsaFRt_40deW9NH8Lyj0I-JjmaVD4wWa34MRSt3kFFMGr7mLKHX3G_sid-FmcAjMFL6oK6er8_rGLM1_k4EEFIrt_350B1_8O2rUkWwtVGDJ2_bLzmuRuMgmLA5s98R7ElKVsP6XWCznrBKlct5jPIYjLtKORmUiXZwNVOS_szLrmF5AeraDP8H7iA3TYtPudUQEPQZifOA5nNqs0rd0fVX3tkJdmmmBGWdsKkkiWs5Q46pe7yKUcMh2gDq9CnvhEwOlOxf39EtNBdbos9WqDn1YSSHEFWDWA-204h1UKB3JjjUD6-Aa24H5li9TzdQISpV5YUjRqREjpDydxV_UrxojIrGjksOQ_OokbESP2QRfeL0_pVlLdunDJeRZlsugfS9sY6tdZ8pSEuBKG84=)
+[4] [ksnara.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIRO2DKsXIELLx5GRzXBDFovTNCJ8GH4o7mhirmbkKb7-tvJvbsaFRt_40deW9NH8Lyj0I-JjmaVD4wWa34MRSt3kFFMGr7mLKHX3G_sid-FmcAjMFL6oK6er8_rGLM1_k4EEFIrt_350B1_8O2rUkWwtVGDJ2_bLzmuRuMgmLA5s98R7ElKVsP6XWCznrBKlct5jPIYjLtKORmUiXZwNVOS_szLrmF5AeraDP8H7iA3TYtPudUQEPQZifOA5nNqs0rd0fVX3tkJdmmmBGWdsKkkiWs5Q46pe7yKUcMh2gDq9CnvhEwOlOxf39EtNBdbos9WqDn1YSSHEFWDWA-204h1UKB3JjjUD6-Aa24H5li9TzdQISpV5YUjRqREjpDydxV_UrxojIrGjksOQ_OokbESP2QRfeL0_pVlLdunDJeRZlsugfS9sY6tdZ8pSEuBKG84=)

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Opt 1 len: 18
+Opt 2 len: 18
+

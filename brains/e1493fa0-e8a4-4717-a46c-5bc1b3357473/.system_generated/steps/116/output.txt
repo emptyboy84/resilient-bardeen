@@ -1,0 +1,22 @@
+
+The command exited with code 1.
+Output:
+node:internal/deps/undici/undici:15845
+      Error.captureStackTrace(err);
+            ^
+
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:15845:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async test ([eval]:4:15) {
+  [cause]: Error: getaddrinfo ENOTFOUND suggest-bar.daum.net
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'suggest-bar.daum.net'
+  }
+}
+
+Node.js v24.11.1
+

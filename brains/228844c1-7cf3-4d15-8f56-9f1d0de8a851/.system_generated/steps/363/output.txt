@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=site:book.mcst.go.kr+"비문+인쇄"');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=site:book.mcst.go.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22
+- Page Title: site:book.mcst.go.kr "비문 인쇄" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-42-09-772Z.yml)

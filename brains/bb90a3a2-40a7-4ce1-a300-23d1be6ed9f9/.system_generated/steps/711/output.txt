@@ -1,0 +1,54 @@
+
+The command exited with code 0.
+Output:
+### Page
+- Page URL: https://www.114.co.kr/search/result/all?query=%EB%B6%80%EC%82%B0+%EC%8B%A0%EC%B9%B4
+- Page Title: 부???�카 | No.1 ?�화번호검??- 114On
+- Console: 197 errors, 7 warnings
+### Snapshot
+```yaml
+- generic [ref=f2e2]:
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - img "114" [ref=f2e7] [cursor=pointer]
+      - navigation:
+        - heading "주메?? [level=2]
+        - complementary [ref=f2e8]:
+          - group "?�합검?? [ref=f2e10]:
+            - generic: 검?�어 ?�력
+            - searchbox "검?�어 ?�력" [ref=f2e11]: 부???�카
+            - button "검?? [ref=f2e12] [cursor=pointer]
+          - link "?�세 검?? [ref=f2e13] [cursor=pointer]:
+            - /url: /search
+          - link "지??검?? [ref=f2e14] [cursor=pointer]:
+            - /url: /search/map
+          - link "?�이?�맵 ?�체메뉴" [ref=f2e15] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic: ?�이?�맵
+            - generic [ref=f2e16]: ?�체메뉴
+        - list [ref=f2e17]:
+          - listitem [ref=f2e18]:
+            - link "?�보?�터" [ref=f2e19] [cursor=pointer]:
+              - /url: /common/contents/W00005
+          - listitem [ref=f2e20]:
+            - link "?�벤?? [ref=f2e21] [cursor=pointer]:
+              - /url: /board/boardList?cat_org_id=EVENT
+          - listitem [ref=f2e22]:
+            - link "?�원가?? [ref=f2e23] [cursor=pointer]:
+              - /url: /sign/signupInfo
+          - listitem [ref=f2e24]:
+            - link "로그?? [ref=f2e25] [cursor=pointer]:
+              - /url: /sign/signin
+    - list [ref=f2e272]:
+      - listitem [ref=f2e273]:
+        - link "?�체" [ref=f2e274] [cursor=pointer]:
+          - /url: /search/result/all?query=부???�카
+      - listitem [ref=f2e275]:
+        - link "?�신?? [ref=f2e276] [cursor=pointer]:
+          - /url: /search/result/db?query=부???�카
+      - listitem [ref=f2e277]:
+        - link "공공?�이?? [ref=f2e278] [cursor=pointer]:
+          - /url: /search/result/public?query=부???�카
+  - generic [ref=f2e26]:
+    - generic:
+

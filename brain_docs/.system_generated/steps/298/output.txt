@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Seq 281 R282: 070-4693-7034 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 282 R283: 070-7122-7679 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 305 R306: 051-714-1070 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 315 R316: 051-711-0305 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 323 R324: 051-791-2021 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 327 R328: 070-4231-0729 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 335 R336: 010-4343-7707 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 336 R337: 1833-7169 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 344 R345: 051-711-0805 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 356 R357: 010-3135-3104 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 366 R367: 070-4012-1862 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 367 R368: 070-7704-5700 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 391 R392: 1644-1664 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 415 R416: 1670-0260 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 440 R441: 0507-1301-6920 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 447 R448: 1551-8880 | fill=FFC6EFCE | font=FF006100 | bold=true
+Seq 460 R461: 02-830-7036 | fill=FFC6EFCE | font=FF006100 | bold=true
+

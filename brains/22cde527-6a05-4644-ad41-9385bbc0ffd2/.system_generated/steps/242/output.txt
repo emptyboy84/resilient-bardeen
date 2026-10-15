@@ -1,0 +1,17 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 614 lines>
+on-gil, Geumjeong-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[293/421] Row 2131 | "피엘지" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[294/421] Row 2132 | "지엠씨랩스" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[295/421] Row 2133 | "오키씨" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 601-87-02796 (주식회사 오키씨) | 주소: "부산광역시 남구 문현금융로 40-0 (문현동) BIFC 8층 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "황순옥" [계속사업자]
+[296/421] Row 2134 | "로보프렌레스큐" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 483-81-01071 (주식회사 로보프렌레스큐) | 주소: "부산광역시 남구 신선로 365 6층 602호 (용당동, 부경대학교용당캠퍼스 10공학관) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "김영식" [계속사업자]
+[297/421] Row 2135 | "아이비코어" | 대표: "" | 구: "해운대구"
+
+Last progress: 0s ago

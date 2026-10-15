@@ -1,0 +1,15 @@
+The search for ""2020-서울강동-0016"" returned the following summary:
+문의하신 **"2020-서울강동-0016"**은 법원 사건번호 형식이 아닌, **통신판매업 신고번호** 형식으로 확인됩니다[1][2].
+
+일반적으로 대한민국에서 사용하는 법원 사건번호는 `연도 + 부호 + 일련번호`의 구성(예: 2020가단1234, 2020고합567)을 따르며, 법원 명칭이 직접적으로 포함되는 형태는 아닙니다[3][2].
+
+반면, 인터넷 쇼핑몰 등에서 볼 수 있는 통신판매업 신고번호는 **`제 연도-시도명-시군구코드-일련번호호`** 형식으로 구성되어 있어, 문의하신 번호는 강동구청에 등록된 통신판매업 신고번호일 가능성이 매우 높습니다[1][4][5].
+
+따라서 해당 번호는 특정 민사·형사 사건번호가 아니며, 특정 업체나 사업자의 통신판매업 신고 정보로 판단됩니다. 해당 업체에 대한 정확한 정보가 필요하시다면 공정거래위원회 '통신판매사업자 정보조회' 페이지에서 해당 번호를 검색해 보시기 바랍니다.
+
+Sources:
+[1] [kiweb.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3aFSmYLy46r5GqDdH_J2cbAXu5smJ72eC3OPW19abGOCBIUq2rRflnLm1N3Zc6bTjTnqFEBXdgxuNlN7Y4pfPI7kCrD11AU3ZX10dzoMuwWKskqEIwsVCXKavY36MFN9VE8GhjRq8mtO5DYFl3LmkGHBa7vVmi-hjaA_Nz0q8Rw5Vlip8-Ul6mThdjM4=)
+[2] [tklawfirm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn6FfubJWxaB8HIDmDcIiEjW_kUeDw4sbTAgB7LglAU4b8xtpIp00arpc0HavbRxQYk5v4NRN_BZQ_MtHTBIsHk6Hw0vR8oeaCGupW_bPWzxCp4Ql0sO4zO_FwF9Welku_llMY5a74BPdfJ3cA1QdNjTRTyJE=)
+[3] [chamjimayo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3WYshtfHf0yU-ZTSyZ3sZ_vc9kMNEHc2ep65kOP-0mA3D2i1CAOZ908GgK0xvF29zQ8EfO92Td_pXbvZnEHFYxIX4ZCyd_4izgV4FbUS_1Or-zfrfwqGkdFBh1M2wa7sQ0FNelYOHaqPUkE3HjdwT6VZdBAZFTow=)
+[4] [hasid.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkeCDFv7XSXZF0i-Y_lAwn3VDK8jJuTAjJAk3zF9LCCByaWq0nMpobhJ28uPXw8MFKibPJLYEkhUBEAPmiLHFCsx4vC8wLwwyozfuIEgR8EZfhHszci8aXlplr6pqj6EvS4fPV7VS-IkqVEDw_Jl1b4mrpKBdG2lFJwr-wJ7AF-Xo37PgYNCUndlrJ_dg8VUWXqKMOByk7I-Z6C9B3nHkPkqOkRPdqCa1eXcGxmlo_zmEKNO2g5CWGsJqYxxYR7NRjBFnZ9eKW_-0lgS0gdwR6BVl7RRC3CH4UzVavYqBICmGSK6mWHPft7WaAbKmlRrIuUGdrZs9_PznrEqjLv9M3UBTlqE07FpARKk3_SGxwZN7H4yX2cRtpwNDQiJFxK8OyvhQhg6LQD4SCNy17bpMpXaWYiXurPT-YQ-u058XXqmOrLuHRdlzflqSIdCMKT5aQNZLmQbQYH0gendS9xmorx2ZiHsvwrMD0hyFcb-1VTGsMtuqQ5OQxRLHFi2lvosn4aO_vTod8JuSArzvJbSN1YGkn1HU=)
+[5] [nurse-link.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVVVYFJg9B95hX4cTaSW9kqoY6VG_6aI6OO9D-60OI96LKnifWvepdbQdluhXW129bTpr1eoF97qhqaHZbacpdHrRAe4nHDR-2K2ErwEnNvXGlMP2hzglaKBXIuPO_q5oJJMnu7OsZ)

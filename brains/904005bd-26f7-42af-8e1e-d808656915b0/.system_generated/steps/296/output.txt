@@ -1,0 +1,12 @@
+The search for ""김성홍" "시드" "사업자등록번호" OR "법인등록번호" OR "사업자번호"" returned the following summary:
+검색 결과, '김성홍'과 '시드'라는 키워드와 관련하여 다음과 같은 정보가 확인되었습니다.
+
+*   **기업 정보**: 과거 비상장·장외주식 관련 정보에서 부산 해운대구 소재의 **(주)시드**라는 기업이 언급된 바 있으며, 해당 기업의 대표자로 '김성홍'이라는 인물이 기재된 기록이 있습니다[1].
+*   **기타 정보**: 이 외에도 '김성홍'이라는 이름을 가진 인물은 서울시립대학교 건축학부 교수[2][3] 등 다양한 분야에 존재하며, '시드' 역시 기업명, 브랜드명, 또는 프로젝트명으로 널리 사용되고 있어 특정 사업자등록번호를 식별하기 위해서는 해당 기업의 정확한 소재지나 사업 분야 등 추가 정보가 필요합니다.
+
+요청하신 사업자등록번호나 법인등록번호는 공개된 검색 결과 내에서 직접적으로 명시된 내용을 찾기 어렵습니다. 해당 기업의 정확한 번호를 확인하시려면 [공정거래위원회 기업정보](https://www.ftc.go.kr) 또는 [국세청 홈택스](https://www.hometax.go.kr)의 '사업자등록상태조회' 등을 통해 기업명으로 직접 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGokoYBEwUwRnnW8rlpxAnwf8zcayWWRwewmOCQbo1SFJmsY-2c_hBjXM6_wOIKtEqkyFwBq3Ll9DCKWJinMkHwQslKYeMmvXhQKMrkLBmA0TsWIxYPIGAD8cE0FQwKLGZSULx5DR_NLTo2aw4=)
+[2] [architecture-newspaper.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcPTtaazQrjicb5XCbqhY6S5XhiVhD1mNbq1YhN3Qh4LMqX8mRjcpM_RfRfj5t2_YJGXhKSbdQ9EiuOVlgOXBYVOysjBgKT7w5GPncmgHa-Gx9CMTCMEZwGNF-59T54RB-zS3M8NpokPvVvPZHOj8wG3ZWoeCaGR5W2F1FrDysVg1LnFgK3iTmweML_no_wSsd0hb83m-lg2zOiEz4)
+[3] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNNgVMibldIoThi0mSfaEnR6hG_ScOPtsqKzYL0_5EBYDEctFqJkSJ-Rwg_8sfTJLMSfuHML1BXzLPFD7pQ7BGdywBLCIRwNJEYHMz9KDs3yd-NTGgpwUEcNfgJFrVBFo332QH5smYpFHa)

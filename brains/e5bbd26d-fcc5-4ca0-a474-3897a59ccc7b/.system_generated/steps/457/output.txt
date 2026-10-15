@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+  File "<string>", line 5
+    url = 'https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=' + urllib.parse.quote('" 부산이야\
+                                                                                                                      ^
+SyntaxError: unterminated string literal (detected at line 5)
+

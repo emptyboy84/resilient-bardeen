@@ -1,0 +1,19 @@
+The search for ""인텔리코드" OR "인벤트랩스" OR "베스트엔터테인먼트" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+요청하신 기업들의 매출액 정보는 다음과 같습니다.
+
+### **1. 인텔리코드**
+*   **매출액:** 약 **36억 원** (2024년 기준, 캐치)[1][2] 또는 **약 23억 원** (2025년 기준, 사람인/인크루트)[3][4][5]으로 집계되고 있습니다. 
+    *   *참고: 출처 및 집계 기준에 따라 차이가 있을 수 있으므로 참고용으로 확인하시기 바랍니다.*
+
+### **2. 인벤트랩스**
+*   검색 결과, 채용 포털(사람인, 잡코리아, 인크루트, 캐치) 사이트 내에서 공개된 최근 매출액 정보를 찾을 수 없었습니다.
+
+### **3. 베스트엔터테인먼트**
+*   검색 결과, 채용 포털(사람인, 잡코리아, 인크루트, 캐치) 사이트 내에서 공개된 최근 매출액 정보를 찾을 수 없었습니다.
+
+Sources:
+[1] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEstyREUMr3uOion0r2Mz72O9gRQN8rBbAJxoEhOqAhf8QX1RSgxjM2_HWHPi9hzuok5vJ8CuI08b4dNiPfwkUFQfzRqrXd70-LlAmTdl19yEFBHZsOLxNTfEYlo2lr9gYJ)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfaw8Kx3pIcUtFumto0gAURaO4y6Y17Ije3sl17_5WsgbkavmeDkF06LWATo1KkMITL4oez0P5sExxLjajQKji23iGyZjJ8vXKDtkWZwrtx-EnTXLueZCMBzIZdKbdl4c6SqiK)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPToSf9mqinCTA-Y3re-lW3nvU5DsmvYhfoRAZ7V3GTBbMYtwuDjhI9HynAQm-yLC684L2LlpuHnKi98zyHnMCbGwSE4_9Vtp0khYbLR-VVLd1_leLcECrcETeBqfY46CcxW9Srn3OTBRleopDkC23z9VaO6KXZEl5edP8VTfJdOptO1xd8_6CMItfskdL2qHXd-CjEH75CwYYRT6aqmJvbDS8sOlXN7rPMf_v5VK-m3lowrwC6iyJ0DPesA5rDPsl8xm6EsSmxZs0z8zBwOWh6a4=)
+[4] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jEtcMn9LMC8St-b2y2-rMC6yaSp6CPUG2EaC9TUlu0y7PlnBpLtfvhMoyzjaK9ctDaa1z6dygmWAzyhThmrccT6V4qRtLRBsrKwYmCK-uQ5VoirxaFczGLklbnc3WQ8=)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtHChPW1shY04v2HFF8zu_xxXaPQPGfqKPe4QhkmLgSyZ7xBdPqkCU-MFRJzj-r1-5DYchEgk8Iu19HCZsC6Oz-Q9jxiHXSlxohM7snjHFNqwdXA21k5VZC3Ru_SsMB-yQXtpixcuqEWyuuirzBy7_HR9YlTJoGAUt2a3zY9h8kS0yE26jF5sMetssPcgNm0YMQjsQEUs=)

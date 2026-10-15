@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Implementation plan for building a Virtual Desktop web app with multiple screens and a same-origin proxy to handle Naver Map URL changes and iframe loading.",
+  "updatedAt":  "2026-06-09T23:50:25.590952800Z",
+  "requestFeedback":  true
+}

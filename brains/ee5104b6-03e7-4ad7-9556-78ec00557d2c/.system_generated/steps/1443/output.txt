@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.sp_list li, .list_style_1 li, table tbody tr\')).map(el => el.innerText.trim());\n  return items.slice(0, 20);\n}');
+```

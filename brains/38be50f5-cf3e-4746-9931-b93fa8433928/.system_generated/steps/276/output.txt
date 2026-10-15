@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+parts count: 16
+0 "온누리"
+5 "051-412-7207"
+7 "중구"
+8 "중구 동광동5가 동광길 청아하우스  304"
+9 "음악"
+

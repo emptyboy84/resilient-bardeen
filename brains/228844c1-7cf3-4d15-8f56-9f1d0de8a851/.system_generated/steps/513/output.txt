@@ -1,0 +1,20 @@
+The search for ""이석창" "부산영화사" OR "부산"" returned the following summary:
+이석창(李錫昌)은 부산대학교 예술문화영상학과를 졸업(학사)하고 동 대학원에서 박사 학위를 취득한 영화 연구자이자 교육자입니다[1][2].
+
+주요 활동 및 관련 정보는 다음과 같습니다.
+
+*   **저서 활동**: 부산의 영화 역사를 정리한 학술서 **『부산영화사』**(부산대학교출판문화원, 2021)의 공동 저자입니다[3][4][5]. 이 책은 부산이 한국 영화사에서 갖는 의미와 발전 과정, 부산국제영화제(BIFF)와 지역 영화 문화 등을 다루고 있습니다[4][6].
+*   **연구 활동**: 부산대학교 영화연구소에서 연구원으로 활동하며, 부산국제영화제 결산 좌담회 참여[7][8] 및 학술지 논문 게재(예: '부산소형영화운동' 관련 연구 등)를 통해 부산 영화 문화에 관한 연구를 이어왔습니다[9]. 또한 영화연구 관련 학회에서 임원(총무간사 등)으로 활동한 바 있습니다[10].
+*   **현직**: 2022년부터 **건양대학교 디지털콘텐츠학과 교수**로 재직 중입니다[1][2].
+
+Sources:
+[1] [pusan.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkrYBeBYTs93ovuQOxDtulAA70NTMMpwXaR-dVQTvO0GGmD1XY_niQH7Qc1OO624EtexgnsMHavf5Rrb8FJzdeZzFNgiAY-8c8AvYVp1bu47uBIqtz_HHJ7MlMRRmrAYx8rGMOcvIlJO7B)
+[2] [pusan.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1NFcdSbnGLOVEynlRZAEl5siSq20a5XdGaZGfmCstsOuLB3bOETV5tlYbvIIaf3wFCCEhggL3QyNOH9nLFTu8SVLHFqlf6V78-seSpo4Hn68Y)
+[3] [konyang.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcWQ48gRq4L4vlbwfLpRyGWOuXy5r4iVHV21oe97vakHtABCYSLAX1eEoIAQywwKiNvTTanpRV0Iki2QUKqDrbZkg5SGObbj-euoZYZvPz7-DC6CUJtUSu7w5Zkw6rtIb2oDrMkIqIofpXCaicZa5vj71hzJJzJH7a26GehToxxuIJnHc4mHEaIHNnY0IMalxXPrdl811J57qmakNR5yUdrz4IbG8MX3Vy_XnT8-Re4A==)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGspuBlBYNFhhA2TuWYrDY_WHUdH8-zR1VMAQxwOf3FPfI3NG9VsjNbdJwuKZRHepyH-535J85FgF1dIEIUTtZd2Lo8-zODKU950-Skkwi95xim2YriuADF9vmgGmApqxeB)
+[5] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLZD0z77bmH_3DKK67scZBntZultcLrXvXQByliXzXRMjnDY1vcZ_u606I9iaPtVrluI3VE9pea5hNahgY1DZeu4dFQQ8MIJyDX4paMS1D1eMb3se2DyyyHPr6K2JLz-FQppsOmyO2s-YSknAo1rOW3BIKW-vtlmb10MVJhGW1NA==)
+[6] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGspuBlBYNFhhA2TuWYrDY_WHUdH8-zR1VMAQxwOf3FPfI3NG9VsjNbdJwuKZRHepyH-535J85FgF1dIEIUTtZd2Lo8-zODKU950-Skkwi95xim2YriuADF9vmgGmApqxeB)
+[7] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj65sGAAi3-cUoF6XG2B8g7SGJxb0Fuhq3nA2aPK8_k2jOm0ruuRo0V2kixbonxsU5FWRK9zD7HxuaFklXhlyMoJxktYgwCtTgPVEtHxbx-CsVJwIWbls9GngCdKI3LjW_YiYA81kafqhRh0516D0lsIpOhOH-ocKk)
+[8] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSzmCy7InrFZSCITbBT80hWYqxQBbBLac_u6WoXvTXG4uRmyY04PrL7VBZu916J8WEojLT67sd2XqudAqnbUT3kF542rnfOfaBNDzln5agobZ_Q4hwOKT8VnAOFlH_C_UF5FO9barqaWbH9HlePAk14g=)
+[9] [riss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYdbCxXT8Qgzuz2x40GbKi-r7UPc4oqVHaZ-xDnEgSURYPzMrAqO_zZphjrmNQ94WJvsafY6em9TKQRc9qTaGtMW7aiDrEWq9Ku_C09DgDCRqjKsWlBbU5nTmhqJuB3GB5unD7O2esDmgYCkvmFeQd87Qel4lO-mhPJrmEPJ73UR3DJSxaGk9jeP1Tl4veFs5FSAxRyjODmQ0TN7ImK5VyjpJrEnFmdsTeh2mqYbGiABm82dZhNAFAiOGiwO9IDpHWFbhhZqO7YpIATeWiT36QwofjyAR6Jy8mGwF-fFPVgNON5Bpob2znF7y7Hx9DMfpvj7C2Tfnvo5hYnDlWypd_DUs=)
+[10] [sogang.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElas94ZyEgChMGk-74J7DPQaRFJcZWmtmJCMI01Iz2vfiFac39uspxVTwhJ89JszzLJEeEROWgG4UoxGjjD--IqWx7dQIVD24LnAbsbFkAgnJZBgmvjTHN-9FMeKF8kc5DzNmLiRrJQjCgtd8hyw2JZibCx-_uX5dYcgx_GR-eOmezBDjgaUBdKlDbwNYWAO8GG0MvH7Hr4pHFOqVACyVxkeg3XNGKjBYSLIM9AwsbMLzucRq8gyPhnD84nCvZLLRfFgg1JkmgQMlL1TBhTGa0pgfi3eZgL9iGwabliwCwktQO4rfCpPNQVSze12cvmaU_ngxekIS9DO4YYEU1yO22iHEcy93Cr5agU7IrHC99z91jGV6Wu2NXkG5pJsDLSjUgx1xuBXmUShODjnLuRfeBgzO9IRGgxymW1YTCQlIzIjWCMVjFYxofbvuS7_fcJ4OeqKSU5LQ18QDwAKz4EPq6mJDrhcRQkKej0WpFDbn7QshCqwsF8u2yHw5DxluNl7_WT0PZR9v2z7wz_xm2JEGWvhsY6AlPgNRv98H9OqfdQ8lR2ktc_0OxN_uzrjYi)

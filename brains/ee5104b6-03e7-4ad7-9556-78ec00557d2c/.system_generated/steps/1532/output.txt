@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5548601854');
+```
+### Page
+- Page URL: https://bizno.net/article/5548601854
+- Page Title: 주식회사 라온컴퍼니
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T03-14-10-771Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T03-14-04-681Z.log#L1-L5

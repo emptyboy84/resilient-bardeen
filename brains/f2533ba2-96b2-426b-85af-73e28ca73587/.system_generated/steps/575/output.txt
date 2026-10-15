@@ -1,0 +1,9 @@
+### Result
+"Clicked 법인등기 열람/발급"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const elements = Array.from(document.querySelectorAll(\'a, button, span\'));\n  const corpBtn = elements.find(el => el.innerText.trim() === \'법인 열람·발급\' || el.innerText.trim() === \'법인등기 열람/발급\');\n  if (corpBtn) {\n    corpBtn.click();\n    return \'Clicked \' + corpBtn.innerText;\n  }\n  return \'Not found\';\n}');
+```
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소 - 법인등기 열람/발급

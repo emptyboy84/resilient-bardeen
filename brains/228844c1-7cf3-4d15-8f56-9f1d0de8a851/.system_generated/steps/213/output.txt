@@ -1,0 +1,1038 @@
+### Page
+- Page URL: https://bizno.net/?query=%EB%B0%95%ED%95%99%EB%AC%B8
+- Page Title: 박학문
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=f322e1]:
+  - text: 
+  - banner [ref=f322e2]:
+    - generic [ref=f322e4]:
+      - link [ref=f322e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f322e7]:
+        - list:
+          - listitem [ref=f322e8]:
+            - link "Home" [ref=f322e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f322e10]:
+            - link "사업자등록번호조회" [ref=f322e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f322e12]:
+            - link "법인등록번호조회" [ref=f322e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f322e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f322e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f322e16]:
+            - link "전화번호로 조회" [ref=f322e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f322e18]:
+            - link "대표자이름으로 조회" [ref=f322e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f322e20]:
+            - link "API" [ref=f322e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f322e22]:
+            - link "고객문의" [ref=f322e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f322e28]:
+    - heading "사업자등록번호조회" [level=1] [ref=f322e29]
+    - paragraph [ref=f322e30]:
+      - text: 사업자등록번호로
+      - generic [ref=f322e31]: 
+      - text: 사업자정보(회사명,법인번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f322e32]'
+    - paragraph [ref=f322e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,082"
+    - generic [ref=f322e35]:
+      - combobox "Select your city" [ref=f322e37]:
+        - option "지역전체" [selected]
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산"
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "사업자등록번호 / 법인등록번호 / 상호명 입력" [active] [ref=f322e39]
+      - button " 검색" [ref=f322e41] [cursor=pointer]:
+        - generic [ref=f322e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f322e43]:
+      - text: "\"박학문\" 키워드로"
+      - strong [ref=f322e44]: "100"
+      - text: (최대 100개만 출력됩니다) 개의 결과를 찾았습니다
+  - generic [ref=f322e47]:
+    - generic [ref=f322e48]:
+      - separator [ref=f322e49]
+      - generic [ref=f322e51]:
+        - generic [ref=f322e53]:
+          - link [ref=f322e54] [cursor=pointer]:
+            - /url: /article/5622301355
+            - heading "박학문" [level=4] [ref=f322e55]
+          - heading "박학*" [level=5] [ref=f322e56]
+        - paragraph
+      - separator [ref=f322e57]
+      - generic [ref=f322e59]:
+        - generic [ref=f322e61]:
+          - link [ref=f322e62] [cursor=pointer]:
+            - /url: /article/1039201623
+            - heading "박학수마취통증의학과의원" [level=4] [ref=f322e63]
+          - insertion [ref=f322e65]:
+            - generic [ref=f322e68]:
+              - heading "도움말과 관련된 주제 중 관심이 있을 만한 항목입니다." [level=2] [ref=f322e70]: 자세히 알아보기
+              - link "회사 운영" [ref=f322e71] [cursor=pointer]
+              - link "정보 관리" [ref=f322e76] [cursor=pointer]
+              - link "비즈니스 및 산업" [ref=f322e81] [cursor=pointer]
+              - link "회사 분석" [ref=f322e86] [cursor=pointer]
+              - link "법인 등기" [ref=f322e91] [cursor=pointer]
+              - link "경기도 정보" [ref=f322e96] [cursor=pointer]
+              - link "업체 및 개인 등록정보" [ref=f322e101] [cursor=pointer]
+              - link "제조" [ref=f322e106] [cursor=pointer]
+          - heading "박학*" [level=5] [ref=f322e111]
+          - heading "일반 의원" [level=5] [ref=f322e112]
+        - paragraph [ref=f322e113]:
+          - text: 서울특별시 강서구 강서로 377,...
+          - link "도시 및 지역 안내" [ref=f322e114] [cursor=pointer]
+      - separator [ref=f322e118]
+      - generic [ref=f322e120]:
+        - generic [ref=f322e122]:
+          - link [ref=f322e123] [cursor=pointer]:
+            - /url: /article/1313647614
+            - heading "박학순세무회계사무소" [level=4] [ref=f322e124]
+          - heading "박학*" [level=5] [ref=f322e125]
+          - heading "법무회계관련 서비스업" [level=5] [ref=f322e126]
+        - paragraph [ref=f322e127]: 인천광역시 남동구 인하로 545 ...
+      - separator [ref=f322e128]
+      - generic [ref=f322e130]:
+        - generic [ref=f322e132]:
+          - link [ref=f322e133] [cursor=pointer]:
+            - /url: /article/4040189034
+            - heading "법무사박학규사무소" [level=4] [ref=f322e134]
+          - heading "박학*" [level=5] [ref=f322e135]
+          - heading "법무사업" [level=5] [ref=f322e136]
+        - paragraph [ref=f322e137]: 전라북도 정읍시 수성6로 30(수...
+      - separator [ref=f322e138]
+      - generic [ref=f322e140]:
+        - generic [ref=f322e142]:
+          - link [ref=f322e143] [cursor=pointer]:
+            - /url: /article/6121128127
+            - heading "박학천 건축사사무소" [level=4] [ref=f322e144]
+          - insertion [ref=f322e146]:
+            - iframe [ref=f322e148]:
+              - iframe [ref=f332e1]:
+                - generic:
+                  - link [ref=f340e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=9NwyhJxNAnu0zlfi6JKoag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=KEuI890DSgq_9CkMwbpSYA&crpid=AKKZ5mYWSICj_v49mhIADw&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_oqwmKqIVorfR7PdyorMQ70omK4lqU1u_uYlECYzBKYzgJ4u-uYgWJ4u_onx1wHTRuqayK4lBZyu_ujJEU1u-uYsBuqa1ord1K4lBZDw121uVo4QxKqd9o4lO&ui=CylYc8Myuqa1ordmKqGxonQVoq69oqdR2qaVo4lO&consent=1&ddhh=orIWod&flanding_rdr=
+                  - button [ref=f340e4] [cursor=pointer]
+          - heading "박학*" [level=5] [ref=f322e149]
+          - heading "건축설계 및 관련 서비스업" [level=5] [ref=f322e150]
+        - paragraph [ref=f322e151]: 경상남도 고성군 고성읍 성내로 1...
+      - separator [ref=f322e152]
+      - generic [ref=f322e154]:
+        - generic [ref=f322e156]:
+          - link [ref=f322e157] [cursor=pointer]:
+            - /url: /article/2280173205
+            - heading "박학도" [level=4] [ref=f322e158]
+          - heading "비주거용 건물 임대업(점포, 타인땅)" [level=5] [ref=f322e159]
+        - paragraph [ref=f322e160]: 강원도 태백시 광장로 6
+      - separator [ref=f322e161]
+      - generic [ref=f322e163]:
+        - generic [ref=f322e165]:
+          - link [ref=f322e166] [cursor=pointer]:
+            - /url: /article/1410213421
+            - heading "박학천논술（510호）" [level=4] [ref=f322e167]
+          - insertion [ref=f322e169]
+          - heading "황삼*" [level=5] [ref=f322e171]
+        - paragraph [ref=f322e172]: 경기도 파주시 청석로 334
+      - separator [ref=f322e173]
+      - generic [ref=f322e175]:
+        - generic [ref=f322e177]:
+          - link [ref=f322e178] [cursor=pointer]:
+            - /url: /article/1299288641
+            - heading "박학례" [level=4] [ref=f322e179]
+          - heading "박학*" [level=5] [ref=f322e180]
+        - paragraph [ref=f322e181]: 경기도 성남시 분당구 양현로 50...
+      - separator [ref=f322e182]
+      - generic [ref=f322e184]:
+        - generic [ref=f322e186]:
+          - link [ref=f322e187] [cursor=pointer]:
+            - /url: /article/4109203359
+            - heading "박학천국어교습소" [level=4] [ref=f322e188]
+          - heading "오숙*" [level=5] [ref=f322e189]
+          - heading "일반 교과 학원" [level=5] [ref=f322e190]
+        - paragraph [ref=f322e191]: 전남광주통합특별시 광산구 신창로1...
+      - separator [ref=f322e192]
+      - generic [ref=f322e194]:
+        - generic [ref=f322e196]:
+          - link [ref=f322e197] [cursor=pointer]:
+            - /url: /article/1292244145
+            - heading "박학진건물" [level=4] [ref=f322e198]
+          - heading "부동산업" [level=5] [ref=f322e199]
+        - paragraph [ref=f322e200]: 경기도 성남시 수정구 복정로 7-...
+      - separator [ref=f322e201]
+      - generic [ref=f322e203]:
+        - generic [ref=f322e205]:
+          - link [ref=f322e206] [cursor=pointer]:
+            - /url: /article/1292146845
+            - heading "경호빌딩(박학준)" [level=4] [ref=f322e207]
+          - insertion [ref=f322e209]
+          - heading "박학*" [level=5] [ref=f322e211]
+          - heading "비주거용 건물 임대업" [level=5] [ref=f322e212]
+        - paragraph [ref=f322e213]:
+          - text: 경기도 성남시 수정구 복정로 9
+          - link "도시 및 지역 안내" [ref=f322e214] [cursor=pointer]
+      - separator [ref=f322e218]
+      - generic [ref=f322e220]:
+        - generic [ref=f322e222]:
+          - link [ref=f322e223] [cursor=pointer]:
+            - /url: /article/1095153960
+            - heading "박학용" [level=4] [ref=f322e224]
+          - heading "박학*" [level=5] [ref=f322e225]
+        - paragraph [ref=f322e226]: 서울특별시 강서구 화곡로13길 3...
+      - separator [ref=f322e227]
+      - generic [ref=f322e229]:
+        - generic [ref=f322e231]:
+          - link [ref=f322e232] [cursor=pointer]:
+            - /url: /article/1420109786
+            - heading "박학순" [level=4] [ref=f322e233]
+          - heading "박학*" [level=5] [ref=f322e234]
+          - heading "통신기기" [level=5] [ref=f322e235]
+        - paragraph [ref=f322e236]: 경기도 용인시 기흥구 동백동 22...
+      - separator [ref=f322e237]
+      - generic [ref=f322e239]:
+        - generic [ref=f322e241]:
+          - link [ref=f322e242] [cursor=pointer]:
+            - /url: /article/5099100126
+            - heading "박학규동물병원" [level=4] [ref=f322e243]
+          - heading "박학*" [level=5] [ref=f322e244]
+          - heading "수의업" [level=5] [ref=f322e245]
+        - paragraph [ref=f322e246]: 경상남도 하동군 하동읍 경서대로 ...
+      - separator [ref=f322e247]
+      - generic [ref=f322e249]:
+        - generic [ref=f322e251]:
+          - link [ref=f322e252] [cursor=pointer]:
+            - /url: /article/8339101028
+            - heading "박학동" [level=4] [ref=f322e253]
+          - heading "박학*" [level=5] [ref=f322e254]
+        - paragraph
+      - separator [ref=f322e255]
+      - generic [ref=f322e257]:
+        - generic [ref=f322e259]:
+          - link [ref=f322e260] [cursor=pointer]:
+            - /url: /article/1269235752
+            - heading "박학수" [level=4] [ref=f322e261]
+          - heading "박학*" [level=5] [ref=f322e262]
+        - paragraph
+      - separator [ref=f322e263]
+      - generic [ref=f322e265]:
+        - generic [ref=f322e267]:
+          - link [ref=f322e268] [cursor=pointer]:
+            - /url: /article/3341500571
+            - heading "박학성" [level=4] [ref=f322e269]
+          - heading "박학*" [level=5] [ref=f322e270]
+        - paragraph
+      - separator [ref=f322e271]
+      - generic [ref=f322e273]:
+        - generic [ref=f322e275]:
+          - link [ref=f322e276] [cursor=pointer]:
+            - /url: /article/5920800733
+            - heading "박학석" [level=4] [ref=f322e277]
+          - heading "박학*" [level=5] [ref=f322e278]
+        - paragraph
+      - separator [ref=f322e279]
+      - generic [ref=f322e281]:
+        - generic [ref=f322e283]:
+          - link [ref=f322e284] [cursor=pointer]:
+            - /url: /article/1340739409
+            - heading "박학도" [level=4] [ref=f322e285]
+          - heading "비주거용 건물 임대업(점포, 자기땅)" [level=5] [ref=f322e286]
+        - paragraph
+      - separator [ref=f322e287]
+      - generic [ref=f322e289]:
+        - generic [ref=f322e291]:
+          - link [ref=f322e292] [cursor=pointer]:
+            - /url: /article/8680702515
+            - heading "박학경 태양광" [level=4] [ref=f322e293]
+          - heading "박학*" [level=5] [ref=f322e294]
+        - paragraph [ref=f322e295]: 경상남도 하동군 진교면 율원길 2...
+      - separator [ref=f322e296]
+      - generic [ref=f322e298]:
+        - generic [ref=f322e300]:
+          - link [ref=f322e301] [cursor=pointer]:
+            - /url: /article/2041654583
+            - heading "박학훈" [level=4] [ref=f322e302]
+          - heading "박학*" [level=5] [ref=f322e303]
+        - paragraph [ref=f322e304]:
+          - text: 서울특별시 동대문구 전농로36길 ...
+          - link "도시 및 지역 안내" [ref=f322e305] [cursor=pointer]
+      - separator [ref=f322e309]
+      - generic [ref=f322e311]:
+        - generic [ref=f322e313]:
+          - link [ref=f322e314] [cursor=pointer]:
+            - /url: /article/2731202176
+            - heading "박학자 부동산" [level=4] [ref=f322e315]
+          - heading "박학*" [level=5] [ref=f322e316]
+        - paragraph
+      - separator [ref=f322e317]
+      - generic [ref=f322e319]:
+        - generic [ref=f322e321]:
+          - link [ref=f322e322] [cursor=pointer]:
+            - /url: /article/8252401495
+            - heading "박학선태양광" [level=4] [ref=f322e323]
+          - heading "박학*" [level=5] [ref=f322e324]
+        - paragraph
+      - separator [ref=f322e325]
+      - generic [ref=f322e327]:
+        - generic [ref=f322e329]:
+          - link [ref=f322e330] [cursor=pointer]:
+            - /url: /article/6062238456
+            - heading "박학춘" [level=4] [ref=f322e331]
+          - heading "박학*" [level=5] [ref=f322e332]
+        - paragraph
+      - separator [ref=f322e333]
+      - generic [ref=f322e335]:
+        - generic [ref=f322e337]:
+          - link [ref=f322e338] [cursor=pointer]:
+            - /url: /article/6210130370
+            - heading "박학춘" [level=4] [ref=f322e339]
+          - heading "박학*" [level=5] [ref=f322e340]
+        - paragraph
+      - separator [ref=f322e341]
+      - generic [ref=f322e343]:
+        - generic [ref=f322e345]:
+          - link [ref=f322e346] [cursor=pointer]:
+            - /url: /article/1132436154
+            - heading "박학성" [level=4] [ref=f322e347]
+          - heading "박학*" [level=5] [ref=f322e348]
+        - paragraph
+      - separator [ref=f322e349]
+      - generic [ref=f322e351]:
+        - generic [ref=f322e353]:
+          - link [ref=f322e354] [cursor=pointer]:
+            - /url: /article/1091534529
+            - heading "박학례" [level=4] [ref=f322e355]
+          - heading "박학*" [level=5] [ref=f322e356]
+        - paragraph
+      - separator [ref=f322e357]
+      - generic [ref=f322e359]:
+        - generic [ref=f322e361]:
+          - link [ref=f322e362] [cursor=pointer]:
+            - /url: /article/1109221705
+            - heading "박학현" [level=4] [ref=f322e363]
+          - heading "박학*" [level=5] [ref=f322e364]
+        - paragraph
+      - separator [ref=f322e365]
+      - generic [ref=f322e367]:
+        - generic [ref=f322e369]:
+          - link [ref=f322e370] [cursor=pointer]:
+            - /url: /article/1132664649
+            - heading "박학봉건물" [level=4] [ref=f322e371]
+          - heading "박학*" [level=5] [ref=f322e372]
+        - paragraph
+      - separator [ref=f322e373]
+      - generic [ref=f322e375]:
+        - generic [ref=f322e377]:
+          - link [ref=f322e378] [cursor=pointer]:
+            - /url: /article/1092609991
+            - heading "박학선" [level=4] [ref=f322e379]
+          - heading "박학*" [level=5] [ref=f322e380]
+        - paragraph
+      - separator [ref=f322e381]
+      - generic [ref=f322e383]:
+        - generic [ref=f322e385]:
+          - link [ref=f322e386] [cursor=pointer]:
+            - /url: /article/1343067882
+            - heading "박학수（임대）" [level=4] [ref=f322e387]
+          - heading "박학*" [level=5] [ref=f322e388]
+        - paragraph
+      - separator [ref=f322e389]
+      - generic [ref=f322e391]:
+        - generic [ref=f322e393]:
+          - link [ref=f322e394] [cursor=pointer]:
+            - /url: /article/1082092855
+            - heading "박학영" [level=4] [ref=f322e395]
+          - heading "박학*" [level=5] [ref=f322e396]
+        - paragraph
+      - separator [ref=f322e397]
+      - generic [ref=f322e399]:
+        - generic [ref=f322e401]:
+          - link [ref=f322e402] [cursor=pointer]:
+            - /url: /article/1109464862
+            - heading "박학순" [level=4] [ref=f322e403]
+          - heading "박학*" [level=5] [ref=f322e404]
+        - paragraph
+      - separator [ref=f322e405]
+      - generic [ref=f322e407]:
+        - generic [ref=f322e409]:
+          - link [ref=f322e410] [cursor=pointer]:
+            - /url: /article/2561101632
+            - heading "박학수" [level=4] [ref=f322e411]
+          - heading "박학*" [level=5] [ref=f322e412]
+        - paragraph
+      - separator [ref=f322e413]
+      - generic [ref=f322e415]:
+        - generic [ref=f322e417]:
+          - link [ref=f322e418] [cursor=pointer]:
+            - /url: /article/1136180107
+            - heading "박학래" [level=4] [ref=f322e419]
+          - heading "박학*" [level=5] [ref=f322e420]
+        - paragraph
+      - separator [ref=f322e421]
+      - generic [ref=f322e423]:
+        - generic [ref=f322e425]:
+          - link [ref=f322e426] [cursor=pointer]:
+            - /url: /article/1140854970
+            - heading "박학준" [level=4] [ref=f322e427]
+          - heading "박학*" [level=5] [ref=f322e428]
+        - paragraph
+      - separator [ref=f322e429]
+      - generic [ref=f322e431]:
+        - generic [ref=f322e433]:
+          - link [ref=f322e434] [cursor=pointer]:
+            - /url: /article/1651800466
+            - heading "박학수" [level=4] [ref=f322e435]
+          - heading "박학*" [level=5] [ref=f322e436]
+        - paragraph
+      - separator [ref=f322e437]
+      - generic [ref=f322e439]:
+        - generic [ref=f322e441]:
+          - link [ref=f322e442] [cursor=pointer]:
+            - /url: /article/2011611509
+            - heading "박학수" [level=4] [ref=f322e443]
+          - heading "박학*" [level=5] [ref=f322e444]
+        - paragraph
+      - separator [ref=f322e445]
+      - generic [ref=f322e447]:
+        - generic [ref=f322e449]:
+          - link [ref=f322e450] [cursor=pointer]:
+            - /url: /article/7134100152
+            - heading "박학범" [level=4] [ref=f322e451]
+          - heading "박학*" [level=5] [ref=f322e452]
+        - paragraph
+      - separator [ref=f322e453]
+      - generic [ref=f322e455]:
+        - generic [ref=f322e457]:
+          - link [ref=f322e458] [cursor=pointer]:
+            - /url: /article/6063549123
+            - heading "박학균" [level=4] [ref=f322e459]
+          - heading "박학*" [level=5] [ref=f322e460]
+        - paragraph
+      - separator [ref=f322e461]
+      - generic [ref=f322e463]:
+        - generic [ref=f322e465]:
+          - link [ref=f322e466] [cursor=pointer]:
+            - /url: /article/5319501585
+            - heading "박학순임대(주택임대)" [level=4] [ref=f322e467]
+          - heading "박학*" [level=5] [ref=f322e468]
+        - paragraph
+      - separator [ref=f322e469]
+      - generic [ref=f322e471]:
+        - generic [ref=f322e473]:
+          - link [ref=f322e474] [cursor=pointer]:
+            - /url: /article/7010201993
+            - heading "박학모" [level=4] [ref=f322e475]
+          - heading "박학*" [level=5] [ref=f322e476]
+        - paragraph
+      - separator [ref=f322e477]
+      - generic [ref=f322e479]:
+        - generic [ref=f322e481]:
+          - link [ref=f322e482] [cursor=pointer]:
+            - /url: /article/4512400752
+            - heading "박학모" [level=4] [ref=f322e483]
+          - heading "박학*" [level=5] [ref=f322e484]
+        - paragraph
+      - separator [ref=f322e485]
+      - generic [ref=f322e487]:
+        - generic [ref=f322e489]:
+          - link [ref=f322e490] [cursor=pointer]:
+            - /url: /article/2062389107
+            - heading "박학봉" [level=4] [ref=f322e491]
+          - heading "박학*" [level=5] [ref=f322e492]
+        - paragraph
+      - separator [ref=f322e493]
+      - generic [ref=f322e495]:
+        - generic [ref=f322e497]:
+          - link [ref=f322e498] [cursor=pointer]:
+            - /url: /article/3013177575
+            - heading "박학서" [level=4] [ref=f322e499]
+          - heading "박학*" [level=5] [ref=f322e500]
+        - paragraph
+      - separator [ref=f322e501]
+      - generic [ref=f322e503]:
+        - generic [ref=f322e505]:
+          - link [ref=f322e506] [cursor=pointer]:
+            - /url: /article/6279900298
+            - heading "박학열" [level=4] [ref=f322e507]
+          - heading "박학*" [level=5] [ref=f322e508]
+        - paragraph
+      - separator [ref=f322e509]
+      - generic [ref=f322e511]:
+        - generic [ref=f322e513]:
+          - link [ref=f322e514] [cursor=pointer]:
+            - /url: /article/3012584186
+            - heading "박학섭" [level=4] [ref=f322e515]
+          - heading "박학*" [level=5] [ref=f322e516]
+        - paragraph
+      - separator [ref=f322e517]
+      - generic [ref=f322e519]:
+        - generic [ref=f322e521]:
+          - link [ref=f322e522] [cursor=pointer]:
+            - /url: /article/6973100564
+            - heading "박학송" [level=4] [ref=f322e523]
+          - heading "박학*" [level=5] [ref=f322e524]
+        - paragraph
+      - separator [ref=f322e525]
+      - generic [ref=f322e527]:
+        - generic [ref=f322e529]:
+          - link [ref=f322e530] [cursor=pointer]:
+            - /url: /article/2405200271
+            - heading "박학배" [level=4] [ref=f322e531]
+          - heading "박학*" [level=5] [ref=f322e532]
+        - paragraph
+      - separator [ref=f322e533]
+      - generic [ref=f322e535]:
+        - generic [ref=f322e537]:
+          - link [ref=f322e538] [cursor=pointer]:
+            - /url: /article/7530300987
+            - heading "박학신" [level=4] [ref=f322e539]
+          - heading "박학*" [level=5] [ref=f322e540]
+        - paragraph
+      - separator [ref=f322e541]
+      - generic [ref=f322e543]:
+        - generic [ref=f322e545]:
+          - link [ref=f322e546] [cursor=pointer]:
+            - /url: /article/2030234705
+            - heading "박학기" [level=4] [ref=f322e547]
+          - heading "박학*" [level=5] [ref=f322e548]
+        - paragraph
+      - separator [ref=f322e549]
+      - generic [ref=f322e551]:
+        - generic [ref=f322e553]:
+          - link [ref=f322e554] [cursor=pointer]:
+            - /url: /article/2030232269
+            - heading "박학기" [level=4] [ref=f322e555]
+          - heading "박학*" [level=5] [ref=f322e556]
+        - paragraph
+      - separator [ref=f322e557]
+      - generic [ref=f322e559]:
+        - generic [ref=f322e561]:
+          - link [ref=f322e562] [cursor=pointer]:
+            - /url: /article/2010336359
+            - heading "박학기" [level=4] [ref=f322e563]
+          - heading "박학*" [level=5] [ref=f322e564]
+        - paragraph
+      - separator [ref=f322e565]
+      - generic [ref=f322e567]:
+        - link [ref=f322e570] [cursor=pointer]:
+          - /url: /article/6060167577
+          - heading "부산개인택시/박학수" [level=4] [ref=f322e571]
+        - paragraph [ref=f322e572]: 비공개
+      - separator [ref=f322e573]
+      - generic [ref=f322e575]:
+        - link [ref=f322e578] [cursor=pointer]:
+          - /url: /article/7162501960
+          - heading "박학다식" [level=4] [ref=f322e579]
+        - paragraph [ref=f322e580]:
+          - text: 서울특별시 종로구 돈화문로11나길...
+          - link "도시 및 지역 안내" [ref=f322e581] [cursor=pointer]
+      - separator [ref=f322e585]
+      - generic [ref=f322e587]:
+        - generic [ref=f322e589]:
+          - link [ref=f322e590] [cursor=pointer]:
+            - /url: /article/1849101891
+            - heading "박학송" [level=4] [ref=f322e591]
+          - heading "박학*" [level=5] [ref=f322e592]
+        - paragraph
+      - separator [ref=f322e593]
+      - generic [ref=f322e595]:
+        - generic [ref=f322e597]:
+          - link [ref=f322e598] [cursor=pointer]:
+            - /url: /article/5641800722
+            - heading "박학송" [level=4] [ref=f322e599]
+          - heading "박학*" [level=5] [ref=f322e600]
+        - paragraph
+      - separator [ref=f322e601]
+      - generic [ref=f322e603]:
+        - generic [ref=f322e605]:
+          - link [ref=f322e606] [cursor=pointer]:
+            - /url: /article/7039600117
+            - heading "박학송" [level=4] [ref=f322e607]
+          - heading "박학*" [level=5] [ref=f322e608]
+        - paragraph
+      - separator [ref=f322e609]
+      - generic [ref=f322e611]:
+        - generic [ref=f322e613]:
+          - link [ref=f322e614] [cursor=pointer]:
+            - /url: /article/2101226954
+            - heading "박학래" [level=4] [ref=f322e615]
+          - heading "박학*" [level=5] [ref=f322e616]
+        - paragraph
+      - separator [ref=f322e617]
+      - generic [ref=f322e619]:
+        - generic [ref=f322e621]:
+          - link [ref=f322e622] [cursor=pointer]:
+            - /url: /article/1672701352
+            - heading "박학래" [level=4] [ref=f322e623]
+          - heading "박학*" [level=5] [ref=f322e624]
+        - paragraph
+      - separator [ref=f322e625]
+      - generic [ref=f322e627]:
+        - generic [ref=f322e629]:
+          - link [ref=f322e630] [cursor=pointer]:
+            - /url: /article/8789601671
+            - heading "박학렬" [level=4] [ref=f322e631]
+          - heading "박학*" [level=5] [ref=f322e632]
+        - paragraph
+      - separator [ref=f322e633]
+      - generic [ref=f322e635]:
+        - generic [ref=f322e637]:
+          - link [ref=f322e638] [cursor=pointer]:
+            - /url: /article/2031344121
+            - heading "박학봉" [level=4] [ref=f322e639]
+          - heading "박학*" [level=5] [ref=f322e640]
+        - paragraph
+      - separator [ref=f322e641]
+      - generic [ref=f322e643]:
+        - generic [ref=f322e645]:
+          - link [ref=f322e646] [cursor=pointer]:
+            - /url: /article/2105005344
+            - heading "박학봉" [level=4] [ref=f322e647]
+          - heading "박학*" [level=5] [ref=f322e648]
+        - paragraph
+      - separator [ref=f322e649]
+      - generic [ref=f322e651]:
+        - generic [ref=f322e653]:
+          - link [ref=f322e654] [cursor=pointer]:
+            - /url: /article/6574900237
+            - heading "박학모" [level=4] [ref=f322e655]
+          - heading "박학*" [level=5] [ref=f322e656]
+        - paragraph
+      - separator [ref=f322e657]
+      - generic [ref=f322e659]:
+        - generic [ref=f322e661]:
+          - link [ref=f322e662] [cursor=pointer]:
+            - /url: /article/4113011742
+            - heading "박학목" [level=4] [ref=f322e663]
+          - heading "박학*" [level=5] [ref=f322e664]
+        - paragraph
+      - separator [ref=f322e665]
+      - generic [ref=f322e667]:
+        - generic [ref=f322e669]:
+          - link [ref=f322e670] [cursor=pointer]:
+            - /url: /article/2030232217
+            - heading "박학기" [level=4] [ref=f322e671]
+          - heading "박학*" [level=5] [ref=f322e672]
+        - paragraph
+      - separator [ref=f322e673]
+      - generic [ref=f322e675]:
+        - generic [ref=f322e677]:
+          - link [ref=f322e678] [cursor=pointer]:
+            - /url: /article/2030234063
+            - heading "박학기" [level=4] [ref=f322e679]
+          - heading "박학*" [level=5] [ref=f322e680]
+        - paragraph
+      - separator [ref=f322e681]
+      - generic [ref=f322e683]:
+        - generic [ref=f322e685]:
+          - link [ref=f322e686] [cursor=pointer]:
+            - /url: /article/2030232240
+            - heading "박학기" [level=4] [ref=f322e687]
+          - heading "박학*" [level=5] [ref=f322e688]
+        - paragraph
+      - separator [ref=f322e689]
+      - generic [ref=f322e691]:
+        - generic [ref=f322e693]:
+          - link [ref=f322e694] [cursor=pointer]:
+            - /url: /article/6049486527
+            - heading "박학배" [level=4] [ref=f322e695]
+          - heading "박학*" [level=5] [ref=f322e696]
+        - paragraph
+      - separator [ref=f322e697]
+      - generic [ref=f322e699]:
+        - generic [ref=f322e701]:
+          - link [ref=f322e702] [cursor=pointer]:
+            - /url: /article/5142553197
+            - heading "박학현" [level=4] [ref=f322e703]
+          - heading "박학*" [level=5] [ref=f322e704]
+        - paragraph
+      - separator [ref=f322e705]
+      - generic [ref=f322e707]:
+        - generic [ref=f322e709]:
+          - link [ref=f322e710] [cursor=pointer]:
+            - /url: /article/4611700130
+            - heading "박학훈" [level=4] [ref=f322e711]
+          - heading "박학*" [level=5] [ref=f322e712]
+        - paragraph
+      - separator [ref=f322e713]
+      - generic [ref=f322e715]:
+        - generic [ref=f322e717]:
+          - link [ref=f322e718] [cursor=pointer]:
+            - /url: /article/1251940133
+            - heading "박학균" [level=4] [ref=f322e719]
+          - heading "박학*" [level=5] [ref=f322e720]
+        - paragraph
+      - separator [ref=f322e721]
+      - generic [ref=f322e723]:
+        - generic [ref=f322e725]:
+          - link [ref=f322e726] [cursor=pointer]:
+            - /url: /article/4239301029
+            - heading "박학현" [level=4] [ref=f322e727]
+          - heading "박학*" [level=5] [ref=f322e728]
+        - paragraph
+      - separator [ref=f322e729]
+      - generic [ref=f322e731]:
+        - generic [ref=f322e733]:
+          - link [ref=f322e734] [cursor=pointer]:
+            - /url: /article/2659500748
+            - heading "박학주" [level=4] [ref=f322e735]
+          - heading "박학*" [level=5] [ref=f322e736]
+        - paragraph
+      - separator [ref=f322e737]
+      - generic [ref=f322e739]:
+        - generic [ref=f322e741]:
+          - link [ref=f322e742] [cursor=pointer]:
+            - /url: /article/6030842014
+            - heading "박학주" [level=4] [ref=f322e743]
+          - heading "박학*" [level=5] [ref=f322e744]
+        - paragraph
+      - separator [ref=f322e745]
+      - generic [ref=f322e747]:
+        - generic [ref=f322e749]:
+          - link [ref=f322e750] [cursor=pointer]:
+            - /url: /article/6099089502
+            - heading "박학천논술서창원교습소" [level=4] [ref=f322e751]
+          - heading "송영*" [level=5] [ref=f322e752]
+          - heading "일반 교과학원" [level=5] [ref=f322e753]
+        - paragraph [ref=f322e754]: 경상남도 창원시 의창구 반계로 9...
+      - separator [ref=f322e755]
+      - generic [ref=f322e757]:
+        - generic [ref=f322e759]:
+          - link [ref=f322e760] [cursor=pointer]:
+            - /url: /article/5089042320
+            - heading "박학천논술안동지사" [level=4] [ref=f322e761]
+          - heading "윤영*" [level=5] [ref=f322e762]
+          - heading "방문판매업" [level=5] [ref=f322e763]
+        - paragraph [ref=f322e764]: 옥동 764-8**********
+      - separator [ref=f322e765]
+      - generic [ref=f322e767]:
+        - generic [ref=f322e769]:
+          - link [ref=f322e770] [cursor=pointer]:
+            - /url: /article/5049148595
+            - heading "박학천입시학원" [level=4] [ref=f322e771]
+          - heading "주민*" [level=5] [ref=f322e772]
+        - paragraph [ref=f322e773]: 대구광역시 북구 복현로 105-0...
+      - separator [ref=f322e774]
+      - generic [ref=f322e776]:
+        - generic [ref=f322e778]:
+          - link [ref=f322e779] [cursor=pointer]:
+            - /url: /article/6101997401
+            - heading "법무사박학수사무소" [level=4] [ref=f322e780]
+          - heading "법무사업" [level=5] [ref=f322e781]
+        - paragraph [ref=f322e782]: 울산광역시 남구 법대로 86-6
+      - separator [ref=f322e783]
+      - generic [ref=f322e785]:
+        - generic [ref=f322e787]:
+          - link [ref=f322e788] [cursor=pointer]:
+            - /url: /article/2179301822
+            - heading "일산대박학원" [level=4] [ref=f322e789]
+          - heading "최유*" [level=5] [ref=f322e790]
+          - heading "보습학원" [level=5] [ref=f322e791]
+        - paragraph [ref=f322e792]:
+          - text: 경기도 고양시 일산서구 일산로 5...
+          - link "도시 및 지역 안내" [ref=f322e793] [cursor=pointer]
+      - separator [ref=f322e797]
+      - generic [ref=f322e799]:
+        - generic [ref=f322e801]:
+          - link [ref=f322e802] [cursor=pointer]:
+            - /url: /article/1352005750
+            - heading "박학선(임대)" [level=4] [ref=f322e803]
+          - heading [level=5] [ref=f322e804]:
+            - text: 기타
+            - link "부동산" [ref=f322e805] [cursor=pointer]:
+              - /url: "#"
+            - text: 임대업
+        - paragraph [ref=f322e808]: 경기도 용인시 처인구 경안천로 3...
+      - separator [ref=f322e809]
+      - generic [ref=f322e811]:
+        - generic [ref=f322e813]:
+          - link [ref=f322e814] [cursor=pointer]:
+            - /url: /article/1429041887
+            - heading "대박학원" [level=4] [ref=f322e815]
+          - heading "기타 교습학원" [level=5] [ref=f322e816]
+        - paragraph [ref=f322e817]: 경기도 용인시 수지구 포은대로 3...
+      - separator [ref=f322e818]
+      - generic [ref=f322e820]:
+        - generic [ref=f322e822]:
+          - link [ref=f322e823] [cursor=pointer]:
+            - /url: /article/4021141275
+            - heading "전주고사동임대업(박학선)" [level=4] [ref=f322e824]
+          - heading "기타 부동산 임대업" [level=5] [ref=f322e825]
+        - paragraph [ref=f322e826]: 전라북도 전주시 완산구 팔달로 1...
+      - separator [ref=f322e827]
+      - generic [ref=f322e829]:
+        - generic [ref=f322e831]:
+          - link [ref=f322e832] [cursor=pointer]:
+            - /url: /article/6139098903
+            - heading "박학천독서논술주약점" [level=4] [ref=f322e833]
+          - heading "강미*" [level=5] [ref=f322e834]
+        - paragraph
+      - separator [ref=f322e835]
+      - generic [ref=f322e837]:
+        - generic [ref=f322e839]:
+          - link [ref=f322e840] [cursor=pointer]:
+            - /url: /article/6069038396
+            - heading "만덕박학천논술국어교습소" [level=4] [ref=f322e841]
+          - heading "김화*" [level=5] [ref=f322e842]
+          - heading "일반 교과학원" [level=5] [ref=f322e843]
+        - paragraph
+      - separator [ref=f322e844]
+      - generic [ref=f322e846]:
+        - generic [ref=f322e848]:
+          - link [ref=f322e849] [cursor=pointer]:
+            - /url: /article/1240786642
+            - heading "법무사박학열사무소" [level=4] [ref=f322e850]
+          - heading "박학*" [level=5] [ref=f322e851]
+          - heading "법무사업" [level=5] [ref=f322e852]
+        - paragraph [ref=f322e853]: 경기도 화성시 마도면 석교로177...
+      - separator [ref=f322e854]
+      - generic [ref=f322e856]:
+        - generic [ref=f322e858]:
+          - link [ref=f322e859] [cursor=pointer]:
+            - /url: /article/4091035743
+            - heading "박학동부동산" [level=4] [ref=f322e860]
+          - heading "박학*" [level=5] [ref=f322e861]
+        - paragraph [ref=f322e862]: 전라남도 장성군 장성읍 단풍로 5...
+      - separator [ref=f322e863]
+      - generic [ref=f322e865]:
+        - generic [ref=f322e867]:
+          - link [ref=f322e868] [cursor=pointer]:
+            - /url: /article/7929300324
+            - heading "박학천국어논술교실" [level=4] [ref=f322e869]
+          - heading "김승*" [level=5] [ref=f322e870]
+        - paragraph [ref=f322e871]: 비공개
+      - separator [ref=f322e872]
+      - generic [ref=f322e874]:
+        - generic [ref=f322e876]:
+          - link [ref=f322e877] [cursor=pointer]:
+            - /url: /article/1543500779
+            - heading "박학석" [level=4] [ref=f322e878]
+          - heading "박학*" [level=5] [ref=f322e879]
+        - paragraph
+      - separator [ref=f322e880]
+      - generic [ref=f322e882]:
+        - generic [ref=f322e884]:
+          - link [ref=f322e885] [cursor=pointer]:
+            - /url: /article/1349159457
+            - heading "박학천시곡논술교습소" [level=4] [ref=f322e886]
+          - heading "최정*" [level=5] [ref=f322e887]
+        - paragraph [ref=f322e888]:
+          - text: 경기도 안산시 상록구 감골1로 2...
+          - link "도시 및 지역 안내" [ref=f322e889] [cursor=pointer]
+      - separator [ref=f322e893]
+      - generic [ref=f322e895]:
+        - generic [ref=f322e897]:
+          - link [ref=f322e898] [cursor=pointer]:
+            - /url: /article/1149001560
+            - heading "박학천논술연구소" [level=4] [ref=f322e899]
+          - heading "박대*" [level=5] [ref=f322e900]
+          - heading "전자상거래업" [level=5] [ref=f322e901]
+        - paragraph [ref=f322e902]: 서울특별시 강남구 도곡로13길 5
+      - separator [ref=f322e903]
+      - generic [ref=f322e905]:
+        - generic [ref=f322e907]:
+          - link [ref=f322e908] [cursor=pointer]:
+            - /url: /article/1022775672
+            - heading "박학다식미쓰리" [level=4] [ref=f322e909]
+          - heading "이지*" [level=5] [ref=f322e910]
+          - heading "SNS마켓" [level=5] [ref=f322e911]
+        - paragraph [ref=f322e912]: 서울특별시 동작구 등용로 92-1...
+      - separator [ref=f322e913]
+      - generic [ref=f322e915]:
+        - link [ref=f322e918] [cursor=pointer]:
+          - /url: /article/1101529410
+          - heading "개인택시(박학규)" [level=4] [ref=f322e919]
+        - paragraph [ref=f322e920]: 서울특별시 서대문구 연희로33가길...
+      - separator [ref=f322e921]
+      - generic [ref=f322e923]:
+        - link [ref=f322e926] [cursor=pointer]:
+          - /url: /article/1639701426
+          - heading "박근수 박학심문" [level=4] [ref=f322e927]
+        - paragraph [ref=f322e928]: 경상북도 구미시 산호대로925,...
+      - separator [ref=f322e929]
+      - generic [ref=f322e931]:
+        - link [ref=f322e934] [cursor=pointer]:
+          - /url: /article/6171048460
+          - heading "부산개인택시/박학봉" [level=4] [ref=f322e935]
+        - paragraph [ref=f322e936]: 부산광역시 남구 신정번영로45번가...
+      - separator [ref=f322e937]
+      - generic [ref=f322e939]:
+        - link [ref=f322e942] [cursor=pointer]:
+          - /url: /article/2229501060
+          - heading "박학천논술입시학원" [level=4] [ref=f322e943]
+        - paragraph [ref=f322e944]: 강원도 삼척시 정상동 4761번
+      - separator [ref=f322e945]
+      - generic [ref=f322e947]:
+        - generic [ref=f322e949]:
+          - link [ref=f322e950] [cursor=pointer]:
+            - /url: /article/1329406523
+            - heading "박학례" [level=4] [ref=f322e951]
+          - heading "박학*" [level=5] [ref=f322e952]
+        - paragraph
+      - separator [ref=f322e953]
+      - generic [ref=f322e955]:
+        - generic [ref=f322e957]:
+          - link [ref=f322e958] [cursor=pointer]:
+            - /url: /article/6122332264
+            - heading "박학균" [level=4] [ref=f322e959]
+          - heading "박학*" [level=5] [ref=f322e960]
+        - paragraph
+      - separator [ref=f322e961]
+      - generic [ref=f322e963]:
+        - generic [ref=f322e965]:
+          - link [ref=f322e966] [cursor=pointer]:
+            - /url: /article/6120457191
+            - heading "박학균" [level=4] [ref=f322e967]
+          - heading "박학*" [level=5] [ref=f322e968]
+        - paragraph
+      - separator [ref=f322e969]
+      - generic [ref=f322e971]:
+        - generic [ref=f322e973]:
+          - link [ref=f322e974] [cursor=pointer]:
+            - /url: /article/6583000276
+            - heading "박학숙" [level=4] [ref=f322e975]
+          - heading "박학*" [level=5] [ref=f322e976]
+        - paragraph
+      - separator [ref=f322e977]
+    - generic [ref=f322e979]:
+      - heading "실시간 조회기업" [level=4] [ref=f322e981]
+      - list [ref=f322e982]:
+        - listitem [ref=f322e983]:
+          - link [ref=f322e984] [cursor=pointer]:
+            - /url: /article/5940700810
+            - paragraph [ref=f322e985]: 동인빌딩
+        - listitem [ref=f322e986]:
+          - link [ref=f322e987] [cursor=pointer]:
+            - /url: /article/4398602495
+            - paragraph [ref=f322e988]: 세류빌드협동조합
+        - listitem [ref=f322e989]:
+          - link [ref=f322e990] [cursor=pointer]:
+            - /url: /article/6035300407
+            - paragraph [ref=f322e991]: 오토 갤러리 29호
+        - listitem [ref=f322e992]:
+          - link [ref=f322e993] [cursor=pointer]:
+            - /url: /article/8123501215
+            - paragraph [ref=f322e994]: 링코모(LINCOMO)
+        - listitem [ref=f322e995]:
+          - link [ref=f322e996] [cursor=pointer]:
+            - /url: /article/1380853564
+            - paragraph [ref=f322e997]: 모쓰코퍼레이션
+        - listitem [ref=f322e998]:
+          - link [ref=f322e999] [cursor=pointer]:
+            - /url: /article/7201202236
+            - paragraph [ref=f322e1000]: 예스넷(YESNET)
+        - listitem [ref=f322e1001]:
+          - link [ref=f322e1002] [cursor=pointer]:
+            - /url: /article/5048545700
+            - paragraph [ref=f322e1003]: (주)자연에너지 삼정주유소
+        - listitem [ref=f322e1004]:
+          - link [ref=f322e1005] [cursor=pointer]:
+            - /url: /article/5484800542
+            - paragraph [ref=f322e1006]: 월드푸드
+        - listitem [ref=f322e1007]:
+          - link [ref=f322e1008] [cursor=pointer]:
+            - /url: /article/4647100107
+            - paragraph [ref=f322e1009]: 엠스퀘어 복합상가 513호
+        - listitem [ref=f322e1010]:
+          - link [ref=f322e1011] [cursor=pointer]:
+            - /url: /article/8980401705
+            - paragraph [ref=f322e1012]: 나리양과점
+        - listitem [ref=f322e1013]:
+          - link [ref=f322e1014] [cursor=pointer]:
+            - /url: /article/6108636406
+            - paragraph [ref=f322e1015]: 엘투케이파트너스
+        - listitem [ref=f322e1016]:
+          - link [ref=f322e1017] [cursor=pointer]:
+            - /url: /article/2311601808
+            - paragraph [ref=f322e1018]: 씨드소프트
+        - listitem
+  - contentinfo [ref=f322e1019]:
+    - generic [ref=f322e1020]:
+      - generic [ref=f322e1021]:
+        - generic [ref=f322e1023]:
+          - heading "주요기능" [level=6] [ref=f322e1024]
+          - list [ref=f322e1025]:
+            - listitem [ref=f322e1026]:
+              - link "사업자등록번호조회" [ref=f322e1027] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f322e1028]:
+              - link "법인등록번호조회" [ref=f322e1029] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f322e1030]:
+              - link "상호명으로 사업자등록번호조회" [ref=f322e1031] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f322e1032]:
+              - link "전화번호조회" [ref=f322e1033] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f322e1034]:
+              - link "대표자이름으로 조회" [ref=f322e1035] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f322e1036]:
+              - link "정정문의" [ref=f322e1037] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f322e1039]:
+          - heading "사업자검색" [level=6] [ref=f322e1040]
+          - paragraph [ref=f322e1041]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f322e1044]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f322e1046]
+            - button "검색 " [ref=f322e1048] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f322e1049]: 
+      - generic [ref=f322e1050]:
+        - paragraph [ref=f322e1051]: Copyright ©2019 All rights reserved.
+        - generic [ref=f322e1052]:
+          - link "" [ref=f322e1053] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f322e1055] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f322e1057] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f322e1059] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f322e1061]:
+    - list [ref=f322e1062]:
+      - listitem [ref=f322e1063]:
+        - link "Home" [ref=f322e1064] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f322e1065]:
+        - link "사업자등록번호조회" [ref=f322e1066] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f322e1067]:
+        - link "법인등록번호조회" [ref=f322e1068] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f322e1069]:
+        - link "상호명으로 사업자등록번호조회" [ref=f322e1070] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f322e1071]:
+        - link "전화번호로 조회" [ref=f322e1072] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f322e1073]:
+        - link "대표자이름으로 조회" [ref=f322e1074] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f322e1075]:
+        - link "API" [ref=f322e1076] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f322e1077]:
+        - link "고객문의" [ref=f322e1078] [cursor=pointer]:
+          - /url: /voc
+```

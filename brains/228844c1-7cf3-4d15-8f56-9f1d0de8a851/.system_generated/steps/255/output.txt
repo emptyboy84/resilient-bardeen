@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/3178701121');
+```
+### Page
+- Page URL: https://bizno.net/article/3178701121
+- Page Title: 주식회사 브이알시네(VR CINE)
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-37-25-322Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-37-21-498Z.log#L1-L5

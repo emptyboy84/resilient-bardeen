@@ -1,0 +1,13 @@
+The search for "site:bizno.net "7653500720" OR "채경희"" returned the following summary:
+검색하신 조건에 대해 비즈노(bizno.net) 내 정보를 확인한 결과는 다음과 같습니다.
+
+*   **채경희:** 비즈노에 등록된 정보에 따르면, '구미경북커피교육학원'의 대표자로 확인됩니다[1][2].
+    *   **사업자등록번호:** 513-91-51532[1][2]
+    *   **주소:** 경상북도 구미시 금오산로22안길 22 (원평동)[1][2]
+*   **7653500720:** 해당 사업자등록번호로 비즈노(bizno.net) 내에서 조회되는 결과는 없습니다. 
+
+입력하신 번호가 정확한지 다시 한번 확인하시기 바랍니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFgn1V5fUUTUq0ycw4fkYUErbCs6sg1YAnOH33yjdlgLUNoRggEOJwaZrE7S8nVKfQJ_OUjTUSWuZsbdpuJa04kDTV89-rIGEl8D6qpnKGxxq1yK6UqszfJ0=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8B2wpJhMfOCmwfYxUzWuDvsxzRTX09gva14wcPHNlprA2hst3PNm7vZCgHhOhOEWt6Nl6gvI-cNXR-Op3mqCAPQ3QzcebNDO1ecxiY13voKjbsUQ0t8BQH4A=)

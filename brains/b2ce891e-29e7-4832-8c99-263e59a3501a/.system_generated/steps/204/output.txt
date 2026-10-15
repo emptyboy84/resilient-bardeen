@@ -1,0 +1,28 @@
+The search for "site:calvak.kr OR site:kirokkirok.com OR site:abmlab.co.kr "개인정보보호책임자" OR "개인정보책임자" OR "고객센터" OR "문의"" returned the following summary:
+검색된 사이트(`calvak.kr`, `abmlab.co.kr` 등)의 고객센터, 문의 및 개인정보 관련 정보 요약입니다.
+
+### 1. **캘박 (Calvak)** (`calvak.kr`)
+* **고객지원 / 문의:** 
+  * 앱 내 `MY` 메뉴의 **1:1 문의** 또는 **내 문의 내역** 이용 가능[1]
+  * 개인정보 변경 관련 문의는 공식 인스타그램 계정(`@calvak.official`) DM을 통해 문의 가능[2]
+* **개인정보 처리 관련:** 회원 탈퇴 및 삭제 요청은 고객센터를 통해 지체 없이 처리됨[3]
+
+---
+
+### 2. **주식회사 에이비엠랩 (ABMLab Corp.)** (`abmlab.co.kr` 및 관련 서브도메인)
+* **대표이사:** 황의윤[4]
+* **사업자등록번호:** 820-87-03095[4]
+* **주소:** 
+  * 부산: 부산광역시 영도구 태종로 727, 산학허브관 11층, 에이비엠랩[4]
+  * 서울: 서울특별시 강남구 강남대로120길 75, 2층~4층[4]
+* **문의 및 연락처:** 
+  * 공식 웹사이트 내 **Contact** 페이지(프로젝트 의뢰, 정부지원사업·컨설팅 문의 등) 양식 작성[4][5]
+  * 디자인랩 문의 이메일: `design@abmlab.co.kr`[6]
+
+Sources:
+[1] [calvak.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaU1g1krU1bFyPoAF-tG6W-SUFzXRNKGFaAx0MJ77nL3Tr299Rztejdd2ZZrotqAWLUxBJUjBk2zvfIziWpfmHP3fZZsHwPetYNl8KU-EgunJX)
+[2] [calvak.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnygYiGDhZZUGp5FKQAvxDSqbX67UouKOQAFSpci4A5ZMFNVGcGBW89qLlN1q3tnmQjAj7Me7ifk0pheDlVj2zW75OQBBn8VR7lOXHm9rCiItRmVWq3-JCmw==)
+[3] [calvak.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7vVZEy_gDNfFhOV68CqNggr7dgX7Wqj7eXAVvxyEC1OiSYiIMZBdJcVwQgFVF1vX7XVQnsPM9Lv7M0YhfDNhzPHHVOAIjFMSnl_qUOIepCi_rh48ME7QtWRmD)
+[4] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBilww3CHD3tG_VYDTlFHPHsELtcXxhGzt0evyW-_MzpmSI0bryM_tFd_tteLGq9XPfhHpZoy1ZvwI26s6bz_kZxCy3jQCE_kkaydy44sY70lA)
+[5] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPKsWL-UA7Vv8qQfUJEHjSmPDQEsETPgX0MbGkonjLh-A72APjiClpclStpAoLJFp8xxZZ9LgcetOs3oXtGVlsMu99MHDpGtWNnMfNcuB1EqcXSUEDnAbDNd3IBpU=)
+[6] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvXrbfPOKx3XPwQgNKn27GHhxK1Q7u3iTf91nrloSTRrduc5DBmrUre-EpyrDh_sPhJ7LigtaVGLPl5t7vGzaUQjSO2GX_d5TMDrHC-Js_tXiLLCrSAQMxkQ==)

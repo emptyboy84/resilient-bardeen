@@ -1,0 +1,5 @@
+The search for ""646-87-02732" OR "6468702732"" returned the following summary:
+The search results indicate that "646-87-02732" (or "6468702732") appears in the context of business-related datasets or token lists[1], but it does not correspond to a standard South Korean business registration number (which typically follows a 3-2-5 digit format, such as XXX-XX-XXXXX). The number has been identified in lists alongside other similar numeric sequences[1].
+
+Sources:
+[1] [windows.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXqv47YtrDDHFJT5bBkwCWB7fSj8nB3Ho-OMTFx8Ixg34g_CKyTJc-bzn-CJOcbeVGtl9q8zDwks01EbC66dJL8HWUYwMT3CgCnrm6V1HBklrtTjv66kJM8Oee3tXgkudyHVADmKqjXhSlBlIqYnQerdn4dkaO_L3Kn-yTPrIY0g==)

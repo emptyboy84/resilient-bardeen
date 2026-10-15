@@ -1,0 +1,14 @@
+The search for ""비문인쇄" "해운대구" OR "롯데갤러리움" OR "0505" OR "대표자" OR "신고번호"" returned the following summary:
+검색 결과, '비문인쇄'라는 명칭의 업체 정보는 다음과 같습니다.
+
+*   **업체명:** 비문인쇄[1][2]
+*   **주소:** 부산광역시 해운대구 센텀1로 9, E동 (우동, 롯데갤러리움센텀)[1][2]
+*   **상태:** 운영 중[2]
+*   **개업일:** 2013년 7월 16일[2]
+
+요청하신 '0505', '대표자', '신고번호'와 관련된 구체적인 정보는 공개된 검색 결과 내에서 확인되지 않았습니다. 추가적인 상세 정보가 필요하신 경우, '출판사인쇄사 검색시스템(문화체육관광부)' 등 공식 사이트를 통해 확인하시기 바랍니다[3].
+
+Sources:
+[1] [opengo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4Vgo-D-nJ7ps1vovF_QoFj7mg9anPsoHHDFnxa5qyTn2TnEdfvIGo_lBK0_m4X6rsdQz-dDr9Dol8IseKkvxlv01CGhWrgyKPp6e9dYP2KXz-nKcWSxi0wkLmpg==)
+[2] [opengo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4Vgo-D-nJ7ps1vovF_QoFj7mg9anPsoHHDFnxa5qyTn2TnEdfvIGo_lBK0_m4X6rsdQz-dDr9Dol8IseKkvxlv01CGhWrgyKPp6e9dYP2KXz-nKcWSxi0wkLmpg==)
+[3] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDKI_hebG1K4Bn5m9olu3T7OJUVNnnp42kNKfLkK0Bqv940yK-sulsn5D-_oZ9OUuDQ0jwNRaknSLAzGZ49N9zdiW4cXya-vzkTcS_OTA5C8OAOqMe60a6rf0bUWCOmVs3eCGjsUdScYZrTtIL02-eJm3MadepZw-WSNUiFJRYwHVjywRO2tS7z8EN8Glqks4pDPTblqmGkNFiH9FQ-abEG82TXqPKnAR4bEPO4pexYdnANUtbSpBB4Qk5akEPQdfmTywXXMi171_MjmbLOoxH7lD2P3Lw-Y7E1wYxpYdWlg==)

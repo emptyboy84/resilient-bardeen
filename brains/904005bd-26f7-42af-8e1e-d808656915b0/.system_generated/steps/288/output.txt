@@ -1,0 +1,14 @@
+The search for "site:38.co.kr "김성홍" OR "(주)시드"" returned the following summary:
+38커뮤니케이션(38.co.kr)의 기타법인 기업정보에 따르면, **(주)시드**(대표자: **김성홍**)에 대한 정보는 다음과 같습니다[1][2].
+
+*   **기업명:** (주)시드[1][2]
+*   **대표자:** 김성홍[1][2]
+*   **소재지:** 부산 해운대구 우2동 센텀시티DMZ 13B-4 센텀벤처타운 503호[1][2]
+*   **연락처:** 051-741-3013[1][2]
+
+참고로, 38커뮤니케이션 사이트 내에는 성남시 중원구에 위치한 다른 (주)시드(대표자: 안한수) 정보도 함께 등록되어 있으니 혼동하지 않도록 유의하시기 바랍니다[3].
+
+Sources:
+[1] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Mp9Ix-1QDDXWvI7I8hoePkloycHsATt-XraVuzmqjwYd7mZbIjsYYdnZIRXB6k0aDA-cF6lZiHQLkm5lHt2xkTN_86Cq4MK0erQWa31Bm2BzZehOX586x5tpbwGsvJVjzMfSqCgTL8_Lzog=)
+[2] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPyJSxUnnjR2hQULyZD8kAAhgYLo2dXk1OHUiKSlrJFEDmhA8e7WU8wgtARGIJ2VUInhMxwJGbtSB5yNuIZwNtJ2sDhmxr8LnuWXRv5DWc7aOjrVz5CcJE20dm6bkOh1Nbee8eNi3-6719w==)
+[3] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEULphwYl7mNNr7dpjTJGE6rP4Ko7jx4noreTDcO2dP7tjW_rEdLDERdhny-n-_oQ7vc93VewLSIasN1KLjcxCk3ZcpjbweV3sClaugcDjZhui6z-17bR7vwOmP2Yk8HxG08V5UxFiYlX449A==)

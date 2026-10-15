@@ -1,0 +1,14 @@
+The search for "site:jobkorea.co.kr "에이비엠랩" "전화" OR "010" OR "02" OR "051" OR "담당자" OR "문의"" returned the following summary:
+주식회사 에이비엠랩(ABMLab)의 공식 기업 정보 및 공식 채용 사이트, 주요 오피스 위치 정보는 다음과 같습니다[1][2].
+
+* **대표이사:** 황의윤[1]
+* **사업자등록번호:** 820-87-03095[1]
+* **서울 오피스:** 서울특별시 강남구 강남대로 120길 75, 2층~4층 (에이비엠랩)[1]
+* **부산 본사:** 부산광역시 영도구 태종로 727, 산학허브관 11층, 에이비엠랩[1]
+* **공식 웹사이트:** [abmlab.co.kr](https://abmlab.co.kr)[1]
+
+잡코리아 등 채용 플랫폼에 등록된 공고의 세부 문의처(전화번호 등)는 대부분 플랫폼 내 시스템(온라인 지원, 1:1 문의 및 담당부서 지정 접수 등)을 통해 이루어지며, 일반 유선 전화번호는 대외적으로 상세히 공개되어 있지 않습니다. 협력 및 제휴, 채용 관련 직접 문의는 공식 홈페이지 내 **Contact** 메뉴나 이메일/온라인 문의 양식을 통해 진행하시는 것을 권장합니다[1].
+
+Sources:
+[1] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqj7ubQEM5I1BEoGszuZgGJsabt3Vh_gjKS7IXP4yGADd2BYiOoIncLhv0BZNSbnPdiRYzW6jaKP7JvXzqaRL0wFoayMOnWcrw3mwdpVXpejkt)
+[2] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWKLXdwXEXntRdnaR7vDUkBTivTD3blPmIlEsXrNJ_ZkrNuyZ9Gn22pmHCtSZtE1y07nB31-dUxwrPcNP8idDSieeQ_JUCQBema1i5NRiTCHgPbQ==)

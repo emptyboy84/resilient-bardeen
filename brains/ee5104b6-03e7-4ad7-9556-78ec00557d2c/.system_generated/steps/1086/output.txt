@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Checking KSIC for 기타 교육지원 서비스업:
+{
+  name: '기타 교육지원 서비스업',
+  code: '85699',
+  section: 'P',
+  large: '교육 서비스업',
+  division: '85',
+  mid: '교육 서비스업',
+  group: '856',
+  small: '기타 교육지원 서비스업'
+}
+

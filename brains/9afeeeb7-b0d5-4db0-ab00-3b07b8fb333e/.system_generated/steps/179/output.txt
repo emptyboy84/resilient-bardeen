@@ -1,0 +1,13 @@
+The search for ""센텀중앙로 90" "809호" OR "태금"" returned the following summary:
+검색하신 **부산광역시 해운대구 센텀중앙로 90 (재송동, 큐비이센텀)** 소재지와 관련 정보는 다음과 같습니다.
+
+*   **센텀중앙로 90, 809호**: 과거 '네오경영컨설팅' 등의 기업이 소재지로 등록된 바 있으며[1], 이 외에도 다양한 기업이 입주해 있는 오피스 건물(큐비이센텀)의 호실입니다[2].
+*   **태금**: '태금컨설팅'이라는 법인이 과거(2015년) 센텀중앙로 90 소재의 다른 호실(619호)에 신설 법인으로 등록된 기록이 확인됩니다[3]. 또한, 대구광역시 수성구 등에 '태금'이라는 명칭의 다른 부동산 관련 법인이 존재한 기록이 있으나[4], '센텀중앙로 90' 주소지의 809호와 직접적으로 일치하는 '태금'이라는 상호의 기업은 현재 검색 결과상 명확하게 확인되지 않습니다.
+
+참고로, **센텀중앙로 90(큐비이센텀)**은 많은 기업이 입주해 있는 지식산업센터이므로, 특정 호실의 현재 입주 기업 정보가 필요하신 경우 해당 건물 관리사무소나 법인 등기부등본을 통해 확인하시는 것이 가장 정확합니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebE1JSSeOJYux7s9sBSbFD2GElMofj3rmqaaiakuu03skho-sHQswaIDkDabqE0oMuSXozBtw645I6ri-tRb8Rz0aCOIIdRjzAsPOnHAkrL-cojk20ltOxvzN9bKzjJfe-XA=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmMpeqrxH03cP_R5wPLYXSYt7Zw0KqngYnoVBk8y6jxMWyWs07fNiyRhea2oXWoF7qIxWhRNI8IjnviC6lLc1XHxVlWIgKuUxvngofnM814UAuyF7sa6d3oljxTZ8eDQ-gWhl2BF3QGc=)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh0fdJ8bev1m-8vpE5_vCAwAfADq-nnv-5uI_CQQ1LJm4rYGnJ3xJZ-vmjdecR_qaXUIJIBrU5oPhHMCoGVh0xCIuBSrGzJfGfEFW51O68_nduMhPLEEpmxnqhH4t22hDwMcI=)
+[4] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFICunpTcUpTYGiXATXYIsEUA4exMNvfKVOT0dx117XZxGIY1lGdIZeN0d2r6v8z8JZ25MUu-6zTHPq5-v445unu15MWbL7DiNSP3dw61Khah8xPgYflwbsa0eu1cYn3ZSMJRr0uazSQjg=)

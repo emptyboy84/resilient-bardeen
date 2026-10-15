@@ -1,0 +1,39 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:41
++     const m = data.match(/mailto:([^\"]+)/);
++                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:9 �:43
++     const m = data.match(/mailto:([^\"]+)/);
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:26
++     console.log('Email:', m ? m[1] : null);
++                          ~
+',' �ڿ� � �ϴ�.
+�ġ �:10 �:27
++     console.log('Email:', m ? m[1] : null);
++                           ~
+� �Ǵ� � �ġ � 'm' �ū�Դϴ�.
+�ġ �:10 �:26
++     console.log('Email:', m ? m[1] : null);
++                          ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:10 �:42
++     console.log('Email:', m ? m[1] : null);
++                                          ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:34
++     const m2 = data.match(/tel:([^\"]+)/);
++                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:19 �:2
++ "
++  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

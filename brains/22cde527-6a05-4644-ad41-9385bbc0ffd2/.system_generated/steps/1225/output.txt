@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Blanks by Gubun: { '25년 모집단': 228 }
+

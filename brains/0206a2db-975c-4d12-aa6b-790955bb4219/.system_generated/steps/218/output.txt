@@ -1,0 +1,12 @@
+### Result
+No open tabs. Navigate to a URL to create one.
+### Ran Playwright code
+```js
+await page.close()
+```
+### Page
+- Page URL: https://www.i-um.co.kr/kr/companies?search=%EC%BC%80%EC%9D%B4%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0%EC%9B%90
+- Page Title: 기업 탐색 - I:UM(이음) B2B 파트너 찾기
+- Console: 3 errors, 0 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-12T00-39-43-420Z.log#L2-L3

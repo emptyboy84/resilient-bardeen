@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+All phones found in Saramin: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+Line 714: {"@context":"http:\/\/schema.org","@type":"Organization","name":"(주)대경산업개발 기업정보","description":"(주)대경산업개발 기업소개 - 업력 : 8년차, 기업형태 : 중소기업, 업종 : 경영 컨설팅업 |
+Line 717: {"@context":["https:\/\/schema.org",{"csvw":"http:\/\/www.w3.org\/ns\/csvw#"}],"@type":"Dataset","name":"(주)대경산업개발 2026년 기업정보 | 직원수, 근무환경, 복리후생 등","de
+Line 1002: 손정희
+Line 1014: 부산 해운대구 센텀중앙로 97, 비동 씨105호 (재송동,센텀스카이비즈)
+Line 1163: 이메일: help@saramin.co.kr / 사람인 고객센터 02-6226-5000 (평일 09:00~19:00, 주말·공휴일 휴무)
+Line 1171: 이메일 문의
+

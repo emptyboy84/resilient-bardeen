@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+search_type options: 
+					<option value="">항목</option>
+					<option value="1" >상호</option>
+					<option value="3" >주소</option>
+					
+

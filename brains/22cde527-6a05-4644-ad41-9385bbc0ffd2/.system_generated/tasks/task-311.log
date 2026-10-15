@@ -1,0 +1,9 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-14T09:35:52+09:00
+Prompt: Wait for task-181 to finish (row 372 to 421)
+Early Termination: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+
+[2026-09-14T09:35:27+09:00] Still waiting. Remaining time: 25s
+[2026-09-14T09:35:37+09:00] Still waiting. Remaining time: 15s
+[2026-09-14T09:35:47+09:00] Still waiting. Remaining time: 5s
+[2026-09-14T09:35:52+09:00] Timer fired.

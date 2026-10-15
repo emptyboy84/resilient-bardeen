@@ -1,0 +1,15 @@
+The search for ""중앙대로 365" "비솜" 층 OR 호 OR 전화번호 OR 팩스" returned the following summary:
+부산광역시 동구 중앙대로 365는 **부산일보빌딩**(수정동) 주소입니다[1][2]. 
+
+해당 주소지에 위치한 **비솜(주)** 기업 정보는 다음과 같습니다[3]:
+
+* **주소:** 부산광역시 동구 중앙대로 365 (수정동, 부산일보사 내 혹은 동일 부지)[3][4]
+* **상세 층/호, 전화번호, 팩스번호:** 공개된 기업 신용평가 및 구인 플랫폼(사람인 등) 데이터베이스 상에서 비솜(주)의 정확한 **상세 층수나 호수, 대표 전화번호 및 팩스 번호는 공식적으로 상세히 기재되어 있지 않거나 비공개**로 되어 있습니다[3]. 
+
+*(참고: 동일 주소인 부산일보빌딩의 대표 번호는 **051-461-4114**입니다[2].)*
+
+Sources:
+[1] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ1Tf6OdxSoqOPM377889_jPEpJW6K9up7MgPjKu_Zo5M8g4xWL4RyIaw65jSIv02kTmF60gUSjNbCAJ5wWg00q2QrOhPuI5UQrWPP3VPtdSRn7bVoMQJjCz7ysR3wRCM29507NOkb46g5JsMudg==)
+[2] [freshgul.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT_5qzs786eb5vpnyHAKVky-FWF6545w9GJBHAH1CAIMgZegKhwexKskmOCeibKlWmZwNVRx1MqNGmbLFd4JXZYaDTerVTYQYnUmhncERDbw1CZJw_txQNH_zV6q0tYLk=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtJrqDUpxTdXiUhMVSIMn8W9pDJXuwofaWp_lDD3n7PWYmCgHof6xQro5pVS3jfeuqfgVPmc3IPBlzI_ie8OUwn7pjIwg0lPy0rryZAzG8SaEmbnoDeb05qM5PUH20zyjz8fFQ5LQz-YHtHtQ8wiE6OuSLWMMoFKP2Tj3_PKfC0fFrEitdj_y83znA5EhbVg1cL4tUi-JHw_kbpBtDTJor90HC8YnFceF2nfMEraWIU2lABwQukGFJwl7gcg==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWjhd6HxD_qM9q1SOfc8HDGg_ObLA3UPv2RYE6YRjdfw9m0jMHn6IWa0AUdqecaw0MkuucMAvxZTxPETCXqb_UMcaoyyNnIpP1GFpHYd1l4cpCiROzdjANXrfa7xX3GFnbgGJc-fQ8w5gAfYHspwWERkOzGM7uChHclIgdftLxYfKKa3OIfkHmbiP6PoEN6zZW2yoeP6z2p6Z5Jtg3XPbHZsaGCoqGhCECJ5T54xDqlcFtCx-J5SJB-_t-QMvZlDtpPjw-sCpBYIg5EoaK1BTqycAD1RjpZCJx7iBQnVIMq30A6NqLrpbwU08D1rQdiJBHi-KllKKcIwCkbtDUUjAtdAnKXJHF2yk5aD5sM9a5KMAV-Ku01ndP)

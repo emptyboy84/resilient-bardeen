@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+commit b44b0bd272cda49d06cd101f1df579c61b94fafb
+Author:     emptyboy84 <emptyboy85@gmail.com>
+AuthorDate: Mon Sep 7 09:16:43 2026 +0900
+Commit:     emptyboy84 <emptyboy85@gmail.com>
+CommitDate: Mon Sep 7 09:16:43 2026 +0900
+
+    feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+
+commit 794e3badb29e5f9845cc118a1e2d2ec34d6a9519
+Author:     emptyboy84 <emptyboy85@gmail.com>
+AuthorDate: Mon Sep 7 09:13:03 2026 +0900
+Commit:     emptyboy84 <emptyboy85@gmail.com>
+CommitDate: Mon Sep 7 09:13:03 2026 +0900
+
+    feat: update 디에스케미칼 (5481701760) industry categories and status
+
+commit 706713c53d6c73691a687ed09cde602387314afa
+Author:     emptyboy84 <emptyboy85@gmail.com>
+AuthorDate: Fri Sep 4 10:54:23 2026 +0900
+Commit:     emptyboy84 <emptyboy85@gmail.com>
+CommitDate: Fri Sep 4 10:54:23 2026 +0900
+
+    feat: update 투콤마비 contact phone, zip, address and homepage
+
+commit 3f8176c97de62095688e769c06e043a3cc54787a
+Author:     emptyboy84 <emptyboy85@gmail.com>
+AuthorDate: Fri Sep 4 09:37:04 2026 +0900
+Commit:     emptyboy84 <emptyboy85@gmail.com>
+CommitDate: Fri Sep 4 09:37:04 2026 +0900
+
+    fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+
+commit 82effd4740f804a436f54eb2c55e61e850227e45
+Author:     emptyboy84 <emptyboy85@gmail.com>
+AuthorDate: Fri Sep 4 09:03:18 2026 +0900
+Commit:     emptyboy84 <emptyboy85@gmail.com>
+CommitDate: Fri Sep 4 09:03:18 2026 +0900
+
+    feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22%EC%A7%80%EB%8B%88%EC%97%90%EB%93%80%ED%85%8D%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EC%A7%80%EB%8B%88%EC%97%90%EB%93%80%ED%85%8D%22
+- Page Title: "지니에듀텍" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-30-27-066Z.yml)

@@ -1,0 +1,485 @@
+
+The command exited with code 0.
+Output:
+Get_TouchPadMode full bytecode with byte offsets:
+0000: 72 [0x70000635] ("Get_TouchPadMode") 
+0005: 28 [0x0A000013] (Trace.WriteLine) 
+000A: 15 
+000B: 0A 
+000C: 15 
+000D: 0C 
+000E: 28 [0x06000027] (LGDeviceController.GetModelName) 
+0013: 72 [0x70000657] ("Z160") 
+0018: 6F [0x0A00002B] (String.Contains) 
+001D: 2D 
+001E: 44 
+001F: 28 [0x06000027] (LGDeviceController.GetModelName) 
+0024: 72 [0x70000661] ("H160") 
+0029: 6F [0x0A00002B] (String.Contains) 
+002E: 2D 
+002F: 33 
+0030: 28 [0x06000027] (LGDeviceController.GetModelName) 
+0035: 72 [0x7000066B] ("Z170") 
+003A: 6F [0x0A00002B] (String.Contains) 
+003F: 2D 
+0040: 22 
+0041: 28 [0x06000027] (LGDeviceController.GetModelName) 
+0046: 72 [0x70000675] ("11T730") 
+004B: 6F [0x0A00002B] (String.Contains) 
+0050: 2D 
+0051: 11 
+0052: 28 [0x06000027] (LGDeviceController.GetModelName) 
+0057: 72 [0x70000683] ("11T") 
+005C: 6F [0x0A00002B] (String.Contains) 
+0061: 2C 
+0062: 02 
+0063: 06 
+0064: 2A 
+0065: 00 
+0066: 28 [0x06000027] (LGDeviceController.GetModelName) 
+006B: 72 [0x7000068B] ("15G890") 
+0070: 6F [0x0A00002B] (String.Contains) 
+0075: 2D 
+0076: 11 
+0077: 28 [0x06000027] (LGDeviceController.GetModelName) 
+007C: 72 [0x70000699] ("15GD890") 
+0081: 6F [0x0A00002B] (String.Contains) 
+0086: 2C 
+0087: 13 
+0088: 02 
+0089: 7B [0x04000020] (LGDeviceController.ACPIController) 
+008E: 20 [0x000000EE] 
+0093: 6F [0x0A00002C] (ACPIHelper.GetMethod) 
+0098: 0A 
+0099: 2B 
+009A: 11 
+009B: 02 
+009C: 7B [0x04000020] (LGDeviceController.ACPIController) 
+00A1: 20 [0x00000409] 
+00A6: 6F [0x0A00002C] (ACPIHelper.GetMethod) 
+00AB: 0A 
+00AC: 06 
+00AD: 15 
+00AE: 3B 
+00AF: D1 
+00B0: 00 
+00B1: 00 
+00B2: 00 
+00B3: 15 
+00B4: 13 
+00B5: 04 
+00B6: 7E [0x0A00002D] (Registry.CurrentUser) 
+00BB: 72 [0x700006A9] ("Software\Microsoft\Windows\CurrentVersion\PrecisionTouchPad\Status") 
+00C0: 16 
+00C1: 6F [0x0A00002E] (RegistryKey.OpenSubKey) 
+00C6: 72 [0x70000730] ("Enabled") 
+00CB: 6F [0x0A00002F] (RegistryKey.GetValue) 
+00D0: A5 
+00D1: 30 
+00D2: 00 
+00D3: 00 
+00D4: 01 
+00D5: 13 
+00D6: 04 
+00D7: 15 
+00D8: 13 
+00D9: 05 
+00DA: 7E [0x0A00002D] (Registry.CurrentUser) 
+00DF: 72 [0x70000740] ("SOFTWARE\Microsoft\Windows\CurrentVersion\PrecisionTouchPad") 
+00E4: 16 
+00E5: 6F [0x0A00002E] (RegistryKey.OpenSubKey) 
+00EA: 72 [0x700007B8] ("LeaveOnWithMouse") 
+00EF: 17 
+00F0: 8C 
+00F1: 30 
+00F2: 00 
+00F3: 00 
+00F4: 01 
+00F5: 6F [0x0A000030] (RegistryKey.GetValue) 
+00FA: A5 
+00FB: 30 
+00FC: 00 
+00FD: 00 
+00FE: 01 
+00FF: 13 
+0100: 05 
+0101: 1A 
+0102: 8D 
+0103: 10 
+0104: 00 
+0105: 00 
+0106: 01 
+0107: 25 
+0108: 16 
+0109: 72 [0x700007DA] ("PTPState :  ") 
+010E: A2 
+010F: 25 
+0110: 17 
+0111: 11 
+0112: 04 
+0113: 8C 
+0114: 30 
+0115: 00 
+0116: 00 
+0117: 01 
+0118: A2 
+0119: 25 
+011A: 18 
+011B: 72 [0x700007F4] ("   PTPAutoState : ") 
+0120: A2 
+0121: 25 
+0122: 19 
+0123: 11 
+0124: 05 
+0125: 8C 
+0126: 30 
+0127: 00 
+0128: 00 
+0129: 01 
+012A: A2 
+012B: 28 [0x0A000031] (String.Concat) 
+0130: 28 [0x0A000013] (Trace.WriteLine) 
+0135: 11 
+0136: 04 
+0137: 17 
+0138: 33 
+0139: 0F 
+013A: 11 
+013B: 05 
+013C: 2D 
+013D: 0B 
+013E: 1F 
+013F: 0A 
+0140: 0A 
+0141: 06 
+0142: 13 
+0143: 06 
+0144: DD 
+0145: F4 
+0146: 01 
+0147: 00 
+0148: 00 
+0149: 11 
+014A: 04 
+014B: 17 
+014C: 33 
+014D: 0E 
+014E: 11 
+014F: 05 
+0150: 2C 
+0151: 0A 
+0152: 1E 
+0153: 0A 
+0154: 06 
+0155: 13 
+0156: 06 
+0157: DD 
+0158: E1 
+0159: 01 
+015A: 00 
+015B: 00 
+015C: 11 
+015D: 04 
+015E: 17 
+015F: 2E 
+0160: 0F 
+0161: 11 
+0162: 05 
+0163: 2D 
+0164: 0B 
+0165: 1F 
+0166: 0B 
+0167: 0A 
+0168: 06 
+0169: 13 
+016A: 06 
+016B: DD 
+016C: CD 
+016D: 01 
+016E: 00 
+016F: 00 
+0170: 11 
+0171: 04 
+0172: 17 
+0173: 2E 
+0174: 0F 
+0175: 11 
+0176: 05 
+0177: 2C 
+0178: 0B 
+0179: 1F 
+017A: 09 
+017B: 0A 
+017C: 06 
+017D: 13 
+017E: 06 
+017F: DD 
+0180: B9 
+0181: 01 
+0182: 00 
+0183: 00 
+0184: DE 
+0185: 1C 
+0186: 13 
+0187: 07 
+0188: 15 
+0189: 0A 
+018A: 72 [0x7000081A] ("nResult = ACPIController.GetMethod(0x409); ex :  ") 
+018F: 11 
+0190: 07 
+0191: 6F [0x0A000014] (Object.ToString) 
+0196: 28 [0x0A000015] (String.Concat) 
+019B: 28 [0x0A000013] (Trace.WriteLine) 
+01A0: DE 
+01A1: 00 
+01A2: 7E [0x0A00002D] (Registry.CurrentUser) 
+01A7: 72 [0x7000087E] ("Software\LGE\OSD") 
+01AC: 18 
+01AD: 6F [0x0A000032] (RegistryKey.OpenSubKey) 
+01B2: 0D 
+01B3: 09 
+01B4: 2C 
+01B5: 1F 
+01B6: 09 
+01B7: 72 [0x700008A0] ("Touchpad") 
+01BC: 15 
+01BD: 8C 
+01BE: 30 
+01BF: 00 
+01C0: 00 
+01C1: 01 
+01C2: 6F [0x0A000030] (RegistryKey.GetValue) 
+01C7: A5 
+01C8: 30 
+01C9: 00 
+01CA: 00 
+01CB: 01 
+01CC: 0C 
+01CD: 15 
+01CE: 08 
+01CF: 33 
+01D0: 79 
+01D1: 15 
+01D2: 0A 
+01D3: 06 
+01D4: 2A 
+01D5: 00 
+01D6: 02 
+01D7: 7B [0x04000020] (LGDeviceController.ACPIController) 
+01DC: 1F 
+01DD: 30 
+01DE: 6F [0x0A00002C] (ACPIHelper.GetMethod) 
+01E3: 0A 
+01E4: DE 
+01E5: 22 
+01E6: 13 
+01E7: 08 
+01E8: 15 
+01E9: 0A 
+01EA: 72 [0x700008B2] ("nResult = ACPIController.GetMethod(0x30); ex :  ") 
+01EF: 11 
+01F0: 08 
+01F1: 6F [0x0A000014] (Object.ToString) 
+01F6: 28 [0x0A000015] (String.Concat) 
+01FB: 28 [0x0A000013] (Trace.WriteLine) 
+0200: 06 
+0201: 13 
+0202: 06 
+0203: DD 
+0204: 35 
+0205: 01 
+0206: 00 
+0207: 00 
+0208: 15 
+0209: 06 
+020A: 2E 
+020B: 26 
+020C: 06 
+020D: 19 
+020E: 5F 
+020F: 0B 
+0210: 07 
+0211: 45 
+0212: 04 
+0213: 00 
+0214: 00 
+0215: 00 
+0216: 02 
+0217: 00 
+0218: 00 
+0219: 00 
+021A: 04 
+021B: 00 
+021C: 00 
+021D: 00 
+021E: 06 
+021F: 00 
+0220: 00 
+0221: 00 
+0222: 08 
+0223: 00 
+0224: 00 
+0225: 00 
+0226: 2B 
+0227: 08 
+0228: 16 
+0229: 2A 
+022A: 18 
+022B: 2A 
+022C: 17 
+022D: 2A 
+022E: 18 
+022F: 2A 
+0230: 15 
+0231: 2A 
+0232: 72 [0x70000914] ("null == rkOSDMouseInfo nResult : ") 
+0237: 12 
+0238: 00 
+0239: 28 [0x0A00001F] (Int32.ToString) 
+023E: 28 [0x0A000015] (String.Concat) 
+0243: 28 [0x0A000013] (Trace.WriteLine) 
+0248: 06 
+0249: 2A 
+024A: 72 [0x70000958] ("OSDTouchPadMode: ") 
+024F: 12 
+0250: 02 
+0251: 28 [0x0A00001F] (Int32.ToString) 
+0256: 28 [0x0A000015] (String.Concat) 
+025B: 28 [0x0A000013] (Trace.WriteLine) 
+0260: 02 
+0261: 7B [0x04000020] (LGDeviceController.ACPIController) 
+0266: 1F 
+0267: 30 
+0268: 6F [0x0A00002C] (ACPIHelper.GetMethod) 
+026D: 0A 
+026E: DE 
+026F: 22 
+0270: 13 
+0271: 09 
+0272: 15 
+0273: 0A 
+0274: 72 [0x700008B2] ("nResult = ACPIController.GetMethod(0x30); ex :  ") 
+0279: 11 
+027A: 09 
+027B: 6F [0x0A000014] (Object.ToString) 
+0280: 28 [0x0A000015] (String.Concat) 
+0285: 28 [0x0A000013] (Trace.WriteLine) 
+028A: 06 
+028B: 13 
+028C: 06 
+028D: DD 
+028E: AB 
+028F: 00 
+0290: 00 
+0291: 00 
+0292: 15 
+0293: 06 
+0294: 3B 
+0295: 8C 
+0296: 00 
+0297: 00 
+0298: 00 
+0299: 15 
+029A: 08 
+029B: 3B 
+029C: 85 
+029D: 00 
+029E: 00 
+029F: 00 
+02A0: 06 
+02A1: 19 
+02A2: 5F 
+02A3: 0B 
+02A4: 07 
+02A5: 45 
+02A6: 04 
+02A7: 00 
+02A8: 00 
+02A9: 00 
+02AA: 02 
+02AB: 00 
+02AC: 00 
+02AD: 00 
+02AE: 4F 
+02AF: 00 
+02B0: 00 
+02B1: 00 
+02B2: 1B 
+02B3: 00 
+02B4: 00 
+02B5: 00 
+02B6: 35 
+02B7: 00 
+02B8: 00 
+02B9: 00 
+02BA: 2B 
+02BB: 67 
+02BC: 08 
+02BD: 2C 
+02BE: 14 
+02BF: 02 
+02C0: 08 
+02C1: 28 [0x06000013] (LGDeviceController.Set_TouchPadMode) 
+02C6: 26 
+02C7: 72 [0x7000097C] ("0 != OSDTouchPadMode case 0") 
+02CC: 28 [0x0A000013] (Trace.WriteLine) 
+02D1: 08 
+02D2: 2A 
+02D3: 16 
+02D4: 2A 
+02D5: 17 
+02D6: 08 
+02D7: 2E 
+02D8: 14 
+02D9: 02 
+02DA: 08 
+02DB: 28 [0x06000013] (LGDeviceController.Set_TouchPadMode) 
+02E0: 26 
+02E1: 72 [0x700009B4] ("2 != OSDTouchPadMode case 2") 
+02E6: 28 [0x0A000013] (Trace.WriteLine) 
+02EB: 08 
+02EC: 2A 
+02ED: 17 
+02EE: 2A 
+02EF: 18 
+02F0: 08 
+02F1: 2E 
+02F2: 14 
+02F3: 02 
+02F4: 08 
+02F5: 28 [0x06000013] (LGDeviceController.Set_TouchPadMode) 
+02FA: 26 
+02FB: 72 [0x700009EC] ("2 != OSDTouchPadMode case3") 
+0300: 28 [0x0A000013] (Trace.WriteLine) 
+0305: 08 
+0306: 2A 
+0307: 18 
+0308: 2A 
+0309: 18 
+030A: 08 
+030B: 2E 
+030C: 14 
+030D: 02 
+030E: 08 
+030F: 28 [0x06000013] (LGDeviceController.Set_TouchPadMode) 
+0314: 26 
+0315: 72 [0x70000A22] ("2 != OSDTouchPadMode case1") 
+031A: 28 [0x0A000013] (Trace.WriteLine) 
+031F: 08 
+0320: 2A 
+0321: 18 
+0322: 2A 
+0323: 15 
+0324: 2A 
+0325: 72 [0x700004D1] (" nResult : ") 
+032A: 12 
+032B: 00 
+032C: 28 [0x0A00001F] (Int32.ToString) 
+0331: 28 [0x0A000015] (String.Concat) 
+0336: 28 [0x0A000013] (Trace.WriteLine) 
+033B: 06 
+033C: 2A 
+033D: 11 
+033E: 06 
+033F: 2A 
+

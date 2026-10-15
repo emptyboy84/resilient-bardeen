@@ -1,0 +1,12 @@
+The search for ""부평1길 73" "진짬뽕" OR "부평동2가 79-6"" returned the following summary:
+검색하신 주소와 상호명에 대한 정보는 다음과 같습니다.
+
+* **상호명:** 진짬뽕[1]
+* **도로명 주소:** 부산광역시 중구 부평1길 73[1]
+* **지번 주소:** 부산광역시 중구 부평동2가 79-6[2]
+* **참고사항:** 인근에 부산 지하철 1호선 자갈치역과 토성역, 보수사거리 및 국제시장 등이 위치해 있습니다[3].
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcFO7lJaJOQFpOdXvcwVWpsyfVmcEPbv9gXzDBWUY2KXw9BhzcXhCBMYABwye5VI_Uu6MOYc0RRvlumA_m5J1ruWl4FlL8iKDBkx-ICx6SCuvi6Gro1gDCm6xUIFr-BYrreJHB-xlmrilq9uZqQk060L-4)
+[2] [cylooks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRgP1HsyQzI4cqS67-HBvLvE3ODHfu1HiSzoQksvfiAnVa6GeDij0WqvGyYfwMlUKfkFd5B_4qGLbgGcCqI_ryBj-NrjaVHK-V1CzSqVX7KcMN722TkuI-ugI=)
+[3] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcFO7lJaJOQFpOdXvcwVWpsyfVmcEPbv9gXzDBWUY2KXw9BhzcXhCBMYABwye5VI_Uu6MOYc0RRvlumA_m5J1ruWl4FlL8iKDBkx-ICx6SCuvi6Gro1gDCm6xUIFr-BYrreJHB-xlmrilq9uZqQk060L-4)

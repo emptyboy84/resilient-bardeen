@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+[Daum] "브이알코리아 박학문" biz matches: []
+ -  
+ - rty="og:description" content="Daum 검색에서 브이알코리아 박학문에 대한 최신정보를 찾아보세요." />
+ -  브이알코리아 박학문 &ndash; Daum 검색 
+[Daum] "주식회사 브이알코리아 부산" biz matches: []
+ -  
+ - og:description" content="Daum 검색에서 주식회사 브이알코리아 부산에 대한 최신정보를 찾아보세요." />
+ -  주식회사 브이알코리아 부산 &ndash; Daum 검색 
+

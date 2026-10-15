@@ -1,0 +1,9 @@
+commit f662d6637fae0d9bc8664a00ce87be6004715c5f
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 11:02:18 2026 +0900
+
+    feat: update ㈜미우디자인 (5518501580) address, homepage, email, industry categories and corporate registration
+
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 11200482 -> 11200641 bytes
+ merged_500_perfect.tsv                             |   4 ++--
+ 2 files changed, 2 insertions(+), 2 deletions(-)

@@ -1,0 +1,13 @@
+
+The command exited with code 1.
+Output:
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\fill_missing_business_numbers\node_modules\exceljs\lib\xlsx\xlsx.js:51
+      throw new Error(`File not found: ${filename}`);
+            ^
+
+Error: File not found: C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx
+    at XLSX.readFile (C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\fill_missing_business_numbers\node_modules\exceljs\lib\xlsx\xlsx.js:51:13)
+    at async test ([eval]:5:5)
+
+Node.js v24.11.1
+

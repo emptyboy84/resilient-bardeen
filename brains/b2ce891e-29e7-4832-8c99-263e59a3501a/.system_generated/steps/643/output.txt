@@ -1,0 +1,8 @@
+The search for "site:114.co.kr "파이" "강서구" OR "대저" OR "507-86" OR "김도응"" returned the following summary:
+요청하신 검색어(`site:114.co.kr "파이" "강서구" OR "대저" OR "507-86" OR "김도응"`)로 114On(구 114.co.kr) 사이트 내에서 일치하는 검색 결과를 찾지 못했습니다[1][2]. 
+
+입력하신 상호명, 주소, 혹은 인물명(`파이`, `강서구`, `대저`, `507-86`, `김도응`)과 관련된 정보가 114 전화번호 DB에 등록되어 있지 않거나, 검색 키워드의 조건에 부합하는 페이지가 존재하지 않을 수 있습니다. 정확한 상호나 다른 검색어로 다시 시도해 보시기 바랍니다.
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqQOSALAUe_dlQploWEJZMzFifsHpsI1omCNQMolBb-iM1YCeUk3Wz44RXfAu7IdQUi3A-4X_IDS07QPR-uK17yMGjHVjhjWGWiU-)
+[2] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi9IKfdP7Iv_ot7yK2FtpJx-pAfX3Ti2jC49r7kSHpbF96DnjoDoX0dNLoOQ9Dl7dWNUC7gWYEfNv8unUnRhVcPs3e_z18zadWSRE1Yz1fmLSKi1xTbXCgWHKrH-suaBqUdPOphAd0WO40Lw==)

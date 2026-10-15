@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Row with zip: 18
+배현명		사브와비브르	7610401908	윤혜경	63136	제주 제주시 사장3길 7, 가동 301호 (연동,일우빌라)				savoirvivre5611@gmail.com		상품종합도매업			도매 및 소매업	도매 및 상품 중개업	상품 종합 도매업
+Row without zip: 18
+배현명		사브와비브르	7610401908	윤혜경		제주 제주시 사장3길 7, 가동 301호 (연동,일우빌라)				savoirvivre5611@gmail.com		상품종합도매업			도매 및 소매업	도매 및 상품 중개업	상품 종합 도매업
+

@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.placeview.co.kr/MTE3NDA4MDM2OCAg');
+```
+### Page
+- Page URL: https://www.placeview.co.kr/MTE3NDA4MDM2OCAg
+- Page Title: 404 - 파일 또는 디렉터리를 찾을 수 없습니다.
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-38-08-698Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-38-08-294Z.log#L1

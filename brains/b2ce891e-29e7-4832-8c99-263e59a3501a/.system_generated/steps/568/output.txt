@@ -1,0 +1,12 @@
+The search for "site:jobkorea.co.kr "테렌즈" ("051" OR "010" OR "070" OR "전화" OR "주소")" returned the following summary:
+주식회사 테렌즈(TERENZ) 기업 정보 요약[1][2]:
+
+* **업종:** 솔루션·SI·CRM·ERP / 응용 소프트웨어 개발 및 공급업 (의료 진단 AI 솔루션 등)[3][1][4]
+* **주소:** 부산광역시 해운대구 센텀1로 28, 102동 2002호 (센텀동부센트레빌)[1]
+* **연락처:** 051-791-2021[1]
+
+Sources:
+[1] [inje.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCmeuRNf0h02hWYLHSiRrx7H3TDsbBFKVJ67OGlV7FNQiJkasqDxSGASuKm5IgDFzuY8KTe_cxwr2oqx4x2dS9MAECKDmA5DYeiT9BKcR5RsnSb1a3YjkeF850NiG-yDh77-zOSS_JsDkgViXvTrSLCC8Q9SRhaQ=)
+[2] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElyYxOAna2fSnOIwIsMlNG4TjccKwU0s90hIska_VUDJdPeYYsj8n_FAAc1ExXi5anfRfbBFctx35DWdWZVOaYe420Avo9B76vFK7brFm3EYRBVr1FJC9SZ0W6n310SuGWO4o2Rn4JRRY=)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFqvWwgRJJ6dzUKcjH0qPz_QHkkBOAKnTl3tiZqkMR-bBXIfh_wgmjrP_gltrYVJ9Gn8UgPUALJm48eAqjFoR5jxM8pASfDga9Qfkqfci0LLcbMlPsI_4F1d9tMOuNir4EjSXd8Xr-EnFKdIDBVNy09x5asNZkFuupBA==)
+[4] [brise.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_QTcqj8wq6D_rAlYjh7T00e6O1ONdlm2jBYFqlqxyhWW6AYE2UFflS6igyWp1qnigOnGE2nPQYGedoudgzjOXSvGGzBxy-wbVdBhOthqC-oA7Wa5vMLvtudTa2P-Mk5GIntfi4OV-OvQKJnVqq-qz8qVipRY0SPvbwmvgT2S5qsLeXg9ozXWkVRG4CrHy-yYyvyssyidJQBbn2oK6VA==)

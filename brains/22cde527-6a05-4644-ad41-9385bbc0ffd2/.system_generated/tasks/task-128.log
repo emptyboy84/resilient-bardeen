@@ -1,0 +1,186 @@
+Testing first 30 companies...
+
+[1/30] Row 126 | "블루호텔레코딩스튜디오" (대표: "김현", 주소: "부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[2/30] Row 504 | "89Light" (대표: "", 주소: "부산 동래구 충렬대로100번나길 6")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[3/30] Row 508 | "LINC" (대표: "", 주소: "")
+   -> Found 21 total, 21 name-matches
+      Candidate: 4391401408 (린치핀(LINCHPIN)) | Busan:  | ValidChecksum: true | Snippet: 이정* 전자상거래 소매업 인천광역시 연수구 송도과학로28번...
+      Candidate: 5908602107 (주식회사 방카엘(Banque.LInc.)) | Busan:  | ValidChecksum: true | Snippet: 광고물 문안 도안 설계 등 작성업 서울특별시 강동구 천호대로151길...
+      Candidate: 5352000519 (린치핀(Linchpin)) | Busan:  | ValidChecksum: true | Snippet: 정대* 전자상거래업 비공개
+      Candidate: 7780503347 (앤빌리언 LINC) | Busan:  | ValidChecksum: true | Snippet: 김범* 전자상거래 소매업 경기도 고양시 덕양구 지축로 55...
+      Candidate: 8123501215 (링코모(LINCOMO)) | Busan:  | ValidChecksum: true | Snippet: 대구광역시 동구 신암로20길 7
+      Candidate: 2119332079 (링컨파크아트클럽(LincolnParkArtClub)미술교습소) | Busan:  | ValidChecksum: true | Snippet: 일반 교과ㆍ음악ㆍ미술ㆍ외국어 학원 비공개
+      Candidate: 4815300767 (린치핀 트레이드(Linchpin Trade)) | Busan:  | ValidChecksum: true | Snippet: 이미* 전자상거래 소매업
+      Candidate: 3980903324 (링코글로벌(Linco Global)) | Busan:  | ValidChecksum: true | Snippet: 강석* 전자상거래 소매업 대구광역시 달서구 달구벌대로251...
+      Candidate: 5048274107 (경북대학교산학협력선도대학（LINC）사업단) | Busan:  | ValidChecksum: true | Snippet: 김지* 비영리 대구광역시 북구 대학로 80, 1...
+      Candidate: 2048288754 (링크(LINC)3.0사업단협의회) | Busan:  | ValidChecksum: true | Snippet: 그 외 기타 협회 및 단체 경상북도 구미시 야은로 37
+      Candidate: 1028269198 (3단계 산학연협력 선도대학 육성사업(LINC 3.0)사업단협의회) | Busan:  | ValidChecksum: true | Snippet: 윤상* 경기도 용인시 수지구 죽전로 15...
+      Candidate: 6128283571 (LINC+육성사업산학협력고도화형사업단협의회) | Busan:  | ValidChecksum: true | Snippet: 그 외 기타 협회 및 단체 세종특별자치시 장군면 대학길 30...
+      Candidate: 7184300414 (랑꼬뉴(Linconnu)) | Busan:  | ValidChecksum: true | Snippet: 서양식 음식점업 서울특별시 강남구 도산대로25길 ...
+      Candidate: 8448102673 (주식회사 린치핀브라더스(Linchpin Brothers Co., Ltd.)) | Busan:  | ValidChecksum: true | Snippet: 고현* 전자상거래 서울특별시 종로구 율곡로 228
+      Candidate: 1500703086 (린치핀(Linchpin)) | Busan:  | ValidChecksum: true | Snippet: 강재* 전자상거래 소매업
+      Candidate: 1909100510 (링컨더글라스(LincolnDouglas)어학원) | Busan:  | ValidChecksum: true | Snippet: 오수* 전라남도 순천시 해룡면신대3길18...
+      Candidate: 6173709843 (동명LINC) | Busan:  | ValidChecksum: true | Snippet: 김성* 전자상거래업
+      Candidate: 6132977096 (린채 LINCHAE) | Busan:  | ValidChecksum: true | Snippet: 김춘* 전자상거래업 전라북도 전주시 완산구 서원로 *...
+      Candidate: 6020653208 (링컨(Lincoln)) | Busan:  | ValidChecksum: true | Snippet: 장두* 전자상거래업
+      Candidate: 7430400686 (린코(Linco)) | Busan: true | ValidChecksum: true | Snippet: 송창* 전자상거래업 부산광역시 사상구 가야대로 ***...
+   => MATCHED: 743-04-00686 for LINC
+
+[4/30] Row 536 | "김정보" (대표: "", 주소: "남구")
+   -> Found 100 total, 1 name-matches
+      Candidate: 2085600580 (이김정보기술) | Busan: false | ValidChecksum: true | Snippet: 김대* 경기도 고양시 덕양구 공양왕길 1...
+   => NO DEFINITIVE MATCH
+
+[5/30] Row 537 | "꿈해몽" (대표: "", 주소: "부산 사상구 주감로 187")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[6/30] Row 539 | "나래바람" (대표: "", 주소: "부산광역시 남구 분포로 111, 105동 2002호 (용호동, LG메트로시티)")
+   -> Found 100 total, 2 name-matches
+      Candidate: 4178134819 (주식회사 나래) | Busan: false | ValidChecksum: true | Snippet: 이세* 건설업본사 제주 서귀포시 표선면 일주동로56...
+      Candidate: 1531700092 (나래) | Busan: false | ValidChecksum: true | Snippet: 이기* 대구광역시 남구 대명복개로4길 7... (
+   => NO DEFINITIVE MATCH
+
+[7/30] Row 547 | "냉이영화" (대표: "", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[8/30] Row 552 | "녹생광고연합그린하우징" (대표: "박명섭", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[9/30] Row 568 | "단디콤" (대표: "", 주소: "부산 동래구 중앙대로1381번길 11")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[10/30] Row 589 | "도서출판국제" (대표: "", 주소: "")
+   -> Found 5 total, 1 name-matches
+      Candidate: 1059994355 (도서출판국제교육원) | Busan:  | ValidChecksum: true | Snippet: 장성*
+   => NO DEFINITIVE MATCH
+
+[11/30] Row 593 | "도서출판일광" (대표: "", 주소: "부산 기장군 기장읍 차성로344번길 13")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[12/30] Row 598 | "도성회" (대표: "", 주소: "부산 북구 금곡대로 287 (화명동)")
+   -> Found 100 total, 13 name-matches
+      Candidate: 1298201529 ((사)도성회) | Busan: false | ValidChecksum: true | Snippet: 권도* 경 인쇄업 서울특별시 강남구 도곡로 515,...
+      Candidate: 3388101484 (주식회사 도성) | Busan: false | ValidChecksum: true | Snippet: 김정* 건설업본사 전남광주통합특별시 서구 유덕로 1...
+      Candidate: 4168602639 (주식회사 도성) | Busan: false | ValidChecksum: true | Snippet: 도기* 지반조성 건설업 경상북도 성주군 성주읍 성주읍2길...
+      Candidate: 5068148554 ((주)도성) | Busan: false | ValidChecksum: true | Snippet: 박원* 일반 화물자동차 운송업 경상북도 포항시 남구 송덕로212...
+      Candidate: 7438802025 (주식회사 도성) | Busan: true | ValidChecksum: true | Snippet: 이성* 건설업본사 부산광역시 동래구 동래로176번길...
+   => MATCHED: 743-88-02025 for 도성회
+
+[13/30] Row 602 | "동그라미광고공사" (대표: "정지후", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[14/30] Row 607 | "동아대학교출판부" (대표: "한석정, 정갑두", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[15/30] Row 611 | "동화사" (대표: "", 주소: "부산 동구 중앙대로226번길 7-6 (초량동)")
+   -> Found 100 total, 5 name-matches
+      Candidate: 2010148623 (동화사) | Busan: false | ValidChecksum: true | Snippet: 이봉* 기타 인쇄관련 산업 서울특별시 중구 을지로18길 2
+      Candidate: 4083106032 (동화사진관) | Busan: false | ValidChecksum: true | Snippet: 김동* 전라남도 화순군 화순읍 동헌길 2...
+      Candidate: 8668802099 (주식회사 동화) | Busan: false | ValidChecksum: true | Snippet: 손인* 실내건축공사 충청남도 아산시 충무로 58 2층...
+      Candidate: 5028210825 (대한불교조계종동화사) | Busan: false | ValidChecksum: true | Snippet: 윤필* 불교 단체 대구광역시 동구 동화사1길 1(도...
+      Candidate: 2010916748 (동화) | Busan: false | ValidChecksum: true | Snippet: 조선* 경 인쇄업 서울특별시 중구 을지로16길 13...
+   => NO DEFINITIVE MATCH
+
+[16/30] Row 619 | "드림유엔터테인먼트" (대표: "", 주소: "부산 부산진구 서면로68번길 45 3층 (부전동)")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[17/30] Row 639 | "디자인에코" (대표: "", 주소: "부산 금정구 장전동 222-39 서강빌딩 4층")
+   -> Found 16 total, 13 name-matches
+      Candidate: 6031085753 (디자인에코) | Busan: true | ValidChecksum: true | Snippet: 이돈* 패션, 섬유류 및 기타 전문 디자인업 부산광역시 금정구 금정로 147,...
+   => MATCHED: 603-10-85753 for 디자인에코
+
+[18/30] Row 645 | "디지털포토2017" (대표: "", 주소: "부산 기장군 일광읍 삼성2길 6")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[19/30] Row 649 | "라온엔터테인먼트" (대표: "", 주소: "부산 사상구 모라동 75-8번지 신모라공단 903호")
+   -> Found 18 total, 12 name-matches
+      Candidate: 5148137077 ((주)라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 박재* 유선 온라인 게임 소프트웨어 개발 및 공급업 대구광역시 남구 명덕로 104, ...
+      Candidate: 6582600283 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 정태* 전시, 컨벤션 및 행사 대행업 전라북도 전주시 완산구 한절길 ...
+      Candidate: 5652700391 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 채길* 티켓 경기도 부천시 고강로56번길 16...
+      Candidate: 3350102783 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 최봉* 공연 기획업 세종특별자치시 한누리대로 195...
+      Candidate: 5148526184 (（주）라온엔터테인먼트 대명3지점) | Busan: false | ValidChecksum: true | Snippet: 박재* 대구광역시 남구 중앙대로47길 1...
+      Candidate: 5477500206 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 공연 기획업 대전광역시 서구 계룡로320번길 ...
+      Candidate: 6140730511 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 김대* 전자상거래업 전라북도 전주시 완산구 척동10길...
+      Candidate: 4622501613 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 경서* 경기도 의정부시 오목로 196, ...
+      Candidate: 2661301860 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 안태* 무용 및 음악단체
+      Candidate: 6222501781 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 김소*
+      Candidate: 3278602718 (라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 경기도 화성시 봉담읍 최루백로 1...
+      Candidate: 2578102675 (유한회사 라온엔터테인먼트) | Busan: false | ValidChecksum: true | Snippet: 이승* 전라북도 전주시 완산구 중산4길 ...
+   => NO DEFINITIVE MATCH
+
+[20/30] Row 692 | "메리데브" (대표: "", 주소: "부산 동래구 명안로78번길 38")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[21/30] Row 701 | "문화일보 수정중앙지국" (대표: "", 주소: "부산 동구 수정동 망양로")
+   -> Found 1 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[22/30] Row 703 | "주식회사 브이드림" (대표: "", 주소: "부산 동구 초량동 중앙대로 교원부산빌딩")
+   -> Found 3 total, 2 name-matches
+      Candidate: 1868600972 (주식회사 브이드림) | Busan: true | ValidChecksum: true | Snippet: 김민* 기타 통신 판매업 부산광역시 동구 중앙대로 216,...
+   => MATCHED: 186-86-00972 for 주식회사 브이드림
+
+[23/30] Row 708 | "모션박스" (대표: "", 주소: "")
+   -> Found 2 total, 2 name-matches
+      Candidate: 7013300848 (모션박스) | Busan:  | ValidChecksum: true | Snippet: 유상* 시각 디자인업 서울특별시 강남구 논현로79길 5...
+      Candidate: 3275700947 (모션박스) | Busan:  | ValidChecksum: true | Snippet: 금교* 전자상거래 소매업 (
+   => NO DEFINITIVE MATCH
+
+[24/30] Row 714 | "무몽크" (대표: "", 주소: "부산 금정구 금정로 90-1")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[25/30] Row 725 | "박기양" (대표: "최보필", 주소: "")
+   -> Found 6 total, 6 name-matches
+      Candidate: 8999601042 (박기양) | Busan:  | ValidChecksum: true | Snippet: 박기* 경기도 용인시 기흥구 죽현로 57...
+      Candidate: 2090781569 (박기양) | Busan:  | ValidChecksum: true | Snippet: 박기*
+      Candidate: 5041767189 (박기양) | Busan:  | ValidChecksum: true | Snippet: 박기*
+      Candidate: 1410339146 (박기양) | Busan:  | ValidChecksum: true | Snippet: 박기*
+      Candidate: 4169703615 (박기양) | Busan:  | ValidChecksum: true | Snippet: 박기*
+      Candidate: 5021747270 (세무사박기양사무소) | Busan:  | ValidChecksum: true | Snippet: 박기* 세무사업 대구광역시 동구 동부로22길 91... (
+   => NO DEFINITIVE MATCH
+
+[26/30] Row 730 | "버킷리스트" (대표: "", 주소: "")
+   -> Found 41 total, 41 name-matches
+      Candidate: 7054400190 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 이동* 전자상거래업(잡화) 인천광역시 계양구 장제로 719-...
+      Candidate: 8374800651 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 현은* 남녀용 겉옷 및 셔츠 도매업 서울특별시 중구 남대문시장8길 2...
+      Candidate: 1450203736 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 전선* 전자상거래 소매업
+      Candidate: 7392401665 (버킷리스트) | Busan:  | ValidChecksum: true | Snippet: 서울특별시 중구 을지로45길 62
+      Candidate: 7721902236 (버킷리스트) | Busan: true | ValidChecksum: true | Snippet: 부산광역시 기장군 정관읍 모전1길...
+   => MATCHED: 772-19-02236 for 버킷리스트
+
+[27/30] Row 745 | "불교문학신문" (대표: "최경식", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[28/30] Row 749 | "북인더백" (대표: "", 주소: "")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+[29/30] Row 750 | "불교방송" (대표: "박형수", 주소: "부산 동구 범일로 102")
+   -> Found 16 total, 16 name-matches
+      Candidate: 1058204476 (（재）불교방송) | Busan: false | ValidChecksum: true | Snippet: 김태* 라디오 방송업 서울특별시 마포구 마포대로 20(...
+      Candidate: 6048204181 ((재)부산불교방송) | Busan: true | ValidChecksum: true | Snippet: 공원* 라디오 방송업 부산광역시 동구 범일로 102, ...
+   => MATCHED: 604-82-04181 for 불교방송
+
+[30/30] Row 751 | "불교텔레비젼" (대표: "", 주소: "부산 해운대구 센텀중앙로 97(다른 정보안나옴)")
+   -> Found 15 total, 0 name-matches
+   => NO DEFINITIVE MATCH
+
+Matched 6 out of 30

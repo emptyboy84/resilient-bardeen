@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                       
+----                                                       
+HKEY_CURRENT_USER\Software\LG BatteryApp                   
+HKEY_CURRENT_USER\Software\LG PC Care                      
+HKEY_CURRENT_USER\Software\LGE                             
+HKEY_LOCAL_MACHINE\Software\LGE                            
+HKEY_LOCAL_MACHINE\Software\WOW6432Node\LG Electronics Inc.
+
+
+

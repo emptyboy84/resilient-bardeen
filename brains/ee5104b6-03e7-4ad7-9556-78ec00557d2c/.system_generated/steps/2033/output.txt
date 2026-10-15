@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090695719');
+```
+### Page
+- Page URL: https://bizno.net/article/6090695719
+- Page Title: 신창산업
+- Console: 1 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T00-54-37-705Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T00-54-33-579Z.log#L1-L9

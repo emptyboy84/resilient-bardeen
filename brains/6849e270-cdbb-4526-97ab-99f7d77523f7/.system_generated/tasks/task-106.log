@@ -1,0 +1,14 @@
+Loading workbook in read_only mode...
+Auditing Sheet: � �
+Header: ['�ۼ�', '�', 'ȸ�', '�ڹ�ȣ', '�ǥ�', '�ȣ', '�ּ�', '�ȭ�ȣ', '�ѽ�ȣ', 'Ȩ�', '�̸�', '�', '�', 'â�', '�', '�ڵ�1', '�ڵ�2', '�(NICE BizINFO(�)�', '�ֻ�ǰ', '�ְŷ�', '�ְŷ�', '�׷�', '�ֽ�ڵ�', '�ڹ�ȣ', '�ι�ȣ', '�', '�ȣ�', '�', '�', '�ȣ�', '�', '�⵵', '�ֱٸ�', '�ͳ⵵', '�ֱټ�', '�ͳ⵵', '�ֱٿ�', '�ڻ�⵵', '�ֱ�ڻ�', '�ä�⵵', '�ֱٺ�ä�', '�ں�ѳ⵵', '�ֱ�ں�', '�ں�ݳ⵵', '�ֱ�ں�', '�1', '�2', '�_�', '�_�', '�_�', '�_11� �', '�ڵ�', '�ڸ�', '�ںμ�', '�', '�ڿ�ó', '�̸�', '']
+Total valid data rows extracted: 20433
+Excel File Audit Complete!
+Total Rows: 20433
+Status: {'�': 19362, '�': 360, '�޾�': 10, '�Ÿ': 701}
+Biz No Errors: 322
+Duplicate Biz Nos: 4
+Corp No Errors: 5
+Duplicate Corp Nos: 1
+Corporations Missing Corp No: 3914
+Critical Missing: 5771
+Email Errors: 4661

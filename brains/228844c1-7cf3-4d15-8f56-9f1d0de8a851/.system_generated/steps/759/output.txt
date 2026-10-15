@@ -1,0 +1,426 @@
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%22010-8074-7622%22
+- Page Title: "010-8074-7622" – Daum 검색
+### Snapshot
+```yaml
+- generic [ref=f361e1]:
+  - navigation:
+    - link "본문 바로가기" [ref=f361e2] [cursor=pointer]:
+      - /url: "#daumBody"
+    - link "메뉴 바로가기" [ref=f361e3] [cursor=pointer]:
+      - /url: "#daumGnb"
+  - generic [ref=f361e4]:
+    - banner [ref=f361e5]:
+      - generic [ref=f361e6]:
+        - heading "다음" [level=1] [ref=f361e7]
+        - heading "검색" [level=2] [ref=f361e8]
+        - generic [ref=f361e9]:
+          - group "검색폼" [ref=f361e11]:
+            - generic [ref=f361e13]:
+              - link "Daum 메인페이지로 가기" [ref=f361e14] [cursor=pointer]:
+                - /url: https://www.daum.net/
+              - textbox "검색어 입력" [ref=f361e23]: "\"010-8074-7622\""
+              - button "입력삭제" [ref=f361e24] [cursor=pointer]
+              - button "가상키보드 열기" [ref=f361e26] [cursor=pointer]
+              - button "검색" [ref=f361e42] [cursor=pointer]
+          - generic [ref=f361e48]:
+            - heading "서비스 바로가기" [level=2] [ref=f361e49]
+            - link "로그인" [ref=f361e51] [cursor=pointer]:
+              - /url: https://logins.daum.net/accounts/loginform.do?url=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26DA%3DYZR%26t__nil_searchbox%3Dbtn%26sug%3D%26sugo%3D%26sq%3D%26o%3D%26q%3D%2522010-8074-7622%2522
+            - generic [ref=f361e52]:
+              - link "메일" [ref=f361e54] [cursor=pointer]:
+                - /url: https://mail.daum.net/?nil_profile=mini&nil_src=mail
+              - button "Daum 미니 사이트맵" [ref=f361e57] [cursor=pointer]
+        - generic [ref=f361e59]:
+          - generic:
+            - list [ref=f361e60]:
+              - listitem [ref=f361e61]:
+                - generic [ref=f361e62]: 선택된 항목
+                - link "통합" [ref=f361e63] [cursor=pointer]:
+                  - /url: "?w=tot&q=%22010-8074-7622%22&DA=NTB"
+              - listitem [ref=f361e65]:
+                - link "이미지" [ref=f361e66] [cursor=pointer]:
+                  - /url: "?w=img&nil_search=btn&DA=NTB&enc=utf8&q=%22010-8074-7622%22"
+              - listitem [ref=f361e68]:
+                - link "동영상" [ref=f361e69] [cursor=pointer]:
+                  - /url: "?w=vclip&nil_search=btn&DA=NTB&enc=utf8&q=%22010-8074-7622%22"
+              - listitem [ref=f361e71]:
+                - link "뉴스" [ref=f361e72] [cursor=pointer]:
+                  - /url: "?w=news&nil_search=btn&DA=NTB&enc=utf8&cluster=y&cluster_page=1&q=%22010-8074-7622%22"
+              - listitem [ref=f361e74]:
+                - link "통합웹" [ref=f361e75] [cursor=pointer]:
+                  - /url: "?w=fusion&nil_search=btn&DA=NTB&p=2&q=%22010-8074-7622%22"
+              - listitem [ref=f361e77]:
+                - link "사이트" [ref=f361e78] [cursor=pointer]:
+                  - /url: "?w=site&nil_search=btn&DA=NTB&enc=utf8&lpp=10&q=%22010-8074-7622%22"
+              - listitem [ref=f361e80]:
+                - link "어학사전 새창" [ref=f361e81] [cursor=pointer]:
+                  - /url: http://dic.daum.net/search.do?q=%22010-8074-7622%22
+                  - generic [ref=f361e82]:
+                    - text: 어학사전
+                    - generic [ref=f361e83]: 새창
+              - listitem [ref=f361e84]:
+                - link "지도 새창" [ref=f361e85] [cursor=pointer]:
+                  - /url: https://map.kakao.com/?from=total&nil_suggest=btn&tab=place&q=%22010-8074-7622%22
+                  - generic [ref=f361e86]:
+                    - text: 지도
+                    - generic [ref=f361e87]: 새창
+            - button "더보기/접기" [ref=f361e89] [cursor=pointer]
+          - button "전체 기간" [ref=f361e92] [cursor=pointer]
+    - generic [ref=f361e93]:
+      - main [ref=f361e94]:
+        - generic [ref=f361e96]:
+          - generic [ref=f361e97]: 검색 본문
+          - generic [ref=f361e99]:
+            - heading "계산기" [level=2] [ref=f361e101]
+            - generic [ref=f361e102]:
+              - generic [ref=f361e103]:
+                - generic [ref=f361e104]:
+                  - link "이전계산 기록 보기" [ref=f361e105] [cursor=pointer]:
+                    - /url: javascript:;
+                  - strong [ref=f361e107]: 계산식
+                  - generic [ref=f361e108]: 010-8074-7622
+                  - strong [ref=f361e109]: 결과값
+                  - textbox [active] [ref=f361e111]: "-15,686"
+                - generic [ref=f361e112]:
+                  - list [ref=f361e113]:
+                    - listitem [ref=f361e114]:
+                      - link "sin" [ref=f361e115] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e116]:
+                      - link "cos" [ref=f361e117] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e118]:
+                      - link "tan" [ref=f361e119] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e120]:
+                      - link "ln" [ref=f361e121] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e122]:
+                      - link "log" [ref=f361e123] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e124]:
+                      - link "√" [ref=f361e125] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e126]:
+                      - link "x!" [ref=f361e127] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e128]:
+                      - link "xy" [ref=f361e129] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e130]:
+                      - link "exp" [ref=f361e131] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e132]:
+                      - link "π" [ref=f361e133] [cursor=pointer]:
+                        - /url: javascript:;
+                  - list [ref=f361e134]:
+                    - listitem [ref=f361e135]:
+                      - link "C" [ref=f361e136] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e137]:
+                      - link "(" [ref=f361e138] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e139]:
+                      - link ")" [ref=f361e140] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e141]:
+                      - link "7" [ref=f361e142] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e143]:
+                      - link "8" [ref=f361e144] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e145]:
+                      - link "9" [ref=f361e146] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e147]:
+                      - link "4" [ref=f361e148] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e149]:
+                      - link "5" [ref=f361e150] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e151]:
+                      - link "6" [ref=f361e152] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e153]:
+                      - link "1" [ref=f361e154] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e155]:
+                      - link "2" [ref=f361e156] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e157]:
+                      - link "3" [ref=f361e158] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e159]:
+                      - link "0" [ref=f361e160] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e161]:
+                      - link "." [ref=f361e162] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e164]:
+                      - link "지우기" [ref=f361e165] [cursor=pointer]:
+                        - /url: javascript:;
+                  - list [ref=f361e167]:
+                    - listitem [ref=f361e168]:
+                      - link "÷" [ref=f361e169] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e171]:
+                      - link "x" [ref=f361e172] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e174]:
+                      - link "-" [ref=f361e175] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e177]:
+                      - link "+" [ref=f361e178] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f361e180]:
+                      - link "=" [ref=f361e181] [cursor=pointer]:
+                        - /url: javascript:;
+              - paragraph [ref=f361e183]: 간단한 계산을 위한 웹계산기입니다. 14자리 이상 계산은 오차가 있을 수 있습니다.이전계산 기록은 브라우저를 종료하면 전체 삭제됩니다.
+            - generic [ref=f361e185]:
+              - strong [ref=f361e186]: 관련 계산기
+              - combobox [ref=f361e188]:
+                - option "선택해주세요" [selected]
+                - option "이자 계산기"
+                - option "퍼센트 계산기"
+                - option "비만도 계산기"
+                - option "임금 계산기"
+                - option "부동산중개보수 계산기"
+                - option "학점 계산기"
+          - generic [ref=f361e190]:
+            - heading "이미지" [level=2] [ref=f361e194]
+            - generic [ref=f361e195]:
+              - figure [ref=f361e196]:
+                - link [ref=f361e198] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[공지] [김해점집 매화당] 신당 이전 했습니다!" [ref=f361e199]
+              - figure [ref=f361e200]:
+                - link [ref=f361e202] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "레드윙 코리아 - 6인치 목토 8074 블랙 하니스 슈케어" [ref=f361e203]
+            - link "이미지 더보기" [ref=f361e205] [cursor=pointer]:
+              - /url: "?w=img&q=%22010-8074-7622%22&DA=IIM"
+        - complementary [ref=f361e206]:
+          - generic [ref=f361e208]:
+            - generic [ref=f361e209]:
+              - heading "분야별 검색어" [level=2] [ref=f361e210]
+              - generic [ref=f361e211]: 09.15. 10:17
+            - generic [ref=f361e212]:
+              - list [ref=f361e214]:
+                - listitem [ref=f361e215]:
+                  - text: 선택된 메뉴
+                  - link "주가종합" [ref=f361e216] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f361e218]:
+                  - link "영화 (종합)" [ref=f361e219] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f361e221]:
+                  - link "영화 (개봉예정)" [ref=f361e222] [cursor=pointer]:
+                    - /url: "javascript:"
+              - generic [ref=f361e224]:
+                - list [ref=f361e225]:
+                  - listitem [ref=f361e226]:
+                    - generic [ref=f361e227]:
+                      - generic [ref=f361e228]: "1"
+                      - link "삼성전자" [ref=f361e230] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e231]:
+                    - generic [ref=f361e232]:
+                      - generic [ref=f361e233]: "2"
+                      - link "SK하이닉스" [ref=f361e235] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e236]:
+                    - generic [ref=f361e237]:
+                      - generic [ref=f361e238]: "3"
+                      - link "현대차" [ref=f361e240] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%ED%98%84%EB%8C%80%EC%B0%A8&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e241]:
+                    - generic [ref=f361e242]:
+                      - generic [ref=f361e243]: "4"
+                      - link "두산에너빌리티" [ref=f361e245] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EB%91%90%EC%82%B0%EC%97%90%EB%84%88%EB%B9%8C%EB%A6%AC%ED%8B%B0&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e246]:
+                    - generic [ref=f361e247]:
+                      - generic [ref=f361e248]: "5"
+                      - link "삼성전기" [ref=f361e250] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EA%B8%B0&rtmaxcoll=R5T,1CI"
+                - list [ref=f361e251]:
+                  - listitem [ref=f361e252]:
+                    - generic [ref=f361e253]:
+                      - generic [ref=f361e254]: "6"
+                      - link "LG전자" [ref=f361e256] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=LG%EC%A0%84%EC%9E%90&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e257]:
+                    - generic [ref=f361e258]:
+                      - generic [ref=f361e259]: "7"
+                      - link "삼성전자우" [ref=f361e261] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%9A%B0&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e262]:
+                    - generic [ref=f361e263]:
+                      - generic [ref=f361e264]: "8"
+                      - link "한화오션" [ref=f361e266] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e267]:
+                    - generic [ref=f361e268]:
+                      - generic [ref=f361e269]: "9"
+                      - link "삼성중공업" [ref=f361e271] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85&rtmaxcoll=R5T,1CI"
+                  - listitem [ref=f361e272]:
+                    - generic [ref=f361e273]:
+                      - generic [ref=f361e274]: "10"
+                      - link "삼성SDI" [ref=f361e276] [cursor=pointer]:
+                        - /url: "?w=tot&DA=R5T&q=%EC%82%BC%EC%84%B1SDI&rtmaxcoll=R5T,1CI"
+          - generic [ref=f361e279]:
+            - generic [ref=f361e282]:
+              - heading "실시간 트렌드" [level=2] [ref=f361e283]
+              - link "안내" [ref=f361e285] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f361e286]: i
+            - list [ref=f361e289]:
+              - listitem [ref=f361e290]:
+                - link "1 위 원현준 이수진 결혼 순위 변동없음" [ref=f361e291] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9B%90%ED%98%84%EC%A4%80+%EC%9D%B4%EC%88%98%EC%A7%84+%EA%B2%B0%ED%98%BC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e292]:
+                    - text: "1"
+                    - generic [ref=f361e293]: 위
+                  - generic [ref=f361e294]: 원현준 이수진 결혼
+                  - generic [ref=f361e295]: 순위 변동없음
+              - listitem [ref=f361e296]:
+                - link "2 위 박민영국힘 대변인 순위 상승" [ref=f361e297] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%B0%95%EB%AF%BC%EC%98%81%EA%B5%AD%ED%9E%98+%EB%8C%80%EB%B3%80%EC%9D%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e298]:
+                    - text: "2"
+                    - generic [ref=f361e299]: 위
+                  - generic [ref=f361e300]: 박민영국힘 대변인
+                  - generic [ref=f361e301]: 순위 상승
+              - listitem [ref=f361e302]:
+                - link "3 위 트럼프 젠슨황 공개통화 순위 상승" [ref=f361e303] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%8A%B8%EB%9F%BC%ED%94%84+%EC%A0%A0%EC%8A%A8%ED%99%A9+%EA%B3%B5%EA%B0%9C%ED%86%B5%ED%99%94&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e304]:
+                    - text: "3"
+                    - generic [ref=f361e305]: 위
+                  - generic [ref=f361e306]: 트럼프 젠슨황 공개통화
+                  - generic [ref=f361e307]: 순위 상승
+              - listitem [ref=f361e308]:
+                - link "4 위 셀트리온 짐펜트라 순위 신규진입" [ref=f361e309] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8+%EC%A7%90%ED%8E%9C%ED%8A%B8%EB%9D%BC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e310]:
+                    - text: "4"
+                    - generic [ref=f361e311]: 위
+                  - generic [ref=f361e312]: 셀트리온 짐펜트라
+                  - generic [ref=f361e313]: 순위 신규진입
+              - listitem [ref=f361e314]:
+                - link "5 위 연애전쟁 순위 신규진입" [ref=f361e315] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%97%B0%EC%95%A0%EC%A0%84%EC%9F%81&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e316]:
+                    - text: "5"
+                    - generic [ref=f361e317]: 위
+                  - generic [ref=f361e318]: 연애전쟁
+                  - generic [ref=f361e319]: 순위 신규진입
+              - listitem [ref=f361e320]:
+                - link "6 위 조규성 2도움 순위 신규진입" [ref=f361e321] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%A1%B0%EA%B7%9C%EC%84%B1+2%EB%8F%84%EC%9B%80&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e322]:
+                    - text: "6"
+                    - generic [ref=f361e323]: 위
+                  - generic [ref=f361e324]: 조규성 2도움
+                  - generic [ref=f361e325]: 순위 신규진입
+              - listitem [ref=f361e326]:
+                - link "7 위 최태원 항고 순위 상승" [ref=f361e327] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%B5%9C%ED%83%9C%EC%9B%90+%ED%95%AD%EA%B3%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e328]:
+                    - text: "7"
+                    - generic [ref=f361e329]: 위
+                  - generic [ref=f361e330]: 최태원 항고
+                  - generic [ref=f361e331]: 순위 상승
+              - listitem [ref=f361e332]:
+                - link "8 위 서정희 미국 클럽 대시 순위 하락" [ref=f361e333] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%84%9C%EC%A0%95%ED%9D%AC+%EB%AF%B8%EA%B5%AD+%ED%81%B4%EB%9F%BD+%EB%8C%80%EC%8B%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e334]:
+                    - text: "8"
+                    - generic [ref=f361e335]: 위
+                  - generic [ref=f361e336]: 서정희 미국 클럽 대시
+                  - generic [ref=f361e337]: 순위 하락
+              - listitem [ref=f361e338]:
+                - link "9 위 박미선 암 투병 순위 상승" [ref=f361e339] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%B0%95%EB%AF%B8%EC%84%A0+%EC%95%94+%ED%88%AC%EB%B3%91&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e340]:
+                    - text: "9"
+                    - generic [ref=f361e341]: 위
+                  - generic [ref=f361e342]: 박미선 암 투병
+                  - generic [ref=f361e343]: 순위 상승
+              - listitem [ref=f361e344]:
+                - link "10 위 클래리티 법안 순위 상승" [ref=f361e345] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%81%B4%EB%9E%98%EB%A6%AC%ED%8B%B0+%EB%B2%95%EC%95%88&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e346]:
+                    - text: "10"
+                    - generic [ref=f361e347]: 위
+                  - generic [ref=f361e348]: 클래리티 법안
+                  - generic [ref=f361e349]: 순위 상승
+              - listitem [ref=f361e350]:
+                - link "11 위 포스코그룹 조기 지급 순위 상승" [ref=f361e351] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%8F%AC%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%A3%B9+%EC%A1%B0%EA%B8%B0+%EC%A7%80%EA%B8%89&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e352]:
+                    - text: "11"
+                    - generic [ref=f361e353]: 위
+                  - generic [ref=f361e354]: 포스코그룹 조기 지급
+                  - generic [ref=f361e355]: 순위 상승
+              - listitem [ref=f361e356]:
+                - link "12 위 류혜영 고경표 설렘 고백 순위 상승" [ref=f361e357] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%A5%98%ED%98%9C%EC%98%81+%EA%B3%A0%EA%B2%BD%ED%91%9C+%EC%84%A4%EB%A0%98+%EA%B3%A0%EB%B0%B1&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e358]:
+                    - text: "12"
+                    - generic [ref=f361e359]: 위
+                  - generic [ref=f361e360]: 류혜영 고경표 설렘 고백
+                  - generic [ref=f361e361]: 순위 상승
+              - listitem [ref=f361e362]:
+                - link "13 위 강호동 ICAO 당선 순위 상승" [ref=f361e363] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B0%95%ED%98%B8%EB%8F%99+ICAO+%EB%8B%B9%EC%84%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e364]:
+                    - text: "13"
+                    - generic [ref=f361e365]: 위
+                  - generic [ref=f361e366]: 강호동 ICAO 당선
+                  - generic [ref=f361e367]: 순위 상승
+              - listitem [ref=f361e368]:
+                - link "14 위 이다해 상하이 월세 순위 상승" [ref=f361e369] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9D%B4%EB%8B%A4%ED%95%B4+%EC%83%81%ED%95%98%EC%9D%B4+%EC%9B%94%EC%84%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e370]:
+                    - text: "14"
+                    - generic [ref=f361e371]: 위
+                  - generic [ref=f361e372]: 이다해 상하이 월세
+                  - generic [ref=f361e373]: 순위 상승
+              - listitem [ref=f361e374]:
+                - link "15 위 김재철 배우 순위 상승" [ref=f361e375] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B9%80%EC%9E%AC%EC%B2%A0+%EB%B0%B0%EC%9A%B0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f361e376]:
+                    - text: "15"
+                    - generic [ref=f361e377]: 위
+                  - generic [ref=f361e378]: 김재철 배우
+                  - generic [ref=f361e379]: 순위 상승
+            - generic [ref=f361e380]: 오늘 10:13 기준
+      - contentinfo [ref=f361e381]:
+        - generic [ref=f361e383]:
+          - link "검색블로그" [ref=f361e384] [cursor=pointer]:
+            - /url: http://daumsearch.tistory.com
+          - text: "|"
+          - link "검색원칙" [ref=f361e385] [cursor=pointer]:
+            - /url: https://cs.daum.net/faq/service/15/category/15649
+          - text: "|"
+          - link "검색등록" [ref=f361e386] [cursor=pointer]:
+            - /url: https://register.search.daum.net
+          - text: "|"
+          - link "검색제휴" [ref=f361e387] [cursor=pointer]:
+            - /url: mailto:contentpartnership@axzcorp.com
+          - text: "|"
+          - link "고객센터" [ref=f361e388] [cursor=pointer]:
+            - /url: https://cs.daum.net/
+          - text: "|"
+          - link "유해정보신고" [ref=f361e389] [cursor=pointer]:
+            - /url: javascript:;
+          - generic [ref=f361e390]:
+            - text: ⓒ
+            - link "Daum Corp." [ref=f361e391] [cursor=pointer]:
+              - /url: https://daumcorp.com/
+      - link "맨위로" [ref=f361e392] [cursor=pointer]:
+        - /url: javascript:;
+```

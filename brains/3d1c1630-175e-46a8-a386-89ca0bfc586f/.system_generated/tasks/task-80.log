@@ -1,0 +1,127 @@
+Loading Desktop workbook...
+Loading Repo workbook...
+Desktop row count: 1048576, Repo row count: 1048576
+[Rows 11847-12346] Total cell diffs: 1659
+Sample diffs in 11847-12346: [
+  {
+    "row": 11847,
+    "col": 4,
+    "desktop": "5131909625",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11847,
+    "col": 7,
+    "desktop": "",
+    "repo": "경상북도 구미시 산호대로 363"
+  },
+  {
+    "row": 11848,
+    "col": 4,
+    "desktop": "5132200420",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11849,
+    "col": 4,
+    "desktop": "5138144615",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11849,
+    "col": 7,
+    "desktop": "",
+    "repo": "경상북도 구미시 신시로 80-1 (송정동)"
+  },
+  {
+    "row": 11849,
+    "col": 10,
+    "desktop": "",
+    "repo": "http://tworldfriends.co.kr/"
+  },
+  {
+    "row": 11849,
+    "col": 11,
+    "desktop": "",
+    "repo": "d33334@nate.com"
+  },
+  {
+    "row": 11850,
+    "col": 4,
+    "desktop": "5138531350",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11851,
+    "col": 4,
+    "desktop": "5138602624",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11851,
+    "col": 18,
+    "desktop": "선철 주물 주조업",
+    "repo": "그 외 기타 1차 철강 제조업"
+  },
+  {
+    "row": 11852,
+    "col": 4,
+    "desktop": "5139611272",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11852,
+    "col": 15,
+    "desktop": "",
+    "repo": "1"
+  },
+  {
+    "row": 11853,
+    "col": 4,
+    "desktop": "5140132973",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11854,
+    "col": 4,
+    "desktop": "5140359923",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11855,
+    "col": 4,
+    "desktop": "5140545059",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11856,
+    "col": 4,
+    "desktop": "5140797702",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11857,
+    "col": 4,
+    "desktop": "5141052059",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11857,
+    "col": 18,
+    "desktop": "그 외 기타 특수목적용 기계 제조업",
+    "repo": "금속선 가공제품 제조업"
+  },
+  {
+    "row": 11858,
+    "col": 4,
+    "desktop": "5141072185",
+    "repo": "[object Object]"
+  },
+  {
+    "row": 11858,
+    "col": 15,
+    "desktop": "",
+    "repo": "1"
+  }
+]
+[Earlier rows 702-5500] Total cell diffs: 0

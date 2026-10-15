@@ -1,0 +1,21 @@
+The search for ""케이엘정보통신" 사업자등록번호 OR 비즈노" returned the following summary:
+케이엘정보통신(주)의 사업자등록번호 및 관련 정보는 다음과 같습니다.
+
+*   **본사 사업자등록번호:** **314-81-41684**[1]
+    *   **회사명:** 케이엘정보통신(주)[1]
+    *   **대표자:** 최종윤[1]
+    *   **주소:** 서울특별시 강남구 삼성로91길 28, 6~8층 (삼성동, 케이엘타워)[1]
+
+*   **대전지점 사업자등록번호:** **113-85-34517**[2]
+    *   **회사명:** 케이엘정보통신(주) 대전지점[2]
+    *   **대표자:** 강연운[3][2]
+    *   **주소:** 대전광역시 서구 둔산대로117번길 95, 리더스타운 A동 302호[3][2]
+
+기업 정보 사이트(비즈노, 사람인, 인크루트 등)를 통해 추가적인 재무 정보나 상세 현황을 확인하실 수 있습니다[1][4][5][2].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe14jm-CDh34iKM82BlODEf-nRwqTsPDAjlwmie4VWLdeOkWRC6HFipRNVbHoD6FeB4Ig1DWhBE1PenyczzqN3xoyDWIqIhzXaPutYWd0mFYNtPhXcqHPKahU=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5mxaep8xhwuCdsnhuUQvL3sLqtpx0TUtOdoTGBxMP8fgwtmMMRNPlaiUTtCyrAveq1UgAm7iflPfDGGsjuJGLsVpSeTVY3CXhjzESSAp9mbT_ONEhgxW1vX4=)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVqCT1NxWphGsGUzITf5c-NmkLLcmc0YFgZiAOqidG2r6RJ4_CpjeFeEnejFzneD6R9k_5nYNUQMF9Fyvpsw5w3Lkjdi9_un3wQOPX_O_UFAopVx_7XEH3KGTKkeETDoDxKD70vv6rTLkbiB6P7deu7ElEdhGzfLWOFXCmmEejO8Vs0N3bnJEQ71qayc5Ut3HqKqivE66_0EkaHhTax57CFx0qRGm0LG55gU2aPBDOpAUyAXLjosnNzMoB97accIefVIOPJlANDrGOUtgoohoV)
+[4] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4PT5oRUXoMpZN-rz5Yc4Hnt73dfjCXP5Rb_nbYFc7jygXNNagsBUz_WzoVKTeBQ9AisA8DdJ6QVgZsb4F3hJ7Zop2tYk6_n52at7se6NSCx20O8AYH4pPuIRAKJKwSg==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyZa21njF4nA1mv81ROnfanJGxmPTuBsVCcLFG46q8cUsI_Ldgk2qOcPN0hM78I3TZCH4Epvu7rw_W2vApUtqZWkPuBTRBkO8Q59Li2h-weuVUsjgIrL4btEBohAG4WZnM-NrWnX6uWeNt-cTJu7yJ7EI3TgTL0wVWTEntkCJXPeF3jNjLe0UmOQopUavDJ51x5q9_vhYO-KF1C7ltzipISuAGkLQphogWFyoV8Cd_YQ-NX1cd4TEr9ceVLahluvDR6pBxGcsjBUbP-DFTYoFiVv5e8A3RVKgy_T2liqpLZEqyh20T)

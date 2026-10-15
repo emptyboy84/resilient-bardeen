@@ -1,0 +1,1536 @@
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+= : The term '=' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spell
+ing of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:71
++ ... tem -Path 'C:\Users\lg\Downloads\*.htm' | ForEach-Object {  = Get-Con ...
++                                                                 ~
+    + CategoryInfo          : ObjectNotFound: (=:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : The term '-match' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+ the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:121
++ ... t {  = Get-Content .FullName -Raw -Encoding utf8; if ( -match '동화사|46 ...
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

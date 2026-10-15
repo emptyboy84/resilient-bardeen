@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Tested whois port 43 socket directly to whois.krnic.net
+

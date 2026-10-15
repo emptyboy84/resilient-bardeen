@@ -1,0 +1,90 @@
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchList.php?search_area=6260000&search_state=13&search_kind=&search_type=1&search_word=%EC%9E%91%EC%9D%80%ED%86%B5%EC%9D%BC&x=43&y=34
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link "본문 바로가기" [ref=e3] [cursor=pointer]:
+          - /url: "#content"
+  - generic [ref=e4]:
+    - heading [level=1] [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: main.php
+        - img "출판사/인쇄사 검색시스템" [ref=e7]
+    - list [ref=e8]:
+      - listitem [ref=e9]:
+        - link "HOME" [ref=e10] [cursor=pointer]:
+          - /url: /html/main.php
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - generic:
+        - paragraph [ref=e13]: 전국 출판사/인쇄사 검색 시스템입니다. 전국 또는 지역별로 등록현황을 검색할 수 있습니다.
+        - generic [ref=e14]:
+          - combobox [ref=e16]:
+            - option "지역 선택"
+            - option "-전체-"
+            - option "서울특별시"
+            - option "경기도"
+            - option "인천광역시"
+            - option "강원특별자치도"
+            - option "부산광역시" [selected]
+            - option "대구광역시"
+            - option "충청북도"
+            - option "충청남도"
+            - option "세종시"
+            - option "대전광역시"
+            - option "전남광주통합특별시"
+            - option "전북특별자치도"
+            - option "경상북도"
+            - option "경상남도"
+            - option "울산광역시"
+            - option "제주도"
+          - combobox "영업유무를 선택하세요" [ref=e18]:
+            - option "전체" [selected]
+            - option "영업"
+            - option "폐업"
+          - combobox [ref=e20]:
+            - option "업종구분" [selected]
+            - option "출판사"
+            - option "인쇄사"
+          - combobox [ref=e22]:
+            - option "항목"
+            - option "상호" [selected]
+            - option "주소"
+          - textbox [ref=e23]: 작은통일
+          - button "검색" [ref=e24] [cursor=pointer]
+    - img "출판사/인쇄사 검색시스템" [ref=e26]
+    - generic [ref=e27]:
+      - heading "부산광역시" [level=3] [ref=e28]
+      - generic [ref=e29]:
+        - list:
+          - listitem [ref=e30]:
+            - text: "등록업체수 :"
+            - strong [ref=e31]: 1 개
+          - listitem [ref=e32]:
+            - text: "페이지수 :"
+            - strong [ref=e33]: "1"
+      - table "지역별- 목록" [ref=e34]:
+        - rowgroup [ref=e40]:
+          - row [ref=e41]:
+            - columnheader "등록구분" [ref=e42]
+            - columnheader "상호" [ref=e43]
+            - columnheader "주소" [ref=e44]
+            - columnheader "영업구분" [ref=e45]
+        - rowgroup [ref=e46]:
+          - row [ref=e47]:
+            - cell "출판사" [ref=e48]
+            - cell [ref=e49]:
+              - link "작은통일" [ref=e50] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=작은통일&search_state=13&regn=251002015000001&ac1=6260000&ac2=3360000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 강서구" [ref=e51]
+            - cell "영업" [ref=e52]
+      - generic [ref=e53]: "1"
+  - generic [ref=e57]:
+    - text: "출판사, 인쇄사 관련 문의 : 해당 지자체 문화예술과"
+    - generic [ref=e58]: 문화체육관광부 (우)30119 세종특별자치시 갈매로 388 정부세종청사 15동
+    - paragraph [ref=e59]: Copyright ⓒ Ministry of Culture, Sports and Tourism
+```

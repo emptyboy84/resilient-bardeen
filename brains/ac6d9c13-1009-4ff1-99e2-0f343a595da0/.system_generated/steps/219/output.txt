@@ -1,0 +1,57 @@
+
+The command exited with code 0.
+Output:
+Found search result items count: 52
+Item 1: BizNo=5038015270, Title=더플로우어린이집, Address=대구광역시 서구 서대구로15길 ..., Info=보육시설 운영업
+Item 2: BizNo=2068022185, Title=더플로우어린이집, Address=대구광역시 남구 대봉로30길 40, Info=보육시설 운영업
+Item 3: BizNo=1065202232, Title=더플로우, Address=경기도 용인시 처인구 명지로16번..., Info=권지*, 그 외 기타 분류 안된 사업지원 서비스업
+Item 4: BizNo=4310802907, Title=더플로우, Address=제주특별자치도 제주시 한림읍 한림..., Info=엄태*
+Item 5: BizNo=8993701327, Title=더플로우, Address=, Info=정연*, 전자상거래 소매업
+Item 6: BizNo=5062392875, Title=더플로우, Address=경상북도 경산시 장산로4길 192..., Info=
+Item 7: BizNo=5861202223, Title=더플로우, Address=부산광역시 해운대구 우동3로11번..., Info=임재*
+Item 8: BizNo=7973001866, Title=더플로우, Address=서울특별시 양천구 국회대로 252, Info=이현*, 전자상거래 소매업
+Item 9: BizNo=4097800526, Title=더플로우, Address=경상남도 통영시 도산면 평촌1길 ..., Info=정희*, 전자상거래 소매업
+Item 10: BizNo=7061602432, Title=더플로우, Address=, Info=박종*, 전자상거래 소매업
+Item 11: BizNo=4522301024, Title=더플로우, Address=경기도 용인시 처인구 남사면 한숲..., Info=김정*, 전자상거래업
+Item 12: BizNo=1650303474, Title=더플로우, Address=, Info=배현*, 전자상거래 소매업
+Item 13: BizNo=3488602466, Title=주식회사 더플로우커머스, Address=서울특별시 양천구 국회대로 102..., Info=지석*, 전자상거래 소매업
+Item 14: BizNo=3393200438, Title=스터디카페 더플로우 (STUDYCAFE THEFLOW), Address=대구광역시 중구 중앙대로 390,..., Info=남원*, 공간임대업, 자동판매기운영업
+Item 15: BizNo=5228601731, Title=더플로우 주식회사, Address=경기도 용인시 처인구 명지로 71..., Info=강성*
+Item 16: BizNo=2788601682, Title=주식회사 더플로우코리아, Address=강원도 원주시 운곡로 48, 1층..., Info=김민*, 스포츠 레져용품
+Item 17: BizNo=3926800272, Title=더플로우넘버, Address=서울특별시 서초구 명달로6길 31..., Info=김지*, 전자상거래 소매업
+Item 18: BizNo=3349201912, Title=더플로우학원(THE FLOW), Address=충청북도 제천시 원뜰로 46 (하..., Info=
+Item 19: BizNo=3768502130, Title=주식회사 더플로우커머스 마곡지점, Address=서울특별시 강서구 공항대로 227..., Info=지석*, 전자상거래 소매업
+Item 20: BizNo=2230552348, Title=더플로우스튜디오, Address=강원특별자치도 원주시 남원로469..., Info=
+Item 21: BizNo=6884501232, Title=더플로우스피치, Address=부산광역시 해운대구 센텀3로26,..., Info=
+Item 22: BizNo=1648603135, Title=주식회사 더플로우에듀, Address=경기도 용인시 처인구 명지로 71..., Info=백혜*, 전자상거래 소매업
+Item 23: BizNo=1111694420, Title=더플로우짐, Address=경기도 광주시 송정로7, 3층 (..., Info=기타 스포츠 교육기관
+Item 24: BizNo=4908602961, Title=더플로우힐 주식회사, Address=제주특별자치도 제주시 애월읍 유수..., Info=안경*
+Item 25: BizNo=8062101566, Title=필라테스 더플로우, Address=전라남도 광양시 광양읍 서평로 6..., Info=이주*
+Item 26: BizNo=2248282356, Title=더플로우(THE FLOW), Address=경상남도 진주시 문산읍 월아산로 ..., Info=
+Item 27: BizNo=1628703631, Title=주식회사 더플로우, Address=서울특별시 동대문구 장한로34길 ..., Info=
+Item 28: BizNo=2361802505, Title=더플로우 컨설턴트, Address=대구광역시 동구 반야월북로 189..., Info=정향*, 노인 요양 복지시설 운영업
+Item 29: BizNo=5148015794, Title=더플로우（TheFlow）어린이집, Address=대구광역시 남구 대봉로30길 4..., Info=보육시설 운영업
+Item 30: BizNo=2632600130, Title=더플로우, Address=대전광역시 서구 정림로 11, 1..., Info=오창*, 전자상거래업
+Item 31: BizNo=2091969025, Title=더플로우, Address=서울특별시 영등포구 선유로47길 ..., Info=이정*, 전자상거래업
+Item 32: BizNo=5031934530, Title=더플로우, Address=대구광역시 달서구 이곡공원로 42..., Info=이현*, 유아 교육기관
+Item 33: BizNo=6641502510, Title=더플로우, Address=, Info=박정*, 전자상거래 소매업
+Item 34: BizNo=1591902016, Title=더플로우, Address=비공개, Info=정선*, 전자상거래업
+Item 35: BizNo=7630202379, Title=더플로우, Address=경상북도 구미시 새마을로5길 12..., Info=
+Item 36: BizNo=2152294607, Title=더플로우, Address=, Info=이주*, 전자상거래업
+Item 37: BizNo=7568001837, Title=더플로우유치원, Address=대구광역시 동구 반야월북로 189..., Info=김중*, 유아 교육기관
+Item 38: BizNo=5112235073, Title=더플로우(TheFlow), Address=서울특별시 구로구 신도림로19길 ..., Info=이명*, 전자상거래업
+Item 39: BizNo=1284401126, Title=더플로우 요가&필라테스, Address=서울특별시 관악구 신림로65길 2..., Info=이재*, 전자상거래 소매업
+Item 40: BizNo=5498801953, Title=(주)더플로우13, Address=경기도 용인시 처인구 원삼면 용암..., Info=이현*, 전자상거래업
+Item 41: BizNo=5028020464, Title=더플로우유치원(직장), Address=대구광역시 동구 반야월북로 189..., Info=유아 교육기관
+Item 42: BizNo=7618700260, Title=더플로우코리아, Address=강원도 철원군 서면 와수로110번..., Info=이정*
+Item 43: BizNo=1858100237, Title=주식회사 더플로우, Address=서울특별시 동대문구 청계천로 48..., Info=박종*
+Item 44: BizNo=1322803123, Title=더플로우(THE FLOW), Address=경기도 구리시 장자대로111번길 ..., Info=이정*, 전자상거래업
+Item 45: BizNo=5038184532, Title=(주)더플로우, Address=대구광역시 서구 달서천로83길 6..., Info=이경*, 전자상거래업
+Item 46: BizNo=5148008954, Title=더플로우(TheFlow)어린이집, Address=대구광역시 남구 대봉로30길 40..., Info=보육시설 운영업
+Item 47: BizNo=8871002006, Title=더플로우마켓, Address=경상남도 김해시 율하5로 46, ..., Info=손영*
+Item 48: BizNo=8050201392, Title=더플로우 필라테스, Address=대구광역시 달서구 조암남로 166..., Info=최병*, 기타 스포츠 교육기관
+Item 49: BizNo=3391700420, Title=더플로우 필라테스, Address=대구광역시 달서구 달구벌대로259..., Info=최수*, 기타 스포츠 교육기관
+Item 50: BizNo=6978703030, Title=주식회사 더플로우컴퍼니(The flow company Co.,Ltd.), Address=서울특별시 서초구 강남대로37길 ..., Info=이지*, 전자상거래 소매업
+Item 51: BizNo=8740202548, Title=더플로우 건대, Address=, Info=백혜*
+Item 52: BizNo=5032329714, Title=더플로우(The Flow)창의놀이학교, Address=대구광역시 달서구 이곡공원로 42..., Info=유미*, 기타 교육지원 서비스업
+

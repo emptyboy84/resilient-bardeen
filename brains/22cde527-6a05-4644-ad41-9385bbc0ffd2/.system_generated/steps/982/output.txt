@@ -1,0 +1,13 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-970
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-970.log
+Log output:
+<truncated 102 lines>
+(용당동, 부경대학교 용당캠퍼스) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea) 일치)
+[FOUND 92] Row 2184: 주식회사노크유 -> 605-23-92231 (상호 및 부산 주소(부산광역시 부산진구 서면로 31 2층 (부전동)) 일치)
+[FOUND 93] Row 2203: 노매드헐 -> 262-85-01453 (상호 및 부산 주소(부산광역시 남구 문현금융로 40, 55층 코워킹 스페이스-2 13번(문현동, 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea) 일치)
+[FOUND 94] Row 2080: 이안 -> 119-86-90528 (상호 및 부산 주소(서울특별시 강서구 화곡로 429, 402-11호(가양동, 토피아빌딩) 429, Hwagok-ro, Gangseo-gu, Seoul, Republic of Korea) 일치)
+[FOUND 95] Row 2234: 프보이 -> 120-85-52551 (상호 및 부산 주소(부산광역시 해운대구 센텀서로 30, 3층(우동) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea) 일치)
+[FOUND 96] Row 2250: 에코비티 -> 212-86-03657 (정확한 상호명 및 부산 소재지 일치)
+
+Last progress: 0s ago

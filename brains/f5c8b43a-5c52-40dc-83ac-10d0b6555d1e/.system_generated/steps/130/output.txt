@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+[Error: ENOENT: no such file or directory, open 'C:\Users\lg\.geminiantigravity\brain\f5c8b43a-5c52-40dc-83ac-10d0b6555d1e\scratch\test.xlsx'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\.geminiantigravity\\brain\\f5c8b43a-5c52-40dc-83ac-10d0b6555d1e\\scratch\\test.xlsx'
+}
+

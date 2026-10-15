@@ -1,0 +1,7 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-1026
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-1026.log
+Log output:
+Enriching 39 companies...
+
+Last progress: 3s ago

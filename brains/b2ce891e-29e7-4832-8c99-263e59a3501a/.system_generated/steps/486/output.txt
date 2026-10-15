@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/');
+```
+### Page
+- Page URL: https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/
+- Page Title: 대표전화번호로 사업자등록번호조회
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-15T01-29-01-763Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-15T01-28-54-919Z.log#L1-L2

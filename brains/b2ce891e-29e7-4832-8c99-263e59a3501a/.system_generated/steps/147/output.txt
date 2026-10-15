@@ -1,0 +1,6 @@
+### Result
+"We are a deep-tech new space startup dedicated to designing and delivering mission-optimized CubeSats. With a foundation of advanced expertise and innovation, our satellite technology will lead groundbreaking space missions to solve Earth problems.\n\nSLEDGE\n3U cubesat system for system verification\nSatellite Operations\nGNSS RO payload\nGround station and services\nSatellite system design\nSatellite platform\nGNSS-RO payload\nGround system and services\nBusiness Area\n\ncontact@onbspace.com\n\nRoom3170, 13-8, Eungubinam-ro 33-beon-gil\n\nYuseong-gu, Daejon, Republic of Korea"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText');
+```

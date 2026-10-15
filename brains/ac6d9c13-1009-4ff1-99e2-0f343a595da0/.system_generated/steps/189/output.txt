@@ -1,0 +1,9 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-185
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-185.log
+Log output:
+https://moneypin.biz/bizno/?query=(%EC%A3%BC)%EB%8D%94%ED%94%8C%EB%A1%9C%EC%9A%B0 403
+https://api.moneypin.biz/bizno/search?query=(%EC%A3%BC)%EB%8D%94%ED%94%8C%EB%A1%9C%EC%9A%B0 404
+https://moneypin.biz/search?query=(%EC%A3%BC)%EB%8D%94%ED%94%8C%EB%A1%9C%EC%9A%B0 403
+
+Last progress: 9s ago

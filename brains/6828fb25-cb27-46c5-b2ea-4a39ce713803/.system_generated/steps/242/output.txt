@@ -1,0 +1,17 @@
+The search for "site:bizno.net "춘화농공단지길 12-42" OR "부북면" "디에스원"" returned the following summary:
+경상남도 밀양시 부북면 춘화농공단지길 12-42에 위치한 **(주)디에스원**에 대한 정보입니다.
+
+*   **기업 개요**: (주)디에스원은 2012년 8월에 설립된 중소기업으로, 주요 사업 내용은 금속조립구조재, 무역, 자재 판매 및 산업용 전기 보일러 제조 등입니다[1][2][3].
+*   **최근 현황**: 해당 기업은 현재 회생절차가 진행 중입니다. 부산회생법원 제3부는 2025년 11월 27일 (주)디에스원에 대한 회생절차 개시결정을 하였으며[4], 이후 회생계획안 제출기간이 수차례 연장된 바 있습니다[5][6].
+*   **주소**: 경상남도 밀양시 부북면 춘화농공단지길 12-42[1][2][7]
+
+비즈노(bizno.net) 검색 결과는 직접적으로 출력되지 않았으나, 관련 기업 정보 사이트들을 통해 해당 주소지와 기업명을 확인할 수 있습니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbK5PJsL40TwEZYn_JO0qKjhCVOta9F68chdzTwWLQDrG52DZwrZl2mdHH9_4DQHfIaii-gq0RGr95RuXtzRW8EduCkrsURO7HMiiiYfppGf-YazyxdFS9e078jTr0czlmqgpubwRueze3rKzPSzVrmHer-TY0ZgTXasF5ARsZr2GsKc3JlWLewXQNISdsc1LsMLH-A4uLqig-tW1FTyk99blVaKcnTpS5Ty97ku1sMb42Vg2Hh-rp-ZcZo3ssxp43_y22fVVYNy8=)
+[2] [aico.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyP6tfu9LlAUEMQm2ZmQ0d-QQMmRm1o_wC5rxOdUAjOOLA2u7YN3ifaPSTA6jRdY115EVwiMbBq_C3Ry-b-RJ4VvFZ6UX1SVUBbzDYZt5InLChaOR-IWfBoq5GyPsBNiBLzHn-iZP9bhJvq8qdTpNSK7HV6rrizvlIlVzT4xGANQpmsUtWdumlbIm8wbXTcT0mJPVodFAd87HVpQTXkqN4E-f7Su63WMQ=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLV5NoPo4x05x8YxLNEGXECK-4wWRqZ1KNHQz5JIKtleFp5de7zlbHOp13biZFrUOvQ7uObukZbY0OUSKmjKsAfnDteVHZFa31OMLrKKCrTSs8R4QBh3Jt0ch6vu-XXLcpKB8ijOZ46v--QHSSZJm_dqPk6Cfzv2NPi9t4)
+[4] [lawjibsa-corp-dosan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjz-HLspRAxg-YdMGsJOF3sMp67g4ZJMTDhUn4TNVKRbUusDAwOCxAGWD5C3Z4xVWwGbfa6bqQutp_MDIWlx2vjWgwfkqd5a3sdh7J-SEa_dLfg81YHKvN4HYlc-91LXYPIMcH8aQBbn7FAL4XZ2KxH9D6)
+[5] [lawjibsa-corp-dosan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0oxd1MH07JyWIUIX-_c3R7q-xkG1FZvM3fC50fRGmF_jColzbGTYPZO-NEFg1Y52LqRXHP_CUfQaKm4uxPBo8HDaDCE2apUNFPA375nvjc6-RX9MuCdv5BjucaXMZ5wQ8y8Cx2kPtGWTQ_ffJZyGwP24=)
+[6] [lawjibsa-corp-dosan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1ZH7Ov_bTn1UaGsG6_r_QD-yjA_2m4jWAyqndE45dnTM3sfzW8dXUN7rvVlO2CwdfeutjilzDHJWb3_acdXpLIEFO224XNVpKX1fDToI-suwGm1_szfYRemXhXc1BQQOfS51Y4kcuCB2wSsrpmYvB6_tu)
+[7] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXxc9uy09e2szVirIRrl1j6vROSusZ70zc0i86iUTR_w7-z1WNy5ZJMoKfDnun252veIfUip8ljGw-MQlvLBRYCI2nU1fJxaR2d5yT8SJPJCXNjFer6zGyRaMhc3HXo2Zj7w=)

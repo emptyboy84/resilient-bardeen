@@ -1,0 +1,32 @@
+### Result
+[
+  {
+    "tagName": "DIV",
+    "className": "q-list search-item-list",
+    "text": "개\n\n신영산업\n\n609-06-9****\n\n대표자명\n양기우\n산업명\n주형 및 금형 제조업\n기업주소\n경남 창원시 의창구 죽전로 *"
+  },
+  {
+    "tagName": "DIV",
+    "className": "q-item q-item-type row no-wrap",
+    "text": "개\n\n신영산업\n\n609-06-9****\n\n대표자명\n양기우\n산업명\n주형 및 금형 제조업\n기업주소\n경남 창원시 의창구 죽전로 *"
+  },
+  {
+    "tagName": "BUTTON",
+    "className": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--actionable q-focusable q-hoverable btn-item",
+    "text": "개\n\n신영산업\n\n609-06-9****\n\n대표자명\n양기우\n산업명\n주형 및 금형 제조업\n기업주소\n경남 창원시 의창구 죽전로 *"
+  },
+  {
+    "tagName": "SPAN",
+    "className": "q-btn__content text-center col items-center q-anchor--skip justify-center row",
+    "text": "개\n\n신영산업\n\n609-06-9****\n\n대표자명\n양기우\n산업명\n주형 및 금형 제조업\n기업주소\n경남 창원시 의창구 죽전로 *"
+  },
+  {
+    "tagName": "DIV",
+    "className": "flex items-center",
+    "text": "대표자명\n양기우\n산업명\n주형 및 금형 제조업\n기업주소\n경남 창원시 의창구 죽전로 *"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.q-item, [class*="result"], [class*="item"], tr, li\')).filter(el => el.innerText && el.innerText.includes(\'산업명\'));\n  return items.map(el => ({\n    tagName: el.tagName,\n    className: el.className,\n    text: el.innerText\n  }));\n}');
+```

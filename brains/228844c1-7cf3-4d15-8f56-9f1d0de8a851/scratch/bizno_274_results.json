@@ -1,0 +1,7105 @@
+[
+  {
+    "target": {
+      "row_idx": 1091,
+      "순번": "1090",
+      "name": "작은통일출판사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "010-5091-1589",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "부산 강서구 명지오션시티10로 17",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1113,
+      "순번": "1112",
+      "name": "조나단/이은석",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1115,
+      "순번": "1114",
+      "name": "족보만드는곳족보관",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-248-9529",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "부산 중구 구덕로 19",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1136,
+      "순번": "1135",
+      "name": "지엠이에스티부산지점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이나현",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1146,
+      "순번": "1145",
+      "name": "창작집단1407",
+      "biz": "",
+      "est_year": "2021",
+      "est_month": "",
+      "rep": "",
+      "phone": "010-6767-9391",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1147,
+      "순번": "1146",
+      "name": "창작집단한",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "010-9980-9771",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "공연",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1149,
+      "순번": "1148",
+      "name": "채널부산",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박민규",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3878501558",
+      "title": "주식회사 스토어채널 부산지점",
+      "href": "/article/3878501558"
+    },
+    "detail": {
+      "bno": "3878501558",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1158,
+      "순번": "1157",
+      "name": "체스테크",
+      "biz": "",
+      "est_year": "2015",
+      "est_month": "",
+      "rep": "",
+      "phone": "010-2284-9107",
+      "fax": "",
+      "sigungu": "북구",
+      "addr": "부산 북구",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1162,
+      "순번": "1161",
+      "name": "촬영감독최원욱",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최원욱",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1165,
+      "순번": "1164",
+      "name": "카다모임",
+      "biz": "",
+      "est_year": "2018",
+      "est_month": "",
+      "rep": "이제은",
+      "phone": "010-5407-7016",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1166,
+      "순번": "1165",
+      "name": "카리시모",
+      "biz": "",
+      "est_year": "2016",
+      "est_month": "",
+      "rep": "박소영",
+      "phone": "010-2412-5691",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1167,
+      "순번": "1166",
+      "name": "컬러풀미카",
+      "biz": "",
+      "est_year": "2021",
+      "est_month": "",
+      "rep": "김다형",
+      "phone": "010-9480-3326",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1179,
+      "순번": "1178",
+      "name": "코리아헤럴드내외경제신문",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김종욱",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1192,
+      "순번": "1191",
+      "name": "킴엔존슨",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-645-0535",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산 부산진구 범일로 181 2층",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1194,
+      "순번": "1193",
+      "name": "타원글로벌",
+      "biz": "",
+      "est_year": "2022",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "부산 사상구",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1215,
+      "순번": "1214",
+      "name": "팀포테이토",
+      "biz": "",
+      "est_year": "2019",
+      "est_month": "",
+      "rep": "김태영",
+      "phone": "010-9885-3501",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1226,
+      "순번": "1225",
+      "name": "퍼니아트",
+      "biz": "",
+      "est_year": "2002",
+      "est_month": "11",
+      "rep": "",
+      "phone": "010-3920-8515",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "부산 동구 고관로 36 삼익빌딩 3층",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1246,
+      "순번": "1245",
+      "name": "프로젝트원",
+      "biz": "",
+      "est_year": "2018",
+      "est_month": "",
+      "rep": "강현철",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "2330402339",
+      "title": "프로젝트원",
+      "href": "/article/2330402339"
+    },
+    "detail": {
+      "bno": "2330402339",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "윤혜원"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1251,
+      "순번": "1250",
+      "name": "플레이트리",
+      "biz": "",
+      "est_year": "2019",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "부산 사상구",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "5506700323",
+      "title": "플레이트",
+      "href": "/article/5506700323"
+    },
+    "detail": {
+      "bno": "5506700323",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1278,
+      "순번": "1277",
+      "name": "한국가이던스부산지사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-517-7548",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "부산 금정구 금정로 225 피죤빌딩 6층",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1296,
+      "순번": "1295",
+      "name": "한집",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "홍정훈",
+      "phone": "",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7548000093",
+      "title": "행복한집재가노인복지센터",
+      "href": "/article/7548000093"
+    },
+    "detail": {
+      "bno": "7548000093",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1418,
+      "순번": "1417",
+      "name": "쏘울픽처스",
+      "biz": "",
+      "est_year": "2013",
+      "est_month": "",
+      "rep": "최웅식",
+      "phone": "010-4859-7474",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1468,
+      "순번": "1467",
+      "name": "재영애드콤",
+      "biz": "",
+      "est_year": "1997",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-708-3240",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1483,
+      "순번": "1482",
+      "name": "케세라세라",
+      "biz": "",
+      "est_year": "2019",
+      "est_month": "",
+      "rep": "강민지",
+      "phone": "010-9506-0588",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1493,
+      "순번": "1492",
+      "name": "태림부산음악사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-862-4491",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1517,
+      "순번": "1516",
+      "name": "페이크스튜디오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이제열",
+      "phone": "010-4284-0739",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "부산 강서구 녹산산단381로 29 (송정동, 햇님토이)",
+      "type": "게임",
+      "contact_res": "확인불가",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1582,
+      "순번": "1581",
+      "name": "디앤아이솔루션",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이경은",
+      "phone": "010-9547-7856",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 다대로300번길 25",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1586,
+      "순번": "1585",
+      "name": "플레이그라운드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-711-0037",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "부산광역시 해운대구 해운대로 814, ﻿세종월드프라자 2층 207호 (좌동)",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "닌텐도 카페"
+    },
+    "matched": {
+      "bno": "8200601953",
+      "title": "플레이그라운드",
+      "href": "/article/8200601953"
+    },
+    "detail": {
+      "bno": "8200601953",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1603,
+      "순번": "1602",
+      "name": "케이멕스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "정태석",
+      "phone": "051-331-0718",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 거제대로 215",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1262056070",
+      "title": "케이멕스",
+      "href": "/article/1262056070"
+    },
+    "detail": {
+      "bno": "1262056070",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1604,
+      "순번": "1603",
+      "name": "고움",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "임서현",
+      "phone": "051-510-7585",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 거제천로 154, 4층",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3753701030",
+      "title": "고움 살롱",
+      "href": "/article/3753701030"
+    },
+    "detail": {
+      "bno": "3753701030",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "고태형"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1611,
+      "순번": "1610",
+      "name": "시드게임즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "홍재영",
+      "phone": "070-4048-1905",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "부산광역시 해운대구 수영강변대로 140 부산문화콘텐츠컴플렉스 9층 BGC 908호",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1626,
+      "순번": "1625",
+      "name": "네오테크놀리지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "공기정",
+      "phone": "051-622-5813",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀동로 45 웹스 603호",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1627,
+      "순번": "1626",
+      "name": "삼주",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "백승용",
+      "phone": "051-990-1078",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀동로 99 (재송동, 벽산이센텀클래스원)  504호",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178191045",
+      "title": "주식회사 삼우이머션",
+      "href": "/article/6178191045"
+    },
+    "detail": {
+      "bno": "6178191045",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김대희"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1629,
+      "순번": "1628",
+      "name": "나웅",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-0647-0404",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀동로 99, 1408호(재송동, 벽산이센텀클래스원)",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6058135400",
+      "title": "（주）나웅",
+      "href": "/article/6058135400"
+    },
+    "detail": {
+      "bno": "6058135400",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박병주"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1630,
+      "순번": "1629",
+      "name": "한스이엔지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김종균",
+      "phone": "051-205-3333",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀서로 39 (우동)영상산업센터 1012호",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6038124251",
+      "title": "(주)한스이엔지",
+      "href": "/article/6038124251"
+    },
+    "detail": {
+      "bno": "6038124251",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1642,
+      "순번": "1641",
+      "name": "헤윰아이씨티",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "우석규",
+      "phone": "010-4859-2101",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140 부산문화콘텐츠컴플렉스 9층 BGC 908",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1643,
+      "순번": "1642",
+      "name": "웅진씽크빅",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-469-0598",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140, 3층 304호(우동, 부산문화콘텐츠컴플렉스)",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1645,
+      "순번": "1644",
+      "name": "한솔교육",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-466-3245",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140, 부산문화콘텐츠컴플렉스 620호 (우동)",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6048137837",
+      "title": "（주）한솔교육",
+      "href": "/article/6048137837"
+    },
+    "detail": {
+      "bno": "6048137837",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "오규태"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1647,
+      "순번": "1646",
+      "name": "한국전화번호부부산센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김용섭",
+      "phone": "051-517-3114",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우제1동 760-3",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1664,
+      "순번": "1663",
+      "name": "팀브레드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "강홍",
+      "phone": "010-9222-4131",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1676,
+      "순번": "1675",
+      "name": "모드니",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-325-0166",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 감전동 새벽로167번길",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1647000215",
+      "title": "모드니",
+      "href": "/article/1647000215"
+    },
+    "detail": {
+      "bno": "1647000215",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이하영"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1677,
+      "순번": "1676",
+      "name": "대박만화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-262-8288",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 장림동 장림번영로",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1680,
+      "순번": "1679",
+      "name": "봐라봐라만화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-8887-7615",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 수영동 수영로",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1682,
+      "순번": "1681",
+      "name": "둘리만화휴게실1",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-543-8860",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 반송동 반송로924번길",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1702,
+      "순번": "1701",
+      "name": "액자가게",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "백종선",
+      "phone": "051-525-0256",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7801801449",
+      "title": "반려동물 액자가게 알도라도",
+      "href": "/article/7801801449"
+    },
+    "detail": {
+      "bno": "7801801449",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1704,
+      "순번": "1703",
+      "name": "문화공간달빛콘서트",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이문영",
+      "phone": "051-701-7072",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1705,
+      "순번": "1704",
+      "name": "아트뮤직",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김인효",
+      "phone": "051-759-4212",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6172975839",
+      "title": "아트뮤직기획",
+      "href": "/article/6172975839"
+    },
+    "detail": {
+      "bno": "6172975839",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김광록"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1758,
+      "순번": "1757",
+      "name": "조선일보사부산사옥",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-442-4321",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 초량동 중앙대로236번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1759,
+      "순번": "1758",
+      "name": "주식회사 홍조출판",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-462-4345",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 초량동 중앙대로236번길  603",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3768601161",
+      "title": "주식회사 홍조출판",
+      "href": "/article/3768601161"
+    },
+    "detail": {
+      "bno": "3768601161",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1762,
+      "순번": "1761",
+      "name": "조선일보 신사직 지국",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-502-7704",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 사직동 사직북로50번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1763,
+      "순번": "1762",
+      "name": "새부산기독교서적센타",
+      "biz": "",
+      "est_year": "1993",
+      "est_month": "7",
+      "rep": "김대희",
+      "phone": "051-504-4880",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "부산 동래구 아시아드대로 127 (사직동)",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6079975121",
+      "title": "새부산기독교서적센타",
+      "href": "/article/6079975121"
+    },
+    "detail": {
+      "bno": "6079975121",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김대희"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1765,
+      "순번": "1764",
+      "name": "아이북랜드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-312-7747",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 가야동 가야대로 강남",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1766,
+      "순번": "1765",
+      "name": "부산중앙일보가야",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-893-4095",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 가야동 가야대로589번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1767,
+      "순번": "1766",
+      "name": "부산일보 당감지국",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-897-8823",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 당감동 당감로45번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6051550255",
+      "title": "부산일보 당감지국",
+      "href": "/article/6051550255"
+    },
+    "detail": {
+      "bno": "6051550255",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김재익"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1769,
+      "순번": "1768",
+      "name": "주식회사 뷰엠",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-714-0666",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 서전로 신전빌딩",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2958102546",
+      "title": "주식회사 뷰엠",
+      "href": "/article/2958102546"
+    },
+    "detail": {
+      "bno": "2958102546",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "강해숙"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1773,
+      "순번": "1772",
+      "name": "북컬쳐(부산)",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-754-4500",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 학장동 가야대로134번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1778,
+      "순번": "1777",
+      "name": "부산 하단점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-999-7123",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 하단동 낙동남로 아트몰링 13",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1052245788",
+      "title": "명륜진사갈비 부산하단점",
+      "href": "/article/1052245788"
+    },
+    "detail": {
+      "bno": "1052245788",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황선신"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1786,
+      "순번": "1785",
+      "name": "영풍문고 신세계 센텀시티점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-745-1250",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀4로 센텀시티 몰",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1789,
+      "순번": "1788",
+      "name": "（주）교보문고 해운대 팝업스토어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-709-5958",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 좌동 해운대로 NC백화점",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1793,
+      "순번": "1792",
+      "name": "도서출판CTM",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김성철",
+      "phone": "051-442-0702",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6059152150",
+      "title": "도서출판CTM",
+      "href": "/article/6059152150"
+    },
+    "detail": {
+      "bno": "6059152150",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김성철"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1795,
+      "순번": "1794",
+      "name": "노블레스미디어인터내셔날부산",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "명재열",
+      "phone": "051-747-4475",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178519793",
+      "title": "(주)노블레스미디어인터내셔날부산",
+      "href": "/article/6178519793"
+    },
+    "detail": {
+      "bno": "6178519793",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1797,
+      "순번": "1796",
+      "name": "도서출판양업서원",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "민병선",
+      "phone": "051-852-3377",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1798,
+      "순번": "1797",
+      "name": "한얼꿈출판사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조서목",
+      "phone": "051-853-8801",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6079200714",
+      "title": "한얼꿈출판사",
+      "href": "/article/6079200714"
+    },
+    "detail": {
+      "bno": "6079200714",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1804,
+      "순번": "1803",
+      "name": "롯데쇼핑(주)토이저러스 동부산점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-901-2130",
+      "fax": "",
+      "sigungu": "기장군",
+      "addr": "기장군 기장읍 당사리기장해안로 롯데몰 동부산점",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1805,
+      "순번": "1804",
+      "name": "유한회사 키즈플레이타운",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-940-1405",
+      "fax": "",
+      "sigungu": "기장군",
+      "addr": "기장군 장안읍 좌천리정관로 부산프리미엄아울렛 429",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1806,
+      "순번": "1805",
+      "name": "미디어CAPSULE",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-558-0104",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 사직동 쇠미로17번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6071088688",
+      "title": "미디어CAPSULE",
+      "href": "/article/6071088688"
+    },
+    "detail": {
+      "bno": "6071088688",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정태선"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1807,
+      "순번": "1806",
+      "name": "(주)삼성출판사 롯데동래점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-553-4388",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 온천동 중앙대로 롯데백화점 동래점",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3438500791",
+      "title": "(주)삼성출판사 롯데동래점",
+      "href": "/article/3438500791"
+    },
+    "detail": {
+      "bno": "3438500791",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1810,
+      "순번": "1809",
+      "name": "주식회사 로파스튜디오(ROPA STUDIO)",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-711-7131",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 연산동 중앙대로1065번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1811,
+      "순번": "1810",
+      "name": "반다이남코코리아",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-745-1468",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀4로 센텀시티 몰",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1812,
+      "순번": "1811",
+      "name": "레고스토어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-745-1927",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀4로 센텀시티 몰",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1815,
+      "순번": "1814",
+      "name": "야야토이",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김영식",
+      "phone": "051-245-0001",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1816,
+      "순번": "1815",
+      "name": "또래나라",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-508-8225",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1817,
+      "순번": "1816",
+      "name": "함께가는사람들김해지점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이상덕",
+      "phone": "051-896-9009",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1818,
+      "순번": "1817",
+      "name": "이소민",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이소민",
+      "phone": "010-2801-2662",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 분포로 113(용호동 엘지메트로시티)",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1820,
+      "순번": "1819",
+      "name": "주식회사하날",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최유경",
+      "phone": "010-5850-6025",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 연수로 56-1, 601호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5168102666",
+      "title": "주식회사 하날",
+      "href": "/article/5168102666"
+    },
+    "detail": {
+      "bno": "5168102666",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1827,
+      "순번": "1826",
+      "name": "주식회사바나나러닝",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최효준",
+      "phone": "010-9573-1710",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2602601090",
+      "title": "바나나러닝",
+      "href": "/article/2602601090"
+    },
+    "detail": {
+      "bno": "2602601090",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최효준"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1837,
+      "순번": "1836",
+      "name": "엠엔에이윅스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "고태연",
+      "phone": "010-4596-6062",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "확인불가",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1839,
+      "순번": "1838",
+      "name": "깜냥깜냥",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "민예진",
+      "phone": "010-6711-6605",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "7403200400",
+      "title": "깜냥깜냥하우스",
+      "href": "/article/7403200400"
+    },
+    "detail": {
+      "bno": "7403200400",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김지연"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1841,
+      "순번": "1840",
+      "name": "루미너스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김동휘",
+      "phone": "010-9401-6760",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "8608603460",
+      "title": "루미너스",
+      "href": "/article/8608603460"
+    },
+    "detail": {
+      "bno": "8608603460",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1845,
+      "순번": "1844",
+      "name": "블루케이",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-710-5657",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우2동 1474번지 센텀에스에이치밸리 603호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178195003",
+      "title": "주식회사 블루케이",
+      "href": "/article/6178195003"
+    },
+    "detail": {
+      "bno": "6178195003",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "장정화"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1853,
+      "순번": "1852",
+      "name": "프라자만화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-523-6320",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1854,
+      "순번": "1853",
+      "name": "괴정만화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-206-3991",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 괴정동 낙동대로 성현빌딩",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1857,
+      "순번": "1856",
+      "name": "대박만화휴게실",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-853-0833",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 망미동 과정로",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1862,
+      "순번": "1861",
+      "name": "디유",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-7835-6362",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 금사동 105-10번지 공업사 지하1층",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6038144131",
+      "title": "(주)디유티코리아",
+      "href": "/article/6038144131"
+    },
+    "detail": {
+      "bno": "6038144131",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정용채"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1867,
+      "순번": "1866",
+      "name": "부산이야",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조진성",
+      "phone": "010-2799-3270",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 진연로 9번길 19 산호빌딩 302호",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178177868",
+      "title": "주식회사 부산",
+      "href": "/article/6178177868"
+    },
+    "detail": {
+      "bno": "6178177868",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1869,
+      "순번": "1868",
+      "name": "말술사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이형숙",
+      "phone": "010-5676-0237",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 수영로 759, 이룸비즈니스센터",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1875,
+      "순번": "1874",
+      "name": "와이즈온미디어 주식회사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-5038-3025",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀동로 벽산e센텀클래스원2차 1404",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1879,
+      "순번": "1878",
+      "name": "유한책임회사 대안문화행동재미난복수",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-518-4978",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 오륜동 오륜대로",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1883,
+      "순번": "1882",
+      "name": "에스팀컴퍼니(S TEAM COMPANY)",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-4125-5879",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 서전로9번길 혜도인파크애비뉴 서면",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1886,
+      "순번": "1885",
+      "name": "뮤직시티",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김희경",
+      "phone": "051-463-2925",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1887,
+      "순번": "1886",
+      "name": "THE5musicSHEET",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "오희섭",
+      "phone": "051-517-8828",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1898,
+      "순번": "1897",
+      "name": "시빅뉴스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-663-5129",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 수영로 23호제1학생회관 301",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178212810",
+      "title": "시빅뉴스",
+      "href": "/article/6178212810"
+    },
+    "detail": {
+      "bno": "6178212810",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "권만우"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1900,
+      "순번": "1899",
+      "name": "주식회사 아너스골프아카데미 아너스골프다이닝",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-612-5073",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 수영로 대승타워 상가 601~605호, 620~623",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1901,
+      "순번": "1900",
+      "name": "e붓다",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-636-1256",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 진남로",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "8369100300",
+      "title": "e붓다",
+      "href": "/article/8369100300"
+    },
+    "detail": {
+      "bno": "8369100300",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1906,
+      "순번": "1905",
+      "name": "다온티엔에스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-717-3307",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 초량동 중앙대로196번길 혁정루 502",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1907,
+      "순번": "1906",
+      "name": "봄비",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-503-4346",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 사직동 중앙대로1267번길",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6063739482",
+      "title": "봄비（BOM．B）",
+      "href": "/article/6063739482"
+    },
+    "detail": {
+      "bno": "6063739482",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1908,
+      "순번": "1907",
+      "name": "파리 미장센",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-556-5509",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 온천동 금강로 성완아이렉스 402",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2476400504",
+      "title": "파리 미장센",
+      "href": "/article/2476400504"
+    },
+    "detail": {
+      "bno": "2476400504",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1912,
+      "순번": "1911",
+      "name": "OK스크린골프",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-803-3177",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 전포동 전포대로199번길 현대O/T 지하",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2261187454",
+      "title": "강릉OK스크린골프",
+      "href": "/article/2261187454"
+    },
+    "detail": {
+      "bno": "2261187454",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "안운영"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1913,
+      "순번": "1912",
+      "name": "비에스피솔루션",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-609-9019",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 모라동 1375번지 벤처타워 1303호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2218150940",
+      "title": "주식회사 비에스피솔루션",
+      "href": "/article/2218150940"
+    },
+    "detail": {
+      "bno": "2218150940",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이대흥"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1923,
+      "순번": "1922",
+      "name": "폭스인베스트",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-521-1300",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 대청동2가 광복중앙로  605",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2554700774",
+      "title": "폭스인베스트",
+      "href": "/article/2554700774"
+    },
+    "detail": {
+      "bno": "2554700774",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1950,
+      "순번": "1949",
+      "name": "아크앤북 부산명지점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-4138-0101",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "강서구 명지동 명지국제6로 대방디엠시티2차 B-208,209,210,211,212,213",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1953,
+      "순번": "1952",
+      "name": "조선일보구서센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-512-8492",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 구서동 금강로",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6212189020",
+      "title": "조선일보구서센터",
+      "href": "/article/6212189020"
+    },
+    "detail": {
+      "bno": "6212189020",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황치원"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1956,
+      "순번": "1955",
+      "name": "한국전화번호부（주）부산지점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-851-0114",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 금사동 반송로",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1958,
+      "순번": "1957",
+      "name": "이디오마북스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "02-904-8895",
+      "fax": "",
+      "sigungu": "기장군",
+      "addr": "기장군 기장읍 대변리무양2길 경보 그랜드 비치 102 1604",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1963,
+      "순번": "1962",
+      "name": "조선동아부산남대연중앙감만센타",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-642-0978",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 석포로127번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6020933289",
+      "title": "조선동아부산남대연중앙감만센타",
+      "href": "/article/6020933289"
+    },
+    "detail": {
+      "bno": "6020933289",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1964,
+      "순번": "1963",
+      "name": "(주)교보문고경성대·부경대센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-624-9961",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 수영로 리마크빌대연 A",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1975,
+      "순번": "1974",
+      "name": "조선일보 동래센터/동아일보 동래센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-555-4819",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 명륜동 충렬대로200번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1978,
+      "순번": "1977",
+      "name": "중앙일보 부산일보 온천지국",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-552-0016",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 온천동 중앙대로1473번길 벽산아스타상가 103동 114",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1980,
+      "순번": "1979",
+      "name": "동아일보,조선일보  가야개금센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-891-0647",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 가야동 가야공원로38번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1981,
+      "순번": "1980",
+      "name": "(주) 투판즈 부산지점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-645-0515",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 범천동 범일로 사학연금회관",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1984,
+      "순번": "1983",
+      "name": "부산일보서면지국",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-806-8116",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 가야대로755번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6051574747",
+      "title": "부산일보서면지국",
+      "href": "/article/6051574747"
+    },
+    "detail": {
+      "bno": "6051574747",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "우태곤"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1986,
+      "순번": "1985",
+      "name": "（주교보문고부산점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-806-3501",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 중앙대로 교보생명",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 1988,
+      "순번": "1987",
+      "name": "조선일보화명금곡센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-891-2197",
+      "fax": "",
+      "sigungu": "북구",
+      "addr": "북구 금곡동 금곡대로616번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6972500243",
+      "title": "조선일보화명금곡센터",
+      "href": "/article/6972500243"
+    },
+    "detail": {
+      "bno": "6972500243",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "장희목"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1989,
+      "순번": "1988",
+      "name": "바른교육",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-325-1444",
+      "fax": "",
+      "sigungu": "북구",
+      "addr": "북구 화명동 양달로8번길 화명 501",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6069164737",
+      "title": "바른교육",
+      "href": "/article/6069164737"
+    },
+    "detail": {
+      "bno": "6069164737",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1992,
+      "순번": "1991",
+      "name": "지하오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-322-1477",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 주례동 백양대로342번길 LG신주례아파트 108 904",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5744000899",
+      "title": "지하오",
+      "href": "/article/5744000899"
+    },
+    "detail": {
+      "bno": "5744000899",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정지호"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 1997,
+      "순번": "1996",
+      "name": "푸른솔",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-701-9237",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 광안동 광일로20번길 대성빌라 101",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2000,
+      "순번": "1999",
+      "name": "꼬꼬야",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-761-3662",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 망미동 망미로30번길 삼성아파트 1 301",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "8372300094",
+      "title": "꼬꼬야놀자",
+      "href": "/article/8372300094"
+    },
+    "detail": {
+      "bno": "8372300094",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2003,
+      "순번": "2002",
+      "name": "동아,국제,한겨레,한경,국민,스포츠서울 거제연제연산센타",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-867-6337",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 거제동 해맞이로109번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2009,
+      "순번": "2008",
+      "name": "에디코",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-257-2321",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 중앙동3가 대청로 SC제일은행 45-1",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1601700974",
+      "title": "에디코",
+      "href": "/article/1601700974"
+    },
+    "detail": {
+      "bno": "1601700974",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "심정원"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2010,
+      "순번": "2009",
+      "name": "사단법인 한국오투오미래비전협회",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-365-5229",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 중앙동6가 중앙대로 광복지하도상가 A66",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2011,
+      "순번": "2010",
+      "name": "재현문고",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-678-4100",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 중앙동7가 중앙대로 롯데광복점 아쿠아몰",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4210101426",
+      "title": "재현문고",
+      "href": "/article/4210101426"
+    },
+    "detail": {
+      "bno": "4210101426",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2013,
+      "순번": "2012",
+      "name": "즐겨찾기",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-544-3390",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 반송동 아랫반송로",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5489500584",
+      "title": "즐겨찾기",
+      "href": "/article/5489500584"
+    },
+    "detail": {
+      "bno": "5489500584",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2014,
+      "순번": "2013",
+      "name": "중앙． 부산． 문화일보 재송센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-781-0349",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 반여동 재반로212번길 에덴동산타운 상가 에덴상가 104호",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6172645601",
+      "title": "중앙． 부산． 문화일보 재송센터",
+      "href": "/article/6172645601"
+    },
+    "detail": {
+      "bno": "6172645601",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2022,
+      "순번": "2021",
+      "name": "프린팅카페",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-625-3735",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 좌동 세실로 경동코아 117, 118",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2023,
+      "순번": "2022",
+      "name": "주식회사 도원이앤아이(Dowon E&I)",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-904-9339",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 좌동 세실로 대승프라자 901",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2027,
+      "순번": "2026",
+      "name": "크리스천설교신문",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조주형",
+      "phone": "051-518-3927",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2028,
+      "순번": "2027",
+      "name": "비전조이",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이구창",
+      "phone": "051-747-6799",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2030,
+      "순번": "2029",
+      "name": "박도인쇄사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-807-4371",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2032,
+      "순번": "2031",
+      "name": "탭아트（Tab Art） 갤러리",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-1600-0284",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2040,
+      "순번": "2039",
+      "name": "티플랜트（Tplant）",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-797-8806",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부암동 백양순환로",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6052055083",
+      "title": "티플랜트（Tplant）",
+      "href": "/article/6052055083"
+    },
+    "detail": {
+      "bno": "6052055083",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박윤실"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2046,
+      "순번": "2045",
+      "name": "아이들세상",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-201-3774",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3702700416",
+      "title": "아이들세상",
+      "href": "/article/3702700416"
+    },
+    "detail": {
+      "bno": "3702700416",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2048,
+      "순번": "2047",
+      "name": "정광사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-575-1545",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 장림동 장평로146번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6061562190",
+      "title": "정광섬유공업사",
+      "href": "/article/6061562190"
+    },
+    "detail": {
+      "bno": "6061562190",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이수용"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2049,
+      "순번": "2048",
+      "name": "주식회사 제이더블유하비",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-314-8847",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 하단동 낙동남로1390번길  801",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7808601278",
+      "title": "주식회사 제이더블유하비",
+      "href": "/article/7808601278"
+    },
+    "detail": {
+      "bno": "7808601278",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "임은옥"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2050,
+      "순번": "2049",
+      "name": "해피버스데이",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-204-7766",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 하단동 낙동대로516번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6030780665",
+      "title": "해피버스데이",
+      "href": "/article/6030780665"
+    },
+    "detail": {
+      "bno": "6030780665",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "오주환"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2051,
+      "순번": "2050",
+      "name": "신한교육사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-231-8010",
+      "fax": "",
+      "sigungu": "서구",
+      "addr": "서구 동대신동2가 대영로85번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5102900793",
+      "title": "신한교육사",
+      "href": "/article/5102900793"
+    },
+    "detail": {
+      "bno": "5102900793",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2052,
+      "순번": "2051",
+      "name": "아이사랑",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-646-1577",
+      "fax": "",
+      "sigungu": "서구",
+      "addr": "서구 아미동2가 아미초장로",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2053,
+      "순번": "2052",
+      "name": "리연",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-255-0403",
+      "fax": "",
+      "sigungu": "서구",
+      "addr": "서구 암남동 원양로 도매장 6",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1756800279",
+      "title": "리연",
+      "href": "/article/1756800279"
+    },
+    "detail": {
+      "bno": "1756800279",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이효수"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2054,
+      "순번": "2053",
+      "name": "부산더락",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-907-8074",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 수영동 수영로",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6173182497",
+      "title": "부산더락",
+      "href": "/article/6173182497"
+    },
+    "detail": {
+      "bno": "6173182497",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최수욱"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2055,
+      "순번": "2054",
+      "name": "과정문구점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-759-0798",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 연산동 고분로247번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2056,
+      "순번": "2055",
+      "name": "달디 디자인스튜디오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-363-9207",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 연산동 월드컵대로 연제롯데캐슬&데시앙 103 1702",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2057,
+      "순번": "2056",
+      "name": "교보핫트랙스(주)센텀시티점",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-638-9961",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀남대로 롯데백화점센텀시티점",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2058,
+      "순번": "2057",
+      "name": "두형통발",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-781-6346",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 재반로125번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6182420327",
+      "title": "두형통발",
+      "href": "/article/6182420327"
+    },
+    "detail": {
+      "bno": "6182420327",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2060,
+      "순번": "2059",
+      "name": "조이풀사이언스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "강민수",
+      "phone": "051-510-7509",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2061,
+      "순번": "2060",
+      "name": "에코인더스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박영진/공주석",
+      "phone": "051-759-1212",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6058138014",
+      "title": "에코인더스(주)",
+      "href": "/article/6058138014"
+    },
+    "detail": {
+      "bno": "6058138014",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2062,
+      "순번": "2061",
+      "name": "이계승",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이계승",
+      "phone": "010-9627-4588",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "강서구 명지국제5로 109(명지동,명지 2차 금강펜테리움 센트럴파크) 205동 1602호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2063,
+      "순번": "2062",
+      "name": "오엠디아틀리에",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박현지",
+      "phone": "010-3228-8668",
+      "fax": "",
+      "sigungu": "기장군",
+      "addr": "기장군 기장읍 동관광7로 17 201동 6호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2064,
+      "순번": "2063",
+      "name": "박정희",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박정희",
+      "phone": "010-7576-7250",
+      "fax": "",
+      "sigungu": "기장군",
+      "addr": "기장군 정관읍 산단4로 139(정관 1차 동원 료얄듀크) 111동 302호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3949400184",
+      "title": "박정희",
+      "href": "/article/3949400184"
+    },
+    "detail": {
+      "bno": "3949400184",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2066,
+      "순번": "2065",
+      "name": "주식회사 로웰프라이빗에쿼티",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-746-2251",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 문현동 문현금융로  8",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5988502012",
+      "title": "주식회사 로웰프라이빗에쿼티(부산지점)",
+      "href": "/article/5988502012"
+    },
+    "detail": {
+      "bno": "5988502012",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2067,
+      "순번": "2066",
+      "name": "경성대학교산학협력단",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최주용",
+      "phone": "051-663-5077",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 수영로 309 (대연동, 경성대학교)",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178206453",
+      "title": "경성대학교 산학협력단",
+      "href": "/article/6178206453"
+    },
+    "detail": {
+      "bno": "6178206453",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최주용"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2068,
+      "순번": "2067",
+      "name": "에듀메타",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "송승근",
+      "phone": "010-8304-6929",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 전포대로 133 BIFX Wework 14층 104호'",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2808602461",
+      "title": "(주)에듀메타",
+      "href": "/article/2808602461"
+    },
+    "detail": {
+      "bno": "2808602461",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "송승근"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2069,
+      "순번": "2068",
+      "name": "니즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-8656-9665",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 가야대로 신동아오피스텔 904",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2407400123",
+      "title": "니즈니즈 (NI&apos;S NEEDS)",
+      "href": "/article/2407400123"
+    },
+    "detail": {
+      "bno": "2407400123",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최빈"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2070,
+      "순번": "2069",
+      "name": "김지원",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김지원",
+      "phone": "010-5960-8004",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 거제천로269번길 31(거제동,온천천 동원로얄듀크) 203동 1601호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6052477334",
+      "title": "김지원헤어샵",
+      "href": "/article/6052477334"
+    },
+    "detail": {
+      "bno": "6052477334",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2071,
+      "순번": "2070",
+      "name": "이루티",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김유성",
+      "phone": "010-2026-8559",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 연제로 24, 205호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1628702758",
+      "title": "주식회사 이루티",
+      "href": "/article/1628702758"
+    },
+    "detail": {
+      "bno": "1628702758",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김유성"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2072,
+      "순번": "2071",
+      "name": "씨앤비(CNB)",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-1770-9924",
+      "fax": "",
+      "sigungu": "영도구",
+      "addr": "영도구 대평동2가 대평로41번길",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2073,
+      "순번": "2072",
+      "name": "에스시엔컴퍼니",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-244-8478",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 중앙동6가 중앙대로 부산데파트 다1,2",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5150847594",
+      "title": "에스시엔컴퍼니",
+      "href": "/article/5150847594"
+    },
+    "detail": {
+      "bno": "5150847594",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "강정원"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2075,
+      "순번": "2074",
+      "name": "유티플러스인터랙티브",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김태민",
+      "phone": "010-5150-1937",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140, 9층 916호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2077,
+      "순번": "2076",
+      "name": "제이앤제이(J&J)커뮤니케이션즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-8767-5919",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 센텀북대로 센텀IS타워 1507",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2079,
+      "순번": "2078",
+      "name": "윤해지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "윤해지",
+      "phone": "010-8612-2158",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2080,
+      "순번": "2079",
+      "name": "이안",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "팽동석",
+      "phone": "010-8530-9714",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "강서구 유동단지1로 41 (대저2동) 104동 202호",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "6058185458",
+      "title": "주식회사 디자인그룹이안",
+      "href": "/article/6058185458"
+    },
+    "detail": {
+      "bno": "6058185458",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2082,
+      "순번": "2081",
+      "name": "스튜디오비오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이한빈",
+      "phone": "010-5093-0304",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140 문화콘텐츠 3층 인디랩",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "1인 인디게임 개발사"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2083,
+      "순번": "2082",
+      "name": "하드롤게임즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "강대휘",
+      "phone": "010-2661-5742",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "확인불가",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2084,
+      "순번": "2083",
+      "name": "포지스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김의준",
+      "phone": "010-2744-3192",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": {
+      "bno": "3514900741",
+      "title": "포지스튜디오",
+      "href": "/article/3514900741"
+    },
+    "detail": {
+      "bno": "3514900741",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2088,
+      "순번": "2087",
+      "name": "운도게임스튜디오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김도현",
+      "phone": "010-7733-6343",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "게임",
+      "contact_res": "게임사업단 요청으로 제외",
+      "close_date": "",
+      "note": "확인불가"
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2093,
+      "순번": "2092",
+      "name": "보승패킹",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-747-8068",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "강서구 화전동 596-13번지",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6218140263",
+      "title": "（주）보승패킹",
+      "href": "/article/6218140263"
+    },
+    "detail": {
+      "bno": "6218140263",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "조부래"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2095,
+      "순번": "2094",
+      "name": "오스타미디어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "황수웅",
+      "phone": "010-8585-9463",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 세실로 27번길 11, 대승코아 3층 303호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "8938802112",
+      "title": "주식회사 오스타미디어",
+      "href": "/article/8938802112"
+    },
+    "detail": {
+      "bno": "8938802112",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황수웅"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2096,
+      "순번": "2095",
+      "name": "브리티시인터내셔널",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "손지형",
+      "phone": "010-9667-8790",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀2로 19, 106호(우동, 센텀코아)",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5508101411",
+      "title": "주식회사 브리티시인터내셔널",
+      "href": "/article/5508101411"
+    },
+    "detail": {
+      "bno": "5508101411",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "손지형"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2097,
+      "순번": "2096",
+      "name": "한울커뮤니케이션",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "여동식",
+      "phone": "051-741-3774",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6170785562",
+      "title": "한울커뮤니케이션",
+      "href": "/article/6170785562"
+    },
+    "detail": {
+      "bno": "6170785562",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이상민"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2098,
+      "순번": "2097",
+      "name": "대주기획",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "차니은",
+      "phone": "051-751-0103",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6448602971",
+      "title": "(주)대기",
+      "href": "/article/6448602971"
+    },
+    "detail": {
+      "bno": "6448602971",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2099,
+      "순번": "2098",
+      "name": "신흥상사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-628-6505",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 용당동 유엔평화로 제B201호",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6051442710",
+      "title": "신흥상운",
+      "href": "/article/6051442710"
+    },
+    "detail": {
+      "bno": "6051442710",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2100,
+      "순번": "2099",
+      "name": "와라봐라",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-582-0944",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 용호동 동명로",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2101,
+      "순번": "2100",
+      "name": "조은글방",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-896-9967",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 개금동 개금본동로",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2102,
+      "순번": "2101",
+      "name": "도담교육",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-3503-8865",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 덕포동 백양대로 남영아파트 101 309",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6063456248",
+      "title": "도담교육",
+      "href": "/article/6063456248"
+    },
+    "detail": {
+      "bno": "6063456248",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2103,
+      "순번": "2102",
+      "name": "몬스터라이엇",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "고진호",
+      "phone": "010-4496-9858",
+      "fax": "",
+      "sigungu": "수영구",
+      "addr": "수영구 민락수변로 241",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7528702022",
+      "title": "주식회사 몬스터라이엇",
+      "href": "/article/7528702022"
+    },
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2105,
+      "순번": "2104",
+      "name": "엠에스네트워크",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-505-4437",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2106,
+      "순번": "2105",
+      "name": "키드니드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김하선",
+      "phone": "051-543-0091",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "만화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178128294",
+      "title": "키드니드",
+      "href": "/article/6178128294"
+    },
+    "detail": {
+      "bno": "6178128294",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2107,
+      "순번": "2106",
+      "name": "스튜디오바다",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "류수환",
+      "phone": "010-3855-8918",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 증산서로 52 ( 문화공간반달)",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2108,
+      "순번": "2107",
+      "name": "두원잡",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-517-0248",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 감전동 132-7번지 벽산디지털벨리 1212호",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6098546469",
+      "title": "(주)두원잡 부산동부사무소",
+      "href": "/article/6098546469"
+    },
+    "detail": {
+      "bno": "6098546469",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2111,
+      "순번": "2110",
+      "name": "스페이사콤",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-522-0712",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 A동 3208호",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2112,
+      "순번": "2111",
+      "name": "주식회사원미디어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "원성훈",
+      "phone": "051-553-4168",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 수영강변대로 140 (우동, 문화콘텐츠컴플렉스) 622호",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2846500271",
+      "title": "원미디어",
+      "href": "/article/2846500271"
+    },
+    "detail": {
+      "bno": "2846500271",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정성윤"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2114,
+      "순번": "2113",
+      "name": "주향문화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김옥희",
+      "phone": "051-817-7611",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2115,
+      "순번": "2114",
+      "name": "식스플로어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-6502-6721",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 감만동 석포로 국제아파트 102 908",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2116,
+      "순번": "2115",
+      "name": "에이에스시에라",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-3556-2017",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 센텀동로 웹스",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2117,
+      "순번": "2116",
+      "name": "스튜디오더블린",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-557-2381",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2119,
+      "순번": "2118",
+      "name": "코너스튜디오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-850-1433",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "애니메이션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3808502051",
+      "title": "코너스튜디오",
+      "href": "/article/3808502051"
+    },
+    "detail": {
+      "bno": "3808502051",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2120,
+      "순번": "2119",
+      "name": "인생극장",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-245-5441",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6031368599",
+      "title": "인생극장　다대포점",
+      "href": "/article/6031368599"
+    },
+    "detail": {
+      "bno": "6031368599",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2121,
+      "순번": "2120",
+      "name": "뉴아태항공",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "선태미",
+      "phone": "051-442-2600",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178621165",
+      "title": "뉴아태항공",
+      "href": "/article/6178621165"
+    },
+    "detail": {
+      "bno": "6178621165",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "선태미"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2122,
+      "순번": "2121",
+      "name": "플랫폼",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김민수",
+      "phone": "051-624-5585",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "영화",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5816300222",
+      "title": "TASTY PLATFORM(테이스티 플랫폼)",
+      "href": "/article/5816300222"
+    },
+    "detail": {
+      "bno": "5816300222",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김태병"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2123,
+      "순번": "2122",
+      "name": "예담프로덕션",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-517-5588",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 장전동 금강로",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2124,
+      "순번": "2123",
+      "name": "잭월드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-912-8692",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 범천동 가야대로 서면3차 봄여름가을겨울 104 2201",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2125,
+      "순번": "2124",
+      "name": "거창레코드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-809-8839",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 부전로 부산전자종합상가  195",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2126,
+      "순번": "2125",
+      "name": "온누리",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-412-7207",
+      "fax": "",
+      "sigungu": "중구",
+      "addr": "중구 동광동5가 동광길 청아하우스  304",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3281000101",
+      "title": "온누리",
+      "href": "/article/3281000101"
+    },
+    "detail": {
+      "bno": "3281000101",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최승복"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2127,
+      "순번": "2126",
+      "name": "파티온",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-7659-2772",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 좌동 양운로 SK허브올리브  1414",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2933600256",
+      "title": "삼겹파티온천점",
+      "href": "/article/2933600256"
+    },
+    "detail": {
+      "bno": "2933600256",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2128,
+      "순번": "2127",
+      "name": "아준뮤직월드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-341-4549",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2129,
+      "순번": "2128",
+      "name": "동해종합만물",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-503-4467",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2130,
+      "순번": "2129",
+      "name": "원데이아트컴퍼니",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-853-8331",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "음악",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3918103576",
+      "title": "주식회사 원데이아트컴퍼니",
+      "href": "/article/3918103576"
+    },
+    "detail": {
+      "bno": "3918103576",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2131,
+      "순번": "2130",
+      "name": "피엘지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "1644-9051",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연3동 55-1번지 21센츄리시티 827호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6058633921",
+      "title": "주식회사 피엘지",
+      "href": "/article/6058633921"
+    },
+    "detail": {
+      "bno": "6058633921",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박순호"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2132,
+      "순번": "2131",
+      "name": "지엠씨랩스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-8832-0801",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 문현4동 1229-1번지 21층 비-스페이스 8호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4678701727",
+      "title": "주식회사 지엠씨랩스 (GMC LABS)",
+      "href": "/article/4678701727"
+    },
+    "detail": {
+      "bno": "4678701727",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "권세영"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2133,
+      "순번": "2132",
+      "name": "오키씨",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "1533-6338",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 문현동 1229-1번지 국제금융센터 8층",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6018702796",
+      "title": "주식회사 오키씨",
+      "href": "/article/6018702796"
+    },
+    "detail": {
+      "bno": "6018702796",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황순옥"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2134,
+      "순번": "2133",
+      "name": "로보프렌레스큐",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-629-7380",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 용당동 251번지 부경대학교 용당캠퍼스 10공학관 524호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4838101071",
+      "title": "주식회사 로보프렌레스큐",
+      "href": "/article/4838101071"
+    },
+    "detail": {
+      "bno": "4838101071",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김영식"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2136,
+      "순번": "2135",
+      "name": "일렉오션",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-8228-8116",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1474번지 센텀에스에이치밸리 308호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3978700206",
+      "title": "주식회사 일렉오션",
+      "href": "/article/3978700206"
+    },
+    "detail": {
+      "bno": "3978700206",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정일화"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2138,
+      "순번": "2137",
+      "name": "제이에이치바이오시스템",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-7607-2489",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 A동 1607호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1058802863",
+      "title": "주식회사　제이에이치바이오시스템",
+      "href": "/article/1058802863"
+    },
+    "detail": {
+      "bno": "1058802863",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황재섭"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2139,
+      "순번": "2138",
+      "name": "타이어비즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-327-7872",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전2동 521-1번지 케이티엔지부산상상마당타워효성엑센시티 606호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2768800416",
+      "title": "주식회사 타이어비즈",
+      "href": "/article/2768800416"
+    },
+    "detail": {
+      "bno": "2768800416",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "송봉균"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2140,
+      "순번": "2139",
+      "name": "센디",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "1599-3288",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 521-1번지 케이티앤지 상상마당 6층 9호, 10호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178604939",
+      "title": "주식회사 센디",
+      "href": "/article/6178604939"
+    },
+    "detail": {
+      "bno": "6178604939",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "염상준"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2141,
+      "순번": "2140",
+      "name": "페이타랩",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "1644-8725",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 부전동 521-1번지 케이티앤지 상상마당 부산 6층 쿨리지코너부산센터 601호, 602호, 603호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4528701123",
+      "title": "주식회사 페이타랩",
+      "href": "/article/4528701123"
+    },
+    "detail": {
+      "bno": "4528701123",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "곽수용"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2142,
+      "순번": "2141",
+      "name": "샐리북",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "임은선",
+      "phone": "010-2434-0942",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 고분로 17",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2143,
+      "순번": "2142",
+      "name": "칸투칸",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-525-6820",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송1동 1208-2번지 센텀스카이비즈 B동 505호",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178154865",
+      "title": "주식회사 칸투칸",
+      "href": "/article/6178154865"
+    },
+    "detail": {
+      "bno": "6178154865",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "한영란"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2144,
+      "순번": "2143",
+      "name": "나비",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "윤석준",
+      "phone": "051-441-7771",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178158406",
+      "title": "나비스오토모티브시스템즈 주식회사",
+      "href": "/article/6178158406"
+    },
+    "detail": {
+      "bno": "6178158406",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정희석"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2145,
+      "순번": "2144",
+      "name": "모바일뱅크",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박정욱",
+      "phone": "051-554-1128",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6078181477",
+      "title": "모바일뱅크(주)",
+      "href": "/article/6078181477"
+    },
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2146,
+      "순번": "2145",
+      "name": "아트현",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-7750-4750",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 금사동 25-6번지 캠퍼스디룸 202호",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6098700981",
+      "title": "주식회사 아트현",
+      "href": "/article/6098700981"
+    },
+    "detail": {
+      "bno": "6098700981",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박현진"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2147,
+      "순번": "2146",
+      "name": "영광화학",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김정수",
+      "phone": "051-201-2254",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 감천동 감내1로",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6032862532",
+      "title": "영광화학",
+      "href": "/article/6032862532"
+    },
+    "detail": {
+      "bno": "6032862532",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2148,
+      "순번": "2147",
+      "name": "성원공업사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "함종욱",
+      "phone": "051-261-4703",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 구평동 두송로123번길",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6032676347",
+      "title": "성원공업사",
+      "href": "/article/6032676347"
+    },
+    "detail": {
+      "bno": "6032676347",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2150,
+      "순번": "2149",
+      "name": "한국편의증진연구원",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조현주",
+      "phone": "010-9108-4733",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 대천로 92-6, 4층",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4900700764",
+      "title": "한국편의증진연구원",
+      "href": "/article/4900700764"
+    },
+    "detail": {
+      "bno": "4900700764",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "조현주"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2151,
+      "순번": "2150",
+      "name": "윤슬시스템",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "박건윤",
+      "phone": "051-921-2107",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 중동 달맞이길 엘시티 A동 6306",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6173083484",
+      "title": "윤슬시스템",
+      "href": "/article/6173083484"
+    },
+    "detail": {
+      "bno": "6173083484",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박건윤"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2153,
+      "순번": "2152",
+      "name": "삼우토이즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "하일광",
+      "phone": "051-206-3451",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6032760070",
+      "title": "삼우토이즈",
+      "href": "/article/6032760070"
+    },
+    "detail": {
+      "bno": "6032760070",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2154,
+      "순번": "2153",
+      "name": "유덕공업사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "전만호",
+      "phone": "051-265-8552",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6032669297",
+      "title": "유덕공업사",
+      "href": "/article/6032669297"
+    },
+    "detail": {
+      "bno": "6032669297",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2155,
+      "순번": "2154",
+      "name": "경화",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김홍선",
+      "phone": "051-313-5238",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6028105187",
+      "title": "(주)경화상사",
+      "href": "/article/6028105187"
+    },
+    "detail": {
+      "bno": "6028105187",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "임행준"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2156,
+      "순번": "2155",
+      "name": "미디어SA",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "사동화",
+      "phone": "051-515-1354",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1050857099",
+      "title": "미디어SA",
+      "href": "/article/1050857099"
+    },
+    "detail": {
+      "bno": "1050857099",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "사동화"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2157,
+      "순번": "2156",
+      "name": "이미지디자인",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "송재근",
+      "phone": "051-556-7242",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3920502673",
+      "title": "이미지디자인",
+      "href": "/article/3920502673"
+    },
+    "detail": {
+      "bno": "3920502673",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2158,
+      "순번": "2157",
+      "name": "스톰아트스쿨학원",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "황정욱",
+      "phone": "051-621-0500",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6179139863",
+      "title": "스톰아트스쿨학원",
+      "href": "/article/6179139863"
+    },
+    "detail": {
+      "bno": "6179139863",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "황정욱"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2159,
+      "순번": "2158",
+      "name": "디자인스탠다드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조형래",
+      "phone": "051-744-1901",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178178547",
+      "title": "주식회사 디자인스탠다드",
+      "href": "/article/6178178547"
+    },
+    "detail": {
+      "bno": "6178178547",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "조형래"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2161,
+      "순번": "2160",
+      "name": "이에이치",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김휘복",
+      "phone": "051-781-2151",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3888800567",
+      "title": "주식회사 이에이치육",
+      "href": "/article/3888800567"
+    },
+    "detail": {
+      "bno": "3888800567",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정강우"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2162,
+      "순번": "2161",
+      "name": "에니파크디자인",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-895-3663",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2163,
+      "순번": "2162",
+      "name": "플레이박스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "조수진",
+      "phone": "010-8808-8260",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 망양로774번길 4 (수정동) 1층",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2164,
+      "순번": "2163",
+      "name": "정석인",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "정석인",
+      "phone": "010-2632-7631",
+      "fax": "",
+      "sigungu": "동구",
+      "addr": "동구 자성로133번길 6(범일동,진흥마제스타워 범일)",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4528101932",
+      "title": "정석",
+      "href": "/article/4528101932"
+    },
+    "detail": {
+      "bno": "4528101932",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2165,
+      "순번": "2164",
+      "name": "주식회사메쉬링크",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "하진수",
+      "phone": "010-7923-8182",
+      "fax": "",
+      "sigungu": "서구",
+      "addr": "서구 대신공원로 17",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1488803253",
+      "title": "주식회사 메쉬링크",
+      "href": "/article/1488803253"
+    },
+    "detail": {
+      "bno": "1488803253",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "조효진"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2166,
+      "순번": "2165",
+      "name": "스튜디오제이주식회사",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "변종섭",
+      "phone": "010-7111-2983",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀동로 35, 9층 908 호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6172390110",
+      "title": "스튜디오제이티",
+      "href": "/article/6172390110"
+    },
+    "detail": {
+      "bno": "6172390110",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "정재철"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2167,
+      "순번": "2166",
+      "name": "경성테크놀러지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "홍순기",
+      "phone": "051-783-3732",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 센텀중앙로 66, 901호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4458600963",
+      "title": "주식회사 경성테크놀러지",
+      "href": "/article/4458600963"
+    },
+    "detail": {
+      "bno": "4458600963",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "홍순기"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2168,
+      "순번": "2167",
+      "name": "이노시스아이엑스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이유섭",
+      "phone": "010-3501-7350",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2170,
+      "순번": "2169",
+      "name": "동양디얜씨",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이준호",
+      "phone": "051-555-2345",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5288600915",
+      "title": "주식회사 동양디얜씨",
+      "href": "/article/5288600915"
+    },
+    "detail": {
+      "bno": "5288600915",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이준호"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2171,
+      "순번": "2170",
+      "name": "위드마인드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "02-313-7705",
+      "fax": "",
+      "sigungu": "강서구",
+      "addr": "강서구 미음동 1522-2번지 4층 에이1,405호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2172,
+      "순번": "2171",
+      "name": "맥큐브",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-714-0414",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 용당동 251번지 부경대학교 용당캠퍼스 용당8관 207호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1928800141",
+      "title": "맥큐브 주식회사",
+      "href": "/article/1928800141"
+    },
+    "detail": {
+      "bno": "1928800141",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "안호준"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2173,
+      "순번": "2172",
+      "name": "투그램시스템즈",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-743-0905",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 에이동 2507호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6028161189",
+      "title": "주식회사 투그램시스템즈",
+      "href": "/article/6028161189"
+    },
+    "detail": {
+      "bno": "6028161189",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "서영우"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2174,
+      "순번": "2173",
+      "name": "오케이스크린골프",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-703-0888",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 좌동 좌동로 울트라타워 1401-1405",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6470702320",
+      "title": "오케이스크린골프",
+      "href": "/article/6470702320"
+    },
+    "detail": {
+      "bno": "6470702320",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2175,
+      "순번": "2174",
+      "name": "중앙일보 동래，명륜센터",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-581-3987",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 부곡동 부곡로",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2176,
+      "순번": "2175",
+      "name": "동아서적",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-624-8813",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연동 용소로 동아빌딩",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6069977903",
+      "title": "동아서적",
+      "href": "/article/6069977903"
+    },
+    "detail": {
+      "bno": "6069977903",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2177,
+      "순번": "2176",
+      "name": "범죄예방신문부산울산취재본부",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "강병기",
+      "phone": "051-294-0770",
+      "fax": "",
+      "sigungu": "동래구",
+      "addr": "동래구 안락동 명안로18번길",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6071927909",
+      "title": "범죄예방신문부산울산취재본부",
+      "href": "/article/6071927909"
+    },
+    "detail": {
+      "bno": "6071927909",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2178,
+      "순번": "2177",
+      "name": "부산시대광고대행",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-581-2253",
+      "fax": "",
+      "sigungu": "연제구",
+      "addr": "연제구 거제동 중앙대로 함조빌딩",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6211194918",
+      "title": "부산시대광고대행",
+      "href": "/article/6211194918"
+    },
+    "detail": {
+      "bno": "6211194918",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2179,
+      "순번": "2178",
+      "name": "더천유",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "070-4060-5355",
+      "fax": "",
+      "sigungu": "금정구",
+      "addr": "금정구 금사동 81-1번지 금사화신빌딩 2층",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2181,
+      "순번": "2180",
+      "name": "디자인회관사무소",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이미래",
+      "phone": "051-853-2010",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2182,
+      "순번": "2181",
+      "name": "디자인문",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-863-1147",
+      "fax": "",
+      "sigungu": "",
+      "addr": "",
+      "type": "캐릭터",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178179304",
+      "title": "(주)디자인문",
+      "href": "/article/6178179304"
+    },
+    "detail": {
+      "bno": "6178179304",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "문금주"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2183,
+      "순번": "2182",
+      "name": "아신 테크",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "051-469-0972",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연3동 55-1번지 센츄리오피스텔 724호 725호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6058157457",
+      "title": "(주)아신테크",
+      "href": "/article/6058157457"
+    },
+    "detail": {
+      "bno": "6058157457",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "전홍석"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2184,
+      "순번": "2183",
+      "name": "주식회사노크유",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최유수",
+      "phone": "010-4120-6482",
+      "fax": "",
+      "sigungu": "부산진구",
+      "addr": "부산진구 서전로44 (전포동) 3층",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1128802589",
+      "title": "주식회사 노크유",
+      "href": "/article/1128802589"
+    },
+    "detail": {
+      "bno": "1128802589",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2185,
+      "순번": "2184",
+      "name": "지니에듀텤",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "이성웅",
+      "phone": "010-4588-2794",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 낙동대로550번길 37",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2186,
+      "순번": "2185",
+      "name": "주식회사인텔리코드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "김승호",
+      "phone": "010-4406-5671",
+      "fax": "",
+      "sigungu": "서구",
+      "addr": "서구 구덕로2 214번길 16 (부민동1가) 2층 E10호",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5528103773",
+      "title": "주식회사 인텔리코드",
+      "href": "/article/5528103773"
+    },
+    "detail": {
+      "bno": "5528103773",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2192,
+      "순번": "2191",
+      "name": "엔터잡",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연3동 55-1번지 21세기센츄리오피스텔 1126호",
+      "type": "공연",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178601330",
+      "title": "주식회사 엔터잡",
+      "href": "/article/6178601330"
+    },
+    "detail": {
+      "bno": "6178601330",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이진아"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2193,
+      "순번": "2192",
+      "name": "엔엑스지",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연3동 56-16번지 리젠시빌딩 3층",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6288601330",
+      "title": "주식회사 엔엑스지",
+      "href": "/article/6288601330"
+    },
+    "detail": {
+      "bno": "6288601330",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김선미"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2194,
+      "순번": "2193",
+      "name": "베러아일랜드",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 대연3동 72-7번지 산암빌딩 1001-91호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7808603354",
+      "title": "유한책임회사 베러아일랜드(Better Islands LLC.)",
+      "href": "/article/7808603354"
+    },
+    "detail": {
+      "bno": "7808603354",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "손기혁"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2203,
+      "순번": "2202",
+      "name": "노매드헐",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 문현동 1229-1번지 국제금융센터 55층 코워킹 스페이스-2,13번",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3098601593",
+      "title": "노매드헐",
+      "href": "/article/3098601593"
+    },
+    "detail": {
+      "bno": "3098601593",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김효정"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2204,
+      "순번": "2203",
+      "name": "레벤그리다",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "남구",
+      "addr": "남구 용당동 251번지 국립부경대학교 용당12관 236호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2908503117",
+      "title": "레벤그리다",
+      "href": "/article/2908503117"
+    },
+    "detail": {
+      "bno": "2908503117",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2207,
+      "순번": "2206",
+      "name": "선민",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 감전동 132-7번지 디지털밸리아파트형공장 404호",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "2328106954",
+      "title": "선민회계법인",
+      "href": "/article/2328106954"
+    },
+    "detail": {
+      "bno": "2328106954",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "선종민"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2209,
+      "순번": "2208",
+      "name": "가람스토어",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사상구",
+      "addr": "사상구 모라동 1375번지 벤처타워 410호",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "8288503358",
+      "title": "주식회사 가람스토어 명지점",
+      "href": "/article/8288503358"
+    },
+    "detail": {
+      "bno": "8288503358",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박세웅"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2211,
+      "순번": "2210",
+      "name": "인코누스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 다대1동 1508-9번지",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6388602054",
+      "title": "인코누스(주)",
+      "href": "/article/6388602054"
+    },
+    "detail": {
+      "bno": "6388602054",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2213,
+      "순번": "2212",
+      "name": "엣지러너스클럽",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "사하구",
+      "addr": "사하구 하단2동 492-2번지 대우에덴프라자 3층 302-에이171호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6368803051",
+      "title": "주식회사 엣지러너스클럽",
+      "href": "/article/6368803051"
+    },
+    "detail": {
+      "bno": "6368803051",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "오형석"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2216,
+      "순번": "2215",
+      "name": "토탈소프트뱅크",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "최장수",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 반송로 513번길 66-39",
+      "type": "콘텐츠솔루션",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6018118506",
+      "title": "(주)토탈소프트뱅크",
+      "href": "/article/6018118506"
+    },
+    "detail": {
+      "bno": "6018118506",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "최장수"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2217,
+      "순번": "2216",
+      "name": "힐스카이컨트리클럽",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 석대동 634번지 6층",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2218,
+      "순번": "2217",
+      "name": "윈피플",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우2동 1454번지 벽산이센텀클래스원2차 1005호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4328102034",
+      "title": "(주) 윈피플",
+      "href": "/article/4328102034"
+    },
+    "detail": {
+      "bno": "4328102034",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "신진영"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2221,
+      "순번": "2220",
+      "name": "나원디앤씨",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우2동 1458번지 인텔리움센텀 707호",
+      "type": "공연",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2229,
+      "순번": "2228",
+      "name": "메타블루",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우2동 1470번지 에이스하이테크21,1616호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2232,
+      "순번": "2231",
+      "name": "유캐스트",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1468번지 케이엔엔타워 1509-2호",
+      "type": "방송",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178615187",
+      "title": "주식회사 유캐스트",
+      "href": "/article/6178615187"
+    },
+    "detail": {
+      "bno": "6178615187",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김수민"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2234,
+      "순번": "2233",
+      "name": "프보이",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1468번지 케이엔엔타워 3층",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1208552551",
+      "title": "프보이",
+      "href": "/article/1208552551"
+    },
+    "detail": {
+      "bno": "1208552551",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2235,
+      "순번": "2234",
+      "name": "베스트엔터테인먼트",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1468번지 케이엔엔타워 806호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6178175934",
+      "title": "（주）베스트엔터테인먼트",
+      "href": "/article/6178175934"
+    },
+    "detail": {
+      "bno": "6178175934",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김대희"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2236,
+      "순번": "2235",
+      "name": "이피엠시스템",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1470번지 에이스하이테크21,1304호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "5288700076",
+      "title": "주식회사 이피엠시스템",
+      "href": "/article/5288700076"
+    },
+    "detail": {
+      "bno": "5288700076",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이경일"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2237,
+      "순번": "2236",
+      "name": "그리드파트너스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1470번지 에이스하이테크21,711-1호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2238,
+      "순번": "2237",
+      "name": "백앤센스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1473번지 302, 303호",
+      "type": "출판",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2243,
+      "순번": "2242",
+      "name": "케어닥",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 우동 1476번지 웹스 3층 307호 우동",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7088100933",
+      "title": "주식회사 케어닥",
+      "href": "/article/7088100933"
+    },
+    "detail": {
+      "bno": "7088100933",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박재병"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2247,
+      "순번": "2246",
+      "name": "오렌지랩스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송1동 1208-2번지 센텀스카이비즈 A동 2801호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "8158802655",
+      "title": "오렌지랩스 주식회사",
+      "href": "/article/8158802655"
+    },
+    "detail": {
+      "bno": "8158802655",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김범진"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2248,
+      "순번": "2247",
+      "name": "에스랩",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송1동 1209번지 센텀아이에스타워 1809호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "4268700300",
+      "title": "주식회사 에스랩",
+      "href": "/article/4268700300"
+    },
+    "detail": {
+      "bno": "4268700300",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "박주성"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2253,
+      "순번": "2252",
+      "name": "비트시스",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 A동 2101호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6051732848",
+      "title": "비트시스템",
+      "href": "/article/6051732848"
+    },
+    "detail": {
+      "bno": "6051732848",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이름으로"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2254,
+      "순번": "2253",
+      "name": "건흥페이먼츠",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 A동 2510호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6758600152",
+      "title": "건흥페이먼츠 주식회사",
+      "href": "/article/6758600152"
+    },
+    "detail": {
+      "bno": "6758600152",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이득명"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2255,
+      "순번": "2254",
+      "name": "크리에이티브올라",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 A동 706-2호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "6128703489",
+      "title": "주식회사 크리에이티브올라",
+      "href": "/article/6128703489"
+    },
+    "detail": {
+      "bno": "6128703489",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "홍정현"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2256,
+      "순번": "2255",
+      "name": "저스티스어드벤처",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 B동 603호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "1778100390",
+      "title": "주식회사 저스티스어드벤처",
+      "href": "/article/1778100390"
+    },
+    "detail": {
+      "bno": "1778100390",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "조현제"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2257,
+      "순번": "2256",
+      "name": "아크리아스튜디오",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 비동 604호 46실",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": null,
+    "detail": {}
+  },
+  {
+    "target": {
+      "row_idx": 2258,
+      "순번": "2257",
+      "name": "컨벤션숲",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 에이동 에이-3704호",
+      "type": "광고",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "7218101667",
+      "title": "주식회사 컨벤션숲",
+      "href": "/article/7218101667"
+    },
+    "detail": {
+      "bno": "7218101667",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "김정훈"
+    }
+  },
+  {
+    "target": {
+      "row_idx": 2260,
+      "순번": "2259",
+      "name": "모두싸인",
+      "biz": "",
+      "est_year": "",
+      "est_month": "",
+      "rep": "",
+      "phone": "",
+      "fax": "",
+      "sigungu": "해운대구",
+      "addr": "해운대구 재송동 1208-2번지 센텀스카이비즈 제에이동 제에이-3610호",
+      "type": "지식정보",
+      "contact_res": "",
+      "close_date": "",
+      "note": ""
+    },
+    "matched": {
+      "bno": "3568700243",
+      "title": "주식회사 모두싸인",
+      "href": "/article/3568700243"
+    },
+    "detail": {
+      "bno": "3568700243",
+      "raw_html": true,
+      "status": "폐업자",
+      "rep": "이영준"
+    }
+  }
+]

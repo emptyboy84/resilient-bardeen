@@ -1,0 +1,15 @@
+The search for "site:weseb.com "테크핀코리아" OR "351-81-02337" OR "박종현"" returned the following summary:
+위세브(`weseb.com`) 사이트 내에서 수집·제공하는 공공데이터(통신판매업 정보 등) DB에 등록된 **‘주식회사 테크핀코리아’**와 관련된 정보는 다음과 같습니다[1][2]:
+
+* **업체명:** 주식회사 테크핀코리아[1][2]
+* **취급 품목/카테고리:** 온라인 레저, 여행, 공연[1][2]
+* **대표자명:** 박종현 (공공데이터 표기상 성명 일부 마스킹인 '박※현' 등으로 나타날 수 있음)[3][2]
+* **판매 방식:** 인터넷[2]
+
+위세브 사이트는 공공데이터포털 및 공공기관의 통신판매업 데이터를 기반으로 정보를 제공하고 있으며[4], 해당 사업자의 상세한 행정 정보나 사업자등록번호(`351-81-02337` 등) 관련 조회 내역은 공공데이터 원본 변동이나 사이트 내 검색어 매칭 상태에 따라 상이할 수 있습니다.
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR9v3ltSYqyqzrOlVbXuB52Q8DgjSP5bkcj_5GIVB19TeGSSEBfnGoCNzK7ggPXavWBRKV0BwaXR7sJ_Gm5gLemPXz26OFD9NenQJ8rDdvoAlIO35zViGpIbVfRnQJJHdF5YaFYkClX5VlczGwwceic5Ga2ucpHw==)
+[2] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcGhyGTc47yjPDteZpxsuG4Ht4I3uF4kaBkSLwLLGK9CpMn9qWZ0h2pjhQZhwIZcmimZY7Q9HOx0loLTJ6Y8Rf2LuldzmyoRA8Lh9CygdaulEwVqesGHz2vUuSwOaOqBT-frQ6uxZM0b5cJ3bqHmbl_sx4X_xa)
+[3] [bchrd.info](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDuQMiLqxM8PU82JnkoSTy0uBAl9uNGLI2GG_NMz2B06j1rJgxPLd1t6dURBSxAiHfvs9wpCMbmLiulT5oR6yaDO9spd6JA3oC9y9xM4Nh_6qL-V9hVmjS-3l5AMP_7_nAGBz0ZR8phScTRHMOTQI6nxLlLeruc5TPwaCvEWNXYfU-33dl8XbgJ0jLWHBc)
+[4] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZK6mwSxk9SxqTEA_3kJiplHX1u9ahWeeZJpI0L2fhAJoFXPXNtxZMgqeHd0Fr5blaBexkBeAt8ipDVyGuQBgo-80lyCKhD90ypHCRRyWq1MI4i1-wTawNoFdDjDXTUdBZ91FX86SyaGlICAkcvO7FXRDpJteq)

@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Bizno /?query= status: 200 len: 22005
+Article links for 단디콤: [
+  '/article/6011503503', '/article/8030302150',
+  '/article/5010696700', '/article/6082440608',
+  '/article/6080180708', '/article/7198801794',
+  '/article/2205600810', '/article/8828601628',
+  '/article/4378602242', '/article/5178703700',
+  '/article/6120959802', '/article/6519201272',
+  '/article/6022191603', '/article/4521501510',
+  '/article/5022325210', '/article/5142206806',
+  '/article/4330800851', '/article/5773401028',
+  '/article/5408602704', '/article/2928803676',
+  '/article/3516400104', '/article/2528200780',
+  '/article/2212425604', '/article/5582801104',
+  '/article/3518703226', '/article/3170270316',
+  '/article/2608703084'
+]
+Bizno /?query= status for 도서출판일광: 200 len: 22026
+Article links for 도서출판일광: [
+  '/article/6011503503', '/article/8030302150',
+  '/article/5010696700', '/article/6082440608',
+  '/article/6080180708', '/article/7198801794',
+  '/article/2205600810', '/article/8828601628',
+  '/article/4378602242', '/article/5178703700',
+  '/article/6120959802', '/article/6519201272',
+  '/article/6022191603', '/article/4521501510',
+  '/article/5022325210', '/article/5142206806',
+  '/article/4330800851', '/article/5773401028',
+  '/article/5408602704', '/article/2928803676',
+  '/article/3516400104', '/article/2528200780',
+  '/article/2212425604', '/article/5582801104',
+  '/article/3518703226', '/article/3170270316',
+  '/article/2608703084'
+]
+

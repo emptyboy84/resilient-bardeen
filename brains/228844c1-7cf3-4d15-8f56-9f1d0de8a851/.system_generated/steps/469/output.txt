@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://section.cafe.naver.com/ca-fe/home/search/articles?q="9514-1435"');
+```
+### Page
+- Page URL: https://section.cafe.naver.com/ca-fe/home/search/articles?q=%229514-1435%22
+- Page Title: 네이버 카페
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-47-34-810Z.yml)

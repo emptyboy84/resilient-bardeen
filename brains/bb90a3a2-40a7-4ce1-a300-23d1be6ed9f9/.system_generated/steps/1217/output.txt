@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Fetching Saramin job: https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=45466721
+Status: 200
+Len: 401110
+Phones in Saramin Job: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+Emails in Saramin Job: [ 'help@saramin.co.kr' ]
+

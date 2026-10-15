@@ -1,0 +1,9 @@
+### Result
+"Clicked 조회하기"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[placeholder*="상호명"]\');\n  if (input) {\n    // React input setter\n    const nativeInputValueSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, \'value\').set;\n    nativeInputValueSetter.call(input, \'비솜\');\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n  }\n  const buttons = Array.from(document.querySelectorAll(\'button\'));\n  const searchBtn = buttons.find(b => b.innerText.includes(\'조회하기\'));\n  if (searchBtn) {\n    searchBtn.click();\n    return \'Clicked 조회하기\';\n  }\n  return \'Not found\';\n}');
+```
+### Page
+- Page URL: https://www.gongsinara.com/?query=%EB%B9%84%EC%86%9C&queryType=name
+- Page Title: 공시나라 - 기업정보 검색

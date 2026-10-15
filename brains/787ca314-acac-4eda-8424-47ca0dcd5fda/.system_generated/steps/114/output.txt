@@ -1,0 +1,16 @@
+
+The command exited with code 1.
+Output:
+[eval]:23
+  console.log(구간 [~] (총 건): 정상법인=, 개인정상=, 누락=, 개인인데법인기재=, 체크섬오류=);
+                   ^
+Expected ',', got '건'
+
+SyntaxError: Unexpected token ']'
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+

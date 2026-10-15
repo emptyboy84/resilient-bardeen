@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\inspect_headers.ps1:25 char:30
++         Write-Host "  String $i: $($matches[$i].Groups[1].Value)"
++                              ~~~
+Variable reference is not valid. ':' was not followed by a valid variable name character. Consider using ${} to delimit
+ the name.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : InvalidVariableReferenceWithDrive
+ 
+

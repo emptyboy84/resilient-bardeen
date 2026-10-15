@@ -1,0 +1,11 @@
+The search for "site:wanted.co.kr OR site:saramin.co.kr OR site:jobkorea.co.kr "노매드헐"" returned the following summary:
+원티드(Wanted)와 사람인(Saramin) 플랫폼 내 **'노매드헐(NomadHer)'** 기업 및 채용 관련 정보는 다음과 같습니다.
+
+* **원티드(Wanted):** 노매드헐의 기업 정보 페이지가 등록되어 있으며[1], 상세 채용 공고 상황 및 기업 개요(업력 7년, 서울 소재 등)를 확인할 수 있습니다[1].
+* **사람인(Saramin):** (주)노매드헐의 기업 정보 및 연봉 통계(평균연봉 약 4,600만 원 선)[2], 재무 및 직무 리포트 등을 제공하고 있습니다[2].
+
+구체적인 진행 중인 채용 공고나 상세 포지션 확인은 각 플랫폼(원티드, 사람인)의 공식 웹사이트에서 직접 '노매드헐'을 검색하여 확인하실 수 있습니다.
+
+Sources:
+[1] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpNgubYS_RjLXSgwG6zbtvd432hSFlcxlrOP6AO9gBR88bn22CniyVhGQTKZfza4Y3qtdItyUQY4QkA-9YAkYsgTn854zh9enIc2DY-9FF_vBLHFt-AyVAKyGNRw==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMQQFwtebVdcHEYS05oO17gcqLkfJMQZhZmJwqCw0pMoijRolbmK2w5oPKdPA4ntFi69nZ_cbgqd6WnGjtmgjQrg4Ynvj76P5MSRszEA3OjGYis05LqYJW-pZxADVo_ptpq2nukSJkw-DXxkox7RhefSG2sIA08c8zMlv5SNSESEy8DuZQPOAXUgtUkogNHXghGS7H1BfRYAz165qtdv6A3PeMPDymffzKcqCTpmS0oB7krOVNH5T5Zz2UA0WcbfQ1GGDjMrUiYywxTLs=)

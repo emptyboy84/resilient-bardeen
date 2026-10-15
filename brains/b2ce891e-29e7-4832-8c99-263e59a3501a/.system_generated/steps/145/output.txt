@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => Array.from(document.querySelectorAll(\'iframe\')).map(f => ({ id: f.id, name: f.name, src: f.src }))');
+```

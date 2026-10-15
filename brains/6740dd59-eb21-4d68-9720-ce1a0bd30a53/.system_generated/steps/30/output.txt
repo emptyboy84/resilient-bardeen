@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+rows_11847_12000_16col.tsv 주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.kr		2	일반용 전기 조명장치 제조업			제조업	전기장비 제조업	전구 및 조명장치 제조업
+rows_11847_12000_17col.tsv 폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대로 363	054-464-1172	054-464-1173	http://www.luxtec.kr		2	일반용 전기 조명장치 제조업			제조업	전기장비 제조업	전구 및 조명장치 제조업
+user_pasted_rows.tsv <USER_REQUEST>
+current_pasted_batch.tsv <USER_REQUEST>
+

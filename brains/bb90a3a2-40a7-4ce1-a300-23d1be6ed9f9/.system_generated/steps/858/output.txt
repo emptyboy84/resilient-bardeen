@@ -1,0 +1,33 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-852
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-852.log
+Log output:
+<truncated 8 lines>
+매니지먼트
+[MISS] Seq 87 (주)썬더게임즈
+[MISS] Seq 109 (주)아크리아스튜디오
+[MISS] Seq 121 비솜(주)
+[MISS] Seq 128 (주)글로픽스
+[MISS] Seq 147 (주)오앤비스페이스
+[MISS] Seq 148 (주)제리굿컴퍼니
+[MISS] Seq 150 (주)지알비
+[MISS] Seq 152 세연소프트(주)
+[MISS] Seq 157 (주)링크빈
+[MISS] Seq 174 (주)씨플레이
+[MISS] Seq 184 (주)보보스유
+[MISS] Seq 185 (주)에이비엠랩
+[MISS] Seq 191 (주)더블유에스컴퍼니
+[MISS] Seq 192 (주)써니사이드업
+[MISS] Seq 194 씨너지파트너(주)
+[MISS] Seq 196 (주)위드솔루션
+[MISS] Seq 200 (주)아이쿠카
+[MISS] Seq 216 (주)비쓰리디
+[MISS] Seq 220 (주)케이엠벤처스
+[HIT 1] Seq 234 (주)화린 (826-88-02072) -> 051-744-3000 [Daum-Web] | 96&r=3&d=a9c2c10f02716c14d02da8aa0808d14625fce2bf&gd=web-so5ot-qcLBDwJxbBTQLaiq&
+[MISS] Seq 235 (주)제이이테크
+[MISS] Seq 240 (주)대경산업개발
+[MISS] Seq 244 (주)노매드헐
+
+Finished 30 samples: Hits = 1 (3.3%)
+
+Last progress: 1s ago

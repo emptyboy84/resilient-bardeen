@@ -1,0 +1,16 @@
+The search for ""괴정동 1009-4" 건물명 OR 빌딩 OR 상가" returned the following summary:
+부산광역시 사하구 괴정동 1009-4번지(도로명 주소: 부산광역시 사하구 낙동대로 210)에 위치한 건물에 대한 정보는 다음과 같습니다.
+
+*   **건물명:** 특정된 공식 빌딩명은 확인되지 않으며, 해당 주소지는 근린생활시설, 단독주택 등이 포함된 건물로 안내되고 있습니다[1][2][3].
+*   **건물 특징:** 1982년에 준공된 지상 3층(지하 1층 포함) 규모의 건물입니다[2][3].
+*   **상가 및 입점 시설:**
+    *   1층 등에는 상가가 입점해 있으며, 과거 '고려수지침'이나 '괴정영창피아노'와 같은 업체들이 등록된 정보가 확인됩니다[4][5][6].
+    *   주변 상권이 형성되어 있으며, 부산 도시철도 1호선 괴정역에서 도보로 약 2분 거리에 위치하여 교통이 편리한 곳입니다[1][4][5].
+
+Sources:
+[1] [zaritalk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo8uqzJbOO3O-pGoVS3BLMUVf2bHFAuF-aeogyFfRVB7dkwycUtQCmPvW2bkHzHtymWtrPURBtM_vf0O_j27bsONotr5wDxmRledFeqL4Hz7m2xvfAntari6CfdGD2relq5X62hCmKWetTO1R5Qg2KM8sS24BPhhJShKgeY2zlnAz9)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYM8-revPKpdFqyS8J2Ye9fLhJp5NOOubqZhynMdRhOKwOD-6vkl6pXyTmF1ThsQtFxB3Febb6BXey7l5VoUwPSL5HA8jgsZcghUNVaiPFpGXtcKP2xZyQJ_zztwO-IQx_C8eF8cvw7djKE8ebjcox18sb4bCryWsXUjWyZnzTl73OgjQQlJebHu-v_yZONEiGjm7EIspuz3zgkc7TY57FM460h4RVv61tlFLjS9i1KeuorIqeBNULiOF0FJfJNA==)
+[3] [zaritalk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo8uqzJbOO3O-pGoVS3BLMUVf2bHFAuF-aeogyFfRVB7dkwycUtQCmPvW2bkHzHtymWtrPURBtM_vf0O_j27bsONotr5wDxmRledFeqL4Hz7m2xvfAntari6CfdGD2relq5X62hCmKWetTO1R5Qg2KM8sS24BPhhJShKgeY2zlnAz9)
+[4] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciF4NqOYxUnndIkCHGa3BgdQ-RTU35RuOWTF1rTkvEcWsqn_tfXMKoJb0HQMEeC9OBXPNgwpjBoDV-o--iVcH6Jo-j02V9eMTXACOA4fWs1WVL7uPEqqEU4TVvLMbd0tIXqK6W5_CDPB_WKLXVxdl9bdNhB6P3MAIgK17YL6PSL1VUc-pzqTVoeWDA4lCmL-dcKzIDwqT9w==)
+[5] [zaritalk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBayVJYoKYFXoW1vIhOPtFpccWkmlu9-HOAGM4D0j0o-ODVjlcjcixmLgNjXxfh6NIOLZT1AhTWk_3pGxF9kwqu2-b_hwfgetSU1q8VuB63FbFz2v2L4bVX4BQYQ36074WbV-lnX_JR0NTytg2CHPVPz4P0FJP1Q21GrKa3j1hOOpj)
+[6] [purpleo.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1-pe4vRKOmtHWijEXI6EaktWtmHwTbUUGPfXKykjsuI0nPtyiWwrOWYi6BvzKS1IrHuLceFiiyifvAF0sw9UJTNW6nVuRMY-PhUZwyrTNBfMXT9FiVh4r6TI=)

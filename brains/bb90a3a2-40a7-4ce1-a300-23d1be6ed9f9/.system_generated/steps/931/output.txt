@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+=== QA Inspector: Starting Full File Verification ===
+Checking TXT: C:/Users/lg/Desktop/Today/크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+1. BOM Check: PASS (UTF-8 BOM Present)
+2. Line Count: 3979 (Expected 3979: 1 header + 3978 rows)
+3. 17-Column Structure: PASS (100% 17 cols)
+4. Header Columns (17): [
+  '순번',          '기업명',
+  '대표자명',      '기업상태',
+  '기업유형/형태', '사업자번호',
+  '법인번호',      '산업분류',
+  '주소',          '전화번호',
+  '최근 재무년도', '브리핑',
+  '일반',          '현황',
+  '재무',          '신용',
+  'EW리포트'
+]
+5. Phone Statistics in TXT:
+   - Total rows: 3978
+   - Rows with verified phone: 1985 (49.9%)
+     * Full Landline / Rep (051/070/15xx): 1707
+     * Full Mobile (010): 80
+     * Masked Mobile (010-****): 198
+   - Rows missing phone: 1993 (50.1%)
+6. XLSX File: PASS (435564 bytes)
+
+=== QA Inspection Verdict: ALL CHECKS PASSED ===
+

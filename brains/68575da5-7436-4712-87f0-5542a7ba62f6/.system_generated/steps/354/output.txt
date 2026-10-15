@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+129 // separately.
+381 [{"id":"https://unpkg.com/react@18.3.1/umd/react.production.min.js","uuid":"3fe7e853-a4fb-4a5a-9692-225a0dd9fc57"},{"id":"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js","uuid":"7a357233-923c-4243-8e22-1f5350731e91"}]
+

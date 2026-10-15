@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+=== Checking Col 0 (구분) and Col 1 (순번) ===
+Unique Col 0 values: [ '25년 모집단', 'e', '`', '게임사업단 리스트' ]
+Non-numeric Col 1 values: [ { rowNum: 2287, name: '와이어스', col0: '게임사업단 리스트', col1: '휴업자' } ]
+

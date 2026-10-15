@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+RCPT RESULT: 250 2.1.5 OK d2e1a72fcca58-86153134102si20040971b3a.163 - gsmtp
+RCPT RESULT: 221 2.0.0 closing connection d2e1a72fcca58-86153134102si20040971b3a.163 - gsmtp
+Socket error: write after end
+

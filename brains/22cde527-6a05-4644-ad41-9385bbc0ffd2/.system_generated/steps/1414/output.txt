@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+=== Searching for 샐리북 (임은선, 연제구) ===
+
+=== Searching for 꼬꼬야 (수영구) ===
+
+=== Searching for 나래바람 (051-612-2133, 남구 용호동 LG메트로시티) ===
+
+=== Searching for 도서출판 일광 (051-723-0037, 기장군 차성로344번길) ===
+
+=== Searching for 비전조이 (이구창, 해운대구) ===
+
+=== Searching for 양업서원 (민병선, 부산진구) ===
+

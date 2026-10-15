@@ -1,0 +1,12 @@
+The search for ""비솜" "통신판매" OR "통신판매업" OR "신고번호"" returned the following summary:
+온라인 쇼핑몰 **비솜(bisom)**의 통신판매업 신고 정보는 다음과 같습니다[1].
+
+* **통신판매업 신고번호:** 제2016-경기이천-0114호[1]
+* **사업자등록번호:** 108-81-62779 (1088162779)[1]
+
+해당 정보는 공정거래위원회 '통신판매사업자 조회' 서비스를 통해 상호명이나 사업자등록번호로도 직접 확인하실 수 있습니다[2][3].
+
+Sources:
+[1] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFomDDjInyHfpylK1tqo_tQehrKxQKFQMk4_MmPyRCXwF14mqxzLDkW3t7pRLoxBewUCBKT-6ek34JjQOPihljgqO8LX7bnmmPOPaJs9g0hq9CLFv_3Px3zuaCvoN_9QgzRSQ==)
+[2] [ftc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSsaq3vmD4KtttXco3IvElbqhx3V0AfWNhDJgq8T-Qzv5O-9F7AhPO53G0rOWe29avlrXdVshS8Y-q8_gpwQyvi5UK6fiLh8IxpPcmshZmws5dfaOXArbiztFxLbYTAD4b_n155oD0hm8BZw==)
+[3] [semo-info.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxPWbnDRYB9WKziahhlERJpPMW1N0QUNaJyOKkv7yP3j-JrqrIgzE3GiSHZrfZ692XSnesWhvsUGA1_E1UyEj3UpkB7Ri8Oc4---WpRiPpIQkR5Zap3RH-efPHKhjV-fjSWOP1n7YScoscB0GtDLx4zrjya3lafdNeS9rdCWaA2EygvHCjPFjp5UKGJVvoTGKTsKVcFe6oKkDzwnlGBC90ODJoND79U6ysDxS_csamwqyiLLKTcPZNjRCtD8ZIRewefWvk6rYvOB_38_vJBKCbpQIOHDtsU1c=)

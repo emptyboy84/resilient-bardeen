@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const titles = Array.from(document.querySelectorAll(\'.news_tit, .total_tit, .api_txt_lines, .name, .place_bluelink\'));\n  return titles.map(t => ({ text: t.innerText, href: t.href }));\n}');
+```

@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to add proper touchpad support to AetherOS. Covers pointer event migration, iframe pointer event disabling, and trackpad swipe workspace switching.",
+  "updatedAt":  "2026-06-12T00:04:45.190797400Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

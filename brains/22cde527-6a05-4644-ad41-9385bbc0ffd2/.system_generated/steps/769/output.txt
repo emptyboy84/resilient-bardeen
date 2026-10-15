@@ -1,0 +1,13 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-767
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-767.log
+Log output:
+Total unverified remaining to test: 271
+[Row 504] 89Light found biz matches: [ '220-88-99503' ]
+[Row 537] 꿈해몽 found biz matches: [ '372-87-02689' ]
+[Row 547] 냉이영화 found biz matches: [ '101-81-69524' ]
+[Row 593] 도서출판일광 found biz matches: [ '113-86-38602' ]
+[Row 607] 동아대학교출판부 found biz matches: [ '203-82-32086', '203-77-88780' ]
+[Row 645] 디지털포토2017 found biz matches: [ '843-06-01451' ]
+
+Last progress: 0s ago

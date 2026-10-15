@@ -1,0 +1,14 @@
+The search for ""부평1길 73" ("명동칼국수" OR "육전밀면")" returned the following summary:
+입력하신 주소 **"부산광역시 중구 부평1길 73"** (부평동2가) 위치에는 '명동칼국수'나 '육전밀면' 상호가 존재하지 않으며[1], 해당 주소의 실제 위치에는 다른 음식점(예: 진짬뽕 등)이 위치하고 있습니다[2][1].
+
+부산 중구 부평동/남포동 일대에서 **명동칼국수**나 **육전밀면**을 찾으시는 경우, 각각 아래의 인근 지역 정보를 참고하실 수 있습니다.
+
+* **명동칼국수**: 부산 중구 중앙대로98번길 7 (중앙동4가) 등지에 동명의 업소가 있습니다[3].
+* **육전밀면**: 부산 중구 남포길 5-1 (남포동3가) 등에 '육전밀면' 상호의 매장이 위치하고 있습니다[4]. 또한 부평깡통시장(부평1길) 인근 일대에서도 육전이 고명으로 올라가는 밀면이나 국수류를 판매하는 식당들을 쉽게 찾아볼 수 있습니다[5].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR2pdorec48K_jdPPenKaGHALRGH6BMTT-5ia1QX-St6AOtbLN0TyN1q63jXAcF0cXUVcjrm5p9h490cLwIgWH51r5Y2tOS65-KO9ifMuv2zyHGaw=)
+[2] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgPxH4B8hz3mCdekH-vxZg-uU7ujFpomaXKCVh_iVAXXgHxtpqp4-NYBb2jTvYH5F4asyPFSOM0UEJli_jsr01283-ibFy-OHcB31TtkI7KOqn5sJ8TvjzRb5vZ_cjwNjn4dh5nb3xCxnWh0g4CkK2P0bx)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR2pdorec48K_jdPPenKaGHALRGH6BMTT-5ia1QX-St6AOtbLN0TyN1q63jXAcF0cXUVcjrm5p9h490cLwIgWH51r5Y2tOS65-KO9ifMuv2zyHGaw=)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR2pdorec48K_jdPPenKaGHALRGH6BMTT-5ia1QX-St6AOtbLN0TyN1q63jXAcF0cXUVcjrm5p9h490cLwIgWH51r5Y2tOS65-KO9ifMuv2zyHGaw=)
+[5] [trip.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHom3Q3OuYMYTviMG9GgOB_Gn9GX7gHqSNTpSXFaazVcQFzbEgby0qxRxZE7bFbZgGyJljEe9pZhUUtW1XrxMwtg-OhY62UT9UMNLRAXwYkaXYDwO3SgqdKFfnAeskNVrslJ88qlcTrebnOVQY=)

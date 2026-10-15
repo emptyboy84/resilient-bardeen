@@ -1,0 +1,207 @@
+
+The command exited with code 0.
+Output:
+Sheet name: 배현명_검증완료 RowCount: 1001
+Sample colored rows: [
+  {
+    "rNum": 1,
+    "cells": [
+      {
+        "col": 1,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "No"
+      },
+      {
+        "col": 2,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "원본행"
+      },
+      {
+        "col": 3,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "비고"
+      },
+      {
+        "col": 4,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "회사명"
+      },
+      {
+        "col": 5,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "사업자번호"
+      },
+      {
+        "col": 6,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "대표자"
+      },
+      {
+        "col": 7,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "우편번호"
+      },
+      {
+        "col": 8,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "주소"
+      },
+      {
+        "col": 9,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "전화번호"
+      },
+      {
+        "col": 10,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "팩스번호"
+      },
+      {
+        "col": 11,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "홈페이지"
+      },
+      {
+        "col": 12,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "이메일"
+      },
+      {
+        "col": 13,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "종업원수"
+      },
+      {
+        "col": 14,
+        "color": {
+          "argb": "FFFFEB3B"
+        },
+        "val": "업종(NICE BizINFO(업종)참고)"
+      },
+      {
+        "col": 15,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "법인번호"
+      },
+      {
+        "col": 16,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "결산월"
+      },
+      {
+        "col": 17,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "업종_대"
+      },
+      {
+        "col": 18,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "업종_중"
+      },
+      {
+        "col": 19,
+        "color": {
+          "argb": "FF2C3E50"
+        },
+        "val": "업종_소"
+      }
+    ]
+  },
+  {
+    "rNum": 2,
+    "cells": [
+      {
+        "col": 13,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "1명"
+      },
+      {
+        "col": 14,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "산업디자인전문회사(환경디자인분야)"
+      },
+      {
+        "col": 16,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "12월"
+      }
+    ]
+  },
+  {
+    "rNum": 3,
+    "cells": [
+      {
+        "col": 11,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "http://www.mac1986.com"
+      }
+    ]
+  },
+  {
+    "rNum": 4,
+    "cells": [
+      {
+        "col": 14,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "출판"
+      }
+    ]
+  },
+  {
+    "rNum": 5,
+    "cells": [
+      {
+        "col": 14,
+        "color": {
+          "argb": "FFFFC000"
+        },
+        "val": "컴퓨터 프로그래밍 서비스업"
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Length: 16416
+Matches: 15
+3568700243 �ֽ�ȸ� �ν�
+6891701324 �ν�
+3342500911 �ν�
+2537300516 �Ʈ�߰�繫�
+8890403693 �̽�(Vegenice)
+

@@ -1,0 +1,31 @@
+The search for ""시드게임즈" "부산" OR "홍재영" OR "수영강변대로 140" 사업자등록번호 OR 비즈노" returned the following summary:
+부산광역시 해운대구 수영강변대로 140(우동, 부산문화콘텐츠컴플렉스) 소재의 '시드게임즈'에 관한 정보는 다음과 같습니다.
+
+*   **시드게임즈 관련 정보:**
+    *   **주소:** 부산광역시 해운대구 수영강변대로 140 부산문화콘텐츠컴플렉스 9층 BGC 908호[1]
+    *   **주요 활동:** 리듬게임 '벨로시티(VELUCITY)'[1][2] 및 VR 게임 등을 개발한 부산 소재 게임 개발사입니다[3][4]. 부산인디커넥트페스티벌(BIC) 등 인디 게임 행사에 참여한 기록이 있으며[4][5], 아텐츠게임아카데미 등 교육 기관과 산학 연계를 진행하기도 했습니다[3][6][7].
+    *   **문의:** 대표전화는 070-4048-1905이며, 공식 웹사이트(https://www.seedgames.co.kr/)가 운영되고 있습니다[1].
+
+*   **기타 참고사항:**
+    *   질문하신 '홍재영'이라는 이름은 시드게임즈와 관련하여 일부 자료(인터뷰 등)에서 송재영 님과 혼동되거나[5], 언론계 종사자 등 동명이인이 존재하므로[8], 특정 인물과의 연관성은 확인 시 주의가 필요합니다.
+    *   '수영강변대로 140'은 부산문화콘텐츠컴플렉스(BCC) 건물로, 시드게임즈 외에도 다양한 게임 및 콘텐츠 관련 기업과 기관이 입주해 있는 곳입니다[9][10][11][12][13]. 따라서 해당 주소로 검색되는 사업자등록번호는 입주 기업마다 다릅니다[9][14][15][16][11][12][13].
+
+구체적인 시드게임즈의 사업자등록번호 등 민감한 기업 정보는 공공 데이터포털이나 비즈노 등 기업 정보 검색 서비스를 통해 상호명으로 직접 조회하시기를 권장합니다.
+
+Sources:
+[1] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtcgffiDioCXZXjy33DvdSrFmewH5WO371q_jSTf8YfiVdP-z2PSjd2fkMbtTBC47J2GS4PSgMUgItPYe6Ovx3MQNbZWYvw8EHfL1cQkaMpD2CG0kKhygjbhdFGUkc7M2e6aG6PQSiqqlZedTFdw==)
+[2] [gametrics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiL0GhHDsyveCoGfpVg-HFkut8xa6mXNokdRap8_hKZODZ97_YvTBuzdIUzz279Fu11X4I6b-_Ed7h-9Yyca8mHdtqTdi4gZhdoNKk-RfkCldfMNI2609Nyb0OdkDVXKoerqjjdsXLztHV9AA=)
+[3] [thisisgame.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4pKjVNch4xbt75TC1fN35RI-HUlt3uFcIvG1YB70IyVnpXl-img3FZoGfF36K1y5toq7lO7jOB0nzJKw-T-Ps7b5m44ByS3GoaytC7J1vSp5vCUEMSVkO-OG-4c_OHQY=)
+[4] [nbntv.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMOqKbPIqyT06jqhWkbRA_v3uimToWSaj24H_sh7c4wYBvZBSqRjvpNwtUplfewKpD9sjTaqjLyWx7ErsXZNV9siEVazGkiba6FJnmWBF5S-GZtxtrbfN7LjS6szGBa_HkQgMEbjT7gtZ2FEk=)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfkPWGdQPafU6pCxPsqOXIlfQxuEOtyuTzNLjIAd-0qZDEGsyT5iz7AllC4U392ubYM4VVE7zJ8M3baVdfwVhHScs8MRD2TYmsOLYML-yHHRjhv1QRjgcaPXi7b39H2T8g)
+[6] [audioht.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDc3W3pTnju4bvdWuGXtRCqSclbCYdlQ8SbiVBV440wwo_YNPbGSGqCCzmpQR6g-FbPmevLRQ218t7ELcUmNe8qLpf406QBeSK3XhC5sC399yv_JiWHJLy5h94R4Q5de3IYd9B1hjyIdBv5JB40xy)
+[7] [dailysecu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7DR1yL-sK_5NTReqyF7yN_AwhVjkR20wFEDcvbimOgpPOS-i7t3D6hwOW0aoM4E6herJdke3m-kFjY1n86Ki26P4MrJD4-4F-UG1egyY0u0WmqcwUH1SCef_4FzOAKGLKrjOlD_T-dn4Y9Fxp-LktDY=)
+[8] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-jEPsmJUx49FeXFNgG9OU079DsIF168EoKuGYNpPJFeqNkxSW0flilu0H-_Ad2R48IFcpYDmWUoSfM9RC3jpdb-xmFqMqcbyN2VD8T74xp2-WfVJwhLQ01LnsDtCVfnzX_03dh-0=)
+[9] [bipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWx6h2EIJA43wti7fygY6aJA0ytO8FBRautBnzL4_gUjDGgSpv1nhrnvI60uzc_ebSHm4lw2JeIpjgBO1DRSt-pOLCqLLZtjj1yDRh84LHk0VVFdGCM9ajvLnJao8bvqTD2oXlmRMmTDrVzgHuVw2vXGyJnmwJ_URkzKliWGC9T6jFdNfmG-dMp8_OOEaGrtCfvZfg1wSNV_b0aBDi2WQ2QDoVqAdJubrs)
+[10] [cklbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxVbvNnUjv7znyVsA-XKqGdqxUBoZ7apizpDvgnRcU2nNlSXW1AG8nxA3pUiPdG_iLWg29u3NNBzVGq3meegQeTE6hWmyQ-DRVsT6wUgYXtDo7MBHh3cz7kAy7McLzKKW2cxY=)
+[11] [bicfest.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHno9_WMbHLs-gxbcQNTvFk3U68fMJA_vLnbZjmRg-iA9xKsI94CLhZUtvNwa64iO8OzppI-dSv3yGgxyM7zLccaOpQMO24GCVRYH95U3ZVABGgim3lDKIS6_rH7DlpVodlF1QD2JY=)
+[12] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQK57y7JSAYVurrrPkzhih-M54b1_RdsiBqPaq1Se6SEGWObbzlPbQvcYTwNtqAHwEEma9luefZvRG4D_N_M_mBXKrinV2WC02zLjO0SmHLFRp3xbzPIzgogL4DwvM1lmleg==)
+[13] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-2Cjb8bYU9gscGlZFvclIff9q5_sX3X1tM3VsY9lrG9PiG04uzgMqPOOVxnxdQyRYk2ydZjK5Uc5Y-YDTrKxNE616G51lTYCZJA6zEAqSdr3VwLLxNe9TVZ719ryGpOdgE3Q-ZYcXw0cSQE66Pj8YhrUGEkhSVBfNpwZJcliOKUWfjagPy74v50Ij4FFkibuNQDO3Yc6n3TmR02ghfV5D7XBznxn3xzH1yfFlSp65c5KhvZvhWmK06oR2LJsRkwZmHDgIAcMVj0ajFKEQyYxSfXTI)
+[14] [biva.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfbs75ym9_TJEkRPHj4I6De_7iHZwCbL68a7Za32Nxi_9EBr0BSe-PgUknAWh5nNanl9gkA717a-TWARWogUcWiXs9JRMDyMP3z4Ve6d0heLa0)
+[15] [contopia.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTSYq87gDkEQfwmN6h8DbsrDs0abNt1Wv2ma3kNMY5E_UsLfYtmvTCWIrVxjSdavxWtNE74C33mG2wFNCMn-ZhNzLcUoQJHWuEdxghrsiDIwcdZ2JH-D2RhfIWerzatqTfTIzl_hZojT6QZEG3wchoWQusxPaOoxn-NNmEaUbUkPeINaobq7M9cAcgDiuks5mHsNgKs-lwN_7Fxwcoy1n1d09neo_M4bPTcAby1Vct6d4ysxsG1MGe2kB6HP3aSYeIMYk=)
+[16] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDpzoOzV2dqxcNhZWvqm40Pcx5-TgVO1uFzCbHIYFscCfH335SQ_3cnIXqbnq1BORKIE6JHi7m0LCuzkKWESskpM7jWRUOauvOKA5HTHhBrWXf707lxbACE1Q=)

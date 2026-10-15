@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\add_hwaseung_corporation_data\brain_logs\scra
+    tch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-06   � 9:26           3533 audit_74.js                                                          
+-a----      2026-10-06   � 9:26            129 audit_74.js.metadata.json                                            
+-a----      2026-10-06   � 9:26          19029 check_74.tsv                                                         
+-a----      2026-10-06   � 9:26            110 check_74.tsv.metadata.json                                           
+-a----      2026-10-06   � 9:26           1182 prep_repo.js                                                         
+-a----      2026-10-06   � 9:26            115 prep_repo.js.metadata.json                                           
+
+
+

@@ -1,0 +1,291 @@
+### Result
+[
+  {
+    "tag": "FORM",
+    "id": "",
+    "name": "topSearchForm"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schType",
+    "placeholder": "",
+    "value": "simple"
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "schFld",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schStr",
+    "placeholder": "도서정보 통합검색",
+    "value": ""
+  },
+  {
+    "tag": "FORM",
+    "id": "",
+    "name": "topDetailSearchForm"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schType",
+    "placeholder": "",
+    "value": "detail"
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "f1",
+    "value": "title"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "v1",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "and1",
+    "value": "AND"
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "f2",
+    "value": "author"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "v2",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "and2",
+    "value": "AND"
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "f3",
+    "value": "publisher"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "v3",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "f5",
+    "value": "isbn"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "v5",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "v6",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "publish_predate_s",
+    "name": "v8s",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "publish_predate_e",
+    "name": "v8e",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "FORM",
+    "id": "loginFrmPub",
+    "name": "loginFrmPub"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schM",
+    "placeholder": "",
+    "value": "proc"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "loginType",
+    "placeholder": "",
+    "value": "pub"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "systemType",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "publishID",
+    "name": "identifier",
+    "placeholder": "아이디",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "publishPW",
+    "name": "password",
+    "placeholder": "비밀번호",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "publishBtn",
+    "name": "publishBtn",
+    "placeholder": "",
+    "value": "로그인"
+  },
+  {
+    "tag": "FORM",
+    "id": "loginFrmGov",
+    "name": "loginFrmGov"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schM",
+    "placeholder": "",
+    "value": "proc"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "loginType",
+    "placeholder": "",
+    "value": "gov"
+  },
+  {
+    "tag": "INPUT",
+    "id": "digitalID",
+    "name": "identifier",
+    "placeholder": "아이디(행정기관코드)",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "digitalPW",
+    "name": "password",
+    "placeholder": "비밀번호",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "digitalBtn",
+    "name": "digitalBtn",
+    "placeholder": "",
+    "value": "로그인"
+  },
+  {
+    "tag": "FORM",
+    "id": "loginFrmThesis",
+    "name": "loginFrmThesis"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "schM",
+    "placeholder": "",
+    "value": "proc"
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "loginType",
+    "placeholder": "",
+    "value": "thesis"
+  },
+  {
+    "tag": "INPUT",
+    "id": "thesisID",
+    "name": "identifier",
+    "placeholder": "아이디(행정기관코드)",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "thesisPW",
+    "name": "password",
+    "placeholder": "비밀번호",
+    "value": ""
+  },
+  {
+    "tag": "INPUT",
+    "id": "thesisBtn",
+    "name": "thesisBtn",
+    "placeholder": "",
+    "value": "로그인"
+  },
+  {
+    "tag": "INPUT",
+    "id": "pbInitNo1",
+    "name": "pbInitNo1",
+    "placeholder": "",
+    "value": "0"
+  },
+  {
+    "tag": "INPUT",
+    "id": "pbInitNo2",
+    "name": "pbInitNo2",
+    "placeholder": "",
+    "value": "0"
+  },
+  {
+    "tag": "INPUT",
+    "id": "pbInitNo3",
+    "name": "pbInitNo3",
+    "placeholder": "",
+    "value": "0"
+  },
+  {
+    "tag": "INPUT",
+    "id": "pbInitNo4",
+    "name": "pbInitNo4",
+    "placeholder": "",
+    "value": "0"
+  },
+  {
+    "tag": "INPUT",
+    "id": "pbInitNo5",
+    "name": "pbInitNo5",
+    "placeholder": "",
+    "value": "0"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'input, select, form\')).map(el => ({\n        tag: el.tagName,\n        id: el.id,\n        name: el.name,\n        placeholder: el.placeholder,\n        value: el.value\n    }));\n}');
+```

@@ -1,0 +1,27 @@
+
+The command exited with code 1.
+Output:
+�ġ �:5 �:55
++   console.log(html.match(/\/company-info\/view[^\"]+/g));
++                                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:5 �:56
++   console.log(html.match(/\/company-info\/view[^\"]+/g));
++                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:6 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:7 �:6
++ test();"
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:7 �:8
++ test();"
++        ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

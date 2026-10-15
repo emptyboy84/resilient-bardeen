@@ -1,0 +1,27 @@
+### Result
+[
+  {
+    "title": "\"superspirit@nate.com\"에 대한 AI 모드 대답",
+    "href": null
+  },
+  {
+    "title": "[Qoo10] WOOLILIWOO [韓国通信販売サンクッション部門1位] : UV ...",
+    "href": "https://www.google.com/goto?url=CAESWwHrOzAVVLxiKjVpLbDtrc0DNz2LgMehL2nz-jWWuZvMzT-yp9W_7c0dKuiA3kJYZxpH5aoDxmMnBwu8wUcr4LYONm0mp8meSUWnB7yLgo-mihpMwJ9eH17qfjw"
+  },
+  {
+    "title": "[Qoo10] Orthomol immun マルチビタミン&ミネラル 7 : サプリメント",
+    "href": "https://www.google.com/goto?url=CAESZgHrOzAVFQVPNIs3EsBRNXGgGkUOqp-6a52J7d8jb3TprYlj6Uh6BsJdy1KlV-w9hllDof3NpyE6ZtQzYXw0EnT-qW1vOPNnQjMtKmerQkQ3dR5FlATneEjnt9tjOIHGNucxLY6EHA"
+  },
+  {
+    "title": "[Qoo10] [ラリー]プロテインバー 58g 4種択 : ダイエット",
+    "href": "https://www.google.com/goto?url=CAESXAHrOzAVR1fM3xg8CjGhdCd_eeQ7Id3twGy2YGFt7QNNiZxttn9Op68r09XRDcF2Xl0Bn7-TiX-xUu6mLf80xkC5BPXUpIVCyv03UTwtYrD93COgoU1all1CKmXa"
+  },
+  {
+    "title": "[Qoo10] DANA KF94 マスク 3d立体マス : 日用品雑貨",
+    "href": "https://www.google.com/goto?url=CAESfQHrOzAVy0mxfJal6v7T9pqVV8RgPeK_pSYBeVV_95PF5GSnhoSqBhxnBBfBtsJOBRuwlM3dLQbndjsfg1OiDD_KcsfR8rKwIUid-xkynF4A5Pknf6WHzA3D7XBIk3FwTUZWdbo2jtJOveEQ6uLeYgKG-2oMcPdbkULvT0d9"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const h3s = Array.from(document.querySelectorAll(\'h3\'));\n  return h3s.map(h => {\n    const a = h.closest(\'a\');\n    return {\n      title: h.innerText,\n      href: a ? a.href : null\n    };\n  });\n}');
+```

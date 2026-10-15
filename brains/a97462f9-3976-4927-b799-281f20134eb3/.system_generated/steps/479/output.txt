@@ -1,0 +1,13 @@
+The search for ""20250331000812" OR "20260331000210" "마이비" "매출액" OR "영업수익"" returned the following summary:
+(주)마이비의 매출액 및 재무 정보는 다음과 같습니다.
+
+*   **2025년 매출액:** 약 833억 원 (영업이익 약 241억 원)[1]
+    *   참고: 일부 정보원에서는 2025년 재무 정보로 다른 수치가 언급되기도 하나[2], 기업 분석 서비스 등에서는 833억 원 규모로 확인됩니다[3][1].
+*   **2026년 기준 정보:** 최근 확인된 기업 정보에 따르면 (주)마이비의 매출액은 약 833억 4,821만 원으로 나타납니다[3].
+
+질문하신 특정 코드("20250331000812", "20260331000210")는 검색 결과상 직접적으로 대응하는 공시 문서 번호나 고유 식별자로 확인되지 않습니다[2][3]. 위 정보는 해당 연도의 기업 재무 데이터를 바탕으로 한 내용입니다.
+
+Sources:
+[1] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGei66cqhDjwtpTFONcsrLC143GuItwbMtf5gH4aAcEB0tFlxLEhYMTYUWsa9LNRY9CS1tSVQkLTFC7yzQfjzqWC3_16jWwY2CseUI4-HcVcUmYuZ2N5jbEyVT786wG8X2P-A==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcSFFlvKwuR1vfpFBdVgyrZxdsLTpCIcJkYQQuf0gFnQM5NDLaJw9zb0myfo-MkwqM8htPzUpN0JcnVOqUJUhpFqxDvlSH8bmX9yS69t2W8JQxfmnOjbVZoIR_sJjmQk43xYLQ9cQKdaDlGO2ZkznoMD85pxv776HbCBKHMtemNdMMaCGgfqTOsO6nAl2qdS9hAjLhsKy8)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKu_Gwog9OsZF2ZDEZlvjFLQ0iapITcAlPlvZytrilIb3r8vqvDSTijGx8lY0Db_TZcYakSxdaVmDwluP7mJl0buyYjEjH4jFmgSYL6WFzLOElZwrP--cP7hbRuY8ZPcx3jt2wNYfiomPaly6Fe0-2UIa4SsbXrbD23zgDO6V2BAs0SqPIiFmuwPGIqFrQyS4Tqn0C_P3ZXNmD5wtKZSAQp5NaIXNChzO9T4MvctwEBQX5DP7ySDeDRcILvBGPRjAj)

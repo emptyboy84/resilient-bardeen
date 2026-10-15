@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Total: 200
+Closed (폐업): 37
+With CorpNo (법인번호): 67
+Masked CEO (대표자 * 포함): 28
+With Zip (우편번호): 173
+

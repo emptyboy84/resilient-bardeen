@@ -1,0 +1,17 @@
+The search for ""신모라공단" 903호 OR ("모라동 75-8" 903호)" returned the following summary:
+요청하신 "신모라공단" 또는 "모라동 75-8" 소재지의 903호에 대한 검색 결과는 다음과 같습니다.
+
+검색된 공공 데이터 및 산업체 목록상에서 **'모라동 75-8(신모라공단/모라아파트형공장)'** 건물 내에 903호가 입주해 있다는 구체적인 정보는 확인되지 않습니다.
+
+*   **참고 사항:**
+    *   해당 주소지(부산 사상구 모라동 75-8 일대)는 '신모라공단' 또는 '모라아파트형공장'으로 불리며, 여러 업체가 입주해 있으나 주로 200호~800호대 위주의 사무실 및 공장이 등록되어 있습니다[1][2][3][4][5].
+    *   검색 결과 중 "903호"가 포함된 주소는 해당 지역이 아닌 다른 건물(예: 해운대구 센텀아이에스타워, 동구 천일고속빌딩 등)인 경우가 많습니다[1][5].
+
+특정 업체를 찾으시는 경우, 해당 호수에 입주한 기업명이 있거나 검색하시려는 목적을 알려주시면 추가 확인에 도움이 될 수 있습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6STpoq6V5Tx8nmcIdU8DyTdHgN5rnlNopNoGjnrxUJPdGu6UbEFr5PhhVmnuDHOlNnmeHRVnAuU5gXbFfjxPXYt_FrTTYUxRUHDaJ0luMBe8MuuTviHGAsj3PxIlVntMVisE=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0KkBYJfEipDVLMYgwU4wEN9EQbj-JQuQNSTlP0VnwCRPO77Xp4wF8MQl2BrRvYz5LG2-_yikaVEGwU9hQIWjF4BQ5xp_q5Wl7VS6yJkEBK8Sm)
+[3] [tipa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9uLqsvz9ukoZHPUCxTvCvO5_e_REGN0tQNPVBr6DEyBobcBmFNIXSJ2FboV1jrh3FTa3Ph6ZvWZturfuFnxHHYaAytk_1289OJNhdf77y3_EuCX0ZML8ADZEZenNHyWHD)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvixtmWHOTh0Axym32nuZ0Zv0EfOnXObDiVzXfvoAezk9OtIRLE0FMNixPhtK2g5QmQL7bs1CHncJl2lY7hjg2ddN7co_-uMcp-uIQkSupdJdAew==)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl5PyfW7js1-Vosh8TtRVXLv1Ih6eLieKrTy1sIIvl_qQXXBvbIU_7Vw9ydyQLQ93Eniw1brehTWVcKxTPBj70Yi9O1ePDljbbuEILDZ90mbFhWA==)

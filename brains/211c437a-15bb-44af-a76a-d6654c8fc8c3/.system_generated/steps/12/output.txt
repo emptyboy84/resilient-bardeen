@@ -1,0 +1,72 @@
+
+The command exited with code 0.
+Output:
+
+
+Enabled      : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Precisio
+               nTouchPad\Status
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Precisio
+               nTouchPad
+PSChildName  : Status
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+AAPThreshold                  : 2
+CursorSpeed                   : 16
+EnableEdgy                    : 4294967295
+LeaveOnWithMouse              : 4294967295
+PanEnabled                    : 4294967295
+RightClickZoneEnabled         : 4294967295
+ScrollDirection               : 4294967295
+TapAndDrag                    : 4294967295
+TapsEnabled                   : 4294967295
+TwoFingerTapEnabled           : 4294967295
+ZoomEnabled                   : 4294967295
+HonorMouseAccelSetting        : 0
+FeedbackIntensity             : 50
+FeedbackEnabled               : 4294967295
+ClickForceSensitivity         : 50
+RightClickZoneWidth           : 0
+RightClickZoneHeight          : 0
+ThreeFingerTapEnabled         : 1
+ThreeFingerSlideEnabled       : 1
+FourFingerTapEnabled          : 2
+FourFingerSlideEnabled        : 2
+CustomThreeFingerTap          : 1
+CustomThreeFingerTapKeyParams : 0
+CustomFourFingerTap           : 2
+CustomFourFingerTapKeyParams  : 0
+ThreeFingerLeft               : 1
+ThreeFingerLeftKeyParams      : 0
+ThreeFingerUp                 : 2
+ThreeFingerUpKeyParams        : 0
+ThreeFingerRight              : 1
+ThreeFingerRightKeyParams     : 0
+ThreeFingerDown               : 3
+ThreeFingerDownKeyParams      : 0
+FourFingerLeft                : 4
+FourFingerLeftKeyParams       : 0
+FourFingerUp                  : 2
+FourFingerUpKeyParams         : 0
+FourFingerRight               : 4
+FourFingerRightKeyParams      : 0
+FourFingerDown                : 3
+FourFingerDownKeyParams       : 0
+EdgeAutoPanningEnabled        : 1
+BoostedPanningEnabled         : 4294967295
+PanSensitivity                : 50
+ZoomSensitivity               : 50
+SingleFingerPanningMode       : 2
+PressureAutoPanningEnabled    : 1
+PSPath                        : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curren
+                                tVersion\PrecisionTouchPad
+PSParentPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curren
+                                tVersion
+PSChildName                   : PrecisionTouchPad
+PSDrive                       : HKCU
+PSProvider                    : Microsoft.PowerShell.Core\Registry
+
+
+
+

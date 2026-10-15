@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+__NUXT__={};window.__NUXT__.config={public:{nodeEnv:"production",runEnv:"production",Amchart5License:"AM5C308726256",naverClientId:"VeuYSOk0t4dx2QfvY2PE",naverRedirectUri:"https://m.nicebizinfo.com/cm/CM0200M011GE.nice",adsbyNiceUrl:"https://image.nicebizline.com/adsbynice/adsbynice.js",oneClickUri:"https://m.one-click.co.kr",serverUri:"https://m.nicebizinfo.com",homeTaxUri:"https://m.one-click.co.kr",secretKey:"EOyJJlKhWKAwEieaCt7d5ogSTBNNuC7hrkg89A3xOqUhjdmOG8gQrZgmgmu4Xkg8",contentsHidden:"true",disableIpin:"true",appUrl:"https://m.nicebizinfo.com",piniaPluginPersistedstate:{cookieOptions:{sameSite:"strict"}}},app:{baseURL:"/",buildId:"c863eacb-ce88-485a-b7ac-b348fb8a5ccd",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script>
+

@@ -1,0 +1,54 @@
+
+The command exited with code 0.
+Output:
+### Result
+[
+  {
+    "tag": "INPUT",
+    "id": "mf_w2xPath",
+    "name": "w2xPath",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_linkParam",
+    "name": "linkParam",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_merchantNo",
+    "name": "merchantNo",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "mf_mallId",
+    "name": "mallId",
+    "placeholder": "",
+    "className": "w2input ",
+    "value": "",
+    "type": "hidden"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552879",
+    "name": "",
+    "placeholder": "",
+    "className": "META_INFO",
+    "value": "결함등록",
+    "type": "button"
+  },
+  {
+    "tag": "INPUT",
+    "id": "btn_meta_info1791341552876",
+

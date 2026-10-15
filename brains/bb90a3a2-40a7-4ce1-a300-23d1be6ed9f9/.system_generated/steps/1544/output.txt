@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+=== Query: 0507-1357-7719 ===
+Phones in Daum: [ '0507-1357-7719' ]
+[7719]: .net%2Fsearch%3Fw%3Dtot%26q%3D0507-1357-7719"); 
+=== Query: 050713577719 ===
+Phones in Daum: []
+[7719]: um.net%2Fsearch%3Fw%3Dtot%26q%3D050713577719"); 
+=== Query: 에이치에스렌텍 ===
+Phones in Daum: []
+=== Query: HS렌텍 ===
+Phones in Daum: []
+=== Query: 센텀스카이비즈 2908호 ===
+Phones in Daum: []
+[2908]: %25B4%25EB%25B9%2584%25EC%25A6%2588%25202908%25ED%2598%25B8"); 
+=== Query: 센텀스카이비즈 A-2908호 ===
+Phones in Daum: []
+[2908]: 5B4%25EB%25B9%2584%25EC%25A6%2588%2520A-2908%25ED%2598%25B8"); 
+

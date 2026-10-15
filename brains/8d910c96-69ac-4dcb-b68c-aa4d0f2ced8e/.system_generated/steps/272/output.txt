@@ -1,0 +1,55 @@
+
+The command exited with code 0.
+Output:
+<table class="content" summary="출판사인쇄사의 상호, 등록신고번호, 자료, 영업구분 세부내용보기 페이지입니다." >
+						<caption style="display:none">출판사인쇄사 - 내용보기</caption>
+						<colgroup>
+						<col style="width:20%" />
+						<col style="width:30%" />
+						<col style="width:20%" />
+						<col />
+						</colgroup>	
+						
+						<tbody>
+						<tr>
+						<th class="bg" scope="row">���호</th>
+						<td colspan="3" class="al">작은통일</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">등록신고번호</th>
+						<td class="al">251002015000001</td>
+						<th class="bg" scope="row">지역</th>
+						<td class="al">부산광역시 강서구</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">자료구분</th>
+						<td class="al">출판사</td>
+						<th class="bg" scope="row">등록번호</th>
+						<td class="al">251002015000001</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">등록일자</th>
+						<td class="al">2015-01-02</td>
+						<th class="bg" scope="row">등록청</th>
+						<td class="al"> </td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">소재지</th>
+						<td class="al" colspan="3">부산광역시 강서구</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">변경등록 사항</th>
+						<td class="al"></td>
+						<th class="bg" scope="row">폐업일자</th>
+						<td class="al">
+												</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">영업구분</th>
+						<td class="al">영업</td>
+						<th class="bg" scope="row">일자</th>
+						<td class="al"></td>
+						</tr>
+						</tbody>
+						</table>
+

@@ -1,0 +1,118 @@
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchList.php?search_area=6260000&search_state=13&search_kind=&search_type=1&search_word=%EC%84%9C%EB%A6%BC&x=43&y=34
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+### Snapshot
+```yaml
+- generic [ref=f279e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link "본문 바로가기" [ref=f279e3] [cursor=pointer]:
+          - /url: "#content"
+  - generic [ref=f279e4]:
+    - heading [level=1] [ref=f279e5]:
+      - link [ref=f279e6] [cursor=pointer]:
+        - /url: main.php
+        - img "출판사/인쇄사 검색시스템" [ref=f279e7]
+    - list [ref=f279e8]:
+      - listitem [ref=f279e9]:
+        - link "HOME" [ref=f279e10] [cursor=pointer]:
+          - /url: /html/main.php
+  - generic [ref=f279e11]:
+    - generic [ref=f279e12]:
+      - generic:
+        - paragraph [ref=f279e13]: 전국 출판사/인쇄사 검색 시스템입니다. 전국 또는 지역별로 등록현황을 검색할 수 있습니다.
+        - generic [ref=f279e14]:
+          - combobox [ref=f279e16]:
+            - option "지역 선택"
+            - option "-전체-"
+            - option "서울특별시"
+            - option "경기도"
+            - option "인천광역시"
+            - option "강원특별자치도"
+            - option "부산광역시" [selected]
+            - option "대구광역시"
+            - option "충청북도"
+            - option "충청남도"
+            - option "세종시"
+            - option "대전광역시"
+            - option "전남광주통합특별시"
+            - option "전북특별자치도"
+            - option "경상북도"
+            - option "경상남도"
+            - option "울산광역시"
+            - option "제주도"
+          - combobox "영업유무를 선택하세요" [ref=f279e18]:
+            - option "전체" [selected]
+            - option "영업"
+            - option "폐업"
+          - combobox [ref=f279e20]:
+            - option "업종구분" [selected]
+            - option "출판사"
+            - option "인쇄사"
+          - combobox [ref=f279e22]:
+            - option "항목"
+            - option "상호" [selected]
+            - option "주소"
+          - textbox [ref=f279e23]: 서림
+          - button "검색" [ref=f279e24] [cursor=pointer]
+    - img "출판사/인쇄사 검색시스템" [ref=f279e26]
+    - generic [ref=f279e27]:
+      - heading "부산광역시" [level=3] [ref=f279e28]
+      - generic [ref=f279e29]:
+        - list:
+          - listitem [ref=f279e30]:
+            - text: "등록업체수 :"
+            - strong [ref=f279e31]: 5 개
+          - listitem [ref=f279e32]:
+            - text: "페이지수 :"
+            - strong [ref=f279e33]: "1"
+      - table "지역별- 목록" [ref=f279e34]:
+        - rowgroup [ref=f279e40]:
+          - row [ref=f279e41]:
+            - columnheader "등록구분" [ref=f279e42]
+            - columnheader "상호" [ref=f279e43]
+            - columnheader "주소" [ref=f279e44]
+            - columnheader "영업구분" [ref=f279e45]
+        - rowgroup [ref=f279e46]:
+          - row [ref=f279e47]:
+            - cell "출판사" [ref=f279e48]
+            - cell [ref=f279e49]:
+              - link "도서출판 서림" [ref=f279e50] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=서림&search_state=13&regn=251002020000001&ac1=6260000&ac2=3260000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 서구" [ref=f279e51]
+            - cell "영업" [ref=f279e52]
+          - row [ref=f279e53]:
+            - cell "출판사" [ref=f279e54]
+            - cell [ref=f279e55]:
+              - link "서림출판사" [ref=f279e56] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=서림&search_state=13&regn=251001998000002&ac1=6260000&ac2=3350000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 금정구" [ref=f279e57]
+            - cell "영업" [ref=f279e58]
+          - row [ref=f279e59]:
+            - cell "출판사" [ref=f279e60]
+            - cell [ref=f279e61]:
+              - link "도서출판 서림" [ref=f279e62] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=서림&search_state=13&regn=251002001000011&ac1=6260000&ac2=3250000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 서구" [ref=f279e63]
+            - cell "전출" [ref=f279e64]
+          - row [ref=f279e65]:
+            - cell "출판사" [ref=f279e66]
+            - cell [ref=f279e67]:
+              - link "호원서림" [ref=f279e68] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=서림&search_state=13&regn=251002015000001&ac1=6260000&ac2=3340000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 사상구" [ref=f279e69]
+            - cell "전출" [ref=f279e70]
+          - row [ref=f279e71]:
+            - cell "출판사" [ref=f279e72]
+            - cell [ref=f279e73]:
+              - link "도서출판 명문서림" [ref=f279e74] [cursor=pointer]:
+                - /url: searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=서림&search_state=13&regn=251002007000002&ac1=6260000&ac2=3290000&area_code=6260000&area_code2=&page_type=&cpage=1
+            - cell "부산광역시 부산진구" [ref=f279e75]
+            - cell "영업" [ref=f279e76]
+      - generic [ref=f279e77]: "1"
+  - generic [ref=f279e81]:
+    - text: "출판사, 인쇄사 관련 문의 : 해당 지자체 문화예술과"
+    - generic [ref=f279e82]: 문화체육관광부 (우)30119 세종특별자치시 갈매로 388 정부세종청사 15동
+    - paragraph [ref=f279e83]: Copyright ⓒ Ministry of Culture, Sports and Tourism
+```

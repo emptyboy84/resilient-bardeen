@@ -1,0 +1,9 @@
+The search for "site:petabrew.com OR ("페타브루" "TEL" OR "전화" OR "051" OR "070" OR "010")" returned the following summary:
+죄송합니다. 요청하신 조건(`site:petabrew.com` 또는 `"페타브루"`와 연락처 정보 조합)에 정확히 부합하는 공개 웹페이지 문서나 상세 연락처(전화번호 등) 데이터베이스를 현재 검색 결과에서 찾을 수 없습니다. 
+
+주식회사 페타브루(PETABREW)는 2021년에 설립된 고주파 레이더 및 지능형 센서 기술 전문 기업(부산 소재)으로 알려져 있으나[1][2], 공식 웹사이트의 상세 주소 및 전화번호 정보는 공개된 검색 인덱스 내에 구체적으로 노출되어 있지 않습니다[3]. 관련 문의나 공식 정보 확인은 기업 비즈니스 플랫폼이나 공식 채널을 통해 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFljE8J_UMKGRlovzWixSBDZskChQtw_p796dqMpkYo3tn31RO4oG2ZcXezKktc7TPo1TYnT-Xqet9eUQ4rkL1LoRSAYVKJxNJwWCFPVEmy)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjABgs0dyGruFAwHKznDjtZ7767DFvNTsdbROougRF6B5pL98lBjKfoHxohsn2zlwpkY1IMWQVary8D87FhXwCkB1H6J7-4oL5epxultDDGFKn_eEfLrc_RMb_sS8xo5AxBs65Am4x-pSTfhc0WlnmhDD4kz_q840JeOc=)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx30PqCvX5m0e_QXX_hltH7n3lf9xi05pgLkDq1wo93e1EXZ9yHAxX9q9oWHKM4nyarpysUIK3AOy4ZC19RI_DFk_Be_l1mYorzQ==)

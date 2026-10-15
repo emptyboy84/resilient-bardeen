@@ -1,0 +1,12 @@
+### Result
+"본문 바로가기\n주 메뉴 바로가기\n네이버지도\n지도 홈\n길찾기\n버스\n지하철\n기차\nnew\n저장\n더보기\n사용자 링크\n로그인\n서비스 더보기\n100m\n검색\n네이버지도 검색\n패널 접기\n일반지도\n위성지도\n지형지도\n테마\n저장\n지적편집도\n거리뷰\n반경측정\n면적측정\n거리측정\n접속위치\n확대\n축소"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.body ? document.body.innerText.substring(0, 1000) : \'\';\n}');
+```
+### Page
+- Page URL: https://map.naver.com/p/entry/place/2033734187?placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609181030%26locale%3Dko%26svcName%3Dmap_pcv5&c=15.00,0,0,0,dh
+- Page Title: 르모먼트 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T01-30-56-051Z.log#L1-L4

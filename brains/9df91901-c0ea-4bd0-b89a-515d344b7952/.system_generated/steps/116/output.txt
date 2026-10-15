@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+Scripts: [
+  '/seoji/include/js/jquery-1.12.4.min.js',
+  '/seoji/include/js/jquery-ui.min.js',
+  '/seoji/include/js/jquery.ui.datepicker-ko.js',
+  '/seoji/include/js/jquery.slider.js',
+  '/seoji/include/js/jquery.tab.js',
+  '/seoji/include/js/swiper.min.js',
+  '/seoji/include/js/gnb.js',
+  '/seoji/include/js/common.js',
+  '/seoji/include/js/search.js',
+  '/kobids/resource/bootstrap/js/bootstrap.min.js',
+  '/seoji/include/js/sessionTimeoutCheck.js',
+  'https://ds.nl.go.kr/js/nlogger.js'
+]
+

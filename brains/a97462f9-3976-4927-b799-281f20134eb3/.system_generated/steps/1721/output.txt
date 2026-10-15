@@ -1,0 +1,11 @@
+### Result
+[
+  {
+    "text": "통신판매사업자조회 (일반이용고객)",
+    "href": "https://www.ftc.go.kr/www/selectBizCommList.do?key=253&token=618DE498-4FB0-CBAC-1598-F8C02F8D39082020C1C9238728F5F919147026F720D0"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.filter(a => a.innerText.includes(\'통신판매사업자조회\') || a.innerText.includes(\'일반이용고객\')).map(a => ({ text: a.innerText, href: a.href }));\n}');
+```

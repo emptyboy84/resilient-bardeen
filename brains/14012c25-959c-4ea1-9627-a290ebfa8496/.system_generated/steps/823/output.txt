@@ -1,0 +1,13 @@
+The search for "site:saramin.co.kr "보보스유"" returned the following summary:
+사람인(saramin.co.kr)에 등록된 **(주)보보스유** 기업 정보 및 채용 관련 요약입니다[1].
+
+* **기업 형태 및 업종:** 중소기업, 광고 대행업[1]
+* **주요 서비스 내용:** 사람인 기업 페이지에서 기업 소개, 채용 공고, 연봉 정보, 직무 리포트 및 재무 정보 등을 제공하고 있습니다[1]. 
+* **재무 정보:** 사람인 재무 정보 기준, 매출액 등이 공시되어 있습니다[2].
+* **채용 현황:** 현재 진행 중인 채용 공고나 최근 마감된 공고 이력은 사람인 해당 기업 페이지(채용 탭)에서 실시간으로 확인할 수 있습니다[1].
+
+자세한 구체적 연봉, 재무제표 수치, 진행 중인 공고 세부 내용은 사람인 공식 웹사이트의 [(주)보보스유 기업 정보 페이지](https://m.saramin.co.kr/job-search/company-info-view/recruit?csn=cFZaVTJyeHF3emlUV09Xa2ZrRUlOZz09)에서 직접 확인하실 수 있습니다[1].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0O7T3atDRgdlsSAn7EbrsaOVMwscY5yyL6q5q-ygEjQ1FPhYZVu_S9QSas6f5T-PZFJlYG9bBsPNVSa8kiM6htbWJ8OFu1PzaqJlM3z21IJUNJ7gilKU9kfzTKMgv9RliU19rTNVCEo09DBS5Tq-MPEU56KLGWhhMj_eUbSrTpGS644AjSp0qw8-NPeCLe3yEJQY981ylyQQWy4RzwfsdmT3m9WjiWx5L90rF)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESCmFc719W9i-QlU1x_qniqiEGORttNaJMrPpKFAERhfVQR1mZ4SNhnfzkUh530cQhF6vp-dzK-Bm62oSI0yPlCMEmhoLKqw7OG-ORsbtaoxRquSu74egrNXTLQ_hQt7EF9jZ_Xc60dBPMMGBhSglTxRXSXcwBO68oRUV4BJMbip_2um_X87hJzo30C0QC6TYJDZldvsFtuzA00L0Ci8ogE6RAJfdJwnJUCreM)

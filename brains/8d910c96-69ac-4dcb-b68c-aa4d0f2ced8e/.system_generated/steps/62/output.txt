@@ -1,0 +1,138 @@
+
+The command exited with code 0.
+Output:
+USER: <USER_REQUEST>
+여기까지했다
+폐업	주식회사 룩스텍	5131909625	김길연	39263			054-464-1173	http://www.luxtec.kr		2	일반용 전기
+USER: <USER_REQUEST>
+회사명	사업자번호	대표자	우편번호	주소	전화번호	팩스번호	홈페이지	이메일	종업원수	업종(NICE BizINFO(업종)참고	법인번호	결산월	업종_대	업종_
+USER: <USER_REQUEST>
+배현명		대신	5170900200	문*훈		부산광역시 사하구 장평로 204 (장림동)					5	기타 신발 제조업					
+배현명		라리트레이딩	517
+USER: <USER_REQUEST>
+"C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx" 접근해바라
+</USER_REQUEST>
+<
+USER: <USER_REQUEST>
+회사명	사업자번호	대표자	우편번호	주소	전화번호	팩스번호	홈페이지	이메일	종업원수	업종(NICE BizINFO(업종)참고	법인번호	결산월	업종_대	업종_
+USER: <USER_REQUEST>
+D진행시켜
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-08-31T12:
+USER: <USER_REQUEST>
+추가 수정한건 주황색으로 칠해줘
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 20
+USER: <USER_REQUEST>
+거기서 보면 업종(NICE BizINFO(업종)참고열은 나이스비즈인포사이트에서 산업명과 산업분류가져오는데 사업자등록번호로 해서 없으면 회사명으로 해바도 
+USER: <USER_REQUEST>
+주소fact잔화번호fact faxfact 메일fact 홈페이지fact 카카오맵 네이버지도 머니핀 나이스비즈인포 
+factcheck 500행
+</USER_
+USER: <USER_REQUEST>
+우편번호도fact
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-01
+USER: <USER_REQUEST>
+양 법인번호 194211-0355017
+이런거는어디서보냐
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current lo
+USER: <USER_REQUEST>
+195511-0133755 회사에서 상사가 이거 우째 찾얐냐고 물어본다면
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The 
+USER: <USER_REQUEST>
+2143140002756
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026
+USER: <USER_REQUEST>
+출처를 상사가물어본다면
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09
+USER: <USER_REQUEST>
+195511-0181481 구체적으로 스텝바이스텝으로
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current loc
+USER: <USER_REQUEST>
+배현명		(주)화승알앤에이	5263300927	김형진	50592	경상남도 양산시 충렬로 61(교동)(주)화승알앤에이	055-370-3261					그 외
+USER: <USER_REQUEST>
+agent.md할루시네이션룰 출력해바
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is:
+USER: <USER_REQUEST>
+회사명	사업자번호	대표자	우편번호	주소	전화번호	팩스번호	홈페이지	이메일	종업원수	업종(NICE BizINFO(업종)참고	법인번호	결산월	업종_대	업종_
+USER: <USER_REQUEST>
+법인번호만바라
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-01T1
+USER: <USER_REQUEST>
+	
+	
+180111-0998287	12월
+160111-0583272	12월
+194211-0365040	12월
+	
+195511-0270862	1
+USER: <USER_REQUEST>
+배현명	폐업	삼원크린택	5178101942	이균현	50568		 				3	기타 직물제품 제조업			제조업	섬유제품 제조업; 의복 제외	직물 직조 및 직
+USER: <USER_REQUEST>
+야 결산월우째찾는다햇노
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09
+USER: <USER_REQUEST>
+배현명		한성테크	5271901049	구인회	51570	경남 창원시 성산구 연덕로 42 (웅남동, 한국공작기계)						그 외 기타 일반목적용 기계 제
+USER: <USER_REQUEST>
+어제하던건 사람수만 다시 비즈노에서만 가져와바 500개
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current loca
+USER: <USER_REQUEST>
+2849510006978 가이드
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 
+USER: <USER_REQUEST>
+직접해바 브라우저띠어서
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09
+USER: <USER_REQUEST>
+171311-0050183 사이트어디? URL전체주소라도
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current l
+USER: <USER_REQUEST>
+이런식으로 기존정보로 추록하는게 정확하나
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time i
+USER: <USER_REQUEST>
+배현명		지야촬영업	5332501273	신동수		부산광역시 해운대구 센텀중앙로 90 (재송동) 큐비이센텀 B301호					0	비주거용 건물 임대업			
+USER: <USER_REQUEST>
+집에서보게 이번주에한거다커밋해
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 202
+USER: <USER_REQUEST>
+브레인은 커밋안하노 채팅창에친건는
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2
+

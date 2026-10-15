@@ -1,0 +1,20 @@
+The search for ""ftc.go.kr" "통신판매사업자" "bizCommPop.do" OR "wrkr_no"" returned the following summary:
+이 검색어는 **공정거래위원회(FTC)의 통신판매사업자 정보 조회 팝업 페이지 URL 및 연동 방식**과 관련된 검색어입니다[1][2].
+
+### 주요 내용 및 활용 목적
+
+1. **URL 구조**:
+   * `http://www.ftc.go.kr/bizCommPop.do?wrkr_no=사업자등록번호(숫자만)`[3]
+   * 전자상거래법에 따라 온라인 쇼핑몰 하단 등에 반드시 표기해야 하는 **'사업자 정보 확인' 링크(공정위 통신판매업 신고 팝업)**를 호출할 때 사용하는 공식 주소입니다[1][3][4].
+
+2. **파라미터 (`wrkr_no`)**:
+   * `wrkr_no` 뒤에 하이픈(-)을 제외한 **사업자등록번호 10자리 숫자**를 입력하면[3], 해당 사업자의 통신판매업 신고 정보(상호, 대표자, 주소, 연락처, 신고기관 등)가 공정거래위원회 서버를 통해 팝업창으로 조회됩니다[1][2].
+
+3. **쇼핑몰 제작 및 적용 시**:
+   * 카페24, 아임웹, 영카트 등 각종 웹 호스팅 및 쇼핑몰 솔루션에서 하단 푸터(Footer) 영역에 공정위 사업자 정보 확인 링크를 연동할 때 이 주소와 소스 코드(`window.open` 또는 `<a>` 태그)가 활용됩니다[3][2][4].
+
+Sources:
+[1] [ftc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH62KH3o-3WvOTSfuXv_SaUFcoefwkZLjqcxUiynAnTQ4vBo0In4I_RBm3YLSmJzAhlkCLagOZ5BL5gSMkcQaBQBB12gY_9jJBvldolujgOgXeJKTvEMlX8wJ99oSmGxqGu0vOdLSu5dBox22Q=)
+[2] [ppcle.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsqqmIdQGV7WAWFcqSTlNVXDo9_-snezPBQxwoI0JSr6Rtnu7_hfNREie-PqZDVg1lgBpsu8vvqxP32bOkOonxVVfLXwzoG4mmLwv96wpFFJDL__9pjXU65inmrXLb6p047SS2xF4)
+[3] [imweb.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFID8lev4z4OVuc0k1ZSLJCVQjuW8tQtRAFSrALU98IIfngDd-H13KXxbPWPimXe_2WP6IQ3Iv5HtWKX44Z1W_-9sqGV7d16bkyI1ZyB-yKUAy9x6RVuRe7hmHOhYW-Z2Gv1miIady9QtiJecZ6YBzeHFpHbr9IC1c=)
+[4] [batns.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuUsv8dKmt9kps5RzzjqJmWNbsyB4RSuH4G6K7QS1AtiC6rzjjS29yG9sd82YFlb31AEjQJ3rIevx9o35Mdbi5H4DAudpeU_vNpkRoTknfFDozUYTULK-zqFUwo8pvJEp9ZUzqrg==)

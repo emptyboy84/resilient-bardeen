@@ -1,0 +1,34 @@
+
+The command exited with code 1.
+Output:
+# ?� ?�체 ?�??기록 (Chat History)
+
+> **?�??ID**: `3354f22b-b614-45f2-8e83-9015bbd2e6f8`  
+> **?�업 ?�로?�트**: `resilient-bardeen / niceBizinfo`  
+
+---
+
+### ?� USER (질문/?�청 #1)
+
+바탕?�면???�??�일2�??�는�??�근?�바
+
+<ADDITIONAL_METADATA>
+The current local time is: 2026-07-23T02:28:00+09:00.
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from None to Gemini 3.6 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>
+
+---
+
+### ?� ANTIGRAVITY (?�?/?�행 ?�용)
+
+Created At: 2026-07-23T02:28:04+09:00
+Completed At: 2026-07-23T02:28:04+09:00
+{"name":"(?�이?�?증�?)?�사 DB 취합_?�달??260720.xlsx","sizeBytes":"2719395"}
+{"name":"(?�이?�?증�?)?�사 DB 취합_?�달??260720_배현�?xlsx","sizeBytes":"2829352"}
+{"name":"Antigravity IDE.lnk","sizeBytes":"1507"}
+{"name":"Antigravity.lnk","sizeBytes":"2483"}
+{"name":"Excel.lnk","sizeBytes":"2369"}
+{"name":"Google Chrome.lnk","sizeBytes":"2258"}
+

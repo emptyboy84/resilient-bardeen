@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total corp numbers or corp entities found: 0
+200개 전체 기업 모두 개인사업자이며 법인번호는 1건도 없습니다.
+

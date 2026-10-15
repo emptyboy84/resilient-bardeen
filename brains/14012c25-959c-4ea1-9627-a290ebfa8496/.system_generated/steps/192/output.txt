@@ -1,0 +1,16 @@
+The search for ""824-81-02418" OR ("플랜티에이아이디" 구영훈)" returned the following summary:
+검색하신 정보와 일치하는 기업 정보는 다음과 같습니다.
+
+* **기업명:** 주식회사 플랜티에이아이디 ((주)플랜티에이아이디)[1]
+* **대표자:** 구영훈[2]
+* **사업자등록번호:** 824-81-02418[1]
+* **설립일:** 2021년 12월 9일[2]
+* **소재지:** 부산광역시 해운대구 센텀중앙로 97[1]
+* **업종:** 디자인업 (인테리어 디자인, 패션·섬유류 및 기타 전문 디자인업 등)[3][4]
+* **기업 형태:** 법인사업자 (소기업·중소기업)[2][1]
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPIcOaLUDRVmuEdRTWvLfHDrPyL6D6SiCWciwiNtEu-fLZg3R-IBJ6jGkagGCqC-9ARSaI7gGVYe6_NzMxpzLr1B7HRbYHL9gQHdnZtz1FzXebv0Gq6ysA5ZSgdpJGOyolcw==)
+[2] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAcTuq3N8ejYbNPJyrbwGLI-Ufankpk7GbAuZrtfLhUa-_QqXuIuLm816SU5nJQ6sZCvbTaU1ywqPQtjZ4EJ_Jn1FmKZ4OfUub8a6XKZZ0cGMqv0P7ix7Br1n_QAIsRloYH_EiR_dF8CrVeZ7V9t06EyRNSKoiH9gEywwrLeRnLYqAW71cgheQbDIghU_lVbVdsZ-Yo78BFT0i3IOwO32tdjvOs14fZG6pc17iGRM=)
+[3] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYdBpo_JKVljhXIaFnN8LG0Jah-ZDo7az0TpUtO5VF4kS04VEpvxxQ4--jcenTJxyhtoIBAYtxI1QKEXHBZn3Zafed0Y9rXEKfzwC0EdT75EIsxZTB06HDF_rN0pMKG7rrZWQe)
+[4] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjiPA2o8wiCPPlqQ3DxS1Hn2iZdRPCxrovGk6HXqXkv_FMpew23P5S9d3dvDPpyLi7CzFvbDOwczZoBsZyeczrHq4MyneHyGCiJbTNcXgOgqAOUiwX9-srE8FaTnNrH4=)

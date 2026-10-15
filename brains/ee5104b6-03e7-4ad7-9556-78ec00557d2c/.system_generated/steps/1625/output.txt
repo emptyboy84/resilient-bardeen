@@ -1,0 +1,8 @@
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.tsv","LineNumber":445,"LineContent":"배현명\t\t코스코스\t5563100754\t이수정\t18123\t경기도 오산시 대호로71번길 22-1, 804호\t\t\t\t\t1\t전자상거래 소매업\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_factchecked.tsv","LineNumber":445,"LineContent":"배현명\t\t코스코스\t5563100754\t이수정\t18123\t경기도 오산시 대호로71번길 22-1, 804호\t\t\t\t\t1\t전자상거래 소매업\t\t\t도매 및 소매업\t소매업; 자동차 제외\t무점포 소매업"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.csv","LineNumber":446,"LineContent":"배현명,,코스코스,5563100754,,18123,\"경기도 오산시 대호로71번길 22-1, 804호\",,,,,1,,,,,,"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_verified.tsv","LineNumber":445,"LineContent":"배현명\t\t코스코스\t5563100754\t이수정\t18123\t경기도 오산시 대호로71번길 22-1, 804호\t\t\t\t\t1\t전자상거래 소매업\t\t\t도매 및 소매업\t소매업; 자동차 제외\t무점포 소매업"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\merged_500_perfect.tsv","LineNumber":445,"LineContent":"배현명\t\t코스코스\t5563100754\t이수정\t18123\t경기도 오산시 대호로71번길 22-1, 804호\t\t\t\t\t1\t전자상거래 소매업\t\t\t도매 및 소매업\t소매업; 자동차 제외\t무점포 소매업"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.tsv","LineNumber":445,"LineContent":"배현명\t\t코스코스\t5563100754\t이수정\t18123\t경기도 오산시 대호로71번길 22-1, 804호\t\t\t\t\t1\t전자상거래 소매업\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.csv","LineNumber":446,"LineContent":"배현명,,코스코스,5563100754,이수정,18123,\"경기도 오산시 대호로71번길 22-1, 804호\",,,,,1,전자상거래 소매업,,,,,"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\current_pasted_batch.tsv","LineNumber":448,"LineContent":"배현명\t\t코스코스\t5563100754\t\t\t\t\t\t\t\t1\t전자상거래 소매업\t\t\t\t\t"}

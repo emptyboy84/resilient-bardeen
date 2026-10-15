@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+Get-Process : �μ� �ĺ�ڰ� 25652� �μ� ã� � �ϴ�.
+�ġ �:1 �:1
++ Get-Process -Id 25652 | Select-Object Id, ProcessName, Responding, Wo ...
++ ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (25652:Int32) [Get-Process], ProcessCommandException
+    + FullyQualifiedErrorId : NoProcessFoundForGivenId,Microsoft.PowerShell.Commands.GetProcessCommand
+ 
+

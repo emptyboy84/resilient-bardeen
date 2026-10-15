@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Still missing count before Naver: 2068
+[NAVER MATCH] Seq 109 (주)아크리아스튜디오 -> 010-5920-5578
+
+Sample 20 Naver test: Found 1 / 20 (5.0%)
+

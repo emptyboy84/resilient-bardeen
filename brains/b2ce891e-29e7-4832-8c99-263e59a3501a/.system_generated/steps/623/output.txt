@@ -1,0 +1,9 @@
+The search for "site:theteams.kr "주식회사 파이" OR "김도응" ("전화" OR "051" OR "010" OR "070" OR "연락처" OR "이메일")" returned the following summary:
+더팀스(theteams.kr) 플랫폼 내에서 검색된 **주식회사 파이** 및 **김도응** 관련 정보는 다음과 같습니다[1][2]:
+
+* **주식회사 파이** 페이지의 멤버로 **김도응**님이 등록되어 있습니다[1][2].
+* 다만, 더팀스 프로필 페이지 내에 공개된 전화번호(051, 010, 070 등)나 이메일 등의 상세 연락처 정보는 별도로 기재되어 있지 않습니다.
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEendg4YxR-CHp76NLPI_TKvCC7upbGkRH658Y7TtVKsXjr8zPvF-v1QYRV6Vcx-x__lmdLzzAfzAqRb_Vi1sIyJOUNbGdo3bo1rXKd1YFkvO8TrDUPZUmd5SQ=)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs9U-HQS4cDUpqV8sOCtLugP7GvVuYkBjhBXz2oXh0LJkPqb8d6dku_Qrs9pi9_4-fzXz2GKYKokdtG5MbDRDm9Rz2CpDrdMetdBeOBmFd0KyyKDFO__oQwg==)

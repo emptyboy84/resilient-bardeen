@@ -1,0 +1,23 @@
+The search for "site:catch.co.kr "센텀" "매출액"" returned the following summary:
+캐치(Catch)에서 검색된 '센텀' 관련 기업들의 최신 매출액 정보는 다음과 같습니다.
+
+*   **센텀**: 2025년 기준 매출액 87억 원 (영업이익 1억 원)[1], 최신 정보상 99억 원[2]
+*   **센텀프리미어**: 2023년 기준 매출액 120억 원[3]
+*   **센텀물류**: 2025년 기준 매출액 86억 원[4]
+*   **센텀이엔지**: 2025년 기준 매출액 81억 원[5][6]
+*   **센텀인터넷**: 2025년 기준 매출액 35억 원[7]
+*   **센텀에프앤비**: 2023년 기준 매출액 38억 원[8]
+*   **센텀무역**: 2024년 기준 매출액 48억 원[9]
+
+참고: 기업별로 기준 연도와 재무 상태가 다르므로, 상세한 기업 정보나 최신 업데이트 내용은 [캐치(catch.co.kr)](https://www.catch.co.kr) 사이트에서 개별 기업명을 검색하여 확인하시기 바랍니다.
+
+Sources:
+[1] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbbqlIy1WwOILW6lnnIp9cVXLBKGRjSgsXeG_zZCakHScIZ2v10McKcMDHFYxvt77ar4goQIGuzp_HLEMEq8eKtsFU37sRs90psK6C3Lh3_pG35kxcum-QWq9Nt3ypy0AizA==)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk2z_yYc-wq-b8qCrX69szKE9h-EhXPKHyj8gsDdK6fwtdRlH8SRJEIGUvt_2i5SZtNrB60C5QJw3qho50YUwKqWcwMHQ1meOsecaATZJePO4F--xJhCxyEVW1FZVAFIM1Xxd-vQ==)
+[3] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAxgCjNi4EQUfjzbawowqmogPrDxUpHH8CZMyMaCBFEmruWYsz06OqjbWYXw6_OU6nwigEY0298ShiX5IMwthclDmieNaBR5brYq-sb0xLOxwQa2fpcNsLAJRhVcmiHN-X5w==)
+[4] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESb9G34Ly_ORhP6ODoWkp2eVklhFHRVdK4qDUVLKsRXG5ufHjgc4W11tvLxjVbwmD0EiVkbvfaEb-lfTajUXRVdi5VxREpDO-5F_qxpqSKwIpEas0wbT7uETGabi0uZu28cQ==)
+[5] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh2rvp6-VfrSctENy2BsckJZN8AeYX4EET56Ins64PHngjBGecxHjv2GGgRU3v8TqMZQP8aYQJ1APjvTv_H0upC2776ZunuURvRxIkZD2aDLRVU0lQiVv0mblsjXnBv4lrxw==)
+[6] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElcNSRZpPVB9I_FDLJhhre20fZ2fMM9h8fiYQfMhLrR_hfL1eWwkOI58BkhLjDoSlXqBqZA5HK23XzwpPb0Ifd7Z9v3ZwqBQYY0bnsYyAUv_9VJjz_Y_q0IpJlYSKdoOfKp1-yhw==)
+[7] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l_FEsuwJ6CasCAgNrMHA5Pi2AeSiMVXXvnf-Woa1FqjrfOxZ10YRlwu6WJBE7UsRK8wmBkMEyudsydG5Zb4Gfa_BZsahxjFE_LO9FfjXPHwKwDikvY7OxZAmJ6BuEO-n9w==)
+[8] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7bz-RCzXTb0De09hGxRgqEWywSqkj1aoUYtg8IQPvyQmcyJqrd3zlDk1Fup9aAaF6PcjQwffgG0NWAlcRe43tRgZtwil8vPTGz5TQ-yD6XN6eYR0XH0wswztJ8TR3qBmzGA==)
+[9] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKvQH9A52YIsuehuQS_XkDDqqmguoBy32Us13pBh5p_wrQGtD_eqV_kjQwIKiCXB0sPsVy-N-OrzrsyuS6MUXrTsURfuyxEACzf6ofseL4SO8jQt8sTzLN7pg5NbUZUOcSPA==)

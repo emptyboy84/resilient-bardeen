@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+
+Status  Class          FriendlyName                      InstanceId                                                    
+------  -----          ------------                      ----------                                                    
+Error   AudioEndpoint  �Ŀ(Realtek(R) Audio)          SWD\MMDEVAPI\{0.0.0.00000000}.{A091E2DD-B91D-4E33-8033-8691...
+Unknown MEDIA          Microsoft Streaming Service Proxy SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11...
+Unknown SoftwareDevice MIDI 2.0 Service Tests            SWD\MIDISRV\MIDIU_DIAG_TRANSPORT                              
+Unknown SoftwareDevice SEC842519C34942(C51x Series)      SWD\DAFWSDPROVIDER\URN:UUID:16A65700-007C-1000-BB49-842519C...
+Error   AudioEndpoint  �Ŀ(Boom Audio)                SWD\MMDEVAPI\{0.0.0.00000000}.{D4BDEDAB-147D-418F-A611-75DA...
+Unknown WSDPrintDevice WSD �μ� �ġ                     SWD\DAFWSDPROVIDER\URN:UUID:16A65700-007C-1000-BB49-842519C...
+Unknown SoftwareDevice Service Test Loopback A           SWD\MIDISRV\MIDIU_DIAG_LOOPBACK_A                             
+Unknown SoftwareDevice Service Test Loopback B           SWD\MIDISRV\MIDIU_DIAG_LOOPBACK_B                             
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT17               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT18               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT21               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT22               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT23               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT24               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT25               
+Unknown VolumeSnapshot �Ϲ� � � �纻             STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT48               
+Unknown SoftwareDevice Service Test Ping (Internal)      SWD\MIDISRV\MIDIU_DIAG_PING                                   
+Error   Camera         USB HD Webcam                     USB\VID_0408&PID_50C0&MI_00\6&1B5BBE6D&0&0000                 
+Unknown Volume         �                              STORAGE\VOLUME\{D1451615-960A-11EF-9DBE-C01850332E7B}#00000...
+Unknown SoftwareDevice MIDI 2.0 Virtual Devices          SWD\MIDISRV\MIDIU_APP_TRANSPORT                               
+Unknown SoftwareDevice MIDI 2.0 Loop Devices             SWD\MIDISRV\MIDIU_LOOP_TRANSPORT                              
+Unknown Monitor        Generic Monitor                   DISPLAY\LGD05F4\1&8713BCA&0&UID0                              
+Unknown SCSIAdapter    Microsoft VHD Loopback Controller {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+Unknown DiskDrive      Microsoft � �ũ             SCSI\DISK&VEN_MSFT&PROD_VIRTUAL_DISK\2&1F4ADFFE&0&000001      
+
+
+

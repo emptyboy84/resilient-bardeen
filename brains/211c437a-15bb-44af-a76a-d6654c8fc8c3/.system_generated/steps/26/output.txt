@@ -1,0 +1,56 @@
+
+The command exited with code 0.
+Output:
+
+
+CPUInfo      : 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\LGE\LGControlCenter
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\LGE
+PSChildName  : LGControlCenter
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+FWVer                : -
+UserKey1ExeFilePath  : -
+UserKey2ExeFilePath  : -
+UserKey3ExeFilePath  : -
+UserKey4ExeFilePath  : -
+UserKey5ExeFilePath  : -
+UserKey1ExeFileParam : -
+UserKey2ExeFileParam : -
+UserKey3ExeFileParam : -
+UserKey4ExeFileParam : -
+UserKey5ExeFileParam : -
+UserKey1ExeFileName  : -
+UserKey2ExeFileName  : -
+UserKey3ExeFileName  : -
+UserKey4ExeFileName  : -
+UserKey5ExeFileName  : -
+SecurityValue        : 0
+SpecialKeyIndicator  : 1
+Touchpad             : 1
+Backlit              : 0
+UseNumPad            : 0
+WirelessDevice       : 1
+OSVer                : 0
+PBPMode              : 0
+LatestWidth          : 2560
+LatestHeight         : 1080
+WebcamMode           : 0
+PopupMode            : 0
+IESetting            : 0
+IndicatingOnOff      : 1
+UserKey1             : 0
+UserKey2             : 0
+UserKey3             : 0
+UserKey4             : 0
+UserKey5             : 0
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\LGE\OSD
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\LGE
+PSChildName          : OSD
+PSDrive              : HKCU
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+
+
+

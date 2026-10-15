@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?page=2&keyword=RDM');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?page=2&keyword=RDM
+- Page Title: 'RDM' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T01-42-05-120Z.yml)

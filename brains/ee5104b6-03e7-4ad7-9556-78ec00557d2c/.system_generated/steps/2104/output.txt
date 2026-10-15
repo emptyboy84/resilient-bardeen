@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090774671');
+```
+### Page
+- Page URL: https://bizno.net/article/6090774671
+- Page Title: 성화기계
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T01-50-14-890Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T01-50-10-242Z.log#L1-L5

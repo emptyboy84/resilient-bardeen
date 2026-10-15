@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Dev intro: 개발자 소개</div><div class="HhKIQc"><div> Seeplay Inc. </div><div> help@seeplay.co.kr </div><div class="mHsyY"> Rm A-2101
+140 Suyeonggangbyeon-daero
+해운대구, 부산광역시 48058
+South Korea </div><div> +82 51-782-1801 </div></div></div></div></section><c-data id="i22" jsdata=" W902Ue;_;13"></c-data></c-wiz><c-wiz jsrenderer="G2gJT" jsshadow jsdata="deferred-i23" data-p="%.@.]" data-node-index="14;0" jsmodel="hc6Ubd" c-wiz><section class="HcyOxe" jscontroller="NkbkFd" jsshadow><header class=" cswwxf"><div class="VMq4uf"><div class="EaMWib"><h2 class="XfZNbf"><span>Seeplay Inc.의 앱 더보기</span></h2></div><div cla
+Dev contact: 개발자 연락처 :<br>Seeplay Inc. Rm A-2101<br>140 Suyeonggangbyeon-daero<br>해운대구, 부산광역시 48058<br>South Korea 354-87-00849 2021-부산해운대-0337 본인 직접 신고</div><div class="za5NB" role="note" aria-label="친구들과 경쟁하고 누가 가장 높이 점프할 수 있는지 확인하세요!">친구들과 경쟁하고 누가 가장 높이 점프할 수 있는지 확인하세요!</div><div class="TKjAsc"><div><div class="lXlx5">업데이트 날짜</div><div class="xg1aie">2026. 10. 9.</div></div><div><div class="lXlx5">위치:</div><div class="xg1aie">Android, <a href=https:&#47;&#47;play.google.com&#47;pc&#45;store&#47;games&#47;details?id&#61;com.seeplay.catjump style="text-decoration: underline" jslog="242377; 1:1930; track:c
+South Korea </div><div> +82 51-782-1801 </div></div></div></div></section><c-data id="i22" jsdata=" W902Ue;_;13"></c-data></c-wiz><c-wiz jsrenderer="G2gJT" jsshadow jsdata="deferred-i23" data-p="%.@.]" data-node-index="14;0" jsmodel="hc6Ubd" c-wiz><section class="HcyOxe" jscontroller="NkbkFd" jsshad
+initAft()</script><script class="ds:0" nonce="4Lhst3ONfOyBqfzO5nQ6zg">AF_initDataCallback({key: 'ds:0', hash: '1', data:[[[11,[null,null,null,null,[null,null,"/store/games"]],"게임"],[1,[null,null,null,null,[null,null,"/store/apps"]],"앱"],[5,[null,null,null,null,[null,null,"/store/books"]],"도서"],[13,[
+

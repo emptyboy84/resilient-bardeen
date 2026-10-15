@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+ITEM: {
+  name: '이소민',
+  biz: '603-37-96242',
+  est_year: '',
+  est_month: '',
+  rep: '이소민',
+  close_date: '',
+  note: '폐업자'
+}
+

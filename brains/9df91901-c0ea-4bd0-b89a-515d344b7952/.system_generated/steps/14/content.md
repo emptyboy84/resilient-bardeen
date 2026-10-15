@@ -1,0 +1,15 @@
+Title: 출판사인쇄사 검색시스템  | 문화체육관광부
+
+Source: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqXrKtb6rmmeRbVPm7khCyYCF1FRbAWKnXNSlkPAWx7jG8Ey6hEN-BCPfRwOs0V_T8i8pJLN7EtuZplkLUCN82i9y-8LG9sQQpa1bPmDm1CveAqmOAgxHTy2lz5nPhWMc3yfFe90OfIN5b8qbbnjdTdba7IWgF5_zA3lymxXxgCgSZZG9-tVSVL9qECSJywesM7qqmlsNbNhxlZHTvoMCDSrELr5H4DjDwpEDbP4t2w_WzdHGMeC4yQr_MkUA-8GCffxAWeOzBoxmF2ulZCIkLKRpfTmcWVcAf4X88yCqMWgJjU4l7FPouqLCfit0kF9S1ckUpC7FxEIsKl0QzAm7solM4JSfgD98ATTlRz_k=
+
+---
+
+- [본문 바로가기](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqXrKtb6rmmeRbVPm7khCyYCF1FRbAWKnXNSlkPAWx7jG8Ey6hEN-BCPfRwOs0V_T8i8pJLN7EtuZplkLUCN82i9y-8LG9sQQpa1bPmDm1CveAqmOAgxHTy2lz5nPhWMc3yfFe90OfIN5b8qbbnjdTdba7IWgF5_zA3lymxXxgCgSZZG9-tVSVL9qECSJywesM7qqmlsNbNhxlZHTvoMCDSrELr5H4DjDwpEDbP4t2w_WzdHGMeC4yQr_MkUA-8GCffxAWeOzBoxmF2ulZCIkLKRpfTmcWVcAf4X88yCqMWgJjU4l7FPouqLCfit0kF9S1ckUpC7FxEIsKl0QzAm7solM4JSfgD98ATTlRz_k=#content)
+[본문 바로가기](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqXrKtb6rmmeRbVPm7khCyYCF1FRbAWKnXNSlkPAWx7jG8Ey6hEN-BCPfRwOs0V_T8i8pJLN7EtuZplkLUCN82i9y-8LG9sQQpa1bPmDm1CveAqmOAgxHTy2lz5nPhWMc3yfFe90OfIN5b8qbbnjdTdba7IWgF5_zA3lymxXxgCgSZZG9-tVSVL9qECSJywesM7qqmlsNbNhxlZHTvoMCDSrELr5H4DjDwpEDbP4t2w_WzdHGMeC4yQr_MkUA-8GCffxAWeOzBoxmF2ulZCIkLKRpfTmcWVcAf4X88yCqMWgJjU4l7FPouqLCfit0kF9S1ckUpC7FxEIsKl0QzAm7solM4JSfgD98ATTlRz_k=#content)
+- [HOME](https://vertexaisearch.cloud.google.com/html/main.php)
+[HOME](https://vertexaisearch.cloud.google.com/html/main.php)
+전국 출판사/인쇄사 검색 시스템입니다. 전국 또는 지역별로 등록현황을 검색할 수 있습니다.
+최종수정일시 2025-10-28
+[목록](https://vertexaisearch.cloud.google.com/grounding-api-redirect/searchList.php?search_area=6260000&search_kind=&search_type=&search_word=&search_state=&area_code=6260000&area_code2=&cpage=278&page_type=area)
+Copyright ⓒ Ministry of Culture, Sports and Tourism
+

@@ -1,0 +1,20 @@
+The search for ""오앤비스페이스" ("전화번호" OR "연락처" OR "TEL" OR "이메일" OR "email" OR "051" OR "042" OR "010")" returned the following summary:
+초소형 위성 설계 및 운용·우주 날씨 데이터 분석 기업 **(주)오앤비스페이스**(대표: 윤효상)의 기업 정보 및 관련 연락처 요약입니다[1][2][3]:
+
+* **대표자:** 윤효상[3]
+* **주요 사업:** 응용 소프트웨어 개발 및 공급업, 위성 자세 제어 및 GNSS 기반 관측 기술, 초소형 위성(누리호 5차 발사 탑재 위성 '슬레지/SLEDGE' 등) 개발[4][5][2][6]
+* **본사 주소:** 
+  * 부산광역시 해운대구 센텀동로 45 (부산 사업장)[7][1]
+  * 대전광역시 유성구 (대전 관련 소프트웨어 개발 및 KAIST 협력 등)[5][1]
+* **공식 웹사이트:** www.onbspace.com[7]
+
+*참고:* 공개된 오픈 데이터베이스(더브이씨, 넥스트유니콘 등) 및 기업 공시 자료상 **공식 전화번호 및 이메일 주소는 대외적으로 상세히 공개되어 있지 않습니다[7][5].** 일반적인 문의는 공식 홈페이지를 통해 확인하시기 바랍니다.
+
+Sources:
+[1] [contec.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAY0wu-DSC93hLQ_VTW4Du0dY9Z3SEVMzZtblsS_cjrDayQW8dyvTgIFcRvX7li21yMYxmfZviWTotsa-KmcdyuSFJbwT9ioBBTYqU_fu--__zrefzWyPj3HkgtBis14PqCsP0OL4dWYBGGIffLCTTL-JMiCmgIr47Jg==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYmq_zVe4l-3AYfiSdPQO5ICAbbyxi4bgDdttjFZxfK1xyW8kmC2C9cK_CMT6fdbqVmHacCJwOkO4SqoG_UouH2d8pINJax8AqEl8s890=)
+[3] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBM5AO2LEGhrKa8BHAbSJkEs4cndpSK2-vOLbQ3ymqVggaPXzNWqzq-HCSNHNSzF6vIUOuAc3O4j60mTQ1VG_6HATz660rZb9sf0ZGO-GkpjahmA5ZtMz8UwWLU0oZVvw=)
+[4] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY6T82zJS0DrCjIJKWtSMBtDJ7-E93jDzIt2ubuBXxWeY_0E-gMA5dMYwb0yjyWed9heXBXTmZKhlCB0yS8buqkV7o8ceK-jRkY--P0CBjaHyhh5BtsNx1CzJ2K8DLdwgyCog1oLaNhg==)
+[5] [vcroute.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhhkq5rDmzegItn4ilksL4wO2hM0_f0VICJXpC6JP1Hw9LFxlT4xysqxNAFebk6jYnMcL7l0Q1fjn3J15F9LuvB-WpXd8a6GsGcmiR3YfZMJJOcpLofrxg-Cw_J43Q3T-B1ZrlbOxHq1A1r4L2sA==)
+[6] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2VhdFMfZI24Q5o7Z1en8YsgR3Fr_Fs_0Noojc2cTjLaUPIZ1G83tzXE1eCoa_RV6ns9-_OfzCDYBu-FBW3mC2Pq8nY3Iq8xCRKkahmTpz9ejhzEXGuk0N1RTsdngs3e-JMIk=)
+[7] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYmq_zVe4l-3AYfiSdPQO5ICAbbyxi4bgDdttjFZxfK1xyW8kmC2C9cK_CMT6fdbqVmHacCJwOkO4SqoG_UouH2d8pINJax8AqEl8s890=)

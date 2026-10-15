@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+First: [ 1, 707, <1 empty item>, '와우미디어', '6051599850' ]
+Last: [ 1000, 5510, <1 empty item>, '대림이엔지', '6170585404' ]
+

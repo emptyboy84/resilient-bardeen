@@ -1,0 +1,30 @@
+{
+  "504": {
+    "row": 504,
+    "name": "89Light",
+    "status": "unmatched_bizno",
+    "score": 25,
+    "candidate_count": 27
+  },
+  "508": {
+    "row": 508,
+    "name": "LINC",
+    "status": "unmatched_bizno",
+    "score": 0,
+    "candidate_count": 33
+  },
+  "536": {
+    "row": 536,
+    "name": "김정보",
+    "status": "unmatched_bizno",
+    "score": 25,
+    "candidate_count": 112
+  },
+  "537": {
+    "row": 537,
+    "name": "꿈해몽",
+    "status": "unmatched_bizno",
+    "score": 25,
+    "candidate_count": 27
+  }
+}

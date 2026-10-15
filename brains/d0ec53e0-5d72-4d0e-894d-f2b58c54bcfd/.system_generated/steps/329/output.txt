@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Inspecting rows around 2310 - 2330:
+Row 2310: ['게임사업단 리스트', None, '수플랩스㈜', 7108703032, None, None, '안혜진']
+Row 2311: ['게임사업단 리스트', None, '원스튜디오', 5663901417, '2026년', None, '한믿음']
+Row 2312: ['게임사업단 리스트', None, '레드피넛봄버', 8595200721, None, None, '이윤진']
+Row 2313: ['게임사업단 리스트', None, '테듀교육진흥원 주식회사', 3108603290, None, None, '안재규']
+Row 2314: ['게임사업단 리스트', None, '주식회사 이데아디엑스', 4708703279, None, None, '김래연']
+Row 2315: [None, None, None, None, None, None, None]
+Row 2316: [None, None, None, None, None, None, None]
+Row 2317: [None, None, None, None, None, None, None]
+Row 2318: [None, None, None, None, None, None, None]
+Row 2319: [None, None, None, None, None, None, None]
+Row 2320: [None, None, None, None, None, None, None]
+Row 2321: [None, None, None, None, None, None, None]
+Row 2322: [None, None, None, None, None, None, None]
+Row 2323: [None, None, None, None, None, None, None]
+Row 2324: [None, None, None, None, None, None, None]
+Row 2325: [None, None, None, None, None, None, None]
+Row 2326: [None, None, None, None, None, None, None]
+Row 2327: [None, None, None, None, None, None, None]
+Row 2328: [None, None, None, None, None, None, None]
+Row 2329: [None, None, None, None, None, None, None]
+
+Inspecting rows around 2450 - 2469:
+Row 2459: [None, None, None, None, None, None, None]
+Row 2460: [None, None, None, None, None, None, None]
+Row 2461: [None, None, None, None, None, None, None]
+Row 2462: [None, None, None, None, None, None, None]
+Row 2463: [None, None, None, None, None, None, None]
+Row 2464: [None, None, None, None, None, None, None]
+Row 2465: [None, None, None, None, None, None, None]
+Row 2466: [None, None, None, None, None, None, None]
+Row 2467: [None, None, None, None, None, None, None]
+Row 2468: [None, None, None, None, None, None, None]
+Row 2469: [None, None, None, None, None, None, None]
+

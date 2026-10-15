@@ -1,0 +1,57 @@
+
+The command exited with code 0.
+Output:
+Visible inputs count: 6
+{
+  tag: 'INPUT',
+  id: 'mf_wfm_potal_main_wf_header_sbx_swrd___input',
+  name: '',
+  placeholder: '검색어 입력',
+  className: 'w2input search-input',
+  value: '',
+  type: 'text'
+}
+{
+  tag: 'INPUT',
+  id: 'mf_wfm_potal_main_wf_location_wf_help_main_wf_help_sub2_sbx_swrd___input',
+  name: '',
+  placeholder: '검색어 입력',
+  className: 'w2input search-input',
+  value: '',
+  type: 'text'
+}
+{
+  tag: 'SELECT',
+  id: 'mf_wfm_potal_main_wfm_content_nodeIdPath_input_0',
+  name: '',
+  className: 'w2selectbox_native_select',
+  value: '-전체-',
+  type: 'select-one'
+}
+{
+  tag: 'INPUT',
+  id: 'mf_wfm_potal_main_wfm_content_textQuestion___input',
+  name: '',
+  placeholder: '찾고자 하는 단어 또는 문장을 입력하세요.',
+  className: 'w2input ',
+  value: '',
+  type: 'text'
+}
+{
+  tag: 'SELECT',
+  id: 'linkSiteList',
+  name: 'url',
+  className: '',
+  value: '',
+  type: 'select-one'
+}
+{
+  tag: 'INPUT',
+  id: '__IME_HIDDEN__',
+  name: '',
+  placeholder: '',
+  className: '',
+  value: '',
+  type: 'text'
+}
+

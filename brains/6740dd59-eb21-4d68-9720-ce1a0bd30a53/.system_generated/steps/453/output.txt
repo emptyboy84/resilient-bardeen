@@ -1,0 +1,189 @@
+
+The command exited with code 0.
+Output:
+Blue cells by column index:
+{ '4': 418 }
+Total rows with blue: 418
+Rows with blue AND bizNo: 82
+Sample of withBiz:
+{
+  rowNumber: 126,
+  cols: [ 4 ],
+  sn: 125,
+  name: '블루호텔레코딩스튜디오',
+  bizNo: '627-40-00252',
+  rep: '박정현',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: '폐업자'
+}
+{
+  rowNumber: 568,
+  cols: [ 4 ],
+  sn: 567,
+  name: '주식회사 아이엠지로드',
+  bizNo: '709-86-03340',
+  rep: '최명학',
+  rev24: null,
+  rev25: null,
+  status: '게임사업단 요청으로 제외',
+  note: '확인불가'
+}
+{
+  rowNumber: 589,
+  cols: [ 4 ],
+  sn: 588,
+  name: '도서출판국제',
+  bizNo: '602-33-02670',
+  rep: '하정무,조벽경',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 598,
+  cols: [ 4 ],
+  sn: 597,
+  name: '도성회',
+  bizNo: '139-80-09994',
+  rep: '김광보',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 607,
+  cols: [ 4 ],
+  sn: 606,
+  name: '동아대학교출판부',
+  bizNo: '603-82-01274',
+  rep: '이해우',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 619,
+  cols: [ 4 ],
+  sn: 618,
+  name: '드림유엔터테인먼트',
+  bizNo: '287-32-01117',
+  rep: '조휘훈',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: '폐업자'
+}
+{
+  rowNumber: 639,
+  cols: [ 4 ],
+  sn: 638,
+  name: '디자인에코',
+  bizNo: '603-10-85753',
+  rep: '이돈희',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 701,
+  cols: [ 4 ],
+  sn: 700,
+  name: '문화일보 수정중앙지국',
+  bizNo: '605-01-99891',
+  rep: '이승근',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 703,
+  cols: [ 4 ],
+  sn: 702,
+  name: '주식회사 브이드림',
+  bizNo: '603-10-85753',
+  rep: '김민지',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 708,
+  cols: [ 4 ],
+  sn: 707,
+  name: '모션박스',
+  bizNo: '617-81-60182',
+  rep: '박성준',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: '폐업'
+}
+{
+  rowNumber: 730,
+  cols: [ 4 ],
+  sn: 729,
+  name: '버킷리스트',
+  bizNo: '793-80-02626',
+  rep: '이현수',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 745,
+  cols: [ 4 ],
+  sn: 744,
+  name: '불교문학신문',
+  bizNo: '607-82-71296',
+  rep: '최경식',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 750,
+  cols: [ 4 ],
+  sn: 749,
+  name: '불교방송',
+  bizNo: '604-82-04181',
+  rep: '공원주',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 787,
+  cols: [ 4 ],
+  sn: 786,
+  name: '사단법인한국문화콘텐츠협회',
+  bizNo: '401-82-10857',
+  rep: '정기환',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+{
+  rowNumber: 811,
+  cols: [ 4 ],
+  sn: 810,
+  name: '센텀아트',
+  bizNo: '617-22-36856',
+  rep: '이정민',
+  rev24: null,
+  rev25: null,
+  status: null,
+  note: null
+}
+

@@ -1,0 +1,14 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\ee5104b6-03e7-4ad7-9556-78ec00557d2c\scratch\search_excel_phone.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -9,7 +9,7 @@
+     sheet.eachRow((row, rowNumber) => {
+       const values = row.values;
+       const str = JSON.stringify(values);
+-      if (str.includes('7209') || str.includes('239-7209') || str.includes('2397209')) {
++      if (str.includes('276-9823') || str.includes('2769823')) {
+         console.log(`Sheet: ${sheet.name}, Row ${rowNumber}: ${str}`);
+       }
+     });
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22%EC%9D%B4%EC%84%B1%EC%9B%85%22+%22%EB%82%99%EB%8F%99%EB%8C%80%EB%A1%9C550%EB%B2%88%EA%B8%B8+37%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EC%9D%B4%EC%84%B1%EC%9B%85%22+%22%EB%82%99%EB%8F%99%EB%8C%80%EB%A1%9C550%EB%B2%88%EA%B8%B8+37%22
+- Page Title: "이성웅" "낙동대로550번길 37" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-30-17-638Z.yml)

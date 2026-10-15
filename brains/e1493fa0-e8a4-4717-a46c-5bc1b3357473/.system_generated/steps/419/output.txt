@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Saved 50 items for batch 4.
+Found: 50 Not found: 0
+First 5 found:
+[151] 아이엠씨오(IMCO)시스템 (6091159982) => 산업명: '포장용 플라스틱 성형용기 제조업', source: bizno
+[152] 동양특수금속 (6091160719) => 산업명: '금속 절삭기계 제조업', source: bizno
+[153] 한성산업사 (6091168628) => 산업명: '목재 포장용 상자, 드럼 및 유사용기 제조업', source: bizno
+[154] 하이드파워 (6091177073) => 산업명: '유압기기 제조업', source: bizno
+[155] 성우에스에프에이 (6091179858) => 산업명: '그 외 기타 전기장비 제조업', source: bizno
+

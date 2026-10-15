@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Idx in text: 1
+ 더블유에스컴퍼니 채용 - 부산치과 러시아 마케팅 통역 채용 | 잡코리아 window.process = {env: {}};window.process.env = {"NEXT_PUBLIC_SHORT_ENV":"PRD","NEXT_PUBLIC_BUILD_ID":"Zx472yn8bRvFpwR_aO-3H","NEXT_PUBLIC_JOBKOREA_URL":"https://www.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_IMAGE_URL":"https://imgs.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_TEXT_IMAGE_URL":"https://img.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_IMAGE_FILE_SERVER_URL":"ht
+Emails in jobkorea: [ 'f05e37a54b0cbfa1fb382857260dbc20@alog2.jobkorea.co.kr' ]
+

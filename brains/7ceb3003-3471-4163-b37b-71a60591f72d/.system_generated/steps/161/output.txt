@@ -1,0 +1,10 @@
+The search for "site:btn.co.kr "부산" "지사" OR "센텀" OR "852-9309"" returned the following summary:
+BTN불교TV 부산·경남지사 정보는 다음과 같습니다[1][2].
+
+*   **주소**: 부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 2411호[1][2]
+*   **전화번호**: 051-852-9306, 9309[1][2]
+*   **팩스**: 051-852-9310[1][2]
+
+Sources:
+[1] [btn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJsFXCskAS5wKAhnTFJa7NFeI8ein3uPiGEmlJj7gxziVUclwtYnhgpiJZNHqKUg9k5KJ9IPJRT92Zt8afslD7IkWoqZnuxdGijMhAshbUppUrayxmnS8qFTabSGhecg1poNI=)
+[2] [btn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJsFXCskAS5wKAhnTFJa7NFeI8ein3uPiGEmlJj7gxziVUclwtYnhgpiJZNHqKUg9k5KJ9IPJRT92Zt8afslD7IkWoqZnuxdGijMhAshbUppUrayxmnS8qFTabSGhecg1poNI=)

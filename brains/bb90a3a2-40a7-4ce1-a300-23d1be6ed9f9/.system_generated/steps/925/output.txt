@@ -1,0 +1,115 @@
+
+The command exited with code 0.
+Output:
+Total entries: 71
+Duplicates: []
+
+Sample 15 entries:
+[
+  {
+    seq: 467,
+    name: '더휴랩',
+    phone: '070-8672-5844',
+    source: 'Naver-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 1310,
+    name: '(주)마일즈',
+    phone: '010-7578-2679',
+    source: 'Daum-Web',
+    was: '010-6455-2***'
+  },
+  {
+    seq: 1839,
+    name: '위시인(주)',
+    phone: '051-804-8606',
+    source: 'Daum-Local',
+    was: 'NONE'
+  },
+  {
+    seq: 2017,
+    name: '(주)제나',
+    phone: '010-2266-6373',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 2370,
+    name: '(주)유알웍스',
+    phone: '051-665-8728',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 2817,
+    name: '(주)스틸엔소프트',
+    phone: '051-745-3077',
+    source: 'Daum-Local',
+    was: 'NONE'
+  },
+  {
+    seq: 2034,
+    name: '이트리즈',
+    phone: '051-502-3113',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 1523,
+    name: '(주)인플래닛',
+    phone: '1877-2029',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 2203,
+    name: '(주)그립',
+    phone: '1544-0871',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 2365,
+    name: '(주)엑스엔터테인먼트',
+    phone: '051-416-1161',
+    source: 'Naver-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 3944,
+    name: '(주)아이돌',
+    phone: '010-7592-0102',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 1955,
+    name: '세원기획',
+    phone: '051-441-2655',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 1372,
+    name: '뮤토',
+    phone: '051-611-1204',
+    source: 'Daum-Web',
+    was: 'NONE'
+  },
+  {
+    seq: 2347,
+    name: '장산시네마',
+    phone: '1544-8855',
+    source: 'Daum-Local',
+    was: 'NONE'
+  },
+  {
+    seq: 1358,
+    name: '(주)피엔케이',
+    phone: '051-628-8583',
+    source: 'Daum-Local',
+    was: 'NONE'
+  }
+]
+

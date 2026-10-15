@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+�ġ �:4 �:61
++   const scripts = [...html.matchAll(/<script[^>]+src=['\"]([^'\"]+)[' ...
++                                                             ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:7 �:9
++ test();"
++         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

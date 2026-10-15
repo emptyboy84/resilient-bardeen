@@ -1,0 +1,19 @@
+The search for ""케세라예술" "강민지"" returned the following summary:
+"케세라예술"이라는 명칭과 "강민지"라는 이름을 함께 검색하신 결과, 해당 명칭으로 활동하는 구체적인 예술 단체나 특정 인물은 직접적으로 확인되지 않습니다 [1.1.1].
+
+다만, 예술 분야에서 활동하는 **강민지**라는 이름을 가진 인물들은 여러 명 확인되므로, 찾으시는 정보가 아래 인물 중 한 명인지 확인해 보시기 바랍니다.
+
+*   **영화감독 강민지**: 영화 연출 및 각본을 맡고 있으며, 다양한 단편 및 VR 작품 활동을 하고 있습니다[1].
+*   **민화 작가 강민지**: 전통 민화를 기반으로 현대적인 작업을 하는 작가로, 민화연구소를 운영하며 여러 전시와 공모전에서 수상한 경력이 있습니다[2][3].
+*   **애니메이션 감독 강민지**: 15년 이상 다양한 애니메이션 작업을 해왔으며, '프레임바이프레임' 주식회사를 설립하여 활동하고 있습니다[4].
+*   **기타 분야**: 예술 관련 저자[5]나 사진작가[6] 등 동명이인의 예술가들이 있습니다.
+
+만약 특정 전시회나 특정 분야의 예술가에 대한 정보를 찾으시는 것이라면, 관련 분야나 구체적인 활동 내용을 추가로 알려주시면 더 정확한 답변을 드릴 수 있습니다.
+
+Sources:
+[1] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLOzy-z3FrGffuCZ55xNjcy_xiUKglmAoDg5EBCEG9P343TZkp6uP-BF9HBo6DjT_h5MjgEKZl110bG-GOMl-h1U9OSTvkbs3rrfvU_8Ucl0_tNZuHzgRprfxYEWwQdG_wqe8fw81Y2b8oathnsmdjBtN0KlzHAtxWyGCrWBetSBAJDmv-OwHMBecF)
+[2] [kangminjee.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJjaLD6kh2QIEkClDZqOKGJYb4ZKW6VD7MRujRRZMVNzl0QWBjj5o9u01MtiwZZP_o5QZWDrmWFlnqQnPtBP9oI05xXbMLCxZATPGGaH6HO0vF_Jz1Q==)
+[3] [folkpainting.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcI7Jgojg0ckUzQJYDd7D1MhRjsOiPkVnz1XqlH6TH0sT_i_wMz6FIxWsOyoaLcUVpNLnV3L9jb4vHD-Tdzglo9e-HnlLpI0ZxUdGa5zK8mt5tfg==)
+[4] [seoulanimators.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvRA0c_AnjBy-gDD9M9eYg83v2gLafupt3iQcuoe5-xzWUeAprZN3dDk2ouwKXns3BcK0bBeT4LUFVi7Rd4oETO3ySs1FPqmwtavdIzfOZioDfDO8E4-l3RXGkc19LGw==)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_6a3gLX_PkyqgPBNkrLWPOpeM-MuL9kwNCVFqGjxP6K9o7t3kJAfk2RTXauFbztYbGMJnT25CTxRUDg2fvbG7scp3wcc69A7k1M4Rw1HV9HHP8caQxEgm8BLqY5jdVQvs)
+[6] [kpnews1.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH3F5RWISVSmoHw0f53-Dl88lSmMf-gJqu8eChqaGBVjV0SFVdAvzvCJxWVTy3B93ejTZM2Ro_Xl-hd9g36inshnyp-1zsunlTklb6dT1QWZeZEVnpZKU3il4HJFZ2COm2jxt-83OglHb85q3v)

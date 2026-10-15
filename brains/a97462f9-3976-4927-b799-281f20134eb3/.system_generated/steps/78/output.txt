@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Workbook loaded. Sheet count: 2
+Searching in sheet: 기업 정보 row count: 1048576
+Found in 기업 정보 at row 3044: [
+  <1 empty item>,
+  '이재호',
+  '회사명 변경',
+  'CJ대한통운택배 부산북구덕천대리점',
+  6061145683,
+  '황운도',
+  46542,
+  '부산광역시 북구 학사로17번길 27수정강변타운 상가동 207호 ',
+  '051-333-5880',
+  <1 empty item>,
+  'CJ대한통운',
+  <2 empty items>,
+  '2003-7',
+  <10 empty items>,
+  '6061145683',
+  <23 empty items>,
+  '운수 및 창고업',
+  '육상 운송 및 파이프라인 운송업',
+  '소화물 전문 운송업'
+]
+Searching in sheet: 사용 사이트 row count: 4
+

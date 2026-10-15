@@ -1,0 +1,19 @@
+The search for "site:bizno.net/article/ "하이라이트"" returned the following summary:
+비즈노(bizno.net) 사이트 내에서 '하이라이트'를 포함하고 있는 주요 기업 정보는 다음과 같습니다.
+
+*   **(주)하이라이트에스엘 (HIGHLIGHT SL Inc.)**: 무대 프로젝션 또는 방송실용 조명기기 제조 및 관련 예술 서비스업[1][2]
+*   **(주)하이라이트브랜즈 (Hilight Brands)**: 의류, 패션, 잡화, 뷰티 관련 종합몰 운영 및 도소매업[3][4]
+*   **(주)하이라이트뷰티스**: 화장품 및 화장용품 도소매업[5]
+*   **(주)하이라이트컴퍼니**: 경영 컨설팅업[6][7]
+
+이 외에도 비즈노에서는 '하이라이트'라는 명칭을 포함한 다양한 사업자 정보를 조회할 수 있습니다[8]. 각 기업에 대한 상세 정보(사업자등록번호, 주소, 대표자 등)는 비즈노 웹사이트에서 직접 확인하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgFcDV9iHhx138GLUvLlBNUwfichky-NnAqJF6UjRGAfsJB8XLFKXwQv4q0iT2Z2m7RR3AKMN4Oz1ISS1yK0_qyOubwxLVYOSKZIaMl9sgsf4PgsByMjCkrrw=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgFcDV9iHhx138GLUvLlBNUwfichky-NnAqJF6UjRGAfsJB8XLFKXwQv4q0iT2Z2m7RR3AKMN4Oz1ISS1yK0_qyOubwxLVYOSKZIaMl9sgsf4PgsByMjCkrrw=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcCFKDeRE71HS3iV31p2DRihqYKIQafT0M3UOYGrMBcuYiK5TkonPnaJBzAza0SYxAUpQfAwWtuEdx1Fbot5579Zm0Tm_pifNjv_e6g1eWv0x3P4PX7a0xdGI=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcCFKDeRE71HS3iV31p2DRihqYKIQafT0M3UOYGrMBcuYiK5TkonPnaJBzAza0SYxAUpQfAwWtuEdx1Fbot5579Zm0Tm_pifNjv_e6g1eWv0x3P4PX7a0xdGI=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1Q3HjaNyj2D_6hQlK9-dx_yk90zmxgjN4d9TaiJq87mIoNpMYqPOvaeepK5cc94b1POzeHXjcHgEmNechrYpcPUYao1mCIw-6aSUUMchY2UQQaX9SlCCxVMU=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxvZUb5lI3sPOPPeS8tp_mGajghIJtYPXOL1orepZkekhWJVxsLcEuWg-vtOYHzszeRIGgfWIClONOHaCnwJwvfdJ4M1UYfAt6YCxxhcuQ5PG_68BQ3yp-w7k=)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxvZUb5lI3sPOPPeS8tp_mGajghIJtYPXOL1orepZkekhWJVxsLcEuWg-vtOYHzszeRIGgfWIClONOHaCnwJwvfdJ4M1UYfAt6YCxxhcuQ5PG_68BQ3yp-w7k=)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8vHKlxLj5nANPKBz0KYVo3L5XdEMeZ8ylvp7cqqsr0D7YLEluxlqjl5nDGkMouuDXvDR03ZbyxFOom8VH8vvyhaQIksklT8BtFwd0o0SKrnvkdOXuSVihDhE=)

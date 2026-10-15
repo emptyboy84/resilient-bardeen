@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query="브이알코리아"+"2012-10-26"');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22+%222012-10-26%22
+- Page Title: "브이알코리아" "2012-10-26" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-38-27-915Z.yml)

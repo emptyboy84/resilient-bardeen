@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5288800923');
+```
+### Page
+- Page URL: https://bizno.net/article/5288800923
+- Page Title: 지니에듀테크 주식회사
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-30-53-033Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-30-47-609Z.log#L1-L5

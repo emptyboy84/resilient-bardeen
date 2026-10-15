@@ -1,0 +1,8 @@
+### Result
+{
+  "error": "input or button not found"
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const sleep = ms => new Promise(r => setTimeout(r, ms));\n  const input = document.querySelector(\'input.q-field__native\');\n  const searchBtn = Array.from(document.querySelectorAll(\'button\')).find(b => b.textContent.trim() === \'검색하기\');\n  \n  if (!input || !searchBtn) return { error: \'input or button not found\' };\n\n  input.value = \'180111-0163592\';\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  searchBtn.click();\n  await sleep(1500);\n\n  const main = document.querySelector(\'main\');\n  return {\n    url: window.location.href,\n    mainText: main ? main.innerText.slice(0, 400) : \'\'\n  };\n}');
+```

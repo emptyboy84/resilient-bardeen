@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\AppData\Local\Programs\antigravity\resources
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-15   � 8:47                app.asar.unpacked                                                    
+d-----      2026-10-15   � 8:47                bin                                                                  
+-a----      2026-10-14   � 9:08            144 app-update.yml                                                       
+-a----      2026-10-14   � 9:08        4486221 app.asar                                                             
+-a----      2026-10-14   � 9:08         107520 elevate.exe                                                          
+
+
+

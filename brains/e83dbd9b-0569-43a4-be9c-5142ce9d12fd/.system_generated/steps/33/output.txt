@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+
+Name                         Mode   Length     
+----                         ----   ------     
+$Recycle.Bin                 d--hs-            
+$SysReset                    d--h--            
+.CDN                         d-----            
+Config.Msi                   d--hs-            
+Documents and Settings       d--hsl            
+EFSTMPWP                     d-----            
+inetpub                      d-----            
+Intel                        d--h--            
+msys64                       d-----            
+OneDriveTemp                 d--h--            
+PerfLogs                     d-----            
+Program Files                d-r---            
+Program Files (x86)          d-r---            
+ProgramData                  d--h--            
+Recovery                     d--hs-            
+System Volume Information    d--hs-            
+Temp                         d-----            
+tmp                          d-----            
+Users                        d-r---            
+Windows                      d-----            
+B2ABBFE5C93E                 -a-h-- 40         
+DumpStack.log.tmp            -a-hs- 12288      
+hiberfil.sys                 -a-hs- 6787768320 
+logUploaderSettings.ini      -a---- 108        
+logUploaderSettings_temp.ini -a---- 108        
+pagefile.sys                 -a-hs- 18253611008
+swapfile.sys                 -a-hs- 150994944  
+
+
+

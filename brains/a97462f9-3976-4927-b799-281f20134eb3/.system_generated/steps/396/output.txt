@@ -1,0 +1,115 @@
+
+The command exited with code 0.
+Output:
+Theme 5 rows count: 444 sample: [
+  {
+    rowNum: 1,
+    name: '사업체명',
+    biz: '사업자번호',
+    s24: '24년 매출액(원)',
+    s25: '25년 매출액(원)'
+  },
+  {
+    rowNum: 9,
+    name: '유비플러스',
+    biz: '605-25-68583',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 12,
+    name: '에스와이이노테크',
+    biz: '270-86-00132',
+    s24: 0,
+    s25: null
+  },
+  {
+    rowNum: 13,
+    name: '아트핸즈',
+    biz: '605-18-21203',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 16,
+    name: '아빠 말 잘 들어',
+    biz: '831-21-01131',
+    s24: 0,
+    s25: null
+  }
+]
+Theme 8 rows count: 80 sample: [
+  {
+    rowNum: 126,
+    name: '블루호텔레코딩스튜디오',
+    biz: '627-40-00252',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 568,
+    name: '주식회사 아이엠지로드',
+    biz: '709-86-03340',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 589,
+    name: '도서출판국제',
+    biz: '602-33-02670',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 598,
+    name: '도성회',
+    biz: '139-80-09994',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 607,
+    name: '동아대학교출판부',
+    biz: '603-82-01274',
+    s24: null,
+    s25: null
+  }
+]
+Theme 9 rows count: 42 sample: [
+  {
+    rowNum: 2273,
+    name: '겜스터즈',
+    biz: '316-81-30602',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 2274,
+    name: '블루솜',
+    biz: '617-81-57256',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 2275,
+    name: '프로비스 게임즈',
+    biz: '352-81-02780',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 2276,
+    name: '에스피코리아',
+    biz: '250-81-00813',
+    s24: null,
+    s25: null
+  },
+  {
+    rowNum: 2277,
+    name: '숲과교육 주식회사',
+    biz: '355-87-02802',
+    s24: null,
+    s25: null
+  }
+]
+

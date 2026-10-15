@@ -1,0 +1,14 @@
+The search for ""코니" "김병일" ("051" OR "070" OR "010" OR "전화" OR "TEL")" returned the following summary:
+검색하신 조건(**"코니", "김병일"**)에 부합하는 주요 기업 정보는 다음과 같습니다.
+
+* **기업명:** 코니 (KONEE)[1]
+* **대표자명:** 김병일[1]
+* **업종:** 응용 소프트웨어 개발 및 공급업 (소프트웨어·솔루션)[2][3]
+* **소재지:** 부산광역시 해운대구 센텀서로 30, KNN타워 (지역번호 **051**)[1]
+
+기업 전화번호 및 상세 주소 정보가 필요하신 경우 해당 기업명(코니)과 부산 센텀시티 소재 법인 정보를 참고하시기 바랍니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BQcf0KfV0RfNOmEHtaXnpkJeXedtpIcusJtpkjojieIGy0f8gJGFep0Tsa9g_XBGQ2cMETL1Sy-mcDwWFfa71c277N7ciq-uj-fjV9ycvSEc_HGsSMjISXecQrfN4KTlLGjLxudJXa9GDaidOXy_woOO4s-P6MDkbizPXSb4M6CO7bdec74Xx0_4vj7gWNjXCu5vI-1rIvK-F3GP9y4z2m9mPVAPUm_jrxeZzQ-B8G27)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV8gKXAd-EqqXpjLLm3DXQbpgTMxJVuwe7vSpChTiiWpB1l2m68BdSnTUCkSrZWSedN_MISgatueV__IXSr4yb45jUu8DqZXYppflHkz7gxDvT70QgMro8Z17Hbxm-7avL9g==)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSXwIpvicH0iAFzORB3Duv-PEoG8IUfoIsnmSPP5Z4aaQaDaWjVIPJPmtPMEsG9MuNfXgxex_G_po4CvGY-IZuJ53a_FZhkKL93vGGecsJUW1aG9NvqhI2XGUcjJ-HSsPlScdp8VkOCETau-QtQ2Svb8=)

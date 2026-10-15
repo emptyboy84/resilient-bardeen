@@ -1,0 +1,16 @@
+The search for ""부산패션비즈센터" "비쓰리디" OR "디쓰리디" OR "하지태" OR "509-2호"" returned the following summary:
+검색하신 키워드(**부산패션비즈센터, 비쓰리디 / 디쓰리디, 하지태, 509-2호**)는 부산 지역의 섬유·패션 및 패션테크(Fashion Tech) 산업과 밀접하게 연관되어 있는 기업 및 인물 정보입니다[1][2][3]. 
+
+* **부산패션비즈센터:** 부산광역시 동구 범일동(망양로 978)에 위치한 부산 섬유·패션 산업의 컨트롤 타워이자 지원 시설입니다[4].
+* **(주)디쓰리디 / (주)비쓰리디 (D3D):** 3D 가상 의상 및 IT 기술을 기반으로 패션 샘플링, 소싱, 스마트 팩토링 플랫폼('원데이샘플' 등)을 운영하는 패션테크 기업입니다[5][6]. 
+* **하지태:** (주)디쓰리디(D3D)의 대표이사이자[2], IT 기술(3D 시뮬레이션 및 데이터 플랫폼)을 패션 제조·유통 공정에 접목하여 진입장벽을 낮추는 데 기여해 온 기업인입니다[7].
+* **509-2호:** 부산패션비즈센터 내에 위치한 공간(주소: 부산광역시 동구 망양로 978, 부산패션비즈센터 5층 509-2호)으로, 해당 패션테크 및 관련 디자인·제조 사업 분야의 법인(비쓰리디 등) 또는 관련 시설이 입주·등록되어 있는 주소지입니다[1][3].
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnnGwjkuklgKpbUkh6FvmXTdwMvZ-HDY440ZEaMYCKFFO8DzKspsNIYdPx7Jpwio85k3Wu3OZsE79ni7R4k-EDMhiOI_rj3RdfjormhIcMZy0n_gfV)
+[2] [ktnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErvy00dtTUorZfIRZ_b5MjfS5zL3deiy_xa-JrIKyHJ4H5VJEcZEuTyFtaATmqotxM8UcDq8wLzOQYyuib_BYX_YFTCTUgciQNPVOJrG3tNBMvXPLWTRupEeHaarGkvsM-byDcz5gYC52QAoztg8g=)
+[3] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnnGwjkuklgKpbUkh6FvmXTdwMvZ-HDY440ZEaMYCKFFO8DzKspsNIYdPx7Jpwio85k3Wu3OZsE79ni7R4k-EDMhiOI_rj3RdfjormhIcMZy0n_gfV)
+[4] [fashionnet.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeqtxb93t6Clc53-NOefqgO34eS418aSpUK8EpNMETftvqE6U6Q51rNr3JOs29UN60scD5PPXovUPeBppCdplS5Pj40YDLC09lIyaaKB5ZdWMgD6yy2zXVbxpTmQNGEy2FYAQ=)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhxg3xA2zr-uunDdABqvYF69hCL-relcbARibOWz4zjzztHqBuxa_5nSebRnLxceQqXmMO7fr0UHT6gnWZGoQCGb3llBQtVDedvBR79DhD5nsQ5G8mPwnAHMhhfSGGBE_L)
+[6] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWSqz3Nyx2sjvVmur0SW0MuZMyxqaHzwqFVeQ5FADES-eyo5Oi9-mkNAyp8Wrecs9tZ6L0mDiOGIfG88I4bPC6DioBnkMG-k0BUdgMaO4SaSoAIvLFnG778KMvlCRx9VGEWf4aZQc7X2Fll8yUj1eINAiyf0xljWdt5MT2eBSE9M_xQkjwg4WTlz9yxDZZovksUH19DZxZeVDpuc9vEh6jJi9kmb5Hjr1zR62pwZz9JdHgkLAdIMjn0Zz4xkhelNPMkWo=)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGqZVImkwzCz18KvvKJD3sPDAh4dymCNlDY8tRChSWPzGEtqxtjkjY1JEm2BJuZdX5gvvi_8kaMH-jw-GE6uyPMODXSGaM_UC1ciGSJPQdTmVKEMDK2hrkyqBaLRU6b_bAYwcOv517LY9VH4E22yDGQ==)

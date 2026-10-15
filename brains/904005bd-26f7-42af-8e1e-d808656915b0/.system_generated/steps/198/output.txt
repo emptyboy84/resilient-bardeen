@@ -1,0 +1,16 @@
+The search for "site:scribd.com "9514-1435" OR "010-9514"" returned the following summary:
+The search results for `site:scribd.com "9514-1435" OR "010-9514"` returned the following contexts:
+
+*   **"9514-1435"**: This sequence appears in a technical spare parts manual (specifically for a "2nd Stage homogenizing group" by GEA Niro Soavi) as part of an identifier: `0400 9514-1435-000 1 FLANGIA FLANGE...`[1].
+*   **"010-9514"**: 
+    *   One result lists it as part of a contact number in a directory or business listing for "포스터" (Foster) at "F3 C-24"[2].
+    *   Another result shows "010-9514-z" appearing in a technical document related to "Ansys Engineering Data"[3].
+    *   Some results contain the numbers in unrelated or fragmented academic/technical citation contexts[4][5][6].
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmEHh8kiEItT4AWRsToaF4LHJ9LzqM56EA8LM4rIPlISTXBdijNoHQbcn6XYS_sCxaNCa5grfwR1diGVxGGjzSv3_dXlLcyQCJTnifiHWvkVjTnDlMTEkPwTi7k1EFnVdptE-jPtf8oTYj)
+[2] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYSVApBJ-FMb3qauUSFuOeNgws17DTxwzVOcr0JX1KxwVsNh6rH8ObgC3GdtHi_CnUYwwNkgvl03J10wUw5QNQRB1wScRHiMX4i2oTXfNyU_3mX_QL54KipI50yWgO0b_9k1m_Ik_rAFKfDN2XOFBEsDwm7OYOD2DgjWPHXh7uOIIyg9GEFPWIsk40DR4QTV4e3Y5gUWBveyxOQz8tVZ7SFGU7BeKI6JcvpUbfIsZoTaUfkH0s_fJK3res4Jr7mv0qKxVxOIH40io1QyuD7kLdbPj7sW_PNpjByRpdrTb5z10Nmm7CSTmyALcKTZ9057ygdcVtbPBW1hRe--qrQh8csAwlWCiZhH6Favf79LpkOkZIiHXu_AGxllVUVRbDPSBLyGuv7sF_2kZIAU4JDEv5Vy4AO31EzNzTKrCxIzM2ebbCMVO_LboTvaODDsSTUU7pH_BCu7Wayz7YFiA13pvswXm1Wtef6VzEgxVxOJOA9J9RMS8dl2v8dsTft1R2S8nQjBzIjFPMA5-V4_z4_wdPMVZUEI4EE-ckungHJfZ6gB66OuleAT7M2fmjB1ehSSKPoGvqcCsIdliEvTlBVv6i4-CVA_UW8V61Epf5suC_1T0syWAh1vb02-tiZ1hpDuurHMpEszJBy4dEODJ8rdlf)
+[3] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZh7-tdPOSUm3E6rosmTdbxUWFALpgvN3Ma8toLeVwnl7xkZawJ8oduNG-oo3KaxCGU5a2_PpHpW5oT58Gv8e210AIYrjv2NpYprfaI0yZ7LJRrQgeeAKezhi2sLtf1bQnUwYOvOSWT18tMA8ysCIy1WL4PmSse_maCYLuXCGvGvLCKYz3ZZB4R3xzxy9QEgrEhgi8Fusxk4PsxJzeBqqK9aT7Qf-b9K-bZnk7ABOzP0eka8Sc6-UAVSNt8vZk0XpHctykWf4=)
+[4] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4uMnat8nwBWGcLo3OrSRTOmsitMUcuWHDUK4JZhlRox9zBgHChnyb-XvJzmMcqm_W2bCNBxLNHr2gI-ynZYdI3ks0-jYfsVeBw8BBCt2dVKtw9rZ1yOqBzknMAEl5_7vC8qq6ydvcTzqJxldktg==)
+[5] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfebU0dFKC6IoCZR2krH7rAOUEB5FYoUFVDQVHQtFpXrm-ZIuZOEzPMdNT-vRvygJy-OgA_tmOj5SxwZxEmS0uldn9QAxlfNZrFOqqe3AXGWxKs98G_nwbZxjYhmeCfyDtLiEFWSxGSmLOiXRr-YMHArT8XlZb)
+[6] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE62XllUAFfTpkQxxROBAeeUYbq2GgyNNWL6vlv-49lJ4D-O3qpy5RYnJjTom7sfIiSfl1VGmYctEX-lrS4GHVHScnHtePwwBK-Oqfyw9vfXt2idd9j1GMOjQPGN2n4LzPxmrbxYCTgnYmtWOgos9lMkKL2b9Gsam_m2ZuWm_Kyo4JacBvONTUlSEh4qdeT)

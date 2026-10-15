@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+[
+  '                        <a class="mbz-primary-nav__link" href="/업체명으로기업조회"><svg aria-hidden="true"><use href="/type/common/img/mbz-nav-icons.svg#company"></use></svg><span>기업명·사업자번호</span></a>',
+  '                <div class="mbz-primary-nav__analysis-start"><span>분석할 기업이 정해졌나요?</span><a href="/업체명으로기업조회">기업 먼저 찾기 <span aria-hidden="true">→</span></a></div>',
+  '                    <li><a href="/업체명으로기업조회" title="기업명·사업자번호로 기업 찾기">기업명·사업자번호</a></li>',
+  '                    <li><a href="/업체명으로기업조회">기업 먼저 찾기</a></li>',
+  '                               id="searchInput"',
+  '                               name="searchInput"',
+  '                               value="/업체명으로기업조회/" />'
+]
+

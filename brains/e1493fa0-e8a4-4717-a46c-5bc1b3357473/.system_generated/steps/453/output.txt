@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Raw line 17: "청우정공\t6090653247\t이상원\t50802\t경남 김해시 생림면 상동로 78-73 (나전리)\t055-337-2386\t\t\t\t3\t그 외 자동차용 신품 부품 제조업\t\t\t제조업\t기타 기계 및 장비 제조업\t일반 목적용 기계 제조업"
+Parts length: 16
+

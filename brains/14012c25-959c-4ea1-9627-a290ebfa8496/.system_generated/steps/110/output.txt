@@ -1,0 +1,14 @@
+The search for "site:weseb.com/business "343-88-02150"" returned the following summary:
+위세브(weseb)에 등록된 **주식회사 위너스매니지먼트**의 사업자 정보는 다음과 같습니다[1]:
+
+* **상호명:** 주식회사위너스매니지먼트[1]
+* **사업자등록번호:** 343-88-02150[2]
+* **대표자명:** 박*환[1]
+* **법인형태:** 법인사업자 (영리법인)[2][1]
+* **통신판매업신고번호:** 2025-부산남구-0536[2]
+* **업종:** 비주거용 건물 임대업(점포, 자기땅) / 기타판매방식[2][1]
+* **회사 주소:** 부산광역시 해운대구 센텀중앙로 48, 711호 (우동)[2]
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ_ni5nkJkYZXJdTtjNxuhisxWZuveXuxgml8xl4vxEJAZYNW_msTKYNKEBmhpmnBG4rW_1afdv_nEZNVL16GC0QKz3_EdGsTgFCIgIZIpsAkVlkx2hGFYh7e7BNzfPLm180B1DjmP73WaaRixZEMSrJA=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO7l4qVVyT-8LEKnZpCZ8EZ4Dm0f1uDleoAhvJLYFchwX1tyQUzWEXhv_KHa4A8CV2uLDJ9eiUP6ZegOJSr1xNlpDhNNMZff3CGktryGOLSAVPNDV-CjQjlg==)

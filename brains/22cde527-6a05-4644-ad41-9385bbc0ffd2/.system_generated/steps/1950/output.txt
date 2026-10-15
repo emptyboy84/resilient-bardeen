@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+Total Blank Rows: 229
+- With CEO: 84
+- With Telephone: 190
+- With Address: 148
+
+Category breakdown:
+┌──────────────┬────────┐
+│ (index)      │ Values │
+├──────────────┼────────┤
+│ 음악         │ 19     │
+│ 공연         │ 7      │
+│ 애니메이션   │ 10     │
+│ 출판         │ 57     │
+│ 영화         │ 9      │
+│ 광고         │ 10     │
+│ 게임         │ 21     │
+│ 1인 미디어   │ 1      │
+│ 방송         │ 4      │
+│ 만화         │ 21     │
+│ 캐릭터       │ 33     │
+│ 지식정보     │ 17     │
+│ 콘텐츠솔루션 │ 20     │
+└──────────────┴────────┘
+Saved to remaining_229_blanks.json
+

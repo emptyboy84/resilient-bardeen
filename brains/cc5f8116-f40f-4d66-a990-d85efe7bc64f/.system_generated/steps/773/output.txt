@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+Total rows: 2313
+Q col (24년 매출액(원)) non-empty: 272 / 2313
+R col (25년 매출액(원)) non-empty: 109 / 2313
+Target 318 rows: Q non-empty = 4, R non-empty = 0
+
+--- Samples of Q col (24년 매출액) ---
+Row   12 | 에스와이이노테크             | Type: int | Value: 0
+Row   16 | 아빠 말 잘 들어            | Type: int | Value: 0
+Row   17 | 픽스                   | Type: int | Value: 118425255
+Row   19 | 아이러브뮤직               | Type: int | Value: 561834000
+Row   20 | (주)핸디커뮤니케이션즈         | Type: int | Value: 3500000000
+Row   35 | 마나타임                 | Type: int | Value: 2472769
+Row   47 | (주)넥스트스테이지           | Type: int | Value: 91635688
+Row   89 | (주)스토리게임즈            | Type: int | Value: 10000000
+Row  105 | 굿프렌즈스튜디오             | Type: int | Value: 0
+Row  116 | (주)투핸즈인터랙티브          | Type: int | Value: 2591030967
+
+--- Samples of R col (25년 매출액) ---
+Row  301 | 진보퍼니처                | Type: int | Value: 376475000
+Row  507 | JREnt.               | Type: int | Value: 660832000
+Row  532 | 금성출판사                | Type: int | Value: 63132624000
+Row  653 | 라쿤                   | Type: int | Value: 4659614000
+Row  698 | 한국해양개발㈜              | Type: int | Value: 28004678000
+Row  703 | 주식회사 브이드림            | Type: int | Value: 6000000000
+Row  712 | (주)오렌지보드             | Type: int | Value: 178617000
+Row 1017 | 우원소프트((주)솔트룩스이노베이션)  | Type: int | Value: 2137959000
+Row 1350 | 동서씨앤아이               | Type: int | Value: 4380346000
+Row 1523 | 애드클래스                | Type: int | Value: 5356735000
+

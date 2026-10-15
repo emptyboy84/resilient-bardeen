@@ -1,0 +1,29 @@
+The search for ""RDM" "창원" "초정밀부품" OR "초정밀부품제작가공"" returned the following summary:
+검색하신 **"RDM"** 키워드와 관련하여, 창원 지역 내에서 **초정밀 부품 제작 및 가공**을 전문으로 하는 기업들을 확인하였습니다.
+
+질문하신 "RDM"이라는 특정 명칭을 가진 기업이 검색 결과상 명확히 드러나지 않는 경우, 유사한 분야에서 활동 중인 창원 소재의 주요 초정밀 부품 가공 업체들을 안내해 드립니다.
+
+### 창원 소재 초정밀 부품 가공 관련 기업 및 기관
+*   **성원코리아(주)**: 5축 가공기를 이용한 위성 정밀 부품, 공작기계 부품, 첨단산업 및 중장비 부품 가공을 전문으로 합니다[1].
+*   **고려정밀공업(주)**: 전자빔 용접(EBW) 시스템, 특수소재 성형, 중대형물 정밀가공 및 단조금형 제작 전문 기업입니다[2].
+*   **창원기술정공**: 방산, 항공 엔진 부품 및 민수/수출용 정밀 가공품과 특수 공정 부품을 제작합니다[3].
+*   **(주)에스에이테크**: 자동차, 전자, 중기 부품 등의 초정밀 연마 및 정밀 부품 가공을 전문으로 하는 기업입니다[4].
+*   **(주)디엔엠**: 한화에어로스페이스 등의 파트너사로, 방산 및 항공 엔진용 초정밀 부품을 개발 및 생산합니다[5].
+*   **태인정밀**: 방산 및 민수 시장을 공략하는 창원형 강소기업으로 선정된 정밀 부품 전문 기업입니다[6].
+
+### 참고 정보
+*   **창원국가산업단지**: AI 기반 초정밀 가공장비 육성을 위한 소부장(소재·부품·장비) 특화단지로 지정되어 있어, 관련 기술 연구 및 제조 생태계가 잘 구축되어 있습니다[7][8].
+*   **창원대학교 초정밀생산시스템실험실**: 초정밀 가공 및 생산 시스템과 관련된 연구를 수행하고 있습니다[9].
+
+만약 찾으시는 **"RDM"**이 특정 기업의 약칭이거나 다른 명칭일 경우, 해당 기업의 정확한 전체 명칭이나 관련 정보를 추가로 알려주시면 더 정확한 검색이 가능합니다.
+
+Sources:
+[1] [sungwonk.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdJWmYyZPntpbmPJ3xq91I6Zfsx-HdfZXIHDZeipvbI8A8AHT3tdXwu80v25TA0ap5nGTpgT9FAsWTVQS48ZnCawI-LWLDjSNf)
+[2] [kopico.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAieMmd-OLr3B1B4kVsPIQKxktRxZzAA5ZWtvyz1fMP7zHr3dDLXgEiPaNdTTA4QFcCFH6gIiGsF8OaV9V7VxDDExujcCRw4LZvWE=)
+[3] [cw-tpm.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVAYRUblNhTJjM5QRrmJqjq0FX7tJJsNxx7zxaE3q9HtYEQaBEFWwOjU7xYYrpE3QctHPu2NPXnWQNxjcW6zQdOr7CUsUd73On60-VTAHE5uL5bzEV5a3h7XZdVYOegrZQWV2szpWAICfEtY409Muy4PuUpwuHs9F3h2BuRvFiVv7yDKYrysZ-Hp5ZDiiUR4RwY9gbh4CjrkLlCp8jp07MOQNbjf69tnqe29Kn7tOPshwdBWruHVfe2azqRHIjP-xtzzWLVEbIYAEonMrZeZC8Cg2o8_a9AY0HMujQeNzTyDgcwnsL6eb99So9ZEPvbWOdllAGwqyfh3FGbhkoWkm6glVXXtMf)
+[4] [satech100.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyCJqkfLssbMSB2t2QjfOCuQDSt2VCc4F03pdeW8q5mKJN2yNi2ux9CkouW8gOyon-ZipTZd3jdp62x1zHw6zubYClCQWMvLk0wWA9Nv9ATwOAi7gK-nT9s7FTUjM6Ma4tcULpwAwygiiLhkH)
+[5] [cwip.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdx6PMVUacZb13vTjmrGgjc4LHhCjh3oDsLcNA2n8LALZ7S7Iy5DNCqg8lVloCQFVVKVRcXYzuGtjAj3WviFhiU6UNTZeNWnnPrpl9xGdR7Hzyb7N5AIOshtcEJvuWz6d0Xl-Bz3GCmF7ZqKK1WpMJh65WInwTVll376R)
+[6] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZl83wvsyhW8WC6qj_yaCT3jXa461Dtxj8GIYmj293WOHFCGP1pUGEr-hpR6f9aSB_u3BtWV5kgLmJkh0AqD5ZhsuzFtSzf-zN212agVvA7zv4ECSc8nJUvqSqurZFyjwuvtEP9_qhTLFwG7mrXO2dDjcP7XAFcL8P)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfp3eF0YbgCjPwp126fvP8Cj8YcDKXM2EwT590ocuc8HQgcXVvJKjtHGQyu2q_pnvQ9MqvkNj0LZCmTZR1OU6tRmJ3e38ymb8n2rj2kan0J6gwsmBfhrrRLdogKjvKv0CTUHAw)
+[8] [newsis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUo_pBXG1Ot8ti-X8z17Gc5OO38idYXPQauo9PMocYMEc5_N1h5XBr1JFPSp9dJv_Sxgm28qUJE5Rel_r7V028sL8Ta44Le29NNNJYjYv3vkwyPcultQa9wSVjEcpoTtpM-R89WpO-0pgiBbU=)
+[9] [changwon.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtCJrBDxm27zXFGaFW1ObgWsEMO0QlvRGyU8vIs3IhHvbQJ6FWcmF9sUaYgLn_i4pEtlGYgUoHsjwdWgq-ozchHj8ANsbkZlnq-gF6RPvCI2Jbm5Zu8qx2ivkDxemJ)

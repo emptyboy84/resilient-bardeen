@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=비문인쇄');
+```
+### Page
+- Page URL: https://bizno.net/?query=%EB%B9%84%EB%AC%B8%EC%9D%B8%EC%87%84
+- Page Title: 비문인쇄
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-35-13-717Z.yml)

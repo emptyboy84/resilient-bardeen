@@ -1,0 +1,35 @@
+The search for ""마이비" "605-81-39783" OR "손민수" "감사보고서" OR "매출액" site:dart.fss.or.kr OR site:saramin.co.kr" returned the following summary:
+문의하신 기업 정보와 관련하여 검색된 주요 내용은 다음과 같습니다.
+
+### **1. (주)마이비 기업 정보**
+*   **사업자등록번호**: 605-81-39783[1][2]
+*   **대표자**: 이정환 (일부 자료에서 손민수 대표로 기재되어 있으나, 최근 공지 및 기업 정보상 이정환 대표로 명시됨)[1][2][3]
+*   **소재지**: 부산광역시 해운대구 센텀북대로 60, 센텀IS타워 11층[1][4][5]
+*   **주요 사업**: 전자화폐 발행 및 운영 관리, 교통카드 서비스 등[2][6]
+*   **매출액**: 사람인 기업 정보에 따르면 (주)마이비의 매출액은 약 833억 4,821만 원으로 기록되어 있습니다[7][8].
+
+### **2. 손민수 대표 및 관련 기업 (이동의즐거움 등)**
+*   **손민수 대표**: 과거 로카모빌리티 대표 등을 역임하였으며, 현재 (주)이동의즐거움(사업자번호: 129-86-38970)의 대표이사로 확인됩니다[9][10]. (주)이동의즐거움은 교통카드 서비스(캐시비, 마이비 등)와 관련이 깊은 기업입니다[5][11].
+*   **감사보고서**: (주)이동의즐거움에 대한 감사보고서 등이 공시되어 있습니다[10]. 
+*   참고로, '손민수'라는 이름은 인크로스 등 타 기업의 임원 정보로도 검색되나, 교통카드 사업과 관련된 인물은 주로 '이동의즐거움'의 대표로서 언급됩니다[10][12][13].
+
+### **3. 추가 참고 사항**
+*   **사이트 검색 결과**: DART(금융감독원 전자공시시스템)에서는 (주)마이비의 직접적인 매출액 공시를 확인하기 어려울 수 있으며, 주로 '이동의즐거움' 등 계열사나 통합 운영사를 통해 공시가 이루어지는 경우가 많습니다[10].
+*   **사람인 자료**: 제공된 매출액 정보는 사람인 등 채용 플랫폼에서 수집한 데이터로, 정확한 최신 재무 상태는 금융감독원 DART에서 해당 법인의 정기공시를 직접 확인하시는 것이 가장 확실합니다[8].
+
+필요하신 특정 연도의 상세 감사보고서나 재무제표가 필요하시다면, [금융감독원 전자공시시스템(DART)](https://dart.fss.or.kr)에서 회사명 또는 사업자등록번호로 직접 검색하시기를 권장합니다.
+
+Sources:
+[1] [mybi.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyKCaUNZCnO3YkHeMTxk03W93dtpHcWN3NDgwjqB3l8UOFm6X1kkPMwN4PJ1IdX9IBBDoRLvjdsGNPE8GsTWxW87PVMuufJ4sYXE9qEQ==)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdQ7xBIH7fC3-j4pEGr3vusY_cTDKLgrUwMdZw-TPmRe6slMDplACQ2ZGYd-hJeBrXkaInrNTF3zLoDSVQvzopt_XSwlp8PRraoWrGOeMhiMspytV1EgDssV_9uf4-tjjfKSY=)
+[3] [mybicard.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG73M9p3UZrvVErpep5YxG14Jhno8Hk1W5bJuaTp4xehDDb2yXJtRGzwPSf651uH3I6658sc4yJ08PKY-UR7XTLlTrRducm-YojSnQC7fwOwsSC9CLuvDMwY8cR_Y4h5BmZBCswlhF2TiQS6fn6Ug==)
+[4] [mybi.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJwBUjZCXlPw6asyUCDoC4teYK5CJODQss-4dCq2FvLSOA2lWW39KGbVnCLNCRWdp1neZjt-mIZGPAt9Ud4JiX98Z-9UKQAmzmeLlMFzNu3UwGMEa6A7jyBrY0dTx8A7WbP5L_)
+[5] [ebtaxi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMX2Kus9GOqW3XQjNBgqgiidWQFBezCQQHkHOGZV2on1iCm_ffQCxoT33_nWoJYmcz860sGJXiYlLfiZ5memMFubiQpbPjKJPzwKUgyB9LNhqPQ14pp8IJtY1ZYcaMnfSNVtDrHM4K)
+[6] [mybi.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMf3HWG40M_9S-OvbxCXWkTQQQdX0CmEiydWb8U8zWiFociCLiDYVpuTouaZvRcf5tz5iADEIN-x9oo23JGR-2rppSgK9DzER7S8s--uvgV2SATqoyiZ7ps0-yf4SZfZK1KW23gwVkFiSj)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE56IaJjeB_f9BhATsHwAT05hljLLjxJNbqbAFy-9CCtcFJQaJQNuxVYZunTTUed0ubTqJEoNKgoFvGCZOrmyec65kAESvv72Pu_nrKUsUKQNrMJfi2UXS6pT-jQbvilVlOYxzMzjmW-_jBl2xq3ZnVhZxaN8ryYg11rxUj9l1F9LGEQ1YA5__HImcr2rMAZHPFAfjqmiq580amJufgcFD2S1Kj0ivy5rj6YgN-YmSpoaoXQZDJM0PO4bnYGP-MXXmi)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwecHaPU9mYAvtYXG_xdBTDg75ryGM6xAIUIbNqokG7ysMH7hkwoFcXWSJowfyeFMUDUjdLfvlzMXl2T-KS2YyadoR6dR3mX9evEkbOZfq58fIWok_XvMA5O7SHHgd7D2wE3r_BPFw61e93AJf-1XJte8dexADZV-FQMLK5nSLvmgEybuESPzWB0Qu_4s=)
+[9] [ceoscoredaily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GujIOgwtaM5Sy-sq0rc4JPwipR4srdZ-JSZx16gBDArJAMtEvyiYLHkCDNj9C2bc38sV-5gJVQUHotj6xTDfw3Sr9aj22vLHv14FGuXR4CyS7CSLpK2Nm9puz_thG-Y6AyLZTzMWayz5jEoPZBggHQ==)
+[10] [jstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqTnOZlrrZL-kl35u4CKCE5v5jvEewdK77fUEqAdG3zy7QkzlvDk9KLLWsDx58MOLnua4XWgjjWMHOA-apbSY7HhcXBT6QhmwIUPeiJ7pbGxU0S7K-_hd)
+[11] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8ak2yHY8fX2O8wEimUCqmxpzvq_x-s6o1H-qOaF1e83lU0Ap36Ls5zziJYFDEFefItVhuGEr2k6Dj6Z8XlORWIlRDkxUE6ZIX7YWMytjPM2BsEXr3EdSRsgWia6MzWlH78KcJQIp3Mk2JlCtgGdeRbeulCG5HYVzDurUlcAgOdBcKbHOHD3sgxShtcy-BMtDSY65EcNuIXadENZCJKh5kN9GAf7w8RAHMC-zxtwkW6O4SFjigGyjCV3VUNwDF27_LIIqCsz9vHCeYMVaaCreLjmtw-twcMFy9pFoK)
+[12] [incross.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX5VJU59X8xuTP4CUtqyJtG2zSoZTtesasatInJ3-SkYRI9qh4mtx5vMrFgsCNKJZVh_y2V8U-tb1F4h0YvpNsysEh0Z_NJlLZfspAu4zuSfr387-y_doenOmMICz7HG_FQAawHwyzBSm9QeCa2LOQTcvEwJ6PDtZxVAyugPwaRSydrsPQbbvLlnKZYYS9ykvhBLyr9WSW1Y2icE6R0X9_MXXyOl7qZif3imnIVEiNRke2Q1Y1CuLqfbYuJrve0SrEHEO7DmWu0Opw752FEqace0sIja4_vzGlY3CdUFVPO8MVjeNtg==)
+[13] [domino.is](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkDYau4KdpdGgHIBfTyDzAW6W7DNH1GKBtyFgPwJxx6AdTbESsy_BNXo-dVSBQ3Xd-JquIKdcB7MOYofj8QqP6tTALrEuhgtxIctaCsU7G2ILymHy66anSutnSUk4bwhSqgGQ4vPU=)

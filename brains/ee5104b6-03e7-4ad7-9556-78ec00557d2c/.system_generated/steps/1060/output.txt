@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Official KSIC 11th Classification: {
+  name: '물질 검사, 측정 및 분석기구 제조업',
+  code: '27214',
+  section: 'C',
+  large: '제조업',
+  division: '27',
+  mid: '의료, 정밀, 광학 기기 및 시계 제조업',
+  group: '272',
+  small: '측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외',
+  subgroup: '2721',
+  class: '물질 검사, 측정 및 분석기구 제조업'
+}
+

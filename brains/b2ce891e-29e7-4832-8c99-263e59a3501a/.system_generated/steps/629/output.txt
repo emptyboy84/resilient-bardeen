@@ -1,0 +1,11 @@
+The search for "site:bolta.io "김도응" OR "파이"" returned the following summary:
+bolta.io 도메인 내에서 검색된 결과는 다음과 같습니다.
+
+* **김도응**: 볼타(bolta.io)의 사업자 검색 및 공공데이터 DB 상에서 주식회사 리들러스의 대표자로 등록되어 있습니다[1].
+* **파이**: '파이'라는 단어는 직접적인 인물이나 고유명사보다는 상호명에 포함된 단어(예: 주식회사 파이엘테크, 파이정밀, 에듀파이교육센터 등)로서 볼타의 사업자 정보 및 거래처 조회 데이터베이스 페이지들에서 확인됩니다[2][3][4].
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZcwI74CHx9YPrxkEJuJ2Nng6oj1syy0qu-OBFS9T17e4w_S0Xzmhmeam1p8U4RAT2O7Gz40I70klSXaFWMAernp-9kaYoB6CP9-TKJ29wUyfIr8=)
+[2] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKJaL53Q7-YAA7zyDkA9-X2MCeqDQZFY06u0r90gG1tsfMEaOPXb1JAFO0vjeqds6NyuVdsjxfZMtFDsW4ynRBat5u6Vwa3AKbIImr1fjX53nKNL8=)
+[3] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfu9bJb2P8KGtg0tywz-Bp-rTY8H-oONOZ3Ksq8kAhdrszotexMzBnV0AUkF5jZJJbAq4EjzBmYvsCbSIDYCjBtwPwdVqCnUddIncay1a-vcgJdWM=)
+[4] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfY4WcTsVp3IcfLeFVVoIR3-MeKRCDxCwwyXlGN9BthOByit38affdgHpfgTvaL-TV9EwZaU3oWbaUgI5D99b13gywYRXidUpsVEGWeUOrzaKpk98=)

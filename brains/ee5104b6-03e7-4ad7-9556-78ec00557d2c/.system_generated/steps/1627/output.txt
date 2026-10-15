@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5563100754');
+```
+### Page
+- Page URL: https://bizno.net/article/5563100754
+- Page Title: 코스코스
+- Console: 0 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T00-25-08-536Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T00-25-03-739Z.log#L1-L8

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+MATCH [기업체 리스트] R638: ['25년 모집단', 638, '디자인애드핏', '585-81-02115', 2020, 7, '김재관', '0507-1353-8263', None, '해운대구', '해운대구 센텀중앙로 48 412호 (우동, 에이스하이테크21)', '게임', '게임사업단 요청으로 제외', datetime.datetime(2024, 4, 30, 0, 0), '폐업자', None, None, None, None]
+MATCH [기업체 리스트] R1853: ['25년 모집단', 1853, '프라자만화', None, None, None, None, '051-523-6320', None, '동래구', ' ', '만화', None, None, None, None, None, None, None]
+

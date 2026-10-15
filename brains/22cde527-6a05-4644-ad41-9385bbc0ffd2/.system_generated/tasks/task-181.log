@@ -1,0 +1,889 @@
+Starting STRICT Pass 1 verification for 421 records...
+[1/421] Row 126 | "블루호텔레코딩스튜디오" | 대표: "김현" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[2/421] Row 504 | "89Light" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[3/421] Row 508 | "LINC" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[4/421] Row 536 | "김정보" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[5/421] Row 537 | "꿈해몽" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[6/421] Row 539 | "나래바람" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[7/421] Row 547 | "냉이영화" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[8/421] Row 552 | "녹생광고연합그린하우징" | 대표: "박명섭" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[9/421] Row 568 | "단디콤" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[10/421] Row 589 | "도서출판국제" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 10/421 | Matched: 0 | Unverifiable: 10 <<<
+[11/421] Row 593 | "도서출판일광" | 대표: "" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[12/421] Row 598 | "도성회" | 대표: "" | 구: "북구"
+  => UNVERIFIED / PENDING PASS 2
+[13/421] Row 602 | "동그라미광고공사" | 대표: "정지후" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[14/421] Row 607 | "동아대학교출판부" | 대표: "한석정, 정갑두" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[15/421] Row 611 | "동화사" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[16/421] Row 619 | "드림유엔터테인먼트" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[17/421] Row 639 | "디자인에코" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 603-10-85753 (디자인에코) | 주소: "부산광역시 금정구 금정로 147, 4층(장전동)" | 대표: "이돈희" [계속사업자]
+[18/421] Row 645 | "디지털포토2017" | 대표: "" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[19/421] Row 649 | "라온엔터테인먼트" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[20/421] Row 692 | "메리데브" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 20/421 | Matched: 1 | Unverifiable: 19 <<<
+[21/421] Row 701 | "문화일보 수정중앙지국" | 대표: "" | 구: "동구"
+  => MATCH CONFIRMED: 605-01-99891 (문화일보수정중앙지국) | 주소: "부산광역시 동구 망양로 739 739, Mangyang-ro, Dong-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[22/421] Row 703 | "주식회사 브이드림" | 대표: "" | 구: "동구"
+  => MATCH CONFIRMED: 186-86-00972 (주식회사 브이드림) | 주소: "부산광역시 동구 중앙대로 216, 13층(초량동, 교원부산빌딩) 216, Jungang-daero, Dong-gu, Busan, Republic of Korea" | 대표: "김민지" [계속사업자]
+[23/421] Row 708 | "모션박스" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[24/421] Row 714 | "무몽크" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[25/421] Row 725 | "박기양" | 대표: "최보필" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[26/421] Row 730 | "버킷리스트" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 673-23-01581 (버킷리스트) | 주소: "전라북도 정읍시 서부산업도로 363(연지동)" | 대표: "김영선" [폐업자]
+[27/421] Row 745 | "불교문학신문" | 대표: "최경식" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[28/421] Row 749 | "북인더백" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[29/421] Row 750 | "불교방송" | 대표: "박형수" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[30/421] Row 751 | "불교텔레비젼" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 30/421 | Matched: 4 | Unverifiable: 26 <<<
+[31/421] Row 757 | "브이알코리아" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[32/421] Row 764 | "블루레코딩" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[33/421] Row 768 | "비문" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[34/421] Row 787 | "사단법인한국문화콘텐츠협회" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[35/421] Row 811 | "센텀아트" | 대표: "김경수" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[36/421] Row 817 | "소울필름(SOULFILM)" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[37/421] Row 831 | "스카이미디어" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[38/421] Row 848 | "시드" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 617-33-90104 (시드백) | 주소: "부산광역시 남구 석포로91번길 82 (대연동) 82, Seokpo-ro 91beon-gil, Nam-gu, Busan, Republic of Korea" | 대표: "백병수" [폐업자]
+[39/421] Row 874 | "아브뉴다연" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[40/421] Row 955 | "에프지엔터테인먼트" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 40/421 | Matched: 5 | Unverifiable: 35 <<<
+[41/421] Row 987 | "예일광고사" | 대표: "양종권" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[42/421] Row 1015 | "우수경" | 대표: "이석창" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[43/421] Row 1022 | "월간좋은세상" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[44/421] Row 1034 | "위컴퍼니" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[45/421] Row 1035 | "위플라이엔터테인먼트" | 대표: "" | 구: "영도구"
+  => UNVERIFIED / PENDING PASS 2
+[46/421] Row 1047 | "윤서하" | 대표: "" | 구: "영도구"
+  => UNVERIFIED / PENDING PASS 2
+[47/421] Row 1048 | "희웹툰" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[48/421] Row 1051 | "이노커뮤니케이션즈" | 대표: "윤오동" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[49/421] Row 1061 | "이송" | 대표: "이정석" | 구: ""
+  => MATCH CONFIRMED: 440-86-00648 (주식회사 이송) | 주소: "부산광역시 강서구 과학산단1로60번길 31(지사동, 부산테크노파크) 31, Gwahaksandan 1-ro 60beon-gil, Gangseo-gu, Busan, Republic of Korea" | 대표: "이정석" [폐업자]
+[50/421] Row 1062 | "이수연" | 대표: "최유창" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 50/421 | Matched: 6 | Unverifiable: 44 <<<
+[51/421] Row 1070 | "이지현" | 대표: "곽재홍" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[52/421] Row 1071 | "이진수" | 대표: "이진수" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[53/421] Row 1091 | "작은통일출판사" | 대표: "" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[54/421] Row 1113 | "조나단/이은석" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[55/421] Row 1115 | "족보만드는곳족보관" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[56/421] Row 1136 | "지엠이에스티부산지점" | 대표: "이나현" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[57/421] Row 1146 | "창작집단1407" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[58/421] Row 1147 | "창작집단한" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[59/421] Row 1149 | "채널부산" | 대표: "박민규" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[60/421] Row 1158 | "체스테크" | 대표: "" | 구: "북구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 60/421 | Matched: 6 | Unverifiable: 54 <<<
+[61/421] Row 1162 | "촬영감독최원욱" | 대표: "최원욱" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[62/421] Row 1165 | "카다모임" | 대표: "이제은" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[63/421] Row 1166 | "카리시모" | 대표: "박소영" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[64/421] Row 1167 | "컬러풀미카" | 대표: "김다형" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[65/421] Row 1179 | "코리아헤럴드내외경제신문" | 대표: "김종욱" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[66/421] Row 1192 | "킴엔존슨" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[67/421] Row 1194 | "타원글로벌" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[68/421] Row 1215 | "팀포테이토" | 대표: "김태영" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[69/421] Row 1226 | "퍼니아트" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[70/421] Row 1246 | "프로젝트원" | 대표: "강현철" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 70/421 | Matched: 6 | Unverifiable: 64 <<<
+[71/421] Row 1251 | "플레이트리" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[72/421] Row 1278 | "한국가이던스부산지사" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[73/421] Row 1285 | "한국산업정보사" | 대표: "김삼절" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[74/421] Row 1296 | "한집" | 대표: "홍정훈" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[75/421] Row 1342 | "다인커뮤니케이션즈" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 602-02-99846 (다인커뮤니케이션즈) | 주소: "부산광역시 중구 흑교로75번길 10, 2층 10, Heukgyo-ro 75beon-gil, Jung-gu, Busan, Republic of Korea" | 대표: "이진수" [폐업자]
+[76/421] Row 1367 | "리얼라이즈" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 617-28-83782 (리얼라이즈 레코드) | 주소: "부산광역시 수영구 감포로8번길 15" | 대표: "" [계속사업자]
+[77/421] Row 1418 | "쏘울픽처스" | 대표: "최웅식" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[78/421] Row 1468 | "재영애드콤" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[79/421] Row 1483 | "케세라세라" | 대표: "강민지" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[80/421] Row 1493 | "태림부산음악사" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 80/421 | Matched: 8 | Unverifiable: 72 <<<
+[81/421] Row 1517 | "페이크스튜디오" | 대표: "이제열" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[82/421] Row 1522 | "에스아이에이" | 대표: "신지선" | 구: "강서구"
+  => MATCH CONFIRMED: 606-86-07085 (에스아이에이 주식회사) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 1605호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "신지선" [계속사업자]
+[83/421] Row 1542 | "산마루" | 대표: "이용진" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[84/421] Row 1565 | "대한기획" | 대표: "김주환" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-08-83345 (대한기획) | 주소: "부산광역시 부산진구 중앙대로 940-1 940-1, Jungang-daero, Busanjin-gu, Busan, Republic of Korea" | 대표: "김주환" [계속사업자]
+[85/421] Row 1567 | "클린스쿨" | 대표: "최보필" | 구: "부산진구"
+  => MATCH CONFIRMED: 279-88-01812 (주식회사 클린스쿨) | 주소: "부산광역시 사상구 모라로 22, 4층 416호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea" | 대표: "최보필" [계속사업자]
+[86/421] Row 1570 | "신우사" | 대표: "김갑수" | 구: ""
+  => MATCH CONFIRMED: 603-01-84752 (신우사) | 주소: "부산광역시 사하구 승학로151-2 (괴정동)" | 대표: "김갑수" [계속사업자]
+[87/421] Row 1571 | "명진공업사" | 대표: "이명성" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[88/421] Row 1573 | "디자인필" | 대표: "정민주" | 구: "사상구"
+  => MATCH CONFIRMED: 617-11-25858 (디자인필) | 주소: "부산광역시 부산진구 황령대로64번길 14, 2층" | 대표: "정민주" [계속사업자]
+[89/421] Row 1582 | "디앤아이솔루션" | 대표: "이경은" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[90/421] Row 1586 | "플레이그라운드" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 90/421 | Matched: 13 | Unverifiable: 77 <<<
+[91/421] Row 1589 | "에스씨제이" | 대표: "윤성원" | 구: "사하구"
+  => MATCH CONFIRMED: 607-81-83801 (（주）에스씨제이) | 주소: "부산광역시 연제구 법원남로16번길 21, 301호" | 대표: "윤성원" [폐업자]
+[92/421] Row 1601 | "성창산업" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[93/421] Row 1603 | "케이멕스" | 대표: "정태석" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[94/421] Row 1604 | "고움" | 대표: "임서현" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[95/421] Row 1606 | "해승J&T" | 대표: "박해승" | 구: "연제구"
+  => MATCH CONFIRMED: 618-02-22245 (해승J&T) | 주소: "부산광역시 기장군 기장읍 대청로8번길 43 (기장읍)" | 대표: "박해승" [계속사업자]
+[96/421] Row 1611 | "시드게임즈" | 대표: "홍재영" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[97/421] Row 1625 | "에이치와이선라이즈" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[98/421] Row 1626 | "네오테크놀리지" | 대표: "공기정" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[99/421] Row 1627 | "삼주" | 대표: "백승용" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[100/421] Row 1629 | "나웅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 100/421 | Matched: 15 | Unverifiable: 85 <<<
+[101/421] Row 1630 | "한스이엔지" | 대표: "김종균" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[102/421] Row 1642 | "헤윰아이씨티" | 대표: "우석규" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[103/421] Row 1643 | "웅진씽크빅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[104/421] Row 1645 | "한솔교육" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[105/421] Row 1647 | "한국전화번호부부산센터" | 대표: "김용섭" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[106/421] Row 1664 | "팀브레드" | 대표: "강홍" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[107/421] Row 1674 | "북카페심심푸리" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 482-52-00083 (북카페심심푸리) | 주소: "부산광역시 부산진구 중앙대로702번길 33" | 대표: "" [계속사업자]
+[108/421] Row 1676 | "모드니" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[109/421] Row 1677 | "대박만화" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[110/421] Row 1679 | "블루젯" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 110/421 | Matched: 16 | Unverifiable: 94 <<<
+[111/421] Row 1680 | "봐라봐라만화" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[112/421] Row 1682 | "둘리만화휴게실1" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[113/421] Row 1684 | "주식회사초록이웃" | 대표: "황종필" | 구: "동래구"
+  => MATCH CONFIRMED: 308-88-02725 (주식회사 초록이웃) | 주소: "부산광역시 동래구 충렬대로202번가길 3 (수안동) 102호" | 대표: "황종필" [계속사업자]
+[114/421] Row 1702 | "액자가게" | 대표: "백종선" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[115/421] Row 1704 | "문화공간달빛콘서트" | 대표: "이문영" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[116/421] Row 1705 | "아트뮤직" | 대표: "김인효" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[117/421] Row 1718 | "주식회사 우리누리 사직동지점" | 대표: "" | 구: "동래구"
+  => MATCH CONFIRMED: 772-85-00887 (주식회사 우리누리 사직동지점) | 주소: "부산광역시 동래구 사직북로 4, 8층 1호(사직동, 삼정자이언츠파크) 4, Sajikbuk-ro, Dongnae-gu, Busan, Republic of Korea" | 대표: "김성희" [계속사업자]
+[118/421] Row 1719 | "제이케이스크린(사직점)" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[119/421] Row 1720 | "안락스크린골프연습장" | 대표: "" | 구: "동래구"
+  => MATCH CONFIRMED: 861-10-01121 (안락스크린골프연습장) | 주소: "부산광역시 동래구 충렬대로 420" | 대표: "" [폐업자]
+[120/421] Row 1731 | "주식회사 씨에스케이" | 대표: "" | 구: "사상구"
+  => MATCH CONFIRMED: 893-88-00021 (씨에스케이) | 주소: "부산광역시 사상구 농산물시장로 22" | 대표: "임오철" [계속사업자]
+  >>> Progress Saved: 120/421 | Matched: 20 | Unverifiable: 100 <<<
+[121/421] Row 1732 | "아이지오" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[122/421] Row 1744 | "레더스" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 442-88-01249 (주식회사 레더스) | 주소: "부산광역시 해운대구 센텀중앙로 90, 큐비이센텀 1204호 (재송동)" | 대표: "정민근" [폐업자]
+[123/421] Row 1750 | "명지 녹산 부산일보 및 동아일보" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[124/421] Row 1753 | "국제，동아，경향신문보급소" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[125/421] Row 1755 | "(사) 부산대학교 출판문화원" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 621-82-00477 ((사) 부산대학교 출판문화원) | 주소: "부산광역시 금정구 부산대학로63번길 2-1(장전동) 2-1, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea" | 대표: "차정인" [계속사업자]
+[126/421] Row 1757 | "(주)창비부산" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[127/421] Row 1758 | "조선일보사부산사옥" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[128/421] Row 1759 | "주식회사 홍조출판" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[129/421] Row 1762 | "조선일보 신사직 지국" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[130/421] Row 1763 | "새부산기독교서적센타" | 대표: "김대희" | 구: "동래구"
+  => MATCH CONFIRMED: 607-99-75121 (새부산기독교서적센타) | 주소: "부산광역시 동래구 아시아드대로 127" | 대표: "김대희" [계속사업자]
+  >>> Progress Saved: 130/421 | Matched: 23 | Unverifiable: 107 <<<
+[131/421] Row 1765 | "아이북랜드" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[132/421] Row 1766 | "부산중앙일보가야" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[133/421] Row 1767 | "부산일보 당감지국" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-15-50255 (부산일보 당감지국) | 주소: "부산광역시 부산진구 당감로45번길 19" | 대표: "김재익" [폐업자]
+[134/421] Row 1769 | "주식회사 뷰엠" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 295-81-02546 (주식회사 뷰엠) | 주소: "부산광역시 부산진구 서전로 11-1, 2층(부전동, 신전빌딩) 11-1, Seojeon-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "강해숙" [계속사업자]
+[135/421] Row 1773 | "북컬쳐(부산)" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[136/421] Row 1778 | "부산 하단점" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 242-72-00163 (올포유부산하단점) | 주소: "부산광역시 사하구 낙동대로 443" | 대표: "김은호" [계속사업자]
+[137/421] Row 1786 | "영풍문고 신세계 센텀시티점" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[138/421] Row 1789 | "（주）교보문고 해운대 팝업스토어" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[139/421] Row 1793 | "도서출판CTM" | 대표: "김성철" | 구: ""
+  => MATCH CONFIRMED: 605-91-52150 (도서출판CTM) | 주소: "부산광역시 동구 초량상로 102, 3층 102, Choryangsang-ro, Dong-gu, Busan, Republic of Korea" | 대표: "김성철" [폐업자]
+[140/421] Row 1795 | "노블레스미디어인터내셔날부산" | 대표: "명재열" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 140/421 | Matched: 27 | Unverifiable: 113 <<<
+[141/421] Row 1797 | "도서출판양업서원" | 대표: "민병선" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[142/421] Row 1798 | "한얼꿈출판사" | 대표: "조서목" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[143/421] Row 1800 | "케이텍" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 714-11-01026 (케이텍) | 주소: "부산광역시 금정구 오륜대로 57, 정보공학관 B동 001호(부곡동, 부산가톨릭대학교)" | 대표: "오상민" [계속사업자]
+[144/421] Row 1804 | "롯데쇼핑(주)토이저러스 동부산점" | 대표: "" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[145/421] Row 1805 | "유한회사 키즈플레이타운" | 대표: "" | 구: "기장군"
+  => MATCH CONFIRMED: 413-87-02355 (유한회사키즈플레이타운) | 주소: "부산광역시 기장군 장안읍 정관로 1133 2층 262호 (부산광역시 프리미엄 아울렛) 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[146/421] Row 1806 | "미디어CAPSULE" | 대표: "" | 구: "동래구"
+  => MATCH CONFIRMED: 607-10-88688 (미디어CAPSULE) | 주소: "부산광역시 동래구 쇠미로17번길 20 1층 (사직동)" | 대표: "정태선" [계속사업자]
+[147/421] Row 1807 | "(주)삼성출판사 롯데동래점" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[148/421] Row 1810 | "주식회사 로파스튜디오(ROPA STUDIO)" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[149/421] Row 1811 | "반다이남코코리아" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[150/421] Row 1812 | "레고스토어" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 150/421 | Matched: 30 | Unverifiable: 120 <<<
+[151/421] Row 1815 | "야야토이" | 대표: "김영식" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[152/421] Row 1816 | "또래나라" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[153/421] Row 1817 | "함께가는사람들김해지점" | 대표: "이상덕" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[154/421] Row 1818 | "이소민" | 대표: "이소민" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[155/421] Row 1820 | "주식회사하날" | 대표: "최유경" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[156/421] Row 1825 | "에이치앤제이" | 대표: "이수룔" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[157/421] Row 1827 | "주식회사바나나러닝" | 대표: "최효준" | 구: ""
+  => MATCH CONFIRMED: 260-26-01090 (바나나러닝) | 주소: "부산광역시 해운대구 센텀동로 41" | 대표: "최효준" [계속사업자]
+[158/421] Row 1837 | "엠엔에이윅스" | 대표: "고태연" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[159/421] Row 1839 | "깜냥깜냥" | 대표: "민예진" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[160/421] Row 1841 | "루미너스" | 대표: "김동휘" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 160/421 | Matched: 31 | Unverifiable: 129 <<<
+[161/421] Row 1845 | "블루케이" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-81-95003 (주식회사 블루케이) | 주소: "부산광역시 해운대구 센텀동로 35, 602호 35, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "장정화" [계속사업자]
+[162/421] Row 1853 | "프라자만화" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[163/421] Row 1854 | "괴정만화" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[164/421] Row 1857 | "대박만화휴게실" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[165/421] Row 1862 | "디유" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 617-86-02436 (주식회사 디유) | 주소: "부산광역시 금정구 반송로 417-1 지하1층 (금사동)" | 대표: "한태우" [계속사업자]
+[166/421] Row 1867 | "부산이야" | 대표: "조진성" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[167/421] Row 1869 | "말술사" | 대표: "이형숙" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[168/421] Row 1874 | "주식회사 진엔터테인먼트" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[169/421] Row 1875 | "와이즈온미디어 주식회사" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[170/421] Row 1879 | "유한책임회사 대안문화행동재미난복수" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 554-88-02255 (유한책임회사 대안문화행동재미난복수) | 주소: "부산광역시 금정구 오륜대로 262" | 대표: "김건우" [폐업자]
+  >>> Progress Saved: 170/421 | Matched: 34 | Unverifiable: 136 <<<
+[171/421] Row 1883 | "에스팀컴퍼니(S TEAM COMPANY)" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[172/421] Row 1886 | "뮤직시티" | 대표: "김희경" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[173/421] Row 1887 | "THE5musicSHEET" | 대표: "오희섭" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[174/421] Row 1898 | "시빅뉴스" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 617-82-12810 (시빅뉴스) | 주소: "부산광역시 남구 수영로 309, 301호(대연동, 경성대학교내 23호관) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea" | 대표: "권만우" [계속사업자]
+[175/421] Row 1900 | "주식회사 아너스골프아카데미 아너스골프다이닝" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[176/421] Row 1901 | "e붓다" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 836-91-00300 (e붓다) | 주소: "부산광역시 남구 진남로 82" | 대표: "" [계속사업자]
+[177/421] Row 1906 | "다온티엔에스" | 대표: "" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[178/421] Row 1907 | "봄비" | 대표: "" | 구: "동래구"
+  => MATCH CONFIRMED: 854-71-00504 (봄비) | 주소: "부산광역시 동래구 시실로 ******** ******동 ******호 (명장동** 동래동*****" | 대표: "정재규" [폐업자]
+[179/421] Row 1908 | "파리 미장센" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[180/421] Row 1909 | "주식회사 메타존" | 대표: "안민철" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 180/421 | Matched: 37 | Unverifiable: 143 <<<
+[181/421] Row 1912 | "OK스크린골프" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-23-18793 (OK스크린골프) | 주소: "부산광역시 부산진구 전포대로199번길 15 15, Jeonpo-daero 199beon-gil, Busanjin-gu, Busan, Republic of Korea" | 대표: "" [폐업자]
+[182/421] Row 1913 | "비에스피솔루션" | 대표: "" | 구: "사상구"
+  => MATCH CONFIRMED: 221-81-50940 (주식회사 비에스피솔루션) | 주소: "부산광역시 사상구 모라로 22, 1303호, 1505호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea" | 대표: "이대흥" [계속사업자]
+[183/421] Row 1923 | "폭스인베스트" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[184/421] Row 1928 | "맥스시그널" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 405-88-02083 ((주)맥스시그널) | 주소: "부산광역시 해운대구 센텀중앙로 48, 1304호 48, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "신무현" [계속사업자]
+[185/421] Row 1932 | "씨소프트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 584-81-02510 (씨소프트 주식회사) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 9층 904호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "유성훈" [계속사업자]
+[186/421] Row 1950 | "아크앤북 부산명지점" | 대표: "" | 구: "강서구"
+  => MATCH CONFIRMED: 752-85-01941 (아크앤북 부산명지점) | 주소: "부산광역시 강서구 명지국제6로 107, 2층 B-208,209,210,211,212,213호(명지동) 107, Myeongjigukje 6-ro, Gangseo-gu, Busan, Republic of Korea" | 대표: "최원재" [계속사업자]
+[187/421] Row 1953 | "조선일보구서센터" | 대표: "" | 구: "금정구"
+  => MATCH CONFIRMED: 621-21-89020 (조선일보구서센터) | 주소: "부산광역시 금정구 중앙대로1893번길 13(구서동) 13, Jungang-daero 1893beon-gil, Geumjeong-gu, Busan, Republic of Korea" | 대표: "황치원" [계속사업자]
+[188/421] Row 1956 | "한국전화번호부（주）부산지점" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[189/421] Row 1957 | "해오름" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[190/421] Row 1958 | "이디오마북스" | 대표: "" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 190/421 | Matched: 43 | Unverifiable: 147 <<<
+[191/421] Row 1963 | "조선동아부산남대연중앙감만센타" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[192/421] Row 1964 | "(주)교보문고경성대·부경대센터" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[193/421] Row 1974 | "미카" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[194/421] Row 1975 | "조선일보 동래센터/동아일보 동래센터" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[195/421] Row 1978 | "중앙일보 부산일보 온천지국" | 대표: "" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[196/421] Row 1980 | "동아일보,조선일보  가야개금센터" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[197/421] Row 1981 | "(주) 투판즈 부산지점" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-85-10784 ((주) 투판즈 부산지점) | 주소: "부산광역시 부산진구 범일로 181(범천동) 181, Beomil-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "정택수" [계속사업자]
+[198/421] Row 1984 | "부산일보서면지국" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-15-74747 (부산일보서면지국) | 주소: "부산광역시 부산진구 가야대로755번길 42 42, Gaya-daero 755beon-gil, Busanjin-gu, Busan, Republic of Korea" | 대표: "우태곤" [계속사업자]
+[199/421] Row 1986 | "（주교보문고부산점" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[200/421] Row 1988 | "조선일보화명금곡센터" | 대표: "" | 구: "북구"
+  => MATCH CONFIRMED: 697-25-00243 (조선일보화명금곡센터) | 주소: "부산광역시 북구 금곡대로616번길 9(금곡동) 9, Geumgok-daero 616beon-gil, Buk-gu, Busan, Republic of Korea" | 대표: "장희목" [계속사업자]
+  >>> Progress Saved: 200/421 | Matched: 46 | Unverifiable: 154 <<<
+[201/421] Row 1989 | "바른교육" | 대표: "" | 구: "북구"
+  => UNVERIFIED / PENDING PASS 2
+[202/421] Row 1992 | "지하오" | 대표: "" | 구: "사상구"
+  => MATCH CONFIRMED: 574-40-00899 (지하오) | 주소: "부산광역시 사상구 백양대로******번길 ****** ******동 ******호 (주례동** 엘지신주*****" | 대표: "정지호" [계속사업자]
+[203/421] Row 1997 | "푸른솔" | 대표: "" | 구: "수영구"
+  => MATCH CONFIRMED: 621-90-09906 (푸른솔) | 주소: "부산광역시 수영구 광일로20번길 50, 101호 50, Gwangil-ro 20beon-gil, Suyeong-gu, Busan, Republic of Korea" | 대표: "정길석" [계속사업자]
+[204/421] Row 2000 | "꼬꼬야" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[205/421] Row 2003 | "동아,국제,한겨레,한경,국민,스포츠서울 거제연제연산센타" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[206/421] Row 2009 | "에디코" | 대표: "" | 구: "중구"
+  => MATCH CONFIRMED: 160-17-00974 (에디코) | 주소: "부산광역시 중구 대청로135번길 (중앙동3가)" | 대표: "심정원" [계속사업자]
+[207/421] Row 2010 | "사단법인 한국오투오미래비전협회" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[208/421] Row 2011 | "재현문고" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[209/421] Row 2013 | "즐겨찾기" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[210/421] Row 2014 | "중앙． 부산． 문화일보 재송센터" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-26-45601 (중앙． 부산． 문화일보 재송센터) | 주소: "부산광역시 해운대구 재반로212번길 45" | 대표: "" [계속사업자]
+  >>> Progress Saved: 210/421 | Matched: 50 | Unverifiable: 160 <<<
+[211/421] Row 2022 | "프린팅카페" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[212/421] Row 2023 | "주식회사 도원이앤아이(Dowon E&I)" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[213/421] Row 2027 | "크리스천설교신문" | 대표: "조주형" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[214/421] Row 2028 | "비전조이" | 대표: "이구창" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[215/421] Row 2030 | "박도인쇄사" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[216/421] Row 2032 | "탭아트（Tab Art） 갤러리" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 605-26-16097 (탭아트（Tab Art） 갤러리) | 주소: "부산광역시 강서구 평강로171번길 248(대저1동)" | 대표: "이성현" [계속사업자]
+[217/421] Row 2036 | "삼성사(상회)" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[218/421] Row 2040 | "티플랜트（Tplant）" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 605-20-55083 (티플랜트（Tplant）) | 주소: "부산광역시 부산진구 백양순환로 97 (부암동) 2층" | 대표: "박윤실" [계속사업자]
+[219/421] Row 2046 | "아이들세상" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[220/421] Row 2048 | "정광사" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 220/421 | Matched: 52 | Unverifiable: 168 <<<
+[221/421] Row 2049 | "주식회사 제이더블유하비" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[222/421] Row 2050 | "해피버스데이" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 603-07-80665 (해피버스데이) | 주소: "부산광역시 사하구 하단동492-25 33, Nakdong-daero 516beon-gil, Saha-gu, Busan, Republic of Korea" | 대표: "오주환" [폐업자]
+[223/421] Row 2051 | "신한교육사" | 대표: "" | 구: "서구"
+  => MATCH CONFIRMED: 510-29-00793 (신한교육사) | 주소: "부산광역시 서구 대영로85번길 38" | 대표: "" [계속사업자]
+[224/421] Row 2052 | "아이사랑" | 대표: "" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[225/421] Row 2053 | "리연" | 대표: "" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[226/421] Row 2054 | "부산더락" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[227/421] Row 2055 | "과정문구점" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[228/421] Row 2056 | "달디 디자인스튜디오" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[229/421] Row 2057 | "교보핫트랙스(주)센텀시티점" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[230/421] Row 2058 | "두형통발" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 230/421 | Matched: 54 | Unverifiable: 176 <<<
+[231/421] Row 2059 | "대신산업" | 대표: "탁기만" | 구: ""
+  => MATCH CONFIRMED: 617-03-45150 (대신산업) | 주소: "부산광역시 사하구 하신중앙로3번가길 26 (장림동) 26, Hasinjungang-ro 3beonga-gil, Saha-gu, Busan, Republic of Korea" | 대표: "탁기만" [폐업자]
+[232/421] Row 2060 | "조이풀사이언스" | 대표: "강민수" | 구: ""
+  => MATCH CONFIRMED: 621-21-49635 (조이풀사이언스) | 주소: "부산광역시 수영구 수영로 648 (광안동, 광안동롯데골드로즈) 201호 648, Suyeong-ro, Suyeong-gu, Busan, Republic of Korea" | 대표: "강민수" [폐업자]
+[233/421] Row 2061 | "에코인더스" | 대표: "박영진/공주석" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[234/421] Row 2062 | "이계승" | 대표: "이계승" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[235/421] Row 2063 | "오엠디아틀리에" | 대표: "박현지" | 구: "기장군"
+  => UNVERIFIED / PENDING PASS 2
+[236/421] Row 2064 | "박정희" | 대표: "박정희" | 구: "기장군"
+  => MATCH CONFIRMED: 437-33-00608 (박정희) | 주소: "부산광역시 부산진구 엄광로 163, 1층 (가야동) 163, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "박정희" [폐업자]
+[237/421] Row 2065 | "브랜드스퀘어" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 727-20-02251 (브랜드스퀘어) | 주소: "부산광역시 남구 용소로14번길 10, 4층 (대연동,대성빌딩) 10, Yongso-ro 14beon-gil, Nam-gu, Busan, Republic of Korea" | 대표: "" [폐업자]
+[238/421] Row 2066 | "주식회사 로웰프라이빗에쿼티" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[239/421] Row 2067 | "경성대학교산학협력단" | 대표: "최주용" | 구: "남구"
+  => MATCH CONFIRMED: 617-82-06453 (경성대학교 산학협력단) | 주소: "부산광역시 남구 수영로 309(대연동, 경성대학교 내) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea" | 대표: "최주용" [계속사업자]
+[240/421] Row 2068 | "에듀메타" | 대표: "송승근" | 구: "남구"
+  => MATCH CONFIRMED: 280-86-02461 ((주)에듀메타) | 주소: "부산광역시 사상구 주례로 47 , 901호(주례동, 동서대학교 뉴밀레니엄관)" | 대표: "송승근" [계속사업자]
+  >>> Progress Saved: 240/421 | Matched: 60 | Unverifiable: 180 <<<
+[241/421] Row 2069 | "니즈" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[242/421] Row 2070 | "김지원" | 대표: "김지원" | 구: "연제구"
+  => MATCH CONFIRMED: 194-17-01700 (김지원) | 주소: "부산광역시 금정구 동부곡로**번길 ****** 비비드 ******호 *****" | 대표: "김지원" [폐업자]
+[243/421] Row 2071 | "이루티" | 대표: "김유성" | 구: "연제구"
+  => MATCH CONFIRMED: 162-87-02758 (주식회사 이루티) | 주소: "부산광역시 연제구 연제로 24, 201호(연산동) 24, Yeonje-ro, Yeonje-gu, Busan, Republic of Korea" | 대표: "김유성" [계속사업자]
+[244/421] Row 2072 | "씨앤비(CNB)" | 대표: "" | 구: "영도구"
+  => UNVERIFIED / PENDING PASS 2
+[245/421] Row 2073 | "에스시엔컴퍼니" | 대표: "" | 구: "중구"
+  => MATCH CONFIRMED: 515-08-47594 (에스시엔컴퍼니) | 주소: "부산광역시 중구 중앙대로 21, 1층 1다1,2호(동광동1가, 부산데파트)" | 대표: "강정원" [계속사업자]
+[246/421] Row 2074 | "주식회사 코드메이커" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 135-87-01403 (주식회사 코드메이커) | 주소: "부산광역시 해운대구 반여로185번길 74-46 (반여동) 2동" | 대표: "정용석" [계속사업자]
+[247/421] Row 2075 | "유티플러스인터랙티브" | 대표: "김태민" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[248/421] Row 2076 | "주식회사 마이비" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 605-81-39783 (주식회사 마이비) | 주소: "부산광역시 해운대구 센텀북대로 60 11층" | 대표: "이근재" [계속사업자]
+[249/421] Row 2077 | "제이앤제이(J&J)커뮤니케이션즈" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[250/421] Row 2078 | "케이엘정보통신 주식회사 부산지점" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 250/421 | Matched: 65 | Unverifiable: 185 <<<
+[251/421] Row 2079 | "윤해지" | 대표: "윤해지" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[252/421] Row 2080 | "이안" | 대표: "팽동석" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[253/421] Row 2082 | "스튜디오비오" | 대표: "이한빈" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[254/421] Row 2083 | "하드롤게임즈" | 대표: "강대휘" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[255/421] Row 2084 | "포지스" | 대표: "김의준" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[256/421] Row 2088 | "운도게임스튜디오" | 대표: "김도현" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[257/421] Row 2093 | "보승패킹" | 대표: "" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[258/421] Row 2094 | "비바몬스터" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 646-87-02732 (주식회사 비바몬스터) | 주소: "부산광역시 남구 수영로 295 (대연동) 407호 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[259/421] Row 2095 | "오스타미디어" | 대표: "황수웅" | 구: "해운대구"
+  => MATCH CONFIRMED: 893-88-02112 (주식회사 오스타미디어) | 주소: "부산광역시 해운대구 세실로27번길 11-0 (좌동) 3층 303호 (좌동, 대승코아)" | 대표: "황수웅" [계속사업자]
+[260/421] Row 2096 | "브리티시인터내셔널" | 대표: "손지형" | 구: "해운대구"
+  => MATCH CONFIRMED: 550-81-01411 (주식회사 브리티시인터내셔널) | 주소: "부산광역시 해운대구 센텀동로 45, 305호" | 대표: "손지형" [계속사업자]
+  >>> Progress Saved: 260/421 | Matched: 68 | Unverifiable: 192 <<<
+[261/421] Row 2097 | "한울커뮤니케이션" | 대표: "여동식" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[262/421] Row 2098 | "대주기획" | 대표: "차니은" | 구: ""
+  => MATCH CONFIRMED: 607-17-15525 (대주기획) | 주소: "부산광역시 금정구 금정로 113 383-5 3층 304호" | 대표: "차니은" [계속사업자]
+[263/421] Row 2099 | "신흥상사" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[264/421] Row 2100 | "와라봐라" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[265/421] Row 2101 | "조은글방" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[266/421] Row 2102 | "도담교육" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[267/421] Row 2103 | "몬스터라이엇" | 대표: "고진호" | 구: "수영구"
+  => MATCH CONFIRMED: 752-87-02022 (주식회사 몬스터라이엇) | 주소: "부산광역시 해운대구 달맞이길117번길 30 (중동) 지하1층" | 대표: "고진호" [계속사업자]
+[268/421] Row 2104 | "블랭크페이지스튜디오" | 대표: "정훈일, 변재석" | 구: "해운대구"
+  => MATCH CONFIRMED: 584-87-02787 (주식회사 블랭크페이지스튜디오) | 주소: "부산광역시 해운대구 센텀6로 21" | 대표: "정훈일" [계속사업자]
+[269/421] Row 2105 | "엠에스네트워크" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[270/421] Row 2106 | "키드니드" | 대표: "김하선" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 270/421 | Matched: 71 | Unverifiable: 199 <<<
+[271/421] Row 2107 | "스튜디오바다" | 대표: "류수환" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[272/421] Row 2108 | "두원잡" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[273/421] Row 2110 | "새동아직업전문학교" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 603-90-14226 (새동아직업전문학교) | 주소: "부산광역시 사하구 하신중앙로 323, 1~6층 7층일부 (2층제외)(하단동, 전원빌딩) 323, Hasinjungang-ro, Saha-gu, Busan, Republic of Korea" | 대표: "전원석" [계속사업자]
+[274/421] Row 2111 | "스페이사콤" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[275/421] Row 2112 | "주식회사원미디어" | 대표: "원성훈" | 구: "해운대구"
+  => MATCH CONFIRMED: 607-81-91674 (주식회사 원미디어) | 주소: "부산광역시 수영구 수영로624번길 46" | 대표: "원성훈" [계속사업자]
+[276/421] Row 2114 | "주향문화" | 대표: "김옥희" | 구: ""
+  => MATCH CONFIRMED: 605-14-18506 (주향문화) | 주소: "부산광역시 부산진구 동성로 143, 2층 85호 143, Dongseong-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "김옥희" [폐업자]
+[277/421] Row 2115 | "식스플로어" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[278/421] Row 2116 | "에이에스시에라" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[279/421] Row 2117 | "스튜디오더블린" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[280/421] Row 2118 | "하이라이트스튜디오" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 280/421 | Matched: 74 | Unverifiable: 206 <<<
+[281/421] Row 2119 | "코너스튜디오" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 661-88-02102 (주식회사 코너스튜디오) | 주소: "부산광역시 연제구 고분로 170 (연산동, 부산경상대학교 창조관) 2층 203호" | 대표: "이영주" [폐업자]
+[282/421] Row 2120 | "인생극장" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 101-43-80997 (인생극장) | 주소: "충청남도 천안시 동남구 용곡2길 43-10, 1층(용곡동) 43-10, Yonggok 2-gil, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea" | 대표: "김영숙" [계속사업자]
+[283/421] Row 2121 | "뉴아태항공" | 대표: "선태미" | 구: ""
+  => MATCH CONFIRMED: 617-86-21165 (뉴아태항공) | 주소: "부산광역시 해운대구 센텀중앙로 90, 본동 819호" | 대표: "선태미" [폐업자]
+[284/421] Row 2122 | "플랫폼" | 대표: "김민수" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[285/421] Row 2123 | "예담프로덕션" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[286/421] Row 2124 | "잭월드" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[287/421] Row 2125 | "거창레코드" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[288/421] Row 2126 | "온누리" | 대표: "" | 구: "중구"
+  => UNVERIFIED / PENDING PASS 2
+[289/421] Row 2127 | "파티온" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 254-19-00098 (파티온) | 주소: "부산광역시 해운대구 양운로 56-0 (좌동) SK허브올리브 1414호" | 대표: "정동휘" [폐업자]
+[290/421] Row 2128 | "아준뮤직월드" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 290/421 | Matched: 78 | Unverifiable: 212 <<<
+[291/421] Row 2129 | "동해종합만물" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[292/421] Row 2130 | "원데이아트컴퍼니" | 대표: "" | 구: ""
+  => MATCH CONFIRMED: 391-81-03576 (주식회사 원데이아트컴퍼니) | 주소: "부산 금정구 금정로60번길 37 (장전동) 37, Geumjeong-ro 60beon-gil, Geumjeong-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[293/421] Row 2131 | "피엘지" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[294/421] Row 2132 | "지엠씨랩스" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[295/421] Row 2133 | "오키씨" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 601-87-02796 (주식회사 오키씨) | 주소: "부산광역시 남구 문현금융로 40-0 (문현동) BIFC 8층 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "황순옥" [계속사업자]
+[296/421] Row 2134 | "로보프렌레스큐" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 483-81-01071 (주식회사 로보프렌레스큐) | 주소: "부산광역시 남구 신선로 365 6층 602호 (용당동, 부경대학교용당캠퍼스 10공학관) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "김영식" [계속사업자]
+[297/421] Row 2135 | "아이비코어" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-86-17109 (주）아이비코어) | 주소: "부산광역시 해운대구 센텀동로 35" | 대표: "김진목" [계속사업자]
+[298/421] Row 2136 | "일렉오션" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 397-87-00206 (주식회사 일렉오션) | 주소: "부산광역시 해운대구 센텀동로 35" | 대표: "정일화" [폐업자]
+[299/421] Row 2137 | "이엔엠커뮤니케이션" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 613-81-82409 (주식회사 이엔엠커뮤니케이션) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 17층 1703호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "옥혜경" [계속사업자]
+[300/421] Row 2138 | "제이에이치바이오시스템" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 105-88-02863 (주식회사　제이에이치바이오시스템) | 주소: "부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "황재섭" [휴업자]
+  >>> Progress Saved: 300/421 | Matched: 85 | Unverifiable: 215 <<<
+[301/421] Row 2139 | "타이어비즈" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 276-88-00416 (주식회사 타이어비즈) | 주소: "부산광역시 부산진구 서면로 39, 6층 606호(부전동, KT&amp;G 상상마당부산) 39, Seomyeon-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "송봉균" [계속사업자]
+[302/421] Row 2140 | "센디" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 617-86-04939 (주식회사 센디) | 주소: "부산광역시 부산진구 서면로 39, 6층 9,10호(부전동, KT\u0026amp;G 상상마당부산)" | 대표: "염상준" [계속사업자]
+[303/421] Row 2141 | "페이타랩" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 452-87-01123 (주식회사 페이타랩) | 주소: "부산광역시 부산진구 서면로 39, 6층 601,602,603호(부전동,KT&G 상상마당부산)" | 대표: "곽수용" [계속사업자]
+[304/421] Row 2142 | "샐리북" | 대표: "임은선" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[305/421] Row 2143 | "칸투칸" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[306/421] Row 2144 | "나비" | 대표: "윤석준" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[307/421] Row 2145 | "모바일뱅크" | 대표: "박정욱" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[308/421] Row 2146 | "아트현" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[309/421] Row 2147 | "영광화학" | 대표: "김정수" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[310/421] Row 2148 | "성원공업사" | 대표: "함종욱" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 310/421 | Matched: 88 | Unverifiable: 222 <<<
+[311/421] Row 2149 | "유성공업사" | 대표: "이철규" | 구: "사하구"
+  => MATCH CONFIRMED: 603-07-11718 (유성공업사) | 주소: "부산광역시 사하구 장평로132번길 16-4(장림동) 16-4, Jangpyeong-ro 132beon-gil, Saha-gu, Busan, Republic of Korea" | 대표: "이철규" [계속사업자]
+[312/421] Row 2150 | "한국편의증진연구원" | 대표: "조현주" | 구: "해운대구"
+  => MATCH CONFIRMED: 490-07-00764 (한국편의증진연구원) | 주소: "부산광역시 해운대구 대천로 92-6, 4층(좌동) 92-6, Daecheon-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "조현주" [계속사업자]
+[313/421] Row 2151 | "윤슬시스템" | 대표: "박건윤" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-30-83484 (윤슬시스템) | 주소: "부산광역시 해운대구 APEC로 17 17, APEC-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "박건윤" [계속사업자]
+[314/421] Row 2152 | "송림" | 대표: "임철왕" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[315/421] Row 2153 | "삼우토이즈" | 대표: "하일광" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[316/421] Row 2154 | "유덕공업사" | 대표: "전만호" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[317/421] Row 2155 | "경화" | 대표: "김홍선" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[318/421] Row 2156 | "미디어SA" | 대표: "사동화" | 구: ""
+  => MATCH CONFIRMED: 105-08-57099 (미디어SA) | 주소: "부산광역시 금정구 부산대학로63번길 2, 401 (장전동, 부산대학교 효원산학협동관) 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea" | 대표: "사동화" [폐업자]
+[319/421] Row 2157 | "이미지디자인" | 대표: "송재근" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[320/421] Row 2158 | "스톰아트스쿨학원" | 대표: "황정욱" | 구: ""
+  => MATCH CONFIRMED: 617-91-39863 (스톰아트스쿨학원) | 주소: "부산광역시 남구 수영로 300, 503호" | 대표: "황정욱" [폐업자]
+  >>> Progress Saved: 320/421 | Matched: 93 | Unverifiable: 227 <<<
+[321/421] Row 2159 | "디자인스탠다드" | 대표: "조형래" | 구: ""
+  => MATCH CONFIRMED: 617-81-78547 (주식회사 디자인스탠다드) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 405호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "조형래" [폐업자]
+[322/421] Row 2161 | "이에이치" | 대표: "김휘복" | 구: ""
+  => MATCH CONFIRMED: 621-81-47140 (주식회사 이에이치) | 주소: "부산광역시 사상구 주례로 148" | 대표: "김휘복" [계속사업자]
+[323/421] Row 2162 | "에니파크디자인" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[324/421] Row 2163 | "플레이박스" | 대표: "조수진" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[325/421] Row 2164 | "정석인" | 대표: "정석인" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[326/421] Row 2165 | "주식회사메쉬링크" | 대표: "하진수" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[327/421] Row 2166 | "스튜디오제이주식회사" | 대표: "변종섭" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[328/421] Row 2167 | "경성테크놀러지" | 대표: "홍순기" | 구: "해운대구"
+  => MATCH CONFIRMED: 445-86-00963 (주식회사 경성테크놀러지) | 주소: "부산광역시 해운대구 센텀중앙로 66, 901호" | 대표: "홍순기" [폐업자]
+[329/421] Row 2168 | "이노시스아이엑스" | 대표: "이유섭" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[330/421] Row 2170 | "동양디얜씨" | 대표: "이준호" | 구: ""
+  => MATCH CONFIRMED: 528-86-00915 (주식회사 동양디얜씨) | 주소: "부산광역시 수영구 민락수변로7번길 60" | 대표: "이준호" [계속사업자]
+  >>> Progress Saved: 330/421 | Matched: 97 | Unverifiable: 233 <<<
+[331/421] Row 2171 | "위드마인드" | 대표: "" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[332/421] Row 2172 | "맥큐브" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 192-88-00141 (맥큐브 주식회사) | 주소: "부산광역시 남구 신선로 365, 7공학관 201호(용당동, 부경대학교용당캠퍼스) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "안호준,정휘석" [계속사업자]
+[333/421] Row 2173 | "투그램시스템즈" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 602-81-61189 (주식회사 투그램시스템즈) | 주소: "부산광역시 해운대구 센텀중앙로 97, A동 2507호 (재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "서영우" [계속사업자]
+[334/421] Row 2174 | "오케이스크린골프" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 647-07-02320 (오케이스크린골프) | 주소: "부산광역시 해운대구 좌동로 88 (좌동, 울트라타워) 14층 88, Jwadong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[335/421] Row 2175 | "중앙일보 동래，명륜센터" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[336/421] Row 2176 | "동아서적" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 606-99-77903 (동아서적) | 주소: "부산광역시 남구 용소로 4" | 대표: "" [계속사업자]
+[337/421] Row 2177 | "범죄예방신문부산울산취재본부" | 대표: "강병기" | 구: "동래구"
+  => UNVERIFIED / PENDING PASS 2
+[338/421] Row 2178 | "부산시대광고대행" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[339/421] Row 2179 | "더천유" | 대표: "" | 구: "금정구"
+  => UNVERIFIED / PENDING PASS 2
+[340/421] Row 2180 | "인터그라픽스커뮤니케이션" | 대표: "심상도" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 340/421 | Matched: 101 | Unverifiable: 239 <<<
+[341/421] Row 2181 | "디자인회관사무소" | 대표: "이미래" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[342/421] Row 2182 | "디자인문" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[343/421] Row 2183 | "아신 테크" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[344/421] Row 2184 | "주식회사노크유" | 대표: "최유수" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+[345/421] Row 2185 | "지니에듀텤" | 대표: "이성웅" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[346/421] Row 2186 | "주식회사인텔리코드" | 대표: "김승호" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[347/421] Row 2187 | "우마테크" | 대표: "" | 구: "강서구"
+  => MATCH CONFIRMED: 480-87-02831 (주식회사 우마테크) | 주소: "부산광역시 강서구 녹산산업중로 224 224, Noksansaneopjung-ro, Gangseo-gu, Busan, Republic of Korea" | 대표: "이근조" [계속사업자]
+[348/421] Row 2188 | "에스엠아이디" | 대표: "" | 구: "강서구"
+  => MATCH CONFIRMED: 603-81-88008 (（주）에스엠아이디) | 주소: "부산광역시 강서구 화전산단6로 46 (화전동) 46, Hwajeonsandan 6-ro, Gangseo-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[349/421] Row 2189 | "극동로직스" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 270-88-03017 (주식회사 극동로직스) | 주소: "부산광역시 남구 수영로266번길 10 101동 8층 2호 10, Suyeong-ro 266beon-gil, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[350/421] Row 2190 | "로고스아카데미" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 584-86-03362 (로고스아카데미(주)) | 주소: "부산광역시 남구 수영로 295 3층 301호 (대연동, 세웅빌딩) 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+  >>> Progress Saved: 350/421 | Matched: 105 | Unverifiable: 245 <<<
+[351/421] Row 2191 | "제이케이 이스포츠" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 502-86-41627 (주식회사 제이케이이스포츠) | 주소: "부산광역시 남구 용소로 56" | 대표: "" [폐업자]
+[352/421] Row 2192 | "엔터잡" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 617-86-01330 (주식회사 엔터잡) | 주소: "부산광역시 남구 수영로 312 15층 1515호 (대연동)" | 대표: "이진아" [계속사업자]
+[353/421] Row 2193 | "엔엑스지" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 628-86-01330 (주식회사 엔엑스지) | 주소: "부산광역시 남구 수영로322번길 20 3층 (대연동 리젠시빌딩)" | 대표: "김선미" [계속사업자]
+[354/421] Row 2194 | "베러아일랜드" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[355/421] Row 2195 | "오르" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 509-09-73264 (오르) | 주소: "부산광역시 남구 석포로 102, 지하1층(대연동)" | 대표: "강효진" [계속사업자]
+[356/421] Row 2196 | "카메리엘" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[357/421] Row 2197 | "한국바이오뷰티산업협동조합" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 697-86-01414 (한국바이오뷰티산업협동조합) | 주소: "부산광역시 남구 신선로 365, 302호(용당동, 부경대학교 10공학관)" | 대표: "현미희" [계속사업자]
+[358/421] Row 2199 | "제로" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[359/421] Row 2201 | "알티엠" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 107-35-71128 (알티엠) | 주소: "부산광역시 남구 문현금융로 40 (문현동) 부산국제금융센터 8층 11호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "양영철" [계속사업자]
+[360/421] Row 2202 | "이아이옵" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 569-86-02952 (이아이옵 주식회사) | 주소: "부산광역시 남구 문현금융로 40 (문현동) 8층 8호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+  >>> Progress Saved: 360/421 | Matched: 112 | Unverifiable: 248 <<<
+[361/421] Row 2203 | "노매드헐" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[362/421] Row 2204 | "레벤그리다" | 대표: "" | 구: "남구"
+  => UNVERIFIED / PENDING PASS 2
+[363/421] Row 2206 | "케이와이시스템" | 대표: "" | 구: "남구"
+  => MATCH CONFIRMED: 741-88-00400 ((주)케이와이시스템) | 주소: "부산광역시 남구 신선로 365, 203호 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea" | 대표: "김순자" [계속사업자]
+[364/421] Row 2207 | "선민" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[365/421] Row 2208 | "지앨" | 대표: "" | 구: "사상구"
+  => MATCH CONFIRMED: 789-87-03154 (주식회사 지앨) | 주소: "부산광역시 사상구 대동로 303 (감전동) 부산디지털밸리 502호 303, Daedong-ro, Sasang-gu, Busan, Republic of Korea" | 대표: "박성수" [계속사업자]
+[366/421] Row 2209 | "가람스토어" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[367/421] Row 2210 | "하늘연" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[368/421] Row 2211 | "인코누스" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[369/421] Row 2212 | "이수" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[370/421] Row 2213 | "엣지러너스클럽" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 636-88-03051 (주식회사 엣지러너스클럽) | 주소: "부산광역시 사하구 낙동대로 542, 3층 302-에이171호 (하단동, 대우에덴프라자) 542, Nakdong-daero, Saha-gu, Busan, Republic of Korea" | 대표: "오형석" [계속사업자]
+  >>> Progress Saved: 370/421 | Matched: 115 | Unverifiable: 255 <<<
+[371/421] Row 2214 | "에어딩동" | 대표: "" | 구: "사하구"
+  => UNVERIFIED / PENDING PASS 2
+[372/421] Row 2215 | "더비치" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[373/421] Row 2216 | "토탈소프트뱅크" | 대표: "최장수" | 구: "해운대구"
+  => MATCH CONFIRMED: 601-81-18506 ((주)토탈소프트뱅크) | 주소: "부산광역시 해운대구 반송로513번길 66-39(석대동) 66-39, Bansong-ro 513beon-gil, Haeundae-gu, Busan, Republic of Korea" | 대표: "최장수" [계속사업자]
+[374/421] Row 2217 | "힐스카이컨트리클럽" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[375/421] Row 2218 | "윈피플" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 432-81-02034 ((주) 윈피플) | 주소: "부산광역시 해운대구 센텀동로 71" | 대표: "신진영" [계속사업자]
+[376/421] Row 2220 | "한국여성문화아카데미" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 507-88-01788 ((주)한국여성문화아카데미) | 주소: "부산광역시 해운대구 센텀서로 30 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김경태" [계속사업자]
+[377/421] Row 2221 | "나원디앤씨" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[378/421] Row 2222 | "디렉스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 547-88-02261 (디렉스) | 주소: "부산광역시 해운대구 센텀6로 21, 7층 701호 21, Centum 6-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "박영미" [계속사업자]
+[379/421] Row 2223 | "팝플" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 114-87-26367 (주식회사 팝플) | 주소: "부산광역시 해운대구 해운대해변로 203, 729호" | 대표: "최기석" [계속사업자]
+[380/421] Row 2224 | "아이렌" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 588-81-03374 (주식회사 아이렌) | 주소: "부산광역시 해운대구 센텀중앙로 78 78, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+  >>> Progress Saved: 380/421 | Matched: 121 | Unverifiable: 259 <<<
+[381/421] Row 2225 | "인벤트랩스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 224-87-02186 (주식회사 인벤트랩스) | 주소: "부산광역시 해운대구 센텀중앙로 78, 1708호" | 대표: "박성국" [계속사업자]
+[382/421] Row 2226 | "앱솔루션" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 722-81-02693 (주식회사 앱솔루션) | 주소: "부산광역시 해운대구 센텀중앙로 78" | 대표: "조호" [계속사업자]
+[383/421] Row 2227 | "율안" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 111-81-35870 (주식회사 율안) | 주소: "부산광역시 해운대구 센텀중앙로 48, 1202호" | 대표: "어경현" [계속사업자]
+[384/421] Row 2228 | "투플원엔터테인먼트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 548-87-02312 ((주)투플원엔터테인먼트) | 주소: "부산광역시 해운대구 센텀중앙로 48, 1304호" | 대표: "조보성" [계속사업자]
+[385/421] Row 2229 | "메타블루" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[386/421] Row 2230 | "스튜디오빈센트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 683-87-02783 (주식회사 스튜디오빈센트) | 주소: "부산광역시 해운대구 센텀동로 57" | 대표: "권소망" [계속사업자]
+[387/421] Row 2231 | "히트북" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 627-88-00797 (주식회사 히트북) | 주소: "부산광역시 해운대구 수영강변대로 140 6층 621호" | 대표: "조형근" [계속사업자]
+[388/421] Row 2232 | "유캐스트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-86-15187 (주식회사 유캐스트) | 주소: "부산광역시 해운대구 센텀동로 71, 1207호" | 대표: "김수민" [계속사업자]
+[389/421] Row 2233 | "하록" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 387-88-00211 (주식회사 하록) | 주소: "부산광역시 해운대구 센텀서로 30" | 대표: "송봉춘" [계속사업자]
+[390/421] Row 2234 | "프보이" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 390/421 | Matched: 129 | Unverifiable: 261 <<<
+[391/421] Row 2235 | "베스트엔터테인먼트" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 617-81-75934 (（주）베스트엔터테인먼트) | 주소: "부산광역시 해운대구 센텀서로 30 (KNN타워 806호) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김대희" [계속사업자]
+[392/421] Row 2236 | "이피엠시스템" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 528-87-00076 (주식회사 이피엠시스템) | 주소: "부산광역시 해운대구 센텀중앙로 48" | 대표: "이경일" [계속사업자]
+[393/421] Row 2237 | "그리드파트너스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[394/421] Row 2238 | "백앤센스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[395/421] Row 2239 | "시그마씨앤에스" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[396/421] Row 2240 | "쉐어트리츠" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 625-81-00680 (주식회사 쉐어트리츠) | 주소: "부산광역시 해운대구 센텀동로 45 45, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "이홍배" [계속사업자]
+[397/421] Row 2241 | "팀리부뜨" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 882-86-03081 (주식회사 팀리부뜨) | 주소: "부산광역시 해운대구 센텀동로 45" | 대표: "최성철" [계속사업자]
+[398/421] Row 2242 | "에이치앤비스튜디오코리아" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[399/421] Row 2243 | "케어닥" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[400/421] Row 2244 | "티아이테크놀로지" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 336-88-01376 (티아이테크놀로지(주)) | 주소: "부산광역시 해운대구 센텀동로 45, 1층" | 대표: "김동훈" [계속사업자]
+  >>> Progress Saved: 400/421 | Matched: 134 | Unverifiable: 266 <<<
+[401/421] Row 2245 | "케이에이치알" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 123-88-03119 (케이에이치알 주식회사 (KHR)) | 주소: "부산광역시 해운대구 센텀중앙로 97 (재송동, 센텀스카이비즈) A동 16층 1606호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[402/421] Row 2246 | "미라클링" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 109-86-57158 (주식회사 미라클링) | 주소: "부산광역시 해운대구 센텀중앙로 97 제이에이동 2305호(재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[403/421] Row 2247 | "오렌지랩스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 815-88-02655 (오렌지랩스 주식회사) | 주소: "부산광역시 해운대구 센텀중앙로 97 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김범진" [폐업자]
+[404/421] Row 2248 | "에스랩" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[405/421] Row 2249 | "아이시스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 701-81-02134 (주식회사 아이시스) | 주소: "부산광역시 해운대구 센텀북대로 60 60, Centum buk-daero, Haeundae-gu, Busan, Republic of Korea" | 대표: "박장식" [계속사업자]
+[406/421] Row 2250 | "에코비티" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[407/421] Row 2251 | "모멘텀픽쳐스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 498-81-03765 (주식회사모멘텀픽쳐스) | 주소: "부산 해운대구 센텀동로 99 (재송동, 벽산이센텀클래스원) 412호 99, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[408/421] Row 2252 | "제이피테크" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 432-86-00685 (주식회사 제이피테크) | 주소: "부산광역시 해운대구 센텀중앙로 97, 1904호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[409/421] Row 2253 | "비트시스" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 272-86-01215 (주식회사 비트시스) | 주소: "부산광역시 해운대구 센텀중앙로 97, 에이동 2101호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "김동칠" [계속사업자]
+[410/421] Row 2254 | "건흥페이먼츠" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 575-40-00965 (건흥페이먼츠) | 주소: "부산광역시 해운대구 센텀중앙로 97 (재송동) 스카이비즈 A동 2907호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "이득명" [휴업자]
+  >>> Progress Saved: 410/421 | Matched: 142 | Unverifiable: 268 <<<
+[411/421] Row 2255 | "크리에이티브올라" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 612-87-03489 (주식회사 크리에이티브올라) | 주소: "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 6-2호 (재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea" | 대표: "홍정현" [계속사업자]
+[412/421] Row 2256 | "저스티스어드벤처" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[413/421] Row 2257 | "아크리아스튜디오" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[414/421] Row 2258 | "컨벤션숲" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 721-81-01667 (주식회사 컨벤션숲) | 주소: "부산광역시 해운대구 센텀중앙로 48" | 대표: "김정훈" [계속사업자]
+[415/421] Row 2259 | "번들즈" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[416/421] Row 2260 | "모두싸인" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[417/421] Row 2261 | "뱅크다이어리" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 851-88-02404 ((주)뱅크다이어리) | 주소: "부산광역시 해운대구 센텀중앙로 90 (재송동, 큐비이센텀) 705호" | 대표: "김승욱" [계속사업자]
+[418/421] Row 2262 | "아신홀딩스" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 439-87-02978 (주식회사 아신홀딩스) | 주소: "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교) 산학협력관동508호 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "김삼문" [계속사업자]
+[419/421] Row 2263 | "인우랩" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 401-86-02715 (주식회사 인우랩) | 주소: "부산광역시 부산진구 엄광로 176 802-3,4호 (가야동, 동의대학교 산학협력관) 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[420/421] Row 2264 | "엑스에이아이에듀랩스" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 420/421 | Matched: 147 | Unverifiable: 273 <<<
+[421/421] Row 2307 | "피커스튜디오" | 대표: "이현철" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 421/421 | Matched: 147 | Unverifiable: 274 <<<
+
+================ PASS 1 COMPLETED ================
+Total: 421, Matched: 147, Unverifiable: 274

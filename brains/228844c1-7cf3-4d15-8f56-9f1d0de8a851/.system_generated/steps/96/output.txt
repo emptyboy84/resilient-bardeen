@@ -1,0 +1,14 @@
+The search for ""부산문화콘텐츠콤플렉스" "302호" OR "3층 2호" OR "브이알코리아"" returned the following summary:
+부산광역시 해운대구 수영강변대로 140에 위치한 **부산문화콘텐츠콤플렉스 3층 2호(302호)**와 관련하여 검색된 정보는 다음과 같습니다.
+
+*   **기업 정보**: 해당 주소(부산문화콘텐츠콤플렉스 302호)로 등록된 기업으로 **'브이알코리아(주)'**가 확인됩니다[1][2]. 일부 자료에서는 동일한 주소지인 '3층 2호'에 **'(주)브이알코리아'**가 위치한 것으로 기재되어 있습니다[3][4].
+*   **참고 사항**: 검색 결과 중 일부 데이터베이스에서는 해당 주소지에 다른 업체명이 함께 언급되거나 혼재되어 나타나는 경우가 있으나[5][3], 기업 정보 리스트 등에서는 브이알코리아(주)의 소재지로 해당 위치를 명시하고 있습니다[1][2].
+
+따라서 찾으시는 '부산문화콘텐츠콤플렉스 302호(3층 2호)'는 **브이알코리아(주)**와 관련된 공간으로 확인됩니다.
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkdoZFAaVBUJNAvTDgAXTPXO2x7hX672BG9uKWaNPdBHQib2g0qVFtXCAF0KEHSTAt3_NPWyjYNMFrOsd3NHT2k6Uepjnn3OSE2BTHQnulhhQH8asuAVnsh4PYmSxxJksVLA5gz9iiAZ5aCl5HnXSERxiskMffR7R8ID5Vyw4WB8gcXidPMJk541gsYAB1lEoq04FnT1TPp6_OUad9yoCWZg==)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkdoZFAaVBUJNAvTDgAXTPXO2x7hX672BG9uKWaNPdBHQib2g0qVFtXCAF0KEHSTAt3_NPWyjYNMFrOsd3NHT2k6Uepjnn3OSE2BTHQnulhhQH8asuAVnsh4PYmSxxJksVLA5gz9iiAZ5aCl5HnXSERxiskMffR7R8ID5Vyw4WB8gcXidPMJk541gsYAB1lEoq04FnT1TPp6_OUad9yoCWZg==)
+[3] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZAmD83HdhN-lyL4uvbWrjO1eIvYkRrKRC3A25b1JXgg9Ur0IEYqa6mQPqwRn3OgLrNRF0CD8HxY_m4_IU5EcEVYmprbYwpGsHq-j5RI_SeiOPw9_g5n6Trt8awaqqMFOkI-ZjnA==)
+[4] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZAmD83HdhN-lyL4uvbWrjO1eIvYkRrKRC3A25b1JXgg9Ur0IEYqa6mQPqwRn3OgLrNRF0CD8HxY_m4_IU5EcEVYmprbYwpGsHq-j5RI_SeiOPw9_g5n6Trt8awaqqMFOkI-ZjnA==)
+[5] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZAmD83HdhN-lyL4uvbWrjO1eIvYkRrKRC3A25b1JXgg9Ur0IEYqa6mQPqwRn3OgLrNRF0CD8HxY_m4_IU5EcEVYmprbYwpGsHq-j5RI_SeiOPw9_g5n6Trt8awaqqMFOkI-ZjnA==)

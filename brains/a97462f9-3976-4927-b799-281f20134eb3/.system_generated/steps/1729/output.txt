@@ -1,0 +1,10 @@
+### Result
+{
+  "formAction": "https://www.ftc.go.kr/www/selectBizCommList.do",
+  "formId": "bizSearchForm",
+  "formName": "bizSearchForm"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const form = document.querySelector(\'#searchKrwd\').closest(\'form\');\n  return { formAction: form.action, formId: form.id, formName: form.name };\n}');
+```

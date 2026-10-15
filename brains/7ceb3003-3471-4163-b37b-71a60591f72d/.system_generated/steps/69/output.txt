@@ -1,0 +1,13 @@
+The search for ""허현웅" site:bizno.net OR site:ftc.go.kr OR site:data.go.kr" returned the following summary:
+"허현웅"에 대한 검색 결과는 다음과 같습니다.
+
+* **비즈노(bizno.net):**
+    * **사단법인 제주도민문화시장협회:** 대표자 허현웅, 제주특별자치도 제주시 구좌읍 소재[1].
+    * **세개의꽃나무:** 대표자 허현웅, 제주특별자치도 제주시 구좌읍 소재 숙박업(민박업) 사업체[2].
+
+* **기타:**
+    * `site:ftc.go.kr` 및 `site:data.go.kr`에서는 검색된 결과가 없습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3nqp5pPve_rJRI5OwTpu8efGuER30tQf1o1Ux6cpRMm-89GhnQbtSk44lLFoXglyojJXzmnEYp8qk1Eazrx7uxbb39fuS1_eP2157DNgkLUkQvmHTDc8dMPc=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1F6HYQvPR922J9S6oUwa2BQgWXNfrkK6Vp1U8EORsq8cT_SW-fcLNfQUyMvafceRNAjSnEJIpcG69OXLBUoT3DwsRKjC3Wg-a-s_hn5SnEheE0_Ua4vRwrk0=)

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Python 'py'�(�) � �Ǵ� �ܺ� �, � � �ִ� �α׷�, �Ǵ�
+�ġ � �ƴմϴ�.
+C:\Program Files\nodejs\node.exe
+

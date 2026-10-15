@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+
+RecycleBinGB
+------------
+        0.02
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+
+

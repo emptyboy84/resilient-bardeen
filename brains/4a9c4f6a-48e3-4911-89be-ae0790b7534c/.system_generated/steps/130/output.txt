@@ -1,0 +1,9 @@
+The search for ""제주 제주시 사장3길 7" 우편번호" returned the following summary:
+제주특별자치도 제주시 사장3길 7의 우편번호는 **63136**입니다.
+
+참고로, 동일한 도로명주소(사장3길)의 인근 번지인 '제주특별자치도 제주시 사장3길 5'의 우편번호가 63136으로 확인됩니다[1]. 정확한 우편물 발송 등을 위해 확인이 필요하신 경우, 도로명주소 안내시스템(juso.go.kr)에서 상세 주소를 입력하여 검색하시면 더욱 정확한 결과를 확인하실 수 있습니다[2][3].
+
+Sources:
+[1] [findby.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82QY39iV8DpOIHDxSvxKpZjgcBdQ_Z6wNKc7Xz92M_KbvHialV-PdMNErEKnrtUbh3gX8JZMu3N0UF9rx4MS-bqfKDpNTYYWhNW8j3dBbUnmewBHR1G5Xr2AKfGMkLc3Ctgx1HyPOaXzQmF8u8CN1iJKMl7qUfV5awCTq6XjW7tY=)
+[2] [forest.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIPGbjXdmhT8XrzMj60MSFt9NxEJM6_zXAPd04iuP6pVEllG56j7VvOXVQookzwJqPS_pxdYJM5qfPaCHYSz1gJH0ecyh4BDfrH38PSsr5_4qgTxMItPxxx9oJfZRVbmLVP_pEoI8cs9_xt9haRm4ejcRDTk1EAn5DNRo=)
+[3] [addresskorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2aU8E6gy4kHagRWgTDvBlJpu3nkI6jFCVIw8SEW9ggyF1Spn51pJ-H6XbgX978iFkZRIa6UdDVAhDpVIlaFxvtldKzmTyrWuIF8DJLnTdkZgsN3vpvJvMrKv-q8og8IbGe7ADjIQOAv3c1QlomVubBvNUx6jjZrDKMS_f3OhPaP2pLLWEOFHXttMqYQhs5lkmBp635sIP99qOCHdRbVDlsyqE7nc=)

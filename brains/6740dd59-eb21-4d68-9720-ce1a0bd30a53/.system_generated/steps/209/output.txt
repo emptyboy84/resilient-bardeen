@@ -1,0 +1,25 @@
+The search for "site:bizno.net "기장해안로 147"" returned the following summary:
+비즈노(bizno.net)에서 검색된 **부산광역시 기장군 기장읍 기장해안로 147** 주소지는 **롯데몰 동부산점(롯데프리미엄아울렛 동부산점)**입니다[1][2].
+
+해당 주소지에는 롯데쇼핑(주) 롯데몰 동부산점 외에도 아울렛 내 입점한 다수의 사업체가 등록되어 있습니다[3][1][4][5][6][7]. 주요 정보는 다음과 같습니다.
+
+*   **주요 시설:** 롯데프리미엄아울렛 동부산점 (Lotte Premium Outlets - DongBusan)[2][8]
+*   **대표 업체:** 롯데쇼핑(주) 롯데몰 동부산점[1]
+*   **입점 업체 예시:**
+    *   미소페 (롯데몰 동부산점)[3]
+    *   폴햄 (롯데아울렛 동부산점)[4]
+    *   캉골키즈 (롯데동부산아울렛)[5]
+    *   룩옵티컬 (롯데프리미엄아울렛 동부산점)[6]
+    *   (주)겐츠베이커리 (롯데몰 동부산점)[7]
+
+비즈노에 등록된 정보는 공공기관 데이터를 기반으로 하며, 갱신 시점에 따라 실제 정보와 차이가 있을 수 있으니 참고용으로 활용하시기 바랍니다[8].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyT5_6WhdFlH0M9FfY1ohuqt6BA27VH-GFzptuv6kEGrfxbQVvW4I6lE2VUvUZ2mNkSBy4Y_nLg2ZHRHjGdB_fB2XOByUXSc-nJmv0KRZhDOnnNg0uqka5iEk=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyT5_6WhdFlH0M9FfY1ohuqt6BA27VH-GFzptuv6kEGrfxbQVvW4I6lE2VUvUZ2mNkSBy4Y_nLg2ZHRHjGdB_fB2XOByUXSc-nJmv0KRZhDOnnNg0uqka5iEk=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOZqOnf55XCTzR1txQi-rFXAlA7PT8vC82J9zboCc7w8YdF_KsBlZgl3bAeadjGErCijPZyHLF2hY3MJinH-ZROiDy561jOqu4ctnK27awDEIKPX1YbcXSeEY=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFts65WUH5wCrYso-eX1Kq4y5kXDum-AR80Wbc30DF45UQDhiQBR40kTvLVkZa-F-K35Bip1YVh6bCKqiRLO_yl_T6u0rr6sEymRPJGH3jjKWqoTJyDdHNgDOA=)
+[5] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9Ay0wgA93Y-VTp2iWN-P_AxrfUfmDvIWk4gLCMTkBMokcwI2Hl5hIbLcJjZmnmIhoNSdtBxRGUmazrDT0vykxEoJtuXZPGC5J6YXPT9wWHPCY0gPxLkN7pU=)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw9XKx5vdrKXh0QjvM-vbuzn4gae7tx8LFbMLkGE4HTnbxMzjBwkaJaBOADTuQ_oETYQWHKyhDP24fCVXLEDxPmJIgTS03X85qG3aR0DUZrW2Ld6t7_hR-R_Q=)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJtA1xNnooEFp_Ckr87McQNiNK2PaSYCD-f9xNRVLdW1It4kLuPdYlXLHMikhni2G9Jw_dms5qbIw-KlbMEsw5qtr8hq5lmeH2ytMbKQf0YlQyP5jEPQtHilk=)
+[8] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyT5_6WhdFlH0M9FfY1ohuqt6BA27VH-GFzptuv6kEGrfxbQVvW4I6lE2VUvUZ2mNkSBy4Y_nLg2ZHRHjGdB_fB2XOByUXSc-nJmv0KRZhDOnnNg0uqka5iEk=)

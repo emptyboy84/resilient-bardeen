@@ -1,0 +1,17 @@
+The search for ""씨너지파트너" "오용민"" returned the following summary:
+**씨너지파트너(Seanergy Partner)**는 AI·빅데이터 기술을 기반으로 전통적인 선박연료(벙커링) 트레이딩 및 공급·물류 관리 프로세스를 디지털로 전환(DX)하는 해양수산 IT 스타트업입니다[1][2]. 
+
+* **설립일:** 2023년 7월[1]
+* **대표자:** 오용민 대표 (전 세계 글로벌 선박연료 트레이딩 회사 등에서 오랜 경력을 쌓은 전문가)[1][3]
+* **주요 사업 및 특징:**
+  * **선박연료 디지털 트레이딩 및 물류 플랫폼:** 전화, 문자, 수기 문서 등 아날로그 방식에 의존하던 기존 선박유 거래 과정을 주문 접수, 공급 일정 모니터링, 문서 자동 송부 및 정산까지 엔드투엔드로 자동화하는 IT 솔루션을 제공합니다[1].
+  * **실거래 기반의 기술력:** 20년 이상 글로벌 벙커링 현장을 경험한 노하우를 바탕으로 현장의 운영 문제를 정확히 파악하여 시스템화한 것이 강점입니다[1].
+* **주요 성과:**
+  * 부산항만공사, 인천항만공사 등 공공 기관의 창업·DX 지원 및 육성 기업으로 선정되었으며, '제1회 해양기업 DX 우수사례·아이디어 공모전'에서 대상을 수상했습니다[4][2].
+  * 중소벤처기업진흥공단 등으로부터 투자를 유치하며 글로벌 시장(싱가포르, 중동, 유럽 등)을 겨냥한 스케일업을 추진하고 있습니다[1].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFHI2ULk2oiI44_b4xg062C2se0HNKQxtoGLlgMTxHO9FNfOw6Fp546lsb_PgfNL7KklUepxlYNF_c6MfmQUPiPMZnbwkzZ5b_3-k0cgQijhvSiu3-uTfqrLB9fDNF2ZgNw3feTx4dqSPyHSC__b1csxG8HqUTZWCfOCa6QcFuhwSvs16ePA==)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuNvwZSDiALZs6it5MQa_jhV47443HeNEAnJMDcA1JJLf7q1dl654wAwdR3U2daNqX6zZsxnN63wU5-V0KaLRKQfd7UHPTJ_B2eIzC5b6zq8yJSog3TNJ44chY6FWLgTvRiawKcu9aB58OLERPu31W8hOCYzxksg5ZW6w=)
+[3] [seanergyp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgvrwPBfILs3sonmh66dgbJlVPTAwYRYjaJIiq0VcVLbHI4o89ABUJHuaRlba709DTsq_A84QVhhj3LuKnJNUoWQaxj7_ds7fIvHB5nDKsfMARBofkX4I=)
+[4] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4n-Yg_GkgzoFGI6SDs_lDEfNKgcwC6rIAfCrnnPdJAxWnaXu07B-MwSqukXlZsdjKo4pIX-kdfxgtIH4yUaOa_GEMHzeJY5__o0SschZZ4zi8jrzY7eM8wdv4fQbJGj3ZyjIb0rgIqUjsc6cxOw4h5xI=)

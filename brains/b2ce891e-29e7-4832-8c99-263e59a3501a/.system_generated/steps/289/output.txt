@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://play.google.com/store/apps/details?id=com.calvak.aosapp&hl=ko');
+```
+### Page
+- Page URL: https://play.google.com/store/apps/details?id=com.calvak.aosapp&hl=ko
+- Page Title: 캘박(Calvak) - 대학생 스마트 일정관리 캘린더 - Google Play 앱
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-39-41-880Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-39-39-946Z.log#L1-L4

@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/goto?url=CAESaAHrOzAVwyRUZ8vTcKzyYzvmYs6HeV68iN-Ia8L4jaJgBK12dY7y9oJ3BFsPltxZfQ1zwhgZRvF5YEO_H-GcfJ1Anfnvj2kZJq5YkfjAXNR-RCHQ_mV-YWb2yDNgEVqVjfsP7T9XIaDk');
+```
+### Page
+- Page URL: https://moneypin.biz/bizno/detail/3788101008/
+- Page Title: 사업자등록번호ㆍ기업정보 조회 | 머니핀
+- HTTP status: 429
+- Console: 2 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T01-03-25-338Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T01-03-21-256Z.log#L1-L4

@@ -1,0 +1,13 @@
+The search for ""606-86-23144" OR ("주식회사 남명" "녹산산업중로")" returned the following summary:
+부산광역시 강서구 녹산산업중로에 위치한 **(주)남명** 기업 정보 또는 이와 연관된 사업자 번호 관련 검색 결과입니다[1]. 
+
+검색된 주요 내용은 다음과 같습니다:
+
+* **기업명:** 주식회사 남명[1]
+* **소재지:** 부산광역시 강서구 녹산산업중로[1] (환경부 위생안전기준 인증 및 관련 업종 등록 정보 기준)
+* **주요 업종:** 전기회로 개폐, 보호장치 제조업 또는 관련 배관 자재 제조 등 관련 분야[1]
+
+특정 사업자번호(`606-86-23144`)나 상세 조회와 관련하여 확인이 필요하신 경우, 국세청 홈택스(사업자등록 상태조회) 등을 통해 정확한 정합성을 직접 확인하실 수 있습니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkd9KGeg8F-M1aVxHeYsXYAFcaJ39eX34oBrn6_RtKtX_3NCnH6Xgx_N4u6QLUCunHatWTRQqKMTpWo9UQqdlYRNy9EscjAfeRLGwwNBXmO9ycW_rYC5G2Ihi1GrPowiPv91-_kxpSMOFqGMYaHvY4W9UZ)

@@ -1,0 +1,18 @@
+{
+  "backend": "excelize",
+  "sheets": [
+    {
+      "name": "배현명_전수검증완료",
+      "usedRange": "A1:S1001",
+      "tables": [],
+      "pivotTables": [],
+      "pagingRanges": [
+        "A1:S210",
+        "A211:S420",
+        "A421:S630",
+        "A631:S840",
+        "A841:S1001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+C:/Users/lg/.gemini/antigravity/bin
+C:\Users\lg\AppData\Roaming\Antigravity\bin
+C:\Program Files\Common Files\Oracle\Java\javapath
+C:\msys64\ucrt64\bin
+c:\Users\lg\AppData\Local\Programs\cursor\resources\app\bin
+C:\Program Files (x86)\Microsoft\Edge\Application
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\WINDOWS\System32\OpenSSH\
+C:\Program Files\Git\cmd
+c:\Users\lg\AppData\Roaming\Code\User\globalStorage\ms-dotnettools.vscode-dotnet-runtime\.dotnet\8.0.11~x64\
+C:\Users\lg\.local\bin
+C:\Users\lg\AppData\Local\Programs\Python\Python313\Scripts\
+C:\Users\lg\AppData\Local\Programs\Python\Python313\
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps
+C:\Users\lg\.dotnet\tools
+c:\Users\lg\AppData\Local\Programs\cursor\resources\app\bin
+C:\Program Files\nodejs\
+C:\Users\{사용자명}\AppData\Roaming\
+C:\Program Files\dotnet\
+C:\Program Files\Java\jdk-21.0.10\bin
+C:\Users\lg\.grok\bin
+C:\Users\lg\AppData\Local\hermes\hermes-agent\venv\Scripts
+C:\Users\lg\AppData\Local\hermes\bin
+C:\Users\lg\AppData\Local\agy\bin
+C:\Users\lg\.local\bin
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps
+C:\Users\lg\.dotnet\tools
+C:\Users\lg\AppData\Roaming\npm
+C:\Users\lg\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest
+C:\Users\lg\AppData\Local\Programs\Ollama
+C:\Users\lg\.gradle\wrapper\dists\gradle-8.5-bin\5t9huq95ubn472n8rpzujfbqh\gradle-8.5\bin
+C:\Users\lg\go\bin
+C:\Users\lg\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE\bin
+C:\Users\lg\AppData\Local\Microsoft\WinGet\Packages\BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe\ripgrep-15.1.0-x86_64-pc-windows-msvc
+C:\Users\lg\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.1.1-full_build\bin
+

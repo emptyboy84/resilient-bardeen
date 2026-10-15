@@ -1,0 +1,14 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-156
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-156.log
+Log output:
+Starting STRICT verification for 421 records...
+[1/421] Row 126 | "블루호텔레코딩스튜디오" | 대표: "김현" | 구: "금정구"
+  => UNVERIFIABLE / EMPTY
+[2/421] Row 504 | "89Light" | 대표: "" | 구: "동래구"
+  => UNVERIFIABLE / EMPTY
+[3/421] Row 508 | "LINC" | 대표: "" | 구: ""
+  => UNVERIFIABLE / EMPTY
+[4/421] Row 536 | "김정보" | 대표: "" | 구: "남구"
+
+Last progress: 0s ago

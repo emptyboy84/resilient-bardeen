@@ -1,0 +1,69 @@
+### Page
+- Page URL: https://pcmap.place.naver.com/place/1216657848/home
+- Page Title: 네이버 플레이스
+- Console: 0 errors, 4 warnings
+### Snapshot
+```yaml
+- generic [ref=f467e4]:
+  - banner [ref=f467e5]:
+    - button "이전 페이지" [ref=f467e6] [cursor=pointer]
+    - heading "괴정만화" [level=1] [ref=f467e10]
+    - button "저장" [ref=f467e11] [cursor=pointer]
+    - button "페이지 닫기" [ref=f467e15] [cursor=pointer]
+  - main [ref=f467e20]:
+    - generic [ref=f467e22]:
+      - generic [ref=f467e23]: 괴정만화
+      - generic [ref=f467e25]: 만화방
+      - list [ref=f467e30]:
+        - listitem [ref=f467e31]:
+          - button [ref=f467e32] [cursor=pointer]
+        - listitem [ref=f467e33]:
+          - button "거리뷰" [ref=f467e34] [cursor=pointer]
+      - generic [ref=f467e42]:
+        - button "출발" [ref=f467e44] [cursor=pointer]
+        - button "도착" [ref=f467e46] [cursor=pointer]
+        - button "거리뷰" [ref=f467e48] [cursor=pointer]
+        - link "공유" [ref=f467e52] [cursor=pointer]:
+          - /url: "#"
+    - tablist [ref=f467e56]:
+      - generic [ref=f467e59]:
+        - tab "홈" [selected] [ref=f467e60] [cursor=pointer]
+        - tab "사진" [ref=f467e62] [cursor=pointer]
+    - generic [ref=f467e65]:
+      - generic [ref=f467e66]:
+        - generic [ref=f467e68]:
+          - generic [ref=f467e69]:
+            - strong [ref=f467e70]:
+              - generic [ref=f467e73]: 주소
+            - generic [ref=f467e74]:
+              - button [ref=f467e75] [cursor=pointer]
+              - generic [ref=f467e79]:
+                - generic [ref=f467e80]: "1"
+                - text: 괴정역 5번 출구에서 43m
+                - generic [ref=f467e82]: 미터
+          - generic [ref=f467e83]:
+            - strong [ref=f467e84]:
+              - generic [ref=f467e87]: 영업시간 정보 수정
+            - generic [ref=f467e88]:
+              - text: 영업시간 수정 제안하기
+              - button "추가" [ref=f467e89] [cursor=pointer]
+        - button "이 장소의 관리자라면, 무료로 직접 관리하세요! 권한 받기" [ref=f467e94] [cursor=pointer]:
+          - generic [ref=f467e96]:
+            - generic [ref=f467e97]:
+              - text: 이 장소의 관리자라면,
+              - emphasis [ref=f467e98]: 무료로 직접 관리하세요!
+            - generic [ref=f467e99]: 권한 받기
+      - generic [ref=f467e107]: 로딩중
+      - button [ref=f467e116] [cursor=pointer]:
+        - generic [ref=f467e117]: 알고 계신 정보와 다른 정보가 있나요?사진으로 간단하게 제보해 주세요.
+        - generic [ref=f467e119]: 정보 수정 제안하기
+  - contentinfo [ref=f467e122]:
+    - generic [ref=f467e123]:
+      - button "이용약관" [ref=f467e124] [cursor=pointer]
+      - button "고객센터" [ref=f467e125] [cursor=pointer]
+      - button "리뷰운영정책" [ref=f467e126] [cursor=pointer]
+      - button "신고센터" [ref=f467e127] [cursor=pointer]
+    - button "네이버" [ref=f467e129] [cursor=pointer]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-31-22-201Z.log#L4

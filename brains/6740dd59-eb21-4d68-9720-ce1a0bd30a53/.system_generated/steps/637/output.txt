@@ -1,0 +1,17 @@
+The search for ""엠엔에이윅스" OR "M&Awix" OR "010-4494-0604" OR "고태연" 콘텐츠솔루션 OR 부산" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **고태연 대표 및 큐티티(QTT):** 검색하신 '고태연' 대표는 부산에 본사를 두었던 인공지능 기반 구강관리 솔루션 기업 **(주)큐티티(QTT)**를 이끌었던 인물입니다[1][2].
+*   **관련 기업 정보:** 큐티티는 '이아포(e.apo)'라는 AI 기반 구강검진 솔루션을 개발한 기업으로[2][3][4], 부산 지역을 기반으로 활동하며 여러 의료 관련 사업 및 경진대회 수상 등의 이력을 가지고 있습니다[5][4][6][7]. 다만, 해당 기업은 2024년 1월 폐업한 것으로 확인됩니다[2].
+*   **기타 키워드:** '엠엔에이윅스(M&Awix)' 또는 제공해주신 전화번호와 직접적으로 일치하는 정보는 검색 결과에서 확인되지 않았습니다 [1.4.1~1.4.9].
+
+질문하신 내용 중 특정 업체명이나 전화번호는 검색 결과에 나타나지 않으므로, 정확한 확인이 필요하시다면 해당 명칭의 정확한 철자나 출처를 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQ-JcWM_7pgmSokUCDLSUr3Fv-KO8g3NOQ99wggC1DhF1b3i3_ktMZh0XcATvzf-5bEXtsh0-PYiI1hWMmhumssAxXkEXVuDA1_Me5ODZyb7c-0Ofgadhzq_GjPajv6traUaETsbURwCLAXD9qkSR9pySPxQSyr4JosjcprsB5wR0y3ZYkA==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJSRuYRocSLpfcExj6lcPTszEffU_MMvpBIGqJ9ayg6SBV1-xrNDmIgHmcH6AAgWnh50U30QqDVEvXa_yBtkB1ZzN-Qtzw2aXJfQ==)
+[3] [dentalarirang.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPeCMWBOLtGiYmV2kbK4FnHQ4obPLi_qDF1hO8RvvxpwbAVx5qeQgIBGSBItrHcc9J4yrlUM3CieelwOhk0rBJuj3__9JXcroMvJIXNTDx8oZ7xxcXgdx0zg5uOe9c05Vllcx03L4Nr8JWeFbOmYsXLCS91wU=)
+[4] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENVYZz6tACyk7m_3ITE7_2tA0foiBRucSI2OEiYz3e5NasZcFlbdGxGryz0o52s6YE6T6nQ28X_9g6eyPzvbtL8UKjV3FPrBB_wpSDxWvmo1D1-HBnj225FSMEDkD9FDP9-To7Me-JgjtK_f_cOw==)
+[5] [globalnewsagency.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57ym48JHdfM4xPHnlJ0oF3ujiPLUyM4nHMcvo2_C0GxaZp0qzGyXg3IZu1PBVgxM32c6jeponj4gwZO1xhNjvZb_YOD-XE_A7xwhs8nc6WxJKaNVsN1zMOgRXvfOzIStsApclQOqK4ese6c1JogOjxAu-GJkTHzM=)
+[6] [nistart.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4euYyjk7LEC_vIsHyo6j5rMXpjFrzx_8NxPj6HMKhVzneh-8aYIYqNyicjpfG4DzgrYd9T3BaeWnTCZJeEUSMGP8w-1hYCkBA7Oq_tBddrAFpIJ77uAtXqMjck_SCIl88E_CL9m72EdrCClVU8_J9fmek69lxFCEr)
+[7] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELZAkYdSxW7Q6qmZSxhl7HDGaN1gj0cFCVOMALDSIFyyLFGc-alkoPOn9mjSxfI4zDMo9FEVipZ_PSQHV7DZFGyXZfLA_7bEyYPAaATdA9MLYhaDCHUX-d5qQW0sMSaEn_PfSNmovOcA2r_Fkfdqr6ZTv-lDBy9d8ebXFd71pAKaIR4T1q859rGOsl)

@@ -1,0 +1,12 @@
+The search for "site:saramin.co.kr "코니" "김병일"" returned the following summary:
+사람인(saramin.co.kr)에 등록된 기업 정보 중 대표자가 '김병일'로 되어 있는 기업(상호명 또는 관련 검색어로 노출되는 항목)과 관련된 정보는 다음과 같습니다[1]:
+
+* **대표자명:** 김병일[1]
+* **사업 내용:** 부동산 임대 등 (비주거용 건물 임대업)[1]
+* **주소:** 서울 강남구 개포로 623, 4층 437호[1]
+* **기업 형태:** 중소기업 (NICE평가정보 기준)[1]
+
+※ 사람인 플랫폼 내 기업 검색 및 데이터베이스 구조상 검색어와 매칭된 기업 정보 페이지의 요약 내용입니다[1]. 구체적인 채용 공고나 상세한 기업 세부 정보는 사람인 공식 홈페이지의 해당 기업 정보 페이지에서 확인하실 수 있습니다[1].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhF2FyTz8NqMm7RCEmoqBZgJoiu-EDdc_xbpchZ9JzkfPerRG3lZRgRbBgKQpSpDW8fM6HZjW8LUhAMi4Id9xWtIOCOYU7afOC2l60NGklRf2hnctiaHmBsyrAsaiy25j6klUS8RkICrHH0s3qcGCErN_YspXC7icU2jciAxucQoY3n83OV5F35pemrWyFZ9tFH-PO4ef2kyl_FBhfPf-KlubjJRxH2948UJssnyk-Q6xMmc0=)

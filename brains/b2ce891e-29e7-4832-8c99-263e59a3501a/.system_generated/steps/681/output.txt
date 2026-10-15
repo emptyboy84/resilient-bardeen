@@ -1,0 +1,12 @@
+The search for "site:nicebizinfo.com "에스지이" "이혜정"" returned the following summary:
+나이스비즈인포(NICEbizinfo)에 등록된 **(주)에스지이** 기업 정보 요약은 다음과 같습니다[1]:
+
+* **기업명:** (주)에스지이[1]
+* **대표자명:** 이혜정[1]
+* **설립일자:** 2023년 8월 25일 (법인등기부등본 기준)[1]
+* **주소:** 부산광역시 해운대구 반송로[1]
+* **표준산업분류:** 응용 소프트웨어 개발 및 공급업 (J58222)[1]
+* **기업 형태:** 중소기업[1]
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVbJ82AbX9WAPHTPTQervlVjtS5zHMg2dqhWoQHY0KmeDdiSzmwjIH_VBlVZQrJVpP8V9lC6cLP6-48loI9rpgwuFsyHppAeWaXdI2mLQa5BHvAJH7nL3ssyc983SrrUfATWQ8C5t6gtnwBUh9zkkYaU4=)

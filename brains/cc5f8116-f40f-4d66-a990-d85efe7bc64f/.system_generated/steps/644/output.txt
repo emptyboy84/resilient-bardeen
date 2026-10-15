@@ -1,0 +1,7 @@
+Title: Live Content
+
+OG Description: Fetched live
+
+The full content of the article at http://wiseonmedia.com has been saved to: C:\Users\lg\.gemini\antigravity\brain\cc5f8116-f40f-4d66-a990-d85efe7bc64f\.system_generated\steps\644\content.md
+
+You can use the view_file tool to read specific sections if needed.

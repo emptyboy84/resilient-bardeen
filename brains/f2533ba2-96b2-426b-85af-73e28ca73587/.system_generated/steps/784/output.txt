@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Cols count: 18
+0: 배현명
+1: 폐업
+2: 센스케이 글로벌(Sense-k Global)
+3: 7780500791
+4: 정정환
+5: 10545
+6: 경기도 고양시 덕양구 향동로 217, DMC플렉스데시앙 (향동동)
+7: 
+8: 
+9: https://smartstore.naver.com/michoo
+10: superspirit@nate.com
+11: 
+12: 전자상거래 소매 중개업
+13: 
+14: 
+15: 도매 및 소매업
+16: 소매업; 자동차 제외
+17: 무점포 소매업
+

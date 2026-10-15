@@ -1,0 +1,14 @@
+The search for ""모브랩스" "이재현" 사업자등록번호 OR "더타이탄" "서동협" 사업자등록번호 OR "세차콜" "김복순" 사업자등록번호" returned the following summary:
+제시해주신 검색어 중 **"세차콜" "김복순"** 조합과 일치하는 법인설립 정보가 확인됩니다[1]. 
+
+* **상호:** 세차콜 (주식회사)[1]
+* **대표자:** 김복순[1]
+* **설립일 / 법인 정보:** 2021년 6월 중순 신설법인으로 등록되었으며, 주요 사업목적은 '소프트웨어 개발 및 컨텐츠 구축 용역업'입니다[1].
+* **사업자(법인)등록번호:** 국세청 공식 상호·성명 데이터베이스 및 신설법인 공고 자료에 따르면, 해당 기업의 정확한 전체 사업자등록번호는 공개된 일반 요약 데이터베이스 내에서 실시간 조회 범위나 표기 방식에 따라 일부 제한이 있을 수 있으나, 위 조건의 법인으로 정확히 설립 및 등록되어 있습니다[1].
+
+*(※ '모브랩스' 및 '더타이탄'의 경우 입력하신 대표자 성명(이재현, 서동협)과 일치하는 공식 사업자 정보는 공공 데이터상에서 직접 매칭되지 않거나 대표자명이 다르게 등록되어 있습니다. 모브랩스의 경우 대표자가 양수영[2] 또는 주창환[3] 등으로 확인되며, 타이탄 관련 기업들은 다른 대표자명으로 등록되어 있습니다.)*
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfmrjk9KHZp5HpqTId085ng0zoA-k3v7fIOCA1kdZZuualwHWl3Lvu0k2EBt60OeY-RQIaIlQoZOdodRJGRqBW7FpswtnGeh8pgW5KScA_AdPZa2iGt0AcpPf1HmstFr1oEmMk)
+[2] [movl.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBEPYLFnCHQNDgdZhXS5I2-ArvqqDrbA8BQyD41SN0loLY_7IIbdjqAbgY2MsQBWgIRuCD6CkeTjE0yScKy4CHT6M7-Zl6DyeMeg==)
+[3] [mauvelabsinc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDA9a9deXnRwmOGx4DsupAoMdoo02tc9FlFEfSnEuYiVZKQCLyEtNXyl2Adh5pcJJcvIs-yNqx1RIhanpZuZ_VIgS8UZ5XzjZnrr82TY54zj8K)

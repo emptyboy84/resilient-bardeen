@@ -1,0 +1,11 @@
+The search for ""에이스로직스" "수영로 312" OR "578-86-02432" 전화번호 OR 연락처" returned the following summary:
+요청하신 **'주식회사 에이스로직스'**(사업자등록번호: `578-86-02432`[1], 도로명주소: 부산광역시 남구 수영로 312, 대연동 21센츄리시티 오피스텔[2][3])와 관련하여 공개된 기업 정보 포털 및 데이터베이스를 검색한 결과, 해당 사업장 번호나 주소지에 등록된 **대표 전화번호 또는 고객센터 직통 연락처는 공식적으로 공개되어 있지 않거나 확인되지 않습니다.**
+
+해당 기업은 일반 화물자동차 운송업/택배업 등의 업종으로 등록되어 있는 중소법인입니다[4][5]. 세부적인 민원, 화물 배송 및 업무 관련 문의는 대연동 해당 오피스텔 건물 내 상세 호수나 전자세금계산서 등의 발행 정보를 통해 확인하거나, 신용평가사 및 사람인·잡코리아 등의 기업 정보 플랫폼을 통한 별도 조회가 필요할 수 있습니다.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvjcSNHziOaijl4lXfHpyfgPhLAHMO1NsKwXVlWVeY3k6POqUeCF-OTK7A8shxxEeah6xm2TRO0_Zadhft0qX78WDZYrJrhsNuT2p9ttH0BXw3P5JYpj3ETA==)
+[2] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQNldwO_lF3WSur0NmbQvxNQJNFpp9BVxsG7zVtNj9_RkJ4U9YsbHhRwqSfnGBngtn6i-x5khny3WPiJjmstLNHImfQW6F__y_HRxI_7EZynvm6e4=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUAbTH72eyeUkySnVwEIaWN69FhM3DmFQVHfxYRbLcU2qnnYk-1KNRpqR0M71OcDcTn42tDOAeKnR3mZLC9CrKIy7P4itwXofSVS-aiDuwRJmkskIZvoDv3Gf0TTHpdW8vVY9alUP21cX9GaLKIYqPTRRaDvpxzGqPY0fQ7xCtijJAlDS2Qd3xkkU23l-C3nr8Wty2zJzAmFLgiopv0Zc96CxtFdE3zTUik7Nk_v7zvwymsyYzdJ15D74m5s0SjRSc0L1xRr02UdFZP9dQV_CIjOgTlu0UjjVoDNGKexk40ixJxA==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9CejaAJ65WxZ_Cji47MAARyUI1Ee8XFhA6J0ERFP85ALtNzuYh8fPD7JwjPHHcDU1JrkdxlBEB9HzPHrID_1yDMx-Al3s4VcJdjzf_9x0c8rQ8Z--CcLUy3WWhwvMCSt5FzKhUq46C47lE12dz27iPlNrfOM9U4EXotkk2DQTGWKDqx0bNv2EEEZOqoEJDHFCTYYMkVf-2kYy3fXdpx1x9elYH5a58dVGR9m6EKD523cPC97hs3031u01JjxLbNPaKa8_kNs9CFVQUao5dH2SgAPfVS3freE3eyLTInW5cQ==)
+[5] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyJteJ5bypA0l4XRP21l6PzoWdR0vIFcs0Zg-4p2rtSbIlu6fFXDKLib_5G7qFz466WcJHxVDfOhlzYGSC_vly32HxklUrblkkSaCRmRL3wXXm81rVgyMLf6wKZZ8l0M2R4bpDeOQtnzN_N29WrszYrhPgKX6Z-XtBNNjDC4A5E2VYCngLQlYAv_nqc8n3QGl9)

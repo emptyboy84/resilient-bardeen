@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+goCmpyDtl matches: []
+8990100125 NOT found in nicebiz text
+'보연' NOT found in nicebiz text
+

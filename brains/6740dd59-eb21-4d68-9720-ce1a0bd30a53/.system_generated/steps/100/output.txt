@@ -1,0 +1,47 @@
+
+The command exited with code 0.
+Output:
+Total rows in ws: 1048576
+Row 12340: 배현명 폐업 케이비이엔엠 {
+  text: '5612800080',
+  hyperlink: 'https://bizno.net/article/5612800080'
+}
+Row 12341: 배현명 undefined (장인수,강정자) {
+  text: '5613100606',
+  hyperlink: 'https://bizno.net/article/5613100606'
+}
+Row 12342: 배현명 undefined 삼정정밀 {
+  text: '5614800958',
+  hyperlink: 'https://bizno.net/article/5614800958'
+}
+Row 12343: 배현명 undefined 해송산업 {
+  text: '5615600249',
+  hyperlink: 'https://bizno.net/article/5615600249'
+}
+Row 12344: 배현명 undefined (주)서은시스템 {
+  text: '5618601319',
+  hyperlink: 'https://bizno.net/article/5618601319'
+}
+Row 12345: 배현명 폐업 제이엔비산업 {
+  text: '5618800288',
+  hyperlink: 'https://bizno.net/article/5618800288'
+}
+Row 12346: 배현명 undefined 금정산업기계 {
+  text: '5621001447',
+  hyperlink: 'https://bizno.net/article/5621001447'
+}
+Row 12347: undefined undefined 제일테크 5622301132
+Row 12348: undefined undefined 오복누리 5623400347
+Row 12349: undefined undefined 엠에스티알 5626400586
+Row 12350: undefined undefined 에이씨에스테크 5626600504
+Row 12351: undefined undefined 혜원종합건설(주) 5628100865
+Row 12352: undefined undefined ㈜리더스트레이딩 5628101490
+Row 12353: undefined undefined 주식회사도경기업 5628101748
+Row 12354: undefined undefined 디에스하이텍 5628703001
+Row 12355: undefined undefined 엠제이테크 5630102205
+Row 12356: undefined undefined 케이제이코퍼레이션 5630601157
+Row 12357: undefined undefined 45컴퍼니 5631101597
+Row 12358: undefined undefined 지음 5632400827
+Row 12359: undefined undefined 송월타월 남양주점 (수건스토어) 5634700087
+Row 12360: undefined undefined 루카필터 5634700296
+

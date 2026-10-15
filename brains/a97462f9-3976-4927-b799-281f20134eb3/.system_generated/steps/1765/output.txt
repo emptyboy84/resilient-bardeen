@@ -1,0 +1,6 @@
+### Result
+"Clicked DIV"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const all = Array.from(document.querySelectorAll(\'button, div, p, span\'));\n  const target = all.find(el => el.innerText && el.innerText.trim().startsWith(\'기업명, 업종, 조건 검색\'));\n  if (target) {\n    target.click();\n    return \'Clicked \' + target.tagName;\n  }\n  return \'Not found\';\n}');
+```

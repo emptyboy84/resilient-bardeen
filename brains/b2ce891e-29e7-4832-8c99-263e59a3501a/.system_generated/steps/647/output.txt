@@ -1,0 +1,10 @@
+The search for "site:chungoose.kr "507-86-01751" OR "주식회사 파이"" returned the following summary:
+B2B 청구·수금 자동화 및 미수금 관리 서비스인 **청구스(chungoose.kr)** 사이트 내 사업자 정보 데이터베이스에 등록된 내용에 따르면, 사업자등록번호 `507-86-01751`의 법인명(상호)은 **주식회사파이**입니다[1]. 
+
+* **상호:** 주식회사파이[1]
+* **사업자등록번호:** 507-86-01751[1]
+* **사업자 상태:** 계속사업자 (국세청 조회 기준)[1]
+* **상시 근로자 수(고용보험 기준):** 약 1명[1]
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjJEdoW1Nss5zADwBRKuR8RR1-jYUyYiQd7Nc-CTkXgHfAQsgajR0cuTvORoc6KPhYVl_niiXW-nJcT-Ux9OlLdg7W1W0cRFYmLh2q-pAvRIPdkz58VINkxw==)

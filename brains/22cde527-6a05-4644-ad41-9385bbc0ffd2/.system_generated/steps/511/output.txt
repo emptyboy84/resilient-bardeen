@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Found 1 suspect addresses:
+Row 730 | "버킷리스트" (673-23-01581) => "전라북도 정읍시 서부산업도로 363(연지동)"
+

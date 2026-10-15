@@ -1,0 +1,8 @@
+구분: [25년 모집단] -> Total: 2269, Missing 사업자번호: 317
+  First 5 row indices: [504, 508, 536, 537, 539]
+  Last 5 row indices: [2260, 2261, 2262, 2263, 2264]
+구분: [e] -> Total: 1, Missing 사업자번호: 0
+구분: [`] -> Total: 1, Missing 사업자번호: 0
+구분: [게임사업단 리스트] -> Total: 42, Missing 사업자번호: 1
+  First 5 row indices: [2307]
+  Last 5 row indices: [2307]

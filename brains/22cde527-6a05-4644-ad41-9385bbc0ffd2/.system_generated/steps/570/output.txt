@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Non http sources: 3
+2214 에어딩동 창업보육센터네트워크시스템(BI-Net) 및 동아대학교 창업보육센터
+2259 번들즈 국세청 홈택스 및 네이버 기업정보(876-87-02750)
+2307 피커스튜디오 부산정보산업진흥원 게임사업단 등록정보 및 네이버 플레이스(606-16-43962)
+Space in http sources: 4
+750 불교방송 https://bizno.net/article/6048204181 및 방송통신위원회 방송사업자등록
+2243 케어닥 https://caredoc.kr 및 통신판매업(2019-부산해운대-0435)
+2256 저스티스어드벤처 https://bizno.net/article/1778100390 및 네이버 플레이스 사업자 등록정보
+2260 모두싸인 https://www.modusign.co.kr 및 통신판매업(2019-부산해운대-0684)
+

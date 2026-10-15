@@ -1,0 +1,12 @@
+The search for ""직장선배" "임형준" 사업자등록번호 OR 사업자 OR 대표자" returned the following summary:
+현직자와 취준생의 1:1 매칭 및 정보 불균형 해소를 목표로 하는 스타트업 **(주)직장선배**의 대표는 **임형준**입니다[1]. 
+
+* **기업명:** (주)직장선배[1]
+* **대표자:** 임형준 (부산대학교 통계학과)[1][2]
+* **관련 이력:** 2021년 교육부·과기부 주관 전국 학생창업경진대회인 「2021 학생 창업유망팀 300」 및 '2021 산학협력 EXPO' 등에 부산대 창업팀 팀장 및 청년창업가로 참가하여 선정된 바 있습니다[1][2].
+
+※ 정확한 법인 사업자등록번호 등의 상세 기업 고유 정보는 국세청 홈택스(사업자등록증 진위확인) 등을 통해 조회하실 수 있습니다.
+
+Sources:
+[1] [kbsm.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2lCiBQEH-9d7KoIZkxEjWKRI193Nihzb0StLVzvBMSKBbJo29lkxJclQXbi1b77793LiWxiVNck8cHOkQimMQd3LxpMN2y5lDPAigULD6wcUJEbBZhDM2MJJ6)
+[2] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ2ZEfEgjBKxPWx3VhjCH0TQUMv0pRQm6yrGwGfeBz8cidV52uxMH4AeEDO0_rpyUoWSGfgYNI_3S0LkVylAkyzM2kOz35TviPlINNAfjW-ZIb7-C3s-towHTKexopFuKDu1jmSDyLHpxjFml0jkoyflH4uIelckS1BJJfRmorQiQL2vz-yQoaKbQ=)

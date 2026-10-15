@@ -1,0 +1,11 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-327
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-327.log
+Log output:
+Starting STRICT BUSAN Bizno Search for 77 targets...
+[FOUND] 1346 (주)브릿지빌더스 (김원기) -> 243-13-01682 [브릿지빌더스 | 성아* | 부산광역시 금정구 금샘로246번길... | score:70]
+[FOUND] 1465 (주)더문컴퍼니 (강무빈) -> 783-02-01243 [더문컴퍼니 |  | 부산광역시 부산진구 부전로 92 | score:70]
+[FOUND] 1697 (주)왓컴퍼니 (박민우) -> 173-46-00441 [왓컴퍼니(WHATCOMPANY) | 박민* | 부산광역시 남구 수영로 294， ... | score:90]
+[FOUND] 1852 (주)코드스테이션 (김민수) -> 760-20-01657 [코드스테이션 | 김민* | 부산광역시 동래구 온천장로65번길... | score:100]
+
+Last progress: 5s ago

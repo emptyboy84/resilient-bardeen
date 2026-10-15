@@ -1,0 +1,587 @@
+### Page
+- Page URL: https://m.blog.naver.com/younga104?tab=1
+- Page Title: soso하게 행복하기 : 네이버 블로그
+### Snapshot
+```yaml
+- generic [ref=f40e2]:
+  - generic [ref=f40e3]:
+    - heading [level=1] [ref=f40e4]:
+      - link "naver" [ref=f40e5] [cursor=pointer]:
+        - /url: https://m.naver.com/
+      - link "blog" [ref=f40e8] [cursor=pointer]:
+        - /url: /Recommendation.naver
+    - generic [ref=f40e11]:
+      - link "이 블로그 검색" [ref=f40e12] [cursor=pointer]:
+        - /url: https://m.blog.naver.com/PostSearchList.naver?blogId=younga104
+      - button "MY메뉴 열기" [ref=f40e14] [cursor=pointer]
+  - generic [ref=f40e16]:
+    - heading "naver blog" [level=1] [ref=f40e17]:
+      - link "naver":
+        - /url: https://m.naver.com/
+      - link "blog" [ref=f40e19] [cursor=pointer]:
+        - /url: /Recommendation.naver
+    - generic [ref=f40e22]:
+      - link "이 블로그 검색" [ref=f40e23] [cursor=pointer]:
+        - /url: https://m.blog.naver.com/PostSearchList.naver?blogId=younga104
+      - button "MY메뉴 열기" [ref=f40e25] [cursor=pointer]
+    - heading [level=2] [ref=f40e28]:
+      - button "카테고리 이동" [ref=f40e30] [cursor=pointer]
+      - link "soso하게 행복하기" [ref=f40e34] [cursor=pointer]:
+        - /url: https://m.blog.naver.com/PostList.naver?blogId=younga104&trackingCode=blog_bloghome
+  - generic [ref=f40e37]:
+    - generic [ref=f40e38]:
+      - generic [ref=f40e39]: 오늘 1 전체 526,174
+      - heading [level=2] [ref=f40e41]:
+        - link "soso하게 행복하기" [ref=f40e42] [cursor=pointer]:
+          - /url: /younga104
+    - generic [ref=f40e43]:
+      - link [ref=f40e45] [cursor=pointer]:
+        - /url: https://blogpfthumb-phinf.pstatic.net/MjAyMTA0MDlfMjc2/MDAxNjE3OTAzMjY3MzQz.dqIEtzGLbQMKKZ5FZADn5E6UOzFt_TmHe-UnM7mq3pQg.plgzk3cxIIgpELVgxcsL5KQ3QTY0S1z1J6365DzdE1gg.PNG.younga104/%EC%A0%9C%EB%AA%A9%EC%9D%84+%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.-001+%283%29.png
+        - img "쏘쏘킴" [ref=f40e47]
+      - generic [ref=f40e48]:
+        - link "쏘쏘킴" [ref=f40e50] [cursor=pointer]:
+          - /url: /younga104
+        - generic [ref=f40e51]:
+          - generic [ref=f40e52]: 일상·생각
+          - generic [ref=f40e53]: ㆍ
+          - generic [ref=f40e55]: 638명의 이웃
+    - generic [ref=f40e56]:
+      - button "이웃추가" [ref=f40e58] [cursor=pointer]
+      - button "카테고리" [ref=f40e61] [cursor=pointer]
+      - generic [ref=f40e63]:
+        - link "안부글" [ref=f40e64] [cursor=pointer]:
+          - /url: https://m.blog.naver.com/GuestbookList.naver?blogId=younga104
+        - link "이웃목록" [ref=f40e66] [cursor=pointer]:
+          - /url: https://m.blog.naver.com/BuddyList.naver?blogId=younga104
+        - button "앱알림 비활성화됨, 앱알림 활성화하기" [ref=f40e68] [cursor=pointer]
+      - link "공유하기" [ref=f40e112] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=f40e70]:
+    - generic [ref=f40e114]:
+      - heading "NOTICE" [level=3] [ref=f40e115]
+      - link "블로그 광고 대행 블로그 저품질 조심하세요" [ref=f40e120] [cursor=pointer]:
+        - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=223099785662
+    - generic [ref=f40e72]:
+      - heading "소개" [level=3] [ref=f40e73]
+      - paragraph [ref=f40e74]: 영화, 드라마, 뮤지컬, 공연, 음악 그리고 책 문화생활을 향유하는 쏘쏘킴의 soso하게 행복한 일상 기록
+    - generic [ref=f40e124]:
+      - heading "글감" [level=3] [ref=f40e125]
+      - list [ref=f40e127]:
+        - listitem [ref=f40e128]:
+          - link "책99+" [ref=f40e129] [cursor=pointer]:
+            - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true&type=book
+        - listitem [ref=f40e131]:
+          - link "영화99+" [ref=f40e132] [cursor=pointer]:
+            - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true&type=movie
+        - listitem [ref=f40e134]:
+          - link "방송69" [ref=f40e135] [cursor=pointer]:
+            - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true&type=broadcast
+        - listitem [ref=f40e137]:
+          - link "공연·전시15" [ref=f40e138] [cursor=pointer]:
+            - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true&type=show
+        - listitem [ref=f40e140]:
+          - link "음악11" [ref=f40e141] [cursor=pointer]:
+            - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true&type=music
+      - generic [ref=f40e143]: 전체보기
+      - link "글감 전체보기" [ref=f40e144] [cursor=pointer]:
+        - /url: /MyMaterial.naver?blogId=younga104&isFromPostList=true
+    - generic [ref=f40e76]:
+      - list [ref=f40e146]:
+        - listitem [ref=f40e147]:
+          - button "인기글" [ref=f40e148] [cursor=pointer]
+        - listitem [ref=f40e149]:
+          - button "대표글" [ref=f40e150] [cursor=pointer]
+      - generic [ref=f40e152]:
+        - heading "인기글" [level=3] [ref=f40e153]
+        - list [ref=f40e154]:
+          - listitem [ref=f40e155]:
+            - link "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리4 섬네일 [블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리4 [블챌] 스페셜 포토덤프" [ref=f40e157] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/223536423620
+              - img "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리4 섬네일" [ref=f40e159]
+              - generic [ref=f40e160]:
+                - strong [ref=f40e161]: "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리4"
+                - generic [ref=f40e162]: "[블챌] 스페셜 포토덤프"
+          - listitem [ref=f40e163]:
+            - link "[블챌] 아콘 E1 PRO 무접점 키보드 내돈내산 리뷰 섬네일 [블챌] 아콘 E1 PRO 무접점 키보드 내돈내산 리뷰 [블챌] 스페셜 포토덤프" [ref=f40e165] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/223551424656
+              - img "[블챌] 아콘 E1 PRO 무접점 키보드 내돈내산 리뷰 섬네일" [ref=f40e167]
+              - generic [ref=f40e168]:
+                - strong [ref=f40e169]: "[블챌] 아콘 E1 PRO 무접점 키보드 내돈내산 리뷰"
+                - generic [ref=f40e170]: "[블챌] 스페셜 포토덤프"
+          - listitem [ref=f40e171]:
+            - link "[크림] 라운드랩 독도크림 & 자작나무 수분크림 섬네일 [크림] 라운드랩 독도크림 & 자작나무 수분크림 Beauty" [ref=f40e173] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/222270758795
+              - img "[크림] 라운드랩 독도크림 & 자작나무 수분크림 섬네일" [ref=f40e175]
+              - generic [ref=f40e176]:
+                - strong [ref=f40e177]: "[크림] 라운드랩 독도크림 & 자작나무 수분크림"
+                - generic [ref=f40e178]: Beauty
+          - listitem [ref=f40e179]:
+            - link "100일 습관 만들기(feat. 100일노트) 섬네일 100일 습관 만들기(feat. 100일노트) Daily" [ref=f40e181] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/222390526370
+              - img "100일 습관 만들기(feat. 100일노트) 섬네일" [ref=f40e183]
+              - generic [ref=f40e184]:
+                - strong [ref=f40e185]: 100일 습관 만들기(feat. 100일노트)
+                - generic [ref=f40e186]: Daily
+          - listitem [ref=f40e187]:
+            - link "잡티없애는 미백크림 메디올가 브라이트닝 크림 섬네일 잡티없애는 미백크림 메디올가 브라이트닝 크림 Review" [ref=f40e189] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/223377154109
+              - img "잡티없애는 미백크림 메디올가 브라이트닝 크림 섬네일" [ref=f40e191]
+              - generic [ref=f40e192]:
+                - strong [ref=f40e193]: 잡티없애는 미백크림 메디올가 브라이트닝 크림
+                - generic [ref=f40e194]: Review
+          - listitem [ref=f40e195]:
+            - link "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리 섬네일 [블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리 [블챌] 스페셜 포토덤프" [ref=f40e197] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/younga104/223511851426
+              - img "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리 섬네일" [ref=f40e199]
+              - generic [ref=f40e200]:
+                - strong [ref=f40e201]: "[블챌] 내가 보려고 하는 귀멸의 칼날 등장인물 정리"
+                - generic [ref=f40e202]: "[블챌] 스페셜 포토덤프"
+    - generic [ref=f40e77]:
+      - tablist [ref=f40e79]:
+        - tab "블로그" [selected] [ref=f40e80] [cursor=pointer]
+        - tab "클립" [ref=f40e81] [cursor=pointer]
+      - generic [ref=f40e83]:
+        - heading [level=3] [ref=f40e203]:
+          - button "전체글" [ref=f40e204] [cursor=pointer]
+        - generic [ref=f40e84]:
+          - button "사진만 보기" [ref=f40e85] [cursor=pointer]
+          - button "목록형 보기" [ref=f40e87] [cursor=pointer]
+          - button "카드형 보기" [ref=f40e89] [cursor=pointer]
+      - list [ref=f40e206]:
+        - listitem [ref=f40e207]:
+          - generic [ref=f40e208]:
+            - generic [ref=f40e209]: 2026. 8. 28.
+            - link "글쓰기 프로젝트 오늘 생각 기록하기6- 나만의 책만들기 처음 시작할 때는 그리 짧지 않을 것 같던 시간이 막상 다가오면 너무 순식간에 지나가버리는 것 같다. 매번 쓸 때마다 부족한 부분이 튀어나오는 것 같다. 글을 쓰는 게 힘들면서도 신기하게도 이 작업이 재미있다는 걸 느꼈다. 이번에 쓰면서 다음에는 에세이도 써보고 조금 더 긴 소설도 써보고 싶다는 생각을 했다. 앞으로 다른 책들도 많이 읽고 작법서 보면서 글 쓰는 방법에 대해 좀 더 익혀서 내 이야기를 담은 이야기를 써서 책으로 만들어야겠다!!" [ref=f40e213] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224392639328&navType=by
+              - strong [ref=f40e214]: 글쓰기 프로젝트 오늘 생각 기록하기6- 나만의 책만들기
+              - generic [ref=f40e215]: 처음 시작할 때는 그리 짧지 않을 것 같던 시간이 막상 다가오면 너무 순식간에 지나가버리는 것 같다. 매번 쓸 때마다 부족한 부분이 튀어나오는 것 같다. 글을 쓰는 게 힘들면서도 신기하게도 이 작업이 재미있다는 걸 느꼈다. 이번에 쓰면서 다음에는 에세이도 써보고 조금 더 긴 소설도 써보고 싶다는 생각을 했다. 앞으로 다른 책들도 많이 읽고 작법서 보면서 글 쓰는 방법에 대해 좀 더 익혀서 내 이야기를 담은 이야기를 써서 책으로 만들어야겠다!!
+            - generic [ref=f40e216]:
+              - generic [ref=f40e218]:
+                - button [expanded] [ref=f40e221] [cursor=pointer]
+                - button "3" [expanded] [ref=f40e225] [cursor=pointer]
+              - button "댓글" [ref=f40e230] [cursor=pointer]
+              - link "공유하기" [ref=f40e233] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e234]:
+            - generic [ref=f40e235]: 2026. 8. 20.
+            - link "글쓰기 프로젝트 오늘 생각 기록하기5- 책 쓰기 내 생각을 글로 풀어내고, 남들에게 보여준다는 게 쉽지 않다는 걸 매번 느낀다. 이번 글ego 책 쓰기를 통해서 작법서로만은 알 수 없던 것들을 알게 되었다. 내가 쓴 글에서 어떤 점들이 부족한가를 정확하게 알 수 있었다. 이야기 진행에만 치우쳐서 시간이나 공간 묘사가 부족하고 인물들의 심리 묘사도 부족하다는 점을 알게 되었다. 제대로 된 문장을 작성하는 방법도 배울 수 있었는데, 하지 말아야 하는 부분들에서 평소 내가 쓰는 방식들이 많이 보여서 이런 부분들은 신경을 많이 써야겠다는 생각을 했다. 그리고 가장 중요하게 생각했던 부분은 개연성! 이야기에서 개연성이 얼마나 중요한지 다시 한 번 깨닫는 부분이 많았다." [ref=f40e239] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224384857430&navType=by
+              - strong [ref=f40e240]: 글쓰기 프로젝트 오늘 생각 기록하기5- 책 쓰기
+              - generic [ref=f40e241]: 내 생각을 글로 풀어내고, 남들에게 보여준다는 게 쉽지 않다는 걸 매번 느낀다. 이번 글ego 책 쓰기를 통해서 작법서로만은 알 수 없던 것들을 알게 되었다. 내가 쓴 글에서 어떤 점들이 부족한가를 정확하게 알 수 있었다. 이야기 진행에만 치우쳐서 시간이나 공간 묘사가 부족하고 인물들의 심리 묘사도 부족하다는 점을 알게 되었다. 제대로 된 문장을 작성하는 방법도 배울 수 있었는데, 하지 말아야 하는 부분들에서 평소 내가 쓰는 방식들이 많이 보여서 이런 부분들은 신경을 많이 써야겠다는 생각을 했다. 그리고 가장 중요하게 생각했던 부분은 개연성! 이야기에서 개연성이 얼마나 중요한지 다시 한 번 깨닫는 부분이 많았다.
+            - generic [ref=f40e242]:
+              - generic [ref=f40e244]:
+                - button [expanded] [ref=f40e247] [cursor=pointer]
+                - button "2" [expanded] [ref=f40e251] [cursor=pointer]
+              - button "댓글" [ref=f40e256] [cursor=pointer]
+              - link "공유하기" [ref=f40e259] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e260]:
+          - generic [ref=f40e261]:
+            - generic [ref=f40e262]: 2026. 8. 12.
+            - link "글쓰기 프로젝트 오늘 생각 기록하기4- 작가 되는 법 사진 개수 2" [ref=f40e266] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224376575947&navType=by
+              - generic [ref=f40e267]:
+                - generic [ref=f40e269]:
+                  - img "글쓰기 프로젝트 오늘 생각 기록하기4- 작가 되는 법"
+                - generic [ref=f40e270]:
+                  - generic [ref=f40e271]: 사진 개수
+                  - text: "2"
+            - link "글쓰기 프로젝트 오늘 생각 기록하기4- 작가 되는 법 내가 쓴 글을 누군가가 읽는다고 생각하면 설레기도 하고 부끄럽기도 하다. 그래도 언젠가는 그 글들이 모여 한 권의 책이 되길 바라면서 열심히 키보드를 두드린다." [ref=f40e273] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224376575947&navType=by
+              - strong [ref=f40e274]: 글쓰기 프로젝트 오늘 생각 기록하기4- 작가 되는 법
+              - generic [ref=f40e275]: 내가 쓴 글을 누군가가 읽는다고 생각하면 설레기도 하고 부끄럽기도 하다. 그래도 언젠가는 그 글들이 모여 한 권의 책이 되길 바라면서 열심히 키보드를 두드린다.
+            - generic [ref=f40e276]:
+              - button [expanded] [ref=f40e281] [cursor=pointer]
+              - button "댓글" [ref=f40e284] [cursor=pointer]
+              - link "공유하기" [ref=f40e287] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e288]:
+            - generic [ref=f40e289]: 2026. 8. 5.
+            - link [ref=f40e293] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224368744003&navType=by
+              - generic [ref=f40e296]:
+                - img "글쓰기 프로젝트 오늘 생각 기록하기3- 글 잘 쓰는 법"
+            - link "글쓰기 프로젝트 오늘 생각 기록하기3- 글 잘 쓰는 법 처음 읽을 때는 무슨 말인지 어렵기만 했는데 독서모임에서 얘기 나누고 다시 읽었더니 조금은 이해가 가고, 이해가 되기 시작하니 다시 한 번 제대로 읽고 싶어지는 책이었다." [ref=f40e298] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224368744003&navType=by
+              - strong [ref=f40e299]: 글쓰기 프로젝트 오늘 생각 기록하기3- 글 잘 쓰는 법
+              - generic [ref=f40e300]: 처음 읽을 때는 무슨 말인지 어렵기만 했는데 독서모임에서 얘기 나누고 다시 읽었더니 조금은 이해가 가고, 이해가 되기 시작하니 다시 한 번 제대로 읽고 싶어지는 책이었다.
+            - generic [ref=f40e301]:
+              - generic [ref=f40e303]:
+                - button [expanded] [ref=f40e306] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e310] [cursor=pointer]
+              - button "댓글 1" [ref=f40e315] [cursor=pointer]:
+                - generic "댓글" [ref=f40e316]
+                - text: "1"
+              - link "공유하기" [ref=f40e318] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e319]:
+          - generic [ref=f40e320]:
+            - generic [ref=f40e321]: 2026. 7. 29.
+            - link "글쓰기 프로젝트 오늘 생각 기록하기2- 글쓰기 사진 개수 4" [ref=f40e325] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224361660374&navType=by
+              - generic [ref=f40e326]:
+                - generic [ref=f40e328]:
+                  - img "글쓰기 프로젝트 오늘 생각 기록하기2- 글쓰기"
+                - generic [ref=f40e329]:
+                  - generic [ref=f40e330]: 사진 개수
+                  - text: "4"
+            - link "글쓰기 프로젝트 오늘 생각 기록하기2- 글쓰기 그림은 ai로 만들었습니다." [ref=f40e332] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224361660374&navType=by
+              - strong [ref=f40e333]: 글쓰기 프로젝트 오늘 생각 기록하기2- 글쓰기
+              - generic [ref=f40e334]: 그림은 ai로 만들었습니다.
+            - generic [ref=f40e335]:
+              - button [expanded] [ref=f40e340] [cursor=pointer]
+              - button "댓글" [ref=f40e343] [cursor=pointer]
+              - link "공유하기" [ref=f40e346] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e347]:
+            - generic [ref=f40e348]: 2026. 7. 23.
+            - link "글쓰기 프로젝트 오늘 생각 기록하기1- 책 만들기 사진 개수 6" [ref=f40e352] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224354897814&navType=by
+              - generic [ref=f40e353]:
+                - generic [ref=f40e355]:
+                  - img "글쓰기 프로젝트 오늘 생각 기록하기1- 책 만들기"
+                - generic [ref=f40e356]:
+                  - generic [ref=f40e357]: 사진 개수
+                  - text: "6"
+            - link "글쓰기 프로젝트 오늘 생각 기록하기1- 책 만들기 그림은 ai로 만들었습니다." [ref=f40e359] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224354897814&navType=by
+              - strong [ref=f40e360]: 글쓰기 프로젝트 오늘 생각 기록하기1- 책 만들기
+              - generic [ref=f40e361]: 그림은 ai로 만들었습니다.
+            - generic [ref=f40e362]:
+              - generic [ref=f40e364]:
+                - button [expanded] [ref=f40e367] [cursor=pointer]
+                - button "2" [expanded] [ref=f40e371] [cursor=pointer]
+              - button "댓글" [ref=f40e376] [cursor=pointer]
+              - link "공유하기" [ref=f40e379] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e380]:
+          - generic [ref=f40e381]:
+            - generic [ref=f40e382]: 2025. 11. 9.
+            - link [ref=f40e386] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224070261867&navType=by
+              - generic [ref=f40e389]:
+                - img "[블챌] 아주 신랄한 그래서 속 시원한 철학 편지"
+            - link "[블챌] 아주 신랄한 그래서 속 시원한 철학 편지 10월 독서모임 책이었던 철학 편지! 철학이라는 단어에 어렵고 지루하지 않을까 하는 생각이 들었는데 너무 재미있어서 술술 읽혔습니다. 이번 추석 연휴가 길었잖아요. 그때 밀린 일들을 하려고 했었는데 이 책 읽느라 일을 다시 미뤄버렸어요. 종교, 정치, 과학, 문화 등등 전 분야를 아우르면서 잘못된 점들을 콕콕 집어내는데 저랑 생각이 비슷한 부분들이 많았어요. 고전문학을 읽으면서 세계사에도 정말 관심이 많이 가는 것 같아요. 역사를 알면 이런 고전문학을 읽을 때 도움이 많이 될 거 같더라구요. 철학 편지를 읽으면서 볼테르라는 작가는 참 열정적이고 겁 없는 사람이구나 싶었어요. 더불어 철학 편지에서 아주 심도 있게 다룬 파스칼의 팡세라는 책도 궁금해졌어요. 나중에 꼭 읽어보려 합니다. 철학 편지와 함께 비교하면서!" [ref=f40e391] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224070261867&navType=by
+              - strong [ref=f40e392]: "[블챌] 아주 신랄한 그래서 속 시원한 철학 편지"
+              - generic [ref=f40e393]: 10월 독서모임 책이었던 철학 편지! 철학이라는 단어에 어렵고 지루하지 않을까 하는 생각이 들었는데 너무 재미있어서 술술 읽혔습니다. 이번 추석 연휴가 길었잖아요. 그때 밀린 일들을 하려고 했었는데 이 책 읽느라 일을 다시 미뤄버렸어요. 종교, 정치, 과학, 문화 등등 전 분야를 아우르면서 잘못된 점들을 콕콕 집어내는데 저랑 생각이 비슷한 부분들이 많았어요. 고전문학을 읽으면서 세계사에도 정말 관심이 많이 가는 것 같아요. 역사를 알면 이런 고전문학을 읽을 때 도움이 많이 될 거 같더라구요. 철학 편지를 읽으면서 볼테르라는 작가는 참 열정적이고 겁 없는 사람이구나 싶었어요. 더불어 철학 편지에서 아주 심도 있게 다룬 파스칼의 팡세라는 책도 궁금해졌어요. 나중에 꼭 읽어보려 합니다. 철학 편지와 함께 비교하면서!
+            - generic [ref=f40e394]:
+              - generic [ref=f40e396]:
+                - button [expanded] [ref=f40e399] [cursor=pointer]
+                - button "2" [expanded] [ref=f40e403] [cursor=pointer]
+              - button "댓글" [ref=f40e408] [cursor=pointer]
+              - link "공유하기" [ref=f40e411] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e412]:
+            - generic [ref=f40e413]: 2025. 10. 29.
+            - link "[블챌] 갑자기 건조해진 날씨 메디힐 마데카소사이드 마스크팩으로 수분 충전 사진 개수 9" [ref=f40e417] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224058230283&navType=by
+              - generic [ref=f40e418]:
+                - generic [ref=f40e420]:
+                  - img "[블챌] 갑자기 건조해진 날씨 메디힐 마데카소사이드 마스크팩으로 수분 충전"
+                - generic [ref=f40e421]:
+                  - generic [ref=f40e422]: 사진 개수
+                  - text: "9"
+            - link "[블챌] 갑자기 건조해진 날씨 메디힐 마데카소사이드 마스크팩으로 수분 충전 작년에 한번 리뷰한 적이 있었던 메디힐 마데카소사이드 마스크 팩! 그때부터 직접 구매해서 계속 사용을 해왔습니다. 요즘 갑자기 추워진 날씨때문에 목이 간질간질한 것과 함께 피부도 건조해지기 시작하더라고요. 저는 계절 상관 없이 일주일에 2-3번 마스크팩을 합니다. 이 루틴은 정말 오래 됐어요. 아토피에 악건성 피부라 조금만 기초를 소홀히 하면 얼굴이 찢어질 것 같은 느낌이 들거든요. 여름에는 에어컨 바람 때문에 건조하고 가을, 겨울은 그냥 건조하고;;;; 찬바람 부니까 아니나 다를까 피부가 평소보다 바로 당기기 시작했습니다;;; 그럼 바로 샤워하고 나서 마스크팩을 얼굴에 착!! 얼마전까지만 해도 냉장고에 넣어두었다 쓰곤 했는데 이제 그냥 얼굴에 붙여도 찹찹했어요. 메디힐 팩은 이것만 써보긴 했는데 저한테 이게 잘 맞아서 굳이 다른 건 안사고 요 메디힐 마데카소사이드 에센셜 마스크팩만 사용해왔습니다. 가끔 마스크팩을 붙였을 때 안 맞으면 따갑거나 간지러워서 버린 팩들이 여러개인데 이건 정말 자극이 없어요. 그래서 메디힐 마데카소사이드 패드도 함께 사용중입니다. 저의 기초 루틴을 잠깐 말씀드리자면 샤워하고 바로 스킨을 발라줍..." [ref=f40e424] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224058230283&navType=by
+              - strong [ref=f40e425]: "[블챌] 갑자기 건조해진 날씨 메디힐 마데카소사이드 마스크팩으로 수분 충전"
+              - generic [ref=f40e426]: 작년에 한번 리뷰한 적이 있었던 메디힐 마데카소사이드 마스크 팩! 그때부터 직접 구매해서 계속 사용을 해왔습니다. 요즘 갑자기 추워진 날씨때문에 목이 간질간질한 것과 함께 피부도 건조해지기 시작하더라고요. 저는 계절 상관 없이 일주일에 2-3번 마스크팩을 합니다. 이 루틴은 정말 오래 됐어요. 아토피에 악건성 피부라 조금만 기초를 소홀히 하면 얼굴이 찢어질 것 같은 느낌이 들거든요. 여름에는 에어컨 바람 때문에 건조하고 가을, 겨울은 그냥 건조하고;;;; 찬바람 부니까 아니나 다를까 피부가 평소보다 바로 당기기 시작했습니다;;; 그럼 바로 샤워하고 나서 마스크팩을 얼굴에 착!! 얼마전까지만 해도 냉장고에 넣어두었다 쓰곤 했는데 이제 그냥 얼굴에 붙여도 찹찹했어요. 메디힐 팩은 이것만 써보긴 했는데 저한테 이게 잘 맞아서 굳이 다른 건 안사고 요 메디힐 마데카소사이드 에센셜 마스크팩만 사용해왔습니다. 가끔 마스크팩을 붙였을 때 안 맞으면 따갑거나 간지러워서 버린 팩들이 여러개인데 이건 정말 자극이 없어요. 그래서 메디힐 마데카소사이드 패드도 함께 사용중입니다. 저의 기초 루틴을 잠깐 말씀드리자면 샤워하고 바로 스킨을 발라줍...
+            - generic [ref=f40e427]:
+              - generic [ref=f40e429]:
+                - button [expanded] [ref=f40e432] [cursor=pointer]
+                - button "6" [expanded] [ref=f40e436] [cursor=pointer]
+              - button "댓글 1" [ref=f40e441] [cursor=pointer]:
+                - generic "댓글" [ref=f40e442]
+                - text: "1"
+              - link "공유하기" [ref=f40e444] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e445]:
+          - generic [ref=f40e446]:
+            - generic [ref=f40e447]: 2025. 10. 25.
+            - link [ref=f40e451] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224053294208&navType=by
+              - generic [ref=f40e454]:
+                - img "10월 25일 모니모 영어"
+            - link "10월 25일 모니모 영어 mistake 실수, 잘못 셀 수 있고, 단수 이기 때문에 앞에 'a'를 씀" [ref=f40e456] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224053294208&navType=by
+              - strong [ref=f40e457]: 10월 25일 모니모 영어
+              - generic [ref=f40e458]: mistake 실수, 잘못 셀 수 있고, 단수 이기 때문에 앞에 'a'를 씀
+            - generic [ref=f40e459]:
+              - generic [ref=f40e461]:
+                - button [expanded] [ref=f40e464] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e468] [cursor=pointer]
+              - button "댓글" [ref=f40e473] [cursor=pointer]
+              - link "공유하기" [ref=f40e476] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e477]:
+            - generic [ref=f40e478]: 2025. 10. 25.
+            - link [ref=f40e482] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224053292057&navType=by
+              - generic [ref=f40e485]:
+                - img "10월 24일 모니모 영어"
+            - link "10월 24일 모니모 영어 Hear me out '내 말을 끝까지 방해하지 말고 주의 깊게 들어주세요'라는 뜻의 관용구 Hear 주의 깊게 듣다" [ref=f40e487] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224053292057&navType=by
+              - strong [ref=f40e488]: 10월 24일 모니모 영어
+              - generic [ref=f40e489]: Hear me out '내 말을 끝까지 방해하지 말고 주의 깊게 들어주세요'라는 뜻의 관용구 Hear 주의 깊게 듣다
+            - generic [ref=f40e490]:
+              - generic [ref=f40e492]:
+                - button [expanded] [ref=f40e495] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e499] [cursor=pointer]
+              - button "댓글" [ref=f40e504] [cursor=pointer]
+              - link "공유하기" [ref=f40e507] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e508]:
+          - generic [ref=f40e509]:
+            - generic [ref=f40e510]: 2025. 10. 24.
+            - link "[블챌] 막걸리 한 잔과 함께 1953형제돼지국밥 사진 개수 5" [ref=f40e514] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052619086&navType=by
+              - generic [ref=f40e515]:
+                - generic [ref=f40e517]:
+                  - img "[블챌] 막걸리 한 잔과 함께 1953형제돼지국밥"
+                - generic [ref=f40e518]:
+                  - generic [ref=f40e519]: 사진 개수
+                  - text: "5"
+            - link "[블챌] 막걸리 한 잔과 함께 1953형제돼지국밥 입원해 계시던 엄마 퇴원일! 동생이랑 아침 일찍 병원에 갔는데 퇴원하는데 시간이 좀 걸린다고 해서 아침을 먹으로 광안리 바닷가 쪽으로 향했습니다. 이른 아침이라 그런지 문 연 곳이 별로 없더라고요. 그러던 중 한 곳 발견!! 1953 형제돼지국밥 1953이라는 숫자에서 뭔가 신뢰가 간달까. 동생이랑 망설임 없이 안으로 들어갔습니다. 내부가 엄청 깔끔해서 좋았어요. 기본 반찬으로 김치와 깍두기, 그리고 돼지국밥에 빠질 수 없는 부추!! 그리고 새우젓까지 깔끔하게 담겨서 나왔습니다. 반찬 모두 셀프로 가져다 먹을 수 있어서 좋았어요. (부추 엄청 좋아하는!!!) 어묵볶음과 콩나물, 무생채 무침 등 밑반찬 종류가 다양했습니다. 돼지국밥에 가장 중요한 깍두기!!! 적당히 익어서 먹기 딱이었습니다!! 김치도 맛있었어요! 그리고 이곳... 웰컴 드링크로 막걸리를 주더라고요!!! 오랜만에 마셨는데 너무 맛있었습니다. 반주로 먹기 딱이었어요!!! 두둥!!! 드디어 돼지국밥!!! 여기는 돼지국밥에서 국물을 맑은 국물로 선택할 수도 있었습니다. 그러나 돼지국밥은 역시 뽀얀 게 제맛이니까. (맑은 국물이 칼로리가 좀 더 낮데요.) 그리고 정말 마음에 든 한 가지는 바로..." [ref=f40e521] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052619086&navType=by
+              - strong [ref=f40e522]: "[블챌] 막걸리 한 잔과 함께 1953형제돼지국밥"
+              - generic [ref=f40e523]: 입원해 계시던 엄마 퇴원일! 동생이랑 아침 일찍 병원에 갔는데 퇴원하는데 시간이 좀 걸린다고 해서 아침을 먹으로 광안리 바닷가 쪽으로 향했습니다. 이른 아침이라 그런지 문 연 곳이 별로 없더라고요. 그러던 중 한 곳 발견!! 1953 형제돼지국밥 1953이라는 숫자에서 뭔가 신뢰가 간달까. 동생이랑 망설임 없이 안으로 들어갔습니다. 내부가 엄청 깔끔해서 좋았어요. 기본 반찬으로 김치와 깍두기, 그리고 돼지국밥에 빠질 수 없는 부추!! 그리고 새우젓까지 깔끔하게 담겨서 나왔습니다. 반찬 모두 셀프로 가져다 먹을 수 있어서 좋았어요. (부추 엄청 좋아하는!!!) 어묵볶음과 콩나물, 무생채 무침 등 밑반찬 종류가 다양했습니다. 돼지국밥에 가장 중요한 깍두기!!! 적당히 익어서 먹기 딱이었습니다!! 김치도 맛있었어요! 그리고 이곳... 웰컴 드링크로 막걸리를 주더라고요!!! 오랜만에 마셨는데 너무 맛있었습니다. 반주로 먹기 딱이었어요!!! 두둥!!! 드디어 돼지국밥!!! 여기는 돼지국밥에서 국물을 맑은 국물로 선택할 수도 있었습니다. 그러나 돼지국밥은 역시 뽀얀 게 제맛이니까. (맑은 국물이 칼로리가 좀 더 낮데요.) 그리고 정말 마음에 든 한 가지는 바로...
+            - generic [ref=f40e524]:
+              - generic [ref=f40e526]:
+                - button [expanded] [ref=f40e529] [cursor=pointer]
+                - button "7" [expanded] [ref=f40e533] [cursor=pointer]
+              - button "댓글" [ref=f40e538] [cursor=pointer]
+              - link "공유하기" [ref=f40e541] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e542]:
+            - generic [ref=f40e543]: 2025. 10. 24.
+            - link [ref=f40e547] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052277144&navType=by
+              - generic [ref=f40e550]:
+                - img "10월 23일 모니모 영어"
+            - link "10월 23일 모니모 영어 strong 유능한, 효과적인 He thinks very well 그가 사고하거나 추론하는 것을 잘한다는 뜻 She's not good at problem-solving 그녀가 문제에 대한 해결책을 찾는데 어려움을 겪고 있다는 의미" [ref=f40e552] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052277144&navType=by
+              - strong [ref=f40e553]: 10월 23일 모니모 영어
+              - generic [ref=f40e554]: strong 유능한, 효과적인 He thinks very well 그가 사고하거나 추론하는 것을 잘한다는 뜻 She's not good at problem-solving 그녀가 문제에 대한 해결책을 찾는데 어려움을 겪고 있다는 의미
+            - generic [ref=f40e555]:
+              - generic [ref=f40e557]:
+                - button [expanded] [ref=f40e560] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e564] [cursor=pointer]
+              - button "댓글" [ref=f40e569] [cursor=pointer]
+              - link "공유하기" [ref=f40e572] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e573]:
+          - generic [ref=f40e574]:
+            - generic [ref=f40e575]: 2025. 10. 24.
+            - link [ref=f40e579] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052270145&navType=by
+              - generic [ref=f40e582]:
+                - img "10월 22일 모니모 영어"
+            - link [ref=f40e584] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224052270145&navType=by
+              - strong [ref=f40e585]: 10월 22일 모니모 영어
+            - generic [ref=f40e587]:
+              - generic [ref=f40e589]:
+                - button [expanded] [ref=f40e592] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e596] [cursor=pointer]
+              - button "댓글" [ref=f40e601] [cursor=pointer]
+              - link "공유하기" [ref=f40e604] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e605]:
+            - generic [ref=f40e606]: 2025. 10. 21.
+            - link [ref=f40e610] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224049038957&navType=by
+              - generic [ref=f40e613]:
+                - img "10월 21일 모니모 영어"
+            - link "10월 21일 모니모 영어 A piece of cake 매우 쉽거나 간단하다는 의미의 관용구" [ref=f40e615] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224049038957&navType=by
+              - strong [ref=f40e616]: 10월 21일 모니모 영어
+              - generic [ref=f40e617]: A piece of cake 매우 쉽거나 간단하다는 의미의 관용구
+            - generic [ref=f40e618]:
+              - generic [ref=f40e620]:
+                - button [expanded] [ref=f40e623] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e627] [cursor=pointer]
+              - button "댓글" [ref=f40e632] [cursor=pointer]
+              - link "공유하기" [ref=f40e635] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e636]:
+          - generic [ref=f40e637]:
+            - generic [ref=f40e638]: 2025. 10. 21.
+            - link [ref=f40e642] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224049036219&navType=by
+              - generic [ref=f40e645]:
+                - img "10월 20일 모니모 영어"
+            - link "10월 20일 모니모 영어 Coffee sleeve 컵홀더" [ref=f40e647] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224049036219&navType=by
+              - strong [ref=f40e648]: 10월 20일 모니모 영어
+              - generic [ref=f40e649]: Coffee sleeve 컵홀더
+            - generic [ref=f40e650]:
+              - generic [ref=f40e652]:
+                - button [expanded] [ref=f40e655] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e659] [cursor=pointer]
+              - button "댓글" [ref=f40e664] [cursor=pointer]
+              - link "공유하기" [ref=f40e667] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e668]:
+            - generic [ref=f40e669]: 2025. 10. 19.
+            - link [ref=f40e673] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224046755349&navType=by
+              - generic [ref=f40e676]:
+                - img "10월 19일 모니모 영어"
+            - link "10월 19일 모니모 영어 Hothead 화를 잘 내는 사람을 가리키는 관용적 표현 Short fuse 쉽게 화를 내거나 짜증을 내는 성향을 비유적으로 나타내는 말 =다혈질 pretty는 laid-back을 강조하는 데 사용" [ref=f40e678] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224046755349&navType=by
+              - strong [ref=f40e679]: 10월 19일 모니모 영어
+              - generic [ref=f40e680]: Hothead 화를 잘 내는 사람을 가리키는 관용적 표현 Short fuse 쉽게 화를 내거나 짜증을 내는 성향을 비유적으로 나타내는 말 =다혈질 pretty는 laid-back을 강조하는 데 사용
+            - generic [ref=f40e681]:
+              - generic [ref=f40e683]:
+                - button [expanded] [ref=f40e686] [cursor=pointer]
+                - button "2" [expanded] [ref=f40e690] [cursor=pointer]
+              - button "댓글" [ref=f40e695] [cursor=pointer]
+              - link "공유하기" [ref=f40e698] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e699]:
+          - generic [ref=f40e700]:
+            - generic [ref=f40e701]: 2025. 10. 18.
+            - link [ref=f40e705] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224045860927&navType=by
+              - generic [ref=f40e708]:
+                - img "10월 18일 모니모 영어"
+            - link "10월 18일 모니모 영어 Overtime 정상 근무 시간 외에 추가로 일한 시간" [ref=f40e710] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224045860927&navType=by
+              - strong [ref=f40e711]: 10월 18일 모니모 영어
+              - generic [ref=f40e712]: Overtime 정상 근무 시간 외에 추가로 일한 시간
+            - generic [ref=f40e713]:
+              - generic [ref=f40e715]:
+                - button [expanded] [ref=f40e718] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e722] [cursor=pointer]
+              - button "댓글" [ref=f40e727] [cursor=pointer]
+              - link "공유하기" [ref=f40e730] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e731]:
+            - generic [ref=f40e732]: 2025. 10. 17.
+            - link "[블챌] 다시 시작한 걷기 운동 사진 개수 5" [ref=f40e736] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224044668641&navType=by
+              - generic [ref=f40e737]:
+                - generic [ref=f40e739]:
+                  - img "[블챌] 다시 시작한 걷기 운동"
+                - generic [ref=f40e740]:
+                  - generic [ref=f40e741]: 사진 개수
+                  - text: "5"
+            - link "[블챌] 다시 시작한 걷기 운동 한참 다이어트를 할 때 열심히 운동했었는데... 이것도 너무 오래전 얘기입니다. 요즘은 탁구만 겨우겨우 치러 가고, 그 외에는 책상 앞에서 일만 하고 삼시 세끼 다 챙겨 먹고, 빵도 먹고, 과자도 먹고, 라면도 먹고... 거기다 연휴 동안 빈둥거렸더니 아주 살이 포동포동 올랐더라고요. 이제 날씨도 선선해졌겠다 작업실에서 집까지 걸어 다니기로 결심했습니다!! (사진은 친구들이 선물로 준 젠이츠와 옴팡이 그립톡!!) (귀여워서 한 컷 넣어봤습니다.) 오랜만에 수영천을 걷는데 사람들이 정말 많더라고요. 저만 운동을 열심히 안 했지 다들 열심히 걷고 뛰고를 하고 있었습니다. 그걸 보니까 저도 자극받아서 열심히 해야겠다 싶더라고요. 수영천 걷다가 만난 너구리!!!! 뉴스에서 한강에 너구리가 출몰해서 사람들과 반려견들을 공격한다는 걸 듣고 살짝 무서워서 가까이 가진 못했습니다. 저... 야생의 너구리 처음 봤는데, 아직 어린 거 같아 보이는데 겁이 없더라고요. 사람들 앉아있는 벤치 근처를 서슴없이 돌아다니는 걸고 깜짝 놀랐습니다. 제가 근처에서 사진을 찍어도 도망도 안 가더라고요. 그래도 수풀 사이에 숨어 있어서 사진을 제대로 찍지는 못했어요. ..." [ref=f40e743] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224044668641&navType=by
+              - strong [ref=f40e744]: "[블챌] 다시 시작한 걷기 운동"
+              - generic [ref=f40e745]: 한참 다이어트를 할 때 열심히 운동했었는데... 이것도 너무 오래전 얘기입니다. 요즘은 탁구만 겨우겨우 치러 가고, 그 외에는 책상 앞에서 일만 하고 삼시 세끼 다 챙겨 먹고, 빵도 먹고, 과자도 먹고, 라면도 먹고... 거기다 연휴 동안 빈둥거렸더니 아주 살이 포동포동 올랐더라고요. 이제 날씨도 선선해졌겠다 작업실에서 집까지 걸어 다니기로 결심했습니다!! (사진은 친구들이 선물로 준 젠이츠와 옴팡이 그립톡!!) (귀여워서 한 컷 넣어봤습니다.) 오랜만에 수영천을 걷는데 사람들이 정말 많더라고요. 저만 운동을 열심히 안 했지 다들 열심히 걷고 뛰고를 하고 있었습니다. 그걸 보니까 저도 자극받아서 열심히 해야겠다 싶더라고요. 수영천 걷다가 만난 너구리!!!! 뉴스에서 한강에 너구리가 출몰해서 사람들과 반려견들을 공격한다는 걸 듣고 살짝 무서워서 가까이 가진 못했습니다. 저... 야생의 너구리 처음 봤는데, 아직 어린 거 같아 보이는데 겁이 없더라고요. 사람들 앉아있는 벤치 근처를 서슴없이 돌아다니는 걸고 깜짝 놀랐습니다. 제가 근처에서 사진을 찍어도 도망도 안 가더라고요. 그래도 수풀 사이에 숨어 있어서 사진을 제대로 찍지는 못했어요. ...
+            - generic [ref=f40e746]:
+              - generic [ref=f40e748]:
+                - button [expanded] [ref=f40e751] [cursor=pointer]
+                - button "3" [expanded] [ref=f40e755] [cursor=pointer]
+              - button "댓글" [ref=f40e760] [cursor=pointer]
+              - link "공유하기" [ref=f40e763] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e764]:
+          - generic [ref=f40e765]:
+            - generic [ref=f40e766]: 2025. 10. 17.
+            - link [ref=f40e770] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224044642637&navType=by
+              - generic [ref=f40e773]:
+                - img "10월 17일 모니모 영어"
+            - link "10월 17일 모니모 영어 There's no place like home 집 만큼 편안하거나 즐거운 곳은 없다는 뜻 No를 사용해서 그런 곳이 단 한 군데도 없을 을 강조 There's no city like New York No와 like을 함께 쓰면 이러한 독틈함을 강조" [ref=f40e775] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224044642637&navType=by
+              - strong [ref=f40e776]: 10월 17일 모니모 영어
+              - generic [ref=f40e777]: There's no place like home 집 만큼 편안하거나 즐거운 곳은 없다는 뜻 No를 사용해서 그런 곳이 단 한 군데도 없을 을 강조 There's no city like New York No와 like을 함께 쓰면 이러한 독틈함을 강조
+            - generic [ref=f40e778]:
+              - generic [ref=f40e780]:
+                - button [expanded] [ref=f40e783] [cursor=pointer]
+                - button "3" [expanded] [ref=f40e787] [cursor=pointer]
+              - button "댓글" [ref=f40e792] [cursor=pointer]
+              - link "공유하기" [ref=f40e795] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e796]:
+            - generic [ref=f40e797]: 2025. 10. 16.
+            - link [ref=f40e801] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224043757840&navType=by
+              - generic [ref=f40e804]:
+                - img "10월 16일 모니모 영어"
+            - link "10월 16일 모니모 영어 My lips are sealed 비밀을 절대 누설하지 않겠다는 뜻의 관용구" [ref=f40e806] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224043757840&navType=by
+              - strong [ref=f40e807]: 10월 16일 모니모 영어
+              - generic [ref=f40e808]: My lips are sealed 비밀을 절대 누설하지 않겠다는 뜻의 관용구
+            - generic [ref=f40e809]:
+              - generic [ref=f40e811]:
+                - button [expanded] [ref=f40e814] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e818] [cursor=pointer]
+              - button "댓글" [ref=f40e823] [cursor=pointer]
+              - link "공유하기" [ref=f40e826] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e827]:
+          - generic [ref=f40e828]:
+            - generic [ref=f40e829]: 2025. 10. 15.
+            - link [ref=f40e833] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224042279467&navType=by
+              - generic [ref=f40e836]:
+                - img "10월 15일 모니모 영어"
+            - link "10월 15일 모니모 영어 Tax 정부에 의무적으로 납부해야 하는 금액 refund 돈을 되돌려 받는 것을 의미 eligible (자격, 연령 등의 조건이 맞아서)~을 가질(할) 수 있는 Your receipts 청자의 거래 기록을 의미" [ref=f40e838] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224042279467&navType=by
+              - strong [ref=f40e839]: 10월 15일 모니모 영어
+              - generic [ref=f40e840]: Tax 정부에 의무적으로 납부해야 하는 금액 refund 돈을 되돌려 받는 것을 의미 eligible (자격, 연령 등의 조건이 맞아서)~을 가질(할) 수 있는 Your receipts 청자의 거래 기록을 의미
+            - generic [ref=f40e841]:
+              - generic [ref=f40e843]:
+                - button [expanded] [ref=f40e846] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e850] [cursor=pointer]
+              - button "댓글" [ref=f40e855] [cursor=pointer]
+              - link "공유하기" [ref=f40e858] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e859]:
+            - generic [ref=f40e860]: 2025. 10. 14.
+            - link [ref=f40e864] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224040931241&navType=by
+              - generic [ref=f40e867]:
+                - img "10월 14일 모니모 영어"
+            - link "10월 14일 모니모 영어 Wake me up 누군가를 잠에서 깨운다는 뜻 early 언제 깨워야하는지 구체적으로 나타냄" [ref=f40e869] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224040931241&navType=by
+              - strong [ref=f40e870]: 10월 14일 모니모 영어
+              - generic [ref=f40e871]: Wake me up 누군가를 잠에서 깨운다는 뜻 early 언제 깨워야하는지 구체적으로 나타냄
+            - generic [ref=f40e872]:
+              - generic [ref=f40e874]:
+                - button [expanded] [ref=f40e877] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e881] [cursor=pointer]
+              - button "댓글" [ref=f40e886] [cursor=pointer]
+              - link "공유하기" [ref=f40e889] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e890]:
+          - generic [ref=f40e891]:
+            - generic [ref=f40e892]: 2025. 10. 13.
+            - link [ref=f40e896] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224040176223&navType=by
+              - generic [ref=f40e899]:
+                - img "10월 13일 모니모 영어"
+            - link "10월 13일 모니모 영어 Let's consider a different approach. 대안적인 방법에 대해 생각해 보자는 의미" [ref=f40e901] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224040176223&navType=by
+              - strong [ref=f40e902]: 10월 13일 모니모 영어
+              - generic [ref=f40e903]: Let's consider a different approach. 대안적인 방법에 대해 생각해 보자는 의미
+            - generic [ref=f40e904]:
+              - generic [ref=f40e906]:
+                - button [expanded] [ref=f40e909] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e913] [cursor=pointer]
+              - button "댓글" [ref=f40e918] [cursor=pointer]
+              - link "공유하기" [ref=f40e921] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f40e922]:
+            - generic [ref=f40e923]: 2025. 10. 12.
+            - link [ref=f40e927] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224038505756&navType=by
+              - generic [ref=f40e930]:
+                - img "10월 12일 모니모 영어"
+            - link "10월 12일 모니모 영어 Never 예측 불가능성을 강조 배움의 부재를 강조 이해의 부족을 강조" [ref=f40e932] [cursor=pointer]:
+              - /url: https://m.blog.naver.com/PostView.naver?blogId=younga104&logNo=224038505756&navType=by
+              - strong [ref=f40e933]: 10월 12일 모니모 영어
+              - generic [ref=f40e934]: Never 예측 불가능성을 강조 배움의 부재를 강조 이해의 부족을 강조
+            - generic [ref=f40e935]:
+              - generic [ref=f40e937]:
+                - button [expanded] [ref=f40e940] [cursor=pointer]
+                - button "1" [expanded] [ref=f40e944] [cursor=pointer]
+              - button "댓글" [ref=f40e949] [cursor=pointer]
+              - link "공유하기" [ref=f40e952] [cursor=pointer]:
+                - /url: "#"
+        - listitem [ref=f40e953]
+```

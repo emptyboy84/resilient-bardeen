@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+17col line count: 200
+Bad 17col rows: 0
+16col line count: 200
+Bad 16col rows: 0
+

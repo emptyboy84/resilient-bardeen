@@ -1,0 +1,17 @@
+The search for ""남산주유소" "부산 금정구 중앙대로 2044" OR ("중앙대로 2044" "4층")" returned the following summary:
+검색하신 주소 **"부산광역시 금정구 중앙대로 2044"**는 **남산주유소**가 위치한 곳입니다[1]. 
+
+이 주소 및 건물(남산주유소 부지 내 또는 건물 상층부)과 관련하여 확인되는 주요 정보는 다음과 같습니다.
+
+* **기본 시설:** 남산주유소 (부산 금정구 남산동)[1][2]
+* **편의시설 및 입주 업체 예시:** 
+  * GS25 남산역점 (소재지 주소로 등록되어 있음)[3]
+  * 그 외 건물 내 사무실 및 관련 사업장(예: 주식회사 젤시스 등 일부 법인 사업자의 주소지로 등록되어 있음)[4]
+
+특정 층수나 호실(예: 4층 등)과 관련하여 찾으시는 구체적인 입주 기업이나 기관 명이 있으시다면 함께 알려주세요.
+
+Sources:
+[1] [oilnow.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrsnJt3lfSAO5UbIN6rcPjCLxLaqVB0LDfkiy7srJ7JuIfiXZuyXxv1WQsijC0DLm8Qn34NeXio3Ply6hEr_msrdhQGEmSHRM9ygJnSWIm5Ssq60x2koCgNIikERG37u0G2TSE54nFxOtL3N3BEm9XjcO47i0dGbil_oUrqxNRzqiweefnvTf8VZehGaXb692d)
+[2] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjKNxaFFrMZLosfmjLfg8RvtPPXFQ151VfBS62hJjkziDrwwC894NBpQKNkcssD2qbLXA8tbCsTu5RIapSPWbqLXJXR8oSfaEEWMjDf0cBu6uTdZ5ZbItPGOA-1ACGOag6JZmrZQABM49nJRMSLg==)
+[3] [dpi1004.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqB3iWZShWudPlEHvIg2KN8WJopBJJlYRGLZ6_0Ws6F-4aNf247RAbTe8vkyHHclerpCw9cLM-EcSCjY1BfubiOM12bGAJm16Y5ZilZQgwCss)
+[4] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWAwwP4ShN9a7cS9Ju2Tcsf17EgWc-mYa5omnlVxlsU_LWxaKlCJ3u5jwy0_UpFgJucvOWU4kIVsNfIJ8k1-Wrm82SKYKY7jYK_Zbn4M_P26567msP)

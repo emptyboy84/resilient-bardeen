@@ -1,0 +1,39 @@
+The search for "site:bsdonggu.go.kr "동화사" OR ("출판사" "현황") OR "중앙대로226번길"" returned the following summary:
+부산광역시 동구청 웹사이트 내에서 요청하신 검색어와 관련된 주요 정보는 다음과 같습니다.
+
+### 1. 출판사 및 인쇄소 현황
+부산광역시 동구청은 문화관광과를 통해 **'출판사 및 인쇄소 현황'** 정보를 행정정보공표 자료로 주기적으로 게시하고 있습니다[1][2][3].
+*   가장 최근 자료로는 **'2026년 출판사 및 인쇄소 현황'**(2026년 8월 12일 등록)이 확인됩니다[2].
+*   과거 자료로는 2022년[4], 2020년[5][3], 2019년[6], 2013년[7][1] 등의 현황 파일이 공표되어 있습니다.
+
+### 2. "중앙대로226번길" 관련 정보
+이 주소와 관련하여 다음과 같은 공공 정보들이 검색됩니다.
+*   **석면 해체·제거 작업장 공개:** 해당 지역(중앙대로226번길 7-5, 7-8 등)에서 진행된 건축물 리모델링 및 석면 해체·제거 공사에 관한 비산측정결과 보고서가 게시되어 있습니다[8][9][10][11].
+*   **시설 현황:** 
+    *   종량제봉투 판매소(GS25 초량스타점)가 중앙대로226번길 3-8에 위치하고 있습니다[12].
+    *   관광숙박시설(소호스텔)이 중앙대로226번길 3-2에 위치하고 있습니다[13].
+    *   불법주정차 단속카메라 설치 장소로 '중앙대로226번길 11' 인근이 언급되어 있습니다[14].
+    *   베스트빌딩(중앙대로226번길 7-8) 등의 건축물 정보가 포함되어 있습니다[15].
+
+### 3. 기타
+*   **"동화사"**: 부산광역시 동구청 웹사이트 내에서는 해당 검색어와 직접적으로 일치하는 공표 자료가 확인되지 않습니다 [1.1.1]. 
+
+구체적인 데이터 파일(Excel, HWP 등)은 [부산광역시 동구청 행정정보공표 페이지](https://www.bsdonggu.go.kr)에서 직접 확인 및 다운로드하실 수 있습니다[16][2].
+
+Sources:
+[1] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsx6uZROwSyf2KqwceqPlM7VEIcTL9gZK7isbmftLDefXzXyrCpzAMfoP7HZkOLbbLCsApf6PQnPv5Q-7gLW17u_A9ciX9uJpr74qngP14k7HFy_1S5daUUPBTga6mujbq3oiexCEdNbAA7i6cI8-D4bFHXEyYrAFanE5TMqg-FFSTuIUn15VxfeXNZkkdkxvElIuGVtIdpBxG3Yn2sbIzKS-vNeskpvrXokqq)
+[2] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuttg_wcFRNDk8u86t6jNGaBQhlyNaCmrA8MKrCfTfgQbWJuI-mHsAVWDo4gBU9qGkL42wMNvO-Qs_Tjr2coGakJwbbVBdFe__CVX2YD4tYiN4eJC74EaAh9ZereSx-ddHpqvrya64JDNXYcW-ZgnL1TixxZClbstREm2rAyKY4MKQWl0egRck8kmPKG7EHxFNRI5fQi8FoZ7Uojoaj6QeAv-NQiI8s9hsUfSbX0IDmo3oqBiY7pgmeBBFiaN0CjgYtYwn6evuriDgWeKHpnma5kuj4Hz02pfwkfA=)
+[3] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-6yO1w7fbPPYpc29dfxeQ99pFFhThiSlTQeSOwWN6LMDXEss6qmVZqXvZzYy4k8tjplDWhQLaJAbYRUw-krXnqp7il2rCSmXAyvppnKA438v9r0BWhC7HB66KRPY3dd_VrG2PlmH5GBvcxHCxTnOoRprVEmkSDkxazZnBLXDyydq7NFtIiwrXJjQfLekCrNluoASvHRhrVEjqXsySOWfkzx7xdyiw9Mt2_scXt0i9c_uqVEqu18BjP99vDhbRbfcNLP5Lbaw=)
+[4] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH86eD7q_AloBPB797kapt-yFgaZZ0hN4iMcI-YX0Q0v0UYGSsdN-vS0BR5L1jnxP-fqRI2pxx4Z6CpaRB5QNHp1D3BhDK6EgCDHtKWbhcM65TJTszbIm36Pr7Sj1qAcAt4YZg-Q-U2SHiRlzFVijueOcdRHLKL6SyEcXFzHqhKT0f4WlVlHRZFaY7abg-1U16rEVdJKxT4CActQ7-HW5bDuGj9xkDwnPhKGuF1n1IGeLEnt8fjKduSygBAxA==)
+[5] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPMueHL5dkLTAQAywao5-kH9pFH3nXq1BzE7fQ-BjbIxqYy4nvFQR1x1ZZ3HFKpFHES3GJgiQvFotVd3rrJMXxKLWpWEPIezlz4DFcY7CElD58VQxir5mxCCvOslFlG_tb4ZeeCxJinr8AeasD_xn94O_smWnvHORFbDQO_LZ0NwrGKKQqDFKXbymMBITj0ZY2DY7p0NuccUjWPzW0PVwujIvgNvqTepOxEi0fKfmfkv3u)
+[6] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAOMs_LYFcbqhyK1hNGUFzunnz1W3UPU7_4Nzl2esp0vrBe_tWW_Ys8YpcmuuRhy5LDhF0Uo9fZHQHit8tCRdcoLSbagxfs4or8kGimazAVoJX8rV3MNSbXC265dgTPGw1ZWXEyEQhauXkks5C7NCH6JkukBItKgcu1ujIxAu3VvKWwtz6z_CGSqrrXhNst7eLDrSv9USEGAeYiogjUTrzN29rNrgw3cGZWAP4Ni2Umi0XCeh9u4IxExP67Uk=)
+[7] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzDmadXww23QCeUAyIHX9f_Vv8pEXcm9ZlQXx46iwYoIEFAJSABoi-N4KTn6nPnbILFtnNcKXX7iSAJyahjPoRltqEtQA29RM_urxSDH7WlJpALJBEKdfhlUH8N0m4hPwh1sTppLUMkZmq0v4sreMCeJT3zGt-iSMJyPH-ssg2bkZEGHTWIx0qEtQzV2tFx4Vn-gbECrIfh7omrVnh66o0Rfo7g4055tzTaOvHPUwbAg==)
+[8] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUO8hIwQh_x9Z1NmGEvKRTK2LMeQXJGiRV98AjupoEYoIX4gBaquZJYSdOCXEDshluNFPPtO5o0MndR13xv_rnsv1rDDtXPIPUQ3CjmtR2WJPhLve--TKQTPLwqVOVTN-lz270vNJhu8uk2LIk1kRYJkGqFN84k2_yxsxcMxXmYBi1yhN7U8yEDGf6mbET_7ANHjpwdCTihYn2AhUYacOIsNWbw3ABZUMGXZCaVaCuoywE)
+[9] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZNk50ECEsGHwdHNzRw5kmsgNDCq6mbOCoz7HFoqR_2adBkL8nkHbL0bIuNkSF3VxgziNgGeBQOfZFcnD3M0oyLzXUSbwYObqT-79B-8XpOMg2wGKIHSQJdb8qI9JKAFILt0NGs9jnecrVDwAm1D5WtS2qajX_4kXk4iTWTONGSPuHJI8DI3AS90W7hAQl5vAkm1aUTQEjZ3ZPxlQHlme)
+[10] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtV7UrHGeuNq3G2kTxlN_wSg65inMyanxWkSqKYx_ecwwdgn7lzsDI2xkJGmPe3_FVALJHI-6c5Ub1HZkAkjCJxsBBkUUAMxHn0wk7zKL9SBPxe7DJ2z3XGv0h0YPDqYdR4RIL3-oe2b0IhNKIpcHhjEINcHeoarnH8oZ0TopMgw4=)
+[11] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk0LVk39dN9WYq5XNf4mdCWe2O26ebASul_xi57HcMJbs1q3JW-SH4-tW1MBB6lkFMhqCjEhKEtDjH9LSv_8H6fjDgMQ_Uqxpobq4jyobjyvCimveStT6Yu5ftsaZ6IXPkNE4OBCb_pOlE8n9j2GAxoTLd8PiSng7_SeAglyXR5aBlh5uij_34zb8RcNzBlemMB7z2fS8sj5Y9LQHJoepOKLOM8EL7)
+[12] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFLVi1XMEeWKHg9cuZYWQdW4DQik_GFjA65RG1mAmug01i8Prii45Z44t3CQyp9wETwGg29HqOanprf7xnHn6mFQ7Dzsf5tqjBpsSELFRQk_sQllSXNZoaGUiNyoA-RWo47WqAT4oVOOwNzs5u_v-DvugZ3xcbDXxkwc=)
+[13] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH66Fi8qHQGu5WHJvUd1nKYTCOdb2343Fa1Vo42r1wVDYPO_Lt-4nPhgNlLH8NEgEgXbiz9lbadZ3WY2f5cGwPOYZl7z5teCgtH4IgX1L1_-_WdXz-lC2wt_eOLCFeo6pPmU4tIYOOm9cYEbmfNznrMF21Sr0XR65XMieVHZFPJy0dDLs2n)
+[14] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7prSeCTmWJ9YtTWCu-L7zwwfntQ0vC68VDgGqpn1jAXf0PIYsDNzJa1SL370XdGE_wJbltC1OMESkv94HzNKGT29rspMrmJXxSaKTn1hfNHNzdnsNkYpu6i0teOdkZSsEOX02y6OTF4_k19ST5dKqhAKnUs_myB_ghM4=)
+[15] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8YF9z8kD3OwcHYJHdUgabG_B0pv7DQmgxkotUm02NFqFUeNvpuFdQBVTKPXmSotYf2JJ96J5zZvmywFlGAeAEBzKjQ5JL2l4Ezs44Qp5sSJ3HBErhCw4zAgK2pC_CWFScJ6MbL6T8n9z2ue7Zwl7zJKkPntJXBwhNa2917rsHZy5FpXtEuZ1wkatQ6EqZPxzX4MjcPg6Yc-s=)
+[16] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtEJNSRYkkaUFAcEVLHIjUe-vLQUeQvuxHU1K8RWb7Uhoyxar1JvaJQiE-lXBck73ECIUrIFdw77qiqQ3cuNmmrnXEdM8g4VWiTbiQZINpT-6fgaXwC2YYUYswQadc8Y4qdNoQ4uGlWgaeW0wAyMWbVBu2F3rJrA5WSe8rekX_emSgL48g9ubNalW4Fd7FXI66cYqYlfv10u9J9u-0KZBZIIWUwdskno3AucbdhxfiKQ==)

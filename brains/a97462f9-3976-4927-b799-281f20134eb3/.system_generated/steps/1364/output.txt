@@ -1,0 +1,144 @@
+### Page
+- Page URL: https://map.naver.com/p/search/051-464-0761?placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609291206%26locale%3Dko%26svcName%3Dmap_pcv5%26searchText%3D051-464-0761&c=15.00,0,0,0,dh
+- Page Title: 동화사 - 네이버지도
+- Console: 4 errors, 4 warnings
+### Snapshot
+```yaml
+- generic [ref=e3]:
+  - generic:
+    - link "본문 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#section_content"
+    - link "주 메뉴 바로가기" [ref=e6] [cursor=pointer]:
+      - /url: "#header"
+  - banner [ref=e8]:
+    - heading [level=1] [ref=e9]:
+      - link "네이버지도" [ref=e10] [cursor=pointer]:
+        - /url: https://www.naver.com
+    - navigation [ref=e12]:
+      - list [ref=e13]:
+        - listitem [ref=e14]:
+          - button "지도 홈 선택됨" [ref=e15] [cursor=pointer]:
+            - generic [ref=e21]: 지도 홈
+            - generic [ref=e22]: 선택됨
+        - listitem [ref=e23]:
+          - button "길찾기" [ref=e24] [cursor=pointer]
+        - listitem [ref=e30]:
+          - button "버스" [ref=e31] [cursor=pointer]
+        - listitem [ref=e37]:
+          - button "지하철" [ref=e38] [cursor=pointer]
+        - listitem [ref=e44]:
+          - button "기차" [ref=e45] [cursor=pointer]
+        - listitem [ref=e51]:
+          - button "new 저장" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: new
+            - generic [ref=e59]: 저장
+        - listitem [ref=e60]:
+          - button "더보기" [ref=e61] [cursor=pointer]
+    - generic [ref=e68]:
+      - strong [ref=e69]: 사용자 링크
+      - list [ref=e70]:
+        - listitem [ref=e71]:
+          - link "로그인" [ref=e72] [cursor=pointer]:
+            - /url: https://nid.naver.com/nidlogin.login
+        - listitem [ref=e74]:
+          - link "서비스 더보기" [ref=e75] [cursor=pointer]:
+            - /url: javascript:;
+  - generic:
+    - application [ref=e142]:
+      - region "Map" [ref=e146]
+      - generic [ref=e147]:
+        - img "NAVER" [ref=e149] [cursor=pointer]
+        - generic [ref=e150]: 100m
+    - generic [ref=e82]:
+      - generic [ref=e84]:
+        - button "검색" [ref=e85] [cursor=pointer]
+        - button "삭제" [ref=e86] [cursor=pointer]
+        - combobox [ref=e89]: 051-464-0761
+      - generic [ref=e91]:
+        - status [ref=e92]
+        - iframe [ref=e154]:
+          - generic [ref=f12e4]:
+            - banner [ref=f12e5]:
+              - button "이전 페이지" [ref=f12e6] [cursor=pointer]
+              - heading "동화사" [level=1] [ref=f12e10]
+              - button "저장" [ref=f12e11] [cursor=pointer]
+              - button "페이지 닫기" [ref=f12e15] [cursor=pointer]
+            - main [ref=f12e20]:
+              - generic [ref=f12e22]:
+                - generic [ref=f12e23]: 동화사
+                - generic [ref=f12e25]: 서적출판
+                - generic [ref=f12e32]:
+                  - button "출발" [ref=f12e34] [cursor=pointer]
+                  - button "도착" [ref=f12e36] [cursor=pointer]
+                  - button "거리뷰" [ref=f12e38] [cursor=pointer]
+                  - link "공유" [ref=f12e42] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=f12e46]:
+                - generic [ref=f12e47]:
+                  - generic [ref=f12e49]:
+                    - generic [ref=f12e50]:
+                      - strong [ref=f12e51]:
+                        - generic [ref=f12e54]: 주소
+                      - generic [ref=f12e55]:
+                        - button [ref=f12e56] [cursor=pointer]
+                        - generic [ref=f12e60]:
+                          - generic [ref=f12e61]: "1"
+                          - text: 초량역 2번 출구에서 256m
+                          - generic [ref=f12e63]: 미터
+                    - generic [ref=f12e64]:
+                      - strong [ref=f12e65]:
+                        - generic [ref=f12e68]: 영업시간 정보 수정
+                      - generic [ref=f12e69]:
+                        - text: 영업시간 수정 제안하기
+                        - button "추가" [ref=f12e70] [cursor=pointer]
+                    - generic [ref=f12e74]:
+                      - strong [ref=f12e75]:
+                        - generic [ref=f12e78]: 전화번호
+                      - generic [ref=f12e79]:
+                        - text: 051-464-0761
+                        - button "복사" [ref=f12e81] [cursor=pointer]
+                  - button "이 장소의 관리자라면, 무료로 직접 관리하세요! 권한 받기" [ref=f12e83] [cursor=pointer]:
+                    - generic [ref=f12e85]:
+                      - generic [ref=f12e86]:
+                        - text: 이 장소의 관리자라면,
+                        - emphasis [ref=f12e87]: 무료로 직접 관리하세요!
+                      - generic [ref=f12e88]: 권한 받기
+                - generic [ref=f12e93]: 로딩중
+                - button [ref=f12e102] [cursor=pointer]:
+                  - generic [ref=f12e103]: 알고 계신 정보와 다른 정보가 있나요?사진으로 간단하게 제보해 주세요.
+                  - generic [ref=f12e105]: 정보 수정 제안하기
+            - contentinfo [ref=f12e108]:
+              - generic [ref=f12e109]:
+                - button "이용약관" [ref=f12e110] [cursor=pointer]
+                - button "고객센터" [ref=f12e111] [cursor=pointer]
+                - button "리뷰운영정책" [ref=f12e112] [cursor=pointer]
+                - button "신고센터" [ref=f12e113] [cursor=pointer]
+              - button "네이버" [ref=f12e115] [cursor=pointer]
+      - button "패널 접기" [expanded] [ref=e102] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=e104]:
+                - button "일반지도" [ref=e105] [cursor=pointer]
+                - button "위성지도" [ref=e107] [cursor=pointer]
+                - button "지형지도" [ref=e109] [cursor=pointer]
+              - generic [ref=e111]:
+                - button "테마" [ref=e112] [cursor=pointer]
+                - button "저장" [ref=e114] [cursor=pointer]
+                - button "지적편집도" [ref=e116] [cursor=pointer]
+                - button "거리뷰" [ref=e118] [cursor=pointer]
+              - generic [ref=e120]:
+                - button "반경측정" [ref=e121] [cursor=pointer]
+                - button "면적측정" [ref=e123] [cursor=pointer]
+                - button "거리측정" [ref=e125] [cursor=pointer]
+            - generic:
+              - button "접속위치" [ref=e129] [cursor=pointer]
+              - generic [ref=e135]:
+                - button "확대" [ref=e136] [cursor=pointer]
+                - button "축소" [ref=e139] [cursor=pointer]
+  - status [ref=e141]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-06-02-393Z.log#L1-L8

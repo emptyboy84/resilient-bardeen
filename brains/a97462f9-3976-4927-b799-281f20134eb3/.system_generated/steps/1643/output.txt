@@ -1,0 +1,19 @@
+### Result
+[
+  {
+    "text": "블루호텔 레코딩스튜디오",
+    "href": "https://map.kakao.com/?q=%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9#none"
+  },
+  {
+    "text": "상세보기",
+    "href": "https://place.map.kakao.com/14561672"
+  },
+  {
+    "text": "상세보기",
+    "href": "https://place.map.kakao.com/705779620"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.map(a => ({ text: a.innerText.trim(), href: a.href })).filter(a => a.text.includes(\'블루호텔\') || a.text.includes(\'상세보기\'));\n}');
+```

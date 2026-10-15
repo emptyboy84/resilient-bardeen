@@ -1,0 +1,40 @@
+
+The command exited with code 1.
+Output:
+[eval]:3
+  const s = res.match(/사업자 현재 상태[^:]*:\s*([^\s<]+)/) || res.match(/<span style=" color:\s*red
+                                                                  ^
+Unterminated regexp literal
+
+SyntaxError: Invalid regular expression: missing /
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+font-weight:\s*bold : 'font-weight:\s*bold' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �
+�ĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:3 �:95
++ ...  || res.match(/<span style=\"color:\s*red;font-weight:\s*bold;\">([^< ...
++                                               ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (font-weight:\s*bold:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\>([^<]+)<\/span>/);
+  console.log('121-88-03957 �:', s ? s[1] : 'Ȯ�κҰ�', res.includes('�') ? '�' : '�');
+}
+see(); : '\>([^<]+)<\/span>/);
+  console.log('121-88-03957 �:', s ? s[1] : 'Ȯ�κҰ�', res.includes('�') ? '�' : '�');
+}
+see();' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ
+�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:3 �:115
++ ... /<span style=\"color:\s*red;font-weight:\s*bold;\">([^<]+)<\/span>/);
++                                                     ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\>([^<]+)<\/spa...'�');
+}
+see();:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

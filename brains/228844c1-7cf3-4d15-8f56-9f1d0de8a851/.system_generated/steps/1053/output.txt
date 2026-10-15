@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total empty rows in target: 530, with row_idx >= 1091: 500
+Total unique indexed names: 18976, phones: 12454
+Matched: 71, Unmatched: 429
+

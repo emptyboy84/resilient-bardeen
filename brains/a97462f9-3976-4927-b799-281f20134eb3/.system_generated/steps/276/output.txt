@@ -1,0 +1,23 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1957,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\unpopulated_271.json","LineNumber":2394,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_blanks.json","LineNumber":2484,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_229_blanks.json","LineNumber":1607,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\rejected_pass1.json","LineNumber":199,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\newly_verified_pass1.json","LineNumber":1225,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":2955,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\exact_blanks_229.json","LineNumber":2484,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119_list.txt","LineNumber":88,"LineContent":"[88] Row 2105 (순번 2104): 엠에스네트워크 | Type: 만화 | Rep:  | Phone: 051-505-4437 | Addr: "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119.json","LineNumber":788,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_rows.json","LineNumber":2946,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\real_unmatched_274.json","LineNumber":2946,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1731,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_unverified.json","LineNumber":1654,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_274_results.json","LineNumber":4327,"LineContent":"      \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":2891,"LineContent":"    \"사업체명\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\additional_119_found.json","LineNumber":425,"LineContent":"      \"title\": \"엠에스네트워크\""}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\additional_119_found.json","LineNumber":435,"LineContent":"      \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\update_log.json","LineNumber":869,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3471,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1896,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2809,"LineContent":"    \"name\": \"엠에스네트워크\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1171,"LineContent":"    \"name\": \"엠에스네트워크\","}

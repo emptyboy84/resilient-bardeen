@@ -1,0 +1,9 @@
+### Result
+"Pressed Enter"
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const input = document.querySelector(\'input[placeholder*="기업명"]\');\n  if (!input) return \'Input not found\';\n  \n  // Set value and trigger input events for Vue/Quasar\n  input.value = \'6090695719\';\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n  \n  // Find search button\n  const buttons = Array.from(document.querySelectorAll(\'button\'));\n  const searchBtn = buttons.find(b => b.innerText.includes(\'검색하기\') || b.getAttribute(\'aria-label\') === \'검색하기\');\n  if (searchBtn) {\n    searchBtn.click();\n    return \'Clicked searchBtn\';\n  } else {\n    // try pressing Enter on input\n    input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keyup\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    return \'Pressed Enter\';\n  }\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6090695719
+- Page Title: '6090695719' - 검색상세

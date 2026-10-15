@@ -1,0 +1,42 @@
+### Result
+[
+  {
+    "id": "gnb_my_lyr_iframe",
+    "title": "빈 프레임",
+    "text": ""
+  },
+  {
+    "id": "gnb_notice_lyr_iframe",
+    "title": "빈 프레임",
+    "text": ""
+  },
+  {
+    "id": "gnb_service_lyr_iframe",
+    "title": "빈 프레임",
+    "text": ""
+  },
+  {
+    "id": "gnb_svc_more_iframe",
+    "title": "빈 프레임",
+    "text": ""
+  },
+  {
+    "id": "searchIframe",
+    "title": "Naver Place Search",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://map.naver.com\" from accessing a cross-origin frame."
+  },
+  {
+    "id": "entryIframe",
+    "title": "Naver Place Entry",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://map.naver.com\" from accessing a cross-origin frame."
+  },
+  {
+    "id": "ncaptcha-iframe-cbdzhv",
+    "title": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://map.naver.com\" from accessing a cross-origin frame."
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframes = Array.from(document.querySelectorAll(\'iframe\'));\n  return iframes.map(f => {\n    try {\n      const doc = f.contentDocument || f.contentWindow.document;\n      return { id: f.id, title: f.title, text: doc.body.innerText };\n    } catch (e) {\n      return { id: f.id, title: f.title, error: e.message };\n    }\n  });\n}');
+```

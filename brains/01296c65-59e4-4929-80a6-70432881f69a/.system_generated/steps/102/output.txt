@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+
+=== DDG: site:bipa.or.kr "인디랩" ===
+No results
+
+=== DDG: site:busangame.or.kr "스튜디오비오" ===
+No results
+
+=== DDG: site:busangame.or.kr "이한빈" ===
+No results
+
+=== DDG: "스튜디오비오" site:bipa.or.kr ===
+No results
+
+=== DDG: "이한빈" "스튜디오비오" ===
+No results
+
+=== DDG: "Studio Bio" "이한빈" ===
+No results
+
+=== DDG: "Studio Bio" game busan ===
+No results
+

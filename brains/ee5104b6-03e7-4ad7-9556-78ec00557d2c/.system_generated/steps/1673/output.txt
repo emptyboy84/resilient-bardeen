@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+MX Host: aspmx.l.google.com
+S: 220 mx.google.com ESMTP d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+S: 250 mx.google.com at your service
+S: 250 2.1.0 OK d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+S: 250 2.1.5 OK d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+FINAL RCPT RESULT: 250 2.1.5 OK d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+S: 221 2.0.0 closing connection d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+FINAL RCPT RESULT: 221 2.0.0 closing connection d9443c01a7336-2db1493e21asi300548875ad.92 - gsmtp
+Socket error: write after end
+

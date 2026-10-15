@@ -1,0 +1,7 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-101
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-101.log
+Log output:
+Checking (데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+
+Last progress: 2s ago

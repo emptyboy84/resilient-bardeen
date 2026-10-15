@@ -1,0 +1,19 @@
+The search for "부산 "글로픽스" 전화 OR 051 OR 010 OR 070" returned the following summary:
+부산에 위치한 **(주)글로픽스** 기업 정보는 다음과 같습니다.
+
+* **회사명:** (주)글로픽스
+* **소재지:** 
+  * 부산광역시 강서구 명지국제2로28번길 26, 501호 (명지동, 퍼스트삼융)[1]
+  * (참고: 일부 등록 정보 상 해운대구 등으로 등록되어 있거나 통신판매업 신고 등에 부산 지역 정보가 포함되어 있습니다)[1][2]
+* **대표자:** 여일석[1]
+* **연락처 관련 정보:** 
+  * 공식 공개된 유선 전화번호(051 또는 070 등)는 기업 정보 데이터베이스상에서 직접 공개되어 있지 않거나 개인정보 보호 및 비공개 처리로 인해 전체 번호가 마스킹(`010-9484-5***`)되어 있습니다[1].
+  * 이메일: info@glophics.com[1]
+  * 네이버 스마트스토어 등을 통해 온라인으로 문의를 받고 있습니다[1].
+
+*(참고: 서울에 위치한 동명의 광고·마케팅 대행사인 '(주)글로픽스 코리아'의 대표번호는 **02-2039-1877**입니다[3].)*
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJmJ4Yk97h-1Ziv9wLwaVQtsIj0S2OIQeenubDrjtw4_tGzE9hfOtw0s1y3b3wN4NucBFI6Al2YWEFCw0p26ra5FLUrjPdEHhsAPt7akV3vuNQUixiJwpEN4g=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ1VvenwPjZ1Wnj2G9gGXDZYpZXZ32Zjm98lwEvNiAzSPDYHe1XvQ-qZD5nKR3d4Z3-SVr7IWjq-AX5RnbCA5Yjf2Z09vDZ2qBr-_FZpDPgM5b0bvTj3hmXSBTY3LCuEDLoF3nTbfJ8B-vDHU3Kehyp3Z6Vh-xAuO0BDyQkv3c8lBI1maqhwacCyYKZm5efccaxGnIJObANaQVa_4pufRAUE4ixXemcarRTy0Y8fVo3QkZtER30D9NtaaVCRVP5QC0-Mdz01G2J_XkCnIfjC0iZg==)
+[3] [glofix.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKP_M3h4HFbOdA2FIPHroCEEoP_YNBCeU994Jk3UDC_JwZCuGTF4g_OYMpNGBc1_CBaVDvIXv7yDDLBYGFEjvhooKrcZFNMI6FKQVXAXuqWfBySwtVKePmreo5IaLCrLLCtK65)

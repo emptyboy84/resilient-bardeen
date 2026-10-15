@@ -1,0 +1,91 @@
+[1] Score 1: Target '케이멕스' (캐릭터, 연제구 거제대로 215) -> Matched '케이멕스' | Rep: target='정태석', bno='이름으로' | Addr: '' | BNO: 126-20-56070
+[2] Score 0: Target '고움' (캐릭터, 연제구 거제천로 154, 4층) -> Matched '고움 살롱' | Rep: target='임서현', bno='고태형' | Addr: '' | BNO: 375-37-01030
+[3] Score 0: Target '삼주' (영화, 해운대구 센텀동로 99 (재송동, 벽) -> Matched '주식회사 삼우이머션' | Rep: target='백승용', bno='김대희' | Addr: '' | BNO: 617-81-91045
+[4] Score 0: Target '나웅' (출판, 해운대구 센텀동로 99, 1408호() -> Matched '（주）나웅' | Rep: target='', bno='박병주' | Addr: '' | BNO: 605-81-35400
+[5] Score 1: Target '한스이엔지' (캐릭터, 해운대구 센텀서로 39 (우동)영상산) -> Matched '(주)한스이엔지' | Rep: target='김종균', bno='김' | Addr: '' | BNO: 603-81-24251
+[6] Score 1: Target '모드니' (만화, 사상구 감전동 새벽로167번길) -> Matched '모드니' | Rep: target='', bno='이하영' | Addr: '' | BNO: 164-70-00215
+[7] Score 1: Target '주식회사 홍조출판' (출판, 동구 초량동 중앙대로236번길  60) -> Matched '주식회사 홍조출판' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 376-86-01161
+[8] Score 0: Target '부산 하단점' (출판, 사하구 하단동 낙동남로 아트몰링 13) -> Matched '명륜진사갈비 부산하단점' | Rep: target='', bno='황선신' | Addr: '' | BNO: 105-22-45788
+[9] Score 1: Target '미디어CAPSULE' (캐릭터, 동래구 사직동 쇠미로17번길) -> Matched '미디어CAPSULE' | Rep: target='', bno='정태선' | Addr: '' | BNO: 607-10-88688
+[10] Score 1: Target '(주)삼성출판사 롯데동래점' (캐릭터, 동래구 온천동 중앙대로 롯데백화점 동) -> Matched '(주)삼성출판사 롯데동래점' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 343-85-00791
+[11] Score 1: Target '블루케이' (광고, 해운대구 우2동 1474번지 센텀에스) -> Matched '주식회사 블루케이' | Rep: target='', bno='장정화' | Addr: '' | BNO: 617-81-95003
+[12] Score 0: Target '디유' (방송, 금정구 금사동 105-10번지 공업사) -> Matched '(주)디유티코리아' | Rep: target='', bno='정용채' | Addr: '' | BNO: 603-81-44131
+[13] Score 1: Target '시빅뉴스' (지식정보, 남구 대연동 수영로 23호제1학생회관) -> Matched '시빅뉴스' | Rep: target='', bno='권만우' | Addr: '' | BNO: 617-82-12810
+[14] Score 1: Target 'e붓다' (지식정보, 남구 대연동 진남로) -> Matched 'e붓다' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 836-91-00300
+[15] Score 0: Target '봄비' (지식정보, 동래구 사직동 중앙대로1267번길) -> Matched '봄비（BOM．B）' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 606-37-39482
+[16] Score 1: Target '파리 미장센' (지식정보, 동래구 온천동 금강로 성완아이렉스 4) -> Matched '파리 미장센' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 247-64-00504
+[17] Score 1: Target '비에스피솔루션' (지식정보, 사상구 모라동 1375번지 벤처타워 ) -> Matched '주식회사 비에스피솔루션' | Rep: target='', bno='이대흥' | Addr: '' | BNO: 221-81-50940
+[18] Score 1: Target '폭스인베스트' (지식정보, 중구 대청동2가 광복중앙로  605) -> Matched '폭스인베스트' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 255-47-00774
+[19] Score 1: Target '조선일보구서센터' (출판, 금정구 구서동 금강로) -> Matched '조선일보구서센터' | Rep: target='', bno='황치원' | Addr: '' | BNO: 621-21-89020
+[20] Score 1: Target '조선동아부산남대연중앙감만센타' (출판, 남구 대연동 석포로127번길) -> Matched '조선동아부산남대연중앙감만센타' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 602-09-33289
+[21] Score 1: Target '조선일보화명금곡센터' (출판, 북구 금곡동 금곡대로616번길) -> Matched '조선일보화명금곡센터' | Rep: target='', bno='장희목' | Addr: '' | BNO: 697-25-00243
+[22] Score 1: Target '바른교육' (출판, 북구 화명동 양달로8번길 화명 501) -> Matched '바른교육' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 606-91-64737
+[23] Score 1: Target '지하오' (출판, 사상구 주례동 백양대로342번길 LG) -> Matched '지하오' | Rep: target='', bno='정지호' | Addr: '' | BNO: 574-40-00899
+[24] Score 0: Target '꼬꼬야' (출판, 수영구 망미동 망미로30번길 삼성아파) -> Matched '꼬꼬야놀자' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 837-23-00094
+[25] Score 1: Target '에디코' (출판, 중구 중앙동3가 대청로 SC제일은행 ) -> Matched '에디코' | Rep: target='', bno='심정원' | Addr: '' | BNO: 160-17-00974
+[26] Score 1: Target '재현문고' (출판, 중구 중앙동7가 중앙대로 롯데광복점 ) -> Matched '재현문고' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 421-01-01426
+[27] Score 1: Target '즐겨찾기' (출판, 해운대구 반송동 아랫반송로) -> Matched '즐겨찾기' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 548-95-00584
+[28] Score 1: Target '중앙． 부산． 문화일보 재송센터' (출판, 해운대구 반여동 재반로212번길 에덴) -> Matched '중앙． 부산． 문화일보 재송센터' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 617-26-45601
+[29] Score 1: Target '아이들세상' (캐릭터, ) -> Matched '아이들세상' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 370-27-00416
+[30] Score 0: Target '정광사' (캐릭터, 사하구 장림동 장평로146번길) -> Matched '정광섬유공업사' | Rep: target='', bno='이수용' | Addr: '' | BNO: 606-15-62190
+[31] Score 1: Target '주식회사 제이더블유하비' (캐릭터, 사하구 하단동 낙동남로1390번길  ) -> Matched '주식회사 제이더블유하비' | Rep: target='', bno='임은옥' | Addr: '' | BNO: 780-86-01278
+[32] Score 1: Target '해피버스데이' (캐릭터, 사하구 하단동 낙동대로516번길) -> Matched '해피버스데이' | Rep: target='', bno='오주환' | Addr: '' | BNO: 603-07-80665
+[33] Score 1: Target '신한교육사' (캐릭터, 서구 동대신동2가 대영로85번길) -> Matched '신한교육사' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 510-29-00793
+[34] Score 1: Target '리연' (캐릭터, 서구 암남동 원양로 도매장 6) -> Matched '리연' | Rep: target='', bno='이효수' | Addr: '' | BNO: 175-68-00279
+[35] Score 1: Target '부산더락' (캐릭터, 수영구 수영동 수영로) -> Matched '부산더락' | Rep: target='', bno='최수욱' | Addr: '' | BNO: 617-31-82497
+[36] Score 1: Target '두형통발' (캐릭터, 해운대구 재송동 재반로125번길) -> Matched '두형통발' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 618-24-20327
+[37] Score 1: Target '박정희' (콘텐츠솔루션, 기장군 정관읍 산단4로 139(정관 ) -> Matched '박정희' | Rep: target='박정희', bno='이름으로' | Addr: '' | BNO: 394-94-00184
+[38] Score 0: Target '주식회사 로웰프라이빗에쿼티' (콘텐츠솔루션, 남구 문현동 문현금융로  8) -> Matched '주식회사 로웰프라이빗에쿼티(부산지점)' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 598-85-02012
+[39] Score 0: Target '김지원' (콘텐츠솔루션, 연제구 거제천로269번길 31(거제동) -> Matched '김지원헤어샵' | Rep: target='김지원', bno='이름으로' | Addr: '' | BNO: 605-24-77334
+[40] Score 0: Target '이안' (게임, 강서구 유동단지1로 41 (대저2동)) -> Matched '주식회사 디자인그룹이안' | Rep: target='팽동석', bno='이름으로' | Addr: '' | BNO: 605-81-85458
+[41] Score 0: Target '보승패킹' (광고, 강서구 화전동 596-13번지) -> Matched '（주）보승패킹' | Rep: target='', bno='조부래' | Addr: '' | BNO: 621-81-40263
+[42] Score 0: Target '신흥상사' (만화, 남구 용당동 유엔평화로 제B201호) -> Matched '신흥상운' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 605-14-42710
+[43] Score 1: Target '도담교육' (만화, 사상구 덕포동 백양대로 남영아파트 1) -> Matched '도담교육' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 606-34-56248
+[44] Score 0: Target '두원잡' (방송, 사상구 감전동 132-7번지 벽산디지) -> Matched '(주)두원잡 부산동부사무소' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 609-85-46469
+[45] Score 1: Target '주식회사원미디어' (방송, 해운대구 수영강변대로 140 (우동,) -> Matched '원미디어' | Rep: target='원성훈', bno='정성윤' | Addr: '' | BNO: 284-65-00271
+[46] Score 1: Target '온누리' (음악, 중구 동광동5가 동광길 청아하우스  ) -> Matched '온누리' | Rep: target='', bno='최승복' | Addr: '' | BNO: 328-10-00101
+[47] Score 0: Target '파티온' (음악, 해운대구 좌동 양운로 SK허브올리브 ) -> Matched '삼겹파티온천점' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 293-36-00256
+[48] Score 1: Target '피엘지' (지식정보, 남구 대연3동 55-1번지 21센츄리) -> Matched '주식회사 피엘지' | Rep: target='', bno='박순호' | Addr: '' | BNO: 605-86-33921
+[49] Score 0: Target '지엠씨랩스' (지식정보, 남구 문현4동 1229-1번지 21층) -> Matched '주식회사 지엠씨랩스 (GMC LABS)' | Rep: target='', bno='권세영' | Addr: '' | BNO: 467-87-01727
+[50] Score 1: Target '오키씨' (지식정보, 남구 문현동 1229-1번지 국제금융) -> Matched '주식회사 오키씨' | Rep: target='', bno='황순옥' | Addr: '' | BNO: 601-87-02796
+[51] Score 1: Target '로보프렌레스큐' (지식정보, 남구 용당동 251번지 부경대학교 용) -> Matched '주식회사 로보프렌레스큐' | Rep: target='', bno='김영식' | Addr: '' | BNO: 483-81-01071
+[52] Score 1: Target '일렉오션' (지식정보, 해운대구 우동 1474번지 센텀에스에) -> Matched '주식회사 일렉오션' | Rep: target='', bno='정일화' | Addr: '' | BNO: 397-87-00206
+[53] Score 1: Target '제이에이치바이오시스템' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사　제이에이치바이오시스템' | Rep: target='', bno='황재섭' | Addr: '' | BNO: 105-88-02863
+[54] Score 1: Target '칸투칸' (출판, 해운대구 재송1동 1208-2번지 센) -> Matched '주식회사 칸투칸' | Rep: target='', bno='한영란' | Addr: '' | BNO: 617-81-54865
+[55] Score 1: Target '아트현' (캐릭터, 금정구 금사동 25-6번지 캠퍼스디룸) -> Matched '주식회사 아트현' | Rep: target='', bno='박현진' | Addr: '' | BNO: 609-87-00981
+[56] Score 1: Target '영광화학' (캐릭터, 사하구 감천동 감내1로) -> Matched '영광화학' | Rep: target='김정수', bno='이름으로' | Addr: '' | BNO: 603-28-62532
+[57] Score 1: Target '성원공업사' (캐릭터, 사하구 구평동 두송로123번길) -> Matched '성원공업사' | Rep: target='함종욱', bno='이름으로' | Addr: '' | BNO: 603-26-76347
+[58] Score 0: Target '정석인' (콘텐츠솔루션, 동구 자성로133번길 6(범일동,진흥) -> Matched '정석' | Rep: target='정석인', bno='이름으로' | Addr: '' | BNO: 452-81-01932
+[59] Score 1: Target '주식회사메쉬링크' (콘텐츠솔루션, 서구 대신공원로 17) -> Matched '주식회사 메쉬링크' | Rep: target='하진수', bno='조효진' | Addr: '' | BNO: 148-88-03253
+[60] Score 0: Target '스튜디오제이주식회사' (콘텐츠솔루션, 해운대구 센텀동로 35, 9층 908) -> Matched '스튜디오제이티' | Rep: target='변종섭', bno='정재철' | Addr: '' | BNO: 617-23-90110
+[61] Score 1: Target '맥큐브' (지식정보, 남구 용당동 251번지 부경대학교 용) -> Matched '맥큐브 주식회사' | Rep: target='', bno='안호준' | Addr: '' | BNO: 192-88-00141
+[62] Score 1: Target '투그램시스템즈' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사 투그램시스템즈' | Rep: target='', bno='서영우' | Addr: '' | BNO: 602-81-61189
+[63] Score 1: Target '오케이스크린골프' (지식정보, 해운대구 좌동 좌동로 울트라타워 14) -> Matched '오케이스크린골프' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 647-07-02320
+[64] Score 1: Target '동아서적' (출판, 남구 대연동 용소로 동아빌딩) -> Matched '동아서적' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 606-99-77903
+[65] Score 1: Target '범죄예방신문부산울산취재본부' (출판, 동래구 안락동 명안로18번길) -> Matched '범죄예방신문부산울산취재본부' | Rep: target='강병기', bno='이름으로' | Addr: '' | BNO: 607-19-27909
+[66] Score 1: Target '부산시대광고대행' (출판, 연제구 거제동 중앙대로 함조빌딩) -> Matched '부산시대광고대행' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 621-11-94918
+[67] Score 1: Target '아신 테크' (콘텐츠솔루션, 남구 대연3동 55-1번지 센츄리오피) -> Matched '(주)아신테크' | Rep: target='', bno='전홍석' | Addr: '' | BNO: 605-81-57457
+[68] Score 1: Target '주식회사인텔리코드' (콘텐츠솔루션, 서구 구덕로2 214번길 16 (부민) -> Matched '주식회사 인텔리코드' | Rep: target='김승호', bno='이름으로' | Addr: '' | BNO: 552-81-03773
+[69] Score 1: Target '엔터잡' (공연, 남구 대연3동 55-1번지 21세기센) -> Matched '주식회사 엔터잡' | Rep: target='', bno='이진아' | Addr: '' | BNO: 617-86-01330
+[70] Score 1: Target '엔엑스지' (지식정보, 남구 대연3동 56-16번지 리젠시빌) -> Matched '주식회사 엔엑스지' | Rep: target='', bno='김선미' | Addr: '' | BNO: 628-86-01330
+[71] Score 0: Target '베러아일랜드' (지식정보, 남구 대연3동 72-7번지 산암빌딩 ) -> Matched '유한책임회사 베러아일랜드(Better Islands LLC.)' | Rep: target='', bno='손기혁' | Addr: '' | BNO: 780-86-03354
+[72] Score 1: Target '노매드헐' (지식정보, 남구 문현동 1229-1번지 국제금융) -> Matched '노매드헐' | Rep: target='', bno='김효정' | Addr: '' | BNO: 309-86-01593
+[73] Score 1: Target '레벤그리다' (지식정보, 남구 용당동 251번지 국립부경대학교) -> Matched '레벤그리다' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 290-85-03117
+[74] Score 0: Target '선민' (출판, 사상구 감전동 132-7번지 디지털밸) -> Matched '선민회계법인' | Rep: target='', bno='선종민' | Addr: '' | BNO: 232-81-06954
+[75] Score 0: Target '가람스토어' (출판, 사상구 모라동 1375번지 벤처타워 ) -> Matched '주식회사 가람스토어 명지점' | Rep: target='', bno='박세웅' | Addr: '' | BNO: 828-85-03358
+[76] Score 1: Target '인코누스' (지식정보, 사하구 다대1동 1508-9번지) -> Matched '인코누스(주)' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 638-86-02054
+[77] Score 1: Target '엣지러너스클럽' (지식정보, 사하구 하단2동 492-2번지 대우에) -> Matched '주식회사 엣지러너스클럽' | Rep: target='', bno='오형석' | Addr: '' | BNO: 636-88-03051
+[78] Score 1: Target '윈피플' (지식정보, 해운대구 우2동 1454번지 벽산이센) -> Matched '(주) 윈피플' | Rep: target='', bno='신진영' | Addr: '' | BNO: 432-81-02034
+[79] Score 1: Target '유캐스트' (방송, 해운대구 우동 1468번지 케이엔엔타) -> Matched '주식회사 유캐스트' | Rep: target='', bno='김수민' | Addr: '' | BNO: 617-86-15187
+[80] Score 1: Target '프보이' (지식정보, 해운대구 우동 1468번지 케이엔엔타) -> Matched '프보이' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 120-85-52551
+[81] Score 0: Target '베스트엔터테인먼트' (광고, 해운대구 우동 1468번지 케이엔엔타) -> Matched '（주）베스트엔터테인먼트' | Rep: target='', bno='김대희' | Addr: '' | BNO: 617-81-75934
+[82] Score 1: Target '이피엠시스템' (지식정보, 해운대구 우동 1470번지 에이스하이) -> Matched '주식회사 이피엠시스템' | Rep: target='', bno='이경일' | Addr: '' | BNO: 528-87-00076
+[83] Score 1: Target '케어닥' (지식정보, 해운대구 우동 1476번지 웹스 3층) -> Matched '주식회사 케어닥' | Rep: target='', bno='박재병' | Addr: '' | BNO: 708-81-00933
+[84] Score 1: Target '오렌지랩스' (지식정보, 해운대구 재송1동 1208-2번지 센) -> Matched '오렌지랩스 주식회사' | Rep: target='', bno='김범진' | Addr: '' | BNO: 815-88-02655
+[85] Score 1: Target '에스랩' (지식정보, 해운대구 재송1동 1209번지 센텀아) -> Matched '주식회사 에스랩' | Rep: target='', bno='박주성' | Addr: '' | BNO: 426-87-00300
+[86] Score 0: Target '비트시스' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '비트시스템' | Rep: target='', bno='이름으로' | Addr: '' | BNO: 605-17-32848
+[87] Score 1: Target '건흥페이먼츠' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '건흥페이먼츠 주식회사' | Rep: target='', bno='이득명' | Addr: '' | BNO: 675-86-00152
+[88] Score 1: Target '크리에이티브올라' (광고, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사 크리에이티브올라' | Rep: target='', bno='홍정현' | Addr: '' | BNO: 612-87-03489
+[89] Score 1: Target '저스티스어드벤처' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사 저스티스어드벤처' | Rep: target='', bno='조현제' | Addr: '' | BNO: 177-81-00390
+[90] Score 1: Target '컨벤션숲' (광고, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사 컨벤션숲' | Rep: target='', bno='김정훈' | Addr: '' | BNO: 721-81-01667
+[91] Score 1: Target '모두싸인' (지식정보, 해운대구 재송동 1208-2번지 센텀) -> Matched '주식회사 모두싸인' | Rep: target='', bno='이영준' | Addr: '' | BNO: 356-87-00243

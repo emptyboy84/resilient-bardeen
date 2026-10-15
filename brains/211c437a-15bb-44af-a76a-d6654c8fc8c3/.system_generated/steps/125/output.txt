@@ -1,0 +1,153 @@
+
+The command exited with code 0.
+Output:
+SetMethod2(int, int) IL:
+0000: 16 
+0001: 0A 
+0002: 16 
+0003: 0B 
+0004: 73 
+0005: 19 
+0006: 00 
+0007: 00 
+0008: 0A 
+0009: 0C 
+000A: 72 [0x70000001] ("root\WMI") 
+000F: 72 [0x7000037F] ("Method_ULong2") 
+0014: 14 
+0015: 73 
+0016: 1A 
+0017: 00 
+0018: 00 
+0019: 0A 
+001A: 25 
+001B: 6F [0x0A00001B] (ManagementClass.GetInstances) 
+0020: 0D 
+0021: 6F [0x0A00001C] (ManagementObject.Dispose) 
+0026: 09 
+0027: 6F [0x0A00001D] (ManagementObjectCollection.GetEnumerator) 
+002C: 13 
+002D: 04 
+002E: 16 
+002F: 13 
+0030: 05 
+0031: 2B 
+0032: 17 
+0033: 11 
+0034: 04 
+0035: 6F [0x0A00001E] (ManagementObjectEnumerator.get_Current) 
+003A: 74 
+003B: 11 
+003C: 00 
+003D: 00 
+003E: 01 
+003F: 0C 
+0040: 11 
+0041: 05 
+0042: 2C 
+0043: 0F 
+0044: 11 
+0045: 05 
+0046: 17 
+0047: 58 
+0048: 13 
+0049: 05 
+004A: 11 
+004B: 04 
+004C: 6F [0x0A00001F] (ManagementObjectEnumerator.MoveNext) 
+0051: 2D 
+0052: E0 
+0053: 08 
+0054: 72 [0x70000243] ("SetULong") 
+0059: 6F [0x0A000032] (ManagementObject.GetMethodParameters) 
+005E: 13 
+005F: 06 
+0060: 11 
+0061: 06 
+0062: 72 [0x7000039B] ("InOffset") 
+0067: 03 
+0068: 8C 
+0069: 40 
+006A: 00 
+006B: 00 
+006C: 01 
+006D: 6F [0x0A000033] (ManagementBaseObject.set_Item) 
+0072: 11 
+0073: 06 
+0074: 72 [0x70000459] ("InData") 
+0079: 04 
+007A: 8C 
+007B: 40 
+007C: 00 
+007D: 00 
+007E: 01 
+007F: 6F [0x0A000033] (ManagementBaseObject.set_Item) 
+0084: 11 
+0085: 06 
+0086: 72 [0x70000467] ("Flags") 
+008B: 07 
+008C: 8C 
+008D: 40 
+008E: 00 
+008F: 00 
+0090: 01 
+0091: 6F [0x0A000033] (ManagementBaseObject.set_Item) 
+0096: 08 
+0097: 72 [0x70000243] ("SetULong") 
+009C: 11 
+009D: 06 
+009E: 14 
+009F: 6F [0x0A00002F] (ManagementObject.InvokeMethod) 
+00A4: 13 
+00A5: 07 
+00A6: 08 
+00A7: 6F [0x0A00001C] (ManagementObject.Dispose) 
+00AC: 14 
+00AD: 0C 
+00AE: 11 
+00AF: 07 
+00B0: 72 [0x70000419] ("OutStatus") 
+00B5: 6F [0x0A000030] (ManagementBaseObject.get_Item) 
+00BA: 6F [0x0A000020] (Object.ToString) 
+00BF: 28 [0x0A000031] (Convert.ToInt32) 
+00C4: 0A 
+00C5: 06 
+00C6: 2D 
+00C7: 0F 
+00C8: 72 [0x70000473] ("Set Method2 return : true") 
+00CD: 28 [0x0A000022] (Trace.WriteLine) 
+00D2: 17 
+00D3: 13 
+00D4: 08 
+00D5: DE 
+00D6: 2E 
+00D7: 16 
+00D8: 13 
+00D9: 08 
+00DA: DE 
+00DB: 29 
+00DC: 26 
+00DD: 16 
+00DE: 13 
+00DF: 08 
+00E0: DE 
+00E1: 23 
+00E2: 13 
+00E3: 09 
+00E4: 16 
+00E5: 72 [0x70000093] ("ACPIHelper") 
+00EA: 72 [0x700001D7] ("ACPIHelper: An exception has occurred in GetMethod > ") 
+00EF: 11 
+00F0: 09 
+00F1: 6F [0x0A000028] (Exception.get_Message) 
+00F6: 28 [0x0A000021] (String.Concat) 
+00FB: 28 [0x0A000029] (Debugger.Log) 
+0100: 16 
+0101: 13 
+0102: 08 
+0103: DE 
+0104: 00 
+0105: 11 
+0106: 08 
+0107: 2A 
+

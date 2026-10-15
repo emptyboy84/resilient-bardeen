@@ -1,0 +1,60 @@
+
+The command exited with code 0.
+Output:
+query : jerrygood.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : jerrygood.co.kr
+등록인                      : 제리굿컴퍼니
+등록인 주소                 : 서울특별시 용산구 장문로 14 (동빙고동) 2층
+등록인 우편번호             : 04393
+책임자                      : 이정세
+책임자 전자우편             : lee.jungse@jerrygood.co.kr
+책임자 전화번호             : 010-9043-4064
+등록일                      : 2023. 05. 08.
+최근 정보 변경일            : 2023. 05. 18.
+사용 종료일                 : 2029. 05. 08.
+정보공개여부                : Y
+등록대행자                  : (주)가비아(http://www.gabia.co.kr)
+DNSSEC                      : 미서명
+등록정보 보호               : clientTransferProhibited
+
+1차 네임서버 정보
+   호스트이름               : sns1.nsgodo.com
+
+2차 네임서버 정보
+   호스트이름               : sns2.nsgodo.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : jerrygood.co.kr
+Registrant                  : Jerrygood Company
+Registrant Address          : 14 Jangmun-ro, Yongsan-gu, Seoul, 2F
+Registrant Zip Code         : 04393
+Administrative Contact(AC)  : Jungse Lee
+AC E-Mail                   : lee.jungse@jerrygood.co.kr
+AC Phone Number             : 010-9043-4064
+Registered Date             : 2023. 05. 08.
+Last Updated Date           : 2023. 05. 18.
+Expiration Date             : 2029. 05. 08.
+Publishes                   : Y
+Authorized Agency           : Gabia, Inc.(http://www.gabia.co.kr)
+DNSSEC                      : unsigned
+Domain Status               : clientTransferProhibited
+
+Primary Name Server
+   Host Name                : sns1.nsgodo.com
+
+Secondary Name Server
+   Host Name                : sns2.nsgodo.com
+
+
+- KISA/KRNIC WHOIS Service -
+
+
+

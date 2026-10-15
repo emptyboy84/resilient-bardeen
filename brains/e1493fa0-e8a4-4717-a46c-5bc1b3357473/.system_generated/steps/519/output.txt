@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Total Rows: 200
+Closed (폐업) Count: 11
+Corp No Count (must be 0): 0
+Fiscal Month Count (must be 0): 0
+Empty Industry (NICE 미등재): 5
+Valid 5-digit Zip Count (must be 200): 200
+

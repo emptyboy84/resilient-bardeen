@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=수영강변대로+140');
+```
+### Page
+- Page URL: https://bizno.net/?query=%EC%88%98%EC%98%81%EA%B0%95%EB%B3%80%EB%8C%80%EB%A1%9C+140
+- Page Title: 수영강변대로 140
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-37-37-001Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-37-31-574Z.log#L1-L4

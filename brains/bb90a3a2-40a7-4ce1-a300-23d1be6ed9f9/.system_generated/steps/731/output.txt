@@ -1,0 +1,16 @@
+The search for ""(주)우아한놈들" OR "우아한놈들" ("부산" OR "595-87-02680") (전화번호 OR 연락처 OR tel)" returned the following summary:
+검색하신 조건에 해당하는 **(주)우아한놈들**의 기업 정보 및 연락처는 다음과 같습니다[1][2]:
+
+* **상호명:** (주)우아한놈들 (배달의민족 공식 협력사 / 창업·입점 컨설팅 플랫폼 '잇다' 운영)[3][2][4]
+* **사업자등록번호:** 595-87-02680[2]
+* **대표자:** 서동현[1]
+* **소재지(부산):** 부산광역시 연제구 연안로 26, 4층 (연산동)[1]
+* **대표 연락처 (고객센터):** **1588-2195**[2]
+* **이메일:** world3286@naver.com[2]
+* **상담 가능 시간:** 평일 09:00 ~ 18:00 (점심시간 12:00 ~ 13:00, 주말 및 공휴일 휴무)[2]
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdd_PUkcyfMmLx7qfK5lIbOrH5CTfq7JZ5_z7F_VILZ_adsfcnQCAYrCwNbG_W7Z5-krBszblH71233qhczlh2rqEnd-g-5tvVBPAsIGzToPnoshKxftk5nl41vh7QI2B1Djg8cjD3rgjGfA==)
+[2] [franchiseconnect.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgSJW2BsbOlC9MKZ-xL931DgbV_yH727P9vHbx2jZd1gW81eP68SFXP-Pi75xKaR8SpbLO4pMX81OtkaPbQE7n8iuW-Qfz-JIU49tLy_5ryiIRVrQ=)
+[3] [xn--480bt7djtuukbv60b.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEn5B02Uqhtu6P2zhf7GTuC6awTXhrX6Uk-1zRGRaDzs1IMaUYiHuTH7zoRQEI8h-2O-fPcZXfMRo7Z4fxQ0k2GveK3Rh0bIndR3zIEUg-qFlbLQFMecL)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYia8_R0NbdaZWBOgdj-OdX3CG5pvOiCe-ECB5ia86Fv_wLNuyutZbr0vRbzvVGqzPDkZnQ1lT44Wvxc5j3kTDNjLz2bWHw44hCkSevuOT1w6MPXAnrm4FOIChKB2eNIstrFPINjIvPs0wlyyiK2ZFyIuWBjEb62ykHHLifGvXnJW1IBZyxTsBlSobLA=)

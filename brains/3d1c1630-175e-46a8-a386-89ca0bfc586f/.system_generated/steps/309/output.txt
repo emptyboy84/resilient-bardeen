@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:53
++ git add "data/(�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx" && git commit -m  ...
++                                                     ~~
+'&&' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidEndOfLine
+ 
+

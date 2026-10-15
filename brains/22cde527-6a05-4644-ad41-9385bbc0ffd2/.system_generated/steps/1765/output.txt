@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+
+[크레탑!!]
+  Rows: 2314, Total cells checked: 43947
+  Total RED cells: 2180
+  Row 639 Col 4 (bizno): "603-10-85753"
+  Row 639 red cols: 4,19
+
+[크레탑_automation]
+  Rows: 2314, Total cells checked: 43947
+  Total RED cells: 2180
+  Row 639 Col 4 (bizno): "603-10-85753"
+  Row 639 red cols: 4,19
+
+[크레탑_crawling]
+  Rows: 2314, Total cells checked: 43947
+  Total RED cells: 2392
+  Row 639 Col 4 (bizno): "603-10-85753"
+  Row 639 red cols: 4,7,19
+
+[크레탑_최종]
+  Rows: 2469, Total cells checked: 43947
+  Total RED cells: 28350
+  Row 639 Col 4 (bizno): "603-10-85753"
+  Row 639 red cols: 2,3,4,5,6,7,8,9,10,11,12,14,15,16,19
+

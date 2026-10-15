@@ -1,0 +1,24 @@
+The search for ""신우사" OR "603-01-84752" "김갑수" 매출액 OR 부산" returned the following summary:
+문의하신 "신우사"와 관련하여 검색된 정보는 다음과 같습니다.
+
+### 1. 부산 지역의 "신우사" (완구 제조)
+*   **대표자:** 김갑수[1][2]
+*   **업종:** 인형 및 장난감 제조업[1][2]
+*   **소재지:** 부산광역시 사하구 승학로161번길 59[1][2]
+*   **특이사항:** 해당 기업은 완구 제조를 주요 사업으로 하는 중소기업으로 확인됩니다[1]. 문의하신 사업자번호(603-01-84752)와 직접적으로 매칭되는 공개된 결과는 검색되지 않았으나, 대표자명과 업종 및 지역 정보가 일치하는 기업으로 확인됩니다[1][2].
+
+### 2. 참고: 기타 "신우사" 명칭 관련 정보
+*   **하이스틸 부산사무소 소재지:** 부산광역시 사상구 광장로56번길 52 **"신우사B동"**이라는 명칭의 건물이 존재하며, 이는 하이스틸의 부산사무소 주소 등으로 다수 언급됩니다[3][4][5]. 이는 기업명으로서의 '신우사'와는 별개의 건물명일 가능성이 높습니다.
+*   **기타 지역:** 이 외에도 전국적으로 '신우사'라는 명칭을 사용하는 소규모 업체나 출판사, 제조업체 등이 검색되나, 문의하신 조건(부산, 김갑수 대표)과 가장 일치하는 곳은 상기 언급된 사하구 소재의 완구 제조업체입니다[1][6][7].
+
+**매출액 관련 정보:**
+위 사하구 소재 '신우사'의 정확한 매출액은 공개된 정보에서 확인되지 않습니다. 사람인 등 기업 정보 사이트에서 제공하는 정보는 변동될 수 있으므로, 정확한 재무 데이터가 필요하시다면 신용평가사(NICE평가정보 등)의 유료 기업 분석 보고서나 전자공시시스템(DART) 등을 통해 확인하시는 것을 권장합니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVV_1ybfcTEfZg528HG2hreua2yF6-5MN75v12fjUgXASbdQrU86i9iky5msTpaZNHeM0fLsd-_8HcnmTMRqAqFiyPvWrX-Mh62hXd1z9gh6KvAwWF4lQq21VkcUDB0vgxH5jN1vynXx_iyV-fA1Nr52lYEn4Kj6TUHLNMPU1tLy_YZh-CPRd_nvhIJVA_vG5ofB04hFI_XWcJ5Nsb7bOJU0W-t-_tZmecZzrLfAzDuN4j-pI=)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJ8J-1wl6jljq2CoPIlJPfyp4eDXp7M_IEJ_r7DCUfT83632MbD9cg4oeCx26vmXArU7wDOsyKtRKT6mEKzk_43T1I3uoVJJ-UqloSbnblt1aW68yWvbSGcl9feV3Oz9FI_tsHW-jjCa6gqGoz6KUhME=)
+[3] [krx.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoNbjXI2EpnnorrmCItWVT3pYwX3qUMjsGVszyNwpcWN_M5YSVvFi-82_y7L3Gw5diG0iLg_CiagqfPcv8KVEwFHzPHyeSsVvfobvBDm03snqWC6IWEwtuaMTI05PS_rRmt7bAkrvS4Bv0LUDr6Yejzw8yFKKQvHmOSSpdGWmk)
+[4] [hi-steel.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDAeVZbeGPNp7iAdxEDxVaES5iWTKT9N0S5I2NEvCfAMcetWNuybhzdmzFg6DOGo-700d3OPdv4DhGdedk2FvGeTKxAPhAfXNfaqKzwTO1oQQD10o4wG1ANk6AUb_-qAceZgoJY4AhGfIGTpCKwny8u9Q3tbNLl9zZQflVpgIESOeF-A==)
+[5] [hi-steel.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVQa2O6hq6poiTbENnCwyLZJX8kBPQb3OjsmQuUleQAXHnAM-66RKjpFfalC4-xbCW8KHOUV2n87yytPs2J9sTIKgJIoVxA-Hwh2Dtfmg-iXUMt5yRxqmmhfxIiCPHEOITggZzWems3pTNFPoexM3Z1KgGO0bxhbsEwEnPz8pZADLiRw==)
+[6] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8mMl-4NYnPa8ZOoJK9S4JI0I9rsLmY1zRFDvGsbuQiWJkiu-dpkTVdysWFGE95Eox1Chu8tjqiF-UUp2wwBHI4q_y9M5sm1Z9I94REFS-O5hFDeAPW96azuCZHpRLQeXHqUl3nbKX_sa6)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkHnQD5x7U5O2behSaELD2dY6S5JBS48HlgDM_s_GHbw_WjrK1SubxrIGpSTNISF4qYt6xmQcP7QZyrPEULYSqfHiBjguRhUPnFtlyxTyWCLSL8Q8iEca4MyRcoNsheqhS0-GLAcuzimu9lf8hOjKb8z4Zv1MDaGhHFoWSG5BuOkC1FrB8WBZ6of6qFYGQuJv1Oto8T67qE1QCjq9jAslceaMy16ifwc5H5X0uNvq-BYVtYo0hL4iuJu_vXQsoWaaRF54n9JPdoRMfNqdALVEz50kyJDPxbxpGErdnErxJBXgewnmJyA==)

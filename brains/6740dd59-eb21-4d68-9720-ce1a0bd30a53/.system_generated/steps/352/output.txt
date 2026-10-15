@@ -1,0 +1,19 @@
+The search for ""함께가는사람들" "이상덕" "사원수" OR "매출액" OR "종업원"" returned the following summary:
+(주)함께가는사람들에 대한 기업 정보는 다음과 같습니다.
+
+*   **대표자:** 이상덕[1][2]
+*   **주요 사업:** 광고물 문안, 도안, 설계 등 작성업[2][3]
+*   **소재지:** 경남 김해시 김해대로2371번길 12-13, 101호 (본사 기준)[1][4] / 부산 부산진구 양정동 (부산지점)[5][6]
+*   **사원수 및 매출액:** 잡코리아 및 기업 정보 제공 사이트 등에 따르면, 해당 기업은 중소기업으로 분류되며 사원수와 매출액 등의 재무 정보는 공개적으로 상세히 표기되어 있지 않거나 비공개 상태인 경우가 많습니다[1][2][5]. 구체적인 수치는 기업 분석 보고서 등을 통해 구매하거나 확인해야 할 수 있습니다[2][3].
+
+※ 참고: 이상덕이라는 이름을 가진 인물 중 매일경제 기자 등 동명이인이 있으므로[7][8], 기업 경영인으로서의 이상덕 대표와 혼동하지 않도록 유의하시기 바랍니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQnT346w4xuEcuY8No9AnM_XNF0Y_QlGIq7LonOcZJL3P7JQqZ4ETnhgvUntYjN3ZytiexJGh7HF0vm7bWrBfImlOOKZCTszQkXuXZEkMrr26-KeLnxuM1e2wFfz6QIQ==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx8PFltxkb6OIx_x4ZgPE5DLcIIoYFwbCPc0fY7Sp8Kll4RDEB8EHSOA_rOzn5O8219yXrLKiGg_UTdnGCTbiLcBIKHicsKzkF32W8aiMB-BbhNLI0vV4yGk8KICCqrNrIhKLSi8ZaeUgI6UZ3_DSRBP91)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx8PFltxkb6OIx_x4ZgPE5DLcIIoYFwbCPc0fY7Sp8Kll4RDEB8EHSOA_rOzn5O8219yXrLKiGg_UTdnGCTbiLcBIKHicsKzkF32W8aiMB-BbhNLI0vV4yGk8KICCqrNrIhKLSi8ZaeUgI6UZ3_DSRBP91)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQnT346w4xuEcuY8No9AnM_XNF0Y_QlGIq7LonOcZJL3P7JQqZ4ETnhgvUntYjN3ZytiexJGh7HF0vm7bWrBfImlOOKZCTszQkXuXZEkMrr26-KeLnxuM1e2wFfz6QIQ==)
+[5] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvO9Y0n21Anio1r15U6OhsZIupt6n9psmEE1BnItogxURcxjxwX9otgNi6hUdPbM0q-WrvhCjtuN7la8lfQDXl1vWprSopLMjwMtfgbhVB8C2rn7UdUSVDOlJrtCsSVff2VxcMgI9c9NY_u3M=)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvO9Y0n21Anio1r15U6OhsZIupt6n9psmEE1BnItogxURcxjxwX9otgNi6hUdPbM0q-WrvhCjtuN7la8lfQDXl1vWprSopLMjwMtfgbhVB8C2rn7UdUSVDOlJrtCsSVff2VxcMgI9c9NY_u3M=)
+[7] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF83gb8D0vkugAEN1eACxXy7YeBX7oTl8YcTywimXGnGc3abLblCDBq4hhTW3oGxWC67xb4cM7v8Nlco1IqSf9vu04pBj2u2OESxfrrmnbj2KzhWWzPgAIZLVTDG5iI)
+[8] [kpf.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxro3H4myPMc-oCRcicY6avlGe37gLALsI8QrwxB2ESc6Iu1J1fvfING3yKVkPARBPx9_83egv9vb87rD5lGKrqpbkUBEDi79PJ-0OOXDZ_B2V1eTAswBrJCkOcbJDlPLj6sYQHbbb0YozB5kIqcdeAsKz)

@@ -1,0 +1,19 @@
+The search for ""페타브루" ("미음산단로" OR "816-87-02025" OR "051" OR "070" OR "010" OR "02")" returned the following summary:
+**주식회사 페타브루(PETABREW)**는 고주파 레이더 및 지능형 센서 기술을 바탕으로 하드웨어, 펌웨어, 데이터 모니터링 솔루션을 개발하는 대한민국의 혁신 기업입니다[1][2]. 
+
+입력하신 키워드와 관련된 주요 정보는 다음과 같습니다.
+
+* **주소 (미음산단로):** 부산광역시 강서구 미음산단로295번길 14, 1층 (사무동)[3]
+* **주요 사업 및 기술:** 
+  * 고주파(80 GHz 등) FMCW 레이더 기반 비접촉식 센서 신호처리 및 정밀 알고리즘 설계[3][1][2]
+  * 선박용 극저온·저유전율 환경(LNG 탱크 등)에서 수위를 정밀 측정하는 **LNG 레벨트랜스미터** 국산화 개발[1]
+  * UAM 이착륙 시스템, 무인 비행 장치 제어, 디지털 헬스케어(무채혈 혈당 측정 등) 등 다양한 고부가가치 센서 응용 분야로 확장[1]
+* **기업 이력 및 성과:** 
+  * 2021년 6월 설립[1]
+  * 한양대학교 기술지주 시드(Seed) 투자 유치[1]
+  * 중소벤처기업부 기술창업 지원 프로그램인 **TIPS(팁스)** 선정[1]
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWTcLPI89zpdvMSu0pEQaa-HoSGw2nYUkLouCeUxKIox5Q2sxDs2xdmmSVlN3oqySqoJQmrh7rgyeR9LrxhUz-66ceOLPfupOsTuKs279XgsxVm-jgG7Qr596AJeUWh4Q7i_MBmHLExrr2ZIx_3z84ruN7uTnT7r6NrmU=)
+[2] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPZzcGgJ69-9HD8drdPBT-b8zUnXCZ00pdlPg3FC2NhkYqRRcf84e1KlyzH4c63LhLTDIt6iLClJeLOojDPogkS8wijPrq3yJu9g==)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPZzcGgJ69-9HD8drdPBT-b8zUnXCZ00pdlPg3FC2NhkYqRRcf84e1KlyzH4c63LhLTDIt6iLClJeLOojDPogkS8wijPrq3yJu9g==)

@@ -1,0 +1,14 @@
+The search for ""114.co.kr" "온클레브" OR "온클레브" "051"" returned the following summary:
+주식회사 **온클레브(ONCLEV)**는 공개 출처 정보(OSINT), 온체인 분석, 금융 신호 데이터 등을 기반으로 가상자산 자금세탁 방지(AML) 및 추적 솔루션을 제공하는 데이터 인텔리전스·레그테크(RegTech) 기업입니다[1][2]. 
+
+* **주요 사업 영역**: OSINT 분석 도구 연구개발, 가상자산 및 블록체인 자금 추적·컴플라이언스(BlockShield), 기술범죄 연구 및 컨설팅 등[1]
+* **지역 연관성**: 부산 지역(남구 등)을 기반으로 소프트웨어 및 정보통신업 사업을 영위해 왔으며[3], 부산은행 등이 협력하는 지역 창업 생태계 및 혁신 프로그램(예: 우리금융 디노랩 부산 등)에도 참여한 이력이 있습니다[4][2].
+
+인터넷 전화번호 안내 서비스인 `114.co.kr`(114On)[5]이나 부산 지역 국번인 `051`[3]과 함께 언급되는 것은 해당 기업의 사업장 소재지나 부산 지역 내 혁신·금융·IT 기업 관련 협력 및 등록 정보와 연관되어 있을 수 있습니다.
+
+Sources:
+[1] [onclev.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrrun3ah1qJ_FsEwwRyW6HLm9xZrD8Wjicnj1Wu-0ATbKSP-xQFYUkxFkFFd0wjfDm9oTwaaTu5u0WQINMvUgH9cJUodquHUso)
+[2] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH027RuE4d45BjBtD9owUB63Z1l6nN1k1HSMwJEAQcv3xPOH5Pteb_iawoQ51P3xovFzGZ0npfdUFUtvykeM-ktpl0WHWEqVcQBTJVmKBsvF6eHGNSa3DO71yXc)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1NRFr1dee2AV9w1QBmF5IoUkVWoGEh9kpj7j4AsXtI_o7ZiEgmbpUzmzo0NyBdGLkAnx5lF4Nu4FF3qbYFPZI4AEYK5ysah3zWQRwvyU8rKlNPYYTLjWKaUpCvVN5rH6ozuerIo4av3o=)
+[4] [ictnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcAburgETGYlfxnjpnPRMajiztac19qnOqJLUuwyBy_1p4-g9_yJrFDgZ6y3XkOsP5kugM6F0aCO5Wa0uLDF0x4_tInJTrLyR_owfYcRSj-beJ9sGe7nrwHlmRho49FIpj95DjLEsSi2MNq4_G4htk5e4rdul74BlQub4S)
+[5] [newsworks.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoWy8-ZKMeSXtpiRRSeMq-2w6kq4wWXJu-xJAZ3UyHT-MImsBzuXVgOc-0YoX2ln3lH9A7uefc8fgkQGQ_GCgmEJBsO7-ZFqPiep0BSLXwzS7wVevz6FE4oTePiqTgnNTfGsUK3se57ItCKyhpAikYy3_0DA==)

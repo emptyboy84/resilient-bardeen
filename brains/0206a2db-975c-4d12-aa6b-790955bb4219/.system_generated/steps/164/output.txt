@@ -1,0 +1,22 @@
+The search for "site:i-um.co.kr "케이안전기술원" OR "898-88-02742" OR "8988802742"" returned the following summary:
+(주)케이안전기술원에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** (주)케이안전기술원[1][2]
+*   **사업자등록번호:** 898-88-02742[3][4]
+*   **대표자:** 이경민[2][3]
+*   **주소:** 경상남도 진주시 동부로169번길 12 (충무공동, 윙스타워) 7층 에이710호[3][4]
+*   **주요 사업:**
+    *   건축물 안전진단, 안전점검, 내진성능평가[1][5]
+    *   구조검토·설계·감리 및 해체계획서 작성[5]
+    *   안전관리전문기관 및 건설재해예방 전문지도기관 업무[6][3]
+    *   중대재해처벌법 관련 안전보건관리체계 구축 컨설팅 및 안전보건교육 등[6]
+
+요청하신 `site:i-um.co.kr` 검색어와 관련하여 해당 도메인 내에서는 (주)케이안전기술원에 대한 정보가 검색되지 않았습니다.
+
+Sources:
+[1] [kctcm.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfGAuwHS_6U1rptZ19b8bmW9CqNlhajnDQ2PfBFBpf_WYfMyHZMLU7Ke9Yi3MLGMO6HH5KJ8ZLuXexZf-jtKbptG4mSwozphlcDg==)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE0_Oq7Li7p5HbV9kKeGKeQFvSIThapNKZu0uHe7brsvlTOpfF-1RIfSs1y44LLHQek_9rpKBZYy227tC1xMU9GHqEaaUO_TMAlxIOSZFrEl60Oar5ia7w4BLcZ62qMLQb3w==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnQIQP6GZFZPc3aIg2PpAhZk-evryvsL2tOccxiggza-WaHQ9ems9N2JlaTeOCUGbIEcnqfG_zeMEV2X-8wLoitwec9QHpSoLygJKBrjK8Atmhr4T44EPMPh8=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnQIQP6GZFZPc3aIg2PpAhZk-evryvsL2tOccxiggza-WaHQ9ems9N2JlaTeOCUGbIEcnqfG_zeMEV2X-8wLoitwec9QHpSoLygJKBrjK8Atmhr4T44EPMPh8=)
+[5] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYSYBf-Nn5rTulMi5zsHS1GU4rScUEgIjib06gUzPHfXqs8cTMsYFgPaT1lDBr-ThLqregEqjs3sRCKdhTxfQBLXtEqufmLtBKHiJPdMs92qVRURpo8LYiyvjbNkhCabElfVRy6NeLb5WcUhHKxj-WvTHnax8Y9OEiZMs=)
+[6] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7Ds1o68-gVeXjPSrpF5ge4BOuhypHWDF-vUmUBPpas-Jt1pTMRn7Tp138LpGlC51TNrJDEfopl_STxK6EwIo_jHjIpZyl1g6o5HxLp2J5Hl60EvGOg==)

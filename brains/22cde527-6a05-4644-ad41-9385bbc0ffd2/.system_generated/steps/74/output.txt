@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Fetching: https://bizno.net/?query=%EB%AA%A8%EB%91%90%EC%8B%B8%EC%9D%B8
+Response length: 16547
+Articles found: [
+  { link: '/article/3568700243', text: '주식회사 모두싸인' },
+  { link: '/article/6891701324', text: '모두싸인' },
+  { link: '/article/3342500911', text: '모두싸인' }
+]
+Biz numbers found: null
+

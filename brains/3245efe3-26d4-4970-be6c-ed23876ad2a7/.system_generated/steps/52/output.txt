@@ -1,0 +1,51 @@
+
+The command exited with code 0.
+Output:
+<truncated 23 lines>
+[3245efe3] 2026-10-14T04:24:32Z: <USER_REQUEST> 오늘한거 다커밋해라 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-1
+[355e9cc1] 2026-10-14T01:49:09Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[4a913c98] 2026-10-14T01:14:44Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[68575da5] 2026-10-14T03:36:35Z: <USER_REQUEST> 194	씨너지파트너(주)	오용민	정상	일반법인·주식회사	288-86-03047	110111-8696358	시스템 소프트웨어 개발 및 공급업	부산 동구 중
+[68575da5] 2026-10-14T04:13:04Z: <USER_REQUEST> 240	(주)대경산업개발	손정희	정상	일반법인·주식회사	792-88-01504	180111-1225861	시스템 소프트웨어 개발 및 공급업	부산 해운대구
+[86073e6c] 2026-10-14T02:11:23Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[b2ce891e] 2026-10-14T02:27:03Z: <USER_REQUEST> 128	(주)글로픽스	여일석	정상	일반법인·주식회사	877-88-03313	180111-1546796	일반 서적 출판업	부산 해운대구 해운대해변로 203
+[b2ce891e] 2026-10-14T02:40:00Z: <USER_REQUEST> 더찾아바 틀렸네 지도로보니까 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026
+[b2ce891e] 2026-10-14T03:30:23Z: <USER_REQUEST> 185	(주)에이비엠랩	황의윤	정상	일반법인·주식회사	820-87-03095	170111-0910902	응용 소프트웨어 개발 및 공급업	부산 영도구 태종
+[b2ce891e] 2026-10-14T03:51:13Z: <USER_REQUEST> 216	(주)비쓰리디	하지태	정상	일반법인·주식회사	577-88-03373	180111-0161192	응용 소프트웨어 개발 및 공급업	부산 동구 망양로 
+[b2ce891e] 2026-10-14T04:13:40Z: <USER_REQUEST> 244	(주)노매드헐	김효정	정상	일반법인·주식회사	309-86-01593	180111-1239523	응용 소프트웨어 개발 및 공급업	부산 남구 문현금융
+[b9df9340] 2026-10-14T01:08:04Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[bb90a3a2] 2026-10-14T00:05:02Z: <USER_REQUEST> 전화번호찬아 /plan  순번	기업명	대표자명	기업상태	기업유형/형태	사업자번호	법인번호	산업분류	주소	전화번호	최근 재무년도	브리핑	일반	현황	재무	신
+[bb90a3a2] 2026-10-14T00:08:35Z: <USER_REQUEST> 니가해 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T09:08
+[bb90a3a2] 2026-10-14T00:09:19Z: <USER_REQUEST> 완료 전화번호만 찾아  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10
+[bb90a3a2] 2026-10-14T00:11:44Z: <USER_REQUEST> 완료 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T09:11:
+[bb90a3a2] 2026-10-14T00:18:27Z: <USER_REQUEST> 야 부산전화번호찾아라 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-
+[bb90a3a2] 2026-10-14T00:20:30Z: <USER_REQUEST> 순번	기업명	대표자명	기업상태	기업유형/형태	사업자번호	법인번호	산업분류	주소	전화번호	최근 재무년도	브리핑	일반	현황	재무	신용	EW리포트 1	부산문화
+[bb90a3a2] 2026-10-14T00:25:35Z: <USER_REQUEST> 야 부산인데 02가잇노 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10
+[bb90a3a2] 2026-10-14T00:27:32Z: <USER_REQUEST> TXT로 바탕화면 투데이폴더로배바 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2
+[bb90a3a2] 2026-10-14T00:28:33Z: <USER_REQUEST> "C:\Users\lg\Documents\카카오톡 받은 파일\크레탑_부산CT산업현황_261012_전략팀 전달 (1).xlsx" </USER_REQUEST
+[bb90a3a2] 2026-10-14T00:41:28Z: <USER_REQUEST> 최대한딥하게 한번더 찾아바 가용가능한 모든사이튼에서 </USER_REQUEST> <ADDITIONAL_METADATA> The current local 
+[bb90a3a2] 2026-10-14T00:43:02Z: <USER_REQUEST> 야 기존거는 하지말고 빠진거만 하라고 원본에서 </USER_REQUEST> <ADDITIONAL_METADATA> The current local tim
+[bb90a3a2] 2026-10-14T00:45:37Z: <USER_REQUEST> 야 폰번호 너도된다 그 비즈노보니깐 폰번호 가려진거 ㅁ낳네 </USER_REQUEST> <ADDITIONAL_METADATA> The current lo
+[bb90a3a2] 2026-10-14T01:33:04Z: <USER_REQUEST> 66	(주)저스티스어드벤처	조현제	정상	일반법인·주식회사	177-81-00390	180111-1047306	응용 소프트웨어 개발 및 공급업	부산 해운대구
+[bb90a3a2] 2026-10-14T01:44:44Z: <USER_REQUEST> 751-81-03079 이게 메이브릿진줄바라 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time
+[bb90a3a2] 2026-10-14T01:48:06Z: <USER_REQUEST> 070-4219-7808 이거 카카오맵에서 찾았는데 맞는지바라 </USER_REQUEST> <ADDITIONAL_METADATA> The current 
+[bb90a3a2] 2026-10-14T01:48:09Z: <USER_REQUEST> 메이브릿지 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T10:
+[bb90a3a2] 2026-10-14T01:51:01Z: <USER_REQUEST> 처음부터 모든가용가능한수단으로 최대한딥하게 정확하가게 하나하나 빈칸이었던 전화번호만 검증하고 빈칸다싱채워 </USER_REQUEST> <ADDITIONA
+[bb90a3a2] 2026-10-14T01:57:53Z: <USER_REQUEST> 가용플래폴이4개밖에음보 머니핀 비즈노 네이버 나이스비즈인포 쿠키딜 구글링(그라운드검색)등 을마나많노 전화번호찾는게 114도있고 마켓비즈도있고 </USER
+[bb90a3a2] 2026-10-14T02:46:14Z: <USER_REQUEST> 148	(주)제리굿컴퍼니	이정세	정상	일반법인·주식회사	269-86-02940	110111-8622072	일반 영화 및 비디오물 제작업	부산 해운대구 해
+[bb90a3a2] 2026-10-14T02:53:38Z: <USER_REQUEST> 출처 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T11:53:
+[bb90a3a2] 2026-10-14T02:54:29Z: <USER_REQUEST> 폰번호  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T11:5
+[bb90a3a2] 2026-10-14T02:54:46Z: <USER_REQUEST> 홈페이지안드가자 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-14T
+[bb90a3a2] 2026-10-14T03:01:41Z: <USER_REQUEST> 150	(주)지알비	최우람	정상	일반법인·주식회사	771-81-00829	180111-1128312	방송 프로그램 제작업	부산 해운대구 달맞이길 30, 
+[bb90a3a2] 2026-10-14T03:08:25Z: <USER_REQUEST> 157	(주)링크빈	이승주	정상	일반법인·주식회사	372-81-01636	180111-1239987	응용 소프트웨어 개발 및 공급업	부산 부산진구 전포대
+[bb90a3a2] 2026-10-14T03:14:15Z: <USER_REQUEST> 공식대외라는건 전국ㅇ니란말이다 </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 202
+[bb90a3a2] 2026-10-14T03:15:18Z: <USER_REQUEST> 150	(주)지알비	최우람	정상	일반법인·주식회사	771-81-00829	180111-1128312	방송 프로그램 제작업	부산 해운대구 달맞이길 30, 
+[bb90a3a2] 2026-10-14T03:32:33Z: <USER_REQUEST> 191	(주)더블유에스컴퍼니	장현수	정상	일반법인·주식회사	487-88-00369	180111-1040673	시스템 소프트웨어 개발 및 공급업	부산 해운
+[bb90a3a2] 2026-10-14T04:05:21Z: <USER_REQUEST> 235	(주)제이이테크	박정언	정상	일반법인·주식회사	343-86-02608	180111-1479301	응용 소프트웨어 개발 및 공급업	부산 남구 수영로
+[bb90a3a2] 2026-10-14T04:19:56Z: <USER_REQUEST> 010-9226-2309  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-
+[bb90a3a2] 2026-10-14T04:24:09Z: <USER_REQUEST> (주)대경산업개발  </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-10-1
+[c2557f8c] 2026-10-14T00:15:05Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[c4866330] 2026-10-14T02:22:00Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[cab1d8fa] 2026-10-14T00:38:44Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+[cf396d79] 2026-10-14T00:26:37Z: <USER_REQUEST> This is a side question from the user. You MUST answer directly in a single response.
+

@@ -1,0 +1,377 @@
+
+The command exited with code 0.
+Output:
+=== ALL FILL COLORS IN DATA ROWS ===
+
+Color: {"theme":5,"tint":0.7999816888943144} (Total occurrences: 803)
+Sample rows: [
+  {
+    rNum: 9,
+    cNum: 14,
+    colName: '폐업 날짜',
+    val: 2023-08-31T00:00:00.000Z,
+    company: '유비플러스'
+  },
+  { rNum: 9, cNum: 15, colName: '비고', val: '폐업자', company: '유비플러스' },
+  {
+    rNum: 12,
+    cNum: 13,
+    colName: '컨택결과',
+    val: '확인완료',
+    company: '에스와이이노테크'
+  },
+  { rNum: 13, cNum: 14, colName: '폐업 날짜', val: '', company: '아트핸즈' },
+  {
+    rNum: 16,
+    cNum: 13,
+    colName: '컨택결과',
+    val: '확인완료',
+    company: '아빠 말 잘 들어'
+  },
+  { rNum: 17, cNum: 13, colName: '컨택결과', val: '확인완료', company: '픽스' },
+  {
+    rNum: 20,
+    cNum: 13,
+    colName: '컨택결과',
+    val: '확인완료',
+    company: '(주)핸디커뮤니케이션즈'
+  },
+  { rNum: 35, cNum: 13, colName: '컨택결과', val: '확인완료', company: '마나타임' },
+  {
+    rNum: 41,
+    cNum: 13,
+    colName: '컨택결과',
+    val: '게임사업단 요청으로 제외',
+    company: '씽크'
+  },
+  {
+    rNum: 42,
+    cNum: 14,
+    colName: '폐업 날짜',
+    val: 2026-07-31T00:00:00.000Z,
+    company: '메이든'
+  }
+]
+
+Color: {"theme":8,"tint":0.7999816888943144} (Total occurrences: 298)
+Sample rows: [
+  {
+    rNum: 126,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '627-40-00252',
+    company: '블루호텔레코딩스튜디오'
+  },
+  {
+    rNum: 508,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '535-20-00519',
+    company: 'LINC'
+  },
+  {
+    rNum: 568,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '709-86-03340',
+    company: '주식회사 아이엠지로드'
+  },
+  {
+    rNum: 589,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '602-33-02670',
+    company: '도서출판국제'
+  },
+  {
+    rNum: 598,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '139-80-09994',
+    company: '도성회'
+  },
+  {
+    rNum: 607,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '603-82-01274',
+    company: '동아대학교출판부'
+  },
+  {
+    rNum: 619,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '287-32-01117',
+    company: '드림유엔터테인먼트'
+  },
+  {
+    rNum: 639,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '603-10-85753',
+    company: '디자인에코'
+  },
+  {
+    rNum: 649,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '266-13-01860',
+    company: '라온엔터테인먼트'
+  },
+  {
+    rNum: 701,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '605-01-99891',
+    company: '문화일보 수정중앙지국'
+  }
+]
+
+Color: {"theme":0} (Total occurrences: 3)
+Sample rows: [
+  {
+    rNum: 690,
+    cNum: 8,
+    colName: '연락처',
+    val: '051-990-0390',
+    company: '오로라월드(주) 스타필드시티 명지점'
+  },
+  {
+    rNum: 1056,
+    cNum: 3,
+    colName: '사업체명',
+    val: '이매진스튜디오',
+    company: '이매진스튜디오'
+  },
+  {
+    rNum: 1749,
+    cNum: 8,
+    colName: '연락처',
+    val: '051-205-8999',
+    company: '북컬쳐(국제신도시서점)'
+  }
+]
+
+Color: {"argb":"FFF5F6F8"} (Total occurrences: 2)
+Sample rows: [
+  { rNum: 862, cNum: 5, colName: '설립연도(연도)', val: 2015, company: '씨닉' },
+  {
+    rNum: 863,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '대표자명',
+    company: '씨오에스피'
+  }
+]
+
+Color: {"argb":"FFFFFF00"} (Total occurrences: 9)
+Sample rows: [
+  {
+    rNum: 1285,
+    cNum: 3,
+    colName: '사업체명',
+    val: '한국산업정보사',
+    company: '한국산업정보사'
+  },
+  {
+    rNum: 1971,
+    cNum: 11,
+    colName: '주소',
+    val: '동구 범일동 자성공원로   ',
+    company: '(주)경향뉴스원'
+  },
+  { rNum: 2048, cNum: 3, colName: '사업체명', val: '정광사', company: '정광사' },
+  {
+    rNum: 2283,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '남득현',
+    company: '아크리아스튜디오'
+  },
+  {
+    rNum: 2291,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '229-81-00046',
+    company: '넥슨네트웍스'
+  },
+  {
+    rNum: 2291,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '박웅석',
+    company: '넥슨네트웍스'
+  },
+  {
+    rNum: 2292,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '이경준',
+    company: '넥슨커뮤니케이션즈'
+  },
+  {
+    rNum: 2295,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '105-82-17272',
+    company: '소울스틸스튜디오'
+  },
+  {
+    rNum: 2296,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '544-86-02555',
+    company: '스튜디오 이너스'
+  }
+]
+
+Color: {"argb":"FFDDEBF7"} (Total occurrences: 2)
+Sample rows: [
+  {
+    rNum: 1769,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '295-81-02546',
+    company: '주식회사 뷰엠'
+  },
+  {
+    rNum: 1800,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '714-11-01026',
+    company: '케이텍'
+  }
+]
+
+Color: {"theme":8,"tint":0.7998901333658864} (Total occurrences: 5)
+Sample rows: [
+  {
+    rNum: 1798,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '607-92-00714',
+    company: '한얼꿈출판사'
+  },
+  {
+    rNum: 1845,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '617-81-95003',
+    company: '블루케이'
+  },
+  {
+    rNum: 1874,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '111-87-00112',
+    company: '주식회사 진엔터테인먼트'
+  },
+  {
+    rNum: 1913,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '221-81-50940',
+    company: '비에스피솔루션'
+  },
+  {
+    rNum: 1923,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '255-47-00774',
+    company: '폭스인베스트'
+  }
+]
+
+Color: {"argb":"FFFFFFFF"} (Total occurrences: 3)
+Sample rows: [
+  {
+    rNum: 2081,
+    cNum: 11,
+    colName: '주소',
+    val: '부산광역시 사상구 모라로 22, 1413호',
+    company: '중앙정보기술'
+  },
+  {
+    rNum: 2282,
+    cNum: 11,
+    colName: '주소',
+    val: '부산광역시 해운대구 센텀중앙로 48, 13층 1304호 씨에프-에프46(우동, 에이스하이테크21)',
+    company: '주식회사 무기고'
+  },
+  {
+    rNum: 2283,
+    cNum: 11,
+    colName: '주소',
+    val: '부산광역시 해운대구 센텀중앙로 97, 비동 6층 604호 46실(재송동, 센텀스카이비즈)',
+    company: '아크리아스튜디오'
+  }
+]
+
+Color: {"theme":9,"tint":0.3999755851924192} (Total occurrences: 120)
+Sample rows: [
+  {
+    rNum: 2273,
+    cNum: 3,
+    colName: '사업체명',
+    val: '겜스터즈',
+    company: '겜스터즈'
+  },
+  {
+    rNum: 2273,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '316-81-30602',
+    company: '겜스터즈'
+  },
+  {
+    rNum: 2273,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '손민기',
+    company: '겜스터즈'
+  },
+  { rNum: 2274, cNum: 3, colName: '사업체명', val: '블루솜', company: '블루솜' },
+  {
+    rNum: 2274,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '617-81-57256',
+    company: '블루솜'
+  },
+  {
+    rNum: 2274,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '송호진',
+    company: '블루솜'
+  },
+  {
+    rNum: 2275,
+    cNum: 3,
+    colName: '사업체명',
+    val: '프로비스 게임즈',
+    company: '프로비스 게임즈'
+  },
+  {
+    rNum: 2275,
+    cNum: 4,
+    colName: '사업자번호',
+    val: '352-81-02780',
+    company: '프로비스 게임즈'
+  },
+  {
+    rNum: 2275,
+    cNum: 7,
+    colName: '대표자 성함',
+    val: '이기산',
+    company: '프로비스 게임즈'
+  },
+  {
+    rNum: 2276,
+    cNum: 3,
+    colName: '사업체명',
+    val: '에스피코리아',
+    company: '에스피코리아'
+  }
+]
+

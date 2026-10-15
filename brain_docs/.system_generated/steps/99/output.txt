@@ -1,0 +1,7 @@
+Title: Live Content
+
+OG Description: Fetched live
+
+The full content of the article at https://m.saramin.co.kr/job-search/company-info-view?csn=VlNsOFJQaHJ4N0F0M2ZKNjBObHFNdz09 has been saved to: C:\Users\lg\.gemini\antigravity\brain\6d0bcf14-1455-4bc3-b576-f71fd85e4d9c\.system_generated\steps\99\content.md
+
+You can use the view_file tool to read specific sections if needed.

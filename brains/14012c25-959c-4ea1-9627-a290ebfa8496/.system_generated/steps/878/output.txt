@@ -1,0 +1,23 @@
+### Result
+[
+  {
+    "text": "Skip to content",
+    "href": "https://opaque-cell-384.notion.site/SUNNY-SIDE-UP-7ce0449eef104c28a70af3b95260a195#main"
+  },
+  {
+    "text": "Main",
+    "href": "https://opaque-cell-384.notion.site/2da385a5b0a64178b04c141b53125b5b?pvs=25"
+  },
+  {
+    "text": "Game",
+    "href": "https://opaque-cell-384.notion.site/Game-a769793d2e0649f3a67dec200ba1bca7?pvs=25"
+  },
+  {
+    "text": "News",
+    "href": "https://opaque-cell-384.notion.site/News-d59d50b202d94a2395bb8b78b60ffbaa?pvs=25"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.map(a => ({ text: a.innerText, href: a.href }));\n}');
+```

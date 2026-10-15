@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                               
+--------                                                                                                               
+C:\Users\lg\AppData\Roaming\Antigravity\logs\main.log                                                                  
+C:\Users\lg\AppData\Roaming\Antigravity\logs\language_server.log                                                       
+C:\Users\lg\AppData\Roaming\Antigravity\Session Storage\000004.log                                                     
+C:\Users\lg\AppData\Roaming\Antigravity\Local Storage\leveldb\000004.log                                               
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\main.log                                                  
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\exthost.log                               
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\renderer.log                                      
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\network.log                                       
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\google.antigravity\Antigravity.log        
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\output_logging_20260520T094553\1-Remote...
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\vscode.git\Git.log                        
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\terminal.log                                              
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\ptyhost.log                                               
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\vscode.github\GitHub.log                  
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\vscode.typescript-language-features\Typ...
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\ls-main.log                                               
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\mongodb.mongodb-vscode\MongoDB Extensio...
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\mongodb.mongodb-vscode\MongoDB Language...
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\window1\exthost\output_logging_20260520T094535\4-Playgr...
+C:\Users\lg\AppData\Roaming\Antigravity\logs\20260520T094437\sharedprocess.log                                         
+
+
+

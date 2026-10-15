@@ -1,0 +1,22 @@
+The search for ""부산이야" "조진성" OR "부산이야" "영상" OR "부산이야" "제작"" returned the following summary:
+검색하신 키워드와 관련하여 확인되는 주요 정보는 다음과 같습니다.
+
+**1. "여기 부산이야" (유튜브 채널 및 블로그)**
+*   **채널 성격:** 부산 및 경남 지역의 축제, 공연, 여행지, 바다 풍경, 야경 명소 등을 직접 방문하여 촬영하고 소개하는 현장 체험형 콘텐츠 채널입니다[1].
+*   **주요 콘텐츠:** 트로트 가수들의 축하 공연 현장 영상, 부산의 바다 풍경 및 일출 영상, 여행지 브이로그 등을 다룹니다[2][3][1].
+*   **활동:** 유튜브 채널 '여기 부산이야'를 운영하며 생생한 현장 분위기를 담은 영상(Shorts 포함)을 꾸준히 제작 및 업로드하고 있습니다[3][4].
+
+**2. 기타 관련 정보**
+*   **"조진성":** 검색 결과 내에서 '부산이야'와 직접적으로 연관된 인물 정보는 확인되지 않습니다.
+*   **"영상/제작":** '부산이야'라는 표현은 위에서 언급한 채널명 외에도, 부산을 배경으로 한 영상 제작(영화 <부산행> 사례 등)이나 다양한 매체에서 부산을 소개하는 문구로 폭넓게 사용되고 있습니다[5][6][7].
+
+더 구체적인 특정 인물(조진성 님 등)이나 특정 영상에 대한 정보가 필요하시다면, 관련 분야나 상황을 조금 더 자세히 알려주시기 바랍니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7wVCrGl3lZ2_VtGK7vttpC5dnrX9N4CABi6WkKAFqyF5YrkCpGG_ux5qP9NEdqCINLsxq2iNTzAxhNH84bb0NeFO_7_eVUDw9eZqh0QcZVgloClQ)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET0EYb1doXQAnSskfKlnSfYRZpegyzmyoy8H3HpzZL807NWa9FD-8Rf8U6bBg_Pb1WpAsmA3IdyoecNUPPhzsoI6NO7brJ7fAyj1mwjEJ_U_0EBOVGIjnrq6iL2xBhxDI=)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrw9-dLIkZHsML05bNz89UjmjYFENvQUEsaO5v5Mk7XShSQORdd59phnMnQqxIqH_rwvAMyLuIKmKlVcHr7WLhXH7_hBcUT524v_zT9MFoiWbsyR1-J-5AyF48dkNMHUKY1hRvTrhCJW3P8Uh60iJ5QyDqxTeuKjWcqKugYgckr_j_LTvRaHAgN9ar)
+[4] [vling.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaYOxxM23XIYJB4QS0GTFfAoI8Q05AClEHz7DG795vcBL68965EBZcA2Yu4QZpl7mvglZ2pLEVoXL5CEYtkhAhepsb281l2ehBU3bkIiCxGfY7UXtcSSxf1rNlkVwHVOQOkUTrV25KxeuYX4lXbLgo6WIxEw==)
+[5] [cine21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQe2QnCIkuGBnMSg3OFd5rgEt9dJwdXpBlekPZyNXcKjNir7qSmUb5DnRhj9eLZwriYo547QEuBruwDgCH7iOG-lbq_H9Q3vBWKwv0KPh7CEQpAHILKSegQvIfew85JuI=)
+[6] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW3C2ugl_KM2YiJC1DVjCldbvGGBOQBXNZIuyWxtasQ0qT5yb6fM3np2aT2WjNXmlJJrgQmlpKCxIci7PTgVibyYMgxWygveMwVUXRmwX4NWqISAuZcSSU8DqatuSlQY4=)
+[7] [the-edit.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7HvJ7ab-iQW1VPM_mBnZOn3VLfS_Y7IIlotEVboiaf7G2P9c29Ca6LitSkAxGxrG1w-8U1qkSlTHmthO6ZRnygn2CxDhfUF0A4M5Xb-QqHkk=)

@@ -1,0 +1,10 @@
+The search for ""9788996637330" OR "978-89-966373" site:seoji.nl.go.kr" returned the following summary:
+검색하신 ISBN **9788996637330** 또는 **978-89-966373**에 대한 정보가 국립중앙도서관 서지정보시스템(seoji.nl.go.kr) 검색 결과에서 확인되지 않습니다.[1][2]
+
+해당 번호가 올바른 ISBN인지 다시 한번 확인해 보시거나, 국립중앙도서관의 [ISBN·ISSN·납본시스템](https://www.nl.go.kr/seoji/)에서 제공하는 '도서정보조회' 기능을 통해 정확한 도서 정보를 검색해 보시기 바랍니다.[3][4]
+
+Sources:
+[1] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx-dAawbqb5Bp-xfLIxnDKx_WsgSU2DtV84NqJj9ZX-ggJDLDVd40i18Mx5Rw1EGjzFT3H3S5VluPBhYkVSb7dZfDCqZ1K0a0h4703PdxlGFM=)
+[2] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMskZN0sKm-XXQpSy4BlP_lsC7NU9Z1mOpc222i_F1fHUHKYRmOLWrujMOkF4ibJf_ZKLMjejXoSnLkXdC0706TXpjCd9IEYmECM=)
+[3] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDccQETet58XvxRj4PWn6Zpq-UiVfyZxR_n_-tEfFypYxl_z1zGEbkFSpF39WBSOXqz6ycAfjVH6C3112UZ2F6JMxlZdqh7hA28D8A2rxrZvgRi-sDGLBP3TSwBbOi9UhGlRMX_Q==)
+[4] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFdFhpq-CrH7TB50FcEQdTqQSooAXWtkbHkZaLMig0Delf6DAfIQLa1pgPWTmyPRK9BzYsIPl7BrCQNaTHKi7a1_nOAR_-1Rv9kz0DDVWM__PJUv6zl1SJmkCs5SqjaEpIt8gqs5DgNNI=)

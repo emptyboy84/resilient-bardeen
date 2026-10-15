@@ -1,0 +1,14 @@
+The search for "site:thinkzon.com "금강기업" "거제" OR "선박"" returned the following summary:
+지정하신 사이트(thinkzon.com) 내에서 '금강기업'과 '거제' 또는 '선박'을 포함한 검색 결과는 다음과 같습니다.
+
+*   **관련 검색 결과**: 씽크존 내 기업요약신용분석 보고서 목록에서 (주)금강기업 및 선박 관련 기업들의 이름이 확인됩니다[1][2].
+    *   (주)금강기업 (대표자: 정은영)[2]
+    *   (주)금강기업 (대표자: 이광일)[1]
+    *   (주)중앙선박기술 (대표자: 이건구/이광일)[1]
+    *   (주)영진선박급유 (대표자: 조용현)[2]
+
+구체적으로 '거제' 지역과 직접적으로 결합된 '금강기업'의 보고서는 검색 결과상에서 명시적으로 확인되지 않으나, 위와 같은 기업들의 신용분석 보고서 파일이 해당 사이트에 등록되어 있는 것으로 파악됩니다[1][2]. 상세 내용은 씽크존 웹사이트에서 직접 확인하시기 바랍니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3SO_Ak4DAq3Wfl6Yw18ROFCYxQyifP64aYRHDjkPClSt5pJwPNYx6yoQVNhfDmel3hM1EwcYaEgVikpWXTqalOJhMGgeD5dH5M-_rDFdqO8R5OmM-0Z9IcWziDuGEdEYDbxKnxw==)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm1IH1HFXrPRHbbLHOPbFkiC08hQnIHUEG7Mw2BhmsDd8oA5luNPAHeApdNPnCUuKtVD4aDEZHFOIt-mAEZE6v6aNo8D7kSDWW-ybaQDWAqX30UR3g-3HliCKehvY3tH2_2ZCFkw==)

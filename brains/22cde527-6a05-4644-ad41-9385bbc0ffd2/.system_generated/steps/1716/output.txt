@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Total rows with red cells: 150
+First 10 red rows: [
+  { r: 639, rowRed: 1 },
+  { r: 701, rowRed: 1 },
+  { r: 703, rowRed: 1 },
+  { r: 750, rowRed: 1 },
+  { r: 848, rowRed: 1 },
+  { r: 1061, rowRed: 1 },
+  { r: 1342, rowRed: 1 },
+  { r: 1367, rowRed: 1 },
+  { r: 1522, rowRed: 1 },
+  { r: 1565, rowRed: 1 }
+]
+

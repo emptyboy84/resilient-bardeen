@@ -1,0 +1,75 @@
+
+The command exited with code 0.
+Output:
+<truncated 19 lines>
+d-----      2026-10-12   � 9:10                brace-expansion                                                      
+d-----      2026-10-12   � 9:10                buffer                                                               
+d-----      2026-10-12   � 9:10                buffer-crc32                                                         
+d-----      2026-10-12   � 9:10                buffer-indexof-polyfill                                              
+d-----      2026-10-12   � 9:10                buffers                                                              
+d-----      2026-10-12   � 9:10                chainsaw                                                             
+d-----      2026-10-12   � 9:10                compress-commons                                                     
+d-----      2026-10-12   � 9:10                concat-map                                                           
+d-----      2026-10-12   � 9:10                core-util-is                                                         
+d-----      2026-10-12   � 9:10                crc-32                                                               
+d-----      2026-10-12   � 9:10                crc32-stream                                                         
+d-----      2026-10-12   � 9:10                dayjs                                                                
+d-----      2026-10-12   � 9:10                duplexer2                                                            
+d-----      2026-10-12   � 9:10                end-of-stream                                                        
+d-----      2026-10-12   � 9:10                exceljs                                                              
+d-----      2026-10-12   � 9:10                fast-csv                                                             
+d-----      2026-10-12   � 9:10                fs-constants                                                         
+d-----      2026-10-12   � 9:10                fs.realpath                                                          
+d-----      2026-10-12   � 9:10                fstream                                                              
+d-----      2026-10-12   � 9:10                glob                                                                 
+d-----      2026-10-12   � 9:10                graceful-fs                                                          
+d-----      2026-10-12   � 9:10                ieee754                                                              
+d-----      2026-10-12   � 9:10                immediate                                                            
+d-----      2026-10-12   � 9:10                inflight                                                             
+d-----      2026-10-12   � 9:10                inherits                                                             
+d-----      2026-10-12   � 9:10                isarray                                                              
+d-----      2026-10-12   � 9:10                jszip                                                                
+d-----      2026-10-12   � 9:10                lazystream                                                           
+d-----      2026-10-12   � 9:10                lie                                                                  
+d-----      2026-10-12   � 9:10                listenercount                                                        
+d-----      2026-10-12   � 9:11                lodash.defaults                                                      
+d-----      2026-10-12   � 9:11                lodash.difference                                                    
+d-----      2026-10-12   � 9:11                lodash.escaperegexp                                                  
+d-----      2026-10-12   � 9:11                lodash.flatten                                                       
+d-----      2026-10-12   � 9:11                lodash.groupby                                                       
+d-----      2026-10-12   � 9:11                lodash.isboolean                                                     
+d-----      2026-10-12   � 9:11                lodash.isequal                                                       
+d-----      2026-10-12   � 9:11                lodash.isfunction                                                    
+d-----      2026-10-12   � 9:11                lodash.isnil                                                         
+d-----      2026-10-12   � 9:11                lodash.isplainobject                                                 
+d-----      2026-10-12   � 9:11                lodash.isundefined                                                   
+d-----      2026-10-12   � 9:11                lodash.union                                                         
+d-----      2026-10-12   � 9:11                lodash.uniq                                                          
+d-----      2026-10-12   � 9:11                minimatch                                                            
+d-----      2026-10-12   � 9:11                minimist                                                             
+d-----      2026-10-12   � 9:11                mkdirp                                                               
+d-----      2026-10-12   � 9:11                normalize-path                                                       
+d-----      2026-10-12   � 9:11                once                                                                 
+d-----      2026-10-12   � 9:11                pako                                                                 
+d-----      2026-10-12   � 9:11                path-is-absolute                                                     
+d-----      2026-10-12   � 9:11                process-nextick-args                                                 
+d-----      2026-10-12   � 9:11                readable-stream                                                      
+d-----      2026-10-12   � 9:11                readdir-glob                                                         
+d-----      2026-10-12   � 9:11                rimraf                                                               
+d-----      2026-10-12   � 9:11                safe-buffer                                                          
+d-----      2026-10-12   � 9:11                saxes                                                                
+d-----      2026-10-12   � 9:11                setimmediate                                                         
+d-----      2026-10-12   � 9:11                string_decoder                                                       
+d-----      2026-10-12   � 9:11                tar-stream                                                           
+d-----      2026-10-12   � 9:11                tmp                                                                  
+d-----      2026-10-12   � 9:11                traverse                                                             
+d-----      2026-10-12   � 9:11                unzipper                                                             
+d-----      2026-10-12   � 9:11                util-deprecate                                                       
+d-----      2026-10-12   � 9:11                uuid                                                                 
+d-----      2026-10-12   � 9:11                wrappy                                                               
+d-----      2026-10-12   � 9:11                xmlchars                                                             
+d-----      2026-10-12   � 9:11                zip-stream                                                           
+-a----      2026-10-12   � 9:10          41011 .package-lock.json                                                   
+
+
+

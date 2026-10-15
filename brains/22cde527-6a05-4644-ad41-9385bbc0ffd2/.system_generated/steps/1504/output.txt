@@ -1,0 +1,132 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "rowNumber": 547,
+    "seq": 547,
+    "gubun": "25년 모집단",
+    "name": "냉이영화",
+    "year": "2003",
+    "month": "",
+    "ceo": "",
+    "phone": "010-6893-4870",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 725,
+    "seq": 725,
+    "gubun": "25년 모집단",
+    "name": "박기양",
+    "year": "",
+    "month": "",
+    "ceo": "최보필",
+    "phone": "010-3592-4654",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 757,
+    "seq": 757,
+    "gubun": "25년 모집단",
+    "name": "브이알코리아",
+    "year": "2012",
+    "month": "10",
+    "ceo": "",
+    "phone": "",
+    "fax": "",
+    "gu": "해운대구",
+    "address": "부산 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 817,
+    "seq": 817,
+    "gubun": "25년 모집단",
+    "name": "소울필름(SOULFILM)",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "",
+    "fax": "",
+    "gu": "해운대구",
+    "address": "부산 해운대구 우동 1398번지 해운대엑소디움 상가 206호",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 1162,
+    "seq": 1162,
+    "gubun": "25년 모집단",
+    "name": "촬영감독최원욱",
+    "year": "",
+    "month": "",
+    "ceo": "최원욱",
+    "phone": "",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 1418,
+    "seq": 1418,
+    "gubun": "25년 모집단",
+    "name": "쏘울픽처스",
+    "year": "2013",
+    "month": "",
+    "ceo": "최웅식",
+    "phone": "010-4859-7474",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 1483,
+    "seq": 1483,
+    "gubun": "25년 모집단",
+    "name": "케세라세라",
+    "year": "2019",
+    "month": "",
+    "ceo": "강민지",
+    "phone": "010-9506-0588",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 2120,
+    "seq": 2120,
+    "gubun": "25년 모집단",
+    "name": "인생극장",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "051-245-5441",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 2122,
+    "seq": 2122,
+    "gubun": "25년 모집단",
+    "name": "플랫폼",
+    "year": "",
+    "month": "",
+    "ceo": "김민수",
+    "phone": "051-624-5585",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  }
+]
+

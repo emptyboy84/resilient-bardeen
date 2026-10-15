@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+4280 : 에프에스케이 | NICE: 상품 종합 도매업 | 대: undefined | 중: undefined | 소: undefined
+7005 : (주)동명인터내셔널 | NICE: 상품 종합 도매업 | 대: undefined | 중: undefined | 소: undefined
+12200 : 노블로컴퍼니 | NICE: 상품 종합 도매업 | 대: 도매 및 소매업 | 중: 소매업; 자동차 제외 | 소: 무점포 소매업
+18294 : ㈜원희무역 | NICE: 상품 종합 도매업 | 대: undefined | 중: undefined | 소: undefined
+

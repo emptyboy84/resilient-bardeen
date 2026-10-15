@@ -1,0 +1,28 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_company_phone_numbers\search_phone_naver.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,15 +1,14 @@
+ const https = require('https');
+ 
+-async function searchNaver(q) {
+-  const url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent(q);
+-  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } });
++async function search() {
++  const url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent('주식회사 유솔라');
++  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+   const text = (await res.text()).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+-  console.log('Query:', q, 'Len:', text.length);
+   let idx = 0;
+-  while ((idx = text.indexOf('051-923-0405', idx)) !== -1) {
+-    console.log('Snippet:', text.slice(Math.max(0, idx - 150), idx + 250));
+-    idx += 20;
++  while ((idx = text.indexOf('유솔라', idx)) !== -1) {
++    console.log('Snippet:', text.slice(Math.max(0, idx - 60), idx + 150));
++    idx += 50;
+   }
+ }
+-searchNaver('051-923-0405');
++search();
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

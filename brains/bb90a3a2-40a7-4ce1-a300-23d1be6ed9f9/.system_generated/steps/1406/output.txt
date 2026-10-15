@@ -1,0 +1,9 @@
+The search for ""180111-1225861" OR "1801111225861"" returned the following summary:
+입력하신 **"180111-1225861"** 또는 **"1801111225861"**은 대한민국 **법인등록번호** 형식입니다[1].
+
+* 앞의 `18`은 등기소 코드(부산지방법원 등기과 관할 지역)를 의미하며, 뒤의 숫자들이 조합된 형태이나, 공공 포털이나 일반 웹상에서 특정 기업의 고유 번호로 직접 매칭되어 공개적으로 널리 알려진 대표 기업의 번호는 아닙니다.
+
+혹시 특정 기업, 법인, 혹은 서류(재무제표, 등기부등본 등)와 관련된 데이터를 찾고 계신다면 검색하시려는 목적이나 기관명을 함께 남겨주시면 더욱 정확한 정보를 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [nongshimholdings.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpjebszv6Krrukd0a8Y8NJ9P8cFm-dZsc74fg7PRvZNJMdh0WaYeBdYSVi7nT3kENv2_JonVv4nIODIo39tE3ZNQPh4xQQU2tKVC4r7nexFIAp0LbEQQe467FhnG-OQ7EMeeLIN7P5hFKYY3KJrsIVP9wYsOKVZXcRpvx7yY6R8OVD2c5o-SINAmmwjrlIKGGwt3-nnSClS-lFnkc9t27hlXAc-B1jIKNcllRdj2qWKTaR8sQkPQLdCplMdt1kqFutAvxpz0p1Pq8HF2wPkew2wyjStFPmIChRARtjvpTj)

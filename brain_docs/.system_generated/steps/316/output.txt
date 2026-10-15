@@ -1,0 +1,10 @@
+The search for ""051-918-3001"" returned the following summary:
+입력하신 번호(**051-918-3001**)는 부산광역시 해운대구에 위치한 **'주식회사 오션스타'**의 전화번호로 등록되어 있습니다[1].
+
+* **회사명:** 주식회사 오션스타[1]
+* **주소:** 부산광역시 해운대구 해운대해변로 291, 204호 (중동, 크리스탈비치오피스텔)[1]
+* **업종:** 교육 서비스업 등[2]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED6i2sUUQAP_Kz_7wqrW4gDS2Zq3qp0fjjWCxBrIPHvhTZaOF3cklz0AylEK4FWCYWogrnZnwGh6CIbC-EA0tj23DHWsVYsIH9lmj2zn9QBnh4ovimyNbO9TE=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfMvODbqr-6GujO0WPPp80UPIN6OT-nuyWZ8kyOUzHtmO5dbNrkHmIXcW8JmuKEwH3B7jAeqPx8SP4zEfkvv_iu-4Ff-yxJXua5XbfknLHByRKFpF_JQvT9KY=)

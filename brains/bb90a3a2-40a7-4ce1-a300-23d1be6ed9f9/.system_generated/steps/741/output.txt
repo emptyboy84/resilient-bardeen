@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Film/Video/Broadcast missing companies count: 480
+[
+  { seq: 46, name: '(주)위너스매니지먼트', biz: '343-88-02150' },
+  { seq: 47, name: '(주)스튜디오정글', biz: '819-86-02478' },
+  { seq: 65, name: '오엠엔터프라이즈', biz: '850-32-00823' },
+  { seq: 148, name: '(주)제리굿컴퍼니', biz: '269-86-02940' },
+  { seq: 150, name: '(주)지알비', biz: '771-81-00829' }
+]
+

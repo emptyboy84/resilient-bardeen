@@ -1,0 +1,40 @@
+
+The command exited with code 0.
+Output:
+71 				          <li class="menu-active"><a href="/">Home</a></li>
+72 				          <li><a href="/사업자등록번호조회/">사업자등록번호조회</a></li>
+73 				          <li><a href="/법인등록번호조회/">법인등록번호조회</a></li>
+74 				          <li><a href="/상호명으로사업자등록번호조회/">상호명으로 사업자등록번호조회</a></li>
+75 						  <li><a href="/전화번호조회/">전화번호로 조회</a></li>
+76 						  <li><a href="/대표자조회/">대표자이름으로 조회</a></li>
+77 						  <li><a href="/openapi">API</a></li>
+78 						  <li><a href="/voc">고객문의</a></li>
+79  	          
+294 										</tr>
+295 										<tr >				 
+296 											<th>법인등록번호</th>
+297 											<td>
+298 												
+299 											</td>
+300 										</tr>
+301  
+302 										 
+524 								<ul class="footer-nav">
+525 									<li><a href="/사업자등록번호조회">사업자등록번호조회</a></li>
+526 									<li><a href="/법인등록번호조회">법인등록번호조회</a></li>
+527 									<li><a href="/상호명으로사업자등록번호조회">상호명으로 사업자등록번호조회</a></li>
+528 									<li><a href="/전화번호조회">전화번호조회</a></li>
+529 									<li><a href="/대표자조회">대표자이름으로 조회</a></li>
+530 									<li><a href="/voc">정정문의</a></li>
+531 							 
+532 								</ul>
+543 										<div class="form-group row" style="width: 100%">
+544 											<div class="col-lg-8 col-md-12">
+545 												<input name="q" id="q" placeholder="상호명,사업자등록번호,법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >
+546 												 
+547 											</div> 
+548 										
+549 											<div class="col-lg-4 col-md-12">
+550 												<button onclick="search()" class="nw-btn primary-btn">검색<span class="lnr lnr-arrow-right"></span></button>						
+551 									
+

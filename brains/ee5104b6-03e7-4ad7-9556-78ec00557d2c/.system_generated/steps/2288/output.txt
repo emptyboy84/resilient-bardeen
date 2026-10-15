@@ -1,0 +1,7 @@
+Task: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-2286
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ee5104b6-03e7-4ad7-9556-78ec00557d2c\.system_generated\tasks\task-2286.log
+Log output:
+Searching in: c:/Users/lg/resilient-bardeen/data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+
+Last progress: 2s ago

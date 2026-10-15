@@ -1,0 +1,103 @@
+--- FINAL EXCEL VERIFICATION ---
+Row 11847: {
+  company: '주식회사 룩스텍',
+  bizno: '5131909625',
+  hyperlink: 'https://bizno.net/article/5131909625',
+  zip: 39263,
+  addr: '경상북도 구미시 산호대로 363',
+  tel: null,
+  emp: 2,
+  nice: '일반용 전기 조명장치 제조업',
+  corpNo: null,
+  catLarge: '제조업',
+  catMid: '전기장비 제조업',
+  catSmall: '전구 및 조명장치 제조업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}
+Row 12046: {
+  company: '밤산책가',
+  bizno: '5317500502',
+  hyperlink: 'https://bizno.net/article/5317500502',
+  zip: '61475',
+  addr: '광주광역시 동구 금남로 245 (1가, 전일빌',
+  tel: null,
+  emp: 1,
+  nice: '전시, 컨벤션 및 행사 대행업',
+  corpNo: null,
+  catLarge: '도매 및 소매업',
+  catMid: '소매업; 자동차 제외',
+  catSmall: '문화, 오락 및 여가 용품 소매업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}
+Row 12146: {
+  company: '크로스컨설팅',
+  bizno: '5410100454',
+  hyperlink: 'https://bizno.net/article/5410100454',
+  zip: '21653',
+  addr: '인천광역시 남동구 청능대로 559, 4층 43',
+  tel: null,
+  emp: 1,
+  nice: '전자상거래 소매 중개업',
+  corpNo: null,
+  catLarge: '도매 및 소매업',
+  catMid: '소매업; 자동차 제외',
+  catSmall: '무점포 소매업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}
+Row 12200: {
+  company: '노블로컴퍼니',
+  bizno: '5462201341',
+  hyperlink: 'https://bizno.net/article/5462201341',
+  zip: '48059',
+  addr: '부산광역시 해운대구 센텀동로 99 (재송동) ',
+  tel: null,
+  emp: 2,
+  nice: '상품 종합 도매업',
+  corpNo: null,
+  catLarge: '도매 및 소매업',
+  catMid: '소매업; 자동차 제외',
+  catSmall: '무점포 소매업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}
+Row 12300: {
+  company: '정안에너텍',
+  bizno: '5573100704',
+  hyperlink: 'https://bizno.net/article/5573100704',
+  zip: '51711',
+  addr: '경상남도 창원시 성산구 두산볼보로 22',
+  tel: '055-278-8762',
+  emp: 1,
+  nice: '그 외 기타 달리 분류되지 않은 제품 제조업',
+  corpNo: null,
+  catLarge: '제조업',
+  catMid: '기타 기계 및 장비 제조업',
+  catSmall: '특수 목적용 기계 제조업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}
+Row 12346: {
+  company: '금정산업기계',
+  bizno: '5621001447',
+  hyperlink: 'https://bizno.net/article/5621001447',
+  zip: '50803',
+  addr: '경상남도 김해시 상동면 동북로1007번길 8-',
+  tel: '055-327-5678',
+  emp: 7,
+  nice: '그 외 기타 일반목적용 기계 제조업',
+  corpNo: null,
+  catLarge: '제조업',
+  catMid: '기타 기계 및 장비 제조업',
+  catSmall: '일반 목적용 기계 제조업',
+  fill6: 'FFFFA500',
+  fill15: 'FFFFA500',
+  fill48: 'FFFFA500'
+}

@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
++ add_genealogy_publisher_data
+* add_kyobo_popup_store
++ add_playground_business_data
++ add_queserasera_data
++ add_soul_pictures_data
++ fill_missing_business_numbers
++ find_buddhist_tv_number
++ find_industry_code_6040126041
++ genoray_busan_business_number
++ import_company_database_list
++ issue_0507_tracker
++ jonathan_eunseok_task
++ master
++ miu_design_registration_update
++ parse_busan_company_data
++ ticket_0507_1447_1309
++ validate_corp_reg_number
++ validate_db_final_check
+

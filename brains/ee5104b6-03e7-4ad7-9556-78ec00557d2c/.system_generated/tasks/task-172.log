@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-08-31T12:25:13+09:00
+Prompt: Check task-156 finish
+Early Termination: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-156
+
+[2026-08-31T12:25:04+09:00] Timer cancelled: early-termination condition (ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-156) met by a message from ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-156.

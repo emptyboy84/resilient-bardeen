@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Unhyphenated phone numbers: 2
+[
+  { rowNum: 2283, name: '아크리아스튜디오', phone: '01020540473' },
+  { rowNum: 2289, name: '좀비메이트', phone: '01024225307' }
+]
+

@@ -1,0 +1,90 @@
+### Result
+{
+  "heading": "\"에프지\" 키워드로 16 개의 결과를 찾았습니다",
+  "items": [
+    {
+      "text": "주식회사 에프지케이\n김익*\n피자등",
+      "href": null
+    },
+    {
+      "text": "주식회사 에프지케이",
+      "href": "/article/6728601619"
+    },
+    {
+      "text": "주식회사 에프지케이",
+      "href": null
+    },
+    {
+      "text": "주식회사 에프비에프이엔지\n선정*\n기타 엔지니어링 서비스업",
+      "href": null
+    },
+    {
+      "text": "주식회사 에프비에프이엔지",
+      "href": "/article/2178150806"
+    },
+    {
+      "text": "주식회사 에프비에프이엔지",
+      "href": null
+    },
+    {
+      "text": "에프지에프(FGF) 프리미엄 아울렛\n기타 의복 소매업",
+      "href": null
+    },
+    {
+      "text": "에프지에프(FGF) 프리미엄 아울렛",
+      "href": "/article/6102344255"
+    },
+    {
+      "text": "에프지에프(FGF) 프리미엄 아울렛",
+      "href": null
+    },
+    {
+      "text": "에프지오션",
+      "href": null
+    },
+    {
+      "text": "에프지오션",
+      "href": "/article/2138703958"
+    },
+    {
+      "text": "에프지오션",
+      "href": null
+    },
+    {
+      "text": "주식회사 에프쓰리로지스틱스\n허성*\n통관 대리 및 관련서비스업 / 화물 운송 중개 대리",
+      "href": null
+    },
+    {
+      "text": "주식회사 에프쓰리로지스틱스",
+      "href": "/article/2458101557"
+    },
+    {
+      "text": "주식회사 에프쓰리로지스틱스",
+      "href": null
+    },
+    {
+      "text": "（주）에프엔지\n최한*\n증류기, 열교환기 및 가스발생기 제조업",
+      "href": null
+    },
+    {
+      "text": "（주）에프엔지",
+      "href": "/article/6068618563"
+    },
+    {
+      "text": "（주）에프엔지",
+      "href": null
+    },
+    {
+      "text": "（주）에프아이지로직스\n화물운송 중개, 대리 및 관련 서비스업",
+      "href": null
+    },
+    {
+      "text": "（주）에프아이지로직스",
+      "href": "/article/6028160818"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const heading = document.querySelector(\'h3\');\n    const items = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return { heading: heading ? heading.innerText : \'\', items: items.slice(0, 20) };\n}');
+```

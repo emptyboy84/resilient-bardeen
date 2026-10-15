@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+LGDeviceCtrlLib.DisplayControl
+LGDeviceCtrlLib.LGDeviceController
+  Int32 Get_TouchPadMode()
+  Int32 Set_TouchPadMode(Int32)
+  Int32 Get_TouchScreenMode()
+LGDeviceCtrlLib.DisplayControl+IGFX_Setting
+LGDeviceCtrlLib.LGDeviceController+ChassisTypes
+

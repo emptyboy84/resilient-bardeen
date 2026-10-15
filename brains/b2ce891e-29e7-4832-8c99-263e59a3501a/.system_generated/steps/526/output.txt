@@ -1,0 +1,14 @@
+The search for "site:saramin.co.kr "조준형" "보고" (전화번호 OR 대표번호 OR 연락처 OR 팩스)" returned the following summary:
+사람인(saramin.co.kr) 사이트 내 정보 중 **(주)보고**의 대표자가 **조준형**으로 등록된 기업 정보가 확인됩니다[1]. 
+
+해당 기업의 기본 정보 및 연락처 관련 내용은 다음과 같습니다:
+
+* **기업명:** (주)보고[1]
+* **대표자명:** 조준형[1]
+* **사업내용:** 부동산임대서비스[1]
+* **주소:** 부산 연제구 아시아드대로 22[1]
+
+*(※ 사람인의 기업 프로필 및 공공 데이터 기반 정보 상, (주)보고의 상세 전화번호나 팩스 번호 등 세부 연락처는 회원 등급이나 기업 공개 범위에 따라 제한적으로 제공될 수 있으므로, 정확한 유선 연락처 확인은 사람인 사이트 내 해당 기업 상세 페이지 또는 공식 채널을 통해 조회하시기 바랍니다.)*
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg5UEcAfKBDxL2qw6JA8OXK8f2sx1lDCFZf_CrnghBZ876C7-D_g_VC0jzqUfLfmNMFzRc3V-9O2VnOGhzXLkeWy5f9NnzmoWwE5j3OU-QWm2SRz9qQ9VxRN8gfVvzudF-AGrBuqy8S0yBUSXCvlj4zca-4vy5VvwYP9PAeQRr70edTGANew5Ote0prLEzy3nJZCS5ioQuvVJsAVW5m0Ei-FBVWnqSlZpj-gYdMLXAXPGMCFaHC1rHCtIaxi8xTw==)

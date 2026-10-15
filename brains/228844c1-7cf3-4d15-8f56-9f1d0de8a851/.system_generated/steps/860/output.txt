@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Error: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)
+

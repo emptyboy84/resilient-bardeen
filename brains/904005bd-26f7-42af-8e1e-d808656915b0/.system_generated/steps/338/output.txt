@@ -1,0 +1,28 @@
+The search for ""우수경" "이석창" 만화 OR 웹툰 OR 사업자 OR 작가" returned the following summary:
+검색 결과, **'우수경'**과 **'이석창'**이라는 두 인물은 각각 웹툰 및 콘텐츠 분야에서 활동하고 있으나, 두 사람이 함께 언급되거나 연관된 특별한 사업적·작품적 관계는 확인되지 않습니다.
+
+각 인물에 대한 주요 정보는 다음과 같습니다.
+
+*   **우수경 (작가):**
+    *   웹툰 작가로, 대표작으로 **《디어 마이 유니버스》**가 있습니다[1][2][3].
+    *   해당 작품은 BL 장르의 판타지 웹툰으로 리디, 네이버 시리즈 등에서 연재 및 완결되었습니다[2][4].
+    *   부산 지역에서 활동하는 작가 중 한 명으로 부산웹툰페스티벌 등 관련 행사에 참여한 이력이 있습니다[5].
+
+*   **이석창 (교수/연구자/기업인):**
+    *   **건양대학교 디지털콘텐츠학과 교수**로서 웹툰, 영상, 인공지능 등 디지털 콘텐츠 분야의 연구와 교육을 수행하고 있습니다[6][7].
+    *   인공지능과 영화, 콘텐츠 산업 등에 관한 저서와 논문을 다수 집필하였습니다[6][8].
+    *   과거 '혜성디자인'이라는 업체의 대표로 언급된 사례가 있으며[9], 출판물 등과 관련된 사업자 번호가 배정된 기록도 확인됩니다[10].
+
+따라서 두 사람은 웹툰과 콘텐츠라는 같은 업계 내에 있으나, 공동 작업을 하거나 특정 사업을 함께 운영한다는 정보는 없습니다.
+
+Sources:
+[1] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-6ZUpCNNirr1Av1GB62O0N0F42U-1GjlT3laJxAmxYYXedfZbTDGYckAj1iW-qBpL9QFK9FuQvh8E7EXy4jFztMCRvjSEdEAJZpR8jxsHyxUkwHqnmr06)
+[2] [mrblue.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KulX3vrhMprk_OWTFnCJrzscTwCkgqwKx2molX7zMqrDpN9iIhn8HhGVBx_jJWquBGthtPqrpqTvYJEDQ5yHO9HNmetFxrX0xBco5TgPJVINnTsdBiw6GhjeWcd__BecvwTwFN8=)
+[3] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvm9Ue623rWeKre8uGoZhdXRF0z4HAZkZ_AadY-WQ617ORtVGMTqcjBhPhZfEFN7FifG1ZmBXTH7nBR-fDPn1wDLyzRNz59L8uN63RVRASmkjZVBscI2zy2YXv)
+[4] [naver.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqxXcKUSUEYu0TEO7TFJFUvIZq-OEj-I3oPj6N-GGqwA0c20EXFrqNje24KOyYZ6UaOeb8h3_nLmfsGRZaWJn-gElRs_PSzBGNxziZAgwVTHKUS26tJ_WkbeJXUtretu_tn6ux636soa3BzwB5ac5MLYv)
+[5] [tnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIQRfhd46M2LHF6sef-r2uMwlZ9oqxZxu4vGCxOXV0ZnlguZPeslnT0A4oWxGMz4MjZRidCgECr-eb_rXhPKJw4Uvjhq21lsqBTnOa5V3TEj_fl4SiDzcBiaYpkOYWOfA2zgFN1vU4LArJ)
+[6] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhGEoi5wE1ACWyGxXpkIdWNO0WxRINB-Y0wmjWLG_-kdnXL7uOD8CZJOh3XJ2BcLOIP7SjWVac_X0HoCjy66lqMynYCzuZrhVBEb6Vgn-ezUVna05Q2L6aJvfZIgO0E76WiaBHW2KFJi45Y5Rvj8ZhZA==)
+[7] [cctimes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgzrJt471hwc_EspPPzbgdmEjS8-XA_LGT_myEotU8vFVg0RUe_sbrA8QHmeosNxJquCXqWwZyTiOiLDEEtqWwOu_-ESmi4g1Dechw4SIPJpjbDTwB86HE5DGn8uqQ-Oz9iXTWK3P382Jv)
+[8] [dbpia.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Zyj9KRoBWlPFTqObreamSIhTwvQbmL1NanTBtc3kNFFUUyl4AZOC1NUKsBEQHzXr_3OYWByZvuPM2yyj4wH6ExRXHrfzYaVdJD72melc-5QXaFNrs_YiTZvtX97V1E2NC9VshAcox4Gt3uT4mCL7CaZJHiPj)
+[9] [newswire.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcYdV8vnYUJgfF4s1cIbP2c3ZeLV7_TKYYtxYN-8yn73Uslq14Q9fPg8kaMlB7do2EnYBwBdJJKyqsgrsuTgAOzMS9NLPm6UqUvCSLSAvsIM6isZy1E4ZABBa2busBU6Blwwz-zco=)
+[10] [124.137.58](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI2uyDM_uwb6V85XqlnRvkgamYRc62es1GNdSVIIBp0N-reXwzvi-zLRhRGfGCvdTtMIRees3Yt5FyOcdK-jsMtoRCFIent4fkkUX3W_zSrTBrnjVK_j-oo97I_PsRkJZ7tS8=)

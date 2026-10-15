@@ -1,0 +1,379 @@
+### Result
+[
+  {
+    "text": "네이버로그인",
+    "href": "https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Aayo.pe.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "로그인",
+    "href": "https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Aayo.pe.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "로그아웃",
+    "href": "https://nid.naver.com/nidlogin.logout?returl=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%3Aayo.pe.kr%2B%2522%25EB%25B9%2584%25EB%25AC%25B8%2B%25EC%259D%25B8%25EC%2587%2584%2522"
+  },
+  {
+    "text": "AI\nnew",
+    "href": "https://search.naver.com/search.naver?ssc=tab.ait.all&sm=tab_jum&dtm_source=search&dtm_medium=tab&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "블로그",
+    "href": "https://search.naver.com/search.naver?ssc=tab.blog.all&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "카페",
+    "href": "https://search.naver.com/search.naver?ssc=tab.cafe.all&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "클립",
+    "href": "https://search.naver.com/search.naver?ssc=tab.clip.all&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "이미지",
+    "href": "https://search.naver.com/search.naver?ssc=tab.image.all&where=image&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "지식iN",
+    "href": "https://search.naver.com/search.naver?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "동영상",
+    "href": "https://search.naver.com/search.naver?ssc=tab.video.all&where=video&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "쇼핑\n새 창 열림",
+    "href": "https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=site%3Aayo.pe.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "뉴스",
+    "href": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "어학사전\n새 창 열림",
+    "href": "https://dict.naver.com/dict.search?query=site%3Aayo.pe.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22&from=tsearch"
+  },
+  {
+    "text": "지도새 창 열림",
+    "href": "https://map.naver.com/v5/search/site%3Aayo.pe.kr%20%22%EB%B9%84%EB%AC%B8%20%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "인플루언서",
+    "href": "https://search.naver.com/search.naver?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22"
+  },
+  {
+    "text": "관련도순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=so%3Ar&nso_open=1"
+  },
+  {
+    "text": "최신순",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=so%3Add&nso_open=1"
+  },
+  {
+    "text": "전체",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3Aall&nso_open=1"
+  },
+  {
+    "text": "1시간",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1h&nso_open=1"
+  },
+  {
+    "text": "1일",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1d&nso_open=1"
+  },
+  {
+    "text": "1주",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1w&nso_open=1"
+  },
+  {
+    "text": "1개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1m&nso_open=1"
+  },
+  {
+    "text": "3개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A3m&nso_open=1"
+  },
+  {
+    "text": "6개월",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A6m&nso_open=1"
+  },
+  {
+    "text": "1년",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso=p%3A1y&nso_open=1"
+  },
+  {
+    "text": "옵션 초기화",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&nso_open=1"
+  },
+  {
+    "text": "상세 검색결과 보기",
+    "href": "https://search.naver.com/search.naver?ssc=tab.nx.all&where=nexearch&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_dgs&qdt=1"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›주변 상권›부산광역시 해운대구›비문 인쇄\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5457616"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5457616"
+  },
+  {
+    "text": "부산광역시 해운대구 비문 인쇄 위치·업체정보\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5457616"
+  },
+  {
+    "text": "2026.08.09.비문 인쇄 (부산광역시 해운대구 우동). 인쇄사 업종으로 위치 지도, 영업상태, 주변 상권·생활 인프라까지 공공데이터 기반으로 확인하세요.\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5457616"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›school\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7061091"
+  },
+  {
+    "text": "서울특별시교육청 숭의초등학교 위치·전화번호·홈페이지\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7061091"
+  },
+  {
+    "text": "2026.07.26.학교 구분 : 초등학교 (남여공학), 설립 유형 : 사립, 입시 / 주야 구분 : 전기 / 주간\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7061091"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›localMaps\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5905671"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5905671"
+  },
+  {
+    "text": "울산 동구 에이치디현대사이트솔루션(주) | 홈즈\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5905671"
+  },
+  {
+    "text": "1주 전영업 상태 : 정상영업, 상세 업종 : 정보없음, 정보 업데이트 : 2026-09-06 ; 상세 정보 ; 업체명 : 에이치디현대사이트솔루션(주), 지역 : 울산광역시 동구 고늘로\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5905671"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›school\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7271056"
+  },
+  {
+    "text": "대구광역시교육청 대구성명초등학교 위치·전화번호·홈페이지\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7271056"
+  },
+  {
+    "text": "2026.07.26.요청하신 페이지 또는 결과를 찾을 수 없습니다 ; 찾으시는 학교 정보가 존재하지 않거나 주소(URL)가 잘못되었을 수 있습니다. 아래 안내를 확인하시고 다시 시도해 보세요.\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7271056"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›school\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7501038"
+  },
+  {
+    "text": "울산광역시교육청 강남초등학교 위치·전화번호·홈페이지\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7501038"
+  },
+  {
+    "text": "2026.07.26.학교 구분 : 초등학교 (남여공학), 설립 유형 : 공립, 입시 / 주야 구분 : 전기 / 주간\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7501038"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›병원›경기도 고양시›유디치과의원\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkNzIkNDgxOTYxIzUxIyQxIyQ1IyQ5OSQyNjE0ODEjNjEjJDEjJDAjJDgz"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkNzIkNDgxOTYxIzUxIyQxIyQ1IyQ5OSQyNjE0ODEjNjEjJDEjJDAjJDgz"
+  },
+  {
+    "text": "경기 고양시 장항동 유디치과의원 치과 진료과목·전화번호\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkNzIkNDgxOTYxIzUxIyQxIyQ1IyQ5OSQyNjE0ODEjNjEjJDEjJDAjJDgz"
+  },
+  {
+    "text": "2주 전기관 구분 : 치과의원, 응급실 운영 : 미운영, 최종 업데이트 : 2026-08-30 ; 진료 및 시설 안내 ; 진료시간 (월) : 정보없음, 진료시간 (화) : 정보없음, 진료시간 (수) : 정보없음, 진료시간 (목) : 정보없음, 진료시간 (금) : 정보없음, 진료시간 (토) : 정보없음, 진료시간 (일) : 정보없음, 휴진 안내 : 일요일: 정보없음, 공휴일: 정보없음, 접수 시간 : 평일: 정보없음 (토: 정보없음), 점심 ......\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkNzIkNDgxOTYxIzUxIyQxIyQ1IyQ5OSQyNjE0ODEjNjEjJDEjJDAjJDgz"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›localMaps\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5774045"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5774045"
+  },
+  {
+    "text": "서울특별시 금천구 주식회사 데카사이트 위치·전화번호·업체정보\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5774045"
+  },
+  {
+    "text": "2026.08.02.영업 상태 : 정상영업, 상세 업종 : 정보없음, 정보 업데이트 : 2026-08-02 ; 상세 정보 ; 업체명 : 주식회사 데카사이트, 지역 : 서울특별시 금천구 디지털로*길\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/5774045"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›주변 상권›인천광역시 서구›액상사이트\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/10010814"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/10010814"
+  },
+  {
+    "text": "인천 서구 가정동 액상사이트 통신판매업 위치·전화번호\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/10010814"
+  },
+  {
+    "text": "1주 전영업 상태 : 정상영업, 상세 업종 : 기타, 정보 업데이트 : 2026-09-06 ; 상세 정보 ; 업체명 : 액상사이트, 상세 업종 : 기타, 지역 : 인천광역시 서구 서달로***번길\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/10010814"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›school\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7441112"
+  },
+  {
+    "text": "대전광역시교육청 세천초등학교 위치·전화번호·홈페이지\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7441112"
+  },
+  {
+    "text": "2026.06.21.학교 구분 : 초등학교 (남여공학), 설립 유형 : 공립, 입시 / 주야 구분 : 전기 / 주간\n새 창 열림",
+    "href": "https://ayo.pe.kr/school/detail/7441112"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›병원›경기도 양주시›양주시보건소\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "경기 양주시 남방동 양주시보건소 진료과목·전화번호\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "1주 전기관 구분 : 보건소, 응급실 운영 : 미운영, 최종 업데이트 : 2026-09-06 ; 진료 및 시설 안내 ; 진료시간 (월) : 정보없음, 진료시간 (화) : 정보없음, 진료시간 (수) : 정보없음, 진료시간 (목) : 정보없음, 진료시간 (금) : 정보없음, 진료시간 (토) : 정보없음, 진료시간 (일) : 정보없음, 휴진 안내 : 일요일: 정보없음, 공휴일: 정보없음, 접수 시간 : 평일: 정보없음 (토: 정보없음), 점심 시......\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ4OSQyNjE0ODEjNDEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›..›서울특별시 동작구›주식회사 어나더사이트\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/8009668"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/8009668"
+  },
+  {
+    "text": "서울 동작구 주식회사 어나더사이트 통신판매업 위치·전화번호 | 홈즈\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/8009668"
+  },
+  {
+    "text": "3주 전영업 상태 : 정상영업, 상세 업종 : 기타, 정보 업데이트 : 2026-08-23 ; 상세 정보 ; 업체명 : 주식회사 어나더사이트, 상세 업종 : 기타, 지역 : 서울특별시 동작구 노량진로\n새 창 열림",
+    "href": "https://ayo.pe.kr/localMaps/detail/8009668"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›hospital\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTg4MSM1MSMkMSMkMCMkNzIkMzgxNzAyIzMxIyQxIyQ3IyQ3MiQzNjEyMjIjNDEjJDEjJDQjJDgz"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTg4MSM1MSMkMSMkMCMkNzIkMzgxNzAyIzMxIyQxIyQ3IyQ3MiQzNjEyMjIjNDEjJDEjJDQjJDgz"
+  },
+  {
+    "text": "서울특별시 송파구 올치과의원 진료과목·운영시간·위치\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTg4MSM1MSMkMSMkMCMkNzIkMzgxNzAyIzMxIyQxIyQ3IyQ3MiQzNjEyMjIjNDEjJDEjJDQjJDgz"
+  },
+  {
+    "text": "2026.07.19.기관 구분 : 치과의원, 응급실 운영 : 미운영, 최종 업데이트 : 2026-07-19 ; 진료 및 시설 안내 ; 진료시간 (월) : 정보없음, 진료시간 (화) : 정보없음, 진료시간 (수) : 정보없음, 진료시간 (목) : 정보없음, 진료시간 (금) : 정보없음, 진료시간 (토) : 정보없음, 진료시간 (일) : 정보없음, 휴진 안내 : 일요일: 정보없음, 공휴일: 정보없음, 접수 시간 : 평일: 정보없음 (토: 정보없음), 점심 ......\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTg4MSM1MSMkMSMkMCMkNzIkMzgxNzAyIzMxIyQxIyQ3IyQ3MiQzNjEyMjIjNDEjJDEjJDQjJDgz"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›notice\n새 창 열림",
+    "href": "https://ayo.pe.kr/notice"
+  },
+  {
+    "text": "공지사항 - 찾아요! 홈즈\n새 창 열림",
+    "href": "https://ayo.pe.kr/notice"
+  },
+  {
+    "text": "제목\n\t\n작성일\n\n\n📢 공지사항 – 상권 데이터 안내 및 홍보 지원\n\t\n2026-01-08\n\n\n홈페이지 정보제공 출처 안내\n\t\n2025-06-27\n\n\n📢 패치 노트 – 2025년 4월 20일\n\t\n2025-04-20\n새 창 열림",
+    "href": "https://ayo.pe.kr/notice"
+  },
+  {
+    "text": "6행 더보기\n새 창 열림",
+    "href": "https://ayo.pe.kr/notice"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›병원›경상북도 경산시›경산시보건소\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNTEjJDEjJDYjJDgz"
+  },
+  {
+    "text": "새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNTEjJDEjJDYjJDgz"
+  },
+  {
+    "text": "경북 경산시 중방동 경산시보건소 진료과목·전화번호\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNTEjJDEjJDYjJDgz"
+  },
+  {
+    "text": "1주 전기관 구분 : 보건소, 응급실 운영 : 미운영, 최종 업데이트 : 2026-09-06 ; 진료 및 시설 안내 ; 진료시간 (월) : 정보없음, 진료시간 (화) : 정보없음, 진료시간 (수) : 정보없음, 진료시간 (목) : 정보없음, 진료시간 (금) : 정보없음, 진료시간 (토) : 정보없음, 진료시간 (일) : 정보없음, 휴진 안내 : 일요일: 정보없음, 공휴일: 정보없음, 접수 시간 : 평일: 정보없음 (토: 정보없음), 점심 시......\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM4MSMkMSMkMCMkOTIkMzgxMzUxIzExIyQxIyQzIyQ2MiQyNjEwMDIjNTEjJDEjJDYjJDgz"
+  },
+  {
+    "text": "찾아요! 홈즈\nayo.pe.kr›hospital\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkMTMkNDgxOTYxIzUxIyQxIyQxIyQ5OSQzNjEwMDIjNzEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "요청하신 페이지 또는 결과를 찾을 수 없습니다\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkMTMkNDgxOTYxIzUxIyQxIyQxIyQ5OSQzNjEwMDIjNzEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "찾으시는 정보가 존재하지 않거나, 입력하신 주소(URL)가 잘못되었을 수 있습니다. 잠시 후 다시 시도하시거나 아래 안내를 참고해 주세요.\n새 창 열림",
+    "href": "https://ayo.pe.kr/hospital/detail/JDQ4MTYyMiM1MSMkMSMkMCMkMTMkNDgxOTYxIzUxIyQxIyQxIyQ5OSQzNjEwMDIjNzEjJDEjJDgjJDgz"
+  },
+  {
+    "text": "1\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.nx.all"
+  },
+  {
+    "text": "2\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=2&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=1"
+  },
+  {
+    "text": "3\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=3&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=21"
+  },
+  {
+    "text": "4\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=4&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=41"
+  },
+  {
+    "text": "5\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=5&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=61"
+  },
+  {
+    "text": "6\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=6&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=81"
+  },
+  {
+    "text": "7\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=7&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=101"
+  },
+  {
+    "text": "8\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=8&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=121"
+  },
+  {
+    "text": "9\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=9&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=141"
+  },
+  {
+    "text": "10\n페이지",
+    "href": "https://search.naver.com/search.naver?nso=&page=10&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=161"
+  },
+  {
+    "text": "다음",
+    "href": "https://search.naver.com/search.naver?nso=&page=2&qdt=0&query=site%3Aayo.pe.kr+%22%EB%B9%84%EB%AC%B8+%EC%9D%B8%EC%87%84%22&sm=tab_pge&ssc=tab.ur.all&start=1"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'a[href*="ayo.pe.kr"]\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```

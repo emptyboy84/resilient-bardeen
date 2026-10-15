@@ -1,0 +1,16 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_company_phone_numbers\search_phone_naver.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -6,8 +6,8 @@
+   const text = (await res.text()).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+   console.log('Query:', q, 'Len:', text.length);
+   let idx = 0;
+-  while ((idx = text.indexOf('923', idx)) !== -1) {
+-    console.log('Snippet:', text.slice(Math.max(0, idx - 40), idx + 80));
++  while ((idx = text.indexOf('051-923-0405', idx)) !== -1) {
++    console.log('Snippet:', text.slice(Math.max(0, idx - 150), idx + 250));
+     idx += 20;
+   }
+ }
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

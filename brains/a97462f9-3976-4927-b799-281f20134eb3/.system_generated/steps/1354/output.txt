@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+--- Row 611 in Original Excel ---
+Col 1: value=[25년 모집단], fill= undefined
+Col 2: value=[610], fill= undefined
+Col 3: value=[동화사], fill= undefined
+Col 4: value=[null], fill= {"theme":8,"tint":0.7999816888943144}
+Col 5: value=[null], fill= undefined
+Col 6: value=[null], fill= undefined
+Col 7: value=[null], fill= undefined
+Col 8: value=[051-464-0761], fill= undefined
+Col 9: value=[null], fill= undefined
+Col 10: value=[동구], fill= undefined
+Col 11: value=[부산 동구 중앙대로226번길 7-6 (초량동)], fill= undefined
+Col 12: value=[출판], fill= undefined
+Col 13: value=[null], fill= {"theme":5,"tint":0.7999816888943144}
+Col 14: value=[null], fill= {"theme":5,"tint":0.7999816888943144}
+Col 15: value=[null], fill= {"theme":5,"tint":0.7999816888943144}
+Col 16: value=[null], fill= undefined
+Col 17: value=[null], fill= undefined
+Col 18: value=[null], fill= undefined
+
+--- Surrounding Rows (608 to 615) ---
+Row 608: Name=[씨플레이], Biz=[354-87-00849], Phone=[010-9194-9312], Addr=[해운대구 센텀중앙로97, 센텀스카이비즈 에이동 2101호 ]
+Row 609: Name=[동아티지], Biz=[723-81-02186], Phone=[051-468-7277], Addr=[해운대구 센텀북대로 60 (재송동, 센텀아이에스타워)]
+Row 610: Name=[동양애드컴], Biz=[617-20-79318], Phone=[051-754-0012], Addr=[수영구 망미로 5-1]
+Row 611: Name=[동화사], Biz=[null], Phone=[051-464-0761], Addr=[부산 동구 중앙대로226번길 7-6 (초량동)]
+Row 612: Name=[두남기업], Biz=[617-20-77076], Phone=[051-628-4404], Addr=[null]
+Row 613: Name=[두두북스], Biz=[197-97-00468], Phone=[010-4948-0367], Addr=[null]
+Row 614: Name=[두어블], Biz=[721-81-02424], Phone=[null], Addr=[null]
+Row 615: Name=[두엔터], Biz=[438-95-00176], Phone=[010-3904-7189], Addr=[해운대구 청사포로 27 . 105동 1801호]
+

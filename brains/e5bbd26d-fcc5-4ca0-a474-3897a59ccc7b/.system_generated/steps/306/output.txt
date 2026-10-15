@@ -1,0 +1,90 @@
+### Page
+- Page URL: https://map.naver.com/p/search/051-523-6320
+- Page Title: 051-523-6320 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f427e3]:
+  - generic:
+    - link "본문 바로가기" [ref=f427e4] [cursor=pointer]:
+      - /url: "#section_content"
+    - link "주 메뉴 바로가기" [ref=f427e6] [cursor=pointer]:
+      - /url: "#header"
+  - banner [ref=f427e8]:
+    - heading [level=1] [ref=f427e9]:
+      - link "네이버지도" [ref=f427e10] [cursor=pointer]:
+        - /url: https://www.naver.com
+    - navigation [ref=f427e12]:
+      - list [ref=f427e13]:
+        - listitem [ref=f427e14]:
+          - button "지도 홈 선택됨" [ref=f427e15] [cursor=pointer]:
+            - generic [ref=f427e21]: 지도 홈
+            - generic [ref=f427e22]: 선택됨
+        - listitem [ref=f427e23]:
+          - button "길찾기" [ref=f427e24] [cursor=pointer]
+        - listitem [ref=f427e30]:
+          - button "버스" [ref=f427e31] [cursor=pointer]
+        - listitem [ref=f427e37]:
+          - button "지하철" [ref=f427e38] [cursor=pointer]
+        - listitem [ref=f427e44]:
+          - button "기차" [ref=f427e45] [cursor=pointer]
+        - listitem [ref=f427e51]:
+          - button "new 저장" [ref=f427e52] [cursor=pointer]:
+            - generic [ref=f427e53]: new
+            - generic [ref=f427e59]: 저장
+        - listitem [ref=f427e60]:
+          - button "더보기" [ref=f427e61] [cursor=pointer]
+    - generic [ref=f427e68]:
+      - strong [ref=f427e69]: 사용자 링크
+      - list [ref=f427e70]:
+        - listitem [ref=f427e71]:
+          - link "로그인" [ref=f427e72] [cursor=pointer]:
+            - /url: https://nid.naver.com/nidlogin.login
+        - listitem [ref=f427e74]:
+          - link "서비스 더보기" [ref=f427e75] [cursor=pointer]:
+            - /url: javascript:;
+  - generic:
+    - application [ref=f427e142]:
+      - region "Map" [ref=f427e146]
+      - generic [ref=f427e147]:
+        - img "NAVER" [ref=f427e149] [cursor=pointer]
+        - generic [ref=f427e150]: 300m
+    - generic [ref=f427e82]:
+      - generic [ref=f427e84]:
+        - button "검색" [ref=f427e85] [cursor=pointer]
+        - button "삭제" [ref=f427e86] [cursor=pointer]
+        - combobox [ref=f427e89]: 051-523-6320
+      - generic [ref=f427e91]:
+        - status [ref=f427e92]
+        - generic [ref=f427e94]:
+          - heading "검색" [level=2] [ref=f427e95]
+          - iframe [ref=f427e154]:
+            - generic [ref=f437e1]: 조건에 맞는 업체가 없습니다.
+      - button "패널 접기" [expanded] [ref=f427e102] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=f427e104]:
+                - button "일반지도" [ref=f427e105] [cursor=pointer]
+                - button "위성지도" [ref=f427e107] [cursor=pointer]
+                - button "지형지도" [ref=f427e109] [cursor=pointer]
+              - generic [ref=f427e111]:
+                - button "테마" [ref=f427e112] [cursor=pointer]
+                - button "저장" [ref=f427e114] [cursor=pointer]
+                - button "지적편집도" [ref=f427e116] [cursor=pointer]
+                - button "거리뷰" [ref=f427e118] [cursor=pointer]
+              - generic [ref=f427e120]:
+                - button "반경측정" [ref=f427e121] [cursor=pointer]
+                - button "면적측정" [ref=f427e123] [cursor=pointer]
+                - button "거리측정" [ref=f427e125] [cursor=pointer]
+            - generic:
+              - button "접속위치" [ref=f427e129] [cursor=pointer]
+              - generic [ref=f427e135]:
+                - button "확대" [ref=f427e136] [cursor=pointer]
+                - button "축소" [ref=f427e139] [cursor=pointer]
+  - status [ref=f427e141]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-18T02-24-25-781Z.log#L1-L4

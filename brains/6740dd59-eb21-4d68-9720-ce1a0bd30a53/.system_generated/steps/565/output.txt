@@ -1,0 +1,15 @@
+The search for ""주식회사 아트몰링리노베이션" OR "409-87-03113" "김중근" 매출액 OR 부산" returned the following summary:
+요청하신 "주식회사 아트몰링리노베이션"에 대한 정보는 다음과 같습니다[1][2].
+
+*   **기업명:** 주식회사 아트몰링리노베이션[1]
+*   **대표자:** 김중근[1][2]
+*   **매출액:** 8억 4,934만 원[1]
+*   **주소:** 부산광역시 사하구 낙동남로 1413[1][2]
+*   **업종:** 그 외 기타 분류 안된 오락관련 서비스업[1][2]
+*   **설립일:** 2023년 8월[1]
+
+해당 기업은 부산 사하구에 위치하고 있으며, 2026년 기준 매출액은 약 8.5억 원 규모로 확인됩니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriAuB24G81tsT74rLHXmNILU--iuHFoRyF29zGbGSb_ciCxtM56DVUmAA1EOviLOxJzR672vJFzA1v0oghZzS52hEkMSXmio6MHWCNnuC7ZmgqKyUAd3fH4jKKdjnf32Ou-s4Bp3LCk6LDvEDS1cDrM-8RLoeIVf_u-eK_jWkd8hiR4v5788zT1060WCWp00uOhlx6j55euBt2sFPq6WN5K4DsCx4FaHEH9ynZJBx9wAPgG_6Fr1Tx2VLF-3XLzMQ2YAfN-IRJ4m3uWLOfke7ztrU0R0ME-GwkcRPpr-8XlVErcrLjhoNJ4WULMntwJTrnYzAsXKwqjYsHw==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDxwG8941QU_QhxDbls9uHhkuj4vq8aAi70kXILQHcArQ9sXEM4zKM9AgaE3Ueww4yeuvwqdz99ttVb2NsAE1yptUZWbukaFKOwgJ7fLpuadUBRnU6234gQ9mr15vFlUtczf_5B55qUMLmpeuBOlljc-dnDPvGBn37MA2Y9C56CsEgsiBgK1ecOKKvnQqPo4T6b6x14orBtrgR8tzP_vqa_05fc_BXs4uO5cYuiAtSe9lR7lVwYgNcVLZx4ltyWVfSTwEMjdgvP1J7kXAUiDXsZzoC2Bdyu4j8caRa_EG5xDuNu5Da_QMbdh0TUjZDQuAKn5DR8AY91Ye7yJj6jw==)

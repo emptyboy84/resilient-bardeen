@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EB%A7%88%EC%82%B0%ED%92%8C%EC%9B%90%EA%B5%AC%20%ED%8C%94%EC%9A%A9%EB%A1%9C%20245-1');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EB%A7%88%EC%82%B0%ED%92%8C%EC%9B%90%EA%B5%AC%20%ED%8C%94%EC%9A%A9%EB%A1%9C%20245-1
+- Page Title: 경남 창원시 마산풌원구 팔용로 245-1 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T03-52-02-847Z.yml)

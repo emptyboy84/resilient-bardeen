@@ -1,0 +1,17 @@
+The search for "site:store.steampowered.com "Studio Bio" OR "스튜디오비오" OR "Hanbin Lee" OR "이한빈"" returned the following summary:
+스팀(Steam) 상점 페이지에서 "Studio Bio", "스튜디오비오", "Hanbin Lee", "이한빈"을 검색한 결과는 다음과 같습니다.
+
+*   **스팀 상점 페이지 직접 검색 결과:** 요청하신 키워드인 "Studio Bio", "스튜디오비오", "Hanbin Lee"는 스팀 상점 데이터베이스 내에서 공식적인 개발사나 퍼블리셔 정보로 등록되어 검색되지 않았습니다[1][2][3].
+*   **관련 정보:** "이한빈"이라는 이름은 스팀 게임인 *Chained in the Backrooms*의 이용자 평가(리뷰)에서 언급된 바 있으나[1], 이는 해당 게임의 개발자와는 무관한 일반 사용자의 게시물로 확인됩니다[1][2].
+*   **참고:** "이한빈"이라는 이름의 인물은 국내 게임 업계 및 관련 학계(청강문화산업대학교 교수 등)에서 활동 중인 사례가 확인되나[4][5], 이들이 스팀에 "스튜디오비오(Studio Bio)"라는 명칭으로 게임을 등록했다는 정보는 찾을 수 없었습니다[6][7].
+
+따라서 현재 스팀 상점에는 해당 이름으로 등록된 스튜디오나 게임이 존재하지 않는 것으로 보입니다.
+
+Sources:
+[1] [steampowered.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGVQ59nPUME3ArdSxC2zoYLclYrN5F9b5JWqpTzMU9uSGc4hAPY8qlw7f-4wYQL2iPYZA_VYPMOD-o9Xv75U5jjC3SPE1CVrmttUNFbDNdDbopaZm4FFFQ6-bTN0JbIuTa0fGsAFFjOG91sesDqaThi05YgYqMe1odTWq8KDd1VYncgA==)
+[2] [steampowered.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc0pMlQWksmqbmrVXXbsYKUlrQ31F9QPK8Z4I1b5Z8JeHpBin0eoljE6nHxJouZQMq5kaPbwFt65GBRMIJGAxu1-C6zkFHzxcq56i0ZoZzZujtibVfd4qGbxcBEfB54AgTAsTcCu_KYw1MlhagpB7Kn3URXjWFyxosqg==)
+[3] [steamdb.info](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDfNgLJktkkk1mQ2JyJSZwGBZxi6Z_xy2BRteslNXwGO2mPmSqWXUL37L-AUYtNDM8GTCVC4vIo1zDeCXXTH1rovLynt4XIMbMrx31VRxFmnK1fT3FsTg=)
+[4] [ck.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb8m4S_ZtJ3BtaB1jDN1Q3-hYhhtU4I_v-h7KWCuSuju1SvSsQeWIZVpXDBGmcBnTmkTYozyzvBlzuEWwo8N-o5VRYryRGEtMhOjKngU3D5GaB-ltHYmkrE_GOVdZwnInG1xHxBD2YraPiVMsgSlsD)
+[5] [husg.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu7MmaW3Y87LhcykXQzbeNHxqeRsfEiJ4qJbmsCCujsMTWanv2Y5V8I6UmpfJqtxJMPi3A6G_MFVoYevwbxUrakfWeJmAdBv3jwrQYd32Xf1BSEm0I_2EgFN5Gvfkq0vTsFcE=)
+[6] [cookapps.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElE7wA28fnErKU_HA9Gvf1UsAl6OW1APkaYErorMM3rdwwVKo9mUXGCmyuHXURlLPTeZjnjTQViy4EtpwNhsoKfRKBPcFRb8zmjpBnKcVR0UxhSSQ=)
+[7] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr5DRq5gOPTvxZpbv90FQU6HeEkwunKF_rBc3SXP4Xb_LKe1CCVm06K1_5NOq-jpv8nr0PcO6DK8FAIm2TlUtAV_rf7U4TKUvhXna-YZ7qywL2-NFif7qHY6YV_8hO6zq0)

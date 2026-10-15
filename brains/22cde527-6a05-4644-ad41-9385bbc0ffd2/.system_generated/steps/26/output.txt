@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:58 �:71
++ ... bizNo = cols[bizNoIdx] ? cols[bizNoIdx].replace(/[\"']/g, '').trim()  ...
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:58 �:78
++ ...  = cols[bizNoIdx] ? cols[bizNoIdx].replace(/[\"']/g, '').trim() : '';
++                                                                   ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:59 �:16
++     if (!bizNo || bizNo === '-' || bizNo === '') {
++                ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:59 �:33
++     if (!bizNo || bizNo === '-' || bizNo === '') {
++                                 ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:69 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:71 �:45
++ console.log('Count of missing biz numbers:', missing.length);
++                                             ~
+',' �ڿ� � �ϴ�.
+�ġ �:71 �:46
++ console.log('Count of missing biz numbers:', missing.length);
++                                              ~~~~~~~~~~~~~~
+� �Ǵ� � �ġ � 'missing.length' �ū�Դϴ�.
+�ġ �:71 �:45
++ console.log('Count of missing biz numbers:', missing.length);
++                                             ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:71 �:60
++ console.log('Count of missing biz numbers:', missing.length);
++                                                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:72 �:29
++ console.log('Missing list:', JSON.stringify(missing, null, 2));
++                             ~
+',' �ڿ� � �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

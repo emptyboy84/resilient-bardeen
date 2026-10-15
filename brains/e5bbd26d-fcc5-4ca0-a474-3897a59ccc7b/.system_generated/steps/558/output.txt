@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+location.replace("https://captcha.search.daum.net/show?redirect=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26DA%3DYZR%26q%3D%25EB%258B%25A4%25EC%2584%25AF%25EC%2586%2590%25EA%25B0%2580%25EB%259D%25BD%2520051-517-8828");
+

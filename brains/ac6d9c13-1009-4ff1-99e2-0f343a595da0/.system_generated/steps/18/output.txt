@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+v24.11.1
+npm : � �ý�ۿ� �ũ�Ʈ� � � �Ƿ� C:\Program Files\nodejs\npm.ps1 � �ε� � �ϴ�. �ڼ� �
+� about_Execution_Policies(https://go.microsoft.com/fwlink/?LinkID=135170)� �Ͻʽÿ�.
+�ġ �:1 �:10
++ node -v; npm -v
++          ~~~
+    + CategoryInfo          : � �: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+

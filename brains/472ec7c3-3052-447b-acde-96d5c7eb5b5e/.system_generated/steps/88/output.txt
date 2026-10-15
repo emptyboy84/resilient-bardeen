@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+
+Name                           Value                                                                                   
+----                           -----                                                                                   
+ANTIGRAVITY_AGENT              1                                                                                       
+ANTIGRAVITY_AGENTAPI_EXE       C:\Users\lg\AppData\Local\Programs\antigravity\resources\bin\language_server.exe        
+ANTIGRAVITY_APP_DATA_DIR       C:/Users/lg/.gemini/antigravity                                                         
+ANTIGRAVITY_CONVERSATION_ID    472ec7c3-3052-447b-acde-96d5c7eb5b5e                                                    
+ANTIGRAVITY_CSRF_TOKEN         24d8e14a-d308-444c-812c-a7db8395e6c2                                                    
+ANTIGRAVITY_LS_ADDRESS         localhost:56450                                                                         
+ANTIGRAVITY_LS_VERSION         hub-2.23.1                                                                              
+ANTIGRAVITY_PROJECT_ID         89da6ecc-7f9f-478f-a8e5-842b20d6782d                                                    
+ANTIGRAVITY_SOURCE_METADATA    {"tool":{"conversationId":"472ec7c3-3052-447b-acde-96d5c7eb5b5e", "stepIndex":88, "to...
+ANTIGRAVITY_TRAJECTORY_ID      0679ae4d-2368-4b9d-9608-63b3eeffb908                                                    
+
+
+

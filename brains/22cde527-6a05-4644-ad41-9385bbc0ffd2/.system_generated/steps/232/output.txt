@@ -1,0 +1,21 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 564 lines>
+크" | 대표: "" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[270/421] Row 2106 | "키드니드" | 대표: "김하선" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 270/421 | Matched: 71 | Unverifiable: 199 <<<
+[271/421] Row 2107 | "스튜디오바다" | 대표: "류수환" | 구: "동구"
+  => UNVERIFIED / PENDING PASS 2
+[272/421] Row 2108 | "두원잡" | 대표: "" | 구: "사상구"
+  => UNVERIFIED / PENDING PASS 2
+[273/421] Row 2110 | "새동아직업전문학교" | 대표: "" | 구: "사하구"
+  => MATCH CONFIRMED: 603-90-14226 (새동아직업전문학교) | 주소: "부산광역시 사하구 하신중앙로 323, 1~6층 7층일부 (2층제외)(하단동, 전원빌딩) 323, Hasinjungang-ro, Saha-gu, Busan, Republic of Korea" | 대표: "전원석" [계속사업자]
+[274/421] Row 2111 | "스페이사콤" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[275/421] Row 2112 | "주식회사원미디어" | 대표: "원성훈" | 구: "해운대구"
+
+Last progress: 0s ago

@@ -1,0 +1,13 @@
+The search for ""해약노노" OR "haeyaknono.com" OR "linkbean" "부산진구"" returned the following summary:
+검색하신 키워드와 관련된 기업 및 서비스 정보는 다음과 같습니다.
+
+* **기업명:** **주식회사 링크빈 (Link Bean)**[1]
+* **소재지:** 부산광역시 부산진구 전포대로 274 (전포동, 서면대우디오빌2)[1][2]
+* **주요 서비스 ('해약노노'):** 
+  * 선불식 장기상품(상조) 중개거래 플랫폼 서비스[1]
+  * 다중 라운드/프라이싱(Round/Pricing) 경매 방식을 통한 계약 양도·양수자 권리 이전 절차 간소화 및 비대면 서비스 제공[1]
+  * 마이데이터(My Data) 기반 보험 재설계, 중개설계사 평가 및 선택 서비스 등 운영[1]
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdy4k-BPo52uwnFnZ3s_b3uEXfNABiOBXzb4Q--y3ECGodGvD7Z_MxZuUhcRePTl5zD21_-oRt2CQzFmh4dmatKNp7JZ58w7D4vIhqIrm80j57mEg2krXUtvK3FvOU5N42aQ==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp9ZVJXVE58nM8wA-y4DwJERvfSDPF-A0m_GktJgORXmOCctDkCMQBFND846IFyJ-THRjE3ov5WphOWKnCOQUmShFlEXpRKgUhSeYNOJo6LeWbSNq8nrJFm17wf5F-DL6oBqE-BmXi3Slpv4r6Iy6S-NS_-iCCuat5jMhNi3UnQJuzjOQZPT85xo4BS2zkWI4b3Eqvdn-i543HpRknjRMef3v2stVTGAzljKwSvfig--Qu_QWr4k2QN1LcQNb9Ogk=)

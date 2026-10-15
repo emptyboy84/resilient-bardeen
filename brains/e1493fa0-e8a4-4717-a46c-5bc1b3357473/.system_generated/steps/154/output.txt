@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+Total input rows: 200
+Cached keys: 200
+폐업자 수: 11
+우편번호 확보 수: 191 / 200
+종업원수 확보 수: 117 / 200
+Missing zip count: 9
+First 5 missing zip: [
+  {
+    idx: 36,
+    company: '주미엔지니어링',
+    bizno: '6090731236',
+    addr: '경남 창원시 의창구 차상로150번길 32, 3층 203-1호 (팔용동,팔용종합프라자)'
+  },
+  { idx: 42, company: '지오시스', bizno: '6090737152', addr: '경상남도 창원시' },
+  {
+    idx: 49,
+    company: '성화기계',
+    bizno: '6090774671',
+    addr: '경남 창원시 성산구 곰절길9번길 26 (성주동)'
+  },
+  { idx: 59, company: '대아정밀', bizno: '6090793741', addr: '' },
+  {
+    idx: 69,
+    company: '두연Tech',
+    bizno: '6090858004',
+    addr: '경남 창원시 의창구 사화로 210, 209호 (팔용동)'
+  }
+]
+

@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Col 1: val="25년 모집단", fontColor=FF000000
+Col 2: val=639, fontColor=FF000000
+Col 3: val="디자인에코", fontColor=FF000000
+Col 4: val="603-10-85753", fontColor=FFFF0000
+Col 5: val="", fontColor=FF000000
+Col 6: val="", fontColor=FF000000
+Col 7: val="이돈희", fontColor=FF000000
+Col 8: val="", fontColor=FF000000
+Col 9: val="", fontColor=FF000000
+Col 10: val="금정구", fontColor=FF000000
+Col 11: val="부산 금정구 장전동 222-39 서강빌딩 4층", fontColor=FF000000
+Col 12: val="캐릭터", fontColor=FF000000
+Col 13: val="", fontColor=FF000000
+Col 14: val="", fontColor=FF000000
+Col 15: val="", fontColor=FF000000
+Col 16: val="", fontColor=FF000000
+Col 17: val="", fontColor=FF000000
+Col 18: val="", fontColor=FF000000
+Col 19: val="https://bizno.net/article/6031085753", fontColor=FFFF0000
+

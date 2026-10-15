@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+=== QA AUDIT: 77 TARGETS IN MASTER EXCEL ===
+Master Excel File: C:/Users/lg/Desktop/Today/크레탑_부산CT산업현황_261012_전략팀 전달/크레탑_부산CT산업현황_261012_전략팀 전달.xlsx
+Target Count: 77
+Auditing Sheet: [Sheet1], Total Rows in Sheet: 3979
+TypeError: Cannot read properties of undefined (reading 'includes')
+    at C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\parse_company_data\audit_master_excel.js:50:90
+    at Array.find (<anonymous>)
+    at audit77TargetsInMasterExcel (C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\parse_company_data\audit_master_excel.js:50:36)
+

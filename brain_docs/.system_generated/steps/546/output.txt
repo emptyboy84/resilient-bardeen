@@ -1,0 +1,11 @@
+The search for ""467-81-01569" OR ("라이프랩" "이성욱")" returned the following summary:
+입력하신 검색어는 특정 사업자등록번호(`467-81-01569`) 또는 기업명('라이프랩')과 대표자명('이성욱')에 대한 정보를 찾기 위한 조합입니다[1]. 
+
+* **라이프랩(주)**: 대표자가 '이성욱'으로 등록되어 있는 법인 기업(부산 수영구 소재 등)이 존재합니다[1][2].
+* **사업자등록번호**: 제시된 번호(`467-81-01569`)와 일치하는 특정 공공 데이터나 기업 정보 매칭 결과는 일반적인 웹 검색 상에서 직접적으로 식별되지 않으나, 특정 기업의 고유 번호나 세부 서류, 혹은 내부 식별용 코드로 활용되는 정보일 수 있습니다.
+
+혹시 특정 기업의 상세 재무 정보, 신용 상태, 혹은 다른 구체적인 목적이 있으신가요? 질문을 조금 더 구체적으로 남겨주시면 필요한 내용을 찾아 도움을 드릴 수 있습니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERUC496ZfA4pNumBHBubwJynNeyZJBjLMRtiQ0Y3y0n0DVgJol9aALuCjsANGXug0jEMoGOSQsSHVBDpnZ7Jq5q5HvVMjNI-EO7SkLeKS39ZEGuIGGDHTfCrYJw4pfSY9eVcvfGQ==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxEWEOWuVW7jqyLHG5ZdirsrH8kf9ATvJ3MTNTxERdM99QwkaMrish0byxvyer9KCILdTwWoKQd9Qn03t90ovYIqwxKrNREldwMneNLdlIi0tsZafxD7S4Dme1p_0GyUcp5K-m0_81REg-PNZpm4RO-F7D)

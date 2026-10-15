@@ -1,0 +1,66 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -14,39 +14,29 @@
+   });
+ }
+ 
++const http = require('http');
++
+ async function run() {
+-  const url = 'https://www.nl.go.kr/seoji/contents/S80100000000.do';
+-  const data = new URLSearchParams({
+-    schType: 'simple',
+-    schFld: 'publisher',
+-    schStr: '비전조이'
+-  }).toString();
+-  
+-  const r = await new Promise(resolve => {
+-    const u = new URL(url);
+-    const req = https.request(u, {
+-      method: 'POST',
+-      headers: {
+-        'Content-Type': 'application/x-www-form-urlencoded',
+-        'Content-Length': Buffer.byteLength(data),
+-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+-      }
+-    }, res => {
+-      let body = '';
+-      res.on('data', c => body += c);
+-      res.on('end', () => resolve({ status: res.statusCode, body }));
+-    });
+-    req.write(data);
+-    req.end();
+-  });
+-
++  const fetchHttp = (url) => new Promise(resolve => {
++    http.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, res => {
++      let d = '';
++      res.on('data', c => d += c);
++      res.on('end', () => resolve({ status: res.statusCode, data: d, headers: res.headers }));
++    }).on('error', err => resolve({ error: err }));
++  });
++
++  const r = await fetchHttp('http://haemirae.org');
+   console.log('Status:', r.status);
+-  console.log('Body length:', r.body.length);
+-  // find total count
+-  const cntMatch = r.body.match(/총\s*<strong>([\d,]+)<\/strong>\s*건/);
+-  console.log('Total count match:', cntMatch ? cntMatch[1] : 'not found');
+-  const noResult = r.body.indexOf('검색된 결과가 없습니다');
+-  console.log('No result found text idx:', noResult);
++  if (r.headers && r.headers.location) {
++    console.log('Redirect:', r.headers.location);
++  }
++  if (r.data) {
++    console.log('Length:', r.data.length);
++    // look for numbers with hyphens
++    const bizMatches = [...r.data.matchAll(/\d{3}-\d{2}-\d{5}/g)];
++    console.log('Biz matches:', bizMatches.map(m => m[0]));
++    console.log('Footer snippet:', r.data.substring(Math.max(0, r.data.length - 2000)));
++  }
+ }
+ run();
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

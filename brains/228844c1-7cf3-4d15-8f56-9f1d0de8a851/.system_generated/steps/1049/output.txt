@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+=utf-8 : '=utf-8' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:1
++ ='utf-8'; C:\Users\lg\.local\bin\python3.11.exe 'C:\Users\lg\.gemini\ ...
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (=utf-8:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Matches for rows >= 1091: 70 out of 500 empty rows
+Row 1571 [1570]: � | BNO: 6098608671 | Rep:  | Addr: �泲 â� �걸 � 171, ȿ�1� � (�,ȿ�߰�(�))
+Row 1601 [1600]: �â� | BNO: 6062737864 | Rep: �â� | Addr: �泲 �ؽ� �̸� �η�1637� 151-34 (�)
+Row 1625 [1624]: �ġ�̼� | BNO: 6032476756 | Rep: �ڰɼ� | Addr: �λ걤� �ؿ�뱸 �߾ӷ� 90, ť�e� �Ļ� 1401ȣ (�۵�)
+Row 1800 [1799]: � | BNO: 6212114645 | Rep: �迵� | Addr: � �ϸ� � 3� 49
+Row 1825 [1824]: �ġ� | BNO: 2818703174 | Rep: �̼� | Addr: �λ� �ؿ�뱸 �߾ӷ� 55, 9� 2ȣ (�쵿,�泲�뼾�ķ�۽�)
+Row 1874 [1873]: �ֽ�ȸ� �θ�Ʈ | BNO: 1118700112 | Rep: � | Addr: �λ� �199� 15, 12� 1207ȣ(�, �Ÿ�ǽ�)
+Row 1909 [1908]: �ֽ�ȸ� �Ÿ� | BNO: 8098802607 | Rep: �ȯ | Addr: �λ� � � 40, 22� �׽�Ʈ�-4  (�,�λ�ũ�ũ�-�̽�)
+Row 1928 [1927]: �ƽ�ñ׳� | BNO: 4058802083 | Rep: �ӻ� | Addr: �λ� �ؿ�뱸 �߾ӷ� 48, 1304ȣ (�쵿,�̽�ũ21)
+Row 1932 [1931]: �Ʈ | BNO: 3118602993 | Rep: �缱 | Addr: �λ� �ؿ�뱸 �߾ӷ� 66, 607ȣ (�쵿,�ƼŸ�)
+Row 1957 [1956]: �ؿ� | BNO: 7523400289 | Rep: � | Addr: �λ걤� �ؿ�뱸 �߾ӷ� 90, 12� 1202 (�۵�)
+

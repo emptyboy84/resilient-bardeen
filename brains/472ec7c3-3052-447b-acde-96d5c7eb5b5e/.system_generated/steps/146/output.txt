@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+LINE: function Ol(){return Rl(Y(Vi,!1),process.argv,pn.app.commandLine.hasSwitch(Gi))}function kl(){if(Ol()){u.warn("gpu_fallback","Software-rendering fallback active
+LINE: for(let{name:e,value:t}of Ll())u.info("gpu_fallback",`Applying software-rendering switch --${e}${t===void 0?"":`=${t}`}`),t===void 0?pn.app.commandLine.appendSwitch(e):pn.app.commandLine.appendSwitch(e,t)}}function Ko(e){return Ol()?(u.error("gpu_fallback",`Crash persists with software rendering (${
+LINE: function Zs(e=process.argv){return I==="dev"||e.includes("--dev")||e.includes("--no-rate-limit")||!!m.app.commandLine&&(m.app.commandLine.hasSwitch("dev")||m.app.commandLine.hasSwitch("no-rate-limit"))}function Xs(e){if(e.includes("--open-logs")||m.app.commandLine.hasSwitch("open-logs")){let n=In()
+LINE: o?n.openSettingsWindow(o):u.warn("main","Cannot open settings: main window is not available")})):e.includes("--switch-account")?qr():e.includes("--sign-out")?Yr():e.includes("--test-dump-without-crash")||m.app.commandLine.hasSwitch("test-dump-without-crash")?t&&(u.info("main","Executing diagnostic -
+LINE: e=Dl(e,t,a),t=a}x("navigation_state",ge("crashed",Aa(s.type,s.reason,s.exitCode,l?e:void 0))),l&&e>=3&&Ko(`gpu:${s.reason}:${s.exitCode}`)}),m.app.enableSandbox(),m.app.commandLine.appendSwitch("process-per-site"),ia(),m.app.setName(Zr),m.app.setAppUserModelId(Rn),m.app.userAgentFallback=yc(m.app.us
+LINE: ns().catch(l=>{u.warn("main","Failed to flush Streamz logger on quit",l)}).finally(()=>{clearTimeout(s),st(),m.app.quit()})}),m.app.on("before-quit",()=>{u.info("main","Application before-quit received")}),m.app.on("window-all-closed",()=>{m.app.quit()})}function Bg(){if((m.app.commandLine.hasSwitch
+LINE: t&&m.app.commandLine.appendSwitch("log-file",ed.join(t,"chromium.log")),m.app.commandLine.appendSwitch("v","1")}kl()
+LINE: e!==null?(M("suppressQuitConfirmation",e),st(),m.app.exit(0)):m.app.requestSingleInstanceLock()?Fg():(u.warn("main","Primary single-instance lock acquisition failed
+

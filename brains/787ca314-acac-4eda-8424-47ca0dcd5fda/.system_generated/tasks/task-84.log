@@ -1,0 +1,25 @@
+Loading workbook...
+Total rows in sheet: 1048576
+Column Mapping: 작성자=1 (작성자), 회사명=3 (회사명), 사업자번호=4 (사업자번호), 법인번호=25 (법인번호)
+All Authors in sheet: [
+  '정은미',        '김유진',
+  '서고은',        '차민영',
+  '이수민',        '이재호',
+  '안재한',        '배현명',
+  '서고은(7.20)',  '정은미(7.20)',
+  '차민영(7.20~)', '김유진(7.20)',
+  '이재호(7.20~)', '안재한(7.20~)',
+  '이수민(7.20~)', '김유진(7.20~)',
+  '정은미(7.20~)', '서고은(7.20~)'
+]
+Found 1500 rows for '배현명'.
+
+--- [배현명 데이터 분석 요약] ---
+총 행 수: 1500
+법인번호 정상(체크섬 통과): 560
+개인사업자(법인번호 없음, 정상): 854
+법인 추정이나 법인번호 누락(빈값): 74
+개인사업자인데 법인번호 기재(오류 의심): 5
+기재된 법인번호 체크섬 불일치: 12
+
+Report written to C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_corp_reg_number/bae_validation_report.json

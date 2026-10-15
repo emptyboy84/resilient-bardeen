@@ -1,0 +1,26 @@
+The search for ""하이라이트스튜디오" 부산 OR 애니메이션 OR "하이라이트 스튜디오"" returned the following summary:
+요청하신 키워드와 관련하여 검색된 주요 정보는 다음과 같습니다.
+
+**1. '하이라이트 스튜디오' 관련 기업 및 서비스**
+*   **영화 제작사:** 서울특별시 강남구에 위치한 '하이라이트 스튜디오'라는 이름의 영화 제작사가 등록되어 있습니다[1][2].
+*   **소프트웨어/앱:** 최근 구글 픽셀 11 프로의 '하이라이트(HiLight)' 알림 조명 기능을 확장하여 제어할 수 있게 해주는 비공식 오픈소스 앱의 이름이 '하이라이트 스튜디오(HiLight Studio)'입니다[3][4].
+*   **기타:** 치과 전문 웹 에이전시 등 동일한 명칭을 사용하는 소규모 업체들이 존재합니다[5].
+
+**2. 부산 및 애니메이션 관련 정보**
+*   **부산 관련:** '하이라이트 스튜디오'라는 명칭 자체로는 부산과 직접적으로 연관된 대형 애니메이션 스튜디오는 확인되지 않습니다. 다만, 부산 지역에는 '이와이엠알 스튜디오(EYMR STUDIO)'와 같은 영화사나, 웨딩 본식 DVD 촬영을 전문으로 하는 '스튜디오 다믐' 등 다양한 촬영/제작 스튜디오들이 활동하고 있습니다[1][6][7].
+*   **애니메이션 관련:** 애니메이션 제작사와 직접적인 연관성은 낮으나, AI 비디오 생성 기술(Sora, Kling 등)이나 게임 하이라이트 영상 제작 툴과 관련하여 '애니메이션 스타일'이나 '하이라이트 스튜디오'라는 용어가 기능적 설명으로 함께 사용되는 경우가 있습니다[8][9][10][11].
+
+검색 결과상 '하이라이트스튜디오'가 부산 소재의 유명 애니메이션 제작사로 운영되고 있다는 정보는 찾기 어려우며, 위와 같이 영화 제작, 소프트웨어 개발, 또는 일반 스튜디오 명칭으로 주로 사용되고 있습니다. 찾으시는 정보가 특정 애니메이션 작품이나 다른 분야라면 추가 정보를 알려주시기 바랍니다.
+
+Sources:
+[1] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDrpBAZsQm1R-UBUEbA9j3Ym2bieFCp_IhVQinJXCd_NNG4jMGMiXTBJrE1ihO8iVxS4oSkBlpwsBMogGVKS_Yvynmj-7HxxnC0DjA7mQpo826ld4A-ddkdv2XAxBHO9l_7F3_PgEevJo4q0BKHOEt9Ugq0zc=)
+[2] [vkobis.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDrpBAZsQm1R-UBUEbA9j3Ym2bieFCp_IhVQinJXCd_NNG4jMGMiXTBJrE1ihO8iVxS4oSkBlpwsBMogGVKS_Yvynmj-7HxxnC0DjA7mQpo826ld4A-ddkdv2XAxBHO9l_7F3_PgEevJo4q0BKHOEt9Ugq0zc=)
+[3] [economyseen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEem5yvsaEP7RBFYd4J42u5nWvCY7HMN8CqLgTasbnoQ5VC-Cw-CL2tQPiztNN97TN2DNycDyYAG4KMH9w3iMdhf1T5iViVpC0n6YPPVIVKm0hjaYx0sQ7j89jPzJGbVDlwGljJS2jKVUEf7Mf_Wi6MWhVEOWCmw63CD7wV06dusswsN50PrgDb86l8ECIDZFLal8dLo1HM_LIyPQnDGaGhKR4KiLSOXv5xnfIQ9w5dhZRJa3N4pkNPQfKeWbMlXYvbmu5S4urxWpCky5YW5HwEz3KECt3NrhvyHy3WZ92BNIyE7ARGcZJwDe8Ule-i28jZBW6m0-cJ8kFBk0TBDm7zt8bXkaKR6yJ2Df25Vg==)
+[4] [wikitree.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh5H6nVXBvCh_OlPK4Nyho43zQtSQWxlwhrayopVyRVgXIKvg0gx1y_L2xB_TSBaNEnof5sXBXNbkmbyoii4G8GBRlRqObwu4kTOe_HG6g3vy8-AUTD0kv2j7HMDV04XGZ)
+[5] [imweb.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKr6J96N6m7zrwmr3xwTu9zMcX5OmntG0TeRgFh3w4pK29Om0geu277PDKaoDz-d-LJkZ-T6m9VVhhAIeDoHQ451b5G-jLK4GRV9sS3Ve7PFHyyP3l5p61VmA5DEl1)
+[6] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZLWUva-O24XqEXeKAsuImu0kIHQvpy8XQEUxAtGiUOikVnPXWZYwYPb95Z3QJIFtmWQy-m-yjFZzVP9_MeUCZXuXsKy5nvNbvpzdNu7IAhrragKNET8ix4h6l-XKmYoJ-)
+[7] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3qZtH8hxJ43oaylq7_95uHEZHH7hzRsRY6l3sdzqQuPq3XhhRDSFrGIW7IkMlI2C9CLTdnj6yFLVthL0SlyTFSfOcdwrOQ73cg5e_eKmLAOJCB90iUdn8OxkTTdXcof4X)
+[8] [kling.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFErWbv2p2VWglKdLpa_jSr0FImA8Q0v0cCMA8rNHOlnB7k3wFV8ecAOcByXHmfZRf7W8ZhdlmB5lwLCXoQlHiWOXr7FPdeVeVkYQ6nDHZytYs9ymJ3ZvQluM9GfDV8Budd_yce0TWkjbLzHWCJ-RydTAuRcKfX)
+[9] [capcut.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV4M5JxNZH0g8b3IzA-b5JDsndxRlhGegGz97asKaJy2uSYHKzMngKvGnNcA-YLJdadwDc2ChG6yk0bKpOONXrPczJEFFFI2P4uDx6NEvDnlvblBZdG8UC90DV0KH8tg8dblNIQjNQYfBsEg6ii1wMI7uQi4LQYXtq1g==)
+[10] [imastudio.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKWc2DK80vQ6JpanHHj6saV8u0AGNtLcA0j2ftTG8UQAgudIvknuf2ruOnP3E6E6AY5wrVbUq9h7stunW3TTLW3cSP5g5w4ozwO2ht8NyVlCTk6I8_6TNwcLSJ3CS4Ms3GP-5hLo_fl9SrbJT6DdE=)
+[11] [pollo.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3NbvP-P1oXOC5ARTt_bdD2BfrWB3n05Vn5M5E7xwnlJa5CDfi0Q-bDKqr-wYVw29cwS_Ly-ydDuu-rodrQcT6pPdOI1UZ5ynPIBHaGcPoFrqBRKu-UbrZ93DhdcY39zNdGF2Hl0Z5UWKZKQ==)

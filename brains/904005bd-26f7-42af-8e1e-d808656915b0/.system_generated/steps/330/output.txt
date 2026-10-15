@@ -1,0 +1,11 @@
+The search for ""우수경" "부산웹툰페스티벌" OR "부산글로벌웹툰센터" OR "부산경남만화가연대"" returned the following summary:
+웹툰 작가 **우수경**은 **제2회 부산웹툰페스티벌**(2018년 개최) 당시 홍보 영상 릴레이에 참여한 작가 중 한 명으로 언급된 바 있습니다[1][2][3].
+
+해당 페스티벌은 **부산글로벌웹툰센터** 및 부산문화콘텐츠콤플렉스에서 개최되었으며, **부산경남만화가연대**와 (재)부산정보산업진흥원이 주관하였습니다[3][4][5].
+
+Sources:
+[1] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Oie4e7AGvGN9hDw4xH2vkJkGWZMITPkKLvYh-ZI329E7QvHO-lgUfmuXgJ3wI3X4aeQpTsSNQjmiCjuSlFshzWmywoTQKjq0fQ8upFKX1M6EKaVQphhymBY3IcJ1ZRcj1AbUHxCCoJXrK97-)
+[2] [yonhaptv.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGNfCaeb3wAxZblRwOAfjV1hIGTrVGkZmH8_iWYhhdz0KWeCmf-Ic85KQZExBf1snCLUL1tNIH7AX-ptwfbz40Eubb7QCSplp4W7DeLT16ktXuiuHcdsjc2fFb40_Jr6fbgzVUCtrcCC2OycRg2-LIxKYnKE-VipR_X3C5fsaxPeJeQ==)
+[3] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Oie4e7AGvGN9hDw4xH2vkJkGWZMITPkKLvYh-ZI329E7QvHO-lgUfmuXgJ3wI3X4aeQpTsSNQjmiCjuSlFshzWmywoTQKjq0fQ8upFKX1M6EKaVQphhymBY3IcJ1ZRcj1AbUHxCCoJXrK97-)
+[4] [ilyo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Oie4e7AGvGN9hDw4xH2vkJkGWZMITPkKLvYh-ZI329E7QvHO-lgUfmuXgJ3wI3X4aeQpTsSNQjmiCjuSlFshzWmywoTQKjq0fQ8upFKX1M6EKaVQphhymBY3IcJ1ZRcj1AbUHxCCoJXrK97-)
+[5] [yonhaptv.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElGNfCaeb3wAxZblRwOAfjV1hIGTrVGkZmH8_iWYhhdz0KWeCmf-Ic85KQZExBf1snCLUL1tNIH7AX-ptwfbz40Eubb7QCSplp4W7DeLT16ktXuiuHcdsjc2fFb40_Jr6fbgzVUCtrcCC2OycRg2-LIxKYnKE-VipR_X3C5fsaxPeJeQ==)

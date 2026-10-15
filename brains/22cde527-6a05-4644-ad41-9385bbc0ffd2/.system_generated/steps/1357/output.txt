@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+Status: 200 Length: 7330
+Tables found: 1
+Table snippet: <table class="board" summary="등록구분, 상호, 주소에 관한 목록입니다.">
+						<caption style="display: none">지역별- 목록</caption>
+						<colgroup>
+							<col style="width:20%" />
+							<col style="width:30%" />
+							<col />
+							<col style="width:20%" />
+						</colgroup>
+
+						<thead>
+							<tr>
+							<th scope="col">등록구분</th>
+							<th scope="col">상호</th>
+							<th scope="col">주소</th>
+							<th scope="col">영업구분</th>
+							</tr>
+						</thead>
+						<tbody>
+													<tr>
+								<td colspan="4">검색된 데이터가 없습니다.</td>
+							</tr>
+												</tbody>
+						</table>
+

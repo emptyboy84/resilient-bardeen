@@ -1,0 +1,8 @@
+### Result
+""
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.querySelector(\'#main_pack\')?.innerText || document.body.innerText;\n}');
+```
+### Page
+- Page URL: about:blank

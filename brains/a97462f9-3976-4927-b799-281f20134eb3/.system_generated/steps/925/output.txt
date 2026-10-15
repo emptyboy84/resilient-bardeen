@@ -1,0 +1,60 @@
+
+The command exited with code 0.
+Output:
+"1"� �μ� �ִ� "OpenRead"�(�) ȣ�ϴ� � �ܰ� �߻�߽�ϴ�. "�ο� �߸� �ڰ� �ֽ�ϴ�."
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:2 �:1
++ $zip = [System.IO.Compression.ZipFile]::OpenRead('C:\Users\lg\Desktop ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:3 �:1
++ $entry = $zip.GetEntry('xl/theme/theme1.xml')
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:4 �:1
++ $stream = $entry.Open()
++ ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+New-Object : �ڰ� �ϴ�. System.IO.StreamReader � � �ڸ� ã� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:5 �:11
++ $reader = New-Object System.IO.StreamReader($stream)
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (:) [New-Object], PSArgumentException
+    + FullyQualifiedErrorId : CannotFindAppropriateCtor,Microsoft.PowerShell.Commands.NewObjectCommand
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:6 �:1
++ $xml = $reader.ReadToEnd()
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:7 �:1
++ $reader.Close()
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:8 �:1
++ $stream.Close()
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch\read_theme.ps1:9 �:1
++ $zip.Dispose()
++ ~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+

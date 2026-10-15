@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Loading target file...
+Loading yesterday (20261014)...
+Loading deep 4th...
+Unique clean numbers from 20261014: 547
+Unique clean numbers from Deep4: 1543
+Unique masked numbers from Deep4: 177
+=== Task 1 Merge Summary ===
+Total companies: 3978
+User existing maintained: 800
+Merged clean from 20261014: 117
+Merged clean from Deep4: 811
+Total filled so far: 1728
+Remaining masked: 191
+Remaining completely empty: 2059
+Missing or masked starting from Seq 282: 2234
+First 10 missing/masked from Seq 282:
+Seq 293 | (주)유네이드홀딩스 | 대표: 이병상 | 사업자: 147-87-02439 | 상태: 미확인(누락)
+Seq 299 | 코니 | 대표: 김병일 | 사업자: 151-21-01530 | 상태: 미확인(누락)
+Seq 305 | (주)에스아이엠테크 | 대표: 김승기 | 사업자: 109-81-99487 | 상태: 미확인(누락)
+Seq 311 | (주)레드벨 | 대표: 강연화 | 사업자: 316-88-00752 | 상태: 미확인(누락)
+Seq 315 | (주)웨이브그램 | 대표: 김정훈 | 사업자: 369-87-03120 | 상태: 미확인(누락)
+Seq 317 | (주)어반울프게임즈 | 대표: 강병직 | 사업자: 202-81-65608 | 상태: 미확인(누락)
+Seq 318 | (주)온클레브 | 대표: 이재원 | 사업자: 726-86-01973 | 상태: 미확인(누락)
+Seq 320 | (주)보고 | 대표: 조준형 | 사업자: 551-81-02937 | 상태: 미확인(누락)
+Seq 323 | (주)테렌즈 | 대표: 조용원 | 사업자: 394-81-01596 | 상태: 미확인(누락)
+Seq 327 | (주)지앨 | 대표: 박성수 | 사업자: 789-87-03154 | 상태: 미확인(누락)
+

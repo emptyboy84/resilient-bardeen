@@ -1,0 +1,80 @@
+
+The command exited with code 0.
+Output:
+<truncated 45 lines>
+[40] R1589 (Seq 1588) 에스씨제이 | Biz: 607-81-83801 | CEO: 윤성원 | Cat: 만화 | Note: 폐업자
+[41] R1601 (Seq 1600) 성창산업 | Biz: 607-55-60361 | CEO: 성창달 | Cat: 출판 | Note: null
+[42] R1603 (Seq 1602) 케이멕스 | Biz: 126-20-56070 | CEO: 정태석 | Cat: 캐릭터 | Note: null
+[43] R1604 (Seq 1603) 고움 | Biz: 372-81-00243 | CEO: 임서현 | Cat: 캐릭터 | Note: 폐업자
+[44] R1606 (Seq 1605) 해승J&T | Biz: 618-02-22245 | CEO: 박해승 | Cat: 캐릭터 | Note: null
+[45] R1625 (Seq 1624) 에이치와이선라이즈 | Biz: 603-24-76756 | CEO: 박걸수 | Cat: 애니메이션 | Note: null
+[46] R1626 (Seq 1625) (주)네오테크놀러지 | Biz: 617-81-43790 | CEO: 공기정 | Cat: 애니메이션 | Note: 폐업자
+[47] R1627 (Seq 1626) 삼주 | Biz: 602-81-40485 | CEO: 백승용 | Cat: 영화 | Note: null
+[48] R1629 (Seq 1628) 나웅 | Biz: 605-81-35400 | CEO: 박병주 | Cat: 출판 | Note: null
+[49] R1630 (Seq 1629) 한스이엔지 | Biz: 603-81-24251 | CEO: 한상남, 오영훈 | Cat: 캐릭터 | Note: null
+[50] R1645 (Seq 1644) 한솔교육 | Biz: 604-81-37837 | CEO: 오규태 | Cat: 출판 | Note: null
+[51] R1647 (Seq 1646) 한국전화번호부부산센터 | Biz: 607-85-14597 | CEO: 김성민 | Cat: 출판 | Note: null
+[52] R1674 (Seq 1673) 북카페심심푸리 | Biz: 482-52-00083 | CEO: 김정혜 | Cat: 만화 | Note: null
+[53] R1679 (Seq 1678) 블루젯 | Biz: 617-90-98341 | CEO: 원성은 | Cat: 만화 | Note: null
+[54] R1684 (Seq 1683) 주식회사초록이웃 | Biz: 308-88-02725 | CEO: 황종필 | Cat: 방송 | Note: null
+[55] R1705 (Seq 1704) 아트뮤직 | Biz: 617-29-75839 | CEO: 김광록 | Cat: 음악 | Note: null
+[56] R1718 (Seq 1717) 주식회사 우리누리 사직동지점 | Biz: 772-85-00887 | CEO: 최호철 | Cat: 지식정보 | Note: null
+[57] R1719 (Seq 1718) 제이케이스크린(사직점) | Biz: 234-57-00475 | CEO: 서주동 | Cat: 지식정보 | Note: 폐업자
+[58] R1720 (Seq 1719) 안락스크린골프연습장 | Biz: 861-10-01121 | CEO: 김보민 | Cat: 지식정보 | Note: 폐업자
+[59] R1731 (Seq 1730) 주식회사 씨에스케이 | Biz: 893-88-00021 | CEO: 임오철 | Cat: 지식정보 | Note: null
+[60] R1732 (Seq 1731) 아이지오 | Biz: 876-87-00878 | CEO: 이재홍 | Cat: 지식정보 | Note: null
+[61] R1744 (Seq 1743) 레더스 | Biz: 442-88-01249 | CEO: 정민근 | Cat: 지식정보 | Note: 폐업자
+[62] R1750 (Seq 1749) 명지 녹산 부산일보 및 동아일보 | Biz: 606-06-99924 | CEO: 박홍식 | Cat: 출판 | Note: null
+[63] R1753 (Seq 1752) 국제，동아，경향신문보급소 | Biz: 621-11-99553 | CEO: 손득자 | Cat: 출판 | Note: null
+[64] R1755 (Seq 1754) (사) 부산대학교 출판문화원 | Biz: 621-82-00477 | CEO: 차정인 | Cat: 출판 | Note: null
+[65] R1759 (Seq 1758) 주식회사 홍조출판 | Biz: 376-86-01161 | CEO: 조영동 | Cat: 출판 | Note: null
+[66] R1762 (Seq 1761) 조선일보 신사직 지국 | Biz: 607-18-52885 | CEO: 김규형 | Cat: 출판 | Note: null
+[67] R1765 (Seq 1764) 아이북랜드 | Biz: 624-02-03904 | CEO: 안종호 | Cat: 출판 | Note: null
+[68] R1766 (Seq 1765) 부산중앙일보가야 | Biz: 605-15-72303 | CEO: 조만재 | Cat: 출판 | Note: null
+[69] R1767 (Seq 1766) 부산일보 당감지국 | Biz: 605-15-50255 | CEO: 김재익 | Cat: 출판 | Note: 폐업자
+[70] R1773 (Seq 1772) 북컬쳐(부산) | Biz: 622-01-46462 | CEO: 김광윤 | Cat: 출판 | Note: null
+[71] R1778 (Seq 1777) 주식회사 아트몰링리노베이션 | Biz: 409-87-03113 | CEO: 김중근 | Cat: 출판 | Note: null
+[72] R1793 (Seq 1792) 도서출판CTM | Biz: 605-91-52150 | CEO: 김성철 | Cat: 출판 | Note: 폐업자
+[73] R1797 (Seq 1796) 도서출판양업서원 | Biz: 617-85-19793 | CEO: 민병선 | Cat: 출판 | Note: 폐업자
+[74] R1798 (Seq 1797) 한얼꿈출판사 | Biz: 607-92-00714 | CEO: 조서목 | Cat: 출판 | Note: 폐업자
+[75] R1805 (Seq 1804) 유한회사 키즈플레이타운 | Biz: 413-87-02355 | CEO: 이정엽 | Cat: 캐릭터 | Note: null
+[76] R1807 (Seq 1806) (주)삼성출판사 롯데동래점 | Biz: 343-85-00791 | CEO: null | Cat: 캐릭터 | Note: null
+[77] R2273 (Seq null) 겜스터즈 | Biz: 316-81-30602 | CEO: 손민기 | Cat: 게임 | Note: null
+[78] R2274 (Seq null) 블루솜 | Biz: 617-81-57256 | CEO: 송호진 | Cat: 게임 | Note: null
+[79] R2275 (Seq null) 프로비스 게임즈 | Biz: 352-81-02780 | CEO: 이기산 | Cat: 게임 | Note: null
+[80] R2276 (Seq null) 에스피코리아 | Biz: 250-81-00813 | CEO: 유병욱 | Cat: 게임 | Note: null
+[81] R2277 (Seq null) 숲과교육 주식회사 | Biz: 355-87-02802 | CEO: 박은경 | Cat: 게임 | Note: null
+[82] R2278 (Seq null) 스토리진 | Biz: 602-06-43845 | CEO: 김대영 | Cat: 게임 | Note: null
+[83] R2279 (Seq null) 주식회사 페이즈포 | Biz: 681-88-02896 | CEO: 이상후 | Cat: 게임 | Note: null
+[84] R2280 (Seq null) 파크이에스엠 | Biz: 214-87-80017 | CEO: 이승찬 | Cat: 게임 | Note: null
+[85] R2281 (Seq null) 스튜디오 모하지 | Biz: 769-36-01505 | CEO: 안태성 | Cat: 게임 | Note: null
+[86] R2282 (Seq null) 주식회사 무기고 | Biz: 180-87-02493 | CEO: 김우성 | Cat: 게임 | Note: null
+[87] R2283 (Seq null) 아크리아스튜디오 | Biz: 807-87-03087 | CEO: 남득현 | Cat: 게임 | Note: null
+[88] R2284 (Seq null) 깡토 스튜디오 | Biz: 299-28-01210 | CEO: 박정서 | Cat: 게임 | Note: null
+[89] R2285 (Seq null) 용게임즈 | Biz: 715-12-02253 | CEO: 백용익 | Cat: 게임 | Note: null
+[90] R2286 (Seq null) 주식회사 포텐츠 | Biz: 592-81-00847 | CEO: 이헌우 | Cat: 게임 | Note: null
+[91] R2287 (Seq 휴업자) 와이어스 | Biz: 707-06-03018 | CEO: 이재훈 | Cat: 게임 | Note: 휴업자
+[92] R2288 (Seq null) 유티플러스 인터랙티브 | Biz: 214-87-95150 | CEO: 유태연 | Cat: 게임 | Note: null
+[93] R2289 (Seq null) 좀비메이트 | Biz: 249-88-02673 | CEO: 김윤수 | Cat: 게임 | Note: null
+[94] R2290 (Seq null) 스튜디오 마체테 | Biz: 344-04-00970 | CEO: 조민호 | Cat: 게임 | Note: null
+[95] R2292 (Seq null) 넥슨커뮤니케이션즈 | Biz: 617-81-94173 | CEO: 이경준 | Cat: 게임 | Note: null
+[96] R2293 (Seq null) 늘아이엔씨 | Biz: 6068185602 | CEO: 조현석 | Cat: 게임 | Note: null
+[97] R2294 (Seq null) 빅잼 | Biz: 6078601783 | CEO: 김현수 | Cat: 게임 | Note: null
+[98] R2297 (Seq null) 아이소프트 | Biz: 607-86-15934 | CEO: 최동규 | Cat: 게임 | Note: null
+[99] R2298 (Seq null) 아이큐브 | Biz: 617-17-14601 | CEO: 이향진 | Cat: 게임 | Note: null
+[100] R2299 (Seq null) 아이티에프씨 | Biz: 2438601731 | CEO: 곽서준 | Cat: 게임 | Note: null
+[101] R2300 (Seq null) 에핀 | Biz: 6178600442 | CEO: 전영미 | Cat: 게임 | Note: null
+[102] R2301 (Seq null) 오윈스 | Biz: 3408100590 | CEO: 강주영 | Cat: 게임 | Note: null
+[103] R2302 (Seq null) 정솔루션 | Biz: 2928702665 | CEO: 김재봉 | Cat: 게임 | Note: null
+[104] R2303 (Seq null) 코시 | Biz: 6078127134 | CEO: 장용설 | Cat: 게임 | Note: null
+[105] R2304 (Seq null) 큐로드부산지사 | Biz: 1208824018 | CEO: 길호웅 | Cat: 게임 | Note: null
+[106] R2305 (Seq null) 토파즈게임즈 | Biz: 5508601963 | CEO: 이채석 | Cat: 게임 | Note: null
+[107] R2306 (Seq null) 투엘 | Biz: 140-32-00726 | CEO: 장창우 | Cat: 게임 | Note: null
+[108] R2308 (Seq null) 피티오크리에이티브 | Biz: 5108600398 | CEO: 이승훈 | Cat: 게임 | Note: null
+[109] R2309 (Seq null) 주식회사 루미게임즈 | Biz: 1088703049 | CEO: 김동휘 | Cat: 게임 | Note: null
+[110] R2310 (Seq null) 수플랩스㈜ | Biz: 7108703032 | CEO: 안혜진 | Cat: 게임 | Note: null
+[111] R2311 (Seq null) 원스튜디오 | Biz: 5663901417 | CEO: 한믿음 | Cat: 게임 | Note: null
+[112] R2312 (Seq null) 레드피넛봄버 | Biz: 8595200721 | CEO: 이윤진 | Cat: 게임 | Note: null
+[113] R2313 (Seq null) 테듀교육진흥원 주식회사 | Biz: 3108603290 | CEO: 안재규 | Cat: 게임 | Note: null
+[114] R2314 (Seq null) 주식회사 이데아디엑스 | Biz: 4708703279 | CEO: 김래연 | Cat: 게임 | Note: null
+

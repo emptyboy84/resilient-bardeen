@@ -1,0 +1,17 @@
+The search for ""부산" "남구" "대연동 76-5" 도로명주소 OR "수영로"" returned the following summary:
+부산광역시 남구 대연동 76-5번지에 위치한 건물은 **현대오피스텔**입니다[1].
+
+문의하신 주소와 관련하여 참고할 사항은 다음과 같습니다.
+
+*   **지번주소:** 부산광역시 남구 대연동 76-5[1][2]
+*   **도로명주소:** 해당 지번(대연동 76-5)의 도로명주소는 공식적인 도로명주소 시스템에서 확인이 필요하며, 특정 건물(현대오피스텔)로 검색 시 해당 위치의 상세 도로명주소를 확인하실 수 있습니다[3][4].
+*   **참고:** '수영로'는 부산 남구 대연동을 관통하는 주요 도로명 중 하나이나[5][6][7], '수영로 76-5'라는 주소는 일반적인 도로명주소 체계와 다를 수 있으므로[4], 정확한 우편물 발송이나 방문을 위해서는 도로명주소 안내 홈페이지에서 다시 한번 확인하시는 것을 권장합니다[4].
+
+Sources:
+[1] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYtPrt2pdhLYbeFmse6JS1y-_TaFkcaIOKFSUXTagLmuPEKQs_1lqp5IhlokA04dprGvsSaWcRpUv9VbopLbIst_55PAB4RkvMuWI-Nuw=)
+[2] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERBQZPgmAwoQfaMnP--to9mtMrdc-rsznuxYtvQSIG_D0HV78WI_jHaFMYPpXdbWPnTE5nd41q1Iekbrx92H8B-7zz9RyDwrM-ojxlL8qr8_esGNuZ5KSk)
+[3] [kca.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsTD4I60bSJsmZ7QRwyIG2vN796XhEZcskaL1olY0cm4ok6y5rg3qCIZ8Bw8YtU1eABRC6BuHxigUEwszXWZJyuFP3tcdcLIUadx-ZzYgRm8iqe3bJzenx6-qGmA==)
+[4] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ZZVDs0LOOzQcQ2YP2CYuh4DcDWUcnoNZk-rPS4FNZJDPt-XJQiVu1BX-9xh7xfkCpoRhqohS6sfAu6wiU0ZTSH73ewREjkpo0lemISPeIHuxEu2Vl88hTzjSqTxLUR_9KPFhJfXobW8=)
+[5] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9ONl_XqHyrijSw2igbCanmOxOxNHLMsfNmcNpWR2Y_BWBsM-HoOmdfoLaY0tJkJspyj6eqmzjsNtoqkdnwpgo7ytePu5Xt7xwkoTb6sGGGUg5YpwroOE2Pud6BT_B_Xa6ODaOj8wrz-zxoH0xplkfMzfIJt8IkgSJH9W4pVFOttJhzlILXtI8pk0tEi7fYQvgUhOnnFkWix9hLcwC0LjDHBtyI02McdXeEDWhjIxn3wHsGwRBn4kVe81HZVLqxQMX-oCs6WrdKqrXoezOSJB0yf9RN7tLLakfq7-BvDeEUXGldAfiLOyZSt-WedyZB3tGCGyV68i3UZoOy5rQsStirVg6ht43IkHeHtiFDi2LM4ah5XPhP3Ly4uhOdeNu8WI5CVbs4i_fOZO9mNA=)
+[6] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73nbPD_DP8Bfb8r2cDPsKUlH_2HrvIA0Y365w5_fV6t9QpD60fzpCWrq76L_OZhc51QWNY2JWinFMk32ZcUDJqgHstiG0o5siYjraNa0uHe4-fHghI4Zi-Zy8WujfmIeJQOdLVE6yi9x6v7nDTkN0RPP07EE5RJmSIkDhwCyFaayWH5iqYzG3jDCxsE5Ce3tU-lgQE7_o_AWTHpGehXzp1rxrdlwPC7U2NG0auaAyLEBdEeYB_FTvbQ==)
+[7] [medieus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEg-Y0vr5pvm5WXBVxMQ3tSpE_oh8q2zkTKuJ2riojydvhvvYUzBMAe1ONefv7Sl82PhFr0m9hSu40oOdnMflf84NhIq1iQeHivUyjWrWRxXxPgqAP6KKuC0ZH8oTl5NNwlTeKAmf3lCAdSTg0tQ4w78eIw==)

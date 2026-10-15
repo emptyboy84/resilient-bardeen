@@ -1,0 +1,26 @@
+The search for ""이소민" "콘텐츠솔루션"" returned the following summary:
+검색하신 '이소민'과 '콘텐츠솔루션'이라는 키워드로 확인되는 정보는 다음과 같습니다.
+
+특정 기업명으로 '콘텐츠솔루션'이라는 이름을 가진 곳은 확인되지 않으나, 관련 분야에서 활동하는 인물 정보들이 검색됩니다.
+
+*   **관련 인물 정보:**
+    *   **PM(기획자) 이소민:** 클라우드 기반 맞춤형 XR(확장현실) 콘텐츠를 다루는 곳에서 서비스 및 콘텐츠 기획, 스크럼 마스터 등을 담당한 이력이 있습니다[1][2].
+    *   **집필 및 교육 분야 이소민:** 리더십, 코칭, AI 시대의 리더십 등을 주제로 다수의 도서를 집필하고 컨설팅/교육 분야에서 활동하는 전문가가 있습니다[3][4][5][6].
+    *   **PD 이소민:** 넷플릭스 오리지널 예능 '대환장 기안장' 등을 연출한 PD가 있습니다[7].
+    *   **기타:** 한국국제문화교류진흥원 등에서 콘텐츠 관련 기획·편집 업무를 수행하는 이소민 님 등이 확인됩니다[8].
+
+*   **참고 사항:**
+    *   '콘텐츠 솔루션'은 특정 기업명이라기보다는 XR, 마케팅, 교육 등 다양한 산업에서 콘텐츠를 기획·제작하거나 관련 기술을 제공하는 **서비스의 형태**로 많이 쓰이고 있습니다[1][9][10].
+    *   혹시 특정 회사나 인물에 대해 더 구체적인 정보(예: 근무하는 회사명, 직함 등)를 찾으시는 것이라면, 해당 정보를 함께 질문해 주시면 더욱 정확한 답변이 가능합니다.
+
+Sources:
+[1] [zero-base.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsnurPmaULlDkaGGOhC0fbT-As379VB1UXa88-uN_UbGClRkluLuRTyeAaI_60OrjKTKH_A-KGSNHHxPs7FJktGU5cSNiK-OvLMLt0So_yUajnZKtxpwSaDbfYv_zMSuRXzLD1RRAkSRFmja6sjUI68n29tAY=)
+[2] [zero-base.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsnurPmaULlDkaGGOhC0fbT-As379VB1UXa88-uN_UbGClRkluLuRTyeAaI_60OrjKTKH_A-KGSNHHxPs7FJktGU5cSNiK-OvLMLt0So_yUajnZKtxpwSaDbfYv_zMSuRXzLD1RRAkSRFmja6sjUI68n29tAY=)
+[3] [kma.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkL6fw7JjgnD0X7JogHQBk3HBGdC0i1IQC_s72bGkQlBjr71d5490ekt3zkjKeZW9-2cnD2HKnNQYImSqkOFAnM2CI5JKp-IVeXCDdVZZEOLS39YAS6PM8iLK3wWlv25qCpShDKX0driFPB3RSBprvgAjQHGvehCTd-1EiOt84XpfvsS6irc1dIcULtQ762OxrVBeKBoJzoY9x9eTFE-qY-95yEyRfnHv2avf6v6FmHSKmLPQB_H1gDNDG8te7H4PZzENDHKuLPhXwzgY=)
+[4] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5kMxeOck2WG5v5COVqTx_gWMW23QLs0jAYbboDjmyug0Xd4D-iZt2v54hhZs6M3z_j8D6BbRRMfc5CZ9QDP7rCOSxt_zkvcsFr0LIWoEtoijzaSy91DaKfPkTmw0-m1r9D9fpEca_ue0MU5tApF-ElSR3E-__-ihV5wDytBQ5wX0=)
+[5] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5kMxeOck2WG5v5COVqTx_gWMW23QLs0jAYbboDjmyug0Xd4D-iZt2v54hhZs6M3z_j8D6BbRRMfc5CZ9QDP7rCOSxt_zkvcsFr0LIWoEtoijzaSy91DaKfPkTmw0-m1r9D9fpEca_ue0MU5tApF-ElSR3E-__-ihV5wDytBQ5wX0=)
+[6] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5kMxeOck2WG5v5COVqTx_gWMW23QLs0jAYbboDjmyug0Xd4D-iZt2v54hhZs6M3z_j8D6BbRRMfc5CZ9QDP7rCOSxt_zkvcsFr0LIWoEtoijzaSy91DaKfPkTmw0-m1r9D9fpEca_ue0MU5tApF-ElSR3E-__-ihV5wDytBQ5wX0=)
+[7] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIa71cu-vFXPI5WZUnKB0tZR8pTeQ-Wvwaxxqf-Ii2i78kVRoyjBV-mTdnuZc1brdpv1iJ024TIkSZaVoUUoe2Lv4ATMdQYpqoACfM6uICCvvPCJ0DGoaOItae8tF2ABb7uA==)
+[8] [archivecenter.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUSz65i7MXuu8BA2fR14YkEklRRebnIYlVTCeW1LP_DdpRchrqzUPxVlUwMtgZ_hvZW5xBC9bzpJ3ty3qfAHNcFv42ReDUROkxdicACvNKeyjxgHA-NqvBFOAxmRrEX-cULw==)
+[9] [shutterstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQZFiDs1tvWm9NDfMx-DK0ZXFQqCvoDDMYM5v-0k9UMEpzekyr9ZOre5vsyhckclqP1kBf3O0ejJmVG6cJCyjmOKkaJmGx04j7PcgrIpKNt-OCalv1PFDAsBdqZeiLaV51waB4-wl54lUrlfyTsUg=)
+[10] [wepick.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWPpo2JTQEtJoGcc986QSvLhizj9GcfuVdKHu1UFChpwI63wM12JmCBr_BnRplh9x_qGgPQyXX4-XBgmX1vtwdHXA8BKyj2Xbe0ZS76quOzw==)

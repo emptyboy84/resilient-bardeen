@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+{
+  bizno: '6090695719',
+  status: '',
+  zip: '51399',
+  addr: '경상남도 창원시 의창구 죽전로 6 경상남도 창원시 의창구 팔용동 60-10',
+  employees: '8'
+}
+

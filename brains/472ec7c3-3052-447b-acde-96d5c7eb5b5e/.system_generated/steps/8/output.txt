@@ -1,0 +1,44 @@
+
+The command exited with code 0.
+Output:
+
+
+Id               : 516
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 359276544
+
+Id               : 3972
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 7651328
+
+Id               : 22296
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 49901568
+
+Id               : 23928
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 17580032
+
+Id               : 37196
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 82300928
+
+Id               : 39316
+MainWindowTitle  : 
+MainWindowHandle : 0
+Responding       : True
+WorkingSet64     : 5648384
+
+
+
+

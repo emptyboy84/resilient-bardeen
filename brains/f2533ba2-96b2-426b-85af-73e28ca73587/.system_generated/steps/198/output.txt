@@ -1,0 +1,9 @@
+The search for ""대상종합건설" "김영상" "사업자등록번호" OR "법인등록번호"" returned the following summary:
+검색 결과, **대표자 김영상이 운영하는 '대상종합건설(주)'**에 대한 기업 정보는 확인되나, 공개된 자료에서 해당 기업의 **사업자등록번호** 또는 **법인등록번호**를 명확하게 특정할 수 있는 정보는 검색되지 않았습니다[1][2][3].
+
+일반적으로 기업의 정확한 사업자등록번호나 법인등록번호는 **[공정거래위원회 기업정보](https://www.ftc.go.kr/)**, **[대법원 인터넷등기소](http://www.iros.go.kr/)**, 또는 **[국세청 홈택스](https://www.hometax.go.kr/)**의 '사업자등록상태조회' 서비스를 통해 상호명과 대표자명으로 직접 조회하는 것이 가장 정확합니다.
+
+Sources:
+[1] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1Dy_x9qs27_3fPJGGr4im-IbqbHqfZCKukevgmXcuIEkKwXzsgGOgy05iKOHHNfiq8dDemKq4OFC6NaDZ3siUt9Az7tmz-fus1IE4v4aPH19yW36L1tE8p_Ke_4YreLCceR12A==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpulXkaMmmeG-urOjMgAptcORLNbEcNgjN-u3FS0f-GDMJfL6KWkDwHFoaJ2MhFnL0xvN4eXfqSgQpEBZQIFgTXT_9dBb-w6dOACS0Oapy2jGUz4HFuev8UfJ8MnDSDXeFP62ZtryDV6iHAR9NMhwOpM5rUNZAzddGeLABOjrl-UNo6mS4aeC1TywtkYC-4YCeStU4h5HtUphhhg5deHlihTuok5bcNLpS95eLfg==)
+[3] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1Dy_x9qs27_3fPJGGr4im-IbqbHqfZCKukevgmXcuIEkKwXzsgGOgy05iKOHHNfiq8dDemKq4OFC6NaDZ3siUt9Az7tmz-fus1IE4v4aPH19yW36L1tE8p_Ke_4YreLCceR12A==)

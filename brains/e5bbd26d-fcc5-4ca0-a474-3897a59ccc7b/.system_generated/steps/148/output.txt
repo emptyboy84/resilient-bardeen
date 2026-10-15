@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Status: 307
+Location: https://map.naver.com/p/entry/place/2033734187?placePath=%2Fhome
+

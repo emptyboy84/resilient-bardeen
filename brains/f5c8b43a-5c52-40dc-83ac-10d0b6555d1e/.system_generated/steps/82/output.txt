@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+Total YYYY- count: 52
+Sample YYYY-: [
+  { lineNum: 707, company: '와우미디어', date: '2008-' },
+  {
+    lineNum: 709,
+    company: '재단법인천주교티없으신마리아성심수녀회아베마리아출판사',
+    date: '1998-'
+  },
+  { lineNum: 710, company: '케미캐스트', date: '2017-' },
+  { lineNum: 714, company: '프랙탈북스', date: '2007-' },
+  { lineNum: 717, company: '(주)에듀SRT', date: '2018-' },
+  { lineNum: 720, company: '우주문화사', date: '2017-' },
+  { lineNum: 722, company: '도서출판카리타스(이뉴스한국출판국)', date: '2010-' },
+  { lineNum: 727, company: '금오기획', date: '2012-' },
+  { lineNum: 729, company: '유니온엠시스', date: '2005-' },
+  { lineNum: 734, company: '영남연합신문', date: '2017-' },
+  { lineNum: 736, company: '도서출판함향', date: '2018-' },
+  { lineNum: 739, company: '주식회사 팩토리엔', date: '2016-' },
+  { lineNum: 744, company: '현대에이치씨엔부산방송', date: '1991-' },
+  { lineNum: 745, company: '스튜디오에이치', date: '2013-' },
+  { lineNum: 747, company: '온기부여', date: '2023-' }
+]
+

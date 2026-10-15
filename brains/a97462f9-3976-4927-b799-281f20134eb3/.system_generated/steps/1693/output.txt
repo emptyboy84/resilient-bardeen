@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=희웹툰');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-30T00-00-28-089Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-00-25-514Z.log#L1-L2

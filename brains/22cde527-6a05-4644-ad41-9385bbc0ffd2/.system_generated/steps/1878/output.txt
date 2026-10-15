@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Search len: 236098
+Company links in Jobkorea: []
+

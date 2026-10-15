@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Before write c5.font: { name: '맑은 고딕', size: 10, bold: true, color: { argb: 'FFFF0000' } }
+After re-read c5.font: { bold: true, color: { argb: 'FFFF0000' }, size: 10, name: '맑은 고딕' }
+

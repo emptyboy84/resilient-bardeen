@@ -1,0 +1,15 @@
+The search for ""251002013000012" OR "252002013000004"" returned the following summary:
+제시해주신 번호는 문화체육관광부 '출판사·인쇄사 검색시스템'에 등록된 출판사 및 인쇄사의 신고(등록) 번호입니다. 검색 결과는 다음과 같습니다.
+
+*   **251002013000012**: **도서출판 모티브북**의 등록번호입니다 [1.1].
+    *   소재지: 서울특별시 마포구 [1.1]
+    *   상태: 2017년 4월 11일자로 폐업(전출) 처리되었습니다 [1.1].
+
+*   **252002013000004**: 여러 업체가 동일한 등록번호로 검색되는 경우가 있으나, 문화체육관광부 공식 시스템상으로는 **(주) 진 애드컴**(인천광역시 연수구 소재, 영업 중)의 등록번호로 확인됩니다[1]. 
+    *   *참고: 인터넷상의 일부 기업 정보 사이트 등에서는 동일한 번호가 다른 지역의 인쇄사(삼일기획, 남영광고기획, 일우이앤지 등)와 연관되어 표시되기도 하지만[2][3][4], 이는 데이터 수집 과정의 오류나 동명이인/동일번호 중복 표기일 가능성이 있으므로 공식적인 확인이 필요할 경우 [출판사·인쇄사 검색시스템](https://www.print.go.kr/)을 이용하시기 바랍니다[1].*
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0OXFllW_i-RDd6ZUrF6A9sM91H3QwTWcmo4USuCKhWV3by4dvUJiuUwVw2qz9YNrT10lf-CPZpNYmObGsbtU-Cce295dJ9y0fw-04DUHxEZG83lXfWCwz4-JQUjEyHO_mp-5iXUIdrexbM0qQeISq5U8cLsX3OjH8pCckcqb0fF4it-lB3WOka6gm_WoouS7aP597ltvRSZ4GT8vVYb4UWTQ7LoUaxBPXiPDdQ9-giV-oGa61KaTTXqGROM2pmt099XQa2yCR313wTDwxpP8WEkdkSmHRdpdh8zbHhd3ZoUww5jnEtUTuxolQzOli3jntA7Pj6M7g3VQ2GgNixwRc-SJA2FsqfxZsBQwmZeNL)
+[2] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2gd8OhiIBI1Ur3gb2yJssylmjZa833IhBSh6xCZCFrReqrObrWTe-p_yaGgRPLwFCpe3JbtTiXBZ-X1Ts2k2U2ssFGUViZUsJPBzFWEKUlkkCnkFtxQ2YvY5DeMWcgg8mTHkGu3BfQGyXeP2yJPg2DSyt)
+[3] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBY4ZyP9NXXqbcaj_nIxJGA5S5pEtieHXAOi5KiNAjTpUf8N1WpqVEfJjYx-HEyS0_HPt56p0fSg9UeZckYumZs3KKJZTuZ9-hWN4bpPKSe864UWuLNW7yewQ8lIJJOP2eVMWdjZgkFIwiuCvRABVknfsO)
+[4] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWjjUDT8w5ZC2DbaZU_NGYlO5yVwEoUhnhUg_hO_f2ai2VQ3I55vI--_TKbGhAPmcF_pCUoCBYB6WRfIywsdyzGBRWArpduKosMDn20YvJU5IJ1fMSsApMSjs9qZ1JWy5pHHz4bKHuRUkL7xtRj8a_1qLKQ==)

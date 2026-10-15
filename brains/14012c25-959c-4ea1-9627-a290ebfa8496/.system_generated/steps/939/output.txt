@@ -1,0 +1,15 @@
+The search for ""2023-부산강서구-0928" OR "youbro0210@gmail.com" OR ("에스와이유" "신정환")" returned the following summary:
+제시해주신 검색어 중 일부 조건(주식회사 **에스와이유**와 **신정환** 대표)과 관련된 기업 정보가 확인됩니다[1]. 
+
+* **기업명:** 주식회사 에스와이유 (SYU)[2][3]
+* **대표자:** 신정환[1][2]
+* **소재지:** 부산광역시 강서구 (미음산단, 부산글로벌테크비즈센터 등)[2][3]
+* **주요 사업:** AI 에이전트 기반 업무자동화 플랫폼('SYU ONE', 'ERIGO') 및 식자재 유통·IT 솔루션 개발[2][4][3]
+
+입력하신 다른 식별자(`2023-부산강서구-0928`, `youbro0210@gmail.com`)는 공인된 웹 문서 상에 직접적으로 매칭되는 공개 정보가 확인되지 않습니다. 혹시 특정 데이터나 문서 번호, 계정 관련하여 찾으시는 구체적인 내용이 있으신가요?
+
+Sources:
+[1] [syu.ai.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0_8PI6IiU8HdDWW0ftqvvJ3c94JhxUXXZDdaHmOxnjfe0PAYUMZXzHXAirPoimGUx-FTdnrtUWNvTUWLiNCMJsDqicVR6biP_Pr762hsZ9YVegZyPGpUwItz6WwdB8z_2gh4XAkFgBuXaxAhP)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFetUQsgOMkoRJzpjM1NbfopisPRZ7eo4SNjrdvgIq5HAW7Kx9cr1dUCMBS7PHPLhd9waKcY5WTfz7NBfM2TCxuj-q-toe-x3Jfuw==)
+[3] [demoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM0Y13VYcSQR5FYege7yDCYvKTTpVAx9p8fcz3sjHFVsnq2nBU51xzvG9RESWT6qASqvQAsXqn_Wd4YPBeFGN6Qax_GAb0RPoNoIf6PPUZM8ZJHA6cqOF_NPId)
+[4] [joongang.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhKchm03E7Mu1DjXpuxzGVq3XL38kNNnpdV58sEjmnBSQIsArjqvjF6D8Q7kW6oKlyzjCY5yHHaJBzDUcXzZ9IYRH5YpN5j-5whLnw0zeWLOUYl7Gt-x7d1CwtdukNwX8)

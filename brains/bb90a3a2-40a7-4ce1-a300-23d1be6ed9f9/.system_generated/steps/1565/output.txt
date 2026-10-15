@@ -1,0 +1,18 @@
+The search for "site:nicebizinfo.com "에이치에스렌텍" OR "752-87-01663"" returned the following summary:
+NICE BizINFO(나이스비즈인포)에 등록된 **(주)에이치에스렌텍** 기업 정보는 다음과 같습니다[1].
+
+* **기업명:** (주)에이치에스렌텍[1]
+* **사업자등록번호:** 752-87-01663[2]
+* **대표자명:** 박현석[1]
+* **설립일자:** 2020년 7월 7일[1]
+* **기업 형태:** 일반 중소기업 (소상공인)[1][2]
+* **주소:** 부산광역시 해운대구 센텀중앙로 (센텀 지식산업센터 등)[1][2]
+* **표준산업분류:** 응용 소프트웨어 개발 및 공급업 (J58222)[1]
+* **주요 사업/상품:** ESCO 시스템 등[2]
+
+상세한 신용등급, 재무제표, 현금흐름등급 등 종합 기업분석 보고서는 [NICE BizINFO 공식 웹사이트](https://www.nicebizinfo.com)에서 확인하실 수 있습니다[1][3].
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsX40cbg8r-RmI8ZzoTVVD_-J4NSal4ILodP2AWx-dfqC9l1esFqytT9jtpemHL2DU4STZe2adxDWo-h0ID-M4IghBm6DxvYH2GnrZc9vc7oC-BBUwqQ4VzRC91gZlw_DVvO2BKC3eFRkJkIupN0ineRbj)
+[2] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaA-b8VjDJbKHu12CRAubiWj9MjK2cs7BGsxwJeIGQtjW3n4HxLGri0sqZ2PImgSO4S6C14NHN--vA6lQSHWiny2V8p7o4EsLO_sx94ZTEUtlvcoq7kh3TvDmc4e_StKUl0_5anyqfrlgYDIqrzD116ZnCeS530zd3MBsKbx1rLS5rVoZ8b7AS-CDMA50IVfURqWTGjR9llumA3A7qTy_VfWHYAJo=)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTV1rc2GgAF-f5TOq1YHP4JNCixGKCGmOyaqIjEThGibzVdh7kK84VjPnfqAbUlP-bwxD5d0M3f7w3cxZBLK_Kmj6O9KgnR1QVLuxp0rnVRQ==)

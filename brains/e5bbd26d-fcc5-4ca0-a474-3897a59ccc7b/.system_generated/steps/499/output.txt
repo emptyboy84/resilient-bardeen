@@ -1,0 +1,11 @@
+Task: e5bbd26d-fcc5-4ca0-a474-3897a59ccc7b/task-497
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\e5bbd26d-fcc5-4ca0-a474-3897a59ccc7b\.system_generated\tasks\task-497.log
+Log output:
+Found in: C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\bizno_274_results.json
+Found in: C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\bizno_high_confidence.json
+Found in: C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\bizno_verified.json
+Found in: C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\final_master_resolution.json
+Found in: C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\resolved_by_row.json
+
+Last progress: 0s ago

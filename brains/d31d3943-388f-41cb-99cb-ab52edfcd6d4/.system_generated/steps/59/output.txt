@@ -1,0 +1,17 @@
+The search for ""센텀북대로 60" "1605호" OR "1605" "김창규"" returned the following summary:
+검색하신 주소인 **부산광역시 해운대구 센텀북대로 60(재송동)**은 **센텀아이에스타워(IS타워)** 건물입니다[1]. 
+
+입력하신 키워드 중 **"1605호"**와 관련된 정보는 다음과 같습니다:
+* **주요 업체/단체**: 
+  * **(주)다솜케어** (화장품 도매업, 1605호·1606호 사용)[2]
+  * **산모사랑협회** (센텀 IS타워 1605, 1606호)[3]
+
+다만, 질의하신 **'김창규'** 성함과 센텀북대로 60(센텀아이에스타워)을 동시 포함하는 공식 등록 명부나 자료에서는 해당 건물의 다른 호수(예: 615호, 1107호, 1811호 등)에 건축사무소 또는 관련 인물로 기재된 내역은 확인되나[4][5][6], **1605호**와 직접 연관된 김창규 님의 공개된 상세 정보는 특정되지 않습니다.
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwS8bHkJsFuK6yPRTZupRznxQi0XcsdLM51q0z_ZJm1jaELQmpk8osoyCc1uo6UZORmIaV4tG0x33Vqap59ocqUX_cJW-26w7gwHxdAy4riiUwE92izaIkIfvrJoib63ZbuMU6Udg0YN6Wqtiap-iD1gXnUTT_Gx_Tf1_lFWWJDXPZ5CWVvNpOX34bxJQqNIoXeQTmfzNLXpqTk3ON_x9F5cg=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExoQv2JQk8oJYXdzynIbVd6dJ27S4SLL8bH0TT-n4UZmrmkwecBTSzyq3dzlohlcFcHeUWZUfnQgyJpU0as9lfqAHNbjzYIcvIs5viwKSNfycVcWRAAM9sSZx0Wclv6HhdSw43K4CZP3tfDKHg5826GBh2GHsGdXT_iKPA0_6Y5lPK1Io8PfxDBxrAp-1__I3ZPLxRO6eaReoSeYNj_P6aKbMNcrhJJDZMlpjfMgoGyrlN74sX22jeiEY9ePwABC9cWEoP4a69iCo=)
+[3] [omomy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg83r7Ig-XtDlHdDMy1U4fNColpnR-bliQOGZbUjIVAo1AfWNyUEOiQ1Z0XKPa_obawY6peukaKXMKHhM6BQFOqcsulsgCMkpNKPZYNxnCe7zh3x0V_kozpyCtKzn5)
+[4] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7nGC0T4NdaIuX-xlZRz2GDtHujTOCAJ8JNWbnvTQB2PWm_VuF9ncEO8CA4CnP-yZeVCKf0RqCkW4U3N4fAv3vqg4NJQJ2cG8XyZ1DWNLLjMuHhr0CMOm8gvtPoq1oC7CroX35JBKUUAUSOxeL-MdlGL-Au4qIBcTtKGGWnSypF6SKotT_WxNSZRu0VTotz5eQUd5V7oZ6l70tt20NEQYCpTWS0E2-QjHUsyEfVxb0G7lVI4VnqoM59BFaZiqD6Qp6mN2deymYOBDXaCP9gfciBmI3NEzu-olhJFAV6lSYBA==)
+[5] [bsjunggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmrdnWSZdHoMDFdfYtg7EbM5LuVVEqoVzw-XBEeKnhhhlrDlGybwZCRy-4ydbouDhkKcbm3-grPpU6R6PPQ0A-_DQNOT9wcDmHVLIyvklXZmGYSFrZGeegtAgzOc9AkqRhojxyYP1HeAOklVbHUGd1eFY9kqD6-7DdY0QfvNyiFSgnB_d4N_cXlgBLN8vBf3dI-bFI1BFl26dEAk1BshppSJ_IMTQ3L3_SwhS92sMP8L4sViQn3vFx8E44PWgpJKjpWRaQB0wREHWbKiUufATLtlQlqV_Scm3Sgd5GSGsakc4QKaBd46l1ut20WIE=)
+[6] [bsec.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNuFI5q5lQb6xaCEICXwruAPELUvWrmWZ4fro_lHQFdHtw0rfgcFDMS4-qbDnqFPz8SHNljawBSB_IstqsSlQRHlLODGKlbU37_TGElSvQZeZDylee5ONTnwmZImp6yjJOXg4=)

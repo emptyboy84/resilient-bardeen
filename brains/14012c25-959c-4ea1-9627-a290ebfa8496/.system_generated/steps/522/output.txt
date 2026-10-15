@@ -1,0 +1,12 @@
+The search for ""부산일보" "비솜" 층 OR 호 OR 전화 OR 연락처 OR 051" returned the following summary:
+**부산일보사** 및 자회사 **비솜(주)** 관련 정보는 다음과 같습니다.
+
+* **부산일보사 본사 위치:** 부산광역시 동구 중앙대로 365 (수정동, 부산일보사 건물)[1][2]
+* **부산일보 대표 전화번호:** `051-461-4114`[1]
+* **서비스 문의 및 구독 안내:** `051-461-4200~1`[3]
+* **자회사 '비솜(주)':** 《부산일보》의 자회사 중 하나이나[2], 상세 층수나 호실, 개별 직통 연락처에 대해서는 공개된 상세 정보가 제한적입니다. 정확한 내부 부서 위치나 비솜(주) 관련 문의는 부산일보 대표번호(`051-461-4114`)를 통해 안내받으실 수 있습니다[1].
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0BGNooRXnr_bW8ohTHeS-PYxts1iRZGfuk5r9KSf0wE2-CZsl16g0TiHJdbRC0QafJTdAP6OHYp9KuG-Fv2SSh8yKV7uzVY6_xUxHidLnAMJ-jnEesaA-Kti3e-2V-awcEZGJkLq72rySAifd75NW7pK0AEq2O2Fv7Ic7zeynhrhdMWzHU0rI)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmH7JANW3LcRE4c8k6ZeiJVBn8TvESdZQUj_m0s3n8PjHz5QVo5FVaCeprQaaSlAOn6_ikfgY2z0S_AbxKyL7bhwWGk5u6XcqciUvErktkywN3pZ1J8_tLOqLYYwA1SyvOIYlygb0jz8Jh9hQfjSC-xymtOD6EhA==)
+[3] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpUq2mu9q-b_BGqiGpmZk1Q8tVGwz4pxcs8pBfH1VuQF6QpEAbzNsLgOWMZykGWr77aLpx1Bbr1nSZ6UEQK8hxij5xOsp8MbvSxCq_j_cEJfmC0kw=)

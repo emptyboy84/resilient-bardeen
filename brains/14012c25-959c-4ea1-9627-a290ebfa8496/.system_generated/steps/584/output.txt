@@ -1,0 +1,15 @@
+### Result
+{
+  "status1": 404,
+  "status2": 404
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const res = await fetch(\'/api/companies/4359964\');\n  if (res.ok) {\n    return await res.json();\n  }\n  const res2 = await fetch(\'/api/company/4359964\');\n  if (res2.ok) {\n    return await res2.json();\n  }\n  return { status1: res.status, status2: res2.status };\n}');
+```
+### Page
+- Page URL: https://bizno.net/article/8778803313
+- Page Title: 접속대기_no1
+- Console: 2 errors, 0 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-28-25-003Z.log#L1-L2

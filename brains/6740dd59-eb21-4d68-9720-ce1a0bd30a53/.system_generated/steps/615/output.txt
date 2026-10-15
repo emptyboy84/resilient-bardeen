@@ -1,0 +1,13 @@
+The search for ""로파스튜디오" OR "ROPA STUDIO" "051-711-7131" OR "부산" 사업자등록번호 OR 대표자 OR 매출액" returned the following summary:
+문의하신 '로파스튜디오(주식회사 로파스튜디오)'에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 주식회사 로파스튜디오[1]
+*   **대표자:** 최미교[1]
+*   **대표번호:** 051-711-7131[1]
+*   **소재지:** 부산광역시 연제구 중앙대로1065번길 65, 2층 (연산동)[1]
+*   **기타 정보:** 부산광역시 사회적경제지원센터에 등록된 예비사회적기업으로 확인됩니다[1].
+
+사업자등록번호 및 상세 매출액 등의 민감한 기업 정보는 공개된 자료에서 확인되지 않습니다. 추가적인 확인이 필요하신 경우 기업 신용평가 보고서 사이트(크레딧포스트, 나이스평가정보 등)를 이용하시기 바랍니다.
+
+Sources:
+[1] [bsec.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG72HY6jGX4kqN47MIQRcwrbQefJuZPJFzPhT69Swm_kAwe9scAMAQi5VLiLuVEbKGjz_VHQVI034rPB4QQ4v_gxOkebcYwJP4KWJSDtOUHd3ykuIlDFD-k_itGboTdrc0iQAWL)

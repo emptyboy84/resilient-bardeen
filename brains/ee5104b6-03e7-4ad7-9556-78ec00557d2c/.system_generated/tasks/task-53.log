@@ -1,0 +1,12 @@
+[eval]:4
+const userInput = 배현명		대신	5170900200	문*훈		부산광역시 사하구 장평로 204 (장림동)					5	기타 신발 제조업					
+                       ^^
+Expected ';', '}' or <eof>
+
+SyntaxError: Unexpected identifier '대신'
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1

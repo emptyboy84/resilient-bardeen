@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=부산&query=에프지');
+```
+### Page
+- Page URL: https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EC%97%90%ED%94%84%EC%A7%80
+- Page Title: 에프지
+- Console: 2 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-53-46-997Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-53-42-549Z.log#L1-L3

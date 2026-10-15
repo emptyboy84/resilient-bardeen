@@ -1,0 +1,15 @@
+The search for "괴정 만화카페" returned the following summary:
+부산 괴정동 인근에서 만화를 즐길 수 있는 곳을 찾으시는군요.
+
+현재 괴정동 내에 만화 카페 전문점 정보가 제한적입니다. 검색 결과상으로는 괴정동에 위치한 **'카페만디'**가 숲속 동화 같은 분위기의 카페로 알려져 있으나, 이는 만화 카페 전문점은 아닙니다[1].
+
+부산 내에서 만화 카페를 찾으신다면 다른 지역(예: 양정 등)에 유명한 만화 카페들이 운영되고 있으나[2][3], 괴정동 인근에서 만화를 보며 휴식할 수 있는 곳을 다시 한번 확인해 보시거나, 부산 동구 등에 위치한 **'VR 만화 카페'**와 같은 만화 관련 체험 공간을 고려해 보시는 것도 방법입니다[4][5].
+
+방문 전, 네이버 지도나 카카오맵 등 최신 지도 앱에서 **"괴정 만화카페"** 또는 **"괴정 만화방"**을 검색하시면 실시간 영업 중인 매장을 더욱 정확하게 확인하실 수 있습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDh4_wC6FEiCIQ4zBM6SUSbf-sH6T247s_ag0qjpHY3ulXxYoN4iNUa0quJtZwDCoWCkv5PJBmEl0eqpt2sa4A503zXfvMZn7ggKYZ1JtuI4EIHknKEHI)
+[2] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDRGKprbLtMBw60wefHgIcAwhtIUEcDiYAwwNDx_PeEgtpN9iemLsCz79ycAMutEYPY3zV2j7w5I69mNpDmoPBVihtA_Hfrn3RjvEkOg1q42KLsRociY6rTgaQfRfrMeVoRKiPo3lRDDil5QA_MJAP-5Sd8dS-gkjDvDPqU9dt0mF5--tx4Ms4j4M3wrjmLrM5pFxOASl9sokVVcYcx2V0jnt0C9up8rP-jGVhm3aUHRishI0O_h5V6kK32r_tVgIkKOys-AHYP0sMNu_fjAB36pxrVNrGxUl2Ixv8MeWNOK1rK_pU6c9k8UlVNxtxHsmVvXkbMKJPmhMqZoGJClr6hUAHY5LoWWrvVXKwyn_-5kvceXm7dhBY8p0KDO52MuXfbji2ieWzxd-mqmcccWdCC9Kn6t4wRQhVkyD4Mly9k-obClklm34tbkI1gkGWJfOe8r_EVUFTcYUHLwg1bXRvED1-AyY4wNWnKTpc-bEiG-uwmbD2eiew-6Mgssk80FpaCl7MP7YM0UUSSsI04iEPTitHqGjOQBUUbm_cT-_JsXnN1GiOs4hXGYwrCfT-V0u99LXqKbqE_sQn5MXql85YmMCIJaAo0q7mZstbF2dNLEjmi_FqEOdnkVXtoQu_2wcQaOMQ7vebErPP8JVLpBmZ3a2ANbmsmn-eBc3ctNm--TIjftVP0bgJF8sQWuW9GTkNL_1cs0-Qw2kVbJZhau82J5DyzQTW1z_eKigrqimjgzY5hoID63OGHBQctdrZjRbGjF1gCtNplzM-_Tg4k_EclRP-hP1bJ7byW5dxPgsaXX_bB7marfuz0NMJImiJRMVxy-w6gr3YU1PuqDFGmS5QaK53tURDRZPcmwqpnl_EHQgahbJ1zPbe8YX_)
+[3] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDRGKprbLtMBw60wefHgIcAwhtIUEcDiYAwwNDx_PeEgtpN9iemLsCz79ycAMutEYPY3zV2j7w5I69mNpDmoPBVihtA_Hfrn3RjvEkOg1q42KLsRociY6rTgaQfRfrMeVoRKiPo3lRDDil5QA_MJAP-5Sd8dS-gkjDvDPqU9dt0mF5--tx4Ms4j4M3wrjmLrM5pFxOASl9sokVVcYcx2V0jnt0C9up8rP-jGVhm3aUHRishI0O_h5V6kK32r_tVgIkKOys-AHYP0sMNu_fjAB36pxrVNrGxUl2Ixv8MeWNOK1rK_pU6c9k8UlVNxtxHsmVvXkbMKJPmhMqZoGJClr6hUAHY5LoWWrvVXKwyn_-5kvceXm7dhBY8p0KDO52MuXfbji2ieWzxd-mqmcccWdCC9Kn6t4wRQhVkyD4Mly9k-obClklm34tbkI1gkGWJfOe8r_EVUFTcYUHLwg1bXRvED1-AyY4wNWnKTpc-bEiG-uwmbD2eiew-6Mgssk80FpaCl7MP7YM0UUSSsI04iEPTitHqGjOQBUUbm_cT-_JsXnN1GiOs4hXGYwrCfT-V0u99LXqKbqE_sQn5MXql85YmMCIJaAo0q7mZstbF2dNLEjmi_FqEOdnkVXtoQu_2wcQaOMQ7vebErPP8JVLpBmZ3a2ANbmsmn-eBc3ctNm--TIjftVP0bgJF8sQWuW9GTkNL_1cs0-Qw2kVbJZhau82J5DyzQTW1z_eKigrqimjgzY5hoID63OGHBQctdrZjRbGjF1gCtNplzM-_Tg4k_EclRP-hP1bJ7byW5dxPgsaXX_bB7marfuz0NMJImiJRMVxy-w6gr3YU1PuqDFGmS5QaK53tURDRZPcmwqpnl_EHQgahbJ1zPbe8YX_)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeN939XeR57q3d3cqjqRhMDvfldrkWwPM64KTKY5UXn455u41tbdQkbxuv--F1hU3FyLUV8xvHlSIo5j12xHdxzrmo49kmk86GwYnlV8kmUXu-_9cXh5wSKbY42SuwO2Q=)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeN939XeR57q3d3cqjqRhMDvfldrkWwPM64KTKY5UXn455u41tbdQkbxuv--F1hU3FyLUV8xvHlSIo5j12xHdxzrmo49kmk86GwYnlV8kmUXu-_9cXh5wSKbY42SuwO2Q=)

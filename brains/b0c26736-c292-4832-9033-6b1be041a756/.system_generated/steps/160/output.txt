@@ -1,0 +1,6 @@
+### Result
+"https://marketbz.com/companyDetail/6071927909"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const link = Array.from(document.querySelectorAll(\'a\')).find(a => a.href.includes(\'marketbz.com\'));\n  return link ? link.href : \'not found\';\n}');
+```

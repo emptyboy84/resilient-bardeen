@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000');
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000
+- Page Title: 출판사인쇄사 검색시스템 | 문화체육관광부
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-42-45-514Z.yml)

@@ -1,0 +1,266 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Sheet name: 기업 정보
+Total rows: 1048576
+Headers: [
+  {
+    "col": 1,
+    "value": "작성자"
+  },
+  {
+    "col": 2,
+    "value": "비고"
+  },
+  {
+    "col": 3,
+    "value": "회사명"
+  },
+  {
+    "col": 4,
+    "value": "사업자번호"
+  },
+  {
+    "col": 5,
+    "value": "대표자"
+  },
+  {
+    "col": 6,
+    "value": "우편번호"
+  },
+  {
+    "col": 7,
+    "value": "주소"
+  },
+  {
+    "col": 8,
+    "value": "전화번호"
+  },
+  {
+    "col": 9,
+    "value": "팩스번호"
+  },
+  {
+    "col": 10,
+    "value": "홈페이지"
+  },
+  {
+    "col": 11,
+    "value": "이메일"
+  },
+  {
+    "col": 12,
+    "value": "형태"
+  },
+  {
+    "col": 13,
+    "value": "설립일자"
+  },
+  {
+    "col": 14,
+    "value": "창립일자"
+  },
+  {
+    "col": 15,
+    "value": "종업원수"
+  },
+  {
+    "col": 16,
+    "value": "업종코드1"
+  },
+  {
+    "col": 17,
+    "value": "업종코드2"
+  },
+  {
+    "col": 18,
+    "value": "업종(NICE BizINFO(업종)참고"
+  },
+  {
+    "col": 19,
+    "value": "주생산품"
+  },
+  {
+    "col": 20,
+    "value": "주거래은행"
+  },
+  {
+    "col": 21,
+    "value": "주거래지점"
+  },
+  {
+    "col": 22,
+    "value": "그룹명"
+  },
+  {
+    "col": 23,
+    "value": "주식코드"
+  },
+  {
+    "col": 24,
+    "value": "사업자번호"
+  },
+  {
+    "col": 25,
+    "value": "법인번호"
+  },
+  {
+    "col": 26,
+    "value": "앞주"
+  },
+  {
+    "col": 27,
+    "value": "상호명"
+  },
+  {
+    "col": 28,
+    "value": "뒷주"
+  },
+  {
+    "col": 29,
+    "value": "영문명"
+  },
+  {
+    "col": 30,
+    "value": "구상호명"
+  },
+  {
+    "col": 31,
+    "value": "결산월"
+  },
+  {
+    "col": 32,
+    "value": "매출년도"
+  },
+  {
+    "col": 33,
+    "value": "최근매출액"
+  },
+  {
+    "col": 34,
+    "value": "순익년도"
+  },
+  {
+    "col": 35,
+    "value": "최근순이익"
+  },
+  {
+    "col": 36,
+    "value": "영업익년도"
+  },
+  {
+    "col": 37,
+    "value": "최근영업익"
+  },
+  {
+    "col": 38,
+    "value": "자산년도"
+  },
+  {
+    "col": 39,
+    "value": "최근자산총"
+  },
+  {
+    "col": 40,
+    "value": "부채년도"
+  },
+  {
+    "col": 41,
+    "value": "최근부채총"
+  },
+  {
+    "col": 42,
+    "value": "자본총년도"
+  },
+  {
+    "col": 43,
+    "value": "최근자본총"
+  },
+  {
+    "col": 44,
+    "value": "자본금년도"
+  },
+  {
+    "col": 45,
+    "value": "최근자본금"
+  },
+  {
+    "col": 46,
+    "value": "지역1"
+  },
+  {
+    "col": 47,
+    "value": "지역2"
+  },
+  {
+    "col": 48,
+    "value": "업종_대"
+  },
+  {
+    "col": 49,
+    "value": "업종_중"
+  },
+  {
+    "col": 50,
+    "value": "업종_소"
+  },
+  {
+    "col": 51,
+    "value": "업종_11차 변경"
+  },
+  {
+    "col": 52,
+    "value": "코드"
+  },
+  {
+    "col": 53,
+    "value": "응답자명"
+  },
+  {
+    "col": 54,
+    "value": "응답자부서"
+  },
+  {
+    "col": 55,
+    "value": "응답자직위"
+  },
+  {
+    "col": 56,
+    "value": "응답자연락처"
+  },
+  {
+    "col": 57,
+    "value": "응답자이메일"
+  },
+  {
+    "col": 58,
+    "value": null
+  }
+]
+Column 1 distribution: {
+  "정은미": 280,
+  "김유진": 211,
+  "서고은": 157,
+  "차민영": 338,
+  "이수민": 499,
+  "이재호": 426,
+  "안재한": 1100,
+  "배현명": 1500,
+  "서고은(7.20)": 43,
+  "정은미(7.20)": 120,
+  "차민영(7.20~)": 562,
+  "김유진(7.20)": 89,
+  "이재호(7.20~)": 574,
+  "안재한(7.20~)": 600,
+  "이수민(7.20~)": 500,
+  "김유진(7.20~)": 500,
+  "정은미(7.20~)": 500,
+  "서고은(7.20~)": 500,
+  "(empty)": 1040076
+}
+배현명 rows: count=1500, minRow=702, maxRow=12346
+Row 2 sample: [null,"정은미",null,"(사)대한산업보건협회 울산산업보건센터",6108203800,"백헌기",44774,"울산광역시 남구 두왕로64번길 5-14, 1층(선암동)","052-275-6322","052-275-6323","www.kiha21.or.kr",null,null,null,null,"122명",null,null,"보건업 및 사회복지서비스업","방사선진단 및 병리검사 의원,그외 기타 보건업",null,null,null,null,6108203800,"114621-0000445",null,null,null,null,null,"12월",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"보건업 및 사회복지 서비스업","보건업","의원",null,null,"이승화",null,null,"010-5582-4599"]
+Row 702 sample: [null,"배현명",null,"와우미디어",6051599850,"조성영",48496,"부산광역시 남구 유엔로157번길 101","051-919-8567","070-7614-3434","http://www.wowsp.co.kr/","adway@hanmail.net",null,"2008-",null,null,null,null,"광고물 문안, 도안, 설계 등 작성업",null,null,null,null,null,"6051599850",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"전문, 과학 및 기술 서비스업","전문 서비스업","광고업"]
+Row 11847 sample: [null,"배현명","폐업","주식회사 룩스텍",5131909625,"김길연",39263,null,null,"054-464-1173","http://www.luxtec.kr",null,null,null,null,2,null,null,"일반용 전기 조명장치 제조업",null,null,null,null,null,"5131909625",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"제조업","전기장비 제조업","전구 및 조명장치 제조업",null,null,"김길연",null,null,"010-2695-1184"]
+

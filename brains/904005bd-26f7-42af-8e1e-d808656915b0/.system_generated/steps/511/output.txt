@@ -1,0 +1,11 @@
+Task: 904005bd-26f7-42af-8e1e-d808656915b0/task-501
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\904005bd-26f7-42af-8e1e-d808656915b0\.system_generated\tasks\task-501.log
+Log output:
+<truncated 94 lines>
+,"직업재활","주임","010-5598-0907","home@cshome.or.kr"]
+Row 2176: [null,"안재한",null,"세흥병원",6059007342,"김도형",47250,"부산광역시 부산진구 중앙대로 805","051-819-0173",null,"https://sehunghospital.co.kr/",null,null,null,null,233,null,null,"병원",null,null,null,null,null,"6059007342",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"보건업 및 사회복지 서비스업","보건업","병원",null,null,"이지현","총무부","사원","051-819-0173","dlwlgus1764@gmail.com"]
+Row 6301: [null,"차민영(7.20~)",null,"글로벌미래인재연구소",2178139873,"이지현",null,null,"02-948-8600",null,null,null,null,null,null,"1-9인",null,null,"만화",null,null,null,null,null,"2178139873"]
+Row 6864: [null,"김유진(7.20~)",null,"유창한녀석들",2238601488,"최유창",null,null,"051-714-6488",null,null,null,null,null,null,null,null,null,"광고",null,null,null,null,null,"2238601488"]
+
+Last progress: 5s ago

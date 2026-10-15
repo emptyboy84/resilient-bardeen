@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Row 11345: [null,null,null,"에스아이셀센터",4678801419,null,null,"경남 진주시 동부로169번길 12, B동 502호 (충무공동,윙스타워)",null,null,null,null,null,"20190719",null,null,null,null,null,null,null,null,null,null,"4678801419"]
+Row 11346: [null,null,null,"라파테크",4678801874,"최홍근",null,"경남 창원시 의창구 죽전로74번길 15 (팔용동)"," ",null,null,null,null,"20200708",null,null,null,null,"그 외 기타 특수목적용 기계 제조업",null,null,null,null,null,"4678801874"]
+Row 11347: [null,null,null,"지윌컨설팅",4681400085,"김신근",null,"부산광역시 해운대구 센텀북대로 60, 19층 1915 (재송동, 센텀 아이에스타워)","010-2695-6603",null,null,null,null,"20150604",null,7,null,null,"경영 컨설팅업 외 1 종",null,null,null,null,null,"4681400085"]
+Row 11846: [null,null,null,"엘에이치케이",5131894028,"하정윤",null,"경북 칠곡군 가산면 경북대로 1355-34","070-4145-2728","054-971-2729",null,null,null,"2014. 1. 10.",null,"20미만",null,null,"그 외 기타 의료용 기기 제조업",null,null,null,null,null,"5131894028",null,null,null,null,null,null,null,null,"5억 미만 "]
+Row 11847: [null,"배현명","폐업","주식회사 룩스텍",5131909625,"김길연",39263,null,null,"054-464-1173","http://www.luxtec.kr",null,null,null,null,2,null,null,"일반용 전기 조명장치 제조업",null,null,null,null,null,"5131909625",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"제조업","전기장비 제조업","전구 및 조명장치 제조업",null,null,"김길연",null,null,"010-2695-1184"]
+Row 12346: [null,"배현명",null,"금정산업기계",5621001447,"김대홍","50803","경상남도 김해시 상동면 동북로1007번길 8-4",null,null,null,null,null,"20200228",null,null,null,null,"그 외 기타 일반목적용 기계 제조업",null,null,null,null,null,"5621001447",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"제조업","기타 기계 및 장비 제조업","일반 목적용 기계 제조업"]
+Row 12347: [null,null,null,"제일테크",5622301132,"양성우",null,"경남 함안군 칠원읍 석전3길 118 (용정리)","055-587-7338","-",null,"-",null,"20191204",null,null,null,null,"배전반 및 전기 자동제어반 제조업",null,null,null,null,null,"5622301132"]
+Row 12348: [null,null,null,"오복누리",5623400347,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"5623400347",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"이대훈",null,null,"010-5670-1508"]
+Total rows with 배현명 between 11340 and 12350: 500
+

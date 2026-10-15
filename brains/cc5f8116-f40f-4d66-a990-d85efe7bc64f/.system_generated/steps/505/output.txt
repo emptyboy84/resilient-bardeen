@@ -1,0 +1,23 @@
+The search for ""피커스튜디오" OR ("이현철" "월드컵대로114번길 26") 사업자등록번호 OR 비즈노 OR 나이스비즈인포" returned the following summary:
+검색하신 "피커스튜디오"와 관련된 정보는 아래와 같이 확인됩니다.
+
+### 1. 피커스튜디오 (부산 소재)
+*   **대표자:** 이현철[1][2]
+*   **주소:** 부산광역시 연제구 월드컵대로114번길 26[1]
+    *   *참고: 비즈노(Bizno) 정보에는 부산 해운대구 센텀동로 45로 기재되어 있으나[2], 게임잡 등 채용 사이트에는 연제구 월드컵대로114번길 26으로 등록되어 있습니다[1].*
+*   **사업자등록번호:** 606-16-43962 (비즈노 기준)[2]
+*   **연락처:** 010-2875-1813[1] / 070-7370-5758[2]
+*   **업종:** 시스템 소프트웨어 개발 및 공급업 (디지털 콘텐츠 개발 서비스)[2]
+
+### 2. 기타 동명 업체 (참고용)
+광고 영상 제작 및 프로덕션 관련 업무를 하는 **서울 강남구** 소재의 '피커스튜디오(Peaker Studio)'가 별도로 존재합니다[3]. 이 업체와는 사업자 정보가 다르니 확인 시 유의하시기 바랍니다.
+*   **대표자:** 창조[3]
+*   **사업자등록번호:** 188-51-01034[3]
+*   **주소:** 서울특별시 강남구 신사동 593 지하 1층[3]
+
+비즈노(Bizno) 등 기업 정보 사이트에서 위 사업자등록번호(606-16-43962)를 검색하시면 해당 업체의 상세 상태를 확인하실 수 있습니다[2].
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELoOBVddBjLcKhj_5SXDYR2BIlGAvpXIcTfBLx7UfztigAz324g2VRmXQpl4xMJUxktRKw2mrV5eEEVxBY13CyeYEman2seKRhbHtnaIx9sgdeNXCJzTTzv9IBBLnZbik-ZwlJudujAg==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytWw6MLBG_eDfxogp7tcqwHSLR-yuS6yaKvh31fLme5l5FpmQFkLEqxi8D4KucL9ebQHVw5dd_KWpyz7cCs_XlcxHfWYTBvSyBQpxezS1cxVjiogIrPtu6h8=)
+[3] [tvcf.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSE11SmnOK6wM6gZ5khYHUwCnzHOmm-_GqZ7kaGKM-w1q_Sw454yWU80xnkCcP_bHk32gfyX-ECmhz5N3XfJm0YYCK0knxmazFoCoYuDmHddF9VRRFxz59IXiyQO8GqWVWYVibdoXpKDl2R9JB786K3ssSq7B-rq2OOSV6pQ==)

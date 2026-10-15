@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Fill types found in 702-5500:
+{
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"theme\":0},\"bgColor\":{\"indexed\":64}}": 46089,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"argb\":\"FFFFFF00\"},\"bgColor\":{\"indexed\":64}}": 1997,
+  "{\"type\":\"pattern\",\"pattern\":\"none\"}": 9874,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"theme\":0},\"bgColor\":{\"argb\":\"FFFFA500\"}}": 1,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"theme\":0},\"bgColor\":{\"argb\":\"FFF7F9FB\"}}": 36,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"argb\":\"FFFFFF00\"},\"bgColor\":{\"argb\":\"FFFFA500\"}}": 2,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"argb\":\"FFF8CBAD\"},\"bgColor\":{\"argb\":\"FFF8CBAD\"}}": 1
+}
+
+Fill types found in 11847-12346 (currentPath):
+{
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"theme\":0},\"bgColor\":{\"indexed\":64}}": 25850,
+  "{\"type\":\"pattern\",\"pattern\":\"solid\",\"fgColor\":{\"argb\":\"FFFFFF00\"},\"bgColor\":{\"indexed\":64}}": 1000,
+  "{\"type\":\"pattern\",\"pattern\":\"none\"}": 2150
+}
+

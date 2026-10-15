@@ -1,0 +1,48 @@
+Clearing Row 11869 (선진정밀): 170111-0129503
+Clearing Row 11890 (치즈박스): 110111-8502589
+Clearing Row 11891 (치즈박스): 195514-0004794
+Clearing Row 11944 (우성테크): 195511-0133755
+Clearing Row 11947 (엠케이(MK)디자인): 214314-0002756
+Clearing Row 11955 (케이엠테크): 280211-0028813
+Clearing Row 11979 ((주)다원디자인): 120111-0914459
+Clearing Row 11985 ((주)화승알앤에이): 234111-0120538
+Clearing Row 11991 (제이에스): 110111-0554992
+Clearing Row 11992 (성원): 170111-0021543
+Clearing Row 11993 (한성테크): 120111-1028762
+Clearing Row 11996 (퓨어): 176011-0158532
+Clearing Row 12002 (안성진): 110111-8127692
+Clearing Row 12030 (태진푸드): 110111-5633692
+Clearing Row 12032 ((전유정)): 134811-0759524
+Clearing Row 12041 (성원): 170111-0021543
+Clearing Row 12043 (두선테크): 110111-3437898
+Clearing Row 12067 (일호컨설팅): 230111-0327708
+Clearing Row 12075 (일흥산업): 115314-0000033
+Clearing Row 12077 (디에이치): 110111-0085541
+Clearing Row 12078 (와이제이): 170111-0379976
+Clearing Row 12079 (부산광고): 180111-1176494
+Clearing Row 12088 (성화테크): 184611-0042973
+Clearing Row 12095 (한림기술): 210111-0098915
+Clearing Row 12109 (알에스이엔지): 134911-0108901
+Clearing Row 12111 (동방테크): 175011-0012854
+Clearing Row 12114 (홍아(Honga)): 230111-0355981
+Clearing Row 12125 (여명): 200111-0579264
+Clearing Row 12134 (윤테크): 170113-0007820
+Clearing Row 12135 (하랑이엔지): 180111-1190410
+Clearing Row 12137 (새한테크): 205414-0028347
+Clearing Row 12150 (태영이엔지): 176011-0137099
+Clearing Row 12178 ((주)제이디): 135211-0019292
+Clearing Row 12190 (다은산업): 230111-0412806
+Clearing Row 12249 (에이도스): 284111-0051417
+Clearing Row 12263 (유진금속): 151111-0044861
+Clearing Row 12292 (시우테크): 180111-0996562
+Clearing Row 12340 (케이비이엔엠): 110111-5215474
+Total cleared personal corp numbers in file: 38
+Error: EBUSY: resource busy or locked, unlink 'C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_검증앤새로입력.xlsx'
+    at Object.unlinkSync (node:fs:1942:11)
+    at fixTargetExcel ([eval]:40:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5) {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'unlink',
+  path: 'C:\\Users\\lg\\Desktop\\오늘\\(데이터검증팀)실사 DB 취합_전달용_260720_검증앤새로입력.xlsx'
+}

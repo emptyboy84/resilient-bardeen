@@ -1,0 +1,19 @@
+### Result
+{
+  "iframes": [],
+  "forms": [
+    {
+      "action": "https://www.ftc.go.kr/www/search.do",
+      "id": "search-form"
+    },
+    {
+      "action": "https://www.ftc.go.kr/sym/sit/cem/addContentsEvalHist.do",
+      "id": "cntntsEvalHist"
+    }
+  ],
+  "bodyText": "본문 바로가기\n이 누리집은 대한민국 공식 전자정부 누리집입니다.\n누리집안내지도\n국가상징 알아보기\n어린이\n화면크기\n열기\nLanguage\n열기\n통합검색\n소식·뉴스\n열기\n정책·제도·자료\n열기\n정보공개\n열기\n심결·법령\n열기\n민원·참여\n열기\n해외경쟁정책\n열기\n기관소개\n열기\n정보공개\n표준계약서\n펼침\n사업자정보공개\n펼침\n다단계판매사업자\n후원방문판매사업자\n방문판매사업자\n전화권유판매사업자\n선불식할부거래사업자\n통신판매사업자\n통신판매사업자\n닫기\n등록현황\n자료 다운로드\n민원 다발 쇼핑몰 공개\n국외사업자 등록현황\n공공데이터API\n행정정보공개\n펼침\n재정정보공개\n펼침\n국고보조금정보\n국회관련정보\n국민마당\n펼침\n청렴마당\n펼침\n정책실명제\n펼침\n개인정보보호관련\n홈\n정보공개\n사업자정보공개\n통신판매사업자\n등록현황\nurl 복사\n프린트\n\n「통신판매사업자 정보 조회 서비스」 이용자는 사용 용도에 맞게 아래 경로를 이용하여 주시기 바랍니다.\n\n통신판매사업자조회 (일반이용고객)\n공공데이터포털 (대량이용고객)\n자료다운로드 (CSV)\n자주하는 질문(FAQ)\n(국세청) 사업자등록증 발급 → (소재지 관할 시․군․구청) 통신판매업 신고\n‘사업자등록증 발급’은 국세청 소관이며, ‘통신판매업 신고’는 각 지자체 소관으로 별개의 절차입니다.\n국세청에서 사업자등록증을 발급 받으면, 별도 사업장 소재지를 관할하는 시․군․구청에 ‘통신판매업 신고’를 하셔야 공정위 홈페이지에서 통신판매업자 정보가 조회됩니다.\n(시․군․구청에서 신고를 하면 공정위 홈페이지에 연동되기까지 2~3시간 정도가 소요됩니다.)\n상호, 주소, 전화번호 등이 변경된 경우 → (소재지 관할 시․군․구청) ‘통신판매업 변경신고’\n통신판매업 신고사항(상호, 주소, 전화번호)에 변경이 있을 경우 ‘통신판매업 변경신고’를 하셔야 합니다.\n‘통신판매업 신고’는 각 지자체 소관이므로 관할 시․군․구청에 방문하여 ‘통신판매업 변경신고’를 하시거나, 정부24를 통해서도 편리하게 ‘통신판매업 변경신고’를 하실 수 있습니다.\n개인사업자의 개인정보 *** 마스킹 처리\n개인사업"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return {\n    iframes: Array.from(document.querySelectorAll(\'iframe\')).map(f => f.src),\n    forms: Array.from(document.querySelectorAll(\'form\')).map(f => ({ action: f.action, id: f.id })),\n    bodyText: document.querySelector(\'#content, .sub_content, main\')?.innerText || document.body.innerText.substring(0, 1000)\n  };\n}');
+```

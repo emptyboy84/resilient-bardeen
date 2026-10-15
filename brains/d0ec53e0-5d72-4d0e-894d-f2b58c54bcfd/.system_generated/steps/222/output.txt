@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  console.log('Worksheets:', wb.worksheets.map(w => w.name));\n  const sheet = wb.worksheets[0];\n  const row1 = she
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  console.log('Total rows:', sheet.rowCount);\n  sheet.eachRow((row, rowNumber) =
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  const results = [];\n  sheet.eachRow((row, rowNumber) => {\n    const values = 
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  for (let r = 1100; r <= 1220; r++) {\n    const row = sheet.getRow(r);\n    con
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  const authors = new Set();\n  sheet.eachRow((r, rowNumber) => {\n    const a = 
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx');\n  console.log('Worksheets:', wb.worksheets.map(w => w.name));\n  const sheet = wb.worksheets[0];\n  console.log('Row 1:', s
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/배현명_실사DB_16컬럼_전수검증완료_최종본.xlsx');\n  const sheet = wb.worksheets[0];\n  sheet.eachRow((r, rowNumber) => {\n    const v = r.values;\n    const s = JSON.stringi
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  sheet.eachRow((r, rowNumber) => {\n    const v = r.values;\n    const s = JSON.
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  const row1137 = sheet.getRow(1137);\n  for (let c = 1; c <= 25; c++) {\n    con
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  [1102, 1139, 1165, 1207].forEach(r => {\n    const row = sheet.getRow(r);\n    
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('C:/Users/lg/Desktop/Today/인공지능으로찾을거.xlsx');\n  console.log('Worksheets:', wb.worksheets.map(w => w.name));\n  const sheet = wb.worksheets[0];\n  console.log('Head
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('C:/Users/lg/Desktop/Today/인공지능으로찾은거.xlsx');\n  const sheet = wb.worksheets[0];\n  [1062, 1070, 1071].forEach(rowNum => {\n    sheet.eachRow((r, idx) => {\n      i
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('C:/Users/lg/Desktop/Today/인공지능으로찾을거.xlsx');\n  const sheet = wb.worksheets[0];\n  for (let i = 1055; i <= 1080; i++) {\n    const r = sheet.getRow(i);\n    consol
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('data/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx');\n  const sheet = wb.worksheets[0];\n  const targets = ['이수연', '이지현', '이진수', '우수경'];\n  sheet.eachRow((r, rowNumber) =
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx');\n  console.log('Worksheets:', wb.worksheets.map(w => w.name));\n  c
+--- CMD ---
+"node -e \"\nconst ExcelJS = require('exceljs');\nasync function run() {\n  const wb = new ExcelJS.Workbook();\n  await wb.xlsx.readFile('C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx');\n  const sheet = wb.worksheets[0];\n  [1062, 1070, 1071].forEach(rN
+

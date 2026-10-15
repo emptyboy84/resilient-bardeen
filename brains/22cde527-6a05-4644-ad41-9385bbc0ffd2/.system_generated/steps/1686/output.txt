@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Original c5:  {
+  size: 10,
+  color: { argb: 'FF000000' },
+  name: '맑은 고딕',
+  family: 3,
+  charset: 129
+}
+After setting c5: 2009 { name: '맑은 고딕', size: 10, color: { argb: 'FFFF0000' }, bold: true }
+Re-read c4: 603-10-85753 { bold: true, color: { argb: 'FFFF0000' }, size: 10, name: '맑은 고딕' }
+Re-read c5: 2009 { bold: true, color: { argb: 'FFFF0000' }, size: 10, name: '맑은 고딕' }
+

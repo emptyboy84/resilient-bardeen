@@ -1,0 +1,13 @@
+The search for ""뉴스본다코리아" OR "뉴스본다"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **뉴스본다코리아**: ND소프트에서 제작한 인터넷 신문 프로젝트 중 하나로, 2021년 10월에 오픈된 매체입니다[1].
+*   **뉴스본다**: 특정 매체의 고유 명칭보다는, 최근 미디어 환경에서 '유튜브', '숏폼(틱톡 등)', 'OTT' 등 다양한 영상 플랫폼을 통해 뉴스를 소비하는 현상을 지칭하는 문구로 자주 사용됩니다[2][3][4]. 한국은 특히 유튜브를 통한 뉴스 이용률이 매우 높은 국가로 알려져 있습니다[5][6].
+
+Sources:
+[1] [ndsoft.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1N3ew6qUT4zLnybtk128MOXwsxuFPDbOZuD9Ojtc2SOX3vsWQt6hkvSrQfz4VWmzabK0IxbET5XUkXw-ZtwAdzKja-ElhT7rl4PZB5YXvY8oSvzgm3JFew7RPUJAF9-kXXfZHEsT1Eb1Np17zJWzjUfkY1_bayh6ijZMrDyRtLO2tcvonyXds8oTQTFzZAmLo6a12)
+[2] [banronbodo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSh1WKg7KvhhMSTgV6TXsBckXa7C5JBIfuxMASWmI9Kx1jLYskzP3mi5r9ZxbMav-JoAxleqeLzJOBle7BWcjwa7e3AhzOx2zob_VARkcK2lzd9xVaKG-y3tUKIUJcY2u5iRT5xpln_ZADGXluAMzCXQ==)
+[3] [ytn.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi-6HcKfT8azmfErt8HNLupXr-D4UI6ZRkoHTbcVI8FkZaVwt0uQgT0lzoTtQcaQbFdm_Cpp62_D_iQh5YH2UbrsUGboY8sagaTOoDwIwuv4ZyCfhi29phbhNEJK4iB_HKi2qeXAU=)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3OGYgo0oWYjoUtY7ZkgGrn9eygQnVedVoeH9LBxQGCPsqny0Krg1R3VWyV7BZiq-mV29pRyT4BsdiCEZi6FVmwA5ZSRBvh9xCYXFx2hz9u043ejk2nPysboohos3Krw=)
+[5] [mediatoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2GGxfpIiGjDOwM8tum0PlFfmMXvOCR9LOaTmZ8Vdpd3SyaiaLVnNmcvL9R_4uYznACsDgSmFdOoidMSf42yZah7Fz3usnr6hqh6eiZQkO4ZxlJIVHBtb-dwRHTGmuXERxD8IBzybno2giZ3SwUFa568G4Og==)
+[6] [datanews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiOysP4933aDze60hpu4ousNDmg3df6pYben5c0P0O9Sz1UXJKio88X-Laj_E0-6_cRBCXK-TfDdHsuv-o8WVpKwHSB20mlD4kbF2intZ2Vaqq_iuPZDKUgHW6l6OZnugSn4P4Hj0zEEr-oA==)

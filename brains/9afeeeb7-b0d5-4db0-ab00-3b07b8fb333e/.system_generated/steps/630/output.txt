@@ -1,0 +1,6 @@
+### Result
+"no img"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const img = document.querySelector(\'#captchaImg\');\n  return img ? img.src : \'no img\';\n}');
+```

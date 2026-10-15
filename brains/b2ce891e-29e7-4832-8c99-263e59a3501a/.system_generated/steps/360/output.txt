@@ -1,0 +1,15 @@
+The search for "site:rndcircle.io "디쓰리디" OR "하지태" OR "비쓰리디"" returned the following summary:
+검색하신 `rndcircle.io` 도메인 내에서 "디쓰리디", "하지태", "비쓰리디" 키워드에 대한 검색 결과가 존재하지 않습니다. 
+
+참고로 `rndcircle.io`는 AI 기반 R&D 파트너 매칭 및 연구 성과 PR 플랫폼인 **알앤디써클(RnDcircle, 운영사: 주식회사 디써클)**의 공식 웹사이트입니다[1][2]. 플랫폼 및 운영사와 관련된 정확한 명칭이나 구성원 정보는 다음과 같습니다:
+* **기업명:** 주식회사 디써클 (D.circle)[2]
+* **서비스명:** 알앤디써클 (RnDcircle)[2]
+* **공동대표:** 장재우, 이윤구[2]
+* **CTO:** 박준영[3]
+
+혹시 검색하고자 하셨던 키워드(디쓰리디, 하지태, 비쓰리디 등)가 영문 스펠링이나 다른 명칭인지 확인 후 다시 검색해 보시기 바랍니다.
+
+Sources:
+[1] [besuccess.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU-64oNE_K1TbRgLB-z6wOUfjtrz1MJLwEBj3zAv8zQqFscrg1xlg5xwnBPBmvwcOokhFB8zGI6WYQdRWdYSMFdBRVqx6YwRGGQMzTk-OOhPJN4eFVx_GEl9ReKYLPkysYZ6U8XzpXKZgt6fytAyk8st2TWbENJb0_TSNxmB5ctaGYod1Tf9ro4dH5jT7SBmxCVyorTgVonfTReVTWz3ECsEC9bzG-PdmpwF5mTWAYg2l-xT-EHqRGQXJY2J-Kq41yiLq4wyf6YLIRkupVu40ffZ-aLaJNRxqj9pMqX7xMn9TyaXC2MzC-TyBKbUw184C10vxfBrXAX11RrJ4Ex2C1Z0Sv30-3KSRk7KHaZry_bg==)
+[2] [jjmagazin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMg9sl452FdNGSckFcGIhiVZmW4Hu8QGl2X1nRD93IiMSmmmjCBTT560Xjb6andyw0PVpehlPWlBb6gESi6FbCpJVlTdL5dkJ6Q-poNkCH6kNcz02ClsJYsN0taBLhCdWojpHXZT64Rrz49A-8BfOOZA==)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYwl90AsLTMEIBK4mWy5b34DZPUtca-QZxp16KrFbi0HR_fOTOZHCJl0Wwss9_BKyoGzWcUkMD5revPaZf1C3D1by5m7jCP7LAKp7Ipm5ogZ2yC2fujUMqSZgJb-LKdFri)

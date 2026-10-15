@@ -1,0 +1,9 @@
+### Result
+{
+  "niceInv": "object",
+  "crypto": "undefined"
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  // Let\'s search window for decrypt functions or AES\n  // Or check the script tags or modules\n  const nuxt = window.useNuxtApp();\n  // let\'s check global objects\n  return {\n    niceInv: typeof window.NiceInv,\n    crypto: typeof window.CryptoJS\n  };\n}');
+```

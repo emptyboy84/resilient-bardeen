@@ -1,0 +1,12 @@
+### Result
+[
+  "부산 사하구 괴정동 1001-12026.09.18검색어 삭제",
+  "부산광역시 사하구 낙동대로 214 (괴정동)\n복사\n\n부산광역시 사하구 괴정동 998-1\n\n관련지번부산광역시 사하구 괴정동 1001-1,1002-2,1238-373\n우편번호\n49338\n영문\n도로명정보\n지도보기\n더보기"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const lis = Array.from(document.querySelectorAll(\'li\')).filter(li => li.innerText.includes(\'괴정동\'));\n  return lis.map(li => li.innerText);\n}');
+```
+### Page
+- Page URL: https://www.juso.go.kr/?keyword=%EB%B6%80%EC%82%B0+%EC%82%AC%ED%95%98%EA%B5%AC+%EA%B4%B4%EC%A0%95%EB%8F%99+1001-1&strAotYn=N&strAblYn=N&strSearchType=HSTRY&strFirstSort=none
+- Page Title: 주소정보누리집(도로명주소 안내시스템) < 메인

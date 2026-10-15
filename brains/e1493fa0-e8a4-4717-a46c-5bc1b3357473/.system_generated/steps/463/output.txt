@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Missing/invalid zip at row 59 6090793741 대아정밀 
+Missing/invalid zip at row 194 6091294934 동이정공 
+Total missing/invalid zip: 2
+

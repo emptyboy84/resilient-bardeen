@@ -1,0 +1,13 @@
+The search for ""케이안전기술원" "23명" OR "7명"" returned the following summary:
+(주)케이안전기술원에 대한 정보는 다음과 같습니다.
+
+*   **종업원수:** 비즈노 등 기업 정보 제공 사이트 기준, 종업원수는 **23명**으로 확인됩니다[1].
+*   **7명의 의미:** 관련 연봉 정보 조회 결과에서 2023년 12월 기준 **입사자 수**가 **7명**으로 나타나고 있습니다[2].
+
+참고로 기업 정보는 공공기관의 자료 갱신 시점에 따라 실제와 차이가 있을 수 있으므로 단순 참고용으로 활용하시기 바랍니다[3][4].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ6LfsjfdXoF4ysqnhEupDYtK02qGVNm9vKYSOylC-JeTqgOfLsATJB5b7vo_YK3GJrbBBCIke9688_OKtiP04-prqGe9k2YPKWmhrtUZPWP32GnxVWpapuUE=)
+[2] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-KePw9acHtDHk3OMOyRN7nBiFa0TI57KjUzq4KFyWUEWcFm2XnKY1Y0wGwPjipE9jQIn3TQpuu4dhfRHxtUvNpS6nuxXkkWd8nsrtAh2dBnRc5tke4qvs-NzUPW5J3MsP2-EhXqzlMD4QYt31bcJuy4qBAVVSyammz5-jDAxfADA9bye2T7SviCZkURQ8pCBJ4__3bV9Wn7RS)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ6LfsjfdXoF4ysqnhEupDYtK02qGVNm9vKYSOylC-JeTqgOfLsATJB5b7vo_YK3GJrbBBCIke9688_OKtiP04-prqGe9k2YPKWmhrtUZPWP32GnxVWpapuUE=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ6LfsjfdXoF4ysqnhEupDYtK02qGVNm9vKYSOylC-JeTqgOfLsATJB5b7vo_YK3GJrbBBCIke9688_OKtiP04-prqGe9k2YPKWmhrtUZPWP32GnxVWpapuUE=)

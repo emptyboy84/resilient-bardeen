@@ -1,0 +1,14 @@
+### Result
+Waited for 30 seconds (requested 2000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://www.114.co.kr/search/list?query=051-464-0761
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 194 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-27-12-653Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-26-36-651Z.log#L12-L3569

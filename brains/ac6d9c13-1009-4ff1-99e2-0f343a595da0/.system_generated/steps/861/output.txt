@@ -1,0 +1,1 @@
+Subagent "qa-inspector" defined successfully. It can now be invoked via invoke_subagent.

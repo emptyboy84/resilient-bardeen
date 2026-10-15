@@ -1,0 +1,20 @@
+The search for ""엠에스네트워크" "부산" OR "만화" OR "동래구" OR "연제구" OR "금정구"" returned the following summary:
+검색 결과, 문의하신 "엠에스네트워크"와 부산의 특정 지역(동래구, 연제구, 금정구) 또는 "만화"라는 키워드를 조합하여 유의미한 연관성을 찾기는 어렵습니다. 확인된 정보는 다음과 같습니다.
+
+*   **기업 정보:** 경기도 화성시(봉담읍)[1][2] 및 경기도 광명시(소하동)[3]에 동일한 명칭의 기업이 존재하며, 이들은 주로 제조업이나 통신 관련 분야로 등록되어 있습니다.
+*   **유사 명칭:** 서울 영등포구에 소재한 "지엠에스네트워크"라는 소프트웨어 개발 업체가 있으나[4][5][6], 요청하신 지역과는 관련이 없습니다.
+*   **만화 관련:** "엠에스네트워크"라는 명칭은 CCTV 및 보안 장비 판매 업체(MPS#Mall 등)의 취급 브랜드 목록 등에서 발견되나[7][8], 만화와 직접적인 관련성은 확인되지 않습니다.
+*   **부산 지역:** 검색된 부산 지역의 동래구, 연제구, 금정구 소재 업체 목록이나 신설 법인 명단에 "엠에스네트워크"라는 상호는 나타나지 않습니다[9][5][6].
+
+혹시 찾으시는 곳의 정확한 업종이나 다른 정보가 있다면 다시 알려주시기 바랍니다.
+
+Sources:
+[1] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0jQAlJmM20594jAWJHWGYK55TYWKjP6llcj01F30bn__NZVx856BZLGtgfjS_67yNA1dvPUQylmxzmTvkLgk09rWAwzAUXPkPw94T5Evzqx3_QyMezHVwU8lKm8HoSv58IjpwDizyeetMId_mFho09hOv9Xtkbp1HyKIp54yCSTyn4YdiGUeTETtUgPreNb6bz6recPGXf3jN9KafqaO_flBaYMOHlkIPydI0Jqj0sK2w7fWActks-sSsdks=)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSmcTgTuKh3pguTK9CkyKweYU75aeVU0fqGmITz84N7annN6y2RFmDYc7or54M7oSDdiIqeKSKW0KE5pUrIdBZDATmGdULd2WTxA7b_jKk9Ic4MF7QGFcKXh4J7ugxmrzyC6lTnAcLK6Bju3-1QIt0RNRO9gXAaqEP1IlvkBcDnx-xVwLh743ZyUBlqrp0EN53i9wtvxW0IOvvpPLkkinsaRWAGrVdV2LBVVgI2cfr4AuaxuqIILPJgY2jxMtBj-Qo0F07cA==)
+[3] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ntZxq9itFeq-wzjRK0484hZbtDySpbYVuKmekTRPzZwC8_6u6gT1gmDONsIVGDYaWXGyuibd_ptAgEWsy6WlZsatI7N0i-ySMIZXkfLVqMc_6ZS38z6W5XhMUYFVcTHehzYB7s_lJxv2vcJnpYPBdyUOiAji_T8_T6CjSSUhywB9NQ9r1VtRitHNhCs2DqFHROQFIkcM_spJHrsKQZUZW85oz4OLa3i7j1OIBmf7az5MWPUrVA==)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdauV3iR_qlXfqg1drtteG14vTKZw1lk88a4-1ZlQ_ugmmyufNe4W6plNlaXDFUvcA9J0VDfF7tbDvPK1Etsy5nYhtYqeEi-_21wrQs8Ecccp5o1SbyJozJiR6Yrw8D6wohNU=)
+[5] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCdAkRkX0Z2acY5tK4RAPVbpwZh3BakzNuTERe_RkVZnK0Rk2QePkVMbn9Uhl6KZ6WbpGx-N-oHe2Z79VlBBlOZmRyIgI3L_8jaBV4W0g1sAxDm2fpg9hZU9RDxXFomCuSmtzn2y1pxgY=)
+[6] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdauV3iR_qlXfqg1drtteG14vTKZw1lk88a4-1ZlQ_ugmmyufNe4W6plNlaXDFUvcA9J0VDfF7tbDvPK1Etsy5nYhtYqeEi-_21wrQs8Ecccp5o1SbyJozJiR6Yrw8D6wohNU=)
+[7] [cctv-mstore.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHizV8KBaTmV76WxnY0WeWeuvN3CBl0GrhioYlXLuGTMO1jsThX-oicrjOwWYWRgaOD82y_3PWISIfVOz8LJ_PJ0YrV871cAEcLzjpBw9lCSf36kyaPeZa9ZTQSvM_tkILI3-ACO-ZerX4tJv_qJCanRPiq0hSQHiE6jUPQ49ih)
+[8] [mpsmall.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMVE3TZyI62at5wfjJW0Ej0dUJEUUcFFBUqGbUuXe6cCRMJmBMym-5CxVl2Lw_lE9m3YlC2Kgr1w56d8qGfFw1rcGqmVrV3P8D1Hkp7ThatPqbSgyBgD32TlrkEm5OhO8wcAu38Ovoa_rmSvEf10N54ytgq_gnE7B-v0QlXvz7Wg==)
+[9] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdauV3iR_qlXfqg1drtteG14vTKZw1lk88a4-1ZlQ_ugmmyufNe4W6plNlaXDFUvcA9J0VDfF7tbDvPK1Etsy5nYhtYqeEi-_21wrQs8Ecccp5o1SbyJozJiR6Yrw8D6wohNU=)

@@ -1,0 +1,12 @@
+The search for "site:bsdonggu.go.kr "2026년 출판사 및 인쇄소 현황" OR "2024년 출판사 및 인쇄소 현황" OR "2022년 출판사 및 인쇄소 현황"" returned the following summary:
+부산광역시 동구청 홈페이지에서 제공하는 '2026년 출판사 및 인쇄소 현황' 자료를 확인하실 수 있습니다[1][2].
+
+해당 정보는 동구청 홈페이지의 **정보공개 > 행정정보공개 > 행정정보공표** 메뉴에서 조회 가능하며, 2026년 8월 12일 기준으로 작성된 엑셀(xlsx) 파일이 첨부되어 있습니다[1][2].
+
+*   **관련 페이지:** [부산광역시 동구청 행정정보공표](https://www.bsdonggu.go.kr/index.bsdonggu?menuCd=DOM_000000104003000000)
+*   **참고:** 검색 결과 2024년 및 2022년 자료는 별도로 검색되지 않았으며, 현재 홈페이지에는 2026년 자료가 게시되어 있습니다[2][3].
+
+Sources:
+[1] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOzrk469u6hehtDNwCObqQPVSPvjrhLbYPuE5ETIaf5EBbrqCezvEgXzcjJkkMDfgxt7iVPpJaH1yQPq7ujpLT3P5fXehUL0XZvsZQj6RE6wJzY49jpZFnwAo6lWzrnn3KN9aE7ISBOgILZoLY9U_taq987ZgYCgOhmsTqDH6p9t34kvtj42938BIoRAXvcCCA6xoOpBTWxWsgzp0Z5b3QwgnLSl3e1wGTdYfMrOSMug==)
+[2] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZ42ubaaP1KgQ4u0JHaH7cdGU7EugsZv476PRbIsJnBrRnAewjrSw0O2HIypz8HHDBKBhAkKdKWxMxco3iSCRQl4H6z8WN68EdCnsaAhfCngODGKUczdCeTk7k8ULx49nQHd09FCiZvnJ-jXfrzU90bbtKuKo8ZgI-MvtPmTiw3b22PnAGZJh686EeN4H5MF5cEhoU_-cVFWGkEXxPaYJDVhS1R_3ffYmlszXrXdJPg9bv0sFFQmuADgfbPVWt1yWdeBbE7uhSxVgkBsf0MtmekgvrOeDBFc5kPw=)
+[3] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyJBFhbx3V4BZVxDrxCAsEcqIH2KGl4i2ovAHrJnkbhB8cSiXTQIy_r6hSmx2PByw1N52zNjDr3Nk8mQtbqvZSjGYKd4eJxwcNpww0pvAKGiQI5_vZNVZNRruqkhO40AMKa5ODC3y2YWk1d1doQ8v-UbXXeLas-F82kul91tZ90KEHz1PA7Tg07IHPmyfcBuCDfL0WUjosUTWUTgwD4kXPtYd7neg0VBtf4T5qzTHwg9JKaA734wfHbBRV5HmL6Y2H)

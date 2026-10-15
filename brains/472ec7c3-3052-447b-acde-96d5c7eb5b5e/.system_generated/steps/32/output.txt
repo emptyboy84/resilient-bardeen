@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+"C:\Users\lg\AppData\Local\Programs\antigravity\Antigravity.exe" --disable-gpu --disable-gpu-compositing --disable-gpu-rasterization --disable-software-rasterizer --disable-gpu-sandbox --no-sandbox --updated
+

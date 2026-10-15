@@ -1,0 +1,25 @@
+{"name":".git", "sizeBytes":"78"}
+{"name":".gitignore", "sizeBytes":"47"}
+{"name":"AGENTS.md", "sizeBytes":"631"}
+{"name":"all_500_factchecked.tsv", "sizeBytes":"134720"}
+{"name":"all_500_verified.tsv", "sizeBytes":"138057"}
+{"name":"article_test.html", "sizeBytes":"25920"}
+{"name":"bizno_filtered_result.csv", "sizeBytes":"128152"}
+{"name":"bizno_filtered_result.tsv", "sizeBytes":"130093"}
+{"name":"bizno_filtered_result_nice.csv", "sizeBytes":"130977"}
+{"name":"bizno_filtered_result_nice.tsv", "sizeBytes":"130093"}
+{"name":"bizno_test.html", "sizeBytes":"24690"}
+{"name":"brain_logs", "isDir":true}
+{"name":"current_pasted_batch.tsv", "sizeBytes":"110584"}
+{"name":"data", "isDir":true}
+{"name":"merged_500_perfect.tsv", "sizeBytes":"138448"}
+{"name":"node_modules", "isDir":true}
+{"name":"package-lock.json", "sizeBytes":"41125"}
+{"name":"package.json", "sizeBytes":"85"}
+{"name":"query_test.html", "sizeBytes":"17011"}
+{"name":"rows_11847_12000_16col.tsv", "sizeBytes":"36805"}
+{"name":"rows_11847_12000_17col.tsv", "sizeBytes":"37115"}
+{"name":"rows_11847_12000_verified.tsv", "sizeBytes":"38655"}
+{"name":"user_pasted_rows.tsv", "sizeBytes":"192164"}
+
+Summary: This directory contains 3 subdirectories and 20 files.

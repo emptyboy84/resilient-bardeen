@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+RCPT RESULT: 250 2.1.5 OK 98e67ed59e1d1-39b382a1b40si17972178a91.2 - gsmtp
+

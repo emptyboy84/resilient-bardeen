@@ -1,0 +1,8 @@
+The search for "site:wanted.co.kr "노매드헐" OR "NomadHer"" returned the following summary:
+원티드(wanted.co.kr) 사이트 내에서 "노매드헐" 또는 "NomadHer" 키워드로 검색한 결과, 원티드 플랫폼 자체에 등록된 해당 기업의 활성 채용 공고는 현재 없는 상태입니다[1]. 
+
+다만 원티드 기업정보 페이지 등을 통해 기본적인 회사 프로필(여성 전용 글로벌 여행 소셜 네트워킹 플랫폼 및 앱을 운영하는 스타트업)을 확인할 수 있습니다[1][2].
+
+Sources:
+[1] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOmnz6U8I3o284wORCoZkujjnSMFmpeOnp1LqqkGFn7Bpadg6aiMCUKag4Yxrxvp9wAX1mWdpl3Kx5bU0Hd4oD4LV1auECeeinTKyBbooQXYUqbw1lDaa0nXGbfw==)
+[2] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeoGfrKaFIbfYp2ugDvuYNxDVbKTlVufX3OuIs-4Ff-Z7MICYTLWLRo5MQWHo26EoDzPbuchnmxq4fAj4v7e8y711_FLXDXqWhN0D9bpVL)

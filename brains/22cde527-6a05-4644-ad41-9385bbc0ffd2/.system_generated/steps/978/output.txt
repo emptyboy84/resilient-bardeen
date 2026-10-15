@@ -1,0 +1,15 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-970
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-970.log
+Log output:
+<truncated 60 lines>
+동) 2층 11, Dosan-daero 90-gil, Gangnam-gu, Seoul, Republic of Korea) 일치)
+[FOUND 52] Row 2064: 박정희 -> 394-94-00184 (정확한 상호명 및 부산 소재지 일치)
+[FOUND 53] Row 2072: 씨앤비(CNB) -> 396-15-01428 (정확한 상호명 및 부산 소재지 일치)
+[FOUND 54] Row 2070: 김지원 -> 138-12-44359 (상호 및 대표자(김지원) 일치)
+[FOUND 55] Row 2062: 이계승 -> 306-10-20897 (상호 및 대표자(이계승) 일치)
+[FOUND 56] Row 2046: 아이들세상 -> 370-27-00416 (상호 및 부산 주소(부산광역시 사하구 하신번영로 233, 206동 1101호(하단동, 가락타운) 233, Hasinbeonyeong-ro, Saha-gu, Busan, Republic of Korea) 일치)
+[FOUND 57] Row 2093: 보승패킹 -> 621-81-40263 (상호 및 부산 주소(부산광역시 강서구 화전산단5로14번길 25 25, Hwajeonsandan 5-ro 14beon-gil, Gangseo-gu, Busan, Republic of Korea) 일치)
+[FOUND 58] Row 2013: 즐겨찾기 -> 142-79-00111 (정확한 상호명 및 부산 소재지 일치)
+
+Last progress: 0s ago

@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+
+AAPThreshold     : 0
+WheelScrollLines : 4
+MouseSpeed       : 0
+
+
+
+

@@ -1,0 +1,28 @@
+The search for ""부산" "애니메이션" "이은석" OR "조나단"" returned the following summary:
+제시해주신 검색어와 관련하여 확인된 정보는 다음과 같습니다.
+
+### 1. 이은석
+*   **게임 개발자:** 넥슨의 전 팀장으로서 '마비노기 영웅전' 등의 아트 디렉팅으로 유명하며[1][2], 최근에는 크래프톤 '파파랑 스튜디오'에서 차기작을 개발 중인 것으로 알려져 있습니다[3]. 과거 부산에서 열린 '국제콘텐츠개발자컨퍼런스(ICON 2011)'에 강연자로 참여한 바 있습니다[2].
+*   **기타:** 학술 분야(대한전자공학회 등)나 연극/드라마 교육 등 다양한 분야에서 활동하는 동명이인들이 확인됩니다[4][5][6].
+
+### 2. 조나단
+*   **방송인 조나단:** KBS 프로그램 '스카우트 5.0 얼리어잡터'에 출연하여 애니메이션 제작 과정을 체험하고 더빙 및 애니메이팅 실습에 참여한 영상이 있습니다[7][8].
+*   **조나단의 상상이상:** 부산국제건축문화제가 기획하고 시빅뉴스, 오두막필름이 제작한 콘텐츠로, 부산의 공간과 도시 캐릭터에 대해 다루는 프로그램의 명칭입니다[9].
+*   **영화/애니메이션 관련:** 부산국제단편영화제 등에서 조나단 위소키 감독의 작품(<인형의 눈>)이 상영되거나 관객 심사단의 선택을 받은 사례가 있습니다[10][11]. 그 외 애니메이션 더빙이나 캐릭터 이름으로 '조나단'이 사용된 경우(라이온 킹 등)가 다수 검색됩니다[12][13].
+
+**요약하자면,** '부산', '애니메이션'이라는 키워드와 함께 언급되는 '이은석'은 주로 게임 업계의 개발자(강연자)를 지칭하는 맥락이 강하며, '조나단'은 방송인 조나단이 애니메이션 제작을 체험한 방송 콘텐츠나, 부산 지역의 문화 관련 프로그램 명칭, 혹은 영화제 상영작 감독 이름 등으로 검색되고 있습니다. 찾으시는 구체적인 정보가 특정 인물이나 프로젝트라면 추가적인 맥락을 확인해주시기 바랍니다.
+
+Sources:
+[1] [slideshare.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL7PbyjSBEYclhFyu6Bt5GyMKTfOVFZcDFVB-fz4GcbsH3yjD4-rMfNtoVm5-qPONV4fV2najpZPSaJIkGECw19-5TGYblZy1T13XfNk4Dig_NkcCiddPUPrLdTJfR3Jk9ZF6v8BlSBnbLpez_gJZopP57ng3f7w==)
+[2] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFOw8y8KXSqI15uFVQ9GrIsUmclR4zI6BKqsr3OBC3mss-LUYpuE7yVssSYkNOoJ4pNxgtXCwcPAr-ox_MLL0Uu-FI11XVv3f3HprXEbFu5GIEUlt65yZdpAGT7xnoMRVkVgwV3aKEy_7IFK3g4idVPGoAYSENpMA3J1P9jloNvk8Z_fmlm64Vwg_q)
+[3] [inven.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-PnzHR_cyqRiT_Z5bToKEe2chM0dusTkQxcQHWXdP7ZCJcBOyNhMPA6ZiTTGWzx4MlqlKKODZr70bk0E-ACtjUHrxDO_3ccP8nlLqZJaFfl9F3uWUnrFxMaVh3EQe8z1Vqe6fTqKtKmCHsVxmDIblyZNFf6fBqpwD3TZtq-yvJ4SJnVA=)
+[4] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECdmJd85Vhjv3u4H3keOMBu3i5rT8EZf-xBLOr5xFsZdlEEi6Ei8FvPZapqQDxgp9mo9kYk7wfepjtnOVKy0MKD0xAxm5cfeiFYvtauJk9vN2xDMM1-Pzox8knZR7P4ABbw2e_9vmOHhYP-F-AALkGAcQbsJmsStgY8DX34yUmeC-g7l-vERPCnTK_auDOOA6aCFzgOmjR5K-IvVQSQdGY9jVwjyt3I-7vpCoRmp_JDvWd-dRC3F5mFWohPeghUXVcRrc9rFI=)
+[5] [theieie.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-wtpmF3p_qPWIrhIby0YXhWQgerHdVoV43CP3eKKLqVMGBm-sIyoDL-zjsiUjDhgFD4X7OTiEM5Cr6TFBhEPl9iMO1zkol8mr7lh-qBGkoU6RHCe01i2xfq3Qv_OCBrqGF7I2QN3BK8Ets55u9IJpcEILXNIUvmUa9Q==)
+[6] [joongbu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKSMYziVxD3Sulyw03kFwjkpHw9MbHpFetZuhfLAq7p8ofiWcS5qDQ-F3M1VddJOKvdeecsULxU3W4xnMUBeYrDJ9l0mh77mMZyLPt8stboyLelfKksgi8x_XfJ7P2auImDIbj3OnlzjLJsaA2c_-tWWb96AwbnYQHPd4xHQUtGDw47M-4k8R5U9NHByHScPr3vsM_MzgeedEB)
+[7] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvoFB4Jy1Hhw2TEnIX9HYvs7lQxOUmyRwFTFRAqGhtivFEH4yOlyQJ99u8jY1Vkx-Unwasa0b_w1Ki9QKPr0XUKU6kgRGkj_-GJlWq-rHqyYVbpI3YsENXr4cIRWAxJ_cN)
+[8] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvoFB4Jy1Hhw2TEnIX9HYvs7lQxOUmyRwFTFRAqGhtivFEH4yOlyQJ99u8jY1Vkx-Unwasa0b_w1Ki9QKPr0XUKU6kgRGkj_-GJlWq-rHqyYVbpI3YsENXr4cIRWAxJ_cN)
+[9] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2DaXwDgJ83aysT8E1ljIGsUyiKRIH-tC4Rto8DEIzeYF2FDJ9kmJW5m8jbEhYhdvZn9CoMk2brCtsQah-VFhYoXikVUWQQdXxJQkI39AW2e51O3a8VMApT6uWFpp4YNKI)
+[10] [bisff.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPFrQKq2IcuJ7P4e44_2eO1Wrn7KyI9ACUmXBTImZTrwIIxjYxQn05Bh1C-lndrLh_TeCkuUMX32YEf9Z41-Hg3IUn2l023honVGw6dqrV7KMhdmMn4Pmbb8KhRI6gcB6VKjmjQUob7dmiY_VDuI4Vb-Anw8Cg3q-16Rh56rOeQHAxM1HY77QkgNeml6Bj)
+[11] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoomPiwJmookVqyAYXtq_N1HhpvUGYcL-dV--OHnro1t8c_fv-cydEacze-nxiy_MSiMplE5vLWC4r_Pa6jjSTEYneC03h-VAC1ug41RKvPHSMWW39svetBvdQO62iR2iQnRvHh-XKFKuJd6fwIk7m-_oy)
+[12] [cine21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfLFg_ta3gZ8s3wIdxxZHFngYP2mBR_aJx7Mx3RkZPmkX5MbUurnnM8fgD1ps4KVlaavu3yxOQ_jtNJ6rdAZDif5cQ1gYDtBXZ4Nc3qUQTpbk5F3gTShCTaeC-0Gd-XT4=)
+[13] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEet0kE5Cgk8KoPNHnHwzSxZ9JE113pKcs16nvm-sdT_Wiq2y4UYuy1uUMxnu8bV78afpPYptccm6PNcfN6ykLrtT3U-wjbbGFuiJ170wqBCdMyJ4QkKggjNox_ffJJFQFu66hoqx_24ioPNhqm-7QiGM4n)

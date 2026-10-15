@@ -1,0 +1,14 @@
+The search for ""775-63-00303" OR "7756300303" OR ("클레빌" "강동구") OR ("김상훈" "아리수로93길")" returned the following summary:
+검색하신 정보와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **클레빌 (CLEVILLE):** 서울특별시 강동구 아리수로93길 40 (강일동, 강일리버파크3단지아파트)에 소재한 중소기업입니다[1][2].
+    *   **대표자:** 김상훈[1][3]
+    *   **업종:** 상품 종합 도매업 (무역업, 전자상거래 소매업, 해외직구대행업 등)[1][2]
+    *   **사업자번호:** 775-63-00XXX 형태의 번호를 사용하고 있습니다[3].
+
+검색어에 포함된 '775-63-00303'은 해당 기업의 사업자등록번호와 연관된 정보로 보입니다[3]. 그 외 '김상훈'이라는 이름과 '아리수로93길' 주소지는 해당 기업 및 대표자와 일치하는 정보로 확인됩니다[1][2].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2upxaOD9rE6TMS-lhF4nmaENsfD6X7dZo2LztO2zHjSYGZsEABadR4uB3sq0gPcDXAc_kRP15lHRqxsFJvpqgtm6A57lbIQchbibly5xIRtQ_ZF86brts-mAlHiZPz0eexTl5Yh6kiIwqm_8c-mR2twF_gUkhS2aBIRRrL6c4pWVO-mIiK9lE4CldY9PiFK6e6UK3VmosV1RgOIpzBqKiD__aGK0L0DocQNCAS2gJC1XYzOI=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2upxaOD9rE6TMS-lhF4nmaENsfD6X7dZo2LztO2zHjSYGZsEABadR4uB3sq0gPcDXAc_kRP15lHRqxsFJvpqgtm6A57lbIQchbibly5xIRtQ_ZF86brts-mAlHiZPz0eexTl5Yh6kiIwqm_8c-mR2twF_gUkhS2aBIRRrL6c4pWVO-mIiK9lE4CldY9PiFK6e6UK3VmosV1RgOIpzBqKiD__aGK0L0DocQNCAS2gJC1XYzOI=)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyuml6Ki4VLkmBf6xf1gR0m9_eZeW8h_l6jOJv3Sxh_L14D5pZtq0VVGRJhK62ECiEOLfhTg6qKXOOkOi1j-5XmiQ6k4q4ttXxIAZJibMuKbXQfvWc06O-RE0Xkd_D5yD9CiTHcv2GXKLWU5PBjW9gBOA=)

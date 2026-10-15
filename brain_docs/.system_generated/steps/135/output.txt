@@ -1,0 +1,11 @@
+The search for "site:114.co.kr "726-86-01973" OR "온클레브"" returned the following summary:
+국내 전화번호 및 사업자 정보 검색 서비스인 **114On(114.co.kr)**에 등록된 정보에 따르면, 검색하신 내용과 일치하는 기업 정보는 다음과 같습니다[1]:
+
+* **업체명:** 주식회사 온클레브 (ONCLEV INC.)[1][2]
+* **사업자등록번호:** 726-86-01973[1]
+* **업종:** 소프트웨어 사업자[1]
+* **소재지:** 부산광역시 남구[1]
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2jnpu6_iTktBrHtCYY4_LhCq1LxUMeYHzkTme8LU3a1FVLI5NQUtHusa9Svac6CygiEb43hhETAG8rAcKe2Pq3_sZ4MGyOOdH32DLgdKjzomyTmgiQJIAVBogWa03DfXeTj0DkQpuFuE=)
+[2] [onclev.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEZxn206hNIiVi0YFtdfwVMYAnKZEV3vjLQ_CbgFLpQevhgbgZ4swkST-ehT-yofFhvbsEceNtHuZl4ieEYU_Rqtwk-Mf0NP_L)

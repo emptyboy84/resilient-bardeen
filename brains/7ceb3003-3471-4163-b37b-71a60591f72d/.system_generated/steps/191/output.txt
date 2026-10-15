@@ -1,0 +1,20 @@
+The search for ""출판" "롯데갤러리움" OR "갤러리움센텀"" returned the following summary:
+검색하신 '출판'과 '롯데갤러리움' 또는 '갤러리움센텀' 키워드와 관련하여 다음과 같은 정보들이 확인됩니다.
+
+*   **주소지로서의 언급**: 부산 해운대구 센텀시티에 위치한 '롯데갤러리움센텀'은 다양한 기업, 학회, 개인 사업체 등의 사무실 소재지로 등록되어 있습니다. 신설 법인 현황이나 기업 정보 데이터베이스 등에서 해당 건물을 주소지로 사용하는 다수의 기업이 검색되나, 이들 중 대다수는 출판업 외에도 광고, 홍보, 전시, 기술 서비스, 무역 등 다양한 업종을 영위하고 있습니다[1][2][3][4][5][6].
+*   **특정 학회의 사업**: '유전의학융합회(ISGM)'와 같은 단체의 정관상 사무소 소재지가 '갤러리움센텀'으로 되어 있으며, 해당 단체의 사업 내용 중 하나로 '학술 학회지를 포함한 기타 학술도서 발간' 및 '연구 용역, 광고, **출판** 등을 통한 수익 사업'이 명시되어 있습니다[3].
+*   **행사 장소**: '롯데갤러리움'이라는 명칭은 주로 부산 지역의 웨딩홀이나 갤러리 등의 장소를 지칭할 때도 사용됩니다. 예를 들어, 과거 지역 동문회 행사나 법회, 특정 작가의 개인전 등이 열린 장소로 언급된 바 있으나, 이는 출판업 자체와는 직접적인 관련이 없습니다[7][8][9][10].
+
+결론적으로, '롯데갤러리움'이나 '갤러리움센텀'은 주로 부산 지역의 오피스텔 및 상업용 건물로서 다양한 기업의 사무소로 활용되고 있으며, 이들 중 일부가 정관이나 사업 목적의 일환으로 출판업을 포함하고 있는 것으로 보입니다. 특정 출판사 이름으로 해당 건물을 검색하시는 경우, 보다 구체적인 기업명을 함께 검색하시는 것이 정확한 정보를 찾는 데 도움이 될 수 있습니다.
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl5XtqxvnC4X66ahtZcg_PAcSMfBvZfXSse4j1zELKzDQsTofvroAYezPRXEeIs-KyZgNFHdE-3UhrcGs98zc7_IU5NuGys0D019HlTH2GWYOvvYInnP9OsepxfAohwBg5OoCUzZZWn6SaMHLhmKP2UMelh1nQP5OIpZI3wN_NfYt9jeyO6vbOZqLkoAqCgA==)
+[2] [ksocean.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnkSf_R9dIE7-k0-_xSrbHDDzSm02UnJwLaC_3QDoHw6ljeCCf6XI_kFq8Su-mP1D5vzzbPJr_X-67GWkZ9llzDn-AHPXH8n5m-1eSdb5gn16oPntZMwqYzTG0URisdNVomMjioyqXPDTOXk3q5NBdY3t_E0Y-lwTFJ86xMyJOZqD9rUext-bC2ltENFF5rOMeHp-deZMMGyJdRdPFORSq6JlczqriLH5tDBgc3iHLxwEw_tT0cGAsmmK5-Ch95CBD1MQQDXynLxDmZ0npXUEA5kMU_wpWMUVP-zJAlD-hr3Soc-orFPTY6pbzC5seeAkHEBAfbpTxf0Z7nNJtU9PyFYdEZISe2kQ5yetU257PZ1oU7_Db31CiBE8sjWSjbwSlZDT0vM-FEDhC-QrF69J-SU9hFEHOBSCOWAGYVzlnPH_GSw0iScRHMbP8q2Hv1m2exVKYUSiMSc1b7cnYrksWite7Leo8LMQOS7Ic1GxdMzi4_h9ahzHxgHNDS_MMOmwtlfOC3Vs=)
+[3] [isgm.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZTT9-Dv8Fvx9v4Yv8maYBVowD60XbqVKzJec230pjP2aZwxWOVnC0HuGX-6xd8MKd2TSLwBeJHeGAPcF1NWUUTVFvvNYbyMz-DbLtJw==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEleiHAfNzxLZhLOdvTXP2VEgvG-bQbu2iWWJZNmiYMoohsotgZZN_5sund5cZ96GxPd1FjlhqKSnDboDJgsLHSAcWFJzKq_heUKm_6lZ3dftclbK5oK9k=)
+[5] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoRzi5-4gTPqf7jnqglcp1xDxOqdRE2-Be0wc_dYAa3VkfBvWwscyjriKMCzfg1AedpXYzDYcTManmozClP8p4TGlffyIXef98lsYqp4sQnJmDIytjy_1zdcfblN3XgXQX1pmFK-qbYvj1)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz3C85Sxpoz4SLy5mmzPoqhL6DW3MFhDdwI07w97-ktiH5i8Arx_DQbD-5Uw8MPK-5ZWjeHvdCQtJoYHhGqlu2HlfD-MXsW0VUqAFPBZmihllf1E3rGwY=)
+[7] [knou.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJl9WbhBW31ZxjZRUlJ6KekLXMjvvUnJmhpGz05m-JrEGBL0dzVKNx2u_7zNRl-nb6IM5x_psQse38U1HoH4xo-kLONdo-SEEQgI6byKAGVYvQSJloTPhxvwSgTrWRwYTooRrIEUiIuDCz__A=)
+[8] [beopbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIM6Bb4AOcbx3sShPQHRaMAYGoeiZ_5UjytonFfgpt5NRFZvKQ5q7WTIRqXxpUYl5uxGk5eKxlnd11expogAyJTDdN0E-A77em48bQO2aEG2IOImVRTuAc-dq-sZ1qZyV1XtETDOQQJbQTzPApo4Q=)
+[9] [seoul.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ1OP7AY-mWf1OaeX_uK7N2te7BNJYJtzU4A4DaNnmnobC_1fvNd2iyZCTcH3GjOx1wpxzfuBn38c2OzkgrvqPVnI6sJEVFrIG6myRXLdWxqRQS9U1F2QuLfFHtdNi1-PCAjZ4mjh5wCPZoLq2G9wCP1wBSljXJKnc)
+[10] [bssancheong.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG1lVdUxtuw25uiEQ-TT2yYQ8m1uaj2txpxKcGwQfkVwjadMg-v2z2_eq6bglnX5xKEtBjADjWjjDh_Q3MVU15I3O_dyKqXdyjpJq6pLa0dMXv-6gskuk99tBX5sdjeYj9cTeY7FhyG_aFTUWD5Pyh5U-a0Y_F_s9XVi8i1Fp-eFD8dm3TA6fy7Nw353bSdT3EWcp6xzh0Begp7E3BVhnwRe-a5344B8IjVWr5kLnZFXPT251spTN9IL9AER4O)

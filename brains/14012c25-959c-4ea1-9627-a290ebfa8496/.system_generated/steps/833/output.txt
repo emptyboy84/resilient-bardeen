@@ -1,0 +1,13 @@
+The search for ""보보스유" ("010" OR "051" OR "070" OR "02" OR "전화" OR "연락처" OR "대표")" returned the following summary:
+검색 결과, **주식회사 보보스유(BOBOS Inc.)** 기업 정보는 다음과 같습니다.
+
+* **업종:** 가전·컴퓨터/사무용품, 가구/수납용품, 의류/패션/잡화/뷰티, 레저/여행/공연 등[1]
+* **소재지:** 부산광역시 해운대구 (재송동, 센텀리슈빌)[1]
+* **대표자/임원:** 사장(대표) 원유정, 이사 원종락 등[2]
+* **설립일:** 2020년 5월 27일[1]
+
+다만, 공개된 공공데이터 및 기업 정보 데이터베이스상에서 일반 대중에게 공개된 별도의 고객센터 대표 전화번호(02, 051, 070, 010 등)는 상세히 확인되지 않습니다[1]. 추가적인 연락처나 상세 문의는 해당 기업의 공식 채널이나 사업자 등록 정보를 통해 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2WPlswju40RLaOprRBkMmNQhGuvOaftQPE9mxiTinPbEAjr7g9WjU7FeMAikq9Yz6iRLk-wfUkYktMP1W16YC7uJvXOKk-HlEe_PqjB_FszR3PyURZt2bkOZ3OEi-bH2xbj2sfi-r8xCtBG2yBS8-3MEJyaUuTsJ20O46lqZNl3s=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2D5H5x6wnYXi8kemqiajFv40Oj6ibnoRIzegVyxpGtpf9DDEDeCXoWh-O_ZfpEcKxnZ8ISQeImYHyrEMrhOGld-BEw75K65_bpraElt8QJdT-PSR3cjP51VNGU7uBJ0klRV4OpsHSUqJDg90aO4hCZss5SGLuWJ5wQbrysq71u2Zr7X54TlglqsiefLh6QFx27WkQ_yIxMBI-T7ZICjqTPE6exC0BuyXFoGmOQQ==)

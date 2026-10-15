@@ -1,0 +1,6 @@
+### Result
+""
+### Ran Playwright code
+```js
+await page.evaluate('() => document.getElementById(\'info.search.place.list\') ? document.getElementById(\'info.search.place.list\').innerText : document.body.innerText');
+```

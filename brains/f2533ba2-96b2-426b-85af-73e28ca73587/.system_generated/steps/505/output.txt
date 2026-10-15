@@ -1,0 +1,13 @@
+The search for ""5408103358" OR "바른중량" "법인등록번호" OR "법인번호"" returned the following summary:
+문의하신 내용과 관련하여 검색된 정보는 다음과 같습니다.
+
+*   **(주)바른중량**은 충청남도 천안시에 소재한 기업으로, 주요 사업 분야는 기계설비공사입니다[1].
+*   검색된 기업 정보 내에서 **법인등록번호(법인번호)**에 대한 직접적인 정보는 공개된 검색 결과에서 확인되지 않았습니다[1][2][3].
+*   입력하신 번호인 "5408103358"은 일반적인 사업자등록번호 형식과 유사하나, 해당 번호가 (주)바른중량과 직접적으로 연결되는 정보는 검색 결과에서 나타나지 않았습니다.
+
+보다 정확한 법인등록번호를 확인하시려면 [대법원 인터넷등기소](https://www.iros.go.kr/)의 '법인등기 열람' 서비스를 통해 기업명으로 직접 검색하시는 것을 권장합니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvkz8C1NBXiEr_Q7Y5V2LhMtyvozKC6Q5KuNntZ-ZcVE9WaQ83duBJLtYN76ahmhZp2QeYR0Kzs_Bu-CKT2LcmfGHEOoxZ4TcCqx-gvtPWyYn-HfJNS_AZYULattskw3JCk6gsH3u6475oDoBPIznA)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8FnQcpxge6e7LjiJrDMZ0vL7zNUAEe1jus1csq5MJSTJ-TNh96t678zHJBBaC3cCflV4T3s6zn9H0PjrDZV-e1dwdTzfCJtMb7gZWyVucNDvDhojb4dv54_jmB0qagPUAaDOEhsidVMfzOGiIryCYCvXe)
+[3] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8FnQcpxge6e7LjiJrDMZ0vL7zNUAEe1jus1csq5MJSTJ-TNh96t678zHJBBaC3cCflV4T3s6zn9H0PjrDZV-e1dwdTzfCJtMb7gZWyVucNDvDhojb4dv54_jmB0qagPUAaDOEhsidVMfzOGiIryCYCvXe)

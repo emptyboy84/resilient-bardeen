@@ -1,0 +1,19 @@
+The search for ""010-9194" ("씨플레이" OR "seeplay" OR "김경원" OR "2021-부산해운대-0337")" returned the following summary:
+제시하신 정보는 모바일 게임 개발 및 서비스 기업인 **주식회사 씨플레이(SeePlay)**의 공식 사업자 정보 및 고객 센터 관련 내용입니다[1][2]. 
+
+* **기업명:** 주식회사 씨플레이 (SeePlay)[1][3]
+* **대표자:** 김경원[4]
+* **소재지:** 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠컴플렉스 622호 (우동)[4]
+* **통신판매업 신고번호:** 제2021-부산해운대-0337호[4]
+* **사업자등록번호:** 354-87-00849[4]
+* **대표 연락처:** 051-782-1801[4]
+* **공식 이메일:** help@seeplay.co.kr[4]
+* **주요 서비스 게임:** 캣점프, 무한의 점프, 스폰지팝, 생존 1% 방탈출, 바나툰 시리즈 등[1][2]
+
+(참고하신 번호 `010-9194`는 해당 기업 정보 내에는 직접 노출되어 있지 않으나, 사업자 정보 표기 사항 및 기업 식별을 위한 키워드들과 연관된 검색어로 활용된 것으로 보입니다.)
+
+Sources:
+[1] [seeplay.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI3l8_TVassHWjVZs2_4yVk8mOd18liGE49WUaja5vXnNIfRJ7sTqBPyrRlGfkplnVWs6OxhCOKA1nuNmUHtNZErjUqWdKFEN050lLWWeYwQ==)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHePaV8M0o1W5Gu4Fdarnb-afpqX155LYIJ2oHR933SEXhMnuaWvGti2YiiWC09FZG3CVYQudtsIWuiIPaVBOhn-XLorYXrb8pxrXSgPNBNMX43IOkJcTkudd9GWuiCTcEe-pmpataQyQ==)
+[3] [seeplay.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqzcUslhsevOI497wiw0pBtKkF76FL1S-JQkX0pqdyyFg4Av9y7tRtqRNNx4WydwwgOFdrQVScG8ik6kXCV_NzUIzP-7K10R90IREhqSmv0cRP956T3mc=)
+[4] [seeplay.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUAeWz2PfeOFOwD24ivjrf9WJviPAOQI70oY6Uus3OxZzbuu14SkxljBly2Sq-K5tY7U9I5kjkhvYr6E05b52djiYgzAXdit9nSuVAQ26SaKS-f04J_SA=)

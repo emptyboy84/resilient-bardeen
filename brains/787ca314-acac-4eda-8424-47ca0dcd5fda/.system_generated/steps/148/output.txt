@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Length: 22432
+Matches: [
+  '법인등록번호조회/">법인등록번호조회',
+  '법인등록번호',
+  '법인등록번호조회">법인등록번호조회',
+  `법인등록번호" onfocus="this.placeholder = ''" onblur="this.placeholder = '상호명,사업자등록번호,법인등록번호 '" required="" type="text" >\r\n` +
+    '\t\t\t\t\t\t\t\t\t\t\t\t \r\n' +
+    '\t\t\t\t\t\t\t\t\t\t\t'
+]
+

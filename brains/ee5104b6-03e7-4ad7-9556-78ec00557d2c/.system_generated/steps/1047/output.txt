@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Modulus 11 check: { sum: 48, remainder: 8, calculated: 2, actual: 2, valid: true }
+

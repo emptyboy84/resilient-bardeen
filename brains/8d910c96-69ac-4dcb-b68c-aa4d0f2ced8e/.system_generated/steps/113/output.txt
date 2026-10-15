@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Row 36 (orig 741): 리즈하우스 7331500856 김기대 만화 출판업
+Row 122 (orig 1026): 제이알이엔티 6052025196 최유창 광고 영화 및 비디오물 제작업
+

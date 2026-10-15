@@ -1,0 +1,11 @@
+The search for "site:chungoose.kr "저스티스어드벤처" OR "1778100390" OR "177-81-00390"" returned the following summary:
+검색 결과, 입력하신 검색어와 관련된 내용은 다음과 같습니다.
+
+* **저스티스어드벤처 ((주)저스티스어드벤처)**는 응용 소프트웨어 개발 및 공급업을 영위하는 중소기업(소프트웨어 개발 스타트업)입니다[1][2].
+* 사업자등록번호는 **177-81-00390** (1778100390)입니다[3].
+* 청구·수금 자동화 및 미수금 관리 서비스인 **‘청구스(chungoose.kr)’**의 사업자 정보 또는 관련 데이터베이스 내에서 해당 기업 정보(사업자등록번호, 업종, 계속사업자 여부 등)가 등록되어 활용되고 있는 것으로 확인됩니다[3].
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5AnyasYhVXHl4GqzoARLZmRkpaRCEGKHZ8JIucaYMfFyVcno_PvVV3_CZfUJZ88jRgPjI5YQfhhegcOjR4_tIlsl0TE-dnxFzjhH2LohFWM5OkMLnhXXZmSFyvJXBK-tbKUZo43CssJ7S-tIXCrAXIWzYGH9rGsdieFItF4MAmJ-kVco24A7SVUfJZchPWO2gvbCkcl4YrES6imWhgA-5hTWiD-ZEYJPKqeDDB024m7Um6i2FUwDc075pgx3RLOZPHCsXHTJeCQLpS2ZGOQqPJVc-azjGC0NAcYgY0RdnLB2NvZr9M005vm9H4nE=)
+[2] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KGWuG3yzd1z5dnytkd2hMBzX5edpI5m4CqnSKzvq48cOGMLG24DDY_WwrfYln5tT5PwrhqQJOi0uuoq5rA-lae4H0EVapiAlvT2G1b9GEpX_o62GSe-iLxhx9VaAzQJztQQ=)
+[3] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG62QFI-PVev-b0mcuqccmlDnAhWQePFq8Jm2sqf_jvBInr-SExxuHMYBUF9GIuXqSkoNNxa8sD-Nje2E_oFOeBIcpaQt4s-jmflPaH0YsdP8M4e8jMKLDN)

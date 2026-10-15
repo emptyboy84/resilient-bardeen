@@ -1,0 +1,97 @@
+### Result
+[
+  {
+    "name": "",
+    "id": "menu-search",
+    "type": "text",
+    "value": ""
+  },
+  {
+    "name": "key",
+    "id": "",
+    "type": "hidden",
+    "value": "761"
+  },
+  {
+    "name": "q",
+    "id": "search-total-input-id",
+    "type": "search",
+    "value": ""
+  },
+  {
+    "name": "key",
+    "id": "key",
+    "type": "hidden",
+    "value": "253"
+  },
+  {
+    "name": "token",
+    "id": "token",
+    "type": "hidden",
+    "value": "618DE498-4FB0-CBAC-1598-F8C02F8D39082020C1C9238728F5F919147026F720D0"
+  },
+  {
+    "name": "searchCnd",
+    "id": "searchCnd",
+    "type": "select-one",
+    "value": "BRNO"
+  },
+  {
+    "name": "searchKrwd",
+    "id": "searchKrwd",
+    "type": "text",
+    "value": ""
+  },
+  {
+    "name": "cntntsEvlNo",
+    "id": "cntntsEvlNo",
+    "type": "hidden",
+    "value": "398"
+  },
+  {
+    "name": "menuNo",
+    "id": "menuNo",
+    "type": "hidden",
+    "value": "253"
+  },
+  {
+    "name": "cntntsEvlSe",
+    "id": "chk1_1",
+    "type": "radio",
+    "value": "VERY_SATSFC"
+  },
+  {
+    "name": "cntntsEvlSe",
+    "id": "chk1_2",
+    "type": "radio",
+    "value": "SATSFC"
+  },
+  {
+    "name": "cntntsEvlSe",
+    "id": "chk1_3",
+    "type": "radio",
+    "value": "NRMLTY"
+  },
+  {
+    "name": "cntntsEvlSe",
+    "id": "chk1_4",
+    "type": "radio",
+    "value": "DSCNTT"
+  },
+  {
+    "name": "cntntsEvlSe",
+    "id": "chk1_5",
+    "type": "radio",
+    "value": "VERY_DSCNTT"
+  },
+  {
+    "name": "cntntsOpinionCn",
+    "id": "",
+    "type": "text",
+    "value": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input, select\'));\n  return inputs.map(i => ({ name: i.name, id: i.id, type: i.type, value: i.value }));\n}');
+```

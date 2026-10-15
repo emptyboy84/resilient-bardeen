@@ -1,0 +1,25 @@
+The search for ""포지스" 인디게임 OR "포지스" 게임개발 OR "김의준" 인디게임 OR "김의준" 게임스튜디오" returned the following summary:
+문의하신 키워드와 관련하여 검색 결과를 종합한 내용은 다음과 같습니다.
+
+**1. "포지스" 관련 정보**
+*   **게임 관련:** '포지스'라는 이름의 인디게임 개발사나 스튜디오는 확인되지 않습니다. 다만, **'렐름포지스스튜디오(Realmforge Studios)'**가 개발한 전략 시뮬레이션 게임 **'던전스(Dungeons)' 시리즈**가 존재합니다[1][2].
+*   **기타:** '포지스(The Posies)'는 미국의 인디 록 밴드 이름이며[3][4], '스티븐 W. 포지스'는 다미주 이론을 발표한 학자입니다[5].
+
+**2. "김의준" 관련 정보**
+*   **인디게임 및 게임 산업:** 언론 보도 등에서 부산인디커넥트페스티벌(BIC Festival)과 관련하여 취재 기자로 '김의준'이라는 이름이 언급된 사례가 있으나[6], 게임 개발자나 스튜디오 대표로서의 '김의준'은 확인되지 않습니다.
+*   **학계 및 기타 분야:** '김의준'이라는 이름을 가진 인물은 다수 존재하며, 주로 **문화콘텐츠 산업 연구**[7], **서울과학기술대 산업정보시스템 전공**[8], **서경대학교 연극영화학과 교수**[9] 등 학술적 분야나 미디어 관련 분야에서 활동하는 인물들이 검색됩니다. 또한, 실리콘밸리 관련 테크 저널리스트(비즈니스 인사이더 기자)로서의 김의준 기자도 활동 중입니다[10][11].
+
+결과적으로 '포지스'라는 이름의 인디게임이나 '김의준'이 운영하는 게임 스튜디오에 대한 직접적인 정보는 확인되지 않으며, 동명이인이나 유사한 발음의 게임 관련 용어와 혼동되었을 가능성이 있습니다. 찾으시는 구체적인 게임명이나 기업명이 있다면 다시 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVTIVMuHHSoiQa_E3NQ90jTTj1QM8FEs6bs2qQqEksEEEVAfMXqGDY42ZYVPu87nwTNZJyfdiJR-LkhzzptWsk9FH-OFpUFeXmcy9ImJEtiHC9qB_Y31dgDdvkcdKMM5Dgpg==)
+[2] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVTIVMuHHSoiQa_E3NQ90jTTj1QM8FEs6bs2qQqEksEEEVAfMXqGDY42ZYVPu87nwTNZJyfdiJR-LkhzzptWsk9FH-OFpUFeXmcy9ImJEtiHC9qB_Y31dgDdvkcdKMM5Dgpg==)
+[3] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHW0tPptMzi0Z29YtI2IN91UvpCiBw-n42iWQIrJvhy9ssOdojYlzjvGuizK1mBKpZTg0WDZs-s9cjesKuuBmnpwzC2m_VRwJVASjJvSpxH0FMJgXwC0PCLkEXfh7oQs2EYjILyxBk)
+[4] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtgMmALp4OF8uidi80QbAukoTSReM_ifKaqhs1dVmUHg3nl0G-JIv9i9dnPurTOYSuZYcSXD5xuGIsjDk-WAlsbitzc4G2CnBDb_P5Bb2Fqa0ZjqY=)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFawzJO-XonY59THVlos1ZsFY1mR8VS0i34PdiZXkgG_0G1774bBKi63kJizO6QEOprw1OAlKQ3WdUL8KSLH6ccsPDnL3VPfeHvofZ2hSGOtHAVeOfJ6xvYmDJH0Bn2j9KFIg==)
+[6] [localsegye.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI8Tb3EczxMlYEhmg5PCpIMTaxX1uPzd-4dE61hTcKY7DWFNtR6rfRHTUAaXuK9aVJedg-i15maCjchSGE89mbGmZsITFOysf34YKyRoqMZfjRGOMYg6wcXrCG2E31EDzdYny49bDHG90=)
+[7] [ajou.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi6l97zAQRu7JyRAXOF3bpHVGdf__ldtgfPlKVLKgVwGkEW94toC7MIWsKH70XFf8_1M3LrLQLuE6-WwPqBilyqSezGTaHdSalQPIdp94j0CwS3TvBKjjOm-t8u6gABr_WNB-beWf7AsWHAG2EBhkZClqVXiIZkAg927boIkbg-Kae7GCfSrsqJRpgZ0c=)
+[8] [seoultech.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6J5WKKSvbvw-nhUtAo4A02q22IysZth51RziuQjk4wqgPltGrjYODGhh3mgJqLajlfJwnoypqSIgDIgQVMWGPGLX7vYnGfJj_4mZlDt-RjzFR8KgsGq1aBSXq_LpfmO31FFYpvw==)
+[9] [skuniv.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3XRDjfE5KTKo6WqAqxFFWEOIx78PRLlHSAbUbjWVB4VgCENyFPaEskoO164gf5FR6AielHMaobFLacxYw54X7FAG_QXLHSCOe-vItcZIw5CZgiMlImB1kxhIfVv9xSoOLlYE2Tt8WjC73WyH2FFCVun0-JSPPWRboYDd89NAohkmCwuHBQQcVrBQ1-MVslUg4nA==)
+[10] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc4nCBlx5WW6ngY3c1-QusfKreKxW89T7gBZq1r8h94Fy1I-T2Nd1mAwGtptbyPkgyKCpMgdTKUYRSB66vBFqI1ABYMXD2QJA40PKt12y6y_zLm5mgghCf0pGZ9KI3NERUPVIDtg_UEXPy1uadw2yRhsitbUuznr75WMx4Ilv4GNDeF410592kz05CWmFWyr7J8qArkw7mSN7mAtsNL3Jt-P0qeWSRqiaQshNV2xsu1p9JeMwbz2A7dL9KFcJYUK7DqKpIU2a8eL5hIXWr3AcrGDAItkemn4v8FUF-Yyd_CxzgUlf-S7zfbpugCrdvZI61QV_V3HSVso2wjBLyUD7XXbXOisdpl_rmUIY29DyukE-pN-5v6Qnnn3AfjtjIEqInEriCKObzQgKM5CQmSvFtyHmKr9aGcjWq8npp2AlJAQYXwsvJPibNptxID67B7ZnGLQE-2OCM_1qyC7d3-P3fgSVv7JdRrlQsym1Nx4EfZm0RvnFDNBYGxZkJ3UgNvqt606vwZbV9aXbUDAcJvHjdY9zCGvMf87QAiDUV7plG5QLqwCD6ZcNzmdZak-fiVv788bRJxq6Jnp4owimGxygg6eRVqniGcKi7jqSIup3f7hP3jt-rUdGHw9N1uPUGDqo25i1XXY99bZ5VcXY3B6fRPAVUIdOmz4Wl0p5zJwaz2iAvxV3HM83tDgAxWRfY8MNhlQHNFKF-IcRnubg-91BlG5kX9Fry7Dq1XBOI7Wo7d73eHvrFxNYnksOj4WHUspTSebkP2MML7k8_s93aU0CVp5qppLViOAJOryzVkbF-cSqYjMXOE-ZhM-8iMj6tyIrQHf86hJCeiFj2QHwUhK0OXrRPC60jUnEpVKw7QCoyqtOgL-LbP791ihSRzSDCF_vdqHobjvBynyFHGuHpZ7yYt072yXG-AcVV3VUs08ZUdCjB)
+[11] [smedaily.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrDlOYOuTZ91Rui27uK3C0mUKUD7yHLB9x6RiQ6KHyxryVQTNh3DYRwW6C97KpnUEI5nu4PfyRN0a8Th8UEYv5qQRpEzCfqzVDACEpWem7pIa5yVzbW-HnmpypW2xwjJRi8PjSy-xWKmoCHIC57R9Lv6O)

@@ -1,0 +1,25 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\resolved_from_master.json","LineNumber":533,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\resolved_from_master.json","LineNumber":549,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\remaining_master_matches.json","LineNumber":380,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\remaining_master_matches.json","LineNumber":388,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\master_matches.json","LineNumber":424,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\master_matches.json","LineNumber":432,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1632,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":2748,"LineContent":"    \"사업체명\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\audit_report_150.md","LineNumber":66,"LineContent":"| **2094행** | 비바몬스터 | `646-87-02732` | - | 남구 대연3동 55-1번지 21센츄리오피스텔 1901호 | 비즈노 공공DB 상호명('비바몬스터') + 부산 상세 주소('남구 대연3동 55-1번지 ') 100% 일치 매칭 | [바로가기](https://bizno.net/article/6468702732) |"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\audit_report_150.json","LineNumber":634,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\audit_report_150.json","LineNumber":639,"LineContent":"    \"pathway\": \"비즈노 공공DB 상호명('비바몬스터') + 부산 상세 주소('남구 대연3동 55-1번지 ') 100% 일치 매칭\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1861,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1863,"LineContent":"    \"matchedTitle\": \"주식회사 비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\audit_150_reverified.json","LineNumber":33953,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\filled_companies_summary.json","LineNumber":636,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\rows_table.md","LineNumber":66,"LineContent":"| **2094행** | 2093 | 25년 모집단 | 비바몬스터 | `646-87-02732` | - | 남구 대연3동 55-1번지 21센츄리오피스텔 1901호 | [링크](https://bizno.net/article/6468702732) |"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":2834,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\master_verified_194.json","LineNumber":1400,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\excel_file_audit_results.json","LineNumber":70117,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\excel_file_audit_results.json","LineNumber":109937,"LineContent":"      \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\update_log.json","LineNumber":775,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3240,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1698,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2622,"LineContent":"    \"name\": \"비바몬스터\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1101,"LineContent":"    \"name\": \"비바몬스터\","}

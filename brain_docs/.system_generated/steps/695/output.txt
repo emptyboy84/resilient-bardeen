@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\main\brain_docs\scratch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-10-15   � 1:26           8575 add_full_url_sources.py                                              
+-a----      2026-10-15   � 1:26           6552 add_source_columns.py                                                
+-a----      2026-10-15   � 1:26           6647 auto_fill_from_web.py                                                
+-a----      2026-10-15   � 1:26           8514 build_perfect_output_files.py                                        
+-a----      2026-10-15   � 1:26           1805 enrich_and_validate.py                                               
+-a----      2026-10-15   � 1:26          10918 fill_61_representatives_now.py                                       
+-a----      2026-10-15   � 1:26           6655 fill_all_representatives_final.py                                    
+-a----      2026-10-15   � 1:26           7659 fill_missing_industries.py                                           
+-a----      2026-10-15   � 1:26           5877 fill_representatives.py                                              
+-a----      2026-10-15   � 1:26           6227 fix_color_rules.py                                                   
+-a----      2026-10-15   � 1:26           8267 force_resave_all_files.py                                            
+-a----      2026-10-15   � 1:26          11659 generate_final_files_all_locations.py                                
+-a----      2026-10-15   � 1:26           6195 process_excel.py                                                     
+-a----      2026-10-15   � 1:26           8790 process_full_enrichment.py                                           
+-a----      2026-10-15   � 1:26          10106 run_full_cross_validation.py                                         
+-a----      2026-10-15   � 1:26           2116 scrape_missing_info.py                                               
+-a----      2026-10-15   � 1:26          10160 update_skyauto_and_representatives.py                                
+
+
+

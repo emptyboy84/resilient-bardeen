@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/%EB%B2%95%EC%9D%B8%EB%93%B1%EB%A1%9D%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=110111-6230231');
+```
+### Page
+- Page URL: https://bizno.net/%EB%B2%95%EC%9D%B8%EB%93%B1%EB%A1%9D%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=110111-6230231
+- Page Title: 1101116230231
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T03-38-27-004Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T03-38-23-616Z.log#L1-L3

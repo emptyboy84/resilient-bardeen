@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Loading pristine base Excel file: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx
+Sheet name: 2026_부산_CT산업_실태조사, Total rows: 2314
+
+=== DELIVERABLE BUILD STATS ===
+Total verified rows with restored data: 192
+Total RED BOLD cells filled into blanks: 1043
+Total final row count: 2314
+
+Writing to: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+SUCCESS: Written directly to C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx
+SUCCESS: Synced to CSV: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+Note: finalFallbackPath was locked by user Excel viewer (expected). Target original file was updated.
+

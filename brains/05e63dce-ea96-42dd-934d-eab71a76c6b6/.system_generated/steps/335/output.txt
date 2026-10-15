@@ -1,0 +1,67 @@
+<h2>Written Sheet</h2>
+<h2>Sheet Data</h2>
+<table>
+<tr><th></th><th>E</th></tr>
+<tr><th>2</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A2))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>3</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A3))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>4</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A4))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>5</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A5))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>6</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A6))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>7</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A7))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>8</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A8))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>9</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A9))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>10</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A10))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>11</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A11))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>12</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A12))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>13</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A13))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>14</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A14))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>15</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A15))*ROW(직원정보!$A$1:$A$21)), 2)</td></tr>
+<tr><th>16</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A16))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>17</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A17))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>18</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A18))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>19</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A19))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>20</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A20))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>21</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A21))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>22</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A22))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>23</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A23))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>24</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A24))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>25</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A25))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>26</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A26))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>27</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A27))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>28</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A28))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>29</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A29))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>30</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A30))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>31</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A31))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>32</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A32))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>33</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A33))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>34</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A34))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>35</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A35))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>36</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A36))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>37</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A37))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>38</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A38))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>39</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A39))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>40</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A40))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>41</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A41))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>42</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A42))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>43</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A43))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>44</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A44))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>45</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A45))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>46</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A46))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>47</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A47))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>48</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A48))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>49</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A49))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>50</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A50))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>51</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A51))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>52</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A52))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>53</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A53))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>54</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A54))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+<tr><th>55</th><td>=INDEX(직원정보!$A$1:$O$21, SUMPRODUCT((TRIM(직원정보!$A$1:$A$21)=TRIM(A55))*ROW(직원정보!$A$1:$A$21)), 2)  </td></tr>
+</table>
+<h2>Metadata</h2>
+<ul>
+<li>backend: excelize</li>
+<li>sheet name: 복지몰구매내역</li>
+<li>read range: E2:E55</li>
+</ul>
+<h2>Notice</h2>
+<p>Values wrote successfully.</p>

@@ -1,0 +1,13 @@
+The search for "site:melodysms.co.kr OR ("멜로디" "375-87-02432" "고객센터" OR "TEL")" returned the following summary:
+인터넷 문자 발송 서비스 **'멜로디(melodysms.co.kr)'**의 사업자 정보 및 고객센터 연락처는 다음과 같습니다[1].
+
+* **상호명:** 올라운더 주식회사[1]
+* **대표자명:** 박용범[1]
+* **사업자등록번호:** 375-87-02432[1]
+* **고객센터(전화):** 1670-6461[1]
+* **운영시간:** 09:00 ~ 18:00 (토요일 휴무)[1]
+* **이메일:** allrounder0404@naver.com[1]
+* **주소:** 부산광역시 해운대구 APEC로 17, 센텀리더스마크 1803호[1]
+
+Sources:
+[1] [melodysms.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgVcFbqfl3aEt83iKlQ5ENQi9nbIvIlgUlBP6DjoqnWC0kse55-MyaeolNtrYfCwnOGdrzbv_lmpKXNprCgAEn6it2ElB3ZycrpQu01Q==)

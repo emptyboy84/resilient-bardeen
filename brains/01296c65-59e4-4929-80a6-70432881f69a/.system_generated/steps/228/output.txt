@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Hometax XML response:
+{"resultMsg":{"detailMsg":"","msg":"서비스 실행 중 오류가 발생하였습니다. [ETC]","exceptType":"org.codehaus.jackson.JsonParseException","serviceTxId":"PTXPP0703_ATTABZAA001R08_T00642_1790046326138","detailLogYn":"N","code":"ETC","result":"F"}}
+

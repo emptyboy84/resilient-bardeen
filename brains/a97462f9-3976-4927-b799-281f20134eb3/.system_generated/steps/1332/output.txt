@@ -1,0 +1,1 @@
+Encountered error in step execution: Failed to fetch document content at https://www.bsdonggu.go.kr/index.bsdonggu?menuCd=DOM_000000104003000000: failed to get URL https://www.bsdonggu.go.kr/index.bsdonggu?menuCd=DOM_000000104003000000: status code 404

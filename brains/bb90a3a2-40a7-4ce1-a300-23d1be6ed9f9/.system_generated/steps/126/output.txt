@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Found USER_INPUT, length: 108681
+Line count: 803
+Line 0: <USER_REQUEST>
+Line 1: 순번	기업명	대표자명	기업상태	기업유형/형태	사업자번호	법인번호	산업분류	주소	전화번호	최근 재무년도	브리핑	일반	현황	재무	신용	EW리포트
+Last line: NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+- heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=e50]
+- textbox "키워드검색" [ref=e57]:
+- generic [ref=e58]: 키워드검색
+- button "검색하기" [ref=e60] [cursor=pointer]
+- button "조건검색" [ref=e63] [cursor=pointer]
+- tab "검색 순위" [ref=e443] [cursor=pointer]
+

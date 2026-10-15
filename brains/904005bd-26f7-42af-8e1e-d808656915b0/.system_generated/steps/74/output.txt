@@ -1,0 +1,5 @@
+The search for ""부산 해운대구 수영강변대로 140, 3층 2호" OR "수영강변대로 140, 3층 2호"" returned the following summary:
+부산광역시 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)[1]
+
+Sources:
+[1] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_SVfiEElTf3nuWbDXQGT8rR86cM6hCxXrj6qYwRoTG1UbBNPQ_voNya3k4cxC-LdJYuCFj_td-FqPzEpXJE3B_4gvWIohcIr_A-us_EwfWI2ycq3-3t6jtX8EebLT7ng6YUNApw==)

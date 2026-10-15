@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Testing engines on "동아대학교출판사"...
+[Naver] ""동아대학교출판사" 사업자" -> valid biznos: []
+[Daum] ""동아대학교출판사" 사업자" -> valid biznos: []
+
+Testing engines on Row 611 "동화사"...
+[Naver] ""동화사" "초량동" 사업자등록번호" -> valid biznos: [
+  '124-86-09219',
+  '502-82-16722',
+  '314-19-20095',
+  '502-82-67726',
+  '301-81-76659'
+]
+[Naver] Snippet: [
+  'ark>동화사</mark>텍 <mark>사업자등록번호</mark> 조회 124-86-09219 - 2026년</span><span class="fender-ui_0cb57fb2">새 창 열림</span',
+  '대표자 전갑용 <mark>사업자</mark><mark>번호</mark> 124-86-09219 (1248609219) 법인<mark>등록번호</mark> 3481100082735 회사주소 서울특별시 영'
+]
+[Daum] ""동화사" "초량동" 사업자" -> valid biznos: []
+

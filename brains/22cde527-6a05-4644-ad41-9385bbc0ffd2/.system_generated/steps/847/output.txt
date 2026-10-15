@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+Copy-Item : 'C:\Users\lg\Desktop\�\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_
+ũ�ž!!.xlsx' � �ٸ� �μ� � �̹Ƿ� �μ� �׼� � �ϴ�.
+�ġ �:1 �:1
++ Copy-Item "C:\Users\lg\Desktop\�\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Copy-Item], IOException
+    + FullyQualifiedErrorId : System.IO.IOException,Microsoft.PowerShell.Commands.CopyItemCommand
+ 
+

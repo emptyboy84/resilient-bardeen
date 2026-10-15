@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:61
++     const regex = /<a\s+href=\"(\/article\/[^\"]+)\"[^>]*>([\s\S]*?)< ...
++                                                             ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:7 �:69
++ ... t regex = /<a\s+href=\"(\/article\/[^\"]+)\"[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:7 �:77
++ ... t regex = /<a\s+href=\"(\/article\/[^\"]+)\"[^>]*>([\s\S]*?)<\/a>/gi;
++                                                                         ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:9 �:39
++     while ((match = regex.exec(data)) !== null) {
++                                       ~~~
+� �Ǵ� � �ġ � '!==' �ū�Դϴ�.
+�ġ �:9 �:38
++     while ((match = regex.exec(data)) !== null) {
++                                      ~
+'while' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ �:9 �:40
++     while ((match = regex.exec(data)) !== null) {
++                                        ~
+� � '!' �ڿ� � �ϴ�.
+�ġ �:9 �:47
++     while ((match = regex.exec(data)) !== null) {
++                                               ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:27
++       console.log(match[1], ':', match[2].replace(/<[^>]+>/g, '').tri ...
++                           ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:10 �:61
++       console.log(match[1], ':', match[2].replace(/<[^>]+>/g, '').tri ...
++                                                             ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:12 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

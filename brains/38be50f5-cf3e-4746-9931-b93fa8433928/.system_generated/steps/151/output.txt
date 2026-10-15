@@ -1,0 +1,26 @@
+The search for ""포지스" (부산 OR BGC OR 인디 OR 게임 OR 개발)" returned the following summary:
+검색하신 "포지스"와 관련하여 요청하신 키워드(부산, BGC, 인디, 게임, 개발)를 조합해 확인한 결과는 다음과 같습니다.
+
+**1. "포지스" 관련 주요 정보**
+*   **기업:** 경북 구미시에 소재한 '주식회사 포지스'가 확인됩니다[1]. 과거 채용 공고 등을 통해 생산직 관련 기업으로 언급된 바 있습니다[2].
+*   **소프트웨어:** ㈜시선아이티에서 개발한 '포지스 서버(Fossis Server) v1.0'이라는 소프트웨어가 존재하며, 이는 지적도 데이터 파일을 업로드하여 레이어를 조회하고 지도 화면을 출력하는 프로그램입니다[3].
+*   **인물 및 이론:** '다미주 이론(Polyvagal Theory)'의 창시자인 **스티븐 포지스(Stephen W. Porges)** 박사가 유명합니다[4][5]. 심리학 및 뇌과학 분야에서 자주 언급되며, 관련 도서(《다미주 이론》 등)가 다수 출판되어 있습니다[6][5].
+
+**2. 게임 및 개발 관련 확인 사항**
+*   **게임 개발사:** 질문하신 내용 중 '인디 게임 개발'과 관련하여, 전략 시뮬레이션 게임 *던전스(Dungeons)* 시리즈를 개발한 **'렐름포지 스튜디오(Realmforge Studios)'**가 있습니다[7][8]. 이름이 유사하여 혼동될 수 있으나, 위에서 언급된 국내 기업 '포지스'와는 직접적인 관련이 없습니다.
+*   **BGC (부산글로벌게임센터 등):** 부산 지역의 게임 산업 지원 거점인 BGC(Busan Global Game Center)와 관련하여 '포지스'라는 명칭의 입주사나 개발팀은 현재 검색 결과에서 확인되지 않습니다.
+*   **기타:** 일부 온라인 커뮤니티 등에서 언급되는 '제네포지(Geneforge)' 등 인디 게임 타이틀이 있으나, 이 역시 '포지스'라는 사명과는 구별됩니다[9].
+
+**요약:**
+부산 지역의 게임 개발 관련 기업으로서 "포지스"라는 명칭의 업체는 확인되지 않으며, 인디 게임 개발사로는 '렐름포지 스튜디오'가 있고, 국내 기업 '포지스'는 주로 지도 데이터 관련 소프트웨어나 구미 지역의 생산직 기반 기업과 연관이 있습니다[1][8][3]. 혹시 특정 게임 제목이나 다른 형태의 개발사 명칭을 찾으시는 것이라면 추가 정보를 주시면 더 자세히 확인해 드리겠습니다.
+
+Sources:
+[1] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUc_DrR__wLif8Sl2DrjBk94XwdhZjxdEcK2fOTaq4VJYJHSeL1zqu6g6XFz_AK9MVFN0weHAmdiidlKL8qoHuthKJUPnpJrwu3LQeZsQzs4-DCE5UqDH8QzJg_HCpzZF7MA==)
+[2] [gumi.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECybvXjaYhpgK2g7fY__GROCjPsiuxFQLdSWxJElsTX9yrnCKJ4tWEh7-Sf5LP_MTtVXNLr6LtXdyxUwMQdQU5KQHSqzWLh61iEQB-QcRL9UMVNySSiNL2LnZe2uMPNcJNtfaM6YyDTsRx5y21d3IExJrvInqZeR1YX7tU5cMKw_ON9ipvDIMbFR-jeECg0vo0VrJyd3VRPqbZyNSdXNXjsBqRrH647j24Mu6U1cO_vnk-axfyblZmt5LsbtdJp0X2odf0kCu_j_Z1bjWV6LnEyxzoHXo5MnK6vtYZcrSpVcafLHNU2bOXRcXJo3pbxHFCitU-8xAKBnmcQ8XiA2hz33w08EpIU7mrF-4vLhZOByTaQjRDEwuPm5EgzVye1dm7xfRLCCu_85rZYKUYNaYQnDzr9nI7xFbcX6wsS1JTyhhT2rfLSgt6ylmryKPmnxSO3cUrAmreeSX4xl-KmyIe4k267Z25HKLF)
+[3] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUhcJI3YtLbQvii3UYDUAY7R4yuMVTlCaQwBn6dEYHrjNg8Fi6lysTVDRO0UeYbcsvpuVMAQXUqMEljExEmXP2LVD74EnwbVb0YszxWdC4Iq4e9RrC9EQYe37p9_oEKQl-lWfvqw==)
+[4] [newswire.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCiDFSxnnVZmyEdU7Tm215JvXpjvec-kDVhsevtgxs_Wj40HkaYd0zLTY7WJRWsKDkjizAaHuSHDo_9QL6H-2hyqCvMtE5Dfnv2OfAxvq246u6lmP4OsRIuMHFhFPkoY0RSv3zjMj2)
+[5] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPpkLvWEUKDqzM2uqTc9Bk1JV1NIXlliPGOIcXkLRpqawsOKXSk2aL636uYhNo2W9qi72B18GwaN2tfTKtGyV3rJcYPUWRyGS1Hr_FS7uO5clX6uTdeVQpdiecvsbFsLP_pg==)
+[6] [kpa21.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuNYdyAO7SaKszKQmTg3jfIDQu5yyfBBL2HaIDZFn4qdApB19lMKjFj9M6sqx05vDQFWcI82c8pawx69enYxe4TS9FRXYX5ACV7Sg7Gqp6VYKGGoLqUdWWrQBq96KNq1oBO6BnGY5u7DcnWYCszmWIKq8NKxpI3ZHrN2ITGFeO4Gu3PMqWrRUmCqQq7X6ey23YKCLv6lbm_tWDmJr20v-3lv5wUkuuU2Wb9Q4c)
+[7] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7iwSZzU1vx09o9Lxd54zaxUBRt9TLLDT3ai0dLWfq-tAXIAkjY9GTg1NpSMfaI0hXBUuhYZQJe1aCyhtJTDomOrH7fsaXfcNTo-WYAdTLHiwxfoFbcsRt2RR8nenzOLVyCA==)
+[8] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7iwSZzU1vx09o9Lxd54zaxUBRt9TLLDT3ai0dLWfq-tAXIAkjY9GTg1NpSMfaI0hXBUuhYZQJe1aCyhtJTDomOrH7fsaXfcNTo-WYAdTLHiwxfoFbcsRt2RR8nenzOLVyCA==)
+[9] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZY8oXPR8s0evq-d7cdvKAgBz8vLH3oDneFLVlGpKmsxIJ1sbr50OS096LMIUTZc3sLf9_FHY-wediskQl3_M1ai8UihclK9eeHUZhxyRRY8IOMBVlzhUL8U2O75_B8x08alVf4JAxwP3fiVNiT3b1BxGcA2QHz9M-xNT1hgQfX-ApZMsaNr30_huj1iym_wQ=)

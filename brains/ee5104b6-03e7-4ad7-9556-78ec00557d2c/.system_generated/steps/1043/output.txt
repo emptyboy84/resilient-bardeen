@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+mmhub.kr A records: [ '18.67.51.7', '18.67.51.119', '18.67.51.40', '18.67.51.12' ]
+

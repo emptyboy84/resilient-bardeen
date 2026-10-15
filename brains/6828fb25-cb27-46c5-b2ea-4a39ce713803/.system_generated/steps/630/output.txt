@@ -1,0 +1,36 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-626
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-626.log
+Log output:
+Col 1: null
+Col 2: null
+Col 3: "오션플랜"
+Col 4: 7800200793
+Col 5: "박지현"
+Col 6: null
+Col 7: "경남 양산시 주남로 288, 3402호 (주남동,영산대학교양산캠퍼스)"
+Col 8: "055-372-5155"
+Col 9: "-"
+Col 10: null
+Col 11: "-"
+Col 12: null
+Col 13: "20170627"
+Col 14: null
+Col 15: null
+Col 16: null
+Col 17: null
+Col 18: "기타 무선 통신장비 제조업"
+Col 19: null
+Col 20: null
+Col 21: null
+Col 22: null
+Col 23: null
+Col 24: "7800200793"
+Col 25: null
+Col 26: null
+Col 27: null
+Col 28: null
+Col 29: null
+Col 30: null
+
+Last progress: 5s ago

@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+=== 동아대학교출판부 (query: 동아대학교출판부) ===
+  Bizno: 2568501822 | Title: 피치아이앤디
+  Bizno: 2568200481 | Title: 세븐벨리사내근로복지기금
+  Bizno: 2568103894 | Title: 알루캣
+=== 나래바람 (query: 나래바람) ===
+  Bizno: 1388206168 | Title: 의료법인 나래의료재단
+  Bizno: 2548200113 | Title: 희망나래일터
+  Bizno: 1388207584 | Title: 의료법인나래의료재단나래치과의원
+=== 도서출판일광 (query: 도서출판일광) ===
+  Bizno: 2568501822 | Title: 피치아이앤디
+  Bizno: 2568200481 | Title: 세븐벨리사내근로복지기금
+  Bizno: 2568103894 | Title: 알루캣
+=== 동화사 (query: 동화사) ===
+  Bizno: 2498100322 | Title: 동화이엔지 주식회사
+  Bizno: 1408137347 | Title: (주)동화수산
+  Bizno: 3048105342 | Title: 동화산업(주)
+=== 한국산업정보사 (query: 한국산업정보사) ===
+  Bizno: 2148209474 | Title: 사단법인한국산업정보연구소
+  Bizno: 6075177864 | Title: 한국산업정보사
+  Bizno: 7648600772 | Title: 주식회사 한국산업정보기술
+

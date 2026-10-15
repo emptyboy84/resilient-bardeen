@@ -1,0 +1,23 @@
+The search for ""센텀1로 9" "출판사" OR "출판" OR "인쇄"" returned the following summary:
+부산광역시 해운대구 **센텀1로 9(우동, 롯데갤러리움센텀)** 주소지를 사용하는 기업 및 단체 중 '출판', '인쇄'와 관련된 키워드가 포함된 곳들은 다음과 같습니다.
+
+대부분 해당 건물 내 사무실(오피스텔)에 입주해 있는 법인들로, 신설법인 현황 등에서 확인되는 정보들입니다.
+
+*   **관련 법인 및 단체:**
+    *   **출판/인쇄/디자인 관련:** 법인 설립 현황 자료에 따르면, 해당 주소지에 '출판사'나 '인쇄' 관련 업종으로 등록된 신설 법인들의 기록이 다수 존재합니다[1][2][3][4][5].
+    *   **유전의학융합회:** 정관상 사무소 소재지가 해당 건물(E동 206호)로 되어 있으며, 사업 내용에 학술지 및 학술도서 **출판**이 포함되어 있습니다[6].
+    *   **폼앤동백:** 해당 건물(E동 308~309호)에 소재하며, 관련 사업 분야에 인쇄 및 출판 서비스업 등이 기재되어 있습니다[7][8].
+    *   **참고:** '롯데갤러리움센텀'은 오피스텔 건물로[9], 다수의 기업이 입주해 있어 특정 단일 출판사보다는 다양한 업종의 사무실이 공존하고 있습니다.
+
+검색 결과상 특정 대형 출판사가 단독으로 운영되는 곳이라기보다, 소규모 사업자나 협회 등이 입주해 있는 경우가 많으므로 구체적으로 찾으시는 업체명이 있다면 해당 명칭을 함께 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtGbAh8_zoad7-TOohntv8WF1AvZCDyqQi7E5fiL7FHw4Uf-kK5FnzEXZpSJL1Sy9li9CM6GALIwi6BCLcVz9ur0CGcHKQnlgRG45CBl0onuC-9dt2u8SqOVi8NKVg-shXLWCt)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpinowuAdaHQNYFmf8A-30MNJnubmBGjuK-BQHZhePXHtxrJM6-GXS8HYBotlRPdt1QhvtBdKJqqp-1Xxkb26-RtZ3uZuRvtpzATfeRzALq_c0TSEpsZg=)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ4IjxeW-l7wcT5qk2tyMi-hXF-tsG_LxL-WdVHeflXyquleDtX5RW738oLNB9sM9fXV7MSVOXT9UJYAndLrOD4MMWnqGgD2ahi-fSfA2-Uzc2TkyWi1KOCFqD3oHKSiPWUfCF)
+[4] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1WH7cgdQgDR94sGwm3LqMbnKAsGy9tfYrMcKmqF2zGmebLpkTJihVGUn5C7LcAmT-HvTZS44-bIWQ3S-fgz6NzsTAYH-x_j3yr-_tf70q7ei03qKsJCg3ALQ5mBMGotSO13tfpEkIgIu)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarJsmreuhf4GcEtg0LTIbCkc-6QAjc28ExI773mXhNFV1Y0na-Q7WnfxOFrfZMJdH0WPSuKHxtIhZHf5N59JvNVsdk98vka5TCCPFtebxRojYLhQuOM4=)
+[6] [isgm.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs2eNdmlB0hvXqY4j-Nk_UtgB-Xc5NbmrVdgpWqrvCG5L6urVoaRd7g45bFle6yT9v1lM5u9Ny5hXNyGjHh2rDSoa-ks2c9A6A0YLctA==)
+[7] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRi4BA7yrM08ymNHmmlvkOzQokSPO004tllKkOnaRTn2UJk4fCEeTf1TscG4KgsyIHPPe9dDosE2Uj2MHzanXebjLSES0lKGoqJ274ziDE-kwzAG_zqk7FQT-7V-rDpnkNZIqZF6vRyDRNL0hVz7tSWBvwHKMBd4IQShl1SpSbIs0lnQ9wAOagxcS5B7Q6-OeJoEY=)
+[8] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRi4BA7yrM08ymNHmmlvkOzQokSPO004tllKkOnaRTn2UJk4fCEeTf1TscG4KgsyIHPPe9dDosE2Uj2MHzanXebjLSES0lKGoqJ274ziDE-kwzAG_zqk7FQT-7V-rDpnkNZIqZF6vRyDRNL0hVz7tSWBvwHKMBd4IQShl1SpSbIs0lnQ9wAOagxcS5B7Q6-OeJoEY=)
+[9] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDFS2KS8R7sKZH-aCZoEg6ntI3ByIgipb4MMbl3Ol5NHsJJd1pPS77nUxm3ttdtc2JOKZIu2B96_zdL3eO78vOBy4VYfwXTw-zS9hr_sOPClA5780HMLeIg-ClRh02ywnPLDgV2ndY3t0hfhO4MgiU7SDIEqPovQSRz9g3htRP_HjJXGC2TeAtMGcEJLfMl0YUawe67twS_Q==)

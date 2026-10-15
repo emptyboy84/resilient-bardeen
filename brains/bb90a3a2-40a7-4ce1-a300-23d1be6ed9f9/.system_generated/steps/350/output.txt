@@ -1,0 +1,23 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-324.log
+Log output:
+<truncated 12 lines>
+UND 10] Seq 153 (주)레오인베스트먼트 -> 051-924-7887 (Saramin)
+[FOUND 11] Seq 167 세종디엑스(주) -> 1555-0066 (Saramin)
+[FOUND 12] Seq 185 (주)에이비엠랩 -> 010-2727-8*** (Bizno-Masked)
+[FOUND 13] Seq 200 (주)아이쿠카 -> 010-3219-4*** (Bizno-Masked)
+[FOUND 14] Seq 192 (주)써니사이드업 -> 010-7189-7*** (Bizno-Masked)
+[FOUND 15] Seq 229 (주)태성 -> 051-241-7210 (Saramin)
+[FOUND 16] Seq 249 (주)에스와이유 -> 010-4947-0*** (Bizno-Masked)
+[FOUND 17] Seq 242 썬소프트 -> 051-528-1513 (Saramin)
+[FOUND 18] Seq 244 (주)노매드헐 -> 010-5148-7*** (Bizno-Masked)
+[FOUND 19] Seq 253 (주)펫펄스랩 -> 010-3391-3*** (Bizno-Masked)
+[FOUND 20] Seq 266 (주)젤로 -> 010-6630-5*** (Bizno-Masked)
+Progress: 66 / 2658 scanned | Found so far: 24
+Progress: 126 / 2658 scanned | Found so far: 41
+[FOUND 50] Seq 618 태성엔터테인먼트 -> 051-241-7210 (Saramin)
+Progress: 186 / 2658 scanned | Found so far: 58
+Progress: 246 / 2658 scanned | Found so far: 67
+
+Last progress: 4s ago

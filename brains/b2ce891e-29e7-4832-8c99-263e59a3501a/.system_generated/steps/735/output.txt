@@ -1,0 +1,12 @@
+The search for ""우공소프트" "케이블" OR "도면" OR "조선" OR "특허"" returned the following summary:
+**주식회사 우공소프트**는 응용 소프트웨어 개발 및 공급업을 영위하는 대한민국의 기업으로[1], 부산광역시에 위치하고 있습니다[2][3]. 
+
+검색어와 연관된 주요 특징과 정보는 다음과 같습니다:
+
+* **주요 사업 및 조선 분야 연관성:** 조선 설계 관련 인하우스 프로그램을 전문적으로 다루며, 대표적으로 **케이블 라우팅 프로그램** 및 **도면 자동화 프로그램** 등을 개발·공급하는 것으로 알려져 있습니다[1]. 중소조선연구원 창업보육센터 등에 입주해 조선·해양 IT 관련 소프트웨어 개발 역량을 쌓아왔습니다[2].
+* **관련 키워드(케이블, 도면, 조선):** 선박 및 해양 구조물 설계 과정에서 복잡한 케이블 배치(라우팅)를 최적화하고 각종 도면 작업의 효율을 높여주는 조선 IT·설계 자동화 솔루션과 밀접한 연관이 있습니다[1].
+
+Sources:
+[1] [cookiedeal.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKO9gkYYk1R5o5TTMTWeL0CAdeHuY8e63hxLCjJwTR3B-vCSPFi7DK7igo3ZiUAEsFlp1ifiYZhDQyL6UbzUaNMocEyn2YVMFOyRTThwwtd5DwPf2GTvz5cMjcMuSPFtDcP1D51VvJaJ4HebAzeALufDzP7rHVbhT9Lx1qBTimfQRw_z4qCPNBMVqoTLsy-48f-3Q=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0ZM-fc3L9QX8tEfUZcu4sdKi9LGhJQz8VqpmPkEveUjOhJQb-1kWzH2cFvUXeCgMLNR5P1vD8GiXsyl6HbgcOu7bEyJmxVLKFVr19lIPgJai-uwQ7AiaxZdfp-5W0raitgnwd5ylp8Zs1BE-kqHUdzdiOqW7LVoofph4aTj6cFt101M20Z_7g_fMRViUUzkAtsjq7YF3TDv9I9C-IiOXJM5DlrWgwCwIr5xc-d18VoI6Tm_yMwOrmMaPEWPT86rXA2VWqBlv8q4gSfPBKo5O5yy1rLDaA4wSGRwnHxCKXEqF-dTZLr45mXDvsW8iNOT4B4m1hkCraYIRLjaVx0JCqF6ZNX8R4Bk01nWejKBQVDHInAvgKq7N5cIIMThnHmfL22bzWjO-1W0bEXMFmDqNSijOqHi3rU_VJ1dhp0Ks29Wl)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2mAwEsJSiIrPOic6sESJTUJD4C2dHs9MZWOrJDEe4y9cGFpR-jBX3XAaUrX96_4KVGytm-b2FmehNnOMssXrjDWNkkOOMOqj5BlSMM42h5RAl96jUp3YLkC0cIsVD7Lab46FQ)

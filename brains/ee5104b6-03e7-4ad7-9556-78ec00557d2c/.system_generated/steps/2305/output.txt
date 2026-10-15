@@ -1,0 +1,28 @@
+The search for ""방인수" "엠테크" OR "창원"" returned the following summary:
+검색하신 '방인수'님과 '엠테크' 또는 '창원' 지역의 연관성을 확인한 결과는 다음과 같습니다.
+
+### 1. '방인수' 관련 정보
+*   **방인수 씨:** 과거 경남 지역에서 활동한 인물로, 2008년 당시 웰빙 엿(가야연당)을 개발한 전문가로 언론에 소개된 바 있으며, 김해 지역의 특산물 브랜드화와 관련해 의견을 제시한 기록이 있습니다[1][2].
+*   또한, 과거(2009년경) 김해 레슬링협회 회장 등을 역임하며 지역 체육계 활동을 한 기록이 확인됩니다[3].
+*   그 외에 한국식품기술사협회 부회장으로서 농산물 가공 관련 교육을 진행하거나[4], 특정 공공기관 자료 등에서 이름이 언급되는 사례가 있으나, '엠테크'라는 기업과의 직접적인 연관성은 확인되지 않습니다[5].
+
+### 2. '엠테크' 및 '창원' 관련 정보
+창원시에는 '엠테크'라는 상호를 가진 기업이 여러 곳 존재합니다.
+*   **엠테크 (마산회원구 소재):** 기계가공, 스페셜 공구 제작, 구조물 제작 등을 전문으로 하는 기업입니다[6][7].
+*   **엠테크 (의창구 소재):** 방산용·산업용 커넥터, 케이블, 자동제어기기 등을 전문으로 하는 기업입니다[8][9].
+*   이 외에도 창원 지역에는 유사한 이름의 기업(엠테크이엔지, 에이치엠테크 등)이 다수 존재합니다[10][11].
+
+**요약하자면,** '방인수'라는 인물과 창원 지역의 '엠테크'라는 기업들 사이의 직접적인 연결 고리는 검색 결과상에서 나타나지 않습니다. 혹시 찾으시는 정보가 특정 기업의 대표자나 관계자에 관한 것이라면, 해당 기업의 공식 홈페이지나 사업자등록 정보를 통해 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [idomin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Wkx9BTG8SysJa2exj60M1IInAPhFHLIUYOBPV50cFs4IKzqq60PNBpCXRSw5asSQaVIkdWBm6ttFeOSj2EuCZZL8IU9WTQwBgOkRB0rtqQDM9wHddGwMrZXJT-gD7aLFnYOVMMw2haPE2xT7Jdg=)
+[2] [idomin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV3mAkJShmtwdYu0hSKKxQ5Ht6NMJeTUAHrMBxurV9I84S-W04PVl2BxSp2bssQ4hDZ4o3EhDeRbk4dYzTY_mfEgnM0xbe5wqgWkeThetGf232bkLFY9ujpRlsKYrVyxMtMc4qGwKUL210p_GgedQ=)
+[3] [ynnews.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU1RFJF5Inlk_dCvKin-F5dRCFb4Wo7xUE0dmHdAUvFejnEy-BEiCJu_zWgvMG_lnrNzp6E_QDt8eiU7KVyeVJrpiZbdfxJqnuCkU9e6DzWRXWGEJKFuw0201Her9pa4nHopZyFg3em1G-gqg=)
+[4] [gnnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjEm3S3nwlt1P-538p48_2nxHmd1oog9VVXwiSP8Az4BqsIJ2bzOFutKc2jum9AvQJmjn9KIuXIOCDpEQsYKbf-bzmQYCEUu9RBHFCIuxfF4pKlE6uidR-Uqgsugkygf3JSH1hpIjIp1xYhH12hXNlhA==)
+[5] [gg.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJZaWcfNd1yY8eoPmx_ynnpKnv84usnjqqVKkFYRqbDa8oUVp6Lmkf4PlKAY3FmwSPa2VCHP6Aj8A7rlCtQuHe6I2bb1WISSPABbNiBrDvOs9XPuzBs77NoOkIHmbqO2T5ZEyu9dg=)
+[6] [techm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoMv38puQGJEqxyFu0JAx3phjEGFmIVC4Gw57TZSHKqYxb9sO5O5iKPrEVd4hjugObyVsxokbpp0fhh2ZB2TbtPf0DKdw_A2_EWLsKnzA=)
+[7] [techm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2SpqdXZ7BOihFwKCarFYkK7sWo6N6iK_b1Hd0_8j6lN-od4W9FuaOI6qf6tZkHAVKk_q9t9B4L0Seso7EVEkUummn_vExil6yT9E4g86vkcbxY97ccx9ZFHkRnmoLgHz9bv6-DDqmigJWqYBlhVTAYuI=)
+[8] [msconnector.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH83FGog3_yJa4UCQ3uGQAJrCji0WZ38S2NFeIqhxVigcWV4DhB7RpBznHpcyJBfAqVbO40EMJvSzFuVIaTj9ypYB31TJHxUoc2rV2l4n0XPos=)
+[9] [msconnector.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHic1UbttEMiYmE95nDo4cJf-iFJlg6BN3CQQKXX-zrhddXwRzn_NVvtBhtipvW8K-QHgM3mzKLAuQUQiJvws5DDU37pmZuodBPN_qhHAYpQFj9y_XKlW6rY8Hp)
+[10] [changwon.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMtfrKlgkNBEz49OEhBxorAjUlMNvKKFbnb7tbmFQjUZYAYt5bHZKzUDiO-_97IvLPF9sBk8Zmc1Yts55OcjPR9q7oYObgQCC652CIyYBmrxQfcb5WxaGnZVXKZuo6mobt8OBavsutN_Roh7aYCXn00_LPW-oNkHmSq3tCOTRmcCA=)
+[11] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlg2v34iYFFTIiwU7bxMYswKXezr_C4-EgoN9XhxWQe6VUhTYX0ZkRuCNkM5Oc8Nh_CnFujh39bEmShsj8M9a7v-0BbyUsp_nSKCDsUmpA7BNL5XnF7Oe4NqJlTl0f0nI2FWVd5DiLjDi3q5SZcesA9ogWRBm_MOgIbKzdBycA2yPmbCaGMGM5jvfkeWKjlI-mYt6noAJya_hp6rX4sWhU6zEto7Jw0xvXy-zbQC3k5QAzxUKnVbzD6RjihXpLBUGbG3BbH2mIo0we22hCjGplLQ==)

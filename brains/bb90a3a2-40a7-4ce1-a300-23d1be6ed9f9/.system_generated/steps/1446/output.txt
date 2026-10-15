@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+FTC len: 3372
+Phones in FTC: []
+FTC text snippet:  통신판매 사업자정보 조회 위에 보이는 문자를 입력해 주세요. window.onload = function(){ getImage(); // 이미지 가져오기 document.querySelector('#check').addEventListener('click', function(){ var params = {answer : $('#answer').val()}; $.ajax({ url : '/bizChkAnswer.do', type : 'POST', data : params, success : function(returnData) { if( returnData == 200 ) { //console.log('Captcha Success !!'); var obj = document.getElementById("bizCommPopForm"); obj.submit(); } else { alert('입력값이 일치하지 않습니다.'); getImage(); document.querySelector(
+

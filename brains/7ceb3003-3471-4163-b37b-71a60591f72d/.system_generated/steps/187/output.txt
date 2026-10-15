@@ -1,0 +1,8 @@
+The search for ""349-8000" "부산" OR "센텀" OR "해운대"" returned the following summary:
+검색 결과, "349-8000" 번호와 "부산", "센텀", "해운대"를 조합하여 검색했으나, 해당 지역(부산/센텀/해운대)과 직접적으로 연결되는 유의미한 정보는 확인되지 않았습니다[1][2].
+
+참고로, 검색된 자료 중 "349-8000" 번호는 미국 조지아주 애틀랜타 지역의 'SMART CAPITAL'이라는 업체와 관련된 것으로 나타납니다[2]. 혹시 찾으시는 곳이 다른 지역이거나 번호가 정확한지 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJ3DnebfLClr6Py2oJqXmfADER9dNeItL9S8vUGhAyL9Bs8zacesQIirRSHGsWoy5ACeJK6K3C1EisuQmH3cAmvWlKgvC_mlH3ZT2EcbniRiOEHOnDDwb5EZp5DtrjxFJT4oGJ29GUTSSC_BQLcRJaF7s_JWCHA==)
+[2] [fliphtml5.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtUq8etX4ZnYYT8cdVTLPn1zgL4K5vGqxfecc8H75QALADiig9RoZrrJih0m7nFc3yq4KgAjg3UaPSMjNUKh9RtENx4sVf2CRZX8bZFEn09rhLKQVl2T6wAdiAyE-VCA5Iu30=)

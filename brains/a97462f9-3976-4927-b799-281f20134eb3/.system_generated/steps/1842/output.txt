@@ -1,0 +1,32 @@
+The search for ""이석창" "부산" OR ("이석창" "웹툰") OR ("이석창" "작가")" returned the following summary:
+검색하신 "이석창"이라는 이름과 관련된 주요 정보는 다음과 같습니다.
+
+**1. 학계 및 영화·콘텐츠 연구자로서의 이석창**
+* **건양대학교 교수:** 건양대학교 디지털콘텐츠학과 교수로 재직 중이며, 주로 디지털 콘텐츠, 인공지능(AI)과 영화, 영상 제작 등을 연구합니다. 2022년 'KOCON 국제디지털디자인초대전'에서 우수작품상을 수상한 바 있습니다[1][2][3].
+* **부산대학교와의 인연:** 부산대학교 예술문화영상학과를 졸업하고 박사 학위를 취득하였으며, 동 학과에서 강사 및 연구 활동을 했습니다[4][1][5]. 영화 연구 관련 학술 총서인 『부산영화사』의 공동 저자로 참여하기도 했습니다[5][6].
+* **저서:** 인공지능과 영화 기술의 융합을 다룬 저서 『인공지능과 영화, 기술, 관객』(2025)을 출간했습니다[7][8].
+
+**2. 기타 활동**
+* **브랜드 콘텐츠 및 에디터:** 컬리(Kurly)의 브랜드 아카이빙 도서인 『굿 센스』를 기획하고 펴낸 에디터로 활동한 이력이 있습니다[9].
+* **기타 동명이인:** 
+    * 조림 전문가로서 나무를 기증한 사례[10]
+    * 지역 세무사회 회장 명단[11]
+    * 원불교 관련 행사에서 싱어송라이터로 소개된 사례 등 다양한 분야에 동명이인이 존재합니다[12].
+
+**참고:** 질문하신 '웹툰'이나 '작가'와 관련하여, 이석창 교수가 재직 중인 건양대학교 디지털콘텐츠학과에서 '웹툰 제작'을 교육 과정으로 다루고 있으며[13], 본인 또한 영상 콘텐츠 연구자로서 웹툰 및 디지털 콘텐츠 분야와 연관된 학술적 논의를 진행하고 있으나[14], 대중적인 웹툰 작가로 활동 중인 인물로 검색되는 결과는 확인되지 않습니다.
+
+Sources:
+[1] [pusan.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQDIoy8e85mwShpAmqX-_YtzNBz5twY7h3Zm6pwhq-RMgjTnviNfRs0U7WISsh9zhitgIepmdgUyxwfHm26VxoGOt3OF4aTW2cZx9UdC_93v9V0duavbQ5060ZIj961GXzE3W_8Vd-WX5b_w==)
+[2] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa9Ywp9Dj9_vf0gYAfAeoKIf_Rpc5TKZPfDfCl7cs7l1FB7l64Wze7sX6YZrTUv9GHcUc58n_XjD5h9ula8GG1WhM_8QCV9gPq219mx5X7Q67gQucpQ1-qsMQoeg==)
+[3] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MiJoEmH2UbUujUHis8x-pd8rUJUYPnNf3ekblHdswmtvuYapJmeqTy3Eav4sg_xIa7MAqbMXyzUnF_ifJ2BPIwgfOnbFQSKL8Fg3HN1t7_VhO9GaCJnmuw==)
+[4] [pusan.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_IDKY3H_gASe72X7PEf5n_eXqBOSLTL8eqpWDe67nP2JBg9iq9g2SvTpymgxNIeBBBHy2ADgXb-Kn_5dCmWyJlX0BBiNl8xGiCKxcaCSaANwNiRlnNEgdsTZ0ZEzCUVqycv_Q)
+[5] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwVkGrV54EwVm7jBONL6-c1IkMRRjgNrL8VkjyLM35dsMqsekOrDEKDPQowB7Lp4FqVcSaTlDMbodYhBcPHMmdYfQI-x5jA350B0LFW72WXpyvFq7KFD48zLz2_imKgtBgycVmp5YNfdnWIX-YtkqR034=)
+[6] [nanet.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECuS6OnJPmIWhJy62vFRTUnNGHS7hujBprPncDoGUB3fdvxGAYS5Y9PU7Ne6VouVeCY64Ikfb66kkXRVJVEHCZl_AlRiVyFDVjoX3-6DFZHPBXCNaLfZcd-xURVMTuxqwYC0UTIFXoMFNxu0WrdyP6y3U5Ojct1IVPo9zgHg==)
+[7] [commbooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCqddmMJkoo8A6J0WiRPIvZThKEgn0zux7Blu4tFvFHgWONjtZp17C_k7qB8LmtlPCG4dsgJ9LS-vBf2v19ll2_ZeNMd_7KQKPAD8P47kENBzfRbSlqY0dLVyOgWnOGKC8WHCg8XCK_L7kug==)
+[8] [ridibooks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSMGFBvN_Tdalnt_c45k68Zvh4P4UTDnrR5mDTtk5Hrh05LekZXzRv8QBacaWKyrkivfMuhScfFTImfvjDlRQ8ODrWaqXLAnYbDgGiqYktkU6zGgSh0GAFutLQvw==)
+[9] [linkareer.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiixAhwdgkInlpTWPwEzhPblGETymPvLodPrBIFoKgh767nyhD-ZKIwaZ6X2lCfsiQtJw7Vo0KcrUnnoZaINXofI3bexafvc2KAAImI2MpXBEfMzVld89vsE8u)
+[10] [kbmaeil.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH02WCtjrFcxzfWplwyTrxw6DjqgrFTWcYlAd50GzfNXzoR5wwMcxExMrJ9v6-VqvipCI90y3gwdRdlvPCzhU8Gyu4c05KT7gHfgYJrlCT-T844Z5KNlkMUOQVcFg1jAM3meNFfqA==)
+[11] [kacpta.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPWfSdeAwxos-FpgJHJMzND6AuDlb3w0G7jVqbR9oxjy9_Jb9MyPDu_cdgAcJbsut1Zvni0KUT5umas5aj7GBFa29dD0lOA6FFz9D-7N5oMRxij-Q0Q5Do-qcLA-lJGtjl3r_WcBbhWKgO4C0r8RPMDxOmYO-PzzglywRbADyv7vqFPB35LY4RvSKEpxb7A8RdEXshmqboSGaR1rWS42yGga_0iQOkqqEuaWO0SYVtOsTCIZX9pE2wJW9sQgQ1wyRZvOhjW1C5t17TKMYgz5_cP_a0m1T_g6a_IrtyxMM4VFPwi494vDehCOJnmMwnmksig2VWb3KyQlDbXEMrGNFvEfZxU6Q2CPzT93x-G_myqJdVUxMhSg==)
+[12] [wonnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi1CLeHbcXeQnJxjUcdxkOB93GGL8T6bQTP3cK8KbzHsnzYjQnDKUiLRD86PLm_eQDEaSMuF49K3SXL4J35fobG0Rey3ij3A1wOiMfH7AsuG5pjN4ysBT0jUvJ3wUdWwmN94M_YHmyWe8VNBN7WUmp51M=)
+[13] [sjsori.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5582Mye1sKQ99UvushkUL3h8vBFf6_Y1E_xgD9FZSpadm2LxLsGjLKqwaTYxNfie4Xgjnvy-JfA1R41Hxwwb5zpOwGDsMr0l2MdEq6JYtEx9K8lsh3ElHiHN8LwqFTo7P_ayTkkZs4f-a4sGHUw==)
+[14] [nanet.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuGpKYW5pWvJZjMP_6p2v7dkfzG30mZUKEotZ9tM1dxdo9oJNli6bUwEpQZT1CJ69CbEwBLj8oosaN_23zPUnbrPYofq5Vyhys04ySfJUD_KO_cfiUnqcZhYr1lRuCQgTcXQ==)

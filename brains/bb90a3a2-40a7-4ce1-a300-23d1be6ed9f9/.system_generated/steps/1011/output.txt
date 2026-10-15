@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+SSG PC len: 303780
+FTC links: null
+All phones in SSG PC: null
+Seller snippets: [
+  '고객센터</a></div></div></div></div></div><div id="content"><style data-emotion="css 1428fyx">.css-1428fyx{d',
+  '고객센터</span><style data-emotion="css 27dopn">.css-27dopn{width:var(--m-sizes-6);height:var(--m-sizes-6);c',
+  '고객센터AI<img alt="바로가기" class="chakra-image loaded css-ypetv3" loading="lazy" src="https://sui.ssgcdn.com/',
+  '고객센터/전자금융거래분쟁처리</p></div></dd><dd><style data-emotion="css q7yl77">.css-q7yl77{display:-webkit-box;displ',
+  '대표자: </span><span></span><span>사업자등록번호: </span><span>통신판매업 신고번호: </span></p><p class="css-q7yl77"><span'
+]
+

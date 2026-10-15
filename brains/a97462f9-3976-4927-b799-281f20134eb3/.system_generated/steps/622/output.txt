@@ -1,0 +1,36 @@
+The search for ""파크이에스엠" "214-87-80017" OR "이승찬" 매출액 OR catch.co.kr OR 사람인 OR 잡코리아 OR DART" returned the following summary:
+**(주)파크이에스엠(PARK E.S.M)**에 대한 주요 기업 정보는 다음과 같습니다.
+
+### 1. 기본 정보
+*   **대표자:** 이승찬[1][2]
+*   **설립일:** 2005년 11월 3일[2][3]
+*   **주요 사업:** 온라인 게임(FPS 등), 모바일 게임, 아케이드 게임 개발 및 서비스[1][3]
+*   **주소:** 부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 (재송동)[1][3]
+*   **주요 게임:** '오퍼레이션7(Operation7)', '오퍼레이션7 레볼루션', '벅스박스' 등[2][4][5]
+
+### 2. 재무 및 규모 정보
+*   **매출액:** 약 20억 원 (출처 및 시점에 따라 상이할 수 있음, 최근 자료 기준)[1][3][6]
+*   **사원수:** 약 20~40명 내외 (채용 플랫폼별로 차이가 있음)[3][6][7]
+
+### 3. 주요 특징
+*   **게임 개발 역량:** 자체 개발 엔진을 활용하여 FPS 게임 '오퍼레이션7'을 개발하였으며, 이를 국내뿐만 아니라 일본, 미국, 유럽 등 해외 시장에 서비스한 경험이 있습니다[2][8][9].
+*   **콘솔 및 신기술:** PS4용 게임 개발 및 VR 게임 콘텐츠 개발에도 참여하는 등 플랫폼을 확장해 왔습니다[10][4][5].
+*   **부산 지역 게임사:** 부산정보산업진흥원 및 부산게임협회 등과 협력하여 지스타(G-STAR) 등 주요 게임 전시회에 공동관 형태로 참여한 이력이 있습니다[11][4][5].
+
+---
+*참고: 본 정보는 잡코리아, 사람인, 게임잡 등 공개된 기업 정보 플랫폼의 데이터를 바탕으로 작성되었습니다[1][3][12]. 정확한 최신 재무 정보나 상세한 기업 현황은 금융감독원 **DART(전자공시시스템)** 또는 기업 신용평가 보고서를 통해 직접 확인하시는 것을 권장합니다[13].*
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Aus5mmTyw3c1CwdAYeLiuXgd-X76KF75kcobNyBkZ6QccjxNQOkT-PnOLtlAra6mwg3gLSnTSz4giDRehts3lHW1-Kw0watM8thw_xFx0LCszfVcLNNDA6mZWiv0lUj0wdGpdYhug9pd)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFib-fiKfZKizhI2TVjmtpP5K666aJL_z7chx129g9dTcEZxOdqq5NE0rZ56_tpEN1QqyXuiEboJvypj5Pp4abkbVXx5sIOi4eQN_Qr-qL9rEiLGkYw3i_YKMq0BcePFQ==)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg9_MKCmgnATG7ieXNK7eBIk4CiEjy3wnpFrv6GphLy53l0dZzKw0jZ5brl2YzNvqO9Qnyf38EdOwSLKgvWVeGdB_C9DTU-MYI90bVR9Ty198iS9j-jV1i0_UDH4x97giTxIMr4InRMw==)
+[4] [thisisgame.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo_S1okjLysJOPV2s__C-rflcthbr7Dq7kTN0s8z0_2Az5woeOYVcxjK1IVqu4EFrTO4bdD9l5ZUzL-iQWFXqSLeEuHycIaFdDCbk6zMC1eJSJ42bfG0aL9ZINR2KV-Q==)
+[5] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKAUvf3FqCa6uGqSv_B1TFJfdHGIjYX3J3EVHtObaAxz34AI823_3myLiMMpy8v55VLpUvPkDogfGVDW-nWq95tPim8mO739nsBQz_0l7RTtNwHRdH4UQ8sglye54466BPNwc=)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Aus5mmTyw3c1CwdAYeLiuXgd-X76KF75kcobNyBkZ6QccjxNQOkT-PnOLtlAra6mwg3gLSnTSz4giDRehts3lHW1-Kw0watM8thw_xFx0LCszfVcLNNDA6mZWiv0lUj0wdGpdYhug9pd)
+[7] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERDutP9kGJGvkvFaaTk28utIkSqQiUKhhdsSbd5dfpGT8tu7Pnzlb1-l0gSGjOBacwgF2tbnzwAwG_dcye8ug9lNP-Mosy1hY4U_HhMsCURMkJ8kn0j0pGOvxwImWhUkgLU5kxaPdHkW8kbmbCFlKfkGgrgI-EKBC9puH-eSB8BeJO3i7737g2Wbeh788cZ_nxpsJTygmuIoCl2p5xqMxNfg==)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Aus5mmTyw3c1CwdAYeLiuXgd-X76KF75kcobNyBkZ6QccjxNQOkT-PnOLtlAra6mwg3gLSnTSz4giDRehts3lHW1-Kw0watM8thw_xFx0LCszfVcLNNDA6mZWiv0lUj0wdGpdYhug9pd)
+[9] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Aus5mmTyw3c1CwdAYeLiuXgd-X76KF75kcobNyBkZ6QccjxNQOkT-PnOLtlAra6mwg3gLSnTSz4giDRehts3lHW1-Kw0watM8thw_xFx0LCszfVcLNNDA6mZWiv0lUj0wdGpdYhug9pd)
+[10] [bipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QADeVbdpyq88j8yNdEsyqk1E4etMoe9shcLp1fJlzEOIPinOduV91lf0iWk5lAyE8PJxKmd8_UiN0qcrcNmHc5-kLw99-0gCyyiS5w3y_zBt16KM_-Pm5YbWCe97B7bAxA==)
+[11] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkG7ufuqDjMYQjjHoQB3Jc9WCsHvNULDCwa3f3IqA6iPY6xrZRo5EOSnJey_gr8FJ12J8qV0oE-7PH6wtPrdSb5GVfilvmekq1RAXv-vxKWiJyoKP1amd3n7fYwkKNe3kHbSU_0d6wZggnkFkCnnxLLgAfHITswr7ee2veyvd1JDiz5tM14iFNpaLvoZQac5WRI-XDEvM5vXvi5Ta75cMgWkc5tEr8pujforL53upA-J32pF8u4MVoaNniBci0s-uWRjQ=)
+[12] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJUJmb_5UVtHSMjO9J1QfRI_hvuo58e1p7KZohQMoLb-Mn4mZSL4ayeERp3GR_DPumhwt2GGvivFePtSw1wls71kSH__vg5HmQm0uOidsco6hBqyROr9cdWNTBCzjq5qNhMerR09tqQchVDR1lYKJ6wYTmCnNzmYaasKStVRHJyg3zXAjw-kYXAwlQNnXHwDrOP5fCZPAFxe8W9-Xh1MlNozGeE-ZryC09_erIhWsLQiTdn6bn9Wbzp44JvMTJZDuGsd3QkW08xFKSJJvT5fkL8nLVj2vTknAyNV4y1gCPXg==)
+[13] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJUJmb_5UVtHSMjO9J1QfRI_hvuo58e1p7KZohQMoLb-Mn4mZSL4ayeERp3GR_DPumhwt2GGvivFePtSw1wls71kSH__vg5HmQm0uOidsco6hBqyROr9cdWNTBCzjq5qNhMerR09tqQchVDR1lYKJ6wYTmCnNzmYaasKStVRHJyg3zXAjw-kYXAwlQNnXHwDrOP5fCZPAFxe8W9-Xh1MlNozGeE-ZryC09_erIhWsLQiTdn6bn9Wbzp44JvMTJZDuGsd3QkW08xFKSJJvT5fkL8nLVj2vTknAyNV4y1gCPXg==)

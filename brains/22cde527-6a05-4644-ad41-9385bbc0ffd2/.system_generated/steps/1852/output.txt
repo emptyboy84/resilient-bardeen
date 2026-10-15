@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Testing bizno query: 186-86-00972
+Result 1 length: 2255194 includes 브이드림: false
+
+Testing bizno query without hyphen: 1868600972
+Result 2 length: 2255040 includes 브이드림: false
+

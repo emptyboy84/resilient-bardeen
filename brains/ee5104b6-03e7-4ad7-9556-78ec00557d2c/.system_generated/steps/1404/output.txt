@@ -1,0 +1,22 @@
+The search for ""teht.hometax.go.kr" "ATTFBDZ1001M"" returned the following summary:
+`teht.hometax.go.kr`은 국세청 홈택스에서 **공익법인 결산서류 공시** 및 관련 신고 업무를 처리하는 서브 도메인입니다[1][2][3].
+
+문의하신 **"ATTFBDZ1001M"**은 홈택스 시스템 내에서 특정 화면이나 데이터 처리와 관련된 내부 코드(오류 코드 또는 화면 ID 등)로 추정되나, 공개적으로는 구체적인 의미가 명시되어 있지 않습니다.
+
+일반적으로 홈택스 이용 중 이와 같은 코드나 오류가 발생할 경우 다음과 같은 조치를 권장합니다:
+
+1.  **브라우저 데이터 삭제 및 재시도**: 특정 도메인(`teht.hometax.go.kr`)과 관련된 자동완성 정보나 캐시, 쿠키 오류로 인해 화면이 정상적으로 표시되지 않을 수 있습니다[4].
+    *   **크롬(Chrome) 기준**: 설정 > 개인정보 및 보안 > 인터넷 사용 기록 삭제 > 쿠키 및 기타 사이트 데이터 삭제 후 재접속.
+2.  **보안 프로그램 재설치**: 홈택스 이용 시 필요한 보안 프로그램이 정상적으로 작동하지 않을 경우 신고서 제출이나 화면 조회 시 오류가 발생할 수 있습니다[5][6][7]. 홈택스 초기 화면의 [프로그램 설치] 메뉴를 통해 최신 버전으로 재설치해 보시기 바랍니다.
+3.  **브라우저 변경**: 현재 사용하는 브라우저에서 문제가 지속될 경우, 다른 브라우저(예: Microsoft Edge 등)를 사용하여 접속해 보시는 것을 권장합니다[4].
+
+만약 특정 신고 업무를 진행 중에 발생하는 문제라면, 홈택스 고객센터(국번없이 126)를 통해 해당 코드(ATTFBDZ1001M)를 언급하며 상담받으시는 것이 가장 정확합니다.
+
+Sources:
+[1] [inu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN7EG2XNyt591YED-sq_XkyD8so5V186hciwCCI6e1LWC9-HnkNbsL-gseE67HiqO0Ea7wFw-OLtwobJrSz-UvaYQlpS7p2L5RBb247Fh6uoaNScb0vrH2pV7RtLLG5UZSZuRpQNS013QP)
+[2] [douzone.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiyJuB9jkiTeoSDIrUsUtqnALURETN5huHmNszVRUnr6eGC8GZxUUtbUREUY96o1Uu4UDQvIxUixuoiHw1LQu5KdCRXKYdEl8WdgLV4pijizOB2mpdKY2TiuyL8mZ_TdmeRI_wuAOCbw==)
+[3] [simin.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMfLIcbX4vki0DK7WZ_WBfLbERejeKl-vHT-5ds4h9jmjqXOVicpKoDaVXDPIKhV3SbBGLR2eSrb7AhlAu2NLFeQUrJj7mtTSy01om9WHIWPMakjsUDPqP3P7cJoiAYKWM1fg7)
+[4] [bznav.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERdFNzmKOp-RpWOfI3u76SFri7YjsjhTejN13dSERGkGks-RstUzV-ovtR_EREr4j1kSLXsdP5UH8-3Jq8c_DiBQxtRLC3rpkeOf0QPS4lh9pnwbAEKS6xi48=)
+[5] [kip.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_asbTc8zW5BgUWmBhguP1STfHUGhlonZeY9u3y9_yVUbhyMW9-zk6gXea--5mdzX7RMUn3c_MW3lIoDVNp7QsAqJZOIwifkF06vPhN9KQrxch13EL6i2sivhqt8bfwIonUOoRwwXAQzaLkXhQRfknQPsdFHkAmLN86dbVwCS57RJl9NxRB3J7VP_v7MV0E6pZ2WlVbvZuCIJ-WNO78_q4k2CitSQcbHQqj-FdonCP61Tof-6y1G5OTQ_hKnx8GaxLS6szwdMjhC70WAgjJ8lFhn63dG63pfO_4ndflq0PehYNXRs_WY9q2t3nQo2CWM6mDNeqnuTZWuq-OLJYEn_cwHEbgZa54J1opHzhV8J054Topf_H4Mw3w==)
+[6] [tipa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Z-6wRQUqot5T9Z5EjH3YxyDtRmipjpzEedF6_j9CLRb8sYkVotA-c_XPetGgMowP9li23OB86D8kulAolL_2qjFvkCnnomcZX4ZDRim_91Rkn8EF1hRJR1tkhYVboNU7nLaHY3wYsosA)
+[7] [haseofoundation.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdKeNllItQOmWt8SXB4F1oU_Fi8bzZRgLhCX1wMeQ5kz75jo1O78NGI3UlsS3bxjSi-E_iUaMPkX-7Ub5TfhyiObe5kbxoVLHAM2TerD71hJftv99ppSyCYhYnINoA0QiWMZUzuZwl-JKrPM2ktq1XnNPvK-MQDPLy6ZPlIyt7L1cF79G-rUP5uxvGsIGmIRMWG7Ug_m7xIuox8smZRVeLx09WaiEWsYrX77ZMM0uFyL4LMBWSOHMRiCl0Xz_lGN3Wny3QMeNGgwIqUSbOt068BrZmqNV0ZmjPUCOlVF5lifXcAQEDsC-FAltplsUoYJaN5JL7pX2Fdrni94ymBXlHnicjvm1UA7CrmMaN)

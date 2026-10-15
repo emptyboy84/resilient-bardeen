@@ -1,0 +1,36 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-769
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-769.log
+Log output:
+Col 1: 작성자
+Col 2: 비고
+Col 3: 회사명
+Col 4: 사업자번호
+Col 5: 대표자
+Col 6: 우편번호
+Col 7: 주소
+Col 8: 전화번호
+Col 9: 팩스번호
+Col 10: 홈페이지
+Col 11: 이메일
+Col 12: 형태
+Col 13: 설립일자
+Col 14: 창립일자
+Col 15: 종업원수
+Col 16: 업종코드1
+Col 17: 업종코드2
+Col 18: 업종(NICE BizINFO(업종)참고
+Col 19: 주생산품
+Col 20: 주거래은행
+Col 21: 주거래지점
+Col 22: 그룹명
+Col 23: 주식코드
+Col 24: 사업자번호
+Col 25: 법인번호
+Col 26: 앞주
+Col 27: 상호명
+Col 28: 뒷주
+Col 29: 영문명
+Col 30: 구상호명
+
+Last progress: 1s ago

@@ -1,0 +1,14 @@
+The search for ""제이에이치바이오시스템" "국민연금" OR "고용보험"" returned the following summary:
+제이에이치바이오시스템(JH Bio System)에 대한 기업 정보는 다음과 같습니다.
+
+*   **기업 개요:** 2014년 5월에 설립된 중소기업으로, 주요 사업 분야는 컴퓨터 시스템 통합 자문 및 구축 서비스업, 의료 영상 분석 및 진단(영상인식) 솔루션 개발 등입니다[1][2][3].
+*   **국민연금 및 고용보험:** 해당 기업의 국민연금 납부 여부나 고용보험 가입 정보와 같은 구체적인 기업 내부의 4대 보험 관련 정보는 일반에 공개된 포털 검색 결과만으로는 확인하기 어렵습니다[2][4].
+
+기업의 정확한 재무 상태나 4대 보험 가입 여부 등 상세한 기업 정보가 필요하신 경우, **'사람인', '잡코리아', '크레딧잡'** 등 기업 정보 제공 사이트를 이용하시거나, **국민연금공단(내 곁에 국민연금)** 또는 **고용보험 홈페이지**에서 제공하는 사업장 정보 조회 서비스를 확인하시는 것을 권장합니다[2][4][5].
+
+Sources:
+[1] [gg.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd9GNJac4Rcp0aAf_YeA6v4rBcwpi9wJTQdd6773Q21IIMKHW9k5aNOGy8TLfO3SNoRw3kWHFEgi71ULjysy9gnqJHV_BCJfuyctOvnQlHRsw-l_inPWtvVpR6jY1JbUWsamB37iqTOe8I7Cz11n7IwSJfg-G2GNFbQdSnOQ-2XAyxGToJWUHaxEz0OdhJ0KdKqBa90LIj6_Ag_ljWcgApMwDl)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhuO_2t3POBiBbr569C3t9uvRCx_XDGeknH1YLsArpf7EIbSeTBL6R7MwdJQLHz_mTpipte_Ik-udSH4z3fwbTzr7kVrUe9fyb_TjkWZMyvqpkNvWF1_InYl32nnPh-7t2GawZx9FTrDfop_s_SO-AzUz2Dd9D2Ol0hDwUJZenK6saxUhi5ff9ndA8GQxjO-I_m41gJXWcychWRMVoI6FALQqWKSUmTp2_w-hpZnNFJE7LItG5sDk8-QK6jhEH1cETR1J9uicpYuPyqJ4qfRBc5rmSjyAtwjGxy4FB0AYoupOQK3YCDxJDdijnjPsskXxsBiYEt7YVFIpkaRfQy7hK6nX2vNT-fNz0oJCjFg==)
+[3] [gg.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd9GNJac4Rcp0aAf_YeA6v4rBcwpi9wJTQdd6773Q21IIMKHW9k5aNOGy8TLfO3SNoRw3kWHFEgi71ULjysy9gnqJHV_BCJfuyctOvnQlHRsw-l_inPWtvVpR6jY1JbUWsamB37iqTOe8I7Cz11n7IwSJfg-G2GNFbQdSnOQ-2XAyxGToJWUHaxEz0OdhJ0KdKqBa90LIj6_Ag_ljWcgApMwDl)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd5isPDfbfxFWAEnl1GepQDD2jksy1GiobZ0y0YRClGGndcjSbrT9kBrPutUGPQWb4ynFJgfvIYmMNNKDFPjv2gvHaPbooANHn5rc2IPedzfKiGAk-GU_KC2zmt4a9uyo1kr2reyKtd8-65hiMNp2jiVyi1Gl1HxJEDdT8-mZFT5YdgX3_CpaFMUOPvfcskLkdnD1_gx_SZkIk6arL5UOuuipQL6-MyrMXeFGfXg==)
+[5] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbb6Wm-Nj-xPPEQ5ym0wAFwWvdkKi-UOfPlvn2PnXeTIV-DqBJ8K2n6W_FqD-9q31hDIoGexk_-zL7S2d9ERCkF97mYUQ3WlYuKgh2YQ3sUdJTffTLMsxSi9JntCBITvLW)

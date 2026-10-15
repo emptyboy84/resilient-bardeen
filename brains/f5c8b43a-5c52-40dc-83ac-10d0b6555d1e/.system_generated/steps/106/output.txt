@@ -1,0 +1,242 @@
+
+The command exited with code 0.
+Output:
+=== AUDIT SUMMARY ===
+1. 열 밀림/대량 복사 오류: 1건
+2. 단일 열 위치 착오/오입력: 7건
+3. 비고 오타: 3건
+4. 사업자번호 정정 비고 기재 후 사업자번호 열 미반영: 4건
+5. 엑셀 앞자리 0 누락: 전화번호 18건, 우편번호 49건
+6. 단순 기호(., - 등) 무의미한 플레이스홀더: 55건
+7. 전화번호 내 불필요 개행문자(\n): 3건
+8. 폐업/휴업 업체에 실사 응답자 정보 기재(검토 필요): 11건
+
+--- DETAILS ---
+1. Shift issues: [
+  {
+    "lineNum": 5435,
+    "company": "부경기계산업",
+    "affectedColsCount": 26,
+    "details": "주소 텍스트가 [18]~[46] 등 26개 열에 대량 복사/밀림"
+  }
+]
+2. Misplaced issues: [
+  {
+    "lineNum": 5208,
+    "company": "(주)비엔아이",
+    "col": "설립일자",
+    "val": "그 외 기타 달리 분류되지 않은 제품 제조업",
+    "problem": "설립일자에 업종 텍스트 오입력 (형태/업종/일자 열 혼동)"
+  },
+  {
+    "lineNum": 5435,
+    "company": "부경기계산업",
+    "col": "설립일자",
+    "val": "금속 절삭기계 제조업",
+    "problem": "설립일자에 업종 텍스트 오입력 (형태/업종/일자 열 혼동)"
+  },
+  {
+    "lineNum": 11940,
+    "company": "윤성",
+    "col": "우편번호",
+    "val": "김병윤/김민성",
+    "problem": "우편번호 열에 대표자명 오입력"
+  },
+  {
+    "lineNum": 11959,
+    "company": "야나닷컴",
+    "col": "이메일",
+    "val": "http://www.yarn-a.com/",
+    "problem": "이메일 열에 홈페이지 URL 오입력"
+  },
+  {
+    "lineNum": 19458,
+    "company": "이제이엔",
+    "col": "우편번호",
+    "val": "06178 ",
+    "problem": "우편번호 열에 대표자명 오입력"
+  },
+  {
+    "lineNum": 20496,
+    "company": "(주)티에이싱크(폐업)",
+    "col": "회사명",
+    "val": "(주)티에이싱크(폐업)",
+    "problem": "회사명에 (폐업) 문구 포함, 비고 컬럼에는 미기재"
+  },
+  {
+    "lineNum": 20496,
+    "company": "(주)티에이싱크(폐업)",
+    "col": "종업원수",
+    "val": "20 미만",
+    "problem": "종업원수에 순수 숫자 대신 텍스트(\"20 미만\") 입력"
+  }
+]
+3. Typo notes: [
+  {
+    "lineNum": 19269,
+    "company": "㈜에코앤",
+    "biko": "폐업,옮은사업자번호:136-87-01124",
+    "fix": "폐업,옳은사업자번호:136-87-01124"
+  },
+  {
+    "lineNum": 19271,
+    "company": "(주)운복 ",
+    "biko": "옮은사업자번호:761-87-01634",
+    "fix": "옳은사업자번호:761-87-01634"
+  },
+  {
+    "lineNum": 19409,
+    "company": "태건",
+    "biko": "패업",
+    "fix": "폐업"
+  }
+]
+4. Biz notes not updated: [
+  {
+    "lineNum": 19269,
+    "company": "㈜에코앤",
+    "biko": "폐업,옮은사업자번호:136-87-01124",
+    "col3_cur": "7611000012",
+    "notedBiz": "136-87-01124",
+    "cleanNotedBiz": "1368701124"
+  },
+  {
+    "lineNum": 19271,
+    "company": "(주)운복 ",
+    "biko": "옮은사업자번호:761-87-01634",
+    "col3_cur": "7618700130",
+    "notedBiz": "761-87-01634",
+    "cleanNotedBiz": "7618701634"
+  },
+  {
+    "lineNum": 19348,
+    "company": "(주)씨에스물류에스에이치지점",
+    "biko": "맞는사업자번호:769-85-01503",
+    "col3_cur": "7698101503",
+    "notedBiz": "769-85-01503",
+    "cleanNotedBiz": "7698501503"
+  },
+  {
+    "lineNum": 19350,
+    "company": "(주)리콘",
+    "biko": "폐업, 맞는사업자번호:796-86-01439",
+    "col3_cur": "7698601439",
+    "notedBiz": "796-86-01439",
+    "cleanNotedBiz": "7968601439"
+  }
+]
+6. Placeholder items count: 55 Samples: [
+  { lineNum: 2463, company: '(주)세진이디에스', col: '응답자이메일', val: '-' },
+  { lineNum: 5026, company: '(주)베이몬드건설', col: '응답자연락처', val: '.' },
+  { lineNum: 5026, company: '(주)베이몬드건설', col: '응답자이메일', val: '.' },
+  { lineNum: 11978, company: '에이치정공', col: '응답자이메일', val: '.' },
+  { lineNum: 12026, company: '신신하이드로', col: '응답자연락처', val: '.' },
+  { lineNum: 12026, company: '신신하이드로', col: '응답자이메일', val: '.' },
+  { lineNum: 12136, company: '성화테크', col: '응답자연락처', val: '.' },
+  { lineNum: 12136, company: '성화테크', col: '응답자이메일', val: '.' },
+  { lineNum: 12311, company: '유진금속', col: '팩스번호', val: '-' },
+  { lineNum: 15057, company: '백봉제어기계', col: '응답자연락처', val: '-' }
+]
+7. Newline in phone: [
+  {
+    "lineNum": 12007,
+    "company": "(주)올뉴로직스",
+    "col": "전화번호",
+    "val": "\"\\n051-637-2027\"",
+    "fixed": "051-637-2027"
+  },
+  {
+    "lineNum": 20477,
+    "company": "(주)에그패밀리",
+    "col": "전화번호",
+    "val": "\"\\n051-501-0663\"",
+    "fixed": "051-501-0663"
+  },
+  {
+    "lineNum": 20496,
+    "company": "(주)티에이싱크(폐업)",
+    "col": "전화번호",
+    "val": "\"\\n053-473-2082\"",
+    "fixed": "053-473-2082"
+  }
+]
+8. Closed with resp: [
+  {
+    "lineNum": 1880,
+    "company": "케이선박도장",
+    "biko": "폐업",
+    "respName": "강정선",
+    "respPhone": "051-414-0117"
+  },
+  {
+    "lineNum": 1889,
+    "company": "부산예한방병원",
+    "biko": "폐업",
+    "respName": "손정호",
+    "respPhone": "051-714-0000"
+  },
+  {
+    "lineNum": 5124,
+    "company": "파세코",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "051-972-1204"
+  },
+  {
+    "lineNum": 5503,
+    "company": "(주)한빛넷",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "010-9909-4100"
+  },
+  {
+    "lineNum": 11894,
+    "company": "주식회사 룩스텍",
+    "biko": "폐업",
+    "respName": "김길연",
+    "respPhone": "010-2695-1184"
+  },
+  {
+    "lineNum": 12052,
+    "company": "프롬더네이처",
+    "biko": "폐업",
+    "respName": "장은정",
+    "respPhone": "1023709558"
+  },
+  {
+    "lineNum": 12166,
+    "company": "(주)아이젠코어",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "010-7422-4080"
+  },
+  {
+    "lineNum": 12214,
+    "company": "(주)유성알앤디",
+    "biko": "폐업",
+    "respName": "",
+    "respPhone": "051-312-4400"
+  },
+  {
+    "lineNum": 12250,
+    "company": "맨티스코리아",
+    "biko": "폐업",
+    "respName": "박진석",
+    "respPhone": "010-3954-4339"
+  },
+  {
+    "lineNum": 12313,
+    "company": "에스피레무",
+    "biko": "폐업",
+    "respName": "양승욱",
+    "respPhone": "01037016536"
+  },
+  {
+    "lineNum": 12357,
+    "company": "탱커 주식회사",
+    "biko": "폐업",
+    "respName": "박선희",
+    "respPhone": "1051698733"
+  }
+]
+

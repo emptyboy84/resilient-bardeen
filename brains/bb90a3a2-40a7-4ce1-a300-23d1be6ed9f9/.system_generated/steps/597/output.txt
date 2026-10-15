@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Still missing count: 2308
+[KAKAO MATCH] Seq 201 (주)신카 -> 070-8229-1471 (신카 / 부산 사상구 새벽시장로 136)
+[KAKAO MATCH] Seq 226 (주)엠유팜 -> 051-582-7534 (엠유팜 / 부산 강서구 대저로235번길 35-1)
+[KAKAO MATCH] Seq 267 (주)휴맛커 -> 010-9792-5555 (휴맛커 / 부산 부산진구 가야대로510번길 21)
+[KAKAO MATCH] Seq 273 닥터코어필라테스 -> 051-782-7469 (닥터코어필라테스 / 부산 해운대구 센텀중앙로 97)
+
+Sample 30 Kakao test: Found 4 / 30 (13.3%)
+

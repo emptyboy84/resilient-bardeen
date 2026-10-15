@@ -1,0 +1,39 @@
+The search for ""중앙대로226번길 7-6" OR "초량동 1198-10" OR "초량동 1198"" returned the following summary:
+검색하신 주소 정보는 다음과 같습니다.
+
+### 1. **부산 동구 중앙대로226번길 7-6 (초량동 1196-9)**
+*   **건물 정보:** 이 주소는 '금강빌딩'으로 확인됩니다[1][2].
+*   **주요 입주 업체 및 시설:**
+    *   **한양각:** 중식당으로 알려져 있습니다[3].
+    *   **입주 기업:** (주)벌크메이트[1], 주식회사 지씨아이[2], 부산인터내셔널마린서비스(주)[4], 라이언[5], 코덴시빌[6] 등 다양한 업체가 등록되어 있거나 입주했던 기록이 있습니다.
+    *   기타 전화번호 051-465-5007 등의 정보가 연결되어 있습니다[7].
+
+### 2. **부산 동구 초량동 1198 일대**
+*   **위치 특징:** 이 지번 일대는 부산역 인근에 위치하며, 다양한 상업 시설과 숙박 시설이 밀집해 있는 지역입니다[8][9].
+*   **주요 상세 지번 정보:**
+    *   **초량동 1198-2:** 숙박업 관련 시설(게스트하우스 등)이 위치해 있습니다[8][10].
+    *   **초량동 1198-4:** 카카오T 부산역 주차장으로 운영되고 있습니다[11][12].
+    *   **초량동 1198-5:** '초량올리사랑' 등의 건물 및 숙박 시설이 있습니다[13][9].
+    *   **초량동 1198-6:** 숙박 시설(게스트하우스) 및 관련 주거/상가 정보가 확인됩니다[14][15].
+    *   **초량동 1198-7:** 과거 업무시설 철거 관련 기록이 있습니다[16].
+
+이 지역은 부산역과 초량역 사이의 교통 요지로, 근린생활시설과 숙박업소가 많이 분포되어 있는 상권입니다[17][8][9]. 특정 목적(매물 확인, 사업체 연락 등)으로 찾으시는 정보라면 해당 지번을 다시 한번 확인하시기 바랍니다.
+
+Sources:
+[1] [forwarder.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESKygwoqKMuuAwBfs1iwc43Qv1FjsgWhXZgNb9UMUMHn8ZmT2BauJ08JJ2VKsWPcvxnqYJVyNuUuQjKjH96CRmOsE42s_7zGQHYiNr_12o4c2TwfvAXyw=)
+[2] [seniorvillage.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa4Hf9qA4LN9qr3s3LRqtN8rXWXXmFw6I-uvIK_nsSyDlw8bccl052kXsYrDE4y2iJgNOHet1YuqI5BoMikSIkd8FFjzKd5YJYF2Xr77jHS7SBQicMkX8bfGRQxJoAVzoKkNu6FngPpzYJGLCTAGeD7pBR78O0c8o2V0prpMxP6wKKjoaqBEQc9mhVRasA9rPbg97vIYUMKsIemPtGrDrezxY_N4Hyx6hIYWTFXdDQp0rrHsixgEQCgd7Uj-fm5ifGCaQ=)
+[3] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy5XOgLkjUiJ2i7vLOGYkPG5E1kg9TMI6S-Wdtmk8ijItCJzMqGLNwKDe2yyMcYzBzfe1TrpJhlhdWJ9us4vbkqt0Od5I5cILub1pDwtHzY4nkAmPQHp0=)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN5-mJk3WcZf9Lj1FfvsW9HBUILVrhb-6p1b3HF6MePuJK709CYZYsa-fl89E_ecDWkgpGE4D4NIiZP7B1xFdGWFZM1JljDQSKw5fd_989cBcdJN-04fP64Vbw)
+[5] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxaeNreJZJt5-kPKtvAiJ1Jc8hhos7nnHdz5yef_1L71UhsmilJEc_Cbdljna_fHf1sqwoajN1S0XtYyEpWq7eoaa1-UBVFd9ABs3TKA7vQ_660CRkvw6uOgljzPh9AGgQRiw=)
+[6] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8jSUc546eeKIyBGAbHX3TgAnzk9n79CPb5onATdBJp-HdMVQ89yjfLm05Kq1Kl04QXwKfK41K9GKkLA28T-BcNwpZZtGCPwwdjmkiovhi-oqtdjW9N9ZPt77S6VJOyK0xGes=)
+[7] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKhpGVDNTUDPbEw81uvKNLbphJD4sKatc7DShalwdi4gI4tXesHdsw6O74WujZcsp7kX__BYanbfbAovBMZyMcEmPxFe_Id37fGG2jOC4qBpo3CeKf0tiaIRPosGruqaP1fx3hmKC8TERD3KBJLbMiPOx29PrtqjmlSeBFBg68JvhH4K_1DQ1mLYoW1O0p0TOI)
+[8] [jaribogo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV5RhpyP5aqe0AWcAfmD-VBQnUPKm8s5-bWD7BcwaM3DGbYjHc9rr8Bm3sE6-g13kwZtgjf-WYBF0x2D9FjTME62Lgiefnb9DqeKLQxC2wE7VAKQWUasYuNoXnYxdSqSE5erg8kkoc1Ab1dBDAnNrK9hkPRC71oIuE6T3HTcaIJEwnDC6iYMyxZWnmHmRuAeSqky8rEzgWax2lG2SnJ1pDOl_UL-6-DeZpLljT_4s1i5rOpPcULOcCyJHlkbcJ)
+[9] [busan-hotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWXgTdpc0lAtLb6_3LjpV0Lvp435uj8U5Ay4WVFgCitmcKZ5O3JRQFGFbFSYDcQ79hCLdrCly4X5WvivbRr3bQmEYFMB6TCs_JBqFP_xSNg1LLTWwfq9OqjmpXZx8apVUFDJL037He7XBaKLWSr8hjzmf5)
+[10] [yeogi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVpjXu_IGQ4jaXBdIPDF2bUgeAYNlwH0BFMAyUYLooedvsNqziMhD1xYHufQTA5OunUxZ0bXS1SEAu1LCHmm0tax8dfpcQdwzX64mD4MmG32dnmP8nVbVXKZjYZ8ICNOyrFQXZ3_LMKA==)
+[11] [socar.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFARLQz_VH4ned1Hs00t54_S6-z72qYkrzcin-JFqQDAIt0xnU4EAjAnaT7atZ7htBp8pqqtDzlocfy_wY4XJaX5qIag5BxSveG4rdmNugANUVBz0hFxwHkmLCAKAQ=)
+[12] [socar.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdxlbB2hjdYe6zK6HPC_vkM0Xs1JSSfqoMg0shS352eL1DZGzYbNCi5lnphRaWLv8fBr3yIK7m4TAfp8-BNIKgLPHsL1x5Z_IiYyG6noI9dMkKI06w4u7crSqJWL5l)
+[13] [building0.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4RMS27Dxnl9k0f_Y63vr4TWYerGXEwPhLCbTESm_m3vzJGk_mgjT6b3Zm6q1dm71kFiUISWli-rXC3KXwqYjBe5GbDzlkYf9vUKknQH8I3tsoGRo5vcUNzt1MARApJ8JhlKi55udV38RJmJ6fn_-N4UdLilYtUewzxmevOhZSA_TShbA0w1tGsu4kZQXONuPdKbbB9tzj9E0o7LhiA3iJnz-GlQNSMfBjmtzClP5cn77u)
+[14] [zaritalk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_rtUejhjyZDE0pJLQWkv4lqYCGzHitdtUruopyXCW2RFLFyyecHyaqsujbw-rBga_hZsXdUoXq4mgdApccHX9sprYfC08WwZyhvgwJNljE_pElZu5pB6Bwvb60C5cJWYCngonS5lO1OBYrTvptHfbhpnIsLtsm2NdC74fTjbvVuc=)
+[15] [agoda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmByFAU3J4No8lCH-qSgM31lqpmuSgkq_ceyMzCw5nFlRj7FaaFF6UtPnybCwufwGTvHlZT4TkP7HigtG2SBuCS0wjJQTpp005SUNlT5TmNYz3crKjEJmoYmzifOwhdyM4lzM4S7gZ_FYGR2QgcUbC_cxOWI7Mt2NuGokK0vqSJHU=)
+[16] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLySn3aGwjuhgOe6gdUhcD1ba15NDn6-3pEPF9eJq8cgO5WrHPpDtLj73ObZcW0_j4lBOEr5Rnw9wW-YcMQVhbcIQ-kS9y2grYbacC_rDf6OMS3kwdPcbieq7fMlq5n2i8rS9IlBbcqg3qdvPE50zHauKJcOa8SRoBArJKpX2IPQ==)
+[17] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHidXooYk5ibc4dLMw1Buua3nIJemRXhzAP8zo3Sc47yTOtb37pf3_QuDmvoxVi9pfE1PP1eno8hFingK_NL5xn18vvLe-Cvp_wy8lPoLF9_LFi06PoT3tt7I4QbxfSVTjNIohXnqRuIFP0HvJCS6oOFYKN32ipc8Ag5KpmE9g84pMtwjG1xicQDrt_VO4E_mnGg6urUwBulOPNqjWsRkO-5F66URj9d3BQ6H5YAbvIwl3KGJg=)

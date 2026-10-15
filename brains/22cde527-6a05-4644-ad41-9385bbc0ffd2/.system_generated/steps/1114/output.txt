@@ -1,0 +1,48 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\write_final_master_192.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -104,8 +104,19 @@
+   console.log(`Updated ${filledRowsCount} rows with ${filledCellsCount} red bold cells.`);
+   
+   // Save Excel
+-  await wb.xlsx.writeFile(targetXlsxPath);
+-  console.log('Saved updated Excel to:', targetXlsxPath);
++  try {
++    await wb.xlsx.writeFile(targetXlsxPath);
++    console.log('Saved updated Excel to:', targetXlsxPath);
++  } catch (err) {
++    if (err.code === 'EBUSY') {
++      const fallbackPath = 'C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_최종.xlsx';
++      console.log('Warning: Original Excel is currently open in Excel application! Saving to fallback:', fallbackPath);
++      await wb.xlsx.writeFile(fallbackPath);
++      console.log('Successfully saved to fallback:', fallbackPath);
++    } else {
++      throw err;
++    }
++  }
+   
+   // Save CSV (UTF-8 BOM)
+   const csvRows = [];
+@@ -125,8 +125,18 @@
+   }
+   
+   const csvContent = '\uFEFF' + csvRows.join('\r\n');
+-  fs.writeFileSync(targetCsvPath, csvContent, 'utf8');
+-  console.log('Saved updated CSV to:', targetCsvPath);
++  try {
++    fs.writeFileSync(targetCsvPath, csvContent, 'utf8');
++    console.log('Saved updated CSV to:', targetCsvPath);
++  } catch (err) {
++    if (err.code === 'EBUSY') {
++      const fallbackCsv = 'C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_최종.csv';
++      fs.writeFileSync(fallbackCsv, csvContent, 'utf8');
++      console.log('Saved fallback CSV to:', fallbackCsv);
++    } else {
++      throw err;
++    }
++  }
+ }
+ 
+ updateFiles();
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

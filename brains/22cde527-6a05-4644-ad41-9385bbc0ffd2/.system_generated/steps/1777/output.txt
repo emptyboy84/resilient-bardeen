@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+Reading base file...
+Creating new workbook...
+
+=== EXECUTION SUMMARY ===
+Total verified rows: 192
+Total NEW RED cells: 1285
+
+Writing to: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+Excel written!
+CSV written!
+
+=== VERIFICATION ===
+Row 100 Col 1 font: {"color":{"argb":"FF000000"},"size":10,"name":"맑은 고딕"}
+Total RED cells: 3165
+Total non-RED cells: 40782
+Expected approx RED: ~3465 (base 2180 + new 1285, minus overlaps)
+Verified rows with RED bizno: 192/192
+
+Row 639 details:
+  Col 1: "25년 모집단" BLK
+  Col 2: "639" BLK
+  Col 3: "디자인에코" BLK
+  Col 4: "603-10-85753" RED
+  Col 5: "2009" RED
+  Col 6: "4" RED
+  Col 7: "이돈희" RED
+  Col 8: "051-207-3530" RED
+  Col 9: "051-517-3500" RED
+  Col 10: "금정구" BLK
+  Col 11: "부산 금정구 장전동 222-39 서강빌딩 4층" BLK
+  Col 12: "캐릭터" BLK
+  Col 16: "10" RED
+  Col 19: "https://bizno.net/article/6031085753" RED
+

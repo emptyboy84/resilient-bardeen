@@ -1,0 +1,10 @@
+The search for ""괴정동" "만화" "낙동대로"" returned the following summary:
+부산광역시 사하구 괴정동의 낙동대로 인근에서 확인되는 만화 관련 정보는 다음과 같습니다.
+
+* **행운만화방**: 부산광역시 사하구 낙동대로 185 (괴정동 427-135)에 위치한 것으로 확인됩니다[1][2].
+
+해당 위치는 괴정동 지역의 만화방으로 등록되어 있으나, 운영 여부나 상세 정보는 방문 전 확인하시는 것을 권장합니다[1].
+
+Sources:
+[1] [linktoplace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTDPNpVfZRHKcA_c-BOihoJDpdpkmhT2XSCQ_tQFQ6vz24zgaW6lcsMS9z4B8uPO6lWdA_h9IgzionznsjUKUUNkAWIB_zt7uyP7wIfw6gDaovpESW0BgqpQMyw==)
+[2] [linktoplace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkTDPNpVfZRHKcA_c-BOihoJDpdpkmhT2XSCQ_tQFQ6vz24zgaW6lcsMS9z4B8uPO6lWdA_h9IgzionznsjUKUUNkAWIB_zt7uyP7wIfw6gDaovpESW0BgqpQMyw==)

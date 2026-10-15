@@ -1,0 +1,13 @@
+The search for ""주식회사 비바몬스터" OR "비바몬스터" "법인"" returned the following summary:
+주식회사 비바몬스터(VIVA MONSTER)에 관한 정보는 다음과 같습니다.
+
+*   **기업 개요:** 주식회사 비바몬스터는 부산광역시 남구에 위치한 기업으로, 주요 업종은 광고 대행업입니다[1].
+*   **법인 형태:** 영리법인(일반과세자)으로 등록되어 있으며, 현재 정상적으로 사업을 영위하고 있는 것으로 확인됩니다[2][1].
+
+참고로, 경마 관련 정보나 일부 상호 검색 결과에서 '비바몬스터'라는 이름의 경주마가 언급되기도 하나[3][4], 기업으로서의 '주식회사 비바몬스터'는 광고 대행 서비스를 제공하는 법인입니다[1].
+
+Sources:
+[1] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS5QUrqtlaX1drRRwoEJXcs07WXtRpK4n-PGYfj8z6osou-1vYVyMAj1m0y6Tu59afCHYM4h7CsFMU5w8hxHxTXr1u4aO7OeRgrsupN76tdwk85wJYv5TJoEbDBQ==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOolvOai5BGcS61vBkJtYAQC1tYyFlIAPFaChapq9ITxE6YyeocsKGpSanBQN0Llv2A0JlzfehblnhFQHB3ho4pKQQ64fh09mK-VXP56V3Hx1Rs0hQTRuCz8uGu2sB)
+[3] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsPkgl9-BmjxTkeercm0fpD0XraCj0FK8DT_AsiAOYDbozG2j-wQh2nh5fztSLAWLQdZtIxlb0NwBTgAg9QtdQPYTunuG5GN0dW2zt6jpp8z1PLbccFHzqDZEoi3TibnCabgVWoV3jc1rsftg-y9x3krzv)
+[4] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs2TaLDB6ALdu6AfrSq2pcDSEHQZJX3TXC39Fv-0RSWI2y08Vx9VEGhpCQXCB4CQaWeOWRdtY53rg2PlSVFvwQWuzs3uPd7WKlu32wAEE0ZfvU1qtZU3ND7Vl_qyPpFekVyfKetfKkvE_AWu4Y5B1Ir6l4)

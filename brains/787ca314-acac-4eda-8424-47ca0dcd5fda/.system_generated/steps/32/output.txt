@@ -1,0 +1,39 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                LastWriteTime         
+--------                                                                -------------         
+C:\Users\lg\Desktop\오늘                                                  2026-09-08 오전 8:54:38 
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_법인번호.xlsx            2026-09-08 오전 8:54:38 
+C:\Users\lg\Downloads\(데이터검증팀)실사 DB 취합_전달용_260720_배현명 (16).xlsx         2026-09-07 오후 12:55:31
+C:\Users\lg\Downloads\5499801156.htm                                    2026-09-07 오후 12:50:18
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_개인법인번호정제완료.xlsx      2026-09-07 오후 12:46:43
+C:\Users\lg\Downloads\5548801993.htm                                    2026-09-07 오후 12:19:38
+C:\Users\lg\resilient-bardeen\AGENTS.md                                 2026-09-07 오후 12:17:30
+C:\Users\lg\Downloads\5548500799.htm                                    2026-09-07 오후 12:09:18
+C:\Users\lg\Downloads\확인되지 않음 453752.crdownload                         2026-09-07 오후 12:08:02
+C:\Users\lg\Downloads\5542300904.htm                                    2026-09-07 오후 12:05:02
+C:\Users\lg\Downloads\5541701009.htm                                    2026-09-07 오후 12:03:44
+C:\Users\lg\Downloads\5540900591.htm                                    2026-09-07 오후 12:01:58
+C:\Users\lg\Downloads\5538702634.htm                                    2026-09-07 오전 11:54:03
+C:\Users\lg\Downloads\5538701620.htm                                    2026-09-07 오전 11:52:49
+C:\Users\lg\Downloads\5528600150.htm                                    2026-09-07 오전 11:25:22
+C:\Users\lg\Downloads\5554200418.htm                                    2026-09-07 오전 11:21:54
+C:\Users\lg\Downloads\5522100919 (1).htm                                2026-09-07 오전 11:16:15
+C:\Users\lg\Downloads\5522100919.htm                                    2026-09-07 오전 11:16:07
+C:\Users\lg\Downloads\5518701283.htm                                    2026-09-07 오전 10:58:58
+C:\Users\lg\Downloads\5512401309.htm                                    2026-09-07 오전 10:31:34
+C:\Users\lg\Downloads\5498602716.htm                                    2026-09-07 오전 9:56:06 
+C:\Users\lg\Downloads\5492601111.htm                                    2026-09-07 오전 9:40:54 
+C:\Users\lg\Downloads\5488700371.htm                                    2026-09-07 오전 9:31:46 
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_사람인원.xlsx            2026-09-07 오전 9:31:27 
+C:\Users\lg\Downloads\5488103435.htm                                    2026-09-07 오전 9:29:52 
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_최종본_수정완료.xlsx        2026-09-07 오전 9:22:45 
+C:\Users\lg\resilient-bardeen\data\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx 2026-09-07 오전 9:22:45 
+C:\Users\lg\resilient-bardeen\merged_500_perfect.tsv                    2026-09-07 오전 9:22:00 
+C:\Users\lg\Downloads\확인되지 않음 419055.crdownload                         2026-09-07 오전 9:21:59 
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_개인법인번호정제완료.xlsx.tmp  2026-09-07 오전 9:12:51 
+
+
+

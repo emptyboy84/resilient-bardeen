@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+commit b44b0bd272cda49d06cd101f1df579c61b94fafb
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:16:43 2026 +0900
+
+    feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 11200630 -> 11200482 bytes
+ merged_500_perfect.tsv                             |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+

@@ -1,0 +1,6 @@
+{
+  "summary":  "윈도우 11의 가상 데스크톱 전환 단축키(Ctrl + Win + Left/Right Arrow)를 AetherOS 웹 데스크톱 환경에서 재현하도록 키 이벤트를 수정하는 계획입니다. iframe 내부에서의 단축키 입력도 부모창으로 포워딩하여 정상적으로 작동하도록 합니다.",
+  "updatedAt":  "2026-06-23T03:33:44.871371900Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

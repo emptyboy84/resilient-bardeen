@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=부산패션비즈센터');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%B6%80%EC%82%B0%ED%8C%A8%EC%85%98%EB%B9%84%EC%A6%88%EC%84%BC%ED%84%B0
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-53-41-232Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-53-37-963Z.log#L1-L2

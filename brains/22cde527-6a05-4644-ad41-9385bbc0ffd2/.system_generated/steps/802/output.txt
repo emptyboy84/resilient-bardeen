@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+639 디자인에코 603-10-85753 {
+  tel: '051-207-3530',
+  fax: '051-517-3500',
+  status: '계속사업자 \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t   ※국세청 홈택스 실시간 정보제공'
+}
+701 문화일보 수정중앙지국 605-01-99891 {
+  tel: '',
+  fax: '',
+  status: '계속사업자 \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t   ※국세청 홈택스 실시간 정보제공'
+}
+703 주식회사 브이드림 186-86-00972 {
+  tel: '1644-8619',
+  fax: '051-711-8573',
+  status: '계속사업자 \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t   ※국세청 홈택스 실시간 정보제공'
+}
+750 불교방송 604-82-04181 {
+  tel: '',
+  fax: '',
+  status: '계속사업자 \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t   ※국세청 홈택스 실시간 정보제공'
+}
+848 시드 617-33-90104 {
+  tel: '070-7579-5*** &nbsp;&nbsp;&nbsp; (※폐업자는 ***로 표시됩니다)',
+  fax: '',
+  status: '폐업자 \n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t(폐업일 : 20130318)'
+}
+

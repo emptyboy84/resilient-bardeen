@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=%ED%94%BC%EC%BB%A4%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4+%EC%9D%B4%ED%98%84%EC%B2%A0');
+```
+### Page
+- Page URL: https://www.google.com/search?q=%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B0%95%EC%8A%A4+%EC%A1%B0%EC%88%98%EC%A7%84+%EB%A7%9D%EC%96%91%EB%A1%9C
+- Page Title: 플레이박스 조수진 망양로 - Google 검색
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-24-13-065Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-24-09-855Z.log#L1

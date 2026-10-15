@@ -1,0 +1,14 @@
+
+The command exited with code 1.
+Output:
+
+
+    �͸�: C:\Users\lg\AppData\Local\Programs\Python
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2025-12-02   � 5:30                Python313                                                            
+
+
+

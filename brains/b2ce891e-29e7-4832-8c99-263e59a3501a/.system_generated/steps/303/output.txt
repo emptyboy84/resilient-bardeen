@@ -1,0 +1,6 @@
+### Result
+"앱 지원\nexpand_less"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const container = document.getElementById(\'developer-contacts-heading\')?.parentElement;\n  return container ? container.innerText : \'not found\';\n}');
+```

@@ -1,0 +1,9 @@
+The search for ""트윈랩" "기영주" OR "트윈랩" "과정로"" returned the following summary:
+제검색 결과에 따르면, **(주)트윈랩**은 시스템 소프트웨어 개발 및 공급업을 영위하는 법인 기업으로 확인됩니다[1]. 
+
+* **대표자명:** 기영주[1]
+* **설립일자:** 2023년 6월 13일[1]
+* **소재지:** 부산광역시 수영구 과정로 (지하층 등)[1]
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3LxVW5gSGe7q0KsIJ4qciWTb57GyI8cIbWvzeRGDpIPawxi4r7Y7yG-1Vo6EbeaYIbgK8J1_lVOFivIMdSeSl2LED0e-Xz_4WuHvzJBg-tkzag_9mosTGWl0VfcgcwYNBb2-Su7jH676NpZJlEwIx05yH)

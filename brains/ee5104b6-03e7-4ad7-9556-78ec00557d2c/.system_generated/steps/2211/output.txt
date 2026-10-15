@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/goto?url=CAESeQHrOzAVeAtKTpv1jboIIraB0iWRA8mGRIxXiawpYYcr1SfkiBArnFcNyTSpBAzVxb6sgXhPgFfqHOLjjSaFTBi_s8KwyEjD6kZ1c91P6BXAgdWMYER_ABhnSJPlFSeEafKLFCxqD3s2_kjBtNP1fw1Igbx0MqXLu34');
+```
+### Page
+- Page URL: https://cookiedeal.io/en/company-search/6090945485/korea-tech-co.
+- Page Title: korea tech co. 2026 Company Profile - representatives, employees, revenue, financials, business number, related companies | 쿠키딜
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T03-51-12-133Z.yml)

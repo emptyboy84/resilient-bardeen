@@ -1,0 +1,103 @@
+
+The command exited with code 0.
+Output:
+Total non-null: 157
+7601400870 한울기업 -> 산업명: 기타 기계·장비 조립용 플라스틱 제품 제조업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7610401908 사브와비브르 -> 산업명: 상품 종합 도매업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7606400410 디에이치글로벌 -> 산업명: 비주거용 건물 임대업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7611000012 (주)에코앤 -> 산업명: 조경 건설업 keys: [
+  'bizno',      'engentrnm',
+  'koraddr',    'crpno',
+  'korreprnm',  'sanupscd_kor',
+  'korentrnm',  'ipodivcd',
+  'scaledivcd', 'upchecd'
+]
+7601501084 디케이이 -> 산업명: 선박 구성 부분품 제조업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7617400052 남민테크 -> 산업명: 증류기, 열교환기 및 가스발생기 제조업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7618700130 (유)을분문화산업전문회사 -> 산업명: 일반 영화 및 비디오물 제작업 keys: [
+  'bizno',      'engentrnm',
+  'koraddr',    'crpno',
+  'korreprnm',  'sanupscd_kor',
+  'korentrnm',  'ipodivcd',
+  'scaledivcd', 'upchecd'
+]
+7610701383 유민테크 -> 산업명: 배전반 및 전기 자동제어반 제조업 keys: [
+  'bizno',
+  'engentrnm',
+  'koraddr',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7618701110 한서전자(유) -> 산업명: 그 외 기타 전자부품 제조업 keys: [
+  'engentrnm',
+  'koraddr',
+  'crpno',
+  'korreprnm',
+  'sanupscd_kor',
+  'korentrnm',
+  'ipodivcd',
+  'scaledivcd',
+  'upchecd'
+]
+7608700059 (주)에이치티나노 -> 산업명: 그 외 기타 분류 안된 화학제품 제조업 keys: [
+  'bizno',      'engentrnm',
+  'koraddr',    'crpno',
+  'korreprnm',  'sanupscd_kor',
+  'korentrnm',  'ipodivcd',
+  'scaledivcd', 'upchecd'
+]
+

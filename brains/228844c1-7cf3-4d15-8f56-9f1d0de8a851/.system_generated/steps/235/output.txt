@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/대표자조회/?area=&query=부성은');
+```
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=&query=%EB%B6%80%EC%84%B1%EC%9D%80
+- Page Title: 부성은
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-36-37-218Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-36-33-744Z.log#L1-L4

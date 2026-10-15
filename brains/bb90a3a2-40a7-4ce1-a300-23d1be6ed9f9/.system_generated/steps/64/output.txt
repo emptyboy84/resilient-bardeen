@@ -1,0 +1,31 @@
+
+The command exited with code 1.
+Output:
+�ġ �:6 �:55
++ const links = html.match(/href=\"\/article\/[^\"]+\"/g);
++                                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:7 �:30
++ console.log('Article links:', links);
++                              ~
+',' �ڿ� � �ϴ�.
+�ġ �:7 �:31
++ console.log('Article links:', links);
++                               ~~~~~
+� �Ǵ� � �ġ � 'links' �ū�Դϴ�.
+�ġ �:7 �:30
++ console.log('Article links:', links);
++                              ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:7 �:36
++ console.log('Article links:', links);
++                                    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:8 �:1
++ "
++ ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

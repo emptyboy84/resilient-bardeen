@@ -1,0 +1,6 @@
+### Result
+"Go to the Content\nGo to the Main Menu\nGo to the Viewed Today\nGo to the Footer\n全てのカテゴリ\nSearch\nログイン\nMy Qoo10\nカート\nQpost\nアプリ\nヘルプ\nQoo10に出店\nsweetieLael\nショップ情報 Q&A·お問い合わせ\n0% フォロワー3,961 フォロー\nsearch\n 全ての商品 (0)\nsweetieLael's info\n販売者/会社名\nsweetieLael\n住所\n1504-1011 291 Hwasin-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Republic of Korea\nメール\nSuperspirit@nate.com\n連絡先\n+82-010-8777-3032\nお問い合わせ\ndisable クリックコール 도움말 바로가기\nQラウンジ\nカート\nQpost\n最近見た商品\nサイズガイド\nTOP\nDOWN\n会社概要\n利用規約\n個人情報保護方針\n外部送信ポリシー\n提携\n出店者登録\nQoo10大学\nカスタマーセンター\nQsafeプログラム\n取引DPF法に関する取組\n透明性向上のための取組\nCopyright ©2026 イーベイ. All Rights Reserved.\nIn cooperation with \nebay"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return document.body.innerText;\n}');
+```

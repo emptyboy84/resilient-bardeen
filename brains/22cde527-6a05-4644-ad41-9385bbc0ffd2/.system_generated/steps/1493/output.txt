@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Total blanks: 228
+{
+  withCeo: 83,
+  withPhone: 190,
+  withAddr: 146,
+  withGu: 149,
+  withYear: 23
+}
+

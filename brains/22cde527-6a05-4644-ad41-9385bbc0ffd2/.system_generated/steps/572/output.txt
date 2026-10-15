@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+2214: {
+  rowNumber: 2214,
+  name: '에어딩동',
+  bizno: '286-86-02440',
+  matchedTitle: '주식회사 에어딩동',
+  matchedCeo: '신영철',
+  matchedAddress: '부산광역시 사하구 낙동대로 550, 산학연구관 404호 (하단동, 동아대학교 승학캠퍼스)',
+  status: '계속사업자',
+  sourceUrl: '창업보육센터네트워크시스템(BI-Net) 및 동아대학교 창업보육센터',
+  matchedVia: 'BIPA/BI-Net'
+}
+2259: {
+  rowNumber: 2259,
+  name: '번들즈',
+  bizno: '876-87-02750',
+  matchedTitle: '주식회사 번들즈',
+  matchedCeo: '김민수',
+  matchedAddress: '부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 804-1호 (재송동)',
+  status: '계속사업자',
+  sourceUrl: '국세청 홈택스 및 네이버 기업정보(876-87-02750)',
+  matchedVia: 'Naver+Hometax'
+}
+2307: {
+  rowNumber: 2307,
+  name: '피커스튜디오',
+  bizno: '606-16-43962',
+  matchedTitle: '피커스튜디오',
+  matchedCeo: '이현철',
+  matchedAddress: '부산 연제구 월드컵대로114번길 26 (연산동)',
+  status: '계속사업자',
+  sourceUrl: '부산정보산업진흥원 게임사업단 등록정보 및 네이버 플레이스(606-16-43962)',
+  matchedVia: 'Naver+BIPA'
+}
+

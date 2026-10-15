@@ -1,0 +1,89 @@
+
+The command exited with code 0.
+Output:
+Total filled companies: 151
+First 5: [
+  {
+    rowNumber: 639,
+    name: '디자인에코',
+    bizno: '603-10-85753',
+    ceo: '이돈희',
+    address: '부산 금정구 장전동 222-39 서강빌딩 4층',
+    source: 'https://bizno.net/article/6031085753'
+  },
+  {
+    rowNumber: 701,
+    name: '문화일보 수정중앙지국',
+    bizno: '605-01-99891',
+    ceo: '',
+    address: '부산 동구 수정동 망양로',
+    source: 'https://bizno.net/article/6050199891'
+  },
+  {
+    rowNumber: 703,
+    name: '주식회사 브이드림',
+    bizno: '186-86-00972',
+    ceo: '김민지',
+    address: '부산 동구 초량동 중앙대로 교원부산빌딩',
+    source: 'https://bizno.net/article/1868600972'
+  },
+  {
+    rowNumber: 730,
+    name: '버킷리스트',
+    bizno: '673-23-01581',
+    ceo: '김영선',
+    address: '전라북도 정읍시 서부산업도로 363(연지동)',
+    source: 'https://bizno.net/article/6732301581'
+  },
+  {
+    rowNumber: 750,
+    name: '불교방송',
+    bizno: '604-82-04181',
+    ceo: '박형수',
+    address: '부산 동구 범일로 102',
+    source: 'https://bizno.net/article/6048204181 및 방송통신위원회 방송사업자등록'
+  }
+]
+Last 5: [
+  {
+    rowNumber: 2260,
+    name: '모두싸인',
+    bizno: '356-87-00243',
+    ceo: '이영준',
+    address: '해운대구 재송동 1208-2번지 센텀스카이비즈 제에이동 제에이-3610호',
+    source: 'https://www.modusign.co.kr 및 통신판매업(2019-부산해운대-0684)'
+  },
+  {
+    rowNumber: 2261,
+    name: '뱅크다이어리',
+    bizno: '851-88-02404',
+    ceo: '김승욱',
+    address: '해운대구 재송동 1212번지 큐비이센텀 401호,402호,403호,404호,405호,406호',
+    source: 'https://bizno.net/article/8518802404'
+  },
+  {
+    rowNumber: 2262,
+    name: '아신홀딩스',
+    bizno: '439-87-02978',
+    ceo: '김삼문',
+    address: '부산진구 가야1동 467번지 동의대학교 산학협력관동 508호',
+    source: 'https://bizno.net/article/4398702978'
+  },
+  {
+    rowNumber: 2263,
+    name: '인우랩',
+    bizno: '401-86-02715',
+    ceo: '',
+    address: '부산진구 가야1동 467번지 동의대학교산학협력관 802-3,4호',
+    source: 'https://bizno.net/article/4018602715'
+  },
+  {
+    rowNumber: 2307,
+    name: '피커스튜디오',
+    bizno: '606-16-43962',
+    ceo: '이현철',
+    address: '부산 연제구 월드컵대로114번길 26 (연산동) 1',
+    source: '부산정보산업진흥원 게임사업단 등록정보 및 네이버 플레이스(606-16-43962)'
+  }
+]
+

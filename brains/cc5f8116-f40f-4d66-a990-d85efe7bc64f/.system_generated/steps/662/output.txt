@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Title: 롯데쇼핑（주） 롯데몰 동부산점
+Desc: 롯데쇼핑（주） 롯데몰 동부산점에 대한 사업자정보  과세유형 : 부가가치세 일반과세자 법인형태 : 영리법인의 지점 업태 : 도매 및 소매업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 대표자명 : KIM SAMUEL SANGHYUN(김상현) 회사주소 : 부산광역시 기장군 기장읍 기장해안로 147, 3층 147, Gijanghaean-ro, Gijang-eup, Gijang-gun, Busan, Republic of Korea 사업자등록번호 : 621-85-37733
+Emp: None
+Closed: None
+

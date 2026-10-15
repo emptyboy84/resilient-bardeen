@@ -1,0 +1,27 @@
+The search for ""초록누리" ("화성" OR "동탄" OR "반송동" OR "18457")" returned the following summary:
+'초록누리'는 환경부와 한국환경산업기술원에서 운영하는 **생활환경안전정보시스템(ecolife.me.go.kr)**으로, 일상생활에서 사용하는 화학제품의 안전 정보와 화학물질 유해성 등을 제공하는 대국민 포털 사이트입니다[1][2][3].
+
+검색하신 키워드들("화성", "동탄", "반송동", "18457")과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **초록누리 서비스 목적:** 가습기 살균제 사건 등을 계기로 생활 속 유해 화학제품에 대한 국민의 알 권리를 보장하고 안전한 사용을 지원하기 위해 구축되었습니다[2][4].
+*   **관련 지역 및 키워드와의 연관성:**
+    *   **화성/동탄/반송동:** 이 지역들과 '초록누리'가 직접적으로 연결된 특정 서비스나 기관은 확인되지 않습니다[1][5]. 다만, 화성시 등 지자체 뉴스에서 부적합 생활화학제품의 회수 정보 등을 안내할 때 '초록누리' 사이트를 참고하도록 홍보하는 경우가 많습니다[6][7][8][9].
+    *   **18457:** 이 번호와 '초록누리' 사이의 직접적인 연관성은 발견되지 않았습니다.
+    *   **기타:** '초록누리'라는 명칭은 어린이집 이름[10], 협동조합 이름[5], 혹은 지역 행사명[11]으로 전국적으로 다양하게 사용되고 있습니다.
+
+**결론적으로**, '초록누리'는 특정 지역(화성, 동탄, 반송동 등)에 국한된 서비스가 아니라 **전국 단위로 운영되는 환경부의 생활화학제품 안전 정보 포털**입니다[1][2]. 찾으시는 정보가 특정 제품의 안전 여부라면, 해당 사이트에서 제품명 등을 검색하여 직접 확인하실 수 있습니다[12][13].
+
+Sources:
+[1] [safety1stnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgV9ZXsNmEf7rI-oqp8mGo6YphFQVHk3CJnDcM5NmROTBQUR8I2WY1OT7CDm8cu3uDxk4-Qv1qQdhWwOOEn0G6__5bNC9rpslETJ3tm2hQ4CfKHb0pDE7KEXWuBJ0YvJD0PNIcYTXAaEh8z-64wgWiz7LWw==)
+[2] [mcee.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcIv8RX90Kp4tGA6n90ndWoa0WIT_LfDB8bfsNx6b4S_xrAsWq4XMtSQR51cFl112W7u6IE83PFGly2ZBiJGsUk-T0eEKIiCAzMyxr69aaVjTZwwVlN9DNHei_AMxRhGe6pR7AK1wgmxN53y3wPCcj2h3vqIzBvINU8Q==)
+[3] [ktr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNNE-ZZGjV6-kOfPc2O8z-2o6bnun1Q8-6GiXObtZJBOa2Rdi7PrNZhrXl6oZ7PVJut8bPmY7GhrwhxL8tDYhGB048xfSJ-mbF-yVFmxuB6gQAMNTYcS2W9nb68cCdBd3ysdI_gb1BKr56HWO6X85HH6hE)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu6_o4Sql4YvFPklH41peQZEIP4tJ7FlF5wgfoGaA5wbtK1C-Njpz82uQVGScf2rGMcFUKY7zKDc_JpRzNowFAk7-u68fVN_KzzxYIerPGMwiBfz3wL5hj5fqo_T3QJE987somneaIBX9uFleGCEA1OKlZ-Bb4VUX7xzlKTo6oZExd5MNgY0Qgkln6NTF5lHtMU9mqjPtCrOILXXtLV74qfMrtOPoo--PMB-RvPf0HmdRPr379fYzHqpGjJWKWw_BGVaxIXzr07erpjdyTOq9kkNnAKMKZx-tB6Zd8ti3kBq4c6DlU1THoHyKzULRCfz3ICWiZpe0ehy4mj_6bziftMO13VZDfCp95kkVW)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3AZODW7azw5TGxGbwHDHOvhkHBJKgR2PJNNuxPimHSbNhzVVz0L0YROucYHi126AOUNk6ys3b2kxwD1ijNUbobQuEpXxEpL0ghgFD9BqzWFkD7BaIFBWR1ebx3sM4EQiGCuUH_2GNRdpN46k2_J7IVc4TNwrgrjxu4QrgC5_Zib08VUGYxDfrsc4P5RMf0iNQRlEB_jWHELgbhiHN5m5kSgr9ZmXo3OGNt8-NAvSps1gvihJoqtpUQYnjuuADGUWg78_3GMYd6NI=)
+[6] [ktr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjn1ruvyVf9aODiddyu-HyRltQiI57k7QqnswmAL6GHsziIc0IGXMhWy4cCKwSCKRbQ1srSJ-rBzQiKYEtSBbqhnIe-NIv7Teqa0Sai9EpyiN-1obK6i3pqPkKVdwkBvka1-0b7uTC32mQWsfGrIDmfRo7SxJUBIbrHx9rwb8DUIPgmubBLKA3RCgYILtE_JRU9xylGvjlS7eAicGZRG8ehiyz6WunRaJZwNd8tembLqQwK_726QuRBSyQB2lL0AtX9zchUQpQHE0=)
+[7] [jay.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDD2DqF7TBO8V8H1enTQJqSM9hiLXmkQFIKSYtN1-1Xt4yuRWqVuVZ-oangLT9-cONGV_ETFqsdFNRTHstVzwbXDl8e3JEdfbPOCR_P-IUlzPaM1wp1tuVHIbwkAzayBKqSoZCuPRwQWAZEOwnUdko_XcoPiAXJn1lf2MQIvph1ByYwkT1u2olf-LtNstdWuBF2HVLXJ-SgqGQd4KVvtEpo_FPJ7om24enykSa19A=)
+[8] [jay.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtQjfuwX6EXuJnSHhmwMKbiVFYObMS7Peyp6p6sc_9unXR8Qw2rLIoWf7HOGFbOMdprCufAzga1HMj0PlZS4TDg5Rvb1QQIIo_LHRoS7d_ihYAS3suW-jHpkoKklgkbB7RyVSDBnWVYsVV9HbVs2QwwSe4mJZdqERmVN7VGI8mRSmiV6woVQevV_uU48_DE-uExbYdOpiavQj1tV7lY1bk1jUZnlPePfXBLyjGsk=)
+[9] [newsis.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXMvxI8Q6cQzy8Yl4AvtyCQgiOOiwI0yNANFKf0zVPqxnrUl65MwUkQWuZhehFWJ8J1u7WBapF3nem1oZ1ZvIrELu3rCfzGk-64HhX87u2_XSS9e0-rWXFDcTSoAQFrNXjIp-hfBUjwcQxSfU=)
+[10] [daycarekorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT1Yb7HsdqsKPiqkFjVrgUYpGU640eGj2aPxhixc2wU5OsCJasRsfxfvKgSwra2nILcisj0waauJW_WLEXLmlaEQlGUiw6_mKapnMkNneEZN0_Gqe677NNrI8kKiOpEWoTg-dOW5BPS_-vgVJYpDj6riz9aGxKF_8KGw6lJPSEgokTXEtOPrzjgfsl1ihtjmyKxMkBxlyKAJPl_40qGa6Rjy8rZcpjRt7fbJcn1NPGX20LThVGvD7V53ORNUNNIXmL9HcPKXPVpFLvh-T6qZAFiQTY8MnKkiySP2J-3CBh9y-9jgys8w==)
+[11] [kgnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF49XDkli25IEWwOpycuZ4YqrpzUuKAMrvyQ_j3HOsF7QRLW8oSEXHVP1By6tf-xBUmtOngHy-B5rXk9_R-TRf44rU003BzgqzHLiVCoU5a7y1Lh3ut6GZaQWAvtjuTsmeprQFz2fQ-9stn)
+[12] [hjnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdSlC-9KQ04lx9nNK-LpbxA2Gjxp9CW2_rMNUxH3jiBgH9JoQr__VCIHnHSPLTNnKMPCWbEfgKGAK6nknyUBwTINvjgaLuc7pWr4elE5x8tp4JIX7vd1k_soOYxP6MO1RsqAKIV80LsnlDsjJDQUz)
+[13] [me.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdeeUi5CpP5DiMAPQyopc0-QCbzEenQb4tAoHqoOQoIFi6JtyZLwGxMw2Pk7IJ82wYO7CEdzakXn26YyEFEjKNcf-FP3MOoW9rWvAXIS8CWk3jVXAfSUmFdYj7JcA3bOkuDzfV5_VdWA_vvcDFEc76dm3M1uMrznNEZ5YZhU3raBRlrx7_q3bfRw==)

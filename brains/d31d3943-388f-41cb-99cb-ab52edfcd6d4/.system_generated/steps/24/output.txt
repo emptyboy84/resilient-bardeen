@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+commit 82effd4740f804a436f54eb2c55e61e850227e45
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 09:03:18 2026 +0900
+
+    feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 11063661 -> 11063764 bytes
+ merged_500_perfect.tsv                             | 500 +++++++++++++++++++++
+ 2 files changed, 500 insertions(+)
+

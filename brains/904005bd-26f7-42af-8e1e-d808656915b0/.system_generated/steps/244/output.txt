@@ -1,0 +1,18 @@
+The search for ""(주)시드" "영화수입업" OR "현대오피스텔" "대표" OR "사업자"" returned the following summary:
+문의하신 "(주)시드"라는 상호를 가진 법인은 다수 존재하며, 검색하신 조건(영화수입업, 현대오피스텔 등)과 관련된 내용은 다음과 같습니다.
+
+*   **영화수입업 관련:** 과거 자료(디비몬 등)에서 **"(주)시드"**라는 상호로 **'영화수입업'**을 영위하며, 부산광역시 남구 대연동 소재의 **'현대오피스텔'**을 주소지로 등록한 법인 정보가 확인됩니다[1][2]. 다만, 이는 과거 데이터베이스상 정보이므로 현재도 해당 업종과 주소지에서 운영 중인지 여부는 국세청 사업자등록상태조회 등을 통해 별도로 확인이 필요합니다.
+*   **기타 "(주)시드" 관련 정보:**
+    *   **건축사사무소:** 서울시 강남구 등에 "(주)시드건축사사무소"라는 이름의 법인이 존재하며, 일부 건축사사무소들이 강남구의 '현대오피스텔(아남타워 등)' 내에 입주해 있는 경우가 있어 혼동될 수 있습니다[3][4].
+    *   **기타 기업:** 그 외에도 경기 용인시, 수원시, 서울 강동구 등 전국 여러 지역에 '(주)시드'라는 상호를 사용하는 법인(도매업, 제조업 등)들이 있으므로, 정확한 확인을 위해서는 **사업자등록번호**를 함께 검색하시는 것을 권장합니다[5][6][7].
+
+특정 기업의 최신 사업자 상태나 대표자 정보를 확인하고자 하신다면, 위에서 언급된 사업자등록번호(또는 상호명)를 바탕으로 **[국세청 홈택스 - 사업자등록상태조회]** 서비스를 이용하시면 가장 정확한 정보를 확인하실 수 있습니다.
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOZOU9alANHXqe59NhrHEArZQA_pT3LaramO52N_Zvvnf-853ykmUdC_RkIhIEYlbDPwEqviVQZGAWDLqbMUzbbJ8hJyOewFGPM1-QDxKv6B8B_DasWchpc4igwimcYOj0dI7M-QP7qNqSD9R2zoFdHdz-q6EsVuMs7p9qCZ9416QeRb4ETR4bpErczmNLh8HrABf4JV3_qLoOmZsNZ7JiPOyW)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOZOU9alANHXqe59NhrHEArZQA_pT3LaramO52N_Zvvnf-853ykmUdC_RkIhIEYlbDPwEqviVQZGAWDLqbMUzbbJ8hJyOewFGPM1-QDxKv6B8B_DasWchpc4igwimcYOj0dI7M-QP7qNqSD9R2zoFdHdz-q6EsVuMs7p9qCZ9416QeRb4ETR4bpErczmNLh8HrABf4JV3_qLoOmZsNZ7JiPOyW)
+[3] [seoul.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEef1StdnfqzLQO6NZREkenJKLDItMfl1S9l4TRV9jLhNzvFR-RCLXr2_kdzPxx1ORMG5hjeG_RvYNnwG07dEphqcOj6huMsuefg2mjYjXjzlV-9qECD3WUbQY4w--Ps9OIPOTpOPdIrfHozXmhSvRoZJos0sC4N11db5wCC36_zp92uY-UE0cR_nxVPxZc6f7ul7b8fpcbPaCl3Y2h)
+[4] [vmspace.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKKMZn2vbgIW085E9v5AF7MeManOsByHlZTGAR1Ynf_mk9wW1bdPGxcLNg27OkW3edhGbMgoLG6RRdgKKgHCg2Vc6jT6o1fdq3gKDVaL8AcTl1UoYuPO0Ae0IbJUJE77j4vMyvIqqMRCB1gWYk)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOPq4TAhywylOwT3t-mR8_Ec9q5b2hn9zu5M_qG-VTiJsGce6q9c9t4BHJZv31ASasnTtNMYNFar8X9m-wfsrYeiN9QqC9Npf6Dxal0JmWBLDe_Q2OeSTTSJtFuMDFh_ZXfw==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6IM1yfLf2neO6os2eKC0dXJJe-qT2tssJyVMsFtevQhx9kNv9p3z-hG_P3jPuwNU_d1aa_bLHuHO3F9MbCWAayhY-Zzg5EDM2N6KFIet4sHu0y6mFj3bJtkDhfFodC78j_4N5uGCWhk6e7HNs2dHd82q_VO9foNsLPwBAwm9CtLpAALamgPeTXOi3nJWqDOgPtViRHFxTGA3R2EscNnshFvQ86XxO83hoXw0WcHuSyI3W8DpOfWhB3oOWr4LG7Q==)
+[7] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3445T9CFxrF9k1w8ATywHSRYF8oBvYTaTBim9qznHtzNh9wC9HF5plfhkQLxHrrqpvGhEkJLa90AxXj_XlknN7m549SJ2-yIYfPd6hyCfG6079OteLdG9EX4=)

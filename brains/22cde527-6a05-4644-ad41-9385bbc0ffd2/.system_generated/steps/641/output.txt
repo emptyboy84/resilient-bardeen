@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total originally missing: 421
+Verified with business number in missing_421: 150
+

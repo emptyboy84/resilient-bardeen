@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+19642 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_595b6ab531a55   btn-default btn_custom "   href="/ContactUs"   style="border-radius:9999px; padding:10px 24px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+19716 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_595b6ab531a55   btn-default btn_custom "   href="/ContactUs"   style="border-radius:9999px; padding:10px 24px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+19736 <div class="inline-blocked inline-btn-item"><a class=" _fade_link  fixed_transform custom_class btn btn_1bd961b227b90   btn-default btn_custom "   href="/DemoRequest"   style="border-radius:9999px; padding:8px 16px !important; font-size:14px !important" ><span class="text ">Contact Us</span></a></div>	</div>
+20394 <div class="btn-group  animated wg_animated"><a class=" btn btn_a75350b27d22a   btn-default _fade_link  "  href="/Consultation" style=" border-radius:6px" >Contact Sales</a></div>	</div>
+20421 <div class="text-table "><div><p><span style="font-size: 13px; color: rgb(179, 179, 179);">Business Registration Number : 288-86-03047</span></p></div></div>
+20425 <div class="text-table "><div><p style="line-height: 1.15;"><span style="font-size: 13px; color: rgb(179, 179, 179);"><strong>Head Office</strong></span></p><p style="line-height: 1.15;"><span style="font-size: 13px; color: rgb(179, 179, 179);">24F, ASTI Hotel Busan, 7-8, Jungang-daero<br>214beon-gil, Dong-gu, Busan, Republic of Korea</span></p></div></div>
+20473 <div class="footer-company-info"><p id='footer-company-info-line'><span class="footer-company-info__item">대표자 이메일: designbl@naver.com</span><span class="footer-company-info__item footer-company-info__hosting">호스팅 제공자: (주)아임웹</span></p></div>																	</div>
+20674 LOCALIZE.설명_이용이제한된페이지안내 = function(){ return LOCALIZE.convArguments("If you have any questions, please contact to <br/><a href=‘mailto:%2’><span class=‘text-primary’>%2</span></a> or <a href=‘sms:%3’><span class=‘text-primary’>%3</span></a>.", arguments); };
+20810 LOCALIZE.타이틀_대표이미지설정 = function(){ return LOCALIZE.convArguments("Main image", arguments); };
+20846 LOCALIZE.설명_배송전에미리연락바랍니다 = function(){ return LOCALIZE.convArguments("Contact prior to delivery.", arguments); };
+20848 LOCALIZE.설명_부재시전화나문자를남겨주세요 = function(){ return LOCALIZE.convArguments("Contact if absent.", arguments); };
+20853 LOCALIZE.설명_소유자만구매가능1 = function(){ return LOCALIZE.convArguments("This item is not allowed to view prices and purchase. Contact the administrator.", arguments); };
+20854 LOCALIZE.설명_소유자만구매가능2 = function(){ return LOCALIZE.convArguments("Your list contains items that are not allowed to view prices and purchase. Contact the administrator.", arguments); };
+20870 LOCALIZE.설명_주문자연락처를입력해주세요 = function(){ return LOCALIZE.convArguments("Enter your contact number", arguments); };
+20929 LOCALIZE.설명_소유자에게액세스를요청 = function(){ return LOCALIZE.convArguments("Contact the site administrator for access<br/>or sign in with an account with permission.", arguments); };
+20941 LOCALIZE.설명_탈퇴문구 = function(){ return LOCALIZE.convArguments("Your posts will still be there even if your account information is deleted completely.", arguments); };
+21009 LOCALIZE.설명_연락처 = function(){ return LOCALIZE.convArguments("Contact", arguments); };
+21141 LOCALIZE.설명_전화번호 = function(){ return LOCALIZE.convArguments("Contact", arguments); };
+

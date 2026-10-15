@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7788800417');
+```
+### Page
+- Page URL: https://bizno.net/article/7788800417
+- Page Title: 앨프기계주식회사
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-32-16-865Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-32-13-321Z.log#L1-L5

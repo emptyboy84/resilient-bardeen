@@ -1,0 +1,24 @@
+The search for "site:thevc.kr "오앤비스페이스"" returned the following summary:
+국내 스타트업/투자 데이터베이스 플랫폼 **더브이씨(THE VC)**에 등록된 **주식회사 오앤비스페이스(OnB Space)**의 주요 정보는 다음과 같습니다[1].
+
+### 1. 기업 개요
+* **설립 연월:** 2024년 5월[1]
+* **본사 위치:** 부산광역시 (이후 대전 등 관련 연구 및 사업장 연계 활동 수행)[1][2]
+* **대표자:** 윤효상[1]
+* **기업 형태:** 비상장 중소기업[1]
+* **임직원 수:** 약 7명 (2026년 7월 기준)[1]
+* **주요 분야:** 우주/항공, 기계, 초소형 위성 설계 및 운용[1]
+
+### 2. 주요 제품 및 기술
+* **슬레지 (SLEDGE / 슬렛지):** GNSS(글로벌위성항법시스템) 기반 전리층 관측 기술을 활용한 초소형 위성입니다[1][3]. 우주기상 분석, 항법 오차 보정, 통신 품질 향상 및 GNSS 재밍 방어 데이터 수집 등에 활용됩니다[1][3].
+* **최근 성과:** 오앤비스페이스가 개발한 초소형 위성 '슬레지(SLEDGE)'는 누리호 5차 발사의 부탑재위성으로 발사되어 궤도 진입 및 태양 패널·안테나 전개 등이 확인되었습니다[4][3].
+
+### 3. 투자 유치 현황
+* **투자 단계:** 시드(Seed)[1]
+* **주요 투자사:** 엔브이씨파트너스 등이 투자에 참여한 것으로 집계되어 있습니다[1].
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETfIiDYlOh2Z3yJNZwIVgNxX4pcuPQOFLoQKw6fCi7LTukCdMtF24C6H4NFwoFhs9S7MzapXDSidFFeKianDG4aA38cNshzHBq8IhWtsI=)
+[2] [vcroute.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkZdSj3VK_0NooCDrPtKPbh0dMpCg-lwLfoJHl2MgP6ZYIMaY-riy7d68uhiftFYiikRTYv4UnhWrq-xdiKs8_-TTYKO5f45NWpB4GuYzq3EeJzFsOCzPbcgQtyvpEvRXc_Oy4KwEUeyqJPqNaFw==)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOwZfVficRn5dLhVWddFSEDYIOp7TOguUIwuQC4O8dbpE50AjTA0KuL45NjrAYAcj-UMIk0d8WelFYNMIG-uwwGqxT7DyE-_7P9NCJd1RBZVyUwjGvjiUyE3p_jTKYAvzPM1I=)
+[4] [kasa.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFbtV1T-V3sBTJ6-8n-tNVKzmpXSFKZ0_09uKtUH7ICG08tGFr53sEMvqEvahln_7DnZm3TYxv_1UAoDPoU-X9pYh9TZxf47GEmVOUQIbz_AoJWAmn8F_H4Clq-A4GlqP0j9hxXsmpG66CfbgEfCZfJhWnR83zgUbtucUAgFY0ibYvtTrk8JXHfMfSDLX0d6bVICNlL1BBfmz1k_qdwMI5LvA-sHupyky1y-VYPe3wMtCmZ0DoHL8S7Wzj5DYzmje-hk1Z)

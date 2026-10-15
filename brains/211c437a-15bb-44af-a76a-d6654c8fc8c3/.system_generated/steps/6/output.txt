@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+Status Class    FriendlyName                                  InstanceId                                               
+------ -----    ------------                                  ----------                                               
+OK     System   Intel(R) Serial IO I2C Host Controller - A0E8 PCI\VEN_8086&DEV_A0E8&SUBSYS_04121854&REV_20\3&1158365...
+OK     HIDClass I2C HID �ġ                                  ACPI\SYN1B8B\4&5C5684A&0                                 
+OK     System   Intel(R) Serial IO I2C Host Controller - A0E9 PCI\VEN_8086&DEV_A0E9&SUBSYS_04121854&REV_20\3&1158365...
+
+
+

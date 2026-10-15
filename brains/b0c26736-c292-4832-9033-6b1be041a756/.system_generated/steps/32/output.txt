@@ -1,0 +1,11 @@
+### Result
+"[]"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const titles = Array.from(document.querySelectorAll(\'.titles, .custom_title, .table_list tr, .view_box, a\')).filter(a => a.innerText.includes(\'부산\') || a.innerText.includes(\'조수진\') || a.innerText.includes(\'플레이박스\')).map(a => ({text: a.innerText.trim(), href: a.href}));\n  return JSON.stringify(titles.slice(0, 20));\n}');
+```
+### Page
+- Page URL: https://bizno.net/?query=%ED%94%BC%EC%BB%A4%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
+- Page Title: 피커스튜디오
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-24-36-834Z.log#L1

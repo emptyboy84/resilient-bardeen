@@ -1,0 +1,14 @@
+### Result
+"Clicked 상호검색"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const el = Array.from(document.querySelectorAll(\'a\')).find(a => a.innerText.trim() === \'상호검색\');\n  if (el) {\n    el.click();\n    return \'Clicked 상호검색\';\n  }\n  return \'상호검색 not found\';\n}');
+```
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Console: 3 errors, 0 warnings
+### Modal state
+- ["alert" dialog with message "고객님의 안전한 결제 위하여 
+보안프로그램 설치가 필요합니다.
+[확인]을 선택하시면 설치페이지로 연결됩니다.
+"]: can be handled by browser_handle_dialog

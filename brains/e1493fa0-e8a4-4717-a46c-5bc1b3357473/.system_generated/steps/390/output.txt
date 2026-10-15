@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Saved 50 items for batch 1.
+Found: 50 Not found: 0
+First 5 found:
+[1] 청우정공 (6090653247) => 산업명: '자동차 엔진용 신품 부품 제조업', source: bizno
+[2] 도경테크 (6090657239) => 산업명: '선박 구성 부분품 제조업', source: bizno
+[3] 한웅정공 (6090657409) => 산업명: '기타 가공 공작기계 제조업', source: bizno
+[4] 백봉제어기계 (6090658771) => 산업명: '배전반 및 전기 자동제어반 제조업', source: bizno
+[5] 선도 (6090658790) => 산업명: '주형 및 금형 제조업', source: bizno
+

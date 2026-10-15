@@ -1,0 +1,73 @@
+
+The command exited with code 0.
+Output:
+
+
+TimeCreated : 2026-10-15 � 8:50:14
+Message     : � �ִ� � �α׷� �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ִ� � �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ڵ�: 0x80000003
+              � �: 0x00000000072d53a9
+              � ó� ID: 0x6984
+              � � �α׷� � �ð�: 0x1DD5C36C0E1365C
+              Faulting � �α׷� �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Faulting � �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Report Id: 5885393f-2592-4316-b3b1-a6aab9672c79
+              Faulting �Ű� �ü �̸�: 
+              Faulting �Ű� � � �α׷� ID:  
+
+TimeCreated : 2026-10-15 � 8:50:13
+Message     : � �ִ� � �α׷� �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ִ� � �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ڵ�: 0x80000003
+              � �: 0x00000000072d53a9
+              � ó� ID: 0x3EC0
+              � � �α׷� � �ð�: 0x1DD5C36C0DC346F
+              Faulting � �α׷� �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Faulting � �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Report Id: 49ccf885-7e5f-4b7a-be54-8d55ee8553b2
+              Faulting �Ű� �ü �̸�: 
+              Faulting �Ű� � � �α׷� ID:  
+
+TimeCreated : 2026-10-15 � 8:50:11
+Message     : � �ִ� � �α׷� �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ִ� � �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ڵ�: 0x80000003
+              � �: 0x00000000072d53a9
+              � ó� ID: 0x69A8
+              � � �α׷� � �ð�: 0x1DD5C36BFBADF74
+              Faulting � �α׷� �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Faulting � �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Report Id: cc741d77-1467-4788-8126-2a341af3db0f
+              Faulting �Ű� �ü �̸�: 
+              Faulting �Ű� � � �α׷� ID:  
+
+TimeCreated : 2026-10-15 � 8:50:11
+Message     : � �ִ� � �α׷� �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ִ� � �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ڵ�: 0x80000003
+              � �: 0x00000000072d53a9
+              � ó� ID: 0x58D4
+              � � �α׷� � �ð�: 0x1DD5C36BFB762CD
+              Faulting � �α׷� �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Faulting � �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Report Id: dece35ca-08b2-43ee-9a20-63a55b5d6874
+              Faulting �Ű� �ü �̸�: 
+              Faulting �Ű� � � �α׷� ID:  
+
+TimeCreated : 2026-10-15 � 8:50:08
+Message     : � �ִ� � �α׷� �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ִ� � �̸�: Gemini.exe, �: 44.5.1.0, Ÿ�ӽ�: 0x6abc62b5
+              � �ڵ�: 0x80000003
+              � �: 0x00000000072d53a9
+              � ó� ID: 0x698
+              � � �α׷� � �ð�: 0x1DD5C36BE02EB94
+              Faulting � �α׷� �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Faulting � �: C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0\Gemini.exe
+              Report Id: a863eb92-ef20-483e-88d4-44d168cb1576
+              Faulting �Ű� �ü �̸�: 
+              Faulting �Ű� � � �α׷� ID:  
+
+
+
+

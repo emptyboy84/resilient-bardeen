@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Headers: [
+  [ 'accept-ranges', 'bytes' ],
+  [ 'content-encoding', 'gzip' ],
+  [ 'content-length', '1496' ],
+  [ 'content-type', 'text/html' ],
+  [ 'date', 'Mon, 14 Sep 2026 00:44:07 GMT' ],
+  [ 'etag', '"1c4f3ceb87dd1:0"' ],
+  [ 'last-modified', 'Sun, 28 Jun 2026 14:17:57 GMT' ],
+  [ 'server', 'Microsoft-IIS/10.0' ],
+  [ 'strict-transport-security', 'max-age=0' ],
+  [ 'vary', 'Accept-Encoding' ]
+]
+

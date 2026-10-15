@@ -1,0 +1,37 @@
+The search for ""뷰엠" OR "디자인필" OR "씨에스케이" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+요청하신 기업들의 매출액 정보는 검색 플랫폼(사람인, 잡코리아, 인크루트 등)에 공시된 최신 자료를 기준으로 다음과 같습니다. (기업명에 따라 동명의 타 기업이 존재하거나 데이터 출처별로 차이가 있을 수 있으니 참고하시기 바랍니다.)
+
+### 1. 뷰엠테크놀로지
+*   **매출액:** 약 **25억 8,885만 원** (2025년 기준)[1]
+    *   *참고:* 자료 출처 및 시점에 따라 38억 원(2024년)[2], 37억 5,460만 원(2024년)[3], 49억 원[4] 등으로 다르게 나타날 수 있습니다.
+
+### 2. 디자인필
+*   **매출액:** 기업 정보 사이트상에서 구체적인 재무 실적(매출액)이 공개되지 않았거나 검색되지 않습니다[5]. 
+    *   *업종:* 경북 포항시에 위치한 도배, 실내장식 및 내장 목공사업을 영위하는 중소기업으로 소개되어 있습니다[5][6].
+
+### 3. 씨에스케이 (CSK)
+검색 결과, '씨에스케이'라는 사명을 가진 여러 기업이 존재하며 규모 차이가 큽니다.
+
+*   **씨에스케이(주) (외국계, 반도체 가스정화기 제조):**
+    *   **매출액:** 약 **2,210억 4,896만 원** (2025년 기준)[7][8][9][10]
+*   **씨에스케이 (경기 시흥시 소재):**
+    *   **매출액:** 약 **3억 4,540만 원** (2025년 기준)[11]
+*   **기타:** 이 외에도 매출액이 공시되지 않거나[12] 매우 적은 액수(약 7,576만 원 등)로 기록된 동명의 기업들이 있을 수 있으므로[13], 지원하고자 하는 기업의 정확한 소재지나 사업 분야를 확인하시기 바랍니다.
+
+---
+※ 위 정보는 각 채용 포털 사이트의 기업 정보 서비스에서 제공하는 데이터를 요약한 것입니다. 기업의 실제 재무 상태는 금융감독원 전자공시시스템(DART) 등을 통해 확인하는 것이 가장 정확합니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoNVSoFZP3n4sDHRVrZ0QDPDjPan66jZr0PkgNgsiD_5YzD1DJ2UUod79vyTm3nI1s2uhDnpPWTZt4Lo0tvzqDsNiNSbbRAg6I2lWBh9MzwjnYowKza6vM-CZ6CarZvi6-qxSVNHsH2PR_U9ydPNFfm-dH7MHIKCCVu-jPh40JQag_eNaWRso=)
+[2] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_iL04-KqSVLn-bo0rE8R1bhhKbAP6hswmUgBnU5cDXrCM2pNSGtgL1-wgDyEXydQCFwFiQ01XcUYbxHI4p5dZmFWjNdmmXkYcIATn_h_QnmEhLwgYBkNA4lO_-J3aWL3Hcw==)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHggTQ4Yj57x0L8fBVi5lk7JtTAdD3Q699J91HbuLfZhrM3OPZffYkydxgXQbwhx0Xmc07-6EhDv9F2EM8ZNoH-VoV3E3KgTSifrxReW8qMkWV7k5e9BdvAlElRbHMemQ==)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlPwNLf0NZKvZ00JLmYRCdnFt6VQvUyKUh_S8Xso36BMjZXILiriU0nRpPBVc4JehNGgEelrtxfGvTHinux_daWogxr_-SghgsNp34zhUwPddi2q3yUqEHCD4qfmVc7_815jk1EpHcGAs=)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVJu_w4W5O_BOWGiweZ29b1VXTPUmtz4Kq-9PSYw69_ScHtRb1wcIq0eJAnm2Sj9FcPBvf_2ZGH8vGxX6TynLIkA50-y7S9JGuTm-s_2NxN0zODGDt4G-_hnF0oCE3gkrdtjhiyrhGHAUm4YKYhO0LAD_v3h27ykBwZYk4ZgH2xz5wif0UTIYlmtMw0xu7uHrpbXQyvXemDBAXlFCzVRtSc1u19_371IG46FiIFDAdxxEx4jo5_Ut1YYHtFetR7w==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVJu_w4W5O_BOWGiweZ29b1VXTPUmtz4Kq-9PSYw69_ScHtRb1wcIq0eJAnm2Sj9FcPBvf_2ZGH8vGxX6TynLIkA50-y7S9JGuTm-s_2NxN0zODGDt4G-_hnF0oCE3gkrdtjhiyrhGHAUm4YKYhO0LAD_v3h27ykBwZYk4ZgH2xz5wif0UTIYlmtMw0xu7uHrpbXQyvXemDBAXlFCzVRtSc1u19_371IG46FiIFDAdxxEx4jo5_Ut1YYHtFetR7w==)
+[7] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZkO8cVvE7yw-xt4XlP42k0KDFuyBxCOe6JLixXaLJpyyqbD6ARTuOjsxoSeRCaT6jTiUPgedfeVDf8ZNU1knbBRIor5KOkcqqG1OhRH6z75pkhaEgthg_Ixvz_KaAYZCYjEPGctSc9jvhkJ-Zl41DkSkY8cKGCNjceACd3kQKyDaqygSbJ4GZysxcavAkshe8HKEEijGkPYHf_9Oebi_KHJX7uu6nuqc1NdTqw9fUM26ISFW_A1dA2bq16ltwhhXinApPT-FbnknQhIcdWfP8giTq)
+[8] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPyMGnrOqwqvVRks3JCw_iH_r6erhOie7_KceRBLNiAmPcmfGjM8YQQC5Bi1fsV8PY3JOkCS6zKSZYR03OwJjNGYkJ-r7etfAdJogyvp_6pSaQl0EJwo5Kg7BLRaS7)
+[9] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK5AqmwBU4HnTsFOIM4IuDCHo7LPefLTkfCD6bYWARrzqyCBKmbdkm3qMKLDUu8C9R7xEP9xMHeTjnw22chDlmQlj0SnmbwUTdK0WIVh2aDMbSuiemF5RP_qVkRBzDAXKKDUtizRIB)
+[10] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjy_Bav-Mo33iBHv-B0tszIsUBBtSLa1qhmOc7fQtHDJSA2Dcdt1z8ovo7oaN6WmbIiUvyffgD144DkxIWQeMjaMOelb_maD4NiLwn4M7_u3SyxaRNHRnWF3Q9ou042BjdC0rxhOb3nw5zwi0=)
+[11] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe5P6vrqFBR81tRBTIQo-adKmeXBrN1Ir963ufXX6QNb-vPkztRyUNO6YQJG6SyQCwWbh1Qd05vOJD-GRIxTd-Bk4C7WHBnX5OqfrLI1ZUF4DBiAz2owund2KJWodOnEMN)
+[12] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxzKhnXYx3xUbvg4KR3GAwwHabwWym9OOSFIx8SdFRp5UrEI3KCPAengvhz_WlEHu6BXolY7al4Crs2HHLhPBpL2FGOmq6DbmEMhOwYvqpzi-Bgp_DcIjWxSrY8X_gW19S)
+[13] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH28TpCei6codVUX44igceNSYIzIARY-TD93FUvjSH7L5232JWl-CjSsrfAVD_nfVTiEDqtn4iMbg1l1kO-W2SG9q0MACrdNKfCVpGwSqOPToHz7IDFBmtaCFjmRYtMGMPcK8x4U5canYre5hKUiqNdM-Fom1PqwHoBPSvurnpgF8iHCw5SIEmGuCIagf3Re8twuwefFl4stZz8ld4G2YhN-qIx3yUWue6PJEWbA5r070ioEjvB7nHRrHZjEZTewo8Z3J09uuAkbN1tFqFsj1ABHrgfkbV9tP0nAXecGojV)

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+=== grb.co.kr ===
+Registrant: 김성환
+Phone: 1588-4259
+=== grb.kr ===
+Registrant: 설용일
+Phone: NONE
+=== goolimbo.co.kr ===
+Registrant: NONE
+Phone: NONE
+=== goolimbo.kr ===
+Registrant: NONE
+Phone: NONE
+

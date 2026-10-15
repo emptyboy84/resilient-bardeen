@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+
+	<div class="inner">
+		<div class="company_info">
+			<ul>
+				<li>상호: (주)스터디채널 | 대표이사 : 정종현 | 이메일 : study@studych.co.kr</li>
+				<li>사업자번호: 836-87-00263 | 통신판매업신고: 2026-부산진-0704 | 원격평생교육시설신고 제 167호 | <a href="javascript:;" onclick="onopen()">사업자정보확인 ></a></li>
+				<li>주소: 부산광역시 부산진구 중앙대로 856, 303호</li>
+			</ul>
+			<p>COPYRIGHT© STUDY CHANNEL CO., Ltd. ALL RIGHTS RESERVED.</p>
+		</div>
+	</div>
+	<form name="frm1"><input name="wrkr_no" type="hidden" value="8368700263"></form>
+</div>
+<!-- // footer 끝 -->
+</div>
+<!-- // wrap -->
+
+
+<script async src="/js/cs_widget.js?v=3" data-site="studych" data-base="https://ch-cs.hrdch.co.kr" data-u="" data-t="1791940047" data-s=""></script>
+</body>
+

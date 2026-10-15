@@ -1,0 +1,9 @@
+### Result
+"clicked"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const btn = document.querySelectorAll(\'.q-item button\')[0];\n  if (btn) {\n    btn.click();\n    return "clicked";\n  }\n  return "not found";\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=PQ5228
+- Page Title: '키녹스' - 검색상세

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6078162956');
+```
+### Page
+- Page URL: https://bizno.net/article/6078162956
+- Page Title: (주)룩스커뮤니케이션
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-37-06-706Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-37-03-717Z.log#L1-L5

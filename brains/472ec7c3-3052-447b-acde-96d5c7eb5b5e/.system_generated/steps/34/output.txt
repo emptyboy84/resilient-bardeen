@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+[WindowFinder] � ã� � �ϴ�.
+�ġ �:1 �:1
++ [WindowFinder]::FindWindows(37196)
++ ~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (WindowFinder:TypeName) [], RuntimeException
+    + FullyQualifiedErrorId : TypeNotFound
+ 
+

@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                        LastWriteTime         
+--------                                                        -------------         
+C:\Users\lg\Downloads                                           2026-09-29 오전 9:13:41 
+C:\Users\lg\.gemini\antigravity                                 2026-09-29 오후 12:23:10
+C:\Users\lg\.gemini\antigravity-cli                             2026-09-29 오전 9:18:23 
+C:\Users\lg\.gemini\config                                      2026-09-29 오후 12:02:11
+C:\Users\lg\Desktop\Today                                       2026-09-29 오전 10:28:37
+C:\Users\lg\Documents\카카오톡 받은 파일                                2026-09-29 오전 11:37:23
+C:\Users\lg\Downloads\79b397ab-228d-4691-809a-15221bb6d807.xlsx 2026-09-29 오전 9:13:41 
+
+
+

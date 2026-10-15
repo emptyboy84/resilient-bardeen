@@ -1,0 +1,20 @@
+The search for "site:ftc.go.kr "통신판매사업자" "조회"" returned the following summary:
+공정거래위원회(ftc.go.kr)에서는 전자상거래 시장에서 소비자들이 안전한 거래를 할 수 있도록 전국 시·군·구에 신고된 **통신판매사업자의 신원 정보 및 등록 현황**을 조회할 수 있는 서비스를 제공하고 있습니다[1][2].
+
+### 1. 통신판매사업자 조회 방법
+* **경로:** 공정거래위원회 홈페이지 접속 ➔ **[정보공개]** ➔ **[사업자정보공개]** ➔ **[통신판매사업자]** 메뉴[3][2]
+* **검색 가능 정보:** 상호, 사업자등록번호, 대표자명, 연락처, 인터넷 도메인, 사업장 소재지, 업소 상태(영업/폐업 등)[1][4]
+* **바로가기 링크 활용 (팝업 및 상세조회):** 
+  웹사이트나 쇼핑몰 등에서 사업자 정보를 연동하거나 간편하게 조회할 때 공정위에서 제공하는 아래 형식의 URL을 활용할 수 있습니다[1][5].
+  * `http://www.ftc.go.kr/bizCommPop.do?wrkr_no=사업자등록번호(숫자만)`[5]
+
+### 2. 주의 사항
+* **폐업 여부 확인:** 부가가치세법상 사업자 폐업을 하였으나 전자상거래법상 통신판매업 폐업 신고를 누락한 경우가 있을 수 있으므로, 안전한 거래를 위해 국세청 홈택스의 '사업자등록상태조회'를 함께 확인하는 것이 좋습니다[1].
+* **반영 주기:** 지자체 담당자가 통신판매업 정보를 변경·등록한 경우, 공정위 홈페이지 조회 화면에는 통상 1~2일 정도의 반영 시간이 소요됩니다[1].
+
+Sources:
+[1] [ftc.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjKnNc7XwMMQybQ6hkQJWPBOU8m2RzszxDZJG1yL717ZHOBywz7oA0A_nK7EKccU-zjXdGyTSlXBnBFnU_YmNZSqOU-68wEzkcDfgoO-JeALlAlTvxNSVva2GZ0soLQuKevIOaCrpk_XiwmiQ=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsYGmEhnw561X_TzVYOVKEo-4Eo0EIjbg-a1p_xKJMBSXmb1yiWmwNxgWKjmlVkzTMCeuV_UQJ1Ky9QOXB6_yaPCbMlmEh3Dq9rmX1c0d4Y9hqmUslQ==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErsCvjqhspffyzwYv9Mg8DrxWiDhq97PDY4XDQOm5J9BzQ-peoBnBYFkmWbIMkZDaqKC3f16wVcRRXdlUHFSNV6vT_gdS3p_cANK3e-_KsS9V75WJv0qhRg20=)
+[4] [data.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzbftYr8-qF1OYqmN50Q-PU4tem6WtZObIiOshSX_DMo31RfHG_U7O7yUTX4w3fQzIyAxbR8fojjNtviq--TpBnFK0E-b0WPiTBB8y-FIGWn66iDhe6ZCJ_6z2p-ysLy8km89lnCg=)
+[5] [imweb.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPC1M1vPi4VUWpalg_gOAAb-C8Rojwn1-Wsb8uJAVZ9_ph07OVlUySG5YQBW28bZuyCQ4XPHHlykGFT-Nay7tUigi2GnHKfR4No2hCB2qRI7frYyEcIxN5NZGsPON-ClEyqQGyIT2bTyYU3ELkEiNbh2jelsKZUYY=)

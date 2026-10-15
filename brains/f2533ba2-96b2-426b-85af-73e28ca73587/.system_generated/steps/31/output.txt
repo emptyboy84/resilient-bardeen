@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Found command: "node -e \"\nconst fs = require('fs');\nconst ExcelJS = require('exceljs');\n\nasync function updateFactCheckedExcel() {\n  const filePath = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';\n  const backupSrc = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Deskto
+Found command: "node -e \"\nconst fs = require('fs');\nconst ExcelJS = require('exceljs');\n\nasync function updateFactCheckedExcel() {\n  const filePath = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';\n  const backupSrc = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Deskto
+Found command: "node -e \"\nconst fs = require('fs');\nconst ExcelJS = require('exceljs');\n\nasync function updateFactCheckedExcelWithZip() {\n  const filePath = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';\n  const backupSrc = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\
+Found command: "node -e \"\nconst fs = require('fs');\n\nconst files = ['bizno_filtered_result.tsv', 'bizno_filtered_result_nice.tsv', 'all_500_factchecked.tsv'];\nfiles.forEach(f => {\n  if (fs.existsSync(f)) {\n    const lines = fs.readFileSync(f, 'utf-8').split('\\n').filter(l => l.trim().length > 0);\n    cons
+

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+[Daum] Status: 200, Length: 159077
+   Snippet:  부산정보산업진흥원 사업자등록번호 &ndash; Daum 검색 본문 바로가기 메뉴 바로가기 부산정보산업진흥원 사업자등록번호 다음 검색 검색폼 입력삭제 선택된 항목 통합 통합웹 이미지 뉴스 동영상 사이트 어학사전 새창 지도 새창 더보기/접기 백과사전 새창 쇼핑 새창 책 멜론뮤직 새창 전체 기간 기간 전체 선택됨 1일 1주 1개월 6개월 1년 직접입력 옵션선택
+[Bing] Status: 200, Length: 212742
+   Snippet:  부산정보산업진흥원 사업자등록번호 - 검색 콘텐츠로 건너뛰기 접근성 피드백 English 마지막 한 단계 계속하려면 아래 과제 해결 =0?n.substring(i):"",r=i>=0?n.substring(0,i):n,u=r.indexOf("?"),f,o,t;return u===-1?n:(f=r.substring(0,u),o=r.substring(u+1),l
+[DuckDuckGo] Status: 200, Length: 31875
+   Snippet:  부산정보산업진흥원 사업자등록번호 at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark
+

@@ -1,0 +1,11 @@
+### Result
+{
+  "searched": "김혜진 보연"
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n    // search for Kim Hye-jin or 8990100125\n    // let\'s do search with 조건검색 or check pages\n    // actually, let\'s type 김혜진 in keyword search to see if she comes up\n    const input = document.querySelector(\'input.q-placeholder\');\n    input.focus();\n    input.value = \'김혜진 보연\';\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    \n    const searchBtn = document.querySelector(\'button.btn-main-search\');\n    if (searchBtn) searchBtn.click();\n    return { searched: \'김혜진 보연\' };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EA%B9%80%ED%98%9C%EC%A7%84+%EB%B3%B4%EC%97%B0
+- Page Title: '김혜진 보연' - 검색상세

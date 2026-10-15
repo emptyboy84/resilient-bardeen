@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Total red biz numbers in Excel: 150
+

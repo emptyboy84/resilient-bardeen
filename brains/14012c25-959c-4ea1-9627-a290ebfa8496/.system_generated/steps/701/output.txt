@@ -1,0 +1,14 @@
+The search for "site:incruit.com "메이브릿지"" returned the following summary:
+인크루트에 등록된 **(주)메이브릿지** 기업 정보 요약은 다음과 같습니다[1]:
+
+* **기업구분:** 중소기업[1]
+* **대표자:** 김현진[1]
+* **설립일:** 2023년 1월 31일[1]
+* **매출액:** 3억 3,494만 원 (2023년 기준)[1]
+* **사원수:** 2명 재직 중[1]
+* **자본금:** 1억 825만 원 (한국신용평가 제공)[1]
+
+채용 공고 및 상세 기업 정보는 [인크루트 메이브릿지 기업정보 페이지](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3hdgEKGyxJokFtE7BLGlfzZezscGmkc01HfQAbc2zE4qi_a6OMjAu4LX2dd-IDq_AaolhA3V2vwWzpDbRgIKek-NHIe4rIi20q51cSs_u4PfDzfXwzMH2Wy-HPv7nCIaVQ==)에서 확인하실 수 있습니다.
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT3hdgEKGyxJokFtE7BLGlfzZezscGmkc01HfQAbc2zE4qi_a6OMjAu4LX2dd-IDq_AaolhA3V2vwWzpDbRgIKek-NHIe4rIi20q51cSs_u4PfDzfXwzMH2Wy-HPv7nCIaVQ==)

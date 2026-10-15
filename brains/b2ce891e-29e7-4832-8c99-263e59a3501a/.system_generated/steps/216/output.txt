@@ -1,0 +1,16 @@
+The search for "site:dawnnine.com "황의윤" OR "010"" returned the following summary:
+디자인 쇼핑몰 및 인쇄·제작 업체 **'새벽9시'(www.dawnnine.com)**[1]와 관련된 사업자 정보 및 상품 내용입니다[2]:
+
+* **상호:** 윤여비디자인연구소[1]
+* **대표자/예금주:** 황의윤[1]
+* **주소:** 서울특별시 중구 마른내로4길 9-1[1]
+* **사업자등록번호:** 170-35-00150[1]
+* **통신판매업신고:** 제2018-서울중구-1844호[1]
+* **고객센터 이메일:** yunyeobe@naver.com[1]
+* **무통장 입금 계좌:** 경남은행 170-35-00150 (예금주: 황의윤/윤여비디자인)[3]
+* **참고사항:** '010' 키워드는 검색 결과 중 상품명(예: `D-Premier.010 VERDE`) 등에 포함되어 있습니다[2].
+
+Sources:
+[1] [dawnnine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFFJrWwwd169CDT_ySco2Kv-ATbqFKkOQb2sGvL60yIHcb7Z7OhppyOeRc7FDXcyqYHsD1wCQ_VfhIBHD1YmWNdLYw6qKTocxeMto=)
+[2] [dawnnine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDi5reFnXuX7h3IzNm6bVAxpFChgsIWCEgx_WN6ujUjHNBJ4I2g0Dtc8wxrL5gr7BGXJ3EYeSuBGX5shfWDElY5Y0z4Er1UwnSwAx3T5ibT18FWnfdsAIq56L6ar_lJCI=)
+[3] [dawnnine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8dCJQSb6JqrHcw_pv09vZmPJsiUUuhNPw5TuM8r1CSI4af8r59oPiD6ZcJt_SMevgPii3p3HpbnzHDF_6SpOvQyc0zgoAMvTzVcLZ35DDiKshl22KovYK7TXhEbndCwsyaM0Lc9hE)

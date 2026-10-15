@@ -1,0 +1,95 @@
+
+The command exited with code 0.
+Output:
+node -e "
+const fs = require('fs');
+const ExcelJS = require('exceljs');
+
+async function updateFactCheckedExcel() {
+  const filePath = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';
+  const backupSrc = 'C:\\\\Users\\\\lg\\\\Desktop\\\\오늘\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_11847_12346.xlsx';
+  
+  console.log('Reading fact-checked TSV...');
+  const tsvLines = fs.readFileSync('all_500_factchecked.tsv', 'utf-8').split('\n').filter(l => l.trim().length > 0);
+  
+  console.log('Loading workbook...');
+  const workbook = new ExcelJS.Workbook();
+  await workbook.xlsx.readFile(filePath);
+  const sheet = workbook.getWorksheet('기업 정보');
+  
+  const orangeFill = {
+    type: 'pattern',
+    pattern: 'solid',
+    fgColor: { argb: 'FFFFA500' } // Standard Orange
+  };
+  
+  let modifiedCellCount = 0;
+  
+  for (let i = 0; i < tsvLines.length; i++) {
+    const rowNum = 11847 + i;
+    const row = sheet.getRow(rowNum);
+    const p = tsvLines[i].split('\t');
+    
+    // p[0]: 담당자, p[1]: 상태, p[2]: 회사명, p[3]: 사업자번호, p[4]: 대표자, p[5]: 우편번호, p[6]: 주소, p[7]: 전화번호, p[8]: 팩스번호, p[9]: 홈페이지, p[10]: 이메일, p[11]: 종업원수, p[12]: 업종, p[13]: 법인번호, p[14]: 결산월, p[15]: 대, p[16]: 중, p[17]: 소
+    
+    const biznoClean = p[3] ? p[3].replace(/[^0-9]/g, '') : '';
+    const biznoUrl = biznoClean ? 'https://bizno.net/article/' + biznoClean : '';
+    
+    const newValues = {
+      1: p[0] || '배현명',
+      2: p[1] || null,
+      3: p[2] || null,
+      4: p[3] ? (biznoUrl ? { text: p[3], hyperlink: biznoUrl } : (isNaN(p[3]) ? p[3] : Number(p[3]))) : null,
+      5: p[4] || null,
+      6: p[5] ? (isNaN(p[5]) ? p[5] : Number(p[5])) : null,
+      7: p[6] || null,
+      8: p[7] || null,
+      9: p[8] || null,
+      10: p[9] || null,
+      11: p[10] || null,
+      15: p[11] ? (isNaN(p[11]) ? p[11] : Number(p[11])) : null,
+      18: p[12] || null,
+      25: p[13] || null,
+      31: p[14] || null,
+      48: p[15] || null,
+      49: p[16] || null,
+      50: p[17] || null
+    };
+    
+    for (const [colStr, newVal] of Object.entries(newValues)) {
+      const col = Number(colStr);
+      const origCell = row.getCell(col);
+      const origVal = origCell.value;
+      
+      const normOrig = origVal === null || origVal === undefined ? '' : String(typeof origVal === 'object' && origVal.text ? origVal.text : origVal).trim();
+      const normNew = newVal === null || newVal === undefined ? '' : String(typeof newVal === 'object' && newVal.text ? newVal.text : newVal).trim();
+      
+      origCell.value = newVal;
+      
+      // If cell is populated or modified from original, ensure orange fill
+      if (normNew !== '') {
+        origCell.fill = orangeFill;
+        modifiedCellCount++;
+      }
+    }
+    
+    row.commit();
+  }
+  
+  console.log('Total cells formatted & styled orange across 500 rows:', modifiedCellCount);
+  console.log('Writing file to temp...');
+  const tempPath = filePath + '.tmp';
+  await workbook.xlsx.writeFile(tempPath);
+  
+  console.log('Overwriting target file...');
+  if (fs.existsSync(filePath)) {
+    fs.unlinkSync(filePath);
+  }
+  fs.renameSync(tempPath, filePath);
+  
+  console.log('Fact check Excel save complete! File size:', fs.statSync(filePath).size);
+}
+
+updateFactCheckedExcel().catch(console.error);
+"
+

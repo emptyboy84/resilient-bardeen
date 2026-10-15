@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.114.co.kr');
+```
+### Page
+- Page URL: https://www.114.co.kr/main
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 49 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-26-29-569Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-26-26-674Z.log#L1-L146

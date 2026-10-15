@@ -1,0 +1,18 @@
+The search for ""부산" "영도구" "윤서하" OR "윤서하" "영도"" returned the following summary:
+검색하신 "부산", "영도구", "윤서하"와 관련된 정보는 다음과 같습니다.
+
+*   **인물 및 활동:** '윤서하'라는 이름을 가진 인물이 부산 영도구와 관련하여 언급된 사례들이 있습니다.
+    *   **사회 활동:** 부산광역시 영도구새마을회와 타 지역(장흥군) 새마을회의 교류 활동 관련 보도에서 '윤서하'라는 이름이 기재된 바 있습니다[1].
+    *   **행사 진행:** 영도 함지골 청소년수련관 등에서 열린 행사나 대학 MT 등에서 'MC 윤서하'가 활동한 영상 기록이 확인됩니다[2].
+    *   **기자 활동:** 과거 노동 문제와 관련한 기사에서 '윤서하 기자'의 이름이 언급된 적이 있습니다[3].
+*   **기타:** 이 외에도 웹소설이나 창작물(조아라, 제타 AI 등)의 캐릭터 이름으로 '윤서하'가 사용되기도 하며[4][5], 일부 도서나 웹진 등에서 동명이인의 이름이 나타나기도 합니다[6].
+
+찾으시는 정보가 특정 인물에 관한 것이라면, 위 내용 중 찾으시는 인물의 활동 분야(새마을회, 행사 진행, 기자 등)를 참고하시기 바랍니다.
+
+Sources:
+[1] [mediajn.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXNhI6G3G_DJUlSM8VkVXCOs4dVN21vHiw_4if_CWnAOU9-d38hRuHpMX-R1SGkFMQByuf2HGcyfqUmGAY7WenBd2c1_sV_R-ZCDSUpYLqa7ifgd2lqKIG9Bz-TxmK_DXpmQOLaVD5qNWXIP8SR6seOog=)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFhIP3xK0HmUaSfOI0G_iLTrvNEBmg23unkPGlgqXrnmPmjAnpT9X0wIXf18dtLKz-SeiW11HuLaDkyRorpOJLnY346MWOBxAOPez4YmMMaoltTneF4uP5UONgL7gDgsYa)
+[3] [ohmynews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYLXCf3BQDA2IB2hPFOC6CJRxw741p-MJZmRoXzbBXtG7rquukYXkh7cmgy4eXOTQ8D5ZPu02VmjXJDuYQXjQ7wGdrDAfpUf7tF3Q4QNveTdz0Tf1SXwzfmzsDlxrmCrlW7ElsdSNAnqqpCCPEAVqSqpP0EUbW5Joqpg==)
+[4] [joara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6FDn6-hrYIQhi6qdz6U7eQ8tPJVQnHzewUiln1CxlJqmWcw_xMP2sdqj6vzU1uSh2iWaHFPYW97SO3LbCjxN0apAfEO7Fbu2o-pF_D1s7U_BQJM1n3EmVOdsx9ftHkXgXXpQRr7FoKkzs5ZFiBFEZ7z4H4taZ7ZwOAU1sltPOcsWYqJsDX9O)
+[5] [zeta-ai.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhNwXvkIFlDTXLpo5kSeRh9uRVoOabfnZtkmHquagtcbV2Weo034qon8LdJusQQ6U-39TV5_4VC-lJVxUBkqwYb6QsmbBP4BE5xUvfLx0xfQtobDX_7kPT9smALbUHzAZj55SDqztGYgdju8mWMTVLiBV9D5xi2_paKna5PS4=)
+[6] [bookclubon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv5g5JVzmKMDTwDzYaxU4KtfxtBcs7_JljNYQrwuuvhBgJ8IGVGLpGeYQWMhcaQCZr8DrjkZa-hjawcOmJLRzg6hRx7r4bmuSJYzI0fBa94cp_aXqXNcGD868dti7Pt6GBWJUKftkk)

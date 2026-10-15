@@ -1,0 +1,16 @@
+The search for "티앤북스 "주식회사" OR "대표" 사업자등록번호" returned the following summary:
+'티앤북스(TEA&BOOKS)'는 전국의 각 지점이 개별 사업자(가맹점 또는 개인 사업장) 형태로 운영되는 경우가 많아, 모든 지점을 아우르는 하나의 '주식회사' 법인이나 대표자가 명확히 통합되어 있지 않을 수 있습니다[1][2][3].
+
+확인되는 주요 정보는 다음과 같습니다.
+
+*   **지점별 운영:** 티앤북스는 프랜차이즈 브랜드로, 하단점, 사직점 등 각 지점이 독립적인 사업자등록번호를 가지고 운영되는 경우가 많습니다[1][2][3]. 따라서 특정 지점의 정보가 필요하시다면 해당 지점의 사업자등록번호를 직접 확인하셔야 합니다.
+*   **통합 법인 정보:** 프랜차이즈 가맹본부와 관련된 정보가 일부 검색되기도 하지만, 일반적인 대형 프랜차이즈 본사와 달리 지점 단위의 정보가 주로 노출됩니다[4].
+*   **정보 확인 방법:** 특정 지점의 사업자번호나 대표자 성함이 필요하신 경우, 해당 매장의 영수증 하단이나 매장 내부에 게시된 사업자등록증을 확인하시는 것이 가장 정확합니다. 또한, 공정거래위원회 '가맹사업거래' 홈페이지에서 '티앤북스'를 검색하시면 가맹본부(정보공개서 등록 업체)에 대한 법인명과 대표자 정보를 확인하실 수 있습니다[4].
+
+찾으시는 특정 지점이 있다면 해당 지점의 지역명을 포함하여 다시 문의해 주시면 추가적인 확인을 도와드릴 수 있습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-dwOcSedhUJ5uod7PjGVzHNrP844r8rW-7E-IHWgWlNOuG8jojStKB4oOqVIZLCXU25HlvYUBeDUcT0VQQLNABPD-8pFtb0nBX1TajjvVFR_UIHkSvUbvQ-pMcO41_EZJjdYVUJ1ZEvkklOBKHxhvDqFdPQMg_-3GBPnftFyR7pLKVNonTt3acIo3i6uOazaNkZcOwroy25xgdIx0V273BnSleq0nkda2TQr7iYN019NmvZAdBmcz9bAhQZnLrbyex7ZdE6gfHVGzf-wAW2luoDgorMBE3Q1L6GdlIg==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-dwOcSedhUJ5uod7PjGVzHNrP844r8rW-7E-IHWgWlNOuG8jojStKB4oOqVIZLCXU25HlvYUBeDUcT0VQQLNABPD-8pFtb0nBX1TajjvVFR_UIHkSvUbvQ-pMcO41_EZJjdYVUJ1ZEvkklOBKHxhvDqFdPQMg_-3GBPnftFyR7pLKVNonTt3acIo3i6uOazaNkZcOwroy25xgdIx0V273BnSleq0nkda2TQr7iYN019NmvZAdBmcz9bAhQZnLrbyex7ZdE6gfHVGzf-wAW2luoDgorMBE3Q1L6GdlIg==)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZeIxTZuKJYistlyBagUBU3-UF3C6l6Mf5CGy7v9stIdTkWHwrSS_seqZmGCiAFvMLEmovFtFfdzP7gwROwl8EL42N0S7IDLlQcZE9qsbl0rLXl4acb3W7WXEAMgfPvw2zHtR-0Mamlb2KQvqMbtvm4cIT7tMhUXjXjqEwqRVSWi9KZBETSG196WXl1FWbFNOUVDDpjoNu5TgUYvywttYlFz69OlPodwi6hw==)
+[4] [hi-franchise.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2o64RSReKH4JK_kwoEcJLAVW5UJEwPZE2xDfDubQBB8sO_kfr3dSkwSzB6ySKoRUUzf8F8gr750qY80XDM2T4ooS8Dih_HdU-10qXZRrZBgxtbU1VoDWqoWIOLbVrkkI4qZS3MrtonCjGUx_fLfYtlJts42HUHTw6PhbJH5FSF0DjJTmz0n0FrxlMcTuGeUrold6pJjV8FJPmFNA=)

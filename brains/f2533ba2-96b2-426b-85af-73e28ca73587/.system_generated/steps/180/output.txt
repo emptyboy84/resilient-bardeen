@@ -1,0 +1,13 @@
+The search for ""화승코퍼레이션" "허성룡" "법인등록번호" OR "법인등기"" returned the following summary:
+(주)화승코퍼레이션의 기업 정보는 다음과 같습니다.
+
+*   **법인등록번호:** 184511-0001252[1][2]
+*   **대표자:** 허성룡, 현지호[1][3][4]
+
+참고로, 사업자등록번호는 **621-81-05780**입니다[1][2].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddx18iNgBmjtImPp-n-184aTAk1CvsgRM0NrgBiUlY06Hf-tJeYjeb_9GyfDyQel1LBbm8EUSa5EkqIUzjWVapCWaJR0F5aZvsRM7Kuq91S_mBje2zVffvg==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEddx18iNgBmjtImPp-n-184aTAk1CvsgRM0NrgBiUlY06Hf-tJeYjeb_9GyfDyQel1LBbm8EUSa5EkqIUzjWVapCWaJR0F5aZvsRM7Kuq91S_mBje2zVffvg==)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERvDcaR4v0ZjQLIvCoq94pMcSNmkLyhcXwuyhTeWxmjRjR6oAdDvBSxJsRsH-sIlB8OERdvwmrqwuz9b9OhCzqLSGJLefDUhsRByylbY2_EVlbBofynNgZ8p6QraL3oAqGf8w8PPC6MaKK8dWDf1XFGNCjPoBuqWcHTtGz3KLZiNPEyaxuRt1cRsg1ETsMtUpW7duadOzBsq9-4Y98NdkQpLh-yrJCxk4=)
+[4] [hscorp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptRWwCMsOU5RQhF1wqPMdggPf105pQfCsEbiTdZLCTbjCIv3mve8FIaq3pYlh7uhjEjW3LhoD5y7rNMzqZf3vfL8rL2qFp0xWPY4Ym5N8E7vWgUYVoNxaFv8F3fPAnDjnWHh5vC8452KYNGEb9iI_mZlYBDvQ18fqdxnX3R1WTNh5C4oZOil6-vytSA==)

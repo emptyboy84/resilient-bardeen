@@ -1,0 +1,15 @@
+The search for ""010-9999-0***" site:bizno.net" returned the following summary:
+기업 및 사업자 정보 조회 사이트 비즈노(BizNo)에서 전화번호가 **`010-9999-0***`** 형태로 검색되는 기업 정보의 대표적인 예시로는 다음과 같은 곳이 있습니다[1].
+
+* **기업명:** 주식회사 케이케이엘[1]
+* **대표자명:** 김세연[1]
+* **사업자등록번호:** 210-88-02563[1]
+* **소재지:** 경기도 시흥시 만해로 41, 제101동 제10층 제1006-11호 (정왕동)[2]
+* **업태/기업 형태:** 중소기업, 부가가치세 일반과세자 (영리법인 본점)[1]
+
+비즈노 정책상 개인정보 보호 및 도용 방지를 위해 **휴대폰 번호의 뒷자리 일부(`***`)는 마스킹 처리**되어 전체 번호가 노출되지 않도록 제공되고 있습니다[3][2]. 세부적인 기업 상세 정보나 다른 업체를 확인하시려면 비즈노(bizno.net) 검색창에서 직접 조회하실 수 있습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5FoalZywDxMEMhnGcsrAl9bnSUoyHY3VfH8ATelLQ8gmKBbO4wKTVkmKaspZv_JXHScb-_CmJ-DqDdLCYjMUPpsQbEl22LU02QL2QPjfH7n2tIjbVB8A1UQE=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5FoalZywDxMEMhnGcsrAl9bnSUoyHY3VfH8ATelLQ8gmKBbO4wKTVkmKaspZv_JXHScb-_CmJ-DqDdLCYjMUPpsQbEl22LU02QL2QPjfH7n2tIjbVB8A1UQE=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOc7rB-Bm5JwfTEUtp0Zc66JsjqKLwvRugx8xyvsP5iKTKZsSFfBsKFpMbT2ZQPLKDdx-KV7q7dSkt2npv7TyER9Cx0gGBnL6nMUhGOkDucGscUHNGpbjyD22_nrK7)

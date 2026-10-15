@@ -1,0 +1,18 @@
+The search for ""비솜" ("051-461" OR "051-46")" returned the following summary:
+검색하신 **"비솜"**과 부산 지역 번호 **"051-461"**(또는 051-46) 조합은 주로 **부산출입국·외국인청**의 대표적인 부서별 연락처 국번과 일치합니다[1]. 
+
+부산출입국·외국인청(부산광역시 중구 충장대로 22-1)의 주요 과 및 민원 부서 전화번호가 `051-461-XXXX` 형태로 시작됩니다[1][2]. 주요 부서별 번호는 다음과 같습니다:
+
+* **체류 관련 업무 (외국인 등록, 체류기간 연장 등):** `051-461-3162 ~ 5`[1]
+* **사증(비자) 발급인정서:** `051-461-3134, 3142`[1]
+* **국적 업무:** `051-461-3130 ~ 1`[1]
+* **민원 대표 및 안내:** `051-461-3126`[2]
+* **조사과 / 선박심사과 등 기타 부서:** `051-461-3046 ~` 대역 사용[1]
+
+또한, 부산 동구 등에 위치한 법인인 **비솜주식회사**(부산일보 관련 관계사 등) 정보[3][4]나 오타 입력(예: 출입국 관련 문의 등)일 가능성도 있습니다. 출입국 및 외국인 체류 관련 민원 확인을 위한 검색이셨다면 위 부산출입국·외국인청 연락처를 참고하시기 바랍니다[1].
+
+Sources:
+[1] [immigration.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMJpM1nb5IVo2KKTU6zYe5UllricY8qbC9Q9Gvc6q82cPzM0o9Q1SCLHzRqzeXToUsZYTHztv1n8HotFjguibr-zlGKyYYE1iUjLXL9b01Jwl_PkqseliZJU_lW5bvm-SRtS8DhD_QV93Zfk8Y6Q==)
+[2] [immigration.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlHXH2KmKrHqdEnnwoAQBfSiU-agLLECs2b4QHnHiYiBVWGeiI7B4ymVcLMljev0qWabPaT3cOiW6dC2gXQBDpGUkDl7jQX4P9-AZEUZWxZXKqJdI3unMyfTWDnKWl4Kundrou3Ux1h1puLuY7l4=)
+[3] [gongsinara.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ANtyqno3Y7ShzU9Eh8rxDe1EtCUyfXOGPEUw2cnuBZ1yOLf6CO8s8BI79MiHAbwv91qnlZc_qVFyHYaqcygrhljvJBTf_XDNtQ43qjmpfbZRUEwOEYBdRE9EOg==)
+[4] [lpk.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOBd83bFI4gnwPvGAHovLW6GslJ8kRRckwspbv9DSSPw0mCnPYKAbqD5v14ph7lN4NZaurOFVcwvEk-i0VsQoJRvGAQN95dGVPSX6xDTyH9oUeMPb9ClbIhmqFlfxQ_R3ldFS45A==)

@@ -1,0 +1,37 @@
+
+The command exited with code 0.
+Output:
+
+[19688:1015/091019.338:VERBOSE1:base\allocator\scheduler_loop_quarantine_config.cc:195] No entry found for browser/global.
+[19688:1015/091019.338:VERBOSE1:base\allocator\scheduler_loop_quarantine_config.cc:195] No entry found for browser/*.
+[2026-10-15T00:10:19.612Z] [INFO] [main] Electron Crashpad reporting initialized successfully (channel: prod, rateLimit: true, uploadToServer: false, crashDumps: %USERPROFILE%\AppData\Local\Google\Gemini\Crashpad)
+[19688:1015/091019.619:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\d46c2097-61f3-44d8-933b-7ce9fed305b2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.619:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fbef98db-00cf-4663-8c03-82784dc8fd4b: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fe814472-5e28-4a46-906a-747b52e286c9: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\4f3fcb55-3061-4f5a-897b-0b121e385336: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\c0010fa4-8e35-4269-8586-5fa422c0ea94: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\dcaed8d8-2783-4ef4-83ab-d574c504a78d: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\6d8c9fab-5ef3-42c9-b7ad-cd73f0472226: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.620:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\54bbff3f-7330-4b7b-afb8-e2fc32a6b19a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\befcaf18-d843-436b-8517-5c3c8e55dfcd: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\ad8697a8-138e-4e4b-bd1a-960d5ec842c2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\020b1a9a-73f0-40b9-b188-38abd63f0093: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\45dc4059-baed-4320-b03c-ace6e2cfbb4e: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\33994782-891b-4304-8850-2bd3d73b490a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.621:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\d46c2097-61f3-44d8-933b-7ce9fed305b2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fbef98db-00cf-4663-8c03-82784dc8fd4b: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\fe814472-5e28-4a46-906a-747b52e286c9: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\4f3fcb55-3061-4f5a-897b-0b121e385336: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\c0010fa4-8e35-4269-8586-5fa422c0ea94: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\dcaed8d8-2783-4ef4-83ab-d574c504a78d: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\6d8c9fab-5ef3-42c9-b7ad-cd73f0472226: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\54bbff3f-7330-4b7b-afb8-e2fc32a6b19a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\befcaf18-d843-436b-8517-5c3c8e55dfcd: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\ad8697a8-138e-4e4b-bd1a-960d5ec842c2: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\020b1a9a-73f0-40b9-b188-38abd63f0093: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\45dc4059-baed-4320-b03c-ace6e2cfbb4e: 지정된 파일을 찾을 수 없습니다. (0x2)
+[19688:1015/091019.622:ERROR:third_party\crashpad\crashpad\util\file\filesystem_win.cc:128] GetFileAttributes C:\Users\lg\AppData\Local\Google\Gemini\Crashpad\attachments\33994782-891b-4304-8850-2bd3d73b490a: 지정된 파일을 찾을 수 없습니다. (0x2)
+[2026-10-15T00:10:19.623Z] [INFO] [main] Starting Gemini v1.15.0 (channel: prod)
+[19688:1015/091019.663:FATAL:electron\shell\browser\win\install_dir_access.cc:52] Sandboxed processes cannot read C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0: its ACL has an entry for an AppContainer package SID but none for ALL APPLICATION PACKAGES, so Windows denies the sandbox token access. Grant it with: icacls "C:\Users\lg\AppData\Local\Google\Gemini\app-1.15.0" /grant *S-1-15-2-1:(OI)(CI)(RX)
+Process exited immediately with code: 
+

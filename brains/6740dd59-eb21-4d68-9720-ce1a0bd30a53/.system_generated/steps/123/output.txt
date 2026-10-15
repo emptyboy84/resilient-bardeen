@@ -1,0 +1,15 @@
+The search for ""교보문고 해운대" 사업자등록번호" returned the following summary:
+교보문고의 모든 매장은 별도의 사업자등록번호를 갖는 개별 사업장이 아니라 **주식회사 교보문고 본사의 사업자등록번호**를 함께 사용합니다.
+
+따라서 '교보문고 해운대'를 포함한 모든 교보문고 지점의 사업자등록번호는 다음과 같습니다.
+
+*   **사업자등록번호:** 102-81-11670[1][2]
+*   **상호명:** (주)교보문고[2][3]
+
+참고로, 부산 해운대 지역과 관련된 교보문고 지점으로는 **센텀시티점** 등이 있으며, 이 역시 동일한 법인 사업자 정보를 사용합니다[4][2].
+
+Sources:
+[1] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT1QdrRzdKBG_1PIrsGC0JKWW9deLtu0SX7NJE6vznAk-89L6lEnLhqx4rkkVcba7C7wNEz9CRevtymu9X9uSa3_f-XDNsm7g7koQsa9-bKJrDndkq9A==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHoKIhXR1d41eM8Kg6CR9ev8L7qNmTH_HiCMd7NwcFAtOIx58vLnxhGsl3w3Yys_D2aEAeK2C8I6mOqkvaCQZvuC6vlBYHj-44XFXdL9Zv_ndnuJMEk57bUBI=)
+[3] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2qqwXKriZsv3EYGmK9KWzDpfjUuzPzTgHidzejjH8HIIPVFWCtUEODnhNASIxpPXv4WyDi2IEElXKxH2Wq0RciKizH0kJRQFI8Wee3WRrIq-VpaQ-b3f0SAwGQITDkskmwMOQVroCsSQ-UKle3rRPlOYAV94=)
+[4] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbwVF5TngRb5pDaZL5nMV5-qYcp0AnNE1yYKyjJPJMsuxdMLhw-RNirsQjmlvS58rtyMyIw07zRE16qbTABqRnJfAUNUsH-DdwvEaGPoE2Yq6vveoSgK0f9Jswshe6ShV9peedCAQVXzfaettFOgne3wIjPsrchU6loUWuOJqE-dgP4egulTRDWEULPuX_6H6Z0Fl4EEFMz78ow8jPCa1pJKnIs4onPphn1NLUlXf-hrLoEo19lihvdvW9jlCqorFU4hfurjaOrKtI4eQ=)

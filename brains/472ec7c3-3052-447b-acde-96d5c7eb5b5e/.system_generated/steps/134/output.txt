@@ -1,0 +1,23 @@
+
+The command exited with code 1.
+Output:
+node:internal/errors:542
+      throw error;
+      ^
+
+RangeError [ERR_OUT_OF_RANGE]: The value of "position" is out of range. It must be an integer. Received NaN
+    at Object.readSync (node:fs:736:5)
+    at readFile ([eval]:13:6)
+    at [eval]:17:30
+    at runScriptInThisContext (node:internal/vm:219:10)
+    at node:internal/process/execution:451:12
+    at [eval]-wrapper:6:24
+    at runScriptInContext (node:internal/process/execution:449:60)
+    at evalFunction (node:internal/process/execution:283:30)
+    at evalTypeScript (node:internal/process/execution:295:3)
+    at node:internal/main/eval_string:71:3 {
+  code: 'ERR_OUT_OF_RANGE'
+}
+
+Node.js v24.11.1
+

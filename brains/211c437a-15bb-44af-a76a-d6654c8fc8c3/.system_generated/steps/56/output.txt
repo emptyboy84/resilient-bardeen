@@ -1,0 +1,198 @@
+
+Encountered error in step execution: context canceled
+Output:
+<truncated 80 lines>
+get_SubtreeHasLoadedChangeHandler
+02 20 00 00 10 00 28 1C 06 00 06 2A 
+set_SubtreeHasLoadedChangeHandler
+02 20 00 00 10 00 03 28 1E 06 00 06 2A 
+get_HasFefLoadedChangeHandler
+02 28 21 05 00 06 2D 02 16 2A 02 28 21 05 00 06 28 13 03 00 06 0A 06 2D 02 16 2A 06 02 28 15 06 00 06 28 19 09 00 06 0B 07 2D 02 16 2A 07 6F 88 06 00 06 2A 
+OnThemeChanged
+2A 
+OnInheritanceContextChangedCore
+7E 9E 06 00 04 02 6F 55 04 00 0A 0A 02 6F 71 03 00 0A 28 21 65 00 06 0B 06 07 2E 20 7E 9E 06 00 04 02 07 6F 5A 04 00 0A 06 2C 07 02 06 28 41 06 00 06 07 2C 07 02 07 28 40 06 00 06 2A 
+ChangeSubtreeHasLoadedChangedHandler
+12 00 03 28 E4 64 00 06 12 00 28 FC 64 00 06 0B 02 28 03 06 00 06 2C 0A 02 12 00 07 28 45 06 00 06 2A 02 12 00 07 28 46 06 00 06 2A 
+get_HasNumberSubstitutionChanged
+02 18 28 1B 06 00 06 2A 
+set_HasNumberSubstitutionChanged
+02 18 03 28 1D 06 00 06 2A 
+get_HasStyleChanged
+02 20 00 00 00 02 28 1C 06 00 06 2A 
+set_HasStyleChanged
+02 20 00 00 00 02 03 28 1E 06 00 06 2A 
+get_HasTemplateChanged
+02 20 00 00 00 04 28 1C 06 00 06 2A 
+set_HasTemplateChanged
+02 20 00 00 00 04 03 28 1E 06 00 06 2A 
+get_AncestorChangeInProgress
+02 20 00 00 08 00 28 1B 06 00 06 2A 
+set_AncestorChangeInProgress
+02 20 00 00 08 00 03 28 1D 06 00 06 2A 
+add_ResourcesChanged
+02 17 28 6E 06 00 06 02 7E 98 06 00 04 03 28 FB 05 00 06 2A 
+remove_ResourcesChanged
+02 7E 98 06 00 04 03 28 FC 05 00 06 2A 
+add_InheritedPropertyChanged
+02 17 28 6E 06 00 06 02 7E 99 06 00 04 03 28 FB 05 00 06 2A 
+remove_InheritedPropertyChanged
+02 7E 99 06 00 04 03 28 FC 05 00 06 2A 
+OnVisualAncestorChanged
+14 0A 14 0B 02 28 70 03 00 0A 12 00 12 01 28 4C 05 00 06 26 04 6F 93 04 00 0A 2D 36 06 2C 0E 04 6F 94 04 00 0A 06 28 95 04 00 0A 2D 4B 02 14 04 6F 94 04 00 0A 28 70 03 00 0A 28 14 03 00 06 02 14 04 6F 94 04 00 0A 28 70 03 00 0A 28 07 03 00 06 2A 06 2D 23 04 6F 93 04 00 0A 12 00 12 01 28 4C 05 00 06 26 06 2C 10 02 06 14 28 14 03 00 06 02 06 14 28 07 03 00 06 2A 
+ChangeLogicalParent
+02 28 06 03 00 0A 03 2C 06 03 6F 06 03 00 0A 02 7B 9B 06 00 04 2C 1C 03 2C 19 02 7B 9B 06 00 04 03 2E 10 72 A6 2C 00 70 28 50 0E 00 06 73 47 02 00 0A 7A 03 02 33 10 72 C8 2C 00 70 28 50 0E 00 06 73 47 02 00 0A 7A 02 28 1E 04 00 0A 03 2C 06 02 28 3E 06 00 06 02 03 75 C3 00 00 02 14 FE 03 28 08 06 00 06 02 7B 9B 06 00 04 0A 02 03 6F 30 06 00 06 02 06 03 28 14 03 00 06 03 2D 03 06 2B 01 03 0B 02 14 07 03 14 FE 03 28 65 0C 00 06 02 28 CD 05 00 06 2A 
+OnAncestorChangedInternal
+02 28 4E 04 00 0A 0A 0F 01 28 64 0C 00 06 02 2E 15 02 16 28 5B 06 00 06 02 16 28 5F 06 00 06 02 16 28 5D 06 00 06 0F 01 28 63 0C 00 06 2C 10 12 02 02 14 28 E6 64 00 06 12 02 28 14 65 00 06 02 28 FD 05 00 06 2C 0C 02 28 45 08 00 06 16 28 6D 0C 00 06 02 03 02 28 4E 04 00 0A 06 28 32 06 00 06 0B 0F 01 28 60 0C 00 06 07 6F 4F 04 00 0A 02 6F 52 05 00 06 02 28 6D 06 00 06 2C 10 02 7E 98 06 00 04 7E 45 03 00 0A 28 E0 05 00 06 2A 
+get_ThisHasLoadedChangeEventHandler
+02 28 F7 04 00 0A 2C 26 02 28 F7 04 00 0A 7E 81 06 00 04 6F 53 04 00 0A 2D 12 02 28 F7 04 00 0A 7E 82 06 00 04 6F 53 04 00 0A 2C 02 17 2A 02 28 01 05 00 06 2C 0F 02 28 01 05 00 06 6F EE 08 00 06 2C 02 17 2A 02 28 0D 05 00 06 2C 0F 02 28 0D 05 00 06 6F EE 08 00 06 2C 02 17 2A 02 6F 10 05 00 06 2C 0F 02 6F 10 05 00 06 6F 09 07 00 06 2C 02 17 2A 02 28 34 06 00 06 2C 02 17 2A 16 2A 
+RaiseInheritedPropertyChangedEvent
+02 28 F7 04 00 0A 0A 06 2C 23 06 7E 99 06 00 04 6F 44 04 00 0A 0B 07 2C 14 03 73 52 65 00 06 0C 07 74 EC 05 00 02 02 08 6F 55 65 00 06 2A 
+add_PreviewMouseLeftButtonDown
+02 7E C1 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewMouseLeftButtonDown
+02 7E C1 05 00 04 03 28 7D 07 00 06 2A 
+OnPreviewMouseLeftButtonDown
+2A 
+add_MouseLeftButtonDown
+02 7E C2 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_MouseLeftButtonDown
+02 7E C2 05 00 04 03 28 7D 07 00 06 2A 
+OnMouseLeftButtonDown
+2A 
+add_PreviewMouseLeftButtonUp
+02 7E C3 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewMouseLeftButtonUp
+02 7E C3 05 00 04 03 28 7D 07 00 06 2A 
+OnPreviewMouseLeftButtonUp
+2A 
+add_MouseLeftButtonUp
+02 7E C4 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_MouseLeftButtonUp
+02 7E C4 05 00 04 03 28 7D 07 00 06 2A 
+OnMouseLeftButtonUp
+2A 
+add_PreviewMouseRightButtonDown
+02 7E C5 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewMouseRightButtonDown
+02 7E C5 05 00 04 03 28 7D 07 00 06 2A 
+OnPreviewMouseRightButtonDown
+2A 
+add_MouseRightButtonDown
+02 7E C6 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_MouseRightButtonDown
+02 7E C6 05 00 04 03 28 7D 07 00 06 2A 
+OnMouseRightButtonDown
+2A 
+add_PreviewMouseRightButtonUp
+02 7E C7 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewMouseRightButtonUp
+02 7E C7 05 00 04 03 28 7D 07 00 06 2A 
+OnPreviewMouseRightButtonUp
+2A 
+add_MouseRightButtonUp
+02 7E C8 05 00 04 03 16 28 7B 07 00 06 2A 
+remove_MouseRightButtonUp
+02 7E C8 05 00 04 03 28 7D 07 00 06 2A 
+OnMouseRightButtonUp
+2A 
+add_StylusButtonDown
+02 7E F2 0A 00 04 03 16 28 7B 07 00 06 2A 
+remove_StylusButtonDown
+02 7E F2 0A 00 04 03 28 7D 07 00 06 2A 
+OnStylusButtonDown
+2A 
+add_StylusButtonUp
+02 7E F3 0A 00 04 03 16 28 7B 07 00 06 2A 
+remove_StylusButtonUp
+02 7E F3 0A 00 04 03 28 7D 07 00 06 2A 
+OnStylusButtonUp
+2A 
+add_PreviewStylusButtonDown
+02 7E F4 0A 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewStylusButtonDown
+02 7E F4 0A 00 04 03 28 7D 07 00 06 2A 
+OnPreviewStylusButtonDown
+2A 
+add_PreviewStylusButtonUp
+02 7E F5 0A 00 04 03 16 28 7B 07 00 06 2A 
+remove_PreviewStylusButtonUp
+02 7E F5 0A 00 04 03 28 7D 07 00 06 2A 
+OnPreviewStylusButtonUp
+2A 
+add_IsMouseDirectlyOverChanged
+02 7E 0A 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsMouseDirectlyOverChanged
+02 7E 0A 06 00 04 03 28 80 07 00 06 2A 
+OnIsMouseDirectlyOverChanged
+2A 
+add_IsKeyboardFocusWithinChanged
+02 7E 11 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsKeyboardFocusWithinChanged
+02 7E 11 06 00 04 03 28 80 07 00 06 2A 
+OnIsKeyboardFocusWithinChanged
+2A 
+RaiseIsKeyboardFocusWithinChanged
+02 03 6F BF 08 00 06 02 7E 11 06 00 04 03 28 AB 09 00 06 2A 
+add_IsMouseCapturedChanged
+02 7E 14 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsMouseCapturedChanged
+02 7E 14 06 00 04 03 28 80 07 00 06 2A 
+OnIsMouseCapturedChanged
+2A 
+add_IsMouseCaptureWithinChanged
+02 7E 17 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsMouseCaptureWithinChanged
+02 7E 17 06 00 04 03 28 80 07 00 06 2A 
+OnIsMouseCaptureWithinChanged
+2A 
+RaiseIsMouseCaptureWithinChanged
+02 03 6F C8 08 00 06 02 7E 17 06 00 04 03 28 AB 09 00 06 2A 
+add_IsStylusDirectlyOverChanged
+02 7E 1A 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsStylusDirectlyOverChanged
+02 7E 1A 06 00 04 03 28 80 07 00 06 2A 
+OnIsStylusDirectlyOverChanged
+2A 
+add_IsStylusCapturedChanged
+02 7E 1D 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsStylusCapturedChanged
+02 7E 1D 06 00 04 03 28 80 07 00 06 2A 
+OnIsStylusCapturedChanged
+2A 
+add_IsStylusCaptureWithinChanged
+02 7E 20 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsStylusCaptureWithinChanged
+02 7E 20 06 00 04 03 28 80 07 00 06 2A 
+OnIsStylusCaptureWithinChanged
+2A 
+RaiseIsStylusCaptureWithinChanged
+02 03 6F D6 08 00 06 02 7E 20 06 00 04 03 28 AB 09 00 06 2A 
+add_IsKeyboardFocusedChanged
+02 7E 23 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsKeyboardFocusedChanged
+02 7E 23 06 00 04 03 28 80 07 00 06 2A 
+OnIsKeyboardFocusedChanged
+2A 
+OnChildDesiredSizeChanged
+02 28 EA 08 00 06 2C 06 02 28 EC 08 00 06 2A 
+OnVisualAncestorChanged
+03 75 BF 01 00 02 0A 06 2C 07 06 04 28 69 0C 00 06 2A 
+add_IsEnabledChanged
+02 7E 40 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsEnabledChanged
+02 7E 40 06 00 04 03 28 80 07 00 06 2A 
+add_IsHitTestVisibleChanged
+02 7E 42 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsHitTestVisibleChanged
+02 7E 42 06 00 04 03 28 80 07 00 06 2A 
+add_IsVisibleChanged
+02 7E 46 06 00 04 03 28 7F 07 00 06 2A 
+remove_IsVisibleChanged
+02 7E 46 06 00 04 03 28 80 07 00 06 2A 
+add_FocusableChanged
+02 7E 48 06 00 04 03 28 7F 07 00 06 2A 
+remove_FocusableChanged
+02 7E 48 06 00 04 03 28 80 07 00 06 2A 
+BitmapEffectEmulationChanged
+7E 87 14 00 04 02 6F D7 0A 00 0A 0B 07 2C 08 07 6F 27 47 00 06 2B 01 14 0A 07 2C 08 07 6F 29 47 00 06 2B 01 14 0C 06 2D 16 02 14 28 26 2D 00 06 02 14 28 28 2D 00 06 02 14 

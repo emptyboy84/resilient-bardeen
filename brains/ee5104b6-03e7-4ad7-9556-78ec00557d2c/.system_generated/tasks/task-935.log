@@ -1,0 +1,10 @@
+Row 12216 before in Excel: 디에스케미칼 5481701760
+Error: EBUSY: resource busy or locked, unlink 'C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_개인법인번호정제완료.xlsx'
+    at Object.unlinkSync (node:fs:1942:11)
+    at updateDSC ([eval]:36:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5) {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'unlink',
+  path: 'C:\\Users\\lg\\Desktop\\오늘\\(데이터검증팀)실사 DB 취합_전달용_260720_개인법인번호정제완료.xlsx'
+}

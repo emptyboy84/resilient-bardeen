@@ -1,0 +1,18 @@
+The search for "site:allthatcompany.com "바른중량"" returned the following summary:
+'allthatcompany.com' 사이트에서 검색된 **(주)바른중량**에 관한 정보는 다음과 같습니다.
+
+*   **기업 개요**: 충청남도 천안시 서북구 직산읍 미륵산길에 소재한 기업으로, 주요 업종은 기계설비공사(배관 및 냉·난방 공사업)입니다[1][2][3].
+*   **사이트 성격**: 'allthatcompany.com'은 공공데이터를 기반으로 기업의 연봉 정보, 직원 수, 입·퇴사자 추이 등의 기업 정보를 제공하는 사이트입니다[4][5][6]. 
+*   **참고 사항**: 해당 사이트에 기재된 급여 및 연봉 정보는 국민연금 고지금액 등을 바탕으로 추정한 금액이므로 실제 지급 급여와는 차이가 있을 수 있습니다[4][5]. 정보 노출을 원치 않는 기업의 경우 해당 사이트에서 삭제 요청이 가능합니다[2][4].
+
+(주)바른중량에 대한 상세한 기업 정보(매출액, 재무평가, 채용 정보 등)는 캐치(CATCH), 산군(건설DB) 등 다양한 취업 및 기업 정보 플랫폼에서도 추가로 확인할 수 있습니다[7][3][8].
+
+Sources:
+[1] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYrujK30DfhI__VaUkJsOgjFmDQEflwd0zj_Tmk6txWqCaZKdQJToqasy-PM1Y-yo36JHI684aQkn_ooe8zStEAY5VOY2EmN4ftqol5VXz9CYuBNVSyRoAEanuI8BXA0h5NG_HJ_uypFNH2w==)
+[2] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwtxn0GHZvaFLPX-QkBfG3oPNehYfwdtJr0u-C7eUJMQPvmwBGQH5X_eQTfBxEbp2N70PMZ6XRso6RO-X_NPVwknVE_bb0IMBJhqW9D56eIL0Nfn6ZQs20t__uNwJPYLyicVSVjcC_ZUZHrg==)
+[3] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB6IMlv0Jk8oZd19159cRI8o-2KACM9Pj4rjK3ifN7Z4njwzVVoYL-gYi9MZZPZMdhVojIFJdj4sOuCEgc-Hkg-YUIEDMzx5ZRzavgpcplVSSuy3Ay3vqpMRCdGSDIBfqt2ppCWevRxWv5ecuY9NLZ)
+[4] [allthatcompany.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKTXm1eSCEf27AfMOIMGaYtT6R67zHIKykCDT3kcus478C0AK8ntiWDsQb2QDYxfloN-Wo-RyCys_ESg45nPEtKF-HEZ_jAB6zKV_YSLNpwbMtAeH06ruT488=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7yOnhX9hjY8ReMtIGlPPE0pvCwaQrSNDa6MPhPKIpcJK743nmpJowRdSPa0Ico-c7PdPdq4TDKv_Riwu6sKo1x2lzTVyx3ZaMStmi-CuYIcCQmmY8HuC48gTK8WhyeBH54RQgUEJKWLBIaVfjtoL3YaoiUV31az6XzEW63MqyJpjNh339v0WishAWqUZ3hSexMU2DJSusRr8Wnnt9hJT_GV014VWK6x63XSppAjJe--8KJ3zUL01ZR7Ftw4A=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuA23y0K_d_Pa7er4POCGXsbGXTs6u3W9IAlc3yTMEOSYMvvNewBoM8hGZK7AZCMzht2Vx8rIcDAMIBWJ1l0_IjJUN52NS0v9WZl32W1_Q-uhMHOG34TLHnQ==)
+[7] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdg-zOe4yor5qw_kJY4JgIv_cuhdkJe58cKeTr0ioXxxiD2rsPniaqkKPHcNl_C40Z385_3UjwVZdGbB6karxZ9seOW1MuhmZiVmagzRSvQNTZh3Knf7j_cz7AKJEvW_OxcaUT8w==)
+[8] [catch.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQR2EsK-F6l4sTflf25eQBIc5AK5hYBfEQgBZKEBNqJ-EnL6H2rK-wXMrJyuVaynOpgFeMfeGbfjGr-2Ijg_6Js1B_6u1N_u9QAeclUnyPj1xhPsVogeJqaz2EOxXBNQU9SA==)

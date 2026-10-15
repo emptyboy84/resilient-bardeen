@@ -1,0 +1,22 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-275
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-275.log
+Log output:
+<truncated 3 lines>
+znoMasked: 010-5757-9*** | Saramin: 010-5757-9542
+[60] 아타드(주) | BiznoMasked: 010-4000-1*** | Saramin: -
+[78] (주)에이엠매니지먼트 | BiznoMasked: 010-3789-0*** | Saramin: -
+[96] (주)아라더엠 | BiznoMasked: - | Saramin: 051-987-8000
+[128] (주)글로픽스 | BiznoMasked: 010-9484-5*** | Saramin: -
+[152] 세연소프트(주) | BiznoMasked: 010-7132-1*** | Saramin: -
+[153] (주)레오인베스트먼트 | BiznoMasked: - | Saramin: 051-924-7887
+[167] 세종디엑스(주) | BiznoMasked: 010-9114-6*** | Saramin: 1555-0066
+[174] (주)씨플레이 | BiznoMasked: 010-9194-9*** | Saramin: -
+[184] (주)보보스유 | BiznoMasked: 010-9999-0*** | Saramin: -
+[185] (주)에이비엠랩 | BiznoMasked: 010-2727-8*** | Saramin: -
+[192] (주)써니사이드업 | BiznoMasked: 010-7189-7*** | Saramin: -
+[200] (주)아이쿠카 | BiznoMasked: 010-3219-4*** | Saramin: -
+[229] (주)태성 | BiznoMasked: - | Saramin: 051-241-7210
+[242] 썬소프트 | BiznoMasked: - | Saramin: 051-528-1513
+
+Last progress: 3s ago

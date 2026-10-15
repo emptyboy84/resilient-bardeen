@@ -1,0 +1,12 @@
+The search for "site:ssg.com "214249" OR site:ssg.com "주식회사지알비" OR site:ssg.com "지알비" "771-81-00829"" returned the following summary:
+SSG.COM 내 검색 결과에 따르면, **'주식회사지알비'**는 SSG닷컴에 입점하여 언더웨어, 미용소품, 스킨케어, 생활잡화 등의 상품을 판매하고 있는 위탁 판매 스토어입니다[1][2][3][4]. 
+
+검색하신 키워드 중 일부 사업자 정보 관련 데이터(예: 사업자등록번호 `771-81-00829` 등)는 외부 기업 정보 플랫폼에서 '주식회사 지알비'의 등록 번호 등으로 확인되나[5], SSG.COM 플랫폼 내 공식 판매자 페이지 및 상세 정보에서는 입점 협력사로서 등록되어 다양한 생활·뷰티 상품(니플패치, 밀대, 모델링팩 등)을 선보이고 있습니다[1][2][6].
+
+Sources:
+[1] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHke53bdPof_pf3uIwPraz--S4cqh4BC5buV9A6Cvq5nFtl3EhejGpUFAp5KvheZy1RTUDUysKWESwJHD3rN60Nf79qY7-B2IIXJ3bH8I8t-YRmoYmktevUhdaLOJE=)
+[2] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhDJepD3iZIjv9euT4i3WMMgZhy8bNwXiN3UGoqe20LY7PjhF0fcY3WoQnQOvcdb9_szAgcrBsb93jm6g71SxELGidLwi8LccTLvSgeD38Rvc09FhfxudWDa5-ld4k8I5x1jwau2yy5B1sZIj2MaPpb3SpZUqN5A==)
+[3] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyh_5C3LrPYDX1zsf8iiHn9tGtP7ZY2xHvVoFZR-DScXLjjbOHHK2jx3LD_EYKMWo5VILfbWtvNIxmRO6m0TJ9hKoL4bWfVt8k7uliFKinXEe5aaGuh_eZxhbScgU=)
+[4] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvjf_Sfp6kzQ5FuewhyvXMFYmMFlwkoXx_z1W-dW7SirHWZa6naNys2IY4o0szk9rC8uXUY8YYau-nvTyGB7qaR8tLEyNsIuPnwCIrLGEac7T9SEBVdXMRQg6a4Jsil6UoSeaZ5MDdI12DAWAuftV03v0QvhIgP9qp41568VUUvbUsiuepP2pQs1CQKMX0r2mSlHvYlfYtPFxvQdY1IdNRcGFk5_LKPA==)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwLSOAKzdHZpGF4ZoEjFP6FjNn-JdA9bG57cFT89bc2h3TYD_rkIwpBr9GDw9aPNql97y1mhNiyVg0VlJ6F1psj_U3BB520XMXSXEyMNnuyBiOrRong0wKx_-9P3m0Z4oGsQ==)
+[6] [ssg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaRNZDi5r5jsLS8HwP_4PMwEcaJ6DuJuZjzfMxhjwjk7mgmj0EGiAlhCsC_KuQbOkdHAauyI_qtYGibH6l73Vc1Jxe9IXyVQ8de_noA_rBaJQeCquNzGVmWynjzQx3Yyag9mdb6GEXleoBhqyNF1k4vhlODr-mYhgNmkA-uTGbcEuv3HzNrao5cjW2C-TifA==)

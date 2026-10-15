@@ -1,0 +1,102 @@
+
+The command exited with code 0.
+Output:
+Row 19201 in backup: [
+  {
+    "col": 1,
+    "val": null
+  },
+  {
+    "col": 2,
+    "val": null
+  },
+  {
+    "col": 3,
+    "val": "한울기업"
+  },
+  {
+    "col": 4,
+    "val": 7601400870
+  },
+  {
+    "col": 5,
+    "val": "이동진"
+  },
+  {
+    "col": 6,
+    "val": null
+  },
+  {
+    "col": 7,
+    "val": "경남 김해시 진례면 고모로526번길 42-5 (고모리)"
+  },
+  {
+    "col": 8,
+    "val": "055-312-0061"
+  },
+  {
+    "col": 9,
+    "val": "0507-351-9001"
+  },
+  {
+    "col": 10,
+    "val": null
+  },
+  {
+    "col": 11,
+    "val": "-"
+  },
+  {
+    "col": 12,
+    "val": null
+  },
+  {
+    "col": 13,
+    "val": "20190410"
+  },
+  {
+    "col": 14,
+    "val": null
+  },
+  {
+    "col": 15,
+    "val": null
+  },
+  {
+    "col": 16,
+    "val": null
+  },
+  {
+    "col": 17,
+    "val": null
+  },
+  {
+    "col": 18,
+    "val": "기타 섬유, 의복 및 가죽 가공 기계 제조업"
+  },
+  {
+    "col": 19,
+    "val": null
+  },
+  {
+    "col": 20,
+    "val": null
+  },
+  {
+    "col": 21,
+    "val": null
+  },
+  {
+    "col": 22,
+    "val": null
+  },
+  {
+    "col": 23,
+    "val": null
+  },
+  {
+    "col": 24,
+    "val": "7601400870"
+  }
+]
+

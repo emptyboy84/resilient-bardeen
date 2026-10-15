@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+Name   : C
+Used   : 206095446016
+Free   : 32015187968
+FreeGB : 29.82
+UsedGB : 191.94
+
+
+
+

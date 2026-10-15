@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+70000A58: Set_TouchPadMode
+70000A7A: rkOSDMouseInfo.GetValue(Touchpad) success
+70000ACE: SYSTEM\CurrentControlSet\Services\mouhid\Enum\
+70000B2C: Count
+70000B38: switch (
+70000B4A: ) ex : 
+70000B78: Fire_TouchPadChanged : PostMessage : 
+

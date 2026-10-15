@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+
+Audit complete: 151 valid matches preserved, 0 false positives pruned.
+

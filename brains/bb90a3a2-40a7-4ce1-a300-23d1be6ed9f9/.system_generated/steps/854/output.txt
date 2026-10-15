@@ -1,0 +1,27 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-852
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-852.log
+Log output:
+Testing Daum Search on 30 sample targets...
+[MISS] Seq 14 (주)쉐어트리츠
+[MISS] Seq 42 (주)에스오더
+[MISS] Seq 47 (주)스튜디오정글
+[MISS] Seq 60 아타드(주)
+[MISS] Seq 65 오엠엔터프라이즈
+[MISS] Seq 66 (주)저스티스어드벤처
+[MISS] Seq 78 (주)에이엠매니지먼트
+[MISS] Seq 87 (주)썬더게임즈
+[MISS] Seq 109 (주)아크리아스튜디오
+[MISS] Seq 121 비솜(주)
+[MISS] Seq 128 (주)글로픽스
+[MISS] Seq 147 (주)오앤비스페이스
+[MISS] Seq 148 (주)제리굿컴퍼니
+[MISS] Seq 150 (주)지알비
+[MISS] Seq 152 세연소프트(주)
+[MISS] Seq 157 (주)링크빈
+[MISS] Seq 174 (주)씨플레이
+[MISS] Seq 184 (주)보보스유
+[MISS] Seq 185 (주)에이비엠랩
+[MISS] Seq 191 (주)더블유에스컴퍼니
+
+Last progress: 0s ago

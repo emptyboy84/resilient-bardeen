@@ -1,0 +1,3 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\validate_corp_reg_number\\merged_500_perfect.tsv","LineNumber":442,"LineContent":"배현명\t\t(주)모노플로우\t5558802700\t이기문\t54870\t전북특별자치도 전주시 덕진구 기린대로 886 (우)54849\t02-6956-8056\t\t\tflzlahd@naver.com\t1\t응용 소프트웨어 개발 및 공급업\t110111-8382593\t12월(추정)\t정보통신업\t출판업\t소프트웨어 개발 및 공급업"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\validate_corp_reg_number\\bae_validation_report.json","LineNumber":7482,"LineContent":"      \"corpNo\": \"110111-8382593\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\validate_corp_reg_number\\bae_validation_report.json","LineNumber":25124,"LineContent":"      \"corpNo\": \"110111-8382593\","}

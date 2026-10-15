@@ -1,0 +1,9 @@
+### Result
+undefined
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const form = document.querySelector(\'#bizSearchForm\');\n  form.querySelector(\'#searchCnd\').value = \'BZMNNM\';\n  form.querySelector(\'#searchKrwd\').value = \'희웹툰\';\n  form.submit();\n}');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/www/selectBizCommList.do?key=253&token=618DE498-4FB0-CBAC-1598-F8C02F8D39082020C1C9238728F5F919147026F720D0
+- Page Title: Loading https://www.ftc.go.kr/www/selectBizCommList.do

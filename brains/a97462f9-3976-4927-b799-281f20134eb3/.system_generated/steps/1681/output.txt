@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+Found at Line 1054
+  Col 0 (﻿구분): 25년 모집단
+  Col 1 (기존행번호): 1048
+  Col 2 (사업체명): 희웹툰
+  Col 4 (설립연도(연도)): 2021
+  Col 7 (연락처): 010-8074-7622
+  Col 11 (업종분류): 만화
+

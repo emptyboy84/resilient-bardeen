@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%82%A4%EB%85%B9%EC%8A%A4');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%ED%82%A4%EB%85%B9%EC%8A%A4
+- Page Title: '키녹스' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T03-19-16-782Z.yml)

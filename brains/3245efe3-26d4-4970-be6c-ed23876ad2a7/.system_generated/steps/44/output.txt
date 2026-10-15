@@ -1,0 +1,27 @@
+
+The command exited with code 0.
+Output:
+.gitignore 2026-09-02T03:44:20.428Z FILE
+AGENTS.md 2026-09-21T00:02:53.009Z FILE
+all_500_factchecked.tsv 2026-09-01T00:32:39.187Z FILE
+all_500_verified.tsv 2026-08-31T23:55:32.426Z FILE
+article_test.html 2026-08-31T01:05:18.050Z FILE
+bizno_filtered_result.csv 2026-08-31T01:17:41.820Z FILE
+bizno_filtered_result.tsv 2026-08-31T01:43:20.866Z FILE
+bizno_filtered_result_nice.csv 2026-08-31T01:43:20.877Z FILE
+bizno_filtered_result_nice.tsv 2026-08-31T01:43:20.876Z FILE
+bizno_test.html 2026-08-31T01:05:08.888Z FILE
+brain_logs 2026-09-02T03:49:08.043Z DIR
+current_pasted_batch.tsv 2026-09-03T23:56:02.708Z FILE
+data 2026-09-30T02:30:35.309Z DIR
+merged_500_perfect.tsv 2026-09-07T00:22:00.331Z FILE
+package-lock.json 2026-08-31T01:42:10.546Z FILE
+package.json 2026-08-31T01:42:10.492Z FILE
+query_test.html 2026-08-31T01:05:18.407Z FILE
+rows_11847_12000_16col.tsv 2026-08-31T03:21:30.542Z FILE
+rows_11847_12000_17col.tsv 2026-08-31T03:21:30.543Z FILE
+rows_11847_12000_verified.tsv 2026-08-31T03:21:22.044Z FILE
+user_pasted_rows.tsv 2026-09-01T03:35:51.354Z FILE
+법인등록번호_추적_및_검증_가이드_110111-8382593.md 2026-09-08T00:18:43.901Z FILE
+법인등록번호_추적_및_검증_가이드_110111-8382593.pdf 2026-09-08T00:18:27.853Z FILE
+

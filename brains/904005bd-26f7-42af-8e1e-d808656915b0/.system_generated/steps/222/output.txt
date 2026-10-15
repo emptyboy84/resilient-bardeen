@@ -1,0 +1,12 @@
+The search for "site:instagram.com OR site:youtube.com "블루레코딩"" returned the following summary:
+"블루레코딩"에 대한 검색 결과는 다음과 같습니다.
+
+현재 입력하신 검색어 "블루레코딩"으로 직접 연결되는 인스타그램 또는 유튜브 채널/게시물은 확인되지 않았습니다.
+
+다만, 유튜브에서 **"유앤미 블루(U & ME Blue)"**와 관련하여 레코딩 정보가 포함된 영상들이 검색되었습니다. 해당 영상들은 유앤미 블루 1집 앨범의 레코딩 엔지니어 및 스튜디오 정보(Song's Studio 등)를 상세히 설명하고 있습니다[1][2].
+
+혹시 찾으시는 대상이 특정 스튜디오나 다른 이름의 업체라면, 정확한 명칭을 다시 확인해 주시기 바랍니다.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGty_LLg0EennLHa_YT6APIfF6VfUKj2roOhkbBNmFYOfBxa7wqbKVyk17FD_6fDWVDbc-IhdhwaSCN-YwIMEeYmA-DRpLP9omqPp0S0FhK2SlEUt5dla6wdytSP6tFpi7n)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbU87kaybS1msBsxS8p4jCsxQT77Z5ksSpHdLnBsbNwIVQjlFnmiLEk4vqqcYh8RgjS8GAKBLZJ5-2no1DDsGUuQlIIicKcbanUh_Exq81YMB63_rGLypL3d_8hVEukFAt)

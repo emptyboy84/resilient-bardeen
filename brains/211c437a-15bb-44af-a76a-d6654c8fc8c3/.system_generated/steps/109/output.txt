@@ -1,0 +1,99 @@
+
+The command exited with code 0.
+Output:
+OnTouchpadChanged IL:
+0000: 02 
+0001: 7B [0x04000118] (LGCCMainWnd.m_LGDevicectrl) 
+0006: 02 
+0007: 7B [0x040000EA] (LGCCMainWnd.TouchpadModule) 
+000C: 7B [0x0A0001BC] (TouchpadModule.nCurrentSelection) 
+0011: 6F [0x0A000271] (LGDeviceController.Set_TouchPadMode) 
+0016: 26 
+0017: 02 
+0018: 7B [0x04000118] (LGCCMainWnd.m_LGDevicectrl) 
+001D: 6F [0x0A0000D8] (LGDeviceController.Get_TouchPadMode) 
+0022: 0A 
+0023: 06 
+0024: 18 
+0025: 3E 
+0026: 85 
+0027: 00 
+0028: 00 
+0029: 00 
+002A: 06 
+002B: 1E 
+002C: 59 
+002D: 45 
+002E: 04 
+002F: 00 
+0030: 00 
+0031: 00 
+0032: 01 
+0033: 00 
+0034: 00 
+0035: 00 
+0036: 1C 
+0037: 00 
+0038: 00 
+0039: 00 
+003A: 37 
+003B: 00 
+003C: 00 
+003D: 00 
+003E: 52 
+003F: 00 
+0040: 00 
+0041: 00 
+0042: 2A 
+0043: 02 
+0044: 7B [0x040000EA] (LGCCMainWnd.TouchpadModule) 
+0049: 16 
+004A: 7D [0x0A0001BC] (TouchpadModule.nCurrentSelection) 
+004F: 02 
+0050: 7B [0x040000E4] (LGCCMainWnd.DeviceSettingCategory) 
+0055: 1C 
+0056: 16 
+0057: 6F [0x0A000272] (DeviceSettingCategory.SetHardwareIconStatus) 
+005C: 26 
+005D: 2A 
+005E: 02 
+005F: 7B [0x040000EA] (LGCCMainWnd.TouchpadModule) 
+0064: 17 
+0065: 7D [0x0A0001BC] (TouchpadModule.nCurrentSelection) 
+006A: 02 
+006B: 7B [0x040000E4] (LGCCMainWnd.DeviceSettingCategory) 
+0070: 1C 
+0071: 17 
+0072: 6F [0x0A000272] (DeviceSettingCategory.SetHardwareIconStatus) 
+0077: 26 
+0078: 2A 
+0079: 02 
+007A: 7B [0x040000EA] (LGCCMainWnd.TouchpadModule) 
+007F: 16 
+0080: 7D [0x0A0001BC] (TouchpadModule.nCurrentSelection) 
+0085: 02 
+0086: 7B [0x040000E4] (LGCCMainWnd.DeviceSettingCategory) 
+008B: 1C 
+008C: 18 
+008D: 6F [0x0A000272] (DeviceSettingCategory.SetHardwareIconStatus) 
+0092: 26 
+0093: 2A 
+0094: 02 
+0095: 7B [0x040000EA] (LGCCMainWnd.TouchpadModule) 
+009A: 17 
+009B: 7D [0x0A0001BC] (TouchpadModule.nCurrentSelection) 
+00A0: 02 
+00A1: 7B [0x040000E4] (LGCCMainWnd.DeviceSettingCategory) 
+00A6: 1C 
+00A7: 17 
+00A8: 6F [0x0A000272] (DeviceSettingCategory.SetHardwareIconStatus) 
+00AD: 26 
+00AE: 2A 
+00AF: 02 
+00B0: 7B [0x040000E4] (LGCCMainWnd.DeviceSettingCategory) 
+00B5: 1C 
+00B6: 06 
+00B7: 6F [0x0A000272] (DeviceSettingCategory.SetHardwareIconStatus) 
+00BC: 26 
+00BD: 2A 
+

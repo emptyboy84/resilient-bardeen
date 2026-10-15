@@ -1,0 +1,1 @@
+Encountered error in step execution: Failed to fetch document content at https://zippoom.com/place/detail/2862804: failed to get URL https://zippoom.com/place/detail/2862804: status code 404

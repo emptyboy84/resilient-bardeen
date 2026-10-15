@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Missing classification count: 25
+{"idx":5,"company":"선도","bizno":"6090658790","userInd":"주형 및 금형 제조업"}
+{"idx":6,"company":"진양산업","bizno":"6090659111","userInd":"그 외 기타 일반목적용 기계 제조업"}
+{"idx":13,"company":"청록엔지니어링","bizno":"6090673281","userInd":"그 외 기타 특수목적용 기계 제조업"}
+{"idx":23,"company":"신영산업","bizno":"6090695719","userInd":"그 외 기타 특수목적용 기계 제조업"}
+{"idx":27,"company":"알파 테크노파크점","bizno":"6090711429","userInd":"문구용품, 회화용품, 사무용품 도매업"}
+{"idx":36,"company":"주미엔지니어링","bizno":"6090731236","userInd":"금속 절삭기계 제조업"}
+{"idx":45,"company":"하이텍","bizno":"6090769877","userInd":"금속 절삭기계 제조업"}
+{"idx":49,"company":"성화기계","bizno":"6090774671","userInd":"금속 절삭기계 제조업"}
+{"idx":50,"company":"대상정공","bizno":"6090775326","userInd":"기타 가공 공작기계 제조업"}
+{"idx":59,"company":"대아정밀","bizno":"6090793741","userInd":"변압기 제조업"}
+

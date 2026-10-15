@@ -1,0 +1,29 @@
+The search for ""에프지엔터테인먼트" OR "FG Entertainment" "부산" OR "게임" OR "지스타"" returned the following summary:
+검색하신 '에프지엔터테인먼트(FG Entertainment)'와 관련하여 확인된 내용은 다음과 같습니다.
+
+### 1. 콘텐츠 제작 그룹 '에프지(FG)'
+*   **정체성:** 2016년부터 '에프지 엔터테인먼트'라는 명칭으로 활동해 온 콘텐츠 제작 그룹입니다. 2024년 9월, 브랜드 명칭을 **'에프지 콘텐츠(FG CONTENTSRO)'**로 변경하고 새로운 로고와 홈페이지를 공개하며 새 출발을 알렸습니다[1].
+*   **주요 활동:** 유튜브 채널 등을 통해 '에프지 띵작(FG Thingjak)'이라는 이름으로 브이로그, 졸업 기념 패러디 영상, 전공 탐색 영상 등 다양한 콘텐츠를 기획·제작해 왔습니다[2][3][4][5].
+*   **기타:** 과거 서울 양천구 소재로 사업자 등록이 된 이력이 있으나 현재는 폐업 상태로 조회됩니다[6].
+
+### 2. 게임 분야 관련 (SBS아카데미게임학원 포트폴리오)
+*   **연관성:** 검색 결과에서 나타나는 `[FG Entertainment]`라는 표기는 별도의 독립된 게임 기업을 의미하기보다, **SBS아카데미게임학원(부산점 포함)**의 수강생이나 강사들이 작성한 포트폴리오 작품명 앞에 붙은 일종의 식별 명칭(프로젝트명 또는 그룹명)으로 확인됩니다[7][8][9].
+*   **맥락:** '구미호 덕순', '대장 도깨비' 등 다양한 캐릭터 원화 및 3D 그래픽 작품들이 `[FG Entertainment]`라는 이름으로 해당 학원의 포트폴리오 페이지에 다수 게시되어 있습니다[7][10][8].
+*   **지스타(G-STAR):** SBS아카데미게임학원은 지스타 등 게임 산업과 관련된 교육 과정을 운영하는 곳으로, 포트폴리오 페이지 메뉴나 안내 사항에 '지스타' 관련 키워드가 함께 노출되는 경우가 많습니다[11][12][13].
+
+결론적으로, 질문하신 키워드들은 **콘텐츠 제작 그룹 '에프지(구 에프지 엔터테인먼트)'**와 **SBS아카데미게임학원 포트폴리오 상의 프로젝트명**이라는 서로 다른 두 가지 맥락이 혼재된 것으로 보입니다.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzQf800oa2ugGJ8aeHfTMXMtnYhQmmbhSnoDqNoUyNiAAOC-6qphgf4Abr2xXXfHf7Sm-Qh6gxxOM7sLcRmDZcsyJA92BnYdTqf_uMxalMOo4MlnsHtSyc9nEUCzM3aPC_)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGkKZpeAzM7QOF3NnGrsM8m_SCoiVrTqP8bvga0_v0ZlyyAfMymURe73mJDnQDVTlMweaAQBK0Nt4uMwcVF5qN0CkYomEHdfdTRm7oshKfxZWESLlyUReeu6B33jTE3nAH)
+[3] [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxveaVWxu5RiOYbh5wJnCDkHtb5lrriq13B1NSNFTTnJdhokgpg59w8QUugme0R2bcuWR15nh1wQU4ev-QTQmUrGxzck8Xth4CMoN0OLQc-T9u4uQ9L5twN2DeLkZX0ZDNeXy8aNfVySItkE_wQnNjlucSscAXpX4_Dg==)
+[4] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCbUk44N-f5QRvOO4zLhowqNttsuD9qmnfV1Eeg3TRquwAdKJNgeoHFsDQd7C-ZCXxCCjvLo_Buh6cWCyjvz-sBsUOD_K-NlsmbUIuX-B0BCWJMAOKj7nechee1s-YomF2)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHbbnO7wK50i7eKAi-xPJj7UxVeF-ZEEA3Ubht2IA9TFQYENx1hTIGuK92vL_Fc5FtcIy1A7pAOLvAGRr9TOnMbpxD-fAAnQn3DDuifht8bxwZ6PY8mcPuEzfepvP7UXP)
+[6] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgn3Rcaym5gUL8KbzCWOPKzOpJ-9zXinOs5bZqSmfiQCEQgBL411ZBxCVww_8WCVaxC_Oek8dJTfrzRPZoSEi5LtCziIKUkrga8xW6KMV-MXMJr05SHrKlV4E=)
+[7] [sbsgameacademy.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbI9msMpG7FLXiFGwQC5Xi2vf8BCcVdfjxjBa7eDt8cJDtA6_yENHIV5jLUZEgZ8zbxvLS-vDVLW2phcH3vqLLhS3QhLVYojc9kiUv8pGozNtcPbnaCg24MT_aGxNJxa30_u38CPnrWTM_F8I0v6J6wGwrLTl3eg==)
+[8] [game-sbs.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3RTFRQk8DUBgy4BTSyLtEVB8nl60qBFg49e5MJJ-XVQv0zV5sFq4hZISdBWts83MfgA7W5fLAMhsuh7Yz0J4Ldg9KU1b_KUDYRYIlHR35OPFc1iqeyK49fDne9NHuh44VWcR-7pk15swH)
+[9] [busangame.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEapFaHkjlME18MdlURsnBLh0-uZJEcoWt3KVEzH9lIOaqvoVExrzMJnldlWpuv7rak5ttyjBApK337k-U5xzYU84NFz7SElTfbr5fbX6efzZEc74_M54kxfgdIcSsEBANsP9CGoiWv1GdOaODL_5D8nA==)
+[10] [sbs-gameartedu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED03Fv0jqm-BZSVrtvFMah6ZkJZYeT2qNRK0F5Ljkx7k0V_Nuq_9YmYvn4l0LD41tx03dA0YGaPgQqHmiU0QVR47RJVuR3-JvICZOHKzDbMFK7WPBsPhO9ChYGmk_7m6JVbAYYwzb9B4s4mAetUV2Y)
+[11] [sbsdesign-academy.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcFs4pRXA1oELfPbjQnJWvQyqorzn5m_aM0flt90Ih9dEmPmab8DMoIYj-usT15C3Dd0Fu76cmSrtrypLcKDtn3S_Ym2wvSalPzoeV94f0xj3huQbPQcs6w6Fk1wJBil_8nk4mB-pdDO_CRcjsOYy4AgfeD18=)
+[12] [sbs-gameartedu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED03Fv0jqm-BZSVrtvFMah6ZkJZYeT2qNRK0F5Ljkx7k0V_Nuq_9YmYvn4l0LD41tx03dA0YGaPgQqHmiU0QVR47RJVuR3-JvICZOHKzDbMFK7WPBsPhO9ChYGmk_7m6JVbAYYwzb9B4s4mAetUV2Y)
+[13] [sbs-cg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtAor9wvDV-_x_fOhJdtTMx9qSm9gl3npr-YL69DANsaJPeHd0eQj_5zy7pECA6VvCBFTs4d7DtDWqb7mkG7zoHh8iAvva7bSQbW8O9BEof2O4V5YH6SFxGzPmMpF7iOLSVMz9tV99XOEgZkRbrjEJME4=)

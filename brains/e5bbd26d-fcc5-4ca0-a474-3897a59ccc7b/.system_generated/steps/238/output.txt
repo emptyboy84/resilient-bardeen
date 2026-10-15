@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+bno: 6033796242 | title: �̼ҹ�
+bno: 1342369602 | title: �̼ҹ�
+bno: 3800300630 | title: �̼ҹ�
+bno: 1531302205 | title: �̼ҹ�
+bno: 8929002257 | title: �̼ҹ�
+bno: 3309601771 | title: �̼ҹνɸ�㼾�
+bno: 2065003634 | title: ȫ�Űģ(�̼ҹ�)
+bno: 1812601711 | title: �౹(�̼ҹ�)
+bno: 1249704980 | title: �̼ҹα��
+bno: 8902300358 | title: �̼ҹκε�
+bno: 6372001513 | title: �̼ҹ�(613)
+bno: 1221315161 | title: �̼ҹ�
+bno: 1269162698 | title: �̼ҹΣ�437-74�
+bno: 1629001763 | title: �̼ҹ� ķ�۽�
+bno: 4130624909 | title: �̼ҹ�
+bno: 8472001070 | title: �̼ҹ�
+bno: 5522200070 | title: �ȣ�̼ҹι�繫�
+bno: 8274000319 | title: �̼ҹ�(�Ӵ�)
+bno: 3388802560 | title: �ֽ�ȸ� �Ʈ�Ʈ�(Art distric crop.)
+bno: 4963801106 | title: ū�
+bno: 4963901234 | title: �(M)�
+bno: 4963901350 | title: ûȣ2
+bno: 4964101203 | title: �
+bno: 4964100505 | title: �
+bno: 4964300800 | title: �
+bno: 4964800329 | title: ž(TOP)�
+bno: 4964900705 | title: �ͽ�
+bno: 4965000905 | title: �ۼ۵�
+bno: 4965201077 | title: �(HUONG QUE)
+bno: 4965600703 | title: �
+

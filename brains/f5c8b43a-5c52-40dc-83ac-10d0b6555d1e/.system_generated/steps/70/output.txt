@@ -1,0 +1,356 @@
+
+The command exited with code 0.
+Output:
+설립일자 포맷 통계: {
+  'YYYY- (끝에 하이픈만 있음)': 52,
+  'YYYY-M 또는 YYYY-MM': 337,
+  '비표준 포맷': 841,
+  'YYYY (연도만)': 10
+}
+
+회사명에 (폐업/휴업) 포함: [ { lineNum: 20496, company: '(주)티에이싱크(폐업)', biko: '' } ]
+
+사업자번호 불일치 (총 28건): [
+  {
+    lineNum: 721,
+    company: '그루쉽코리아',
+    col3_biz: '1640700680',
+    col23_biz: '6040700680',
+    biko: ''
+  },
+  {
+    lineNum: 1010,
+    company: '스튜디오이매진',
+    col3_biz: '5664400921',
+    col23_biz: '5564400921',
+    biko: ''
+  },
+  {
+    lineNum: 1028,
+    company: '벡스콘',
+    col3_biz: '5348800516',
+    col23_biz: '1801162685',
+    biko: '폐업'
+  },
+  {
+    lineNum: 1029,
+    company: '제이에스비투어앤마이스',
+    col3_biz: '4488800796',
+    col23_biz: '4488000796',
+    biko: ''
+  },
+  {
+    lineNum: 1044,
+    company: '공감',
+    col3_biz: '6052654301',
+    col23_biz: '6052554301',
+    biko: ''
+  },
+  {
+    lineNum: 1065,
+    company: '(주)유비텍',
+    col3_biz: '6078164973',
+    col23_biz: '0078164973',
+    biko: ''
+  },
+  {
+    lineNum: 1072,
+    company: '스튜디오휠',
+    col3_biz: '3654000320',
+    col23_biz: '3654000032',
+    biko: ''
+  },
+  {
+    lineNum: 1087,
+    company: '누띵엔터테인먼트',
+    col3_biz: '2631701442',
+    col23_biz: '2631700442',
+    biko: ''
+  },
+  {
+    lineNum: 1870,
+    company: '노바센',
+    col3_biz: '6158137050',
+    col23_biz: '6201200508',
+    biko: ''
+  },
+  {
+    lineNum: 1890,
+    company: '(주)정도환경',
+    col3_biz: '2428101733',
+    col23_biz: '2428107133',
+    biko: ''
+  },
+  {
+    lineNum: 1891,
+    company: '비지팅엔젤스부산금정방문요양지점',
+    col3_biz: '6078016004',
+    col23_biz: '2028168566',
+    biko: ''
+  },
+  {
+    lineNum: 1899,
+    company: '로뎀복지센터',
+    col3_biz: '1924500483',
+    col23_biz: '1924800483',
+    biko: ''
+  },
+  {
+    lineNum: 1905,
+    company: '주식회사지을엔드종합건축사사무소',
+    col3_biz: '4688800067',
+    col23_biz: '4688800069',
+    biko: ''
+  },
+  {
+    lineNum: 5165,
+    company: '주식회사 씨넷',
+    col3_biz: '6028151774',
+    col23_biz: '6028151174',
+    biko: ''
+  },
+  {
+    lineNum: 5221,
+    company: '주식회사 에스브이에스',
+    col3_biz: '1348679726',
+    col23_biz: '2918106662',
+    biko: ''
+  },
+  {
+    lineNum: 5275,
+    company: '유진산업전기',
+    col3_biz: '6031137812',
+    col23_biz: '6031137612',
+    biko: ''
+  },
+  {
+    lineNum: 5294,
+    company: '동아제이티',
+    col3_biz: '6038152397',
+    col23_biz: '6038152399',
+    biko: ''
+  },
+  {
+    lineNum: 5312,
+    company: '신명전자',
+    col3_biz: '6051234026',
+    col23_biz: '6051234021',
+    biko: ''
+  },
+  {
+    lineNum: 5314,
+    company: '서광시스템',
+    col3_biz: '6051256199',
+    col23_biz: '6061256199',
+    biko: ''
+  },
+  {
+    lineNum: 5328,
+    company: '디엠제이시스템',
+    col3_biz: '6052471567',
+    col23_biz: '6052971567',
+    biko: ''
+  },
+  {
+    lineNum: 5337,
+    company: '동양에프에이',
+    col3_biz: '6054165868',
+    col23_biz: '6154165868',
+    biko: ''
+  },
+  {
+    lineNum: 5339,
+    company: '대흥전자',
+    col3_biz: '6054268692',
+    col23_biz: '6054268682',
+    biko: ''
+  },
+  {
+    lineNum: 5347,
+    company: '(주)비즈폼',
+    col3_biz: '6058138178',
+    col23_biz: '6058138173',
+    biko: ''
+  },
+  {
+    lineNum: 5348,
+    company: '(주)오토원',
+    col3_biz: '6058155008',
+    col23_biz: '6058155000',
+    biko: ''
+  },
+  {
+    lineNum: 5383,
+    company: '(주)한빛마이크로시스템',
+    col3_biz: '2148199213',
+    col23_biz: '6060741211',
+    biko: ''
+  },
+  {
+    lineNum: 5435,
+    company: '부경기계산업',
+    col3_biz: '6063050800',
+    col23_biz: '부산광역시 강서구 공항앞길33번길55 (대저2동)',
+    biko: ''
+  },
+  {
+    lineNum: 5474,
+    company: '(주)대원엘파',
+    col3_biz: '6068172882',
+    col23_biz: '6067172882',
+    biko: ''
+  },
+  {
+    lineNum: 5475,
+    company: '(주)에스디에스',
+    col3_biz: '6068173111',
+    col23_biz: '6068173117',
+    biko: ''
+  }
+]
+
+앞자리 0 누락 전화번호 (총 18건): [
+  {
+    lineNum: 11902,
+    company: '정원산업',
+    col: '응답자연락처',
+    val: '1035396399',
+    fixed: '01035396399'
+  },
+  {
+    lineNum: 11903,
+    company: '다우엔지니어링',
+    col: '응답자연락처',
+    val: '1083205089',
+    fixed: '01083205089'
+  },
+  {
+    lineNum: 11906,
+    company: '준성산업',
+    col: '응답자연락처',
+    val: '1025723155',
+    fixed: '01025723155'
+  },
+  {
+    lineNum: 11913,
+    company: '허브어스',
+    col: '응답자연락처',
+    val: '1065890999',
+    fixed: '01065890999'
+  },
+  {
+    lineNum: 11930,
+    company: '일송포장',
+    col: '응답자연락처',
+    val: '1088458609',
+    fixed: '01088458609'
+  },
+  {
+    lineNum: 11935,
+    company: '삼성하조기',
+    col: '응답자연락처',
+    val: '1033339999',
+    fixed: '01033339999'
+  },
+  {
+    lineNum: 12042,
+    company: '디스모먼트',
+    col: '응답자연락처',
+    val: '1042842355',
+    fixed: '01042842355'
+  },
+  {
+    lineNum: 12052,
+    company: '프롬더네이처',
+    col: '응답자연락처',
+    val: '1023709558',
+    fixed: '01023709558'
+  },
+  {
+    lineNum: 12135,
+    company: '엠케이글로벌',
+    col: '응답자연락처',
+    val: '1043303983',
+    fixed: '01043303983'
+  },
+  {
+    lineNum: 12152,
+    company: '탭스컴퍼니',
+    col: '응답자연락처',
+    val: '1051842613',
+    fixed: '01051842613'
+  },
+  {
+    lineNum: 12209,
+    company: '뉴워크',
+    col: '응답자연락처',
+    val: '1028302843',
+    fixed: '01028302843'
+  },
+  {
+    lineNum: 12233,
+    company: '주)오지랖',
+    col: '응답자연락처',
+    val: '1028948952',
+    fixed: '01028948952'
+  },
+  {
+    lineNum: 12287,
+    company: '주식회사 오러스코리아',
+    col: '응답자연락처',
+    val: '1038829437',
+    fixed: '01038829437'
+  },
+  {
+    lineNum: 12291,
+    company: '주식회사 에이팜건강',
+    col: '응답자연락처',
+    val: '1088525789',
+    fixed: '01088525789'
+  },
+  {
+    lineNum: 12357,
+    company: '탱커 주식회사',
+    col: '응답자연락처',
+    val: '1051698733',
+    fixed: '01051698733'
+  },
+  {
+    lineNum: 12374,
+    company: '이엔에프에너지',
+    col: '응답자연락처',
+    val: '1048070567',
+    fixed: '01048070567'
+  },
+  {
+    lineNum: 19340,
+    company: '플로우텍 주식회사',
+    col: '응답자연락처',
+    val: '1032592586',
+    fixed: '01032592586'
+  },
+  {
+    lineNum: 19426,
+    company: '(주)오래오랩',
+    col: '응답자연락처',
+    val: '1026993835',
+    fixed: '01026993835'
+  }
+]
+
+비고 오타 (총 5건): [
+  { lineNum: 19269, company: '㈜에코앤', biko: '폐업,옮은사업자번호:136-87-01124' },
+  { lineNum: 19271, company: '(주)운복 ', biko: '옮은사업자번호:761-87-01634' },
+  {
+    lineNum: 19348,
+    company: '(주)씨에스물류에스에이치지점',
+    biko: '맞는사업자번호:769-85-01503'
+  },
+  {
+    lineNum: 19350,
+    company: '(주)리콘',
+    biko: '폐업, 맞는사업자번호:796-86-01439'
+  },
+  { lineNum: 19409, company: '태건', biko: '패업' }
+]
+

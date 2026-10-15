@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+[WMIConn.ACPIHelper]� �̸� 'GetPrefix'� �޼�尡 �Ƿ� �޼�带 ȣ� �߽�ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\211c437a-15bb-44af-a76a-d6654c8fc8c3\scratch\test_acpi_methods.ps1:4 �:1
++ Write-Host "GetPrefix: " ($acpi.GetPrefix())
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : MethodNotFound
+ 
+GetMethod(0x30):  2
+GetMethod2(0x30):  2
+

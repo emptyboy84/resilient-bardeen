@@ -1,0 +1,20 @@
+The search for ""와이즈온미디어" 사업자등록번호" returned the following summary:
+공개된 기업 정보 및 관련 웹사이트를 확인한 결과, **와이즈온미디어(주)**의 사업자등록번호는 일반적인 기업 정보 검색 서비스나 공식 홈페이지에서 명확하게 공개되어 있지 않습니다.
+
+해당 기업과 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **기업명:** 와이즈온미디어(주)[1][2]
+*   **대표자:** 박현정[1][2]
+*   **설립연도:** 2020년[1][2]
+*   **주요 사업:** 음악 교육 에듀테크 콘텐츠 플랫폼[1][2]
+*   **본사 소재지:** 서울특별시 마포구 성암로 330 (상암동, DMC첨단산업센터)[1] (또는 서울 금천구 가산디지털1로 165 소재로 기재된 정보도 있음[3][4])
+
+일부 검색 결과에서 나타나는 사업자 번호들은 다른 기업(와이즈온[5], 와이즈인컴퍼니[6] 등)의 번호이므로 혼동하지 않도록 주의하시기 바랍니다. 정확한 사업자등록번호가 필요하신 경우, 기업 공식 홈페이지 내 '이용약관' 또는 '개인정보처리방침' 하단을 확인하시거나 국세청 홈택스 등에서 기업명으로 직접 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoC7eD9hE-cHTwA8_8MAMhH8yPY0Q_tcLI3Y0C1j5BkQuJwns1k2kA9hvQf817-LazvoteAKP124F-OI2wSjKfz83O7k_bG-iJSTSUdJcZT64tN42NjY9VHICt5efAJh7eDEMxUJPI)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoC7eD9hE-cHTwA8_8MAMhH8yPY0Q_tcLI3Y0C1j5BkQuJwns1k2kA9hvQf817-LazvoteAKP124F-OI2wSjKfz83O7k_bG-iJSTSUdJcZT64tN42NjY9VHICt5efAJh7eDEMxUJPI)
+[3] [dir.today](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2J0bgl4Q9L-fxlRNvbmMa9kV-4L4wH2PK52XbzMTjpz0X42oKxeixoWWmdYhATIY0Dc29yCIs5jHLIiVPYaGq0cGhMKaIM4C4eVWVANGxRn9o4s4gOApyqbGE0PEEQ9PZyuOsJAthefRfgLhqtbzcPzy-dTg0DK55at5wjmqVGEJc9cn8Jko=)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo6ypOB8FErixtTkMOuTKlvf6gZ6iw2OLQIsBxEeW9Fyk91vPfx8dW_7OaoaYalflkVEsT8HzgADOsun3YQg83AtkoeofBxt-lj9ZOVFWfoVG2io7tNfrooEt-RDg4tl-ilpdv3Q3KZwqlGxSb-ariZpUondCHdfCHVhYMfK6Gg0o_b3NAA8AbDmIoLsFFxN1COQsGHijKXvCxZsd18X0Dmmmoa5aQGKfK)
+[5] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGitIpjaVtbUq1tnG-RgyAUUMZh8QOJKleBl8SHLCP4R1LCpSfk-27NvM1PShRT4q2Z_ebnkGa86cRw9sWfwbJMIp7TQB3HnlbHWJ5t4gUKsnqe89gVn8kMhon_RPuwVONW)
+[6] [wiseon.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyEK5q5sxxqFGuBFfJtf_E1lVU6YIDR9_yXVMlHaDNRQjR3ipFL6379Y_TIjRL_uhaDHFBjSTznvKfAa5gC_YLwr90ZaSGFUW_JIOhKgfT3vvtlojGSfQZkjU=)

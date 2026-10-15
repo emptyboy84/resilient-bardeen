@@ -1,0 +1,171 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+Line 1688 시너샛코리아 Closed: 방송
+Line 1689 캠플래닛 Closed: 방송
+Line 1692 퍼플박스 Closed: 애니메이션
+Line 1693 유엠아이웍스(주) Closed: 애니메이션
+Line 1695 주식회사 반올림 Closed: 공연
+Line 1698 뉴사운드뮤직 Closed: 음악
+Line 1700 에스에스피(S.S.P) Closed: 음악
+Line 1701 비주얼리액터 Closed: 게임
+Line 1703 NMD엔터테인먼트 Closed: 음악
+Line 1708 지투소프트 Closed: 지식정보
+Line 1709 써니스크린 Closed: 5층(부곡동)"
+Line 1714 아비넨 Closed: 지식정보
+Line 1715 아이피나우 Closed: 지식정보
+Line 1716 한성기린스크린골프장 Closed: 지식정보
+Line 1717 (주)복지이십사 Closed: 지식정보
+Line 1722 에스티(ST)골프 Closed: 지식정보
+Line 1725 미래스크린골프 Closed: 미래빌딩)"
+Line 1727 리나소프트 Closed: 지식정보
+Line 1729 파노텍 Closed: 지식정보
+Line 1733 인바이즈 Closed: 지식정보
+Line 1735 주식회사실리콘해머 Closed: 지식정보
+Line 1736 효성스크린 Closed: 지식정보
+Line 1739 프롬에이아이 Closed: 케이엔엔타워)"
+Line 1740 더블오 Closed: 지식정보
+Line 1742 우리기획 Closed: 지식정보
+Line 1745 포유시스템 Closed: 지식정보
+Line 1746 티에스원 Closed: 지식정보
+Line 1747 크리에이텍 Closed: 지식정보
+Line 1748 전자신문 동남권 취재본부 Closed: 지식정보
+Line 1749 북컬쳐(국제신도시서점) Closed: SM빌딩)"
+Line 1761 （주）제이엠프린트 Closed: 출판
+Line 1769 주식회사 뷰엠 Closed: 출판
+Line 1775 교연도서 Closed: 출판
+Line 1776 한길도서 Closed: 출판
+Line 1778 주식회사 아트몰링리노베이션 Closed: 출판
+Line 1787 브레인나우스튜디오강서명지점 Closed: 출판
+Line 1788 애드4950 Closed: 출판
+Line 1799 상상매거진 Closed: 출판
+Line 1802 PIPOSDOLL Closed: 캐릭터
+Line 1803 대보름오시리아 Closed: 캐릭터
+Line 1807 (주)삼성출판사 롯데동래점 Closed: 캐릭터
+Line 1814 우아즈 Closed: 캐릭터
+Line 1817 (주)함께가는사람들 부산지점 Closed: 캐릭터
+Line 1819 주식회사그리니어 Closed: 콘텐츠솔루션
+Line 1823 여름의기억 Closed: 콘텐츠솔루션
+Line 1826 뉴젠아이엔에스 Closed: 콘텐츠솔루션
+Line 1828 르뮤제 Closed: 콘텐츠솔루션
+Line 1829 파운더 Closed: 부산문화콘텐츠컴플렉스)"
+Line 1831 마하링크시스템 Closed: 게임사업단 요청으로 제외
+Line 1832 텍스 Closed: 게임사업단 요청으로 제외
+Line 1833 프리모엠 Closed: 확인완료
+Line 1835 언더배드스튜디오 Closed: 확인불가
+Line 1842 메이커스 Closed: 게임사업단 요청으로 제외
+Line 1843 시너제닉 Closed: 공연
+Line 1844 델피데칼 Closed: 광고
+Line 1845 블루케이 Closed: 광고
+Line 1846 부산전람 Closed: 광고
+Line 1847 리뷰노트 Closed: 케이엔엔타워)"
+Line 1849 고컴퍼니 Closed: 광고
+Line 1851 깨비책방 Closed: 만화
+Line 1852 CJ만화휴게실 사직동 Closed: 만화
+Line 1861 닥터스튜디오 Closed: 방송
+Line 1864 반디도시생태학교 Closed: 인재빌딩)"
+Line 1865 튜링랩 Closed: 방송
+Line 1866 비앤케이에듀케이션 Closed: 방송
+Line 1868 BASICBREATH Closed: 방송
+Line 1871 나누기월드 Closed: 방송
+Line 1872 에스에스한주 Closed: 방송
+Line 1874 주식회사 진엔터테인먼트 Closed: 애니메이션
+Line 1876 큐베스 Closed: 애니메이션
+Line 1877 케이펀스토리 Closed: 음악
+Line 1880 코리아워커스 Closed: 음악
+Line 1883 에스팀컴퍼니(S TEAM COMPANY) Closed: 음악
+Line 1888 마피아컴퍼니((주)엠피에이지) Closed: 음악
+Line 1892 어반솔루션 Closed: 지식정보
+Line 1893 로엔코리아 Closed: 지식정보
+Line 1894 웨이브그램 Closed: 지식정보
+Line 1897 위솔루션 Closed: 지식정보
+Line 1900 주식회사 아너스골프아카데미 아너스골프다이닝 Closed: 지식정보
+Line 1903 (주)플렉스데이 Closed: 지식정보
+Line 1904 소호코드 Closed: 지식정보
+Line 1905 뉴아이 Closed: 지식정보
+Line 1908 파리 미장센 Closed: 지식정보
+Line 1911 챔피언 스크린골프 Closed: 지식정보
+Line 1913 비에스피솔루션 Closed:  부산벤처타워)"
+Line 1914 중앙아이티 Closed: 지식정보
+Line 1915 이맥스정보기술 Closed: 지식정보
+Line 1916 이노팀스 Closed: 지식정보
+Line 1917 디엔앰 Closed: 지식정보
+Line 1918 엘고 Closed: 지식정보
+Line 1919 주식회사 오픈와이즈 Closed: 지식정보
+Line 1920 프렌즈 아카데미 스크린 광안리점 Closed: 지식정보
+Line 1922 디매스타 Closed: 지식정보
+Line 1927 마케팅몬스터 Closed: 지식정보
+Line 1929 에스유소프트 Closed: 지식정보
+Line 1931 펄스위트 Closed: 지식정보
+Line 1933 메타버스쇼 Closed: 지식정보
+Line 1934 쉬프트 Closed:  2309호 (우동
+Line 1935 데이터스피라 Closed: 지식정보
+Line 1936 엔디소프트 Closed: 지식정보
+Line 1937 해움아이티 Closed: 지식정보
+Line 1938 아브코 Closed: 지식정보
+Line 1939 나이스핀테크 Closed: 지식정보
+Line 1941 에이아이씨티 Closed: 지식정보
+Line 1942 에이치에스렌텍 Closed: 지식정보
+Line 1943 오폰 Closed: 지식정보
+Line 1945 스탠다드앤블루 Closed: 지식정보
+Line 1949 브레인나우 스튜디오 강서명지점 Closed: 출판
+Line 1950 아크앤북 부산명지점 Closed: 210
+Line 1951 다누리교육사 Closed: 출판
+Line 1956 한국전화번호부（주）부산지점 Closed: 출판
+Line 1961 드림공작소 Closed: 출판
+Line 1966 메디펀 Closed: 출판
+Line 1967 인디페이퍼 Closed: 출판
+Line 1968 레드독퍼블리싱그룹 Closed: 출판
+Line 1969 아이러브북 Closed: 출판
+Line 1989 바른교육 Closed: 출판
+Line 1990 "괘법 Closed: 출판
+Line 1995 축산경제신문부산경남지사 Closed: 출판
+Line 1996 동아위드 Closed: 출판
+Line 1998 꼬마킹콩 부산지부 Closed: 출판
+Line 2000 꼬꼬야 Closed: 출판
+Line 2002 (주)부산시대 Closed: 출판
+Line 2004 문프로애드 Closed: 출판
+Line 2005 메딕메디슨 Closed: 출판
+Line 2007 금왕인쇄 Closed: 출판
+Line 2009 에디코 Closed: 출판
+Line 2015 뿌리마케팅 Closed: 출판
+Line 2016 더세인 Closed: 출판
+Line 2017 디에스랩 Closed: 출판
+Line 2018 공감크리에이티브 Closed: 출판
+Line 2019 한국메이커스브랜드협회 Closed: 출판
+Line 2020 프렉스（PREX) Closed: 219
+Line 2021 홍진교육 Closed: 출판
+Line 2023 주식회사 도원이앤아이(Dowon E&I) Closed: 출판
+Line 2024 시드닝(Seedening) Closed: 출판
+Line 2025 행루즈 컴퍼니 Closed: 출판
+Line 2026 도서출판신명 Closed: 출판
+Line 2033 퍼니판 명지점 Closed: 캐릭터
+Line 2034 （주）플리스터 Closed: 캐릭터
+Line 2049 주식회사 제이더블유하비 Closed: 캐릭터
+Line 2068 에듀메타 Closed: 콘텐츠솔루션
+Line 2069 니즈 Closed: 콘텐츠솔루션
+Line 2073 에스시엔컴퍼니 Closed:  부산데파트)"
+Line 2075 유티플러스인터랙티브 Closed: 콘텐츠솔루션
+Line 2076 주식회사 마이비 Closed: 콘텐츠솔루션
+Line 2078 케이엘정보통신 주식회사 부산지점 Closed: 콘텐츠솔루션
+Line 2081 중앙정보기술 Closed: 게임사업단 요청으로 제외
+Line 2083 하드롤(HARDROLL) Closed: 게임
+Line 2086 구석에감자짬뽕 Closed: 게임
+Line 2091 아이티엠피에스 Closed: 게임사업단 요청으로 제외
+Line 2102 도담교육 Closed: 만화
+Line 2119 코너스튜디오 Closed: 애니메이션
+Line 2131 피엘지 Closed: 지식정보
+Line 2135 아이비코어 Closed: 지식정보
+Line 2141 페이타랩 Closed: 지식정보
+Line 2160 이음미디어 Closed: 방송
+Line 2261 뱅크다이어리 Closed: 404호
+Line 2265 엘론소프트 Closed: 확인완료
+Line 2280 파크이에스엠 Closed: 게임
+Line 2281 스튜디오 모하지 Closed: 게임
+Line 2282 주식회사 무기고 Closed: 게임
+Line 2283 아크리아스튜디오 Closed: 게임
+Line 2293 늘아이엔씨 Closed:  KNN타워)"
+Line 2297 아이소프트 Closed: 게임
+Line 2298 아이큐브 Closed: 게임
+

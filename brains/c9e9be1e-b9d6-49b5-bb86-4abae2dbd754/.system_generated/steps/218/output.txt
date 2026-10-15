@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+{
+  "bizno": "7628703203",
+  "company": "",
+  "status": "",
+  "statusDesc": "",
+  "ceo": "",
+  "zip": "",
+  "addr": "-",
+  "addrJibun": "",
+  "tel": "",
+  "fax": "",
+  "homepage": "",
+  "email": "",
+  "corpNo": "",
+  "entityType": "개인과세사업자",
+  "taxType": "-",
+  "employees": "",
+  "industry": "",
+  "uptae": "",
+  "catLarge": "",
+  "catMid": "",
+  "catSmall": "",
+  "catDetail": "",
+  "closingMonth": ""
+}
+

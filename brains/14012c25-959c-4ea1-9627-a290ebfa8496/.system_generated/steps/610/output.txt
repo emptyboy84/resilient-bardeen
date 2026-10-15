@@ -1,0 +1,17 @@
+The search for ""591-87-03125" OR "오앤비스페이스"" returned the following summary:
+**주식회사 오앤비스페이스(OnB Space)**의 사업자등록번호입니다[1][2].
+
+* **기업명:** (주)오앤비스페이스 (대표: 윤효상)[3][4]
+* **사업자등록번호:** 591-87-03125[2]
+* **소재지:** 대전광역시 유성구[2]
+* **주요 사업 및 분야:** 응용 소프트웨어 개발 및 공급업, 초소형 인공위성 설계 및 운용 (우주/항공 분야)[1][5][2]
+* **주요 성과:** 글로벌항법위성시스템(GNSS) 재밍 방어 및 전리층 관측 등을 위한 초소형 인공위성 **'슬레지(SLEDGE / 슬러지-1)'**를 개발하여 한국형발사체 누리호(5차 발사)에 탑재해 우주로 발사한 바 있습니다[1][6][4][7].
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVWMc3bTBM7-Bk99IijqF-mDPzWnW052vpumkngNxm42UXi5bePSU6kB6j-_4qK_VhR8-YHZXoZqBGxL_U0TY2s-LqvvhdBcWqUoS3UkMW)
+[2] [vcroute.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFujX55qoZq0WhMx7o2eLRCeZdxQ56j0jG-M2ZuW778-_Li6r-5zX8qr44nhinLkyDxkepaeaa-dkzQbGzL4ggZf3ARjQ4c61SQY1DCK4PztVRvwDQgEip1wg-SH43RWJJG_gsKQUv1BxSyHWPyh0E=)
+[3] [contec.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3cR_HwWTE2T21x3D0iC6QVtk_z68xjDS8gWVGz1f2i7c9CD0RU8qVx-dDb2Y77pGWcc66QXKB1wxUNklTGRXllkSeEwkLVpueGyOqaNc_NR_-AO0fAE2BDQAhky3CkDBvLh9MQ41TIcI2uCZPvX_DJwSNrVBA7hmhRHs=)
+[4] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDNra4fAAB1rQO8dbs2EDDJYeRPA0zdrzznqoh-5pu-3hh2JmmhZdGZR5pT2-FrnMEfhkIoQpTKs79ffO2Q8j0NoCKk5k_d4D2GWHCg3Cf4AIaOCde6XVwHYCasGt8MH9k)
+[5] [vcroute.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHT43Xvs3dxAAsz4zQIyNIJcBtlLfLV0ROLgPJjJx7TxWefVDV3xhLizjrkaG18S68mXrIv1kBPlcyy-pWGmIvEHVMJUg4UJwuLCXUg2xMI7QZvoJ3h0WaUvl3g0fdogr5MuPjTwNEMRJUXnRkKuc=)
+[6] [kasa.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJBORZ95sNfSbtAEJSCsjsHqewUUCzc_ZW6GbbKbpEfwWeh5oCMyIZYK_wUNgo4oUizFRIneyMDtMXU1Tvq_csZGRCQRj-rjS2_NGEAsXP_qxvtCRxa4YkF0pdOqvpCUWCTeMgqnq2EiS7RKs-pAcylYVYof2BK-1muIrfA_TR3AKBguvnwtZtBItPCKgVvv1mYF85KNYGcE5G569qnzwmYkyQsexi4hGTACppm-q92vh4MUZ8PC1sONDLhBsLPmE3Z0T9Kw==)
+[7] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3k8jjKkcp44G-5E-ihCTcOoNvbIRr_WaMiVeV5ro5wjRKbiY9DfRfJ8t-Yavk9900-95mESsaFTzq-raZOocylIrVYWPSfuvTXqpugYdSSxKOcnaUb487b1ugRtPGipiCfEwt)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://pcmap.place.naver.com/place/1625293474/home');
+```
+### Page
+- Page URL: https://pcmap.place.naver.com/place/1625293474/home
+- Page Title: 네이버 플레이스
+- Console: 0 errors, 3 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-07-02-082Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-06-59-548Z.log#L1-L3

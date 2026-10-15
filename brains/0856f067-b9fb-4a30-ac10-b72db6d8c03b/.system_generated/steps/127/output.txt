@@ -1,0 +1,128 @@
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94
+- Page Title: 괴정만화 검색 - 네이버지도
+- Console: 2 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f443e3]:
+  - generic:
+    - link "본문 바로가기" [ref=f443e4] [cursor=pointer]:
+      - /url: "#section_content"
+    - link "주 메뉴 바로가기" [ref=f443e6] [cursor=pointer]:
+      - /url: "#header"
+  - banner [ref=f443e8]:
+    - heading [level=1] [ref=f443e9]:
+      - link "네이버지도" [ref=f443e10] [cursor=pointer]:
+        - /url: https://www.naver.com
+    - navigation [ref=f443e12]:
+      - list [ref=f443e13]:
+        - listitem [ref=f443e14]:
+          - button "지도 홈 선택됨" [ref=f443e15] [cursor=pointer]:
+            - generic [ref=f443e21]: 지도 홈
+            - generic [ref=f443e22]: 선택됨
+        - listitem [ref=f443e23]:
+          - button "길찾기" [ref=f443e24] [cursor=pointer]
+        - listitem [ref=f443e30]:
+          - button "버스" [ref=f443e31] [cursor=pointer]
+        - listitem [ref=f443e37]:
+          - button "지하철" [ref=f443e38] [cursor=pointer]
+        - listitem [ref=f443e44]:
+          - button "기차" [ref=f443e45] [cursor=pointer]
+        - listitem [ref=f443e51]:
+          - button "new 저장" [ref=f443e52] [cursor=pointer]:
+            - generic [ref=f443e53]: new
+            - generic [ref=f443e59]: 저장
+        - listitem [ref=f443e60]:
+          - button "더보기" [ref=f443e61] [cursor=pointer]
+    - generic [ref=f443e68]:
+      - strong [ref=f443e69]: 사용자 링크
+      - list [ref=f443e70]:
+        - listitem [ref=f443e71]:
+          - link "로그인" [ref=f443e72] [cursor=pointer]:
+            - /url: https://nid.naver.com/nidlogin.login
+        - listitem [ref=f443e74]:
+          - link "서비스 더보기" [ref=f443e75] [cursor=pointer]:
+            - /url: javascript:;
+  - generic:
+    - application [ref=f443e142]
+    - generic [ref=f443e82]:
+      - generic [ref=f443e84]:
+        - button "검색" [ref=f443e85] [cursor=pointer]
+        - button "삭제" [ref=f443e86] [cursor=pointer]
+        - combobox [ref=f443e89]: 괴정만화
+      - generic [ref=f443e91]:
+        - status [ref=f443e92]
+        - generic [ref=f443e94]:
+          - heading "검색" [level=2] [ref=f443e95]
+          - iframe [ref=f443e146]:
+            - generic [ref=f453e4]:
+              - button "다른 지역 검색하기" [ref=f453e9] [cursor=pointer]
+              - generic [ref=f453e13]:
+                - list [ref=f453e15]:
+                  - listitem [ref=f453e16]:
+                    - generic [ref=f453e17]:
+                      - button [ref=f453e19] [cursor=pointer]:
+                        - img "괴정만화" [ref=f453e21]
+                      - generic [ref=f453e22]:
+                        - button "괴정만화만화방" [ref=f453e24] [cursor=pointer]
+                        - generic [ref=f453e27]:
+                          - generic [ref=f453e28]:
+                            - generic [ref=f453e29]: 현재 위치에서
+                            - text: 319km
+                          - button "부산 사하구 괴정동 상세주소 열기" [ref=f453e31] [cursor=pointer]:
+                            - generic [ref=f453e32]: 부산 사하구 괴정동
+                            - generic [ref=f453e33]: 상세주소 열기
+                    - generic [ref=f453e39]:
+                      - generic [ref=f453e41]:
+                        - button "출발" [ref=f453e42] [cursor=pointer]
+                        - button "도착" [ref=f453e43] [cursor=pointer]
+                      - button [ref=f453e45] [cursor=pointer]
+                  - listitem [ref=f453e47]:
+                    - generic [ref=f453e48]:
+                      - button [ref=f453e50] [cursor=pointer]:
+                        - img "박서방 대전본점" [ref=f453e52]
+                      - generic [ref=f453e53]:
+                        - button "박서방 대전본점장난감" [ref=f453e55] [cursor=pointer]
+                        - button "영업 중 19:00에 영업 종료" [ref=f453e57] [cursor=pointer]
+                        - generic [ref=f453e60]:
+                          - generic [ref=f453e61]:
+                            - generic [ref=f453e62]: 현재 위치에서
+                            - text: 132km
+                          - button "대전 서구 괴정동 상세주소 열기" [ref=f453e64] [cursor=pointer]:
+                            - generic [ref=f453e65]: 대전 서구 괴정동
+                            - generic [ref=f453e66]: 상세주소 열기
+                    - generic [ref=f453e72]:
+                      - generic [ref=f453e74]:
+                        - button "출발" [ref=f453e75] [cursor=pointer]
+                        - button "도착" [ref=f453e76] [cursor=pointer]
+                      - button [ref=f453e78] [cursor=pointer]
+                - generic [ref=f453e80]:
+                  - button "이전페이지" [disabled] [ref=f453e81]
+                  - button "1" [ref=f453e85] [cursor=pointer]
+                  - button "다음페이지" [disabled] [ref=f453e86]
+      - button "패널 접기" [expanded] [ref=f443e102] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=f443e104]:
+                - button "일반지도" [ref=f443e105] [cursor=pointer]
+                - button "위성지도" [ref=f443e107] [cursor=pointer]
+                - button "지형지도" [ref=f443e109] [cursor=pointer]
+              - generic [ref=f443e111]:
+                - button "테마" [ref=f443e112] [cursor=pointer]
+                - button "저장" [ref=f443e114] [cursor=pointer]
+                - button "지적편집도" [ref=f443e116] [cursor=pointer]
+                - button "거리뷰" [ref=f443e118] [cursor=pointer]
+              - generic [ref=f443e120]:
+                - button "반경측정" [ref=f443e121] [cursor=pointer]
+                - button "면적측정" [ref=f443e123] [cursor=pointer]
+                - button "거리측정" [ref=f443e125] [cursor=pointer]
+            - generic:
+              - button "접속위치" [ref=f443e129] [cursor=pointer]
+              - generic [ref=f443e135]:
+                - button "확대" [ref=f443e136] [cursor=pointer]
+                - button "축소" [ref=f443e139] [cursor=pointer]
+  - status [ref=f443e141]
+```

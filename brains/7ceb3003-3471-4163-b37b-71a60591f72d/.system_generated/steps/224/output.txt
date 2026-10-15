@@ -1,0 +1,14 @@
+The search for ""위플라이엔터테인먼트" "사업자등록번호" OR "법인등록번호" OR "폐업"" returned the following summary:
+위플라이엔터테인먼트(WEFLY ENTERTAINMENT CO., LTD)와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **기업 정보:** 부산광역시 영도구 절영로 71(남항동2가)에 소재했던 정보통신 및 게임 개발 기업으로, 과거 '오더 온라인' 등을 개발한 기록이 있습니다[1][2][3].
+*   **등록 정보:** 공공데이터상 외국인 투자기업으로 분류된 바 있으나[1], 현재 시점에서 해당 기업의 최신 사업자등록번호나 법인등록번호, 그리고 폐업 여부에 대한 공식적이고 일치된 정보는 확인되지 않습니다.
+*   **참고 사항:** 위플라이엔터테인먼트는 2000년대 중반 '오더 온라인'을 '그라센'으로 변경하여 서비스하는 등 활동한 기록이 있으며[2][4], 이후 기업의 상세한 운영 상태나 폐업 여부를 직접적으로 확인할 수 있는 공시 자료는 검색되지 않습니다.
+
+특정 기업의 폐업 여부나 사업자 정보를 명확히 확인하려면 **국세청 홈택스(사업자등록상태조회)** 서비스에서 해당 기업의 사업자등록번호를 통해 직접 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiOXYx4gCry2qVF8t717zIfZYomf9LRrhINynnfl6Rkpd4JGWulUiMyMJb6_69Mbw2HlZuN5mYiaKevWxlL9A5ZhTWH2ErhMa6wHDjEtM3Mg6pYuQj4PAY10cE42ZL3c3t40MzC0WxTKovB8O15BQvecFX4IJgbI6lvdsCNia_JFZTbBUvXB6tY2meG1-y8KXEkgMhooUE0mV_r_k-E8Cnwgmu-JQ0zZy6EYm7TsakTuDe4wXi6h8g75Yl022YmypJi2arm1zOo853-egqUr73wpscgI-vgXUZFgbdUXAPseNciiOyMp6T6wwIpCr92QQftpWfp4e7PW2PMzA_UL2MDKEsA7V-_Sw6-QHC)
+[2] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu_JxIIOpP1wDTMaGr_GwszX257eEJzdBBvKFpSt7KFnsdRRxi17unwOgbusCDCUTfJ7X33tiXXQ-j1UFR5mbBdPH4miLax99WRx3fTwmzMBPHwEDrNWrA9jJebCCA8OqX)
+[3] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiiVRuXjNDYQ7AqmGivWdqXVtf8JrMp_3Uxxw-iOVYiuqxVJenR-1nJEetwiPPUwoLDJ3H-TlWW0Ye01ozvk8FzWrRAQFHTVtwOjwSjjJFwxmKjoOezCKvLVEHPYcvdQY=)
+[4] [gamemeca.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYtx2p5_ujo97KR06iKhV0oRUvlTiylNnYl6tclX2l_APZVlk0suiLFguDFZlFgLVLeSZcQAezs_WMhLrnrSasw4NMmEs1X6VPdfM4VCcEua8OGm7b4QTfkbkXeDr1q4=)

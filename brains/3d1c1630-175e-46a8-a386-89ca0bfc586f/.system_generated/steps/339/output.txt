@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+[validate_db_final_check f352cd0] fix: clear invalid corp number for personal biz 선진정밀 in merged_500_perfect.tsv
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+

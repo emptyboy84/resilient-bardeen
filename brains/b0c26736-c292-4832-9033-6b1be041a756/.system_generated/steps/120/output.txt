@@ -1,0 +1,6 @@
+### Result
+"\n주요제품\t\n전화번호\t\n팩스번호\t\n과세유형\t부가가치세 일반과세자\n법인형태\t개인과세사업자\n등록일\t\n홈페이지\t\nIR홈페이지\t\n회사이메일\t\n대표자명\t\n사업자 현재 상태\t계속사업자    ※국세청 홈택스 실시간 정보제공\n\n\n사업자등록번호\t822-63-00346\n법인등록번호\t\n종업원수\t\n우편번호\t08787\n회사주소\t서울특별시 관악구 남부순환로 1808 관악센추리타워 1407호위드마인드\n\n서울특별시 관악구 봉천동 869-10 관악센츄리타워\n영문주소\t1808, Nambusunhwan-ro, Gwanak-gu, Seoul, Republic of Korea\n관할세무서\t관악세무서 (전화번호 : 02-2173-4200)\n\n서울특별시 관악구 문성로 187(신림동)\n결산월\t\n정정문의"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const table = document.querySelector(\'table\');\n  return table ? table.innerText : document.body.innerText.substring(0, 1500);\n}');
+```

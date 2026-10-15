@@ -1,0 +1,6 @@
+### Result
+"https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=180111-0168184"
+### Ran Playwright code
+```js
+await page.evaluate('() => window.location.href');
+```

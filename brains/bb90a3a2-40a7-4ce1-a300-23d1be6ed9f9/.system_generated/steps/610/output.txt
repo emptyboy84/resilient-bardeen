@@ -1,0 +1,66 @@
+
+The command exited with code 0.
+Output:
+Total companies to scan with Kakao Map: 2542
+Progress: 8 / 2542 | Found new: 0, Upgraded: 0
+[KAKAO FOUND 1] Seq 226 (주)엠유팜 -> 051-582-7534 (부산 강서구 대저로235번길 35-1)
+[KAKAO FOUND 2] Seq 201 (주)신카 -> 1533-0761 (부산 남구 신선로 420)
+[KAKAO FOUND 3] Seq 267 (주)휴맛커 -> 010-9792-5555 (부산 부산진구 가야대로510번길 21)
+[KAKAO FOUND 4] Seq 249 (주)에스와이유 -> 070-7680-0210 (부산 강서구 녹산산단381로 28)
+[KAKAO FOUND 5] Seq 266 (주)젤로 -> 1644-3946 (부산 남구 전포대로 133)
+[KAKAO FOUND 6] Seq 273 닥터코어필라테스 -> 051-782-7469 (부산 해운대구 센텀중앙로 97)
+[KAKAO FOUND 7] Seq 313 마로인 -> 070-4048-0888 (부산 수영구 감포로 54)
+[KAKAO FOUND 8] Seq 359 불카누스 -> 051-702-7332 (부산 금정구 오륜대로 57)
+[KAKAO FOUND 9] Seq 377 (주)케이원아이티 -> 070-4741-3777 (부산 사하구 신산로 120)
+[KAKAO FOUND 10] Seq 374 (주)중앙아이티 -> 051-997-1234 (부산 사상구 모라로 22)
+[KAKAO FOUND 11] Seq 400 (주)페텔 -> 051-714-0452 (부산 해운대구 세실로 87)
+[KAKAO FOUND 12] Seq 402 (주)취업인 -> 051-512-0055 (부산 금정구 금정로 77-1)
+[KAKAO FOUND 13] Seq 413 (주)비전파크 -> 010-4226-2068 (부산 금정구 부산대학로50번길 68)
+[KAKAO FOUND 14] Seq 457 (주)에이아이로직스 -> 1544-4136 (부산 중구 해관로 65)
+Progress: 88 / 2542 | Found new: 11, Upgraded: 3
+[KAKAO FOUND 15] Seq 505 (주)소나무엔터테인먼트 -> 010-6880-7747 (부산 부산진구 중앙대로 630)
+[KAKAO FOUND 16] Seq 516 (주)제로 -> 051-808-8602 (부산 부산진구 서전로 62)
+[KAKAO FOUND 17] Seq 525 (주)롱뷰멤버스 -> 010-7203-5267 (부산 해운대구 해운대해변로298번길 24)
+[KAKAO FOUND 18] Seq 533 (주)메디펀 -> 070-8279-8507 (부산 남구 전포대로 133)
+[KAKAO FOUND 19] Seq 550 (주)마인드플러스 -> 1522-7236 (부산 해운대구 센텀2로 28)
+[KAKAO FOUND 20] Seq 546 아리온스튜디오 -> 010-9663-2546 (부산 수영구 연수로275번길 18-1)
+Progress: 168 / 2542 | Found new: 21, Upgraded: 6
+Progress: 248 / 2542 | Found new: 29, Upgraded: 6
+Progress: 328 / 2542 | Found new: 34, Upgraded: 10
+[KAKAO FOUND 50] Seq 1083 (주)초이스 -> 051-581-9996 (부산 금정구 금강로 173)
+Progress: 408 / 2542 | Found new: 39, Upgraded: 11
+Progress: 488 / 2542 | Found new: 46, Upgraded: 11
+Progress: 568 / 2542 | Found new: 55, Upgraded: 11
+Progress: 648 / 2542 | Found new: 64, Upgraded: 11
+Progress: 728 / 2542 | Found new: 67, Upgraded: 12
+Progress: 808 / 2542 | Found new: 72, Upgraded: 12
+Progress: 888 / 2542 | Found new: 79, Upgraded: 12
+Progress: 968 / 2542 | Found new: 84, Upgraded: 12
+[KAKAO FOUND 100] Seq 1926 보물상자 -> 010-5005-4873 (부산 강서구 녹산산단232로 38-3)
+Progress: 1048 / 2542 | Found new: 89, Upgraded: 12
+Progress: 1128 / 2542 | Found new: 97, Upgraded: 13
+Progress: 1208 / 2542 | Found new: 104, Upgraded: 13
+Progress: 1288 / 2542 | Found new: 106, Upgraded: 13
+Progress: 1368 / 2542 | Found new: 107, Upgraded: 13
+Progress: 1448 / 2542 | Found new: 110, Upgraded: 13
+Progress: 1528 / 2542 | Found new: 116, Upgraded: 13
+Progress: 1608 / 2542 | Found new: 119, Upgraded: 14
+Progress: 1688 / 2542 | Found new: 121, Upgraded: 14
+Progress: 1768 / 2542 | Found new: 123, Upgraded: 15
+Progress: 1848 / 2542 | Found new: 128, Upgraded: 15
+Progress: 1928 / 2542 | Found new: 129, Upgraded: 15
+Progress: 2008 / 2542 | Found new: 130, Upgraded: 15
+Progress: 2088 / 2542 | Found new: 130, Upgraded: 15
+Progress: 2168 / 2542 | Found new: 132, Upgraded: 15
+Progress: 2248 / 2542 | Found new: 132, Upgraded: 15
+Progress: 2328 / 2542 | Found new: 132, Upgraded: 16
+[KAKAO FOUND 150] Seq 3658 민트 -> 051-782-9070 (부산 해운대구 센텀북대로 60)
+Progress: 2408 / 2542 | Found new: 137, Upgraded: 16
+Progress: 2488 / 2542 | Found new: 141, Upgraded: 18
+Progress: 2542 / 2542 | Found new: 144, Upgraded: 21
+
+=== Kakao Map Deep Scan Complete ===
+Total Kakao matches found: 165
+New blank filled: 144
+Masked numbers upgraded: 21
+

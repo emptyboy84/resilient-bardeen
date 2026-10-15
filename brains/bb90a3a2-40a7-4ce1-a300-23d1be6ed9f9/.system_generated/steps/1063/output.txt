@@ -1,0 +1,13 @@
+The search for ""372-81-01636" OR "3728101636" OR "180111-1239987"" returned the following summary:
+검색하신 정보 중 **`372-81-01636`** (또는 `3728101636`)은 대한민국에 등록된 법인 기업 **'주식회사 링크빈(Link bean)'**의 사업자등록번호입니다[1]. 
+
+* **기업명:** 주식회사 링크빈[1]
+* **대표자:** 윤주현, 김대곤[1]
+* **주요 사업:** 선불식 장기상품(상조) 중개거래 플랫폼 '해약노노' 개발 및 응용 소프트웨어 개발·공급업[1][2]
+* **소재지:** 부산광역시 부산진구 전포대로 274[1]
+
+나머지 번호(`180111-1239987` 등)와 관련된 공식적인 공개 데이터베이스 정보는 특정되지 않습니다.
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELu6LPZlA_KyUtaZM13f2XnkGgQpkxgqSyQNxZ45RUjO9-kE5JiOX4NYdzhoCvDVdMNeW7A8dNNR5s6Yvk3mnFbTXYvE9_01z1WAnRQvzjJ4bBzjisjaoE27Yf80LLNq5i)
+[2] [jstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rZ0al6MQ6Yp3eKJoann8QCrAQVcmo5de8ufGfkkg6LdAV8REXJ6Q0JTXF09yi1ZUQTpPJJvaJXtYjjWyvCyg2BJ11JkXJtbGkM-75YOdKL3PHj5dehg4)

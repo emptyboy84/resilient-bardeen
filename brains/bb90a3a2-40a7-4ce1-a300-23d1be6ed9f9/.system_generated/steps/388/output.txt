@@ -1,0 +1,30 @@
+
+The command exited with code 1.
+Output:
+Loading original file: C:/Users/lg/Documents/카카오톡 받은 파일/크레탑_부산CT산업현황_261012_전략팀 전달 (1).xlsx
+
+=== Final Deep Merge Statistics ===
+Total companies: 3978
+Originally had phone: 730 (18.4%)
+Stage 1 added: 590
+Stage 2 added: 349
+  - Saramin verified full: 115
+  - Bizno verified full: 0
+  - Bizno mobile masked: 234
+Total newly added (Stage 1 + 2): 939
+Total with phone now: 1669 (42.0%)
+Still missing: 2309
+Saved TXT to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt (904202 bytes)
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+[Error: EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx'] {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\Desktop\\Today\\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx'
+}
+
+Node.js v24.11.1
+

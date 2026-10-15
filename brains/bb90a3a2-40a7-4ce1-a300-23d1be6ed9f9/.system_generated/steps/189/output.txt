@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:161
++ ... System.Text.Encoding]::UTF8); Write-Output ('Total lines: ' + .Length ...
++                                                                  ~
+'+' � �ڿ� � � �ؾ� �մϴ�.
+�ġ �:1 �:162
++ ... ext.Encoding]::UTF8); Write-Output ('Total lines: ' + .Length); Write ...
++                                                           ~~~~~~~
+� �Ǵ� � �ġ � '.Length' �ū�Դϴ�.
+�ġ �:1 �:161
++ ... System.Text.Encoding]::UTF8); Write-Output ('Total lines: ' + .Length ...
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:169
++ ... xt.Encoding]::UTF8); Write-Output ('Total lines: ' + .Length); Write- ...
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:200
++ ... put ('Total lines: ' + .Length); Write-Output ('Header: ' + [0]); Wri ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:1 �:198
++ ... utput ('Total lines: ' + .Length); Write-Output ('Header: ' + [0]); W ...
++                                                                  ~
+'+' � �ڿ� � � �ؾ� �մϴ�.
+�ġ �:1 �:199
++ ... t ('Total lines: ' + .Length); Write-Output ('Header: ' + [0]); Write ...
++                                                               ~~~
+� �Ǵ� � �ġ � '[0]' �ū�Դϴ�.
+�ġ �:1 �:198
++ ... utput ('Total lines: ' + .Length); Write-Output ('Header: ' + [0]); W ...
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:202
++ ...  ('Total lines: ' + .Length); Write-Output ('Header: ' + [0]); Write- ...
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:232
++ ...  Write-Output ('Header: ' + [0]); Write-Output ('Row 1: ' + [1]); Wri ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 
+

@@ -1,0 +1,105 @@
+
+The command exited with code 0.
+Output:
+Creating fixed copy at: C:\Users\lg\Desktop\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_李쎌닲源?댁젣.xlsx
+Exception calling "Create" with "1" argument(s): "Illegal characters in path."
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:10 char:1
++ $destStream = [System.IO.File]::Create($fixedCopy)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 
+Exception calling "CopyTo" with "1" argument(s): "Value cannot be null.
+Parameter name: destination"
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:11 char:1
++ $sourceStream.CopyTo($destStream)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentNullException
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:13 char:1
++ $destStream.Close()
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Exception calling "Open" with "2" argument(s): "Illegal characters in path."
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:19 char:1
++ $zip = [System.IO.Compression.ZipFile]::Open($fixedCopy, [System.IO.C ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentException
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:22 char:1
++ $wbEntry = $zip.GetEntry("xl/workbook.xml")
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:23 char:1
++ $sr = New-Object System.IO.StreamReader($wbEntry.Open(), [System.Text ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:24 char:1
++ $wbXml = $sr.ReadToEnd()
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:25 char:1
++ $sr.Close()
++ ~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:31 char:1
++ $wbEntry.Delete()
++ ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:32 char:1
++ $newWbEntry = $zip.CreateEntry("xl/workbook.xml", [System.IO.Compress ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:33 char:1
++ $sw = New-Object System.IO.StreamWriter($newWbEntry.Open(), [System.T ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:34 char:1
++ $sw.Write($fixedWbXml)
++ ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:35 char:1
++ $sw.Close()
++ ~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+You cannot call a method on a null-valued expression.
+At C:\Users\lg\.gemini\antigravity\brain\4a9c4f6a-48e3-4911-89be-ae0790b7534c\scratch\create_fixed_copy.ps1:37 char:1
++ $zip.Dispose()
++ ~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Successfully created fixed copy: C:\Users\lg\Desktop\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_李쎌닲源?댁젣.xlsx
+

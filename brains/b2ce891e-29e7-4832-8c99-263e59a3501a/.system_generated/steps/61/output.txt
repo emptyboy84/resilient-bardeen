@@ -1,0 +1,13 @@
+The search for ""주식회사 글로픽스" OR "(주)글로픽스" "010" OR "051"" returned the following summary:
+검색하신 **"주식회사 글로픽스"** 또는 **"(주)글로픽스"**와 관련하여, 입력하신 조건("010" 또는 "051")과 연관된 기업 정보는 다음과 같습니다.
+
+* **(주)글로픽스 (부산 소재 법인)**
+  * **업종:** 경 인쇄업 / 도매 및 소매업[1]
+  * **소재지:** 부산광역시 강서구 명지국제2로28번길 26, 501호 (명지동, 퍼스트삼융)[1]
+  * **연락처 관련 정보:** 공공 데이터 및 기업 비즈니스 정보 플랫폼에 등록된 법인 기록 중 관할 세무서인 **부산강서세무서**의 대표 번호가 **051-740-9200**으로 확인되며[1], 일부 등록 정보의 휴대전화 연락처 영역에 '010' 번호가 포함되어 관리되고 있습니다[1].
+
+*(참고로 서울 강남구 등에 위치한 동명의 마케팅·광고 대행 법인인 '주식회사 글로픽스 코리아'의 대표 번호는 서울 지역번호인 `02-2039-1877`를 사용하고 있습니다[2].)*
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFd4-4tTYb3tAsTpoDNLFuqFMokQd-U_KNBQGDAiZxoaU6JpbcR3vrNSPz0VhhbUrcIpYr9gZGMzrSxpiWTBCr9rlH8i81U2UVQIW-bzBn7EsBzX-4WkqOKoI=)
+[2] [glofix.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVsjxZke5IWMuHOLjxa0hfPdYdeMTSg9_SmNPsqr6ejA_48FiClVlaQi_3YmYLqHrOb0ofsJd5EIvOf2H4zYPIM92Rd9NGRCf9RBcttZ0l-p_ma_zWH0A9TOaMQRpFo8Jl_5SZ)

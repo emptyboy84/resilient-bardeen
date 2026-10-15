@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/search?q=070-4821-1130');
+```
+### Page
+- Page URL: https://www.google.com/search?q=070-4821-1130
+- Page Title: 070-4821-1130 - Google 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T01-02-23-163Z.yml)

@@ -1,0 +1,17 @@
+The search for "site:startup-plus.kr "페타브루"" returned the following summary:
+서울시의 통합 창업 플랫폼인 **스타트업플러스(Startup Plus)** 검색 결과에서 '페타브루'와 직접적으로 연관된 상세한 공고나 페이지 본문 내용이 직접적으로 노출되지는 않습니다[1]. 
+
+다만 **주식회사 페타브루(PETABREW)**는 고주파 레이더 및 지능형 센서 기술 전문 기업으로[2], 서울창업허브 관련 공간(예: 서울창업허브 엠플러스 등)에 입주[1] 또는 거점을 두고 활동하고 있는 유망 스타트업입니다. 
+
+기업과 관련된 주요 정보는 다음과 같습니다:
+* **주요 사업:** FMCW 레이더 및 비접촉 센서 신호처리, 정밀 알고리즘 설계, 친환경 선박/산업용 센서 솔루션 등[1][2][3]
+* **주요 이력:** 
+  * 2021년 설립[1]
+  * 한양대학교 기술지주회사 시드 투자 유치 및 중소벤처기업부 **TIPS(팁스) 프로그램** 선정[1]
+  * 서울시 및 지자체 관련 창업·실증 지원 사업 참여 이력[1]
+* **위치:** 부산본점 및 서울 R&D 센터 외에 **서울창업허브 엠플러스(M+)** 등에 지점 및 거점 보유[1]
+
+Sources:
+[1] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcAE5xr6xlpOMy_qEU4BPDSAGmgNTxLSlhfg5rKZp0g6U9EDMVsJmzX6FrCRYWexPC1dcOW5zj_277WEN1Co9wFUqVlai7aU13ig==)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXfkhXTo23xRn7LJWQ-wTE2GHNyvIz5mczHiNpGMIDVZGU9uQRSmqTdpKDh_jXjOQH8BlKtK_RSnWF4hey8vB9q88ZwllYo4vjpBSrA2iUVpdy4uDdtI3zXakLQWFMYghOdjD0XDKKjl1R92DG84YFzpk7lPRUf25m5OolPfmpmwL0QFU=)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcAE5xr6xlpOMy_qEU4BPDSAGmgNTxLSlhfg5rKZp0g6U9EDMVsJmzX6FrCRYWexPC1dcOW5zj_277WEN1Co9wFUqVlai7aU13ig==)

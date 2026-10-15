@@ -1,0 +1,16 @@
+The search for ""923-0405"" returned the following summary:
+Depending on the context, **923-0405** can refer to several different identification numbers or codes:
+
+* **BMW Part Number (61119230405):** A repair cable set or wiring harness typically used for vehicle components such as rear bumpers or Park Distance Control (PDC) sensors (e.g., in BMW E84 X1 models)[1][2].
+* **NATO Stock Number (NSN 4710-00-923-0405):** A federal supply classification code for a specific *Tube Assembly, Metal*[3].
+* **Appliance Model / Product Code:** Used by certain manufacturers (such as NODOR for electric ovens, SKU/article 9230405)[4].
+* **Postal/Administrative Reference:** Can occasionally match specific regional or institutional extension structures, postal district patterns, or database entry IDs (such as Geneanet memorial ID `#9230405`)[5]. 
+
+If you are looking for something specific (like a phone number format, internal corporate code, or specific product manual), please provide a bit more context!
+
+Sources:
+[1] [schmiedmann.es](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECx7iW1Mqs8gDX0nMW4qpkhx2LJ0A-zOIGhYd0euwwtkQM1gP43UGHDY4oFPaZ65V1iv3kiooIbnJ1i4566w1crHcbA2S2dX8HR6v-N78D73AYKvjHIriBMJsUrfQQL5XMoaxTJoSnpoirniBXefmD8iT3bVfb4lIXvOhw-oA=)
+[2] [rrr.lt](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeEq_dbTcLjCasqZEO9zAfqxWc5E3IX23j4IgpF2g3rrXo_VqQ408VVdHCElswK0weC4KHlWwEkJA27jaEIscJXy75yneA7GwGpVHFS5l4AtXixuTUPsV7R6oqWGWQfVILhN_00teyxJWw-JxtCoQlfwT1LCEbSajB_gabqlsAYOTXA5VoIkxrxVWRoJwtZBU3cuaM)
+[3] [nsnindex.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIqO0oVVF04SdNGZ6uTNtyHg-dGULvJxKTiRW32ykMu7PeKqp1_Q6HciogFRNl3JrGsEC0bdRI06bru8pBQZ1a82xNXh6GZfE8R-3CUVYKvJoqXVt0Mdeyw4rm4yQ=)
+[4] [dns-shop.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk7bu7iLtMpwp7YiF4c2CJDnWoWsUov3MKmwhrAgXp6FStgcVCSLa_-_cKwC9zVn1i9corARGJRY5AU8mojKlOcvNmHMhczHDCn9xi4nUedFcGa0zG5zRy9299v7b71rlBBYzvTKwQBE_MlgBcpF2jbFE8dUU6GfMhnxqZFVM485_EWD5V0q7Zi3xxAEYFDvhdpOIEv1OWYnhpOTKkgkfRg6f1tKpkGkm_)
+[5] [geneanet.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2l6XFnRPQ9KgyRoQvQOSlJfL0QAiu200nTeHQ88i5wjeFwTqTzl3ygcXmEbVz9h_Gac0vmSrGS9MiNQ_86ui1agY6VFC4crot6Zaml0H0Nx2fGftEVPKn5nlvfO29JMd9kNt2561aVbytFuPCGHhlXQOIyMP4oAqhUOrAoRObDydSAL27CFU=)

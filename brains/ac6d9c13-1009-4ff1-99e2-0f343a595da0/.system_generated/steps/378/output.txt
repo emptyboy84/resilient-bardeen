@@ -1,0 +1,66 @@
+
+The command exited with code 1.
+Output:
+[eval]:4
+  const statusMatch = html.match(/사업자 현재 상태[^:]*:\s*([^\s<]+)/) || html.match(/<span style=" color:\s*red
+                                                                              ^
+Unterminated regexp literal
+
+SyntaxError: Invalid regular expression: missing /
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.11.1
+font-weight:\s*bold : 'font-weight:\s*bold' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �
+�ĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:4 �:107
++ ... || html.match(/<span style=\"color:\s*red;font-weight:\s*bold;\">([^< ...
++                                               ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (font-weight:\s*bold:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\>([^<]+)<\/span>/);
+  const status = statusMatch ? statusMatch[1].trim() : 'Ȯ�κҰ�';
+  const ceoMatch = html.match(/�ǥ�\s*:\s*([^<\n\r\t]+)/);
+  const ceo = ceoMatch ? ceoMatch[1].trim() : '';
+  const addrMatch = html.match(/�ּ�\s*:\s*([^<\n\r\t]+)/);
+  const addr = addrMatch ? addrMatch[1].trim() : '';
+  console.log(art, '| �:', status, '| �ǥ:', ceo, '| �ּ�:', addr);
+}
+async function run() {
+  await testStatus('8993701327');
+  await testStatus('1734600441');
+  await testStatus('7602001657');
+  await testStatus('2242255423');
+  await testStatus('2431301682');
+  await testStatus('7830201243');
+}
+run(); : '\>([^<]+)<\/span>/);
+  const status = statusMatch ? statusMatch[1].trim() : 'Ȯ�κҰ�';
+  const ceoMatch = html.match(/�ǥ�\s*:\s*([^<\n\r\t]+)/);
+  const ceo = ceoMatch ? ceoMatch[1].trim() : '';
+  const addrMatch = html.match(/�ּ�\s*:\s*([^<\n\r\t]+)/);
+  const addr = addrMatch ? addrMatch[1].trim() : '';
+  console.log(art, '| �:', status, '| �ǥ:', ceo, '| �ּ�:', addr);
+}
+async function run() {
+  await testStatus('8993701327');
+  await testStatus('1734600441');
+  await testStatus('7602001657');
+  await testStatus('2242255423');
+  await testStatus('2431301682');
+  await testStatus('7830201243');
+}
+run();' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� Ȯ
+�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:4 �:127
++ ... /<span style=\"color:\s*red;font-weight:\s*bold;\">([^<]+)<\/span>/);
++                                                     ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\>([^<]+)<\/spa...243');
+}
+run();:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Includes 매출액: false
+Includes 매출: false
+Includes 자본금: false
+

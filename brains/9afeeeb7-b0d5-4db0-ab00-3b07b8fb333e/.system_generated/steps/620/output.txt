@@ -1,0 +1,6 @@
+### Result
+"https://search.naver.com/search.naver?query=%22070-4172-9541%22"
+### Ran Playwright code
+```js
+await page.evaluate('() => location.href');
+```

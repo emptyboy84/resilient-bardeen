@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Filled keys count: 150
+Sample entry: {
+  rowNumber: 639,
+  name: '디자인에코',
+  bizno: '603-10-85753',
+  matchedTitle: '디자인에코',
+  matchedCeo: '이돈희',
+  matchedAddress: '부산광역시 금정구 금정로 147, 4층(장전동)',
+  status: '계속사업자',
+  sourceUrl: 'https://bizno.net/article/6031085753',
+  matchedVia: 'BiznoSearch'
+}
+Sample entry 2: {
+  rowNumber: 1567,
+  name: '클린스쿨',
+  bizno: '279-88-01812',
+  matchedTitle: '주식회사 클린스쿨',
+  matchedCeo: '최보필',
+  matchedAddress: '부산광역시 사상구 모라로 22, 4층 416호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea',
+  status: '계속사업자',
+  sourceUrl: 'https://bizno.net/article/2798801812',
+  matchedVia: 'BiznoSearch'
+}
+Sample entry 3: {
+  rowNumber: 2032,
+  name: '탭아트（Tab Art） 갤러리',
+  bizno: '605-26-16097',
+  matchedTitle: '탭아트（Tab Art） 갤러리',
+  matchedCeo: '이성현',
+  matchedAddress: '부산광역시 강서구 평강로171번길 248(대저1동)',
+  status: '계속사업자',
+  sourceUrl: 'https://bizno.net/article/6052616097',
+  matchedVia: 'NaverSearch+BiznoDetail'
+}
+

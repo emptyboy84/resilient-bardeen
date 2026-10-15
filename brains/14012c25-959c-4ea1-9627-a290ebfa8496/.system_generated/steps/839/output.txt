@@ -1,0 +1,12 @@
+The search for ""써니사이드업" "박은현" OR "숲속의 작은 마녀"" returned the following summary:
+검색하신 키워드 **'써니사이드업'**, **'박은현'**, **'숲속의 작은 마녀'**는 대한민국의 독립 게임 개발사인 **써니사이드업(SUNNY SIDE UP)**과 그 대표이자 개발을 이끈 인물, 그리고 대표작에 관한 정보입니다[1].
+
+* **써니사이드업 (SUNNY SIDE UP):** 부산을 기반으로 활동하는 인디 게임 개발사입니다[1]. 
+* **박은현:** 써니사이드업의 대표로[1], 게임 애호가인 동료들과 함께 뜻을 모아 인디 게임 개발에 뛰어들어 팀을 이끌어왔습니다[2].
+* **숲속의 작은 마녀 (Little Witch in the Woods):** 써니사이드업이 개발한 대표적인 힐링 어드벤처 PC 게임입니다[1][3]. 수습 마녀인 주인공 '엘리'가 숲속에서 채집과 물약 제작, 주민들과의 교류 등 아기자기한 일상을 보내는 동화풍의 게임으로[4][3], 텀블벅 크라우드 펀딩과 스팀(Steam) 얼리액세스 등을 거치며 국내외 게이머들에게 큰 주목을 받았습니다[3].
+
+Sources:
+[1] [indiegame.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoMhMoCPdWkrEODxRZUSsZXpj8T3MOgyBEpI3XWLZ_QaxzEm7rd4qXZMg2f5_yXEuue33RAKNondi7f41k9ADwVLNVUcZgVyg617TyC2gu10ac5hXmzNI1T7g=)
+[2] [khgames.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tHv1jtolC9HzrdpC1BYairb2mgfKgBhubj6njg6CjjeWs0IsfmclJspYSisxbpIgoz0CcDXqtW1ll5wSqJRzQOzQKMbzlqRsodV7c2C6qTuNfoVLNilK9PFJ4Hym4qXjVIXiC3odVGCascTBU44WnJU=)
+[3] [gameabout.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtAV8htw73OIP8yGXcxwWrpYtQ96UZIh02ygCXzLMrI94uTOzWE3E_cKmKqwXkHfk_apVBFiuX4wN7GFkq-43IiVfaLhfNcl5a-auGSvuyFeB1v5WsvqKM42vyD7yA9ParHcuvE6kN3ju7AOCl0FJR)
+[4] [steampowered.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENpcINobk0C1k1Qx9HDFhCvlp6amWNnC4Abx8yjkS0R9CoGq0gqy5CyEU7mKJiSE_yZFBXo4ArdlJyQ3UOX-59VmaYTqfCDp_wTLOJsADAoP2fZSwSmJFtdkrgilzTcA_CIK9WSVyJnBryDvW9)

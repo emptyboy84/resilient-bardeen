@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+Get-ChildItem : A parameter cannot be found that matches parameter name 'MaxDepth'.
+At line:1 char:93
++ ... .Encoding]::UTF8; Get-ChildItem -Path "C:\Users\lg" -MaxDepth 2 -Erro ...
++                                                         ~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.PowerShell.Commands.GetChildItemCommand
+ 
+

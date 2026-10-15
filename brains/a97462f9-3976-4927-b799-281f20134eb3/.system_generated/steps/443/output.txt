@@ -1,0 +1,39 @@
+
+The command exited with code 0.
+Output:
+Total data rows: 2313
+Missing sales with BizNo: 1818
+Corporations missing sales: 1663
+
+Top 30 corporations missing sales:
+[Seq 1 / R2] 아이티에프씨 | Biz: 243-86-01731 | CEO: 051-256-8500 | Cat:  | Note: 
+[Seq 2 / R3] (주)씨드시스템 | Biz: 605-81-69424 | CEO: 051-553-1545 | Cat:  | Note: 
+[Seq 3 / R4] 커뮤니케이션다움 | Biz: 617-31-79070 | CEO: 051-626-8816 | Cat:  | Note: 
+[Seq 4 / R5] 올립스 | Biz: 182-88-00260 | CEO: 051-515-3468 | Cat:  | Note: 
+[Seq 5 / R6] 드림아이티 | Biz: 607-81-52666 | CEO: 051-507-6114 | Cat:  | Note: 
+[Seq 6 / R7] (주)씨웰 | Biz: 617-81-68490 | CEO: 051-532-1435 | Cat:  | Note: 
+[Seq 7 / R8] 알림종합인쇄 | Biz: 607-07-11710 | CEO: 051-515-2731 | Cat:  | Note: 
+[Seq 8 / R9] 유비플러스 | Biz: 605-25-68583 | CEO: 1544-3486 | Cat:  | Note: 
+[Seq 9 / R10] 주식회사 어흥 | Biz: 421-81-03033 | CEO: 010-9388-0021 | Cat:  | Note: 
+[Seq 10 / R11] 케이브로콘텐츠 | Biz: 265-88-02151 | CEO: 051-325-9918 | Cat:  | Note: 
+[Seq 12 / R13] 아트핸즈 | Biz: 605-18-21203 | CEO: 010-4571-7378 | Cat:  | Note: 
+[Seq 13 / R14] 은성스퀘어 | Biz: 606-86-37482 | CEO: 051-315-6825 | Cat:  | Note: 
+[Seq 14 / R15] 디자인하라 | Biz: 617-36-16158 | CEO: 051-731-7271 | Cat:  | Note: 
+[Seq 17 / R18] 삼화인쇄문화사 | Biz: 603-10-73335 | CEO: 051-248-9244 | Cat:  | Note: 
+[Seq 20 / R21] 엔로비 | Biz: 568-81-00674 | CEO: 070-4640-6221 | Cat:  | Note: 
+[Seq 21 / R22] 비즈폼 | Biz: 605-81-38178 | CEO: 051-553-4911 | Cat:  | Note: 
+[Seq 22 / R23] 현대이앤시 | Biz: 606-86-61342 | CEO: 051-302-6386 | Cat:  | Note: 
+[Seq 23 / R24] 나비스오토모티브시스템즈 | Biz: 617-81-58406 | CEO: 051-746-5203 | Cat:  | Note: 
+[Seq 24 / R25] 폴레옹 | Biz: 618-87-01704 | CEO: 010-4757-1896 | Cat:  | Note: 
+[Seq 25 / R26] (주) 예술은공유다 | Biz: 719-87-00600 | CEO: 051-911-1447 | Cat:  | Note: 
+[Seq 26 / R27] 마인즈체인 | Biz: 378-87-01863 | CEO: 010-8815-4404 | Cat:  | Note: 
+[Seq 27 / R28] 디자인아띠 | Biz: 607-17-91708 | CEO: 051-756-5763 | Cat:  | Note: 
+[Seq 28 / R29] 파시디엘 | Biz: 398-81-01962 | CEO: 051-581-0605 | Cat:  | Note: 
+[Seq 29 / R30] 교문사 | Biz: 607-07-46714 | CEO: 051-505-9662 | Cat:  | Note: 
+[Seq 30 / R31] 누구나(noogoona) | Biz: 802-05-01550 | CEO: 070-7797-1000 | Cat:  | Note: 
+[Seq 31 / R32] 다움기술 | Biz: 484-88-00545 | CEO: 051-751-0046 | Cat:  | Note: 
+[Seq 32 / R33] 담하 | Biz: 187-88-02337 | CEO: 010-2983-4744 | Cat:  | Note: 
+[Seq 33 / R34] 띵크마린 | Biz: 617-81-36718 | CEO: 051-333-1844 | Cat:  | Note: 
+[Seq 35 / R36] 금영인쇄출판 | Biz: 107-87-77854 | CEO: 051-301-0944 | Cat:  | Note: 
+[Seq 36 / R37] 아이엠커뮤니케이션 | Biz: 605-18-78119 | CEO: 051-925-0141 | Cat:  | Note: 
+

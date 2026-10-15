@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total: 318 | Matched: 186 | Unmatched: 132
+Saved unmatched companies to scratch/unmatched_132.txt
+

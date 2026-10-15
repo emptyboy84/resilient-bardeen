@@ -1,0 +1,47 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:78
++ ...  html.match(/<[^>]+class=[\"'][^\"']*name[^\"']*[\"'][^>]*>([\s\S]*?) ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:10 �:86
++ ... ch(/<[^>]+class=[\"'][^\"']*name[^\"']*[\"'][^>]*>([\s\S]*?)<\/[^>]+> ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:10 �:98
++ ... [^>]+class=[\"'][^\"']*name[^\"']*[\"'][^>]*>([\s\S]*?)<\/[^>]+>/gi);
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:36
++   console.log('114 name snippets:', titles ? titles.slice(0, 5) : 'no ...
++                                    ~
+',' �ڿ� � �ϴ�.
+�ġ �:11 �:37
++   console.log('114 name snippets:', titles ? titles.slice(0, 5) : 'no ...
++                                     ~~~~~~
+� �Ǵ� � �ġ � 'titles' �ū�Դϴ�.
+�ġ �:11 �:36
++   console.log('114 name snippets:', titles ? titles.slice(0, 5) : 'no ...
++                                    ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:11 �:73
++ ... sole.log('114 name snippets:', titles ? titles.slice(0, 5) : 'none');
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:13 �:6
++ test();"
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:13 �:8
++ test();"
++        ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

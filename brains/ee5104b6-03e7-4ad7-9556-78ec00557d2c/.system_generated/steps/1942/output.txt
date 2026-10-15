@@ -1,0 +1,6 @@
+### Result
+">메뉴 헤더 바로가기\n본문 바로가기\n하단 푸터 바로가기\n사이트 메인 헤더\n나이스 비즈인포\n쿠폰\n로그인\n주요 네비게이션\n홈\n내 사업장 관리\n비즈마켓\n블로그\n새 창 열림\n고객센터\n기업명, 사업자번호, 법인번호, 대표자명 검색영역\n키워드검색\n조건검색\n결과 내 재검색\n1건의 기업 검색 결과가 있습니다.\n10개씩 표시\n목록 개수 선택\narrow_drop_down\n범례표기 리스트\n상\n상장\n관\n관리\n코\n코스닥\n넥\n코넥스\nOTC\nK-OTC\n외\n외부감사법인\n일\n일반법인\n개\n개인\n공\n공기관\n비\n비영리법인\n피\n피흡수합병\n폐\n폐업\n기\n기타\n일\n\n(주)지성홀딩스\n\n560-87-0****\n\n대표자명\n옥선영\n산업명\n경영 컨설팅업\n기업주소\n부산 해운대구 해운대로**번길 **, ***동 ****호\n1\nNICE BizINFO\n회사 정보 및 저작권\n고객 지원 및 정보\n회사소개\n이용약관\n개인정보 처리방침\n법적근거\n문의/도움말\n사이트맵\n주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보\n\n대표자 김종윤\n\n사업자번호 116-81-15020\n\n통신판매업신고번호 2024-서울영등포-1095\n\nTEL 02-3771-1514\n\nEmail help@nicebizinfo.com\n\nCopyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.\n\nNICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다."
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText.substring(0, 3000)');
+```

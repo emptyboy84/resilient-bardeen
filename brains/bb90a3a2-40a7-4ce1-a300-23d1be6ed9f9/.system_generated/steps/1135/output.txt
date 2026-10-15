@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Loc 3: https://m.ssg.com/sellerhome/214249.ssg
+Loc 4: https://m.department.ssg.com/item/appItemInfoPopup.ssg?itemId=1000530644137&siteNo=6004&salestrNo=6005&infoType=6
+

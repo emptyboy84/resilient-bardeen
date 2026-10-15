@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+1 to 50 validated 16 cols perfectly.
+

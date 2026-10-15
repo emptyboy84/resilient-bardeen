@@ -1,0 +1,9 @@
+The search for ""주식회사 파이" "김도응" OR "(주)파이" "김도응"" returned the following summary:
+검색 결과에 따르면, **'주식회사 파이(파이, (주)파이)'**와 **'김도응'**에 관한 정보는 다음과 같이 확인됩니다.
+
+* **법인 설립 정보:** 2019년 7월경 부산 지역 등에서 신설 법인으로 등록된 **'파이'**(대표자: 김도응, 업종: 온라인 정보제공업 등)라는 상호의 기업 기록이 존재합니다[1]. 
+* **기타 플랫폼:** 일부 채용 및 기업 정보 플랫폼(예: 더팀스 등)에서도 '주식회사 파이'의 멤버로 김도응 관련 데이터가 등록되어 있는 이력이 있습니다[2].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8eQu2KOMksk8wKbkZLFv26OhuTTuPJpbYpcLy327rcRmzGUtKF_HbVAdWgBe8JALBdQLwIjh7DITZnVcr3FxQ3TOdTx0A7yNNV8T743cGKHmW5ppQ4aVJF21RMT4WiycfKtNU)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE05F_Y5KNud5Ecng2Jk1hFa_2hHp6P8cn9D5zA7RJzp4zEHIMSSi8oWd2gfYc_gt_KyA2iIzctyy1QIgVg0OrVivZXSXsGKerWp1Q5ajOIVwOixiHoH8r6QYI=)

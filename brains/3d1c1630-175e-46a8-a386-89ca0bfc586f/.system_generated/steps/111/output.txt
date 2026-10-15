@@ -1,0 +1,22 @@
+
+The command exited with code 1.
+Output:
+Checking Desktop files...
+
+<--- Last few GCs --->
+
+[23624:000001C0B1D03000]   249484 ms: Mark-Compact 3947.6 (4171.8) -> 3900.2 (4204.6) MB, pooled: 0 MB, 124069.48 / 0.00 ms  (average mu = 0.093, current mu = 0.079) allocation failure; scavenge might not succeed
+[23624:000001C0B1D03000]   457989 ms: Mark-Compact 3969.1 (4204.6) -> 3931.4 (4231.9) MB, pooled: 9 MB, 205241.33 / 0.00 ms  (average mu = 0.036, current mu = 0.016) allocation failure; scavenge might not succeed
+
+FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 1: 00007FF6F98C97FF node::OnFatalError+1343
+ 2: 00007FF6FA50DA77 v8::Function::NewInstance+423
+ 3: 00007FF6FA30E327 v8::base::AddressSpaceReservation::AddressSpaceReservation+322071
+ 4: 00007FF6FA30BFC6 v8::base::AddressSpaceReservation::AddressSpaceReservation+313014
+ 5: 00007FF6FA32667A X509_STORE_set_cleanup+5098
+ 6: 00007FF6FA332A96 uv_timer_set_repeat+20566
+ 7: 00007FF6F9F05BB7 v8::String::Utf8Value::~Utf8Value+143495
+ 8: 000001C0EA07733A 
+

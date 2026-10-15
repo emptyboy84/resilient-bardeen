@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+
+   Id ProcessName                   Path                                                                             
+   -- -----------                   ----                                                                             
+13784 FileSyncHelper                                                                                                 
+19480 HotkeyManager                 C:\Program Files (x86)\LG Software\LG OSD\HotkeyManager.exe                      
+ 3440 IntelGraphicsSoftware.Service                                                                                  
+  384 LGControlCenterRTManager      C:\Program Files (x86)\LG Software\LG Control Center\LGControlCenterRTManager.exe
+ 4752 LGControlCenterSVC                                                                                             
+ 4776 LGSCService                                                                                                    
+ 4760 LGTimeManager                                                                                                  
+ 4888 LGUWPService                                                                                                   
+
+
+

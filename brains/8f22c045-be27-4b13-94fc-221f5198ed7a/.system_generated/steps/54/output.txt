@@ -1,0 +1,28 @@
+The search for "site:bizno.net "조나단"" returned the following summary:
+비즈노(bizno.net)에서 검색된 '조나단' 관련 사업자 정보는 다음과 같습니다.
+
+*   **제이케이앤디 주식회사 (JKND Co.,Ltd)**[1]
+    *   **대표자명:** 조나단[1]
+    *   **주요제품:** 캐쥬얼 의류 (브랜드: thisisneverthat)[1]
+    *   **주소:** 서울특별시 서대문구 연희로11라길 10-2[1]
+
+*   **디지털엣지코리아 유한회사**[2]
+    *   **대표자명:** 조나단폴월브릿지[2]
+    *   **업종:** 데이터베이스 및 온라인 정보 제공업 등[2]
+    *   **주소:** 서울특별시 강남구 테헤란로 152[2]
+
+*   **보스톤사이언티픽코리아(주)**[3]
+    *   **대표자명:** 조나단리차드몬슨[3]
+    *   **업종:** 의료용품 도매업 등[3]
+    *   **주소:** 서울특별시 강남구 언주로30길 39 (도곡동, 19층)[3]
+
+*   **옥스포드인스트루먼츠나노테크놀로지툴스리미티드(영업소)**[4]
+    *   **대표자명:** JONATHAN CHARLES BRYON (조나단찰스브라이언)[4]
+    *   **업종:** 상품 종합 도매업 (분광기 등)[4]
+    *   **주소:** 서울특별시 송파구 충민로 10, 5층 D45호 (문정동, 가든파이브툴)[4]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpdEqt48mVdGMHJgI_J1-AWQ84H4kklW2dTBVcYDu_dtj8hPjzrK-xb13olackxMuci3tVPFCaXpN4qYSKt8TYwjeOJNHQmyt-8cvv_5UEVQUr5FyvLsjY-1I=)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD8NvzkTzAvF490gQkdFrgLQ5ykdM54mdSer0O25NCf8sfpxluh6UYCdazbF6Gc7papChoOz0tkUGWPFyG0QPKDIxLwTaMVK88p6PUeCpyup89oXBvFLunrMM=)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1j_jIonHFsYBnrSD8pJr6VTh8KMKBKjQOc8j-IW-cJwZuTl5aiWhW9GMTY_n_CUa56g9d2UAGS51apL4o2TORffXCF0ThP0s42OJknhXV3drdv2UZ0uY19kI=)
+[4] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVDX0hvdeU2YiRYdM4rC9vKHHZMS2b68lola8dISYsYfTUEWx-sCFMiU42F20gFERkejK7dh3P4m83SHKYM3nYWok8RN7QdikFPHpOlhHRermc-5Uvl_bI2EM=)

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Total in user_pasted_rows.tsv: 719
+

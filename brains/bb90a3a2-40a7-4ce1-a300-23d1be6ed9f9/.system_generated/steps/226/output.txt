@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Bizno query status: 404 Length: 3536
+Article links: null
+

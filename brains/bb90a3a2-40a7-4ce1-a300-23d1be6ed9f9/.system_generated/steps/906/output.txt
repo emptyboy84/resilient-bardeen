@@ -1,0 +1,20 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-896
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-896.log
+Log output:
+<truncated 15 lines>
+51-582-7534 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 11] Seq 581 (주)엔엑스지 -> 051-620-9200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 12] Seq 576 씨에이치(주) -> 051-868-5359 [Daum-Web] (was: NONE)
+Progress: 124 / 2277 | Total Verified: 12 (New Hits: 12, Upgrades: 1)
+[STAGE 4 HIT 13] Seq 681 (주)에스랩 -> 051-701-1301 [Daum-Local] (was: NONE)
+[STAGE 4 HIT 14] Seq 705 (주)이앤에이치프로덕션 -> 051-750-7200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 15] Seq 729 (주)원복에이아이 -> 051-310-6200 [Daum-Web] (was: NONE)
+Progress: 164 / 2277 | Total Verified: 15 (New Hits: 15, Upgrades: 1)
+[STAGE 4 HIT 16] Seq 770 (주)하늘연 -> 051-780-6000 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 17] Seq 814 수플랩스(주) -> 051-620-9200 [Daum-Web] (was: NONE)
+Progress: 204 / 2277 | Total Verified: 17 (New Hits: 17, Upgrades: 1)
+[STAGE 4 HIT 18] Seq 839 (주)엠브이씨 -> 051-580-6200 [Daum-Web] (was: NONE)
+[STAGE 4 HIT 19] Seq 843 (주)꽃팡 -> 1533-9888 [Daum-Web] (was: 010-4326-9***)
+
+Last progress: 1s ago

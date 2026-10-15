@@ -1,0 +1,43 @@
+
+The command exited with code 1.
+Output:
+�ġ �:5 �:10
++  = .Open();
++          ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:6 �:38
++  = New-Object System.IO.StreamReader();
++                                      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:7 �:15
++  = .ReadToEnd();
++               ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:8 �:8
++ .Close();
++        ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:9 �:8
++ .Close();
++        ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:10 �:10
++ .Dispose();
++          ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:11 �:18
++ [regex]::Matches(, '<a:clrScheme[^>]*>.*?</a:clrScheme>') | ForEach-O ...
++                  ~
+�޼� ȣ�⿡ ')'� �ϴ�.
+�ġ �:11 �:57
++ [regex]::Matches(, '<a:clrScheme[^>]*>.*?</a:clrScheme>') | ForEach-O ...
++                                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:59
++ [regex]::Matches(, '<a:clrScheme[^>]*>.*?</a:clrScheme>') | ForEach-O ...
++                                                           ~
+� � �Ҵ� � � �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedExpression
+ 
+

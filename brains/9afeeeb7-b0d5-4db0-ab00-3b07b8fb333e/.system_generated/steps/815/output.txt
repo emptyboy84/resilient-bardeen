@@ -1,0 +1,62 @@
+
+The command exited with code 0.
+Output:
+Col 01 | 작성자: None
+Col 02 | 비고: None
+Col 03 | 회사명: 케이안전기술원
+Col 04 | 사업자번호: 8988802742
+Col 05 | 대표자: None
+Col 06 | 우편번호: None
+Col 07 | 주소: 경남 진주시 동부로169번길 12, A동 7층 710호 (충무공동,윙스타워)
+Col 08 | 전화번호: None
+Col 09 | 팩스번호: None
+Col 10 | 홈페이지: None
+Col 11 | 이메일: None
+Col 12 | 형태: None
+Col 13 | 설립일자: 20231109
+Col 14 | 창립일자: None
+Col 15 | 종업원수: 7
+Col 16 | 업종코드1: None
+Col 17 | 업종코드2: None
+Col 18 | 업종(NICE BizINFO(업종)참고: 기타 엔지니어링 서비스업
+Col 19 | 주생산품: None
+Col 20 | 주거래은행: None
+Col 21 | 주거래지점: None
+Col 22 | 그룹명: None
+Col 23 | 주식코드: None
+Col 24 | 사업자번호: 8988802742
+Col 25 | 법인번호: None
+Col 26 | 앞주: None
+Col 27 | 상호명: None
+Col 28 | 뒷주: None
+Col 29 | 영문명: None
+Col 30 | 구상호명: None
+Col 31 | 결산월: None
+Col 32 | 매출년도: None
+Col 33 | 최근매출액: None
+Col 34 | 순익년도: None
+Col 35 | 최근순이익: None
+Col 36 | 영업익년도: None
+Col 37 | 최근영업익: None
+Col 38 | 자산년도: None
+Col 39 | 최근자산총: None
+Col 40 | 부채년도: None
+Col 41 | 최근부채총: None
+Col 42 | 자본총년도: None
+Col 43 | 최근자본총: None
+Col 44 | 자본금년도: None
+Col 45 | 최근자본금: None
+Col 46 | 지역1: None
+Col 47 | 지역2: None
+Col 48 | 업종_대: None
+Col 49 | 업종_중: None
+Col 50 | 업종_소: None
+Col 51 | 업종_11차 변경: None
+Col 52 | 코드: None
+Col 53 | 응답자명: None
+Col 54 | 응답자부서: None
+Col 55 | 응답자직위: None
+Col 56 | 응답자연락처: None
+Col 57 | 응답자이메일: None
+Col 58 | None: None
+

@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Loading workbook: C:\Users\lg\Desktop\Today\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_.xlsx ...
+Saving workbook safely...
+Workbook successfully saved!
+
+--- Update Summary Statistics ---
+  total_targets            : 318
+  biz_no_updated           : 203
+  emp_cnt_updated          : 159
+  ceo_updated              : 122
+  est_year_updated         : 145
+  est_month_updated        : 145
+  tel_updated              : 19
+  addr_updated             : 25
+  closed_date_updated      : 0
+  note_updated             : 30
+  unmatched_kept_blank     : 115
+
+Total rows modified: 203
+Detailed log written to update_log.json
+

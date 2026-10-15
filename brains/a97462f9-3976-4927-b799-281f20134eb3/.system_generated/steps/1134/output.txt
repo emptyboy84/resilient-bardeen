@@ -1,0 +1,15 @@
+The search for ""경성테크놀러지" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr" returned the following summary:
+요청하신 '경성테크놀러지'의 매출액과 관련하여 사람인(saramin.co.kr) 및 잡코리아(jobkorea.co.kr) 사이트 내 직접적인 검색 결과는 확인되지 않았습니다.
+
+다만, 공개된 언론 보도 및 기업 정보 플랫폼(넥스트유니콘, 잡플래닛 등)을 통해 확인된 관련 정보는 다음과 같습니다.
+
+*   **성장성:** 경성테크놀러지는 과학기술정보통신부로부터 '고성장기업'으로 인증받은 바 있으며, 2021년 보도에 따르면 2020년 대비 150% 이상의 매출 증가를 달성했다고 밝힌 바 있습니다[1].
+*   **기업 개요:** 2018년 5월 18일에 설립된 부산 소재의 IT 기업으로, AI 및 IoT 기술을 기반으로 한 사회적 약자를 위한 안전 솔루션(아이마커, 휠커벨, OK.AI 등)을 주력으로 개발하고 있습니다[2][3][4].
+
+정확한 최신 매출액 정보가 필요하신 경우, **'사람인'이나 '잡코리아'의 '기업정보' 메뉴에서 기업명을 직접 검색**하시거나, **'금융감독원 전자공시시스템(DART)'**을 통해 해당 기업의 재무제표를 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [globalepic.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETiFIUfNXAx_SoiyKwytTkYOb-xNuWW48xb_ffBk4Td9wuPqzEdPjnkVabgWqegbTwL8HG7SmCEyJLfpi3SVthyUJTHk-LqtaCqWqI3vEymD_ABnRYZZuD0SDjKyQvhIfNOz3DAb-jmQSwm3-sZjvHzmoEHlAkUoNEyw==)
+[2] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMD9wF-4QUDKqyM2JLXnLpB79kQKiQiIl2LB6bRz2lPQIujvwa94SqEaRKUyi7mfX1UutWreioNfz-2SK_pizCrNL67lYjqfuc5v_qou8DpbuusAONNWR3b8w0fsUVsQP8tVWWRXbXhg==)
+[3] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAEa95Xm8hjJe6LnpdRCwUMYZXNRAnzBjE1Pk1_1-VdUfOiPQzpCpRHQYkytH9b1UppjHuBduUxWeFZZpe30-_2aQJFzATftfYwDHkmD3c1i-v4hd8QTyMPGZUG9ThSBp3EbP6B20BaAWCzzsJwVxWz4eA1slzbcgbHujfvCsiQcbmUw==)
+[4] [aitimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFQptQxmriJb5c7ktRCsWpOL-vpNzRlARFegPF8_3-w1qREu-C58zoUjRI5HgBMyjNnqXmGhl9u-l6nZQls0KF4tq-CJ-_7jCCeUr0SyGEx_C3lRGNogKm_6vvUPdF024vjPiN0PsBE8TWXehhCiI=)

@@ -1,0 +1,33 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\scratch\generate_final_deliverables.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -93,17 +93,16 @@
+     const text = new TextDecoder('utf-8').decode(buffer);
+     const rows = parseCSV(text);
+ 
+-    const origHeader = [...rows[0]];
+-    let sourceColIdx = origHeader.indexOf('데이터 출처');
+-    if (sourceColIdx === -1) {
+-        if (origHeader[origHeader.length - 1] === '') {
+-            origHeader[origHeader.length - 1] = '데이터 출처';
+-            sourceColIdx = origHeader.length - 1;
+-        } else {
+-            origHeader.push('데이터 출처');
+-            sourceColIdx = origHeader.length - 1;
+-        }
+-    }
++    const targetHeader = [
++        '구분', '순번', '사업체명', '사업자번호',
++        '설립연도(연도)', '설립연도(월)', '대표자 성함',
++        '연락처', '팩스번호', '시군구', '주소', '업종분류',
++        '컨택결과', '폐업 날짜', '비고',
++        '종사자수(명) 25년 기준', '24년 매출액(원)', '25년 매출액(원)',
++        '데이터 출처'
++    ];
++    const origHeader = targetHeader;
++    const sourceColIdx = 18;
+ 
+     const gubunIdx = origHeader.indexOf('구분');
+     const seqIdx = origHeader.indexOf('순번');
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

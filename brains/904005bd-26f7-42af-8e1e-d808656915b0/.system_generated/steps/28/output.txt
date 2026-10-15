@@ -1,0 +1,14 @@
+The search for ""브이알코리아" "부산문화콘텐츠콤플렉스" OR "부산문화콘텐츠" OR "3층 2호"" returned the following summary:
+브이알코리아(주)에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 브이알코리아(주)[1]
+*   **주소:** 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠콤플렉스 302호[1]
+*   **기업 정보:** 2009년 8월 1일에 설립된 중소기업으로, 솔루션/SI/ERP/CRM 분야의 사업을 영위하고 있습니다.[1]
+
+참고로, '부산문화콘텐츠콤플렉스'는 부산광역시 해운대구 수영강변대로 140에 위치한 시설로[2][3], 내부에 다양한 기업 입주실과 지원 시설들이 운영되고 있습니다.[4][3]
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX04NjEr2hVRe5X5aH2qdmJrRTI2mhCmUBdNQy016VzVAEPoTzdpWZz7VCxD3YBk5F7nN4-_IRL-f5ho6vflkBFm4R8YYmYqlNCDVxDCBqy5xVkdzBE7p4NkdFiFG5KH8sHHwl2b8-zS6AaEsQV5ojjr2ULjzfoxkE6vtqTe_t0NOg1t661ab9CDrp0RylgKWYt5vPX8IM2Oz1bRSsogzxmg==)
+[2] [busanit.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjdViXEh8FS8aF8cGm714JV5UL_GXgDdGuWiPV2uoGBVMsHhkpG0PJjv_fl4Av13hXl3AuOA_b8d3BX21TtpjmXn3bNcdH81e89Oy1k1CWsE63rQ==)
+[3] [bipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENaLcKXKAYgvsTVlcbusabiFWapMyiiGlyyP2KQOhejBDhzzbmLru2f1sa1B_fLroPAljhd8GPlXx7rzMJczitOKVbmtlM5C1_PdS5qva6m2vSCiJn1js=)
+[4] [bzencomm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2kwF8d_htB_zVoWdSETwzGr6Es9UTL6S2cvg19CW-X_KUQS-cpcvtJWyDH435wsrEl_4FZR_7cx4EnpHMTYQtVgOBxAU3Za4H3uxexRfpObaOsV5tEsasxez5vmA9w_1AGTwAToXJcims_rfmcg9by_x_sfQ8xjoHPg==)

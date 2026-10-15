@@ -1,0 +1,11 @@
+### Result
+[
+  {
+    "title": "(주)나음 - 기업상세",
+    "href": "https://www.google.com/goto?url=CAESiQEB6zswFSVuyEhiu63G-jbv6c63Uw3sul8D0OI2yOl1BJf1PBJTIFJ444KYCfJPbyKs1i6nNQFGI18CdyR37ObNxvsgG6WV13W9wRxHkCidbHJlVmL4bfzCcP16x3fRLXteoGdieqVK4ha4mfcQUe0KK-Fs8Sv4uNLeh_8MU0_WXl1lcb5c7t54TA"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const h3s = Array.from(document.querySelectorAll(\'h3\'));\n  return h3s.map(h => {\n    const a = h.closest(\'a\');\n    return {\n      title: h.innerText,\n      href: a ? a.href : null\n    };\n  });\n}');
+```

@@ -1,0 +1,17 @@
+The search for ""(주)시드" OR "주식회사 시드" "대연동"" returned the following summary:
+부산광역시 남구 대연동과 관련된 '(주)시드' 및 유사 명칭 업체 정보는 다음과 같습니다.
+
+*   **(주)시드:** 과거 부산광역시 남구 대연동(현대오피스텔 등) 소재지로 등록된 '영화수입업' 법인 정보가 확인됩니다[1][2]. (단, 과거 자료로 현재 운영 여부는 확인이 필요합니다.)
+*   **(주)시드애드컴:** 부산광역시 남구 황령대로353번길 9-32(대연동)에 소재한 옥외광고물 업체 정보가 있습니다[3].
+*   **참고:** '시드물' 등 화장품 관련 업체나 '시드건축사사무소' 등 유사 명칭을 가진 다른 기업들이 있으나, 대연동 소재지로 검색되는 곳은 위와 같은 법인들이 확인됩니다[4][5][6][7].
+
+정확한 기업 확인을 위해서는 사업자등록번호나 구체적인 업종을 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuoaHXdfoOw-XeOQPlnk7xqVUsYqMPqlTykkuJ_8ofDJ0Gg4aDU9g242IvIJYK47yVtLY_guR7Ze_QT1OZtIwjuGj98p49gydwSKWtJ_ApprOdJsmjXvtTG5VcCg6Sl8vry3onw91TEvS47daD0a6q0pK_lx9i_A2FZWjq2aWFUFZIsaCPWBBslVSAyM6MPGrSpzikUYBz6HRore9PIxRssg7E)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuoaHXdfoOw-XeOQPlnk7xqVUsYqMPqlTykkuJ_8ofDJ0Gg4aDU9g242IvIJYK47yVtLY_guR7Ze_QT1OZtIwjuGj98p49gydwSKWtJ_ApprOdJsmjXvtTG5VcCg6Sl8vry3onw91TEvS47daD0a6q0pK_lx9i_A2FZWjq2aWFUFZIsaCPWBBslVSAyM6MPGrSpzikUYBz6HRore9PIxRssg7E)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJSAZXHuJOtl4ExSS15yrRLrZp28qGdkUkK86lO2nJ6SXBIJD1KOLXVG67DOE5Vx7w2b0mUqIIrPvMJ1KL_NEPvqtIMm3ZsJ-vlMWjr7u1MeL7ivUCiAPma-ksaQ==)
+[4] [jootek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqNyf9G6kpAoWdrR19AN5NzsbSY158Bv3z7C_MqZEw0VREYUkyQAZxT_JcY8X-R5m23XO9badhHABLLlO0G1yXiHC6L6VF-9XcMmmqtRngyDe5ImoH-A==)
+[5] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpN-5thkqYXBslOjg7uMmJ3hW_hbV5Wq0zKnXJJSATP5urTzXKUcZrwgT70qhZ2Sa1Uxe8p8LbGtycj7jNSkaqgM-eGKQX5ZSDoX62HYLhIETF8nfPAzhGaDtJ_E-LT1cLYzYHI8DTCTRfXTEOsalKQ6_bL1pthKk=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu57UoYYeTfezQHDPCV0asPLmgXW3sUHfdsQ-aK083BhyM3gy8WLpuAjv03bpemRZ8VXKM32JjRbFrF4eTTmo1t8KqyUBkzzzYmVLDDPZ6Pn8JyPVEUQ==)
+[7] [jootek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqNyf9G6kpAoWdrR19AN5NzsbSY158Bv3z7C_MqZEw0VREYUkyQAZxT_JcY8X-R5m23XO9badhHABLLlO0G1yXiHC6L6VF-9XcMmmqtRngyDe5ImoH-A==)

@@ -1,0 +1,12 @@
+The search for ""해약노노" OR "haeyaknono" OR "링크빈" "해약노노"" returned the following summary:
+**'해약노노'**는 스타트업 **주식회사 링크빈(LinkBean)**에서 개발 및 운영하는 **선불식 장기상품(상조 등) 중개거래 플랫폼**입니다[1]. 
+
+주요 서비스 및 특징은 다음과 같습니다.
+
+* **상조 등 선불식 장기상품 중개:** 소비자가 상조 계약 등을 무리하게 해약하는 대신, 양도·양수(명의변경 등)를 원활하게 할 수 있도록 돕습니다[1].
+* **경매 방식 도입:** 다중 라운드 및 프라이싱(Multi Round/Pricing) 경매 방식을 적용하여 거래 효율성을 높였습니다[1].
+* **절차 간소화 및 비대면 서비스:** 계약의 양도·양수자 간 권리 이전 절차를 비대면으로 간소화하여 제공합니다[1].
+* **부가 서비스:** 마이데이터(My Data) 기반의 보험 재설계 서비스 및 중개 설계사 평가·선택 기능 등을 함께 지원합니다[1].
+
+Sources:
+[1] [nextround.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7RcNeguBC298YN7MhU1EAcDIfccvsPDbBLnYvgM39Ll2DVSPKQ3Xmiie52d5xUVizEVEt1Rc_srJHqcEKBpwTSEXXhLQdys7P_9jC4t72tbA4gZeUy4ry1_JkSrsLfyQG0g==)

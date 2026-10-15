@@ -1,0 +1,25 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\query_bizno.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -16,11 +16,14 @@
+ 
+ async function run() {
+   const r = await fetch('https://www.nl.go.kr/seoji/');
+-  console.log('Status:', r.status);
+-  console.log('Body length:', r.data ? r.data.length : 0);
+-  // find publisher search link
+-  const m = [...r.data.matchAll(/href="([^"]*publish[^"]*)"/gi)];
+-  console.log('Publish links:', m.map(x => x[1]));
++  const forms = [...r.data.matchAll(/<form[\s\S]*?<\/form>/gi)];
++  for (const f of forms) {
++    console.log('FORM:', f[0].substring(0, 300));
++  }
++  const links = [...r.data.matchAll(/<a[^>]*href="([^"]*)"[^>]*>([^<]*출판사[^<]*)<\/a>/gi)];
++  for (const l of links) {
++    console.log('Link:', l[1], l[2]);
++  }
+ }
+ run();
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

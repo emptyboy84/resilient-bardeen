@@ -1,0 +1,11 @@
+The search for ""오션타워" "1014호" 출판 OR 인쇄 OR 도서 OR 북스" returned the following summary:
+입력하신 조건(**"오션타워"**, **"1014호"**)과 연관된 인쇄 및 제작 관련 업체의 정보는 다음과 같습니다.
+
+* **회사명/서비스명:** 머스티커 (운영 법인: (주)글로픽스)[1]
+* **주소:** 부산광역시 해운대구 해운대해변로 203 (구 우동 760-3) 오션타워 1014호[2][1]
+* **주요 업무:** 맞춤형 스티커 제작, 인쇄 및 라벨 제작 서비스 (인쇄·제작 관련 온라인 플랫폼)[1][3]
+
+Sources:
+[1] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFT_a2L19q6SDBPPs9tfFJ6mZK50-hzd_EaJFEdKHSgFkjs332CM5NNZiYq6Eq_Wsr5lRuOKLpwAKGN2guNpUGxWbVg1jLwao6xY0KdIyi47XqLDzppRK)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjXPH2CE40GJAh-63_dlQ50P72awdZRIdkvVcCMCWQNiLPvv_Xzt53n86iXQWUjuvXaiyPgMXH50-DtxfdniR9EgaPlkktJfDgEMdLK8hNn8jOii9Jc7aPYSrOyk24tdXN6Y=)
+[3] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ15G5kEIPZDypIOycewEZsdJmk_ojrMsGC1IzX47fkfAWtqblrfNfwf-9M4CxC5i6tcET2FZoi4yyPwKHLGFlzBitudJYSWMFFb5W77-bWU0LKyE7BDyVWwxJT87c0SRX)

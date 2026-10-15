@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Error: 'utf-8' codec can't decode byte 0xc0 in position 24719: invalid start byte
+

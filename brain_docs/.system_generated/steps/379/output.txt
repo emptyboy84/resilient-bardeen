@@ -1,0 +1,30 @@
+
+The command exited with code 0.
+Output:
+Total: 3978
+Sample keys: [
+  'r',       'seq',
+  'name',    'ceo',
+  'status',  'corpType',
+  'bizNo',   'bizKey',
+  'corpNo',  'industry',
+  'address', 'phone',
+  'source',  'recentYear'
+]
+Found: {
+  r: 372,
+  seq: 371,
+  name: '비에스일렉트릭(주)',
+  ceo: '허지재',
+  status: '정상',
+  corpType: '일반법인·주식회사',
+  bizNo: '346-88-02353',
+  bizKey: '3468802353',
+  corpNo: '180111-1397925',
+  industry: '응용 소프트웨어 개발 및 공급업',
+  address: '부산 남구 문현금융로 40, 8층 (문현동,부산국제금융센터)',
+  phone: '',
+  source: '미확인(누락)',
+  recentYear: '2025-12-31'
+}
+

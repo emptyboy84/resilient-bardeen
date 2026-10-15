@@ -1,0 +1,94 @@
+### Page
+- Page URL: https://www.i-um.co.kr/kr/companies/external/2b229f5b-7635-4014-933d-abcabf873b72
+- Page Title: 투투 - 기업 정보 | I:UM(이음)
+### Snapshot
+```yaml
+- generic [ref=e68]:
+  - generic [ref=e69]:
+    - generic [ref=e70]:
+      - button "설문 참여하기" [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]:
+          - generic [ref=e73]: 🌍 글로벌 출시 설문
+          - generic [ref=e74]:
+            - generic [ref=e75]: I:UM의 다음 진출 국가를 함께 정해주세요
+            - generic [ref=e76]: "|"
+            - generic [ref=e77]: 3분 설문 참여 후 얼리 액세스 혜택을 받아보세요
+          - generic [ref=e78]: 설문 참여하기
+      - button "Close" [ref=e81] [cursor=pointer]
+    - banner [ref=e85]:
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - button "메뉴" [ref=e89] [cursor=pointer]
+          - link "I:UM(이음)" [ref=e91] [cursor=pointer]:
+            - /url: /kr/index
+        - generic [ref=e93]:
+          - combobox [ref=e94] [cursor=pointer]:
+            - generic: 기업명
+          - generic [ref=e98]:
+            - textbox "기업명 검색..." [ref=e99]
+            - button [ref=e100] [cursor=pointer]
+        - generic [ref=e101]:
+          - 'button "탐색 국가 선택 (현재: 대한민국 KR)" [ref=e102] [cursor=pointer]':
+            - generic [ref=e103]: 탐색 국가
+            - generic [ref=e104]:
+              - generic [ref=e105]: 대한민국
+              - generic [ref=e106]: (KR)
+          - 'button "언어 선택 (현재: 한국어)" [ref=e107] [cursor=pointer]':
+            - generic [ref=e108]: 언어
+            - generic [ref=e109]: 한국어
+          - generic [ref=e110]:
+            - button "로그인" [ref=e111] [cursor=pointer]
+            - button "회원가입" [ref=e112] [cursor=pointer]
+  - main [ref=e113]:
+    - generic [ref=e115]:
+      - heading "투투" [level=1] [ref=e118]
+      - generic [ref=e119]: 미가입 기업
+    - generic [ref=e120]:
+      - heading "기업 개요" [level=3] [ref=e122]
+      - generic [ref=e123]:
+        - generic [ref=e124]: 업종71400
+        - generic [ref=e129]: 주소부산광역시 해운대구 센텀중앙로 48, 13층 1308 (우동, 에이스하이테크21)
+        - generic [ref=e134]: 주요 생산품시장조사등
+        - generic [ref=e146]: 종업원수2명
+        - generic [ref=e153]: 소속 단지부산센텀시티일반산업단지
+        - paragraph [ref=e157]: 이 정보는 공공데이터를 기반으로 제공되며, 아직 이음에 가입하지 않은 기업입니다.
+    - generic [ref=e159]:
+      - generic [ref=e160]: 투투 담당자이신가요?
+      - paragraph [ref=e164]: 무료로 프로필을 가져오면 회사 정보가 자동으로 입력되고, AI 매칭으로 검증된 거래처 후보를 받아볼 수 있습니다. 등록 비용은 없습니다.
+      - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기" [ref=e165] [cursor=pointer]:
+        - /url: /kr/claim/2b229f5b-7635-4014-933d-abcabf873b72
+      - paragraph [ref=e166]:
+        - link "이 회사 정보의 삭제·정정을 요청하실 수 있습니다" [ref=e167] [cursor=pointer]:
+          - /url: /kr/removal-request?ec=2b229f5b-7635-4014-933d-abcabf873b72
+    - generic [ref=e169]:
+      - paragraph [ref=e170]: 이 업체와 거래를 원하시나요? 문의를 남기면 담당자 인증 후 요청이 전달됩니다.
+      - button "이 업체와 거래·문의하고 싶어요" [ref=e172] [cursor=pointer]
+    - generic [ref=e173]:
+      - link "이음 가입 기업 탐색" [ref=e174] [cursor=pointer]:
+        - /url: /kr/companies
+      - link "주변 기업 찾기" [ref=e175] [cursor=pointer]:
+        - /url: /kr/companies/nearby
+  - contentinfo [ref=e176]:
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - paragraph [ref=e180]: I:UM(이음)
+          - paragraph [ref=e181]: "주식회사 이음네트웍스 | 대표: 김윤기 | 사업자등록번호: 503-87-03865"
+          - paragraph [ref=e182]: "경기도 화성시 정남면 서봉로903-12, 1층 | Tel: 010-9259-6498 | E-mail: contact@i-um.co.kr"
+        - generic [ref=e183]:
+          - link "회사소개" [ref=e184] [cursor=pointer]:
+            - /url: /kr/about
+          - link "공지사항" [ref=e185] [cursor=pointer]:
+            - /url: /kr/notice
+          - link "블로그" [ref=e186] [cursor=pointer]:
+            - /url: /kr/blog
+          - link "이용약관" [ref=e187] [cursor=pointer]:
+            - /url: /kr/terms
+          - link "광고 이용약관" [ref=e188] [cursor=pointer]:
+            - /url: /kr/ad-terms
+          - link "개인정보처리방침" [ref=e189] [cursor=pointer]:
+            - /url: /kr/privacy
+          - link "문의하기" [ref=e190] [cursor=pointer]:
+            - /url: /kr/consultation
+      - paragraph [ref=e192]: © 2026 I:UM(이음) Inc. All rights reserved.
+```

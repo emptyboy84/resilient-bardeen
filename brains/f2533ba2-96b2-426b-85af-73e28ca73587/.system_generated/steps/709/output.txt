@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Querying: https://bizno.net/?area=&query=%EA%B8%88%EA%B0%95%EA%B8%B0%EC%97%85%20%EC%B5%9C%EC%9E%AC%EC%8B%9D
+

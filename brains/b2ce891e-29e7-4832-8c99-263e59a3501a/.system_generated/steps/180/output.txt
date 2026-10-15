@@ -1,0 +1,19 @@
+### Result
+[
+  {
+    "text": "글로픽스기업",
+    "href": "https://map.naver.com/p/search/%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4/place/1550287372?placePath=%3Fbk_query%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26x%3D129.125102%26y%3D35.184617&searchType=place"
+  },
+  {
+    "text": "글로픽스광고대행",
+    "href": "https://map.naver.com/p/search/%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4/place/2052460628?placePath=%3Fbk_query%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26entry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=bk_query%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26entry%3Dpll%26fromNxList%3Dtrue%26originalQuery%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26x%3D129.125102%26y%3D35.184617&searchType=place"
+  },
+  {
+    "text": "글로픽스 더보기",
+    "href": "https://map.naver.com/p/search/%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4?placeSearchOption=from%3Dnx%26fromNxList%3Dtrue%26entry%3Dpll%26originalQuery%3D%25EA%25B8%2580%25EB%25A1%259C%25ED%2594%25BD%25EC%258A%25A4%26x%3D129.125102%26y%3D35.184617&searchType=place"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const titles = Array.from(document.querySelectorAll(\'span, a\')).filter(el => el.innerText === \'글로픽스\' && el.closest(\'.place_bluelink, [data-id]\'));\n  if (titles.length > 0) return titles[0].closest(\'a\')?.href;\n  const anyGlophics = Array.from(document.querySelectorAll(\'a\')).filter(a => a.innerText.includes(\'글로픽스\') && a.href.includes(\'place\'));\n  return anyGlophics.map(a => ({ text: a.innerText, href: a.href }));\n}');
+```

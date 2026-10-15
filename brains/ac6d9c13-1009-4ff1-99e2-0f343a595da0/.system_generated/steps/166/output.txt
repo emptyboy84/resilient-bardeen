@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Total lines: 128
+74: <meta name="description" content="[와이피엔터테인먼트(주)]에 대한 사업자정보를 확인하세요. 다양한 기업분석보고서를 비교하고 원하는 보고서를 구매하세요. 재무제표, 중소기업,사업자번호, 기업분석, 기업정보">
+76: <meta property="og:title" content="'와이피엔터테인먼트(주) - 기업상세' | NICE BizINFO | 사업자정보">
+77: <meta property="og:description" content="[와이피엔터테인먼트(주)]에 대한 사업자정보를 확인하세요. 다양한 기업분석보고서를 비교하고 원하는 보고서를 구매하세요. 재무제표, 중소기업,사업자번호, 기업분석, 기업정보">
+86: "name": "김재훈",
+94: "addressLocality": "기장군",
+95: "streetAddress": "기장군 문중길 41"
+124: <meta name="naver-site-verification" content="fd08b4d3a8d6ae336e7b68aa185038441b80c37d"></head><body  class="desktop no-touch body--light" style=""><!
+

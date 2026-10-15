@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:8 �:69
++ ... onst m = d.match(/<meta\s+name=\"description\"\s+content=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:9 �:33
++       console.log('=== Bizno ' + b + ' ===');
++                                 ~
+'+' � �ڿ� � � �ؾ� �մϴ�.
+�ġ �:9 �:34
++       console.log('=== Bizno ' + b + ' ===');
++                                  ~
+� �Ǵ� � �ġ � 'b' �ū�Դϴ�.
+�ġ �:9 �:33
++       console.log('=== Bizno ' + b + ' ===');
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:9 �:44
++       console.log('=== Bizno ' + b + ' ===');
++                                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:5
++     });
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:11 �:6
++     });
++      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:12 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:12 �:4
++   });
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:13 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

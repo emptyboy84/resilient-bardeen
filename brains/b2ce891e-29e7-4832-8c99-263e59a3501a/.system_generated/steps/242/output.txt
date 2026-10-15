@@ -1,0 +1,15 @@
+The search for "site:saramin.co.kr "에이비엠랩" "전화" OR "010" OR "051" OR "02" OR "TEL"" returned the following summary:
+사람인(saramin.co.kr) 내에 등록된 **(주)에이비엠랩(ABMLab Corp.)**의 채용 공고 및 기업 정보 페이지 내용 중, 요청하신 전화번호 패턴(010, 051, 02, TEL 등)에 직접적으로 매칭되는 대표 유선 전화번호는 사람인 플랫폼의 기업 정보 기본 양식상 별도로 노출되어 있지 않습니다[1][2]. 
+
+사람인 공고 내 문의처는 주로 이메일(`help@saramin.co.kr`) 또는 사람인 고객센터 번호(`02-6226-5000`)로 안내되어 있습니다[1][2].
+
+참고로 (주)에이비엠랩의 공식 채용 사이트 및 기업 공식 매체에 기재된 본사 주소 및 연락 정보는 다음과 같습니다:
+
+* **부산 본사:** 부산광역시 영도구 태종로 727, 산학허브관 11층[3]
+* **서울 오피스:** 서울특별시 강남구 강남대로120길 75, 2~4층[3]
+* **공식 홈페이지:** [abmlab.co.kr](https://abmlab.co.kr)[3]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmShwNXHeIpyggc7ApkysnhsKFJ717k-elk7gXW_pCFTJrPERygidFdtK6zF1OTcSD1ove67OtWXpY_wcnyyOYD8c8w0_x8Bp6-jWLx_lhSdbzK-9DwYLg8ldSwW81ujIVeE3QjyVmgjnWd2SViEUTxDaeoGvH2EW1yp4xyLB6UoWPJHz3pRbrh5TLNxs7yPN5QhFH8GoLxdG0DQtSvbYaZYZKEXEE56eggq2abX7xCwiYYvQ-ocMC96rAJCrGBnedmQa9IlK9eVIPB7qnRsDCNlkp)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiohRGF8j6-X8xA5_DZN6C_ACC_K6ENnUGfdnhUci9xc4NgY9A8k-ooVWnr8Ji7qG4BU2p7-_s2WRPxy-xaHeLYiOIZBEHvv5Hif9AusxM-E3IUO-Vjelc8KJROK6EL48jigL_69AsVwYF1rRbuB-ryNTXLUw65iaLlH006pNcGZkKtMuPd-q3EWo3XcA=)
+[3] [abmlab.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtxFuPup3CzHAZ5I1I5TqIoLfSY0hf_rEbECR67S0SnobO3FB74BHMdzBVWiVJw7QOxWW99tKVpp1CW57bHivc05eHmeRDxIsTuIZ8S-uCqp3U)

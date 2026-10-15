@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Hidden rows count: 1468
+Auto filter: A1:Q2314
+

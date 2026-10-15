@@ -1,0 +1,35 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:231
++ ... 7/content.md', 'utf8'); const m = content.match(/summary=\"([^\"]+)\" ...
++                                                                  ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:1 �:248
++ ... f8'); const m = content.match(/summary=\"([^\"]+)\"/); if (m) console ...
++                                                                 ~
+if ( � ) �ڿ� � � �ϴ�.
+�ġ �:1 �:273
++ ... match(/summary=\"([^\"]+)\"/); if (m) console.log('SUMMARY:', m[1]);"
++                                                                  ~
+',' �ڿ� � �ϴ�.
+�ġ �:1 �:274
++ ... match(/summary=\"([^\"]+)\"/); if (m) console.log('SUMMARY:', m[1]);"
++                                                                   ~~~~
+� �Ǵ� � �ġ � 'm[1]' �ū�Դϴ�.
+�ġ �:1 �:273
++ ... match(/summary=\"([^\"]+)\"/); if (m) console.log('SUMMARY:', m[1]);"
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:278
++ ... match(/summary=\"([^\"]+)\"/); if (m) console.log('SUMMARY:', m[1]);"
++                                                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:280
++ ... match(/summary=\"([^\"]+)\"/); if (m) console.log('SUMMARY:', m[1]);"
++                                                                         ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

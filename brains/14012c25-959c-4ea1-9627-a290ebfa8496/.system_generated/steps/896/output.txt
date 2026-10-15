@@ -1,0 +1,10 @@
+The search for ""부평1길 73" OR "부평동2가 79-6"" returned the following summary:
+제시해주신 주소는 동일한 위치의 **도로명 주소**와 **지번 주소**입니다[1]:
+
+* **도로명 주소:** 부산광역시 중구 부평1길 73[1]
+* **지번 주소:** 부산광역시 중구 부평동2가 79-6[1]
+
+부산광역시 중구 부평동(자갈치역 및 토성역, 보수사거리 인근)에 위치한 주소입니다[1].
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB2IqLHxlpgw_PDWlJNXWBsRvKq_VW1_RDkPeOQRoEGdY8pf25uyA0pCcWEu57BKjjmspMpZIZGHIzpcxppyZV47p2Hq2gOhuZ2QOFu5V42iNoe4zobZpvWOMNOZdX82zCfeNIu93Rt7HdIo55k1JBuO6O)

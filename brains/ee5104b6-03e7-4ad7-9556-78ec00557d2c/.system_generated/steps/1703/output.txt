@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+MX Host: ASPMX.L.GOOGLE.COM
+S: 220 mx.google.com ESMTP d2e1a72fcca58-86151b3c9d0si26792770b3a.63 - gsmtp
+S: 250 mx.google.com at your service
+S: 250 2.1.0 OK d2e1a72fcca58-86151b3c9d0si26792770b3a.63 - gsmtp
+S: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-86151b3c9d0si26792770b3a.63 - gsmtp
+FINAL RCPT RESULT: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d2e1a72fcca58-86151b3c9d0si26792770b3a.63 - gsmtp
+

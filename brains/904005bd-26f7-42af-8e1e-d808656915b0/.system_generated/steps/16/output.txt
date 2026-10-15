@@ -1,0 +1,14 @@
+The search for ""브이알코리아" "수영강변대로 140" OR "부산문화콘텐츠콤플렉스"" returned the following summary:
+**부산문화콘텐츠콤플렉스(BCC)**는 부산광역시 해운대구 수영강변대로 140(우동 1466-1)에 위치한 시설입니다[1][2][3].
+
+**브이알코리아(주)**와 관련하여 확인된 정보는 다음과 같습니다.
+*   **소재지:** 브이알코리아(주)는 부산문화콘텐츠콤플렉스 내에 입주해 있는(또는 입주했던) 기업으로, 해당 건물(수영강변대로 140) 내의 사무실(예: 302호 등)을 주소지로 등록하고 있습니다[4][5].
+*   **참고:** 해당 주소지(부산문화콘텐츠콤플렉스)는 부산정보산업진흥원에서 운영하는 시설로, 다수의 문화콘텐츠 및 IT 기업들이 입주하여 활동하는 공간입니다[1][6].
+
+Sources:
+[1] [busanit.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwNTH8-DmFSOOS5Ems5zJI2l2K4dSrZiJSYNoq55rIIUVO_91H6mynBeTQw7atAcE1XYDwYrGkWKcY1_OwLObGxSDWu5i5LK_YOqnh6zBByCCcwA==)
+[2] [doi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH69K4VDiTBAPeIkQkNMlnXmuNH_AlhvSNjFInp581B4SQ39RLlfLEWQZ1NU0MgDym3VMVr6uV8CD_eHjHQ9UdHY-nI_VbB37eVIx383l86lFcWmizgCk5P4V2iWYgZO79IXouDU229CrB0)
+[3] [dodm.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6TLMUut_J8dmLnBvPG6Ph5TO2nkiUiA3FELoghqaBvoj5xGBjhFepeDqaCBLsf8nCm7epqGZ3FtAy-wrt98eIM56YeWTSE1hkNB_q3y0uHd9fbQh0esjsKjk6X7l9dLJZslqOBtth)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdTfPds0ynN6yjXoyw3xAYyYxCLoRjEDmak6TEpoeIeUQiB1BG6vsQ2NBFhEzxEcC_j6Mbyc8LdXNB3a3FwQAsPf9wFbOsYgWRqRdCb6I-oSM5tePt-uTVF48iuqzTQle6t21Of7-bFdSx9N3gEksJxZbKkWSPjs8aN6Z_4TZuFHx0nLVgSAvNgK5RVM13Iv9-Px_29TxWZkJjI6kVXSTAw==)
+[5] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdTfPds0ynN6yjXoyw3xAYyYxCLoRjEDmak6TEpoeIeUQiB1BG6vsQ2NBFhEzxEcC_j6Mbyc8LdXNB3a3FwQAsPf9wFbOsYgWRqRdCb6I-oSM5tePt-uTVF48iuqzTQle6t21Of7-bFdSx9N3gEksJxZbKkWSPjs8aN6Z_4TZuFHx0nLVgSAvNgK5RVM13Iv9-Px_29TxWZkJjI6kVXSTAw==)
+[6] [bizinfo.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnUpV1UhDzb8hCmjp72T9riEwnO1Ta5ThkvJmPFx3wItUnmRrS13cqbYwNklZSt0jB-IfkK5eI0HDbzclyD684pq4YOM3ZHi_KyLk8ksIIgd1SOR_ncbEzwdRQO-qYaH5JfQwblAD42r43NfH_jUo76mrxESYa_rKwEBQGzSXWyqzS4soteBOK6O5FcDo9pz0lXGQVS0mcHWgBf7gtqNx5luT-jEvzflyeUe2U8GfmFCdDIA==)

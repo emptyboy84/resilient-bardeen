@@ -1,0 +1,84 @@
+
+The command exited with code 0.
+Output:
+Initial rows count: 2314 (Header: 1, Data: 2313)
+Cleaned internal newlines in fields: 13 occurrences
+
+--- Applying 7 Target Companies ---
+[Applied] 운도게임스튜디오 (Seq 2087)
+[Applied] 비바몬스터 (Seq 2093)
+[Applied] 와라봐라 (Seq 2099)
+[Applied] 조은글방 (Seq 2100)
+[Applied] 엠에스네트워크 (Seq 2104)
+[Applied] 스튜디오바다 (Seq 2106)
+[Applied] 스튜디오더블린 (Seq 2116)
+
+--- Applying Sales from Excel Inspection ---
+[Applied Sales] [Seq 1772] 북컬쳐(부산) | S24: 2,903,290,000 | S25:  | Note: [출처: 사람인]
+[Applied Sales] [Seq 1799] 케이텍 | S24: 1,988,430,000 | S25:  | Note: [출처: 사람인]
+[Applied Sales] [Seq 1811] 레고스토어 | S24: 30,000,000,000 | S25:  | Note: 본사자료 공유(알비스) [출처: 잡코리아/비즈노]
+[Applied Sales] [Seq 1785] 영풍문고 신세계 센텀시티점 | S24: 149,511,000,000 | S25: 145,270,330,000 | Note: 본사자료 공유(영풍문고) [출처: DART 감사보고서]
+[Applied Sales] [Seq 1788] （주）교보문고 해운대 팝업스토어 | S24: 820,000,000,000 | S25:  | Note: 본사자료 공유(교보문고) [출처: DART 전자공시]
+[Applied Sales] [Seq 1794] 노블레스미디어인터내셔날부산 | S24: 21,250,000,000 | S25:  | Note: 본사자료 공유 [출처: 사람인/잡코리아]
+[Applied Sales] [Seq 1803] 롯데쇼핑(주)토이저러스 동부산점 | S24: 14,555,900,000,000 | S25:  | Note: 본사자료 공유(롯데쇼핑) [출처: DART 사업보고서]
+
+--- Adding Sources to Existing Sales Rows ---
+[Source Attached] [Seq 702] 주식회사 브이드림 -> Note: [출처: 실사검증/사람인]
+[Source Attached] [Seq 638] 디자인에코 -> Note: [출처: 대한전문건설협회]
+[Source Attached] [Seq 1541] 산마루 -> Note: [출처: 잡코리아]
+[Source Attached] [Seq 1566] 클린스쿨 -> Note: [출처: 사람인/잡코리아]
+[Source Attached] [Seq 1629] 한스이엔지 -> Note: [출처: 잡코리아/인크루트]
+[Source Attached] [Seq 1644] 한솔교육 -> Note: [출처: 인크루트/잡코리아]
+[Source Attached] [Seq 1685] 비비스로지틱스 -> Note: [출처: 실사검증]
+[Source Attached] [Seq 1731] 아이지오 -> Note: [출처: 사람인/인크루트]
+[Source Attached] [Seq 1756] (주)창비부산 -> Note: [출처: 실사검증]
+[Source Attached] [Seq 1762] 새부산기독교서적센타 -> Note: [출처: 실사검증]
+[Source Attached] [Seq 1777] 주식회사 아트몰링리노베이션 -> Note: [출처: 사람인]
+[Source Attached] [Seq 1805] 미디어CAPSULE -> Note: [출처: 인크루트/쿠키딜]
+[Source Attached] [Seq 1806] (주)삼성출판사 롯데동래점 -> Note: 본사자료 공유 [출처: DART/인크루트]
+[Source Attached] [Seq 1814] 야야토이 -> Note: [출처: NICE평가정보/사람인]
+[Source Attached] [Seq 1815] 또래나라 -> Note: [출처: NICE평가정보/잡코리아]
+[Source Attached] [Seq 1816] (주)함께가는사람들 부산지점 -> Note: [출처: 잡코리아/비즈노]
+
+--- Applying Newly Discovered Verified Sales ---
+[New Sales Applied] [Seq 153] ㈜마이비 | S24: 83,348,210,000 | S25:  | Note: [출처: 사람인/DART/캐치]
+[New Sales Applied] [Seq 2075] 주식회사 마이비 | S24: 83,348,210,000 | S25:  | Note: [출처: 사람인/DART/캐치]
+[New Sales Applied] [Seq 2] (주)씨드시스템 | S24:  | S25: 975,440,000 | Note: [출처: 사람인/잡코리아]
+[New Sales Applied] [Seq 60] 주식회사 윈트리 | S24: 8,120,000 | S25:  | Note: [출처: 사람인/NICE평가정보]
+[New Sales Applied] [Seq 94] (주)사운드리더 | S24:  | S25: 388,170,000 | Note: [출처: 사람인/잡코리아]
+[New Sales Applied] [Seq 97] (주)라이브엑스 | S24:  | S25: 17,500,000,000 | Note: [출처: 사람인/잡코리아/언론보도]
+[New Sales Applied] [Seq 122] 주식회사 부일기획 | S24: 3,900,000,000 | S25:  | Note: [출처: 사람인/잡코리아]
+[New Sales Applied] [Seq 192] 대성토이즈 | S24: 2,045,430,000 | S25:  | Note: [출처: NICE평가정보/사람인]
+[New Sales Applied] [Seq 220] (주)에핀 | S24: 303,140,000 | S25:  | Note: [출처: 사람인/동서대창업보육]
+[New Sales Applied] [Seq 250] 미디토리 | S24: 297,580,000 | S25:  | Note: [출처: 사람인/잡코리아]
+[New Sales Applied] [Seq 434] (주)포미트 | S24:  | S25: 5,666,960,000 | Note: [출처: 인크루트/사람인/잡코리아]
+
+--- Applying Closed Companies Info ---
+[Closed Updated] [Seq 125] 블루호텔레코딩스튜디오 | Closed: 2026-04-30 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 618] 드림유엔터테인먼트 | Closed: 2023-12-08 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 707] 모션박스 | Closed: 2015-04-21 | Note: 폐업 국세청 폐업 확인
+[Closed Updated] [Seq 830] 스카이미디어 | Closed: 2008-12-15 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1033] 위컴퍼니 | Closed: 2019-09-30 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1050] 이노커뮤니케이션즈 | Closed: 2008-12-01 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1060] 이송 | Closed: 2023-05-04 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1178] 코리아헤럴드내외경제신문 | Closed: 2024-06-30 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1341] 다인커뮤니케이션즈 | Closed: 2021-07-25 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1492] 태림부산음악사 | Closed: 2010-08-31 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1588] 에스씨제이 | Closed: 2026-06-30 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1603] 고움 | Closed: 2021-01-01 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1625] (주)네오테크놀러지 | Closed: 2018-11-06 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1718] 제이케이스크린(사직점) | Closed: 2025-02-28 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1719] 안락스크린골프연습장 | Closed: 2023-09-06 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1743] 레더스 | Closed: 2026-07-20 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1766] 부산일보 당감지국 | Closed: 2025-12-20 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1792] 도서출판CTM | Closed: 2020-07-31 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1796] 도서출판양업서원 | Closed: 2017-12-24 | Note: 폐업자 국세청 폐업 확인
+[Closed Updated] [Seq 1797] 한얼꿈출판사 | Closed: 2024-12-31 | Note: 폐업자 국세청 폐업 확인
+
+Final row count: 2314 (Header: 1, Data: 2313)
+Wrote temp file: C:/Users/lg/Desktop/Today/temp_verified_output.csv (Size: 366862 bytes)
+Temp validation: Parsed rows = 2314
+Temp validation: Physical non-empty lines = 2314
+PERFECT! Both parsed and physical line count match exactly 2314!
+Successfully updated target CSV: C:/Users/lg/Desktop/Today/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.csv
+

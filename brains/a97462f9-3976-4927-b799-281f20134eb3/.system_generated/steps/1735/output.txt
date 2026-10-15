@@ -1,0 +1,9 @@
+### Result
+[
+  "번호 | 지역 | 상호 | 대표자 | 도메인 | 운영상태 | 신고일자",
+  "등록된 정보가 없습니다"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const table = document.querySelector(\'table\');\n  if (!table) return \'No table\';\n  return Array.from(table.querySelectorAll(\'tr\')).map(r => Array.from(r.querySelectorAll(\'th, td\')).map(c => c.innerText.trim()).join(\' | \'));\n}');
+```

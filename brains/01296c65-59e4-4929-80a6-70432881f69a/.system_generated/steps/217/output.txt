@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+--- occurrence at 807 ---
+ 응용 소프트웨어 개발 및 공급업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 휴업자 설립일(신고/인허가일) : 2018-01-01 대표자명 : 황재섭 회사주소 : 부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea 종업원수 : 2명 사업자등록번호 : 105-88-02863 법인등록번호 : 110111-5416303"> <meta property="og:type" content="w
+--- occurrence at 1628 ---
+ 응용 소프트웨어 개발 및 공급업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 휴업자 설립일(신고/인허가일) : 2018-01-01 대표자명 : 황재섭 회사주소 : 부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea 종업원수 : 2명 사업자등록번호 : 105-88-02863 법인등록번호 : 110111-5416303"> <meta property="og:image" conten
+--- occurrence at 6667 ---
+ 응용 소프트웨어 개발 및 공급업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 휴업자 설립일(신고/인허가일) : 2018-01-01 대표자명 : 황재섭 회사주소 : 부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea 종업원수 : 2명 사업자등록번호 : 105-88-02863 법인등록번호 : 110111-5416303"> 
+--- occurrence at 9385 ---
+ 휴업자 &nbsp;&nbsp;&nbsp;※국세청 홈택스 실시간 정보제공 <script async src
+

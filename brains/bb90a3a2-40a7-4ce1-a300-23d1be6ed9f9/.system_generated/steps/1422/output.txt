@@ -1,0 +1,12 @@
+The search for ""대경산업개발" 부산 OR 해운대 OR 센텀 OR 손정희" returned the following summary:
+검색 결과, 입력하신 키워드와 일치하는 기업 정보는 다음과 같습니다.
+
+* **회사명:** (주)대경산업개발[1]
+* **대표자명:** 손정희[1]
+* **설립일:** 2019년 6월 25일 (업력 8년차)[1][2]
+* **소재지:** 부산광역시 해운대구 센텀중앙로 97, 비동 씨105호 (재송동, 센텀스카이비즈)[1]
+* **주요 사업내용:** 경영컨설팅업[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLjM4EN_OJ362vqKKibMJeJVqaiwG4RZnw8JgVzg5AA4FBB55Mx7U_ASQo3dTAhR9juoaqEUtN-j1u5nbMCeF_mF47NtAUXHiXe6voorlppAxK3JbMyzKKGiKtpjNppiuSDaUzfpHh2t7j38fp8lM_b6T12_8RhDufc3Lo1fah--v5_Mz-aJVK8osLMYBKmcnaihuB6DTNXZz0VYgrZsAqOk9n4UL8d9r6TBIFzKh5CwpcX4hWsjraSEgOLoyKn81QAsX4z3bpTRwSjgLTgLKSephV32iGivBoyjAjAGcDQA==)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdxrDDP5KuzHLCClTFK066j2l-2Zz1wFAFh9TX_muQCQSXObfoR9PGwozudgdhiD2zBJmzeT6ToQYrNXRSP_uCcc1ernvna39OarQTEh0uIMAGj64DtnuGcO-v9u4v0_wzSdw8EKeYI7PPa6DrmTbW9sGk)

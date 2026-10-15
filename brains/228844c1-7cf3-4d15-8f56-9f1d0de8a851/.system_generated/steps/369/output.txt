@@ -1,0 +1,13 @@
+### Result
+[
+  "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000",
+  "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000",
+  "https://book.mcst.go.kr/html/searchView.php?regn=252002013000004&ac1=6260000&ac2=3330000",
+  "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000",
+  "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000",
+  "https://book.mcst.go.kr/html/searchView.php?regn=251002013000012&ac1=6260000&ac2=3330000"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    return Array.from(document.querySelectorAll(\'a[href*="book.mcst.go.kr"]\')).map(a => a.href).filter(h => !h.includes(\'naver.com\'));\n}');
+```

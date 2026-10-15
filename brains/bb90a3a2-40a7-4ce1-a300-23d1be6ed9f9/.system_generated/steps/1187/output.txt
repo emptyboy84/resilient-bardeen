@@ -1,0 +1,28 @@
+
+The command exited with code 0.
+Output:
+Fetching: https://www.jobkorea.co.kr/Recruit/Co_Read/C/22554851
+Status: 200
+Len: 124525
+Phones in Co_Read: [ '1588-9350', '02-565-9351' ]
+Item: 대표자 변수혁
+Item: 홈페이지 -
+Item: 주소 경기 안산시 단원구 민속공원로 96 (고잔동, 하늘빌딩) 3층
+JSON-LD: 
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "기업 정보",
+                "item": "https://www.jobkorea.co.kr/search/?tabtype=corp&page_no=1"
+            },{
+                "@type": "ListItem",
+                "position": 2,
+                "name": "㈜휴먼위드원",
+                "item": "https://www.jobkorea.co.kr/recruit/co_read/c/22554851"
+            }]
+        }
+    
+

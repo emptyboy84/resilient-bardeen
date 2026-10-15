@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Sheet: 기업 정보
+Sheet: 사용 사이트
+Found: [
+  {
+    "rowNumber": 19319,
+    "values": [
+      null,
+      null,
+      null,
+      "유잇츠",
+      7724400211,
+      "정인섭",
+      null,
+      "경남 양산시 물금읍 야리3길 22 (가촌리)",
+      "-",
+      "-",
+      null,
+      "-",
+      null,
+      "20161018",
+      null,
+      null,
+      null,
+      null,
+      "주형 및 금형 제조업",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "7724400211"
+    ]
+  }
+]
+

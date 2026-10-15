@@ -1,0 +1,11 @@
+### Result
+{
+  "clicked": true
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const input = document.querySelector(\'input.q-placeholder\');\n    input.focus();\n    input.value = \'8990100125\';\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    \n    const searchBtn = document.querySelector(\'button.btn-main-search\');\n    if (searchBtn) {\n        searchBtn.click();\n        return { clicked: true };\n    }\n    return { clicked: false };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=8990100125
+- Page Title: '8990100125' - 검색상세

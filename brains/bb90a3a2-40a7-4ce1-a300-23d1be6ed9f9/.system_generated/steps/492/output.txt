@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Naver [저스티스어드벤처] found phones: []
+Naver [저스티스어드벤처 전화번호] found phones: [ '070-8690-2030', '070-8821-7991', '070-8861-7991' ]
+Naver [센텀스카이비즈 B동 603호] found phones: [ '051-784-4974', '051-754-3366', '051-747-7600', '051-909-0802' ]
+Naver [조현제 저스티스어드벤처] found phones: [ '02-3010-2000' ]
+

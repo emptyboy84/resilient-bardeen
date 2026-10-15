@@ -1,0 +1,11 @@
+The search for "site:kipris.or.kr "디쓰리디" OR "비쓰리디" OR "하지태"" returned the following summary:
+특허정보검색서비스(KIPRIS)에서 **'디쓰리디'**, **'비쓰리디'**, **'하지태'**로 직접 검색할 경우, 정확한 명칭 표기 방식이나 출원인/발명자 등록 정보 형태에 따라 키프리스 웹사이트 내 직접 검색 결과와 차이가 있을 수 있습니다[1]. 
+
+다만 패션테크 기업 **(주)디쓰리디(대표 하지태)**는 3D 가상 의류 및 패턴, 패션 IT 기술 분야에서 다수의 지식재산권(특허 출원 및 등록)을 보유하고 있는 것으로 확인됩니다[2][3][1]. 
+
+구체적인 특허 공보 전문, 출원번호, 등록여부 등의 상세 조회는 **[KIPRIS 공식 홈페이지(kipris.or.kr)](https://www.kipris.or.kr)**에서 출원인 명칭을 `디쓰리디` 또는 발명자/출원인 `하지태`로 설정하여 직접 조회하실 수 있습니다.
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgWJPJyn6ckFPn1eq71t1votqZZ3SW2uOpXC-upPxwLwvujgjDJv-lK66i41o8bZ2tkPrkmuoQ9AWVjvS_HZdCu3GPmWCkZ9ypS39oDxeTWuVEsF8r7-ndYp9yau-oXZDZNTJVjjKEZuoMgTbGx213V5N6INenGBviV73-h575g16g)
+[2] [ktnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMDVNo7-bBVMMIVjy_iRvvHv-Ok_7bS5S2UU3FAwwOeiwLDFTvTwawUBrcUe6NUa5nr5yraO9iEACdN9hbCgegQ9n75R2YLHxB45nOnDCpioFOF4kJ3yXQpsKMlsyO9xWBDpvgPFuWquaG_sgWLGA=)
+[3] [d3d.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM69v__KEdE5mB_tHPJkEjNAycjWSr6S7ifRkLy7nMGUbJsjcNQZXPA4l0Dh8yyzH3LUBV62N_AOhFkz77HuKU0XV9fea3brbOj3g1jw5zwvU=)

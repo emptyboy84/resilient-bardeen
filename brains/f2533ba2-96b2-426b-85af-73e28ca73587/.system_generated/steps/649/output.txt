@@ -1,0 +1,82 @@
+
+The command exited with code 0.
+Output:
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_inpGlobalSearch',
+  name: '',
+  placeholder: '검색어를 입력해 주세요.',
+  className: 'w2input '
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_0',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_1',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_2',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_3',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_4',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_5',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_6',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_7',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_8',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_9',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input_10',
+  name: 'mf_wfm_gnb_wfm_gnbBtm_sbxBsneSe_input',
+  placeholder: '',
+  className: 'w2checkbox_input'
+}
+{
+  id: 'mf_wfm_gnb_wfm_gnbMenu_iptSearchText',
+  name: '',
+  placeholder: '어떤 메뉴를 찾으세요?',
+  className: 'w2input ipt-sitemap'
+}
+

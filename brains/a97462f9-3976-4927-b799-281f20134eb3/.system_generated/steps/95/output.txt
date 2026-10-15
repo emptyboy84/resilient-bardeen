@@ -1,0 +1,13 @@
+The search for ""운도 게임" "김도현"" returned the following summary:
+"운도 게임"과 "김도현"이라는 키워드로 검색한 결과, 해당 조합이 직접적으로 언급되는 특정 게임이나 콘텐츠는 확인되지 않습니다. 다만, 각 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **김도현:** 야구 선수(KIA 타이거즈 투수)로서의 김도현에 대한 언급이 많습니다[1][2]. 감독들이나 언론에서 그의 실력과 관련해 "운도 실력이다"라는 표현을 사용한 사례가 발견됩니다[3].
+*   **운도 게임:** "운도 실력이다"라는 표현은 팀빌딩 레크레이션 프로그램[4]이나 스포츠 경기 등에서 자주 사용되는 문구이며, 특정 게임의 고유 명칭으로 보기보다는 운 요소가 강한 게임을 지칭하는 말로 쓰이는 경우가 많습니다.
+
+혹시 찾으시는 내용이 특정 게임 제목이거나, 다른 분야(방송, 웹툰 등)의 인물과 관련된 것인지 확인해 주시면 더 정확한 답변을 드릴 수 있습니다.
+
+Sources:
+[1] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwthfA0G9GI1LzF3e-9X86UinB6g_uAYrejgvlLBljAefF0nXzkpDWTpUgQveXjCrngul5NKXwEjo79KZjRBY1rDAMeLIVn5-sVVtzuAwQ6zW4R71XZ8QwdPd1qg==)
+[2] [wisetoto.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlTXFccZbWR3MyFyDntQ1U_ux1mPfSdW1IoZnnJfdbtzz4xo3HABEUNRqL1C0rXLdtSW4rAonkwRyGG9qvgk-P4W8pw4uQ2JfR41T6LVAp0_4eokIcOWQzardCHZhGX9wTlxMQSOoT1UvQASBNrBlK5KAidaluND0t2MBAfTUK3iAE0PXKb5rUyQM0YDh1uCMGRp8qK9rB9g==)
+[3] [thebilliards.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9aFDysVy9XcaHbcvQgk2KoKYFbaP1VHdJ0hpvgUIWfiIAGo-GURAkvPUy0FIWqaXEztCA95hr3wJ7Px06wbEpVSu61C0IqUKnfy5gbLtzXnnrSxN9GhrfiScNzxToahZV40mZZICrFucXrcHTgXLbCfOQ)
+[4] [lecturernews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB5H2cc8KX57qkea-wlPkTmbx4fQmBJEkG52P8e0cqLTUb0cH1dAYWJ5NZJU-QQuiURS-47VKo3dadePXwqfh2kaualcwXfZWU_BY02JmeBZYU7WAd_zTN-3c-vPXZgVmBC0K4Y6CHho2YQghBSWFOYaEQufA=)

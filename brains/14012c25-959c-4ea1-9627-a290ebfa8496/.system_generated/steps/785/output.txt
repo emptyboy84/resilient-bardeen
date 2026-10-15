@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:51
++     const matches = data.match(/href=[\"']([^\"']+)[\"']/g);
++                                                   ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:7 �:53
++     const matches = data.match(/href=[\"']([^\"']+)[\"']/g);
++                                                     ~
+'[' �ڿ� � �̸� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

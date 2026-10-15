@@ -1,0 +1,23 @@
+The search for ""해운대스위트호텔" OR "직장선배" "센텀동로" OR "비지파트너스" "구남로18번길" OR "하늘경제" "센텀중앙로 48"" returned the following summary:
+제시하신 검색어 키워드들은 주로 **부산광역시 해운대구(센텀시티 및 해운대해수욕장 일대)**의 호텔, 도로명 주소, 기업 및 상호명과 연관되어 있습니다[1][2][3][4]. 
+
+* **호텔 및 숙박 관련:** '해운대스위트호텔'(또는 센텀스위트호텔, 해운대센텀호텔 등 센텀시티 및 해운대 일대의 비즈니스·스위트형 숙소들)[1][5][2]
+* **주소 및 위치 관련:** 
+  * 센텀 지역: `센텀동로`, `센텀중앙로 48`(에이스하이테크21 빌딩, 파이브스팟 센텀시티점 등이 위치한 주소)[6][7]
+  * 해운대해수욕장 인근: `구남로18번길`(다수의 호텔, 레지던스, 리조트 등이 밀집해 있는 골목 주소)[4][8]
+* **기타 상호·키워드:** `직장선배`, `비지파트너스`, `하늘경제` 등 마케팅 대행, 금융·컨설팅, 교육 및 커뮤니티 관련 키워드가 포함되어 있습니다[9][10][11].
+
+특정 정보나 장소 찾기, 혹은 추가로 궁금한 점이 있으시다면 구체적인 내용을 함께 말씀해 주세요.
+
+Sources:
+[1] [yeogi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcsv9vAyis6zjZmQJeEgvtO4LK6X-wUB4kKupXHV7A88Ii_LfZTJmCH8BrWk33ARylvKS-VZGhjX7LqPIaVeFsFlEuG7apCYJU0VfrDDGtuh-6Mf1Kr2RK9Cle5c13cHz6QS1DSffcX5A=)
+[2] [agoda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1denpZvjdHnPHojKy2B9KnYj9eKA4PGsoNWiwGvPJEt5OzN8Beu9uLUKEXeQvJFOUlaeY9dDL1YeamyExBVB8Lopic9xxb8j08CiX47uTd8GoFsuiZGyUY-EA91_w8SNRbV5YgTvzrXtMPLezh-k=)
+[3] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISJSu-assGfojy3yB4yHN0GTJ13it-qTK6Ue0b7J_eC6_3zjlbI2cf7cpBA8oPcnQOH6LHPFOvrssucWzLPs_PouMx6ssbb1D45Q6MH3_0BN42je_AL7_VRCXIZpJ0Zh6CQuiXig9NeKJsYgclxsBEMFt79YNceAaNcXJNi7vzdx6fQuM9bhZiq_5vl-t-NTQhft8H5pVeF1M7isPDJW_VsMyQYaX8Tdpy91xDWJWmf24QFBDqfblLUF-OrCz8HT0Fn0KnoeMufxhlIrki8z560RAQQycx2oOjnMIUO1jdIkiDxM8hpIr99cBrEWG8eBx0y93nnhpPtYC)
+[4] [yanolja.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC0htcKLXC6X4KFhUL8YscPL-RrQWN6_YPfGPbBGu03KOI6NheGQ0EFtZccOEm0GcjW4vk1kQjif7gX6aoNB3WPEXpOOxPovKslLMriy0ttDlUPTwcDVxSvQ_kFfhZ2U26KJI=)
+[5] [ecentumhotel.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsmBGlw-aKbvt3Vuua8KfwKuCW4vuFsugJiWBkQ8DkpZEhOn9JwqjU-qZdQp9yd-hrMFF3gE7Hj5yYdWTl1bAW5aI10Bn9gF5iwrMUAlRY1HTcIOVjZ6PA80N3Q9N3sJP9-hcul9uBth_g_MZby_JMwiNIBS4hAjqrfIeaRogYiYHxckNB8GbLisg=)
+[6] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBAGyzvXkGcQ60M_FgFrBe7G1-3UJ625CZNdGbC31US4UcRdrQVBgVEFYE4w6tEpKwFoN3G4iYhud_No0rPFwnIBLvu4bL3GwZLoftz81deytjsDS7NAWVU7_682CiTxDjbwSTK7ysKiapBKvzwMjgsNiCKrATvF1TNqSeZ6xqaAcX06-6bF-qH-YZFc4=)
+[7] [fivespot.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBPvW5m38RHh5BAt8tDTa_UsWHSzvjjbgePzE42TlhExm0YFOSrjQDw39CtL_I7U1CWmGUMmgkkUde9xAIBBNxuXGmQ_qlO-PE5bfXarAHcQ==)
+[8] [agoda.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGynNKiCRsDxrUvr_v1HlsYYb0jktHL7LwVFeomNUkGHGUICYSqBWqPs4D6bELnGzkQXOaE5eMlHamylr6qAoCC_4NlLKwdZ9ZaVGpY0Z4zAxdjHrfKF_MTiR7A9T_F_Vp3ijo962oEOjdQATBpl1Nxa9NmN0bg7vatg_JGLYMqpzKL3W9FK3YDTHT_g5igKuzC0bsGZg==)
+[9] [tojobcn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0xHSlsKBMIt3MD3xW2Nzle2hHRLC4gcSGNldtzd2O4aUIV3rpSakCTxTofykTd8VJk4NmeEiR_Zlmn6I5gsyL49DpJnPVvWvLhKPl0hFPXQIuBG4z8nYmTo96LJ2a2eJtrWYiH1DlZN-Ldlc5-pfyEng399z_KZYHnsz3RgalfVMhGnNGnnGT0xryru6zXS7w7qiqGAWEM0n-qvqiN8sy)
+[10] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPdAMxI3uMr8912GebjRQufsTLkE1VvdjQi3GKMocgewC0WWvoUY8VQ4pvnAhonLDl0qTjjQKKAvFpjur8TLmrs0W0KmjqcnPlWPgVgUEhm4VymqzMLGPAFuDNQ7i89Aw=)
+[11] [tesat.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLXmFcj9PTHw8Rj1m1qxFhq1hZ1Q02l8WtKbnAWl3QsJwltzyU9vca8l9L8_RC7-UhJ_mlF3_VjuSCbE5DPuCymQWJkpttMTLGmxx-e3DbbOznOytkHAz3ngK1CIoa5kxlf94CJ-vBP3GZy8=)

@@ -1,0 +1,9 @@
+The search for "site:map.naver.com "비쓰리디" OR "주식회사 비쓰리디"" returned the following summary:
+네이버 지도(map.naver.com) 서비스 내에서 **"비쓰리디"** 또는 **"주식회사 비쓰리디"**와 일치하는 장소나 업체 정보는 현재 검색 결과로 등록되어 있지 않거나 확인되지 않습니다[1]. 
+
+* '비쓰리디'라는 상호의 기업(패션·섬유류 및 기타 전문 디자인업 또는 응용 소프트웨어 개발 및 공급업 등으로 등록된 법인) 정보는 존재하지만[1][2], 네이버 지도 데이터베이스상에 등록 또는 노출되어 있지 않을 수 있습니다.
+* 네이버 지도 검색창에서 상호명을 직접 검색하시거나, 정확한 도로명 주소 및 사업자 정보를 바탕으로 장소 등록 여부를 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIsfbHV36IIWtXYibN1KZFufEoV45-6YUvHIXbr_vR4mA04dSgImzUdSheTRKraeaCy6oL7cPXUvKcEwK_trJVgiAefNBM3bzdgnRHwFeWcKd1_8=)
+[2] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEohM5d_UwROF-9GFzQvPRFEQnVn5jYSp__yeGuIpp7e_WX_j89E6yFXOESiSCi5Svl3QyTOFepUYHEWZ5g_B0vOvFDLHner_OybHMSOPqGV5te6DXEAP3nmlwFMMXvbpE=)

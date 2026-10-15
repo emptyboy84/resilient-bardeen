@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Verifying homepages and emails for 200 companies...
+Verified homepages: 38, verified emails: 62
+

@@ -1,0 +1,52 @@
+
+The command exited with code 0.
+Output:
+<link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="canonical" href="http://seeplay.co.kr/">
+<link rel="alternate" hreflang="ko" href="http://seeplay.co.kr/">
+<link rel="alternate" hreflang="en" href="http://seeplay.co.kr/en">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="/css/site.css?v=1.14.0&amp;rev=1">
+<link rel="stylesheet" href="/css/play-cursor.css?v=1.14.0">
+<link rel="stylesheet" href="/css/rubber-scroll.css?v=1.14.0">
+<a class="brand" href="/">
+<a href="/games/catjump">출시 게임</a>
+<a href="/news">게임 소식</a>
+<a href="/company">회사 소개</a>
+<a href="/contact">문의</a>
+<a class="lang-btn" href="/en" hreflang="en"><span class="dot"></span>KOR</a>
+<a class="btn btn-solid" href="/games/catjump">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="btn btn-solid" href="/games/infinitejump">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="btn btn-solid" href="/games/spongepop">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="btn btn-solid" href="/games/survival">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="btn btn-solid" href="/games/banatoon2">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="btn btn-solid" href="/games/banatoon">게임 소개 보기</a>
+<a class="btn btn-glass" href="/#games">전체 게임 보기</a>
+<a class="link up d3" href="/games/catjump">게임 소개 보기</a>
+<a class="game-card up d1" data-accent="cyan" href="/games/catjump">
+<a class="game-card up d2" data-accent="purple" href="/games/infinitejump">
+<a class="game-card up d3" data-accent="blue" href="/games/spongepop">
+<a class="game-card up d4" data-accent="coral" href="/games/survival">
+<a class="game-card up d1" data-accent="lime" href="/games/banatoon2">
+<a class="game-card up d2" data-accent="yellow" href="/games/banatoon">
+<a class="link up d3" href="/news">더 많은 소식 보기</a>
+<a href="https://youtu.be/QZRvFV5ijP8" target="_blank" rel="noopener">유튜브에서 열기</a>
+<a href="https://youtu.be/PLhq_CkON98" target="_blank" rel="noopener">유튜브에서 열기</a>
+<div class="fact"><small>전화</small><b>051-782-1801</b></div>
+<footer class="footer" id="contact">
+<a class="footer-brand" href="#top" aria-label="SeePlay — 맨 위로 이동">
+<a href="/games/catjump">출시 게임</a>
+<a href="/news">게임 소식</a>
+<a href="/company">회사 소개</a>
+<a href="/contact">문의하기</a>
+<a href="/privacy"><b>개인정보처리방침</b></a>
+<a href="/terms">이용약관</a>
+<p>씨플레이 &middot; 대표 김경원 &middot; 부산 해운대구 수영강변대로 140 (우동, 부산문화콘텐츠컴플렉스) 622호<br>사업자등록번호 354-87-00849 &middot; 통신판매업 신고 제2021-부산해운대-0337호 &middot; 051-782-1801</p>
+<script>window.SEEPLAY = {"lang":"ko","map":{"type":"naver","lat":35.172466,"lng":129.12541,"zoom":15,"tiles":"standard","query":"부산문화콘텐츠콤플렉스","hideCard":true,"naverKey":"z2llr5tg43","googleKey":"","transitLayer":true},"address":"부산 해운대구 수영강변대로 140 (우동, 부산문화콘텐츠컴플렉스) 622호","mapFallback":"/assets/placeholder/map.webp","transit":[{"lat":35.1692,"lng":129.131,"color":"#81BF48","name":"센텀시티역","line":"2호선"}],"mapLink":"https://map.naver.com/p/search/부산문화콘텐츠컴플렉스","companyName":"씨플레이","durationMs":6500,"autoplay":true,"t":{"playLocalTitle":"로컬 파일에서는 재생되지 않습니다","playLocalBody":"유튜브는 주소가 있는 사이트에서만 재생을 허용합니다. 서버에 올리면 이 자리에서 그대로 재생됩니다.","playRetry":"그래도 재생 시도","playOnYoutube":"유튜브에서 보기","menuOpen":"메뉴 열기","menuClose":"메뉴 닫기","cSending":"보내는 중…","cDone":"문의를 등록했습니다. 확인 후 답장드리겠습니다.","cErrRequired":"이름, 이메일, 내용을 모두 채워 주세요.","cErrEmail":"이메일 형식을 확인해 주세요.","cErrAgree":"개인정보 수집에 동의해 주셔야 보낼 수 있습니다.","cErrSubject":"제목을 입력해 주세요.","cDoneNoMail":"문의를 등록했습니다. 메일 전달에 문제가 있었지만 접수는 되었으니 확인 후 연락드리겠습니다.","cRemoveFile":"빼기","zoomClose":"닫기"}};</script>
+

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+19306 Col 6 (우편): null | Col 7 (주소): null
+19307 Col 6 (우편): null | Col 7 (주소): null
+

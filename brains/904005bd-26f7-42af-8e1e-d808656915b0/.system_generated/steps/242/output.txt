@@ -1,0 +1,17 @@
+The search for ""현대오피스텔" "영화수입업" OR "(주)시드"" returned the following summary:
+검색 결과, '(주)시드'라는 상호를 가진 기업 중 부산광역시 남구 대연동 소재의 '현대오피스텔'을 주소지로 등록하고 '영화수입업'을 영위하는 법인 정보가 확인됩니다[1][2][3].
+
+해당 정보에 관한 주요 내용은 다음과 같습니다:
+
+*   **상호:** (주)시드[1][2]
+*   **업종:** 영화수입업[1][2]
+*   **주소:** 부산광역시 남구 대연동 76-5번지 현대오피스텔 (상세 호수는 생략됨)[1][2][3]
+
+참고로, '현대오피스텔'이라는 명칭을 가진 건물은 전국 각지에 다수 존재하며, '(주)시드' 또한 건축사사무소 등 동명이인의 다른 업종으로 등록된 경우가 있으니[4][5] 비즈니스 관련 확인 시 주소와 업종을 정확히 대조해보시기 바랍니다.
+
+Sources:
+[1] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH05Y-QVLb-iKEyALStXor4cyN63lJd4JHNIU5z2vckCQrIWivgRr2etI1EIOIS0YkKeFHmQ2qde4JK1XVV8N0hF-hJKp38YAuEoR3gQGKzsZ6qNm-PMVjLULw3vI8maL8fdfY3OwyUkMt-Xtjle4UGp53nKQR5eV6UOPaX0baSfRQ4SJBgShiQPcaKvFl6l6mTe9MYLRdPytJPDCKGR3fN79U=)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH05Y-QVLb-iKEyALStXor4cyN63lJd4JHNIU5z2vckCQrIWivgRr2etI1EIOIS0YkKeFHmQ2qde4JK1XVV8N0hF-hJKp38YAuEoR3gQGKzsZ6qNm-PMVjLULw3vI8maL8fdfY3OwyUkMt-Xtjle4UGp53nKQR5eV6UOPaX0baSfRQ4SJBgShiQPcaKvFl6l6mTe9MYLRdPytJPDCKGR3fN79U=)
+[3] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH05Y-QVLb-iKEyALStXor4cyN63lJd4JHNIU5z2vckCQrIWivgRr2etI1EIOIS0YkKeFHmQ2qde4JK1XVV8N0hF-hJKp38YAuEoR3gQGKzsZ6qNm-PMVjLULw3vI8maL8fdfY3OwyUkMt-Xtjle4UGp53nKQR5eV6UOPaX0baSfRQ4SJBgShiQPcaKvFl6l6mTe9MYLRdPytJPDCKGR3fN79U=)
+[4] [seoul.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWcxZeYdeIsixzHcQudL9dS0EbI4s-8QqCXZzuV2vV_zbk4o0nQj3z1ZrtsmAqH2ucTzblPaYPd0_fcq5BJlj1WN0sB5nY1eGBu_qI_dDwkt9rVAJWXICVcWj9N1Q93CIv9hrZa_PfuHQkstr4xsSVvuuFN-eP0nhQUIRFRT3o59f44TQVos4RXQmRuNMvwDn97ivNrM-gKlEPas4=)
+[5] [geumcheon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVMYzlg1J5P51zjqqyYtsjNQNaJkkDSErFJhKW5G05g01kjhKxEefI-dxKRySHaLNHnXoBW-vMbFLXauEVfHb2t_2_XWPFk82Yra6R8_fbdCvSUvQEx5eXaJI_jyxH-9KwaDPvaPZsLTpOVnoaiQu9znwniNDFyGa9PznhL_5SxBd6H9HYB8Q59CCsAVTqwW_uTDYZehoPIw==)

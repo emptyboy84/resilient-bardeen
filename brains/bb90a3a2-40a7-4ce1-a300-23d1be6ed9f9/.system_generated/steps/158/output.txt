@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-10-13  � 12:32                Today                                                                
+-a----      2026-06-04  � 12:47           1690 Antigravity IDE.lnk                                                  
+-a----      2026-06-04  � 12:47           2644 Antigravity.lnk                                                      
+-a----      2025-01-13   � 5:33           2363 Excel.lnk                                                            
+-a----      2026-03-24   � 8:55           1873 Microsoft Edge.lnk                                                   
+-a----      2026-02-26   � 9:13           2363 Outlook.lnk                                                          
+-a----      2026-08-25  � 10:25           2903 Z.lnk                                                                
+-a----      2025-04-03   � 2:35            695 �ٿ�ε�.lnk                                                         
+
+
+

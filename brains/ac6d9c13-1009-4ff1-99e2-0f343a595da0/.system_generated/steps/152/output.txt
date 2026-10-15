@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+SCRIPT: <script>
+			function goSearch(){
+				if($("#query").val()=="")
+					return false;
+				else{
+					return true;
+				}
+
+			}
+			$("#query").focus();
+
+			</script>
+

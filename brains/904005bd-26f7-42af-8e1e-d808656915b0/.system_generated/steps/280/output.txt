@@ -1,0 +1,10 @@
+The search for "site:mk.co.kr "대연동 76-5" OR "현대오피스텔" "영화"" returned the following summary:
+검색하신 내용과 관련하여 부산광역시 남구 대연동 76-5번지 현대오피스텔에 위치한 업체 정보는 다음과 같습니다.
+
+*   **관련 업체 및 정보:** 해당 주소(부산광역시 남구 대연동 76-5, 현대오피스텔)에는 과거 '갤러리 앤 키친 포'와 같은 카페 및 레스토랑이 입점해 있었으며[1], 특정 영화 관련 법인이나 수입업체가 등록되어 있거나 주소지로 언급된 사례가 확인됩니다[2]. 
+*   **기타:** 매일경제 신설법인 리스트 등에서는 대연동 76-5번지가 다른 업종(농업회사법인 등)의 주소지로 기재된 경우도 있으나[3], '영화'라는 키워드와 결합할 경우 특정 영화 수입업체 등의 소재지로 확인되는 경우가 있습니다[2].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENSz8QwgI2MNWjr0_CdUjYmNwP0oXqnadF4E03V9NNTU7jR0CEUwlUx6Q4GJGx5gA7Iy1qlM3NyTl3SPdfMQ-HkMOwhWWde6nAsItOt4-fLA==)
+[2] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtHPQltQtLMzTUUuq2ZI3Okva9RPnQNZgrcy5NLelE6BRKNQn9wRaxP1mdQ8qgMCTX6BUcQsrohPhtGjnFnzYpOH2h2BVzv6pPPIOQL5pLI1ZK2DDQvbA3wr8hVq9e02OI06T0MIf9zPzDk86AGUv7Q2bA1p5GO8w5ix0G4SBbuwdlc2Cj9zJGXWJZ5jBWsxM0lomLzikunzmdYMQrfwWbcqiA)
+[3] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh_Jk3XTG0dtNOm7oloGZFxlFTKtKfFlhMzSGTYPq-6Q-Fd5n0mPHq_7q0D1YzXvpopiByrKcd8UrZgNEumHiB0DL0C9Xf3vfAF0DEEdaw6NJN1NSYBHd5iNkzeQ==)

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Reading base file...
+
+=== EXECUTION SUMMARY ===
+Total verified rows updated: 192
+Total newly filled blank cells set to RED BOLD: 1138
+Total rows: 2314
+
+Writing directly to: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+SUCCESS: Written directly to target Excel!
+SUCCESS: Written to target CSV!
+

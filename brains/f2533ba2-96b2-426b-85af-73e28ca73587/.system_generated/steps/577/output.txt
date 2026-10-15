@@ -1,0 +1,11 @@
+### Result
+Waited for 2 seconds
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 2 * 1000));
+```
+### Page
+- Page URL: https://www.iros.go.kr/index.jsp
+- Page Title: 인터넷등기소 - 법인등기 열람/발급
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-52-46-598Z.yml)

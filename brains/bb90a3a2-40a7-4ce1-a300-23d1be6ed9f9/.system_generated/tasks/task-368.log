@@ -1,0 +1,11 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-10-14T10:17:09+09:00
+Prompt: Check if deep scan task-324 finished and run final merge
+Early Termination: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-324
+
+[2026-10-14T10:14:39+09:00] Still waiting. Remaining time: 2m30s
+[2026-10-14T10:15:09+09:00] Still waiting. Remaining time: 2m0s
+[2026-10-14T10:15:39+09:00] Still waiting. Remaining time: 1m30s
+[2026-10-14T10:16:09+09:00] Still waiting. Remaining time: 1m0s
+[2026-10-14T10:16:39+09:00] Still waiting. Remaining time: 30s
+[2026-10-14T10:17:09+09:00] Timer fired.

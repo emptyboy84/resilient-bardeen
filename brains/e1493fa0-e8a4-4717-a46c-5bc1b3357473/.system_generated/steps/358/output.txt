@@ -1,0 +1,10 @@
+### Result
+[
+  "MemberStore",
+  "Ep0100M002Ge",
+  "searchStore"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  if (pinia && pinia._s) {\n    return Array.from(pinia._s.keys());\n  }\n  return \'no pinia stores\';\n}');
+```

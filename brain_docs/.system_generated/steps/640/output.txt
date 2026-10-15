@@ -1,0 +1,13 @@
+The search for ""페타브루" ("서울창업허브" OR "엠플러스" OR "마곡중앙8로 14")" returned the following summary:
+입력하신 검색어는 고주파 레이더 및 지능형 센서 기술 스타트업인 **'페타브루(PETABREW)'**와, 서울특별시 강서구 마곡동에 위치한 창업·기업벤처링 특화 센터인 **'서울창업허브 엠플러스(M+)'**(주소: 서울특별시 강서구 마곡중앙8로 14) 관련 정보의 조합입니다[1][2]. 
+
+* **페타브루 (PETABREW):** FMCW 레이더 및 지능형 센서 신호처리, 정밀 알고리즘 개발 등을 전문으로 하는 기술 혁신 기업입니다[3][2].
+* **서울창업허브 엠플러스 (M+) / 마곡중앙8로 14:** 마곡산업단지 내에 위치하며, 대·중견기업과 유망 스타트업 간의 오픈이노베이션(개방형 혁신) 및 R&D 협력을 지원하는 서울경제진흥원(SBA) 운영 시설입니다[4][1].
+
+혹시 위 기업(페타브루)이 해당 창업허브 센터에 입주해 있거나, 관련 지원 사업·오픈이노베이션 프로그램과 연계된 내용을 찾고 계신가요? 구체적인 질문을 남겨주시면 더욱 자세히 확인해 드리겠습니다.
+
+Sources:
+[1] [startup-plus.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG313Qey8mxgskj1aLr_GA0VLlnHrz7SyEhMECblmlkX25KK08qDrZvjb0CbCd5AqPh8l3NhBqNZLHGhUj7xuFfuMWNg9S7GcULR8tmN1u6ffqlDCaucRM=)
+[2] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1Prd8UCs4BTDdJSX4eNCxxqcXoU6uNEN-ptf4JOjQZAe8v4spAwnYc6rm1eS_iowc7iZAMxS2gXoli0In2QCjJWm9SSJtFW4IUX_NdnaqJeXFMZ8-1bE-OVjefqA05mNPKoGsvw04wf4dN6--TTyCmmSKYjp5tF4oQ==)
+[3] [petabrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH62_C4GFgBD0ZKBFR359gYew4mWzmRAqY9tkYIkAeddwwGBkH3bbQuHDJEvT_alesPDdcNRgrpfwP8tHcMplPyqLqDP2H4-xFd)
+[4] [startup-plus.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtxIC3ALV0ALbROQggsVKzjybizlfGrk4Y9liwhPYAo0vcwFwiRB1S1BBdQLjG4fzzWlh7huhOmu53RaoP-vQJFK8FnHJtWL-GZh6PW4ik6B4pw==)

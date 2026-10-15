@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+search.js length: 23204
+AJAX urls: null
+

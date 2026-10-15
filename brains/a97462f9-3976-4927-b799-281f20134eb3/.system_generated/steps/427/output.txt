@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\brain\a97462f9-3976-4927-b799-281f20134eb3\scratch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-09-22  � 12:17           2485 analyze_categories.js                                                
+-a----      2026-09-22  � 12:15           2505 analyze_target_csv.js                                                
+-a----      2026-09-22  � 12:18           2689 check_28_in_csv.js                                                   
+-a----      2026-09-22  � 12:17            724 check_blue_summary.js                                                
+-a----      2026-09-22  � 12:17           1734 check_colors.js                                                      
+-a----      2026-09-22   � 9:23            661 check_headers.js                                                     
+-a----      2026-09-22   � 9:32            591 check_moneypin.js                                                    
+-a----      2026-09-22  � 12:17           1517 check_theme_cells.js                                                 
+-a----      2026-09-22  � 12:17           1218 compare_excel.js                                                     
+-a----      2026-09-22  � 12:16           3223 deep_analyze_csv.js                                                  
+-a----      2026-09-22  � 12:19           1290 inspect_sales_completed.js                                           
+-a----      2026-09-22  � 12:19           2052 scan_csv_issues.js                                                   
+-a----      2026-09-22   � 9:22            950 search_excel.js                                                      
+
+
+

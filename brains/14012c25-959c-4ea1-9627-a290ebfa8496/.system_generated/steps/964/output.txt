@@ -1,0 +1,19 @@
+The search for ""play.google.com" "삐뽀" "개발자" OR "010-" OR "전화번호" "펫펄스"" returned the following summary:
+구글 플레이스토어(Google Play)에 등록된 반려견 건강관리 및 감정 인식 앱 **'삐뽀(Pippo)'** 및 관련 앱들의 개발사인 **(주)펫펄스랩(PetpulsLab)**의 개발자 정보 및 연락처입니다[1][2]:
+
+* **개발자(회사명):** (주)펫펄스랩 (PetpulsLab)[2]
+* **대표 전화번호:** `010-3391-3880` (또는 본점 대표번호 `02-2635-8520`)[3][2]
+* **지원 이메일:** `petpulslab@gmail.com` / `support@petpuls.net`[4][2]
+* **주소:** 경기도 안양시 동안구 시민대로 327번길 11-41, 3층 (안양산업진흥원)[2]
+* **관련 주요 앱:** 
+  * 삐뽀(Pippo) - 강아지 건강관리 & 강아지 감정인식 앱[1]
+  * Petpuls(펫펄스) - 반려견 음성·활동량 감정 인식 디바이스 연동 앱[4][5]
+  * 펫터(Petter) - 펫시팅 매칭 플랫폼[2]
+  * 펫노트 - 국내 최초 펫 알림장[2]
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1MJDUpeYPukGBb2CzyHJ0diNWhsLBljHvLmARQq7JYyAvH4YFEob43PMzHE1qRHbmUJIycpXhAHYUPRcLZmcg3JBNe0T2-LwsIr8FvRqwcDMR_3DPwce2Qgo9keH40FbGliB_YkZDLyGAcqwLAWPhxmQGUMF4alIYo1H0vW8=)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvrrodurzYPxuvLsCgMAATB8Rl78cMVDAgpzzutOA49sQIScRt6gbWuhN6eO5iD4lkdfIIyZzIoxVxVXsOvoBBrt19t4LHLXOFAqIs-4VNZofA4jZA_sv547Lduw1f0yojHAigVaaaVWMShAyZlT53YHpKXtfk)
+[3] [petpuls.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5OIwXSuCEpSPRT5wKkNpbJl-5aemPuVgS0CUGthRwNx-hIzPzFT_LCUEL8C6w00_qCVtUslDmgNOPxtfN7udLu1hS9jqa5211CWcQSyw=)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0w4VB5nLiEs4VLmN4MH8o2EKPepKrk2XQxKccyHqgkgnhP-XnJW4BA1uVkbpeB7bXFaFm8RWef2yZRZdIwRfhEEjlH0Bk9Trj3_nDNKlbuT2O9WIAbjxozfeTo-XnVeJHIVdG4aotuPjw9cUrveCR3lXyu9w=)
+[5] [petpuls.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5nOk0hgHwfnE72VCCQLiyLyAcc6qJ2X9bHtaYzPnW2aiKnCd3e64dvV1DeOqtlxdz-_v9wYehrBzRRthYKx93gQ48VYg8EQZUX5bxDUowswchS7jj)

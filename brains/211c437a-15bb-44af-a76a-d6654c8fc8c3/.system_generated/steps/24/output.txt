@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                                                    
+----                                                                                    
+HKEY_CURRENT_USER\Software\LGE\LG Device Manager                                        
+HKEY_CURRENT_USER\Software\LGE\LG gram Link                                             
+HKEY_CURRENT_USER\Software\LGE\LGControlCenter                                          
+HKEY_CURRENT_USER\Software\LGE\OSD                                                      
+HKEY_CURRENT_USER\Software\LGE\ReaderMode                                               
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Default                                       
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Default\{381B4222-F694-41F0-9685-FF5BB260DF2E}
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Default\{8C5E7FDA-E8BF-4A96-9A85-A6E23A8C635C}
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Off                                           
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Off\{381B4222-F694-41F0-9685-FF5BB260DF2E}    
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\Off\{8C5E7FDA-E8BF-4A96-9A85-A6E23A8C635C}    
+HKEY_CURRENT_USER\Software\LGE\ReaderMode\On                                            
+HKEY_CURRENT_USER\Software\LGE\Troubleshooting                                          
+HKEY_LOCAL_MACHINE\Software\LGE\VirtoobyLG                                              
+
+
+

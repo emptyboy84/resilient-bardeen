@@ -1,0 +1,16 @@
+The search for ""우수경" 작가 "본명" OR "이석창" OR "필명"" returned the following summary:
+검색 결과, '우수경'이라는 이름의 작가나 인물에 대해 '이석창'이라는 본명 또는 필명과 연결되는 정보는 확인되지 않습니다[1][2][3].
+
+참고로 검색된 정보는 다음과 같습니다:
+*   **우수경**: KBS 기자로 활동한 이력이 확인되며[2][4][3], 특정 도서의 저자[1]나 일반인 명단[5][6] 등으로 언급되나, '이석창'과는 연관성이 없습니다.
+*   **이석창**: 해당 검색어와 관련하여 작가나 필명으로 활동한다는 구체적인 자료를 찾을 수 없습니다.
+
+만약 특정 작품이나 활동 분야(예: 장르 문학, 특정 출판사 등)에 대한 정보가 있다면 추가 정보를 제공해 주시기 바랍니다. 더 정확한 확인이 가능합니다.
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzsylFaGYXUklDORIe9NQBBW_WiE1XwliWfF1-fOH2cmOUSq94IcysSWEVwXWHSG3liAeysthViEAcx-IxMJWRd06RVrsvx31vKf2um3qQ8FdjbxQt5MHGcspOpyjTH4W-Glpl0YCs8Hh4yeCDo12vTPnWKyG2y-wUGLIQ6v-A9FRaKCaUHz0dB3UdkCfHw9gnmEjU2gMswFvBaEKvRKPgr6TNks1nGr0MJyltFYYqvSpMdQw5SnU92kdF-Xpy8lbB-9ZAkOeygHlHGsGO2zUGdAbcA9rw6DrDqV19OEJj6XnFb88csD-bs93u-5L8ImwO0qxXsDGtV7NCmXNKoyYQIM16JYFgqo0gIo3o2EY=)
+[2] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNOOZjl8m4w_MvtQazB70K818F-8oN0aT9lozeFc13FTTYet9a83Ej1aGEaVlcLgOn5cGQPeSITOU_wPF21LMeNNumiNw2yK5T_gqDLQI3wckvaoY1Q6oBq1oayxXr9wDtZGNDRTGkv43xPsJLMXvLQNAu)
+[3] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOxfATo3u_6-Z0ZIrJRLJnTbLdiPyFcG8lzUnyCmGtcQMsBvGnBbYaEIzNoIvy3ysCdhQjVY60mWDPGn2AQ0Q0xsciZ1yJXEUtlrbqVJdrAW3k-pRmDivIe9HKiAFW8_xr2DiJEvc5TksNdA==)
+[4] [daverse.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjVL_qziXpUfd_uvTge5iHM5qM_DRX-CJkg0T0cjdgu-VrpqmQkidwnHBSBigLup8VmLGzZ6UQtl5tJmuTsTx5MdJvGL1XKiE-ElQ-VC0FwqcmwNFQJUpCiLahm7CRArAAhD2v5lzTyG5PfSfJFvGj7k_USMmTDQQ-z_ZG4QJ5Xm5wPRw5XIkwOeM-)
+[5] [women21.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbCGP7R3w5r7fHr5GeGdSkc-RL1NUWXFyHqXMQfvRQs0tJW5pQmssrrm6Cy8m7HhezGz8qgS4hqrDIkTorZ-G9pP77aeiwX18BKpL6JWMPcH161ascZWYnU_t4)
+[6] [ykbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5H3ee4iDzhUjVPh73WTFvTS8RW98yMFpqRl-BHyFX_6EqEbFZb1Gmda0V4igee_qAC1bnBhuoCvuIFcTJaHff4tQYZuZSEYJp2OiRDTS8tMJBdQ44udB0bNY4Sa-buZCOWG5ELc4u)

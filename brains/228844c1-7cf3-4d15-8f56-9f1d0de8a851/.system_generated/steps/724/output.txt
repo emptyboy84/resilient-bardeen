@@ -1,0 +1,10 @@
+### Ran Playwright code
+```js
+await page.getByRole('textbox', { name: '전화번호 입력' }).fill('010-8074-7622');
+await page.getByRole('textbox', { name: '전화번호 입력' }).press('Enter');
+```
+### Page
+- Page URL: https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=010-8074-7622
+- Page Title: 01080747622
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-16-32-110Z.yml)

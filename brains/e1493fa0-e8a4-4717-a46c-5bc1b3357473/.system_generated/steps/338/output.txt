@@ -1,0 +1,13 @@
+### Result
+{
+  "hasNuxt": true,
+  "keys": [
+    "NiceInv",
+    "__NUXT__",
+    "useNuxtApp"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  // Check if $nuxt or useNuxtApp exists\n  const hasNuxt = typeof window.__NUXT__ !== \'undefined\' || typeof window.useNuxtApp !== \'undefined\';\n  return { hasNuxt, keys: Object.keys(window).filter(k => k.toLowerCase().includes(\'nuxt\') || k.toLowerCase().includes(\'nice\')) };\n}');
+```

@@ -1,0 +1,8 @@
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_verified.tsv","LineNumber":406,"LineContent":"배현명\t\t(주)선경\t5518700299\t김해린\t62319\t광주광역시 광산구 임방울대로 154-24, 101동 502호\t\t\t\t\t1\t태양력 발전업\t200114-0052248\t12월(추정)\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\current_pasted_batch.tsv","LineNumber":409,"LineContent":"배현명\t\t(주)선경\t5518700299\t\t\t경상남도 김해시 \t\t\t\t\t\t태양력 발전업\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\all_500_factchecked.tsv","LineNumber":406,"LineContent":"배현명\t\t(주)선경\t5518700299\t김해린\t62319\t광주광역시 광산구 임방울대로 154-24, 101동 502호\t\t\t\t\t1\t태양력 발전업\t200114-0052248\t12월(추정)\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.csv","LineNumber":407,"LineContent":"배현명,,(주)선경,5518700299,김해린,62319,\"광주광역시 광산구 임방울대로 154-24, 101동 502호\",,,,,1,태양력 발전업,200114-0052248,,,,"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.csv","LineNumber":407,"LineContent":"배현명,,(주)선경,5518700299,김해린,62319,\"광주광역시 광산구 임방울대로 154-24, 101동 502호\",,,,,1,소재,200114-0052248,,,,"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result.tsv","LineNumber":406,"LineContent":"배현명\t\t(주)선경\t5518700299\t김해린\t62319\t광주광역시 광산구 임방울대로 154-24, 101동 502호\t\t\t\t\t1\t태양력 발전업\t200114-0052248\t\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\merged_500_perfect.tsv","LineNumber":406,"LineContent":"배현명\t\t(주)선경\t5518700299\t김해린\t62319\t광주광역시 광산구 임방울대로 154-24, 101동 502호\t\t\t\t\t1\t태양력 발전업\t200114-0052248\t12월(추정)\t\t\t"}
+{"File":"C:\\Users\\lg\\resilient-bardeen\\bizno_filtered_result_nice.tsv","LineNumber":406,"LineContent":"배현명\t\t(주)선경\t5518700299\t김해린\t62319\t광주광역시 광산구 임방울대로 154-24, 101동 502호\t\t\t\t\t1\t태양력 발전업\t200114-0052248\t\t\t\t"}

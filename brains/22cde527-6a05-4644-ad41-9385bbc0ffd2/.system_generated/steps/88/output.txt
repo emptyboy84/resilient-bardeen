@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Extracted 421 missing rows.
+Saved to scratch/missing_421.json
+

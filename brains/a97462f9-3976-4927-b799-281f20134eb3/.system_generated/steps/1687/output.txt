@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+\d+ : The term '\d+' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the s
+pelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:15 char:42
++   const regex = /<a\s+href=\"\/article\/(\d+)\"[^>]*>([\s\S]*?)<\/a>/ ...
++                                          ~~~
+    + CategoryInfo          : ObjectNotFound: (\d+:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/8961201529');
+```
+### Page
+- Page URL: https://bizno.net/article/8961201529
+- Page Title: 초강수 경영컨설팅
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T03-04-48-285Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T03-04-44-235Z.log#L1-L5

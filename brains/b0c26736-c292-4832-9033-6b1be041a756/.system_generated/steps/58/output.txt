@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+Error: browserBackend.callTool: net::ERR_ABORTED at https://moneypin.biz/bizno/detail/6190976516/
+Call log:
+[2m  - navigating to "https://moneypin.biz/bizno/detail/6190976516/", waiting until "domcontentloaded"[22m

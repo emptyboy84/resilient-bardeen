@@ -1,0 +1,971 @@
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 희웹툰 – Daum 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f360e1]:
+  - navigation:
+    - link "본문 바로가기" [ref=f360e2] [cursor=pointer]:
+      - /url: "#daumBody"
+    - link "메뉴 바로가기" [ref=f360e3] [cursor=pointer]:
+      - /url: "#daumGnb"
+  - generic [ref=f360e4]:
+    - banner [ref=f360e5]:
+      - generic [ref=f360e6]:
+        - heading "다음" [level=1] [ref=f360e7]
+        - heading "검색" [level=2] [ref=f360e8]
+        - generic [ref=f360e9]:
+          - group "검색폼" [ref=f360e11]:
+            - generic [ref=f360e13]:
+              - link "Daum 메인페이지로 가기" [ref=f360e14] [cursor=pointer]:
+                - /url: https://www.daum.net/
+              - textbox "검색어 입력" [ref=f360e23]: 희웹툰
+              - button "입력삭제" [ref=f360e24] [cursor=pointer]
+              - button "가상키보드 열기" [ref=f360e26] [cursor=pointer]
+              - button "검색" [ref=f360e42] [cursor=pointer]
+          - generic [ref=f360e48]:
+            - heading "서비스 바로가기" [level=2] [ref=f360e49]
+            - link "로그인" [ref=f360e51] [cursor=pointer]:
+              - /url: https://logins.daum.net/accounts/loginform.do?url=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26DA%3DYZR%26t__nil_searchbox%3Dbtn%26sug%3D%26sugo%3D%26sq%3D%26o%3D%26q%3D%25ED%259D%25AC%25EC%259B%25B9%25ED%2588%25B0
+            - generic [ref=f360e52]:
+              - link "메일" [ref=f360e54] [cursor=pointer]:
+                - /url: https://mail.daum.net/?nil_profile=mini&nil_src=mail
+              - button "Daum 미니 사이트맵" [ref=f360e57] [cursor=pointer]
+        - generic [ref=f360e59]:
+          - generic:
+            - list [ref=f360e60]:
+              - listitem [ref=f360e61]:
+                - generic [ref=f360e62]: 선택된 항목
+                - link "통합" [ref=f360e63] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ed%9d%ac%ec%9b%b9%ed%88%b0&DA=NTB"
+              - listitem [ref=f360e65]:
+                - link "통합웹" [ref=f360e66] [cursor=pointer]:
+                  - /url: "?w=fusion&nil_search=btn&DA=NTB&p=2&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+              - listitem [ref=f360e68]:
+                - link "이미지" [ref=f360e69] [cursor=pointer]:
+                  - /url: "?w=img&nil_search=btn&DA=NTB&enc=utf8&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+              - listitem [ref=f360e71]:
+                - link "동영상" [ref=f360e72] [cursor=pointer]:
+                  - /url: "?w=vclip&nil_search=btn&DA=NTB&enc=utf8&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+              - listitem [ref=f360e74]:
+                - link "사이트" [ref=f360e75] [cursor=pointer]:
+                  - /url: "?w=site&nil_search=btn&DA=NTB&enc=utf8&lpp=10&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+              - listitem [ref=f360e77]:
+                - link "뉴스" [ref=f360e78] [cursor=pointer]:
+                  - /url: "?w=news&nil_search=btn&DA=NTB&enc=utf8&cluster=y&cluster_page=1&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+              - listitem [ref=f360e80]:
+                - link "어학사전 새창" [ref=f360e81] [cursor=pointer]:
+                  - /url: http://dic.daum.net/search.do?q=%ED%9D%AC%EC%9B%B9%ED%88%B0
+                  - generic [ref=f360e82]:
+                    - text: 어학사전
+                    - generic [ref=f360e83]: 새창
+              - listitem [ref=f360e84]:
+                - link "지도 새창" [ref=f360e85] [cursor=pointer]:
+                  - /url: https://map.kakao.com/?from=total&nil_suggest=btn&tab=place&q=%ED%9D%AC%EC%9B%B9%ED%88%B0
+                  - generic [ref=f360e86]:
+                    - text: 지도
+                    - generic [ref=f360e87]: 새창
+            - button "더보기/접기" [ref=f360e89] [cursor=pointer]
+          - button "전체 기간" [ref=f360e92] [cursor=pointer]
+    - generic [ref=f360e93]:
+      - main [ref=f360e94]:
+        - generic [ref=f360e96]:
+          - generic [ref=f360e97]: 검색 본문
+          - generic [ref=f360e100]:
+            - heading "관련 검색어" [level=2] [ref=f360e101]:
+              - text: 관련
+              - generic [ref=f360e102]: 검색어
+            - link "웹툰 이모" [ref=f360e104] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%9B%B9%ED%88%B0%20%EC%9D%B4%EB%AA%A8&nzq=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=NSJ"
+          - generic [ref=f360e108]:
+            - generic [ref=f360e110]:
+              - generic [ref=f360e112]:
+                - heading "파워링크" [level=2] [ref=f360e113]
+                - generic [ref=f360e114]: "'희웹툰' 관련 광고입니다."
+                - link "안내" [ref=f360e116] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f360e117]: i
+              - link "신청하기" [ref=f360e121] [cursor=pointer]:
+                - /url: https://saedu.naver.com/adbiz/searchad/intro.nhn
+            - list [ref=f360e123]:
+              - listitem [ref=f360e124]:
+                - generic [ref=f360e125]:
+                  - link "3" [ref=f360e128] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                  - generic [ref=f360e131]:
+                    - link "SBS게임아카데미 cheongju.sbsgameacademy.com" [ref=f360e133] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/En_MSlarmWlcvIErYkiVCwxuZUSO72pMF2vySkaoT99mS60hZ-GJ0PkskhePNPwxTn2ewdBsImNNgwqBcdev2lGucnImZDZ4LKplPLXst9K94BdvoqUj-uyolnowVHziCbgAo8nZhKYGyawwVAdsHm91ZiF8Ek6nej-0sw5zBlki4ldSmRRgUeWpZKeNF77iZaLij-kZt1Mhzqgsj90olGxwvNnY3TtEOqYXZZ_RYkELxydBvVRYLmlbBtUcXErJ7sTW2L4XgDt-9GR0NOudFUY8xn_p3g6uCvxQuqOJjk2yR9rusyBavk3lz-NRTCxCxwqMIbNwbs2maWT8DG60yivbNMhBtk-9ySufsRKy8tTeg9btZJaNu3Cgh2daAYLfH3mfY3JXI9t4G6FLSuz-m90ktyfnUnsxagp8ke5WwcpRwjAKRfVggOE4pY5WJlCIebg9X49fIxt9GIjtL57gJk-dlfi6lYeUC8XSG7xz0fBYU5l7kQYgaeZijprxqk8g?c=daum.ch1&t=0
+                      - generic [ref=f360e136]: SBS게임아카데미
+                      - generic [ref=f360e137]: cheongju.sbsgameacademy.com
+                    - strong [ref=f360e138]:
+                      - link "SBS아카데미게임학원 청주점 게임,웹툰,그래픽 전문학원! 수강료 최대40% 지원이벤트" [ref=f360e139] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/En_MSlarmWlcvIErYkiVCwxuZUSO72pMF2vySkaoT99mS60hZ-GJ0PkskhePNPwxTn2ewdBsImNNgwqBcdev2lGucnImZDZ4LKplPLXst9K94BdvoqUj-uyolnowVHziCbgAo8nZhKYGyawwVAdsHm91ZiF8Ek6nej-0sw5zBlki4ldSmRRgUeWpZKeNF77iZaLij-kZt1Mhzqgsj90olGxwvNnY3TtEOqYXZZ_RYkELxydBvVRYLmlbBtUcXErJ7sTW2L4XgDt-9GR0NOudFUY8xn_p3g6uCvxQuqOJjk2yR9rusyBavk3lz-NRTCxCxwqMIbNwbs2maWT8DG60yivbNMhBtk-9ySufsRKy8tTeg9btZJaNu3Cgh2daAYLfH3mfY3JXI9t4G6FLSuz-m90ktyfnUnsxagp8ke5WwcpRwjAKRfVggOE4pY5WJlCIebg9X49fIxt9GIjtL57gJk-dlfi6lYeUC8XSG7xz0fBYU5l7kQYgaeZijprxqk8g?c=daum.ch1&t=0
+                        - generic [ref=f360e140]:
+                          - text: SBS아카데미게임학원 청주점
+                          - generic [ref=f360e141]: 게임,웹툰,그래픽 전문학원!
+                          - text: 수강료 최대40% 지원이벤트
+                    - paragraph [ref=f360e142]:
+                      - link "기초부터 작가데뷔까지! 청주웹툰학원에서 제대로 배워보자! 소수정예, 1:1 멘토링 국비/내일배움카드, 2D/3D그래픽, 게임기획&개발, 게임원화&디자인, 메타버스" [ref=f360e143] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/En_MSlarmWlcvIErYkiVCwxuZUSO72pMF2vySkaoT99mS60hZ-GJ0PkskhePNPwxTn2ewdBsImNNgwqBcdev2lGucnImZDZ4LKplPLXst9K94BdvoqUj-uyolnowVHziCbgAo8nZhKYGyawwVAdsHm91ZiF8Ek6nej-0sw5zBlki4ldSmRRgUeWpZKeNF77iZaLij-kZt1Mhzqgsj90olGxwvNnY3TtEOqYXZZ_RYkELxydBvVRYLmlbBtUcXErJ7sTW2L4XgDt-9GR0NOudFUY8xn_p3g6uCvxQuqOJjk2yR9rusyBavk3lz-NRTCxCxwqMIbNwbs2maWT8DG60yivbNMhBtk-9ySufsRKy8tTeg9btZJaNu3Cgh2daAYLfH3mfY3JXI9t4G6FLSuz-m90ktyfnUnsxagp8ke5WwcpRwjAKRfVggOE4pY5WJlCIebg9X49fIxt9GIjtL57gJk-dlfi6lYeUC8XSG7xz0fBYU5l7kQYgaeZijprxqk8g?c=daum.ch1&t=0
+                  - generic [ref=f360e144]:
+                    - link "이벤트온라인강의 무료증정" [ref=f360e147] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/RlmdlbhEsCii5ACBb-nrXVwOkdmjJGZvJSKEBy7hm0t8GvY0QI6P6NerOpi7iIqqWOkaV3E07r5V8yKKmyC4QaVxeOgoFiI-I3VkUdpRmMN2zjAjIjVZ5RuxCLOG6TSOmV6qfaMhbMbMgLp0wv9qeJ2HwDEiYfTz2BVobczjDjLgC2xUgALf0uO8F7YJy2FoixCdUYO4zcz0bASfmbHgPSYETEFBxQ3vXHrehI044jeLajekMmVnaH2zM8K4buyC_SDnwFrI5OPlI3Ukmad6I8uQ-0Qa_KGtiK0i1dmSv50oXpB7GK59Xs3m7Ux-QTWl0-CzCJBmHl6CB06pV5rBDi-n_VB9vvYc6MeTFsRgAqvk9PeLwAla0RmDCxZ8ihsEmsIjok51Ovvi8B07LkZxU7AES2lmSJ4zJH387Bn0nQkcWMvJbMNz_sNu6gi2Ur2ZgVjV-bLfIop_hP1I9tXW2WE5lhctqX1Z0tF8iPUcEvMEAEorGYdiG3TqFvAO0bFuXXduTPdala6SqUMCEMjVkw==?c=daum.ch1&t=0
+                    - generic [ref=f360e148]:
+                      - strong [ref=f360e149]: 관련 키워드 목록
+                      - list [ref=f360e150]:
+                        - listitem [ref=f360e151]:
+                          - link "유니티언리얼프로그래밍" [ref=f360e152] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                        - listitem [ref=f360e153]:
+                          - link "세종웹툰만화학원" [ref=f360e154] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                        - listitem [ref=f360e155]:
+                          - link "만화애니메이션이모티콘드로잉" [ref=f360e156] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                        - listitem [ref=f360e157]:
+                          - link "청주게임원화일러스트웹소설학원" [ref=f360e158] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                        - listitem [ref=f360e159]:
+                          - link "충북게임그래픽미술학원" [ref=f360e160] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKbKgSAFU0223oa1GIii7ZdtFiCSh4ySRfWU15YI5dXV3IGVc_Kqs3xLTzUqGPB7sVk45DbaG3ptlV1yf184dfSLCuxmsfUc5YZtbP_KH1nkUnGtaj8UKKFYAjNo0eB9vAIlMmt04Ke3dw6g6Yqo9NeoSabwZB9YqybOAPMDN2RPlNUTRdHjRBunbtbLH6TKQmQUXRE50B2qT3pt6pJ7jTkC_9kBE_lRPqX9aZlGgzv1PIcIFZpSO_xUKsttIRTDzuQn5yPG-RxxGlVKoit_55zGPf_WLHdGg4gzfbDGApDj2eT5tTDawmV0PlphsV_eKq-q-IFINwJ9x2PKLtxjuTt61NxDv4IymTMh6eHrUV_Qiy0H8BNn8j0R48Ruj7glmS0i0-PyiGqdPMlJHDLuEElWNeLybYuHmmE1W_85uN_W-Zdr8H9jeHNrDEkjAKLsAog==?c=daum.ch1&t=0
+                    - generic [ref=f360e161]: 리뷰수 26
+              - listitem [ref=f360e163]:
+                - generic [ref=f360e164]:
+                  - link "3" [ref=f360e167] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                  - generic [ref=f360e170]:
+                    - link "SBS게임아카데미 gwangju.sbsgameacademy.com" [ref=f360e172] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/Qs8QrRDQIbIcdlb_V0-E1vtmbmAZ3FfdnEqD6DyVHh7CrPWBRc0z-XV99efis6G1F3EgvmV5akFSaCcYnRXvlQ9m5ZS4DLKKTO9E3ktaYo0uaka-W9UE1QaHWLKgOyi0Yi6mB6SE4zwynn84ZcqNJKDJAdWo5Ag5vL3QCuaIcw50wduoDw3AIHleNOnz-5vy3AYy9AF8g4y4-_waNRjCI8kW_iG4p7JDACis0WpCV1DLuRKV1ktj06gOh7uzhgeAGYOdkPNUVbOPkdCRA33Bnxb42H18OEsLutXap7acK8k7IFbM1P1OSr6oLcT39nagvW0H5J4wxaBIP4pWDfJ-GF2zuIGQ8B9yOE-kISPGYcYymesSsfZiJLEw1W9DzhFkvCbnhvKIfRi-1nLXtKvY5awwAABHg3bZs7d-PQJmknPFmYWvYXjF2hPQNcZoj5MK8yluHuteTbb54bl7OZB_eqXPO7U2teC4UoMfJD-GaWy-GPdc1onwbEWNby9eSp2gVoAYIqcyJzBhLHOTNTVySTSScg7mxnayejLRpM59_n_85A7liyqUNxxxyn8Q1vdt?c=daum.ch1&t=1
+                      - generic [ref=f360e175]: SBS게임아카데미
+                      - generic [ref=f360e176]: gwangju.sbsgameacademy.com
+                    - strong [ref=f360e177]:
+                      - link "SBS아카데미게임학원 광주점 입시&취업 연계완성 기업연계 실무프로젝트" [ref=f360e178] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/Qs8QrRDQIbIcdlb_V0-E1vtmbmAZ3FfdnEqD6DyVHh7CrPWBRc0z-XV99efis6G1F3EgvmV5akFSaCcYnRXvlQ9m5ZS4DLKKTO9E3ktaYo0uaka-W9UE1QaHWLKgOyi0Yi6mB6SE4zwynn84ZcqNJKDJAdWo5Ag5vL3QCuaIcw50wduoDw3AIHleNOnz-5vy3AYy9AF8g4y4-_waNRjCI8kW_iG4p7JDACis0WpCV1DLuRKV1ktj06gOh7uzhgeAGYOdkPNUVbOPkdCRA33Bnxb42H18OEsLutXap7acK8k7IFbM1P1OSr6oLcT39nagvW0H5J4wxaBIP4pWDfJ-GF2zuIGQ8B9yOE-kISPGYcYymesSsfZiJLEw1W9DzhFkvCbnhvKIfRi-1nLXtKvY5awwAABHg3bZs7d-PQJmknPFmYWvYXjF2hPQNcZoj5MK8yluHuteTbb54bl7OZB_eqXPO7U2teC4UoMfJD-GaWy-GPdc1onwbEWNby9eSp2gVoAYIqcyJzBhLHOTNTVySTSScg7mxnayejLRpM59_n_85A7liyqUNxxxyn8Q1vdt?c=daum.ch1&t=1
+                    - paragraph [ref=f360e180]:
+                      - link "게임 제작과정의 모든것! 게임의 디자인부터 개발, 원화까지~ 취업전문학원 국비지원교육, 게임그래픽/원화, 웹툰, 웹소설, 프로그래밍, 개발/기획, 이모티콘" [ref=f360e181] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/Qs8QrRDQIbIcdlb_V0-E1vtmbmAZ3FfdnEqD6DyVHh7CrPWBRc0z-XV99efis6G1F3EgvmV5akFSaCcYnRXvlQ9m5ZS4DLKKTO9E3ktaYo0uaka-W9UE1QaHWLKgOyi0Yi6mB6SE4zwynn84ZcqNJKDJAdWo5Ag5vL3QCuaIcw50wduoDw3AIHleNOnz-5vy3AYy9AF8g4y4-_waNRjCI8kW_iG4p7JDACis0WpCV1DLuRKV1ktj06gOh7uzhgeAGYOdkPNUVbOPkdCRA33Bnxb42H18OEsLutXap7acK8k7IFbM1P1OSr6oLcT39nagvW0H5J4wxaBIP4pWDfJ-GF2zuIGQ8B9yOE-kISPGYcYymesSsfZiJLEw1W9DzhFkvCbnhvKIfRi-1nLXtKvY5awwAABHg3bZs7d-PQJmknPFmYWvYXjF2hPQNcZoj5MK8yluHuteTbb54bl7OZB_eqXPO7U2teC4UoMfJD-GaWy-GPdc1onwbEWNby9eSp2gVoAYIqcyJzBhLHOTNTVySTSScg7mxnayejLRpM59_n_85A7liyqUNxxxyn8Q1vdt?c=daum.ch1&t=1
+                  - generic [ref=f360e182]:
+                    - link "이벤트온라인강의 무료증정" [ref=f360e185] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/bJ6_x8u9Z72e55pJeYDWSFNc2bIuClxF77nzV-cJkfAJowpAmqCwuNxdpGP5B7bBIX0D-w9yWLNSSu4taq_CTOQywOMdSvZv5DzzpK8R6_Ef6TjuOEz1vA3HiG-ENkKRrCii8WqLrYlH5oLaYvG18NVTVZOmYLe0Jl1az0thKVIuCj340NyeKBW4lhLXnUPI93wFVVm26znFq7xOxC0axOQA9CdNJCsffg_3GSOqzK0RTy-58GdlAOff0LAb3aPlStgp2BxapR-sFXJ9la0HapkV2g-4_aRLR9VxOltoeyYh8FGjPXy_bWeWf6jvPsHW30JIClblvG9DNcBdVkWjL2wVcSZgk5OsuuC9FtLIbLDp1-EwtWFHo_41pypX_pJDmIhGYPR7cOUiYz3lQvy56OqCajLCiT98hnfnbxDTLTvv2raYQbEJXgeHptOGZCJTjQSyVa_l1ln3yRBWXkUD5f0-CN2WCXRqSlv9IBLG6h-e2kzLt_Jsn-N9EsYcZ3zgKGPSoW00AEVxZEz2k3H_0UUD7hLQVEaAXT5ZcEecQYa4fFXENSAOVxvwfgfMoTaM?c=daum.ch1&t=1
+                    - generic [ref=f360e186]:
+                      - strong [ref=f360e187]: 관련 키워드 목록
+                      - list [ref=f360e188]:
+                        - listitem [ref=f360e189]:
+                          - link "광주송정유니티프로그래밍" [ref=f360e190] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                        - listitem [ref=f360e191]:
+                          - link "목포웹소설표지일러스트" [ref=f360e192] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                        - listitem [ref=f360e193]:
+                          - link "게임원화포트폴리오미술학원" [ref=f360e194] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                        - listitem [ref=f360e195]:
+                          - link "나주3D언리얼게임개발학원" [ref=f360e196] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                        - listitem [ref=f360e197]:
+                          - link "순천국비지원디지털드로잉웹툰" [ref=f360e198] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/47gKCAq4xpD-ThQLZvxmZ0UVBLHxnU1ogljraAzaGgK2gVvARxRn3LlksWotdTXHewYTgDt_LFPkrO0UGPPumLbHIjkh4kDb5b0GepE__IJshLLroM6KlJa99G7WwBZeYSFs1fK1RkL084sNszu7RRzxidmdyrbHsh1nKRZsSdaTyAM9UVlDhoe6bPkPanBboGU7Bq8t3ZDstPCGh_g7kEw2tX9pM6UMhgepOQE8hS6tqaCiIwvJJXgjqhRp_wiOgpL-qjWIcb5EOu2_aSc__AGaYCJzBrZbrkPdgl08dVcSSthbZsRLNiwwfeT1MLHVFQxC1qGQ1C3eJB7XrUrvhlJ_sJVSAJaJmWu9G8aOdPsxT1nRBsdrV44GEFCnVmiJLVPl7-Lom1PRhIUtihGPR6ZjpX_W5HE01zjKbiZy2kH9AQOplWrC2ftBHnYsOk4DwLrSN-x3zUW0RDhwj__Iwg==?c=daum.ch1&t=1
+                    - generic [ref=f360e199]: 리뷰수 544
+              - listitem [ref=f360e201]:
+                - generic [ref=f360e202]:
+                  - link "3" [ref=f360e205] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                  - generic [ref=f360e208]:
+                    - link "SBS게임아카데미 daejeon.sbsgameacademy.com" [ref=f360e210] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/oV7j6skbXoxS5K7xxx4q35tLKHJj3-oZg4YOx7xA4kD1-kwvnoP05s1i5GWSL0mQw57fEZXBKg-0nVkpr8XY_l7Lc-EJuba1pfS-rQRKXy8I8nHpvXcJMUzTf6nXQE8a2sVmp2VQPn9ET-87vQxBvNFHUJxJhoui58xmuwYsaWFtMVAJ1HKISoXkhJWayKz0h5D-9luhKxzVrBcQoavE7-LMBNf-dH9CY5RJW7WGByjXnE7xi_rKfRTW-fTVChv4klM8xre7ANY3erYQcddSe7e5geq0zUd63C7shsvDn1FlE6xAVAQNPrv_r3KGEoSXRiEbg2t4kBHe3wunkGhpFWFcO509_KJPFfBVjrWS7vKjT-oWLHrk7OfUaLwR8xGRGDn5hs3UYuY-d9gPfo6NU9e42lOLnD4iSDlmmQk8ptF4TuIIQx76IoeuTzSDMsUgrvF3luEE5tg4cMzA98DOUJ11ukkh-E1a7my3deaa5pw_4ZXTqJjN2f7zNyKOxExoaqWUUwfTjhPMgzAxYwFLspzFFvjapKXWGGdJbjvDyOc=?c=daum.ch1&t=1
+                      - generic [ref=f360e213]: SBS게임아카데미
+                      - generic [ref=f360e214]: daejeon.sbsgameacademy.com
+                    - strong [ref=f360e215]:
+                      - link "SBS아카데미웹툰학원 대전점" [ref=f360e216] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/oV7j6skbXoxS5K7xxx4q35tLKHJj3-oZg4YOx7xA4kD1-kwvnoP05s1i5GWSL0mQw57fEZXBKg-0nVkpr8XY_l7Lc-EJuba1pfS-rQRKXy8I8nHpvXcJMUzTf6nXQE8a2sVmp2VQPn9ET-87vQxBvNFHUJxJhoui58xmuwYsaWFtMVAJ1HKISoXkhJWayKz0h5D-9luhKxzVrBcQoavE7-LMBNf-dH9CY5RJW7WGByjXnE7xi_rKfRTW-fTVChv4klM8xre7ANY3erYQcddSe7e5geq0zUd63C7shsvDn1FlE6xAVAQNPrv_r3KGEoSXRiEbg2t4kBHe3wunkGhpFWFcO509_KJPFfBVjrWS7vKjT-oWLHrk7OfUaLwR8xGRGDn5hs3UYuY-d9gPfo6NU9e42lOLnD4iSDlmmQk8ptF4TuIIQx76IoeuTzSDMsUgrvF3luEE5tg4cMzA98DOUJ11ukkh-E1a7my3deaa5pw_4ZXTqJjN2f7zNyKOxExoaqWUUwfTjhPMgzAxYwFLspzFFvjapKXWGGdJbjvDyOc=?c=daum.ch1&t=1
+                    - paragraph [ref=f360e218]:
+                      - link "작가 양성 전문 교육기관, 네이버웹툰작가 세미나 진행중" [ref=f360e219] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/oV7j6skbXoxS5K7xxx4q35tLKHJj3-oZg4YOx7xA4kD1-kwvnoP05s1i5GWSL0mQw57fEZXBKg-0nVkpr8XY_l7Lc-EJuba1pfS-rQRKXy8I8nHpvXcJMUzTf6nXQE8a2sVmp2VQPn9ET-87vQxBvNFHUJxJhoui58xmuwYsaWFtMVAJ1HKISoXkhJWayKz0h5D-9luhKxzVrBcQoavE7-LMBNf-dH9CY5RJW7WGByjXnE7xi_rKfRTW-fTVChv4klM8xre7ANY3erYQcddSe7e5geq0zUd63C7shsvDn1FlE6xAVAQNPrv_r3KGEoSXRiEbg2t4kBHe3wunkGhpFWFcO509_KJPFfBVjrWS7vKjT-oWLHrk7OfUaLwR8xGRGDn5hs3UYuY-d9gPfo6NU9e42lOLnD4iSDlmmQk8ptF4TuIIQx76IoeuTzSDMsUgrvF3luEE5tg4cMzA98DOUJ11ukkh-E1a7my3deaa5pw_4ZXTqJjN2f7zNyKOxExoaqWUUwfTjhPMgzAxYwFLspzFFvjapKXWGGdJbjvDyOc=?c=daum.ch1&t=1
+                  - generic [ref=f360e220]:
+                    - link "이벤트온라인강의 무료증정" [ref=f360e223] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/Z9fUScKXHw_D0rc-snR2X-Xd89ofFPeMi9MqlLoPS9Ha8t4Kd_JQum2B6G05pLhf6n_RZ9TykqvypKpsPRgRtoWYS1JZtOALHTLd1DcJRj22h9hoBO4Ow9hnhiVowxBX28bqRQQOYSeKLgyDMW4ZGjFYX15V6wqTvdj5kTA5FsUR2TwWGUkBYirjw3u7NbKXXFDjchl8o5jMUbxYgoHZoy-tBrF9yHQii_R9rDz3q0i2wKkofDp02niKwcMUgZdtjcB8LqT7rYxDNyW6f6GA4-r5KbLZVyb3yREJdeCIhEVAmBWcipXau3NJwatXsDJGD6oEzkpOg7I27dnzVAi_9h80WgkqEXr4EN8DeAnJ4G2ofkyIizSLg2FjYbR7MeqzvI_UamM83nHfIiP_TEFACZHANI0cuzX4Zy5KbR7aj45ki5-tWoQkJVvf9OiPfizpGpdBsmhTyufYewNPPnmSnG_btYm4206fmy91UkAVgctiF9z3VWj5zJOTbLCZ9J2CCzsx2TYjp8O1uOd8DYveqx2ae9zoTkMEZXoQHLUzIpk=?c=daum.ch1&t=1
+                    - generic [ref=f360e224]:
+                      - strong [ref=f360e225]: 관련 키워드 목록
+                      - list [ref=f360e226]:
+                        - listitem [ref=f360e227]:
+                          - link "만화애니메이션이모티콘학원" [ref=f360e228] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                        - listitem [ref=f360e229]:
+                          - link "대전게임그래픽국비지원취업준비" [ref=f360e230] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                        - listitem [ref=f360e231]:
+                          - link "세종프로그래밍게임개발기획학원" [ref=f360e232] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                        - listitem [ref=f360e233]:
+                          - link "대전게임원화일러스트웹소설학원" [ref=f360e234] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                        - listitem [ref=f360e235]:
+                          - link "공주웹툰학원" [ref=f360e236] [cursor=pointer]:
+                            - /url: https://ader.naver.com/v1/CuKtpYqEfG9PMCCwr0JwKWVoeYeNnoNZzfhLNbCEzy-oC6R2vepIQd0icJd127ujqjgRBoRsU9-c7HgpcswOtvjjZN16l0TGc7lIcXDzWgj-SMDSY2nT2lxmVLwMekxXE2G5AbXku3i_qOrVqrDc5lQteOYih07ohH88SCkV3qBraQmLcAclPaasP1XI6py7dBicy1Kp1gUZoEB7FBDS6QwOspe7AGPFtTtjaiydOA_C17tacS_BTiTvewOiimRcS1eCaD3cz8dRLe-cardk4Tk6vWZOBS_S1aSbmaBuSi8AQ5gg4tdOgKo0H0QlTB-qMtYTSR-O08EQA7IsazRyB_el0LSBU_zuJ8b4d1xhZ4XqZ72I9PtwzA6ekfgalbrJ1RAC2F2wwFRrrCqQEMLCWpaDIKEIFYCyw449nPiykJHdFQ6i_iA7Bt1RNkpokSzEgMqBocfUDYFf1KlNYJcY4A==?c=daum.ch1&t=1
+                    - generic [ref=f360e237]: 리뷰수 716
+              - listitem [ref=f360e239]:
+                - generic [ref=f360e241]:
+                  - link "리디 ridibooks.com" [ref=f360e243] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/jzA41mZeWi88vxcVlrYTv33Sa2CoZJM8Do2ph-XM0M5G9p2sAmC7ZoBaI10fstJ393zEdo7fnk66RaEePNQAxU08D00QOH099UeF77ktn4x8-3z7qEMHXc-lI7Rp2gk7BdFDs9kH2mRM1IRRUNbYy5OHlXFQ8I1QbktIHj9gjTPwd9Fwwwdvf1f2ZESQtR-tafXpQLD0lJst-HwjaP15g5SkmURneGlDwL0aWZKZM4gdPbAqj9dt6TTO818JbztP5O6O25pQiWyAJ7fijKE12shXjadmJ7SIMnOWsF106aKEiQU0AE-m_aSi2ybLz9bF5NgtRCeVN9FCQH1JRE72pv-7fw8WSb2Wz4cqkIrqOGw8EQ1O0Q_UD2kPafu9jAXKRGt-Ma81ISF542WA17aw-dAt0KBE5rd39ofE5a_Nt3WXL__Q4NyVJfrA1z4ZZ2X9irA3pZSOPo_TKJ4kCcIaoSnwgqxmIyBjshwlx5E49hFru1r8wm86y74819FqNuA-jYKqK4DWmnCnNJ8d20jooQxtRZV_VlyhywVfXIsL1kdruZ6Sv9NWYp-EkAPQNGZnvsv8BnL2_gQPm1llV0eshK3USMTlf-ZZ4hamV4nlIvtZrH-Ea2X67Y1n0w22GSEhUobVmQalSiJDQwxGqn149kAEcVKQKbjt16t6Ki0trW8=?c=daum.ch1&t=0
+                    - generic [ref=f360e246]: 리디
+                    - generic [ref=f360e247]: ridibooks.com
+                  - strong [ref=f360e248]:
+                    - link "오월의정원에서, 리디에서" [ref=f360e249] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/jzA41mZeWi88vxcVlrYTv33Sa2CoZJM8Do2ph-XM0M5G9p2sAmC7ZoBaI10fstJ393zEdo7fnk66RaEePNQAxU08D00QOH099UeF77ktn4x8-3z7qEMHXc-lI7Rp2gk7BdFDs9kH2mRM1IRRUNbYy5OHlXFQ8I1QbktIHj9gjTPwd9Fwwwdvf1f2ZESQtR-tafXpQLD0lJst-HwjaP15g5SkmURneGlDwL0aWZKZM4gdPbAqj9dt6TTO818JbztP5O6O25pQiWyAJ7fijKE12shXjadmJ7SIMnOWsF106aKEiQU0AE-m_aSi2ybLz9bF5NgtRCeVN9FCQH1JRE72pv-7fw8WSb2Wz4cqkIrqOGw8EQ1O0Q_UD2kPafu9jAXKRGt-Ma81ISF542WA17aw-dAt0KBE5rd39ofE5a_Nt3WXL__Q4NyVJfrA1z4ZZ2X9irA3pZSOPo_TKJ4kCcIaoSnwgqxmIyBjshwlx5E49hFru1r8wm86y74819FqNuA-jYKqK4DWmnCnNJ8d20jooQxtRZV_VlyhywVfXIsL1kdruZ6Sv9NWYp-EkAPQNGZnvsv8BnL2_gQPm1llV0eshK3USMTlf-ZZ4hamV4nlIvtZrH-Ea2X67Y1n0w22GSEhUobVmQalSiJDQwxGqn149kAEcVKQKbjt16t6Ki0trW8=?c=daum.ch1&t=0
+                  - paragraph [ref=f360e250]:
+                    - link "리디에서 오월의 정원에서의 매력적인 바네사와 시어도어의 사랑을 만나보세요." [ref=f360e251] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/jzA41mZeWi88vxcVlrYTv33Sa2CoZJM8Do2ph-XM0M5G9p2sAmC7ZoBaI10fstJ393zEdo7fnk66RaEePNQAxU08D00QOH099UeF77ktn4x8-3z7qEMHXc-lI7Rp2gk7BdFDs9kH2mRM1IRRUNbYy5OHlXFQ8I1QbktIHj9gjTPwd9Fwwwdvf1f2ZESQtR-tafXpQLD0lJst-HwjaP15g5SkmURneGlDwL0aWZKZM4gdPbAqj9dt6TTO818JbztP5O6O25pQiWyAJ7fijKE12shXjadmJ7SIMnOWsF106aKEiQU0AE-m_aSi2ybLz9bF5NgtRCeVN9FCQH1JRE72pv-7fw8WSb2Wz4cqkIrqOGw8EQ1O0Q_UD2kPafu9jAXKRGt-Ma81ISF542WA17aw-dAt0KBE5rd39ofE5a_Nt3WXL__Q4NyVJfrA1z4ZZ2X9irA3pZSOPo_TKJ4kCcIaoSnwgqxmIyBjshwlx5E49hFru1r8wm86y74819FqNuA-jYKqK4DWmnCnNJ8d20jooQxtRZV_VlyhywVfXIsL1kdruZ6Sv9NWYp-EkAPQNGZnvsv8BnL2_gQPm1llV0eshK3USMTlf-ZZ4hamV4nlIvtZrH-Ea2X67Y1n0w22GSEhUobVmQalSiJDQwxGqn149kAEcVKQKbjt16t6Ki0trW8=?c=daum.ch1&t=0
+              - listitem [ref=f360e252]:
+                - generic [ref=f360e253]:
+                  - link [ref=f360e256] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/8W9_gJaoVtwzrTDpMLlgKLJVpW8kjOOXeh5re20kCG4iwt23qkzYsaspXKjWH-0qzhgTaYC1GKXDHSEzk9lsMdAE4buLrGCTWESUwvlN8FXD-2Vxvzfee5rVLHItD_XgHsI35U0Df-M_GvEH8v7TzazzkhgHIoytqK_aKbStcjrdSMawmX_G_LjKKeQzg2Xf5hSBwF7Di1IvtpcABh7wf76Nk_jdkTmuN-yBsSv6gE6e3TgIrxlpY1DFX7PoJExmSLKnBx8tz60ARRbUqhobPsIb-ts7REgV2wvOX2mVjWeQ5gWTZjzoEcykd-EbT8UuwgrjzsbUM-rgTDUpdzJDaFPa4ize1qPaJtybRT3FJL8YwaJcc9xk7Th6dPHsWoaRXOq4tak48hD-Y3HhuS5qv68J_Nh2MGdX2FAHL8XW4LytZsHvcg5owH37YZmtio8Z?c=daum.ch1&t=0
+                  - generic [ref=f360e257]:
+                    - link "미툰앤노벨 www.me.co.kr" [ref=f360e259] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/p4RcJBRVvteOSmyNGDoUcCNEosnvPWuTuhbGSQiRu8KGUZ19i8VKbWXxZQxfSqLST-pOfhl4geaspqqkg89Fkzvr6AhvBu33AY1oJ4aVIHg56hH59Y-WuvSjh4gQprP4e06zjy7IfZW5ZnaNl6sV8EXymeg7evsthFi2Ghwm3MDc-L8FR7TZ04iJ9nDCyVf-NcWdFb2aJ8Y8B7nhbI_jTgo3SeBxgbWmWy_MU_ox_ORQj-t4naRSKJXWWJyh8hgL1DD9WwI7NAg-iiVLuWYt9boB6SA2fev1cpsUtuKLSslW9jmIBeZ3skFxdsHP7XvpLceNNQP9InlHjy2MatgdWWoZxs93_siVub5Tf4K4uGiM52q-4SbLH3BYluGg9OOEU9kDCAN4LGzQr2TWIGql8KoKeISptbcTDCQGoB3L6FQ=?c=daum.ch1&t=0
+                      - generic [ref=f360e262]: 미툰앤노벨
+                      - generic [ref=f360e263]: www.me.co.kr
+                    - strong [ref=f360e264]:
+                      - link "소설 ME, 무제한 무료! 재미가 가득한곳!" [ref=f360e265] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/p4RcJBRVvteOSmyNGDoUcCNEosnvPWuTuhbGSQiRu8KGUZ19i8VKbWXxZQxfSqLST-pOfhl4geaspqqkg89Fkzvr6AhvBu33AY1oJ4aVIHg56hH59Y-WuvSjh4gQprP4e06zjy7IfZW5ZnaNl6sV8EXymeg7evsthFi2Ghwm3MDc-L8FR7TZ04iJ9nDCyVf-NcWdFb2aJ8Y8B7nhbI_jTgo3SeBxgbWmWy_MU_ox_ORQj-t4naRSKJXWWJyh8hgL1DD9WwI7NAg-iiVLuWYt9boB6SA2fev1cpsUtuKLSslW9jmIBeZ3skFxdsHP7XvpLceNNQP9InlHjy2MatgdWWoZxs93_siVub5Tf4K4uGiM52q-4SbLH3BYluGg9OOEU9kDCAN4LGzQr2TWIGql8KoKeISptbcTDCQGoB3L6FQ=?c=daum.ch1&t=0
+                    - paragraph [ref=f360e267]:
+                      - link "흥미진진한 모든 장르의 취향저격 무료소설 E북, 매월 무제한으로! 첫 7일 무료!" [ref=f360e268] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/p4RcJBRVvteOSmyNGDoUcCNEosnvPWuTuhbGSQiRu8KGUZ19i8VKbWXxZQxfSqLST-pOfhl4geaspqqkg89Fkzvr6AhvBu33AY1oJ4aVIHg56hH59Y-WuvSjh4gQprP4e06zjy7IfZW5ZnaNl6sV8EXymeg7evsthFi2Ghwm3MDc-L8FR7TZ04iJ9nDCyVf-NcWdFb2aJ8Y8B7nhbI_jTgo3SeBxgbWmWy_MU_ox_ORQj-t4naRSKJXWWJyh8hgL1DD9WwI7NAg-iiVLuWYt9boB6SA2fev1cpsUtuKLSslW9jmIBeZ3skFxdsHP7XvpLceNNQP9InlHjy2MatgdWWoZxs93_siVub5Tf4K4uGiM52q-4SbLH3BYluGg9OOEU9kDCAN4LGzQr2TWIGql8KoKeISptbcTDCQGoB3L6FQ=?c=daum.ch1&t=0
+                  - link "이벤트회원가입 후 무제한 무료!" [ref=f360e272] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/8W9_gJaoVtwzrTDpMLlgKLJVpW8kjOOXeh5re20kCG5ODluQrbogVljax_Y2YpgYfegPtU-hmJ9mCoYAA1KEqcrnDyEIFa1RwNNEXqiiC4elRcdMiJOg41clwiWQrTYyjsPHizQaBlFFNb8Y9HovdJi98P9xFPAVHjfpZzuCju1WIgBY1g5ztxhX3CxKJUC5CAshPV4Wld_u9xt90lnMfgz7Bqt-qxWX6GkBt6P49XoLEUysxHD7a4D1bMuI1Hn3rKizs_Zg6YDpDqqgkFlFT4GGdMe0peR6tV84afVp8oFg8b1wUYJUgn9f-aQ_0R7eI-RmIVA3LJzDThJjKCsVg8uIhniyiqS6IvIExuWzhOSmVem2W1-jMNi3qtAg4xuW1YITHS7BOJtWf2fWkHwL0oGhGHVWA1g8RRciq2CO81oKfj3Au0Cj8VGbnqZXt7F-?c=daum.ch1&t=0
+            - link "더보기" [ref=f360e275] [cursor=pointer]:
+              - /url: "?w=nad&DA=0NL&q=희웹툰"
+          - generic [ref=f360e277]:
+            - generic [ref=f360e278]:
+              - heading "통합웹" [level=2] [ref=f360e279]
+              - generic [ref=f360e280]:
+                - strong: 상세검색옵션
+                - generic [ref=f360e283]:
+                  - generic [ref=f360e284]:
+                    - text: 전체
+                    - generic [ref=f360e285]: 선택됨
+                  - link "블로그" [ref=f360e286] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA&p=2"
+                  - link "카페" [ref=f360e287] [cursor=pointer]:
+                    - /url: "?w=fusion&col=cafe&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA&p=2"
+                  - link "웹문서" [ref=f360e288] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA&p=2"
+            - generic [ref=f360e290]:
+              - generic [ref=f360e292]:
+                - link "유저썸네일 fmkorea.com" [ref=f360e297] [cursor=pointer]:
+                  - /url: https://www.fmkorea.com/10209993660
+                  - img "유저썸네일" [ref=f360e300]
+                  - strong [ref=f360e302]:
+                    - generic [ref=f360e303]: fmkorea.com
+                - strong [ref=f360e309]:
+                  - link "대 수 희 - 웹툰/웹소설/만화 - 에펨코리아" [ref=f360e310] [cursor=pointer]:
+                    - /url: https://www.fmkorea.com/10209993660
+                - generic [ref=f360e312]:
+                  - link "웹문서 검색 더보기" [ref=f360e313] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA"
+                  - generic [ref=f360e315]: 2026.08.14
+                - generic [ref=f360e320]:
+                  - strong [ref=f360e322]: 같은 출처 내 관련문서
+                  - list [ref=f360e323]:
+                    - listitem [ref=f360e324]:
+                      - link "은 VS 희 - 웹툰/웹소설/만화 - 에펨코리아" [ref=f360e326] [cursor=pointer]:
+                        - /url: https://www.fmkorea.com/9774816472
+                    - listitem [ref=f360e327]:
+                      - link "정조역전 그저 대 주 희 - 웹툰/웹소설/만화 - 에펨코리아" [ref=f360e329] [cursor=pointer]:
+                        - /url: https://www.fmkorea.com/8995514423
+              - generic [ref=f360e331]:
+                - link "유저썸네일 jakga.app authors 260103-0821" [ref=f360e336] [cursor=pointer]:
+                  - /url: https://jakga.app/authors/260103-0821
+                  - img "유저썸네일" [ref=f360e339]
+                  - strong [ref=f360e341]:
+                    - generic [ref=f360e342]: jakga.app
+                    - generic [ref=f360e344]: authors
+                    - generic [ref=f360e346]: 260103-0821
+                - generic [ref=f360e349]:
+                  - strong [ref=f360e352]:
+                    - link "「이름 사이 공백」 웹툰 작가 희DA의 프로필 및 작품 정보 — JAKGA" [ref=f360e353] [cursor=pointer]:
+                      - /url: https://jakga.app/authors/260103-0821
+                  - paragraph [ref=f360e356]:
+                    - link "2026년 연재 시작한 「이름 사이 공백」의 작가 희DA의 필모그래피, 협업 작가, SNS, 영상화 작품 정보를 JAKGA에서 확인하세요." [ref=f360e357] [cursor=pointer]:
+                      - /url: https://jakga.app/authors/260103-0821
+                - generic [ref=f360e358]: 2026.07.26
+              - generic [ref=f360e365]:
+                - link "유저썸네일 gall.dcinside.com board idolmaster_new1" [ref=f360e370] [cursor=pointer]:
+                  - /url: https://gall.dcinside.com/board/view/?id=idolmaster_new1&no=8887423
+                  - img "유저썸네일" [ref=f360e373]
+                  - strong [ref=f360e375]:
+                    - generic [ref=f360e376]: gall.dcinside.com
+                    - generic [ref=f360e378]: board
+                    - generic [ref=f360e380]: idolmaster_new1
+                - generic [ref=f360e383]:
+                  - strong [ref=f360e386]:
+                    - link "요즘 네이버웹툰은 태반이 희귀물이네" [ref=f360e387] [cursor=pointer]:
+                      - /url: https://gall.dcinside.com/board/view/?id=idolmaster_new1&no=8887423
+                  - paragraph [ref=f360e390]:
+                    - link "맨날 뭐때문에 후회하면서 뒤졌다가 살아니면 과거임" [ref=f360e391] [cursor=pointer]:
+                      - /url: https://gall.dcinside.com/board/view/?id=idolmaster_new1&no=8887423
+                - generic [ref=f360e392]: 2026.01.12
+                - generic [ref=f360e399]:
+                  - generic [ref=f360e400]:
+                    - strong [ref=f360e401]: 같은 출처 내 관련문서
+                    - link "전체보기" [ref=f360e403] [cursor=pointer]:
+                      - /url: "?w=fusion&q=%ED%9D%AC%EC%9B%B9%ED%88%B0%20site%3Agall.dcinside.com&DA=TWA"
+                  - list [ref=f360e405]:
+                    - listitem [ref=f360e406]:
+                      - link "근데 지금 웹툰고트랑 희진신이랑 소송중인건가요?" [ref=f360e408] [cursor=pointer]:
+                        - /url: https://gall.dcinside.com/board/view/?id=baseball_ab2&no=8732514
+                    - listitem [ref=f360e409]:
+                      - link "웹툰 쪽 소식 아닌데 이 작가님도 영상화 원하시네요" [ref=f360e411] [cursor=pointer]:
+                        - /url: https://gall.dcinside.com/mgallery/board/view/?id=wow_choi&no=16997
+              - generic [ref=f360e413]:
+                - link "유저썸네일 blog.naver.com 독서노트 풍요로운 삶 만들기" [ref=f360e418] [cursor=pointer]:
+                  - /url: https://blog.naver.com/twin_n
+                  - img "유저썸네일" [ref=f360e421]
+                  - strong [ref=f360e423]:
+                    - generic [ref=f360e424]: blog.naver.com
+                    - generic [ref=f360e426]: 독서노트 풍요로운 삶 만들기
+                - generic [ref=f360e429]:
+                  - strong [ref=f360e432]:
+                    - link "힐링 웹툰 추천 그림이 귀여워서 보게 되는 내일이 없는 시한부 공주라서요" [ref=f360e433] [cursor=pointer]:
+                      - /url: https://blog.naver.com/twin_n/224362548205
+                  - link "힐링 웹툰 추천 그림이 귀여워서 보게 되는 내일이 없는 시한부 공주라서요 27 개" [ref=f360e437] [cursor=pointer]:
+                    - /url: https://blog.naver.com/twin_n/224362548205
+                    - img "힐링 웹툰 추천 그림이 귀여워서 보게 되는 내일이 없는 시한부 공주라서요" [ref=f360e438]
+                    - generic [ref=f360e440]:
+                      - text: "27"
+                      - generic [ref=f360e441]: 개
+                  - paragraph [ref=f360e444]:
+                    - link "나와서 신과 함께도 생각난다 고증을 잘했다는 칭찬 댓글이 많다 개인적으로 고양이상보다는 강아지상을 좋아해서 희요 본체보다 희요가 들어간 세루화 캐릭터가 좋다 웹툰추천 한복 예쁘고♡ 눈도 동글동글 귀여워 천명 공주님을 지키는 봉황 캐릭터도 귀엽고 여우도 귀엽다 신작 웹툰이라 다음 내용이 궁금..." [ref=f360e445] [cursor=pointer]:
+                      - /url: https://blog.naver.com/twin_n/224362548205
+                - generic [ref=f360e447]:
+                  - link "블로그 검색 더보기" [ref=f360e448] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA"
+                  - generic [ref=f360e450]: 2026.07.30
+              - generic [ref=f360e455]:
+                - link "유저썸네일 blog.naver.com 월간 아트앤디자인" [ref=f360e460] [cursor=pointer]:
+                  - /url: https://blog.naver.com/artndesign2026
+                  - img "유저썸네일" [ref=f360e463]
+                  - strong [ref=f360e465]:
+                    - generic [ref=f360e466]: blog.naver.com
+                    - generic [ref=f360e468]: 월간 아트앤디자인
+                - generic [ref=f360e471]:
+                  - strong [ref=f360e474]:
+                    - link "[2026학년도 수시 합격생 재현작] 목원대 웹툰학과 강○희(대구명덕 드림웍스미술학원)" [ref=f360e475] [cursor=pointer]:
+                      - /url: https://blog.naver.com/artndesign2026/224193960433
+                  - paragraph [ref=f360e478]:
+                    - link "합격을 축하합니다.👍😘 미술대학에 합격할 수 있는 노하우! 합격생이 전하는 이야기에 집중하세요~~😘🥰👍 2026학년도 수시 목원대 웹툰학과 강○희(대구명덕 드림웍스미술학원) ☆인터뷰 일부☆ 탄탄한 기본기를 바탕으로 단순히 화려하게 그리기보다는 주제의 본질을 깊이 파헤쳐보고 색채를 절제함과 동시에 담백..." [ref=f360e479] [cursor=pointer]:
+                      - /url: https://blog.naver.com/artndesign2026/224193960433
+                - generic [ref=f360e480]: 2026.02.24
+              - generic [ref=f360e487]:
+                - link "유저썸네일 namu.wiki" [ref=f360e492] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%ED%9A%8C%EA%B7%80%ED%95%9C%20%EC%B2%9C%EC%9E%AC%20%ED%97%8C%ED%84%B0%EC%9D%98%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EC%B2%AD%EC%86%8C%EC%83%9D%ED%99%9C(%EC%9B%B9%ED%88%B0)
+                  - img "유저썸네일" [ref=f360e495]
+                  - strong [ref=f360e497]:
+                    - generic [ref=f360e498]: namu.wiki
+                - generic [ref=f360e501]:
+                  - strong [ref=f360e504]:
+                    - link "회귀한 천재 헌터의 슬기로운 청소생활(웹툰) - 나무위키" [ref=f360e505] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%ED%9A%8C%EA%B7%80%ED%95%9C%20%EC%B2%9C%EC%9E%AC%20%ED%97%8C%ED%84%B0%EC%9D%98%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EC%B2%AD%EC%86%8C%EC%83%9D%ED%99%9C(%EC%9B%B9%ED%88%B0)
+                  - link [ref=f360e509] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%ED%9A%8C%EA%B7%80%ED%95%9C%20%EC%B2%9C%EC%9E%AC%20%ED%97%8C%ED%84%B0%EC%9D%98%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EC%B2%AD%EC%86%8C%EC%83%9D%ED%99%9C(%EC%9B%B9%ED%88%B0)
+                    - img "회귀한 천재 헌터의 슬기로운 청소생활(웹툰) - 나무위키" [ref=f360e510]
+                  - generic [ref=f360e511]:
+                    - paragraph [ref=f360e513]:
+                      - link "동명의 웹소설 《회귀한 천재 헌터의 슬기로운 청소생활》을 원작으로 한 한국의 현대 판타지 웹툰. 작가는 고일고일." [ref=f360e514] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%ED%9A%8C%EA%B7%80%ED%95%9C%20%EC%B2%9C%EC%9E%AC%20%ED%97%8C%ED%84%B0%EC%9D%98%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EC%B2%AD%EC%86%8C%EC%83%9D%ED%99%9C(%EC%9B%B9%ED%88%B0)
+                    - generic [ref=f360e516]:
+                      - term [ref=f360e517]: "장르:"
+                      - definition [ref=f360e518]: 현대 판타지, 헌터, 회귀, 착각
+                      - term [ref=f360e519]: "원작:"
+                      - definition [ref=f360e520]: 달비트 《회귀한 천재 헌터의 슬기로운 청소생활》
+                      - term [ref=f360e521]: "작가:"
+                      - definition [ref=f360e522]: 고일고일
+                      - term [ref=f360e523]: "출판사:"
+                      - definition [ref=f360e524]: 엠스토리허브
+                      - term [ref=f360e525]: "연재처:"
+                      - definition [ref=f360e526]: 네이버 웹툰, 네이버 시리즈
+                - generic [ref=f360e527]: 2026.07.15
+                - generic [ref=f360e534]:
+                  - generic [ref=f360e535]:
+                    - strong [ref=f360e536]: 같은 출처 내 관련문서
+                    - link "전체보기" [ref=f360e538] [cursor=pointer]:
+                      - /url: "?w=fusion&q=%ED%9D%AC%EC%9B%B9%ED%88%B0%20site%3Anamu.wiki&DA=TWA"
+                  - list [ref=f360e540]:
+                    - listitem [ref=f360e541]:
+                      - link "도롱이(웹툰) - 나무위키" [ref=f360e543] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%EB%8F%84%EB%A1%B1%EC%9D%B4(%EC%9B%B9%ED%88%B0)
+                    - listitem [ref=f360e544]:
+                      - link "경성야상곡 - 나무위키" [ref=f360e546] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%EA%B2%BD%EC%84%B1%EC%95%BC%EC%83%81%EA%B3%A1
+              - link "통합웹 더보기" [ref=f360e551] [cursor=pointer]:
+                - /url: "?w=fusion&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=TWA&p=2"
+          - generic [ref=f360e553]:
+            - heading "이미지" [level=2] [ref=f360e557]
+            - generic [ref=f360e558]:
+              - figure [ref=f360e559]:
+                - link [ref=f360e561] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[웹툰] 335KM (eh희) 줄거리 및 결말 해석" [ref=f360e562]
+              - figure [ref=f360e563]:
+                - link [ref=f360e565] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "그때그시절 웹툰 전성시대 희노트 픽! 한경찰 스피릿 핑거스🤟🏻부터 조석 마음의소리까지" [ref=f360e566]
+              - figure [ref=f360e567]:
+                - link [ref=f360e569] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "그때그시절 웹툰 전성시대 희노트 픽! 한경찰 스피릿 핑거스🤟🏻부터 조석 마음의소리까지" [ref=f360e570]
+              - figure [ref=f360e571]:
+                - link [ref=f360e573] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "그때그시절 웹툰 전성시대 희노트 픽! 한경찰 스피릿 핑거스🤟🏻부터 조석 마음의소리까지" [ref=f360e574]
+              - figure [ref=f360e575]:
+                - link [ref=f360e577] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "(무료) 웹툰 아카데미 OPEN" [ref=f360e578]
+              - figure [ref=f360e579]:
+                - link [ref=f360e581] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "2020학년도 청강대학교 웹툰만화콘텐츠전공 홍O희 합격생 재현작과 인터뷰!" [ref=f360e582]
+              - figure [ref=f360e583]:
+                - link [ref=f360e585] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "웹툰과 장학생 바로툰 공모전 동상 입상" [ref=f360e586]
+              - figure [ref=f360e587]:
+                - link [ref=f360e589] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[재업] 흑발은 클래식이다 - 웹툰 흑발 여캐 모음글 1" [ref=f360e590]
+              - figure [ref=f360e591]:
+                - link [ref=f360e593] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "재미있는 완결 웹툰 추천 (2)" [ref=f360e594]
+              - figure [ref=f360e595]:
+                - link [ref=f360e597] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "좋아하는 네이버 웹툰 추천 (1) - 수요웹툰 (남주의 첫날밤을 가져버렸다, 엔딩 후 서브남을 주웠다..." [ref=f360e598]
+            - link "이미지 더보기" [ref=f360e600] [cursor=pointer]:
+              - /url: "?w=img&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=IIM"
+          - generic [ref=f360e604]:
+            - generic [ref=f360e605]:
+              - generic [ref=f360e609]:
+                - heading "동영상" [level=2] [ref=f360e610]
+                - link "안내" [ref=f360e613] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f360e614]: i
+              - list [ref=f360e616]:
+                - listitem [ref=f360e617]:
+                  - generic [ref=f360e618]:
+                    - 'link "EP3-04 희경파 모여라🙌🏻 이 세상 박력 다 끌어모은 걸크러쉬 임세미의 작업 | #여신강림 재생시간 05:49" [ref=f360e621] [cursor=pointer]':
+                      - /url: http://www.youtube.com/watch?v=lZM_sg6ibOs
+                      - 'img "EP3-04 희경파 모여라🙌🏻 이 세상 박력 다 끌어모은 걸크러쉬 임세미의 작업 | #여신강림" [ref=f360e622]'
+                      - generic [ref=f360e623]:
+                        - generic [ref=f360e624]: 재생시간
+                        - generic [ref=f360e625]: 05:49
+                    - generic [ref=f360e626]:
+                      - strong [ref=f360e628]:
+                        - 'link "EP3-04 희경파 모여라🙌🏻 이 세상 박력 다 끌어모은 걸크러쉬 임세미의 작업 | #여신강림" [ref=f360e629] [cursor=pointer]':
+                          - /url: http://www.youtube.com/watch?v=lZM_sg6ibOs
+                      - generic [ref=f360e631]:
+                        - link "Youtube" [ref=f360e633] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2021.02.12
+                      - link "디글 :Diggle" [ref=f360e634] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UCWYzc_p0GgfCepIWDHGFmEg
+                        - strong [ref=f360e637]: 디글 :Diggle
+                - listitem [ref=f360e638]:
+                  - generic [ref=f360e639]:
+                    - link "[슈퍼주니어/희철] 웹툰에 본인이 나온걸 본 김희철 재생시간 00:52" [ref=f360e642] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=tUC2wH1Tb5M
+                      - img "[슈퍼주니어/희철] 웹툰에 본인이 나온걸 본 김희철" [ref=f360e643]
+                      - generic [ref=f360e644]:
+                        - generic [ref=f360e645]: 재생시간
+                        - generic [ref=f360e646]: 00:52
+                    - generic [ref=f360e647]:
+                      - strong [ref=f360e649]:
+                        - link "[슈퍼주니어/희철] 웹툰에 본인이 나온걸 본 김희철" [ref=f360e650] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=tUC2wH1Tb5M
+                      - generic [ref=f360e652]:
+                        - link "Youtube" [ref=f360e654] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2021.08.03
+                      - link "희체리 (HEECHERRY)" [ref=f360e655] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UCdyNF_qm7QoHivuWuby867g
+                        - strong [ref=f360e658]: 희체리 (HEECHERRY)
+                - listitem [ref=f360e659]:
+                  - generic [ref=f360e660]:
+                    - link "[#OST] 희형제 - 너라는 계절 [연애의 참견 2022 OST - Part.8] | 가사, Lyrics 재생시간 04:50" [ref=f360e663] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=-hV0zL9PsWs
+                      - img "[#OST] 희형제 - 너라는 계절 [연애의 참견 2022 OST - Part.8] | 가사, Lyrics" [ref=f360e664]
+                      - generic [ref=f360e665]:
+                        - generic [ref=f360e666]: 재생시간
+                        - generic [ref=f360e667]: 04:50
+                    - generic [ref=f360e668]:
+                      - strong [ref=f360e670]:
+                        - link "[#OST] 희형제 - 너라는 계절 [연애의 참견 2022 OST - Part.8] | 가사, Lyrics" [ref=f360e671] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=-hV0zL9PsWs
+                      - generic [ref=f360e673]:
+                        - link "Youtube" [ref=f360e675] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2022.05.09
+                      - 'link "해시태그 OST : Hashtag OST : #OST" [ref=f360e676] [cursor=pointer]':
+                        - /url: http://www.youtube.com/channel/UCBAbk1wS4ZWv_D3kQafGjGA
+                        - strong [ref=f360e679]: "해시태그 OST : Hashtag OST : #OST"
+                - listitem [ref=f360e680]:
+                  - generic [ref=f360e681]:
+                    - link "&#39;조두순 사건 희화화&#39; 웹툰작가, 피해자에 사과·2천만원 배상 재생시간 01:11" [ref=f360e684] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=65pzauQ2o0o
+                      - img "&#39;조두순 사건 희화화&#39; 웹툰작가, 피해자에 사과·2천만원 배상" [ref=f360e685]
+                      - generic [ref=f360e686]:
+                        - generic [ref=f360e687]: 재생시간
+                        - generic [ref=f360e688]: 01:11
+                    - generic [ref=f360e689]:
+                      - strong [ref=f360e691]:
+                        - link "'조두순 사건 희화화' 웹툰작가, 피해자에 사과·2천만원 배상" [ref=f360e692] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=65pzauQ2o0o
+                      - generic [ref=f360e694]:
+                        - link "Youtube" [ref=f360e696] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2019.03.29
+                      - link "David Bekesi" [ref=f360e697] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UCcpmrrK6WgoXPpIxvhHOy1g
+                        - strong [ref=f360e700]: David Bekesi
+                - listitem [ref=f360e701]:
+                  - generic [ref=f360e702]:
+                    - link "선배가 챙겨주는 척 주식을 뺏으려 한다면? 재생시간 08:11" [ref=f360e705] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=PfEH4bHoPfY
+                      - img "선배가 챙겨주는 척 주식을 뺏으려 한다면?" [ref=f360e706]
+                      - generic [ref=f360e707]:
+                        - generic [ref=f360e708]: 재생시간
+                        - generic [ref=f360e709]: 08:11
+                    - generic [ref=f360e710]:
+                      - strong [ref=f360e712]:
+                        - link "선배가 챙겨주는 척 주식을 뺏으려 한다면?" [ref=f360e713] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=PfEH4bHoPfY
+                      - generic [ref=f360e715]:
+                        - link "Youtube" [ref=f360e717] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2022.05.24
+                      - link "희스터[HEESTER]" [ref=f360e718] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UCWCtu2Xu4_DVMZRbEhdqfyA
+                        - strong [ref=f360e721]: 희스터[HEESTER]
+                - listitem [ref=f360e722]:
+                  - generic [ref=f360e723]:
+                    - link "[Speed Painting]전지적 독자 시점 &#34;구원의마왕-김독자&#34;[Omniscient Reader&#39;s Viewpoint] 재생시간 14:21" [ref=f360e726] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=Yn3jp2IZHsw
+                      - img "[Speed Painting]전지적 독자 시점 &#34;구원의마왕-김독자&#34;[Omniscient Reader&#39;s Viewpoint]" [ref=f360e727]
+                      - generic [ref=f360e728]:
+                        - generic [ref=f360e729]: 재생시간
+                        - generic [ref=f360e730]: 14:21
+                    - generic [ref=f360e731]:
+                      - strong [ref=f360e733]:
+                        - link "[Speed Painting]전지적 독자 시점 \"구원의마왕-김독자\"[Omniscient Reader's Viewpoint]" [ref=f360e734] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=Yn3jp2IZHsw
+                      - generic [ref=f360e736]:
+                        - link "Youtube" [ref=f360e738] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2020.04.29
+                      - link "희류" [ref=f360e739] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UCGejmmUzZC0PelvEJa_oG1g
+                        - strong [ref=f360e742]: 희류
+            - generic [ref=f360e743]: 동영상 검색 결과에는 Youtube 영상이 포함되어 있으며, Youtube API를 사용하여 제공합니다. Youtube 영상을 검색할 경우, Youtube의 서비스 약관 및 Google 개인정보 보호 정책에 동의한 것으로 간주합니다.
+            - generic [ref=f360e749]:
+              - generic [ref=f360e750]: 안내
+              - generic [ref=f360e751]:
+                - link "유튜브 서비스 이용약관" [ref=f360e752] [cursor=pointer]:
+                  - /url: https://www.youtube.com/t/terms
+                - text: ","
+                - link "구글 개인정보 처리방침" [ref=f360e753] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy
+            - link "동영상 더보기" [ref=f360e755] [cursor=pointer]:
+              - /url: "?w=vclip&DA=VOI&q=%ED%9D%AC%EC%9B%B9%ED%88%B0"
+          - generic [ref=f360e757]:
+            - heading "사이트" [level=2] [ref=f360e758]
+            - generic [ref=f360e760]:
+              - list [ref=f360e762]:
+                - listitem [ref=f360e763]:
+                  - generic [ref=f360e764]:
+                    - generic [ref=f360e767]:
+                      - generic [ref=f360e768]:
+                        - strong [ref=f360e769]:
+                          - link "나고고고ㅗ고고" [ref=f360e771] [cursor=pointer]:
+                            - /url: http://blog.naver.com/bike0133
+                        - generic [ref=f360e772]: 네이버 블로그
+                      - link "blog.naver.com/bike0133" [ref=f360e775] [cursor=pointer]:
+                        - /url: http://blog.naver.com/bike0133
+                    - paragraph [ref=f360e780]:
+                      - link "웹툰을 좋아하는 희" [ref=f360e781] [cursor=pointer]:
+                        - /url: http://blog.naver.com/bike0133
+                - listitem [ref=f360e782]:
+                  - generic [ref=f360e783]:
+                    - generic [ref=f360e786]:
+                      - generic [ref=f360e787]:
+                        - strong [ref=f360e788]:
+                          - link "HEESTORY" [ref=f360e790] [cursor=pointer]:
+                            - /url: http://blog.naver.com/he2story
+                        - generic [ref=f360e791]: 네이버 블로그
+                      - link "blog.naver.com/he2story" [ref=f360e794] [cursor=pointer]:
+                        - /url: http://blog.naver.com/he2story
+                    - paragraph [ref=f360e799]:
+                      - link "로맨스소설/웹툰의 기록 공간, '희스토리'" [ref=f360e800] [cursor=pointer]:
+                        - /url: http://blog.naver.com/he2story
+                - listitem [ref=f360e801]:
+                  - generic [ref=f360e802]:
+                    - generic [ref=f360e805]:
+                      - generic [ref=f360e806]:
+                        - strong [ref=f360e807]:
+                          - link "희 망 을 기 억 해 ♡" [ref=f360e809] [cursor=pointer]:
+                            - /url: http://blog.naver.com/lamoo2nd
+                        - generic [ref=f360e810]: 네이버 블로그
+                      - link "blog.naver.com/lamoo2nd" [ref=f360e813] [cursor=pointer]:
+                        - /url: http://blog.naver.com/lamoo2nd
+                    - paragraph [ref=f360e818]:
+                      - link "하라는게 아냐! 하기 싫은 일을 하는 만큼 하고 싶은 것도 하라는 거지. 웹툰 '안나라수마나라' 중...." [ref=f360e819] [cursor=pointer]:
+                        - /url: http://blog.naver.com/lamoo2nd
+              - link "사이트 더보기" [ref=f360e822] [cursor=pointer]:
+                - /url: "?w=site&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=IVR"
+          - generic [ref=f360e825]:
+            - heading "뉴스" [level=2] [ref=f360e826]
+            - generic [ref=f360e827]:
+              - heading "뉴스" [level=2] [ref=f360e830]
+              - generic [ref=f360e832]:
+                - link "정확도순" [ref=f360e833] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&sort=accuracy&DA=DNS"
+                - link "최신순" [ref=f360e834] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&sort=recency&DA=DNS"
+                - button "뉴스검색 설정" [ref=f360e836] [cursor=pointer]
+            - generic [ref=f360e840]:
+              - text: 뉴스제휴 언론사 검색결과
+              - link "안내" [ref=f360e842] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f360e843]: i
+            - list [ref=f360e845]:
+              - listitem [ref=f360e846]:
+                - generic [ref=f360e849]:
+                  - link "신동아" [ref=f360e850] [cursor=pointer]:
+                    - /url: https://v.daum.net/channel/227/home
+                    - strong [ref=f360e853]: 신동아
+                  - generic [ref=f360e854]: 언론사 픽
+                - generic [ref=f360e855]:
+                  - link "‘수출 강국’ 대한민국은 누가 만들었나 …미싱 소리, 중동 사막바람, 수출 바이어의 절규 5" [ref=f360e858] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20260815130249989
+                    - img "‘수출 강국’ 대한민국은 누가 만들었나 …미싱 소리, 중동 사막바람, 수출 바이어의 절규" [ref=f360e859]
+                    - generic [ref=f360e860]: "5"
+                  - generic [ref=f360e862]:
+                    - strong [ref=f360e864]:
+                      - link "‘수출 강국’ 대한민국은 누가 만들었나 …미싱 소리, 중동 사막바람, 수출 바이어의 절규" [ref=f360e865] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20260815130249989
+                    - generic [ref=f360e866]:
+                      - paragraph [ref=f360e867]:
+                        - link "정자와 희분은 가족의 생계를 함께 책임졌고, 산업화 시대가 요구한 속도 속에서 자신의 젊음을 내어놓은 세대였다. 영화는 이들을 영웅으로 포장하지 않는다. 피곤해하고, 다투고, 웃고, 상처받고, 다시 일터로 돌아가는 평범한 사람들로 그린다. 그래서 이들의 삶..." [ref=f360e868] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20260815130249989
+                      - generic [ref=f360e869]:
+                        - text: 2026.08.15
+                        - generic [ref=f360e870]: "48"
+              - listitem [ref=f360e872]:
+                - link "엑스포츠뉴스" [ref=f360e876] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/132/home
+                  - strong [ref=f360e879]: 엑스포츠뉴스
+                - generic [ref=f360e880]:
+                  - link "'콘크리트 마켓' 이재인 \"웹툰 주인공 같은 희로, 지금 보니 '애기' 느낌\" [엑's 인터뷰①] 3" [ref=f360e883] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20260106080205084
+                    - img "'콘크리트 마켓' 이재인 \"웹툰 주인공 같은 희로, 지금 보니 '애기' 느낌\" [엑's 인터뷰①]" [ref=f360e884]
+                    - generic [ref=f360e885]: "3"
+                  - generic [ref=f360e887]:
+                    - strong [ref=f360e889]:
+                      - link "'콘크리트 마켓' 이재인 \"웹툰 주인공 같은 희로, 지금 보니 '애기' 느낌\" [엑's 인터뷰①]" [ref=f360e890] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20260106080205084
+                    - generic [ref=f360e891]:
+                      - paragraph [ref=f360e892]:
+                        - link "참여하게 됐다\"고 합류 계기를 밝혔다. 이재인은 희로를 '웹툰 주인공' 같은 캐릭터라고 표현했다. 이에 작품을 선택한 것이라고. 그...같은 느낌이 난다고 생각을 했던 것 같다. 알고 보면 다 희로의 계략이었고 대부분이 희로가 척척 해나가는 걸 보면서 시청자들..." [ref=f360e893] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20260106080205084
+                      - generic [ref=f360e894]: 2026.01.06
+              - listitem [ref=f360e895]:
+                - link "일간스포츠" [ref=f360e899] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/13/home
+                  - strong [ref=f360e902]: 일간스포츠
+                - generic [ref=f360e903]:
+                  - link "‘콘크리트 마켓’ 이재인, 겸손함마저 영리한 ‘천재 배우’의 몰입법 [IS인터뷰] 4" [ref=f360e906] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20260108060646365
+                    - img "‘콘크리트 마켓’ 이재인, 겸손함마저 영리한 ‘천재 배우’의 몰입법 [IS인터뷰]" [ref=f360e907]
+                    - generic [ref=f360e908]: "4"
+                  - generic [ref=f360e910]:
+                    - strong [ref=f360e912]:
+                      - link "‘콘크리트 마켓’ 이재인, 겸손함마저 영리한 ‘천재 배우’의 몰입법 [IS인터뷰]" [ref=f360e913] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20260108060646365
+                    - generic [ref=f360e914]:
+                      - paragraph [ref=f360e915]:
+                        - link "의 조직 내에서 무서운 속도로 두각을 나타낸다. “홍기원 감독님께서 감사하게도 먼저 시나리오를 제안해 주셨어요. 처음 만난 희로는 마치 웹툰 주인공처럼 강렬했죠. 워낙 영특한 캐릭터라 저 역시 이 독특한 세계관을 철저히 공부해야만 했어요.” 아파트와 마켓..." [ref=f360e916] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20260108060646365
+                      - generic [ref=f360e917]: 2026.01.08
+              - listitem [ref=f360e918]:
+                - generic [ref=f360e921]:
+                  - link "TV리포트" [ref=f360e922] [cursor=pointer]:
+                    - /url: https://v.daum.net/channel/56/home
+                    - strong [ref=f360e925]: TV리포트
+                  - generic [ref=f360e926]: 언론사 픽
+                - generic [ref=f360e927]:
+                  - link "'콘크리트 마켓' 홍경, 파격 연기 변신… 엘리트 관제사→수금조 왼팔 ('출비') 4" [ref=f360e930] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20251123175146766
+                    - img "'콘크리트 마켓' 홍경, 파격 연기 변신… 엘리트 관제사→수금조 왼팔 ('출비')" [ref=f360e931]
+                    - generic [ref=f360e932]: "4"
+                  - generic [ref=f360e934]:
+                    - strong [ref=f360e936]:
+                      - link "'콘크리트 마켓' 홍경, 파격 연기 변신… 엘리트 관제사→수금조 왼팔 ('출비')" [ref=f360e937] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20251123175146766
+                    - generic [ref=f360e938]:
+                      - paragraph [ref=f360e939]:
+                        - link "이라며 인내심을 요구한다. 그리고 얼마 뒤 희로의 말대로 장마가 찾아오고, 태진 세력은 사재기해놨던 기름과 고체 연료를 기존 가격...치고, 희로는 태진의 마음을 송두리째 흔들 비밀을 털어놓는다. 웹툰 '유쾌한 왕따'를 원작으로 하는 콘크리트 마켓은..." [ref=f360e940] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20251123175146766
+                      - generic [ref=f360e941]: 2025.11.23
+            - link "펼쳐보기" [ref=f360e943] [cursor=pointer]:
+              - /url: javascript:;
+            - link "뉴스 더보기" [ref=f360e946] [cursor=pointer]:
+              - /url: "?w=news&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&enc=utf8&cluster=y&cluster_page=1&DA=DNS"
+          - generic [ref=f360e948]:
+            - button "이전페이지" [disabled] [ref=f360e949]
+            - generic [ref=f360e951]:
+              - generic [ref=f360e952]: 현재페이지
+              - emphasis [ref=f360e953]: "1"
+              - link "2" [ref=f360e954] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&p=2"
+              - link "3" [ref=f360e955] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&p=3"
+              - link "4" [ref=f360e956] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&p=4"
+              - link "5" [ref=f360e957] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%ED%9D%AC%EC%9B%B9%ED%88%B0&p=5"
+            - button "다음페이지" [ref=f360e958] [cursor=pointer]
+          - generic [ref=f360e962]:
+            - heading "관련 검색어" [level=2] [ref=f360e963]:
+              - text: 관련
+              - generic [ref=f360e964]: 검색어
+            - link "웹툰 이모" [ref=f360e966] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%9B%B9%ED%88%B0%20%EC%9D%B4%EB%AA%A8&nzq=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=DCC"
+        - complementary [ref=f360e967]:
+          - generic [ref=f360e970]:
+            - generic [ref=f360e973]:
+              - heading "실시간 트렌드" [level=2] [ref=f360e974]
+              - link "안내" [ref=f360e976] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f360e977]: i
+            - list [ref=f360e980]:
+              - listitem [ref=f360e981]:
+                - link "1 위 원현준 이수진 결혼 순위 변동없음" [ref=f360e982] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9B%90%ED%98%84%EC%A4%80+%EC%9D%B4%EC%88%98%EC%A7%84+%EA%B2%B0%ED%98%BC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e983]:
+                    - text: "1"
+                    - generic [ref=f360e984]: 위
+                  - generic [ref=f360e985]: 원현준 이수진 결혼
+                  - generic [ref=f360e986]: 순위 변동없음
+              - listitem [ref=f360e987]:
+                - link "2 위 박민영국힘 대변인 순위 상승" [ref=f360e988] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%B0%95%EB%AF%BC%EC%98%81%EA%B5%AD%ED%9E%98+%EB%8C%80%EB%B3%80%EC%9D%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e989]:
+                    - text: "2"
+                    - generic [ref=f360e990]: 위
+                  - generic [ref=f360e991]: 박민영국힘 대변인
+                  - generic [ref=f360e992]: 순위 상승
+              - listitem [ref=f360e993]:
+                - link "3 위 트럼프 젠슨황 공개통화 순위 상승" [ref=f360e994] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%8A%B8%EB%9F%BC%ED%94%84+%EC%A0%A0%EC%8A%A8%ED%99%A9+%EA%B3%B5%EA%B0%9C%ED%86%B5%ED%99%94&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e995]:
+                    - text: "3"
+                    - generic [ref=f360e996]: 위
+                  - generic [ref=f360e997]: 트럼프 젠슨황 공개통화
+                  - generic [ref=f360e998]: 순위 상승
+              - listitem [ref=f360e999]:
+                - link "4 위 셀트리온 짐펜트라 순위 신규진입" [ref=f360e1000] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8+%EC%A7%90%ED%8E%9C%ED%8A%B8%EB%9D%BC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1001]:
+                    - text: "4"
+                    - generic [ref=f360e1002]: 위
+                  - generic [ref=f360e1003]: 셀트리온 짐펜트라
+                  - generic [ref=f360e1004]: 순위 신규진입
+              - listitem [ref=f360e1005]:
+                - link "5 위 연애전쟁 순위 신규진입" [ref=f360e1006] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%97%B0%EC%95%A0%EC%A0%84%EC%9F%81&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1007]:
+                    - text: "5"
+                    - generic [ref=f360e1008]: 위
+                  - generic [ref=f360e1009]: 연애전쟁
+                  - generic [ref=f360e1010]: 순위 신규진입
+              - listitem [ref=f360e1011]:
+                - link "6 위 조규성 2도움 순위 신규진입" [ref=f360e1012] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%A1%B0%EA%B7%9C%EC%84%B1+2%EB%8F%84%EC%9B%80&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1013]:
+                    - text: "6"
+                    - generic [ref=f360e1014]: 위
+                  - generic [ref=f360e1015]: 조규성 2도움
+                  - generic [ref=f360e1016]: 순위 신규진입
+              - listitem [ref=f360e1017]:
+                - link "7 위 최태원 항고 순위 상승" [ref=f360e1018] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%B5%9C%ED%83%9C%EC%9B%90+%ED%95%AD%EA%B3%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1019]:
+                    - text: "7"
+                    - generic [ref=f360e1020]: 위
+                  - generic [ref=f360e1021]: 최태원 항고
+                  - generic [ref=f360e1022]: 순위 상승
+              - listitem [ref=f360e1023]:
+                - link "8 위 서정희 미국 클럽 대시 순위 하락" [ref=f360e1024] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%84%9C%EC%A0%95%ED%9D%AC+%EB%AF%B8%EA%B5%AD+%ED%81%B4%EB%9F%BD+%EB%8C%80%EC%8B%9C&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1025]:
+                    - text: "8"
+                    - generic [ref=f360e1026]: 위
+                  - generic [ref=f360e1027]: 서정희 미국 클럽 대시
+                  - generic [ref=f360e1028]: 순위 하락
+              - listitem [ref=f360e1029]:
+                - link "9 위 박미선 암 투병 순위 상승" [ref=f360e1030] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%B0%95%EB%AF%B8%EC%84%A0+%EC%95%94+%ED%88%AC%EB%B3%91&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1031]:
+                    - text: "9"
+                    - generic [ref=f360e1032]: 위
+                  - generic [ref=f360e1033]: 박미선 암 투병
+                  - generic [ref=f360e1034]: 순위 상승
+              - listitem [ref=f360e1035]:
+                - link "10 위 클래리티 법안 순위 상승" [ref=f360e1036] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%81%B4%EB%9E%98%EB%A6%AC%ED%8B%B0+%EB%B2%95%EC%95%88&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1037]:
+                    - text: "10"
+                    - generic [ref=f360e1038]: 위
+                  - generic [ref=f360e1039]: 클래리티 법안
+                  - generic [ref=f360e1040]: 순위 상승
+              - listitem [ref=f360e1041]:
+                - link "11 위 포스코그룹 조기 지급 순위 상승" [ref=f360e1042] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ED%8F%AC%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%A3%B9+%EC%A1%B0%EA%B8%B0+%EC%A7%80%EA%B8%89&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1043]:
+                    - text: "11"
+                    - generic [ref=f360e1044]: 위
+                  - generic [ref=f360e1045]: 포스코그룹 조기 지급
+                  - generic [ref=f360e1046]: 순위 상승
+              - listitem [ref=f360e1047]:
+                - link "12 위 류혜영 고경표 설렘 고백 순위 상승" [ref=f360e1048] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EB%A5%98%ED%98%9C%EC%98%81+%EA%B3%A0%EA%B2%BD%ED%91%9C+%EC%84%A4%EB%A0%98+%EA%B3%A0%EB%B0%B1&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1049]:
+                    - text: "12"
+                    - generic [ref=f360e1050]: 위
+                  - generic [ref=f360e1051]: 류혜영 고경표 설렘 고백
+                  - generic [ref=f360e1052]: 순위 상승
+              - listitem [ref=f360e1053]:
+                - link "13 위 강호동 ICAO 당선 순위 상승" [ref=f360e1054] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B0%95%ED%98%B8%EB%8F%99+ICAO+%EB%8B%B9%EC%84%A0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1055]:
+                    - text: "13"
+                    - generic [ref=f360e1056]: 위
+                  - generic [ref=f360e1057]: 강호동 ICAO 당선
+                  - generic [ref=f360e1058]: 순위 상승
+              - listitem [ref=f360e1059]:
+                - link "14 위 이다해 상하이 월세 순위 상승" [ref=f360e1060] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9D%B4%EB%8B%A4%ED%95%B4+%EC%83%81%ED%95%98%EC%9D%B4+%EC%9B%94%EC%84%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1061]:
+                    - text: "14"
+                    - generic [ref=f360e1062]: 위
+                  - generic [ref=f360e1063]: 이다해 상하이 월세
+                  - generic [ref=f360e1064]: 순위 상승
+              - listitem [ref=f360e1065]:
+                - link "15 위 김재철 배우 순위 상승" [ref=f360e1066] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B9%80%EC%9E%AC%EC%B2%A0+%EB%B0%B0%EC%9A%B0&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f360e1067]:
+                    - text: "15"
+                    - generic [ref=f360e1068]: 위
+                  - generic [ref=f360e1069]: 김재철 배우
+                  - generic [ref=f360e1070]: 순위 상승
+            - generic [ref=f360e1071]: 오늘 10:13 기준
+          - generic [ref=f360e1073]:
+            - generic [ref=f360e1074]:
+              - heading "분야별 검색어" [level=2] [ref=f360e1075]
+              - generic [ref=f360e1076]: 09.15. 10:17
+            - generic [ref=f360e1077]:
+              - list [ref=f360e1079]:
+                - listitem [ref=f360e1080]:
+                  - text: 선택된 메뉴
+                  - link "영화 (상영중)" [ref=f360e1081] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f360e1083]:
+                  - link "주가종합" [ref=f360e1084] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f360e1086]:
+                  - link "시사교양" [ref=f360e1087] [cursor=pointer]:
+                    - /url: "javascript:"
+              - generic [ref=f360e1089]:
+                - list [ref=f360e1090]:
+                  - listitem [ref=f360e1091]:
+                    - generic [ref=f360e1092]:
+                      - generic [ref=f360e1093]: "1"
+                      - link "오디세이" [ref=f360e1095] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=186974"
+                  - listitem [ref=f360e1096]:
+                    - generic [ref=f360e1097]:
+                      - generic [ref=f360e1098]: "2"
+                      - link "옵세션" [ref=f360e1100] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%98%B5%EC%84%B8%EC%85%98&rtmaxcoll=CQN,EM1&irt=movie-single&irk=189396"
+                  - listitem [ref=f360e1101]:
+                    - generic [ref=f360e1102]:
+                      - generic [ref=f360e1103]: "3"
+                      - link "경주기행" [ref=f360e1105] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EA%B2%BD%EC%A3%BC%EA%B8%B0%ED%96%89&rtmaxcoll=CQN,EM1&irt=movie-single&irk=182820"
+                  - listitem [ref=f360e1106]:
+                    - generic [ref=f360e1107]:
+                      - generic [ref=f360e1108]: "4"
+                      - link "호프" [ref=f360e1110] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%ED%98%B8%ED%94%84&rtmaxcoll=CQN,EM1&irt=movie-single&irk=187945"
+                  - listitem [ref=f360e1111]:
+                    - generic [ref=f360e1112]:
+                      - generic [ref=f360e1113]: "5"
+                      - link "아버지의 집밥" [ref=f360e1115] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98%20%EC%A7%91%EB%B0%A5&rtmaxcoll=CQN,EM1&irt=movie-single&irk=301324"
+                - list [ref=f360e1116]:
+                  - listitem [ref=f360e1117]:
+                    - generic [ref=f360e1118]:
+                      - generic [ref=f360e1119]: "6"
+                      - 'link "스파이더맨: 브랜드 뉴 데이" [ref=f360e1121] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8%3A%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%89%B4%20%EB%8D%B0%EC%9D%B4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300271"
+                  - listitem [ref=f360e1122]:
+                    - generic [ref=f360e1123]:
+                      - generic [ref=f360e1124]: "7"
+                      - link "비광" [ref=f360e1126] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EB%B9%84%EA%B4%91&rtmaxcoll=CQN,EM1&irt=movie-single&irk=138608"
+                  - listitem [ref=f360e1127]:
+                    - generic [ref=f360e1128]:
+                      - generic [ref=f360e1129]: "8"
+                      - link "더 드라마" [ref=f360e1131] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EB%8D%94%20%EB%93%9C%EB%9D%BC%EB%A7%88&rtmaxcoll=CQN,EM1&irt=movie-single&irk=189826"
+                  - listitem [ref=f360e1132]:
+                    - generic [ref=f360e1133]:
+                      - generic [ref=f360e1134]: "9"
+                      - 'link "연옥: 살인마들의 자치구역" [ref=f360e1136] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EC%97%B0%EC%98%A5%3A%20%EC%82%B4%EC%9D%B8%EB%A7%88%EB%93%A4%EC%9D%98%20%EC%9E%90%EC%B9%98%EA%B5%AC%EC%97%AD&rtmaxcoll=CQN,EM1&irt=movie-single&irk=301002"
+                  - listitem [ref=f360e1137]:
+                    - generic [ref=f360e1138]:
+                      - generic [ref=f360e1139]: "10"
+                      - link "아가미" [ref=f360e1141] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%95%84%EA%B0%80%EB%AF%B8&rtmaxcoll=CQN,EM1&irt=movie-single&irk=179940"
+          - generic [ref=f360e1143]:
+            - heading "관련검색어" [level=2] [ref=f360e1145]
+            - list [ref=f360e1147]:
+              - listitem [ref=f360e1148]:
+                - link "웹툰 이모" [ref=f360e1149] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9B%B9%ED%88%B0%20%EC%9D%B4%EB%AA%A8&nzq=%ED%9D%AC%EC%9B%B9%ED%88%B0&DA=RSJ"
+      - contentinfo [ref=f360e1150]:
+        - generic [ref=f360e1152]:
+          - link "검색블로그" [ref=f360e1153] [cursor=pointer]:
+            - /url: http://daumsearch.tistory.com
+          - text: "|"
+          - link "검색원칙" [ref=f360e1154] [cursor=pointer]:
+            - /url: https://cs.daum.net/faq/service/15/category/15649
+          - text: "|"
+          - link "검색등록" [ref=f360e1155] [cursor=pointer]:
+            - /url: https://register.search.daum.net
+          - text: "|"
+          - link "검색제휴" [ref=f360e1156] [cursor=pointer]:
+            - /url: mailto:contentpartnership@axzcorp.com
+          - text: "|"
+          - link "고객센터" [ref=f360e1157] [cursor=pointer]:
+            - /url: https://cs.daum.net/
+          - text: "|"
+          - link "유해정보신고" [ref=f360e1158] [cursor=pointer]:
+            - /url: javascript:;
+          - generic [ref=f360e1159]:
+            - text: ⓒ
+            - link "Daum Corp." [ref=f360e1160] [cursor=pointer]:
+              - /url: https://daumcorp.com/
+      - link "맨위로" [ref=f360e1161] [cursor=pointer]:
+        - /url: javascript:;
+```

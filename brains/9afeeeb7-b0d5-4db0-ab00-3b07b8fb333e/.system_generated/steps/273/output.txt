@@ -1,0 +1,12 @@
+The search for ""티지씨" "경영 컨설팅" OR "컨설팅" "창원"" returned the following summary:
+'티지씨'와 '경영 컨설팅', '창원'을 키워드로 검색한 결과, 해당 기업이나 서비스와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **기업 관련 정보**: '티지씨'라는 명칭의 기업이 여러 공공기관이나 정부 사업(예: 2026 여가친화인증 기업 공모 등)의 리스트에서 언급된 사례가 있으나, 해당 기업이 창원 지역의 경영 컨설팅을 전문으로 하는 곳이라는 구체적인 정보는 확인되지 않습니다[1].
+*   **검색 결과의 성격**: 검색된 문서들은 주로 휴대폰 본인확인 과정에서 개인정보 제3자 제공 동의를 위한 업체 리스트[2][3]이거나, 정부 인증 사업 신청 기업 명단[1] 등이며, 특정 지역(창원) 기반의 경영 컨설팅 업체로서 '티지씨'를 소개하는 공식적인 사이트나 상세 설명은 나타나지 않습니다.
+
+혹시 찾으시는 기업이 특정 업종(예: 재무, 인사, 창업 등)을 전문으로 하는 곳인지, 혹은 특정 이벤트나 광고에서 보신 것인지 추가 정보를 주시면 더 정확한 정보를 찾아드릴 수 있습니다.
+
+Sources:
+[1] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI5BcOsq21pZG_oU7bJLXI1tg-2jEZwwOhbrPeNiXAW_SpO2Cwe1CfRU88PJhBIR8r3z7622mM7vR5Fsu1S2rGCMg3MstpBVa3Oe9w1kTmsTrm8DCt6b-1qfoV0Lo6pNRNxaIiPBv6fXddxGdhuaW-H6l_NRphsEX5)
+[2] [kt.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwbbqPLT4MMGGeKHxhEH7HG6iaVvb-v_EQLCBjYR96BIGNmeW2q-OErBkp6j4sfOoSJl-V1e7Dbw2gDeuMgoxymZs-NA8b8PKyS5qhho3Xk0b9K1mXuJwhzzQ=)
+[3] [kt.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwbbqPLT4MMGGeKHxhEH7HG6iaVvb-v_EQLCBjYR96BIGNmeW2q-OErBkp6j4sfOoSJl-V1e7Dbw2gDeuMgoxymZs-NA8b8PKyS5qhho3Xk0b9K1mXuJwhzzQ=)

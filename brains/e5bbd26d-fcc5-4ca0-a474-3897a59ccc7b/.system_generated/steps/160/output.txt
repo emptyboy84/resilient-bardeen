@@ -1,0 +1,5 @@
+Encountered error in step execution: ### Error
+SecurityError: Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://map.naver.com" from accessing a cross-origin frame.
+    at eval (eval at evaluate (:311:30), <anonymous>:4:50)
+    at UtilityScript.evaluate (<anonymous>:313:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)

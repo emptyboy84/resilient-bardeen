@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Search "주식회사 브이드림": { len: 2129900, items: 3 }
+Search "브이드림": { len: 2141672, items: 5 }
+Search "초록이웃": { len: 2122686, items: 1 }
+

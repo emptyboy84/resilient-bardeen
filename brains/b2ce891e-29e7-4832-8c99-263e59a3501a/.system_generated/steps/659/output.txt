@@ -1,0 +1,19 @@
+The search for "site:theteams.kr "주식회사 파이" inurl:teams" returned the following summary:
+더팀스(The Teams) 플랫폼 내에서 "주식회사 파이"라는 정확한 명칭으로 등록된 기업 페이지는 검색 결과에서 확인되지 않습니다[1]. 
+
+다만 '파이'가 포함된 유사한 상호명을 가진 기업들의 더팀스 페이지는 다음과 같이 존재합니다:
+* **주식회사 파이퀀트** (`https://www.theteams.kr/.../주식회사 파이퀀트`)[2]
+* **주식회사 파이디아** (`https://www.theteams.kr/.../주식회사 파이디아`)[3]
+* **(주)파이스티엘에스**[4]
+* **(주)파이뎀스에잇**[5]
+* **주식회사 에코파이**[6]
+
+특정 기업의 정확한 더팀스 페이지 주소가 필요하실 경우, 상호명 전체 정확도를 다시 확인하시거나 플랫폼 내 통합 검색을 이용하시는 것을 권장합니다.
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFRXCx4AOq_7edESmyXQFbgHKJH3YFphVRMwtuWWsI0vpEAHx6d1Y_l4YsQwf24d5ce5H1Yai2uwU7E7R9BK4Ju0KR3_hIfcodnDLKRuIMt8txw_2zmHyoaldFBtx2BOf3B6uOoEw=)
+[2] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-FKkFtK11a4nzElmMbRFqaz4Vm_7m0nvl9l0CHcYj1uDdYbJu5-u63QeAd8wyMoWt2pOR4icZ8Kw-TKGNuE-h-f-u3lpo-PXj4TtSOjPYnHy_qc1-jyQ=)
+[3] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd3w8WT-1q0YnNal8rWKs-vb5drjO3uTN-JMzGr9KYClVYADugNZXSAJNUWnew2n_pd8mtX62pEx_b86B8s6t9yHZsvhZXgPv1LqleaL9H4ZCed91X4HuKaew=)
+[4] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE94nih8Bak_ZnXA-DUp9nWsryKHcodl-T7VKsXyZgWeA1BFyE552f_JHiBWYNMzkmkEk7nHuD0ejkB8uJVACMgS8-pGUaUoAvy9AUoGJ40mTsqQu0SeA9g1N8=)
+[5] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm8tGT4KlLu1wtlXDqTd1I3A3CRrvBqFGdp6_Fd9FsAcND9Mb6eCgFVCwZTmIQUWFg3cpzo6YTNYioH6nqQZXkreImI56cgiNTYyzg3yloWRhU7jXaXGdl8wM=)
+[6] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLWoCIwWxpQS-_A5chV9vzwtSukvOdb-T_Ufc_gdf0W1684krAyuu6STdKSY9_xIlD0SKs1Yr3cwD_PkOvw8LNjtsXBOfyD_emtfaEDxqDaXfQubWTLxJuR_Y=)

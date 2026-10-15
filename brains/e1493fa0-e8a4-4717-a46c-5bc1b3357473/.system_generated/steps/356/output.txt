@@ -1,0 +1,8 @@
+### Result
+[
+  "Slots"
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  return Object.keys(window.NiceInv || {});\n}');
+```

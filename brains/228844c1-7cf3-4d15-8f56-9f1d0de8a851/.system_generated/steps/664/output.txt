@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+Invalid arguments for tool "browser_handle_dialog":
+✖ Invalid input: expected boolean, received undefined
+  → at accept

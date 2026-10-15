@@ -1,0 +1,21 @@
+The search for ""에디슨타운책벌레작은도서관" OR "에디슨타운책벌레"" returned the following summary:
+**에디슨타운책벌레작은도서관**은 부산광역시 강서구 명지오션시티10로 17에 위치한 작은 도서관입니다[1][2].
+
+주요 정보는 다음과 같습니다:
+
+*   **위치:** 부산광역시 강서구 명지오션시티10로 17 (영어도시퀸덤1차 아파트 인근)[3][2]
+*   **운영 시간:** 평일 오후 1시 ~ 오후 5시[1][2]
+*   **휴관일:** 토요일, 일요일, 공휴일[1][2]
+*   **시설 및 서비스:**
+    *   열람 좌석 23석[1][2]
+    *   도서 약 4,233권 보유[2]
+    *   대출 규정: 1인 최대 5권, 대출 기간 14일[2]
+    *   문의 전화: 051-271-0541[2]
+
+이 도서관은 지역 주민과 어린 자녀를 둔 부모들에게 친숙한 공간으로, 아이와 함께 책을 읽고 소중한 시간을 보낼 수 있는 환경을 갖추고 있습니다[4][2]. 방문 계획이 있으시다면 휴관일과 운영 시간을 사전에 확인하시기 바랍니다[1][2].
+
+Sources:
+[1] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7PKr1WDllv9oWow1KkAnqTw8fRWn42uSOh8V5BkDOEwUXYQAVLJ4j6j08ANp2rvOtrIICmaFCvc3gQt9kcsKilH0_g_U7g6fullSiLVNVtZaVVvoWyXHzCQw-OXzp5xzjgF5e33vQa3PbHQ==)
+[2] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7PKr1WDllv9oWow1KkAnqTw8fRWn42uSOh8V5BkDOEwUXYQAVLJ4j6j08ANp2rvOtrIICmaFCvc3gQt9kcsKilH0_g_U7g6fullSiLVNVtZaVVvoWyXHzCQw-OXzp5xzjgF5e33vQa3PbHQ==)
+[3] [richgo.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDYe_12te7lqYLE47McPsv6tnW7g1yKSlE8f5ZmIW8mtTXyIVC51XrUeKLYFf7BEIBtL2etoVrvg7Xwc6wFSfBz-N6n5MqWG-dX4B_0WsUb1HCJaX2RYGx2sFXeRs=)
+[4] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlUhaZNQofGkEU1rSHRdV4e3ideexJCK81q8OsWqZJe_qzI-z6_NJZHSG6CmSnX0644np3a_6W9RDiGJJEI4zdZNTDrQs16AW5MDjw8qP3S5u9o-ew1N7sE39q)

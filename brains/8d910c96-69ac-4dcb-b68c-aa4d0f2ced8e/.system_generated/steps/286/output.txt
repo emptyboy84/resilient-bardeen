@@ -1,0 +1,18 @@
+The search for ""명지오션시티10로 17" 출판 OR 출판사 OR 책" returned the following summary:
+부산광역시 강서구 명지오션시티10로 17(명지동, 영어도시 퀸덤1차아파트) 주소지에는 출판사나 출판 관련 업체가 아닌 **'에디슨타운책벌레작은도서관'**이 위치하고 있습니다[1][2][3].
+
+해당 주소는 대규모 아파트 단지(영어도시 퀸덤1차) 내에 위치하며, 공공데이터 등에서 확인되는 주요 시설은 다음과 같습니다.
+
+*   **에디슨타운책벌레작은도서관**: 지역 주민과 어린이를 위한 작은 도서관으로 운영되고 있습니다[2][4].
+*   **기타 정보**: 과거 해당 아파트 단지 내 여러 동·호수에 다양한 업종의 신설법인들이 등록된 사례가 있으나[5][6][7], '출판'이나 '출판사'와 직접적으로 연관된 상호는 확인되지 않습니다.
+
+따라서 찾으시는 곳이 도서관이 아닌 특정 출판사라면, 주소나 상호를 다시 한번 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [dpi1004.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFis6giTWvIkPDSAWkbEBQeR10e9a7va95sVx9faarhgdYLgLYTNt3qHzqtT-7FDMWwCNtiEu5DWCyiAwkd5MXrN8ScBYZQlTCCm0ILQ-QkbSdO)
+[2] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYK3SIt7UUjlE0qe8IY9q8slUpd71y4OAv9DbHOZQUB8tsDvPi-jWe5jnOygT3Qz3khkcaJKUgYpCFlsRBs0CaXKPt_Ah06wnu2VujmJEBE3qfxb-gD01zv6JSpfwEyyIfC5JvJUXUy5XMfq0=)
+[3] [busan.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcERZE9xy_uImcU1aO1-u-Ir6yCoJcnph4cOKwXjHiQVHuhF9l5nYAXXh_PIJUflFnneZBh4HGFKFWttT1AwhQCAMYo1uAsxElQHMMsh-M2bgyghQCa9CnGi_RFCERna1P1xIdYZRUIzGhK7Mieg==)
+[4] [yugacrew.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMd1aFk4HqH2j4E1hDeNIIchHtjPPRntp2nZlXgZPBsCYtj_RP65jroiikyIf6jDjCDsGk3T53DzkDJFeHuE9esFLWM3kYjwpb6EYWGR2qQV6HZEZAk8ejyGId45E1RWzRpVq-O1JTAQjmXXvQGw==)
+[5] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEdvts8pI55kXkSLwrlwUDe6UQob5Mqax_XlhgmhFKsEP0mpzzVtV5P84hFF1caSbMV0P_1qFqxronGcSIbSmO9T29VF1HcxoKAmB1l-0OQIwKXRJQZOI0SosJ0-kRL8k=)
+[6] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvfFrGa2UI8WJz7bQrs76nqL3JYTBi0jzhVwn0RL_SQor8fwDcIzrNhiUTwKsm8KG8n9Ax2Sy8KqH9UjxStsFIY0BzmFkZDr50ihLOeaHU5UWL5j0jYYePRlMzfSlrZy_qbnjZ)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4pL9WuZrDxEStmPZ2szLhTUWvJJaIQowGjLWLAhwc4eWkz1vcRvLcYMi7MsUe5NF-9MdCl42ZivcMiKEOuBAn2HsO4yMdpZ0WYjzYA4As95rMyY8pTYQ=)

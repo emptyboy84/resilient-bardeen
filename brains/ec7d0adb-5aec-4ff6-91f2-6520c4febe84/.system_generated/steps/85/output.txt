@@ -1,0 +1,54 @@
+
+The command exited with code 0.
+Output:
+Row 2:
+  회사: (사)대한산업보건협회 울산산업보건센터, 업종(NICE): 보건업 및 사회복지서비스업
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 보건업 및 사회복지 서비스업, 업종_중: 보건업, 업종_소: 의원
+  업종_11차 변경: undefined, 코드: undefined
+Row 3:
+  회사: 대한산업안전협회 울산지회, 업종(NICE): 써비스
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 전문, 과학 및 기술 서비스업, 업종_중: 기타 전문, 과학 및 기술 서비스업, 업종_소: 그 외 기타 전문, 과학 및 기술 서비스업
+  업종_11차 변경: undefined, 코드: undefined
+Row 4:
+  회사: 주식회사 참이앤에스, 업종(NICE): 전문, 과학 및 기술 서비스업
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 전문,  과학 및 기술 서비스업, 업종_중: 건축 기술, 엔지니어링 및 기타 과학기술 서비스업, 업종_소: 건축 기술, 엔지니어링 및 관련 기술 서비스업
+  업종_11차 변경: undefined, 코드: undefined
+Row 5:
+  회사: 한국산업안전보건공단 울산지역본부, 업종(NICE): 공공 행정, 국방 및 사회보장 행정
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 공공 행정, 국방 및 사회보장 행정, 업종_중: 공공 행정, 국방 및 사회보장 행정, 업종_소: 사회 및 산업정책 행정
+  업종_11차 변경: undefined, 코드: undefined
+Row 6:
+  회사: 성심테크, 업종(NICE): 목재 도구 및 주방용 나무제품 제조업
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 제조업, 업종_중: 기타 기계 및 장비 제조업, 업종_소: 특수 목적용 기계 제조업
+  업종_11차 변경: undefined, 코드: undefined
+Row 7:
+  회사: 동우에이치에스티㈜, 업종(NICE): 금속 열처리업
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 제조업, 업종_중: 기타 기계 및 장비 제조업, 업종_소: 일반 목적용 기계 제조업
+  업종_11차 변경: undefined, 코드: undefined
+Row 8:
+  회사: 대림성모병원, 업종(NICE): 종합병원
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 보건업 및 사회복지 서비스업, 업종_중: 보건업, 업종_소: 병원
+  업종_11차 변경: undefined, 코드: undefined
+Row 9:
+  회사: 김은경기능장요리학원, 업종(NICE): 기타 기술 및 직업훈련학원
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 교육서비스업, 업종_중: 교육 서비스업, 업종_소: 기타 교육기관
+  업종_11차 변경: undefined, 코드: undefined
+Row 10:
+  회사: 굿윌치과병원(하단), 업종(NICE): 치과 병원
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 보건업 및 사회복지 서비스업, 업종_중: 보건업, 업종_소: 병원
+  업종_11차 변경: undefined, 코드: undefined
+Row 13:
+  회사: 번영로센트리지4단지어린이집, 업종(NICE): undefined
+  업종코드1: undefined, 업종코드2: undefined
+  업종_대: 보건업 및 사회복지 서비스업, 업종_중: 사회복지 서비스업, 업종_소: 비거주 복지시설 운영업
+  업종_11차 변경: undefined, 코드: undefined
+

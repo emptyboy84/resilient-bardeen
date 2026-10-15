@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+
+Name               
+----               
+Today              
+Antigravity IDE.lnk
+Antigravity.lnk    
+Excel.lnk          
+Microsoft Edge.lnk 
+Outlook.lnk        
+Z.lnk              
+다운로드.lnk           
+
+
+

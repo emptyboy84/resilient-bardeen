@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                  Length LastWriteTime        
+--------                                                                  ------ -------------        
+C:\Users\lg\resilient-bardeen\data\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx 11200645 2026-09-07 오전 9:22:45
+
+
+

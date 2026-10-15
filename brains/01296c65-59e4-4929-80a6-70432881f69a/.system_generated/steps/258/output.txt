@@ -1,0 +1,19 @@
+The search for ""ATTABZAA001R08" "txprDscmNo"" returned the following summary:
+`ATTABZAA001R08` 및 `txprDscmNo`는 국세청 홈택스의 **사업자등록상태조회 서비스**를 호출할 때 사용하는 핵심 식별자와 데이터 필드입니다[1][2].
+
+*   **ATTABZAA001R08**: 홈택스 시스템에서 사업자 상태를 조회하기 위해 사용하는 **Action ID**입니다[3][4]. 웹 스크래핑이나 자동화 프로그램을 구현할 때 API 요청 전문(Request XML)의 `<map id="...">` 속성에 이 값을 지정해야 합니다[1][5][6].
+*   **txprDscmNo**: 조회하고자 하는 **사업자등록번호(10자리)**가 들어가는 XML 데이터 필드입니다[1][4][6].
+
+### 참고 사항
+*   이 정보는 주로 개발자들이 파트너사의 사업자 상태(정상, 폐업 등)를 자동으로 확인하기 위해 홈택스 웹 서비스를 스크래핑할 때 사용됩니다[1][7].
+*   국세청에서는 과도한 요청에 대해 차단 조치를 취할 수 있으므로, 대량 조회 시에는 적절한 시간 간격(예: 일정 건수마다 지연 시간 적용)을 두는 것이 권장됩니다[1][7].
+*   **주의**: 홈택스 서비스 구조는 변경될 수 있으며, 비공식적인 스크래핑 방식은 안정성이나 보안 측면에서 문제가 발생할 수 있습니다. 상용 서비스나 공식적인 비즈니스 활용을 위해서는 국세청에서 제공하는 공식 API 사용을 검토하는 것이 좋습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeChAqsl66vq9DGvffzx65NQvz0rcZgBD75k_s8ZpS-_Jgg_HnAo1BvtrSpvNOWPyekJnMLz6m6yuSB-7uV2TLz-LLeyKfVzMM2QYgmCEguqr9-A==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeChAqsl66vq9DGvffzx65NQvz0rcZgBD75k_s8ZpS-_Jgg_HnAo1BvtrSpvNOWPyekJnMLz6m6yuSB-7uV2TLz-LLeyKfVzMM2QYgmCEguqr9-A==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9aG7-TaurSEwnjPR2nows3RLfVGGQWDFk4Ed17xgdXIzsA2JvDsek-ai_DrtcMLbqkflfwFaoWug2_JiQOnjEKOxky-0h-WoJxwBaTOlGEQ==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETMUpH7AXplzN-ISfXo8jjrE7MZLn3NA9hV7oBGtGPlSV9YIg72AwymbhhGOW8B7X4Z9cDrCSJFesXayW62LRV70eaw1lvIlmVQGRAr_OO6sQ=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8bZesN1IP3jRTnuXGzLBHirZrKsmI72oxGZul67SFcteXyxWnu2PxWHzTnk6DIu8_LHlo2atz5_bjmvgF_u3ci8FNGc_cUqDbviZouBqevZgZluQQdc8w95ch2TeiSf4gkaQoIhhNWobu_AvhAhTG1PwwyOryf5yMT5RJ_n17MWvR1ocfVB3M9i_nx0flaUYj8eZHKKZddYcuqapJcSX8sPyidOlFfEqxS3WImjH-99khGI1wZMW7K0v1gFFPHaSk2HZdYdNxvuHzuFKTGqIsqWd12hNjmiowFsq8A7MpMAjBPRvfvQEtJVDFswWWkvjJGnAOjAZVusQN8LBwVnpTvg==)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeChAqsl66vq9DGvffzx65NQvz0rcZgBD75k_s8ZpS-_Jgg_HnAo1BvtrSpvNOWPyekJnMLz6m6yuSB-7uV2TLz-LLeyKfVzMM2QYgmCEguqr9-A==)
+[7] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQPrCVPI_whbSSjpHhqBkwHXF0qvq8zosjezLzWTQmgwjm581vVIcPlU6eO-gcL8ihKgu4w8YDmU4cmRzspcsNDcGDqC6Mxh6bUdqFPRhEEh_3S02Q7yvBRQ==)

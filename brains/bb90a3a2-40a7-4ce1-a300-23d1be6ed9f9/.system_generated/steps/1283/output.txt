@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+jetech.co.kr -> Reg: 이도원 Name: 이도원 Phone: NONE
+jetech.kr -> Reg: 이재복 Name: 이재복 Phone: NONE
+je-tech.co.kr -> Reg: NONE Name: NONE Phone: NONE
+je-tech.kr -> Reg: NONE Name: NONE Phone: NONE
+jetechcorp.co.kr -> Reg: NONE Name: NONE Phone: NONE
+jetechcorp.kr -> Reg: NONE Name: NONE Phone: NONE
+jetech21.co.kr -> Reg: NONE Name: NONE Phone: NONE
+

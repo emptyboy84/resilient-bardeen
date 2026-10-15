@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Loading workbook...
+Row 11847 details:
+Col 1 [작성자]: "배현명" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 2 [비고]: "폐업" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 3 [회사명]: "주식회사 룩스텍" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 4 [사업자번호]: {"text":"5131909625","hyperlink":"https://bizno.net/article/5131909625"} | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 5 [대표자]: "김길연" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 6 [우편번호]: "39263" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 7 [주소]: "경상북도 구미시 산호대로 363" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 9 [팩스번호]: "054-464-1173" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 10 [홈페이지]: "http://www.luxtec.kr" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 15 [종업원수]: 2 | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 18 [업종(NICE BizINFO(업종)참고]: "일반용 전기 조명장치 제조업" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 24 [사업자번호]: "5131909625" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 48 [업종_대]: "제조업" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 49 [업종_중]: "전기장비 제조업" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 50 [업종_소]: "전구 및 조명장치 제조업" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 53 [응답자명]: "김길연" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+Col 56 [응답자연락처]: "010-2695-1184" | fill: {"type":"pattern","pattern":"solid","fgColor":{"argb":"FFFFA500"}}
+

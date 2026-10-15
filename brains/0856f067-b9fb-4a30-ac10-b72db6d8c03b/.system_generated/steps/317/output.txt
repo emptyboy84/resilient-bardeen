@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const items = Array.from(document.querySelectorAll(\'.PlaceItem, .placelist > li, .NoResultMatching\'));\n  return items.map(el => el.innerText);\n}');
+```

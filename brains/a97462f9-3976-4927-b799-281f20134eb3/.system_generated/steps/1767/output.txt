@@ -1,0 +1,6 @@
+### Result
+[]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input[type="text"], input[type="search"], input:not([type="checkbox"])\'));\n  return inputs.map(i => ({ placeholder: i.placeholder, value: i.value, className: i.className }));\n}');
+```

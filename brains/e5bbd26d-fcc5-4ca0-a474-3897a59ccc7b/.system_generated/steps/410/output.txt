@@ -1,0 +1,73 @@
+
+The command exited with code 0.
+Output:
+=== SEARCH: 부산이야 ===
+Line: 부산이야
+Line: 
+Line: 
+Line: 
+Line: 
+Line: 
+Line: "부산이야" 키워드로 100 (최대 100개만 출력됩니다) 개의 결과를 찾았습니다
+Article: （주）풍산홀딩스 부산사업장 -> /article/6178526732
+Article: 대한민국상이군경회 부산광역시지부 -> /article/6178202267
+Article: (주)농협사료 부산바이오 -> /article/6178515443
+Article: 주식회사 에이치씨엔 부산방송 -> /article/3878501432
+Article: 재단법인부산정보산업진흥원 -> /article/6178205828
+Article: 부산관광공사 -> /article/6178212523
+Article: （주）케이씨티시 부산지점 -> /article/6178501124
+Article: 도로교통공단 부산광역시지부 -> /article/6178201934
+Article: (주)청신-양산부산대학교병원 -> /article/6088606122
+Article: 법무법인 테헤란 부산점 -> /article/3868501948
+Article: （재）부산문화재단 -> /article/6178209348
+Article: 부산시중앙신용협동조합 -> /article/6178202705
+Article: 주식회사 귀풍투어 부산지점 -> /article/1128519546
+Article: 주식회사 부산티엔씨 -> /article/3268100013
+Article: (재)부산디자인진흥원 -> /article/6178207753
+=== SEARCH: 진연로9번길 19 ===
+Line: 진연로9번길 19
+Line: 
+Line: 
+Line: 
+Line: 
+Line: 
+Line: "진연로9번길 19" 키워드로 0 개의 결과를 찾았습니다
+Article: 스마트밸리 -> /article/5702600815
+Article: 씨앤씨트레이더스 -> /article/2198133012
+Article: 모이비엔(moi.B.N) -> /article/8170900584
+Article: 제이로지스 -> /article/5994000210
+Article: 하우스앤 -> /article/2198132411
+Article: 해피데이 -> /article/5140544614
+Article: 대림가스 -> /article/3170457414
+Article: 이도트레이딩 -> /article/1523500996
+Article: 삼원오피스 -> /article/5625100214
+Article: 허원 -> /article/6033318914
+Article: 새천년노래연습장 -> /article/5110147614
+Article: 엔비피오 -> /article/6028146214
+Article: 크럭스 -> /article/6092341414
+Article: 뷰티헤어샵 -> /article/5140540807
+Article: 대양스폰지 -> /article/4438103014
+=== SEARCH: 조진성 부산 ===
+Line: 조진성 부산
+Line: 
+Line: 
+Line: 
+Line: 
+Line: 
+Line: "조진성 부산" 키워드로 0 개의 결과를 찾았습니다
+Article: 스마트밸리 -> /article/5702600815
+Article: 씨앤씨트레이더스 -> /article/2198133012
+Article: 모이비엔(moi.B.N) -> /article/8170900584
+Article: 제이로지스 -> /article/5994000210
+Article: 하우스앤 -> /article/2198132411
+Article: 해피데이 -> /article/5140544614
+Article: 대림가스 -> /article/3170457414
+Article: 이도트레이딩 -> /article/1523500996
+Article: 삼원오피스 -> /article/5625100214
+Article: 허원 -> /article/6033318914
+Article: 새천년노래연습장 -> /article/5110147614
+Article: 엔비피오 -> /article/6028146214
+Article: 크럭스 -> /article/6092341414
+Article: 뷰티헤어샵 -> /article/5140540807
+Article: 대양스폰지 -> /article/4438103014
+

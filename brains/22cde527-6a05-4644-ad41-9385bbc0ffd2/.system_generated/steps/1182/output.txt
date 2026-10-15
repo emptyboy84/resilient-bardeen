@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Total blanks: 228
+With CEO: 83
+With Phone: 190
+With Address: 146
+Category breakdown: {
+  '음악': 19,
+  '공연': 7,
+  '애니메이션': 10,
+  '출판': 57,
+  '영화': 9,
+  '광고': 10,
+  '게임': 20,
+  '1인 미디어': 1,
+  '방송': 4,
+  '만화': 21,
+  '캐릭터': 33,
+  '지식정보': 17,
+  '콘텐츠솔루션': 20
+}
+

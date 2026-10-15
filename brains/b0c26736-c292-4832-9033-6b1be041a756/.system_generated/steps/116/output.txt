@@ -1,0 +1,12 @@
+### Result
+"\n통신판매업번호\t2021-대전유성-0522\n국세청산업분류\t\n\n대분류 : 정보통신업\n\n중분류 : 출판업\n\n소분류 : 소프트웨어 개발 및 공급업\n\n세분류 : 시스템ㆍ응용 소프트웨어 개발 및 공급업\n\n세세분류 : 응용 소프트웨어 개발 및 공급업\n\n\n업 태\t소프트웨어사업자(패키지소프트웨어개발.공급사업)\n종 목\t응용 소프트웨어 개발 및 공급업\n주요제품\t인터뷰마스터 IM_3종\n전화번호\t010-2742-5***     (※휴대폰번호는 ***로 표시됩니다)\n팩스번호\t0504-044-5415\n기업규모\t중소기업\n법인구분\t법인\n과세유형\t부가가치세 일반과세자\n본사/지사\t본사\n법인형태\t영리법인의 본점\n등록일\t2017-07-05\n홈페이지\thttp://www.withmind.net\nIR홈페이지\t\n회사이메일\tzoominsung@withmind.net\n대표자명\t주민성\n사업자 현재 상태\t계속사업자    ※국세청 홈택스 실시간 정보제공\n\n\n사업자등록번호\t794-87-00687\n법인등록번호\t110111-6447498\n종업원수\t17명\n우편번호\t34129\n회사주소\t대전광역시 유성구 가정로 218, 3층 302-2-3호 (가정동, 한국전자통신연구원 융합기술연구생산센터)\n\n대전광역시 유성구 가정동 161 한국전자통신연구원\n영문주소\t218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea\n관할세무서\t북대전세무서 (전화번호 : 042-603-8200)\n\n대전광역시 유성구 유성대로 935번길7 (죽동 731-4)\n결산월\t\n정정문의"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const table = document.querySelector(\'table\');\n  return table ? table.innerText : document.body.innerText.substring(0, 1500);\n}');
+```
+### Page
+- Page URL: https://bizno.net/article/7948700687
+- Page Title: (주)위드마인드
+- Console: 0 errors, 7 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-27-24-802Z.log#L9

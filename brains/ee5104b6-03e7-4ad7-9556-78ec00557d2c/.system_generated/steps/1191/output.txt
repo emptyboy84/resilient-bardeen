@@ -1,0 +1,10 @@
+The search for ""5518101826" OR "551-81-01826" OR "110111-6584084" OR "1101116584084"" returned the following summary:
+검색 결과에 따른 해당 번호들의 정보는 다음과 같습니다.
+
+*   **110111-6584084**: **주식회사 비케이피(BKP.CORP)**의 법인등록번호입니다[1]. 이 기업은 의류, 패션, 잡화 등을 취급하는 전자상거래 소매업체(브랜드명: 블랙업)로 확인됩니다[1].
+*   **551-81-01826 (및 5518101826)**: 검색 결과상 해당 번호와 직접적으로 일치하는 사업자등록번호 정보는 확인되지 않습니다. 
+
+참고로, 주식회사 비케이피의 사업자등록번호는 419-87-00807로 등록되어 있습니다[1].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAl_w07EyTLkEFVZar7YIdAYFWJZ88bhkl6OdBJdkq8Mw28Nc11JzGAoz4B-uujnOxJh3YpvFLhhVO-iocVZULHqwDegzzOaUwWDdJcY0ojqAm4-qmp7vcg5g=)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=부산&query=비문');
+```
+### Page
+- Page URL: https://bizno.net/?area=%EB%B6%80%EC%82%B0&query=%EB%B9%84%EB%AC%B8
+- Page Title: 비문
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-35-25-962Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-35-21-402Z.log#L1-L4

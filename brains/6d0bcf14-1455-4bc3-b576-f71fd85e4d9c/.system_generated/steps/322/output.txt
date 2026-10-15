@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+Match found at Row 149:
+Seq: 148
+Name: (주)제리굿컴퍼니
+CEO: 이정세
+BizNo: 269-86-02940
+Addr: 부산 해운대구 해운대해변로 291, 516호 (중동,크리스탈비치)
+Current Phone: 010-9043-4064
+Match found at Row 1543:
+Seq: 1542
+Name: (주)브랜드몬스터
+CEO: 김강헌
+BizNo: 542-88-03421
+Addr: 부산 해운대구 해운대해변로 291, 1716호 (중동,크리스탈비치오피스텔)
+Current Phone: 
+Match found at Row 2697:
+Seq: 2696
+Name: 바이오맵(주)
+CEO: 박효성
+BizNo: 445-86-03524
+Addr: 부산 해운대구 해운대해변로 291, 1716호 (중동,크리스탈비치오피스텔)
+Current Phone: 
+Match found at Row 3154:
+Seq: 3153
+Name: 바이오맵(주)
+CEO: 박효성
+BizNo: 445-86-03524
+Addr: 부산 해운대구 해운대해변로 291, 1716호 (중동,크리스탈비치오피스텔)
+Current Phone: 
+

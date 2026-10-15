@@ -1,0 +1,21 @@
+The search for ""영화수입업" "시드" OR "(주)시드"" returned the following summary:
+'시드' 또는 '(주)시드'라는 명칭은 영화 산업과 관련하여 몇 가지 다른 맥락으로 확인됩니다.
+
+*   **영화사 (주)시드:** 영화진흥위원회의 영화사 정보 등에 따르면, '프로덕션 ㈜시드'라는 명칭의 제작사가 존재합니다[1][2]. 해당 업체는 영화제작업, 영화수입업, 영화배급업 등을 등록하고 활동하는 것으로 보입니다[1][2].
+*   **기타 법인:** 공공데이터 및 신설법인 현황 등에서 영화수입업을 업종으로 포함하거나 유사한 명칭을 가진 법인들이 다수 검색됩니다[3][4][5]. 이는 동일한 이름의 다른 기업이거나 사업자 등록 정보상의 업종 분류일 수 있으므로, 특정 기업에 대한 정보가 필요하신 경우 사업자등록번호나 상세 주소 등을 확인하시는 것이 좋습니다.
+*   **참고 사항:** 영화 업계에서 '시드(Seed)'는 종종 영화 제작 단계에서의 '시드 투자(Seed Investment)'를 의미하는 용어로도 사용됩니다[6][7]. 또한, 해외 영화인의 이름(예: 페데리코 주시드[8][9], 시드 미드[10])이나 영화 비즈니스 교육 과정의 강사명[11] 등으로도 언급되니 검색 시 참고하시기 바랍니다.
+
+찾으시는 특정 업체에 대한 더 자세한 정보(예: 제작한 영화 목록, 대표자 등)가 필요하시면 추가로 질문해 주세요.
+
+Sources:
+[1] [210.104.16](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtv1gtEOzdXm83GIzlVy9I0qzCpTZq6w-OYnYr_K9UrNkj97KKFHTmXtY4IdOrXkEXh2D8Ni82-vi9MaNfeQz_dQNZREosUTzhtq_39m9mxQ_B2FLdUV4ujmOW7rp563ClMqX6JSrYyOlbBDuhWYr_JrG5c09t)
+[2] [210.104.16](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtv1gtEOzdXm83GIzlVy9I0qzCpTZq6w-OYnYr_K9UrNkj97KKFHTmXtY4IdOrXkEXh2D8Ni82-vi9MaNfeQz_dQNZREosUTzhtq_39m9mxQ_B2FLdUV4ujmOW7rp563ClMqX6JSrYyOlbBDuhWYr_JrG5c09t)
+[3] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz3uh1mIfLiIjBhujz1xJrvNYf4vdZtu3JmqBgAIREF3i-ahxETCBdP_92jhZ2I10s7mH9gxqPxOIaEyYYY4Q3B-klrz8F1TZXysibq-zgkJaWmF46mSRFI_AcgAs4mKUacLMio8E7O1jVqBnu0c3QX7i9_QRlUu25tkJs4hrgXnUACz7RFi3vNkSU4ZF3Plqc3zlopyU95XZaM8RI8OXgVvE3)
+[4] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG98grRui9OGN60DgwHPn8ZSohsIMeWkPunfyylXFJkosRYoZg7h3GNNDoxiPDFxDNMvuCMGzsfQhLWPCO1x01Gt0qmb8as5IZb20c2pwr0EKWLF-VOT8YldzJ6FlFlVBbJ0x2jDpflLt35)
+[5] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz3uh1mIfLiIjBhujz1xJrvNYf4vdZtu3JmqBgAIREF3i-ahxETCBdP_92jhZ2I10s7mH9gxqPxOIaEyYYY4Q3B-klrz8F1TZXysibq-zgkJaWmF46mSRFI_AcgAs4mKUacLMio8E7O1jVqBnu0c3QX7i9_QRlUu25tkJs4hrgXnUACz7RFi3vNkSU4ZF3Plqc3zlopyU95XZaM8RI8OXgVvE3)
+[6] [kita.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-_GbSRHc9opQdrMoPeykKQEWjvQsy7h9lLS7IZxAT_WcSiLE5CBuTa6JhEV6JkVpYv5iqtwhhPD_X_nBgeEWPOm1Zg1S4AxF1Gxg5ZzZjOn0fiiYALLJRET0Zu-em8NaMb-fjFHgMHfSShwDQ3-sCgxT9j1Wf6UQxjxZ83c6Q3N2NdYEGxiBI7oFMVMwg0qDepIXE_UXKbMbDqYC0FvPDnATRszqRjbB5RqjmjDOdoVm3Vttz9NzpngSgmFxNt1zpR-9dtf4fF88Ti9X5kp7ndA8I8MGLi-ZTABBBz-_PSMgVe0Vz3NXwiMAKneeGF9uLwZid6hoV_mo8JwhFhivMO5JpCh0=)
+[7] [kobiz.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Bgq5KrXJxRni2BNWPuhEdDMpod_hk6FlriLY1YxzsmVmab08iEsiMNRd6dKo7dkKulQLo_YLTmL8TqGjIYGk5Jl5H2VNij_f7DxW7wgbQuyaM1Qe3BB6qtcEtN2ktP0A8StmVJKy5B5eLCH1gitCpjPy3Ro8ihd6usb2VpTW9e3AN2a8-g1OGSUYVBx0TfIPaci8)
+[8] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTrSbMJ1-65Rlu7dpVxVCjIyy7WP5f7du_ciDePYDWiZ9w1aFMZi2XLJzpP8dLjfQJm4bhtJr8j0dHwgVlcY6G3i1H2byReydYZrnBwlQqKVrUdET9znIcUihfkDa6iChNqY1png==)
+[9] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8hU5fWH9mVEk2WZKvkx4mvZAdmmWWj4UCCql8_kcp9N8wLoe_F7STMpC1IL6IAc_uaaA1J6CRM89Yvb0_A8jX5WzD6pAqo_dmhJo0rRDDpk2j3NyaKgf3G0gDQxlnXNql4XTP-c_capqzUVdPtH18wg==)
+[10] [cine21.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENx8o3-rnOefTaEL4p-hqDg1DsK3hklVbbyIUqH_ktpWy503kBss5jYq2jrcXtCjKAHOxfKwp3OeDDNTp6Y1YTUmaL1ewRIrkLsi0YqkOIjgPyfoBGeoZBH81FRevRjA0=)
+[11] [theloca.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLg_ULw8CZbYTBXRxBYEggol0UaxC5l_C7fER7l_jLD94Evm9w-761KTvqYAtB6F0MXsEe_yZeiO4nqjCEpLa3p1NiBxzdlYH-AnEvORp4Ts7oNLuB7RLeTWV61UO96WvWf3d7vJ9XsYpJ6Hxi9yXxoOT8t3zfbCXxtaCxoe-DUMOyzLaUlv28lPHVhHJv5sfQiMPv9lknel970Bdj8eGexroeTLQ=)

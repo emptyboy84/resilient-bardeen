@@ -1,0 +1,15 @@
+The search for ""유네이드" OR "유네이드홀딩스" "부산티플렉스" OR "유통단지1로 50"" returned the following summary:
+입력하신 검색어는 부산광역시 강서구 대저동(서부산 유통단지 일대)에 위치한 기업 및 관련 주소 정보와 연관되어 있습니다[1][2][3]. 
+
+* **주요 관련 기업:** **(주)유네이드홀딩스** (경영 컨설팅업 등을 영위하는 법인 중소기업)[4][5]
+* **소재지 관련 정보:** 부산광역시 강서구 대저동 일대의 **부산티플렉스** 및 **유통단지1로** 도로명주소 구역 (예: 유통단지1로 50, 유통단지1로 41 등 서부산 유통상가·단지 내 위치 정보)[6][1][3]
+
+특정 기업의 상세 주소 확인, 사업장 위치, 또는 추가적인 기업 정보 조회를 원하시는 경우 말씀해 주시기 바랍니다.
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp0lspJjaaI9lcm1zF6dZdYP-mHbQFz9Sv-5mF3tUxeao8d9JHfhUOAum3blPy2L2f3SR_fdvjOFlV8Q32pZvQNP2Nnheay8Ui1TguA1HGDDsumKf2Basw9v6wfuJpQ-8W3BiatKvn_60EEKA4_5oWrt9NYLEmOrOuGykA1Hf7aYaOOO7yvWULAOUmDJQVMYGkb_WLbeMibf4baU32rR14FyXcWtMY8i1RbFN6cCpPM75mqLsqFO6-EC6AvCZJjUFFATBLHVwfa7T1q0YoBHzQWyl3xNag8OZNcHUX)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIR5MboUNw7ohUrRC6VdXo85W7M7VT_IRBQWjPCBWwuSqfs0a05Wv0XoKtOp9MFT559QRiZkulnZ_UOs9DYdHnDOvkh4-tNG3LCG6CsXmhW-VNvYmQL3VLdjb21iZ_bc3E-A==)
+[3] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtvLoIyhT6gp6G_1UGFkOc5tVjGT2jsgrI6DEgaWfWGCSyW4g5WWKXjggepNQLkddx_PeE8TjSwxl71bxtkjxN9Yk3PWTJh2pQwDBZOaGzp6n9MyGa)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcTAxpLgV4sSkocb5swNOfK8J9niIAc2wn0QMECwyYtqC4j8PpTvxPcAsDbTdnbUt5r460HqviLWgzWITV5PUNClS7p2mG0fOjtqkKM1HUDs6tOB4u_BVnsWgtgzfb2wpvZJ5estZDHowuqvgYyXq7cR-A9qFQQVsOfQzqcg_UNENkH-X_2P7HS9zNzJZIrm7_Wv51xSxlHwCFk7GY4ssj5Zt9JmXJtEdwj5vTW9yBYw-hwArWHJzrgcxyN-wgW8nLc6jFSAab6shyPoW2fsaypew4nDwPEAo6HIWDNbJ04RAV_X6b)
+[5] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp3V_Zucop9tlbV4qKAf2hUkhueGLQS1rgXCHMeMH1xLqBs9V9N6z1mEhqkd2eWbxxR0T0zzqGcraHsMYWuY_AZPDdb5SD73V_1ozgrR-PreDiRve2jppP6F7reys9TcjEnfhDTyGzKkA_v3HCMnukGir9)
+[6] [tyt-t.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ35kmlkNG5dkzcVwk5A4dtuI35HjRTnhcZfKCSZAHYdQlXA3ABdao11MsK0MEGFhzYxcahtLxMMlS6UsL39ERO1SYmvLNrF3xIK0KQCHWogbT)

@@ -1,0 +1,12 @@
+The search for ""대저1동 361-68" OR "대저중앙로394번길 32" ("파이" OR "전화" OR "상호")" returned the following summary:
+부산광역시 강서구 대저중앙로394번길 32 (지번: 대저1동 361-68) 위치의 관련 정보는 다음과 같습니다[1].
+
+* **상호(기업명):** (주)응카 (렌터카 운영, 차량 출고·보험대차·배반차 등 관련 업무 및 전기차 충전소 운영 등)[2][3][4][5]
+* **전화번호:** 1877-6546 ((주)응카 관련 전기차 충전소 등 안내 번호)[3]
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-yyLlU3Ci3sjFIfg8Fs5yJ3uUWSmgWFMYEM4s_GLh821NveexEcHiI5DsrKfm1OkF94cVu0xm3SjUPXeBexRTwRVamcfOiER_WZVB-wxDRTO5lVtKM7K6Qi6h20QL11c6k5KsRZa8eDUV0zEUA9tM6gWO9ePg5mb34y9yzQWnAmJ7aBRPIw2HXgFUh7Mp9K7hoaeo6epkxr5Tr5yf7gC8D41qrG_CDHSBkeChXZMvaL6NZrekKStnSMULZ9uIedY=)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuoAB2kvE9qB1BsZ7oj24i4YWqwUmoULNQVyik-trq02qrMfVmUjH9y2C2iTC69azmxOzq9rf_AZGEJtXTt6PEXdx9zoJRqVfg5NLfaLMLhDa8f6jFTMFLxu6uUKkyskseG0_x6M3AKfHWfzgH9VxB_pI=)
+[3] [chargekorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdqGNmqKgPJHFQGevsUiMbGWOWzKTXP3ncn3Pog6WEJLa-tq1ssq768yDt6HqSYJQiXRlTPX_GvR6oOAug3ZbHXuUldwDaoVBzpECHz7c8xmlU8fYaJBYIfeV3tUTruwnXDbF8e0A52w2_NSbGaw==)
+[4] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJqQ1ccfSHcxIixMOKb5PuhlcqnDudT_0jFHUe_RF9YbDthYF9A0M7bmY8DfWIqJV3pVvwqASrH1gVu8tcotA3PGMnfng4m5ZojtSID2fQjYinwEEpBX6WTP6mVPai2LgtaLU47QJrxk8mK4ew5x_8Q6k=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANUFAhqS6Hbhip1yzI_9Ayn_FBDb0CPwqKlEGkAIKASavPWznNV-_mlWmGIpMonshXTyVFpOkZTxBiAGvr_7FY-LZ1dodhJ8NjVmll_HvCz08Zw16ew==)

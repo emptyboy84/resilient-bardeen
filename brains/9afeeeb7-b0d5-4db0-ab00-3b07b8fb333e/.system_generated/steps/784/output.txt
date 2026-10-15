@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Searching for row...
+Found 1 rows:
+Row 20418: (None, None, '�̾�', 8988802742, None, None, '�泲 �ֽ� �η�169� 12, A� 7� 710ȣ (�湫�,�Ÿ�)', None, None, None, None, None, '20231109', None, 7, None, None, '�Ÿ �Ͼ �񽺾�', None, None, None, None, None, '8988802742', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+

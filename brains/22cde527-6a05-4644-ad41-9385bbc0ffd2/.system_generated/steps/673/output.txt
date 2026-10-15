@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+CSV exists: true | size: 433038 | mtime: 2026-09-14T00:57:41.303Z
+XLSX exists: true | size: 308811 | mtime: 2026-09-14T00:57:41.291Z
+

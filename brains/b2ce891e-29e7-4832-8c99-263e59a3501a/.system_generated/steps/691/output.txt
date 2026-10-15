@@ -1,0 +1,11 @@
+The search for "site:saramin.co.kr "반송로525번길 15" OR "석대동 638"" returned the following summary:
+해당 주소(**부산광역시 해운대구 반송로525번길 15**, 지번: **석대동 638**, 건물명: **해운대타워**)[1]는 사람인 검색 결과 직접적으로 매칭되는 채용 공고 페이지가 존재하지 않거나, 검색 색인에 수집되지 않은 상태입니다. 
+
+참고로 해당 주소지(해운대타워)에는 (주)신원[2], 경안옵티칼[3], 커피볶는 시골커피 석대점[4], CU 석대글로리점[5] 등 여러 기업 및 상가들이 위치하고 있습니다. 특정 기업의 채용 정보를 찾고 계신다면 주소 대신 **기업명**을 직접 사람인에 검색해 보시는 것을 권장합니다.
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJDjDAJUFhXs_bur4LCStArrvfTgpl5ACHTSUrFhmJacvNJSiUop52ROvcr2LzCyik-T9PY_kVqd3wWHua7DJfJMsadJu_HRVOzlnP6zR_1IQiJzM7SrfavUbUCrAX_8kzCKxAudEQtarOw_E2yjX9NbaUMHTyiFsPSOj_kFLIfj2d6ZBx7qCPT4ov7yQqEXKnkEpW40brKOnuUfnlQsTDs2brfmKTaSsypobrhe8hseT4hZ0qEjUbYfZjUaUoVeIyDNBJGLluLn0ZwtNce_HQ3LwQVTOwG4uEpP7L72cXIHVCepqFtl_cbBnFKDe4pQ==)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGed1f2wieMo29ah-EEt1xGQ2_U1BDlOgZJUDMDJ9krS-l3nB-TUT3XiIO5B9AdWOwL5guEBWbp6SFXJPZ2S-dT5J9ARSRQKALzjAQFIIstrdEXtngrtTyf-iCVdsMnasb6HqHQroPFr3rRf-pm1vfQ-QH-t6AzSQcdhoq7HtQkNUnAqarevj_xOZInxjp2vWux2DhQ0vecYUZPxVoDiww3CskKwbYRE3RKRhUVPLy2xKNkE8KKCJZ6-i7F3Q==)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYmuSoJE8WTdHp2DflaOREE-vIGlFSseeyz5Ru2HEfxqRuju0ig9XlFs8DkXY_QjDzlS9w8-PpBjlj6g1czRaKQYTLkQShHe18mAGKfR8bU-27e-EMWoZb6OGDeSZI0ui5qQ==)
+[4] [passorder.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO5uLzi1DnvG5m4r76nlFlgnrqh312PmBTeBEukbjB-AsSlGmOwBZhVsc3NT83HORCpSEtmyIyPl5fkU-gGoNvl-lQxyAZpG55QepYys52nHYJVvpa3A0QpK7tf6CWd9bafHHRuT93jAyeSwEudGyZAHKXTyXc_9zkNqWCTg==)
+[5] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwIytlDVL0wHyIWRSxpQS-r9N40jCpRkE5Hk0GQt2U6ANcrzKFi6O0_v6fKoJMVC1fGIk2FFAJiqU6Wlefv6ZS7iARGHArG7JHf57PJh7fxSo0RNOz-MMq19R0XPtAILzPJ33UD-NVMF3CkHOI45Jq5hW65FSlYFyBhBgrWgE039mY-J9XDUft1w==)

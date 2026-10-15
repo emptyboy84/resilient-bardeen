@@ -1,0 +1,10 @@
+The search for ""김병일" "코니" OR "KONEE" "부산"" returned the following summary:
+검색하신 키워드와 연관된 부산 소재 기업 **코니(KONEE)**의 주요 정보는 다음과 같습니다[1]:
+
+* **기업명:** 코니 (KONEE)[1]
+* **대표자:** 김병일[1]
+* **소재지:** 부산광역시 해운대구 센텀서로 30, KNN타워 (우동)[1]
+* **주요 사업내용:** 응용 소프트웨어 개발 및 공급, 선박 구성 부분품 제조, 수송용 운송장비 도소매 등[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9OhJsBeAL7H3FeHtyWa4mrnXs6XEcTRUnWRuAybnKTf-kmddVg0sYKsOQTSDu9ENryO7MLPHo5hoy4toBtbtw_sWkuHNbzv42_JlRW6By6lme5k6iasOgn1nXoF68VKPekGDleSNvr4ZU8W87Kk87oaOmh08FkA-1k2EmsJVXlTSR0PDzd9OsOkvGJe5170iYsO0z6nYHa6qh4hAG4X-uEmAFChep68HocaUpyYufV7ZYQ==)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=브이알코리아');
+```
+### Page
+- Page URL: https://bizno.net/?query=%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84
+- Page Title: 브이알코리아
+- Console: 1 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-34-20-530Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-34-15-191Z.log#L1-L4

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.114.co.kr/biznumber/detail/a87797a1158f');
+```
+### Page
+- Page URL: https://www.114.co.kr/biznumber/detail/a87797a1158f
+- Page Title: [서울특별시 관악구]니쥬상점, 5600702488, 560-07-02488, 기타자유업종, 정보보기 | No.1 전화번호검색 - 114On
+- Console: 115 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-10-29-656Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-10-24-706Z.log#L1-L344

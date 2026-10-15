@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Total verified: 192
+{
+  total: 192,
+  invalidBiz: 0,
+  withYear: 158,
+  withMonth: 158,
+  withCeo: 161,
+  withTel: 114,
+  withFax: 45,
+  withEmp: 172,
+  withClose: 26,
+  withSource: 192
+}
+

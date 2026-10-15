@@ -1,0 +1,11 @@
+The search for ""778-05-00791" OR "7780500791" OR "amzsensek007@gmail.com" OR "센스케이 글로벌"" returned the following summary:
+검색하신 정보("778-05-00791", "7780500791", "amzsensek007@gmail.com", "센스케이 글로벌")와 관련하여 확인된 내용은 다음과 같습니다.
+
+*   **센스케이 글로벌:** 해당 명칭은 특정 웹사이트의 고객사 또는 파트너사 목록(레퍼런스)에서 언급된 바 있으나[1][2], 해당 기업의 공식 사업자등록번호나 위에서 언급하신 이메일 주소와의 직접적인 연관성을 확인할 수 있는 공개된 정보는 검색되지 않았습니다.
+*   **사업자번호 및 이메일:** 입력하신 사업자등록번호("778-05-00791")와 이메일 주소("amzsensek007@gmail.com")는 공신력 있는 데이터베이스나 일반적인 웹 검색 결과에서 확인되지 않는 정보입니다.
+
+입력하신 정보가 특정 거래나 비즈니스와 관련된 것이라면, 해당 정보를 제공받은 경로를 다시 한번 확인하시거나 공식적인 기업 확인 절차(국세청 사업자등록 상태 조회 등)를 거치시는 것을 권장합니다.
+
+Sources:
+[1] [talkingabout.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcjqkGgSJFsihEQXLmiLGv6-2hFLlZDjr33oBk7wpBS6uaNFeL3OYpvhYCe8HoN7xwlNOEHFsg1qbjhn9pXQCmEWU40c4NsZ1NF-kG_lJqVrU=)
+[2] [talkingabout.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUvmFCdtlGk_vN-gAKJebp5RuqAb-ejmnqJrcIrzeNPO3zFb8jUQKiX-Xq4OuUvYq8sCOJVUWF6N4VmqSn8A5eAz0k2S_JG4sW7M67XaPrJks=)

@@ -1,0 +1,17 @@
+The search for "site:weseb.com "니쥬상회"" returned the following summary:
+위세브(weseb.com)에 등록된 '니쥬상회'의 정보는 다음과 같습니다.
+
+*   **상호명:** 니쥬상회[1]
+*   **업태:** 온라인 종합몰[1][2]
+*   **소재지:** 서울특별시 구로구[3][2][4][5]
+*   **통신판매번호:** 2023-서울구로-0163[1]
+*   **신고일자:** 2023년 1월 11일[1]
+
+해당 업체는 종합몰로서 다양한 카테고리의 상품을 취급하는 것으로 확인됩니다[4].
+
+Sources:
+[1] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb5kolW0OsEflh9FVThclJTb71BUs2NNy4k9q1AMo9UKGIBDZze3z_F9eXBLL3R3o5QhNyMpOE4QJ8ppsbZUzNIEo06dGI1wUdeesp7SiPleRrWAI-074hKZGfHRNTaHDhPKWOKMsZ-zIYMFvuGiH3ThI=)
+[2] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyLVMaUt3hwPDIFOshmw8Tu_7xwguu9bt5_VLmGJmglkzmFESDBbJHU_ecvw4jWJj5plB8K9i76h2nrx75w2yuuUHqcux-94BeckJK1HgAug_ixzz4rFHhOV7fFwbt_Jq2nvolUC0pw-H6LaaMcvAEj-E=)
+[3] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx6gMXACBtXGRKfE2xwW7n26GEn1wPhQz9CBtAzqb_RK3nlYhZSmXrECTQkM4REI-HN_03QucHyyGfArzznnVUpXcXZeuypmiVELLf29CWuDWURVES3qo8saZE5rZQ6bjdXii_J4K9ObV2QICQCRuNC-E=)
+[4] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzY_bqF08EQJz8OsJ6oGWYkglqXBANTvMnyp0FpcpvcOQ3JQ9V7thD2EmkSVOBRMeNtLGhlraUzYjU8rN_LZB6oPjk3ph_J1McDMREWhOClzD_0SM9UmDOaaKdgrd4v74gTooryxGHpBFCqIaiNFhUSKQ=)
+[5] [weseb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-Q-5L7n4JKTc0GMFOnDms3VBcFia1TwRduqBKDKOioxFPvMBR0HIKIGs1rQ7w4VYHofQcll-bVztlBHFKuBDXxbL3vcsve0bCFKlB5m-NlJ89RfOlWbsGkbfCXCiwVzRahS7mD9n8IU99uV8npoY6_CLGHqo)

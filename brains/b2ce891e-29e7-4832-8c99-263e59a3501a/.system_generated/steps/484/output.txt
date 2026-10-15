@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/search?q=010-7103-2127');
+```
+### Page
+- Page URL: https://bizno.net/search?q=010-7103-2127
+- Page Title: 404
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-15T01-28-51-083Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-15T01-28-50-227Z.log#L1

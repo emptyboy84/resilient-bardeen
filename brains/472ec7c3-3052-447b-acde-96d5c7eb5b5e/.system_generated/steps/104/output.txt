@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+
+   Id ProcessName   SessionId
+   -- -----------   ---------
+17656 chrome                2
+19500 chrome                2
+23576 chrome                2
+23792 chrome                2
+25680 chrome                2
+27368 chrome                2
+28836 chrome                2
+32248 chrome                2
+35716 chrome                2
+37056 chrome                2
+37096 chrome                2
+38264 chrome                2
+39360 chrome                2
+ 3976 remoting_host         0
+ 5348 remoting_host         0
+
+
+

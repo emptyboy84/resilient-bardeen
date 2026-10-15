@@ -1,0 +1,64 @@
+
+The command exited with code 0.
+Output:
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260820.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260820.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260821_industry.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260821_industry.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260825_1116.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260825_1116.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260826_091624.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260826_091624.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+Found bizno/corp in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_여기까지했어요.csv
+Found rep/company in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_여기까지했어요.csv
+Found bizno/corp in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+Found rep/company in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+Found bizno/corp in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.csv
+Found rep/company in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명.csv
+Found bizno/corp in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_BACKUP_20260922_1220.csv
+Found rep/company in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_BACKUP_20260922_1220.csv
+Found bizno/corp in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본.csv
+Found rep/company in: (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본.csv
+Found bizno/corp in: 배현명_실사DB_13컬럼_1000행_전체.csv
+Found rep/company in: 배현명_실사DB_13컬럼_1000행_전체.csv
+Found bizno/corp in: 배현명_실사DB_13컬럼_주황색마킹.csv
+Found rep/company in: 배현명_실사DB_13컬럼_주황색마킹.csv
+Found bizno/corp in: 배현명_실사DB_14컬럼_주황색마킹.csv
+Found rep/company in: 배현명_실사DB_14컬럼_주황색마킹.csv
+Found bizno/corp in: 배현명_실사DB_14컬럼_주황색마킹_상세포함.csv
+Found rep/company in: 배현명_실사DB_14컬럼_주황색마킹_상세포함.csv
+Found bizno/corp in: 배현명_실사DB_14컬럼_최종검증완료.csv
+Found rep/company in: 배현명_실사DB_14컬럼_최종검증완료.csv
+Found bizno/corp in: 배현명_실사DB_17컬럼_주황색마킹.csv
+Found rep/company in: 배현명_실사DB_17컬럼_주황색마킹.csv
+Found bizno/corp in: 배현명_실사DB_17컬럼_최종본.csv
+Found rep/company in: 배현명_실사DB_17컬럼_최종본.csv
+Found bizno/corp in: 배현명_실사DB_18컬럼_주황색마킹.csv
+Found rep/company in: 배현명_실사DB_18컬럼_주황색마킹.csv
+Found bizno/corp in: 배현명_실사DB_18컬럼_주황색마킹_상세포함.csv
+Found rep/company in: 배현명_실사DB_18컬럼_주황색마킹_상세포함.csv
+Found bizno/corp in: 배현명_실사DB_18컬럼_최종검증완료.csv
+Found rep/company in: 배현명_실사DB_18컬럼_최종검증완료.csv
+Found bizno/corp in: 배현명_실사DB_5500행까지_마스터엑셀행번호포함_최종본.csv
+Found rep/company in: 배현명_실사DB_5500행까지_마스터엑셀행번호포함_최종본.csv
+Found bizno/corp in: 배현명_실사DB_검증완료.csv
+Found rep/company in: 배현명_실사DB_검증완료.csv
+Found bizno/corp in: 배현명_실사DB_검증완료_최신.csv
+Found rep/company in: 배현명_실사DB_검증완료_최신.csv
+Found bizno/corp in: 배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv
+Found rep/company in: 배현명_실사DB_네이버지도_카카오맵_전화번호검증리포트.csv
+Found bizno/corp in: 배현명_실사DB_전화실사_통화검증_콜시트.csv
+Found rep/company in: 배현명_실사DB_전화실사_통화검증_콜시트.csv
+Found bizno/corp in: 부산기업_전화번호검증_완료본_20261014.txt
+Found rep/company in: 부산기업_전화번호검증_완료본_20261014.txt
+Found bizno/corp in: 인공지능으로찾은거.csv
+Found rep/company in: 인공지능으로찾은거.csv
+Found bizno/corp in: 크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+Found rep/company in: 크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+

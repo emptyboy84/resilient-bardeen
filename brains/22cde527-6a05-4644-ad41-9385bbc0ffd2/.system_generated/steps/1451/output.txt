@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+FTC URLs: []
+ - a_referrer = 0; var headerfooter_query = "공정거래위원회 통신판매사업자 조회" ; var g_ssc = "tab.nx.all" ; var g_query = "공
+ - 정거래위원회 통신판매사업자 조회" ; var g_puid = "jqORPlp0jWosshebPOo-204506" ;
+

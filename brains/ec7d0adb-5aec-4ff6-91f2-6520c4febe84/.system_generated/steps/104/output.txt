@@ -1,0 +1,29 @@
+The search for ""한국표준산업분류" "11차" "27199" OR "2719" 연계표" returned the following summary:
+한국표준산업분류(KSIC) 제11차와 제10차 분류 체계에서 **27199(그 외 기타 의료용 기기 제조업)** 및 **2719(기타 의료용 기기 제조업)**와 관련된 정보는 다음과 같습니다[1][2][3].
+
+### 1. 분류 코드 정보 (제11차 기준)
+*   **2719: 기타 의료용 기기 제조업 (소분류)**[2]
+    *   **27199: 그 외 기타 의료용 기기 제조업 (세세분류)**[2][4]
+    *   해당 분류는 다른 세세분류에 포함되지 않는 의료용 기기 제조 활동을 포함합니다[1][5].
+
+### 2. 제10차-제11차 연계 정보
+*   **연계성:** 한국표준산업분류 제11차 개정에서도 **27199** 코드는 제10차 분류와 동일하게 '그 외 기타 의료용 기기 제조업'으로 유지되고 있습니다[6][7].
+*   **연계표 확인:** 통계청 통계분류포털(kssc.kostat.go.kr)에서 제공하는 '분류코드 연계표'를 통해 10차와 11차 간의 상세 변경 사항을 직접 조회하실 수 있습니다. 별도의 코드 변경이나 통합이 없는 경우, 제10차에서 제11차로 그대로 승계됩니다[6][7].
+
+### 3. 조회 및 활용 방법
+*   **공식 자료:** [통계청 통계분류포털](https://kssc.kostat.go.kr)에 접속하여 '한국표준산업분류' 메뉴의 '분류내용보기' 또는 '연계표' 기능을 이용하시면 가장 정확한 최신 데이터를 확인하실 수 있습니다[8][9].
+*   **세무 및 사업자 등록:** 업종 코드에 대한 상세 내용이나 연계표가 필요하신 경우, 상기 통계청 포털에서 제공하는 엑셀 파일을 다운로드하여 활용하시기 바랍니다[1][3].
+
+추가적으로, 산업안전보건법 등 특정 법령에서 사용하는 업종 코드는 분류 체계가 동일하더라도 인용하는 범위가 다를 수 있으므로, 관련 기관의 안내를 함께 확인하시는 것을 권장합니다[10].
+
+Sources:
+[1] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl4y677yS_0HexNY-DQwlImQUb54QHq3DdfoNK8iQjRI3LqZRfqXNm4dC_J5jcahssbUC4TEbtKMUkkv1sIQcrIiEbsSRey-JBYnVdYFh9t5luqSc-SVwEYfni6cmif9bDjhguUXqx_JIxsBPth7fdDpijp0JdjRhF15YxPxw=)
+[2] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4OgpMMJEliHUmr1ks3SR53zWxFO3Lmzb5K433k4hRgK05jJeUeLmQKACwh-PXx9lSy3w1JmyJu8vf3jtsuudb9hJ9ns_yPHkGb3yrKzUYYo8rgvP0YpLCcRp-f2V85tdA_8b6)
+[3] [khiss.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxSlA3z33VbCTANugFPrqxZtypkNwsoMesJG6MYIoo5yEG3cLbtzBetYfxlttQFSLkeie_fnyeyATUps_LpYqLDVyBoUnA9VZ0lqDAiYmwTlEJRLa_KqR2g-a7XAS6Yy0=)
+[4] [innobiz.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9QRbd9tq78knJ1Bpl3_C1_7VJxuqWa9F9hOk6iPPsCRr46WQbGYWtx60tbGrTJNkqv6H8zUEogO-etvVsI-07_H_sOsA6jQ7k1iYQz0kX0pBqMYa8r5YnPSHnIpf2jLNFqy5x24=)
+[5] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfibvDtt__ybsTbXI0SAJa65ntIwFBodOwvuuB6UdxEsNBXFR07IKbttI643CJ_VoMo4VHPJhlWdqV-GpoUTnX06ELgQ6NS06s9fEO49RoaVI8uYu7psRCXwLVCQDQdES7qSAwaWw=)
+[6] [mods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDRD0t6PzRVOJTQuVY96FLjDRufgY9H0ShEyvTGzNmc1lhLNYOIpbaAwlKPfCQhTyRt7SnXY2NSEG1762yx6cB78_xhb7GbCE1XaZrHtj7mNW9vckwFUR0jGqBnSakM299UyRonNKTb7Q9H6v-YfbJXReYI1hd)
+[7] [mods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDRD0t6PzRVOJTQuVY96FLjDRufgY9H0ShEyvTGzNmc1lhLNYOIpbaAwlKPfCQhTyRt7SnXY2NSEG1762yx6cB78_xhb7GbCE1XaZrHtj7mNW9vckwFUR0jGqBnSakM299UyRonNKTb7Q9H6v-YfbJXReYI1hd)
+[8] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFimuOGT8_lM8pzMF4eIq1RL_ckoXd-sKpNKGECdgmqToXcl-dxh5qQ2wpCacRaPJIxyNapB_arkGG4jmrNKBslkpesNnhGrN9sRdQdsC5E9C-rRAtUs5nCC6_uShnKQsQTPjggVE7C1WNSRpmv6vWZxhT-KReEctqEOe6AWaBBP8HQmnnOKquaeFIUZL6lGCQpuBb6qNcYIDC2cy5ofV6kqjQ8BcgdDUSREV0eGzSnlsMNn1pMSjjJvw2Y77-5EPTXWe6OHt-Y-5ttT2KCpS-XcqOPDk584abZ4Br2dez1DoLbllhnVQWliROU6R9RNvEk7jiYJRIRPoJRqc7hPeH8y7bDiGdbCUelLMMKmnYYCu7-tX8dzUb_rr6XiWRZrDMEUC6BRDnvsZzzmi6EHE95eLTl5OUXF3HziGZZwwu3iASYVN3TuLFNUo7jMsM=)
+[9] [krema.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCWXz1KpyX9PYs6hzvaUxS8kqxeweCJ-8fKZjnr0R-aTL9WBoxH8QYWvFm03cdwT15FdKSOK--Q5EJGxVGCrjzbOQu2l99klbN5hvxzbARKYtlfuvIRsUnz3SjjdsvjgFcnPHxD_l7VNhm_rdHdxnnK41iunY=)
+[10] [safetysupport.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExOoinpQN9a2edjpNORZrwZ9EoXI9wQOg02a_Z3QTp61JAo8DirAl6DHu1976G3q9zLlTFKmdxRa-8--5cKFw-UpIEbEaZmk5cRbdqU1E-mzHXXAwLJbTL4p_rMhfc)

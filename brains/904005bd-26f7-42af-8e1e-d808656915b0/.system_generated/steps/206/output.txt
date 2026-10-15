@@ -1,0 +1,17 @@
+The search for ""9514-1435" "부산" OR "해운대" OR "센텀"" returned the following summary:
+문의하신 "9514-1435" 번호와 "부산", "해운대", "센텀"을 조합하여 검색한 결과, 해당 번호가 부산 지역의 특정 업체나 기관과 직접적으로 연관된 정보는 확인되지 않았습니다.
+
+검색 결과에서 확인된 "9514-1435"와 관련된 정보는 다음과 같습니다:
+
+*   **기계 부품 번호:** 특정 기계 매뉴얼(GEA Niro Soavi)의 부품 리스트에 "9514-1435-000" (Flangia/Flange)이라는 식별 번호로 등장합니다[1].
+*   **자료 ID:** 온라인상에서 특정 학습 자료나 시험 문제지(예: '饲料企业管理-A-及答案')의 ID 번호로 사용된 사례가 있습니다[2][3].
+*   **기타:** 해외의 물품 관리 번호나 입찰 번호 등으로 사용되는 예시가 있으나[4][5], 부산 지역의 전화번호나 상호와는 일치하지 않는 것으로 보입니다.
+
+만약 이 번호가 특정 업체나 전화번호와 관련된 것이라면, 번호의 자릿수나 지역번호 포함 여부 등을 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07FPCEEt7-zrbX8Q__GrOo14ncQgBJFdVU-IaGK-sJlsESFGgnggD1FMdauez2vvVfNSoCdebzcw6cXal7MvJTiodma8fY18YqHJqmSpUgEtnTVw61bmU2gjk3vizdMbE6nfhqVQGwpOL-g==)
+[2] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkTngyGXlI2QMY8jol2mkOl6t8VicSIXYCgEzdx52KIagCXEpc8ry5yj0ltvAPqOQ0lbXaOVKKLScccOeZMJgodqHTrXzeKHaDyzDnv5JL9fimfwXGhplWocrqdQjGnHvzwezDNPx7hrPkpQ19Kyp_gwNZ_Rrd7ohZ4DTU4Q==)
+[3] [gxtiku.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM73y3tSzzZb-Qu7-xmdIQcYcn4qjQ1RANoJmty7GEFpZ7Jm7WAincVByJe1cL-yWg3Dp5zwYRlZobtlAJ60YKUh7N5O-yqUREvfI0-hQ746mPOJX8mx6d1tj-2-rKFaI6X9qM43JJaHgNcz3SwsaLriTPZbYiSJyEJEYAN2JyxQVd2TuBgVs=)
+[4] [contorion.de](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5ph9BuvBv-nSh_2OGyCaBpECpBBpVWcQQkxnzYrgAqJ39KEe2BHsC8rPx5RUiJ60DN4iwnfnkugnl9XaLLm89qVYjgG047mq0QGw9vmzJIkmsXDBPRUHxiegVyORxQ5vhQ5lKZviQsYu9j4JO-5AjRP916fx7e_mQOKNkSs_Nqqm8J8Gx9bS_j3tcgGo1NjTjWmizb-Uafixv7U6p3a3o96k530OzDrdEDC1szGeqSMF4Q==)
+[5] [tenderer.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdxTeg4Yf42FHbhzHEVSk_YphcnVKwLc8QlVVk38Grax_dydFPSNE9YsJRk1EsegmyUcUsuur9ZpcCqA0ASTSqAOfgqS53g8wC2ECyd9tTccURh76HtjJ3j1s0n0-fXWXy7U86g9LMyAv0VSGJmHRpShETHtXXhVRJWqTtWoE-J3z9)

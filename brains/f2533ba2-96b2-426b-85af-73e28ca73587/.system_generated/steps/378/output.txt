@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Status: 200 Length: 1402
+ NDSOFT body,button,input,select,table,textarea {font-family:'Do Hyeon',Dotum,Helvetica,'Apple SD Gothic Neo',sans-serif;font-size:16px} error 존재하지 않는 게시판입니다. 확인 
+

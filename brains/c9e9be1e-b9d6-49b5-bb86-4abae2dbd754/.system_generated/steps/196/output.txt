@@ -1,0 +1,14 @@
+The search for ""부산광역시 해운대구 센텀동로 35" 우편번호 OR "부산광역시 해운대구 센텀동로 99" 우편번호 OR "부산광역시 해운대구 센텀동로 71" 우편번호" returned the following summary:
+부산광역시 해운대구 센텀동로의 각 주소별 우편번호는 다음과 같습니다.
+
+*   **부산광역시 해운대구 센텀동로 35**: 48059[1][2]
+*   **부산광역시 해운대구 센텀동로 71**: 48059[1][3][4]
+*   **부산광역시 해운대구 센텀동로 99**: 48059[5][6]
+
+Sources:
+[1] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpuI_g6tHx-1M7aMik-s571H0QtMZsCM5SQkLYnjd7jm8u9NuysunKZVQ_Wkroo7gxrkykuFeyntgrGKjkdVSlKs6UJqUxmI0ND86LegAJeT2UN4_ymscyvHXUSXqxjdhD8abKDiJoxlGfDggbp5uQsWkfJak1GgATFJES)
+[2] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpuI_g6tHx-1M7aMik-s571H0QtMZsCM5SQkLYnjd7jm8u9NuysunKZVQ_Wkroo7gxrkykuFeyntgrGKjkdVSlKs6UJqUxmI0ND86LegAJeT2UN4_ymscyvHXUSXqxjdhD8abKDiJoxlGfDggbp5uQsWkfJak1GgATFJES)
+[3] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG9jydDIHnQXy25mLUBdAwCADQUJ7I55IMFIThujNJcV7LjhKD0yWHrdoGpW8G2r-ALO8BNLR_hATuG1jBpv6f1JKg0ooVuEZYYjU-GDl0hI2RGpeKocYxaWa34ugeEbvB1-zmWHFlZw-PFSS1JcuL9ywtBAmMG_z12h3nm4_k1VAjtrY1E44nl2FvmKMd039c_PaW5-TJ_3h8Kpe2v3mLz0UBjTTrlWuoBXkc1cnehPMQmtTsNyUrxlpyOSiYzK6nY-VXzGFvDsX8ztbepCQ903qZ3rjRQtgsiih8msNeOJ3gbXz1rqlYaFwjNnuK6PCBsA==)
+[4] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHmdqkImPJ0tDW-ne1iZVXX0zE2xAcHQkpO2OybGKLZYlz64-N6cPNziZibQx-ydA5wrO4jX5xcBqgSKRmTV0Y76U6KxvcAUYo85MwJytt_H2C9CuU4VyqsUCfbt4uUdP_V4E9mpLsCPn_kdbJKg42m29-tV9I606ONg8VU2TWvbbUToM99w4Su82R-5MgMj2p1vIGPtlGJApBWlFlLsVomtUmFpJX2XUCou0zDD3srkYKsqqyUEjiVhteqWrOwLf7aRp2RNh449F5p85QXw3RvFABcMRXFxD1TZtFwVK9NYDxIrIigCzvVOX0LDOYM-y7UcpWXTlBHNkJYlPuucYuJ-bQGkY3iOHIds2i9bbOWu6AG08bGlb0zeC7ipVRMLWVNxWIriMpoxW10jbAM-YOnfeERt7WRO5hUAI_821tc-OGukT19WMYjIw=)
+[5] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLYrObx8F1XTs4_nqUQwG8jIYGR8xyRnjP7GcOpnXt4lNuM9tl4WXC254gZgY7QnhuMDxr_Hv6XKVPxzcsxoPHFMdfz6L1WJfaLmpEYCThwSt2Rj354pdI7UTcfsKpwtEHYtKpzjTF0j-hP_sRpPw8qs-40Y7cPgDroGVKVbZwZqAdRzYUYEpH6P0bpt8CGmxIhjfzc5nVm6aeW4lUc1J_hgPofoDEFM3mD0xfEv2XqVvHDgGmr3wGrNz_olqb0pu_KtJ0JBhOYsWrKomAWiChCrqgHz5LYfbyivLUZ7Fj5KwhF44EBdKWoF0nDNtgvEVQ_Jj1W2euIQOVpg==)
+[6] [jusoen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDC51ZWmqXFSIg6vNfOhConDXwZL4R6-u8snvTaPpaU-D_pRKNQx0HDUkBgUhhaCTjV-thonT-W09c2Q6KnbXp76eFlu5oYEVktXzMWwhKL-rTS8WfjwS_JAamGgdN0LmYs0PNQ5Wlv-NXalvyix5ma2PNwdPN-1p2tbuk-gE7cFe5)

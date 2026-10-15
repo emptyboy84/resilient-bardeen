@@ -1,0 +1,13 @@
+The search for ""여영웅" "시니어편의점" OR "180111-1134608"" returned the following summary:
+검색하신 키워드 **"여영웅"**, **"시니어편의점"**과 관련된 주요 정보는 다음과 같습니다.
+
+* **여영웅 회장 / 시니어편의점 연관성**: 
+  * '시니어편의점 준비위원장' 및 '시니어 그룹'의 회장으로 활동하는 인물입니다[1][2]. 
+  * 고령화 시대에 발맞춰 1,800만 시니어 세대를 위한 일자리 창출[2], 시니어 카드, 기능성 다리베개(레그피아) 등 시니어 특화 플랫폼 및 사업을 추진해 온 것으로 언론(본헤럴드 등)에 보도된 바 있습니다[2][3].
+
+*(※ 뒤에 기재하신 숫자 코드 `180111-1134608` 형태의 고유번호나 식별자에 대해서는 공개된 웹 데이터베이스상에 직접적으로 매칭되는 공식 기록이나 상세 정보가 확인되지 않습니다.)*
+
+Sources:
+[1] [bonhd.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIF-dPadd722m7j3o_DUCKdxWTtb9UeUpQ8fsiyGAobtxPMWzrOEY71EUoM6sl-BrxBCBXxpZzEkvEKwfFD5-rcTznbfEr8az6_07bkCmyx6mFnXCvLzVPs2GNxOi2uwGfHtfVgg_6EmaYedM=)
+[2] [bonhd.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4FuqpFtqPCZiMkavTamoWJJYc5MP8_90Wdbh-M4tZx03e4UTcmrEiSCnGPazNYa8ODRtcMyce3meFxW--O-G5YbffY_XF3_vqciH_A-r2Pj3Vd76lGNzM-JTpRD6W_6EBWHz0dpyn1vRjt6c=)
+[3] [bonhd.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHvd3l2E27mhEbkgHXIRlkEDRajqWOpPpDUQO8STJeUp-STXqflTAoqCx2B-9j7QJ1k83UQWBoPI7c0JbFPcH_i0U9qi_f1C6I89Op0Ba8hYlrpRDwcyS4FXl6LpHDIdvtTUPF-7XzVyIaQL8=)

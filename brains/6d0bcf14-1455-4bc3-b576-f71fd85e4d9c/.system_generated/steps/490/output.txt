@@ -1,0 +1,13 @@
+The search for ""452-88-03055" OR ("주식회사 주" "정수연")" returned the following summary:
+입력하신 검색어는 사업자등록번호 또는 특정 기업 및 인물명(`주식회사 주`, `정수연`)과 관련된 정보 조회를 위한 형식으로 보입니다. 
+
+* **사업자등록번호(`452-88-03055`)**: 공공 데이터나 일반 웹 검색 결과에서 일치하는 특정 법인·사업자 정보가 직접적으로 식별되지 않습니다[1]. 
+* **검색어 조합(`주식회사 주`, `정수연`)**: '주식회사 주'라는 명칭을 가진 법인(예: 화장품 제조업 등 동종 상호)[2] 혹은 언론 보도 및 공시 자료 등에 등장하는 인물명과 연관된 검색 패턴입니다[3][4].
+
+특정 기업의 사업자등록번호 진위 여부 확인이나 상세한 법인 정보를 찾으시는 경우, 국세청 홈택스(사업자등록 상태조회) 또는 대법원 인터넷 법인등기소를 통해 상호명 및 등록번호를 직접 조회하시면 보다 정확한 공식 정보를 확인하실 수 있습니다.
+
+Sources:
+[1] [europa.eu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJYk6_pv1fWwiAY5ww6JJKsM5HyqHBOxvR9UMLS0X8DRyDkTsl-mFqYroQ7arfIdrnqFgYmRZx7TulLEgYsyk6TX0MoBrVEzDYzG4G3Mt9Q77CqgxkVjb0GStvMI6q0TQBZ-3zJiBVhBjmw03vpI6OBinGBKWVwdbcMuFE9EK67lpiwQMJ7pgSE9vkVOFMSjyPxUSHemYprYaqZgJ0W1BsXtjdzaNco6i11gdShZV8YcmoaBQvKwIIL0MI_05iFL4eYYd8fh_HtyJfp4jy1gOhImgfA==)
+[2] [incheon.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp2-ux08X-y6f6-1x86HKm2kNinoZ8GaDoHUaMPLevhikB6IYy5zws4hc57y5EVk08JSfs9_ABxx8H_5Uv2qUY1YwRRferF9GSZ9U64vOFYLr7rswXM-9mstWSdF70_M_guJVEM48S-yZ5gPgtOD3gtEh-pQoPznKG)
+[3] [fntoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3PcpEySZ_OlkCXGk2h4DDfY7smnNzQpGQ9t-6MELqSsoX6OK8ED7wnrYQOATrOuQbcAFoC_JRom4QN8qofdKPTGiPrnQlhUzUrEBptd-Vczww_aL8DBtE1L5_QBlF84eJHIjoxSH97isPJGWHzJ5b)
+[4] [m-i.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA-enQCx6xOrecro0o4YMp1aYjwj_5hPgQ-P6_AwUqbfRm6NEZux0ZgP45XZwE6ZObLH1ZIgmqmMslE2y6ti5Bp2BtnuDNhRUM4dqslSLYS5AT-owYTL9H_SeHXhtAWYmV_izDuu9tWduY)

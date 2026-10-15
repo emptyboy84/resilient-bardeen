@@ -1,0 +1,20 @@
+The search for ""헬레나" "최민희" 부산 OR "세실로 7"" returned the following summary:
+입력하신 검색어 조합("헬레나", "최민희", "부산", "세실로 7")과 관련된 주요 정보는 다음과 같습니다.
+
+1. **태권도 경기 관련 (헬레나 프롬 & 최민희)**
+   * 과거 2004년 세계청소년태권도선수권대회 여자 63kg급 결승전에서 **최민희** 선수가 독일의 **헬레나** 프롬(Helena Fromm) 선수와 맞붙어 역전승을 거두고 금메달을 차지한 기록이 있습니다[1][2]. 
+
+2. **지번/도로명 주소 (세실로 7)**
+   * **부산광역시 해운대구 세실로 7**은 부산 해운대구 좌동에 위치한 **‘해운대상록아파트’**의 도로명 주소입니다[3][4]. (지번 주소: 해운대구 좌동 1331)[4]
+
+3. **가톨릭(세례명) 관련**
+   * 천주교(가톨릭) 신자 명단이나 세례명 자료 중에서 '헬레나', '바울라(최민희 의원 등)' 등의 세례명과 부산 교구 및 관련 성함이 언급되는 경우가 있습니다[5].
+
+혹시 특정 문서, 판결문, 인물 프로필, 혹은 찾고자 하시는 구체적인 사건이나 정보가 있다면 조금 더 자세한 내용을 알려주세요.
+
+Sources:
+[1] [donga.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdUc_mgOgJSfnca_q-7ImWk0aQehL2qtzCL_vPPtIAdM1-5L7q13RjKgm539NjcxrUVtH5RCKBJATvqFwflZfN5FFMjWRmZ-SnW7Ruu041cqNBJfWjGeTnJgD8gPjjHsJ4bA6rxELklqTh02cVN4W7jVQbwDoM)
+[2] [cctoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqTsavGCRNVLqtu676Lt262fM5v-z6lZDvAGf4DTVAP-KMvqGin88f16VbEJJ4wSx19bKh8O7lyUxZA-G_p4sRCYBsgcs6n5n1Vo5LmUH5WXJ5BkxyQlBi9PhvdllDXPqbCeSu0D5aZXcfxeBqASJfaw==)
+[3] [dorojuso.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPLdQrwHjkwgKjnAziFsS1iBOUC7j2CwafU3Pvme1Ds8K7ySxRluPBZDMUoklD40cGbYyxZnk8ifUdm-cz3mBBjlZ6ysGtNJPjYfJ_WM1Ymj8J7vljj2E83yX_ZY3Z6s7YJzvfMmr9W9gj4qNQ3vg9-gnF6olxiCcxk3bn4b7Yvx8kfa8huYttu8oYXw9BFJJslt6wlYMAM6HTMWPoTFhhPUPW31fM8J8saLnfjf7SdhtPWnOECVPFO6kv_CNJNKzwrjpbBtMMsTfoYSVG_UHaUFjcYG1dYW0celS0T9XJUOfqFcJcdLr7qt6lds5AQVspDtG54yTiKhvM8ioGW0QxPxoWX67ZkS5rbLphKd6ZuLijumSMsQ==)
+[4] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57Q-J0_Ezh6kOUlZSbZPibLNKjEpFifEqIx_OcNGwFXHqjnNfws6sLX358ZMwZs3bQh2Dcu4Umv2-zfomNpB0ZrL3Qrlq0wbvbsSPx1B3zDOT0_O-tnSvDV4xQwk42jSFomM-kI_0jgcKi2R5JBOLMTGcCvWHOG0M9W0ZEphzHtVAEa1GI0_8K-JtA63uJS2gW1tq5opmoSEiICKClKtEPRtlwKBdSVHsrN68zuEdF5xuJPIpHhRuqHzyuwGJEz1nZuVC4ZxZabdqKkBjTaDjUelN-XuplQermPlYhKSHTAL-Gn3EvXGxaB7tPQBo6HQ2Gscg82u7xaPTUyPy29Q8PQ==)
+[5] [catholic.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLyp7JtXJMkpgczAJDeTHL0O66q1ejqlr1WV20paqxjRhOVuHtF2myS0KBqLAuklMu3jW5cUGNS6ohgHObOSa1OO_e7s-tSD6ip-Poey7hGcMjB53OLTBc47Q3gx3qDmQCKmqm7Wy6r_EicrZ1)

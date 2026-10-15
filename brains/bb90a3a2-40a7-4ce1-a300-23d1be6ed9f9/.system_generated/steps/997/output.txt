@@ -1,0 +1,33 @@
+
+The command exited with code 0.
+Output:
+--- Fetching SSG Seller Home ---
+SSG len: 242080
+Phones in SSG: null
+Bizno not found directly, showing snippet:       주식회사지알비, 믿고 사는 즐거움, SSG.COM                                                                                                          @layer reset,base,tokens,recipes;  @layer reset{html{line-height:1.5;--font-fallback:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-sm
+
+--- Fetching Lotte iMall ---
+Lotte len: 183090
+Phones in Lotte: [
+  '070-7477-2044',
+  '070-7430-2015',
+  '070-7477-2044',
+  '02-1588-5710',
+  '02-3460-3000',
+  '1899-4000',
+  '1899-4000',
+  '02-2168-5019'
+]
+Lotte context around GRB: 
+		"@id": "https://m.lotteimall.com/goods/viewGoodsDetail.lotte?goods_no=2981999835",
+		"name": "[지알비]지알비 라이트 심리스 무봉제 슬림 노와이어 편한 자세브라 처진가슴 웨딩 스포츠 브래지어 3P",
+		"category" : "언더웨어세트",
+		"image": "https://image2.lotteimall.com/goods/35/98/99/2981999835_1.jpg",
+		"brand": {
+			"@type": "Brand",
+			"name":  "기타 (패플)"
+		},
+		"offers": {
+			"@type": "Offer",
+			"url": "https://m.lotteimall.com/
+

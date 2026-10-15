@@ -1,0 +1,6 @@
+### Result
+"메뉴\nbrunch\n검색\n소희박\n소희박\n소속\n북인더백 \n직업\n강사\n팔로워\n25\n팔로잉\n5\n제안하기\n팔로우\n작가프로필 하위메뉴\n작가소개\n글 20\n작품 1\n독서노트 0\n작가소개\n소개\n\n소심한데 화려한것을 좋아하고 매일 물건을 사들이지만 미니멀 라이프를 꿈꾸는 모순적인 사람입니다.\n\n반려동물\n라이프스타일\n에세이\n강사\n소설가\n포토그래퍼\n북인더백\n작가에게 제안하기\n\nYou can make anything\nby writing\n\nC.S.Lewis\n\n브런치 시작하기\n브런치 홈\n브런치 나우\n브런치 독서클럽\n브런치 책방\n계정을 잊어버리셨나요?"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText');
+```

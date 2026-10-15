@@ -1,0 +1,15 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-275
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-275.log
+Log output:
+Total still missing: 2658
+[42] (주)에스오더 | BiznoMasked: 010-7103-1*** | Saramin: -
+[46] (주)위너스매니지먼트 | BiznoMasked: 010-5757-9*** | Saramin: 010-5757-9542
+[60] 아타드(주) | BiznoMasked: 010-4000-1*** | Saramin: -
+[78] (주)에이엠매니지먼트 | BiznoMasked: 010-3789-0*** | Saramin: -
+[96] (주)아라더엠 | BiznoMasked: - | Saramin: 051-987-8000
+[128] (주)글로픽스 | BiznoMasked: 010-9484-5*** | Saramin: -
+[152] 세연소프트(주) | BiznoMasked: 010-7132-1*** | Saramin: -
+[153] (주)레오인베스트먼트 | BiznoMasked: - | Saramin: 051-924-7887
+
+Last progress: 0s ago

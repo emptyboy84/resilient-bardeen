@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Total blue rows: 418
+Blue rows with any revenue text/num: 6
+{"rowNumber":692,"sn":691,"name":"메리데브","biz":null,"rep":null,"phone":null,"category":"게임","r24":0,"r25":null}
+{"rowNumber":1686,"sn":1685,"name":"비비스로지틱스","biz":"835-02-03047","rep":"유성빈","phone":"010-4477-9377","category":"방송","r24":98973000,"r25":null}
+{"rowNumber":1757,"sn":1756,"name":"(주)창비부산","biz":"757-85-01489","rep":"신문수","phone":"051-714-6866","category":"출판","r24":42675000000,"r25":null}
+{"rowNumber":1763,"sn":1762,"name":"새부산기독교서적센타","biz":"607-99-75121","rep":"김대희","phone":"051-504-4880","category":"출판","r24":1318523000,"r25":1408424000}
+{"rowNumber":1806,"sn":1805,"name":"미디어CAPSULE","biz":"607-10-88688","rep":"정태선","phone":"051-558-0104","category":"캐릭터","r24":null,"r25":2200080000}
+{"rowNumber":2083,"sn":2082,"name":"하드롤게임즈","biz":null,"rep":"강대휘","phone":"010-2661-5742","category":"게임","r24":0,"r25":null}
+

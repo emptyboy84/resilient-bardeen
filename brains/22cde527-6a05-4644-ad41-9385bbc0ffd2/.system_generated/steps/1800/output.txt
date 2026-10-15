@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Already has revenue in json: 0
+{
+  rowNumber: 2307,
+  name: '피커스튜디오',
+  bizno: '606-16-43962',
+  cleanBizno: '6061643962',
+  year: '2014',
+  month: '3',
+  ceo: '이현철',
+  tel: '070-7370-5758',
+  fax: '051-749-9174',
+  emp: '1',
+  status: '계속사업자',
+  closeDate: '',
+  source: 'https://bizno.net/article/6061643962',
+  proof: 'CEO 일치 (이현철) + 부산 연제구/센텀 사업장 + NICE평가정보 연동'
+}
+

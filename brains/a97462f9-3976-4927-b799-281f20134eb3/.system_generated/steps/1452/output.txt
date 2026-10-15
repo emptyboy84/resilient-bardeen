@@ -1,0 +1,17 @@
+The search for ""동화사" "051" "초량"" returned the following summary:
+검색 결과, '동화사'라는 이름의 사찰은 전국에 여러 곳이 있으나(대구 팔공산 동화사 등), 부산 초량 지역과 '051' 번호가 직접적으로 결합된 '동화사'라는 사찰 정보는 확인되지 않습니다[1][2].
+
+다만, 문의하신 키워드와 관련하여 혼동하기 쉬운 정보는 다음과 같습니다.
+
+*   **카페051 초량육거리점:** 부산 동구 초량동에 위치한 카페 브랜드로, '051'이라는 명칭이 포함되어 있습니다[3].
+*   **초량 인근 사찰:** 부산 동구 초량동 및 인근에는 소림사, 금수사 등 여러 사찰이 있으나 '동화사'라는 이름의 사찰은 이 지역의 주요 목록에서 나타나지 않습니다[4][5][6].
+
+혹시 찾으시는 곳이 특정 사찰이나 다른 기관이라면, 정확한 명칭이나 관련 정보를 추가해 주시면 다시 확인해 드리겠습니다.
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuBLvPKvOORVMeGXV60yccYM9bjJ7ZjuDafa-udAnIx90s6LNguSyMV98fl7eYA4PAnmU8WC6sG-IVK25vkHkoTaLgh_sfEYxem-5nrZsiPxYFwFDr)
+[2] [daonts.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCnAfrAvyrvYSH4M9NRq5CdwPkUR03DAnqKBj9g2UQ6YDGO1WEIwZ4jgZTAAFzAw4v2LITUv-hlUZwruKNCx_20j7X-U1WyiLOOcX8EfGjbxzLM3o7P4ZZo8hrZgU4Kpcw70iO)
+[3] [siksinhot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzQVFqLTCryJcV-CXSht8OeP6zgHMNEU8WlvKBaeS5U1ON0VGUKk-e_ykIdk8kRwjLnLCqnMFK6FW8aB2iit5D517PVGGdD8s-DX-kjf9g6qSfj6FB0KaMHg==)
+[4] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQrJZb5IKdqyVDzHFWSHp8yKDKtdpWt80LfvluJ4cgcfa_K-Kea7pls0xwrbJ0zinMZRWj3x2iCAvPuPzEarezHLzcxMSfMEvEnz5ka-IWWZJAqbcB_cAsa9k7DF9qRU0=)
+[5] [ibulgyo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESokeZU9-0A2HGyDaYzyRYyD4juqXJ2v7PUE-Sj2nvSF6mZ07pCdTKZnJhca4HcWyYrpexKVYRyTaG9PkKRgsGhH0Hw0yqA3vtclMVsfdoyE-P2S06qA8Cu_y0FTIUB9B4tMl2yy6_nQukbBnt)
+[6] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6xNDXzIHEk8pbjBVqn-n2Z3rRlvjgVHQm9V6MMDD3PkHwVXCagNlyXom0l1k8SOwPsD9USk7H_oHVZ8pwL9Q_nx6KRr6hE2WR2RUXxf6XpaEHbtsaUtQ8RCzrEMsYMcR2dszAgLpTGG0wwV0zxMTZ60nWUuIsJV3ysbTLuaopMc7uuCvJ1pNQm4OSG7_4Cq1fmnqshvHs0HZ2MeWyqi3lOvYvGbpkO76CYOX4_PAc1EAz3l5RnPMXGfAKnux09cFxCzp2UA==)

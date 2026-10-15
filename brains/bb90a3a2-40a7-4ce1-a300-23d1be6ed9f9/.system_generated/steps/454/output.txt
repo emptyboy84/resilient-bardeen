@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+
+Name                                           Type   TTL   Section    IPAddress                                
+----                                           ----   ---   -------    ---------                                
+marineschedule.com                             AAAA   10800 Answer     2600:1f18:4ae:c606:78d4:4260:db4e:aeee   
+marineschedule.com                             AAAA   10800 Answer     2600:1f18:4ae:c605:dd5d:b838:5816:d7fb   
+marineschedule.com                             A      10800 Answer     54.243.117.197                           
+marineschedule.com                             A      10800 Answer     13.223.25.84                             
+
+
+

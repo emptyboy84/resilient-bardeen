@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Date breakdown: {
+  'YYYY-': 52,
+  'YYYY-M or YYYY-MM': 337,
+  OTHER: 21,
+  YYYYMMDD: 608,
+  'YYYY.MM.DD': 212,
+  YYYY: 10
+}
+

@@ -1,0 +1,16 @@
+The search for ""브이알코리아" "영화상영관" OR "부산문화콘텐츠콤플렉스"" returned the following summary:
+부산 해운대구 수영강변대로 140에 위치한 **부산문화콘텐츠콤플렉스(BCC)**와 관련하여 언급하신 '브이알코리아' 및 '영화상영관' 정보는 다음과 같습니다.
+
+*   **브이알코리아(주):** 과거 부산문화콘텐츠콤플렉스(302호 등)에 입주했던 기업으로 확인됩니다[1][2]. 이 기업은 가상현실(VR) 관련 콘텐츠 개발 및 교육 시설 운영 등을 목적으로 설립된 기업으로 알려져 있습니다[3].
+*   **영화상영관:** 부산문화콘텐츠콤플렉스 자체는 영화 상영만을 전담하는 상업 영화관이 아니라, 부산의 콘텐츠 산업 육성을 위한 창작 지원 및 기업 입주 시설로 운영됩니다[4][5]. 다만, 특정 기업이나 관련 기관이 영화 상영업 또는 관련 업종으로 등록되어 있을 경우 해당 주소지로 기재되는 경우가 있어 혼선이 발생할 수 있습니다[6][7].
+
+정리하자면, **브이알코리아**는 부산문화콘텐츠콤플렉스에 입주했던 기업 중 하나이며, 해당 시설은 영화관보다는 콘텐츠 기업 지원 및 창작 공간으로서의 성격이 강합니다[1][4].
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRz0rv3sFxaZ0tkv1QDdFx-JVyJw35Y5Z9N7ISJvV8BO72bsPNAGnEjifqXrmK0VN_vIrVnmAIoTmSGzBxoX9aambZCZW4IftVFiuIkHlSN-xJyaoM1fhTHBGTU6cpoFBEMsYFWQQIbcikcKoe2fZ0vONuNVppkNahwGXcqkjdJQjRZQKrE78t-H0gbwd0r-znvyh19AXben6OdMt5Vd8Xw==)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRz0rv3sFxaZ0tkv1QDdFx-JVyJw35Y5Z9N7ISJvV8BO72bsPNAGnEjifqXrmK0VN_vIrVnmAIoTmSGzBxoX9aambZCZW4IftVFiuIkHlSN-xJyaoM1fhTHBGTU6cpoFBEMsYFWQQIbcikcKoe2fZ0vONuNVppkNahwGXcqkjdJQjRZQKrE78t-H0gbwd0r-znvyh19AXben6OdMt5Vd8Xw==)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9jlBeuygS6_Jp8cWd2wE5gvsdib37mlN-JqOTuC2PPCiQJZFpIaknm104M4bzQWPExcyZsHcgl7h413I6AKRZL8XagPbVV0OLXlhcIjPOA59JEvnEXBE6BWKFPuFBITRGOkPH)
+[4] [busancep.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0n3DoLj7a9MagZm9O18_vcV0brb3idZnEU85yb6cuAsK3BaebGtqvdjcpNa5iUz733KTecr1sxyQ1U81b2EHjLIhUtfK1o5fYPLTLDKIvMqRsUtKjhGjwASF9xc8H)
+[5] [busanit.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQmRX1Z_8-MRq5qDs1Zq0XPhNmV7mDuDROGjLXcUqzBTldcej-Chu6M5d6UhqKCkgR0JfX3C_DFTtft_rCjp5kovXr3ZtpmQ1tU8yqd0kErTnaHFTVE_ERqQMWO_un-WVMAutpJbuVWbB0LhHtARzRmWX9mLfAoUhBIZ-PoM-EThTu)
+[6] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq3tEQH3MvB4VBeFc3xFOqZI43V3SM7rjNDgUeAhX59i1w1jl2twB4uP9QoRSg35JgWjXtVfNUXaL3JpL6br-uKyNJE8YH3biTtLdfrg2n-41hrgtoF3KwqAOJytEAXr38zFOkFg==)
+[7] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKOt5wGRSku_OEYtJuSL2vfULeGyzIHOGeRV1QHBKqfGzEU_Y20eztZCAWHaSWTLHQ3qFX8huk8di8bRlYzoDswPW7C7jZUfWn-o_FHsByRFO1oTDWsKHetwsXMMYHP31UwyJZopoCbNTMu_6Untz2MzuaJNpUMB6sWJfL14CSXACMOa3LBQOiaY-7yGktuf2g1m1160Oc-XXjHTrzbtFW)

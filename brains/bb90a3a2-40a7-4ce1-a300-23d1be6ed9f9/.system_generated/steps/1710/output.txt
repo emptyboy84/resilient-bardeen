@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Phones in Saramin: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+:"2022-07-19","founder":{"@type":"Person","name":"김효성"},"address":{"@type":"PostalAddress","name":"부산 금정구 중앙대로 2044, 4층 남산주유소"},"makesOffer":{"@type":"Offer","name":"비디오 및 기타 영상기기 제조업"}} {"@context":["https:\/\/schema.org",{"csvw":"http:\/\/www.w3.or
+

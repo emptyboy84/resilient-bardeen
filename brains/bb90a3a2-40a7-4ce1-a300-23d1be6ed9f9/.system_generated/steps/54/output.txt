@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Total lines: 804
+Line 0: <USER_REQUEST>
+Line 1: 전화번호찬아 /plan 
+Last line: NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+

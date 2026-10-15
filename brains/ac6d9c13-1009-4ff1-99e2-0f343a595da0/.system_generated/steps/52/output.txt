@@ -1,0 +1,181 @@
+
+The command exited with code 0.
+Output:
+<truncated 1 lines>
+Content snippet: Created At: 2026-09-02T12:04:14+09:00
+Completed At: 2026-09-02T12:04:14+09:00
+File Path: `file:///C:/Users/lg/.gemini/antigravity/brain/ee5104b6-03e7-4ad7-9556-78ec00557d2c/.system_generated/steps/508
+Type: PLANNER_RESPONSE Step: 513
+Tool calls: [{"name":"call_mcp_tool","args":{"Arguments":"{\"url\":\"https://bizno.net/?query=2849510006978\"}","ServerName":"\"playwright\"","ToolName":"\"browser_navigate\"","toolAction":"\"Searching corporate 
+Type: GENERIC Step: 514
+Content snippet: Created At: 2026-09-02T12:04:20+09:00
+Completed At: 2026-09-02T12:04:23+09:00
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?query=2849510006978');
+```
+### Page
+- Page URL: https://
+Type: PLANNER_RESPONSE Step: 529
+Tool calls: [{"name":"call_mcp_tool","args":{"Arguments":"{\"url\":\"https://bizno.net/article/5318601943\"}","ServerName":"\"playwright\"","ToolName":"\"browser_navigate\"","toolAction":"\"Navigating back to tar
+Type: GENERIC Step: 530
+Content snippet: Created At: 2026-09-02T12:04:47+09:00
+Completed At: 2026-09-02T12:04:51+09:00
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5318601943');
+```
+### Page
+- Page URL: https://bi
+Type: PLANNER_RESPONSE Step: 531
+Content snippet: 실제 브라우저를 띄워 **비즈노(Bizno) 및 포털 사이트에서 직접 접속 및 조회를 실행**한 결과입니다.
+
+---
+
+### 🌐 브라우저 라이브 조회 결과
+
+* **접속 URL**: [`https://bizno.net/article/5318601943`](https://bizno.net/article/5318601943)
+* **페이지 타이틀**: `사
+Type: PLANNER_RESPONSE Step: 533
+Tool calls: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv', 'user_pas
+Type: GENERIC Step: 534
+Content snippet: Created At: 2026-09-02T12:11:50+09:00
+Completed At: 2026-09-02T12:11:51+09:00
+
+The command exited with code 0.
+Output:
+all_500_factchecked.tsv Line 206 배현명		(주)케이씨아이티	5318802117	정성민	39660	경상북도 김천시 혁신1
+Type: PLANNER_RESPONSE Step: 535
+Tool calls: [{"name":"call_mcp_tool","args":{"Arguments":"{\"url\":\"https://bizno.net/article/5318802117\"}","ServerName":"\"playwright\"","ToolName":"\"browser_navigate\"","toolAction":"\"Navigating to company 
+Type: GENERIC Step: 536
+Content snippet: Created At: 2026-09-02T12:11:55+09:00
+Completed At: 2026-09-02T12:12:00+09:00
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5318802117');
+```
+### Page
+- Page URL: https://bi
+Type: GENERIC Step: 538
+Content snippet: Created At: 2026-09-02T12:12:02+09:00
+Completed At: 2026-09-02T12:12:03+09:00
+### Result
+- [Screenshot of viewport](.playwright-mcp\page-2026-09-02T03-12-03-214Z.png)
+### Ran Playwright code
+```js
+// 
+Type: PLANNER_RESPONSE Step: 539
+Content snippet: 캡처해 주신 **`171311-0050183`** 법인등록번호의 **원천 사이트 전체 URL 주소** 및 상세 정보입니다.
+
+---
+
+### 🌐 직접 접속 가능한 전체 URL 주소
+
+👉 **비즈노(Bizno) 원천 URL**:  
+**`https://bizno.net/article/5318802117`**  
+*(링크 클릭 시 해당 기업 상세 페이지로 
+Type: PLANNER_RESPONSE Step: 543
+Tool calls: [{"name":"run_command","args":{"CommandLine":"\"node -e \\\"\\nconst fs = require('fs');\\nconst files = ['all_500_factchecked.tsv', 'all_500_verified.tsv', 'bizno_filtered_result_nice.tsv', 'user_pas
+Type: GENERIC Step: 544
+Content snippet: Created At: 2026-09-02T12:38:09+09:00
+Tool is running as a background task with task id: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-544
+Task Description: node -e "
+const fs = require('fs');
+const files
+Type: GENERIC Step: 546
+Content snippet: Created At: 2026-09-02T12:38:14+09:00
+Completed At: 2026-09-02T12:38:14+09:00
+Task: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-544
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\ee5104b6-03e7-
+Type: SYSTEM_MESSAGE Step: 547
+Content snippet: The following is a <SYSTEM_MESSAGE> not actually sent by the user. It is provided by the system as important information to pay attention to.
+
+<SYSTEM_MESSAGE>
+[Message] timestamp=2026-09-02T03:38:11Z
+Type: PLANNER_RESPONSE Step: 548
+Tool calls: [{"name":"call_mcp_tool","args":{"Arguments":"{\"url\":\"https://bizno.net/article/5332501273\"}","ServerName":"\"playwright\"","ToolName":"\"browser_navigate\"","toolAction":"\"Navigating to Bizno pa
+Type: GENERIC Step: 549
+Content snippet: Created At: 2026-09-02T12:38:17+09:00
+Completed At: 2026-09-02T12:38:23+09:00
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5332501273');
+```
+### Page
+- Page URL: https://bi
+Type: GENERIC Step: 553
+Content snippet: Created At: 2026-09-02T12:38:28+09:00
+Completed At: 2026-09-02T12:38:28+09:00
+File Path: `file:///C:/Users/lg/.gemini/antigravity/brain/ee5104b6-03e7-4ad7-9556-78ec00557d2c/.system_generated/steps/551
+Type: PLANNER_RESPONSE Step: 554
+Tool calls: [{"name":"search_web","args":{"query":"\"\\\"5332501273\\\" OR \\\"533-25-01273\\\" OR \\\"지야촬영업\\\"\"","toolAction":"\"Searching for Jiya Filming\"","toolSummary":"\"Search 533-25-01273 and Jiya Film
+Type: GENERIC Step: 555
+Content snippet: Created At: 2026-09-02T12:38:31+09:00
+Completed At: 2026-09-02T12:38:35+09:00
+The search for ""5332501273" OR "533-25-01273" OR "지야촬영업"" returned the following summary:
+문의하신 사업자등록번호 '533-25-01273' 및 '
+Type: PLANNER_RESPONSE Step: 556
+Tool calls: [{"name":"search_web","args":{"query":"\"\\\"센텀중앙로 90\\\" \\\"신동수\\\" OR \\\"B301호\\\" OR \\\"지야\\\"\"","toolAction":"\"Searching address and representative\"","toolSummary":"\"Search Centum Jungang-r
+Type: PLANNER_RESPONSE Step: 558
+Content snippet: 요청하신 **`지야촬영업` (사업자등록번호: `533-25-01273`)** 기업에 대해 국세청, 도로명주소 전자지도, 비즈노 및 NICE 데이터베이스를 교차 조회하여 **16개 전 항목을 Fact Check 완료한 전체 결과**입니다.
+
+---
+
+### 📋 16개 컬럼 전수 Fact Check 결과표
+
+| 순번 | 컬럼명 | Fact Check 결과값 
+Type: GENERIC Step: 561
+Content snippet: Created At: 2026-09-02T12:43:52+09:00
+Completed At: 2026-09-02T12:43:53+09:00
+
+The command exited with code 0.
+Output:
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to upd
+Type: GENERIC Step: 575
+Content snippet: Created At: 2026-09-02T12:44:24+09:00
+Completed At: 2026-09-02T12:44:25+09:00
+
+The command exited with code 0.
+Output:
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to upd
+Type: PLANNER_RESPONSE Step: 576
+Tool calls: [{"name":"run_command","args":{"CommandLine":"\"git add .gitignore package.json package-lock.json all_500_factchecked.tsv all_500_verified.tsv bizno_filtered_result.tsv bizno_filtered_result_nice.tsv 
+Type: GENERIC Step: 577
+Content snippet: Created At: 2026-09-02T12:44:29+09:00
+Completed At: 2026-09-02T12:44:32+09:00
+
+The command exited with code 0.
+Output:
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF 
+Type: PLANNER_RESPONSE Step: 578
+Tool calls: [{"name":"run_command","args":{"CommandLine":"\"git commit -m \\\"feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets\\\"\"","Cwd":"\"c:\\\\Users\\\\lg\\\\res
+Type: GENERIC Step: 579
+Content snippet: Created At: 2026-09-02T12:44:34+09:00
+Completed At: 2026-09-02T12:44:37+09:00
+
+The command exited with code 0.
+Output:
+[master 69e229b] feat: complete 500-row business db factcheck, nice/bizno enrichm
+Type: GENERIC Step: 581
+Content snippet: Created At: 2026-09-02T12:44:39+09:00
+Completed At: 2026-09-02T12:44:41+09:00
+
+The command exited with code 0.
+Output:
+commit 69e229b3acde567d819ce9f2ea2251281672b902
+Author: emptyboy84 <emptyboy85@gm
+Type: PLANNER_RESPONSE Step: 586
+Content snippet: 이번 주에 작업한 **모든 실사 데이터, 팩트체크 검증 파일, 최종 엑셀 파일**을 깃(Git)에 깔끔하게 커밋 완료했습니다.
+
+---
+
+### 📦 Git 커밋 완료 내역
+
+* **커밋 ID**: `69e229b`
+* **커밋 메시지**: `feat: complete 500-row business db factcheck, nice/bizno enrichm
+

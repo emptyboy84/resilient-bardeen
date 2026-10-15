@@ -1,0 +1,13 @@
+The search for ""바른중량" "곽진동" "법인등록번호" OR "사업자등록번호"" returned the following summary:
+검색 결과, **(주)바른중량**의 기업 정보는 다음과 같습니다[1][2].
+
+*   **대표자:** 곽진동[1][2]
+*   **설립일자:** 2017년 6월 23일[2]
+*   **주소:** 충청남도 천안시 서북구 직산읍 미륵산길[2]
+*   **업종:** 건물용 기계·장비 설치 공사업[2]
+
+요청하신 **법인등록번호** 및 **사업자등록번호**의 경우, 개인정보 보호 및 보안 정책에 따라 공개된 검색 결과에서 직접적으로 제공되지 않으며, 기업 신용평가 보고서 사이트(산군 등)를 통해 유료로 확인하시거나 공공데이터포털, 국세청 홈택스 등 공식 경로를 통해 조회하셔야 합니다[1][2].
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCgkrRB0y7TkJnQRaSwC6TPNRNIjbyvc9JxbR-9R_6qt2URq9L5Fd8bhYPFQrWNmbtkJDp5Z8JKBveUJ-If2q5o6YZKre1CYHIxStO2dj5Ha10bBt69v_OtHjcwpnvmtsgAFgGVPFy_Z5A5eJtbu3n)
+[2] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFenmYnN12aN-DjkoIi4KR5cJ93dHCV2z6N0EOP6OTWpMPAh0Sgw_NGYl3I_HZzZ7XYUZfcIiPSx_IkhSvEIH7_9Z_WH7V3c4-vJZblYtosNgFiSSmf-iuIGfG78PI6jGcg_CFENK5uN33xnIoJUagBHE2)

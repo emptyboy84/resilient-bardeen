@@ -1,0 +1,12 @@
+The search for ""에코캡" "사업보고서" "지점" OR "센텀" DART" returned the following summary:
+금융감독원 전자공시시스템(DART)에 공시된 에코캡의 정기보고서(사업보고서 및 반기·분기보고서)에 따르면, 에코캡의 본점 소재지는 **울산광역시 울주군 언양읍 반천반송산업로 137-66**입니다[1]. 
+
+질문하신 **'센텀'**과 관련하여, 과거 채용 공고 등에서 부산 해운대구 센텀 지역(예: 센텀동로 또는 센텀중앙로 일대)에 사무실이나 지사·연락사무소 형태로 거점을 운영하였거나 협력·구인 이력이 확인되나[2][3], DART에 공시되는 공식 정기보고서 상의 주요 지점 또는 종속회사 현황에는 해외 법인(중국 문등·위해·상해, 미국, 멕시코 등) 위주로 기재되어 있습니다[4].
+
+정확한 지점 통폐합이나 세부 주소 변동 내역은 DART에 공시된 가장 최신 **사업보고서의 '임원 및 직원의 현황' 또는 '이사 회의록 및 지점 현황' 파트**를 직접 다운로드하여 열람하시면 상세히 확인하실 수 있습니다.
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbLcwQJ_DElCdcl-6IpN6XZe1v3YW9CGVLnVI-OBY697uMu75Sr8K1HfAoTcRqUq5RqWD-eoBSYRJBS2ypCcuA2xu2-vbywDpZt6YGMKdJP-uD9IS6xmz2IUuIl4M_cNm7olm2eA7pMGitNu5SKjoB35joRl4axw==)
+[2] [ubpi.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEZLuRdsBgI3oZ3uxS9QjntMAso0ObxggX-stVZEQlaOHNDYR7s81WBfA1kApMWKoNIrzcajubDTlnuHMjLWd7XDj4wx_WEMyU_agTPfD1fSmS-mGPJ3zy3RrvgCS6xmvbeji5mZdu0IRZgzblkuhe5w3FdkC7zLU=)
+[3] [mma.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpljl--7btg2o5S6QbuJBM2ogdqTgt7vvcNzBFZSEW7R1QDCUX132eHlqfPxI_WlRP7UmJBHj79DBYuM3i1tJ00JZObr6OYQwmhTF0hfZM7nOE8kHlblXk6-wikLjuiLToklC_nM0t4SfZEvcb6i68TL4xrLyMlE5C3RGD9WNMZ2PxmP-hCOcgpUeFeB5zRh0Xnd72q1_BaDJ9K0NgUgl24IYbAte0N9AoRA4-bj6BVsFqdOJB2YXWK24SPOA7UnsA3IxEZAxUJ6Ic7H53RVZ8Mi60TFpqINnlfNYeUuM05vuu-WaEAosXttIdtA==)
+[4] [dartpoint.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgMLo4xDhjqU-12MgRENWlnF0-EL6SlSDFvR_6wEClmOLKDMnX1qQThK_VZ-FR5Z8x87GJ_uF0Su5n4LPL7sPqffXHif_-ZhIGD-ifSgLOF1ou)

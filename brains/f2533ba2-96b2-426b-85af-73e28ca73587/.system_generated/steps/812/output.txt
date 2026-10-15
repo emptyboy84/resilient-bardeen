@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.google.com/goto?url=CAESWwHrOzAVVLxiKjVpLbDtrc0DNz2LgMehL2nz-jWWuZvMzT-yp9W_7c0dKuiA3kJYZxpH5aoDxmMnBwu8wUcr4LYONm0mp8meSUWnB7yLgo-mihpMwJ9eH17qfjw');
+```
+### Page
+- Page URL: https://www.qoo10.jp/g/989769403
+- Page Title: [Qoo10] WOOLILIWOO [韓国通信販売サンクッション部門1位]
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T00-19-54-366Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T00-19-51-343Z.log#L1-L3

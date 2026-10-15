@@ -1,0 +1,57 @@
+
+The command exited with code 0.
+Output:
+=== Starting Concurrent PASS 2 Deep Grounding ===
+Analyzing 277 unverified records with Concurrency 6...
+Progress: 6 / 277 (Recovered: 0)
+Progress: 12 / 277 (Recovered: 0)
+Progress: 18 / 277 (Recovered: 0)
+Progress: 24 / 277 (Recovered: 0)
+Progress: 30 / 277 (Recovered: 0)
+Progress: 36 / 277 (Recovered: 0)
+Progress: 42 / 277 (Recovered: 0)
+Progress: 48 / 277 (Recovered: 0)
+Progress: 54 / 277 (Recovered: 0)
+Progress: 60 / 277 (Recovered: 0)
+Progress: 66 / 277 (Recovered: 0)
+Progress: 72 / 277 (Recovered: 0)
+Progress: 78 / 277 (Recovered: 0)
+Progress: 84 / 277 (Recovered: 0)
+Progress: 90 / 277 (Recovered: 0)
+Progress: 96 / 277 (Recovered: 0)
+Progress: 102 / 277 (Recovered: 0)
+Progress: 108 / 277 (Recovered: 0)
+Progress: 114 / 277 (Recovered: 0)
+Progress: 120 / 277 (Recovered: 0)
+Progress: 126 / 277 (Recovered: 0)
+Progress: 132 / 277 (Recovered: 0)
+Progress: 138 / 277 (Recovered: 0)
+Progress: 144 / 277 (Recovered: 0)
+Progress: 150 / 277 (Recovered: 0)
+Progress: 156 / 277 (Recovered: 0)
+Progress: 162 / 277 (Recovered: 0)
+Progress: 168 / 277 (Recovered: 0)
+Progress: 174 / 277 (Recovered: 0)
+Progress: 180 / 277 (Recovered: 0)
+Progress: 186 / 277 (Recovered: 0)
+Progress: 192 / 277 (Recovered: 0)
+Progress: 198 / 277 (Recovered: 0)
+Progress: 204 / 277 (Recovered: 0)
+Progress: 210 / 277 (Recovered: 0)
+Progress: 216 / 277 (Recovered: 0)
+Progress: 222 / 277 (Recovered: 0)
+Progress: 228 / 277 (Recovered: 0)
+Progress: 234 / 277 (Recovered: 0)
+Progress: 240 / 277 (Recovered: 0)
+Progress: 246 / 277 (Recovered: 0)
+Progress: 252 / 277 (Recovered: 0)
+Progress: 258 / 277 (Recovered: 0)
+Progress: 264 / 277 (Recovered: 0)
+Progress: 270 / 277 (Recovered: 0)
+Progress: 276 / 277 (Recovered: 0)
+Progress: 277 / 277 (Recovered: 0)
+
+=== PASS 2 FINISHED ===
+Newly recovered in Pass 2: 0
+Total verified business numbers: 144 / 421
+

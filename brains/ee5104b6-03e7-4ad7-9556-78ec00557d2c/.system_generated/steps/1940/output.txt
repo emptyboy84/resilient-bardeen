@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=5608701744');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=5608701744
+- Page Title: '5608701744' - 검색상세
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-39-23-619Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-39-21-675Z.log#L1

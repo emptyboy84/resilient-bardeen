@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ictintern.or.kr/homepage/trainingCompany/companyListDetail.do?REC_NO=202501_%EA%B8%B0%EC%97%85_025&PLAN_NO=202501');
+```
+### Page
+- Page URL: https://www.ictintern.or.kr/homepage/trainingCompany/companyListDetail.do?REC_NO=202501_%EA%B8%B0%EC%97%85_025&PLAN_NO=202501
+- Page Title: ICT 학점연계 프로젝트 인턴십
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-28-05-867Z.yml)

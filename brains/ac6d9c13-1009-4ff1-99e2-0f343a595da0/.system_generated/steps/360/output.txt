@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+태원엠에스: true
+포인베스트: true
+미스터엔터: true
+

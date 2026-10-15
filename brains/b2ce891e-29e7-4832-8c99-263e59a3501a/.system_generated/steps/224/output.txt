@@ -1,0 +1,18 @@
+The search for "site:play.google.com/store/apps/details "calvak" OR "에이비엠랩"" returned the following summary:
+AI 기반 스타트업 **에이비엠랩(ABMLab)**에서 출시한 대학생 맞춤형 스마트 일정 관리 애플리케이션 **'캘박(Calvak)'**의 구글 플레이스토어 상세 페이지 정보는 다음과 같습니다[1][2]:
+
+* **앱 공식 명칭:** 캘박(Calvak) - 대학생 스마트 일정관리 캘린더[1]
+* **개발사:** 주식회사 에이비엠랩 (ABMLab Corp.)[3]
+* **주요 제공 기능:**
+  * **큐레이션 허브 (홈):** 대외활동, 공모전, 인턴, 팝업스토어 및 전시 일정 등 대학생들이 관심 가질 만한 트렌드 정보를 모아보고 캘린더에 바로 저장[1]
+  * **통합 캘린더:** 개인 일정, 대학 강의 시간표, 학교 학사일정, '캘박'한 대외활동 일정 등을 하나의 캘린더에서 자동으로 정리·관리[1]
+  * **AI 어시스턴스:** 대학생 전용 AI 챗봇을 통해 공부 고민, 진로 상담, 대외활동 추천 등 맞춤형 답변 제공[1]
+  * **소모임:** 관심사 기반의 소모임 스터디·취미 모임을 만들고, 멤버 간 일정 및 게시판 소통 자동 공유[1]
+  * **이벤트 & 혜택:** 대학생 전용 프로모션, 할인 행사, 캠퍼스 이벤트 등 참여 기회 제공[1]
+
+자세한 앱 다운로드 및 서비스 이용은 [구글 플레이스토어 - 캘박(Calvak)](https://play.google.com/store/apps/details?id=kr.co.abmlab.calvak) 링크를 통해 확인하실 수 있습니다.
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GZ5Z3BEDjGN_iK5tX_c_LVicDDc_Bc0qTUH-G1TC9AjccgNz5oMhtcnuyOorKOmzioadCphkwqQHcbDyoBk97Lt7YynH_8dx3ZkRdeY6cm7N5sRsLPA-V0aAGd11xaKdPkKAWpzUWWI6yJkI6kbShdIDFTYUuJGV2F4=)
+[2] [thevaluenews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE89HA0os7Gi-j2tsotJM2DAm_RgrtgaT6-MNml5tIrqAKsLcF0qOx0-JJJ-R40I6ApcN6QBvgMtFQYcSWwPqlt_s8d7yijF6zqyo3C-yWP-QLBmX4dILUR-dNG7M7XHn0=)
+[3] [calvak.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlzumlABJ1VSK8tQHFvjbNNhVho4uI5ph3IGRK2p1Fvd87tcR6aXOPpv4ZZMUOEX1Wkp52hnhUaY3wV3qeid6GXLd7cM0ReUw=)

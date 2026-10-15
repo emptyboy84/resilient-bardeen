@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Row 714:
+  Col 1 [구분]: '25년 모집단'
+  Col 2 [순번]: 713
+  Col 3 [사업체명]: '무몽크'
+  Col 4 [사업자번호]: None
+  Col 5 [설립연도(연도)]: 1999
+  Col 6 [설립연도(월)]: None
+  Col 7 [대표자 성함]: None
+  Col 8 [연락처]: '010-3030-5970'
+  Col 9 [팩스번호]: None
+  Col 10 [시군구]: '금정구'
+  Col 11 [주소]: '부산 금정구 금정로 90-1'
+  Col 12 [업종분류]: '음악'
+  Col 13 [컨택결과]: None
+  Col 14 [폐업 날짜]: None
+  Col 15 [비고]: None
+  Col 16 [종사자수(명) 25년 기준]: None
+  Col 17 [24년 매출액(원)]: None
+  Col 18 [25년 매출액(원)]: None
+  Col 19 [None]: None
+

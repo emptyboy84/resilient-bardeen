@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+Saved 50 items for batch 2.
+Found: 49 Not found: 1
+First 5 found:
+[51] 디에스엠 (6090783506) => 산업명: '배전반 및 전기 자동제어반 제조업', source: bizno
+[52] 에스텍 (6090786764) => 산업명: '주형 및 금형 제조업', source: bizno
+[53] 한빛테크 (6090787481) => 산업명: '금속 절삭기계 제조업', source: bizno
+[54] 와이테크 (6090788398) => 산업명: '주형 및 금형 제조업', source: bizno
+[55] 한수테크 (6090788952) => 산업명: '배전반 및 전기 자동제어반 제조업', source: bizno
+Not found list: [62] 가야정기 (6090817814)
+

@@ -1,0 +1,96 @@
+### Result
+{
+  "inputs": [],
+  "links": [
+    {
+      "text": "",
+      "href": "https://cookiedeal.io/"
+    },
+    {
+      "text": "기업 탐색",
+      "href": "https://cookiedeal.io/company-search"
+    },
+    {
+      "text": "요금제",
+      "href": "https://cookiedeal.io/pricing"
+    },
+    {
+      "text": "MCPNew",
+      "href": "https://cookiedeal.io/mcp"
+    },
+    {
+      "text": "법인등기부등본 열람",
+      "href": "https://cookiedeal.io/registry"
+    },
+    {
+      "text": "부동산등기부등본 열람",
+      "href": "https://cookiedeal.io/real-estate-registry"
+    },
+    {
+      "text": "기업 탐색",
+      "href": "https://cookiedeal.io/company-search"
+    },
+    {
+      "text": "요금제",
+      "href": "https://cookiedeal.io/pricing"
+    },
+    {
+      "text": "MCPNew",
+      "href": "https://cookiedeal.io/mcp"
+    },
+    {
+      "text": "법인등기부등본 열람",
+      "href": "https://cookiedeal.io/registry"
+    },
+    {
+      "text": "부동산등기부등본 열람",
+      "href": "https://cookiedeal.io/real-estate-registry"
+    },
+    {
+      "text": "기업 탐색",
+      "href": "https://cookiedeal.io/company-search"
+    },
+    {
+      "text": "요금제",
+      "href": "https://cookiedeal.io/pricing"
+    },
+    {
+      "text": "MCP\n\nNew",
+      "href": "https://cookiedeal.io/mcp"
+    },
+    {
+      "text": "법인등기부등본 열람",
+      "href": "https://cookiedeal.io/registry"
+    },
+    {
+      "text": "부동산등기부등본 열람",
+      "href": "https://cookiedeal.io/real-estate-registry"
+    },
+    {
+      "text": "",
+      "href": "https://cookiedeal.io/"
+    },
+    {
+      "text": "Pro 7일 무료체험 신청하기",
+      "href": "https://business.cookiedeal.io/signup?redirect=%2Ffree-trial%2Fstart"
+    },
+    {
+      "text": "지금 바로 기업 조회 시작",
+      "href": "https://cookiedeal.io/company-search"
+    },
+    {
+      "text": "",
+      "href": "https://cookiedeal.io/"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return {\n    inputs: inputs.map(i => ({ placeholder: i.placeholder, type: i.type, name: i.name, id: i.id })),\n    links: Array.from(document.querySelectorAll(\'a\')).map(a => ({ text: a.innerText.trim(), href: a.href })).slice(0, 20)\n  };\n}');
+```
+### Page
+- Page URL: https://cookiedeal.io/
+- Page Title: 조회를 넘어, 발견으로. 쿠키딜
+- Console: 1 errors, 0 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-03-20-096Z.log#L1-L11

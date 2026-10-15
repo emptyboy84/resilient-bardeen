@@ -1,0 +1,6 @@
+### Result
+"clicked"
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const input = document.querySelector(\'#txt_search\') || document.querySelector(\'input[type="text"]\');\n  if (!input) return \'no input\';\n  input.value = \'8208703095\';\n  const btn = document.querySelector(\'.btn_search\') || document.querySelector(\'button[type="submit"]\') || document.querySelector(\'#btn_search\');\n  if (btn) btn.click();\n  return \'clicked\';\n}');
+```

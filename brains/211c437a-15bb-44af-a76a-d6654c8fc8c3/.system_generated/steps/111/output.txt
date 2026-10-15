@@ -1,0 +1,20 @@
+
+The command exited with code 1.
+Output:
+"1"� �μ� �ִ� "LoadFrom"�(�) ȣ�ϴ� � �ܰ� �߻�߽�ϴ�. "�̳� � 'file:///C:\Program Files (x
+86)\LG Software\LG OSD\HotkeyManager.exe' �Ǵ� �⿡ �ӵǾ� �ִ� �̳� � � �ϳ� �ε� � �ϴ�. �
+�⿡ � �Ŵ�佺Ʈ� �־� �մϴ�."
+�ġ �:1 �:1
++ $asm = [System.Reflection.Assembly]::LoadFrom('C:\Program Files (x86) ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : BadImageFormatException
+ 
+null � �Ŀ� �޼�带 ȣ� � �ϴ�.
+�ġ �:1 �:125
++ ... are\LG OSD\HotkeyManager.exe'); foreach($t in $asm.GetTypes()){ forea ...
++                                                   ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+

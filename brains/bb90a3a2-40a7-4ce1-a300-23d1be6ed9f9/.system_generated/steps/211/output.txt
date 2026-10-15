@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Jobkorea status: 200
+Jobkorea length: 221741
+Company links: null
+

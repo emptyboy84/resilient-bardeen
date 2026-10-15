@@ -1,0 +1,199 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=7518103079
+- Page Title: '7518103079' - 검색상세
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=f1e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=f1e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=f1e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=f1e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=f1e6]:
+    - banner [ref=f1e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=f1e8]
+      - generic [ref=f1e9]:
+        - generic [ref=f1e10]:
+          - heading [level=1] [ref=f1e11]:
+            - link "나이스 비즈인포" [ref=f1e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=f1e14]:
+            - listitem [ref=f1e15]:
+              - button "쿠폰" [ref=f1e16] [cursor=pointer]
+            - listitem [ref=f1e18]:
+              - link "로그인" [ref=f1e19] [cursor=pointer]:
+                - /url: /cm/CM0200M001GE.nice
+            - listitem [ref=f1e20]:
+              - link "장바구니" [ref=f1e21] [cursor=pointer]:
+                - /url: /sp/SP0100M001GE.nice
+            - listitem [ref=f1e22]:
+              - button "추천 서비스 메뉴보기" [ref=f1e23] [cursor=pointer]
+        - navigation [ref=f1e26]:
+          - heading "주요 네비게이션" [level=2] [ref=f1e27]
+          - list [ref=f1e28]:
+            - listitem [ref=f1e29]:
+              - link "홈" [ref=f1e30] [cursor=pointer]:
+                - /url: /cm/CM0100M001GE.nice
+            - listitem [ref=f1e31]:
+              - button "내 사업장 관리" [ref=f1e32] [cursor=pointer]
+            - listitem [ref=f1e34]:
+              - link "비즈마켓" [ref=f1e35] [cursor=pointer]:
+                - /url: /bm/BM0100M001GE.nice
+            - listitem [ref=f1e36]:
+              - link "블로그 새 창 열림" [ref=f1e37] [cursor=pointer]:
+                - /url: https://nice-info.inblog.io/
+                - text: 블로그
+                - generic [ref=f1e38]: 새 창 열림
+            - listitem [ref=f1e39]:
+              - button "고객센터" [ref=f1e40] [cursor=pointer]
+    - main [ref=f1e44]:
+      - generic [ref=f1e45]:
+        - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=f1e46]
+        - generic [ref=f1e47]:
+          - generic [ref=f1e51]:
+            - generic [ref=f1e52]:
+              - textbox "키워드검색" [ref=f1e53]:
+                - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                - text: "7518103079"
+              - generic [ref=f1e54]: 키워드검색
+            - button "검색하기" [ref=f1e56] [cursor=pointer]
+          - button "조건검색" [ref=f1e59] [cursor=pointer]
+      - button "결과 내 재검색" [ref=f1e62] [cursor=pointer]
+      - generic [ref=f1e65]:
+        - generic [ref=f1e66]:
+          - generic [ref=f1e67]:
+            - strong [ref=f1e68]: 1건
+            - text: 의 기업 검색 결과가 있습니다.
+          - generic [ref=f1e73] [cursor=pointer]:
+            - generic [ref=f1e74]:
+              - generic "목록 개수 선택" [ref=f1e75]:
+                - generic [ref=f1e76]: 10개씩 표시
+                - combobox "10개씩 표시" [ref=f1e77]
+              - generic [ref=f1e78]: 목록 개수 선택
+            - generic [aria-hidden] [ref=f1e80]: arrow_drop_down
+        - tooltip "범례표기 리스트 상 상장 관 관리 코 코스닥 넥 코넥스 OTC K-OTC 외 외부감사법인 일 일반법인 개 개인 공 공기관 비 비영리법인 피 피흡수합병 폐 폐업 기 기타" [ref=f1e81]:
+          - generic [ref=f1e83]:
+            - generic [ref=f1e84]: 범례표기 리스트
+            - list [ref=f1e85]:
+              - listitem [ref=f1e86]:
+                - generic [ref=f1e87]: 상
+                - text: 상장
+              - listitem [ref=f1e88]:
+                - generic [ref=f1e89]: 관
+                - text: 관리
+              - listitem [ref=f1e90]:
+                - generic [ref=f1e91]: 코
+                - text: 코스닥
+              - listitem [ref=f1e92]:
+                - generic [ref=f1e93]: 넥
+                - text: 코넥스
+              - listitem [ref=f1e94]:
+                - generic [ref=f1e95]: OTC
+                - text: K-OTC
+              - listitem [ref=f1e96]:
+                - generic [ref=f1e97]: 외
+                - text: 외부감사법인
+              - listitem [ref=f1e98]:
+                - generic [ref=f1e99]: 일
+                - text: 일반법인
+              - listitem [ref=f1e100]:
+                - generic [ref=f1e101]: 개
+                - text: 개인
+              - listitem [ref=f1e102]:
+                - generic [ref=f1e103]: 공
+                - text: 공기관
+              - listitem [ref=f1e104]:
+                - generic [ref=f1e105]: 비
+                - text: 비영리법인
+              - listitem [ref=f1e106]:
+                - generic [ref=f1e107]: 피
+                - text: 피흡수합병
+              - listitem [ref=f1e108]:
+                - generic [ref=f1e109]: 폐
+                - text: 폐업
+              - listitem [ref=f1e110]:
+                - generic [ref=f1e111]: 기
+                - text: 기타
+        - list [ref=f1e112]:
+          - listitem [ref=f1e113]:
+            - button "기업상세 범례 활성화 (주)메이브릿지 751-81-0**** 대표자명 김현진 산업명 시스템 소프트웨어 개발 및 공급업 기업주소 부산 해운대구 해운대로 ***, ****호" [ref=f1e114] [cursor=pointer]:
+              - generic [ref=f1e115]:
+                - generic [ref=f1e116]:
+                  - generic "기업상세 범례 활성화" [ref=f1e118]: 일
+                  - paragraph [ref=f1e119]: (주)메이브릿지
+                  - paragraph [ref=f1e120]: 751-81-0****
+                - generic [ref=f1e121]:
+                  - generic [ref=f1e122]:
+                    - term [ref=f1e123]:
+                      - generic [ref=f1e125]: 대표자명
+                    - definition [ref=f1e126]: 김현진
+                  - generic [ref=f1e127]:
+                    - term [ref=f1e128]:
+                      - generic [ref=f1e130]: 산업명
+                    - definition [ref=f1e131]: 시스템 소프트웨어 개발 및 공급업
+                  - generic [ref=f1e132]:
+                    - term [ref=f1e133]:
+                      - generic [ref=f1e135]: 기업주소
+                    - definition [ref=f1e136]: 부산 해운대구 해운대로 ***, ****호
+        - navigation [ref=f1e137]:
+          - generic [ref=f1e138]:
+            - button "첫 페이지" [disabled] [ref=f1e139]
+            - button "이전 페이지" [disabled] [ref=f1e141]
+            - button "1" [ref=f1e144] [cursor=pointer]
+            - button "다음 페이지" [disabled] [ref=f1e147]
+            - button "마지막 페이지" [disabled] [ref=f1e149]
+    - button "KakaoChannel" [ref=f1e151] [cursor=pointer]
+    - button "FAQ" [ref=f1e154] [cursor=pointer]
+    - contentinfo [ref=f1e157]:
+      - generic [ref=f1e158]:
+        - heading "NICE BizINFO" [level=2] [ref=f1e159]
+        - generic [ref=f1e160]:
+          - generic [ref=f1e161]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=f1e162]
+            - generic [ref=f1e163]:
+              - heading "고객 지원 및 정보" [level=4] [ref=f1e164]
+              - list [ref=f1e165]:
+                - listitem [ref=f1e166]:
+                  - link "회사소개" [ref=f1e167] [cursor=pointer]:
+                    - /url: https://www.niceinfo.co.kr/main.nice
+                - listitem [ref=f1e168]:
+                  - link "이용약관" [ref=f1e169] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=TRM
+                - listitem [ref=f1e170]:
+                  - link [ref=f1e171] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=PIP
+                    - strong [ref=f1e172]: 개인정보 처리방침
+                - listitem [ref=f1e173]:
+                  - link "법적근거" [ref=f1e174] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=LEG
+                - listitem [ref=f1e175]:
+                  - link "문의/도움말" [ref=f1e176] [cursor=pointer]:
+                    - /url: /cs/CS0100M007GE.nice?tab=Question
+                - listitem [ref=f1e177]:
+                  - link "사이트맵" [ref=f1e178] [cursor=pointer]:
+                    - /url: /cs/CS0100M008GE.nice
+            - generic [ref=f1e179]:
+              - generic [ref=f1e180]: 주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보
+              - generic [ref=f1e181]:
+                - paragraph [ref=f1e182]: 대표자 김종윤
+                - paragraph [ref=f1e183]: 사업자번호 116-81-15020
+                - paragraph [ref=f1e184]: 통신판매업신고번호 2024-서울영등포-1095
+              - generic [ref=f1e185]:
+                - paragraph [ref=f1e186]: TEL 02-3771-1514
+                - paragraph [ref=f1e187]:
+                  - text: Email
+                  - link "help@nicebizinfo.com" [ref=f1e188] [cursor=pointer]:
+                    - /url: mailto:help@nicebizinfo.com
+            - paragraph [ref=f1e189]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link [ref=f1e191] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=f1e192]
+        - paragraph [ref=f1e193]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

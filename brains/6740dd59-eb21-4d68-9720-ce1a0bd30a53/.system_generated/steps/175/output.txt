@@ -1,0 +1,1 @@
+Encountered error in step execution: search path file:///C:/Users/lg/.gemini/antigravity/brain/README_%EB%8C%80%ED%99%94%EA%B8%B0%EB%A1%9D.md does not exist

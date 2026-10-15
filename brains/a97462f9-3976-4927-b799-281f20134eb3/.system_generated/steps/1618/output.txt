@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22%EB%8F%99%ED%99%94%EC%82%AC%22+%EB%B6%80%EC%82%B0+%EB%8F%99%EA%B5%AC');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EB%8F%99%ED%99%94%EC%82%AC%22+%EB%B6%80%EC%82%B0+%EB%8F%99%EA%B5%AC
+- Page Title: "동화사" 부산 동구 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-37-54-444Z.yml)

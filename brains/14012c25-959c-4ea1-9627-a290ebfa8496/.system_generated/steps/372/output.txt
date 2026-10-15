@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1z_O-LTjE_LzOA9GE-cI1-Dj--B5oDbkn8J5DE_362ebrA60_RjZSqr5CT5nolK2DIdlv3qafkQihAtX6FQdP3go4bs_WvMj7ilIRIaC7iqrrtlq5_f4nLmh7leh6e_lfQj7A3QMOR5Qe2DzxXRw2MZzv_eK8WoY86BIc7L31Vcj29HDR7Ie130_zR2s=');
+```
+### Page
+- Page URL: https://play.google.com/store/apps/details?id=com.primitivebrother.thunder.google&hl=ko
+- Page Title: 원시인 형님들 키우기 : 문명 x 방치형 RPG - Google Play 앱
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-03-24-266Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-03-19-815Z.log#L1-L67

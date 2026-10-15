@@ -1,0 +1,11 @@
+The search for ""고향을 부르다" "작은통일" site:aladin.co.kr" returned the following summary:
+고향을 부르다 / 작은통일 site:aladin.co.kr 검색 결과입니다.
+
+*   **도서명:** 고향을 부르다[1]
+*   **저자:** 오은정[1]
+*   **출판사:** 작은통일[1][2]
+*   **관련 정보:** 오은정 시인의 시집으로, 남북한을 모두 경험한 시인의 독특한 시각이 담겨 있습니다[1]. 현재 해당 도서는 알라딘에서 품절로 표시되어 있습니다[2].
+
+Sources:
+[1] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETMfUpaRjcbZkt07fz1d0Gu42oTnCX350gH47IThYAvn76qr9WrZTUsGe2phqo3angOD5qCQXESt4FafmRD-MV0dluXgGGpNJ6u_KueP0YRfo8zuSYjclJOXckn0tHsjbC33qMQP9IaptQCw-2k0eOZA==)
+[2] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWRc768o0oP2G403Y9htN0oqMu89Ob6_bAsJ6YNlfKq8-lbTerpSeCXzD4sUzHTcG5zA1ksqQvbVRtUfRTBMAnNA8vJR4hA7ywMPz_elSmW9x0mhotcKHhabPKo0IzQu4r70O9l35Rcyj-lC3-VyMoPG2Gp0vDQ==)

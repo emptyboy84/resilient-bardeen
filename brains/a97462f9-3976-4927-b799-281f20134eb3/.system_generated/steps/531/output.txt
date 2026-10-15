@@ -1,0 +1,32 @@
+The search for ""윈트리" "590-86-02335" OR "김대식" 매출액 OR 사람인 OR 잡코리아 OR 부산" returned the following summary:
+검색하신 **'윈트리'**와 관련하여 확인된 정보는 다음과 같습니다.
+
+### 1. 기업 정보
+*   **대표자:** 김대식[1][2]
+*   **사업자등록번호:** 590-86-02335[1][3]
+*   **소재지:** 부산광역시 부산진구 엄광로 176 (동의대학교 청년창업관 302호)[1][4][5]
+*   **주요 사업:** 인간공학기사, 인간공학기술사, 산업안전기사 등 자격증 관련 인터넷 강의 제공 및 CBT(컴퓨터 기반 시험) 학습 플랫폼 운영[6][7][8]
+*   **설립일:** 2021년 11월 15일[2][9]
+
+### 2. 매출액 및 기업 규모
+*   **매출액:** 사람인 등 기업 정보 제공 사이트에 따르면, 최근 공시된 2022년 기준 매출액은 **812만 원**입니다[2][10].
+*   **기업 형태:** 중소기업으로 분류되며, 소규모 인원(약 3~5명 내외)으로 운영되는 것으로 파악됩니다[2][7].
+
+### 3. 참고 사항
+*   **사람인/잡코리아:** 해당 사이트들에서 '(주)윈트리'의 기업 정보를 조회할 수 있으며, 주소지가 부산으로 등록된 기업으로 확인됩니다[2].
+*   **기타:** 윈트리는 동의대학교 창업보육센터 입주 기업으로 시작하여[7], 국가기술자격증 필기 시험 대비를 위한 AI 알고리즘 기반의 CBT 서비스를 주력으로 제공하고 있습니다[11][7].
+
+※ 기업의 재무 정보나 채용 관련 세부 현황은 시점에 따라 변동될 수 있으므로, 사람인이나 잡코리아 등 기업 분석 플랫폼에서 최신 정보를 직접 확인하시는 것을 권장합니다[10].
+
+Sources:
+[1] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6EHhAY-XE5BRZR57poXNb_xeWuV3qmP0rRoi1nvDmm4Am1nYlpUTnScLim2N8o-E9ArnzoFJir8tZlRy0W1VTdrTBxgmpi5J8CK8gsBAggl2AQBxFtWu_)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJL86To4pFFNisMILh-ERG-unt0xa5CK0HHB-8Wuki0vdHC0pYuMf5nhJ3rdNkVwn095869IdO452JEIBTBVXU73KzpWK9B47A1nhtFzyeU32J7dhFW8WbBcEm8mY61g-VsZ7DcZYK39C63yUNiywQg4jAit_6ZHO3Uef3_NOYkcoZdu8GS6V7pk0OpA7T47Nx1eFMKbJaSLVimZ3MOn2_e4remXTlIV3WFeD0JvLR1FkZRbTSpXpdMmbPig7v7aW9)
+[3] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkNQjNc6CqJxTg73d490xSUfpQnkwilCU9Gv7hDDVWzYHkQlVoEH9_nUmBgCOnWZ-mDTPGaVscnleWQaHxUkmKuo-OCrZioSBvOcIn1L0LMCL2Xoweg_20IRjRDS3BElNEQc8kX24ZbGSFUM26lfKU04QVuBN-nyZe5ANxpNZRuNCvN1bYkKEkxKscyXVfD0_GKvAq)
+[4] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_KsCKgFeHvpiW9r4svvWonDqwQBDuQterd3K9JfhXUbKVEJT9LhyT-pnJLhwfEnndHC4A1HOGpRRuzoOidBcFi_jl-FhADBbHR5cGUQ==)
+[5] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIw9Zgt3p4tLnHNdxGOjapa2vNZNoOzSIvAAJXlpZkV5iXG1-OjxXl2sxA2V7eohG4J1jEnK_wzMQzOcx_N0C1w5DWK8LX5OQkhgPtCOGyR-UOqbB-AIj1qsNkhOFVdomrScUvnxCg9w==)
+[6] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpduTz7GFhObwBCMVX01Wgq8QxPQHNzYKqzbodKngoboJY55JaPt53byyDxiM8iouT9DaO6Z_eeQbSL1LmYe_SYGScraVkFSImSQxoPVa-T9zTHh5_CFPaw8w=)
+[7] [deu-bi.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDWsx8B5pwegftZP_DShOafKgTIDRSoQRvqe4QX7pw1iuj9rsQIy3i8pCpGRS2kTo_dBTiQSnlXOLz0Xzz3x4aEy4j7HlPvsWD-Qxxj1bjxE6R_8VH0uk2EuCVDHnm3XkQiIx2uRI=)
+[8] [marpple.shop](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFns8beXX7iLF20sixSS4pGRUSGslcY528MBwVC9df4gHFC-IIVOdv8ooH5vE1tpDgRs3pqT7We0CDX2Brjna1O-nxvKrczKY_8X6zhrAtMniJtyZyo7njPjaBJRUZS9T4N287Wyk6_)
+[9] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXMbi8GZcWP3LOYsTNRfjKFPFWAc0bGgXRoGsfnfH9ULXV8IGIWcNZqAu1EEJrhRDzzuFjIu30CL--pLo_10H_EB514IO04rswgw2B4VVibicFGDzeZhrPFKa71BEYhqkn8uR9vrEOaDIdkPkkqFi5pUNXGQ-wPnIR-WFj3_APQ5FQTzc=)
+[10] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMXOVoQH4nbOERuhIpGfmc7Ow_3mTLKSuotBzI9GfXLtXTaunoT1T1WHAuG_970TQ_XatPWkBBljwCaxYXhGCMQcfYrJ1hkOkeOS3iF203JSV7V_rDBTL6jXai084LyfUWJsYOzIaitiNl9qgrKheKTSp9x_LyvlN1Sf_fnkhGyxgey9eeIhtDWDOO)
+[11] [wintree.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwcSfIejxbcYqw8I-Vt1os8YoVdETlIaf0jRuXtPnU3hN_882FtiUHYkSIbPuuT2whuEzohQSIrBRbmpZz4fij3p1sh-3izGSwVMQwRMifr3VmVlZxqNM0RCJ_LlBA4BOQnP0jodmYFQ==)

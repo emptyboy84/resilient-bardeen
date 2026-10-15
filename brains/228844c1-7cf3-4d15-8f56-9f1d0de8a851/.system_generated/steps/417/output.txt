@@ -1,0 +1,11 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nl.go.kr/seoji/contents/S60301050000.do');
+```
+### Page
+- Page URL: https://www.nl.go.kr/seoji/
+- Page Title: ISBN·ISSN·UCI·납본 시스템
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-44-28-848Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-44-16-744Z.log#L1-L4

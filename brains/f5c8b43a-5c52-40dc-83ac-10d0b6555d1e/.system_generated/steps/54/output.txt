@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+Total BHM lines: 1944
+Min line: 707, Max line: 20504
+Contiguous line blocks of BHM:
+  Block 1: Lines 707 ~ 806 (100 rows)
+  Block 2: Lines 1006 ~ 1105 (100 rows)
+  Block 3: Lines 1810 ~ 1909 (100 rows)
+  Block 4: Lines 2410 ~ 2509 (100 rows)
+  Block 5: Lines 3311 ~ 3410 (100 rows)
+  Block 6: Lines 5011 ~ 5510 (500 rows)
+  Block 7: Lines 11894 ~ 12005 (112 rows)
+  Block 8: Lines 12007 ~ 12394 (388 rows)
+  Block 9: Lines 15054 ~ 15253 (200 rows)
+  Block 10: Lines 19263 ~ 19462 (200 rows)
+  Block 11: Lines 20459 ~ 20475 (17 rows)
+  Block 12: Lines 20477 ~ 20494 (18 rows)
+  Block 13: Lines 20496 ~ 20504 (9 rows)
+

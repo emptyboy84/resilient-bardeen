@@ -1,0 +1,14 @@
+### Result
+Waited for 5000
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 5000 * 1000));
+```
+### Page
+- Page URL: https://moneypin.biz/
+- Page Title: 머니핀 - 소규모 사업자의 경영관리, 사업자정보로 간편하게
+- Console: 5 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T03-26-19-409Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T03-25-46-037Z.log#L3-L9

@@ -1,0 +1,120 @@
+
+Encountered error in step execution: context canceled
+Output:
+<truncated 3261 lines>
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

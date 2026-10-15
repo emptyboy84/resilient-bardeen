@@ -1,0 +1,15 @@
+The search for ""지엠이에스티" "이나현" OR "지엠이에스티" 부산" returned the following summary:
+"(주)지엠이에스티"와 관련하여 요청하신 내용에 대한 검색 결과는 다음과 같습니다.
+
+*   **기업 정보:** (주)지엠이에스티는 스크린골프 전문 기업으로, '시티존(CITYZONE)'이라는 브랜드로 알려져 있습니다[1][2]. 과거 초고속 센서 기술 등을 개발하며 스크린골프 시장에서 활동한 바 있으며[2], 부산 지역 등에 사업장 및 채용 관련 이력이 확인됩니다[3][4]. 또한, 과거 회생 절차와 관련된 공고 등에서 기업명이 언급된 사례가 있습니다[5][6].
+*   **"이나현" 관련:** 검색 결과 내에서 "지엠이에스티"와 "이나현"이라는 인물을 직접적으로 연관 짓는 정보는 확인되지 않았습니다.
+
+혹시 특정 인물이나 사건과 관련된 더 구체적인 정보가 필요하신 경우, 추가적인 키워드를 함께 검색해 보시기 바랍니다.
+
+Sources:
+[1] [beyondpost.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2f87BVGvH3olNHpDTb6pXuqDSlZJmBal40p7BpebEmcxKbZH3icqfA0yqvDMKEc3s_a5FOqCkMpR-ly3p25SOTIsIXToD5-rtG1Ep8Ht1MTheGJmaBctlSX2KYBpW-KfLueUhkWhgW5lWb94iwcQ7NQxqL9sgegVUuqY=)
+[2] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5-hYBJNPYBwTi86NP4RdYp_aoXz0RTPeHRl-O2zRB4lroP0ObcBzMH7v389zFA6C1xBJf5TPs_dKHMTcPQXo-BxoO7LO-f3GS4mimFf6igVCLW_tsvIcgp7g2ZrtO9wCMpk8=)
+[3] [bsks.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wVYuk93hiZ2-KTQ9ug608VO4JXhhtWVl-tGuMUQ6bVtTMsILyFfCre0O0dbR3MbChfqMrpB8dJAVsx_bl7UC03Xgu2pirDz7RYZXMKCaIm-8_y8BoHg5-msui66Rt3nTDe-CgJ34cIEEITXwwpDtRbr0anSOs-kg19QZr_Oue1O-Ybt-yf0=)
+[4] [bsks.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI_dxu0nXxWT2lpGizIpGvGZ-JbqC4NuEtgj4JP7580iecsj8IhtM-XsOi2jw3-tmovw-bhBIrtVK595f9gtbEJf7BBH5rPPxUozwjWBweyiCjU1ZK3KXLGFJp7UZY43caAKB7z_KPbOXaI2CqQLLc-fD5w8LB-mpR6InjW-qNhtslMmx4Jf9UNuos)
+[5] [restaro.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUYf73LA1eZlQTD78pZXp_c_7DDGXPKwV0ozp5Xta2T4JZH6avfzLMxKD24zSpCGJIUzCaKtl_pqEC032WK7kBTGi7YpKhINyWh31W7_IrNsKTCjmM1nOom4ZI0sXRhauhz18=)
+[6] [scourt.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi-1AllJhPw5AIG7wcbmDWvx4Q5nv7amzgqYk-eHrEl00mLdeyqPT6PnuBo7Psb2imPe3xHQnk6Po88IurkRX6eACegM8ZhDJ9Qgg0qq1rX6RJMi-LoF4rm2YqhuzbDi4tis93Z7KJwipy44_UXyuE3fKVzFEOiY79J8Vpw_m90qjD4vcBACBtQ75eMGF86Rh3TV3JhbaZ)

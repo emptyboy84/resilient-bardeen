@@ -1,0 +1,18 @@
+The search for "site:bizno.net "엘씨엠"" returned the following summary:
+bizno.net에서 검색된 '엘씨엠' 관련 정보입니다.
+
+*   **주식회사 엘씨엠**[1]
+    *   **업종:** 완구 도소매 (생활용품 도매업)
+    *   **주소:** 서울특별시 강서구 마곡중앙8로5길 63, 215호(마곡동, 디엠플라자)
+    *   **대표자:** 이혜진
+    *   **설립일:** 2016-09-07
+
+*   **주식회사 엘씨엠코스메틱**[2]
+    *   **업종:** 화장품 제조업 및 소매업
+    *   **주소:** 인천광역시 연수구 송도동
+    *   **대표자:** 이승후
+    *   **설립일:** 2016-09-01
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERYYkKePlM606vkNXrczLdHDIPy6gJKfZYX3m5J5hZg4dIyWvYyGjl1dWQhW9CG5Ckgo1WMF23UmC0hQk0MFMy4BfCKNlBolYuN2ANeD3aWWoJfOqQWAMXJw==)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiB3925fG3NeqchJim4C1817TM9v23p5SAypZb899pGWp4B3VRD2PCi040EJb1pNcUpD2uDvONU6-l7zMzDIW3gM6_QiQxGImBFq06gNAoqFzIhhGgd6s_1w==)

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+리걸테크 법인등록번호: 없음
+법인형태: 없음
+

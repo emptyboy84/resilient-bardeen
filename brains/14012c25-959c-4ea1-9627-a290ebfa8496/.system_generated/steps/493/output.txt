@@ -1,0 +1,12 @@
+The search for ""부산일보" "비솜" OR "관계기업" OR "종속기업" OR "계열사"" returned the following summary:
+**비솜(주)**은 《부산일보》의 주요 계열사(자회사) 중 하나입니다[1][2]. 
+
+《부산일보》는 정수장학회가 지분의 100%를 소유하고 있으며[1], 주요 관계사 및 자회사로는 **비솜(주)**을 비롯하여 **부일IS(부일아이에스)**, **부일인쇄**, **비온미디어** 등이 있습니다[1][2]. 
+
+이 중 **비솜(주)**은 부산일보 관련 미디어 및 사업과 연계된 자회사로 운영되어 왔으며[1], 부산일보의 인사 발령 시 비솜(주)의 대표이사(사장) 및 임원 인사도 함께 보도되곤 합니다[3][4].
+
+Sources:
+[1] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH36skMt83OHUxnfC-l0126ylaY4R1RikuIqba6ddHs_E_-UDYLfFAvtX8F1fyLjaV3ZVROsHslcqs_u6S67_YNSHMAp7TEXrR1DW63bS5pKRwkwEHYm8HbOiKu4WQGVAhAHlk_554829KpRhNRmQBECAHYsdL4N40=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5QbN1vMN2DGCwwWZTVSr48Jk5lU-xCMatUxoGr1aC_rX1m15ZQ26PsYgjMOpSni2iGJmAtqz2eKhsx_3GITpU0twz_psyhS45W2lPm2cUaBtosUwOIib1FKnHOuvbjg==)
+[3] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB6BeOEchWHc7SCR-MD-nf0Q2--yQhPRm2bAv8kWv6kXlzQ0md7nRj0js2W0HEX05fnQkG0SMx4obOuLkh7ubpxYjD7KifXE6AsZwrW_vY1ee9OWFEe0kDTikQGjCgi3W7-x4=)
+[4] [kyeongin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH308CijrTCeQAn09C4QNH4TH8Fosd1qLVuEUozhi5XeFBwF5pAMU2PcqguYR_X_4amafLH6pGtlaEURjrI-GyKFOVvY4hVprjWBVrGFzEP7CfD95L0_M6NG-D_015d)

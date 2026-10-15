@@ -1,0 +1,16 @@
+The search for ""부산웹툰페스티벌" "이수연" OR "이진수" OR "최유창" OR "곽재홍"" returned the following summary:
+부산웹툰페스티벌과 관련하여 언급하신 인물들에 대한 정보는 다음과 같습니다.
+
+*   **이수연**: 과거 부산웹툰페스티벌 관련 행사 소식을 전한 기자로 확인됩니다[1][2].
+*   **이진수**: 카카오엔터테인먼트의 대표이사로, 카카오엔터테인먼트가 부산웹툰페스티벌에서 '뉴스타상' 등을 수상하는 등 관련 소식에서 기업 대표로서 언급된 바 있습니다[3][4]. (※ 동명이인 작가가 있을 수 있으나, 부산웹툰페스티벌과 직접 연결된 주요 정보는 기업인 이진수와 관련되어 있습니다[5][6].)
+*   **최유창, 곽재홍**: 검색 결과상 부산웹툰페스티벌과 직접적으로 연관된 공개된 정보는 확인되지 않았습니다.
+
+혹시 특정 분야(작가, 행사 관계자 등)에서 찾으시는 인물이 맞는지 확인이 필요하시다면 추가적인 정보를 제공해 주세요.
+
+Sources:
+[1] [kbsecuritynews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrAuXOj8_bqy72qE5uAfu6jRcEcKCQRlyLLlUjG-DgFuHoT-T9uRbNxRxHh9tXTwk9V6ba0iUqI00ziVDisW4W7AuQK6p6twM61ZoH09MP0j8HHXIfF90EsA==)
+[2] [emoneynews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwEpsh954AcWXcYka-6bARz0jJ3AjHOEdSgFWjvMAtwTMbAZmL5HKRk4g8UhA1UIqLMZTJxlwcNTskCZC-Jn0qmpBTsIhXA6PbpeqkANszBw6zBha_x7jrUqAxYJg9CNYCNouxq6zpaJJYMYve5sPwsGiaO0xYtVOUOe_WxP5pjJxmmyIhuM401Q3SUvDmmWCbca3P18G-tSnrCi1c0zKjkp0sLDrFwqWEXve-wdTpwIcCLeT4XKlU)
+[3] [lawissue.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkT3jxGX5AkQqh2Ue3xct-3v6GYfAJs8sfqcMj_QM_lAuZvb3XPEushBGBG9YP6EscjDtZHrM6aZvlIzphZtqsNhhQ8QGg9IsqO2YfZPzU9B9u5q4k18DUI4RaBb00FX63haAt_b0hnzHOSAyawQD8Vxi7ggBxFT-2fQ==)
+[4] [abcn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtGv3nWo-FgJ2h0Hm_vxotOVrWkL3uTGnswpfAo5tdN-MLeOpMHU7svUUlJF_i-1M9yyEn71EFEk-uWrUVUeWAovblSgGUvafCpSd4bh7F1Fn1cZ1tDVH5lFU7LiKqNmO6EaFsKozvNurbFw==)
+[5] [webtoonguide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGLVt0q2jF-uN0JjsKMiv7FJEhYjiBg6M8u91RQoNM2EOtoK8jTDC_leZcr8-DZg8ESyjtwhG79bM_hPDB7pWb5-YKTZItNK7lg8t4Qf15TlHTEKLIsfCJizTsbOMMIRn98wUw3sNZQK9eJe8i)
+[6] [webtoonguide.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGX8S8dlAx66pOvUmD-dI7Nj99EqhyiNsV2lQ89Fdi37wdEIU6vQNSz8WHWUwLlXFQCFAeAdhf7uLLF3OvqPh4QUiJROclYTv9zU-g3qB414Ch5bxwxHn5MemCV7nW7DedIiGM_8OCpBM=)

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%201009-4');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%201009-4
+- Page Title: 부산 사하구 괴정동 1009-4 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-34-10-536Z.yml)

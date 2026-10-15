@@ -1,0 +1,15 @@
+The search for ""2023-화성남양-0075" site:ftc.go.kr" returned the following summary:
+요청하신 "2023-화성남양-0075"라는 통신판매신고번호는 공정거래위원회(ftc.go.kr) 공식 사이트 검색 결과에서 직접 확인되지 않거나, 특정 업체에 귀속된 정보로 명확히 드러나지 않습니다[1].
+
+일반적으로 "2023-화성남양-XXXX"와 같은 형식의 번호는 경기도 화성시 남양읍에서 신고된 **통신판매업 신고번호**입니다[1][2][3]. 해당 번호를 가진 업체를 찾으시거나 정보를 확인하려면 다음 방법을 권장합니다.
+
+1.  **공정거래위원회 통신판매사업자 조회**: [공정거래위원회 사업자등록현황 조회](https://www.ftc.go.kr/bizCommPop.do) 페이지에 접속하여, 신고번호 입력란에 '화성남양'과 '0075'를 각각 입력하거나 사업자등록번호를 통해 직접 검색해보시기 바랍니다.
+2.  **데이터의 한계**: 통신판매신고번호는 업체 폐업이나 정보 갱신에 따라 조회되지 않을 수 있으며, 비즈니스 정보 제공 사이트(비즈라운지 등)에서도 모든 번호가 실시간으로 매칭되지 않을 수 있습니다[1][4].
+
+만약 특정 쇼핑몰이나 업체와의 거래 과정에서 해당 번호를 보셨다면, 공정거래위원회 사이트에서 직접 조회하는 것이 가장 정확합니다.
+
+Sources:
+[1] [bz-lounge.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2yOWrNZ0VkEDkcZsybGfZVcXF0_TZjAK5i_DAsQMG5ZAWBco6ipF-D_5ttdNzX1M9nv6GPsTrRsVF177hYBIauaXAWIDdh6x8spuQmT8eMIUUKYQ00Q==)
+[2] [npf.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuqdKjIToeixzec1spXxYcHE_XeK4SeDSGL2fvVbtVIu6PcECCyXgTgbXfvbxNRsczq6p8oYlko1XC-W75705nf8SyUpVntiJuvQO-00p5lFT8adKjrPOpSPHkZzU_ivTaUy9tQTDiPeJuJoM=)
+[3] [sungsinvmp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DfjVFZTi_LsuThYl4wapVNKrhDqqdkx1ei10rfjWjB8IHd3c24vPd_rrlxM422WfzgbUWhbtdVc7DFON_745Sp1EAsZcK2Hv3ODQ8ISti7UKo6JKcQDPuO7p-SWad3eR)
+[4] [bz-lounge.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoXQePNgVUEYoxZOd2rzivWbImvCWEOzhYW9TpO-MCR412ewrE8lmQbYp94UTvR7PtzLdyPssLO2tFSCUP9JIKuUZkzBozC9rV3fGZ-enXNx8ST_VG7w==)

@@ -1,0 +1,21 @@
+The search for ""올라운더" "박용범" ("051" OR "070" OR "010" OR "전화" OR "TEL")" returned the following summary:
+검색하신 **'올라운더'**와 대표자명 **'박용범'**과 관련된 기업 및 사업자 정보는 다음과 같습니다.
+
+* **올라운더 주식회사**
+  * **대표자:** 박용범[1][2]
+  * **소재지:** 부산광역시 해운대구 APEC로 17, 센텀리더스마크 1803호[1][2]
+  * **사업자등록번호:** 375-87-02432[1][2]
+  * **관련 서비스:** 인터넷 문자 발송 서비스(멜로디 등) 운영[2]
+
+* **(주)올라운더에프앤비**
+  * **대표자:** 박용범[3]
+  * **업종:** 한식 음식점업 (부산 수영구 광남로 125 소재)[3][4][5]
+
+공개된 기업 정보 및 이용약관 상 위 기업들의 대표자 전화번호(010, 070 등 개인 휴대폰 및 직통 번호)는 개인정보 보호 및 운영 정책에 따라 직접적으로 공개되어 있지 않습니다. 공식적인 문의나 연락은 해당 기업의 사업장 주소지 및 사업자등록 정보를 참고하시기 바랍니다.
+
+Sources:
+[1] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd6vKpkG9Djw6SmAHnv3b0_rCeO10_kxlugB7EDkdAcZjqcEzi8EK8NdYXNZVz85-cmqakCGEzjW2YLXFSE4Y9EQUk_C2moCS7fKymrrGYHMjw7MpY7rnrcy0x5Kb6L1Kk_px-)
+[2] [melodysms.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp6uCdSJtZFPKEmjqWMUe5v5Udf6nHzF_RyX_gb8fSS5AEr6Rx7Q4GXvlOb_foJdsJmuQrxiAfNnw2Cj0Q-oXps-6_n9oujXTFWrJaKhuPex7bjj453_V9WYcllg==)
+[3] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWYfnSIESCet67L2tIYSRVkFR48wxWWDvahfkZRR61IE-eSVDft665nyC2jHDBJkgQGpxAArz-hjpzKSQMn6QByY9fN59W-9pGnIRdwAKni1WNeLvj-z4G_koQyzOz9kBqrVlk)
+[4] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ-6ZSvoEz78Q2c5oRznbOeMulqBhqQ3ZqXvDBa0wIuQ5OY-1BHiuBrwQQwEFUpETbxEvpOBbgnTBLU4tJkxsK_E9teRhBeLrM73YbTuIVjWw14loxs40QjLErFXoRXcNOUc9q)
+[5] [114-service.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOLaZUtaImo_38FAKpsHEEy44-ZRL5jYZC825p4vG4Z9Rwfz4zacSWjWk_E_SEPnFZNEaBasG4zMZ-9Pl8pJyE3h5vCR4lNPfLfmobbVp9eRmxSa12It_Tduh7fnnKDqIqPGCyCHSGIRVzSKhY4SNk9Mg=)

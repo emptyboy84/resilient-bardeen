@@ -1,0 +1,16 @@
+The search for ""모두싸인" "매출액"" returned the following summary:
+모두싸인(주식회사 모두싸인)의 매출액과 관련된 정보는 다음과 같습니다.
+
+*   **매출 규모:** 모두싸인의 2025년 기준 연간경상매출(ARR)은 **약 150억 원** 수준으로 알려져 있습니다[1][2][3].
+*   **향후 목표:** 회사는 2028년 기업공개(IPO)를 목표로 하고 있으며, 이때까지 매출액을 **500억 원 이상**으로 끌어올리는 것을 중장기 목표로 설정하고 있습니다[4][1][3].
+*   **참고 사항:** 비상장 기업인 관계로 상세한 재무제표가 대외적으로 상세히 공개되지는 않으나, 언론 보도 및 기업 발표를 통해 주요 지표인 ARR 등이 확인되고 있습니다[5][6][3].
+
+모두싸인은 현재 국내 전자서명 시장에서 높은 점유율을 확보하고 있으며, 기존 전자계약 서비스를 넘어 AI 기반의 계약 생애주기 관리(CLM) 플랫폼으로 사업 영역을 확장하며 성장을 도모하고 있습니다[1][2][3].
+
+Sources:
+[1] [newstheai.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7u_1mpSadtf0AcopTrBVdqd1cIuNVmHn9bWJcA_kNAucJDHSBYEFeg7J-fToZAUwF55pG-_od7IanO7-QSJevlnK7ik6fUln6wwijbkKSIMGdDZPcfe7QLzO6Y9m94-UaxiFBDDdXOkR6hEbs0e1z)
+[2] [newstheai.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7u_1mpSadtf0AcopTrBVdqd1cIuNVmHn9bWJcA_kNAucJDHSBYEFeg7J-fToZAUwF55pG-_od7IanO7-QSJevlnK7ik6fUln6wwijbkKSIMGdDZPcfe7QLzO6Y9m94-UaxiFBDDdXOkR6hEbs0e1z)
+[3] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWaFhK_13pRE2guM6FagLG2DToS7SG_TEwRijxSQ9neERbBsGaicrEvJsCS4ZTfxlyXQna20_o3rYnZRJclJ4qsZ8H0t3DHF02HeVtVHCfYa_14u1uOFEsA6gjNP2GHM5x)
+[4] [zdnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWaFhK_13pRE2guM6FagLG2DToS7SG_TEwRijxSQ9neERbBsGaicrEvJsCS4ZTfxlyXQna20_o3rYnZRJclJ4qsZ8H0t3DHF02HeVtVHCfYa_14u1uOFEsA6gjNP2GHM5x)
+[5] [hansbiz.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqKjxkPW4pquuB2ae3VlYY_qnPzvg04wp7nI20DxzRJrbYUR1DQXrsA9sOCorUCKhkkVgnKfgpLFqx2ggmxlSG1IAwedU3uOuJZ_SHAQeoA8qoNkCk3JXVMDpjrscdWUj9b_70s_ZQJbwdfcwnYOUrRQ==)
+[6] [hansbiz.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqKjxkPW4pquuB2ae3VlYY_qnPzvg04wp7nI20DxzRJrbYUR1DQXrsA9sOCorUCKhkkVgnKfgpLFqx2ggmxlSG1IAwedU3uOuJZ_SHAQeoA8qoNkCk3JXVMDpjrscdWUj9b_70s_ZQJbwdfcwnYOUrRQ==)

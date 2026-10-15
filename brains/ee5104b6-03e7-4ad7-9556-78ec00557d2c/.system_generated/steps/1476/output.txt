@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5531001292');
+```
+### Page
+- Page URL: https://bizno.net/article/5531001292
+- Page Title: 혜리점프
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T02-29-52-504Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T02-29-47-933Z.log#L1-L5

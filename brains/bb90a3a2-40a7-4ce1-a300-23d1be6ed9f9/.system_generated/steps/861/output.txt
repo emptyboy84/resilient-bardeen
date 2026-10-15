@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+Target: {
+  seq: 234,
+  name: '(주)화린',
+  ceo: '김우태',
+  bizNo: '826-88-02072',
+  cleanBiz: '8268802072',
+  corpNo: '180111-1383130',
+  address: '부산 해운대구 센텀중앙로 97, B동 404호 (재송동,센텀스카이비즈)',
+  currentPhone: null,
+  status: 'MISSING'
+}
+

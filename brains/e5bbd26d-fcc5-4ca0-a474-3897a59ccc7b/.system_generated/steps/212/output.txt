@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\Downloads
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-09-15  � 12:59         392566 (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�
+                                                  �_260910_ũ�ž_�.xlsx                                       
+
+
+

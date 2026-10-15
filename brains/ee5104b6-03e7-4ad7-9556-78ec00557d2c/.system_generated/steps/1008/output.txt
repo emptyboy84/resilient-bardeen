@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+대구북구-0467 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2020-04-14 대표자명 : 임대길 회사주소 : 대구광역시 북구 학정로 439 (동천동, 칠곡메가타운) 2층 202호 종업원수 : 2명 사업자등록번호 : 548-48-00178"> 소매업; 자동차 제외 > 무점포 소매업 > 통신 판매업 > 전자상거래 소매업 업태 : 도매 및 소매업 업종 : 전자상거래 소매업 통신판매업번호 : 2020-대구북구-0467 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2020-04-14 대표자명 : 임대길 회사주소 : 대구광역시 북구 학정로 439 (동천동, 칠곡메가타운) 2층 202호 종업원수 : 2명 사업자등록번호 : 548-48-00178"> (function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})(); .div_t { display:table; width:100%; border:0px solid #ddd; border-width:0px 0 0 0px; margin-bottom:0px;
+

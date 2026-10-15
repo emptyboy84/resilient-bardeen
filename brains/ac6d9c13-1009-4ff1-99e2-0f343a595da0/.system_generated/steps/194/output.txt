@@ -1,0 +1,14 @@
+The search for ""moneypin.biz" "사업자등록번호" OR "기업조회" OR "비즈노"" returned the following summary:
+검색하신 키워드와 도메인(**moneypin.biz**)은 소규모 사업자 및 법인을 위한 경영·회계 관리 솔루션인 **‘머니핀(MoneyPin, (주)모두의회계)’** 및 이들이 제공하는 **사업자등록번호·기업정보 조회 서비스(구 비즈노, BIZNO API)**와 관련이 있습니다[1][2][3].
+
+* **주요 서비스 내용:**
+  * **사업자등록정보 및 기업정보 Open API:** 국세청, 공정거래위원회, 국민연금 등의 공개 데이터를 기반으로 국내 가동 중인 사업자의 최신 정보(상호명, 대표자, 주소, 상태 등)를 조회할 수 있도록 오픈 API 및 가이드를 제공합니다[1].
+  * **B2B 서비스 연동:** 기업 회원 가입 시 사업자번호 입력을 통한 검증, 세금계산서 간편 발행, 기업 정보 자동 업데이트 등의 비즈니스 퍼널 간소화에 활용됩니다[1].
+  * **경영 및 회계 관리:** 머니핀 앱을 통해 국세청, 카드사, 은행 등의 내역을 자동 수집하여 장부 작성, 부가가치세·종합소득세 신고, 인건비 및 급여 관리 등을 지원합니다[3].
+
+사업자등록번호 조회나 관련 API 연동 문서 등에 대한 자세한 정보는 머니핀 및 비즈노 관련 공식 웹사이트(`moneypin.biz` 또는 관련 서브도메인)에서 확인하실 수 있습니다[1][2].
+
+Sources:
+[1] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDzuu6PeIlf3VWNXsyevdfHJXQQS6ExaJ_Yrdb-Q-6c6JMvgca9SQK4xsMQ0n43bW3eEIw3Jyx8uws3metb0nSBAY0FOyoCMr9ESysU3TnvgHvchI5uQ==)
+[2] [moneypin.biz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aq36ZDhisl_5XGzZk022tZPN0qjjMy7dlVV_XwhxGPZ-twNVn0s_dzWd5PMxzdzN6cGimOrv7dcKlYvF38f1t-xF0L-pvDkO-hc=)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXnOMC7yIsoc4wzUu1BqwxyqT7Cg2cpImWouy4-xujWPwGaEStqjUd8A_5Nex1LKl35flq6lxtF86hyaDB-y0kqzefikPaV-FlsLhtBh3PaYlRnpGrZ-Sm1N1KApA9L9Gyt-5X0Yqi9HoKw3qU5HcSbM_xEaiN6SQHgJqr3Q4=)

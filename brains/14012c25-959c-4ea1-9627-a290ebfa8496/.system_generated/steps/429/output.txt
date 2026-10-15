@@ -1,0 +1,15 @@
+The search for ""배병화" "아크리아스튜디오" OR "센텀" OR "게임" OR "하이퍼코믹"" returned the following summary:
+제시해주신 검색어 키워드(**배병화, 아크리아스튜디오, 센텀, 게임, 하이퍼코믹**)와 관련된 핵심 정보는 다음과 같습니다.
+
+* **아크리아스튜디오((주)아크리아스튜디오):** 생성형 AI 기반 콘텐츠 제작 및 IP 매니지먼트 전문 기업이자 IP 홀딩 법인입니다[1][2]. 
+* **대표이사:** **배병화** 대표가 아크리아스튜디오를 이끌고 있습니다[3][1]. (과거 네이버웹툰차이나 COO 및 레드로버 사내이사 등을 거친 콘텐츠 및 중국 비즈니스 전문가입니다[4].)
+* **위치 (센텀):** 본사가 부산광역시 해운대구 센텀중앙로(센텀스카이비즈)에 위치해 있습니다[3].
+* **게임 및 하이퍼코믹:** 아크리아스튜디오는 게임 소프트웨어 개발 및 공급업을 비롯해[3], 웹툰·웹소설·드라마·영화·게임·애니메이션 등 다양한 확장 콘텐츠를 다루는 **'하이퍼코믹(HYPERCOMIC)'** 생태계 및 관련 서비스(예: 하이퍼코믹 플레이 앱)와 밀접한 연관이 있습니다[2][5][6]. 팬덤이 제작에 참여하는 IP 3.0 비전을 바탕으로 투자 유치 및 콘텐츠 사업을 전개하고 있습니다[1][2].
+
+Sources:
+[1] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyT4yovi6E-iqlwyVNNV20P4Hli5oZDFn3Zpe4x_yVNaIkUZPghdPAiiV0AX9OSlQvDUiaEQ_62KCwtmo9_ZPEw8VvznX5fg8-q_N8NUcRoet36eRez5fnASCOxacG6Bw1a5utGHh3w5bhXVCoPfc1Ci-jAS1b89Gyfos=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7j8r_wonJOsybguWuBKtHaiQJ6_rG9w6YwiuZCHwe7vJSyB8FyQv1zkc3wFBT3t-JKYiTpFv2yhLW7VZ_A444rswp8NpaOm29TRA6G5TnbhEbpJAHIiv-RGK7pZJg5lNQesWQ)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoAjPInCTGQDBt3RwAG60u38OYgbjSw5Co7v-OaDS5XY7Wfg2Qr1AbNLGfc4lRh7dFwBqzT7cwUb8SnaStGELqQSEtHq9zvvJHaQyQT-rwl77cB-_aUr7AKNQkPR7CPC7x6tmeKDIn8kyL-TXPuiO8yWsPvioKGG9B0naK-AYihtbW41o_s46Vi9SyduecyRFcIqt4nxV9p06H8fDzK4DCJKEUPwZa4Wbzje1CDZ8QWuyKyvjgHAYRM8Wb21wXCpHoK2F8B6hffdTRi9o8oIbDT9LjMbkrPadB9GUrJeZT7VvQzA_3xhRNpkLSwrc4GPAT0LI=)
+[4] [tinnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFcRR2i0GQy4sryYmEU3LEyZIQfk-uPy0QHi1j8xKlrMFSI-ZzjilMsDtGoKldSvZgb4ZN6cMnA5cRnpz6QZ6ubNBgZ8uF5y-sEMI1OZYetvr82zZo)
+[5] [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCEj4TXXwYUVr21zWNWgbT_QinDjoWj9TA54OZz5tn60SKAgFREFHHKtLV9_p-Xr3LaUpKzHIFHsL4hC0ORNY0tQSAmxeOlCN_ER7EswPj7XwLvqSEuw74Vsjovz2NbCLbllS-yOOUNVFznfHweJA4K6NPf0mgAGVWtwHbijSnJZSCklz3gF9pe8lyYQ427rYQAqOxDvax0VeCfPSsLslnj3jDd7YgJ_xC)
+[6] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDi9V1rIy9bxmZU09zQ5fziX1psn-jC_n5-jEXa4RBweI-wuXTI2Zpy98iNqaETDloGWU-tFeBU2Fi1uWNktFv8eHUwJTz09u3_II5l1BjcltONsv6tRcHJ-n3mWOaaz-3Tt7WoSchjrjsA8jZqutMd6mWWaCXdicEFB2iDnqo)

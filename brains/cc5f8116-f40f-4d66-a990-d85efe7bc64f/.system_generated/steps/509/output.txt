@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+{
+  "biz_no_10": "6061643962",
+  "biz_no": "606-16-43962",
+  "title": "�Ŀ �Ʃ�picker studio�",
+  "ceo": "�ö",
+  "est_year": 2014,
+  "est_month": 3,
+  "emp_cnt": 1,
+  "tel": "070-7370-5758",
+  "fax": "051-749-9174",
+  "addr": "�λ걤� �ؿ�뱸 �ҵ� 45-0 (�쵿)",
+  "status": "�ӻ�",
+  "closed_date": ""
+}
+

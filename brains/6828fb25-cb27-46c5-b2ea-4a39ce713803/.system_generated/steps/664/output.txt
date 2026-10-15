@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Excel match row: 19389 [null,null,null,"코리아자동화",7801802206,"김병호",null,"경남 김해시 주촌면 서부로1541번길 56-35 (내삼리)","055-321-7094","-",null,"-",null,"20240415",null,0,null,null,"그 외 기타 일반목적용 기계 제조업",null,null,null,null,null,"7801802206"]
+

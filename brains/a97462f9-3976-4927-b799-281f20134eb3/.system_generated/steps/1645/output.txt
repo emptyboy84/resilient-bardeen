@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://place.map.kakao.com/14561672');
+```
+### Page
+- Page URL: https://place.map.kakao.com/14561672
+- Page Title: 블루호텔 레코딩스튜디오 | 카카오맵
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-43-27-020Z.yml)

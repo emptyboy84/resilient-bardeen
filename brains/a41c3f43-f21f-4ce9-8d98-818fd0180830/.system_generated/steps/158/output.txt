@@ -1,0 +1,5 @@
+Script ran on page and returned:
+```json
+undefined
+```
+Page navigated to https://search.daum.net/search?w=tot&q=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20%EB%A9%94%EC%89%AC%EB%A7%81%ED%81%AC%20%ED%95%98%EC%A7%84%EC%88%98.

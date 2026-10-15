@@ -1,0 +1,46 @@
+The search for ""브이알코리아" "대표자" OR "사업자등록번호" OR "설립"" returned the following summary:
+'브이알코리아'라는 명칭을 포함하거나 유사한 이름을 가진 기업이 다수 존재합니다. 검색하신 조건에 부합하는 주요 기업들의 정보는 다음과 같습니다.
+
+### 1. 주식회사 브이알코리아
+*   **대표자:** 유명숙[1][2]
+*   **사업자등록번호:** 799-88-01029[1][3]
+*   **설립일:** 2019년 1월 2일[2][4]
+*   **주요 사업:** VR 장비 도매 등[2][5]
+
+### 2. 주식회사 어메이즈브이알코리아 (AmazeVR Korea)
+*   **대표자:** 윤준식, 배재한 (일부 자료에 이승준으로 표기되기도 함)[6][7][8][9]
+*   **사업자등록번호:** 587-87-00207[7]
+*   **설립일:** 2015년 9월 24일[7][8]
+*   **주요 사업:** VR 콘서트 제작 및 유통, 온라인 정보 제공업[6][7][8]
+
+### 3. 오큘러스브이알코리아유한회사
+*   **대표자:** 데미안 여관 야오 (Damien Yeo Guan Yao)[10]
+*   **사업자등록번호:** 768-81-00065[11]
+*   **설립일:** 2015년 3월[10]
+*   **주요 사업:** 사업지원 서비스[10]
+
+### 4. 주식회사 엠브이알코리아 (MVR Korea)
+*   **사업자등록번호:** 120-86-62018[12]
+*   **설립일:** 1998년[12][13]
+*   **주요 사업:** 의료용 장비(수술실, 재활, 통증 치료 등) 수입 및 판매[12][13]
+
+---
+*참고: '클래스브이알코리아'와 같이 특정 분야의 VR 서비스 기업도 존재합니다[14][15][16]. 찾으시는 기업이 위 목록에 없다면, 기업의 정확한 명칭이나 주소지 등을 확인하여 다시 검색하시기 바랍니다.*
+
+Sources:
+[1] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdWIjkyQbUjWE2I_HTSKlTYfKrSqSv8wBUQuHXOEeH3ZXZEOzduP1Cj8-AWEobUfnY6uCJqmW-dXkAqEIxuQiAaqPZy5a3awOAonDfnvAhY98HtznGMl7M5W2sbFuE_KflXoW3OPZjdP8=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNLeLO3I73Q-ll8HlHEmkaF4ijY4C_kW3dsMi5Vho1hlM3_j3QMnJles0_scJ3evc6dMpzpb6cn378WvC2iBkIjGQxJ23RJAplRAjhq85i_UJ2urhmVNZchm4RZzKNh0X2BqUWFzDDOa19Cv0Y9nT9KRjvNFhuP9mAPfdyVHAGlI6OYKYUGBVz8nXRy1Me)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdWIjkyQbUjWE2I_HTSKlTYfKrSqSv8wBUQuHXOEeH3ZXZEOzduP1Cj8-AWEobUfnY6uCJqmW-dXkAqEIxuQiAaqPZy5a3awOAonDfnvAhY98HtznGMl7M5W2sbFuE_KflXoW3OPZjdP8=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMHScpFkRygUFZsatQQGZeW8muAk9yrEzrokluFomQUqPoQ9ad7btUHaEdmTiz62FE1Kd8hB5qq2cGVT24ib9XtoZXRxNBnkFGqbVfM8wRvuzavxrbGnlL3WS4yGsqQ5y6lSB5PoEyzZtnh3EnILUdO9ewNeyaWzB8yKkHsTmy0rbAL_P97sH-X1x0UFhdIux-6YJlVOGI_WhiStXRehH4C_4S1HwkA4FcVj5KJgv5RBbOMOEL2QFcd8vte6V0re51vtZoDRZTsWwpoTiiufsmVoMN12nvdkObkGb6swcZGOlLg==)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMHScpFkRygUFZsatQQGZeW8muAk9yrEzrokluFomQUqPoQ9ad7btUHaEdmTiz62FE1Kd8hB5qq2cGVT24ib9XtoZXRxNBnkFGqbVfM8wRvuzavxrbGnlL3WS4yGsqQ5y6lSB5PoEyzZtnh3EnILUdO9ewNeyaWzB8yKkHsTmy0rbAL_P97sH-X1x0UFhdIux-6YJlVOGI_WhiStXRehH4C_4S1HwkA4FcVj5KJgv5RBbOMOEL2QFcd8vte6V0re51vtZoDRZTsWwpoTiiufsmVoMN12nvdkObkGb6swcZGOlLg==)
+[6] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElwAbYXpk3NzJewwkdI5xt6ZbHQLIT9zIKBDyanwcxtkTezlHbqTeT12sNcjB6k4bqGFB4TMHfvcxKsIog_-xeJ5wH9HKaHITITbYHq4NsqouSDcu77SjKZ93h76ki0uD1LbgsiOClEA==)
+[7] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT-4eZgupLxsIu6UBPxfh7rY2R_vxJvBOjIPtaH_1GMFCsmOK05_nnd4ZpOWUnfaHmQMraXY896KnSjoyHX147vRhXfvhROKFgvw-64HYspdjHSM5AfcA8-jBzW3SV-G0EMFtTxBRCSKNJxw2F_2Fp21UplIy7sn9Q8X4=)
+[8] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnnfXGw8DpVp0zM34prhmGTuCAU21xixp0IWRJD-U4wjibiNHRmee7KbSlK69dzG4B7btCGxRccAh-dw0EN5xtQy1E52Dj-LgOa6Nrv2w7FhhM0EtLmXPguCzC0192lveaOv1AcF6Rk4-7svXJ83wPLSus5FdeB6r_w-h1CJ4r2uVRCT3PR10Lw19Ow1dnIK8PHmpL0QF_Z_D4Y-npUphs9Q4XRZBoIOnRg9mlki-ZolARjNDP8g945WwTZhcLmKphnlHd7zmx6m5cw6fL2Ju2gASc-sgBdUpevlomwuUuSwxSSxXirYEs2eeXzGVnDZ8f5M3LiJlWaSORSEFxMCUg)
+[9] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElwAbYXpk3NzJewwkdI5xt6ZbHQLIT9zIKBDyanwcxtkTezlHbqTeT12sNcjB6k4bqGFB4TMHfvcxKsIog_-xeJ5wH9HKaHITITbYHq4NsqouSDcu77SjKZ93h76ki0uD1LbgsiOClEA==)
+[10] [saram.in](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ds0nwMzzxTsxkBjFTR7P2Fk9ZQy9xlacf2FdRvZsOJgjU67DS8VLbBz0GBiscmS-x-SeTe8ePv4kisRXA6t88sqCHXGvjBAUIUu3aEQgav0n)
+[11] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGzabrgpkXimcxPxkFaRD4k4kCwtZchSI79r6QRoAeC4LqHlE5P5pLpDNavMCT2KvDE-7s1exjQ16Y4rMIYozIqZSxgnIB6xKjaYHpD-Iloi1sMySGyBiMZf4NHCsWEwvHYQ==)
+[12] [mvrkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXaIcBC5mgylso6ZRvd0bt8Ox6QsSkMNtdCbAkotIgDk4vgLhy5JOaVPXqP67fkTSnc9fWyFJ9EofxzsCqulXrYaydCVRokNwfCBQGDW6UczXTw6o0szys5jIVuM4JbxZY5YUl3gxZ8smMG_NmDRCaFPkgTac=)
+[13] [linkonbiz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddlhszOaKyyx_5iq3XJw97FzyJ0GaZJL6GRKdxXd-_-OWQNks5NawxK6Z0BCUrsmjPgrg056PtR5AcvBGRP-Vi6ALLeX5Z0h-hSGMDazP2KSLuuIcNeI9vGU=)
+[14] [dailymedi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6SJFdjvDREP34a3PCG4MxOmWqoUyxqJNrTO3IeQ9NrDB16uFAAZWNj5reiEXDLw-LctPeMhIF-R8g7XOWj0M7gw_ByQhl2v1QpsrnfCnGdSQvL5jSe2u9YFpx61jW68MDQbch0sFEOxbtGg==)
+[15] [mk.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEalXW8Oks7LOVkKut-Q-Eg_hXpTL35SWP-FNPaNABKikOWNTX5Gc5I2NKQgtV3j20zuEM7WbVzHksIXhP3vx9tjjYI13WGsoVKpvmwWYirqqAGWhJZxbbmEcsY)
+[16] [kbench.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANRguYiwRqZTZtEGphWu3gKq6x4JvJnNonE5ov1Nvm8e1BKxmMEHvUsJIpWlfyL_PibUZajddQV6y8mDxDYE__CfQ_cEWQOlhtlPwmBnoRnPyu6m7RiK59w==)

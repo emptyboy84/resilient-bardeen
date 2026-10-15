@@ -1,0 +1,8 @@
+The search for ""맥스폼" OR "MAXFOAM" "달맞이길"" returned the following summary:
+부산광역시 해운대구 **달맞이길**에 위치한 기업 및 주소 정보와 관련된 검색 결과입니다[1].
+
+* **기업명:** (주)맥스폼 (MAXFOAM)[1]
+* **소재지 도로명 주소:** 부산광역시 해운대구 달맞이길 193, A동 202호 (중동, 부광가든)[1]
+
+Sources:
+[1] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUx2CF4C1W1u4p7LEDSlpc_ADb5IMIOPgYh56ATZZnUd0dvMiREvNf4XVBvBr08Ji2aOSI3-8SfFGvVX9H3IYzw-q3Rpif1ewievbZdbnsglO2HS3E2XRQEQI_DI0S3vNCbpA=)

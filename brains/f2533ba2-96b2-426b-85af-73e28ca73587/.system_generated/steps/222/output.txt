@@ -1,0 +1,61 @@
+
+The command exited with code 0.
+Output:
+Links for 남흥용: [
+  '/article/5688102726', '/article/6102732626',
+  '/article/6102536119', '/article/6103774135',
+  '/article/6108162423', '/article/6108135926',
+  '/article/6102802319', '/article/6102414933',
+  '/article/4511700128', '/article/6102399920',
+  '/article/6102555528', '/article/6102418720',
+  '/article/5162700235', '/article/6102641526',
+  '/article/6101516924', '/article/1328262804',
+  '/article/2375400018', '/article/5988200634',
+  '/article/4508200327', '/article/6079052028',
+  '/article/6102469423', '/article/6101672428',
+  '/article/6102788533', '/article/3499802235',
+  '/article/6109924026', '/article/6101629635',
+  '/article/6100635424'
+]
+Article: /article/5688102726 <title>엔유산업개발</title>
+Article: /article/6102732626 <title>7번가피자공업탑점</title>
+Article: /article/6102536119 <title>토스피아</title>
+Article: /article/6103774135 <title>삼호정밀산업</title>
+Article: /article/6108162423 <title>울산유노아카데미</title>
+Article: /article/6108135926 <title>다흥</title>
+Article: /article/6102802319 <title>신정빌딩</title>
+Article: /article/6102414933 <title>투게더모델</title>
+Article: /article/4511700128 <title>고집센그집갈비탕울산옥동점</title>
+Article: /article/6102399920 <title>시스매니저울산</title>
+Article: /article/6102555528 <title>비아쥬디스</title>
+Article: /article/6102418720 <title>기현ENG</title>
+Article: /article/5162700235 <title>몽마르조</title>
+Article: /article/6102641526 <title>박동태찜탕</title>
+Article: /article/6101516924 <title>도산상회</title>
+Article: /article/1328262804 <title>사단법인불교아미타염불선원</title>
+Corp matches: [
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893',
+  '134321-0000893'
+]
+Article: /article/2375400018 <title>피앤피컴퍼니</title>
+Article: /article/5988200634 <title>구국학사개척사업협회</title>
+Corp matches: [
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077',
+  '110121-0005077'
+]
+Article: /article/4508200327 <title>중랑마을교육사회적협동조합</title>
+Article: /article/6079052028 <title>세훈영어교습소</title>
+Article: /article/6102469423 <title>개성시대</title>
+Article: /article/6101672428 <title>대흥물류</title>
+Article: /article/6102788533 <title>제이토탈피트니스</title>
+Article: /article/3499802235 <title>비에스인력개발</title>
+Article: /article/6109924026 <title>남부전당포</title>
+Article: /article/6101629635 <title>한반도칼라스크린</title>
+Article: /article/6100635424 <title>울산축산랜드</title>
+

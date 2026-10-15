@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://m.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=IR7061');
+```
+### Page
+- Page URL: https://m.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=IR7061
+- Page Title: (주)위드마인드 - 기업상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-28-19-063Z.yml)

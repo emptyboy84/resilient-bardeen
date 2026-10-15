@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+=== Row 19310 ===
+  Col 3 (회사명): 세컨드툴
+  Col 4 (사업자번호): 7715700654
+  Col 5 (대표자): 김삼식
+  Col 11 (이메일): secondtool19@gmail.com
+  Col 18 (업종(NICE BizINFO(업종)참고): 온라인공동물류
+  Col 24 (사업자번호): 7715700654
+

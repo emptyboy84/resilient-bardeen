@@ -1,0 +1,112 @@
+
+The command exited with code 0.
+Output:
+OTHER dates count: 21
+[
+  {
+    "lineNum": 737,
+    "company": "게임보이즈",
+    "date": "-"
+  },
+  {
+    "lineNum": 757,
+    "company": "하이플리",
+    "date": "-"
+  },
+  {
+    "lineNum": 768,
+    "company": "파인미디어",
+    "date": "-"
+  },
+  {
+    "lineNum": 1010,
+    "company": "스튜디오이매진",
+    "date": "-"
+  },
+  {
+    "lineNum": 1040,
+    "company": "피엘시스템",
+    "date": "-"
+  },
+  {
+    "lineNum": 1103,
+    "company": "마코",
+    "date": "2002.12"
+  },
+  {
+    "lineNum": 1865,
+    "company": "유원하이텍",
+    "date": "2010.06"
+  },
+  {
+    "lineNum": 5026,
+    "company": "(주)베이몬드건설",
+    "date": "2022.07"
+  },
+  {
+    "lineNum": 5082,
+    "company": "동서열처리 주식회사（미음지점）",
+    "date": "2015.01"
+  },
+  {
+    "lineNum": 5153,
+    "company": "주식회사 신화볼트",
+    "date": "2012.11"
+  },
+  {
+    "lineNum": 5208,
+    "company": "(주)비엔아이",
+    "date": "그 외 기타 달리 분류되지 않은 제품 제조업"
+  },
+  {
+    "lineNum": 5435,
+    "company": "부경기계산업",
+    "date": "금속 절삭기계 제조업"
+  },
+  {
+    "lineNum": 11978,
+    "company": "에이치정공",
+    "date": "2022.01"
+  },
+  {
+    "lineNum": 12026,
+    "company": "신신하이드로",
+    "date": "2021.11"
+  },
+  {
+    "lineNum": 12136,
+    "company": "성화테크",
+    "date": "2017.08"
+  },
+  {
+    "lineNum": 12263,
+    "company": "미르기획",
+    "date": ".."
+  },
+  {
+    "lineNum": 15057,
+    "company": "백봉제어기계",
+    "date": "2000.1"
+  },
+  {
+    "lineNum": 15080,
+    "company": "알파 테크노파크점",
+    "date": "2010.04"
+  },
+  {
+    "lineNum": 15140,
+    "company": "디자인거산",
+    "date": "2001.12"
+  },
+  {
+    "lineNum": 19271,
+    "company": "(주)운복 ",
+    "date": "2020.02"
+  },
+  {
+    "lineNum": 19316,
+    "company": "리와인드프롬오아시스",
+    "date": ".."
+  }
+]
+

@@ -1,0 +1,21 @@
+The search for ""도매업 기반 상품 종합" OR "와이에스(YS)컴퍼니"" returned the following summary:
+'와이에스(YS)컴퍼니'라는 상호를 가진 기업은 다수 존재하며, 각각 다른 업종과 지역에서 활동하고 있습니다[1][2][3][4]. 따라서 특정 기업을 지칭하시려면 업종이나 지역 등 추가 정보가 필요할 수 있습니다.
+
+검색된 주요 '와이에스(YS)컴퍼니' 관련 정보는 다음과 같습니다.
+
+*   **기업 현황:**
+    *   **전시 및 행사 대행:** 경상북도 예천군에 소재한 기업(2024년 설립)[1].
+    *   **기타 기업:** 경기도 남양주시, 인천광역시 부평구, 경기도 광주시 등 여러 지역에 동일한 상호의 기업들이 등록되어 있습니다[2][3][4].
+    *   **유통 및 판매:** 코오롱몰이나 더카트골프와 같은 온라인 쇼핑몰의 판매 협력업체 리스트에 '와이에스(YS)컴퍼니'가 포함되어 있는 사례가 확인됩니다[5][6]. 이는 해당 기업이 도소매업이나 유통업을 겸하고 있음을 시사합니다.
+    *   **A/S 센터:** 대전 유성구 지역에서 특정 제품의 A/S 센터를 운영하는 '와이에스(YS)컴퍼니'도 확인됩니다[7].
+
+**"도매업 기반 상품 종합"**이라는 문구와 관련해서는 해당 키워드 자체로 특정된 기업명이나 공식 명칭이 검색되지 않았습니다. 만약 특정 사업자나 기업의 공식 명칭, 혹은 특정 공고를 찾으시는 것이라면, 해당 문구가 포함된 정확한 문서나 분야를 알려주시면 더 자세히 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg0VVxuB1rl4FYKpDdwXodUOV2zI149fWlD2mxZaWZjDrtL0G86yT3bnH49KCWjSjFRuYztPSZfsEIYzJ1MurG8KMtS3i2FgiyvTqgbULerX7pduIG)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFY_eoDksSAMz5iY7bPn3OCbOn5S3GX7fHKP8snUJ6uUeTow9d70Zi3bxx_ZsOtVufLq4JT95GC2YVz0UEy7ojgajPcg_CBLwP1CeCbLoyR-75DhtKzd-WUknfVDGlunhmNyI=)
+[3] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS6tpBm7Q1JELrqdM3G1e-cbaivv5SnRp8Y9nmSwfpryFuHDG6p1P7VnI1RxoAodJ1wappIOk7pqpZtsqZ6-37Llu-XIwN3RjqgsToJPK_MTPwfwgpEmFPQbWF6-8xRvekckjXmHyE5ZE=)
+[4] [shopcamp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2wGd3aQnGiXBsUDEugMxy8hsVtO-UZpn8VmCr8cLCvI_9yE5nh8HkEWGWv0_TfqVPaTpzDlbh9eEP1bsT7m0u6zTyl3hgJnALuQ2O72sgqHiwNOYWpP_30PhKVFw-Zw==)
+[5] [thecart.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8GSMjpHUyRmmb_zRqIwwOxZ3qf_ZC7Py9gzJ4-YBGHfQvxyK0wKoEMKQ1YQ2UCMVqPn_ZDX5dSfwXsuCh8J5RjRpntm2eYC2ppNTvvExHDDzhVhWP7KHesyb8mvULj6wknzcwnPcDPHTMIipvMA==)
+[6] [kolonmall.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjEGDoz1kVKrO3tOxB3rU5BcehqB6UWH1kcKC68ny8p6PJnAkwXpitAdlrwpadiEAyVYqUVn-dPVTNwo78Rmc5ySQL2U7RPfRljD-hJHWv5HjvkB1Uam3AfwktjZM_U7v-S-3jtn6vLzXcVlAi7Q==)
+[7] [gnetsystem.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVR8SiSwwTA-k8bDkbjf4pU-HhhHtC2TNNXhAgweGFHH2Nl_5s-6pFFMCZvklULIFCvPqqDExc3_V_s3V1Oq4g0WNMNgRZyfDSob8rbjaY-Za_IrUvncxNd602jAoTqJk_pHUnGg==)

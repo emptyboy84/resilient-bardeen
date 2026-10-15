@@ -1,0 +1,379 @@
+
+The command exited with code 0.
+Output:
+
+=== Inspecting: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사_심층4차.xlsx ===
+Rows 1-300: filled cells count = 92
+Sample filled cells: [
+  {
+    "r": 1,
+    "c": 1,
+    "val": "순번",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 2,
+    "val": "기업명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 3,
+    "val": "대표자명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 4,
+    "val": "기업상태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 5,
+    "val": "기업유형/형태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 6,
+    "val": "사업자번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 7,
+    "val": "법인번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 8,
+    "val": "산업분류",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 9,
+    "val": "주소",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 10,
+    "val": "전화번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  }
+]
+
+=== Inspecting: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx ===
+Rows 1-300: filled cells count = 87
+Sample filled cells: [
+  {
+    "r": 1,
+    "c": 1,
+    "val": "순번",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 2,
+    "val": "기업명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 3,
+    "val": "대표자명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 4,
+    "val": "기업상태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 5,
+    "val": "기업유형/형태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 6,
+    "val": "사업자번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 7,
+    "val": "법인번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 8,
+    "val": "산업분류",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 9,
+    "val": "주소",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 10,
+    "val": "전화번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  }
+]
+
+=== Inspecting: C:\Users\lg\Desktop\Today\부산기업_전화번호검증_완료본_20261014.xlsx ===
+Rows 1-300: filled cells count = 58
+Sample filled cells: [
+  {
+    "r": 1,
+    "c": 1,
+    "val": "순번",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 2,
+    "val": "기업명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 3,
+    "val": "대표자명",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 4,
+    "val": "기업상태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 5,
+    "val": "기업유형/형태",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 6,
+    "val": "사업자번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 7,
+    "val": "법인번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 8,
+    "val": "산업분류",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 9,
+    "val": "주소",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  },
+  {
+    "r": 1,
+    "c": 10,
+    "val": "전화번호",
+    "fill": {
+      "type": "pattern",
+      "pattern": "solid",
+      "fgColor": {
+        "argb": "FF1F4E79"
+      }
+    }
+  }
+]
+

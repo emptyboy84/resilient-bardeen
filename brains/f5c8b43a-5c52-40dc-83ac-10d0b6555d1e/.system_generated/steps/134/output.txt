@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Workbook creation: 390.996ms
+Write to buffer/file: 4.247s
+Buffer size MB: 2.72
+

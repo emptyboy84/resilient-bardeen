@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/entry/place/2033734187?placePath=%2Fhome');
+```
+### Page
+- Page URL: https://map.naver.com/p/entry/place/2033734187?placePath=%2Fhome
+- Page Title: 장소 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T01-31-00-656Z.yml)

@@ -1,0 +1,30 @@
+The search for ""페이타랩" "452-87-01123" OR "곽수용" "패스오더" "매출액" OR "실적" OR "감사보고서"" returned the following summary:
+주식회사 **페이타랩**(사업자등록번호: 452-87-01123, 대표이사: 곽수용)에 관한 정보는 다음과 같습니다.
+
+### 기업 개요
+*   **기업명:** 주식회사 페이타랩 (PaytaLAB)[1]
+*   **대표자:** 곽수용[2][1]
+*   **주요 서비스:** 모바일 주문 결제 플랫폼 '패스오더'[3][1]
+*   **사업장 소재지:** 
+    *   서울 강남구 영동대로 85길 34, 6층[4][5]
+    *   부산 부산진구 서면로 39, 6층[4][5]
+
+### 재무 실적 정보 (참고용)
+비상장 플랫폼 등을 통해 공개된 페이타랩의 최근 연도별 매출액 및 영업이익 추정치는 다음과 같습니다 (단위: 억원)[2].
+
+| 기간 | 매출액 | 영업이익 | 당기순이익 |
+| :--- | :---: | :---: | :---: |
+| 2025년 | 74 | -17 | -15 |
+| 2024년 | 59 | -37 | -30 |
+| 2023년 | 34 | -55 | -45 |
+| 2022년 | 11 | -45 | -41 |
+| 2021년 | 5 | -25 | -21 |
+
+*(참고: 위 재무 수치는 비상장 거래 플랫폼 등에 공개된 자료이며, 실제 감사보고서상 수치와 차이가 있을 수 있습니다. 정확한 공시 정보는 금융감독원 전자공시시스템(DART)을 통해 확인하시기 바랍니다.)*
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5LpAlCm-v4fSbJhoMzq50qLCcu-yNsKPVbP7rsQIGzJjRzbM1feWzfBRulNYa_F83Q92K-icH8J9dFGXAiq9UEIOpnaUQMO_XSwFtdjo=)
+[2] [seoulexchange.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Z3fhldt0bWpiNUuhMgZCrgPo71QitUOMPj_pG5OSKkH_-Nx17XljB_xyP31nq-KeoNQ-VRItzEs3eGQKYmRJnOy2XOU2Fwt-jiT6pX8dsOh26Or-0s1b05r0HcLH5jUfOGlKvTWOVHM5PI99ngHTnZzc282-5gjI0EXZuLjeJzJABw==)
+[3] [siminilbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEII5cXXGGiTDxP-8NGuQWzW9cMUuTwIUVcBOxyje1N19LFdVuinoa284NUWOdIJ-0CidNO4mVthhA-0LHZIZ2JdBbQehENi3aY573myEl_Kveexuh2726ZiM_kTMysYlyHrUkcxdjoT9RIEwH5huWN8yC-I_7oyp3Lzt8xH9mIP4iNTotgf5ox1AxD-ji9xL8RPYoLAdrLvPZ_vOCq3DP0JRGvE2_GFKHUU4uVyWZpFHYqOOUo8YlCRtYxF92J9xYXjvNtWp6noszz3Dtxyh5QwKyNX-XBs5s-D55oJDBd_3sKyJ4B7IMRK9GaXCx1htJs)
+[4] [passorder.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhHlj5usK6m4vOdRNy_aORIHwzZ8RZTnx1vHxYs1zZEULdDFlNI4Z6DNq4P04GMbqAWKyDVP7JHEMh5nrtxcTHi0qyk8EfVZmYkBEoivIZzfr8VI_LcOnq)
+[5] [passorder.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhkv_YwqkV9od5t6c8SWDANpZcNBgx3UcjGGRZoNz0xT1KlWyqZSAiHQV_iMkqtWRWQGA4xYFc4A6K1rdgtql5lQFyDcNnhHHIH5NgupdVr9sSw3wOfWiEKWE=)

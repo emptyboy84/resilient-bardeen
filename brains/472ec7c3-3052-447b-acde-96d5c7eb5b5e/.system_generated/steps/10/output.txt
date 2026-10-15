@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+
+FullName                                          
+--------                                          
+C:\Users\lg\AppData\Roaming\Antigravity           
+C:\Users\lg\AppData\Roaming\Antigravity IDE       
+C:\Users\lg\AppData\Local\antigravity             
+C:\Users\lg\AppData\Local\antigravity-updater     
+C:\Users\lg\AppData\Local\Programs\antigravity    
+C:\Users\lg\AppData\Local\Programs\Antigravity IDE
+
+
+

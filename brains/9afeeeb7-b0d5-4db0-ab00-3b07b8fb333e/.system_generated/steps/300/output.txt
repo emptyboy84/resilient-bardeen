@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Found in all_500_factchecked.tsv
+Found in all_500_verified.tsv
+Found in bizno_filtered_result.csv
+Found in bizno_filtered_result.tsv
+Found in bizno_filtered_result_nice.csv
+Found in bizno_filtered_result_nice.tsv
+Found in current_pasted_batch.tsv
+Found in merged_500_perfect.tsv
+

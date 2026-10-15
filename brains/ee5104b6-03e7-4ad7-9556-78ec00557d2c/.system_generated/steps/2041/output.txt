@@ -1,0 +1,12 @@
+The search for ""죽전로 6" ("신영산업" OR "신창산업" OR "양기우")" returned the following summary:
+검색 결과는 다음과 같습니다.
+
+*   **신영산업**: 경상남도 창원시 의창구 죽전로 6 (팔용동)에 위치한 업체로, 기타 음향기기 제조업 및 전자부품 조립 등을 수행하는 것으로 확인됩니다[1][2].
+*   **기타 정보**: 
+    *   "죽전로 6" 주소지에는 경기도 용인시 기흥구의 한 건물(한솔프라자)이 포함된 건설 관련 기록[3][4]도 검색되나, 질의하신 "신창산업" 또는 "양기우"와 직접적으로 연결된 정보는 찾을 수 없었습니다.
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_HgqYPBaAARVS9lvjaKGI8Ka2v9cPB-K-n-MJtUovvlvyVRYKhcz6xVJuY4TONRlzkt_6JJvmGLr6eramdjwBcaMpTV7qAG3E5Nxglo1E-pCZ9tTZYdj0cZk=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6BAdyQWfL2A1ZnzIohMRsEkPuvJid22ho355W0R9i8TutAV-_RZkOMQRPF2bL3hEYvHRzXAIfxIaBbVSq2ntJWDuxzkI11lEPMpSQJLA3_eIO5CmNxqr2XO1WuUzlBL5waUwFxSskISkRzhr01FxHbnbzvjhkN43nURIXCemE7jcVf7CEZdPyUqn3b26YO4KQ82AyhqBE0HTEQi7sylhcoQq33BSXrrRzMIvCOnaSXkDw_I1EZ8vZRbpwPQnHMZVHP8e8qFvrBDoCbFgviyasNQ==)
+[3] [lh.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtOONGl6FHmAkiZyngf77vkIWpF65ksyV3MA3vzDUzakri2GpGSv_RA7YR3UZz7Pt6OjqgXhrQmXDbx4ZN6icg8OjgW-KL0eAl4im6_Lft7GeKZnV6HbvCQ0GiygJOMZuiLGB3CCbKaf4oLbzYGHLTbidMinpli2zG)
+[4] [lh.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg3jGr0cFIvHTrYDgOPV2miOTODsXH4zcSQX79QKI0zBeJa2kKfxCZsNDkyMy4Hj8-lUQtx70V4Lzx-9aUQuvKsuESe0IQuH349EuebbJaO_VPQXCou08Dk_Zwuqe2JKJFXwfDZBU9tr3PH3QZ48_t9xf2-eZQk_8y)

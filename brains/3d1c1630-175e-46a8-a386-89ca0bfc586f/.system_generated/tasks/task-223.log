@@ -1,0 +1,492 @@
+[READING] C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_최종본_수정완료.xlsx...
+[DONE] Extracted 1500 rows from C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_최종본_수정완료.xlsx
+[READING] C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx...
+[DONE] Extracted 1500 rows from C:/Users/lg/Desktop/오늘/(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx
+
+======================================================
+         배현명 담당 1,500행 전수 비교 및 재검증 결과        
+======================================================
+
+총 값 불일치 셀 수: 921개 (영향받은 행: 400개)
+총 채우기색 불일치 셀 수: 7429개
+컬럼별 값 불일치 발생 건수: {
+  '2': 7,
+  '5': 24,
+  '6': 59,
+  '7': 145,
+  '8': 109,
+  '9': 70,
+  '10': 61,
+  '11': 117,
+  '15': 235,
+  '18': 80,
+  '25': 14
+}
+
+[값 불일치 대표 샘플 (최대 20건)]
+[
+  {
+    "row": 11847,
+    "col": 7,
+    "company": "주식회사 룩스텍",
+    "finalVal": "경상북도 구미시 산호대로 363",
+    "targetVal": ""
+  },
+  {
+    "row": 11849,
+    "col": 7,
+    "company": "(주)티월드",
+    "finalVal": "경상북도 구미시 신시로 80-1 (송정동)",
+    "targetVal": ""
+  },
+  {
+    "row": 11849,
+    "col": 10,
+    "company": "(주)티월드",
+    "finalVal": "http://tworldfriends.co.kr/",
+    "targetVal": ""
+  },
+  {
+    "row": 11849,
+    "col": 11,
+    "company": "(주)티월드",
+    "finalVal": "d33334@nate.com",
+    "targetVal": ""
+  },
+  {
+    "row": 11851,
+    "col": 18,
+    "company": "네오스틸",
+    "finalVal": "그 외 기타 1차 철강 제조업",
+    "targetVal": "선철 주물 주조업"
+  },
+  {
+    "row": 11852,
+    "col": 15,
+    "company": "지르텍치과기공소",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11857,
+    "col": 18,
+    "company": "진우정밀",
+    "finalVal": "금속선 가공제품 제조업",
+    "targetVal": "그 외 기타 특수목적용 기계 제조업"
+  },
+  {
+    "row": 11858,
+    "col": 15,
+    "company": "모모화장품",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11859,
+    "col": 15,
+    "company": "준성산업",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11859,
+    "col": 18,
+    "company": "준성산업",
+    "finalVal": "금속선 가공제품 제조업",
+    "targetVal": ""
+  },
+  {
+    "row": 11863,
+    "col": 11,
+    "company": "디티앤글로벌",
+    "finalVal": "dtng2012@naver.com",
+    "targetVal": ""
+  },
+  {
+    "row": 11863,
+    "col": 15,
+    "company": "디티앤글로벌",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11865,
+    "col": 15,
+    "company": "투미니",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11866,
+    "col": 15,
+    "company": "허브어스",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11867,
+    "col": 11,
+    "company": "나늘",
+    "finalVal": "yh.jeong85@gmail.com",
+    "targetVal": ""
+  },
+  {
+    "row": 11867,
+    "col": 15,
+    "company": "나늘",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11868,
+    "col": 11,
+    "company": "이오",
+    "finalVal": "eotex@naver.com",
+    "targetVal": ""
+  },
+  {
+    "row": 11868,
+    "col": 15,
+    "company": "이오",
+    "finalVal": "1",
+    "targetVal": ""
+  },
+  {
+    "row": 11869,
+    "col": 15,
+    "company": "선진정밀",
+    "finalVal": "0",
+    "targetVal": ""
+  },
+  {
+    "row": 11869,
+    "col": 18,
+    "company": "선진정밀",
+    "finalVal": "그 외 자동차용 신품 부품 제조업",
+    "targetVal": "그 외 기타 금속 가공제품 제조업"
+  }
+]
+
+------------------------------------------------------
+     데이터 무결성 검증 (사업자번호, 법인번호, 개인사업자 오등록 등)    
+------------------------------------------------------
+
+<<< [최종본_수정완료.xlsx (또는 git 레포 마스터)] 검증 요약 >>>
+- 사업자번호 누락: 0건
+- 사업자번호 체크섬 오류: 54건
+- 법인번호 입력된 건수: 582건 / 1500건
+- 개인사업자인데 법인번호 기재: 5건
+  목록: [
+  {
+    "row": 5076,
+    "company": "미주물류",
+    "bizno": "5585201074",
+    "corpNo": "171711-0059765",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5097,
+    "company": "중부기업",
+    "bizno": "3354801343",
+    "corpNo": "160113-0007468",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5219,
+    "company": "태영정보통신",
+    "bizno": "4496100055",
+    "corpNo": "194211-0288490",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5280,
+    "company": "대성이앤지",
+    "bizno": "6033094589",
+    "corpNo": "135511-0112454",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 11881,
+    "company": "선진정밀",
+    "bizno": "5149563369",
+    "corpNo": "170111-0129503",
+    "taxType": "개인사업자"
+  }
+]
+- 법인번호 체크섬 불일치: 11건
+  목록: [
+  {
+    "row": 704,
+    "company": "재단법인천주교티없으신마리아성심수녀회아베마리아출판사",
+    "bizno": "6178260307",
+    "corpNo": "184322-0000618",
+    "taxType": "비영리법인",
+    "entityKind": "22",
+    "checkDigit": 8,
+    "calcCheck": 9
+  },
+  {
+    "row": 1874,
+    "company": "구포새마을금고",
+    "bizno": "6068231059",
+    "corpNo": "184444-0001329",
+    "taxType": "비영리법인",
+    "entityKind": "44",
+    "checkDigit": 9,
+    "calcCheck": 0
+  },
+  {
+    "row": 2415,
+    "company": "한국자산관리공사 부산지역본부",
+    "bizno": "7278200116",
+    "corpNo": "114671-0023169",
+    "taxType": "비영리법인",
+    "entityKind": "71",
+    "checkDigit": 9,
+    "calcCheck": 1
+  },
+  {
+    "row": 2417,
+    "company": "건강보험심사평가원부산지원",
+    "bizno": "6058206412",
+    "corpNo": "111471-0009718",
+    "taxType": "비영리법인",
+    "entityKind": "71",
+    "checkDigit": 8,
+    "calcCheck": 2
+  },
+  {
+    "row": 3343,
+    "company": "천마재활원",
+    "bizno": "6038210754",
+    "corpNo": "184232-0000307",
+    "taxType": "비영리법인",
+    "entityKind": "32",
+    "checkDigit": 7,
+    "calcCheck": 5
+  },
+  {
+    "row": 5012,
+    "company": "주식회사 강서이앤씨",
+    "bizno": "3778703418",
+    "corpNo": "180111-0160265",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 5,
+    "calcCheck": 6
+  },
+  {
+    "row": 5044,
+    "company": "(주)대아선재 녹산공장",
+    "bizno": "6068526839",
+    "corpNo": "180111-0149850",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 0,
+    "calcCheck": 6
+  },
+  {
+    "row": 5060,
+    "company": "(주)쿤스트원 부산센텀지점",
+    "bizno": "8688501741",
+    "corpNo": "111011-1596581",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 1,
+    "calcCheck": 0
+  },
+  {
+    "row": 5121,
+    "company": "스카텍이엔지 주식회사",
+    "bizno": "2748103887",
+    "corpNo": "180111-0160895",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 5,
+    "calcCheck": 4
+  },
+  {
+    "row": 5151,
+    "company": "주식회사 엔케이 에더먼트",
+    "bizno": "5838603184",
+    "corpNo": "180111-0161656",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 6,
+    "calcCheck": 2
+  },
+  {
+    "row": 5237,
+    "company": "듀오정보（주）부산경남지사",
+    "bizno": "6018514298",
+    "corpNo": "180111-1475410",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 0,
+    "calcCheck": 6
+  }
+]
+- 영리법인본점인데 법인번호 미기재: 11건
+- 주소 누락: 69건
+- 우편번호 누락: 11건
+- NICE업종 누락: 2건
+
+<<< [현재 바탕화면의 배현명.xlsx (12:09 수정)] 검증 요약 >>>
+- 사업자번호 누락: 0건
+- 사업자번호 체크섬 오류: 54건
+- 법인번호 입력된 건수: 571건 / 1500건
+- 개인사업자인데 법인번호 기재: 5건
+  목록: [
+  {
+    "row": 5076,
+    "company": "미주물류",
+    "bizno": "5585201074",
+    "corpNo": "171711-0059765",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5097,
+    "company": "중부기업",
+    "bizno": "3354801343",
+    "corpNo": "160113-0007468",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5219,
+    "company": "태영정보통신",
+    "bizno": "4496100055",
+    "corpNo": "194211-0288490",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 5280,
+    "company": "대성이앤지",
+    "bizno": "6033094589",
+    "corpNo": "135511-0112454",
+    "taxType": "개인사업자"
+  },
+  {
+    "row": 11955,
+    "company": "케이엠테크",
+    "bizno": "5232800716",
+    "corpNo": "280211-0028813",
+    "taxType": "개인사업자"
+  }
+]
+- 법인번호 체크섬 불일치: 11건
+  목록: [
+  {
+    "row": 704,
+    "company": "재단법인천주교티없으신마리아성심수녀회아베마리아출판사",
+    "bizno": "6178260307",
+    "corpNo": "184322-0000618",
+    "taxType": "비영리법인",
+    "entityKind": "22",
+    "checkDigit": 8,
+    "calcCheck": 9
+  },
+  {
+    "row": 1874,
+    "company": "구포새마을금고",
+    "bizno": "6068231059",
+    "corpNo": "184444-0001329",
+    "taxType": "비영리법인",
+    "entityKind": "44",
+    "checkDigit": 9,
+    "calcCheck": 0
+  },
+  {
+    "row": 2415,
+    "company": "한국자산관리공사 부산지역본부",
+    "bizno": "7278200116",
+    "corpNo": "114671-0023169",
+    "taxType": "비영리법인",
+    "entityKind": "71",
+    "checkDigit": 9,
+    "calcCheck": 1
+  },
+  {
+    "row": 2417,
+    "company": "건강보험심사평가원부산지원",
+    "bizno": "6058206412",
+    "corpNo": "111471-0009718",
+    "taxType": "비영리법인",
+    "entityKind": "71",
+    "checkDigit": 8,
+    "calcCheck": 2
+  },
+  {
+    "row": 3343,
+    "company": "천마재활원",
+    "bizno": "6038210754",
+    "corpNo": "184232-0000307",
+    "taxType": "비영리법인",
+    "entityKind": "32",
+    "checkDigit": 7,
+    "calcCheck": 5
+  },
+  {
+    "row": 5012,
+    "company": "주식회사 강서이앤씨",
+    "bizno": "3778703418",
+    "corpNo": "180111-0160265",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 5,
+    "calcCheck": 6
+  },
+  {
+    "row": 5044,
+    "company": "(주)대아선재 녹산공장",
+    "bizno": "6068526839",
+    "corpNo": "180111-0149850",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 0,
+    "calcCheck": 6
+  },
+  {
+    "row": 5060,
+    "company": "(주)쿤스트원 부산센텀지점",
+    "bizno": "8688501741",
+    "corpNo": "111011-1596581",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 1,
+    "calcCheck": 0
+  },
+  {
+    "row": 5121,
+    "company": "스카텍이엔지 주식회사",
+    "bizno": "2748103887",
+    "corpNo": "180111-0160895",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 5,
+    "calcCheck": 4
+  },
+  {
+    "row": 5151,
+    "company": "주식회사 엔케이 에더먼트",
+    "bizno": "5838603184",
+    "corpNo": "180111-0161656",
+    "taxType": "영리법인본점",
+    "entityKind": "11",
+    "checkDigit": 6,
+    "calcCheck": 2
+  },
+  {
+    "row": 5237,
+    "company": "듀오정보（주）부산경남지사",
+    "bizno": "6018514298",
+    "corpNo": "180111-1475410",
+    "taxType": "영리법인지점",
+    "entityKind": "11",
+    "checkDigit": 0,
+    "calcCheck": 6
+  }
+]
+- 영리법인본점인데 법인번호 미기재: 19건
+- 주소 누락: 144건
+- 우편번호 누락: 21건
+- NICE업종 누락: 7건

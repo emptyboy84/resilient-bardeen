@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6090711429');
+```
+### Page
+- Page URL: https://bizno.net/article/6090711429
+- Page Title: 알파테크노파크점
+- Console: 1 errors, 6 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T01-04-49-761Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-09T01-04-44-530Z.log#L1-L9

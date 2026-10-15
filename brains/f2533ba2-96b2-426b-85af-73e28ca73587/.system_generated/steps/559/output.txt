@@ -1,0 +1,14 @@
+### Result
+Waited for 2 seconds
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 2 * 1000));
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=7758100670
+- Page Title: 7758100670
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-51-24-910Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-51-03-893Z.log#L4-L6

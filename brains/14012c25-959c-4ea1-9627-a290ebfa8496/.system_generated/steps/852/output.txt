@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://tumblbug.com/u/userzomochikini');
+```
+### Page
+- Page URL: https://tumblbug.com/u/userzomochikini
+- Page Title: 텀블벅 - 크리에이터를 위한 크라우드펀딩
+- Console: 8 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T03-36-02-375Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T03-35-41-304Z.log#L1-L72

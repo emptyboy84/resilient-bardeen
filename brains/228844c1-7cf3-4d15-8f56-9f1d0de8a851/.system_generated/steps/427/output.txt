@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+TimeoutError: browserBackend.callTool: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.nl.go.kr/seoji/contents/S80100000000.do?schType=simple&schFld=publisher&schStr=%!E(MISSING)B%!B(MISSING)9%EB%!A(MISSING)C%!B(MISSING)8", waiting until "domcontentloaded"[22m

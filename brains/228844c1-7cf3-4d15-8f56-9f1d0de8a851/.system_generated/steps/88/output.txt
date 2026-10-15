@@ -1,0 +1,31 @@
+The search for ""부성은" "브이알코리아" OR "부산" OR "센텀"" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+**1. 브이알코리아와 부성은**
+2009년 7월 부산 지역 신설법인 현황 자료에 따르면, '브이알코리아'라는 업체의 대표자명으로 '부성은'이라는 이름이 등재된 기록이 있습니다[1][2]. 해당 업체의 사업 목적은 유원지, 테마파크, 과학관, 체험박물관, 교육시설 및 연구시설의 건립 운영으로 명시되어 있으며, 소재지는 부산 해운대구 우동의 '센텀벤처타운'으로 확인됩니다[1][2].
+
+**2. 인물 '부성은' 관련 정보**
+*   **게임 개발 분야:** 2000년대 초반, 부산 지역 게임 개발 업체인 '지니테크'의 대표로 활동하며 보드게임 '아말드' 등을 개발한 기록이 있습니다[3][4].
+*   **기타:** 특허 발명자나 특정 저서의 공저자 등 동명이인 혹은 동일인으로 추정되는 인물들의 기록이 다수 검색됩니다[5][6].
+
+**3. 기타 '부성' 기업 정보**
+검색어에 포함된 '부성'이라는 명칭을 가진 기업은 여러 곳이 존재하며, 찾으시는 정보와 혼동될 수 있으니 유의하시기 바랍니다.
+*   **주식회사 부성 (냉동공조):** 1984년 설립된 산업용 냉장·냉동 기기 제조 기업으로, 인천 남동구에 본사를 두고 있습니다[7][8][9].
+*   **농업회사법인 주식회사 부성:** 충북 보은군 등에서 농산물 가공 및 유통을 전문으로 하는 기업입니다[10][11].
+*   **기타:** 항공기 부품 등을 다루는 주식회사 부성 등 다른 업종의 기업들도 존재합니다[12].
+
+요청하신 '부성은'과 '브이알코리아', '센텀'의 조합은 2009년 당시 부산 센텀벤처타운에 설립된 법인 관련 기록이 유일한 것으로 보입니다[1][2].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJDbba9B2YXWOQWzeL3tsbctGD5CFi9Qel1WTt4LgtXfXnhx7oDsRijkkPxQt7QlvWn9fIjEeSkdqkhECuV14xjmZVwS_MrLy1cMdprVKSboIsRJEIKr8JgXCnBJNdbY4=)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJDbba9B2YXWOQWzeL3tsbctGD5CFi9Qel1WTt4LgtXfXnhx7oDsRijkkPxQt7QlvWn9fIjEeSkdqkhECuV14xjmZVwS_MrLy1cMdprVKSboIsRJEIKr8JgXCnBJNdbY4=)
+[3] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAJ8RGsNFnLiW3Ht578R91K61_dWto5dZL4XVuvmncFgcd4-sdU5wNgGPaOjkOQHjN4cpXnOHyoDpC4zhrliQlAC3t92B5JaSQ2EV1QhIKFv45gWvAbgG-ZczyqIeQ71u_3HPwb3Dg4o_k75VlY_k1s9iO)
+[4] [busan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_MwpOl_U9lKA9GcK4m9xvLtZemTj-HsyDE0X9nARfEQCRaI7uhDJzxhRC_JkkWoWR4EYpIhTLt7rnJbpAt_6rtU86NtvDpUQU5ilWyD0588Xa4eUhpLjtXTxrsf-p8am4Sc3OyX8tiYRAl9crCn6a51GD)
+[5] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtZRerDeXUluu1dmx7MyumTUAhQvlLwzI0Hhm9XdaEZztgWTBBhj1qxnVrrDizNrN_HLR026SUS7dubShDOO703tX9edlDAZ2QL23MJkppzuGxZHuwWUKJFVp2R2b8ZUK9t_5eKOzGcnc2LLkXYac1Q33oIDU0G1nX-VYZE2JIgd0vJ_VLqBdjpvzQXuTwkPpVcj_grfK7MNK1WmRbq4EDF886xTWZ7uppiSscImppvoXH6PqEg9mpdA==)
+[6] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKwGtr128wXjFqy4jdg8_KFL9z2BxnsgRTFixxr-vaQw0iZGxk9fEX69oiI1wVH5os3G2_9wmJE3sqthNLwPe_tvQwTx3RNU4-GrACUDeCDiE77YE1IzvxFPPE5RJMR_LlERDEVZAPGbb01UQHIJ33eewrJAEbjtFNsz8bNebmhhyP_1i0Rn-qDbHDjcq6hBO9jFe8GGtGBus_yOHMbRYU3iSPtMZnPDFkwgOf)
+[7] [busungrh.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_MjGFcjcM7NlD7BUDJGDO9mzCUMcrBro62qmIHca0BOiqXkYcqct9qErQ0KIs3QueHigGD7-PXlIQGjfdehT7X7mXm5utZsmjSA==)
+[8] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNE8WUFd5zEXBYCt-wj-_-T-ysYMG4QOUVfx76SUJmtQ20z_N1xZfiHJwI82fB5i7LjkvWoNpN1acJTWzZRnMVoFjjgaCB-uajEYvmm-a9bib4FBltC6jzer7Z3F2iYt5mlVU9VGfN_u4=)
+[9] [busungrh.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_MjGFcjcM7NlD7BUDJGDO9mzCUMcrBro62qmIHca0BOiqXkYcqct9qErQ0KIs3QueHigGD7-PXlIQGjfdehT7X7mXm5utZsmjSA==)
+[10] [rndcircle.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEugkxZ6fRvRlmHAKaU7rQmuiShwBgc56r5cV87lltIjdihNBg60Lll7oFk9jwcf4S7qxplueUtoH6pJGme2W-bp3-ZPwtIB2iW69mwoAUMYgNEBVOuf2LFCpBY-a0rczHnutw_-R38KRdxiH3ZSJTDsBgvIdBMmB4A9F4=)
+[11] [poolix.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqo_ZFncIYucj_D34q5860Y_UGxHCiF1Xoh3vz1stkhkDdnApjfsJXzXmdNy7mPCJ_ye1a3nJDjZ6DJ7T7TsikUz9ojVpOv-E0k9fkuGsE6mDYbGhrHbNGoCk=)
+[12] [ktfc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_w-oC0EifPSZqQ4FdH7UmART-0OJ6cXuGvOJKm07pDHXhBA1zzkICr6JaUMtrl8DEJz872-akpVGTgKrI76xmGFqQzQED_56CK5sQb5Ug-3S4jeIPEMX6GdMxxOGZv44_)

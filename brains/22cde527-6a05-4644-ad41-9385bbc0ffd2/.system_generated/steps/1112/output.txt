@@ -1,0 +1,18 @@
+
+The command exited with code 1.
+Output:
+Loading Excel file...
+Updated 192 rows with 1125 red bold cells.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+[Error: EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx'] {
+  errno: -4082,
+  code: 'EBUSY',
+  syscall: 'open',
+  path: 'C:\\Users\\lg\\Desktop\\오늘\\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx'
+}
+
+Node.js v24.11.1
+

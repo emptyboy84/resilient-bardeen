@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Row 218: 그 외 기타 특수목적용 기계 제조업 -> 제조업 | 기타 기계 및 장비 제조업 | 일반 목적용 기계 제조업
+

@@ -1,0 +1,22 @@
+The search for ""제일에프앤에스" "과정로237번길 79" 사업자등록번호 OR 등록번호" returned the following summary:
+문의하신 내용과 관련하여 확인된 정보는 다음과 같습니다.
+
+**1. "제일에프앤에스" 관련 정보**
+*   **주식회사 제일에프앤에스**는 주로 충청북도 음성군(대소면 한삼로 105-22)에 본사 및 공장을 두고 운영되는 기업으로 확인됩니다[1][2][3].
+*   해당 기업의 사업자등록번호는 **852-81-00531**입니다[1][2][4].
+
+**2. "부산광역시 연제구 과정로237번길 79" 소재 기업**
+*   질문하신 주소지(**부산광역시 연제구 과정로237번길 79**)에는 '제일에프앤에스'라는 상호의 기업이 아닌, **'금화산업'** 등 다른 봉제 및 의류 제조업체들이 등록되어 있는 것으로 확인됩니다[5][6][7].
+*   해당 주소지에서 의류 제조업 등을 영위하는 업체들의 사업자등록번호는 위에서 언급된 충북 음성의 '제일에프앤에스(852-81-00531)'와는 다릅니다[5][8].
+
+따라서 찾으시는 업체가 부산 주소지의 기업이라면 '제일에프앤에스'라는 상호가 아닐 가능성이 높으며, 충북 음성에 위치한 '주식회사 제일에프앤에스'와는 별개의 업체일 수 있으니 확인이 필요합니다.
+
+Sources:
+[1] [jeilfns.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFZ0c21kdHKAKKWGRDwgfw29lwPX5cNIzGx7XK_6LDms6J0HICcnPOf9_09optTQGrMDBgxSG82rnvKwcXskD7BB6Vv0Ol74XvWys=)
+[2] [jeilfns.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzcA4IgEVAlQ46Aa5F5NUBhuPMiYZHcBLkQdytuJQiWflALUizswJExACNArfdlVhPEnzIjXMes8V8Loo3nmQIJjred4ZG5Gzlbrc=)
+[3] [ksnara.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zbAhpPICh-vpeJ1YJhldsWQtjE3cyddUOrkk_2gI8TuBb03NlkeIPruB3zIvM_Bo2QcL5tUbfnxbkWOhAukyXvipHt0zbrQN7O2XZzU4rwr-TWa4cSaHfWNO_MTw0sWa8lzd9EcaEwBZuti_TZjvhxQjQ3thLNb4mQU2qGK0EgZ-E7zZKnOFkIvGv7nip5QveQVWxIIzLaYrxqLSotX5fUf_-MiRKx_xr9SLSmMPWG0sXbHrc0phCnwsYOkNyHyp38rr43tueu6vAJ6rL9hCEDTElrYSHZiANAkWal0Xc-J_DNGPVzX8a9z-MVW0gT7ayu4XpNN7q4Hx4dnY359oOo3RTnn5zYULohO54w7tZtOlAm5hnlHNzcE8ZOWYpr7dg7FY48p_vkeeYrDz75nGrBFhjrzzhA0jg_2ShupjFb8mHxXPl45o3WRMJKB-33lH-Q==)
+[4] [jeilfns.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhNcE4yyVhbtLPTYMhSUtuzC3899QsQe8B6xldOMc7HasI-Cg6XfiD8HVKW19gxfAhuHV3vqYtO2RcTGkSeUs2HPj5NhXH0Mq0HiQ=)
+[5] [bsia.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcMr3uaMh7-J82F-midL84r8el6yNCYNpebmUILwYhnH9AcAJQCZI5COpEn9q8-WXvPSMm_PylF57E40FWcm05HXcDEL8q4cubfhvR-Q==)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyV4aQNmHElYyKcxHdb7U5sthD_Ty0CRXgQFcsWxKpQtdjS8qxFV1Px3h1WqMvPyyzrbnRXLZ06Ff_WLG5R494D8XDSbUEFoz1x_65Nr7HPjaXh3g=)
+[7] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBKsw09B2QAA60RUe_FxsVPhT6y4JVf548xoDHk_QRtL8LKLgVQwhlBU3M3nLb4bip035TlGd71jdSHEsTrn80_cDnnE_MgmR6uXQ0iI0YSx2AHbe-WYRy6FWeXlVVItT-wIY4jkUOtpGCL-uYBG-O9sRKOBtpPK8=)
+[8] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESB2haMuMcOU1vW1DfFHEGnLWRiBe_PYv9nzunSiD-w8Kuvqox78at3LBnwimaAE8_UXqabMDbdsSgreh9TUGtNORdatUOw2sca20Qf_Wk0n6fv2BCOj260PrpO5RgA2koKL2ytwN3jpwvoi69UJfRlDN15i0sY_fLrdZJ2rJ1I2b2jXITS2sqrP9uGvbXQaFod8k=)

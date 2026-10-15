@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:44
++       return '\"' + s.replace(/\"/g, '\"\"') + '\"';
++                                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:5
++     }
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:13 �:3
++   }).join(',');
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:13 �:4
++   }).join(',');
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:14 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:17 �:91
++ ... nc('rows_15001_15200_17col.tsv', 'utf-8').split('\n').filter(l => l.l ...
++                                                                  ~
+�޼� ȣ�⿡ ')'� �ϴ�.
+�ġ �:17 �:108
++ ... 001_15200_17col.tsv', 'utf-8').split('\n').filter(l => l.length > 0);
++                                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:20 �:32
++ const file = path.join(todayDir, '�_�ǻ�DB_200�_17�÷�_�Ϸ�_�ֽ�.csv');
++                                ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:21 �:22
++ fs.writeFileSync(file, csv17, 'utf-8');
++                      ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:22 �:38
++ console.log('Successfully saved to:', file);
++                                      ~
+',' �ڿ� � �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

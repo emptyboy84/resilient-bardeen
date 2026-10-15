@@ -1,0 +1,15 @@
+The search for ""조은글방" "부산광역시 부산진구 개금본동로 40"" returned the following summary:
+검색하신 **"부산광역시 부산진구 개금본동로 40"**은 **개금반도보라아파트**의 소재지입니다[1][2].
+
+문의하신 **"조은글방"**은 해당 주소지(개금반도보라아파트)와 관련하여 과거 만화책 대여점 등으로 언급된 기록이 있으나[3], 현재 해당 위치에서 영업 중인 업소인지에 대해서는 최신 정보가 확인되지 않습니다. 
+
+해당 주소지에는 현재 아파트 단지 외에 전기차 충전소[1][4], 치킨집(지코바 신개금점)[5], 태권도장[6][7] 등 다양한 시설이 입점해 있습니다. 정확한 위치나 영업 여부 확인이 필요하시다면 방문 전 해당 업소에 직접 연락해 보시는 것을 권장합니다.
+
+Sources:
+[1] [elecvery.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN3B6YB1jKvM5XJ64GGKr27UIqQ7Lt1Ghou3mjHIkwknJ81E4_llq4DaJ5SgXCP35FZwC2GSYuDQVo5nZJqlq-2q731u0qPEEBAxtmkKRx9ctk45okCzRW9XYoaiSkI7_TLg6RmPojmtKyYTh2FGRhgDrT9IjqIuCGfB2w)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNydP0FAyiXMZNLrE25AuwxsnzjCrWBd5IjH0AOefYi3sXwCrPtgX42QkjTiaZC5EBX7Mss8q1U-1zrmKnB9XU4c_RQJovLuq3m529SbwG8ktetf7IZMjNYlPvVvcoZxcRRKs46kqbUJdDi11lAQ431Bns3u0LVT9pmLlWKzMpZAeD0qfq_sUhK4BmDQV7qIjQLT2PE-eUhj_WM7eYaGAIfdMOnkkoIar7ApF_YNfJggw6QkHcnP7bhUI1MJW9uyWvgtxaU_65EeztCb4-wso57uzQKYTpue9i1UB8QhDbrUooG-WO7137fUuZqaUYTpg34akO74LQH3A_UWl_9UhVXQ==)
+[3] [cybo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3HLTDAj3lVD-qKUTo60grjDowrE_6nMb1ELFyDugsAL1JO2_3nS60zZuXb83evjHVXRgb4nf0zI6AWFsnO37XQWMXvD76xJUX2UWfxTEAFYsNLlUfrxD1IcDjbfWRhNrfPa1srhvpyN8)
+[4] [plugshare.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu_90Eor4wdunZ-IYYe7rFJWaK7wqeWeBvX3AOv5wBiK1eNH65UM0Dn5dh2QhBWDN1B-7itN9aH27MZpvhr3wk7uwbqzSzDa0Kk3Y9cIIIVmidIT350gisJD0ACyErEQ==)
+[5] [gcova.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAeu4x6XMehU1FReLGucVemv7VdwDQVYF3vwq3RQSz2tPm3L6p73tViiLxE4q42J3l__moD6ZY8BEvUFvhC9F-UkazIDcxHOXD1h6epOEoXoyQvzu6F2IDrBIEANKc-dgnp1GyQk4WV44w3YfRSY1D1aSaJRTNBmdci6hn)
+[6] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAQTlOOeKqpj0NBffEzXXYcTXngv6RuidKcxUV5dBoJACVJ_S5PSny3hGJxyuqsRLDAtX0FZGfSCnP4U546W6wNTnrZbMgvCha3O8pZxUHztDYDP7oQEqcRK3A9oQqKijnZPTQKQ9tfka2hUntZwetEB8i4EfP3M7m3pPKfIkAbgzNt7YBEpNlOQnUOcCV)
+[7] [xn--ob0ba993juzkbna821e.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5SNLglxJwc42GqkfJJu1fcido6I7Ihsk1bwqUD0Pf0ILPytCtPCQ4VnlzB0OMGm31VwDoeeAzNHjBoclpblx9XodauBnFjjDQDSk08pLnmuRRIt6J4cAkdbjZrABvGiHPnsTgMCwgRnQBuRvJYtmAsEk0Cql-3rGJF3dLqCzUDjReWv6PtHcevPqjoNsXQPTMtaeM1Q==)

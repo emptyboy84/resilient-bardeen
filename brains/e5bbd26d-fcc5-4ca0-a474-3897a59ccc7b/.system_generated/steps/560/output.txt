@@ -1,0 +1,15 @@
+The search for ""다섯손가락" "051-517-8828" OR "517-8828" "금정"" returned the following summary:
+요청하신 검색어 **"다섯손가락"**과 **"051-517-8828"** (또는 **"517-8828"**) 및 **"금정"**을 조합하여 검색한 결과, 해당 번호와 "다섯손가락"이라는 명칭이 직접적으로 연결된 정보는 확인되지 않았습니다[1][2].
+
+참고로 검색 과정에서 다음과 같은 정보들이 확인되었습니다.
+
+*   **금정구 관련 정보:** 부산 금정구와 관련하여 '다섯손가락'은 주로 비유적인 표현(예: "한국에서 다섯 손가락 안에 꼽히는...", "부산의 번화가 다섯 손가락 안에 드는...")으로 사용되거나[1][3][4], 금정도서관의 동화구연 프로그램 제목 등으로 언급된 사례가 있습니다[2].
+*   **전화번호:** "051-517-8828" 또는 "517-8828"과 관련된 특정 업체나 정보는 검색 결과상 나타나지 않습니다.
+
+혹시 찾으시는 곳이 특정 업종(식당, 학원 등)인지 확인해주시면 더 정확한 정보를 찾는 데 도움이 될 수 있습니다.
+
+Sources:
+[1] [citytourbusan.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyJe0gCV9kz13w2PCF13Tyz2X8q0rta9BfBz-vS_EBkmIb8BbHwGJ8PQdbpE70r5YWSSZ9v41lMQIsRwR3RgJREKGWILllR15q3JLGfrPHRVR8fclTACjMVkZeoFoYR_Z18nZYJhwZRn8WhoCicPNv_g0CgiL7jZvKWAFVB9M4hDMuHztJSHIH4F42f1KDRNoctWL_Sm1h6CqHSTxeDjZOTTm-btZPGnkXdVO12HMenUleoMFbolqPSXZetnmd2KQi5hc8gO22NBh3_UJK8R3ihwudY4SwsKLvvh65)
+[2] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHew6xhhCuxmuaZ7fEIcfwcgnw3aVwbMGvKZKcoGMzfNKFaCVJL3LhNkyxgJ45ad23DeN9bqXr1iMrtTK1q63VNWL782oJMJTHsTPzeBnbtmR5b_lWk-8CDbjiD1tN_4fH5cqYoWlEgqN5eE70UQD98Cgv85HD5XNTqQNA_71dRxD5MyS1mPFke7ORib6GQ2c8MIlnxRDD7_3veT2E3hhIE8Ly9b7UJ_SCdGYmx2w==)
+[3] [osulgil.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO67KmrQgQuBDekg5DdlvfVSK49v4LarPnWqSJxnVJbpjfTBgZ6Ct2DFTE-olW-_QTG8rHx6AlBsKBRk6xVvpIji___0E9y_fSGzmEBWvnPzzOhu_uxe2SjjKKzyn7aP-C1xFOl8KJy7OREuA6eoF9t3QYYVruAFEg712_dfRKmUgp_G8SIDHff39Yqwxu4L7iYq5J0hlsyqoHSnwWcEke)
+[4] [ikbn.news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpZJ9UjTKOAGFvnyDdiC2Z2GUdbNFF9lkbNDBGCOp56tsTl8n6_dZl16986qG85i41JePys0FrDiQgZb9eQsmGpbWJvvCi0iMAt8UDNpc_mvx7YoYrv9DGmNXktFiMs0Vhwc9MsLw=)

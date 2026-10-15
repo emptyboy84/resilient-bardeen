@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=블루레코딩');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-43-12-977Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-29T03-43-10-419Z.log#L1-L2

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Sheets in 매출액실사완료: [ '기업체 리스트', '개인 리스트' ]
+Sheet name: 기업체 리스트 RowCount: 2469
+Excel stats -> Has Sales 24: 206 Has Sales 25: 109 Empty Biz: 327
+

@@ -1,0 +1,12 @@
+### Result
+"https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=070-4172-9541"
+### Ran Playwright code
+```js
+await page.evaluate('() => location.href');
+```
+### Page
+- Page URL: https://bizno.net/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EC%A1%B0%ED%9A%8C/?area=&query=070-4172-9541
+- Page Title: 07041729541
+- Console: 0 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-22-18-226Z.log#L1-L3

@@ -1,0 +1,26 @@
+{"name":"browser_click.json","sizeBytes":"852"}
+{"name":"browser_close.json","sizeBytes":"188"}
+{"name":"browser_console_messages.json","sizeBytes":"748"}
+{"name":"browser_drag.json","sizeBytes":"813"}
+{"name":"browser_drop.json","sizeBytes":"959"}
+{"name":"browser_evaluate.json","sizeBytes":"764"}
+{"name":"browser_file_upload.json","sizeBytes":"394"}
+{"name":"browser_fill_form.json","sizeBytes":"1052"}
+{"name":"browser_find.json","sizeBytes":"933"}
+{"name":"browser_handle_dialog.json","sizeBytes":"390"}
+{"name":"browser_hover.json","sizeBytes":"482"}
+{"name":"browser_navigate.json","sizeBytes":"275"}
+{"name":"browser_navigate_back.json","sizeBytes":"225"}
+{"name":"browser_network_request.json","sizeBytes":"812"}
+{"name":"browser_network_requests.json","sizeBytes":"751"}
+{"name":"browser_press_key.json","sizeBytes":"343"}
+{"name":"browser_resize.json","sizeBytes":"371"}
+{"name":"browser_run_code_unsafe.json","sizeBytes":"771"}
+{"name":"browser_select_option.json","sizeBytes":"661"}
+{"name":"browser_snapshot.json","sizeBytes":"784"}
+{"name":"browser_tabs.json","sizeBytes":"552"}
+{"name":"browser_take_screenshot.json","sizeBytes":"1480"}
+{"name":"browser_type.json","sizeBytes":"837"}
+{"name":"browser_wait_for.json","sizeBytes":"450"}
+
+Summary: This directory contains 0 subdirectories and 24 files.

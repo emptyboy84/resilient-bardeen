@@ -1,0 +1,22 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119_list.txt","LineNumber":89,"LineContent":"[89] Row 2107 (순번 2106): 스튜디오바다 | Type: 방송 | Rep: 류수환 | Phone: 010-3855-8918 | Addr: 동구 증산서로 52 ( 문화공간반달)"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119.json","LineNumber":797,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_summary.txt","LineNumber":130,"LineContent":"  스튜디오바다 (Row 2107, 순번 2106)"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_rows.json","LineNumber":2980,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\real_unmatched_274.json","LineNumber":2980,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1749,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_unverified.json","LineNumber":1671,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_274_results.json","LineNumber":4378,"LineContent":"      \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":1969,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\unpopulated_271.json","LineNumber":2418,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":2917,"LineContent":"    \"사업체명\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\exact_blanks_229.json","LineNumber":2498,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_blanks.json","LineNumber":2498,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_229_blanks.json","LineNumber":1616,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":2977,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_utf8.txt","LineNumber":93,"LineContent":" 93 | Row 2107 | 스튜디오바다                    | CEO: 류수환        | Tel: 010-3855-8918  | Addr: 동구 증산서로 52 ( 문화공간반달)               "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_detail.json","LineNumber":1938,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132.txt","LineNumber":95,"LineContent":"[93] Row 2107 | 상호: 스튜디오바다 | 대표: 류수환 | 전화: 010-3855-8918 | 시군구: 동구 | 주소: 동구 증산서로 52 ( 문화공간반달) | 업종: 방송"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3513,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1889,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1352,"LineContent":"    \"name\": \"스튜디오바다\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2843,"LineContent":"    \"name\": \"스튜디오바다\","}

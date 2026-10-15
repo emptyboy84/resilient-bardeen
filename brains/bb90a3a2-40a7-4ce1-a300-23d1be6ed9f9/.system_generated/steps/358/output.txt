@@ -1,0 +1,25 @@
+
+The command exited with code 0.
+Output:
+Current found count: 96
+Latest 3 entries: [
+  {
+    seq: 931,
+    name: '(주)차자스',
+    phone: '010-2191-0911',
+    source: 'Saramin'
+  },
+  {
+    seq: 939,
+    name: '(주)비성',
+    phone: '010-2796-7***',
+    source: 'Bizno-Masked'
+  },
+  {
+    seq: 977,
+    name: '뉴알파코리아(주)',
+    phone: '010-7109-3***',
+    source: 'Bizno-Masked'
+  }
+]
+

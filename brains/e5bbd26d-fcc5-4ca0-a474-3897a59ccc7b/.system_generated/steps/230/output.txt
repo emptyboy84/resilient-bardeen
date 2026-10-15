@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+requests missing
+openpyxl available
+bs4 missing
+

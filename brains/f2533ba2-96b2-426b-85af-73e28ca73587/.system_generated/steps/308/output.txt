@@ -1,0 +1,14 @@
+The search for ""대원오토텍"" returned the following summary:
+'대원오토텍'이라는 명칭과 유사한 기업들이 여럿 존재합니다. 찾으시는 기업이 아래 중 어디에 해당하는지 확인해 보시기 바랍니다.
+
+*   **대원오토팩 (Autopack):** 대구광역시에 위치한 포장 자동화 관련 기기(포장기, 운반기계, 컨베이어 등) 제조 및 수출입 전문 기업입니다[1][2]. (홈페이지: [autopack.co.kr](http://autopack.co.kr))
+*   **대한오토텍 (Daehan Autotech):** 경상남도 양산시에 위치한 알루미늄 다이캐스팅 기반의 자동차 부품 제조 기업입니다[3]. (홈페이지: [daehan-at.co.kr](https://www.daehan-at.co.kr))
+*   **태원오토텍:** 자동차용 토크컨버터 부품을 공급하는 가공 전문 기업입니다[4].
+
+만약 찾으시는 기업이 위 목록에 없다면, 업종이나 위치 등 추가 정보를 알려주시면 다시 검색해 드릴 수 있습니다.
+
+Sources:
+[1] [autopack.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdXfVEm5Kw0aAn3gr62XG3-w8n5bWs-jeaaWjFU3gWdAEfZKtYDjtw40qGV9GgAP5Lg6Vl-r4iGxY_guLacdZpTGKJtzfuSlL76nJ3)
+[2] [autopack.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECY51jgTKHxZ1WgFB4QiQm-cw6bYCT5PwRFLBGcFWcH_eBvLQX1pvDFxmF2ktSkJa9gXoc-iIyCzH8QmcZjNoDe0zB4pBA1SgfeWHSa0q1ItVQfZyoJYAvtGBMwXYeg89Hs43ur7X3sBBm-w==)
+[3] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEMp02mVSxKfs6vbm4sLjZU6BGbiA-5buIU0fhbDjI8Ub-d1ZygFyfHSeXMztG5RcCbO638YEqSV_rdq5_iGo2pVYnjsVMzmhFm7qsu6yeHAtb08Jz)
+[4] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoAwhVvWrS7ULyCoRtzwJq0NImOYr87k5NMTLjr89CRcOhlA0c_eqcVzJfRvAwHRoxz6hJO8Pq3t7aJAqRdOIAIUSmBd_f7ZJm2fgksI1dFyGrOEOma2M61xKgybuwnmjsiCds4t4SgW45HA==)

@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Loaded 274 targets for Bizno search.
+Progress: [25/274] (12.0s) - �¸�λ�ǻ� -> None
+Progress: [50/274] (43.7s) - �Ϻ� �Ż� � -> None
+Progress: [75/274] (68.8s) - �ֽ�ȸ�ϳ� -> 5168102666
+Progress: [100/274] (94.7s) - �κ�Ʈ -> 2554700774
+Progress: [125/274] (166.4s) - �ֽ�ȸ� �̾ؾ�(Dowon E&I) -> None
+Progress: [150/274] (189.2s) - �Ÿ -> 2808602461
+Progress: [175/274] (222.6s) - Ű�ϵ� -> 6178128294
+Progress: [200/274] (242.6s) - �Ϸ� -> 3978700206
+Progress: [225/274] (277.2s) - �ֽ�ȸ�޽�ũ -> 1488803253
+Progress: [250/274] (309.2s) - � -> 2328106954
+Progress: [274/274] (331.2s) - �ν� -> 3568700243
+All 274 Bizno searches completed!
+

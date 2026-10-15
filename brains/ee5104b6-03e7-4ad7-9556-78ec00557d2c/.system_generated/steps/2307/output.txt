@@ -1,0 +1,29 @@
+The search for ""대림자동차" "055-239" OR "공단로 602"" returned the following summary:
+'대림자동차' 및 '공단로 602'와 관련된 정보는 다음과 같습니다.
+
+### **주소 및 관련 기업 정보**
+*   **주소:** 경상남도 창원시 성산구 공단로 602 (성산동)[1][2]
+*   **관련 기업:** 해당 주소지는 과거 **대림자동차공업(주)**의 본사 및 공장이 위치했던 곳입니다[3][4].
+*   **현재 상황:** 
+    *   대림자동차공업(주)는 이후 사업 부문 분할 등을 거쳐 현재는 **DL모터스**로 운영되고 있습니다[5][3][6]. (DL모터스는 자동차 부품 전문 기업입니다[6][7])
+    *   기존 대림자동차의 이륜차 사업 부문은 분할되어 현재 **디앤에이모터스(구 대림오토바이)**가 담당하고 있으며, 본사는 충청북도 충주시로 이전하였습니다[8][9][10][11].
+
+### **연락처**
+*   **DL모터스(공단로 602 소재):** 055-239-7000[1][6]
+*   **디앤에이모터스(이륜차 관련):** 1588-0095[9][10]
+
+해당 전화번호(055-239-XXXX)는 과거 대림자동차공업(주) 시절부터 사용된 대표 번호 대역으로, 현재는 이 주소지에 위치한 DL모터스 등에서 사용하고 있습니다[5][12][3].
+
+Sources:
+[1] [packnet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH46SmQXSj9rcrv-3Upz7VFfKqAupsHITD00hNg-8vxvh9arakkxZWdhnGtIpSaefxJXDcsWEeeVKw2HhLbkNW4lluhjDiEBaKFzyVi1mBZGo2l6BePpM-f-msX7jyfJ9bSO8ca4ia)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTWCA3o4nG7MmE1CBosvG3E-FXUkpjy92cHEW9sLqyNcseeyGHXlUCTm5oU6aXgV_lUM-tHJvSDNN18R5dVAZVB_mWRP5uygeTX72AmM7VP6wDgRtu0XnKx3jlnyHuLM-PghTipxiKryAvJic4D0muov5lDhFyOmSVNNM38dnmKIvTr-SYjGXf-9HVlkdvFvqFo9fRs2VFyho6NPB1htMdj9hckjbej9ap)
+[3] [dmc.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEAojouYydW_NH_XLfp7QB4ksE0PVjUEP3FBYoqLTmdV1jXqqfPkoxu9uLpOsp3_rdhl2VnXSCqUvDsB0xX_pXnZL4E5hk_zTcK2LldlTCLWQF8LZoNP__OOOZ3Ke9kIYFcd8Ao_LS-vC-lOSB5b0CPu-dQsP-XQrN8Isa6Dx0qbO5gDUUYeChfkcs7snd0l-Wq81HKYq420aKG5I7ZjJIeZR3qduqva0=)
+[4] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1fItDU5aO-pJ2DGCuWmKtFDUPMDuZHPz96kIa2b1m0FRO76sSKBqOs9UJyWX9GhtfA6Xv00KWlLj9ywpedf9gDMr2ZBOmmMOuNpfFsb-dDNFA1Jld9uums78SoAO_1gtjNYnDO-CQ)
+[5] [dlmotors.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxkPDUpVcTSQ9DaiPgF05gKwX6rxiE5Cl3yS85ILdwDznUxTkhA9o_sjuJdwqhshm2a-1elEA5HMbUeU13_yFDxtFpUKaexake3yTFrSTtu7511hqJmoUq-AGnXh5qJ2o1SUkxEXqDC7GIZexOkYVQtrl-)
+[6] [dlmotors.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZEhD1YTWRdPXvvpG4A2_tJQLUVsUeAbm9kVyk8tY5rWPLCSOzrMpaLR3wpPbLFxBvgthfm_Il7glYVorsFO93ObxqmOHEmdF_BfMbaOzXjDc=)
+[7] [kaica.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXTYN3TNbLXP2O1jiwd758f6zc0rEuwAS2UNY2Cmpum8c90F1169kfAgBukDC-p6-4g3wrpGBJ0PLTQxCBPI6RKm1EehzYalKJDisYJlfoHjTYy2ENT9YFCFR368jZOMsyVX4tLXHs346OI7l3GqrfLkwJ60CPECq0fhI=)
+[8] [dnamotors.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4LsEKXVSdAjr65PSknFL7bqzi15DT8nGGWsfwXblIxq87yLZcRuFM5rX2vQpBq7dYYzQGTWM6gTzRWBZ2eswk2OvIMyoyi31saCSAoWYWb6bKlGu17xmV2Ntt6AUxlbdL2bLtEb1ZoUMvMqG0t5A=)
+[9] [dnamotors.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPFvu1ijmarTlkdGc7_pNP3ofsIBSExxg1n0SQnDv3fL-Y8_hT3ETWIQenq0SneVpYJTykJ7hesuRXCxOczITCPX9QSxVpVqvyf398iz8SYLnOX6aUVv5-EXLCEKST6Szt6A==)
+[10] [dnamotors.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPFvu1ijmarTlkdGc7_pNP3ofsIBSExxg1n0SQnDv3fL-Y8_hT3ETWIQenq0SneVpYJTykJ7hesuRXCxOczITCPX9QSxVpVqvyf398iz8SYLnOX6aUVv5-EXLCEKST6Szt6A==)
+[11] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHHXQRV0bz__aigoL_BFNdrQNrXENBYamIF1p77hkbGwvIcOQo1Wc8GTtp1R2k01WdNoa18AG2BRramDETEAuns-JQ_JxuuqppmRTvXr4s9unBYXDqE9ScFHOchCcTW6UyioBw3hfCPMpNef9HiqwPaWODt9m3XZ_S440Kcn9P4wzul5Td8D8h4g==)
+[12] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE875O1HVaxEYTf6qwgyiYp6bv1MN52FUdRIdXRYMgfDkRSYDp4gz4pXsr9twjawJOaUKu7Ys2temLc0e8h6YMIFJbaWceiEU2h4O8XGJTSRWoqXg1hKaY7A8552xHpazygIpZzpk5cnuwB1Lmyco3dplSRYskZ6PEaMF9c6uCvtYiJxR8CcGY1cw==)

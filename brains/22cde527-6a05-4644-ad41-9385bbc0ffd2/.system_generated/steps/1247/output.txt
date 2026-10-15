@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Testing area=ceo for 정지후 (동그라미광고공사):
+Results: []
+
+Testing area=ceo for 박명섭 (녹생광고연합그린하우징):
+Results: []
+
+Testing area=ceo for 김현 (블루호텔레코딩스튜디오):
+Results count: 0
+
+Testing area=tel for 051-200-6281 (동아대학교출판부):
+Results: []
+
+Testing area=tel for 051-464-0761 (동화사):
+Results: []
+
+Testing area=tel for 051-313-3449 (단디콤):
+Results: []
+

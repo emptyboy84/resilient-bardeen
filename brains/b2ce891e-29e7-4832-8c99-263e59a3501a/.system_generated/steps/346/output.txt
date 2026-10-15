@@ -1,0 +1,13 @@
+The search for "site:fashioncity.or.kr "509" OR "입주" OR "디쓰리디" OR "비쓰리디"" returned the following summary:
+부산섬유패션산업연합회(부산패션비즈센터) 공식 웹사이트(`fashioncity.or.kr`) 내에서 검색하신 키워드(`509`, `입주`, `디쓰리디`, `비쓰리디`)와 관련된 검색 결과 및 연관 정보는 다음과 같습니다.
+
+* **입주 관련:** 
+  * 부산패션비즈센터의 시설 운영 및 입주관리와 관련하여, 센터 내 **입주기업 간담회 및 네트워킹 지원**, **부산패션비즈센터 입주기업 우대 및 지원 사업**(예: 수요맞춤형 지원사업 시 우선선발 등) 내용이 확인됩니다[1][2][3].
+* **디쓰리디 / 비쓰리디 / 509:** 
+  *해당 검색어 자체는 연합회 사이트 내에서 직접적으로 일치하는 문서나 구문이 확인되지 않습니다.* (패션테크 및 디지털 전환 혁신 지원, 3D 프로그램 활용 등 유사한 개념의 패션 테크 지원 업무는 조직 및 사업 안내 페이지에 일부 언급되고 있습니다)[4].
+
+Sources:
+[1] [fashioncity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-qU7p9GwdyEX46ITm-TYMIV3yrVK2Dn_Q14cNQGcs8dCVdHYWMH-E9Ez4iQVD9kgo8kJKMgLaboWHNU0FeL_RJtNg4IvWDd9N-0Y5oGXcef5Nw0Al7bHz7mcNW_JE_2NQp8g=)
+[2] [fashioncity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZcw33Mhdwv4Byo6ZkHQSL9xt6i4kbDbsNjsfxJRi0H5YR8Cr0ZD1KAq-ULdZbkNywHN3-1gOHK-m2XDpRqOn9KfGAfNJ965KMfZv4aToXzVmX_1yPCdXa4_nomBVyUTvkC_koaYuGzsfD7_oo)
+[3] [fashioncity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-qU7p9GwdyEX46ITm-TYMIV3yrVK2Dn_Q14cNQGcs8dCVdHYWMH-E9Ez4iQVD9kgo8kJKMgLaboWHNU0FeL_RJtNg4IvWDd9N-0Y5oGXcef5Nw0Al7bHz7mcNW_JE_2NQp8g=)
+[4] [fashioncity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGyA5BWxbhm7brKCSmJCufBIyyTXCj8SBDuvkI1lLXyqBCF8P_jbm9lS69nFhIMKvUHJB8kT1KwhijcK_ppOn56vWIqbdtIoYObeNUUnSbVDOWL2lj_5aX8DypZzEEL5_SSeYBLwA8W2Pb)

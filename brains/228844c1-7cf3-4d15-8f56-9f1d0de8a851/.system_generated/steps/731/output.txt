@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=&query=%ED%9D%AC%EC%9B%B9%ED%88%B0');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 희웹툰
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-16-46-590Z.yml)

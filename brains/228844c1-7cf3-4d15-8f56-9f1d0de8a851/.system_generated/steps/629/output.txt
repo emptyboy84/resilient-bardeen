@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EC%9D%B4%EC%84%9D%EC%B0%BD');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EC%9D%B4%EC%84%9D%EC%B0%BD
+- Page Title: 우수경 이석창 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-07-23-652Z.yml)

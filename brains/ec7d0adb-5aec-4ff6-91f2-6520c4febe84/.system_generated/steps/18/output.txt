@@ -1,0 +1,24 @@
+The search for ""11차" "한국표준산업분류" "그 외 기타 의료용 기기 제조업"" returned the following summary:
+제11차 한국표준산업분류에서 **'그 외 기타 의료용 기기 제조업'**의 산업 분류 코드는 **27199**입니다[1][2].
+
+### 상세 정보
+*   **분류 코드:** 27199[1][2]
+*   **산업 설명:** 달리 분류되지 않은 각종 의료용 기기 제품을 제조하는 산업활동을 포함합니다[3][4].
+*   **포함 품목 예시:**
+    *   기계적 요법 기구, 물리요법용 기기, 시력 측정기, 임신 진단기[3][4]
+    *   안과용 기기, 비전기식 진단용 기기, 의료용 검사 램프, 광학식 내시경[3][4]
+    *   주사기 및 주사 바늘, 수혈 세트 및 수액 세트, 인공 신장기용 투석기[3][4]
+    *   산소 흡입기, 심리학적 적성 검사용 기기, 산부인과용 기기, 의료용·이화학용 살균기[3][4]
+    *   에어로졸 치료기, 가스 마스크, 의료 마사지용 기기 등[4]
+
+### 참고 사항
+*   **제외 항목:** 전기 또는 전자식 진단 기기 제조(27112), 진단 및 요법용 방사선 장비 제조(27111), 비의료용 전기 안마기 제조(28519) 등은 본 분류에서 제외됩니다[4].
+*   **행정 목적:** 해당 코드는 통계청의 한국표준산업분류를 기준으로 하며, 사업자등록 시 업종 선정 등에 사용됩니다[5][4]. 사업자등록용 업종코드는 행정 목적에 따라 더 세분화될 수 있으므로, 실제 사업자등록 시에는 관할 세무서나 홈택스를 통해 확인하는 것이 정확합니다[4][6].
+
+Sources:
+[1] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFitip2jx0k6EA8rA_IldMizl6da70Z64H47ZDBfEW33ItpQhDrPzpPKi4iHl6RjVcJyjXQFp9Y3_DsXEdzO9wpRhu8SicBpbWM8t72_hwmMvpz7zuHpPYqoMk6ajLXg3fjGOangKKJmadT_7zysArzpdLzYQKSTiEVTG9sEQ==)
+[2] [mods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfbC_PNpmF79VEuSj1NlhQzt1FpDErEg_vn9hl2tywNWClxRD9lM4kJGYnbO0HtzFRhyovzv-u47Skb_Dm8lcZfBa6JvGdX6YJj_LmrG5k11Y_Vt0nrjDDrQCEjOrw6BnUoAwXfXqczX_GL1jfbv0feTJXvg=)
+[3] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqZUNHTAHuM8CDz9lSckkzmqrIX-Mh-ooUyDTSjpL-Fm0P0l5q2klKyMlAlkAul-83DLC3bQsxwxm64uywApMBcDiLWylg8Q7HP8YrXiibC2WLw_0ApKrgoftya-NpLUGSRhQMfw==)
+[4] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqZUNHTAHuM8CDz9lSckkzmqrIX-Mh-ooUyDTSjpL-Fm0P0l5q2klKyMlAlkAul-83DLC3bQsxwxm64uywApMBcDiLWylg8Q7HP8YrXiibC2WLw_0ApKrgoftya-NpLUGSRhQMfw==)
+[5] [ktr.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENVeyeYuf14rLRzvaki62OM9Tlj7kdW_w5a5fP4ZlyFpoPcljo4L62nbsfS13PY_JJt1wc9VPbkG527TSlj648zhA3Lg7Ydxz66H2HXYocWOztTYakcmDl-SmKWwzoEx24OUkxfPi2IW52BtEiXpe9zj5LeWDDTl7H-SLSZjfOtmzJ71qH7mcJaEov-5SnrUagmzReJZEwfAuIOeVvLA5KzyPs2mUUYkJRzqi7wJJKvlrzSjgIuM9a0y1-2Gm3spZnewTumyZW3A==)
+[6] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlN1GK5H3Qb09HQHNMkKiNXqqQCIb8yNrUoVSyPj5lxl7t5Zcw1-u0owpXHzqS-5B6nbBP0Htmxowpp0z8uBYQAyyeoopkN4x0SEapJ4P9DU5-dzF8hkLeafbhETfsKKkcOaY=)

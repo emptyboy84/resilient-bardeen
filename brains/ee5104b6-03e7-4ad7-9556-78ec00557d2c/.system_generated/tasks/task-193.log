@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-08-31T12:28:25+09:00
+Prompt: Check task-189 status
+Early Termination: ee5104b6-03e7-4ad7-9556-78ec00557d2c/task-189
+
+[2026-08-31T12:28:25+09:00] Timer fired.

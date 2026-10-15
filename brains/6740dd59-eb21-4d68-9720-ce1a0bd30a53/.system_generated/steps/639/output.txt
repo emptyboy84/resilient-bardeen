@@ -1,0 +1,15 @@
+The search for ""깜냥깜냥" "임수빈" OR "010-2384-0678" 부산" returned the following summary:
+검색하신 키워드와 관련된 정보는 다음과 같습니다.
+
+*   **깜냥깜냥하우스**: 부산 사하구에 위치한 핸드메이드 수공예 제품 쇼핑몰입니다[1][2]. 해당 업체와 관련된 대표자명은 '김지연'으로 확인되며, 문의 전화는 070-8018-8121입니다[1][2].
+*   **깜냥깜냥 (청소년 축제)**: 부산 해운대구와 해운대청소년수련관에서 주관하는 청소년 어울림마당의 명칭입니다[3][4][5].
+*   **기타**: '임수빈'이라는 인물이나 입력하신 전화번호(010-2384-0678)와 '깜냥깜냥' 키워드를 직접적으로 연결하는 공개된 정보는 확인되지 않았습니다.
+
+입력하신 특정 개인의 연락처나 정보는 개인정보 보호 등으로 인해 검색 결과에 나타나지 않을 수 있습니다.
+
+Sources:
+[1] [kkamnyangkkamnyanghouse.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHksNxMLdxjRD7S8bITnxFUcUr7ScwsR1JTlySB6UK0DJ5Vo8HFCf5KggObgeWp7p2KAczeWlJdrITWmvA7claIHAXibEYDlSzvQxChgZuab3mKSpsnXpwwlahYYQ==)
+[2] [kkamnyangkkamnyanghouse.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBtiFT3ehRp5GfbOvv9S2RVeoKQZl0Kfhw5yfTH4AypJ0kEiz0nK0HPlC9r1t0_S31nKaAb5Iu-eThHR1bP2pm08aIGmRNP2nwTPykmAFrGIvBZAdEMUWDdBjb-6Vt-P_dTZSlSI2RZTSmgdBpsgKTlXqYEnswF38ECSUkAxX7iq21tSLlMynjy5WYHql2qdGpkQ==)
+[3] [kookje.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgvApwyWiCt2ND1mkcYMvFWF-iZYmcltuu24bZp885odZwR3lp87NUs8YFRVQmx039AcvViInI76m7xmRxbOI_zpWRxiSOFtKg0OX2Vu-1IXD1uByXPJFE3suoliDjzQkKrhY0y_UwQbamPA7BJV1x2AchXhJDkwi-_-4wvZTXUGvnqu4mfn_nYMfC)
+[4] [ynamnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx81p7V6MBTt-cLAQaRx6HaRyHm6Uaw9RRTwkn-tCVNMdJv8eVV8QvSt43kqMtZ_EtsUTX8mKQkr7CQ61W9pJCSoQS07Tn8w4DENmzrxQ7766JnIVQ_tbgNAZOiIOgXcZmcu4ZV-Su1GEbOFYRb8yxqjI=)
+[5] [localsegye.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHswVIt3NR5xKRr0AFfDKVzSf-i3l1erqmWVapxHPi_sM35oY9Iv3hVx2rpUqIzXwBXyvB1RkULifMCLgcZSpTujPA5h6fmvb6XTKPodtaGs4gjURlPukI12VZpWaSwwSODVdxv3SdpU1M=)

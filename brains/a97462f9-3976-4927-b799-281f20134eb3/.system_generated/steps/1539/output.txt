@@ -1,0 +1,135 @@
+### Result
+[
+  {
+    "name": "search_area",
+    "options": [
+      {
+        "value": "",
+        "text": "지역 선택"
+      },
+      {
+        "value": "전체",
+        "text": "-전체-"
+      },
+      {
+        "value": "6110000",
+        "text": "서울특별시"
+      },
+      {
+        "value": "6410000",
+        "text": "경기도"
+      },
+      {
+        "value": "6280000",
+        "text": "인천광역시"
+      },
+      {
+        "value": "6530000",
+        "text": "강원특별자치도"
+      },
+      {
+        "value": "6260000",
+        "text": "부산광역시"
+      },
+      {
+        "value": "6270000",
+        "text": "대구광역시"
+      },
+      {
+        "value": "6430000",
+        "text": "충청북도"
+      },
+      {
+        "value": "6440000",
+        "text": "충청남도"
+      },
+      {
+        "value": "5690000",
+        "text": "세종시"
+      },
+      {
+        "value": "6300000",
+        "text": "대전광역시"
+      },
+      {
+        "value": "6290000",
+        "text": "전남광주통합특별시"
+      },
+      {
+        "value": "6540000",
+        "text": "전북특별자치도"
+      },
+      {
+        "value": "6470000",
+        "text": "경상북도"
+      },
+      {
+        "value": "6480000",
+        "text": "경상남도"
+      },
+      {
+        "value": "6310000",
+        "text": "울산광역시"
+      },
+      {
+        "value": "6500000",
+        "text": "제주도"
+      }
+    ]
+  },
+  {
+    "name": "search_state",
+    "options": [
+      {
+        "value": "13",
+        "text": "전체"
+      },
+      {
+        "value": "1",
+        "text": "영업"
+      },
+      {
+        "value": "3",
+        "text": "폐업"
+      }
+    ]
+  },
+  {
+    "name": "search_kind",
+    "options": [
+      {
+        "value": "",
+        "text": "업종구분"
+      },
+      {
+        "value": "1",
+        "text": "출판사"
+      },
+      {
+        "value": "2",
+        "text": "인쇄사"
+      }
+    ]
+  },
+  {
+    "name": "search_type",
+    "options": [
+      {
+        "value": "",
+        "text": "항목"
+      },
+      {
+        "value": "1",
+        "text": "상호"
+      },
+      {
+        "value": "3",
+        "text": "주소"
+      }
+    ]
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const selects = Array.from(document.querySelectorAll(\'select\'));\n  return selects.map(s => ({\n    name: s.name,\n    options: Array.from(s.options).map(o => ({ value: o.value, text: o.text }))\n  }));\n}');
+```

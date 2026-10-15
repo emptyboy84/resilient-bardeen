@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+parts.length: 16
+col 1: 이수연
+col 5: 최유창
+col 10: 만화
+parts.length: 16
+col 1: 이지현
+col 5: 곽재홍
+col 10: 만화
+parts.length: 16
+col 1: 이진수
+col 5: 이진수
+col 10: 만화
+

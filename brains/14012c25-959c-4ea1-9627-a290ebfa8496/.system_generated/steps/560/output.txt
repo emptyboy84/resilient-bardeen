@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.gongsinara.com/');
+```
+### Page
+- Page URL: https://www.gongsinara.com/
+- Page Title: 공시나라 - 기업정보 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-26-40-136Z.yml)

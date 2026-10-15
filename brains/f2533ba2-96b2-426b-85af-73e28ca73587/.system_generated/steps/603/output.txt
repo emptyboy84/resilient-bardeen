@@ -1,0 +1,112 @@
+### Result
+[
+  {
+    "id": "hidtxtNum1",
+    "name": "hidtxtNum1",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "hidtxtNum2",
+    "name": "hidtxtNum2",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "EP_STATUS",
+    "type": "hidden",
+    "placeholder": "",
+    "value": "0"
+  },
+  {
+    "id": "txtSangHo",
+    "name": "txtSangHo",
+    "type": "text",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "txtCeo",
+    "name": "txtCeo",
+    "type": "text",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "bNum",
+    "name": "GUBUNCODE",
+    "type": "radio",
+    "placeholder": "",
+    "value": "1"
+  },
+  {
+    "id": "txtNum1",
+    "name": "txtNum1",
+    "type": "text",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "hidFlag",
+    "type": "hidden",
+    "placeholder": "",
+    "value": "1"
+  },
+  {
+    "id": "sNum",
+    "name": "GUBUNCODE",
+    "type": "radio",
+    "placeholder": "",
+    "value": "2"
+  },
+  {
+    "id": "txtNum2",
+    "name": "txtNum2",
+    "type": "text",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "NCR_NUM_",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "CHECK_NCR_NUM",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "flag",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "type",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  },
+  {
+    "id": "",
+    "name": "ALL_NCR_NUM",
+    "type": "hidden",
+    "placeholder": "",
+    "value": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ id: i.id, name: i.name, type: i.type, placeholder: i.placeholder, value: i.value }));\n}');
+```

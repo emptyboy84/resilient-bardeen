@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=&query=%EB%8D%94%EC%B2%9C%EC%9C%A0');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%EB%8D%94%EC%B2%9C%EC%9C%A0
+- Page Title: 더천유
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-29-44-785Z.yml)

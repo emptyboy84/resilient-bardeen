@@ -1,0 +1,38 @@
+
+The command exited with code 1.
+Output:
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:17 �:29
++                 Write-Host "Found ?�구�?in $($f.Name)"
++                             ~
+�޼� ȣ�⿡ ')'� �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:17 �:29
++                 Write-Host "Found ?�구�?in $($f.Name)"
++                             ~~~~~
+� �Ǵ� � �ġ � 'Found' �ū�Դϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:17 �:29
++                 Write-Host "Found ?�구�?in $($f.Name)"
++                             ~~~~~
+'if' � � �ڿ� �ݴ� ')'� �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:28 �:39
++ Write-Host "Done checking excel files."
++                                       ~
+�ڿ� " �ڰ� �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:8 �:21
++         if ($entry) {
++                     ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:5 �:9
++     try {
++         ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:29 �:1
++ 
+Try � �ش� Catch � �Ǵ� Finally � �ϴ�.
+�ġ C:\Users\lg\.gemini\antigravity\brain\9df91901-c0ea-4bd0-b89a-515d344b7952\scratch\search_excel.ps1:3 �:24
++ foreach ($f in $files) {
++                        ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInMethodCall
+ 
+

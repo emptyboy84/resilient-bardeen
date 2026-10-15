@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7808603354');
+```
+### Page
+- Page URL: https://bizno.net/article/7808603354
+- Page Title: 유한책임회사 베러아일랜드(Better Islands LLC.)
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-31-13-301Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-31-08-434Z.log#L1-L5

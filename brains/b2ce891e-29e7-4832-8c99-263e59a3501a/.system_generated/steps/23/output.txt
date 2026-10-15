@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/8778803313');
+```
+### Page
+- Page URL: https://bizno.net/article/8778803313
+- Page Title: 접속대기_no1
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-28-26-982Z.yml)

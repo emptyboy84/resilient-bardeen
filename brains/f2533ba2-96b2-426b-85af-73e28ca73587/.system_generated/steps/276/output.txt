@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total verified corps with number: 65
+All checksums checked!
+

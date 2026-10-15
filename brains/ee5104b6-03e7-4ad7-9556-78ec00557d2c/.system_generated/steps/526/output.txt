@@ -1,0 +1,1004 @@
+### Page
+- Page URL: https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80
+- Page Title: 사회적협동조합새로움 – Daum 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f61e1]:
+  - navigation:
+    - link "본문 바로가기" [ref=f61e2] [cursor=pointer]:
+      - /url: "#daumBody"
+    - link "메뉴 바로가기" [ref=f61e3] [cursor=pointer]:
+      - /url: "#daumGnb"
+  - generic [ref=f61e4]:
+    - banner [ref=f61e5]:
+      - generic [ref=f61e6]:
+        - heading "다음" [level=1] [ref=f61e7]
+        - heading "검색" [level=2] [ref=f61e8]
+        - generic [ref=f61e9]:
+          - group "검색폼" [ref=f61e11]:
+            - generic [ref=f61e13]:
+              - link "Daum 메인페이지로 가기" [ref=f61e14] [cursor=pointer]:
+                - /url: https://www.daum.net/
+              - textbox "검색어 입력" [ref=f61e23]: 사회적협동조합새로움
+              - button "입력삭제" [ref=f61e24] [cursor=pointer]
+              - button "가상키보드 열기" [ref=f61e26] [cursor=pointer]
+              - button "검색" [ref=f61e42] [cursor=pointer]
+          - generic [ref=f61e48]:
+            - heading "서비스 바로가기" [level=2] [ref=f61e49]
+            - link "로그인" [ref=f61e51] [cursor=pointer]:
+              - /url: https://logins.daum.net/accounts/loginform.do?url=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26DA%3DYZR%26t__nil_searchbox%3Dbtn%26sug%3D%26sugo%3D%26sq%3D%26o%3D%26q%3D%25EC%2582%25AC%25ED%259A%258C%25EC%25A0%2581%25ED%2598%2591%25EB%258F%2599%25EC%25A1%25B0%25ED%2595%25A9%25EC%2583%2588%25EB%25A1%259C%25EC%259B%2580
+            - generic [ref=f61e52]:
+              - link "메일" [ref=f61e54] [cursor=pointer]:
+                - /url: https://mail.daum.net/?nil_profile=mini&nil_src=mail
+              - button "Daum 미니 사이트맵" [ref=f61e57] [cursor=pointer]
+        - generic [ref=f61e59]:
+          - generic:
+            - list [ref=f61e60]:
+              - listitem [ref=f61e61]:
+                - generic [ref=f61e62]: 선택된 항목
+                - link "통합" [ref=f61e63] [cursor=pointer]:
+                  - /url: "?w=tot&q=%ec%82%ac%ed%9a%8c%ec%a0%81%ed%98%91%eb%8f%99%ec%a1%b0%ed%95%a9%ec%83%88%eb%a1%9c%ec%9b%80&DA=NTB"
+              - listitem [ref=f61e65]:
+                - link "통합웹" [ref=f61e66] [cursor=pointer]:
+                  - /url: "?w=fusion&nil_search=btn&DA=NTB&p=2&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+              - listitem [ref=f61e68]:
+                - link "멜론뮤직 새창" [ref=f61e69] [cursor=pointer]:
+                  - /url: https://www.melon.com/search/total/index.htm?q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&ref=W10060
+                  - generic [ref=f61e70]:
+                    - text: 멜론뮤직
+                    - generic [ref=f61e71]: 새창
+              - listitem [ref=f61e72]:
+                - link "이미지" [ref=f61e73] [cursor=pointer]:
+                  - /url: "?w=img&nil_search=btn&DA=NTB&enc=utf8&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+              - listitem [ref=f61e75]:
+                - link "동영상" [ref=f61e76] [cursor=pointer]:
+                  - /url: "?w=vclip&nil_search=btn&DA=NTB&enc=utf8&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+              - listitem [ref=f61e78]:
+                - link "뉴스" [ref=f61e79] [cursor=pointer]:
+                  - /url: "?w=news&nil_search=btn&DA=NTB&enc=utf8&cluster=y&cluster_page=1&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+              - listitem [ref=f61e81]:
+                - link "사이트" [ref=f61e82] [cursor=pointer]:
+                  - /url: "?w=site&nil_search=btn&DA=NTB&enc=utf8&lpp=10&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+              - listitem [ref=f61e84]:
+                - link "어학사전 새창" [ref=f61e85] [cursor=pointer]:
+                  - /url: http://dic.daum.net/search.do?q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80
+                  - generic [ref=f61e86]:
+                    - text: 어학사전
+                    - generic [ref=f61e87]: 새창
+            - button "더보기/접기" [ref=f61e89] [cursor=pointer]
+          - button "전체 기간" [ref=f61e92] [cursor=pointer]
+    - generic [ref=f61e93]:
+      - main [ref=f61e94]:
+        - generic [ref=f61e96]:
+          - generic [ref=f61e97]: 검색 본문
+          - generic [ref=f61e100]:
+            - heading "관련 검색어" [level=2] [ref=f61e101]:
+              - text: 관련
+              - generic [ref=f61e102]: 검색어
+            - link "사회적 협동조합 설립절차" [ref=f61e104] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%20%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%20%EC%84%A4%EB%A6%BD%EC%A0%88%EC%B0%A8&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=NSJ"
+            - link "최근 사회적 이슈" [ref=f61e106] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%B5%9C%EA%B7%BC%20%EC%82%AC%ED%9A%8C%EC%A0%81%20%EC%9D%B4%EC%8A%88&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=NSJ"
+          - generic [ref=f61e108]:
+            - generic [ref=f61e109]:
+              - heading "통합웹" [level=2] [ref=f61e110]
+              - generic [ref=f61e111]:
+                - strong: 상세검색옵션
+                - generic [ref=f61e114]:
+                  - generic [ref=f61e115]:
+                    - text: 전체
+                    - generic [ref=f61e116]: 선택됨
+                  - link "블로그" [ref=f61e117] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA&p=2"
+                  - link "카페" [ref=f61e118] [cursor=pointer]:
+                    - /url: "?w=fusion&col=cafe&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA&p=2"
+                  - link "웹문서" [ref=f61e119] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA&p=2"
+            - generic [ref=f61e121]:
+              - generic [ref=f61e123]:
+                - link "유저썸네일 blog.naver.com 더클 운동발달센터" [ref=f61e128] [cursor=pointer]:
+                  - /url: https://blog.naver.com/theclefit
+                  - img "유저썸네일" [ref=f61e131]
+                  - strong [ref=f61e133]:
+                    - generic [ref=f61e134]: blog.naver.com
+                    - generic [ref=f61e136]: 더클 운동발달센터
+                - generic [ref=f61e139]:
+                  - strong [ref=f61e142]:
+                    - link "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e143] [cursor=pointer]:
+                      - /url: https://blog.naver.com/theclefit/224231535533
+                  - generic [ref=f61e144]:
+                    - generic [ref=f61e146]:
+                      - strong [ref=f61e147]: 문서내부 첨부이미지 미리보기
+                      - generic [ref=f61e149]:
+                        - list [ref=f61e150]:
+                          - listitem [ref=f61e151]:
+                            - link [ref=f61e154] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e155]
+                          - listitem [ref=f61e156]:
+                            - link [ref=f61e159] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e160]
+                          - listitem [ref=f61e161]:
+                            - link [ref=f61e164] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e165]
+                          - listitem [ref=f61e166]:
+                            - link [ref=f61e169] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e170]
+                          - listitem [ref=f61e171]:
+                            - link [ref=f61e174] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e175]
+                          - listitem [ref=f61e176]:
+                            - link [ref=f61e179] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e180]
+                          - listitem [ref=f61e181]:
+                            - link [ref=f61e184] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e185]
+                          - listitem [ref=f61e186]:
+                            - link [ref=f61e189] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e190]
+                          - listitem [ref=f61e191]:
+                            - link [ref=f61e194] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e195]
+                          - listitem [ref=f61e196]:
+                            - link [ref=f61e199] [cursor=pointer]:
+                              - /url: https://blog.naver.com/theclefit/224231535533
+                              - img "🏆 우리 아이의 '성장 골든타임', 체육이 성적과 자립을 결정합니다.[창원더클운동발달센터][창원더클사회적협동조합]" [ref=f61e200]
+                        - button "다음 컨텐츠보기" [ref=f61e201] [cursor=pointer]
+                    - paragraph [ref=f61e204]:
+                      - 'link "사회적협동조합 #창원시설대관 #창원체육시설대관 #창원실내체육시설 #더클굿즈 모방하는 지도학습은 특정한 상황에 일시적으론 효과적일 수 있어도, 개인화부족, 동기부족, 전문성 부족으로 인해 깊은 이해와 문제 해결 능력이 감소할 수 있으며, 단순패턴학습과 심층적 이해가 떨어지며, 애매한 모방은 평가의 한계와..." [ref=f61e205] [cursor=pointer]':
+                        - /url: https://blog.naver.com/theclefit/224231535533
+                - generic [ref=f61e207]:
+                  - link "블로그 검색 더보기" [ref=f61e208] [cursor=pointer]:
+                    - /url: "?w=fusion&col=blog&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA"
+                  - generic [ref=f61e210]: 2026.03.30
+              - generic [ref=f61e215]:
+                - link "유저썸네일 namu.wiki" [ref=f61e220] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EC%8B%A0%EA%B8%B8%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90
+                  - img "유저썸네일" [ref=f61e223]
+                  - strong [ref=f61e225]:
+                    - generic [ref=f61e226]: namu.wiki
+                - generic [ref=f61e229]:
+                  - strong [ref=f61e232]:
+                    - link "신길고등학교 - 나무위키" [ref=f61e233] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EC%8B%A0%EA%B8%B8%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90
+                  - generic [ref=f61e234]:
+                    - paragraph [ref=f61e236]:
+                      - link "경기도 안산시 단원구 신길동에 있는 공립 고등학교이다." [ref=f61e237] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%EC%8B%A0%EA%B8%B8%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90
+                    - generic [ref=f61e239]:
+                      - term [ref=f61e240]: "개교:"
+                      - definition [ref=f61e241]: 2009년 3월 1일
+                      - term [ref=f61e242]: "유형:"
+                      - definition [ref=f61e243]: 일반계 고등학교
+                      - term [ref=f61e244]: "성별:"
+                      - definition [ref=f61e245]: 남녀 공학
+                      - term [ref=f61e246]: "형태:"
+                      - definition [ref=f61e247]: 공립
+                      - term [ref=f61e248]: "교훈:"
+                      - definition [ref=f61e249]: 일신우일신(日新又日新)
+                - generic [ref=f61e251]:
+                  - link "웹문서 검색 더보기" [ref=f61e252] [cursor=pointer]:
+                    - /url: "?w=fusion&col=web&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA"
+                  - generic [ref=f61e254]: 2026.08.26
+                - generic [ref=f61e259]:
+                  - strong [ref=f61e261]: 같은 출처 내 관련문서
+                  - list [ref=f61e262]:
+                    - listitem [ref=f61e263]:
+                      - link "다다예술학교 - 나무위키" [ref=f61e265] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%EB%8B%A4%EB%8B%A4%EC%98%88%EC%88%A0%ED%95%99%EA%B5%90
+                    - listitem [ref=f61e266]:
+                      - link "로고송 - 나무위키" [ref=f61e268] [cursor=pointer]:
+                        - /url: https://namu.wiki/w/%EB%A1%9C%EA%B3%A0%EC%86%A1
+              - generic [ref=f61e270]:
+                - link "유저썸네일 blog.naver.com 희망플랫폼" [ref=f61e275] [cursor=pointer]:
+                  - /url: https://blog.naver.com/rassu
+                  - img "유저썸네일" [ref=f61e278]
+                  - strong [ref=f61e280]:
+                    - generic [ref=f61e281]: blog.naver.com
+                    - generic [ref=f61e283]: 희망플랫폼
+                - generic [ref=f61e286]:
+                  - strong [ref=f61e289]:
+                    - link "쳇GPT 스마트 활용 전략. 안유미교수. 대한인식생명교육 사회적협동조합 11월 역량강화 카라페 특강." [ref=f61e290] [cursor=pointer]:
+                      - /url: https://blog.naver.com/rassu/224078050304
+                  - link "쳇GPT 스마트 활용 전략. 안유미교수. 대한인식생명교육 사회적협동조합 11월 역량강화 카라페 특강. 12 개" [ref=f61e294] [cursor=pointer]:
+                    - /url: https://blog.naver.com/rassu/224078050304
+                    - img "쳇GPT 스마트 활용 전략. 안유미교수. 대한인식생명교육 사회적협동조합 11월 역량강화 카라페 특강." [ref=f61e295]
+                    - generic [ref=f61e297]:
+                      - text: "12"
+                      - generic [ref=f61e298]: 개
+                  - paragraph [ref=f61e301]:
+                    - 'link "AI의 콜라보 라고나 할까? 단체 지식을 공유하고 나눌 수 있는 시간. 새로움에 빠르게 적응하는 강사로 거듭나고, 또 배우고 성장할 수 있는 #카라페 가 있어서...뜨거운 휴일저녁~^^ 반가웠습니당!!! ♡ #KALAPE #대한인식생명교육 사회적협동조합은 #자살예방 #고독사예방 #폭력예방 등 봉사 및 #ESG교육 의 지속..." [ref=f61e302] [cursor=pointer]':
+                      - /url: https://blog.naver.com/rassu/224078050304
+                - generic [ref=f61e303]: 2025.11.16
+              - generic [ref=f61e310]:
+                - link "유저썸네일 blog.naver.com 국내최초 감잎천연발효 통밀 빵체험 010-4222-7291" [ref=f61e315] [cursor=pointer]:
+                  - /url: https://blog.naver.com/sharm7291
+                  - img "유저썸네일" [ref=f61e318]
+                  - strong [ref=f61e320]:
+                    - generic [ref=f61e321]: blog.naver.com
+                    - generic [ref=f61e323]: 국내최초 감잎천연발효 통밀 빵체험 010-4222-7291
+                - generic [ref=f61e326]:
+                  - strong [ref=f61e329]:
+                    - link "감잎 농부 집에 사회적 협동조합 산촌 교육 마을 단비 회원, 가족 우리밀 빵체험" [ref=f61e330] [cursor=pointer]:
+                      - /url: https://blog.naver.com/sharm7291/223802745345
+                  - link "감잎 농부 집에 사회적 협동조합 산촌 교육 마을 단비 회원, 가족 우리밀 빵체험 25 개" [ref=f61e334] [cursor=pointer]:
+                    - /url: https://blog.naver.com/sharm7291/223802745345
+                    - img "감잎 농부 집에 사회적 협동조합 산촌 교육 마을 단비 회원, 가족 우리밀 빵체험" [ref=f61e335]
+                    - generic [ref=f61e337]:
+                      - text: "25"
+                      - generic [ref=f61e338]: 개
+                  - paragraph [ref=f61e341]:
+                    - link "감사드립니다! 사회적 협동 조합에서 우리밀 빵도 직접 구우시고 책방과 쉼터도 운영하십니다 자연을 소중하게 여기고 이익보다는 사람의 건강을 최우선으로 생각하시는 아름다운 공동체랍니다! 자연 감잎에 대하여 잠시 설명 드리고, 감잎농부와 함께 우리밀 빵, 과자를 만들어 보았어요! 감잎 우리밀 반죽을 1차발효된..." [ref=f61e342] [cursor=pointer]:
+                      - /url: https://blog.naver.com/sharm7291/223802745345
+                - generic [ref=f61e343]: 2025.03.19
+              - generic [ref=f61e350]:
+                - link "유저썸네일 blog.naver.com 오늘도 행복하게" [ref=f61e355] [cursor=pointer]:
+                  - /url: https://blog.naver.com/goodrichwiz
+                  - img "유저썸네일" [ref=f61e358]
+                  - strong [ref=f61e360]:
+                    - generic [ref=f61e361]: blog.naver.com
+                    - generic [ref=f61e363]: 오늘도 행복하게
+                - generic [ref=f61e366]:
+                  - strong [ref=f61e369]:
+                    - link "대전 마을기업 학마을 사회적협동조합 출간도서 학마을의 비밀 을 아시나요" [ref=f61e370] [cursor=pointer]:
+                      - /url: https://blog.naver.com/goodrichwiz/223652452511
+                  - link "대전 마을기업 학마을 사회적협동조합 출간도서 학마을의 비밀 을 아시나요 14 개" [ref=f61e374] [cursor=pointer]:
+                    - /url: https://blog.naver.com/goodrichwiz/223652452511
+                    - img "대전 마을기업 학마을 사회적협동조합 출간도서 학마을의 비밀 을 아시나요" [ref=f61e375]
+                    - generic [ref=f61e377]:
+                      - text: "14"
+                      - generic [ref=f61e378]: 개
+                  - paragraph [ref=f61e381]:
+                    - 'link "안녕하세요 선한부자를 꿈꾸는 선한지혜입니다 매일매일이 새로움으로 가득한 하루 보내시길 바라겠습니다 오늘 소개해드릴 책은 #대전마을기업 학마을사회적협동조합 에서 출간한 그림책 \"학마을의 비밀\" 입니다 대전의 #학마을사회적협동조합 은 #유성구 지역 사회의 지속 가능한 발전을 목표로 하는 마을기업으로..." [ref=f61e382] [cursor=pointer]':
+                      - /url: https://blog.naver.com/goodrichwiz/223652452511
+                - generic [ref=f61e383]: 2024.11.08
+              - generic [ref=f61e390]:
+                - link "유저썸네일 blog.naver.com 사회적협동조합 별고을광대" [ref=f61e395] [cursor=pointer]:
+                  - /url: https://blog.naver.com/redjaban
+                  - img "유저썸네일" [ref=f61e398]
+                  - strong [ref=f61e400]:
+                    - generic [ref=f61e401]: blog.naver.com
+                    - generic [ref=f61e403]: 사회적협동조합 별고을광대
+                - generic [ref=f61e406]:
+                  - strong [ref=f61e409]:
+                    - link "[공지] 사회적협동조합별고을광대 새로움을 '잇다'" [ref=f61e410] [cursor=pointer]:
+                      - /url: https://blog.naver.com/redjaban/224048565071
+                  - link "[공지] 사회적협동조합별고을광대 새로움을 '잇다' 2 개" [ref=f61e414] [cursor=pointer]:
+                    - /url: https://blog.naver.com/redjaban/224048565071
+                    - img "[공지] 사회적협동조합별고을광대 새로움을 '잇다'" [ref=f61e415]
+                    - generic [ref=f61e417]:
+                      - text: "2"
+                      - generic [ref=f61e418]: 개
+                  - paragraph [ref=f61e421]:
+                    - link "2025년 11월 1일 토요일 오후 3시부터 장장 2시간의 여정~ 그리고 또하나의 새로움!!! 새로운 공간에서 새로운 출발 문화로 잇고 예술로 채우는 별고을광대의...문화예술의 지속과 발전을 통해 지역문화의 성장으로 이어집니다.\" 사회적협동조합별고을광대는 법정기부금 단체 입니다. 후원계좌 농협 ***-****-****-**" [ref=f61e422] [cursor=pointer]:
+                      - /url: https://blog.naver.com/redjaban/224048565071
+                - generic [ref=f61e423]: 2025.10.21
+              - link "통합웹 더보기" [ref=f61e433] [cursor=pointer]:
+                - /url: "?w=fusion&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=TWA&p=2"
+          - generic [ref=f61e439]:
+            - generic [ref=f61e441]:
+              - generic [ref=f61e443]:
+                - heading "멜론뮤직" [level=2] [ref=f61e444]
+                - link "안내" [ref=f61e447] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f61e448]: i
+              - link "다른 사이트 더보기" [ref=f61e452] [cursor=pointer]:
+                - /url: "?w=site&DA=MS2&q=%EC%9D%8C%EC%95%85+-%EB%A9%9C%EB%A1%A0"
+            - generic [ref=f61e454]:
+              - list [ref=f61e455]:
+                - listitem [ref=f61e456]:
+                  - generic [ref=f61e458]:
+                    - link [ref=f61e462] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32921738&ref=W10600
+                    - generic [ref=f61e463]:
+                      - strong [ref=f61e466]:
+                        - link "브릴리언트" [ref=f61e467] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32921738&ref=W10600
+                      - generic [ref=f61e468]:
+                        - paragraph [ref=f61e470]:
+                          - link "사회적협동조합 무하" [ref=f61e471] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32921738&ref=W10600
+                        - generic [ref=f61e473]:
+                          - term [ref=f61e474]: "앨범:"
+                          - definition [ref=f61e475]: 브릴리언트 OST
+                        - generic [ref=f61e476]: 2020.09.12.
+                - listitem [ref=f61e478]:
+                  - generic [ref=f61e480]:
+                    - link [ref=f61e484] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32921737&ref=W10600
+                    - generic [ref=f61e485]:
+                      - strong [ref=f61e488]:
+                        - link "시간이 달라서" [ref=f61e489] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32921737&ref=W10600
+                      - generic [ref=f61e490]:
+                        - paragraph [ref=f61e492]:
+                          - link "사회적협동조합 무하" [ref=f61e493] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32921737&ref=W10600
+                        - generic [ref=f61e495]:
+                          - term [ref=f61e496]: "앨범:"
+                          - definition [ref=f61e497]: 브릴리언트 OST
+                        - generic [ref=f61e498]: 2020.09.12.
+                - listitem [ref=f61e500]:
+                  - generic [ref=f61e502]:
+                    - link [ref=f61e506] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32921736&ref=W10600
+                    - generic [ref=f61e507]:
+                      - strong [ref=f61e510]:
+                        - link "그 길을 걷는다" [ref=f61e511] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32921736&ref=W10600
+                      - generic [ref=f61e512]:
+                        - paragraph [ref=f61e514]:
+                          - link "사회적협동조합 무하" [ref=f61e515] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32921736&ref=W10600
+                        - generic [ref=f61e517]:
+                          - term [ref=f61e518]: "앨범:"
+                          - definition [ref=f61e519]: 브릴리언트 OST
+                        - generic [ref=f61e520]: 2020.09.12.
+                - listitem [ref=f61e522]:
+                  - generic [ref=f61e524]:
+                    - link [ref=f61e528] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277418&ref=W10600
+                    - generic [ref=f61e529]:
+                      - strong [ref=f61e532]:
+                        - link "빡치는 노래" [ref=f61e533] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277418&ref=W10600
+                      - generic [ref=f61e534]:
+                        - paragraph [ref=f61e536]:
+                          - link "사회적협동조합 무하" [ref=f61e537] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277418&ref=W10600
+                        - generic [ref=f61e539]:
+                          - term [ref=f61e540]: "앨범:"
+                          - definition [ref=f61e541]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e542]: 2019.12.27.
+                - listitem [ref=f61e544]:
+                  - generic [ref=f61e546]:
+                    - link [ref=f61e550] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277420&ref=W10600
+                    - generic [ref=f61e551]:
+                      - strong [ref=f61e554]:
+                        - link "같은 꿈, 다른 사랑" [ref=f61e555] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277420&ref=W10600
+                      - generic [ref=f61e556]:
+                        - paragraph [ref=f61e558]:
+                          - link "사회적협동조합 무하" [ref=f61e559] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277420&ref=W10600
+                        - generic [ref=f61e561]:
+                          - term [ref=f61e562]: "앨범:"
+                          - definition [ref=f61e563]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e564]: 2019.12.27.
+                - listitem [ref=f61e566]:
+                  - generic [ref=f61e568]:
+                    - link [ref=f61e572] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277411&ref=W10600
+                    - generic [ref=f61e573]:
+                      - strong [ref=f61e576]:
+                        - link "Parallel" [ref=f61e577] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277411&ref=W10600
+                      - generic [ref=f61e578]:
+                        - paragraph [ref=f61e580]:
+                          - link "사회적협동조합 무하" [ref=f61e581] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277411&ref=W10600
+                        - generic [ref=f61e583]:
+                          - term [ref=f61e584]: "앨범:"
+                          - definition [ref=f61e585]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e586]: 2019.12.27.
+                - listitem [ref=f61e588]:
+                  - generic [ref=f61e590]:
+                    - link [ref=f61e594] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277423&ref=W10600
+                    - generic [ref=f61e595]:
+                      - strong [ref=f61e598]:
+                        - link "맺음" [ref=f61e599] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277423&ref=W10600
+                      - generic [ref=f61e600]:
+                        - paragraph [ref=f61e602]:
+                          - link "사회적협동조합 무하" [ref=f61e603] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277423&ref=W10600
+                        - generic [ref=f61e605]:
+                          - term [ref=f61e606]: "앨범:"
+                          - definition [ref=f61e607]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e608]: 2019.12.27.
+                - listitem [ref=f61e610]:
+                  - generic [ref=f61e612]:
+                    - link [ref=f61e616] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277412&ref=W10600
+                    - generic [ref=f61e617]:
+                      - strong [ref=f61e620]:
+                        - link "너희들과 다른 바이브" [ref=f61e621] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277412&ref=W10600
+                      - generic [ref=f61e622]:
+                        - paragraph [ref=f61e624]:
+                          - link "사회적협동조합 무하" [ref=f61e625] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277412&ref=W10600
+                        - generic [ref=f61e627]:
+                          - term [ref=f61e628]: "앨범:"
+                          - definition [ref=f61e629]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e630]: 2019.12.27.
+                - listitem [ref=f61e632]:
+                  - generic [ref=f61e634]:
+                    - link [ref=f61e638] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277417&ref=W10600
+                    - generic [ref=f61e639]:
+                      - strong [ref=f61e642]:
+                        - link "멋진 놈 발견!" [ref=f61e643] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277417&ref=W10600
+                      - generic [ref=f61e644]:
+                        - paragraph [ref=f61e646]:
+                          - link "사회적협동조합 무하" [ref=f61e647] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277417&ref=W10600
+                        - generic [ref=f61e649]:
+                          - term [ref=f61e650]: "앨범:"
+                          - definition [ref=f61e651]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e652]: 2019.12.27.
+                - listitem [ref=f61e654]:
+                  - generic [ref=f61e656]:
+                    - link [ref=f61e660] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277415&ref=W10600
+                    - generic [ref=f61e661]:
+                      - strong [ref=f61e664]:
+                        - link "방백" [ref=f61e665] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277415&ref=W10600
+                      - generic [ref=f61e666]:
+                        - paragraph [ref=f61e668]:
+                          - link "사회적협동조합 무하" [ref=f61e669] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277415&ref=W10600
+                        - generic [ref=f61e671]:
+                          - term [ref=f61e672]: "앨범:"
+                          - definition [ref=f61e673]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e674]: 2019.12.27.
+                - listitem [ref=f61e676]:
+                  - generic [ref=f61e678]:
+                    - link [ref=f61e682] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277416&ref=W10600
+                    - generic [ref=f61e683]:
+                      - strong [ref=f61e686]:
+                        - link "평범한 어느 날의 기적" [ref=f61e687] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277416&ref=W10600
+                      - generic [ref=f61e688]:
+                        - paragraph [ref=f61e690]:
+                          - link "사회적협동조합 무하" [ref=f61e691] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277416&ref=W10600
+                        - generic [ref=f61e693]:
+                          - term [ref=f61e694]: "앨범:"
+                          - definition [ref=f61e695]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e696]: 2019.12.27.
+                - listitem [ref=f61e698]:
+                  - generic [ref=f61e700]:
+                    - link [ref=f61e704] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=33111251&ref=W10600
+                    - generic [ref=f61e705]:
+                      - strong [ref=f61e708]:
+                        - link "동백 꽃 피어나면" [ref=f61e709] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=33111251&ref=W10600
+                      - generic [ref=f61e710]:
+                        - paragraph [ref=f61e712]:
+                          - link "사회적협동조합 무하" [ref=f61e713] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=33111251&ref=W10600
+                        - generic [ref=f61e715]:
+                          - term [ref=f61e716]: "앨범:"
+                          - definition [ref=f61e717]: 뮤지컬 실레로맨~쓰!...
+                        - generic [ref=f61e718]: 2020.12.04.
+                - listitem [ref=f61e720]:
+                  - generic [ref=f61e722]:
+                    - link [ref=f61e726] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277413&ref=W10600
+                    - generic [ref=f61e727]:
+                      - strong [ref=f61e730]:
+                        - link "That's Enough" [ref=f61e731] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277413&ref=W10600
+                      - generic [ref=f61e732]:
+                        - paragraph [ref=f61e734]:
+                          - link "사회적협동조합 무하" [ref=f61e735] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277413&ref=W10600
+                        - generic [ref=f61e737]:
+                          - term [ref=f61e738]: "앨범:"
+                          - definition [ref=f61e739]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e740]: 2019.12.27.
+                - listitem [ref=f61e742]:
+                  - generic [ref=f61e744]:
+                    - link [ref=f61e748] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=33111257&ref=W10600
+                    - generic [ref=f61e749]:
+                      - strong [ref=f61e752]:
+                        - link "이날이 오기만을" [ref=f61e753] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=33111257&ref=W10600
+                      - generic [ref=f61e754]:
+                        - paragraph [ref=f61e756]:
+                          - link "사회적협동조합 무하" [ref=f61e757] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=33111257&ref=W10600
+                        - generic [ref=f61e759]:
+                          - term [ref=f61e760]: "앨범:"
+                          - definition [ref=f61e761]: 뮤지컬 실레로맨~쓰!...
+                        - generic [ref=f61e762]: 2020.12.04.
+                - listitem [ref=f61e764]:
+                  - generic [ref=f61e766]:
+                    - link [ref=f61e770] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32403913&ref=W10600
+                    - generic [ref=f61e771]:
+                      - strong [ref=f61e774]:
+                        - link "함께해요 (사회적협동조합 로고송) (Feat. 슈퍼키즈)" [ref=f61e775] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32403913&ref=W10600
+                      - generic [ref=f61e776]:
+                        - paragraph [ref=f61e778]:
+                          - link "단야" [ref=f61e779] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32403913&ref=W10600
+                        - generic [ref=f61e781]:
+                          - term [ref=f61e782]: "앨범:"
+                          - definition [ref=f61e783]: 함께해요 (사회적협동...
+                        - generic [ref=f61e784]: 2020.02.25.
+                - listitem [ref=f61e786]:
+                  - generic [ref=f61e788]:
+                    - link [ref=f61e792] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277414&ref=W10600
+                    - generic [ref=f61e793]:
+                      - strong [ref=f61e796]:
+                        - link "A Toast" [ref=f61e797] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277414&ref=W10600
+                      - generic [ref=f61e798]:
+                        - paragraph [ref=f61e800]:
+                          - link "사회적협동조합 무하" [ref=f61e801] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277414&ref=W10600
+                        - generic [ref=f61e803]:
+                          - term [ref=f61e804]: "앨범:"
+                          - definition [ref=f61e805]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e806]: 2019.12.27.
+                - listitem [ref=f61e808]:
+                  - generic [ref=f61e810]:
+                    - link [ref=f61e814] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=33111252&ref=W10600
+                    - generic [ref=f61e815]:
+                      - strong [ref=f61e818]:
+                        - link "경성의 멋진 신사" [ref=f61e819] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=33111252&ref=W10600
+                      - generic [ref=f61e820]:
+                        - paragraph [ref=f61e822]:
+                          - link "사회적협동조합 무하" [ref=f61e823] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=33111252&ref=W10600
+                        - generic [ref=f61e825]:
+                          - term [ref=f61e826]: "앨범:"
+                          - definition [ref=f61e827]: 뮤지컬 실레로맨~쓰!...
+                        - generic [ref=f61e828]: 2020.12.04.
+                - listitem [ref=f61e830]:
+                  - generic [ref=f61e832]:
+                    - link [ref=f61e836] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=33111254&ref=W10600
+                    - generic [ref=f61e837]:
+                      - strong [ref=f61e840]:
+                        - link "할 말이 없어" [ref=f61e841] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=33111254&ref=W10600
+                      - generic [ref=f61e842]:
+                        - paragraph [ref=f61e844]:
+                          - link "사회적협동조합 무하" [ref=f61e845] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=33111254&ref=W10600
+                        - generic [ref=f61e847]:
+                          - term [ref=f61e848]: "앨범:"
+                          - definition [ref=f61e849]: 뮤지컬 실레로맨~쓰!...
+                        - generic [ref=f61e850]: 2020.12.04.
+                - listitem [ref=f61e852]:
+                  - generic [ref=f61e854]:
+                    - link [ref=f61e858] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277419&ref=W10600
+                    - generic [ref=f61e859]:
+                      - strong [ref=f61e862]:
+                        - link "외면" [ref=f61e863] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277419&ref=W10600
+                      - generic [ref=f61e864]:
+                        - paragraph [ref=f61e866]:
+                          - link "사회적협동조합 무하" [ref=f61e867] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277419&ref=W10600
+                        - generic [ref=f61e869]:
+                          - term [ref=f61e870]: "앨범:"
+                          - definition [ref=f61e871]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e872]: 2019.12.27.
+                - listitem [ref=f61e874]:
+                  - generic [ref=f61e876]:
+                    - link [ref=f61e880] [cursor=pointer]:
+                      - /url: http://www.melon.com/song/detail.htm?songId=32277422&ref=W10600
+                    - generic [ref=f61e881]:
+                      - strong [ref=f61e884]:
+                        - link "The Road To Eternity" [ref=f61e885] [cursor=pointer]:
+                          - /url: http://www.melon.com/song/detail.htm?songId=32277422&ref=W10600
+                      - generic [ref=f61e886]:
+                        - paragraph [ref=f61e888]:
+                          - link "사회적협동조합 무하" [ref=f61e889] [cursor=pointer]:
+                            - /url: http://www.melon.com/song/detail.htm?songId=32277422&ref=W10600
+                        - generic [ref=f61e891]:
+                          - term [ref=f61e892]: "앨범:"
+                          - definition [ref=f61e893]: 걸판지게 로미오와 줄...
+                        - generic [ref=f61e894]: 2019.12.27.
+                - listitem:
+                  - link "더보기" [ref=f61e896] [cursor=pointer]:
+                    - /url: https://www.melon.com/search/song/index.htm?ref=W10600&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80
+              - button "다음 컨텐츠보기" [ref=f61e900] [cursor=pointer]
+          - generic [ref=f61e903]:
+            - heading "이미지" [level=2] [ref=f61e907]
+            - generic [ref=f61e908]:
+              - figure [ref=f61e909]:
+                - link [ref=f61e911] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "두플러스협동조합, 원케어휴예비사회적기업 선배님들과의 청라 데이트" [ref=f61e912]
+              - figure [ref=f61e913]:
+                - link [ref=f61e915] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[공지] 사회적협동조합별고을광대 새로움을 '잇다'" [ref=f61e916]
+              - figure [ref=f61e917]:
+                - link [ref=f61e919] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "[공지] 사회적협동조합별고을광대 새로움을 '잇다'" [ref=f61e920]
+              - figure [ref=f61e921]:
+                - link [ref=f61e923] [cursor=pointer]:
+                  - /url: javascript:;
+                  - 'img "뜨겁게 타오르는 불사의 투지, 리니지M : 게임샷" [ref=f61e924]'
+              - figure [ref=f61e925]:
+                - link [ref=f61e927] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "쳇GPT 스마트 활용 전략. 안유미교수. 대한인식생명교육 사회적협동조합 11월 역량강화 카라페 특강." [ref=f61e928]
+              - figure [ref=f61e929]:
+                - link [ref=f61e931] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "쳇GPT 스마트 활용 전략. 안유미교수. 대한인식생명교육 사회적협동조합 11월 역량강화 카라페 특강." [ref=f61e932]
+              - figure [ref=f61e933]:
+                - link [ref=f61e935] [cursor=pointer]:
+                  - /url: javascript:;
+                  - 'img "제2차 청소년 인문치유 톡톡캠프 개최… 디지털 과몰입 해소 효과 뚜렷 : 게임샷" [ref=f61e936]'
+              - figure [ref=f61e937]:
+                - link [ref=f61e939] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "대전 마을기업 학마을 사회적협동조합 출간도서 학마을의 비밀 을 아시나요" [ref=f61e940]
+              - figure [ref=f61e941]:
+                - link [ref=f61e943] [cursor=pointer]:
+                  - /url: javascript:;
+                  - img "가치키움사회적협동조합/별별동구 상품 패키지" [ref=f61e944]
+              - figure [ref=f61e945]:
+                - link [ref=f61e947] [cursor=pointer]:
+                  - /url: javascript:;
+                  - 'img "뜨겁게 타오르는 불사의 투지, 리니지M : 게임샷" [ref=f61e948]'
+            - link "이미지 더보기" [ref=f61e950] [cursor=pointer]:
+              - /url: "?w=img&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=IIM"
+          - generic [ref=f61e954]:
+            - generic [ref=f61e955]:
+              - generic [ref=f61e959]:
+                - heading "동영상" [level=2] [ref=f61e960]
+                - link "안내" [ref=f61e963] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [aria-hidden] [ref=f61e964]: i
+              - list [ref=f61e966]:
+                - listitem [ref=f61e967]:
+                  - generic [ref=f61e968]:
+                    - link "[군산이야기 EP.1] 꽃일다협동조합-꼬막공방 재생시간 04:09" [ref=f61e971] [cursor=pointer]:
+                      - /url: http://www.youtube.com/watch?v=zgE6GJQH4I4
+                      - img "[군산이야기 EP.1] 꽃일다협동조합-꼬막공방" [ref=f61e972]
+                      - generic [ref=f61e973]:
+                        - generic [ref=f61e974]: 재생시간
+                        - generic [ref=f61e975]: 04:09
+                    - generic [ref=f61e976]:
+                      - strong [ref=f61e978]:
+                        - link "[군산이야기 EP.1] 꽃일다협동조합-꼬막공방" [ref=f61e979] [cursor=pointer]:
+                          - /url: http://www.youtube.com/watch?v=zgE6GJQH4I4
+                      - generic [ref=f61e981]:
+                        - link "Youtube" [ref=f61e983] [cursor=pointer]:
+                          - /url: http://youtube.com
+                        - text: 2019.01.24
+                      - link "G메이커" [ref=f61e984] [cursor=pointer]:
+                        - /url: http://www.youtube.com/channel/UC2GhHxZ5lLqM0IQfDFSLNZQ
+                        - strong [ref=f61e987]: G메이커
+            - generic [ref=f61e988]: 동영상 검색 결과에는 Youtube 영상이 포함되어 있으며, Youtube API를 사용하여 제공합니다. Youtube 영상을 검색할 경우, Youtube의 서비스 약관 및 Google 개인정보 보호 정책에 동의한 것으로 간주합니다.
+            - generic [ref=f61e994]:
+              - generic [ref=f61e995]: 안내
+              - generic [ref=f61e996]:
+                - link "유튜브 서비스 이용약관" [ref=f61e997] [cursor=pointer]:
+                  - /url: https://www.youtube.com/t/terms
+                - text: ","
+                - link "구글 개인정보 처리방침" [ref=f61e998] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy
+            - link "동영상 더보기" [ref=f61e1000] [cursor=pointer]:
+              - /url: "?w=vclip&DA=VOI&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80"
+          - generic [ref=f61e1003]:
+            - heading "뉴스" [level=2] [ref=f61e1004]
+            - generic [ref=f61e1005]:
+              - heading "뉴스" [level=2] [ref=f61e1008]
+              - generic [ref=f61e1010]:
+                - link "정확도순" [ref=f61e1011] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&sort=accuracy&DA=DNS"
+                - link "최신순" [ref=f61e1012] [cursor=pointer]:
+                  - /url: "?w=news&cluster=y&cluster_page=1&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&sort=recency&DA=DNS"
+                - button "뉴스검색 설정" [ref=f61e1014] [cursor=pointer]
+            - generic [ref=f61e1018]:
+              - text: 뉴스제휴 언론사 검색결과
+              - link "안내" [ref=f61e1020] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f61e1021]: i
+            - list [ref=f61e1023]:
+              - listitem [ref=f61e1024]:
+                - link "프레시안" [ref=f61e1028] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/12/home
+                  - strong [ref=f61e1031]: 프레시안
+                - generic [ref=f61e1033]:
+                  - strong [ref=f61e1035]:
+                    - link "'시민·조합원 모여라'..협동조합의 날 기념행사 개최" [ref=f61e1036] [cursor=pointer]:
+                      - /url: http://v.daum.net/v/20210809130119595
+                  - generic [ref=f61e1037]:
+                    - paragraph [ref=f61e1038]:
+                      - link "소셜컴퍼니에서 협동조합 모델 및 춘천협동조합 운동사에 대한 연구를 발표한다. 또, ‘협동조합, 과거를 통해 새로움을 발견하다’를...대상으로 협동조합 홍보관을 운영한다. 이영애 사회적경제과장은 “협동조합의 날을 맞아 협동조합의 의의와 성과에 대해 논의..." [ref=f61e1039] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20210809130119595
+                    - generic [ref=f61e1040]: 2021.08.09
+              - listitem [ref=f61e1041]:
+                - link "전자신문" [ref=f61e1045] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/82/home
+                  - strong [ref=f61e1048]: 전자신문
+                - generic [ref=f61e1049]:
+                  - link [ref=f61e1052] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20230924113625682
+                    - img "[대덕 50년, 미래 잇는 50년] 〈7〉 김완두 전 대한기계학회장 “연구분야 '새로움' 추구해야…구성원 처우개선도 절실”" [ref=f61e1053]
+                  - generic [ref=f61e1054]:
+                    - strong [ref=f61e1056]:
+                      - link "[대덕 50년, 미래 잇는 50년] 〈7〉 김완두 전 대한기계학회장 “연구분야 '새로움' 추구해야…구성원 처우개선도 절실”" [ref=f61e1057] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20230924113625682
+                    - generic [ref=f61e1058]:
+                      - paragraph [ref=f61e1059]:
+                        - link "라고 평가했다. 김 회장은 “과거 1980년대 연구원의 보수, 사회적 위상은 지금과는 비교하기 어려웠고, 무엇보다 하고 싶은 연구를...발전시킬 수 있다고도 말했다. 그는 현재 기계전문가협동조합, 협동조합 세종과학기술연구원에서 활동하며 지역 내 중소기업 지술..." [ref=f61e1060] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20230924113625682
+                      - generic [ref=f61e1061]: 2023.09.24
+              - listitem [ref=f61e1062]:
+                - link "대전일보" [ref=f61e1066] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/98009/home
+                  - strong [ref=f61e1069]: 대전일보
+                - generic [ref=f61e1070]:
+                  - link "\"지역 청년이 행복해야 외지 청년도 옵니다\" 2" [ref=f61e1073] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20240513162702581
+                    - img "\"지역 청년이 행복해야 외지 청년도 옵니다\"" [ref=f61e1074]
+                    - generic [ref=f61e1075]: "2"
+                  - generic [ref=f61e1077]:
+                    - strong [ref=f61e1079]:
+                      - link "\"지역 청년이 행복해야 외지 청년도 옵니다\"" [ref=f61e1080] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20240513162702581
+                    - generic [ref=f61e1081]:
+                      - paragraph [ref=f61e1082]:
+                        - link "청년이 많은 도심에 몰려 있어야 하는가?\"라며 \"농촌에도 규모를 달리한 공공형 청년센터가 필요하다\"고도 덧붙였다. 최낙원 사회적협동조합 온어스 이사장을 비롯해 아산시 도고면에서 활동하는 청년들은 자신들을 '도더지'라 지칭하며 지역 여러 곳에 새로움을..." [ref=f61e1083] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20240513162702581
+                      - generic [ref=f61e1084]: 2024.05.13
+              - listitem [ref=f61e1085]:
+                - link "국민일보" [ref=f61e1089] [cursor=pointer]:
+                  - /url: https://v.daum.net/channel/45/home
+                  - strong [ref=f61e1092]: 국민일보
+                - generic [ref=f61e1093]:
+                  - link "팔걷은 엄마들… 꿈틀대는 창작욕구에 생명을 불어넣다 4" [ref=f61e1096] [cursor=pointer]:
+                    - /url: http://v.daum.net/v/20240814042415292
+                    - img "팔걷은 엄마들… 꿈틀대는 창작욕구에 생명을 불어넣다" [ref=f61e1097]
+                    - generic [ref=f61e1098]: "4"
+                  - generic [ref=f61e1100]:
+                    - strong [ref=f61e1102]:
+                      - link "팔걷은 엄마들… 꿈틀대는 창작욕구에 생명을 불어넣다" [ref=f61e1103] [cursor=pointer]:
+                        - /url: http://v.daum.net/v/20240814042415292
+                    - generic [ref=f61e1104]:
+                      - paragraph [ref=f61e1105]:
+                        - link "한다고 생각한다. 하지만 알고 보니 그게 아니었다. “사회적 협동조합을 처음 하면서 작가들에게 친구가 생긴다는 생각은 전혀 안...특성이 비장애 예술가들이 갖지 못한 장점이 됨으로써 미술에 새로움을 불러일으킬 거라는 기대 때문이다. 그래서 미술 전문가가..." [ref=f61e1106] [cursor=pointer]:
+                          - /url: http://v.daum.net/v/20240814042415292
+                      - generic [ref=f61e1107]: 2024.08.14 탐사뉴스
+            - link "펼쳐보기" [ref=f61e1109] [cursor=pointer]:
+              - /url: javascript:;
+            - link "뉴스 더보기" [ref=f61e1112] [cursor=pointer]:
+              - /url: "?w=news&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&enc=utf8&cluster=y&cluster_page=1&DA=DNS"
+          - generic [ref=f61e1114]:
+            - button "이전페이지" [disabled] [ref=f61e1115]
+            - generic [ref=f61e1117]:
+              - generic [ref=f61e1118]: 현재페이지
+              - emphasis [ref=f61e1119]: "1"
+              - link "2" [ref=f61e1120] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&p=2"
+              - link "3" [ref=f61e1121] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&p=3"
+              - link "4" [ref=f61e1122] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&p=4"
+              - link "5" [ref=f61e1123] [cursor=pointer]:
+                - /url: "?w=fusion&DA=PGD&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&p=5"
+            - button "다음페이지" [ref=f61e1124] [cursor=pointer]
+          - generic [ref=f61e1128]:
+            - heading "관련 검색어" [level=2] [ref=f61e1129]:
+              - text: 관련
+              - generic [ref=f61e1130]: 검색어
+            - link "사회적 협동조합 설립절차" [ref=f61e1132] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%82%AC%ED%9A%8C%EC%A0%81%20%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%20%EC%84%A4%EB%A6%BD%EC%A0%88%EC%B0%A8&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=DCC"
+            - link "최근 사회적 이슈" [ref=f61e1134] [cursor=pointer]:
+              - /url: "?w=tot&m=&q=%EC%B5%9C%EA%B7%BC%20%EC%82%AC%ED%9A%8C%EC%A0%81%20%EC%9D%B4%EC%8A%88&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=DCC"
+        - complementary [ref=f61e1135]:
+          - generic [ref=f61e1138]:
+            - generic [ref=f61e1141]:
+              - heading "실시간 트렌드" [level=2] [ref=f61e1142]
+              - link "안내" [ref=f61e1144] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [aria-hidden] [ref=f61e1145]: i
+            - list [ref=f61e1148]:
+              - listitem [ref=f61e1149]:
+                - link "1 위 지예은 바타 결혼 순위 변동없음" [ref=f61e1150] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%A7%80%EC%98%88%EC%9D%80+%EB%B0%94%ED%83%80+%EA%B2%B0%ED%98%BC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1151]:
+                    - text: "1"
+                    - generic [ref=f61e1152]: 위
+                  - generic [ref=f61e1153]: 지예은 바타 결혼
+                  - generic [ref=f61e1154]: 순위 변동없음
+              - listitem [ref=f61e1155]:
+                - link "2 위 이장원 조부 별세 순위 변동없음" [ref=f61e1156] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9D%B4%EC%9E%A5%EC%9B%90+%EC%A1%B0%EB%B6%80+%EB%B3%84%EC%84%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1157]:
+                    - text: "2"
+                    - generic [ref=f61e1158]: 위
+                  - generic [ref=f61e1159]: 이장원 조부 별세
+                  - generic [ref=f61e1160]: 순위 변동없음
+              - listitem [ref=f61e1161]:
+                - link "3 위 9월 모의고사 순위 변동없음" [ref=f61e1162] [cursor=pointer]:
+                  - /url: "?w=tot&q=9%EC%9B%94+%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1163]:
+                    - text: "3"
+                    - generic [ref=f61e1164]: 위
+                  - generic [ref=f61e1165]: 9월 모의고사
+                  - generic [ref=f61e1166]: 순위 변동없음
+              - listitem [ref=f61e1167]:
+                - link "4 위 장동혁 ETF게이트 순위 상승" [ref=f61e1168] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9E%A5%EB%8F%99%ED%98%81+ETF%EA%B2%8C%EC%9D%B4%ED%8A%B8&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1169]:
+                    - text: "4"
+                    - generic [ref=f61e1170]: 위
+                  - generic [ref=f61e1171]: 장동혁 ETF게이트
+                  - generic [ref=f61e1172]: 순위 상승
+              - listitem [ref=f61e1173]:
+                - link "5 위 유재성 퇴임 순위 신규진입" [ref=f61e1174] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%9C%A0%EC%9E%AC%EC%84%B1+%ED%87%B4%EC%9E%84&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1175]:
+                    - text: "5"
+                    - generic [ref=f61e1176]: 위
+                  - generic [ref=f61e1177]: 유재성 퇴임
+                  - generic [ref=f61e1178]: 순위 신규진입
+              - listitem [ref=f61e1179]:
+                - link "6 위 손흥민 LAFC 부진 순위 신규진입" [ref=f61e1180] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%86%90%ED%9D%A5%EB%AF%BC+LAFC+%EB%B6%80%EC%A7%84&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1181]:
+                    - text: "6"
+                    - generic [ref=f61e1182]: 위
+                  - generic [ref=f61e1183]: 손흥민 LAFC 부진
+                  - generic [ref=f61e1184]: 순위 신규진입
+              - listitem [ref=f61e1185]:
+                - link "7 위 건진법사 공천청탁 순위 상승" [ref=f61e1186] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC+%EA%B3%B5%EC%B2%9C%EC%B2%AD%ED%83%81&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1187]:
+                    - text: "7"
+                    - generic [ref=f61e1188]: 위
+                  - generic [ref=f61e1189]: 건진법사 공천청탁
+                  - generic [ref=f61e1190]: 순위 상승
+              - listitem [ref=f61e1191]:
+                - link "8 위 세종 행정수도 순위 상승" [ref=f61e1192] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%84%B8%EC%A2%85+%ED%96%89%EC%A0%95%EC%88%98%EB%8F%84&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1193]:
+                    - text: "8"
+                    - generic [ref=f61e1194]: 위
+                  - generic [ref=f61e1195]: 세종 행정수도
+                  - generic [ref=f61e1196]: 순위 상승
+              - listitem [ref=f61e1197]:
+                - link "9 위 경찰 인사 순위 신규진입" [ref=f61e1198] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B2%BD%EC%B0%B0+%EC%9D%B8%EC%82%AC&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1199]:
+                    - text: "9"
+                    - generic [ref=f61e1200]: 위
+                  - generic [ref=f61e1201]: 경찰 인사
+                  - generic [ref=f61e1202]: 순위 신규진입
+              - listitem [ref=f61e1203]:
+                - link "10 위 김하성 타율 상승 순위 상승" [ref=f61e1204] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EA%B9%80%ED%95%98%EC%84%B1+%ED%83%80%EC%9C%A8+%EC%83%81%EC%8A%B9&DA=RTL&rtmaxcoll=AIO,NNS,DNS"
+                  - generic [ref=f61e1205]:
+                    - text: "10"
+                    - generic [ref=f61e1206]: 위
+                  - generic [ref=f61e1207]: 김하성 타율 상승
+                  - generic [ref=f61e1208]: 순위 상승
+            - generic [ref=f61e1209]: 오늘 12:02 기준
+          - generic [ref=f61e1211]:
+            - generic [ref=f61e1212]:
+              - heading "분야별 검색어" [level=2] [ref=f61e1213]
+              - generic [ref=f61e1214]: 09.02. 12:04
+            - generic [ref=f61e1215]:
+              - list [ref=f61e1217]:
+                - listitem [ref=f61e1218]:
+                  - text: 선택된 메뉴
+                  - link "상영중영화" [ref=f61e1219] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f61e1221]:
+                  - link "시사교양tv" [ref=f61e1222] [cursor=pointer]:
+                    - /url: "javascript:"
+                - listitem [ref=f61e1224]:
+                  - link "라디오방송" [ref=f61e1225] [cursor=pointer]:
+                    - /url: "javascript:"
+              - generic [ref=f61e1227]:
+                - list [ref=f61e1228]:
+                  - listitem [ref=f61e1229]:
+                    - generic [ref=f61e1230]:
+                      - generic [ref=f61e1231]: "1"
+                      - link "오디세이" [ref=f61e1233] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=186974"
+                  - listitem [ref=f61e1234]:
+                    - generic [ref=f61e1235]:
+                      - generic [ref=f61e1236]: "2"
+                      - link "경주기행" [ref=f61e1238] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EA%B2%BD%EC%A3%BC%EA%B8%B0%ED%96%89&rtmaxcoll=CQN,EM1&irt=movie-single&irk=182820"
+                  - listitem [ref=f61e1239]:
+                    - generic [ref=f61e1240]:
+                      - generic [ref=f61e1241]: "3"
+                      - 'link "스파이더맨: 브랜드 뉴 데이" [ref=f61e1243] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8%3A%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%89%B4%20%EB%8D%B0%EC%9D%B4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300271"
+                  - listitem [ref=f61e1244]:
+                    - generic [ref=f61e1245]:
+                      - generic [ref=f61e1246]: "4"
+                      - link "호프" [ref=f61e1248] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%ED%98%B8%ED%94%84&rtmaxcoll=CQN,EM1&irt=movie-single&irk=187945"
+                  - listitem [ref=f61e1249]:
+                    - generic [ref=f61e1250]:
+                      - generic [ref=f61e1251]: "5"
+                      - link "오케이 마담2" [ref=f61e1253] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%98%A4%EC%BC%80%EC%9D%B4%20%EB%A7%88%EB%8B%B42&rtmaxcoll=CQN,EM1&irt=movie-single&irk=188269"
+                - list [ref=f61e1254]:
+                  - listitem [ref=f61e1255]:
+                    - generic [ref=f61e1256]:
+                      - generic [ref=f61e1257]: "6"
+                      - link "오크 스트리트의 마지막 날" [ref=f61e1259] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%98%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EC%9D%98%20%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%82%A0&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300341"
+                  - listitem [ref=f61e1260]:
+                    - generic [ref=f61e1261]:
+                      - generic [ref=f61e1262]: "7"
+                      - 'link "드라큘라: 러브 테일" [ref=f61e1264] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EB%93%9C%EB%9D%BC%ED%81%98%EB%9D%BC%3A%20%EB%9F%AC%EB%B8%8C%20%ED%85%8C%EC%9D%BC&rtmaxcoll=CQN,EM1&irt=movie-single&irk=188331"
+                  - listitem [ref=f61e1265]:
+                    - generic [ref=f61e1266]:
+                      - generic [ref=f61e1267]: "8"
+                      - 'link "인시디어스: 그들이 넘어왔다" [ref=f61e1269] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EC%9D%B8%EC%8B%9C%EB%94%94%EC%96%B4%EC%8A%A4%3A%20%EA%B7%B8%EB%93%A4%EC%9D%B4%20%EB%84%98%EC%96%B4%EC%99%94%EB%8B%A4&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300426"
+                  - listitem [ref=f61e1270]:
+                    - generic [ref=f61e1271]:
+                      - generic [ref=f61e1272]: "9"
+                      - 'link "도그 스타: 마지막 희망" [ref=f61e1274] [cursor=pointer]':
+                        - /url: "?w=tot&DA=CQN&q=%EB%8F%84%EA%B7%B8%20%EC%8A%A4%ED%83%80%3A%20%EB%A7%88%EC%A7%80%EB%A7%89%20%ED%9D%AC%EB%A7%9D&rtmaxcoll=CQN,EM1&irt=movie-single&irk=300446"
+                  - listitem [ref=f61e1275]:
+                    - generic [ref=f61e1276]:
+                      - generic [ref=f61e1277]: "10"
+                      - link "어떻게 해야 했을까?" [ref=f61e1279] [cursor=pointer]:
+                        - /url: "?w=tot&DA=CQN&q=%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%95%B4%EC%95%BC%20%ED%96%88%EC%9D%84%EA%B9%8C%3F&rtmaxcoll=CQN,EM1&irt=movie-single&irk=174582"
+          - generic [ref=f61e1281]:
+            - heading "관련검색어" [level=2] [ref=f61e1283]
+            - list [ref=f61e1285]:
+              - listitem [ref=f61e1286]:
+                - link "사회적 협동조합 설립절차" [ref=f61e1287] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%82%AC%ED%9A%8C%EC%A0%81%20%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%20%EC%84%A4%EB%A6%BD%EC%A0%88%EC%B0%A8&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=RSJ"
+              - listitem [ref=f61e1288]:
+                - link "최근 사회적 이슈" [ref=f61e1289] [cursor=pointer]:
+                  - /url: "?w=tot&q=%EC%B5%9C%EA%B7%BC%20%EC%82%AC%ED%9A%8C%EC%A0%81%20%EC%9D%B4%EC%8A%88&nzq=%EC%82%AC%ED%9A%8C%EC%A0%81%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9%EC%83%88%EB%A1%9C%EC%9B%80&DA=RSJ"
+      - contentinfo [ref=f61e1290]:
+        - generic [ref=f61e1292]:
+          - link "검색블로그" [ref=f61e1293] [cursor=pointer]:
+            - /url: http://daumsearch.tistory.com
+          - text: "|"
+          - link "검색원칙" [ref=f61e1294] [cursor=pointer]:
+            - /url: https://cs.daum.net/faq/service/15/category/15649
+          - text: "|"
+          - link "검색등록" [ref=f61e1295] [cursor=pointer]:
+            - /url: https://register.search.daum.net
+          - text: "|"
+          - link "검색제휴" [ref=f61e1296] [cursor=pointer]:
+            - /url: mailto:contentpartnership@axzcorp.com
+          - text: "|"
+          - link "고객센터" [ref=f61e1297] [cursor=pointer]:
+            - /url: https://cs.daum.net/
+          - text: "|"
+          - link "유해정보신고" [ref=f61e1298] [cursor=pointer]:
+            - /url: javascript:;
+          - generic [ref=f61e1299]:
+            - text: ⓒ
+            - link "Daum Corp." [ref=f61e1300] [cursor=pointer]:
+              - /url: https://daumcorp.com/
+      - link "맨위로" [ref=f61e1301] [cursor=pointer]:
+        - /url: javascript:;
+```

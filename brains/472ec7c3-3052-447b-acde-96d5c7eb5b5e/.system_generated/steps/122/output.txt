@@ -1,0 +1,31 @@
+
+The command exited with code 0.
+Output:
+
+Name                      Length    LastWriteTime           
+----                      ------    -------------           
+locales                             2026-10-15 � 8:48:34 
+resources                           2026-10-15 � 8:48:34 
+chrome_100_percent.pak    719639    2026-09-30 � 12:08:22
+chrome_200_percent.pak    1269002   2026-09-30 � 12:08:22
+d3dcompiler_47.dll        4741272   2026-10-07 � 10:13:04
+dxcompiler.dll            25756312  2026-10-07 � 10:13:06
+dxil.dll                  1509528   2026-10-07 � 10:13:06
+ffmpeg.dll                3123864   2026-10-07 � 10:13:06
+Gemini.exe                246307480 2026-10-07 � 10:13:16
+GeminiAppLauncher.exe     1741464   2026-10-07 � 10:13:18
+GeminiCrashpadHandler.exe 1896088   2026-10-07 � 10:13:18
+GEMINI_BUILD_INFO.txt     38        2026-10-07 � 10:11:46
+icudtl.dat                10876560  2026-09-30 � 10:09:26
+LICENSE                   1117      2026-09-30 � 10:02:52
+LICENSES.chromium.html    20402364  2026-09-30 � 11:23:36
+resources.pak             12433606  2026-09-30 � 12:08:22
+snapshot_blob.bin         368768    2026-09-30 � 10:52:48
+v8_context_snapshot.bin   742200    2026-09-30 � 12:09:12
+version                   6         2026-09-30 � 12:12:42
+vk_swiftshader.dll        5530776   2026-10-07 � 10:13:18
+vk_swiftshader_icd.json   106       2026-09-30 � 10:36:46
+vulkan-1.dll              949912    2026-10-07 � 10:13:18
+
+
+

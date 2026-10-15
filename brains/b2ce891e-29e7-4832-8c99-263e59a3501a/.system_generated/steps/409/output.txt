@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.114.co.kr/search?keyword=노매드헐');
+```
+### Page
+- Page URL: https://www.114.co.kr/search?keyword=%EB%85%B8%EB%A7%A4%EB%93%9C%ED%97%90
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 60 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T04-17-53-206Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T04-17-49-641Z.log#L1-L182

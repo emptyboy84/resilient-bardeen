@@ -1,0 +1,21 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 518 lines>
+21] Row 2075 | "유티플러스인터랙티브" | 대표: "김태민" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[248/421] Row 2076 | "주식회사 마이비" | 대표: "" | 구: "해운대구"
+  => MATCH CONFIRMED: 605-81-39783 (주식회사 마이비) | 주소: "부산광역시 해운대구 센텀북대로 60 11층" | 대표: "이근재" [계속사업자]
+[249/421] Row 2077 | "제이앤제이(J&J)커뮤니케이션즈" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[250/421] Row 2078 | "케이엘정보통신 주식회사 부산지점" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 250/421 | Matched: 65 | Unverifiable: 185 <<<
+[251/421] Row 2079 | "윤해지" | 대표: "윤해지" | 구: ""
+  => UNVERIFIED / PENDING PASS 2
+[252/421] Row 2080 | "이안" | 대표: "팽동석" | 구: "강서구"
+  => UNVERIFIED / PENDING PASS 2
+[253/421] Row 2082 | "스튜디오비오" | 대표: "이한빈" | 구: "해운대구"
+
+Last progress: 0s ago

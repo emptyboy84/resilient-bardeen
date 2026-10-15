@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://life.easehub.co.kr/film_screenings/511');
+```
+### Page
+- Page URL: https://life.easehub.co.kr/film_screenings/511
+- Page Title: 부산광역시 해운대구 film screenings | (주)브이알코리아 | 편잇
+- Console: 1 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-39-40-408Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-39-35-562Z.log#L1-L3

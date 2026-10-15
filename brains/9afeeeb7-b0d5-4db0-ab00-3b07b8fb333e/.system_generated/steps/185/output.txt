@@ -1,0 +1,19 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-183
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-183.log
+Log output:
+<truncated 26 lines>
+(SUNZ) | 상업용 사진 촬영업 | undefined | undefined | undefined
+윤 사진촬영업 | 상업용 사진 촬영업 | undefined | undefined | undefined
+모모촬영업 | 인물사진 및 행사용 영상 촬영업 | undefined | undefined | undefined
+스튜디오547 | 상업용 사진 촬영업 | undefined | undefined | undefined
+성태촬영업 | 비주거용 건물 임대업 | undefined | undefined | undefined
+복희촬영업 | 비주거용 건물 임대업 | undefined | undefined | undefined
+상혁촬영업 | 상업용 사진 촬영업 | undefined | undefined | undefined
+태금촬영업 | 비주거용 건물 임대업 | undefined | undefined | undefined
+왈츠스튜디오 | 사진처리 | undefined | undefined | undefined
+미경촬영 | 상업용 사진 촬영업 외 1 종 | undefined | undefined | undefined
+영희촬영업 | 비주거용 건물 임대업 | undefined | undefined | undefined
+성혜필름사진 | 비주거용 건물 임대업 | undefined | undefined | undefined
+
+Last progress: 6s ago

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\lg\.gemini\antigravity\brain\d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd\scratch\extract_modified.py", line 32, in <module>
+    if isinstance(val, openpyxl.compat.datetime.datetime) if hasattr(openpyxl, 'compat') else hasattr(val, 'strftime'):
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'openpyxl.compat' has no attribute 'datetime'

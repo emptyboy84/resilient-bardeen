@@ -1,0 +1,35 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\validate_corp_reg_number
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-09-08   � 8:55                brain_logs                                                           
+d-----      2026-09-08   � 8:55                data                                                                 
+d-----      2026-09-08   � 8:55                node_modules                                                         
+-a----      2026-09-08   � 8:55             47 .gitignore                                                           
+-a----      2026-09-08   � 8:55            631 AGENTS.md                                                            
+-a----      2026-09-08   � 8:55         134720 all_500_factchecked.tsv                                              
+-a----      2026-09-08   � 8:55         138057 all_500_verified.tsv                                                 
+-a----      2026-09-08   � 8:55          25920 article_test.html                                                    
+-a----      2026-09-08   � 8:55         128152 bizno_filtered_result.csv                                            
+-a----      2026-09-08   � 8:55         130093 bizno_filtered_result.tsv                                            
+-a----      2026-09-08   � 8:55         130977 bizno_filtered_result_nice.csv                                       
+-a----      2026-09-08   � 8:55         130093 bizno_filtered_result_nice.tsv                                       
+-a----      2026-09-08   � 8:55          24690 bizno_test.html                                                      
+-a----      2026-09-08   � 8:55         110584 current_pasted_batch.tsv                                             
+-a----      2026-09-08   � 8:55         138448 merged_500_perfect.tsv                                               
+-a----      2026-09-08   � 8:55          41125 package-lock.json                                                    
+-a----      2026-09-08   � 8:55             85 package.json                                                         
+-a----      2026-09-08   � 8:55          17011 query_test.html                                                      
+-a----      2026-09-08   � 8:55          36805 rows_11847_12000_16col.tsv                                           
+-a----      2026-09-08   � 8:55          37115 rows_11847_12000_17col.tsv                                           
+-a----      2026-09-08   � 8:55          38655 rows_11847_12000_verified.tsv                                        
+-a----      2026-09-08   � 8:55         192164 user_pasted_rows.tsv                                                 
+
+
+

@@ -1,0 +1,18 @@
+The search for "site:jobkorea.co.kr "장대골로 41" OR "테렌즈"" returned the following summary:
+잡코리아(Jobkorea) 플랫폼 내에서 기업 정보로 등록되어 있는 **'테렌즈'**는 솔루션·SI·CRM·ERP 업종의 기업으로 확인됩니다[1]. 
+
+다만, 문의하신 주소인 **"부산광역시 수영구 장대골로 41 (광안동, 제이비클래식빌딩)"** 위치에는 주로 다음과 같은 기업 및 시설들이 자리하고 있습니다.
+* **주식회사 비주얼센터** (시각 언어 및 영상 제작·테크 기업, 구 디엠스튜디오 등)[2][3][4]
+* **웨이브락 클라이밍 광안리점** (실내 암벽등반 체육관)[5][6]
+* 과거 포미트(주) 등의 업체가 위치했던 곳이기도 합니다[7].
+
+특정 기업의 상세 채용 공고나 정확한 위치 매칭을 확인하고자 하실 경우, 잡코리아 검색창에서 상호명(테렌즈)이나 도로명 주소(장대골로 41)를 직접 입력하여 최신 등록된 기업 회원 정보를 조회하시는 것을 권장합니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxXX3vfIiR-pbsAbU576hYvHxglo0jHy-vuNz_gBMT8b5eoX9E-fVRDx53sGpvy3U9e_TB1qsCchqwpidNAkg2Uhjsj-7sWqqqJAO1UqjCsgK5SgDcRibv5bs3tijg9Q==)
+[2] [vrstory.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH_bBVCHdI5nFfxPUv0XufJEaHyI1q4MzlHmONRyweT1axv6C6rhTD7G-yV3NLhgfOkBGN_1CSO8okh9ZayILvZ90XCvZpxSGJKeHXh9V3vMWQhyI=)
+[3] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxs_HyO9aZcbC8nSQOCEiIaKQp-zmcyQVjg24tWS-7ok_XldnDPRVypWqnM5DhsA6d3VLzWLE8Yq50MYzDM1dy_SWZnx9SgJCy7_cGnrwzNmyY6cD5ceqoiZwGk9n3cXNODvsOq__d_w==)
+[4] [rememberapp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPqdNJgTsRCyY03QLGrkGpjDd4zPalaNgwM-rzApxcbwWgmG8h4XpfjvGykTkv_cY_9nfoM9-WV4yQHyyFfqlRZEqpG2sm2_ATwuU1X77i7YbIOj-KKmmLMIsE00KFAl2oNfyD3Vtdjck=)
+[5] [blogsailing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMa8rGf_3rr_pivWwdr4zoc4ZV0AGfaL3DNTSVOwL6znwQ-LokryhVrLp-3ZKJYdtMAGAftr1XootXpZqProtXC597Ol3KP57JTG4OSgM9F9JUuZ9fBMevy4w=)
+[6] [maptons.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1TWT4rP1yBkBanShLZ8OCX0yi8q0B0oUxshIbUTUrq5jOiHjDPYaNuV6wFytIqqQM0uxQNAANainTCFj8aJD7H0mwHR8fFQAzDDjvghT9l_RrdF_VHWkwvg==)
+[7] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwCvjh5N_yr66W-Ph82vaWAIBlpjxkqCvG7I55stj_CsweZecL9lB4sfsoYgufmnEnKQ8BL6qEbdV2PoYUlGROf4GCpBmja-c3I9hcrSK7LJMsgQOehv1JN8V40JCauU3je6pvr0yH7ivnGJyTKLcd45TvugK-GpP2IkD37Y8w8pTXLnVc)

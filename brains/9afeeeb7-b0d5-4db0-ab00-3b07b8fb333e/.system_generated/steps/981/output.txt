@@ -1,0 +1,31 @@
+The search for ""탑플랜트" "노정하" "194" OR "190" OR "창녕군" 법인등록번호" returned the following summary:
+문의하신 "탑플랜트"와 관련된 법인등록번호 및 상세 정보는 다음과 같습니다.
+
+### 1. 탑플랜트(주) (경남 창녕군)
+*   **대표자:** 노정하[1][2]
+*   **소재지:** 경상남도 창녕군 도천면 바깥어만길[1][2]
+*   **특이사항:** 해당 기업은 건설업체로 등록되어 있으며, 창녕군 지역의 기업 정보 데이터에서 확인됩니다[1][2]. 법인등록번호는 공개된 기업 정보 플랫폼 등에서 상세 조회가 필요할 수 있으나, 일반적으로 법인등기부등본 또는 '대법원 인터넷등기소'를 통해 정확한 번호를 확인하실 수 있습니다.
+
+### 2. 참고: 기타 "탑플랜트" 상호명을 사용하는 곳
+동일한 상호명을 사용하는 다른 사업체들도 있으니 혼동에 유의하시기 바랍니다.
+*   **(주)태산탑플랜트:** 경상남도 창녕군 계성면 소재[3][4][5]
+*   **탑플랜트치과의원:** 전북 전주시 덕진구 소재 (주소지 등에 190번지 등이 포함될 수 있음)[6][7][8]
+*   **(주)탑플랜트 (전남 무안군):** 전남 무안군 청계면 소재[9][10]
+*   **(주)케이탑플랜트:** 충청남도 당진시 소재[11][12]
+
+**정확한 법인등록번호 확인 방법:**
+기업의 법인등록번호는 **[대법원 인터넷등기소](http://www.iros.go.kr)**의 '법인등기' -> '열람하기' 메뉴에서 기업명을 검색하시면 정확하게 확인하실 수 있습니다.
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSGox6_N2aELmkypoDEb44jw4N1W6lOqosYOXOfDsGvwkkvw1zvIsYVt_hNNCM5H-SjbTHoHVQ34cYgbqC-SwXdArLJExvj4utzvo1VY5BojvCEQZAMwGTnYuCVYnttNkufMuIgmQwyRmKUBfKelPy)
+[2] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSGox6_N2aELmkypoDEb44jw4N1W6lOqosYOXOfDsGvwkkvw1zvIsYVt_hNNCM5H-SjbTHoHVQ34cYgbqC-SwXdArLJExvj4utzvo1VY5BojvCEQZAMwGTnYuCVYnttNkufMuIgmQwyRmKUBfKelPy)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnpHRg9YTIQD7tzBjye2U8HC8f9AXU6RIhelqkztHq9AuQKpBHpL9nb_7NSeMmpiAFrS7A2A32cRwUobaB4QlsZVBS4ueFvZQoHJUJS9XSqfHQMASleXO1FQk2lQ==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiGq7300r2yT7xiuZNWdX3T4jZ5OvdVdLiIsdHgNnpI5xyTRJb2iG5P2_Ywvt9-3Ui_oc_WnVLzvt99-mTXmTnMKcdBd2dTZpn589dEq3z6h0LVq-s_aedFTlEkOY03CyhndSALHp21A-DUZxmmKTqu63k5YP8IjQmhVlMO6fd5VefLg1LpwknuImo5aG87qoPNuSQa4q8xe_XJxUbbzMh0lW1ph3XcqZ7ZTbO8hgl7waX38MeEUmpuLBulqa5LPngtZyglZNPdhJa51hfLEpdkbdwLIFOmU7ST595jyPWPVnHLulrUtc5D6slWRdV2pk5_DbiQlHInvVYqsUWWzc_bZg7CENruzVIWcVgEQ==)
+[5] [ifactoryhub.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEovSrsqr2BZ5rIcgL8zTwF7OEQI6lb2680_2VlCyyqxfHZXC_ynvVi1qR89hBCfjKkow7ZqutUiqqP52Lwcf3L3kj79qSOFmC5azbIY1PCIZxne8daY0BfMqXTPmfu8EnjVbtG3KjVUKGAXZSvLin7tWPCneMMaPhOBLZy_AH6xp9G9e_7W-0PMi-N9B4wfnXbIiZoYIPwmDWBHceuzTgV2DbZ7MsYjeb24qjDVihD_-vZ-J9V7TkWo1XMf8jusnio9k7M-W7xKMfs5tv0pn6zvonioy8jKWuDZiiwX86sWDfwEqUi90Kb)
+[6] [modoodoc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1tx0ywpg158OY9tA9rKEr7cXvE6kyzUlU1ZYWRfgyB2gsIo2JIMELNi4Pz_uoQxtrdNYIz9JPW1FUxh6WmFjqdeDfqMRHA4UOgHpLI57hMJw83CsFGYTcJ0DUwj6Pj6Ep4s5oYdTU6osy_RptBYHzz3T1MaSu-mU0bydriM-X2OIjEmYHPVwIRHt0l-btehoE-ygbMtH9fNpmFIiBIdveku_vpKbRfBL3ncxyL2zIXPrPRn-c0H1z3Wk5Yd2o1FRzgf0NXjbgGQ2pPQhCjDhIO8q52jkd)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6LtBgn1fj2j1E9eooNxyOb9t5kXqfK8eYxh6-PtOHg_LvMP1CQILfCuC0xgSuA_tGlMFVekwGN-k942w2rHo5jpQe81IdY58gqTXhhEmhgi0QaeiN)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-UA693ZKWipcq7ZYjvy_ei0OgVeE82wMTdmlLv80A-sXB1WMjG_09nSHEXE4j8buglEsMtxili6NHP6ZD2wTrk2HqxnLf4GoS0OWpdwUEZCE0vGM=)
+[9] [scribd.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr7uullythWnyBH8kezmq4J0Rk4J5qszoAaFRLyjAGjx0_LvMRIbx4AKSwg7TmzM9DFXkzCwaqWbNpBK3qWuy3-USX9TItbZGXQYEGOmKq75gNG4kGVFrJuOl8DvMsdiFoSZAfpmWcNYH_Eeyr9vLj8vloRZ1mg3LSb4ape9zo6S4g15mbaiEm5pxnRZTxP1Gs2CZWdKW54oT5MFmCzOvtg5C7vU74IBRKN0R4GCXlE_z8oLsLoVdyc8gMCk-j200LezuTUH1GaC1v2YAhM7ed7nkoibw=)
+[10] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXFHBTcIh0-7rsdOZZfXr0pxFRez4cMWtJWR2m08kpS4ZY9xpK3rSIv1pyG4mvNu_KYn0jw0Ewge_k69vvednDpfHkHmoBPzBnmvSl8QogmLSnChqfhskV2fCbfTuqNVFYl_vdslRoIAAwUoRfvlHYqeGKwYed0kIdbbOy1t6PcR-j6lVLBV1zYgFXMGY2coxzcX5VPUZD4aeUBysMhYyHBsnjXHPQjcarbcQK)
+[11] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcZsknlcrvu3-hQ4KmRwH-mTBYQ3ARLsOP1f1ezSBKeDftdhPqB3BdHSKrqFZNc_L3fAnCJ62On4Xx0xSF5FZpklaiKqhVew13Q_NrGmKq4aJQTZJea9__jsLRp-3vbk37hA==)
+[12] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwefodmcWx6gnquVPtF-tPAulFn_yBPRJT7rIm_4TgmkXi6PpG6xhLgQPAo9x5MQm0fU6VPn5thwOckbqJDydnkwk9_fkJhgadZQ6_w-adkzXLHLPitb4=)

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+배현명 rows: 1500 min: 702 max: 12346
+

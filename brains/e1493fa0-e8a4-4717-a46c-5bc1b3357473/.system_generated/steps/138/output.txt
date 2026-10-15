@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+Bizno 6090653247 (628ms): {
+  bizno: '6090653247',
+  company: '청우정공',
+  status: '폐업',
+  zip: '50802',
+  employees: '3',
+  industry: '기어 및 동력전달장치 제조업'
+}
+Bizno 6090657239 (279ms): {
+  bizno: '6090657239',
+  company: '도경테크',
+  status: '폐업',
+  zip: '51389',
+  employees: '4',
+  industry: '그 외 기타 일반목적용 기계 제조업'
+}
+Bizno 6090657409 (125ms): {
+  bizno: '6090657409',
+  company: '한웅정공',
+  status: '폐업',
+  zip: '52026',
+  employees: '4',
+  industry: '금속 절삭기계 제조업'
+}
+Bizno 6090658771 (133ms): {
+  bizno: '6090658771',
+  company: '백봉제어기계',
+  status: '폐업',
+  zip: '51573',
+  employees: '',
+  industry: '배전반 및 전기 자동제어반 제조업'
+}
+Bizno 6090848296 (135ms): {
+  bizno: '6090848296',
+  company: '신창웰텍',
+  status: '폐업',
+  zip: '51402',
+  employees: '2'
+}
+

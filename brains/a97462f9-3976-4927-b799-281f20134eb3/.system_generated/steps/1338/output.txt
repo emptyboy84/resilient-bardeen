@@ -1,0 +1,11 @@
+The search for ""146039" "book.mcst.go.kr" OR ("동화사" site:book.mcst.go.kr)" returned the following summary:
+출판사인쇄사 검색시스템(book.mcst.go.kr)에서 검색하신 '동화사'와 관련된 정보는 다음과 같습니다.
+
+*   **동화사 (강원특별자치도 강릉시):** 인쇄사로 등록되어 있으며, 영업 중입니다[1].
+*   **(주)동화사 (경상북도 칠곡군):** 인쇄사로 등록되어 있으며, 영업 중입니다[2].
+
+검색하신 번호 "146039"에 대해서는 해당 사이트 내에서 직접적으로 일치하는 결과가 확인되지 않았습니다[1][2]. 특정 문서를 찾으시는 경우 해당 시스템의 검색창에서 상호나 등록번호를 다시 한번 확인해 보시기 바랍니다.
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlFXP_WsyZYXskLvyD3tsdAiqPunkkJzzSIXUnrJFq6Dt8cdTv6DsdY_fuwQFHvSlG8TVKKL3aDrjgOKzh9FWgeTux3cZlTJJ2AZHVuTlVHtdsmg2uQ2OBFvUoW7vPDXr31oigZHC4rpzsTnvJmOPJSlHgFkyjptgEpkDWuWtROtyCs6BcFycA_8QtfB46EvD9YKtBvEtv4mMBq3nrKT_GBIBp8MgmmwqCR9QeSm5j8VupMcSkOwCE8bml4drzi4rlQAQYlz6Us2E92HSs5leS7AAS5gyfp5OBMMuv_Bnz_eKinqIlPDRu9XNhxa0R92tj6m-j0vJA55QjMh0PMHv40Q_GL6-0JAhMnw==)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZNaRcSx46wtuxjI270thWPlyNqVO7Xr2Y04lWncPGkzaDI58EIWgJ2lZE2-Lxg_LOHYTjM4HJHL1N2sVaFSxU97u_5F2rojHCS4rVGheh753vYnX9M9lIpE0eVavHGk7krKzQlxphzuleDh-qNj_gezXhf_S6hoqf40RhiNQb3waUVV8FWbKa7Cvnb6iMQ5TJdcMahVRcR5B9uquCWdMCw2oc4z9SAS9WVYPNKHbSSeileJT8hlM4FbhHWqUyLcG1qCKsgOBJngIj9J9hKgfjIsAiQdFSw-KpS6HoYdtn)

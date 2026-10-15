@@ -1,0 +1,11 @@
+### Result
+Waited for 30 seconds (requested 11000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://bizno.net/article/8778803313
+- Page Title: 접속대기_no1
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-29-02-930Z.yml)

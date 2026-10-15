@@ -1,0 +1,17 @@
+The search for ""주식회사 마이비" "감사보고서" "매출액" site:dart.fss.or.kr" returned the following summary:
+금융감독원 전자공시시스템(DART)을 통해 '주식회사 마이비'의 공시 정보를 확인할 수 있습니다[1][2].
+
+해당 기업의 감사보고서 및 재무정보와 관련된 상세 내용은 다음 경로를 통해 직접 확인하실 수 있습니다.
+
+*   **금융감독원 전자공시시스템(DART):** [http://dart.fss.or.kr](http://dart.fss.or.kr)
+    *   검색창에 **'마이비'**를 입력하여 검색하시면, 최근 제출된 감사보고서 및 연결감사보고서를 조회할 수 있습니다[1][2].
+    *   공시된 감사보고서 내 '재무제표' 또는 '손익계산서' 항목을 통해 해당 기업의 **매출액**을 확인하실 수 있습니다[1].
+
+참고로, 외부 정보 플랫폼 등에서는 해당 기업의 매출액을 약 833억 원(2025년 기준 추정치 등)으로 안내하고 있으나[3][4], 정확하고 공식적인 재무 수치는 DART에 공시된 최신 감사보고서를 기준으로 확인하시기 바랍니다[1][5].
+
+Sources:
+[1] [38.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBZu-f6M0KKGhq1cPxzKxwl4KSVUu5Q_pPzJOZZMw9UwdVk1yPKSmyuyHZF97qrYG6cVN7NclCLYYqOS8Ap6I1nJktwmfAz16y60Zg2jsCjBVfejttsLm0uOpX-KdikeA7NztKP0cv32OAZsVYGR5HZIuOhJHfLrDZYsbn0p-8DreDDVSMQWEyKw==)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDnICuCZfQEdTke5PHzuJgX5PjvBOS383euaH5IUi5Zz6kuhpA4iZHWNgo7Qm-15OPc7NNvJBErhhCQpvp7oaGr4vLrh0aTCgMrG5XLs2L39BhYdgNGkVUCp9SlhlekeczhfQ=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCcjnmZpQruz8jY9F950vlB5J4S2isRR5CxsI1kv5EIWwbsU7TdZ6XFATRzuSFhCHEko3Yfq8TLkaRGGmK4WNRDalZhVKieGrU1ASZqWV8C8ygbKi1N5XvgvKom9JKiFV8H3oQVGs8VrNv1orYHCwB2AchwDpWdKzrXkzRNd9NYyx1pxpugQ_JkL5IOSgWRGzX-rj841_t189BKL3cr7hig4O47PH7beHXdi2SCNL89H36QHrjDRT60ZaIhZWRCm8m)
+[4] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFawEPEE065SRDyQzVhmmmbxFRUqLafeRNE46XjH7lA0w5_sp0xK0j65hargFHNl9AFO7eLMLQ8UWOzgF0JS_euS6AENkyefSQsWK-8CQNCOiorshLZ97vnd6mI6YZ3)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf9mfLpNdZ4IrQbdkvbhMDAQNtNJs2SSpSJPwbH1Am3Ee7WTE_EbM6tyZQXcGtKC1O-7-ErJ4c878iryAih-Pxw8SXCtNk5E__Hun2jz08NtAZHwEgzH2uE5ydWARXNUKbyd8MZpawG4v4VdBDLrQnk9ldWD2vXG3i3K4aBP9yvsvU4jRX0Mbctf14_zGPXjLj7zSOrTzBzeWJuFg47yOWgoXG5mL5rdS7gMUVp-0l5syCz2fhakxwcZ_pqJh_rP_l)

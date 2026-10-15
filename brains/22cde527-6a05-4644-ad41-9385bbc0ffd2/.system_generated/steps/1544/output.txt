@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+dtlReq function: function dtlReq(type,code, sType,titleYN, etcParam, dtlObj){
+	
+	var url = '';
+	var tabType = [''];
+	switch (type) {
+	case 'movie':
+		url = '/kobis/business/mast/mvie/searchMovieDtl.do';
+		tabType = ['stat','thea'];
+		break;
+	case 'people':
+		url = '/kobis/business/mast/peop/searchPeopleDtl.do';
+		tabType = ['filmo'];
+		break;
+
+	case 'company':
+		url = '/kobis/business/mast/comp/searchCompanyDtl.do';
+		tabType = ['filmo'];
+		break;
+
+	case 'festival':
+		url = '/kobis/business/mast/fest/searchFestivalDtl.do';
+		tabType = ['award'];
+		break;
+
+	case 'promotion':
+		url = '/kobis/business/mast/prom/searchPromotionDtl.do';
+		break;
+
+	case 'genreMovie':
+		url = '/kobis/business/stat/them/searchGenreMovieDtl.do';
+		break;
+	
+	case 'online':
+		url = '/kobis/business/stat/online/onlineMovDtl.do';
+		break;
+
+	default:
+		return 'err';
+	}
+	
+	var isOuterReq = location.href.indexOf("Outer.do")!= -1;	
+	
+	$.ajax({		  
+		  type: 'POST',
+		  url: url,
+		  dataType
+

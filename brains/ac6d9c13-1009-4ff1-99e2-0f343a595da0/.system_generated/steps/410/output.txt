@@ -1,0 +1,12 @@
+Task: ac6d9c13-1009-4ff1-99e2-0f343a595da0/task-404
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\ac6d9c13-1009-4ff1-99e2-0f343a595da0\.system_generated\tasks\task-404.log
+Log output:
+Starting Comprehensive Deep Verification for 77 companies...
+[NOT FOUND 1200] 와이피엔터테인먼트(주) (김재훈)
+[NOT FOUND 1201] 시니어편의점(주) (여영웅)
+[NOT FOUND 1225] (주)엠에스테크놀로지 (이동수)
+[NOT FOUND 1257] (주)와컴퍼니 (박규태)
+[NOT FOUND 1264] (주)한국바이오생활건강 (박승묵)
+
+Last progress: 3s ago

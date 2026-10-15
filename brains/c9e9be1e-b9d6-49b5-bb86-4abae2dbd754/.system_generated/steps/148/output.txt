@@ -1,0 +1,27 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\.gemini\antigravity\brain\ec7d0adb-5aec-4ff6-91f2-6520c4febe84\scratch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        2026-09-10  오전 11:38           1127 find_11th_filled.js                                                  
+-a----        2026-09-10  오전 11:38            121 find_11th_filled.js.metadata.json                                    
+-a----        2026-09-10  오전 11:38           1218 inspect_final_rows.js                                                
+-a----        2026-09-10  오전 11:38            118 inspect_final_rows.js.metadata.json                                  
+-a----        2026-09-10  오전 11:38           1425 inspect_row.js                                                       
+-a----        2026-09-10  오전 11:38            115 inspect_row.js.metadata.json                                         
+-a----        2026-09-10  오전 11:38           1639 inspect_sample_rows.js                                               
+-a----        2026-09-10  오전 11:38            144 inspect_sample_rows.js.metadata.json                                 
+-a----        2026-09-10  오전 11:38            768 read_sites.js                                                        
+-a----        2026-09-10  오전 11:38            102 read_sites.js.metadata.json                                          
+-a----        2026-09-10  오전 11:37           1148 search_excel.js                                                      
+-a----        2026-09-10  오전 11:37            116 search_excel.js.metadata.json                                        
+-a----        2026-09-10  오전 11:38            907 search_final.js                                                      
+-a----        2026-09-10  오전 11:38            161 search_final.js.metadata.json                                        
+
+
+

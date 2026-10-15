@@ -1,0 +1,19 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                               
+--------                                                                                                               
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result.csv          
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result.tsv          
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result_nice.csv     
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_filtered_result_nice.tsv     
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_page.html                    
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\bizno_test.html                    
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\bizno_scan_59...
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\bizno_scan_59...
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\fetch_bizno.js  
+C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_phone_number_bizno\brain_logs\scratch\scan_bizno_ba...
+
+
+

@@ -1,0 +1,16 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 876 lines>
+텀) 705호" | 대표: "김승욱" [계속사업자]
+[418/421] Row 2262 | "아신홀딩스" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 439-87-02978 (주식회사 아신홀딩스) | 주소: "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교) 산학협력관동508호 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "김삼문" [계속사업자]
+[419/421] Row 2263 | "인우랩" | 대표: "" | 구: "부산진구"
+  => MATCH CONFIRMED: 401-86-02715 (주식회사 인우랩) | 주소: "부산광역시 부산진구 엄광로 176 802-3,4호 (가야동, 동의대학교 산학협력관) 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea" | 대표: "" [계속사업자]
+[420/421] Row 2264 | "엑스에이아이에듀랩스" | 대표: "" | 구: "부산진구"
+  => UNVERIFIED / PENDING PASS 2
+  >>> Progress Saved: 420/421 | Matched: 147 | Unverifiable: 273 <<<
+[421/421] Row 2307 | "피커스튜디오" | 대표: "이현철" | 구: "연제구"
+
+Last progress: 10s ago

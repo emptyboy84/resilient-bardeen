@@ -1,0 +1,12 @@
+The search for ""대원오토텍" ("공장등록" OR "공장등록현황" OR "법인등록번호" OR "법인등기")" returned the following summary:
+'대원오토텍'에 대한 기업 정보는 다음과 같습니다.
+
+*   **기업 개요**: 대원오토텍(주)은 경상남도 김해시 진례면 테크노밸리1로 191 등에 사업장을 두고 있는 기업으로, 주요 업종은 금속 절삭기계 제조업 및 산업기계 제조 등입니다[1][2][3].
+*   **공장 등록 및 현황**: 해당 기업은 김해테크노밸리 일반산업단지 내에 위치하고 있으며, 관련 공공데이터 및 제조 공장 현황 리스트에 등록되어 운영 중인 것으로 확인됩니다[1][2][3].
+*   **법인 정보**: 법인등록번호 및 등기부등본상의 상세 정보는 공개된 검색 결과에서 직접 확인되지 않습니다. 기업의 구체적인 법인등기 정보나 법인등록번호가 필요하신 경우, **대법원 인터넷등기소**(http://www.iros.go.kr)에서 법인명 검색을 통해 등기사항전부증명서를 열람하거나, **NICE평가정보(NICE BizINFO)**와 같은 기업정보 사이트를 통해 공식적인 기업 분석 보고서를 확인하실 수 있습니다[4].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi0yoJMB13ouliaRmgqnFcUUHHbjqLXR28TdVkqSZCVMJ78h4WBF1ipA5F658npJ6c_lJ50g559Q_OfhXY4jUzFp8_U5t5whtk2-1LatHkAJy5tJMHHxEE6FT6fDtdnkmW_q-F-kFTdIrTHCr0YvRnfAVrsJOVq7gEN1JnegJSW_qiz3RePLtM7K_nF-hjD4UC9sn0cZo6UHYpvmRpQmy38wd4udIoZNkh2blk22MsdBtMWdcRcKOMoSRN33sypiKUF_WVwMWRf9_JOphcBfLcPiCroVXltWjBjxEmANJR)
+[2] [gimhae.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_yCnm2TDToE8j_4xkRI52G6v0MIEWMn3koe3QfUSQ0G1Ck5yNiKDk08eLBqQS6gNCAuR1HIg7QQtGRrnWfTD1NTTLcjdLa_G3YfsDB_deE04Gjs6a0wQPm2zieQtaaHzQifEN0WCI7FRu8txfQW3C3KnXtKluxc_Afw==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWymDxk3yd4xuuvxEKFYGS2AoUR02RUCLi3sPSkHqf8WMokLxGfIwC3eIYibCthQFwOwL1HPVfZV9n2UNRCIRnZ_IHF3Ye3j6sU5bHzkk4l5matQwRIJmwR6H4)
+[4] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUtR6cfz21KzC40gSAsoKHcJfjLExZ7zBgZUspVCO4yV1ghD0xZEKHQ0xgf68g8ZkpNgIdquinchCN7z5CCl8IS5ehLk24W2C2Vj-FCFsrJkXnvVxikjEFXbuqpZ19jDFP3EePb3hBVBhIMKNtr622AvY=)

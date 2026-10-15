@@ -1,0 +1,10 @@
+The search for ""107-22-53135" OR ("윤굿즈" 윤정호) 전화번호 OR 연락처" returned the following summary:
+입력하신 사업자등록번호(`107-22-53135`) 및 상호명("윤굿즈"), 대표자명("윤정호")에 해당하는 구체적인 공식 전화번호나 고객센터 연락처는 공개된 인터넷 상에서 조회되지 않습니다[1]. 
+
+일반적으로 전자상거래업체나 소규모 굿즈 판매업체의 경우, 구체적인 유선 연락처가 포털 사이트에 상시 노출되지 않고 이용 중인 쇼핑몰 플랫폼(예: 쿠팡[2], 마플샵 등) 내의 **1:1 문의하기**나 **판매자 Q&A 게시판**을 통해서만 고객 응대가 이루어지는 경우가 많습니다.
+
+해당 업체와 거래 및 문의가 필요하신 경우, 상품을 구매하셨거나 이용 중인 **온라인 마켓플레이스(쇼핑몰)의 고객센터 또는 판매자 문의 메뉴**를 통해 확인하시기 바랍니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgGEi8GdC2fR1wphh4lRWrCgl1UCeK5gG4OV11SLpFIOAJ9Gj9hNJr2XZD28_G1CF4QlekNgperQPx-ig1t1zMw8xnS8FnTQ9tuDrkqc_eoZKV0Q-9W4YgKMUWhhMF044CjFpReWt-2GeXywvkXABWSN5hkyCMxRhlkMFCaruXAFo2rbcGamgR5YiFp1TSJ8Be_-U8Jkf_De90cxxYNTmhQzMfcDVsjLpMcGtON8qfeXjGGYFl)
+[2] [coupang.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6G4Pu3-UBtZv__I_JrVOsjnhvzbXHxikMVc-ifoP1aN0oaraV-mc9DRXLrCLSWgPB2cJ-kG_CcR8gDZh_y-Uj0Qeng5cKifozLJ_D8Oh6vIabDMH-3bStPrYwlDPAVCXP4RhwsisdPS49Kq_npfGesHrHLfg4kw==)

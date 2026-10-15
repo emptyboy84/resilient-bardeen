@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Testing bizno for: 6274000252
+Bizno status: 200 len: 20253
+매출액 match: null
+Title: 블루호텔레코드
+Testing bizno for: 7098603340
+Bizno status: 200 len: 23778
+매출액 match: null
+Title: 주식회사 아이엠지로드
+Testing bizno for: 6071088688
+Bizno status: 200 len: 23765
+매출액 match: null
+Title: 미디어CAPSULE
+

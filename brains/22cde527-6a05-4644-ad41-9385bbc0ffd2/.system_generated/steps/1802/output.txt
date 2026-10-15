@@ -1,0 +1,8 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\apply_boss_new_wb.js","LineNumber":122,"LineContent":"      if (r === 2307) setRed(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\apply_boss_final_v3.js","LineNumber":93,"LineContent":"      setRed(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\build_clean_boss_deliverable.js","LineNumber":156,"LineContent":"        fillBlankRed(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\apply_red_blanks_to_orig.js","LineNumber":133,"LineContent":"        setRedCell(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\apply_boss_perfect_v2.js","LineNumber":154,"LineContent":"      setRed(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\apply_boss_perfect_file.js","LineNumber":174,"LineContent":"        fillNewRed(17, '1,920,000');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\strict_verify_final_file.js","LineNumber":34,"LineContent":"  console.log('\\n--- ROW 2307 (피커스튜디오 - 매출액 1,920,000원 확인) ---');"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\write_final_master_192.js","LineNumber":87,"LineContent":"        setRed(17, '1,920,000');"}

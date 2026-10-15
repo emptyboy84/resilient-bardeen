@@ -1,0 +1,30 @@
+The search for "site:onkorea.co.kr "3층 2호"" returned the following summary:
+온코리아(onkorea.co.kr) 사이트 내 검색 결과 중 "3층 2호"를 포함하고 있는 주요 업체 및 주소 정보는 다음과 같습니다.
+
+*   **프라자세탁소**
+    *   주소: 서울특별시 송파구 양재대로 1222, 올림픽프라자 3층 2호 (방이동)[1][2]
+*   **용이 (정종/대포집/소주방)**
+    *   주소: 서울특별시 마포구 와우산로 148-1, 3층 2호 (창전동)[3]
+*   **세이영메디컬 스킨케어 (피부미용업)**
+    *   주소: 서울특별시 강동구 양재대로 1638, 3층 2호 (명일동)[4]
+*   **김앤김안과의원**
+    *   주소: 대전광역시 동구 동구청로 95, 예시티 3층 2호 (가오동)[5]
+*   **나인원 피트니스 봉담점 (체력단련장)**
+    *   주소: 경기도 화성시 봉담읍 삼천병마로 1256-3, 대정빌딩 3층 2호[6]
+*   **고려 성동 태권도 (체육도장)**
+    *   주소: 서울특별시 성동구 왕십리로 257, 3층 2호 (행당동, 칠성빌딩)[7]
+*   **연수원 스크린 골프**
+    *   주소: 전라북도 완주군 이서면 반교로 105-9, 3층 2호[8]
+*   **아트 당구장**
+    *   주소: 서울특별시 강북구 삼양로 293, 서영프라자 3층 2호 (수유동)[9]
+
+Sources:
+[1] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFF6fjMFBXh_8wTNn1Icw_QPjqprLxJLcxpFA4hC7mQJrqU1455U4LZCCt-M4IJH4R2eqqf6YaZO7LqCnvs9jL6pasf3ywnTl7g7WhIwz4KUULsuzonty5OwVUogv7rmY=)
+[2] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxgJyX54C6ZEWu0R0apa77rxXA0R8Sj4gCS6QFkwzrDnxGbkjYfscwEgzEVvcDKl0S2ywIb9thUXAmtwBHED1WCZAWVu-0hV_nr0YBx-78LDVA1DPgjBMFmlCQqbquv007Pn8=)
+[3] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnGrfFNcF8InNIZds9BTVUFhIgMdf5JnoFMNOEVOzqZ6iO5mQE80HpnGXKhfxezzOjENH-7jEjyIt6HwWPXp6wZJI6SblXqmN5LVpwqwosHE-kNNUWMbrq6vfkzKQ)
+[4] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpr93Bu1yrECcgeueAJvULZFyGu1dmlDCCq6UQsKqch-9uoT0d4-8fZCEa9OfZ_aU4mKkDFXNztWCgsZXvI22RrDg4dfsTmfEQGAlAY1hOS9yeXqGAvfc9Vq8AsvkDysoS)
+[5] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi-UQKQLW1L4vSZhsV7fZedluI7AsGs6hOUnjVN9ocS3ukoslSRsZikdDPtM-vmuYxxpNd6iXL3jMEBXHjhW0a_aVizWNAzurtJA9lkOvX0n7ku4HqZgdShdkFCkGX4Q==)
+[6] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFILLevWXF_zEZEi03B0m7l_B13bJaEqYx8FwBdJW_4QIekfOKN70W-waQtZzu_NGRe2vwMBuJY-Vw7NcUgFnJthtlot5cOsLFLpwshDNX2dVsUDE3GICLCpz4zTkE=)
+[7] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZX-lSFB1CPVaZU0TQ1id3Uei81f7r50dKtRio1drNBgUVcJqoomrUtxu94mfQv4ZUFhYks1megAwI1pNGvkTzjEM1d5akgXUVX0v1PKhdnv1YQt8pyL1hsBWOUfpj5sNJwo=)
+[8] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl10lkt18QKWfrAwkxUBo4S5E-xNJEYymAsEUFHMUsjOBOZLDywrGeOqfqEPFbFt5qce5rmSXlwN9o164MvawhYitgWaSN81q8S9wlsRlC2jV4ZTkYfVxQttW_GajF)
+[9] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKDSU59pvh9Ta6EgMYx6ElhHjOxkVbfSb-x7ibFGVlcKi9-pcVGBPczUvEOwWrmhvRccdjgt9SokxmcwLI0V_0INsspCP36Kgb3SVZ_FZEYKclTltA0HJbKudYiI4yrAFR)

@@ -1,0 +1,19 @@
+Task: d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd/task-184
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\d0ec53e0-5d72-4d0e-894d-f2b58c54bcfd\.system_generated\tasks\task-184.log
+Log output:
+<truncated 69 lines>
+소): '남구' -> None
+  Row  568 [주식회사 아이엠지로드] Col 15 (비고): '확인불가' -> None
+  Row  831 [스카이미디어] Col 11 (주소): '부산 부산진구 중앙대로 981, b-116호 (양정동, 시청센트빌)' -> None
+  Row 1034 [위컴퍼니] Col 11 (주소): '부산 연제구 월드컵대로99번길 1, 4층 (연산동, 경원빌딩)' -> None
+  Row 1997 [푸른] Col  8 (연락처): '051-701-9237' -> None
+  Row 2022 [프린팅카페] Col  8 (연락처): '051-625-3735' -> None
+  Row 2050 [해피버스데이] Col  8 (연락처): '051-204-7766' -> None
+  Row 2050 [해피버스데이] Col 11 (주소): '사하구 하단동 낙동대로516번길   ' -> None
+  Row 2051 [신한교육사] Col  8 (연락처): '051-231-8010' -> None
+  Row 2060 [조이풀사이언스] Col  8 (연락처): '051-510-7509' -> None
+  Row 2061 [에코인더스] Col  8 (연락처): '051-759-1212' -> None
+  Row 2063 [오엠디아틀리에] Col  8 (연락처): '010-3228-8668' -> None
+
+Last progress: 2s ago

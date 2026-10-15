@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Total green cells in column 10 in 심층4차: 1224
+

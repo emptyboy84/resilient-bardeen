@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+합격스펙 | 캐치 Description: 기업의 모든 정보를 한 눈에. 사원수, 평균연봉, 이직률, 매출액, 주요제품 및 사업구성까지 Source: 
+cloud.google.com/Comp/Compare) 기업규모 대기업 사원수 -명 매출액 63억 2024.12 요약재무제표 평균 연봉 [??만원](
+

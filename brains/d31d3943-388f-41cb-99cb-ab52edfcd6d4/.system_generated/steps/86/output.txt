@@ -1,0 +1,62 @@
+
+The command exited with code 0.
+Output:
+Row 20434 details:
+[1] 작성자: undefined
+[2] 비고: undefined
+[3] 회사명: 에코캡주식회사
+[4] 사업자번호: 9508184196
+[5] 대표자: 김창규
+[6] 우편번호: undefined
+[7] 주소: 부산광역시 해운대구 센텀북대로 60, 16층 1605 (재송동, 센텀 아이에스타워) 외 1필지
+[8] 전화번호: undefined
+[9] 팩스번호: undefined
+[10] 홈페이지: undefined
+[11] 이메일: undefined
+[12] 형태: undefined
+[13] 설립일자: 20081108
+[14] 창립일자: undefined
+[15] 종업원수: 15
+[16] 업종코드1: undefined
+[17] 업종코드2: undefined
+[18] 업종(NICE BizINFO(업종)참고: 기타 부동산 임대업
+[19] 주생산품: undefined
+[20] 주거래은행: undefined
+[21] 주거래지점: undefined
+[22] 그룹명: undefined
+[23] 주식코드: undefined
+[24] 사업자번호: 9508184196
+[25] 법인번호: undefined
+[26] 앞주: undefined
+[27] 상호명: undefined
+[28] 뒷주: undefined
+[29] 영문명: undefined
+[30] 구상호명: undefined
+[31] 결산월: undefined
+[32] 매출년도: undefined
+[33] 최근매출액: undefined
+[34] 순익년도: undefined
+[35] 최근순이익: undefined
+[36] 영업익년도: undefined
+[37] 최근영업익: undefined
+[38] 자산년도: undefined
+[39] 최근자산총: undefined
+[40] 부채년도: undefined
+[41] 최근부채총: undefined
+[42] 자본총년도: undefined
+[43] 최근자본총: undefined
+[44] 자본금년도: undefined
+[45] 최근자본금: undefined
+[46] 지역1: undefined
+[47] 지역2: undefined
+[48] 업종_대: undefined
+[49] 업종_중: undefined
+[50] 업종_소: undefined
+[51] 업종_11차 변경: undefined
+[52] 코드: undefined
+[53] 응답자명: undefined
+[54] 응답자부서: undefined
+[55] 응답자직위: undefined
+[56] 응답자연락처: undefined
+[57] 응답자이메일: undefined
+

@@ -1,0 +1,4 @@
+Encountered error in step execution: ### Error
+Error: browserBackend.callTool: net::ERR_CONNECTION_TIMED_OUT at https://www.localdata.go.kr/
+Call log:
+[2m  - navigating to "https://www.localdata.go.kr/", waiting until "domcontentloaded"[22m

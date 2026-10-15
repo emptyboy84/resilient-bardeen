@@ -1,0 +1,12 @@
+The search for "site:doi.org OR site:kipris.or.kr "글로픽스" OR "머스티커"" returned the following summary:
+요청하신 키워드(**"글로픽스"**, **"머스티커"**)와 관련하여 `doi.org` 및 `kipris.or.kr` 사이트 내 검색 결과, 직접적으로 매칭되는 학술 논문(DOI)이나 특허 정보(KIPRIS)는 확인되지 않습니다.
+
+대신 **(주)글로픽스**는 맞춤형 스티커 제작 및 온라인 인쇄 서비스 플랫폼인 **'머스티커(Musticker)'**를 운영하고 있는 기업으로 확인됩니다[1][2]. 
+
+* **머스티커(Musticker):** 자유형, 도무송, 롤, 투명, 홀로그램 등 다양한 맞춤 스티커를 소량 및 대량으로 제작·인쇄해 주는 온라인 서비스 브랜드입니다[3][4].
+
+Sources:
+[1] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-XhQihXZ8LRSxgbTyJS58MB8vYb_VzK-ozOMur5-25LcUk50-6nhlzARTKkH9DW4AYnhnTxPFPrOfW6FzhSN0WuygE2cMXUnuPi7EJyyNHzS3)
+[2] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkAJslY6MeVTDKAMvNC5j2K6d-We1MtwZGWOwFvZ1exqjsz88RroFBRZ6-gdGox046lmH4EtDHIBMzHuhelcnrkrv7qj1fmy4L8WONPHQuseoNxmhbOzkZAeks6nLi)
+[3] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-XhQihXZ8LRSxgbTyJS58MB8vYb_VzK-ozOMur5-25LcUk50-6nhlzARTKkH9DW4AYnhnTxPFPrOfW6FzhSN0WuygE2cMXUnuPi7EJyyNHzS3)
+[4] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_BU7VDiEfakm2MxogPi2zrWHz_4gBfiWtVm3QYP6IiqviUOj9Fs4E4ZoowmcoQgrzZRcYHES9RPbHTBKwMyMGIMGljpi_WVn31o8T4aPJfVdXMxDtQM_jPQ=)

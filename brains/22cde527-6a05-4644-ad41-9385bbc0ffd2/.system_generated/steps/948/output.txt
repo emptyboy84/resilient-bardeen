@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+\d : '\d' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ� 
+Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:26 �:51
++     const m = html.match(/<a\s+href=\"\/article\/(\d{10})\"[^>]*>([\s ...
++                                                   ~~
+    + CategoryInfo          : ObjectNotFound: (\d:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

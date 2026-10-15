@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5608102611');
+```
+### Page
+- Page URL: https://bizno.net/article/5608102611
+- Page Title: 주식회사 복컴퍼니
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-25-21-404Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-25-17-385Z.log#L1-L5

@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Program Files (x86)\LG Software\LG OSD
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2015-07-02   � 3:56        1618384 DisplayPopup.exe                                                     
+
+
+

@@ -1,0 +1,1408 @@
+### Page
+- Page URL: https://www.youtube.com/watch?v=wHMm-ql0Sig
+- Page Title: 안 쓰는 기능 '딱 1개' OFF! 노트북·데스크탑 반응속도 50% 향상시키는 법! 컴퓨터 업그레이드 필요 없다! - YouTube
+- Console: 3 errors, 6 warnings
+### Snapshot
+```yaml
+- generic [ref=e88]:
+  - banner [ref=e63]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - button "가이드" [ref=e68] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img
+        - generic [ref=e70]:
+          - link "YouTube 홈" [ref=e91] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e96]:
+              - img
+          - generic [ref=e97]: KR
+        - button "탐색 건너뛰기" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]: 탐색 건너뛰기
+      - generic [ref=e71]:
+        - search [ref=e72]:
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - combobox "검색" [expanded] [ref=e106]
+              - button [ref=e80] [cursor=pointer]
+            - button "Search" [ref=e81] [cursor=pointer]:
+              - generic [ref=e108]:
+                - img
+        - generic [ref=e110]:
+          - button "음성으로 검색" [ref=e112] [cursor=pointer]:
+            - generic [ref=e1010]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e118]:
+        - button "설정" [ref=e123] [cursor=pointer]:
+          - generic [ref=e1012]:
+            - img
+        - link "로그인" [ref=e127] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dko%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DwHMm-ql0Sig&hl=ko&ec=65620
+          - generic [ref=e1014]:
+            - img
+          - generic [ref=e130]: 로그인
+  - main [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e138]:
+        - complementary [ref=e145]:
+          - generic "YouTube 동영상 플레이어" [ref=e5]:
+            - generic [ref=e155]:
+              - generic [ref=e2398]: 거의 대부분의 분들이 사용하지 않는
+              - generic [ref=e2400]: 윈도우 시장 메뉴
+            - generic [ref=e10]:
+              - generic [ref=e11] [cursor=pointer]:
+                - slider "탐색 슬라이더" [ref=e12]
+                - generic:
+                  - generic:
+                    - generic:
+                      - slider "세밀한 탐색을 하려면 패널을 클릭하거나 스크롤하세요."
+              - generic [ref=e22]:
+                - generic [ref=e23]:
+                  - button "일시중지(k)" [ref=e24] [cursor=pointer]:
+                    - img
+                  - generic [ref=e25]:
+                    - button "음소거(m)" [ref=e27] [cursor=pointer]:
+                      - img
+                    - slider "볼륨"
+                  - button "0 분 3 초/8 분 9 초" [ref=e1019] [cursor=pointer]: 0:03 / 8:09
+                - generic [ref=e32]:
+                  - generic [ref=e33]:
+                    - button "자동재생 사용 설정" [ref=e162] [cursor=pointer]
+                    - button "자막 사용 불가" [pressed] [ref=e34] [cursor=pointer]:
+                      - generic [ref=e35]:
+                        - img
+                    - button "설정" [ref=e36] [cursor=pointer]:
+                      - img
+                  - generic [ref=e37]:
+                    - button "영화관 모드(t)" [ref=e38] [cursor=pointer]:
+                      - img
+                    - button "전체 화면(f)" [ref=e39] [cursor=pointer]:
+                      - img
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - generic [ref=e168]:
+              - heading "안 쓰는 기능 '딱 1개' OFF! 노트북·데스크탑 반응속도 50% 향상시키는 법! 컴퓨터 업그레이드 필요 없다!" [level=1] [ref=e170]
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]:
+                    - link "모바일랩" [ref=e174] [cursor=pointer]:
+                      - /url: /@neonchang
+                      - img "모바일랩" [ref=e176]
+                    - generic [ref=e177]:
+                      - generic "모바일랩" [ref=e181]:
+                        - link "모바일랩" [ref=e182] [cursor=pointer]:
+                          - /url: /@neonchang
+                      - generic "구독자 18.9만명" [ref=e183]
+                    - button "이 채널 가입" [ref=e190] [cursor=pointer]:
+                      - generic [ref=e191]: 가입
+                  - generic [ref=e198]:
+                    - button "모바일랩을(를) 구독합니다." [ref=e200] [cursor=pointer]:
+                      - generic [ref=e201]: 구독
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                      - generic:
+                        - img
+                - generic [ref=e208]:
+                  - generic [ref=e209]:
+                    - generic [ref=e213]:
+                      - button "다른 사용자 2,091명과 함께 이 동영상에 좋아요 표시" [ref=e217] [cursor=pointer]:
+                        - generic [ref=e1021]:
+                          - img
+                        - generic [ref=e220]: 2천
+                      - button "동영상에 싫어요 표시" [ref=e227] [cursor=pointer]:
+                        - generic [ref=e1023]:
+                          - img
+                    - button "공유" [ref=e235] [cursor=pointer]:
+                      - generic [ref=e1025]:
+                        - img
+                      - generic [ref=e238]: 공유
+                  - button "재생목록에 저장" [ref=e245] [cursor=pointer]:
+                    - generic [ref=e1027]:
+                      - img
+                    - generic [ref=e248]: 저장
+                  - button "추가 작업" [ref=e253] [cursor=pointer]:
+                    - generic [ref=e1029]:
+                      - img
+              - generic [ref=e261]:
+                - generic [ref=e264]: 조회수 51,012회 2026. 7. 4.
+                - generic [ref=e265]:
+                  - generic [ref=e1032]:
+                    - text: "☞ 실시간으로 반영되는 최신 이벤트 안내 :"
+                    - link "https://docs.google.com/spreadsheets/..." [ref=e1034] [cursor=pointer]:
+                      - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa21YQ3N1cnJ6VXZmWjExWE8wNmU5YW5WMnFSQXxBQ3Jtc0ttaU5VWlI0aUxJQndqcXBoMExVQnR2THNJZUpGenFNTnktWGhQcHRlUm9oRXZ4T1dZcVlBcjBBVmtqeHJqb241eGNLWENXRmJWTWI4VmN2Umh4T3BBZmdzeTVGUWJRQjN4M3JrNDBTYWFtZURlX01oTQ&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ohlo_I_srLNVkecl7JF3_54cu-KyU-PW8sYrqZN88OE%2Fedit%3Fgid%3D0%23gid%3D0&v=wHMm-ql0Sig
+                    - text: "문구 : DisableSearchBoxSuggestions ※ 모바일랩 채널 가입 ♥"
+                    - link "https://bit.ly/38XzZfO" [ref=e1036] [cursor=pointer]:
+                      - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklObEI1MFhCUFQwek5MOE1OOW84X2p0SzYzZ3xBQ3Jtc0tsU05GcXRlYUszX21HajJ4R25yUlN1ZmFvMlh6U3ZoNU5NaVRyZDRFSmRlMVFMZUlZSnVwREtnZFRBb1ZKN0xrSWQ4M1ZsRm4tMXpGTm03Sm9LVFRrdjRZbXZBb0p6ODlLV0JhTFpwOEVfZE9ydGtvbw&q=https%3A%2F%2Fbit.ly%2F38XzZfO&v=wHMm-ql0Sig
+                    - text: "※ 코인만랩 채널 :"
+                    - 'link "YouTube Channel Link: @coinmanlab" [ref=e1039] [cursor=pointer]':
+                      - /url: /channel/UC11i7u6Q-54BjUQtb_fnUHg
+                      - text: / @coinmanlab
+                    - text: "※ 젤리초코테디 채널 :"
+                    - 'link "YouTube Channel Link: @jellynchocoteddy" [ref=e1043] [cursor=pointer]':
+                      - /url: /channel/UCSCJJP6FQXSGd5Dq86o2nrg
+                      - text: / @jellynchocoteddy
+                    - text: ♡ 좋댓구알 해줄꼬양? ♡
+                  - generic [ref=e1047]:
+                    - generic [ref=e1048]:
+                      - generic [ref=e1049]: 콘텐츠 생성 방식
+                      - generic [ref=e1050]: 자동 더빙
+                      - generic [ref=e1052]:
+                        - text: 일부 언어의 오디오 트랙이 자동으로 생성되었습니다.
+                        - link "자세히 알아보기" [ref=e1054] [cursor=pointer]:
+                          - /url: //support.google.com/youtube/answer/15569972?hl=ko
+                    - generic [ref=e1055]:
+                      - generic [ref=e1057]: 스크립트
+                      - paragraph [ref=e1059]: 스크립트를 보면서 시청하세요.
+                      - button "스크립트 표시" [ref=e1064] [cursor=pointer]:
+                        - generic [ref=e1065]: 스크립트 표시
+                    - generic [ref=e1069]:
+                      - link "모바일랩 구독자 18.9만명" [ref=e1070] [cursor=pointer]:
+                        - /url: /@neonchang
+                        - generic [ref=e1072]:
+                          - heading "모바일랩" [level=3] [ref=e1073]
+                          - generic [ref=e1074]: 구독자 18.9만명
+                      - generic [ref=e1077]:
+                        - link "동영상" [ref=e1080] [cursor=pointer]:
+                          - /url: /channel/UCP7VFsrE5nztR238DGoEt_g/videos
+                          - generic [ref=e1084]:
+                            - img
+                          - generic [ref=e1085]: 동영상
+                        - link "정보" [ref=e1091] [cursor=pointer]:
+                          - /url: /channel/UCP7VFsrE5nztR238DGoEt_g/about
+                          - generic [ref=e1095]:
+                            - img
+                          - generic [ref=e1096]: 정보
+                        - link "코인만랩" [ref=e1102] [cursor=pointer]:
+                          - /url: https://www.youtube.com/channel/UC11i7u6Q-54BjUQtb_fnUHg
+                          - generic [ref=e1104]: 코인만랩
+                        - link "젤리초코테디" [ref=e1110] [cursor=pointer]:
+                          - /url: https://www.youtube.com/@jellynchocoteddy
+                          - generic [ref=e1112]: 젤리초코테디
+                        - link "모바일랩 맴버십" [ref=e1118] [cursor=pointer]:
+                          - /url: https://www.youtube.com/channel/UCP7VFsrE5nztR238DGoEt_g/join
+                          - generic [ref=e1120]: 모바일랩 맴버십
+                      - generic [ref=e1124]:
+                        - generic [ref=e1127]:
+                          - link [ref=e1129] [cursor=pointer]:
+                            - /url: /watch?v=5JS_P-V6NOo
+                          - 'link "음질을 놓칠 순 없지! 가성비, 음질 모두를 비교하는 오픈형 이어버드 비교 언박싱을 해 봤습니다 Sanag S8S Ultra, S6S Ultra, Bose 오픈 이어버드 제작자: 모바일랩" [ref=e1131] [cursor=pointer]':
+                            - /url: /watch?v=5JS_P-V6NOo
+                            - generic [ref=e1132]:
+                              - generic [ref=e1133]: 음질을 놓칠 순 없지! 가성비, 음질 모두를 비교하는 오픈형 이어버드 비교 언박싱을 해 봤습니다 Sanag S8S Ultra, S6S Ultra, Bose 오픈 이어버드
+                              - generic [ref=e1134]: "제작자: 모바일랩"
+                        - generic [ref=e1137]:
+                          - link [ref=e1139] [cursor=pointer]:
+                            - /url: /watch?v=pL54DKvT3Z0
+                          - 'link "[긴급속보] WinX 비디오 AI도, 고프로 13 블랙도, 외장하드도 받아가는 혜자 이벤트를 알려 드립니다~! #WinX20Anniversary 제작자: 모바일랩" [ref=e1141] [cursor=pointer]':
+                            - /url: /watch?v=pL54DKvT3Z0
+                            - generic [ref=e1142]:
+                              - generic [ref=e1143]: "[긴급속보] WinX 비디오 AI도, 고프로 13 블랙도, 외장하드도 받아가는 혜자 이벤트를 알려 드립니다~! #WinX20Anniversary"
+                              - generic [ref=e1144]: "제작자: 모바일랩"
+                        - generic [ref=e1147]:
+                          - link [ref=e1149] [cursor=pointer]:
+                            - /url: /watch?v=83rkhBh7CKQ
+                          - 'link "해외 여행, 출장 예정인 분들에게는 필수죠! 비행기에서 내리자마자 바로 심카드를 사용할 수 있는 Saily eSIM 특징과 사용 방법을 알려드립니다 제작자: 모바일랩" [ref=e1151] [cursor=pointer]':
+                            - /url: /watch?v=83rkhBh7CKQ
+                            - generic [ref=e1152]:
+                              - generic [ref=e1153]: 해외 여행, 출장 예정인 분들에게는 필수죠! 비행기에서 내리자마자 바로 심카드를 사용할 수 있는 Saily eSIM 특징과 사용 방법을 알려드립니다
+                              - generic [ref=e1154]: "제작자: 모바일랩"
+                        - generic [ref=e1157]:
+                          - link [ref=e1159] [cursor=pointer]:
+                            - /url: /watch?v=uT-M7Yb4wLM
+                          - 'link "후레쉬 라이트 끝판왕이 아닐까? 고급스럽고 가볍고 밝은 모든 것을 다 갖춘 오라이트 바톤 울트라 고급 선물용으로 이만한거 없습니다! 제작자: 모바일랩" [ref=e1161] [cursor=pointer]':
+                            - /url: /watch?v=uT-M7Yb4wLM
+                            - generic [ref=e1162]:
+                              - generic [ref=e1163]: 후레쉬 라이트 끝판왕이 아닐까? 고급스럽고 가볍고 밝은 모든 것을 다 갖춘 오라이트 바톤 울트라 고급 선물용으로 이만한거 없습니다!
+                              - generic [ref=e1164]: "제작자: 모바일랩"
+                  - button "간략히" [ref=e1165] [cursor=pointer]
+            - text: •
+          - generic [ref=e1168]:
+            - generic [ref=e1170]:
+              - generic [ref=e1171]:
+                - heading "댓글 90개" [level=2] [ref=e1173]:
+                  - generic [ref=e1174]: 댓글 90개
+                - generic [ref=e1177]:
+                  - tooltip "tooltip"
+                  - group [ref=e1179]:
+                    - button "댓글 정렬" [ref=e1181] [cursor=pointer]:
+                      - generic [ref=e1184]:
+                        - img
+                      - generic [ref=e1185]: 정렬 기준
+              - generic [ref=e1187]:
+                - img "기본 프로필 사진" [ref=e1189]
+                - textbox [ref=e1191]
+            - generic [ref=e1192]:
+              - generic [ref=e1197]:
+                - button "@neonchang" [ref=e1199] [cursor=pointer]
+                - generic [ref=e1201]:
+                  - generic [ref=e1202]:
+                    - generic [ref=e1204]:
+                      - generic [ref=e1207]:
+                        - img
+                      - generic [ref=e1208]: "@neonchang님이 고정함"
+                    - generic [ref=e1209]:
+                      - heading [level=3]
+                      - link "@neonchang" [ref=e1212] [cursor=pointer]:
+                        - /url: /@neonchang
+                        - generic "@neonchang" [ref=e1216]
+                      - link "2일 전(수정됨)" [ref=e1218] [cursor=pointer]:
+                        - /url: /watch?v=wHMm-ql0Sig&lc=UgwNSkEzVTdxCQw76Mt4AaABAg
+                  - generic [ref=e1222]:
+                    - text: "☞ 실시간으로 반영되는 최신 이벤트 안내 :"
+                    - link "https://docs.google.com/spreadsheets/d/1ohlo_I_srLNVkecl7JF3_54cu-KyU-PW8sYrqZN88OE/edit?gid=0#gid=0" [ref=e1224] [cursor=pointer]:
+                      - /url: https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbjk3MnMzYVppTXhrVUJPdWl6VHJROE4zUDd1QXxBQ3Jtc0tsbW8zcHh2blZqdEpneFMzRERwTklJQ2hna0l6SE9ucmdpeW5tTXhiTjZuUVJqeUp2UEhiT20tMjVZLTlaVHdxbEFYZmJMZ3dLeXA4V0ZERDlZcDdLREg5Rkc3cHI4a19QZG9xVU9xbWg4SS1WUkY2RQ&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ohlo_I_srLNVkecl7JF3_54cu-KyU-PW8sYrqZN88OE%2Fedit%3Fgid%3D0%23gid%3D0
+                  - generic [ref=e1226]:
+                    - generic [ref=e1227]:
+                      - button "나와 사용자 3명이 이 댓글을 좋아함" [ref=e1229] [cursor=pointer]:
+                        - generic [ref=e1233]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1237]: "3"
+                    - generic [ref=e1238]:
+                      - button "댓글 싫어요 표시" [ref=e1240] [cursor=pointer]:
+                        - generic [ref=e1244]:
+                          - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1250] [cursor=pointer]:
+                      - generic [ref=e1251]: 답글
+              - generic [ref=e1259]:
+                - button "@hama-vb9hb" [ref=e1261] [cursor=pointer]
+                - generic [ref=e1263]:
+                  - generic [ref=e1265]:
+                    - heading "@hama-vb9hb" [level=3] [ref=e1266]:
+                      - link "@hama-vb9hb" [ref=e1267] [cursor=pointer]:
+                        - /url: /@hama-vb9hb
+                    - link "13시간 전" [ref=e1269] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgytEAA3bZsmgDtkF_R4AaABAg
+                  - generic [ref=e1272]: 아직 빨라졌다는 느낌은 아직은 모르겠는데 일단 하는 방법은 너무 쉬워서 좋았어요.. 감사합니다.
+                  - generic [ref=e1274]:
+                    - generic [ref=e1275]:
+                      - button "나와 사용자 2명이 이 댓글을 좋아함" [ref=e1277] [cursor=pointer]:
+                        - generic [ref=e1281]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1285]: "2"
+                    - generic [ref=e1286]:
+                      - button "댓글 싫어요 표시" [ref=e1288] [cursor=pointer]:
+                        - generic [ref=e1292]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1297]:
+                      - generic [ref=e1298]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1301] [cursor=pointer]:
+                      - generic [ref=e1302]: 답글
+              - generic [ref=e1310]:
+                - button "@LIM-i6u" [ref=e1312] [cursor=pointer]
+                - generic [ref=e1314]:
+                  - generic [ref=e1316]:
+                    - heading "@LIM-i6u" [level=3] [ref=e1317]:
+                      - link "@LIM-i6u" [ref=e1318] [cursor=pointer]:
+                        - /url: /@LIM-i6u
+                    - link "1일 전" [ref=e1320] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgyM66pOier1Hedn8QZ4AaABAg
+                  - generic [ref=e1323]: 컴퓨터 깔끔하게 쓰는거 좋아하는데 너무 꿀팁이네요. 감사합니다!
+                  - generic [ref=e1325]:
+                    - generic [ref=e1326]:
+                      - button "나와 사용자 2명이 이 댓글을 좋아함" [ref=e1328] [cursor=pointer]:
+                        - generic [ref=e1332]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1336]: "2"
+                    - generic [ref=e1337]:
+                      - button "댓글 싫어요 표시" [ref=e1339] [cursor=pointer]:
+                        - generic [ref=e1343]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1348]:
+                      - generic [ref=e1349]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1352] [cursor=pointer]:
+                      - generic [ref=e1353]: 답글
+              - generic [ref=e1361]:
+                - button "@farfan_baragi" [ref=e1363] [cursor=pointer]
+                - generic [ref=e1365]:
+                  - generic [ref=e1367]:
+                    - heading "@farfan_baragi" [level=3] [ref=e1368]:
+                      - link "@farfan_baragi" [ref=e1369] [cursor=pointer]:
+                        - /url: /@farfan_baragi
+                    - link "1일 전" [ref=e1371] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgzEtzg4R6fbtAY-4s94AaABAg
+                  - generic [ref=e1374]: 와 이걸 원했었는데 알고리즘이 여기로 이끌었네요 감사합니다
+                  - generic [ref=e1376]:
+                    - generic [ref=e1377]:
+                      - button "나와 사용자 3명이 이 댓글을 좋아함" [ref=e1379] [cursor=pointer]:
+                        - generic [ref=e1383]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1387]: "3"
+                    - generic [ref=e1388]:
+                      - button "댓글 싫어요 표시" [ref=e1390] [cursor=pointer]:
+                        - generic [ref=e1394]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1399]:
+                      - generic [ref=e1400]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1403] [cursor=pointer]:
+                      - generic [ref=e1404]: 답글
+              - generic [ref=e1412]:
+                - button "@김주호-f1w" [ref=e1414] [cursor=pointer]
+                - generic [ref=e1416]:
+                  - generic [ref=e1418]:
+                    - heading "@김주호-f1w" [level=3] [ref=e1419]:
+                      - link "@김주호-f1w" [ref=e1420] [cursor=pointer]:
+                        - /url: /@%EA%B9%80%EC%A3%BC%ED%98%B8-f1w
+                    - link "15시간 전" [ref=e1422] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgzHOeHePLoeLAN_vDJ4AaABAg
+                  - generic [ref=e1425]: 좋은팀 너무 감사 드립니다 구독 박고 갈께요
+                  - generic [ref=e1427]:
+                    - generic [ref=e1428]:
+                      - button "나와 사용자 3명이 이 댓글을 좋아함" [ref=e1430] [cursor=pointer]:
+                        - generic [ref=e1434]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1438]: "3"
+                    - generic [ref=e1439]:
+                      - button "댓글 싫어요 표시" [ref=e1441] [cursor=pointer]:
+                        - generic [ref=e1445]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1450]:
+                      - generic [ref=e1451]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1454] [cursor=pointer]:
+                      - generic [ref=e1455]: 답글
+              - generic [ref=e1463]:
+                - button "@thursday3am" [ref=e1465] [cursor=pointer]
+                - generic [ref=e1467]:
+                  - generic [ref=e1469]:
+                    - heading "@thursday3am" [level=3] [ref=e1470]:
+                      - link "@thursday3am" [ref=e1471] [cursor=pointer]:
+                        - /url: /@thursday3am
+                    - link "2일 전" [ref=e1473] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgyM8NjJZTVsXk2Ro6t4AaABAg&pp=0gcJCSIANpG00pGi
+                  - generic [ref=e1476]: 오늘도 사양꿀이 아닌 토종꿀팁을 알려주셔서 감사감사~!!
+                  - generic [ref=e1478]:
+                    - generic [ref=e1479]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1481] [cursor=pointer]:
+                        - generic [ref=e1485]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1489]: "1"
+                    - generic [ref=e1490]:
+                      - button "댓글 싫어요 표시" [ref=e1492] [cursor=pointer]:
+                        - generic [ref=e1496]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1501]:
+                      - generic [ref=e1502]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1505] [cursor=pointer]:
+                      - generic [ref=e1506]: 답글
+              - generic [ref=e1510]:
+                - generic [ref=e1514]:
+                  - button "@magicdragon_" [ref=e1516] [cursor=pointer]
+                  - generic [ref=e1520]:
+                    - generic [ref=e1522]:
+                      - heading "@magicdragon_" [level=3] [ref=e1523]:
+                        - link "@magicdragon_" [ref=e1524] [cursor=pointer]:
+                          - /url: /@magicdragon_
+                      - link "1일 전" [ref=e1526] [cursor=pointer]:
+                        - /url: /watch?v=wHMm-ql0Sig&lc=UgxXPA3Z3A-Q6sQK-t14AaABAg
+                    - generic [ref=e1529]: 이건 정말 좋은 꿀팁이네요 직장 내 PC관리자 인데 이런 팁 너무 좋아요 감사합니다
+                    - generic [ref=e1531]:
+                      - generic [ref=e1532]:
+                        - button "나와 사용자 0명이 이 댓글을 좋아함" [ref=e1534] [cursor=pointer]:
+                          - generic [ref=e1538]:
+                            - img
+                        - tooltip "tooltip"
+                      - generic [ref=e1542]:
+                        - button "댓글 싫어요 표시" [ref=e1544] [cursor=pointer]:
+                          - generic [ref=e1548]:
+                            - img
+                        - tooltip "tooltip"
+                      - generic [ref=e1553]:
+                        - generic [ref=e1554]:
+                          - button "하트" [disabled]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                        - tooltip "tooltip"
+                      - button "답글" [ref=e1557] [cursor=pointer]:
+                        - generic [ref=e1558]: 답글
+                - button "답글 1개" [ref=e1573] [cursor=pointer]:
+                  - generic [ref=e1574]: 답글 1개
+                  - generic [ref=e1578]:
+                    - img
+              - generic [ref=e1587]:
+                - button "@YS_LEE" [ref=e1589] [cursor=pointer]
+                - generic [ref=e1591]:
+                  - generic [ref=e1593]:
+                    - heading "@YS_LEE" [level=3] [ref=e1594]:
+                      - link "@YS_LEE" [ref=e1595] [cursor=pointer]:
+                        - /url: /@YS_LEE
+                    - link "1일 전" [ref=e1597] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgxFsG_PPxeP5dQMjWV4AaABAg
+                  - generic [ref=e1600]: 전문가는 역시 다릅니다. 감사합니다.
+                  - generic [ref=e1602]:
+                    - generic [ref=e1603]:
+                      - button "나와 사용자 2명이 이 댓글을 좋아함" [ref=e1605] [cursor=pointer]:
+                        - generic [ref=e1609]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1613]: "2"
+                    - generic [ref=e1614]:
+                      - button "댓글 싫어요 표시" [ref=e1616] [cursor=pointer]:
+                        - generic [ref=e1620]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1625]:
+                      - generic [ref=e1626]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1629] [cursor=pointer]:
+                      - generic [ref=e1630]: 답글
+              - generic [ref=e1638]:
+                - button "@parkuhm" [ref=e1640] [cursor=pointer]
+                - generic [ref=e1642]:
+                  - generic [ref=e1644]:
+                    - heading "@parkuhm" [level=3] [ref=e1645]:
+                      - link "@parkuhm" [ref=e1646] [cursor=pointer]:
+                        - /url: /@parkuhm
+                    - link "19시간 전" [ref=e1648] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugy07R6t2VNm_RbPsCt4AaABAg&pp=0gcJCSIANpG00pGi
+                  - generic [ref=e1651]: 와 정말 반응속도가 빨라지네요. 좋은 팁 감사합니다.
+                  - generic [ref=e1653]:
+                    - generic [ref=e1654]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1656] [cursor=pointer]:
+                        - generic [ref=e1660]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1664]: "1"
+                    - generic [ref=e1665]:
+                      - button "댓글 싫어요 표시" [ref=e1667] [cursor=pointer]:
+                        - generic [ref=e1671]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1676]:
+                      - generic [ref=e1677]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1680] [cursor=pointer]:
+                      - generic [ref=e1681]: 답글
+              - generic [ref=e1689]:
+                - button "@중암이한수" [ref=e1691] [cursor=pointer]
+                - generic [ref=e1693]:
+                  - generic [ref=e1695]:
+                    - heading "@중암이한수" [level=3] [ref=e1696]:
+                      - link "@중암이한수" [ref=e1697] [cursor=pointer]:
+                        - /url: /@%EC%A4%91%EC%95%94%EC%9D%B4%ED%95%9C%EC%88%98
+                    - link "1일 전" [ref=e1699] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgwWo8Zrmh2rqumqPL94AaABAg
+                  - generic [ref=e1702]: 너무 간단해서 영상보면서 동시에 처리 완료. 땡큐~
+                  - generic [ref=e1704]:
+                    - generic [ref=e1705]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1707] [cursor=pointer]:
+                        - generic [ref=e1711]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1715]: "1"
+                    - generic [ref=e1716]:
+                      - button "댓글 싫어요 표시" [ref=e1718] [cursor=pointer]:
+                        - generic [ref=e1722]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1727]:
+                      - generic [ref=e1728]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1731] [cursor=pointer]:
+                      - generic [ref=e1732]: 답글
+              - generic [ref=e1740]:
+                - button "@roxyblue7777" [ref=e1742] [cursor=pointer]
+                - generic [ref=e1744]:
+                  - generic [ref=e1746]:
+                    - heading "@roxyblue7777" [level=3] [ref=e1747]:
+                      - link "@roxyblue7777" [ref=e1748] [cursor=pointer]:
+                        - /url: /@roxyblue7777
+                    - link "1일 전" [ref=e1750] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugy9RXTsEmmaue4zERd4AaABAg
+                  - generic [ref=e1753]: 고맙습니다. 제가 즐겨 하는 온라인 게임도 님 덕분에 프레임이 상승하였습니다. ^^
+                  - generic [ref=e1755]:
+                    - generic [ref=e1756]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1758] [cursor=pointer]:
+                        - generic [ref=e1762]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1766]: "1"
+                    - generic [ref=e1767]:
+                      - button "댓글 싫어요 표시" [ref=e1769] [cursor=pointer]:
+                        - generic [ref=e1773]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1778]:
+                      - generic [ref=e1779]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1782] [cursor=pointer]:
+                      - generic [ref=e1783]: 답글
+              - generic [ref=e1791]:
+                - button "@allergy-129" [ref=e1793] [cursor=pointer]
+                - generic [ref=e1795]:
+                  - generic [ref=e1797]:
+                    - heading "@allergy-129" [level=3] [ref=e1798]:
+                      - link "@allergy-129" [ref=e1799] [cursor=pointer]:
+                        - /url: /@allergy-129
+                    - link "1일 전(수정됨)" [ref=e1801] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgwzNahsHQHvnyBfpnh4AaABAg
+                  - generic [ref=e1804]: 스크린리더 사용자입니다 이해하기 쉽게 설명해 주셔서 고맙습니다
+                  - generic [ref=e1806]:
+                    - generic [ref=e1807]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1809] [cursor=pointer]:
+                        - generic [ref=e1813]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1817]: "1"
+                    - generic [ref=e1818]:
+                      - button "댓글 싫어요 표시" [ref=e1820] [cursor=pointer]:
+                        - generic [ref=e1824]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1829]:
+                      - generic [ref=e1830]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1833] [cursor=pointer]:
+                      - generic [ref=e1834]: 답글
+              - generic [ref=e1842]:
+                - button "@남노중언" [ref=e1844] [cursor=pointer]
+                - generic [ref=e1846]:
+                  - generic [ref=e1848]:
+                    - heading "@남노중언" [level=3] [ref=e1849]:
+                      - link "@남노중언" [ref=e1850] [cursor=pointer]:
+                        - /url: /@%EB%82%A8%EB%85%B8%EC%A4%91%EC%96%B8
+                    - link "2일 전" [ref=e1852] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugzkk264v82MFf5d6JF4AaABAg
+                  - generic [ref=e1855]: 와 정말 좋은 정보 감사드립니다. 건강하시고 수고하세요.
+                  - generic [ref=e1857]:
+                    - generic [ref=e1858]:
+                      - button "나와 사용자 0명이 이 댓글을 좋아함" [ref=e1860] [cursor=pointer]:
+                        - generic [ref=e1864]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1868]:
+                      - button "댓글 싫어요 표시" [ref=e1870] [cursor=pointer]:
+                        - generic [ref=e1874]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1879]:
+                      - generic [ref=e1880]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1883] [cursor=pointer]:
+                      - generic [ref=e1884]: 답글
+              - generic [ref=e1892]:
+                - button "@aidenh5543" [ref=e1894] [cursor=pointer]
+                - generic [ref=e1896]:
+                  - generic [ref=e1898]:
+                    - heading "@aidenh5543" [level=3] [ref=e1899]:
+                      - link "@aidenh5543" [ref=e1900] [cursor=pointer]:
+                        - /url: /@aidenh5543
+                    - link "9시간 전" [ref=e1902] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugwl6PL7udmfId_uQ514AaABAg&pp=0gcJCSIANpG00pGi
+                  - generic [ref=e1905]: 이런건 진짜 좋아요 엄지척을 안누를수가없다
+                  - generic [ref=e1907]:
+                    - generic [ref=e1908]:
+                      - button "나와 사용자 0명이 이 댓글을 좋아함" [ref=e1910] [cursor=pointer]:
+                        - generic [ref=e1914]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1918]:
+                      - button "댓글 싫어요 표시" [ref=e1920] [cursor=pointer]:
+                        - generic [ref=e1924]:
+                          - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1930] [cursor=pointer]:
+                      - generic [ref=e1931]: 답글
+              - generic [ref=e1939]:
+                - button "@판다-1011" [ref=e1941] [cursor=pointer]
+                - generic [ref=e1943]:
+                  - generic [ref=e1945]:
+                    - heading "@판다-1011" [level=3] [ref=e1946]:
+                      - link "@판다-1011" [ref=e1947] [cursor=pointer]:
+                        - /url: /@%ED%8C%90%EB%8B%A4-1011
+                    - link "1일 전" [ref=e1949] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugz64mTl4dW9f6QDMJx4AaABAg
+                  - generic [ref=e1952]: 이런 단순한 작업으로 속도가 오른다? 긴가 민가 했는데 검색 속도가 체감이 확 되네요 ㄷㄷ;;
+                  - generic [ref=e1954]:
+                    - generic [ref=e1955]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e1957] [cursor=pointer]:
+                        - generic [ref=e1961]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1965]: "1"
+                    - generic [ref=e1966]:
+                      - button "댓글 싫어요 표시" [ref=e1968] [cursor=pointer]:
+                        - generic [ref=e1972]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e1977]:
+                      - generic [ref=e1978]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e1981] [cursor=pointer]:
+                      - generic [ref=e1982]: 답글
+              - generic [ref=e1990]:
+                - button "@이정내-x2x" [ref=e1992] [cursor=pointer]
+                - generic [ref=e1994]:
+                  - generic [ref=e1996]:
+                    - heading "@이정내-x2x" [level=3] [ref=e1997]:
+                      - link "@이정내-x2x" [ref=e1998] [cursor=pointer]:
+                        - /url: /@%EC%9D%B4%EC%A0%95%EB%82%B4-x2x
+                    - link "8시간 전(수정됨)" [ref=e2000] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=Ugx8ZaA5mR3CxIxo0G14AaABAg
+                  - generic [ref=e2003]: 윈도깔았을땐 부팅이 5-6초였는데 지금은 1분이상 걸려요. 그래서 설명된것대로 들어가보니 예전에 다 적용시켜 놓았더군요. 이젠 컴을 바꿀때가 된듯합니다.
+                  - generic [ref=e2005]:
+                    - generic [ref=e2006]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e2008] [cursor=pointer]:
+                        - generic [ref=e2012]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2016]: "1"
+                    - generic [ref=e2017]:
+                      - button "댓글 싫어요 표시" [ref=e2019] [cursor=pointer]:
+                        - generic [ref=e2023]:
+                          - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e2029] [cursor=pointer]:
+                      - generic [ref=e2030]: 답글
+              - generic [ref=e2038]:
+                - button "@어둑시니-j3v" [ref=e2040] [cursor=pointer]
+                - generic [ref=e2042]:
+                  - generic [ref=e2044]:
+                    - heading "@어둑시니-j3v" [level=3] [ref=e2045]:
+                      - link "@어둑시니-j3v" [ref=e2046] [cursor=pointer]:
+                        - /url: /@%EC%96%B4%EB%91%91%EC%8B%9C%EB%8B%88-j3v
+                    - link "1일 전(수정됨)" [ref=e2048] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgwfAeWYIeUlhoyDQU54AaABAg
+                  - generic [ref=e2052]:
+                    - text: 오옹~~~~♡ 역시
+                    - text: ♡♡ 모발랩님 천재임
+                  - generic [ref=e2061]:
+                    - generic [ref=e2062]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e2064] [cursor=pointer]:
+                        - generic [ref=e2068]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2072]: "1"
+                    - generic [ref=e2073]:
+                      - button "댓글 싫어요 표시" [ref=e2075] [cursor=pointer]:
+                        - generic [ref=e2079]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2084]:
+                      - generic [ref=e2085]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e2088] [cursor=pointer]:
+                      - generic [ref=e2089]: 답글
+              - generic [ref=e2097]:
+                - button "@r0715-치즈도둑" [ref=e2099] [cursor=pointer]
+                - generic [ref=e2101]:
+                  - generic [ref=e2103]:
+                    - heading "@r0715-치즈도둑" [level=3] [ref=e2104]:
+                      - link "@r0715-치즈도둑" [ref=e2105] [cursor=pointer]:
+                        - /url: /@r0715-%EC%B9%98%EC%A6%88%EB%8F%84%EB%91%91
+                    - link "2일 전" [ref=e2107] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgxUSBoAcsCSZOdPj754AaABAg
+                  - generic [ref=e2114]:
+                    - generic [ref=e2115]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e2117] [cursor=pointer]:
+                        - generic [ref=e2121]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2125]: "1"
+                    - generic [ref=e2126]:
+                      - button "댓글 싫어요 표시" [ref=e2128] [cursor=pointer]:
+                        - generic [ref=e2132]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2137]:
+                      - generic [ref=e2138]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e2141] [cursor=pointer]:
+                      - generic [ref=e2142]: 답글
+              - generic [ref=e2150]:
+                - button "@bug5905" [ref=e2152] [cursor=pointer]
+                - generic [ref=e2154]:
+                  - generic [ref=e2156]:
+                    - heading "@bug5905" [level=3] [ref=e2157]:
+                      - link "@bug5905" [ref=e2158] [cursor=pointer]:
+                        - /url: /@bug5905
+                    - link "2일 전" [ref=e2160] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgzE8ZkjVUMOo6Ugom54AaABAg
+                  - generic [ref=e2161]:
+                    - generic [ref=e2163]: 오 진짜로 빨라졌네요 윈11 처음설치하고 뭔가 버벅거리는 느낌에 작업관리자 켜면 프로세서 보이는데 딜레이가 3,4초 이상 걸렸고 cpu사용률이 15프로 내외 였는데 2,3프로로 줄었네요 윈홈버전이라 레지스트리 따라했음요 감사합니다
+                    - button "자세히 알아보기" [ref=e2164] [cursor=pointer]
+                  - generic [ref=e2166]:
+                    - generic [ref=e2167]:
+                      - button "나와 사용자 2명이 이 댓글을 좋아함" [ref=e2169] [cursor=pointer]:
+                        - generic [ref=e2173]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2177]: "2"
+                    - generic [ref=e2178]:
+                      - button "댓글 싫어요 표시" [ref=e2180] [cursor=pointer]:
+                        - generic [ref=e2184]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2189]:
+                      - generic [ref=e2190]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e2193] [cursor=pointer]:
+                      - generic [ref=e2194]: 답글
+              - generic [ref=e2202]:
+                - button "@philosykoss" [ref=e2204] [cursor=pointer]
+                - generic [ref=e2206]:
+                  - generic [ref=e2208]:
+                    - heading "@philosykoss" [level=3] [ref=e2209]:
+                      - link "@philosykoss" [ref=e2210] [cursor=pointer]:
+                        - /url: /@philosykoss
+                    - link "1일 전" [ref=e2212] [cursor=pointer]:
+                      - /url: /watch?v=wHMm-ql0Sig&lc=UgzkHcuetLLxTSQpg7R4AaABAg
+                  - generic [ref=e2215]: 이건 정말 리얼 꿀팁이네요.
+                  - generic [ref=e2217]:
+                    - generic [ref=e2218]:
+                      - button "나와 사용자 1명이 이 댓글을 좋아함" [ref=e2220] [cursor=pointer]:
+                        - generic [ref=e2224]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2228]: "1"
+                    - generic [ref=e2229]:
+                      - button "댓글 싫어요 표시" [ref=e2231] [cursor=pointer]:
+                        - generic [ref=e2235]:
+                          - img
+                      - tooltip "tooltip"
+                    - generic [ref=e2240]:
+                      - generic [ref=e2241]:
+                        - button "하트" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - tooltip "tooltip"
+                    - button "답글" [ref=e2244] [cursor=pointer]:
+                      - generic [ref=e2245]: 답글
+      - generic [ref=e279]:
+        - generic [ref=e281] [cursor=pointer]:
+          - link [ref=e282]:
+            - /url: /watch?v=RfjSgFiEkk8&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e289]: 6:28
+          - generic [ref=e291]:
+            - generic [ref=e292]:
+              - heading "답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠?" [level=3] [ref=e293]:
+                - link "답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠? 6분 28초" [ref=e294]:
+                  - /url: /watch?v=RfjSgFiEkk8&pp=ugUEEgJrbw%3D%3D
+                  - text: 답답한 노트북, PC 속도 해결법! 크롬 설정 5가지로 내 윈도우 '광속'으로 만드는 방법 컴퓨터 고장 난 줄 알았죠?
+              - generic [ref=e296]:
+                - group [ref=e297]:
+                  - generic [ref=e298]: 모바일랩
+                - group [ref=e299]:
+                  - generic [ref=e300]: 조회수 2.2만회
+                  - generic [ref=e301]: •
+                  - generic "3주 전" [ref=e302]
+            - button "추가 작업" [ref=e305]:
+              - generic [ref=e2309]:
+                - img
+        - generic [ref=e312] [cursor=pointer]:
+          - link [ref=e313]:
+            - /url: /watch?v=v5yyv1J9O9g
+            - generic [ref=e320]: 11:33
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - heading "이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다" [level=3] [ref=e324]:
+                - link "이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다 11분 33초" [ref=e325]:
+                  - /url: /watch?v=v5yyv1J9O9g
+                  - text: 이제 캡처 프로그램 지우세요 윈도우11 기능만으로 충분합니다
+              - generic [ref=e327]:
+                - group [ref=e328]:
+                  - generic [ref=e329]:
+                    - text: 누나IT
+                    - img [ref=e332]:
+                      - generic [ref=e2311]:
+                        - img
+                - group [ref=e333]:
+                  - generic [ref=e334]: 조회수 3.1만회
+                  - generic [ref=e335]: •
+                  - generic "3일 전" [ref=e336]
+                - group [ref=e337]:
+                  - generic [ref=e341]: 새 동영상
+            - button "추가 작업" [ref=e344]:
+              - generic [ref=e2313]:
+                - img
+        - generic [ref=e351] [cursor=pointer]:
+          - link [ref=e352]:
+            - /url: /watch?v=-gR00H0j1is
+            - generic [ref=e359]: 15:55
+          - generic [ref=e361]:
+            - generic [ref=e362]:
+              - heading "바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;;" [level=3] [ref=e363]:
+                - link "바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;; 15분" [ref=e364]:
+                  - /url: /watch?v=-gR00H0j1is
+                  - text: 바이럴 당해서 산 개똥템 모음집 ㅋㅋㅋ 언제 샀는지 기억도 안나네;;
+              - generic [ref=e366]:
+                - group [ref=e367]:
+                  - generic [ref=e368]:
+                    - text: ITSub잇섭
+                    - img [ref=e371]:
+                      - generic [ref=e2315]:
+                        - img
+                - group [ref=e372]:
+                  - generic [ref=e373]: 조회수 24만회
+                  - generic [ref=e374]: •
+                  - generic "13시간 전" [ref=e375]
+                - group [ref=e376]:
+                  - generic [ref=e380]: 새 동영상
+            - button "추가 작업" [ref=e383]:
+              - generic [ref=e2317]:
+                - img
+        - generic [ref=e390] [cursor=pointer]:
+          - link [ref=e391]:
+            - /url: /watch?v=wxg5vAbLQjM
+            - generic [ref=e398]: 19:51
+          - generic [ref=e400]:
+            - generic [ref=e401]:
+              - heading "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥" [level=3] [ref=e402]:
+                - link "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥 19분" [ref=e403]:
+                  - /url: /watch?v=wxg5vAbLQjM
+                  - text: "[#유퀴즈온더블럭] 엄청 커다란 모기🦟가 내 발을 물고도 도망가지 않는다⁉️ 바로 모기의 ‘이런’ 습성 때문💥"
+              - generic [ref=e405]:
+                - group [ref=e406]:
+                  - generic [ref=e407]:
+                    - text: 디글 :Diggle
+                    - img [ref=e410]:
+                      - generic [ref=e2319]:
+                        - img
+                - group [ref=e411]:
+                  - generic [ref=e412]: 조회수 133만회
+                  - generic [ref=e413]: •
+                  - generic "11개월 전" [ref=e414]
+            - button "추가 작업" [ref=e417]:
+              - generic [ref=e2321]:
+                - img
+        - generic [ref=e424] [cursor=pointer]:
+          - link [ref=e425]:
+            - /url: /watch?v=y_LUDAPCH20&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e432]: 10:08
+          - generic [ref=e434]:
+            - generic [ref=e435]:
+              - heading "안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN" [level=3] [ref=e436]:
+                - link "안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN 10분 8초" [ref=e437]:
+                  - /url: /watch?v=y_LUDAPCH20&pp=ugUEEgJrbw%3D%3D
+                  - text: 안규백, '탈영'했다? 해군소령의 '충격 폭로' 들어보니 / KNN
+              - generic [ref=e439]:
+                - group [ref=e440]:
+                  - generic [ref=e441]: KNN NEWS
+                - group [ref=e442]:
+                  - generic [ref=e443]: 조회수 28만회
+                  - generic [ref=e444]: •
+                  - generic "16시간 전" [ref=e445]
+                - group [ref=e446]:
+                  - generic [ref=e450]: 새 동영상
+            - button "추가 작업" [ref=e453]:
+              - generic [ref=e2323]:
+                - img
+        - generic [ref=e460] [cursor=pointer]:
+          - link [ref=e461]:
+            - /url: /watch?v=5a83G733fco
+            - generic [ref=e468]: 17:48
+          - generic [ref=e470]:
+            - generic [ref=e471]:
+              - heading "미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체" [level=3] [ref=e472]:
+                - link "미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체 17분" [ref=e473]:
+                  - /url: /watch?v=5a83G733fco
+                  - text: 미니 PC, 노트북 싹 다 가짜였습니다. 쿠팡에 침투한 중국 사기단의 정체
+              - generic [ref=e475]:
+                - group [ref=e476]:
+                  - generic [ref=e477]:
+                    - text: 뻘짓연구소
+                    - img [ref=e480]:
+                      - generic [ref=e2325]:
+                        - img
+                - group [ref=e481]:
+                  - generic [ref=e482]: 조회수 124만회
+                  - generic [ref=e483]: •
+                  - generic "5개월 전" [ref=e484]
+            - button "추가 작업" [ref=e487]:
+              - generic [ref=e2327]:
+                - img
+        - generic [ref=e494] [cursor=pointer]:
+          - link [ref=e495]:
+            - /url: /watch?v=UzZco8U2ngY&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e502]: 26:10
+          - generic [ref=e504]:
+            - generic [ref=e505]:
+              - heading "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유" [level=3] [ref=e506]:
+                - link "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유 26분" [ref=e507]:
+                  - /url: /watch?v=UzZco8U2ngY&pp=ugUEEgJrbw%3D%3D
+                  - text: "\"세 시간째 저러고 있어요\" 딸 4명 데리고 한국 종주하던 벨기에 대가족, 다급히 라이브 켜고 외치자 시청자 50만명 몰린 이유"
+              - generic [ref=e509]:
+                - group [ref=e510]:
+                  - generic [ref=e511]: 한국찐반응
+                - group [ref=e512]:
+                  - generic [ref=e513]: 조회수 3.3만회
+                  - generic [ref=e514]: •
+                  - generic "12시간 전" [ref=e515]
+                - group [ref=e516]:
+                  - generic [ref=e520]: 새 동영상
+            - button "추가 작업" [ref=e523]:
+              - generic [ref=e2329]:
+                - img
+        - generic [ref=e530] [cursor=pointer]:
+          - link [ref=e531]:
+            - /url: /watch?v=lL9qyW6kBI4
+            - generic [ref=e538]: 26:18
+          - generic [ref=e540]:
+            - generic [ref=e541]:
+              - heading "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후" [level=3] [ref=e542]:
+                - link "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후 26분" [ref=e543]:
+                  - /url: /watch?v=lL9qyW6kBI4
+                  - text: "\"갑질하더니 이제 와서…\" 한국 반도체에 무릎 꿇은 애플의 최후"
+              - generic [ref=e545]:
+                - group [ref=e546]:
+                  - generic [ref=e547]: 김재민TV
+                - group [ref=e548]:
+                  - generic [ref=e549]: 조회수 29만회
+                  - generic [ref=e550]: •
+                  - generic "16시간 전" [ref=e551]
+                - group [ref=e552]:
+                  - generic [ref=e556]: 새 동영상
+            - button "추가 작업" [ref=e559]:
+              - generic [ref=e2331]:
+                - img
+        - generic [ref=e566] [cursor=pointer]:
+          - link [ref=e567]:
+            - /url: /watch?v=rjpZRVPqvRc&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e574]: 6:08
+          - generic [ref=e576]:
+            - generic [ref=e577]:
+              - heading "속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가" [level=3] [ref=e578]:
+                - link "속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가 6분 8초" [ref=e579]:
+                  - /url: /watch?v=rjpZRVPqvRc&pp=ugUEEgJrbw%3D%3D
+                  - text: 속보, 캐나다 잠수함 독일선택 충격발표 그럴줄 알았다 난리난 현지 상황 한화대신 TKMS? 전문가들 깜짝놀라 200조원 허공에 폭동날듯 엄청난 댓가
+              - generic [ref=e581]:
+                - group [ref=e582]:
+                  - generic [ref=e583]: 트래블튜브
+                - group [ref=e584]:
+                  - generic [ref=e585]: 조회수 10만회
+                  - generic [ref=e586]: •
+                  - generic "10시간 전" [ref=e587]
+                - group [ref=e588]:
+                  - generic [ref=e592]: 새 동영상
+            - button "추가 작업" [ref=e595]:
+              - generic [ref=e2333]:
+                - img
+        - generic [ref=e602] [cursor=pointer]:
+          - link [ref=e603]:
+            - /url: /watch?v=XGjdTZrDPXE&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e610]: 13:57
+          - generic [ref=e612]:
+            - generic [ref=e613]:
+              - heading "가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까?" [level=3] [ref=e614]:
+                - link "가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까? 13분 57초" [ref=e615]:
+                  - /url: /watch?v=XGjdTZrDPXE&pp=ugUEEgJrbw%3D%3D
+                  - text: 가격이 700만원에서 8만원으로 나락 가버린 그래픽카드를 쓸 수 있을까?
+              - generic [ref=e617]:
+                - group [ref=e618]:
+                  - generic [ref=e619]:
+                    - text: 민티저
+                    - img [ref=e622]:
+                      - generic [ref=e2335]:
+                        - img
+                - group [ref=e623]:
+                  - generic [ref=e624]: 조회수 94만회
+                  - generic [ref=e625]: •
+                  - generic "11개월 전" [ref=e626]
+            - button "추가 작업" [ref=e629]:
+              - generic [ref=e2337]:
+                - img
+        - generic [ref=e636] [cursor=pointer]:
+          - link [ref=e637]:
+            - /url: /watch?v=O2nha-m8sm4
+            - generic [ref=e644]: 15:54
+          - generic [ref=e646]:
+            - generic [ref=e647]:
+              - heading "대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부)" [level=3] [ref=e648]:
+                - link "대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부) 15분" [ref=e649]:
+                  - /url: /watch?v=O2nha-m8sm4
+                  - text: 대충 찍어도 인생샷 건지는 핸드폰 카메라 설정 (이강신 사진작가 2부)
+              - generic [ref=e651]:
+                - group [ref=e652]:
+                  - generic [ref=e653]:
+                    - text: 지식인사이드
+                    - img [ref=e656]:
+                      - generic [ref=e2339]:
+                        - img
+                - group [ref=e657]:
+                  - generic [ref=e658]: 조회수 153만회
+                  - generic [ref=e659]: •
+                  - generic "10개월 전" [ref=e660]
+            - button "추가 작업" [ref=e663]:
+              - generic [ref=e2341]:
+                - img
+        - generic [ref=e670] [cursor=pointer]:
+          - link [ref=e671]:
+            - /url: /watch?v=wX-80QWb2tg&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e678]: 36:34
+          - generic [ref=e680]:
+            - generic [ref=e681]:
+              - heading "단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수" [level=3] [ref=e682]:
+                - link "단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수 36분" [ref=e683]:
+                  - /url: /watch?v=wX-80QWb2tg&pp=ugUEEgJrbw%3D%3D
+                  - text: 단종의 친누나 경혜공주, 세조에게 한 조선 역사상 가장 잔인한 복수
+              - generic [ref=e685]:
+                - group [ref=e686]:
+                  - generic [ref=e687]: 시간책방
+                - group [ref=e688]:
+                  - generic [ref=e689]: 조회수 26만회
+                  - generic [ref=e690]: •
+                  - generic "4주 전" [ref=e691]
+                - group [ref=e692]:
+                  - generic [ref=e695]:
+                    - generic [ref=e2343]:
+                      - img
+                    - generic [ref=e697]: 자동 더빙
+            - button "추가 작업" [ref=e700]:
+              - generic [ref=e2345]:
+                - img
+        - generic [ref=e707] [cursor=pointer]:
+          - link [ref=e708]:
+            - /url: /watch?v=mXYn1tC9aGo
+            - generic [ref=e715]: 16:00
+          - generic [ref=e717]:
+            - generic [ref=e718]:
+              - heading "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부)" [level=3] [ref=e719]:
+                - link "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부) 16분" [ref=e720]:
+                  - /url: /watch?v=mXYn1tC9aGo
+                  - text: "\"업계 비밀 공개합니다.\" 자동차 에어컨 냄새 완벽 제거법 (차개미 1부)"
+              - generic [ref=e722]:
+                - group [ref=e723]:
+                  - generic [ref=e724]:
+                    - text: 지식인사이드
+                    - img [ref=e727]:
+                      - generic [ref=e2347]:
+                        - img
+                - group [ref=e728]:
+                  - generic [ref=e729]: 조회수 174만회
+                  - generic [ref=e730]: •
+                  - generic "1년 전" [ref=e731]
+            - button "추가 작업" [ref=e734]:
+              - generic [ref=e2349]:
+                - img
+        - generic [ref=e741] [cursor=pointer]:
+          - link [ref=e742]:
+            - /url: /watch?v=54u2Nmry7yc
+            - generic [ref=e749]: 33:26
+          - generic [ref=e751]:
+            - generic [ref=e752]:
+              - heading "월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후" [level=3] [ref=e753]:
+                - link "월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후 33분" [ref=e754]:
+                  - /url: /watch?v=54u2Nmry7yc
+                  - text: 월드컵 영웅의 몰락… 유흥비로 2000억을 탕진한 호나우지뉴의 최후
+              - generic [ref=e756]:
+                - group [ref=e757]:
+                  - generic [ref=e758]:
+                    - text: 달빛부부
+                    - img [ref=e761]:
+                      - generic [ref=e2351]:
+                        - img
+                - group [ref=e762]:
+                  - generic [ref=e763]: 조회수 80만회
+                  - generic [ref=e764]: •
+                  - generic "2일 전" [ref=e765]
+                - group [ref=e766]:
+                  - generic [ref=e770]: 새 동영상
+            - button "추가 작업" [ref=e773]:
+              - generic [ref=e2353]:
+                - img
+        - generic [ref=e780] [cursor=pointer]:
+          - link [ref=e781]:
+            - /url: /watch?v=_umna3uMDHU&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e788]: 3:35
+          - generic [ref=e790]:
+            - generic [ref=e791]:
+              - heading "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송" [level=3] [ref=e792]:
+                - link "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송 3분 35초" [ref=e793]:
+                  - /url: /watch?v=_umna3uMDHU&pp=ugUEEgJrbw%3D%3D
+                  - text: "[3분 HL] 16강 멕시코 VS 잉글랜드 | KBS 260706 방송"
+              - generic [ref=e795]:
+                - group [ref=e796]:
+                  - generic [ref=e797]:
+                    - text: 올스
+                    - img [ref=e800]:
+                      - generic [ref=e2355]:
+                        - img
+                - group [ref=e801]:
+                  - generic [ref=e802]: 조회수 48만회
+                  - generic [ref=e803]: •
+                  - generic "13시간 전" [ref=e804]
+                - group [ref=e805]:
+                  - generic [ref=e809]: 새 동영상
+            - button "추가 작업" [ref=e812]:
+              - generic [ref=e2357]:
+                - img
+        - generic [ref=e819] [cursor=pointer]:
+          - link [ref=e820]:
+            - /url: /watch?v=__herUip5T0
+            - generic [ref=e827]: 26:27
+          - generic [ref=e829]:
+            - generic [ref=e830]:
+              - heading "비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원" [level=3] [ref=e831]:
+                - link "비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원 26분" [ref=e832]:
+                  - /url: /watch?v=__herUip5T0
+                  - text: 비싼 돈 주고 산 윈도우 정품 USB, 당장 버려야 하는 이유! (윈도우 11 설치 완벽 가이드) feat. 다이소 5천원
+              - generic [ref=e834]:
+                - group [ref=e835]:
+                  - generic [ref=e836]: 제이런컴퓨터
+                - group [ref=e837]:
+                  - generic [ref=e838]: 조회수 11만회
+                  - generic [ref=e839]: •
+                  - generic "3개월 전" [ref=e840]
+            - button "추가 작업" [ref=e843]:
+              - generic [ref=e2359]:
+                - img
+        - generic [ref=e850] [cursor=pointer]:
+          - link [ref=e851]:
+            - /url: /watch?v=0QonhdVu_sU&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e858]: 27:59
+          - generic [ref=e860]:
+            - generic [ref=e861]:
+              - heading "상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다!" [level=3] [ref=e862]:
+                - link "상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다! 27분" [ref=e863]:
+                  - /url: /watch?v=0QonhdVu_sU&pp=ugUEEgJrbw%3D%3D
+                  - text: 상속받은 농지 그냥 두면 뺏긴다? 2026년 농지법 개정안통과, 당장 이것 안하면 내 땅 날라갑니다!
+              - generic [ref=e865]:
+                - group [ref=e866]:
+                  - generic [ref=e867]: 시니어생생정보
+                - group [ref=e868]:
+                  - generic [ref=e869]: 조회수 16만회
+                  - generic [ref=e870]: •
+                  - generic "1개월 전" [ref=e871]
+            - button "추가 작업" [ref=e874]:
+              - generic [ref=e2361]:
+                - img
+        - generic [ref=e881] [cursor=pointer]:
+          - link [ref=e882]:
+            - /url: /watch?v=4r5U9z3m894
+            - generic [ref=e889]: 25:07
+          - generic [ref=e891]:
+            - generic [ref=e892]:
+              - heading "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환" [level=3] [ref=e893]:
+                - link "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환 25분" [ref=e894]:
+                  - /url: /watch?v=4r5U9z3m894
+                  - text: "[이슈점검-특파원대담] 인도네시아 결국 현지생산 포기! KF-21 16대 직구한다고?#KF-21분담금완납#대한민국#인도네시아#KF-21수출#필리핀#UAE#샤를세환#이세환"
+              - generic [ref=e896]:
+                - group [ref=e897]:
+                  - generic [ref=e898]: 샤를의 군사연구소
+                - group [ref=e899]:
+                  - generic [ref=e900]: 조회수 25만회
+                  - generic [ref=e901]: •
+                  - generic "21시간 전" [ref=e902]
+                - group [ref=e903]:
+                  - generic [ref=e907]: 새 동영상
+            - button "추가 작업" [ref=e910]:
+              - generic [ref=e2363]:
+                - img
+        - generic [ref=e917] [cursor=pointer]:
+          - link [ref=e918]:
+            - /url: /watch?v=RuxGjaN6Low&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e925]: 22:54
+          - generic [ref=e927]:
+            - generic [ref=e928]:
+              - heading "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일" [level=3] [ref=e929]:
+                - link "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일 22분" [ref=e930]:
+                  - /url: /watch?v=RuxGjaN6Low&pp=ugUEEgJrbw%3D%3D
+                  - text: "\"머스크보다 빨랐습니다\" 가전 회사인 줄 알았던 LG가 세계 최초로 해낸 일"
+              - generic [ref=e932]:
+                - group [ref=e933]:
+                  - generic [ref=e934]: 얄궂은 경제학
+                - group [ref=e935]:
+                  - generic [ref=e936]: 조회수 1.7만회
+                  - generic [ref=e937]: •
+                  - generic "8시간 전" [ref=e938]
+                - group [ref=e939]:
+                  - generic [ref=e943]: 새 동영상
+            - button "추가 작업" [ref=e946]:
+              - generic [ref=e2365]:
+                - img
+        - generic [ref=e953] [cursor=pointer]:
+          - link [ref=e954]:
+            - /url: /watch?v=RhgQ6eZybHY&pp=ugUEEgJrbw%3D%3D
+            - generic [ref=e961]: 5:40
+          - generic [ref=e963]:
+            - generic [ref=e964]:
+              - heading "왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다" [level=3] [ref=e965]:
+                - link "왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다 5분 40초" [ref=e966]:
+                  - /url: /watch?v=RhgQ6eZybHY&pp=ugUEEgJrbw%3D%3D
+                  - text: 왜 숨겨져 있을까? 간단한 설정으로 윈도우 11 성능을 최고로 끌어올리는 최고의 성능 모드를 활성화 하는 방법입니다
+              - generic [ref=e968]:
+                - group [ref=e969]:
+                  - generic [ref=e970]: 모바일랩
+                - group [ref=e971]:
+                  - generic [ref=e972]: 조회수 1.3만회
+                  - generic [ref=e973]: •
+                  - generic "2주 전" [ref=e974]
+            - button "추가 작업" [ref=e977]:
+              - generic [ref=e2367]:
+                - img
+    - generic [ref=e984]:
+      - button "설명" [ref=e987] [cursor=pointer]:
+        - generic [ref=e2392]:
+          - img
+      - button "댓글" [ref=e995] [cursor=pointer]:
+        - generic [ref=e2394]:
+          - img
+      - button [ref=e1003] [cursor=pointer]:
+        - generic [ref=e2396]:
+          - img
+```

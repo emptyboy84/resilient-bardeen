@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+ 더블유에스컴퍼니 채용 - 부산치과 러시아 마케팅 통역 채용 | 잡코리아 window.process = {env: {}};window.process.env = {"NEXT_PUBLIC_SHORT_ENV":"PRD","NEXT_PUBLIC_BUILD_ID":"Zx472yn8bRvFpwR_aO-3H","NEXT_PUBLIC_JOBKOREA_URL":"https://www.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_IMAGE_URL":"https://imgs.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_TEXT_IMAGE_URL":"https://img.jobkorea.co.kr","NEXT_PUBLIC_JOBKOREA_IMAGE_FILE_SERVER_URL":"https://file1.jobkorea.co.kr","NEXT_PUBLIC_ALBAMON_URL":"https://www.albamon.com","NEXT_PUBLIC_GAMEJOB_URL":"https://www.gamejob.co.kr","NEXT_PUBLIC_NINEHIRE_URL":"https://www.ninehire.com","NEXT_PUBLIC_CLICK_URL":"https://www.klik.co.kr/?utm_source=jk_pc&utm_medium=banner&utm_campaign=fam_site","NEXT_PUBLIC_AUTH_URL":"https://www.jobkorea.co.kr/Login/M_Login_Layer3?Re_Url=%2fRecruit%2fHome%2f_LayerLogin2%3fhome_domain%3dwww%26reUrl%3d%26funcId%3de4dd44a4-37c9-5d04-8744-0ab39d4922db&type=1","NEXT_PUBLIC_AD_BANNER_URL":"https://ads.jobkorea.co.kr","NEXT_PUBLIC_GA_ID":"G-GQWHSF87P4","NEXT_PUBLIC_GTM_ID":"GTM-WL
+

@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=글로픽스');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4
+- Page Title: 글로픽스 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-46-24-287Z.yml)

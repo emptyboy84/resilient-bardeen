@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Testing Saramin search for 브이드림...
+Saramin status: 200 len: 2141672
+CSN matches in Saramin: none
+Revenue text matches: [ '매출액  60억', '매출액  2,071.8억', '매출액  36.3억', '매출액  152억' ]
+
+Testing Jobkorea search for 브이드림...
+Jobkorea status: 200 len: 237221
+Jobkorea revenue snippets: No 매출액
+

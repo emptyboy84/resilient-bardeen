@@ -1,0 +1,18 @@
+### Result
+[
+  {
+    "bizno": "6090657409",
+    "engentrnm": "HANEUNG PRECISION IND. CO.",
+    "koraddr": "경남 함안군 칠원읍 무기로 69",
+    "korreprnm": "한기수",
+    "sanupscd_kor": "기타 가공 공작기계 제조업",
+    "korentrnm": "한응정공",
+    "ipodivcd": "60",
+    "scaledivcd": "2",
+    "upchecd": "F03348"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n  return store.searchResultList;\n}');
+```

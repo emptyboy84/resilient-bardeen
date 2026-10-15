@@ -1,0 +1,6 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-14T09:38:54+09:00
+Prompt: Wait 5s for task-181 to finish final 2 items
+Early Termination: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+
+[2026-09-14T09:38:54+09:00] Timer fired.

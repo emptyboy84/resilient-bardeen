@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+Path                                                                 LineNumber Line                                   
+----                                                                 ---------- ----                                   
+C:\Users\lg\Desktop\Today\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv              5435 배현명,,부경기계산업,6063050800,이후근,46720,부산광...
+C:\Users\lg\Desktop\Today\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv       5435 배현명,,부경기계산업,6063050800,이후근,46720,부산광...
+C:\Users\lg\Desktop\Today\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_...       5437 배현명,,부경기계산업,6063050800,이후근,46720,부산광...
+
+
+

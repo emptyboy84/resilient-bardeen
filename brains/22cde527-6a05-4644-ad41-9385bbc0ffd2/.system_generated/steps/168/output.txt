@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Testing engines for: 토탈소프트뱅크 최장수 사업자등록번호
+DDG status: 200 length: 33280
+DDG biz matches: [ '601-81-18506', '601-81-18506' ]
+DDG snippets count: 10
+Google status: 200 length: 93132
+Google biz matches: null
+

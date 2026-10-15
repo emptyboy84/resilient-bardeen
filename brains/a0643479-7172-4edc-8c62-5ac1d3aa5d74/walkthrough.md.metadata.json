@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary":  "Walkthrough document detailing the investigation and resolution of the Hermes Agent Electron renderer crash loop by disabling the Chromium sandbox via code patches and shortcut modification.",
+  "updatedAt":  "2026-06-09T00:06:20.347253200Z"
+}

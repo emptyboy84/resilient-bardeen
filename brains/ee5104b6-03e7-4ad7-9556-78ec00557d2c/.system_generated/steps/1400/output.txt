@@ -1,0 +1,54 @@
+The search for "홈택스 사업자등록상태조회 python" returned the following summary:
+홈택스 사업자등록상태(휴폐업 여부 등)를 파이썬으로 조회하는 방법은 크게 **공공데이터포털의 공식 API를 활용하는 방법**과 **웹 스크래핑(자동화)을 이용하는 방법**으로 나뉩니다.
+
+### 1. 공공데이터포털 API 활용 (권장)
+가장 안정적이고 공식적인 방법입니다. 공공데이터포털에서 제공하는 '국세청_사업자등록정보 진위확인 및 상태조회 서비스'를 사용합니다.
+
+*   **진행 절차:**
+    1.  [공공데이터포털](https://www.data.go.kr)에 회원가입 후 로그인합니다.
+    2.  '국세청_사업자등록정보 진위확인 및 상태조회' 서비스를 검색하여 활용 신청합니다.
+    3.  승인 후 '마이페이지'에서 발급받은 **인증키(Service Key)**를 확인합니다.
+*   **파이썬 활용:**
+    *   `PublicDataReader`와 같은 라이브러리를 사용하면 복잡한 HTTP 요청 코드 없이 간편하게 구현할 수 있습니다[1][2].
+    *   **예시 코드 구조:**
+        ```python
+        from PublicDataReader import Nts
+        service_key = "발급받은_인증키"
+        api = Nts(service_key)
+        
+        # 조회할 사업자번호 리스트 등을 데이터프레임으로 준비
+        # result = api.get_status(df) # API 명세에 따라 호출
+        ```
+
+### 2. 웹 스크래핑 (Selenium 활용)
+API 사용이 어렵거나, 특정 상황에서만 필요한 경우 Selenium 라이브러리를 사용하여 홈택스 웹사이트에서 직접 조회하는 방식을 사용하기도 합니다[3][4].
+
+*   **주의사항:** 
+    *   홈택스 사이트 구조가 변경되면 코드를 수정해야 합니다.
+    *   너무 빈번한 요청은 IP 차단을 당할 수 있으므로 `time.sleep()` 등을 활용해 조회 간격을 충분히 두어야 합니다[3][4].
+*   **방법:** `selenium`을 이용해 브라우저를 띄우고, 홈택스 사업자등록상태조회 페이지에 접속하여 사업자번호를 입력하고 조회 버튼을 클릭하는 과정을 자동화합니다[3].
+
+### 3. 상용 API 서비스 이용
+대량의 데이터를 실시간으로 안정적으로 조회해야 한다면, 별도의 API 중계 서비스(팝빌, 바로빌 등)를 이용하는 방법도 있습니다[5][6].
+
+*   **장점:** 국세청 API보다 연동이 쉽고, 안정적인 SDK를 제공하며 오류 처리 등이 잘 되어 있습니다[7].
+*   **단점:** 사용량에 따른 과금이나 별도 계약이 필요할 수 있습니다[8].
+
+---
+
+**요약:**
+*   개인적인 학습이나 소규모 데이터 조회라면 **공공데이터포털의 Open API**를 활용하는 것을 강력히 추천합니다[9][10]. 
+*   업무 자동화가 목적이라면 `PublicDataReader` 라이브러리를 사용하거나, 필요한 기능에 맞춰 API 문서를 확인해 보시기 바랍니다[1][11].
+
+Sources:
+[1] [github.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFGCI0IeK75Ru8J3hWzFjO-Wtp3YHahLkpinvaVtu0F0NZtiUgxpU6lbifGNAkqr8AKT0spRgTl2T3-uZg-S1h_kVE97GVP5G4evKd8pO4xDH983t2rFBd5J-4lV3I4QmcQ==)
+[2] [github.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFGCI0IeK75Ru8J3hWzFjO-Wtp3YHahLkpinvaVtu0F0NZtiUgxpU6lbifGNAkqr8AKT0spRgTl2T3-uZg-S1h_kVE97GVP5G4evKd8pO4xDH983t2rFBd5J-4lV3I4QmcQ==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4IR1wuqm03tptEUbXdY_jyw7nR6kfr3I-48IaryO1OI6pcONVwCxc3pZY2Qg9XuY0KMhlbuD9Wd5MwjnahZNl1hIbeycdQoU3GrQc9Lm1NGEURaz9)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlKAqZUlJzPI238-0J8GotbJ_Kb8xUvnynQRShpQ-jKysV9Q-xFXpsZzN3MMMRl1uyTWkz6gsBRuP_tQ6fXwY-001tkG8v-jamP8OovJpXyQoNQA=)
+[5] [popbill.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF-EMNraUvezjxE6jbxwnlzKoSU_GDNUPThf6RlaY4r2xLSHshRKIq-w4lMyuYkT0lKOLr_kZB1g2YB4fCW0iOw-yqaLO-tPL5IuiSuwBg5G_okjgPtYVnomriMe7gEy6Mw3JLbs1mRrSj_0C_dgX2_68L)
+[6] [barobill.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRXzgFn02liuFTWX1qh0B_wE3dKLk1P85UmyxGiCabcOVrf0d5ciykdpoSPcsaoA2eRHvmzV_6KXyyIUwoVxA3TI8Js6kWI63Xurl0AFye35Kray8sQ11wvRSFKES88348sro=)
+[7] [barobill.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKRppx47dnYXkO_0ma299UmVIbKe44V-PEBxMyzRMccGDjNRqOaL8hfKXF6VJQ6W_zebpoq9Wt0HfmiZ-f5KOMHf_IZAKO5y7ruI4-SW71XNpd5MDDrSy4rmfaYCpXKKjIncVmfDvuOQH5RgYjwrX0yMKsT0al6eRl3WejNkoXaOk14fo4PU4dAoVLnyBIDxpmrncGcjMuG3Ib0Vdh0bMQRPPn_ZbHQeOfY0qFVrA2EwSxHA4N3Pd0_eNtXVgd0E0gajA=)
+[8] [codef.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfdMza0BsosG5jXrkEDvUaE_ZDUXCLaT8TvsCz46_0wDB_Ga32p0plNats-2tWpnvilhA09ut1DumKjEvOoe77J_juBp6wBne1cgTzBREUMI82NAUQ3owvg1kL_wI7qFaTkUOnf52fRHrLk--Nhbdik6mf-Rg=)
+[9] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYX2Iu4oSa6_5aoC8L3xzRRQaJIAVL2fe8eN6npjT3b0K_2oWCczTB5mF_5z5v3LeL0c8KRtBvxQ7nYUhdJnbpXcIkU2PXfmfXr0kn55bNV-K-cRp0sA==)
+[10] [r2bit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeA_p_TGlBDtpHXHTNNrfvSiuPdzbo5fC9zYQAgu2BlgdhFtVa-gV_nQr1fI4C2jW0TDxFxek1VcqjsiRQXSkuAlPa6vwRM0zveiXdwt17jNCe70grIemEHoxONoPjy9r5ZGA=)
+[11] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCGqVFE9YLs7wDsDR4pBYHmtLKpX0-8E1XeKH97NISOn7eOr_UnPbPO0fQegviLsXF6Bl_uvDagkyhYF8kAiR868KU-UkVeJKHtLrwqDplC1yFiqFoVhzeIz3C7OJv6tiXMhnk3COYbiv9s2D3w13-GrNe7E1c8dfTgtqPDJBQB5mEUuQBXlat)

@@ -1,0 +1,15 @@
+The search for "낙동대로 "성현빌딩"" returned the following summary:
+'낙동대로' 소재의 '성현빌딩'에 대해 검색한 결과, **낙동대로 도로명 주소를 사용하는 '성현빌딩'이라는 명칭의 건물은 확인되지 않았습니다** [2.1.1~2.1.8, 2.3.1~2.3.6].
+
+참고로 부산 내 '성현빌딩'이라는 명칭을 가진 건물들은 다음 지역들에 위치해 있습니다.
+
+*   **부산 금정구 중앙대로1719번길 41** (황세진영어학원 소재)[1]
+*   **부산 금정구 부곡동 225-66**[2]
+*   **부산 해운대구 중동1로43번길 10**[3]
+
+혹시 찾으시는 곳이 다른 주소이거나, 건물 명칭에 착오가 있으신지 다시 한번 확인해 보시기 바랍니다. 정확한 번지수나 주변 지형지물을 알려주시면 더 자세히 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ArTGf5U_I7i9dAAWq2RjpfmoaWHtPcoC6ncrQwv4WfjSu_h4U2zL_wFhaZXaujD-F5pYSBpECnb4p7XvdJ1nNZqVEoNK5l8EsW_BtNwdn3RlUhCdsfNYjbuxnFVmEFPoYmDrlKjP7DDgqmF68zxn6KVAcCOQM7EW8Ai__1mkPeeJu6QG707CrYun98sbpZ4nTeXmM4tn_sXLKh79_LRNTNo6j4DnEh88Mvo3NzbLm2OV4M_oLIrqPViWtQv7OF90xd17t-qM-y4s2qke9kJ_ufNHkQNKPUxUfj-JF2GEmOI=)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH89i1iNrJDTTxBZlovRYIsy3z4_TxAkp_kotdNsl9sQQdeyWxRKxq4ng4sdzFeWo1rmGfz2q3RNFM9YDwqn2ZE4sIX2JkXsmiqOZ1hBtK7P7x5S2BSS0ZijYr9Fc-y0kEz7bQHB7868dTm0yefghrgVJIsL0es4Cr0KixaLaH2fMOD7-qZlBzbm70VLybD7WjN2M0njpu7rCCp39H78pB9YdSgyTeG6LX6ZVsr0nYamOWHfawZ4swBncEe9wkwZdC8S-GeM3sgdfX2pZdzwwHAPaXFC0eYtZnPpIg0Ug==)
+[3] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Kz-JJKxIWdc1JWp5MXtqAGkk0GtC1RUtwh-oJqOGbE76t8lbVxAgs0UIYb00C1VAPkdc15gmqvvKRjf0hszuJTfhHIq8zwNTfx_wr8p3EAmFZMn33X2hR4wPv0Cldur3GhU0Ye_5_zAyJD0aKo8pUPrf13H4MMpeDWLBNXHyO9jsvmhqL6nwPae4Qj8dQw==)

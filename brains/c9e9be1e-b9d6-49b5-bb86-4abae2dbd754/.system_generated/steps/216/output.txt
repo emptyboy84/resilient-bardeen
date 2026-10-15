@@ -1,0 +1,11 @@
+The search for ""에스와이엘솔루션" 법인등록번호 OR "미르내이앤씨" 법인등록번호 OR "대상종합건설" "03399" 법인등록번호" returned the following summary:
+요청하신 업체들의 법인등록번호에 대한 검색 결과입니다.
+
+*   **미르내이앤씨**: 검색된 자료상에서 **사업자등록번호(218-81-24451 등)**는 확인되나, 법인등록번호는 공개된 정보에서 찾을 수 없었습니다[1][2].
+*   **에스와이엘솔루션** 및 **대상종합건설(03399 포함)**: 해당 검색어와 관련하여 법인등록번호를 확인할 수 있는 공식적인 정보가 검색되지 않았습니다.
+
+법인등록번호는 '대법원 인터넷등기소'의 '법인등기부등본' 열람/발급 서비스를 통해 해당 업체의 정확한 상호로 검색하시면 가장 확실하게 확인하실 수 있습니다.
+
+Sources:
+[1] [jootek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENqpOnjUfHHHJd1mb-Ca2MYap6JYUSji50E4vgo-J14gQCTqI2JgVv2s9bP739kUTetTXGZ2VBx4SUUFUQ7N7gy23nmzNxnqw28zMZVAK8mnk-oSyWPg==)
+[2] [jootek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0N_FWzQnItIsE00MPIU1sKvavVnCsuyiBj8I6FiwsspNpKISoJui774iOUdZja9ifiQ1FbOGS-9hoRcpofTzJioxWOiNpMPTmQkTtbawzXSJ8YXcfWA==)

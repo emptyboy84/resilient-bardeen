@@ -1,0 +1,14 @@
+The search for ""가야대로 694" ("음반" OR "기획" OR "엔터" OR "스튜디오" OR "잭" OR "음악")" returned the following summary:
+부산광역시 부산진구 가야대로 694는 '서면3차 봄여름가을겨울 아파트'의 주소지입니다[1][2].
+
+해당 주소와 관련하여 문의하신 키워드("음반", "기획", "엔터", "스튜디오", "잭", "음악")를 포함하는 별도의 음악 관련 업체나 기획사는 검색되지 않습니다[1][2].
+
+다만, 해당 주소(아파트 호수 포함)는 **'플로뉴(Floneu)'**라는 의류 쇼핑몰의 교환 및 반품 주소지로 확인됩니다[3][4][5]. 해당 사이트의 상품 설명 등에서 '스튜디오'라는 단어가 언급되기도 하지만, 이는 의류 촬영 등과 관련된 맥락으로 보입니다[6][3][4].
+
+Sources:
+[1] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLfUEBlXIGscJyL-DgdR2WLW8b4TDS6bb18t2fw_xFhzKHS46kvZkCGDbxGjG-9YS49_iWbkkstoBCjvdVvzcVOyjnBHpaBW5500TP53pqmg==)
+[2] [koreacharts.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDfoa6fJ85hWXE6KXGTTNAhMuWEyI3WSQOexEKUdQ59HCmKl35i4I0J2sJcJGbHnCsPNYFr3hKgbRz4NyOWQHTmy7LXp8TNb94zKFORNy5g0RBWJYKDibMByIJopFBQI5rA_gMM11_8ed0eIl)
+[3] [floneu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJDPzX5UeA83H6PwrB1f3grqjljWbSPEQx7x8SHHBks771sopUetmXiIwH8LkX4FggKtCQ1W5WweRlKr3yRyAvVbE3mU_JOfTKWr1jp4RXaA36bUs7YOr1r4wRu78k6pN-_zQ=)
+[4] [floneu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-0n8jc6Rp7dPbmrdeTqlNqR2LvWkr5RbqlOad3s2RETtoQh6LQew7BkYtYQK6MiJCiE566AIf9EAcLlhH-BsSvuuU4vffdydweELxpXZf0jG9p7sLpRvo12PLqkF7Hp54hTg4KW0T7q8vcF-zciTP)
+[5] [floneu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCImsC8vijdN2Q-zibtbly3Cac7mcxHc6rrkRt9tGOZsA5SNU2StPow6LYxV2Jh1Ee6gDLdX7Blj6rsvcLNk0Df9RQSeT6s01-HnL4E7SLeeO2igIpZXytMgkC8BccTffmuzcObQ==)
+[6] [floneu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU4ues6MSIUWJwmcD-unwFIiVZti0dFVD9ZUXfnS8Vi9Y4k9T37c7JyJf9b1UpAeFZZ7Iv3pFawyFTh0ZruOKeknWjrmKrH7HX-oyptTN1hYsrZcTG_JMzxxNvC6FX9w==)

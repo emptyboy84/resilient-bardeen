@@ -1,0 +1,39 @@
+
+The command exited with code 1.
+Output:
+�ġ �:1 �:229
++ ... const apis = content.match(/https?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); ...
++                                                                  ~
+�𷺼� � �ڿ� � � �ϴ�.
+�ġ �:1 �:228
++ ... const apis = content.match(/https?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:1 �:235
++ ... pis = content.match(/https?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); consol ...
++                                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:258
++ ... ttps?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); console.log('APIs:', apis);"
++                                                                  ~
+',' �ڿ� � �ϴ�.
+�ġ �:1 �:259
++ ... ttps?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); console.log('APIs:', apis);"
++                                                                   ~~~~
+� �Ǵ� � �ġ � 'apis' �ū�Դϴ�.
+�ġ �:1 �:258
++ ... ttps?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); console.log('APIs:', apis);"
++                                                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:1 �:263
++ ... ttps?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); console.log('APIs:', apis);"
++                                                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:1 �:265
++ ... ttps?:\/\/[^\s\"'<>]+api[^\s\"'<>]+/gi); console.log('APIs:', apis);"
++                                                                         ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingFileSpecification
+ 
+

@@ -1,0 +1,14 @@
+### Result
+Waited for 2 seconds
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 2 * 1000));
+```
+### Page
+- Page URL: https://www.kiscon.net/gongsi/gongsi_list.asp
+- Page Title: 건설산업지식정보 시스템
+- Console: 6 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-54-28-645Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-54-03-994Z.log#L7-L12

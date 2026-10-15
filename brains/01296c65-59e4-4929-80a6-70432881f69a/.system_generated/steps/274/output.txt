@@ -1,0 +1,17 @@
+The search for ""pubcUserNo" hometax" returned the following summary:
+In the context of the Hometax system—specifically when interacting with its **Business Registration Status Inquiry (사업자등록상태조회)** API—`pubcUserNo` is a field used in the XML payload[1][2][3].
+
+### Key Information:
+*   **Purpose:** It is an element within the request map (typically `<map id="ATTABZAA001R08">`) sent to the Hometax server to query the status of a business registration number[2][3][4].
+*   **Usage in API Requests:** In most technical implementations for business status verification, this field is left **empty** (`<pubcUserNo/>`)[1][2][5]. It does not typically require a specific value to be provided by the user for standard public status inquiries[3][4].
+*   **Technical Context:** It appears as a parameter alongside other fields such as `txprDscmNo` (the business registration number) and `dongCode` (an internal processing code)[1][2][4].
+
+If you are developing an application to check business registration status, you can generally include `<pubcUserNo/>` as an empty tag in your XML request body without needing to populate it with specific user data[3][5][6].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBgsA9_ayFqtAu5q0dwoKhQ62GchsQ9E46i3afEfGVKNpebdg-Nk0u2eKVpy7tlcAFcZ6Lcu5XgTooiRIpnfkObUHswc3Ln4zMEv8Se0J7qBmUVag=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOCYqNFfXYNjsQ3WqP-6OWxTRRRk2Er_lxsafMlqZMC40ApZRil6Qg1g-w1OWFVcmaHQ-r7kqzIjG3Ud0o8-MhchGR5pEk5Tgd3jFMmQP9AQhq)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE1xUwiQZAHbvm7bnHPVQvHU5_PZLiBjl_QRJXCJQv8jIuOUQ98Zl9MBtU2yQih6aEUlY807-DpTKEnSkhAC16TDA168l-5Q2LRc1SlgtM330=)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdu_so4GpGBAjh9rcyxtqouwcFp2w_-y0v5EPvdKuk3TMvVODfVLmD084EwrZNIPYgFTFEmSI0ciCIrBrwN9UFnMNzlcktRcyLxBK2lMPhFauoLnz1z0cWuyxSbGkwBM2Qk1pGoSGlD-T1XlpsJyBehSb-w38-JBS-OsdYk6leWeL_93RI8wSPmt7gCX7ZSFqH3py4I-FrhDw7YsWMaYE-pNl85DtUL406BiXTpVXJZAuB7YHTjtIvGjTnULuZCfC1KrE_m9qb8zlgcxQhucaTNe00f-iDXHMb0qaSxCAsI2AICg7h2H9BXXn4VB_tmcn_fkTqLcgZ_QsztdPHRNFn93I=)
+[5] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmnule23gprUg4rZZ1bitxD7lV06-DHU3OF3QKvMr46oYiFv4SbpB01xb9JJ44SVhs7b2xBDYh0ByyYSwrf8rA2h9WxCWPFzlHMF2oMJhvF2wUf5ZILGGtpxxCU7ndLq5idJpYkdbqJA==)
+[6] [velog.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDyddIpsni5kg1ZnS0Xz2BVg9FWIYbpDkgbvCNdIvb-uDt00goaMnx_wi3QTsbIi6RYdbVrKnqQ4TP-fVHxw1zseKXVvErPXndncJk0I-lyog9qrJpT6bvBbJxx-Q_EyIwVUAR8htpj8Oc_zgPiTR2R-fmigxbAPfj_S5nT4hbdDE-0z3ToiaD8DJwRfJpEGLShCvruAVpR9wgQwhYjbvSentC6iSuKMx0yjVRzX37VbLyQGbrPvPdDUsWV_i3G1Gs01o1xSKugY3A3HIVHtL2MtevGc92S16X8Sf9d_6UklbU)

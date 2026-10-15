@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+commit 20488d321f81ad38467f4a5d62a2afee33145c06
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 12:58:40 2026 +0900
+
+    e
+
+diff --git a/AGENTS.md b/AGENTS.md
+new file mode 100644
+index 0000000..dc07c65
+--- /dev/null
++++ b/AGENTS.md
+@@ -0,0 +1,7 @@
++# Behavioral Rules
++- 할루시네이션(환각) 금지: 검색 결과나 정보를 제공할 때, 시스템이 반환한 데이터 이외의 가짜 URL이나 거짓 정보를 지어내지 말 것. 출처와 링크는 반드시 실제로 작동하고 검증된 것만 제공할 것.
++- 원드라이브(OneDrive) 접근 금지: 어떤 경우에도 C:\Users\lg\OneDrive 및 하위 폴더를 탐색, 검색, 조회, 읽기, 수정하지 말 것. 모든 작업은 지정된 작업 공간(c:\Users\lg\resilient-bardeen) 및 로컬 필수 경로 내에서만 처리할 것.
++
++# User Profile
++- 사용자의 이름은 '배현명'임.
++
+

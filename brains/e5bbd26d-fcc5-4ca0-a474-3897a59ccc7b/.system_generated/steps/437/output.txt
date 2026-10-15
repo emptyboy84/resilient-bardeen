@@ -1,0 +1,17 @@
+The search for ""조진성" "방송" "부산"" returned the following summary:
+검색 결과, '조진성'이라는 이름을 가진 인물 중 부산 지역 및 방송과 관련이 있는 주요 사례는 다음과 같습니다.
+
+* **복싱 아나운서 및 유튜버 (조진성TV):** 복싱 중계 및 링 아나운서로 활동 중인 인물입니다. 유튜브 채널 '조진성TV'를 운영하며 복싱 관련 콘텐츠와 아나운서 활동 모습을 공유하고 있습니다[1].
+* **원불교 교무 (AI 영상 제작):** 조진성 교무는 형제인 조진광 교무와 함께 AI를 활용한 영상 콘텐츠를 제작하고 있습니다. 특히 '원불교 부산교화의 발자취' 등의 영상을 제작한 사례가 있습니다[2].
+* **동서대학교 졸업작품/영상 제작:** 동서대학교 미디어커뮤니케이션학부 방송영상전공에서 PD나 작가로 활동하며 부산 지역 콘텐츠나 다큐멘터리 제작에 참여한 기록이 있습니다[3][4].
+* **기타 활동:** 과거 부산맹학교에서의 재능기부 공연 관련 기사에서 기자로 활동한 이력이 확인되며[5], 부산 영도구 봉래1동 주민자치위원장으로 활동 중인 동명이인의 사례도 있습니다[6].
+
+질문하신 내용이 특정 인물을 지칭하는 것인지, 혹은 특정 방송 프로그램을 찾으시는 것인지에 따라 위 정보 중 해당되는 내용을 참고하시기 바랍니다.
+
+Sources:
+[1] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2_u_le4TptgDGjH48t_p_7Cs6AugY7gPbWPEs-78OKx1wPyMrst6U9hCkZkS8hdMyK4IzGhUT8MDmpKOsc_MgoLsV96allosb12tPgI9_ZFexrG13GIaLAW7mo_amRwlPCq_OOe8QfzY-eP2sfPKTuA==)
+[2] [wonnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDBoq5OjSNm81lrDtZoUZkStcUPaIS8cXerw3-XLwG7so1s4MY6-U_u-e4Mj3DiMN-4PJOIs8IJjAWhlYjcWz3LYtiSVNJfxVzsqM8rjBb7M83U49PZFwEw_UHF00UdXBroRO2WD_dKi4xBhgH6LRhcdc=)
+[3] [moca.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIT-rxtUtmT-MDaCjcZL9ihOJVryFsWxwUeI012kxC3lC1iRNn465hi_2mk56HbyUjjF4ap4ncTJyXRKSCslqPxR26Fz0WfNHyfTSPBfK6TTCJpi6emhjM3bugJIQq2CLXvY4U643bKGc4Yv5nLuroXNsleVvsHtvteAt3AvkC1gTlgnC82yhyjN_rWSmqjU4VhyjDF6Mew3-OYXzcpvQWyRA=)
+[4] [moca.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPVIMOupneBvXqDkPmXGrz-DURgZu7lyrOxqwvBCoLXjRdjYjOpWh_QSU0vZQcrTnQ_VQFABkwazh5wjgS8AvMyys2bPTvoqy3lsdn6GR2-VYesCThOzGSnKQ1vYLaHC3gcDz6VclF67Ku4Eb1AYDiIGI--nZZdUFjXDtM1j2PTSgaVPs98ranswX3p2hlO_IGhw==)
+[5] [ekoreanews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDQaJ9by_ntgwlc_5dq1y4CzjQmGi3t_S0-HJHGdSVA6O6EBy5I2TF7-CG02elSBSjQeGGXciuA4YBYcJlOcytf8EifHgKcCxiFJs7AiQmO4RScO-2qQ6auStm0J53kkYLZXwen657jk_GX_N2RYtJWfr8)
+[6] [monthlypeople.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo5qaN1MJf-RWbEY5fQLIBT90ElW46XT6Bo72onsNaGC8f30L-xomE-yhAtai6c6A4uyTwJhSjekli0QMaDEAlLXm7Z9EsRBk9R0w051EpQPCI5IAHd2NLXviqfE7jgkIILSRz6ywH3ppA5m9NhdLiUPrw5Bs)

@@ -1,0 +1,39 @@
+
+The command exited with code 0.
+Output:
+Detail HTML length: 290931
+Matches for 매출액: [
+  '매출액, 자본금, (주)브이드림 영업이익, (주)브이드림 공시정보, (주)브이드림 재무제표, (주)브이드림 감사보고서, 취업사이트, 채용정보, 기업뉴스, 복지, 구인, 구직, 사람인" >\n' +
+    '<meta name="writer" content="사람인" >\n' +
+    '<meta name="naver" content="nosublinks" >    <meta property="og:url" content="https://www.saramin.co.kr/zf_user/company-info/view/csn/ZjQvcWk4cUVOYW9KWnh3b1AxWUNN',
+  '매출액, 복리후생 등 - 사람인" >\n' +
+    '<meta property="og:description" content="(주)브이드림의 직원수, 매출액, 연봉, 채용, 복리후생 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요." >\n' +
+    '<meta property="og:site_name" content="사람인" >\n' +
+    '<meta property="og:type" content="website" >\n' +
+    '<meta property="og:image" content="https://clogo.saramin.co.kr/company/logo/20260',
+  '매출액</p>\n' +
+    '                            </li>\n' +
+    '                                            </ul>\n' +
+    '                                <div class="content_fold">\n' +
+    '                    <dl class="company_details">\n' +
+    '                                                    <div class=" company_details_group">\n' +
+    '              ',
+  '매출액, 업종, 대표자명, 사업내용, 주소<br>                                                국민연금 출처 : 사원수<br>                        기업 직접입력 : 홈페이지, SNS, 기업 한줄소개, 기업소개, 기업비전<br>                    </p>\n' +
+    '                </div>\n' +
+    '            </div>\n' +
+    '        </div>\n' +
+    '    </cite>\n' +
+    '</section>\n' +
+    '        <!-- 연혁 -->\n' +
+    '                <!',
+  '매출액 등</p>\n' +
+    '        </div>\n' +
+    '        <div class="box_links">\n' +
+    '            <a href="/zf_user/help/inquery/email-inquiry-write" class="BtnType SizeM GrayInvert link_go ga_data_layer" target="_blank"\n' +
+    '               data-ga_data_layer="ga_lead|company_view|com_intro|edit_help">사람인에 1:1 문의하기</a>\n' +
+    '            <a h'
+]
+Year mentions: [ '2026년' ]
+Context around 매출액:
+미리 확인해 보세요! 기업 개요 --> 업력 9년차 2018년 1월 25일 설립 중소기업 기업형태: 중소기업, 주식회사 기업형태 33 명 출처: 국민연금 사원수 60억 181만원 매출액 업종 응용 소프트웨어 개발 및 공급업 대표자명 김민지 홈페이지 http://vdream.co.kr 사업내용 소프트웨어개발 주소 서울 서초구 반포대로18길 36, 제오피스동 제7층 제7층호 (서초동,서초센트럴아이파크) 지도보기 SNS 블로그 페이스북 인스타그램 유튜브 기타 장애인HR재택근무 플랫폼 1등기업 유튜브채널 : https://www.youtube.com/channel/UCkzS3-K4djcX99Id_KHcl7Q 기업비전 능력을 가지고 있음에도 불구하고 장애로 인해 본인들의 능력을 발휘할 수 있는 기회를 가지지 못하는 
+

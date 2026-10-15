@@ -1,0 +1,19 @@
+The search for ""010-5148" OR "0105148" "김효정" OR "노매드헐" OR "NomadHer"" returned the following summary:
+**김효정** 대표가 이끄는 **노매드헐(NomadHer)**은 전 세계 여성 여행자들을 위한 글로벌 소셜 네트워킹 및 여행 안전 플랫폼(애플리케이션)입니다[1][2]. 
+
+주요 관련 정보는 다음과 같습니다:
+
+* **설립 배경 및 모토:** "여성은 이 세상 어디든 갈 수 있다(She can travel anywhere)"는 모토로 2019년에 설립되었습니다[3][1]. 김효정 대표 자신이 전 세계 수십 개국을 혼자 여행하며 겪었던 경험과 안전에 대한 고민을 바탕으로 여성 혼자서도 안심하고 여행할 수 있는 환경을 만들기 위해 시작되었습니다[3][2].
+* **주요 서비스:** 
+  * 철저한 신원 인증(신분증 및 셀카 인증 등) 알고리즘을 거친 여성 회원들만 가입할 수 있어 안전성을 높였습니다[2][4].
+  * 전 세계 도시별 여성 동행 찾기, 현지 로컬 정보 및 안전 숙소 공유, 커뮤니티 네트워킹 기능을 제공합니다[5][6][7].
+* **글로벌 성과:** 프랑스 파리의 유명 스타트업 인큐베이터인 '스테이션 F(Station F)'에 입주하였으며[5], UNWTO(유엔세계관광기구) 관광 챌린지 여성 임파워먼트 부문 1위 수상[4], 구글 본사에서 한국 기업 최초로 성장 다큐멘터리가 제작되는 등[4] 세계적으로 주목받는 임팩트 스타트업입니다.
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP4Jl3Oc76h-ALMSfia5OCDImHbYFbHCDSdbZVJBbpAI3hVQ9ODPkkdpBNVQidhF65YVoAOhi9dMOaaMWG1mh8HUxFg1-nPtHvflbmOjhz)
+[2] [startuptoday.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3CJIbmEmGVG9Ku5kC5Dl-I-saFVpFcy5WMi-pVOJNTen4OXsjHv8DyUHlxrRdBeKq6tiQusGkxLugnwP1TxLHVXADg0cDTm-UYUNXOqv4cCj_if_KUEXdrpAp4t2AhKV57JfHTukGYVSzKX2Q7GW0mubU)
+[3] [thebutter.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSsQlMW--JnmBFvnLD0t6qGY0uzqIK_KnjvJ3SPWW6hN9ulCTqnVrx2wCc5YRzL0ywVFuzBP6IBSXJYhpcvzA88rsG5EMrlGHC9HyHoK7rUEIhHv5R0b2MhoO8kqD8MqongbE-e4pagHjlaxT5pqM=)
+[4] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzvbN3G1g-oiB4hCkI1ebKgtNt4ly-hM-U78eIHQQGSg8HsXRyRy0Bpb-n5KmxwYy428ZzY6RBB68zQSRO2O2N_AddKybBexSLj9NEYZKj7YqQKhvbT2ktaI1SgFJua59gTq_qumcJtKymiAQ20MuIC3vshVIy24nXNAl0ieeUHaJkuj3MnyurICRcYInic0SvgOpDDqToouomtpHycgrq5g5Q13oyntgcNnF9ucZCqpUStwMiWjV3B3QCmapNj_8fuYE=)
+[5] [nextunicorn.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG96T3e3aArlC5wNPSccoAjSwk7CEXhkjH4VqJHm_7EVu0IQBiks5_EC4sei9iridmd6X1mBpfaGRTEhXpiWE45qj98Oh5Npt9ypBtmMRUWkr8cgjT5_pzY8ZZb5flYWPqYeVx_RmUv7Rk=)
+[6] [nomadher.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs30OQPVQYy7lbYDJshr8Nxt-gV_ykGLLgyMLKGNeuu7NV8_naBc8PY6k0YHxL1lq0eG4YiN9CwCGkf7wGQXS8u2wr9QtTMcf74J3PfQ1NzluulosqTECC0b_j5bcAoStSjbI6Ios=)
+[7] [womennews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtTqTCT9SRzlm4lpat_XQ8VZDZnIh89yN3EOtBI-qbvzrjqnZlE5FfAt2YFf-FbgSWMlpTN5-ACeyIqMLwlvyQ2DOeh-mu0ImTDso-N4S3dtrsXPHwxNbGpnLyCeA386HimI_DG85KQMFW7rYvBFRR6iy9Rw==)

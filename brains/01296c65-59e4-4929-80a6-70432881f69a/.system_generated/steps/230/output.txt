@@ -1,0 +1,36 @@
+The search for ""ATTABZAA001R08" json" returned the following summary:
+`ATTABZAA001R08`은 대한민국 국세청 홈택스(Hometax)의 **사업자등록상태조회 서비스**에서 사용하는 내부 API 액션 ID입니다[1][2][3].
+
+이 식별자는 주로 개발자들이 국세청 사이트를 직접 방문하지 않고 프로그램(스크래핑 또는 API 호출)을 통해 사업자의 휴·폐업 여부를 확인하고자 할 때 사용됩니다[4][2][5].
+
+### 주요 특징 및 참고사항
+*   **통신 방식:** 주로 `POST` 방식을 사용하며, 요청 데이터(Payload)는 **XML 형식**으로 구성됩니다[4][2][6].
+*   **요청 구조:** 아래와 같이 XML 구조 내에 사업자등록번호(`txprDscmNo`) 등을 포함하여 호출합니다[4][1][7].
+    ```xml
+    <map id="ATTABZAA001R08">
+        <pubcUserNo/>
+        <mobYn>N</mobYn>
+        <inqrTrgtClCd>1</inqrTrgtClCd>
+        <txprDscmNo>사업자번호10자리</txprDscmNo>
+        <dongCode>숫자</dongCode>
+        <psbSearch>Y</psbSearch>
+        <map id="userReqInfoVO"/>
+    </map>
+    ```
+*   **주의사항:**
+    *   이는 국세청의 공식적인 오픈 API가 아니라 웹 서비스의 내부 동작을 활용하는 방식(스크래핑)에 가깝습니다[2][3].
+    *   과도한 요청은 IP 차단 등의 제재를 받을 수 있으므로, 대량 조회가 필요한 경우 개발 문서에서 권장하는 대로 적절한 시간 간격(대기 시간)을 두는 것이 일반적입니다[2][3].
+    *   정식으로 사업자 상태를 조회해야 하는 기업 환경이라면 국세청에서 공식 제공하는 '공공데이터포털'의 API 사용을 권장합니다[1].
+
+요청하신 "json" 관련 키워드는, 개발 과정에서 XML로 응답받은 국세청 데이터를 사용하기 쉽게 **JSON 형식으로 변환**하여 처리하는 로직을 찾으시는 과정에서 발생한 것으로 보입니다[7][8]. 많은 개발자가 `xml2js` 같은 라이브러리를 사용해 XML 응답을 JSON 객체로 파싱하여 활용하고 있습니다[4][9][8].
+
+Sources:
+[1] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyB2Vbxe1PeUwxDzv5xBHn39BbruEqDgmqv9kB1on84I79nipF38-nUEsKiQc6T4YazG9S3aius3wVkE_hNuASeIKy6hlK9iocHUT_USZMD5g69aD5BHuaK6NmsEAeL8rNR3HbkqtanQ==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMrPo6Oqexd74MxVwb72OjZstFxQmzjNbXANLYQm_EUI4TmgH_G0p-BLc3bBUYXW95bS9x6YvfFpTj3_D1HccHVD374BFfSTfKKDXmRFzWPVFu-Vg=)
+[3] [blogspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHIfnxP951b6qLsRNMBBAGiu2knk0CMfeDCsSI7RemznMFwRvFl040osz9L8iQHStIRm1MlaBB8E0qonZgMiWTJ8q4SKeZsB9ZP-44pRML-V5VAGGUMJ5sorE=)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-i01G0GHiKNrIEBdshDH4bEUfViLYcSpJ_DFfgx1xSG-ELwcFBphGVsOErr9aRZsD2idBrlaJWBnD6ZoxNju7veRoQ0a810mJqhR4NQmBtKAYJKZUxT9b_YzeqV9NmcGF_DMAiNQg35TVFA-PBeW20fXcFyK79tepD31C7FZ4_a7wQoDgzCgoFjDpbZfGhppGbzz_YRMvFn75j59jia8qLbJY6W7SmebZurYjDQxNW9dxY--8x94FwoVO_FLb2stMUWaVLbWoM-hHQjbnk6AmqsD5ANjreYiEzw47x9XkpbEqteYF_63CTVrER2DIhANi_VLgLCBT3t48n7Z3KKFkLBs=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMrPo6Oqexd74MxVwb72OjZstFxQmzjNbXANLYQm_EUI4TmgH_G0p-BLc3bBUYXW95bS9x6YvfFpTj3_D1HccHVD374BFfSTfKKDXmRFzWPVFu-Vg=)
+[6] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH04yL0nmm2Q_kGpkckQHqSrGNdz0NJoKMkQxJy-uAPDp28bDCVse98dulYhA2C43GzwgU_TccPdE7j-SnCRJyItsWWQUf_Wu-vjhcROrZzjyxF)
+[7] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecXW2zuP2aWyfD19OoGhNOamgTbiunai6acEUhbnP5W_gDjK47pKDPC9sUCHBDj7_kiGyyYqMwCQqGWg-6Of-0ev-0ewS38c4GZbtlbx0dCg=)
+[8] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-i01G0GHiKNrIEBdshDH4bEUfViLYcSpJ_DFfgx1xSG-ELwcFBphGVsOErr9aRZsD2idBrlaJWBnD6ZoxNju7veRoQ0a810mJqhR4NQmBtKAYJKZUxT9b_YzeqV9NmcGF_DMAiNQg35TVFA-PBeW20fXcFyK79tepD31C7FZ4_a7wQoDgzCgoFjDpbZfGhppGbzz_YRMvFn75j59jia8qLbJY6W7SmebZurYjDQxNW9dxY--8x94FwoVO_FLb2stMUWaVLbWoM-hHQjbnk6AmqsD5ANjreYiEzw47x9XkpbEqteYF_63CTVrER2DIhANi_VLgLCBT3t48n7Z3KKFkLBs=)
+[9] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaTA_5vaQKbWxHQwjf5zP8DUBh1q9Hl_wJuizdN9Q2os9-DzGpK42YQIbRLW-kB_Sl2K9BV8MpBjQy9rTqO83nTflEb1bZ3EAkJ3PCbum30eE1dFkZEA==)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.thecall.co.kr/');
+```
+### Page
+- Page URL: https://www.thecall.co.kr/
+- Page Title: 더콜 - 우리가 만드는 전화번호부
+- Console: 3 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-21-01-982Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-20-55-726Z.log#L1-L36

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Line count: 65
+Last step index: 64
+

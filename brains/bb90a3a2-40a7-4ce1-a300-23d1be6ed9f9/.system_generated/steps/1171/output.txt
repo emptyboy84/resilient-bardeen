@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+�ġ �:7 �:39
++   const matches = html.match(/href=\"[^\"]*�[^\"]*\"/gi) || html. ...
++                                       ~
+�迭 �ε� � �ų� �߸�Ǿ�ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingArrayIndexExpression
+ 
+

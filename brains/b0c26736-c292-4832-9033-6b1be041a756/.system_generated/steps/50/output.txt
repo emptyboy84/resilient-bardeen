@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/6190976516');
+```
+### Page
+- Page URL: https://bizno.net/article/6190976516
+- Page Title: 플레이박스(PLAYBOX)
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-25-09-375Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-25-04-414Z.log#L1-L5

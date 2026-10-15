@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Excel 파일 'office_example'의 수식 오류를 수정하는 계획입니다. 주요 오류인 직원 구분 수식과 INDEX/MATCH 참조 오류를 해결합니다.",
+  "updatedAt":  "2026-05-12T03:48:19.219902200Z",
+  "requestFeedback":  true
+}

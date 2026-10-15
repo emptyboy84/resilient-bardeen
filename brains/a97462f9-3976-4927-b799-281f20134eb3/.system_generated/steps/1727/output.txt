@@ -1,0 +1,19 @@
+### Result
+[
+  {
+    "value": "BRNO",
+    "text": "사업자등록번호"
+  },
+  {
+    "value": "BZMNNM",
+    "text": "회사명"
+  },
+  {
+    "value": "RPRSVNM",
+    "text": "대표자"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const sel = document.querySelector(\'#searchCnd\');\n  return Array.from(sel.options).map(o => ({ value: o.value, text: o.text }));\n}');
+```

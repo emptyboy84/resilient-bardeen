@@ -1,0 +1,17 @@
+The search for ""제이에이치바이오시스템" OR "1058802863" OR "105-88-02863"" returned the following summary:
+**제이에이치바이오시스템**((주)제이에이치바이오시스템)에 대한 정보는 다음과 같습니다.
+
+*   **기업 개요**: 컴퓨터 시스템 통합 자문 및 구축 서비스업을 영위하는 중소기업입니다[1]. 부산 지역을 기반으로 활동하는 인공지능(AI) 및 데이터 기업 중 하나로 알려져 있습니다[2][3].
+*   **대표자**: 황재섭[4][3]
+*   **사업자등록번호**: 105-88-02863 (질의하신 번호와 일치)[4]
+*   **주요 활동**: 
+    *   부산 AI·데이터 센터 입주 기업으로, 인공지능 기반의 영상 인식 및 의료 영상 분석/진단 분야 등의 솔루션을 다루고 있습니다[2][3].
+    *   특허 정보 등에 따르면 영상 속 캐릭터의 패션 아이템 정보 제공 및 이를 이용한 전자상거래 방법 등에 관한 기술을 보유하고 있습니다[5].
+*   **본점 소재지**: 부산광역시 해운대구 센텀중앙로 97, 에이동 1607호 (재송동, 센텀스카이비즈)[3]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvJMo-Ez0WK7HPnFGBp6SkhwLZ_ocBQkOpBepXnBiSF2DTwNH-5FsPOh46jsvQGi2FtVX-v4b_kT7Z2O_TApRictDlX4dNtNSzQ8LeXZSkWX0lqNd8E9gmTMJ_isHrgKq46ItwBevysc83-PnJkSohF0MFG0ENdiD5vNtLn5TWqCRskUSwz32MKp8K-18DUwPuFPnbmsXoxv0JheG5iZp3M-EdEc0DIGO3q3UZjrUo5qZ6eEYFn3QYvnRgTHUlWgl3-umsTfQQzfFP2e3x9C-7QdU9Lch1e3QgnIR1Qq41OdworJV3a2Q8wL_Pf9DZXKn9lJn7ORFojRUh2j-mmDEV2zK7fCD25XwZcfgl)
+[2] [aitimes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMaDNH6gb7zKMaoD1zmg0sL8DHJKSeaqfOz5JuTbbwnsfutBhUYEIsUepyoeBJlq6kkN2SmU8xucgt3f25X4SiE8JH9KtIS82QtZ4VoOoa2Bat_rayhYgCwIaTcuwWjU1ggxQ7q0XENuB0VeL)
+[3] [gg.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0eIBsl37NmPyhqXz0GZRqdHWEqY0sCMmz5am58Sry6v2G3YQi0AT-PU4wPtPA3oJVKpJhHWmsR8W36dM4MSfiaAwqtcLKXmJoZf1kmBo7aSKfgaj9RzHxNvwfAWimd9FXWaBxdYmhtSoB_B4S8mkWb9uXfrtVbHAATebp5Bs_77-RClozJqlIEhuFI7MmGo1moW-MZo6i31bMqltXO59lyg=)
+[4] [pipa.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmg-1-tHy_-g4eQh7-WwCIxc2aGe6ZGJ5kK1CLfr7QQFRyaxIBLU2V2Lz9hl8QUGhPeOXC-xEjnPlEFn3xfZuSrOsWxkqDoDr1QaG_s_ClqWHyS0rMQov0yAFKdN2kSTsGqRYO5oOXd7FhSCDy047zkio0uRm4bKeEEgAQBFZFM0vv_zGSeOrlSSAfGwhNz3gxtMM2aP_ognwO6nIWGyze08=)
+[5] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAiCKVK9yseK0LkLiTHzM3nLFnW1FU7-YLZy1KuSgMTrZeOAwP41E_M54lb3yeNLNvsJFNpMOGVLDQchbzNCmNEXLStg2PJDok_TLTV787czR9jUMktVlihJlX0A5uLY-1p21g4v3Nbw==)

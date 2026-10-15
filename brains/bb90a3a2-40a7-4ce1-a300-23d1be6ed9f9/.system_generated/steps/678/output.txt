@@ -1,0 +1,308 @@
+### Page
+- Page URL: https://www.114.co.kr/search/result/all?query=%EB%B6%80%EC%82%B0+%EC%8B%A0%EC%B9%B4
+- Page Title: 부산 신카 | No.1 전화번호검색 - 114On
+- Console: 197 errors, 7 warnings
+### Snapshot
+```yaml
+- generic [ref=f2e2]:
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - img "114" [ref=f2e7] [cursor=pointer]
+      - navigation:
+        - heading "주메뉴" [level=2]
+        - complementary [ref=f2e8]:
+          - group "통합검색" [ref=f2e10]:
+            - generic: 검색어 입력
+            - searchbox "검색어 입력" [ref=f2e11]: 부산 신카
+            - button "검색" [ref=f2e12] [cursor=pointer]
+          - link "상세 검색" [ref=f2e13] [cursor=pointer]:
+            - /url: /search
+          - link "지도 검색" [ref=f2e14] [cursor=pointer]:
+            - /url: /search/map
+          - link "사이트맵 전체메뉴" [ref=f2e15] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic: 사이트맵
+            - generic [ref=f2e16]: 전체메뉴
+        - list [ref=f2e17]:
+          - listitem [ref=f2e18]:
+            - link "홍보센터" [ref=f2e19] [cursor=pointer]:
+              - /url: /common/contents/W00005
+          - listitem [ref=f2e20]:
+            - link "이벤트" [ref=f2e21] [cursor=pointer]:
+              - /url: /board/boardList?cat_org_id=EVENT
+          - listitem [ref=f2e22]:
+            - link "회원가입" [ref=f2e23] [cursor=pointer]:
+              - /url: /sign/signupInfo
+          - listitem [ref=f2e24]:
+            - link "로그인" [ref=f2e25] [cursor=pointer]:
+              - /url: /sign/signin
+    - list [ref=f2e272]:
+      - listitem [ref=f2e273]:
+        - link "전체" [ref=f2e274] [cursor=pointer]:
+          - /url: /search/result/all?query=부산 신카
+      - listitem [ref=f2e275]:
+        - link "통신사" [ref=f2e276] [cursor=pointer]:
+          - /url: /search/result/db?query=부산 신카
+      - listitem [ref=f2e277]:
+        - link "공공데이터" [ref=f2e278] [cursor=pointer]:
+          - /url: /search/result/public?query=부산 신카
+  - generic [ref=f2e26]:
+    - generic:
+      - generic [ref=f2e27]:
+        - generic [ref=f2e28]:
+          - generic [ref=f2e43]:
+            - generic [ref=f2e44]:
+              - link [ref=f2e62] [cursor=pointer]:
+                - /url: https://ssl.pstatic.net/static/maps/mantle/notice/legal.html
+                - img "NAVER" [ref=f2e63]
+              - generic:
+                - button "접속위치" [ref=f2e65] [cursor=pointer]
+                - generic [ref=f2e67]:
+                  - link [ref=f2e68] [cursor=pointer]:
+                    - /url: "#"
+                    - img "지도 확대" [ref=f2e69]
+                  - link [ref=f2e70] [cursor=pointer]:
+                    - /url: "#"
+                    - img "지도 축소" [ref=f2e71]
+            - button "큰 지도 보기" [ref=f2e73] [cursor=pointer]
+          - generic [ref=f2e75]:
+            - insertion [ref=f2e303]:
+              - iframe [ref=f2e305]:
+                - generic [ref=f29e1]:
+                  - link "Roblox 무료로 적 제거 다운로드하기" [ref=f29e6] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CNDCLVOLOaomiHIbMrfcP78Ls8QXe_cS-iQGqpcyVuxazkB8QASCamsJlYJuD6YScKaABx_XEvEPIAQGoAwHIA8sEqgTBAk_Qsr08j_S2R5JEQzPdvLFnJjduhTcmy00tkeUp6NT22iaPv5qK_RWflUP0UORJYW-gfHn74Uerwhaf5ISv-Rlr9ZaEwn2opcMlR2pN9AS-vWKCWO4N0smn8mK4DDpGCUjcbxIXQObG375Jdmc9k4KsKJbXppDa5JA8qI4FLf7cDxlPWBZHW2z-iNpCTSw_bKyjO-ynmRHt4B0QP2TGxY7VyN77AywKYaqCLBvl9TxdAmd6hZ1Bl80D7ax59VFx1nSkNwsyeieI4OUez6ZOgV4k2rdc6721SdVmCel-KDwN-2BbsvCvixaNGvko88U7pOpTIeNEXZcbsuRQbkWnXH2Qu7LVsrAUbdax4A0bGYF0tlRyIPLtM3roygc_r-GcaViN3jPszaCrdupNvOo7hnRk80CMUVY-TD89lqvz874tqMAEtIvtpOsFiAXXuMLoWYAHx62VnB6oB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDIIgGEQARgfMgiKgoCAgICACDoPgECAwICAgICogAKog4AYSL39wTpY-eqU6LS4lwNgAbEJMkQV9FEkp7qACgGKCt0BaHR0cHM6Ly9nc2dodC5jb20vYy9zdThvZnQ_Y2FtcGFpZ249MjQxMDk5NDc5OTEmYWRfZ3JvdXA9MjAwNTk4NTcwNDIwJmFkPTgyMzM2OTA1MDEyOCZ0YXJnZXQ9JmNyZWF0aXZlPTgyMzM2OTA1MDEyOCZrZXl3b3JkPSZhZF90eXBlPWQmc2l0ZV9pZD13d3cuMTE0LmNvLmtyJnBsYWNlbWVudD0mZ2NsaWQ9e2djbGlkfSZ3YnJhaWQ9e3dicmFpZH0mZGVzdGluYXRpb25fdXJsPXtscHVybH2YCwHICwHgCwGiDDhiGQoXY29tLnJvYmxveC5yb2Jsb3htb2JpbGVqEwoRY29tLnJvYmxveC5jbGllbnR4AYgBAZABAaoNAktSyA0B6g0TCIWflei0uJcDFQZm6wgdbyE7XvANAogOCdgTDIgUAdAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjI5Njc3MDM5NTZQBroXAjgBqhgXCQAAAAAoCwVBEgoyOTY3NzAzOTU2GAGyGBAKBbWF854CEgKwUxgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIiZyV6LS4lwMVBmbrCB1vITteEAEYASAAEgKHUfD_BwE&num=1&cid=CAQS9AEAQM4h3OLrCLhoscSE0Q6vi-U--zn9wNu5OAs8Cj7-rK7DYCSZmxYSVlbrkJY4PZeN-r0v-BUs8jpUAmAQkhn0WddYKhZrbUviW9IsxeWLCgmCt6OUErdDrrQeQxsjGX7Wsz_wV9I8pF5DkfWvANBeV8fLorIJYyBsC2Y4V2Gig1ouXiW3yb8jMaMoPJvYD_kq9UzKv2md9AQXPmOCzmNuo9M1p0wIa7R9vagwZ6crNitFFWyxbrAIyqi_3WAmdF-8eWRWaMgUGwYJsYLCaKuC-xJYQDtYJ1ZJ35hZiULg7s_7PPxt_ZCZtAXbow6AioMA4wNQGAE&sig=AOD64_31joWjLf66xxY194JtjNCD14uQcQ&rf=1&nb=2&adurl=https://www.roblox.com/ko/spotlight/shooter%3Fshow_app_download%26gsrbx%3D1%26utm_source%3Dadwords%26utm_campaign%3D24109947991%26utm_term%3D200598570420%26utm_content%3D823369050128%26gsc%3D1%26utm_medium%3Dd_5653096%26gad_source%3D5%26gad_campaignid%3D24109947991%26gclid%3DEAIaIQobChMIiZyV6LS4lwMVBmbrCB1vITteEAEYASAAEgKHUfD_BwE
+                    - generic [ref=f29e7]:
+                      - generic [ref=f29e10]:
+                        - generic "Roblox" [ref=f29e11]
+                        - generic "Roblox" [ref=f29e12]: 무료로 적 제거
+                      - generic [ref=f29e15]: 다운로드하기
+                  - generic [ref=f29e21] [cursor=pointer]
+                  - button [ref=f29e26] [cursor=pointer]
+                  - iframe
+            - generic [ref=f2e76]:
+              - heading "통신사 ※ 통신사 정보는 KT, SKT, LGU+ 등 통신사에서 제공하는 정보입니다." [level=2] [ref=f2e77]
+              - link "등록방법" [ref=f2e79] [cursor=pointer]:
+                - /url: /board/boardDetail?cat_org_id=NOTI&bb_id=7329&keyword=114%EB%B2%88%ED%98%B8%EC%95%88%EB%82%B4%20%EC%97%85%EC%B2%B4%EB%93%B1%EB%A1%9D%20%EB%B0%8F%20%EC%88%98%EC%A0%95%20%EB%B0%A9%EB%B2%95&cat_id=1&page_no=1&page_line=10
+            - generic [ref=f2e80]:
+              - list [ref=f2e306]:
+                - listitem [ref=f2e307]:
+                  - link "A 신카서비스 자동차정비/수리 부산 사상구 운산로 72 지번 부산 사상구 괘법동 928-18 051-322-4053" [ref=f2e308] [cursor=pointer]:
+                    - /url: /search/detail?comp_id=3177439&comp_tp_cd=TEL&upjong_cd=592000
+                    - generic [ref=f2e309]: A
+                    - generic [ref=f2e312]:
+                      - term [ref=f2e313]:
+                        - strong [ref=f2e314]: 신카서비스
+                        - generic [ref=f2e315]: 자동차정비/수리
+                      - definition [ref=f2e316]:
+                        - list [ref=f2e317]:
+                          - listitem [ref=f2e318]:
+                            - generic [ref=f2e319]: 부산 사상구 운산로 72
+                            - generic [ref=f2e320]:
+                              - generic [ref=f2e321]: 지번
+                              - text: 부산 사상구 괘법동 928-18
+                          - listitem [ref=f2e322]: 051-322-4053
+              - link "통신사 더보기" [ref=f2e82] [cursor=pointer]:
+                - /url: /search/result/db?query=부산 신카
+            - insertion [ref=f2e326]:
+              - iframe [ref=f2e328]:
+                - generic [ref=f28e1]:
+                  - link "Roblox 무료로 적 제거 다운로드하기" [ref=f28e6] [cursor=pointer]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CpwboVOLOauuyGoHH2roPoMGlqQ7e_cS-iQGqpcyVuxazkB8QASCamsJlYJuD6YScKaABx_XEvEPIAQGoAwHIA8sEqgTBAk_QI5x1D5mcX5HfLv5OUVy-y7OFIDSOhIjlx6Vk_Z7aXP44rm3OyDh5gjeG3t8K5UAZQ6nvmI7NgbnnILI3F-rWxT6L2goMkzez033T-E2p1aFH0ZppVlzCkLyvKuZPH9MWdlnwyzRIqDtL0mYfd94hOxwTMZgP4czFyiqD-m2NNurJ72qpd1xT5-JmpIdQ-5ym3GHZUgicSbgv6y-duzTmdXKe84hf5W9I8dMXyTeDd_J1L3TI9nSTx4yRUlhosUpqYKAIiAF3vNhKRSFXxv-QIGGpMMgb5J7vLxGdZ-RL7bX6qD2abqVwoWxY_TIeBfRDGTUCNHVnruwcaJ5TXIU9jpdKtAjApWXmbwfMgjTJlEimch7qNsHPKRB220XiwRoUAiQ5zASI204tQYBl564wLoOyEMvzriul2s1NxddlWsAEtIvtpOsFiAXXuMLoWYAHx62VnB6oB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB_7osQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5_hsQKoB6brsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDIIgGEQARgfMgiKgoCAgICACDoPgECAwICAgICogAKog4AYSL39wTpY6_-S6LS4lwNgAbEJMkQV9FEkp7qACgGKCt0BaHR0cHM6Ly9nc2dodC5jb20vYy9zdThvZnQ_Y2FtcGFpZ249MjQxMDk5NDc5OTEmYWRfZ3JvdXA9MjAwNTk4NTcwNDIwJmFkPTgyMzM2OTA1MDEyOCZ0YXJnZXQ9JmNyZWF0aXZlPTgyMzM2OTA1MDEyOCZrZXl3b3JkPSZhZF90eXBlPWQmc2l0ZV9pZD13d3cuMTE0LmNvLmtyJnBsYWNlbWVudD0mZ2NsaWQ9e2djbGlkfSZ3YnJhaWQ9e3dicmFpZH0mZGVzdGluYXRpb25fdXJsPXtscHVybH2YCwHICwHgCwGiDEAqBgoE9vKxAmIZChdjb20ucm9ibG94LnJvYmxveG1vYmlsZWoTChFjb20ucm9ibG94LmNsaWVudHgBiAEBkAEBqg0CS1LIDQHqDRMIorCT6LS4lwMVgaNWAR2gYCnl8A0CiA4J2BMMiBQB0BUBmBYByhYCCgD4FgGAFwGyFxAYASoKMjk2NzcwMzk1NlAGuhcCOAGqGBcJAAAAADCG8kASCjI5Njc3MDM5NTYYAbIYEAoFtYXzngISArBTGAEiAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI66yT6LS4lwMVgaNWAR2gYCnlEAEYASAAEgKXL_D_BwE&num=1&cid=CAQS9AEAQM4h3PyxIUJRvNErrGpVJ3hUW-i4OeZdauKlhfHlxv691I-P2Kv479dN5lUQ9rBgcukhC6MhJQRll_FBwYmoozsp63mnDUGHOoJpKArsvJs9B2iRdu9dh16QZizAaUrTxZQOw1EcJpp1jbyVO8uDrGnl5SXTTXC1ZTtkZgtEILPJn6NfAxCD4iCCO_Tq2GuLJphbYha5GtfRhQdZMhEmDsEH5zdDlRrOmvBRr_s5pZhDQNl8_CAu5QMIO1YCXhINNb8MROTES_mhoMP3bWBOc3u_CMWDwdr460dlZA1kksVC-SGNZLPWQscXagULG7-D8fg_GAE&sig=AOD64_13FqLRWzLbQtt70PGyRYkLkSQkRQ&rf=1&nb=2&adurl=https://www.roblox.com/ko/spotlight/shooter%3Fshow_app_download%26gsrbx%3D1%26utm_source%3Dadwords%26utm_campaign%3D24109947991%26utm_term%3D200598570420%26utm_content%3D823369050128%26gsc%3D1%26utm_medium%3Dd_5653096%26gad_source%3D5%26gad_campaignid%3D24109947991%26gclid%3DEAIaIQobChMI66yT6LS4lwMVgaNWAR2gYCnlEAEYASAAEgKXL_D_BwE
+                    - generic [ref=f28e7]:
+                      - generic [ref=f28e10]:
+                        - generic "Roblox" [ref=f28e11]
+                        - generic "Roblox" [ref=f28e12]: 무료로 적 제거
+                      - generic [ref=f28e15]: 다운로드하기
+                  - generic [ref=f28e21] [cursor=pointer]
+                  - button [ref=f28e26] [cursor=pointer]
+                  - iframe
+          - link [ref=f2e334] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - generic [ref=f2e99]:
+            - heading "공공데이터 ※ 공공데이터는 공적으로 오픈된 정보로 114On에서는 수정 및 삭제가 불가합니다." [level=2] [ref=f2e101]
+            - generic [ref=f2e102]:
+              - list [ref=f2e335]:
+                - listitem [ref=f2e336]:
+                  - link "주식회사 신카 통신판매업 [정상영업] 부산광역시 해운대구 센텀동로 **, 센텀에스에이치밸리 ***호 (우동) 지번 부산광역시 해운대구 우동 **** 센텀에스에이치밸리" [ref=f2e337] [cursor=pointer]:
+                    - /url: /search/detail?comp_id=15001813&comp_tp_cd=GOV&godata_tp_cd=LOCALDATA
+                    - generic [ref=f2e341]:
+                      - term [ref=f2e342]:
+                        - strong [ref=f2e343]: 주식회사 신카
+                        - generic [ref=f2e344]: 통신판매업
+                        - generic [ref=f2e345]: "[정상영업]"
+                      - definition [ref=f2e346]:
+                        - list [ref=f2e347]:
+                          - listitem [ref=f2e348]:
+                            - generic [ref=f2e349]: 부산광역시 해운대구 센텀동로 **, 센텀에스에이치밸리 ***호 (우동)
+                            - generic [ref=f2e350]:
+                              - generic [ref=f2e351]: 지번
+                              - text: 부산광역시 해운대구 우동 **** 센텀에스에이치밸리
+                          - listitem
+              - link "공공데이터 더보기" [ref=f2e104] [cursor=pointer]:
+                - /url: /search/result/public?query=부산 신카
+            - insertion [ref=f2e355]:
+              - iframe [ref=f2e357]:
+                - iframe [ref=f30e1]:
+                  - generic:
+                    - link "서든어택 확인하기" [ref=f34e1] [cursor=pointer]:
+                      - /url: https://krrtb.c.appier.net/xclk?bidobjid=VzThUtmABAqqViPUVOLOag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=o50yqiFqSou72WWJVg4k0A&crpid=el8kLmQ_QnqBoCM5vWfkSg&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_70fzKqZz20ox2roy7qGDorf-uY79uqa1orGRKY7BKYWyu1x1w8Q121uVorM9wmA9cDu1K4lEUHM12qG-uYSxJ4u_o1x13LM12qu-uYOPuqa1Jmg9u1x1U8A121uV2nu-uYOPJ1u_uqGzKqd9o4QxujR&ui=CylNZLTE3HlewmOBcmggHDiE34u_uflF3PoVnL7fMRs0c0lmIjla8Liww8Z1K4ljUmOjUbisc8M121l0MIirtIt3JG7-ZiSYUbSuw8zaUfsFtHfWoLZ1K4lYc8Myuqa1ordmKqGxonQVoPw9orfP2qaV2nlO&consent=1&ddhh=orMWod&flanding_rdr=
+                      - generic [ref=f34e2]:
+                        - button [ref=f34e8]
+                        - generic [ref=f34e9]:
+                          - generic [ref=f34e10]: 서든어택
+                          - generic [ref=f34e11]: 확인하기
+                    - button [ref=f34e13] [cursor=pointer]
+        - insertion [ref=f2e159]:
+          - iframe [ref=f2e160]:
+            - generic [ref=f5e2]:
+              - generic [ref=f5e3]: 주문하기
+              - generic [ref=f5e14]:
+                - generic [ref=f5e15]:
+                  - generic [ref=f5e16] [cursor=pointer]
+                  - generic [ref=f5e17] [cursor=pointer]
+                  - generic [ref=f5e18] [cursor=pointer]
+                  - generic [ref=f5e19] [cursor=pointer]
+                  - generic [ref=f5e20] [cursor=pointer]
+                  - generic [ref=f5e21] [cursor=pointer]
+                - generic [ref=f5e22]:
+                  - generic [ref=f5e23] [cursor=pointer]
+                  - generic [ref=f5e24] [cursor=pointer]
+                  - generic [ref=f5e25] [cursor=pointer]
+                  - generic [ref=f5e26] [cursor=pointer]
+                  - generic [ref=f5e27] [cursor=pointer]
+                  - generic [ref=f5e28] [cursor=pointer]
+                - generic [ref=f5e29]:
+                  - generic [ref=f5e30] [cursor=pointer]
+                  - generic [ref=f5e31] [cursor=pointer]
+                  - generic [ref=f5e32] [cursor=pointer]
+                  - generic [ref=f5e33] [cursor=pointer]
+                  - generic [ref=f5e34] [cursor=pointer]
+                  - generic [ref=f5e35] [cursor=pointer]
+                - generic [ref=f5e36]:
+                  - generic [ref=f5e37] [cursor=pointer]
+                  - generic [ref=f5e38] [cursor=pointer]
+                  - generic [ref=f5e39] [cursor=pointer]
+                  - generic [ref=f5e40] [cursor=pointer]
+                  - generic [ref=f5e41] [cursor=pointer]
+                  - generic [ref=f5e42] [cursor=pointer]
+                - generic [ref=f5e43]:
+                  - generic [ref=f5e44] [cursor=pointer]
+                  - generic [ref=f5e45] [cursor=pointer]
+                  - generic [ref=f5e46] [cursor=pointer]
+                  - generic [ref=f5e47] [cursor=pointer]
+                  - generic [ref=f5e48] [cursor=pointer]
+                  - generic [ref=f5e49] [cursor=pointer]
+      - generic [ref=f2e161]:
+        - list [ref=f2e162]:
+          - listitem [ref=f2e163]:
+            - link [ref=f2e164] [cursor=pointer]:
+              - /url: /life/localBillStore/list
+              - img "114는 소상공인과 함께합니다 - 지역화폐 사용처 조회 바로가" [ref=f2e165]
+          - listitem [ref=f2e166]:
+            - link [ref=f2e167] [cursor=pointer]:
+              - /url: /biznumber/list
+              - img "사업자등록번호 업체 조회 서비스 바로가기" [ref=f2e168]
+          - listitem [ref=f2e169]:
+            - link [ref=f2e170] [cursor=pointer]:
+              - /url: /hospital/list?tabType=tab-detail&init=Y
+              - img "전문의부터 등급별 요양병원 조회까지 내 주변 병원, 약국 찾기 서비" [ref=f2e171]
+          - listitem [ref=f2e172]:
+            - link [ref=f2e173] [cursor=pointer]:
+              - /url: /healthcheck/info
+              - img "02-114 상담사가 직접 국가건강검진을 도와드립니다." [ref=f2e174]
+          - listitem [ref=f2e175]:
+            - link [ref=f2e176] [cursor=pointer]:
+              - /url: https://biz-quick.kakaomobility.com/quick/introduction
+              - img "카카오 T퀵 사업자 전용 서비스 상담신청 바로가기" [ref=f2e177]
+        - list [ref=f2e178]:
+          - listitem [ref=f2e179]:
+            - link [ref=f2e180] [cursor=pointer]:
+              - /url: /board/boardDetail?cat_org_id=NOTI&bb_id=7329&keyword=114%EB%B2%88%ED%98%B8%EC%95%88%EB%82%B4%20%EC%97%85%EC%B2%B4%EB%93%B1%EB%A1%9D%20%EB%B0%8F%20%EC%88%98%EC%A0%95%20%EB%B0%A9%EB%B2%95&cat_id=1&page_no=1&page_line=10
+              - strong [ref=f2e181]: 114On 등록/수정 방법
+              - paragraph [ref=f2e182]: 업체정보의 등록/수정/삭제 방법 확인하세요.
+          - listitem [ref=f2e183]:
+            - link [ref=f2e184] [cursor=pointer]:
+              - /url: /connection/telNumQnaList
+              - strong [ref=f2e185]: 전화번호 묻고답하기
+              - paragraph [ref=f2e186]: 원하는 검색결과 없다면, 직접 문의 하세요.
+          - listitem [ref=f2e187]:
+            - link [ref=f2e188] [cursor=pointer]:
+              - /url: /common/contents/W00001
+              - strong [ref=f2e189]: 전화번호 제보하기
+              - paragraph [ref=f2e190]: 내가 아는 그 정보를 알려주세요.
+          - listitem [ref=f2e191]:
+            - link [ref=f2e192] [cursor=pointer]:
+              - /url: /connection/regMyBusiness
+              - strong [ref=f2e193]: 본인등록
+              - paragraph [ref=f2e194]: 사장님/프리랜서 자유롭게 등록하세요.
+          - listitem [ref=f2e195]:
+            - link [ref=f2e196] [cursor=pointer]:
+              - /url: /dbcenter/download114db01
+              - strong [ref=f2e197]: 데이터센터
+              - paragraph [ref=f2e198]: 다양한 DB를 한 곳에서 다운받으세요.
+  - generic [ref=f2e199] [cursor=pointer]: 💬 챗봇상담
+  - insertion [ref=f2e201]:
+    - generic [ref=f2e204]:
+      - heading "도움말과 관련된 주제 중 관심이 있을 만한 항목입니다." [level=2] [ref=f2e206]: 자세히 알아보기
+      - link "포털 둘러보기" [ref=f2e207] [cursor=pointer]
+      - link "검색 팁 확인" [ref=f2e212] [cursor=pointer]
+      - link "광고" [ref=f2e217] [cursor=pointer]
+  - contentinfo [ref=f2e222]:
+    - generic:
+      - list [ref=f2e223]:
+        - listitem [ref=f2e224]:
+          - link "서비스소개" [ref=f2e225] [cursor=pointer]:
+            - /url: /common/contents/W00013
+        - listitem [ref=f2e226]:
+          - link "이용약관" [ref=f2e227] [cursor=pointer]:
+            - /url: /common/contents/W00014
+        - listitem [ref=f2e228]:
+          - link "개인정보처리방침" [ref=f2e229] [cursor=pointer]:
+            - /url: /common/contents/W00015
+        - listitem [ref=f2e230]:
+          - link "공지사항" [ref=f2e231] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=NOTI
+        - listitem [ref=f2e232]:
+          - link "FAQ" [ref=f2e233] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=FAQ
+        - listitem [ref=f2e234]:
+          - link "문의/건의" [ref=f2e235] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=QUESTION
+        - listitem [ref=f2e236]:
+          - link "제휴문의" [ref=f2e237] [cursor=pointer]:
+            - /url: /board/boardForm?cat_org_id=QUESTION
+      - complementary [ref=f2e238]:
+        - generic [ref=f2e239] [cursor=pointer]: Family Site
+    - generic [ref=f2e240]:
+      - generic:
+        - generic [ref=f2e241]:
+          - list [ref=f2e242]:
+            - listitem [ref=f2e243]: kt is
+            - listitem [ref=f2e244]: "대표이사 : 양율모"
+            - listitem [ref=f2e245]: "통신판매업신고 : 제2006-04260호(2006.06.05)"
+            - listitem [ref=f2e246]: "사업자등록번호 : 101-81-71660"
+            - listitem [ref=f2e247]:
+              - generic [ref=f2e248]: (07320) 서울특별시 영등포구 여의대로 14, 10층(여의도동, 주식회사케이티여의도빌딩)
+            - listitem [ref=f2e249]:
+              - text: 오류문의는 1:1이메일문의 또는 문의 게시판을 이용하세요.
+              - link "1:1 이메일문의" [ref=f2e250] [cursor=pointer]:
+                - /url: /chatbot/faq/form
+              - link "오류 신고하기" [ref=f2e251] [cursor=pointer]:
+                - /url: /search/report/companyErrorPage
+          - paragraph [ref=f2e252]: Copyright© 2020 kt is Corp. All rights reserved.
+        - list [ref=f2e253]:
+          - listitem [ref=f2e254]:
+            - link "페이스" [ref=f2e255] [cursor=pointer]:
+              - /url: https://www.facebook.com/media114/
+          - listitem [ref=f2e256]:
+            - link "인스타그램" [ref=f2e257] [cursor=pointer]:
+              - /url: https://www.instagram.com/media114/?hl=ko
+          - listitem [ref=f2e258]:
+            - link "네이버블로그" [ref=f2e259] [cursor=pointer]:
+              - /url: https://blog.naver.com/ktis02114
+          - listitem [ref=f2e260]:
+            - link "유튜브" [ref=f2e261] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCE3obiL_RWa-_aE5g0IaFjg
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-00-45-305Z.log#L494-L1219

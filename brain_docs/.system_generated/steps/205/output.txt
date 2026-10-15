@@ -1,0 +1,10 @@
+The search for "site:bselectric.co.kr OR "bselectric.co.kr" 전화 OR TEL OR 051 OR 070 OR 02" returned the following summary:
+비에스일렉트릭 주식회사(`bselectric.co.kr`)의 웹사이트 정보에 기재된 연락처 및 본사 정보는 다음과 같습니다:
+
+* **본사 주소:** 부산광역시 남구 전포대로 133, IFC부산[1]
+* **이메일(Contact):** bse@bselectric.co.kr[1]
+
+웹사이트 공개 정보상 별도의 대표 전화번호(TEL)는 명시되어 있지 않으며, 이메일(`bse@bselectric.co.kr`)을 통해 문의를 받고 있습니다[1].
+
+Sources:
+[1] [bselectric.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHscuFLG_UVIfjg7_P-UnHZQUl_MQjCTMzJlI9Z17JLn0O-OgEXui4NYtzufvOANbq0GBDGZvc4uqFiotA5-lDpYeW2JDCUvt3I2XCehOvo)

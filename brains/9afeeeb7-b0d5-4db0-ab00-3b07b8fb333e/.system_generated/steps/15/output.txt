@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python.exe
+�: � �Ͽ� �ش�Ǵ� � ã� �߽�ϴ�.
+C:\Program Files\nodejs\node.exe
+

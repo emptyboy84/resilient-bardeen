@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=site:life.easehub.co.kr/film_screenings+"브이알코리아"');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=site:life.easehub.co.kr/film_screenings+%22%EB%B8%8C%EC%9D%B4%EC%95%8C%EC%BD%94%EB%A6%AC%EC%95%84%22
+- Page Title: site:life.easehub.co.kr/film_screenings "브이알코리아" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T00-39-19-368Z.yml)

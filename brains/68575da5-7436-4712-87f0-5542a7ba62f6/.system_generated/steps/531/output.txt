@@ -1,0 +1,23 @@
+Task: 68575da5-7436-4712-87f0-5542a7ba62f6/task-527
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\68575da5-7436-4712-87f0-5542a7ba62f6\.system_generated\tasks\task-527.log
+Log output:
+<truncated 2737 lines>
+
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+-match : '-match' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �
+Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:109
++ ... ȣ�_�Ϸẻ_20261014.txt' -Encoding utf8 | Where-Object {  -match '�ƽ�' }
++                                                            ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (-match:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+
+Last progress: 0s ago

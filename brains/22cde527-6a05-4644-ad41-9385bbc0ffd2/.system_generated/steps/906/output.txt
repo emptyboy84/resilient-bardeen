@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+[
+  'C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\fill_missing_business_numbers\\node_modules',
+  'C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\resilient-bardeen\\node_modules',
+  'C:\\Users\\lg\\.gemini\\antigravity\\worktrees\\node_modules',
+  'C:\\Users\\lg\\.gemini\\antigravity\\node_modules',
+  'C:\\Users\\lg\\.gemini\\node_modules',
+  'C:\\Users\\lg\\node_modules',
+  'C:\\Users\\node_modules',
+  'C:\\node_modules'
+]
+

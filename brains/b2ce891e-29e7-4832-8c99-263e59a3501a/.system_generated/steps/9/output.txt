@@ -1,0 +1,17 @@
+The search for "site:bizno.net "877-88-03313" OR "글로픽스"" returned the following summary:
+기업명: (주)글로픽스[1]
+사업자등록번호: 877-88-03313[1]
+법인등록번호: 180111-1546796[1]
+대표자명: 여일석[1]
+설립일(신고/인허가일): 2024년 7월 1일[1]
+사업자 상태: 계속사업자 (부가가치세 일반과세자)[1]
+업태: 도매 및 소매업[1]
+업종: 경 인쇄업 (제조업)[1]
+기업 구분: 중소기업 (영리법인)[1]
+종업원수: 3명[1]
+본사 주소: 부산광역시 강서구 명지국제2로28번길 26, 501호(명지동)[1]
+홈페이지: https://smartstore.naver.com[1]
+통신판매업신고번호: 2026-부산해운대-0792[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_7O8Y4SquUpjjUGpnQ1E9d84XfoGR3u_SAgRLE7chlELKMyHF9zgeoPpJ1iUvrWB5okESVF5jswh2vh-0ApRjXQ2iVuizl3a_q5AnkQLs8tJOyxFZkRBr0k=)

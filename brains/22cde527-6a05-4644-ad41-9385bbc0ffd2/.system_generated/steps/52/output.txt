@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                                                                             Le
+                                                                                                                     ng
+                                                                                                                     th
+--------                                                                                                             --
+C:\Users\lg\Desktop\�\(�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž.csv 45
+
+
+

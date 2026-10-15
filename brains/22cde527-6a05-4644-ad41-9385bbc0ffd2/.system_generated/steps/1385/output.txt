@@ -1,0 +1,147 @@
+
+The command exited with code 0.
+Output:
+Total blanks: 228
+[
+  {
+    "rowNumber": 126,
+    "seq": 126,
+    "gubun": "25년 모집단",
+    "name": "블루호텔레코딩스튜디오",
+    "year": "2003",
+    "month": "1",
+    "ceo": "김현",
+    "phone": "010-3568-1004",
+    "fax": "",
+    "gu": "금정구",
+    "address": "부산 금정구 장전1동 383-9 지하(다른 정보 안나옴)",
+    "category": "음악"
+  },
+  {
+    "rowNumber": 504,
+    "seq": 504,
+    "gubun": "25년 모집단",
+    "name": "89Light",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "0507-1314-6280",
+    "fax": "",
+    "gu": "동래구",
+    "address": "부산 동래구 충렬대로100번나길 6",
+    "category": "공연"
+  },
+  {
+    "rowNumber": 508,
+    "seq": 508,
+    "gubun": "25년 모집단",
+    "name": "LINC",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "애니메이션"
+  },
+  {
+    "rowNumber": 536,
+    "seq": 536,
+    "gubun": "25년 모집단",
+    "name": "김정보",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "",
+    "fax": "",
+    "gu": "남구",
+    "address": "남구",
+    "category": "출판"
+  },
+  {
+    "rowNumber": 537,
+    "seq": 537,
+    "gubun": "25년 모집단",
+    "name": "꿈해몽",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "051-337-6320",
+    "fax": "",
+    "gu": "사상구",
+    "address": "부산 사상구 주감로 187",
+    "category": "출판"
+  },
+  {
+    "rowNumber": 539,
+    "seq": 539,
+    "gubun": "25년 모집단",
+    "name": "나래바람",
+    "year": "2012",
+    "month": "12",
+    "ceo": "",
+    "phone": "051-612-2133",
+    "fax": "",
+    "gu": "남구",
+    "address": "부산광역시 남구 분포로 111, 105동 2002호 (용호동, LG메트로시티)",
+    "category": "출판"
+  },
+  {
+    "rowNumber": 547,
+    "seq": 547,
+    "gubun": "25년 모집단",
+    "name": "냉이영화",
+    "year": "2003",
+    "month": "",
+    "ceo": "",
+    "phone": "010-6893-4870",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "영화"
+  },
+  {
+    "rowNumber": 552,
+    "seq": 552,
+    "gubun": "25년 모집단",
+    "name": "녹생광고연합그린하우징",
+    "year": "",
+    "month": "",
+    "ceo": "박명섭",
+    "phone": "051-442-2688",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "광고"
+  },
+  {
+    "rowNumber": 568,
+    "seq": 568,
+    "gubun": "25년 모집단",
+    "name": "단디콤",
+    "year": "",
+    "month": "",
+    "ceo": "",
+    "phone": "051-313-3449",
+    "fax": "",
+    "gu": "동래구",
+    "address": "부산 동래구 중앙대로1381번길 11",
+    "category": "게임"
+  },
+  {
+    "rowNumber": 589,
+    "seq": 589,
+    "gubun": "25년 모집단",
+    "name": "도서출판국제",
+    "year": "2006",
+    "month": "",
+    "ceo": "",
+    "phone": "051-469-5204",
+    "fax": "",
+    "gu": "",
+    "address": "",
+    "category": "출판"
+  }
+]
+

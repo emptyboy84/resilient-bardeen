@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://m.map.naver.com/search2/search.naver?query=블루레코딩');
+```
+### Page
+- Page URL: https://m.map.naver.com/search?query=%EB%B8%94%EB%A3%A8%EB%A0%88%EC%BD%94%EB%94%A9
+- Page Title: 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-43-41-519Z.yml)

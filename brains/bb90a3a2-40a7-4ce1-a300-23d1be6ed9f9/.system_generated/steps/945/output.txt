@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+Kobis status: 200
+Kobis len: 58052
+Company links in Kobis: null
+Phones in Kobis: [ '02-6261-6573' ]
+ class="tf_comm">
+                              
+                         
+                         
+                             대표자명 
+                               
+                         
+                         
+                        	<button type="button" class=
+

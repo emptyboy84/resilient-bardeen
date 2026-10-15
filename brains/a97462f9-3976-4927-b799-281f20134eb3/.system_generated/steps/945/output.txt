@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+=== INSPECTING PHONE VALUES ===
+Empty phones count: 254
+Non-standard phones count: 33
+Weird phones: [
+  { rowNum: 9, name: '유비플러스', phone: '1544-3486' },
+  { rowNum: 150, name: '부산정보통신', phone: '1577-5020' },
+  { rowNum: 165, name: '카메디아스퀘어', phone: '1544-0871' },
+  { rowNum: 198, name: '유시스', phone: '1544-8156' },
+  { rowNum: 317, name: '주)우리만세', phone: '1599-2032' },
+  { rowNum: 341, name: '파파야나인', phone: '1644-9508' },
+  { rowNum: 383, name: '주식회사 펏스원', phone: '010-225-52382' },
+  { rowNum: 509, name: '가온메탈', phone: '051-806-4474 1599-2234' },
+  {
+    rowNum: 531,
+    name: '금강채널.LED',
+    phone: '051-207-6176~7/051-754-4795'
+  },
+  {
+    rowNum: 535,
+    name: '로터스프로그게임즈',
+    phone: '010-2083-2283 070-7366-2280'
+  },
+  { rowNum: 543, name: '맵시', phone: '0507-1331-6071 070-4469-0213' },
+  { rowNum: 544, name: '나우유컴퍼니', phone: '02-830-3041 1533-5654' },
+  { rowNum: 549, name: '네츄럴코어전문판매점', phone: '010-8945-7902 1588-3819' },
+  { rowNum: 567, name: '다인컴즈', phone: '051-612-0234 0507-1405-023' },
+  { rowNum: 662, name: '로드랩', phone: '1588-7274' },
+  { rowNum: 703, name: '주식회사 브이드림', phone: '1644-8619' },
+  { rowNum: 716, name: '미디어지음', phone: '010.9709.9400' },
+  { rowNum: 956, name: '엑스원', phone: '1599-1086' },
+  { rowNum: 995, name: '오오씨아이', phone: '051-8915597' },
+  { rowNum: 1238, name: '푸드팡', phone: '1577-2150' },
+  { rowNum: 1380, name: '부국위너스', phone: '1644-1109' },
+  { rowNum: 1432, name: '에코웰', phone: '1600-3226' },
+  { rowNum: 1441, name: '오프라이스', phone: '1644-1025' },
+  { rowNum: 1742, name: '우리기획', phone: '051-16883363' },
+  { rowNum: 1847, name: '리뷰노트', phone: '1877-2163' },
+  { rowNum: 1890, name: '메타하우스', phone: '1811-6532' },
+  { rowNum: 1896, name: '비욘드허니컴', phone: '1833-6978' },
+  { rowNum: 1939, name: '나이스핀테크', phone: '1688-2904' },
+  { rowNum: 1940, name: '야놀자', phone: '1644-1346' },
+  { rowNum: 2065, name: '브랜드스퀘어', phone: '1551-9622' },
+  { rowNum: 2131, name: '피엘지', phone: '1644-9051' },
+  { rowNum: 2140, name: '센디', phone: '1599-3288' },
+  { rowNum: 2141, name: '페이타랩', phone: '1644-8725' }
+]
+

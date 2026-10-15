@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+m639 in missing_421: {
+  rowNumber: 639,
+  rowIndex: 638,
+  seq: '638',
+  gubun: '25년 모집단',
+  name: '디자인에코',
+  ceo: '',
+  phone: '',
+  address: '부산 금정구 장전동 222-39 서강빌딩 4층',
+  category: '캐릭터'
+}
+

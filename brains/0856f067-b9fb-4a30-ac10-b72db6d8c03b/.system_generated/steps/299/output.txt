@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?where=blog&query=%22%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?where=blog&query=%22%EA%B4%B4%EC%A0%95%EB%A7%8C%ED%99%94%22
+- Page Title: "괴정만화" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-18T02-38-13-480Z.yml)

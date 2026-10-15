@@ -1,0 +1,30 @@
+The search for ""비공연 예술가" "한국표준산업분류" OR "KSIC"" returned the following summary:
+한국표준산업분류(KSIC)에서 **"비공연 예술가"**는 다음과 같이 분류됩니다.
+
+### **분류 정보**
+*   **코드:** **90132**[1][2]
+*   **대분류:** R 예술, 스포츠 및 여가관련 서비스업[3][4]
+*   **중분류:** 90 창작, 예술 및 여가관련 서비스업[3][4]
+*   **소분류:** 901 창작 및 예술관련 서비스업[3][4]
+*   **세분류:** 9013 자영 예술가[3][2]
+
+### **정의 및 범위**
+*   **정의:** 독립적으로 공연 외의 예술 활동에 종사하는 예술가를 의미합니다[5][3].
+*   **주요 활동(예시):**
+    *   저술가, 작가, 만화가[5][3]
+    *   화가, 조각가, 도예가, 미술조각가[5][3]
+    *   영화감독, 사진감독[5][3]
+    *   프로듀서, 작사가, 작곡가[5][3]
+    *   무대 및 조명 디자이너(자영), 회화 복원가[5][3]
+*   **제외되는 업종:**
+    *   상업 미술가(73203)[5][3]
+
+이 분류는 통계청의 한국표준산업분류(최신 11차 기준 포함)를 따르며, 사업자등록 시 업종 선택 등에 활용됩니다[5][3][6].
+
+Sources:
+[1] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1dpqb9932iuGEoLGyhHVRuFTbllYEOP-C2NwD8TjSEzxuLHEvh3KZAvUK93tWaGIXQpZDPaKxd9lJOj3jI9bfKBMv2gFBzRI54FF2qTBZZlbRZBWhxqsrC2_a13VYlA3Syk3xUVE=)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyNYljKnaM7V3yj6AQNAh9al6XWmRL4V4RaezbE_71eoYLxwtz8bQM2_IFV9h_Fqte904GCgZ0kShseRpEFxfjIIRuJMFci5Z8Qk5--pqjNqlYPgJwwPVlv7hL9rBfX3RCOg3Xe_PggGjv58luJ0xaDaspgkCBWiLhpA6EtRidDyi9Yc-F7JpFwwcG65vXZNNFsaNihIQFsPUVvdioFfvCESZkBx_gdthNljgnp2TTqJlnA4FePuePu_0JDXsHAV08Mu_l2Z1dx1fvuJ48yC-sIr47xINUEkT-18HFrPQx_LYV7uqaynbArdcP6r0_tP9DQGqAjVEsJVVKktirVu4bUS1xFqOqke2hEUBmFTxWG_YhanRWsGBgioHMF5kiVMOfA3ztFwNQH2ladn53oa6nbQnggrMJQ22ceCacAl0tEHrWe--rASM3UZ2C8nQ0wHqBmtns70ZKcGzuUw==)
+[3] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCFj-5oQoK2hsNss0rydVpq-3mJnBhOnD6JlDP_Kd_N35k_L9z82RdL5QEZb22ns3WAxJeB32NYx7vVtj9_37rGTx1pTokyAn7GQoHpOh4J05LeNlKiFO2kdO2WOnGR6x9OtAi0c4xyKvdj2d)
+[4] [igs.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_XGTzr7493GNKrDosOgysQLkvKHzFwpw0G63e_BIIIMw3-Sh225quA9wB4gKTf-8DixntQvlM1EeNz4Xup5vaHdH8fKY_F70HtxZl0TFs0Eb9byIwAKVIm8CiLgqB7tVWk4g1yg32isW6p93gOqGlmqaS8g9s1sqp23QWt9A=)
+[5] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZNSuBHB40DbBD0Sg1CPNmcEGDjRDWYrHU72R6efprkALSqdBZ5Suz1MB25GRa2rC9QU_Tapr2eVMOJLWoe4G0itPylg5JLFMNe5OqFzotFCoIWhfKs0gj21SONNioYlCAjX3H0a6p)
+[6] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH24wzHorIKiLF1T0QfyBFsjEQ-V_P7OswtbR0V0WoaIfNmE2Cbn-SCT9F5O_QbSVRZdFRBF2vYOmhiSPjzbQrIHn8es3asebWsH4VaXcCJmYueScn_-luRk6vYCfJGqDV-bx3m2-Pc)

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+Yesterday map size: 1095, Deep4 map size: 3710
+Target currently has: 800
+Can fill from Yesterday (clean): 118
+Can fill from Deep4 (clean): 887
+Masked in Deep4 (needs unmasking/deep search): 191
+Still completely empty (needs deep search): 1982
+

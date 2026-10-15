@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=양재호');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EC%96%91%EC%9E%AC%ED%98%B8
+- Page Title: '양재호' - 검색상세
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T01-47-53-365Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T01-47-52-316Z.log#L1

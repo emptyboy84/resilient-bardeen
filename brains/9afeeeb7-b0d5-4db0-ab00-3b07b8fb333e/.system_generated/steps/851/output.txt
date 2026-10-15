@@ -1,0 +1,30 @@
+Task: 9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e/task-835
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\9afeeeb7-b0d5-4db0-ab00-3b07b8fb333e\.system_generated\tasks\task-835.log
+Log output:
+<truncated 39 lines>
+테크노파크 제메카동 지하1층 제비107호 (성산동)
+Col 08 | 전화번호: 0507-1446-0941
+Col 13 | 설립일자: 20150127
+Col 18 | 업종(NICE BizINFO(업종)참고: 금속 절삭기계 제조업
+Col 24 | 사업자번호: 5043176078
+--- Row 18057 ---
+Col 03 | 회사명: 보연기업
+Col 04 | 사업자번호: 6338803052
+Col 07 | 주소: 경남 거제시 장평3로 80 (장평동)
+Col 13 | 설립일자: 20231115
+Col 15 | 종업원수: 7
+Col 18 | 업종(NICE BizINFO(업종)참고: 선박 구성 부분품 제조업
+Col 24 | 사업자번호: 6338803052
+--- Row 20419 ---
+Col 03 | 회사명: 보연
+Col 04 | 사업자번호: 8990100125
+Col 05 | 대표자: 김혜진
+Col 07 | 주소: 부산광역시 해운대구 센텀중앙로 90, 14층 1407,1408 (재송동)
+Col 08 | 전화번호: 010-4443-2564
+Col 13 | 설립일자: 20150918
+Col 15 | 종업원수: 3
+Col 18 | 업종(NICE BizINFO(업종)참고: 비주거용 건물 임대업
+Col 24 | 사업자번호: 8990100125
+
+Last progress: 6s ago

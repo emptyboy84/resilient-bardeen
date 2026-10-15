@@ -1,0 +1,7 @@
+Title: Live Content
+
+OG Description: Fetched live
+
+The full content of the article at https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_xjjCXcJfAQgYyOmolv6bTZqA_YM1g3mgOcmK1L4oTb7uWxC2qbkrjtoXPb-eBEj07qo4iQCdZY9B7mhfIfuksNSzgU0deW-IwbUMltNKG9MtrwsdsPTInlymbfNZQDmCTq_o24u60oTkqlxQ0zkjHZOmOxX27NjjDoov6xDBBxTT8sTG0zFNg7KY7QzE6qpbC27VSUL2fenZ-7mA1QzTI48d9c4nBK7ndwuiilRVz1Xr2qvoLmw-fGqXZgylqTNRlXBUQ0l3BVVwpJH2WE9hZyLDhjOjSKhi8iRQMAoKYPUJKLBjgAWkKd2dCdg3ynBU2lRK2BFaa9BswNbrqFVxq37zNGg-VE8Wm4P40E_-JWbjPhjmGdSaaKr19g== has been saved to: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\steps\1454\content.md
+
+You can use the view_file tool to read specific sections if needed.

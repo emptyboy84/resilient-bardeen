@@ -1,0 +1,34 @@
+The search for ""인발강관" "한국표준산업분류" OR "KSIC" OR "1차 철강" OR "강관 제조업"" returned the following summary:
+인발강관과 관련된 한국표준산업분류(KSIC)는 수행하는 구체적인 제조 활동에 따라 크게 두 가지로 분류됩니다.
+
+### 1. 강관 제조업 (분류코드: 24132)
+일반적으로 원자재를 가공하여 인발강관을 직접 제조하는 활동은 **'강관 제조업(24132)'**으로 분류됩니다[1][2].
+*   **해당 활동:** 인발법, 압출법, 단조법 등을 사용하여 철강관(무계목 강관, 정밀 인발강관 등)을 제조하는 활동[1][2][3][4]
+*   **참고:** '냉간인발강관', '인발 철강관 제조' 등이 이 분류의 색인어에 포함됩니다[2][4].
+
+### 2. 강관 가공품 및 관 연결구류 제조업 (분류코드: 24133)
+이미 생산된 강관을 구입하여 2차 가공하거나, 재생 인발하는 활동은 **'강관 가공품 및 관 연결구류 제조업(24133)'**으로 분류됩니다[5][6][7].
+*   **해당 활동:** 구입한 강관을 절단, 절곡, 나사골 내기 등으로 가공하는 활동, 또는 **중고 강관을 재생 인발**하여 제조하는 활동[6][8][9]
+*   **참고:** 단순히 강관을 유통/판매하는 경우라면 제조업이 아닌 **'1차 금속제품 도매업(46721)'**에 해당할 수 있습니다[10][11].
+
+---
+
+**요약하자면:**
+*   **직접 제조(신재):** 강관 제조업 (24132)[1][2]
+*   **재생 인발 또는 단순 가공:** 강관 가공품 및 관 연결구류 제조업 (24133)[6][8]
+*   **도매/유통:** 1차 금속제품 도매업 (46721)[10][11]
+
+사업자 등록이나 공장 등록 시에는 해당 업체의 구체적인 공정(원자재 사용 여부, 가공 방식 등)을 확인하여 가장 적합한 코드를 선택해야 합니다[10][11].
+
+Sources:
+[1] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNsjTs-RX5d7-XgmwNIaM71xeDPiinX6vBY7D4KIKsHd9Suh6KUZAUTeve4JmaGAl5kXN3wq-pgNft5utYI1mmCOD81AxdplAPpVNbUcjJyqccKcwrtNSC2cwh5qcM1i5qai20p5ELGc45Noby3L9oDjpOtmDuwob9Y20GG2w=)
+[2] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-193DL4nrGnypFqtOYiyL73mfi-AiNbbuW6a3V4W7H9w7NQaYMqrM2QewLrq7fsghZHLQiys32RFxvQmkD_Wq026xaWZH08xYc8ReP6w-R_OMNDnNP5wXyBWSDBxrmizDLVcaU5M=)
+[3] [narastat.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExj2O4Sm5nl33eV5uJX4M3t_7SS3CcxqpmVbpgJrb01VTvsMrK3uzK6C-kAZRA_FYI_msEmhXKOUlQtvv5uvuERV4-KJwycUoggcszwKKqiXCsWw5rV6MXAqeqReFmZ0IE2IhQOosIwlMViyu3U-xk1g==)
+[4] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-193DL4nrGnypFqtOYiyL73mfi-AiNbbuW6a3V4W7H9w7NQaYMqrM2QewLrq7fsghZHLQiys32RFxvQmkD_Wq026xaWZH08xYc8ReP6w-R_OMNDnNP5wXyBWSDBxrmizDLVcaU5M=)
+[5] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcLR2qE_JvtPXnPPVcVNpFQ4KzPZOLDmg9aaCkCHmbXEplfxsowAe_GHYI1_WLwI3Ju2R7gvz0AWgdVPp9rGNE7bLc7y_h_hMcm2nxWh9nzM4r-M9JA3EWHzrw7KZY8_hJ0ZeSO7pV20CoCDMwo-a2FmgZFv93R4Izz2l_vOg=)
+[6] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbvOYVwtTeXkuwhohbXRvdDNY7lO_WyfQH3PyXMaHzTGy3Z5iCLe5DQvsTj2IzpBTPMU5kragjQKTA6Wv6Rj9Q52yjvtU6yVmnnjy7gZ9NoFQfsCpTK_Kt7eZJbGOnE6A0AWilXULT)
+[7] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcLR2qE_JvtPXnPPVcVNpFQ4KzPZOLDmg9aaCkCHmbXEplfxsowAe_GHYI1_WLwI3Ju2R7gvz0AWgdVPp9rGNE7bLc7y_h_hMcm2nxWh9nzM4r-M9JA3EWHzrw7KZY8_hJ0ZeSO7pV20CoCDMwo-a2FmgZFv93R4Izz2l_vOg=)
+[8] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMYOKuImVG3jAHoWmkpJBIKh22t8kImAFy5m4Z-O3kOCUfmWg-_lKLOsMtueS9I2ye4AoGYn4e8LS5fRTRF5QlVy-FUq3PCqpx4Va9D4znmJkxsNUfLBCnpt-RWPooLtzJMRC5utw=)
+[9] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcLR2qE_JvtPXnPPVcVNpFQ4KzPZOLDmg9aaCkCHmbXEplfxsowAe_GHYI1_WLwI3Ju2R7gvz0AWgdVPp9rGNE7bLc7y_h_hMcm2nxWh9nzM4r-M9JA3EWHzrw7KZY8_hJ0ZeSO7pV20CoCDMwo-a2FmgZFv93R4Izz2l_vOg=)
+[10] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbP8uUBouXJrhPhIZ6rJHe3Zi7JrX8kzupyYXbEk3jhS1_5mVh-JeIJgdhR_f9YyEaQar68VeFHtWap7QZCqRDbSIVGESeTFc-nwnSnL-uOufF0fCaA6IqQMaFl8SpMlYoztlzqI=)
+[11] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK6obNvgB0cPQZs6Ogt9N0arnfM0oCuruTh7MRhKL3VTv-ApN-9HEScAweXsDZfHzEnp2dX7drj33ZGoXZnR-B5HW3STVdXHCVf7_aAVlx_eHlckQMNxb4TNsYD75vYq_tbpLK5lKP)

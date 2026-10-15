@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:53 �:57
++     const b = (r[bizIdx] || '').replace(/[\"\'\s-]/g, '');
++                                                         ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:57 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:58 �:30
++ console.log('Total missing:', missing.length);
++                              ~
+',' �ڿ� � �ϴ�.
+�ġ �:58 �:31
++ console.log('Total missing:', missing.length);
++                               ~~~~~~~~~~~~~~
+� �Ǵ� � �ġ � 'missing.length' �ū�Դϴ�.
+�ġ �:58 �:30
++ console.log('Total missing:', missing.length);
++                              ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:58 �:45
++ console.log('Total missing:', missing.length);
++                                             ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:59 �:33
++ console.log('First 10 missing:', missing.slice(0, 10));
++                                 ~
+',' �ڿ� � �ϴ�.
+�ġ �:59 �:34
++ console.log('First 10 missing:', missing.slice(0, 10));
++                                  ~~~~~~~~~~~~~
+� �Ǵ� � �ġ � 'missing.slice' �ū�Դϴ�.
+�ġ �:59 �:33
++ console.log('First 10 missing:', missing.slice(0, 10));
++                                 ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:59 �:54
++ console.log('First 10 missing:', missing.slice(0, 10));
++                                                      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

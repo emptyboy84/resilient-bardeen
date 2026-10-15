@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Total lines: 719
+Line 0: <USER_REQUEST>
+Line 1: 회사명	사업자번호	대표자	우편번호	주소	전화번호	팩스번호	홈페이지	이메일	종업원수	업종(NICE BizINFO(업종)참고	법인번호	결산월	업종_대	업종_중	업종_소
+

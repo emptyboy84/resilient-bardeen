@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+C:/Users/lg/resilient-bardeen                                                               20488d3 [master]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/fill_missing_business_numbers   20488d3 [fill_missing_business_numbers]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_buddhist_tv_number         20488d3 [find_buddhist_tv_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/find_industry_code_6040126041   20488d3 [find_industry_code_6040126041]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/genoray_busan_business_number   20488d3 [genoray_busan_business_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/import_company_database_list    20488d3 [import_company_database_list]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/issue_0507_tracker              706713c [issue_0507_tracker]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/jonathan_eunseok_task           20488d3 [jonathan_eunseok_task]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/miu_design_registration_update  f662d66 [miu_design_registration_update]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/parse_busan_company_data        20488d3 [parse_busan_company_data]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/ticket_0507_1447_1309           706713c [ticket_0507_1447_1309]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_corp_reg_number        20488d3 [validate_corp_reg_number]
+C:/Users/lg/.gemini/antigravity/worktrees/resilient-bardeen/validate_db_final_check         f352cd0 [validate_db_final_check]
+

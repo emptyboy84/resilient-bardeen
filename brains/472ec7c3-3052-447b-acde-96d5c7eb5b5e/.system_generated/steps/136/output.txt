@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+package.json header: {
+  size: 1029,
+  unpacked: true,
+  integrity: {
+    algorithm: 'SHA256',
+    hash: '16684c89ed23a149d35dc7358f1d64fef7ab3661c5e1f84f7b6da825add24ea7',
+    blockSize: 4194304,
+    blocks: [
+      '16684c89ed23a149d35dc7358f1d64fef7ab3661c5e1f84f7b6da825add24ea7'
+    ]
+  }
+}
+

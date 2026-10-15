@@ -1,0 +1,15 @@
+The search for ""부산광역시 중구" "남포동4가 19" OR "구덕로 19" 사업자등록번호 OR 대표자 OR "족보"" returned the following summary:
+문의하신 **부산광역시 중구 남포동4가 19** 주소지와 관련하여 확인된 정보는 다음과 같습니다.
+
+*   **관련 업체명:** '족보만드는곳 족보관' 또는 '한국족보도서관'이라는 명칭으로 해당 주소지가 언급되고 있습니다[1][2][3][4].
+*   **연락처:** 해당 업체와 관련하여 051-248-9529[1][5] 또는 051-242-9928[2][3] 번호가 수집된 정보에 포함되어 있습니다.
+
+다만, 사업자등록번호나 대표자 성명과 같은 상세 개인/기업 정보는 공개된 데이터베이스상에서 '미확인' 상태이거나 구체적인 정보가 제공되지 않고 있습니다[5][2][6]. '구덕로 19' 주소지 또한 요청하신 '족보' 관련 키워드와 직접적으로 연결된 정보는 확인되지 않았습니다.
+
+Sources:
+[1] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1BXR5DAeLAuOnXINeq97JR0qI_dpLwkG1pmhpcVRImA_XbGYHG3riLkrliwTTe3h_JFyHGvKu_TfzJmL55mqBhS1uDTgNthoy_r7Bvdp0Vz4_h-RwnZ4BxDQU1WSzT7TsRtwGqFoYRlGuGE9dBl2ajK0-kZJtIEm1u8ihPPKcjjUdSde1by57rVu3QO5EGAjkDKp1IFDjbcNcFEuRmcjqx4qY3aH99CaRkjv8uLOfNJO_bzQYxVPPSMc8emGxm86ll5obyPdWBCHlWqo=)
+[2] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgjP1Sf8md6OmvU7TAwi0o4bTGfOUfYX6l4y4O1RFxQVJkTMrMIUkQSK7bxgdHjB3NvblZzU6n2_dB4TKTVZFbUqIKt1GQm6sa5JnIi-7Wk0S21l6bjbt7BqJL3NreahAJhcq3CDumt3JZMKeR9in2t6MnvQUqMv734GIYcS1bJGwlHqtW1p_iJUMEwJxvaR_m5__i7lCUUXEGolfLFAx1Zw2q0A==)
+[3] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH679pYDHPAVspVKGx2MJrTPB7SI8Y_xYD9I99gKthtwMJQS1q4rPzawY3lntnkQ7mwMH706ZPgH480bzqX0sNKHSO1ssJBuXzyRyudHDPwq8ML6niCWppubmo8mDcTBQC-2kA9eD87AEXfD_iLVZfUfsTHqYIcL_-7OtdWkDjoedNvDK9FQfm0jrJz6y5uxx9Kt8yuwzREL32-Jc2fBTRyUYTK6cvsdMAIS5xzASn_tkqukk11LqnoD4BbaPzE)
+[4] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKsIGXn8iTwnL5u0_7A2yu3NAsXEovHSaovjD-aq1YQjYDSNcQ-JysEmwXvIDLF1ANlG0vvLGEqHped75SN3llriblxi9iisCnGJoy2SLllMdwBaAo3yHFXKghh6ul79YhYBvU91buRZhEGun_TyVNkm5asFAw2FpLvpVBurENNH8wrWfu5hpHFrI2GWlClcKk6h3p4GdKfjCrL52ryY8YqaJKCT7DWzxSjYQLdvn3WXE=)
+[5] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKsIGXn8iTwnL5u0_7A2yu3NAsXEovHSaovjD-aq1YQjYDSNcQ-JysEmwXvIDLF1ANlG0vvLGEqHped75SN3llriblxi9iisCnGJoy2SLllMdwBaAo3yHFXKghh6ul79YhYBvU91buRZhEGun_TyVNkm5asFAw2FpLvpVBurENNH8wrWfu5hpHFrI2GWlClcKk6h3p4GdKfjCrL52ryY8YqaJKCT7DWzxSjYQLdvn3WXE=)
+[6] [nett.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwSdlB6M7hch0-r1lCmftP8TsM98NwVtuTIeyObbRnTtHhyJeunyu6VrXSoYIpBAOT4jRWcVp8vYIFujiUe2S-Pao44Gsi4YSL7dCKiJOhG_18ZSfdgeeVljIUYJWB4rVidWe3RtjKHEYSSPrAk9mlQA9IEze9gO9IpTBZ6Q4WiQ8JhCxyR6n637JmobQf0MdflLduIuHT-p-_NHnvDqlNqQiUMDiWBZzpvbZ8J7iQU4aeCVNqMvstty5mY1DYECU=)

@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+{
+  size: 135148,
+  offset: '17931',
+  integrity: {
+    algorithm: 'SHA256',
+    hash: '42207090bf2d20de883e810f4b134c1471e00720406a581d770075c81ae7ce6f',
+    blockSize: 4194304,
+    blocks: [
+      '42207090bf2d20de883e810f4b134c1471e00720406a581d770075c81ae7ce6f'
+    ]
+  },
+  executable: true
+}
+

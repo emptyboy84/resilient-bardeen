@@ -1,0 +1,13 @@
+The search for ""탑플랜트" "노정하" OR "바깥어만길"" returned the following summary:
+탑플랜트(주)에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** 탑플랜트(주)[1][2]
+*   **대표자:** 노정하[1][2]
+*   **소재지:** 경상남도 창녕군 도천면 바깥어만길[1][2]
+
+해당 기업은 건설업 관련 기업으로 확인되며[1][2], 창녕군 도천면 바깥어만길 일대에 사업장 주소를 두고 있는 것으로 나타납니다[1][3][2].
+
+Sources:
+[1] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL4XEm9UR4lVEvU1z_J9hiEHCUYA1eXlQRY0hkjGxeXRxlStlsBD7CCx8EslbadeYOh73wpcrD5UUPbrTL8E6K4R_jP2bAF3qcNsUgqYgrFk0wmk0duE46Kq8H_UHawjIRx5zx75rmhVgmHXSNx3FC)
+[2] [sankun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL4XEm9UR4lVEvU1z_J9hiEHCUYA1eXlQRY0hkjGxeXRxlStlsBD7CCx8EslbadeYOh73wpcrD5UUPbrTL8E6K4R_jP2bAF3qcNsUgqYgrFk0wmk0duE46Kq8H_UHawjIRx5zx75rmhVgmHXSNx3FC)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxNCVpF9h9PtxxDZxtE019JlNC7ugIjt--ifRl8i_Vj-RvEH4mvh7ueK84quNncSSmEGNuAeOA-Cg2obx9H8Y8nTgb8h-MbRcK6yNQRWrucuxFLFbZMr6X5SPFAzu6HXirqVZ_tIVY6aOwaoEuhWu8fpK9-lfuJUhiUuNeXT7mKVQhu3SOq4QZEuEBlAOxbcuD1iod3CsAbZ9UglWLT88AdsqMxVZtRR4Cq5XlTcaUY3CyWjfzCuUJ8Pxr1zuTshf1VTS2bnMSLfaCcjxyAZSVJelnu29IiB_UFglwx0ze51rd5Oyt1dzQI7V2Yqs4Mx_RUbZjy24ADWJNBvzf1PxH9j074qGYl1E0q7avqA==)

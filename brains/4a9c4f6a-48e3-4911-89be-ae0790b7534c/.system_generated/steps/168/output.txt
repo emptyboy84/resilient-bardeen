@@ -1,0 +1,18 @@
+The search for ""산단4로 63" OR ("시은산업" "기장군")" returned the following summary:
+요청하신 '산단4로 63' 및 '시은산업(기장군)' 관련 정보는 다음과 같습니다.
+
+**1. 부산광역시 기장군 정관읍 산단4로 63**
+*   **시은산업**: 해당 주소지에 위치한 기업으로, 업종은 '그 외 기타 금속가공업'이며 금속가공 및 알루미늄 관련 제품을 생산하는 것으로 확인됩니다[1][2][3].
+*   **한진택배 기장터미널**: 일부 정보에서 한진택배 기장터미널의 위치가 '부산 기장군 정관읍 산단4로 63'으로 언급되기도 합니다[4].
+
+**2. 충청남도 당진시 합덕산단4로 63**
+*   **코리아스틸(주)**: 해당 주소지에는 '코리아스틸(주)'이라는 기업이 위치해 있습니다[5][6][7]. 따라서 '산단4로 63'이라는 주소는 지역에 따라 다른 기업이 등록되어 있으니 주의가 필요합니다[7][1].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrgditpeq3rhh6XOY5fFk2BVinh500hKT7s7vlrBLtB4302vgNMJeQLCrftztAaJ_gOfvq3QgMb5wqOPBWrmOpu1_vflcHLMFloPm-fwQsm-UUkh5FuyvciYe_Q0wIAZxyv9IaDgBF969Ub1KkB9kOKBns_JdViSjz0-T3MwhmZTUl4KDI)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEva3aK4Amj2hoSteYXLfbM9B6u3-GYL9xcaq42-hkgeC-vEDk-HrH5-04h3MU6b-2Bgg4hH5bSIb370TRK1NcoYZ8pGNXUXoYiD8H7QK5CHxezhYoB0hH6OGjbBp2tpHEOankYRtzWhFgw1pLZe_naRa_Bh4rVQ4vUY3U-1PjX9wPgoW8CvMnXrq-RCLLqU8rURHpfvE6Zn1k1ZqRjXgZ8kPZSRbdNWVZ8aU=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrgditpeq3rhh6XOY5fFk2BVinh500hKT7s7vlrBLtB4302vgNMJeQLCrftztAaJ_gOfvq3QgMb5wqOPBWrmOpu1_vflcHLMFloPm-fwQsm-UUkh5FuyvciYe_Q0wIAZxyv9IaDgBF969Ub1KkB9kOKBns_JdViSjz0-T3MwhmZTUl4KDI)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0IU4LB58uH1lyfMxNwWXp6F_zIxRx4vQ9p55N4gZyehmfMovsRe4eFVewyjeFfBIw89PowaOHCLaGcujYDQsHvi6AbLGqgyjfUUb1F_7M_--zNJAiXg==)
+[5] [kogas.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDDlCLyc_SEHauCxgKxzQDyQQiKHrcmCxXzx77Hv0PX-3t7gXOjhCv7tSTH4RZlf6vBV2XztdONEYEzHpTACy6wmbzWPZeV4DJvBL-uWTopYTu-_TvA1p7w3N26xkpc00Pos0hWGYVq_KQ0dV6QU3N7k6S9XIRxL6VmzbxlzQFxQW835MhZH4Sk0c-Um4sdIUEkis3q_EIyknnxWVskAsnC75BzY_QgTzyZ7p2uknZ-OrB5Ku1iEtuPQvq9_w=)
+[6] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3TTCcSK46yr9JXP9-Hca068EaknnFvznYB1LIQet-MAvDmwtnilnT9ABx0xVKgZG0nW123VwYBvX0R2arwtNPBf4WAg0XsAdbuUcyHRyEOHOe2V1HzVJVokqv3pNH)
+[7] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENroKcmt4XrTXBsNM93w8aLngi2sPCZsUalaVwpyUniGVhJmaomKaDnTwttA7iBuS8ptNlc4RfRrRn3yalLjf8GBTSvldDI35wUyuZB_M-imFIRGjkGjTD51djA9_gH2WtK3OgTCGqVYEcD2-GF9ZpST2SIux_Xw==)

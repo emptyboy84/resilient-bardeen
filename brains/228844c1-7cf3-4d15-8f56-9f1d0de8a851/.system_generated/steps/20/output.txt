@@ -1,0 +1,5 @@
+
+The command exited with code 1.
+Output:
+C:\Users\lg\AppData\Local\Microsoft\WindowsApps\python.exe
+Python 

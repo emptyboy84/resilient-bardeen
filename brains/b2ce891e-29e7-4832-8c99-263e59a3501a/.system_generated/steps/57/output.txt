@@ -1,0 +1,15 @@
+The search for ""여일석" ("010" OR "051" OR "070")" returned the following summary:
+입력하신 검색어 `"여일석" ("010" OR "051" OR "070")`는 특정 인물이나 관련 정보(연락처, 전화번호 국번 등)를 찾기 위한 검색식으로 보입니다. 
+
+검색어와 관련된 주요 정보는 다음과 같습니다:
+
+* **인물 정보**: (주)글로픽스의 여일석 대표[1] 및 종교시설(교회) 등에서 활동하는 동명이인 소식 등이 확인됩니다[2][3].
+* **전화번호 국번 (`010`, `051`, `070`)**: 대한민국에서 사용하는 휴대전화 국번(`010`), 부산 지역번호(`051`), 인터넷 전화 국번(`070`)을 의미합니다[4]. 
+
+특정 개인의 연락처나 기업 정보 등 구체적으로 찾고자 하는 내용이 있으신가요? 찾으시는 목적에 맞춰 상세히 질문해 주시면 더욱 정확한 정보를 확인해 드릴 수 있습니다.
+
+Sources:
+[1] [issuemaker.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFejo9mR27EvaBdQ9imOwKLmk_2pb-Rt1UP3Z3Ze7p_9gVcn6NwteT5_SYETu4I_WY5FlJJuk8bAzgNLGt5qURfr6TsmYvW1rXWl7Yzwd80i8GSFyof9Ecw4VCPEzSlpuxZlViYxEP0u7ZY_ZE9cKuHg==)
+[2] [woori.cc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGg5TuHsnPkepBypQxcEqmYL8tBvo_zYYR5Ppz_ZYMv9ca4HB9_kxUYQQLVFikkdvch9DVSrHivvQjf5wpHMic9BKVyjNgYC1w-oFK7CDoj-_heu4du483fZskxpZIoLk=)
+[3] [woori.cc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsONxpZzy82CZvf_ZxixzFR7W6qqyZB3XJXuiT-fPf00R7ADzStyJRVD0NbeJmFJFzpRR66Gxt11mn_FNdVtLfc9HXjlxx0a6XzZGX35MHyWn_f1BaSL5wKNn2BEF3tA==)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG80vHK0-ArjWw5ib89G_MRv-izCtoiclK1sLHJ3cyrjidaGVUX6McVsQOPGur4wvE2fRfhC-Fk3NmN5TQI_4an5J7wVx7_deOag_yeePpaYkXeKW7WwlWl8vXSQDge5PYy68CR)

@@ -1,0 +1,9 @@
+### Result
+undefined
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    document.getElementById(\'select\').value = \'6260000\';\n    document.getElementById(\'select2\').value = \'1\';\n    document.getElementById(\'textfield\').value = \'비문\';\n    document.frm.submit();\n}');
+```
+### Page
+- Page URL: https://book.mcst.go.kr/html/searchList.php?search_area=6260000&search_state=13&search_kind=&search_type=1&search_word=%EB%B9%84%EB%AC%B8
+- Page Title: Loading https://book.mcst.go.kr/html/searchList.php?search_area=6260000&search_state=13&search_kind=&search_type=1&search_word=%EB%B9%84%EB%AC%B8

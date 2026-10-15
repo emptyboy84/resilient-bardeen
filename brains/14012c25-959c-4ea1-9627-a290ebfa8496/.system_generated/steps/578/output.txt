@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.gongsinara.com/company/4359964');
+```
+### Page
+- Page URL: https://www.gongsinara.com/company/4359964
+- Page Title: 비솜주식회사 | 부산 동구 · 주거용 건물 임대업 - 공시나라
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-28-19-383Z.yml)

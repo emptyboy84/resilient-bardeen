@@ -1,0 +1,17 @@
+The search for ""더블린" "애니메이션" "부산"" returned the following summary:
+"더블린", "애니메이션", "부산"이라는 키워드와 관련하여 현재 직접적으로 연결된 하나의 특정 사건이나 단체는 확인되지 않으나, 다음과 같은 맥락에서 관련성을 찾아볼 수 있습니다.
+
+*   **영화제 및 영상 산업:** 부산은 '유네스코 영화 창의도시'로서 국제적인 영화제(부산국제영화제 등)가 열리는 도시이며[1][2], 더블린 또한 아일랜드의 영화 산업 중심지로서 '더블린 애니메이션 영화제(Dublin Animation Film Festival)'가 개최되는 등 두 도시 모두 영화 및 영상 콘텐츠와 밀접한 관련이 있습니다[3].
+*   **독립 애니메이션 교류:** 과거 국내 독립 애니메이션 작품들이 부산국제영화제를 비롯한 국내 영화제뿐만 아니라, 더블린에서 열리는 국제 영화제 등 해외 영화제에 초청되어 상영되거나 경쟁 부문에 진출한 사례가 있습니다[4].
+*   **기타:** 애니메이션이나 영상 디자인 분야의 교육 기관, 혹은 글로벌 기업(틱톡 등)의 유럽 본사가 더블린에 위치하고 관련 산업이 부산에서도 활발하게 논의되는 등 각 도시의 산업적 특성상 간접적인 연관성이 있을 수 있습니다[5][1][6][7].
+
+질문하신 내용이 특정 행사나 프로젝트를 지칭하는 것이라면, 조금 더 구체적인 정보(예: 특정 연도, 행사 이름 등)를 알려주시면 정확한 확인이 가능합니다.
+
+Sources:
+[1] [bdi.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7hBAJdL6DYYZTAjwXd7HsTr4qR01ZrYlI4AHGUY3yk-f2cWEhxMP5ykiloN2bAo8HKeoMJhoI8lUv967WgWj6Jz81XZnJQtkAxTXblEYr_KJsv1vJl_-TaOj2ur1n1h0RSkhvhmo2WpucZoE3iENIQP1rduDlb2ecZhrN7n2HBk7rZMavx7QwzA4XO6I-aoqwgjQBqQ==)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJbjsU1UWEpKlZNlYLg6sWglqrJKL0bvuNjcR0QCZAjC2OfpgEPLJrX2UeMJWYwkmXc0o1qt54iQQYHpbL-F5EqGnsTGi9PAhY79aa9yOCX6fcLzEDTuo9QtPEQ9rzPwuomNnAVDMvQVA=)
+[3] [dublinanimationfilmfestival.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWiKvl25LEUBrolNWZ4eqztZyTDtGZ9yv6LkzvjNZVpN1d1gJxHY0i2zp3K7xVfkJHODP1YR-o4rt5PTFLiiuse_Y15DJZkgxdNNeiiKodGXDG5sDdYMC0LL4FybI=)
+[4] [kiafa.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFIPQG1vVjB3eePnkIYisP-gSD16wIEsn1dQiMFfanUHzPMRWkjinsP0kCf_F9rB5oqqHLio57Wz6FTkR0mel9asOu7EJaneyysFGCLPaUojHqYmReVC5Vk9BfmtL6HcnHyaOcGKX9xPVhug==)
+[5] [exposale.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQeNABAY53PMLgkLnWYkIkuYyVbYjMChJuez6pjxPpnCG4ctxblNmOkEddBUXahPeRXqmjWi4xk0l-whwIPzMsksWlI0rxtHPIBiDD9rvw6i0n-YpsHDV2iOagRhM9YY33vMYI)
+[6] [unicornfactory.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfpnf1hvGXsSlUyp19H1_hh4UfwUOsbIAM2xpouEgNyus524XyASX93zzaJYMWjQ5Jon3_qUE7n-NBhKtSF2Y8JbuJsbCTAkwlAJyBYYgE-iaDbiXOJLHp9qzw7Gr88itzuoUF5c5WVP29AsWTkmqTRg==)
+[7] [animationcareerreview.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOXQh7PN0RINevST1lg9NkfoZNOfJDAOv-0_nDUBSwFrfjLig-aFcZZkgiRmGl-F65oXaACjfFPv4BjtRQFr0BLdaps-iZKLTFd4uyzhN6_pdZg5QK9Ybg30upTpDyW3hiUU0LLdHuHqnqhIxdnKsjIzcdyhQpZT56E9craoDG_Pjbtyn8_P1XLz8foeJHTIIgwh4zmVwT)

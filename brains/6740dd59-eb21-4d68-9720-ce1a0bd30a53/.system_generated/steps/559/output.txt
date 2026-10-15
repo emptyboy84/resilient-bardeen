@@ -1,0 +1,19 @@
+The search for ""아이지오" OR "876-87-00878" "이재홍" 매출액 OR 부산" returned the following summary:
+검색하신 **(주)아이지오**에 대한 정보는 다음과 같습니다.
+
+*   **기업명:** (주)아이지오[1][2]
+*   **대표자:** 이재홍[2]
+*   **사업자등록번호:** 876-87-00878 (조회하신 번호)
+*   **소재지:** 부산광역시 북구 효열로 111, 307호 (금곡동, 부산지식산업센터)[1]
+*   **주요 정보:** 
+    *   2018년 1월에 설립된 응용 소프트웨어 개발 및 공급업체입니다[1][2].
+    *   영상 AI 기반 안전관리 통합플랫폼 및 CCTV 영상 선별 관제 솔루션 등을 개발하는 기업으로 알려져 있습니다[3][4].
+*   **매출액:** 출처 및 기준 시점에 따라 데이터가 상이할 수 있으나, 최근 기업 정보 서비스 등에서 확인되는 매출액 규모는 약 8억 6,900만 원(2025년 기준) 수준으로 보고된 바 있습니다[1][2]. 
+
+※ 기업의 재무 정보는 공시 기준이나 정보 제공 업체에 따라 차이가 있을 수 있으므로 참고용으로 활용하시기 바랍니다.
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkF8uSRG68Sc0s3c-KwDRtJK78V0AM13DGvApTM2HojKTMVaBThMSXDposw461_zq0XwTr_sgqLXO7GbuD8afoeKz9ZCuqekD9Ace3NDUefxhRuGjhapA0f3M2ZXRfP3uzguaCRCvgsu3Uv5jGmYoxgxuBo19uuePIXh7u8fcMMJSaIo0k01sCYD3JbSwnuDJAPQ6BIW8o-B8JaaeOxhN4uEqmEqjsx7UnDcTe1G6-5lhSvvC4726nEDDhXT5ZskOsPr2Joc_xaMIs)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz33FqqlYRSrmHS2qByFon54Y1nhVbI6cIp7PFt2htgt823exL_97Bn-NBJTxk-1pddL_a3jFHvQ0455HK-k_eOYLIpNSK24wfeKcWz9VCcVyBqoWSyMQEP4CNZ03X84Iayw==)
+[3] [boannews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcT6v83OaLL9lHDSlFC2G_in0fJFcj0SQ-nLiDEMPzQfCTyJOS8xh8xyXdledTLVvPqc3pNgVqIp0mDvg-pDON6JnNcn5GdH5LIOknZKoAMkwqXxmra0q3_alVcbOkaBFyDo55jKICKa8Wzk5mth8=)
+[4] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtiWEY3AfkcNWXvV4rjuuWsMzShchWBpD_jl6KbuVdARjhUQjpSBvMsG1EKhHg6j-NF-tqU-fAWO63HsC9iLPq8N0UND1DdAeCz51rJkr0ysPNvl7t2flVBkV2Xsqid7JkKWKLL7DB-w==)

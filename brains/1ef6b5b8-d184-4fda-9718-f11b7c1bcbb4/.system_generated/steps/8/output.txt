@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+commit 794e3badb29e5f9845cc118a1e2d2ec34d6a9519
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Mon Sep 7 09:13:03 2026 +0900
+
+    feat: update 디에스케미칼 (5481701760) industry categories and status
+
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 11064251 -> 11200630 bytes
+ merged_500_perfect.tsv                             |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+commit 706713c53d6c73691a687ed09cde602387314afa
+Author: emptyboy84 <emptyboy85@gmail.com>
+Date:   Fri Sep 4 10:54:23 2026 +0900
+
+    feat: update 투콤마비 contact phone, zip, address and homepage
+
+ ...0720_\353\260\260\355\230\204\353\252\205.xlsx" | Bin 11064113 -> 11064251 bytes
+ merged_500_perfect.tsv                             |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+

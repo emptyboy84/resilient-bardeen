@@ -1,0 +1,14 @@
+### Result
+Waited for 30 seconds (requested 11000, maximum is 30)
+### Ran Playwright code
+```js
+await new Promise(f => setTimeout(f, 30 * 1000));
+```
+### Page
+- Page URL: https://bizno.net/article/5388600834
+- Page Title: 비솜 주식회사
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-23-09-212Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-22-31-073Z.log#L3-L9

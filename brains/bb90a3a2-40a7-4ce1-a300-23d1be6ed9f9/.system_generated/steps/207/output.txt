@@ -1,0 +1,41 @@
+
+The command exited with code 0.
+Output:
+Matches: [
+  'tElementId();\n' +
+    "                    if (!!document.getElementById(domId + '-wrapper')) {\n" +
+    '                ',
+  "tElementById(domId + '-wrapper').querySelector('.nest-standby-banner').style.display = 'none';\n" +
+    '        ',
+  "tElementById(domId + '-inner').style.display = '';\n" +
+    '                    }\n' +
+    '                }\n' +
+    '            ',
+  'tElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n' +
+    "  })(window,document,'script'",
+  "tElementById(s).style.display = 'none';\n" +
+    '    } else {\n' +
+    "        var layerEl = document.getElementById('app",
+  "tElementById('pop_login_layer')) {\n" +
+    "        document.getElementById('pop_login_layer').style.display = '",
+  "tElementsByTagName('body')[0].style.height = '100%';\n" +
+    '\n' +
+    '\n' +
+    "    document.getElementsByTagName('html')[0].sty",
+  "tElementsByTagName('body')[0].style.overflow = 'hidden';\n" +
+    '    setQuickApplyLayerPosition();\n' +
+    '\n' +
+    '    documen',
+  "tElementById('iframe_layer').style.display = '';\n" +
+    '};\n' +
+    '\n' +
+    'var setQuickApplyLayerPosition = function() {\n' +
+    '    ',
+  "tElementById('iframe_layer');\n" +
+    '\n' +
+    '    var sheight = document.body.scrollTop;\n' +
+    '    if (sheight == 0) {\n' +
+    '     '
+]
+Found phone numbers in page: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+

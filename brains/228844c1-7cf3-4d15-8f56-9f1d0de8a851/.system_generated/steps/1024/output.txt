@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Total data rows: 2468
+Filled biz_no: 1938
+Empty biz_no: 530
+Empty rows range: min=504, max=2469
+

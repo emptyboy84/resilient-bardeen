@@ -1,0 +1,4 @@
+Verified orange-filled cells count in rows 11847-12000: 2179
+Row 11847 Company fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } }
+Row 11847 Address fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } }
+Row 11847 NiceBiz fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFA500' } }

@@ -1,0 +1,34 @@
+
+The command exited with code 0.
+Output:
+
+
+    디렉터리: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\mark_modified_entries_red
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        2026-09-30   오전 9:45             47 .gitignore                                                           
+-a----        2026-09-30   오전 9:45            859 AGENTS.md                                                            
+-a----        2026-09-30   오전 9:45         134720 all_500_factchecked.tsv                                              
+-a----        2026-09-30   오전 9:45         138057 all_500_verified.tsv                                                 
+-a----        2026-09-30   오전 9:45          25920 article_test.html                                                    
+-a----        2026-09-30   오전 9:45         128152 bizno_filtered_result.csv                                            
+-a----        2026-09-30   오전 9:45         130093 bizno_filtered_result.tsv                                            
+-a----        2026-09-30   오전 9:45         130977 bizno_filtered_result_nice.csv                                       
+-a----        2026-09-30   오전 9:45         130093 bizno_filtered_result_nice.tsv                                       
+-a----        2026-09-30   오전 9:45          24690 bizno_test.html                                                      
+-a----        2026-09-30   오전 9:45         110584 current_pasted_batch.tsv                                             
+-a----        2026-09-30   오전 9:45         138448 merged_500_perfect.tsv                                               
+-a----        2026-09-30   오전 9:45          41125 package-lock.json                                                    
+-a----        2026-09-30   오전 9:45             85 package.json                                                         
+-a----        2026-09-30   오전 9:45          17011 query_test.html                                                      
+-a----        2026-09-30   오전 9:45          36805 rows_11847_12000_16col.tsv                                           
+-a----        2026-09-30   오전 9:45          37115 rows_11847_12000_17col.tsv                                           
+-a----        2026-09-30   오전 9:45          38655 rows_11847_12000_verified.tsv                                        
+-a----        2026-09-30   오전 9:45         192164 user_pasted_rows.tsv                                                 
+-a----        2026-09-30   오전 9:45           4157 법인등록번호_추적_및_검증_가이드_110111-8382593.md                                 
+-a----        2026-09-30   오전 9:45         169882 법인등록번호_추적_및_검증_가이드_110111-8382593.pdf                                
+
+
+

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:64
++   const sellerLinks = html.match(/[^"'\s]*sellerInfo[^"'\s]*/gi);
++                                                                ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:31
++   console.log('Seller links:', sellerLinks);
++                               ~
+',' �ڿ� � �ϴ�.
+�ġ �:10 �:32
++   console.log('Seller links:', sellerLinks);
++                                ~~~~~~~~~~~
+� �Ǵ� � �ġ � 'sellerLinks' �ū�Դϴ�.
+�ġ �:10 �:31
++   console.log('Seller links:', sellerLinks);
++                               ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:10 �:43
++   console.log('Seller links:', sellerLinks);
++                                           ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:11 �:37
++   const phones = html.match(/(?:051|02|070|01[016789])-[0-9]{3,4}-[0- ...
++                                     ~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:11 �:40
++   const phones = html.match(/(?:051|02|070|01[016789])-[0-9]{3,4}-[0- ...
++                                        ~~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:12 �:35
++   console.log('Phones in SSG PC:', phones);
++                                   ~
+',' �ڿ� � �ϴ�.
+�ġ �:12 �:36
++   console.log('Phones in SSG PC:', phones);
++                                    ~~~~~~
+� �Ǵ� � �ġ � 'phones' �ū�Դϴ�.
+�ġ �:12 �:35
++   console.log('Phones in SSG PC:', phones);
++                                   ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

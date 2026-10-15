@@ -1,0 +1,21 @@
+The search for ""이구창" "출판"" returned the following summary:
+"이구창"과 "출판"이라는 키워드로 검색된 결과는 다음과 같습니다. 현재까지 이 두 단어가 직접적으로 결합된 단일 고유 명사나 특정 사업체명으로 널리 알려진 사례는 확인되지 않으며, 주로 다음과 같은 인물 및 기관 정보와 연관되어 언급되고 있습니다.
+
+*   **인물 활동:**
+    *   **자전거 정책 관련:** '이구창'이라는 인물은 한국자전거단체협의회 정책이사(또는 정책위원)로서 자전거 활성화 정책, 교통분담률, 친환경 교통수단에 관한 의견을 개진하는 활동을 활발히 하고 있습니다[1][2][3][4][5].
+    *   **종교계 활동:** 기독교계에서는 '이구창 목사'가 남부산동노회 노회장[6] 및 해운대미래교회 등에서 활동 중인 인물로 언급되고 있습니다[7].
+*   **출판 및 주소지 관련:**
+    *   한국의 출판 관련 정보가 모여 있는 **'한국출판콘텐츠센터'**가 서울특별시 마포구 토정로 222에 위치하고 있는데[2][3], 자전거 관련 활동을 하는 이구창 정책이사의 인터뷰나 기사가 이 센터의 주소와 함께 언급되는 경우가 있어 혼동될 수 있습니다.
+    *   과거 국세청 모범납세자 명단에 '도서출판 가하 대표 이형기'와 같은 인물이 등재된 사례는 있으나[8], 이구창이라는 이름이 특정 출판사의 대표로 명시된 사례는 검색되지 않습니다.
+
+만약 특정 도서나 출판물, 혹은 기업체와 관련하여 찾으시는 정보가 있다면, 해당 출판물의 제목이나 기업의 정확한 명칭을 함께 확인해 보시는 것을 권장합니다.
+
+Sources:
+[1] [koreashe.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_rK7mdJTQlyJ3AIkdo92V_RCN1q73oI7XM6YuPmI1zCUkfJKUKwzIuY36DsTzwKT8drIr9Ccdva16PLv-mUj2CenB_VtR55uFQlutqqU7ive3YnSN-hNWt67s0-m3Y3QhfFc0kOSLFjGeAsFgjyESy_J9LIyj6NmzdaqfiHTslmoaqCaCX2kpIlJiM00s4mBrvuZlYAktp98WGho90r-TBs3Xg1cNLgv9ipOwL5PCexEplv7CIqmc2tfQ)
+[2] [hkbs.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWr_EuZTgnkpgbyjE2EcnuJeEgdxopBJnEfk8AnyMvRd_SiUEDQ_9exFtP04Sh2ECq49370AJI3J62nllWQDRgK_IO4g3qAK60h92tLQIGgAU-skvnR7BjStKfbaFUgpo3jyG8LYS4WkNpFTqP7Ew=)
+[3] [hkbs.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0XT7U5z_qqqR58lVgXLmeZWRlVKNV0R8mtX6QzMrU5bno_L6IhLFxI0wW3bfWrhgwbF624jc5L2x2q-tbiauBkIyjdg7Ui0xfFiSrrLeuO0P9clh2cYUr9kn2tuxdibwsDUlnRI9xvWgSPB7n5jc=)
+[4] [koreashe.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_rK7mdJTQlyJ3AIkdo92V_RCN1q73oI7XM6YuPmI1zCUkfJKUKwzIuY36DsTzwKT8drIr9Ccdva16PLv-mUj2CenB_VtR55uFQlutqqU7ive3YnSN-hNWt67s0-m3Y3QhfFc0kOSLFjGeAsFgjyESy_J9LIyj6NmzdaqfiHTslmoaqCaCX2kpIlJiM00s4mBrvuZlYAktp98WGho90r-TBs3Xg1cNLgv9ipOwL5PCexEplv7CIqmc2tfQ)
+[5] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVXbyP5-cT3g07_P-RYAiLqqZiLd-VzAppKqE9NxpsCecpu5WORDp0BtR2vKODAUtmlr3OxEq1ODU73KOOAq1XEaHz8B1hajQPBvRDD3JqUjpqOPx)
+[6] [kidok.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcDGhTYuVNqOI8vsASKeGJlpHE3jixtajKNgfL3moKFQ2imgvUckdM8VbvCJptetzMMeTqK6EanMZODl1wpha-zvwniM8shGPr0i9NxwzgDUgdmvrlXVEEDvNYVM73dlElZblDXtSFlWExUT7TSw==)
+[7] [koreact.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK3CXUyoDNEaEom4t5LuO_yuAhGruMd1JvbBB6v6uAfLP-uZYsQArpvmtzbDBk2U13SW0GHV9lnBb4iqweP_XpIpwN7qTsgHgKxqa2b69uJbollmAnKuvJaP0sFpIQKXoWLP4s5rpH4mWw3rQT2JQ=)
+[8] [etnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkze4AHwqHFOkORtIMagO3nLan4RePzDYnZUAMRR_pNctK-FPb-Ja-usRkrQGYpubHCxHj7200kc9bqGNej_umFuzFNO8oiuCaS6wnNWm04yS26JRKvGa_dUIV3rcRNS2-b-DoBXy3ht9rZGcuGekjcTIUBNQSZuof2evVjUPrx7vyUVPT8-xllEVurOyncbI019TTSCXV1bxpX3k-e1E2p8G6glZ_XCEzziWolq83QPLQUygdj1dtoPVtN-1OJm4L_VA=)

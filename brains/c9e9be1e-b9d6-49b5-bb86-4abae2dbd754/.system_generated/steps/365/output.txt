@@ -1,0 +1,51 @@
+
+The command exited with code 0.
+Output:
+Row 19201 verification:
+Col 1: 배현명 Fill: { argb: 'FFFFA500' }
+Col 2: null Fill: { theme: 0 }
+Col 3: 한울기업 Fill: { argb: 'FFFFA500' }
+Col 4: {
+  text: '7601400870',
+  hyperlink: 'https://bizno.net/article/7601400870'
+} Fill: { argb: 'FFFFA500' }
+Col 5: 이동진 Fill: { argb: 'FFFFA500' }
+Col 6: 50875 Fill: { argb: 'FFFFA500' }
+Col 7: 경남 김해시 진례면 고모로526번길 42-5 (고모리) Fill: { argb: 'FFFFA500' }
+Col 8: 055-312-0061 Fill: { argb: 'FFFFA500' }
+Col 9: 0507-351-9001 Fill: { argb: 'FFFFA500' }
+Col 10: null Fill: { theme: 0 }
+Col 11: null Fill: { argb: 'FFFFA500' }
+Col 15: 4명 Fill: { argb: 'FFFFA500' }
+Col 18: 기타 기계·장비 조립용 플라스틱 제품 제조업 Fill: { argb: 'FFFFA500' }
+Col 24: 7601400870 Fill: { argb: 'FFFFA500' }
+Col 25: null Fill: { theme: 0 }
+Col 31: null Fill: { theme: 0 }
+Col 48: 제조업 Fill: { argb: 'FFFFA500' }
+Col 49: 기타 기계 및 장비 제조업 Fill: { argb: 'FFFFA500' }
+Col 50: 일반기타 기계 및 장비 제조업 Fill: { argb: 'FFFFA500' }
+
+Row 19400 verification:
+Col 1: 배현명 Fill: { argb: 'FFFFA500' }
+Col 2: null Fill: { theme: 0 }
+Col 3: 백광 Fill: { argb: 'FFFFA500' }
+Col 4: {
+  text: '7811000976',
+  hyperlink: 'https://bizno.net/article/7811000976'
+} Fill: { argb: 'FFFFA500' }
+Col 5: 권유섭 Fill: { argb: 'FFFFA500' }
+Col 6: 46738 Fill: { argb: 'FFFFA500' }
+Col 7: 부산 강서구 화전산단5로84번길 22  (화전동) Fill: { argb: 'FFFFA500' }
+Col 8: null Fill: { theme: 0 }
+Col 9: null Fill: { theme: 0 }
+Col 10: null Fill: { theme: 0 }
+Col 11: null Fill: { theme: 0 }
+Col 15: 1 Fill: { argb: 'FFFFA500' }
+Col 18: 임가공 Fill: { argb: 'FFFFA500' }
+Col 24: 7811000976 Fill: { argb: 'FFFFA500' }
+Col 25: null Fill: { theme: 0 }
+Col 31: null Fill: { theme: 0 }
+Col 48: 제조업 Fill: { argb: 'FFFFA500' }
+Col 49: 기타 기계 및 장비 제조업 Fill: { argb: 'FFFFA500' }
+Col 50: 특수 목적용 기계 제조업 Fill: { argb: 'FFFFA500' }
+

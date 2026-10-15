@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+all_500_factchecked.tsv: matched 0 biznos
+all_500_verified.tsv: matched 0 biznos
+merged_500_perfect.tsv: matched 0 biznos
+rows_11847_12000_16col.tsv: matched 0 biznos
+

@@ -1,0 +1,21 @@
+
+The command exited with code 1.
+Output:
+�: � �Ͽ� �ش�Ǵ� � ã� �߽�ϴ�.
+Get-Command : 'pwsh' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸�
+ �Ȯ� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:15
++ where.exe py; Get-Command node, python, pwsh, powershell
++               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (pwsh:String) [Get-Command], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException,Microsoft.PowerShell.Commands.GetCommandCommand
+ 
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     node.exe                                           24.11.1.0  C:\Program Files\nodejs\node.exe         
+Application     python.exe                                         0.0.0.0    C:\Users\lg\AppData\Local\Microsoft\Wi...
+Application     powershell.exe                                     10.0.26... C:\WINDOWS\System32\WindowsPowerShell\...
+
+
+

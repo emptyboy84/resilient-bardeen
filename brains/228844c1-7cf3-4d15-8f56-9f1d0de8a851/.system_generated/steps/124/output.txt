@@ -1,0 +1,16 @@
+The search for ""비문인쇄" "우동" OR "해운대구 센텀1로 9"" returned the following summary:
+부산광역시 해운대구에 소재한 **'비문 인쇄'**라는 업체가 확인됩니다[1].
+
+해당 업체와 관련하여 검색하신 정보는 다음과 같습니다.
+
+*   **업체명:** 비문 인쇄[1]
+*   **소재지:** 부산광역시 해운대구[1]
+*   **기타 정보:** 출판사·인쇄사 검색시스템에 등록된 업체로 확인됩니다[1].
+
+참고로, '해운대구 센텀1로 9'는 부산 해운대구 우동에 위치한 주소지(주로 센텀시티 인근)이나, 해당 주소와 '비문 인쇄'를 직접적으로 연결하는 상세 정보는 확인되지 않았습니다. 또한 검색 결과 중 '우동'이나 '비문 인쇄'라는 키워드가 포함된 이미지/디자인 자료 등은 주로 일식 메뉴 디자인이나 로고 등과 관련된 일반적인 스톡 이미지인 경우가 많습니다[2][3][4].
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLgwcrW8NJsHOJ9uua11ypvH_-zn2GSDKKzA_0VNCIM1GNK2_qo3Wsxt0PPyMvDGlP537MXGcsMDExgMoHtoDSM7qtbijYyzZWUWikaUdBCs6X2pLZB8sx_yuk50ofAa7fvF_MwTWrYPTd_438Qu26X7h1eHQFtyWmGt7kb4OstNT40bfNOMSEPgvED5C42UPQyJQ5SyYDVdvBtzRz8rwgAnY2SWmn3OHFC4ZA2a5EZaz4vyB9Q9WFdF2qDKs9aAgI9g8prOR8Gf8GNJYxI4OQXkt50UCIXwPOZwyTJ8rSfzCct31x8PlLJy98IIjk2AmIA==)
+[2] [shutterstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbGs7g5JJTt9HGVBSrB0wiuRkuS3xprlkmYDU5E0tty4bZEOiXYs4BFiy3MUF6S5QIJdf2WS2_I4C3kM-xHCdg-LOXHzK7n2kevFvQpBHRnfyCD0gxITAV9ROcIenI64EjdqDPeSsyag==)
+[3] [shutterstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSX2vDFEWbN9NMlFDvx41FrUBkGjVCSRBVffPBbEiKpTAJ2Mt90x1pWwgKNwP_iv1JurT8-dz5BRLXHycPvm48-pt9KdwS49LRMG2dZkjq02TTPf4CTwofRAJAl8P75OkhOjyrLtm1MP9rFzFykw==)
+[4] [shutterstock.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFHO7R4dUCLvZEKsjrb_6ycMaSMGbYYwhpYGGE-2FXFjZ5OOHC5XOcBaHFHP_BhiffRhwJprNk_qDlyG3bcD-ICDSp_trL5zHMmCGhZjmffMMo22fquq6gmYcNoO5SlebuQ8sEJ0NeESa4dOI=)

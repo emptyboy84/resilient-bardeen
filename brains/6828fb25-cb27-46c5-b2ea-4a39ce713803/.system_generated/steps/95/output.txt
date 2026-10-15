@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+79e2604 docs: update agent guidelines in AGENTS.md
+20488d3 e
+b44b0bd feat: add verified homepage (mmhub.kr) for 엠엠허브 (12217행)
+794e3ba feat: update 디에스케미칼 (5481701760) industry categories and status
+706713c feat: update 투콤마비 contact phone, zip, address and homepage
+3f8176c fix: clear 38 invalid corporate numbers for personal businesses (including 170113-0007820 for 윤테크)
+82effd4 feat: apply perfect merged dataset with full phone numbers and 500 rows fact-checked (11847-12346)
+cf52caa feat: 500 records verified and 3026 cells populated with orange fill (rows 11847-12346)
+14890ab docs: add full chat conversation history, readable markdown summary, and brain logs
+69e229b feat: complete 500-row business db factcheck, nice/bizno enrichment, and final excel datasets
+2070aa1 feat: complete 1000-row business db verification and multi-agent enrichment
+

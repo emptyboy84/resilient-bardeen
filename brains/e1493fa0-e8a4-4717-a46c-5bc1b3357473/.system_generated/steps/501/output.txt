@@ -1,0 +1,13 @@
+### Result
+[
+  {
+    "tag": "P",
+    "text": "청우정공",
+    "parentTag": "DIV",
+    "parentClass": "flex items-center"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const el = Array.from(document.querySelectorAll(\'*\')).filter(e => e.children.length === 0 && e.innerText && e.innerText.includes(\'청우정공\'));\n  return el.map(e => ({ tag: e.tagName, text: e.innerText, parentTag: e.parentElement ? e.parentElement.tagName : null, parentClass: e.parentElement ? e.parentElement.className : \'\' }));\n}');
+```

@@ -1,0 +1,20 @@
+### Result
+[
+  {
+    "placeholder": "사업자번호, 상호, 대표자, 키워드 입력",
+    "type": "text",
+    "id": "",
+    "className": "ml-3 w-full placeholder:text-gray-600",
+    "name": ""
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ placeholder: i.placeholder, type: i.type, id: i.id, className: i.className, name: i.name }));\n}');
+```
+### Page
+- Page URL: https://moneypin.biz/bizno/
+- Page Title: 사업자등록번호 조회 - 사업자정보 플랫폼
+- Console: 1 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-09-30T00-04-37-879Z.log#L4

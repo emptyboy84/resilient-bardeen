@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Audited rows count: 2030
+Valid BizNo count: 2030
+Invalid BizNo count: 0 []
+

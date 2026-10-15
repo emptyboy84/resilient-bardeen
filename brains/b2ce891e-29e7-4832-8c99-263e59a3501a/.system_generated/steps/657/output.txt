@@ -1,0 +1,9 @@
+The search for "site:theteams.kr "대저중앙로394번길 32"" returned the following summary:
+더팀스(The Teams)에 등록된 부산광역시 강서구 대저중앙로394번길 32(대저1동) 소재 기업 정보는 다음과 같습니다:
+
+* **주식회사 파이**[1]
+* **(주)응카** (렌트카 운영팀 등 채용공고 등록)[2]
+
+Sources:
+[1] [theteams.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG71H8tf_HU7m0n8M5L8S_jPoCEya7cnpIf-CwV51hsjTfXGKWU40mQcB1sOa79zfW5yQQ8bbjkiuAHr9DxiXs0kjrtdj2EJP6l_bLAgh2HcL8BTGvvhDh3ws=)
+[2] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFmastK3ww4D0l8lIi2cZHD6ULGvXqqdrY3uhXGzhGqBltUD8fr8ujkrx43cDsetkWKvKZv25AR5-7_G6hGoA2KndrOKc5XCO7zDLgz3hkx1AKYsxF4bVxDRoBgnNlKnHV71WnwMsIJe4Wc1SOSMnfHpQ=)

@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/?area=&query=%EC%9C%84%EB%93%9C%EB%A7%88%EC%9D%B8%EB%93%9C');
+```
+### Page
+- Page URL: https://bizno.net/?area=&query=%EC%9C%84%EB%93%9C%EB%A7%88%EC%9D%B8%EB%93%9C
+- Page Title: 위드마인드
+- Console: 0 errors, 1 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-27-20-979Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-14T01-27-16-123Z.log#L1-L3

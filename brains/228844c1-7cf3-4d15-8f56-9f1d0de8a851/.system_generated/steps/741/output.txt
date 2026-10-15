@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%ED%9D%AC%EC%9B%B9%ED%88%B0');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%ED%9D%AC%EC%9B%B9%ED%88%B0
+- Page Title: 희웹툰 : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-15T01-17-06-054Z.yml)

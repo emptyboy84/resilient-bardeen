@@ -1,0 +1,18 @@
+The search for ""미주물류" "정관읍" OR "롯데제과 부산공장" 전화번호 OR 연락처" returned the following summary:
+요청하신 키워드(**"미주물류"**, **"정관읍"**, **"롯데제과 부산공장"**)와 관련된 공식적인 단독 업체나 전화번호 정보는 공개된 데이터베이스상에서 직접적으로 일치하는 내역이 확인되지 않습니다. 
+
+다만 관련 기업 및 고객센터 연락처는 아래와 같이 참고하실 수 있습니다.
+
+* **롯데웰푸드 (구 롯데제과) 대표 고객센터 및 제품 문의:**
+  * **전화번호:** `080-024-6060`[1]
+  * ※ 참고로 롯데제과(롯데웰푸드의 국내 주요 공장)는 부산 지역 내에서는 주로 **양산공장** 등이 핵심 생산 거점으로 운영되고 있습니다[2][3].
+* **부산 기장군 정관읍 인근 물류센터 및 관련 시설 예시:**
+  * 부산 기장군 정관읍 및 인근 지역에는 여러 물류센터(예: GLS KOREA 부산물류센터 `051-728-6424` 등)가 위치해 있습니다[4].
+
+정확한 '미주물류' 상호명이나 정관읍/롯데제과 부산공장 연계 물류업체의 세부 연락처가 필요하신 경우, 해당 물류의 화물 위탁사나 관련 화물 운송장/계약서를 통해 사업자등록 정보나 정확한 상호를 다시 한번 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [lotte.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgHBQiw59niDtE9LKFseZYsGnkpqgb5UiyStgwkhxfZ0uH3pjq0A5jYkkVrrW8dbu94qgPxvbTCEGg1-KZ8bAXCS4Ha1v_kNCv3Nbrmf9YqAFvVU3J39yNVf0Vurg=)
+[2] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFl1l7edGBsx74rK8w9piiGP93BPolnMcL9dHQcIUATbvJS6ZGxbdUftVv_tZ1g3hkxQ4WbwYY-o1Iw7o3ZyKKpUEoOpPXCUl8zOVUwXn6GES4MvMKw8NDELwuycAGno7XCIf3bqj0qwH-Dbi21CIWyyxIx_zwyg==)
+[3] [getnews.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHWoYL-HTicOJor7F1uB9KRXLckhrr6DkADjeOroS6TC8Bfvk9hIs_pNvzPMbDI434LxUe02ngrR_e-CfD1s7rDiR5FX_rlK5KL9pCfqCMFxnOG6E_jGoD3skaucdBWXE93wuYdSUobhqjh4b7q-AHvQ=)
+[4] [glskorea.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE56EZw1F6VIcf8Sch8iaovfRIKdlPrY6U8PbptzTs9bo00GZmPAFHKUP62-ojrrJ3JEIGfuxoUnfxKbrfGbWoE8xsnXKffT2Ulxl3iqYUBDfQNcv0502cAYMk=)

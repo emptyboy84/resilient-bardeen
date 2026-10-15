@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+
+Name                               Length LastWriteTime          
+----                               ------ -------------          
+�ι�ȣ_�_65�.txt           5168 2026-10-06 � 9:56:35
+�ǻ�DB_162�_�ü_�ι�ȣ�ݿ�.txt  38814 2026-10-06 � 9:56:35
+
+
+

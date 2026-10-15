@@ -1,0 +1,11 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\brain\ee5104b6-03e7-4ad7-9556-78ec00557d2c\scratch\search_excel_phone.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,4 +1,4 @@
+-const ExcelJS = require('exceljs');
++const ExcelJS = require('c:/Users/lg/resilient-bardeen/node_modules/exceljs');
+ const path = require('path');
+ 
+ async function searchFile(filePath) {
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

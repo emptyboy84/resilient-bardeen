@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.thecall.co.kr/v3/search?q=070-4172-9541');
+```
+### Page
+- Page URL: https://www.thecall.co.kr/v3/search?q=070-4172-9541
+- Page Title: 404 Not Found
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-08T01-20-52-271Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-08T01-20-51-689Z.log#L1

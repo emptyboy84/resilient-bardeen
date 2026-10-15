@@ -1,0 +1,23 @@
+### Result
+Found 1 match for "상호":
+
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e715]:
+    - banner [ref=f1e719]:
+      - generic [ref=f1e720]:
+        - navigation [ref=f1e722]:
+          - list [ref=f1e723]:
+            - listitem [ref=f1e986]:
+              - list [ref=f1e989]:
+                - listitem [ref=f1e1026]:
+                  ...
+                  - list [ref=f1e1029]:
+                    ...
+                    - listitem [ref=f1e1036]:
+                      - link "기타등기 신청사건" [ref=f1e1037] [cursor=pointer]:
+                        - /url: javascript:void(null);
+                - listitem [ref=f1e1038]:
+                  - link "상호검색" [ref=f1e1039] [cursor=pointer]:
+                    - /url: javascript:void(null);
+                  - generic:
+                    - list

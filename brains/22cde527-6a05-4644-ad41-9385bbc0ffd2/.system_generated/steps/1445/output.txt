@@ -1,0 +1,16 @@
+
+The command exited with code 0.
+Output:
+Status: 200
+Headers: {
+  'content-type': 'text/html',
+  'last-modified': 'Sun, 28 Jun 2026 14:17:57 GMT',
+  'accept-ranges': 'bytes',
+  etag: '"1c4f3ceb87dd1:0"',
+  server: 'Microsoft-IIS/10.0',
+  'strict-transport-security': 'max-age=0',
+  date: 'Mon, 14 Sep 2026 01:56:59 GMT',
+  'content-length': '2209'
+}
+Title: 접속대기_no1
+

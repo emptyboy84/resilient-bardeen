@@ -1,0 +1,18 @@
+The search for ""수영강변대로 140" "3층 2호" OR "302호"" returned the following summary:
+부산광역시 해운대구 **수영강변대로 140**은 **'부산문화콘텐츠콤플렉스'** 건물입니다[1][2][3].
+
+해당 주소와 관련된 상세 정보는 다음과 같습니다.
+
+*   **3층 2호**: 해당 호실은 과거 신설법인 관련 자료 등에서 언급된 바 있으나[4][5], 현재 입주 기업 정보는 변동 가능성이 큽니다.
+*   **302호**: **(주)스튜디오엠오** 등의 기업이 해당 호실을 사용하는 것으로 확인됩니다[2][3]. 또한, 과거 자료에서는 브이알코리아(주)와 같은 기업이 등록되어 있던 곳이기도 합니다[6].
+
+건물 내에는 다수의 기업과 창업 지원 관련 사무실이 입주해 있어[1][7], 방문하시려는 특정 목적이나 업체명이 있다면 다시 확인해보시는 것을 권장합니다.
+
+Sources:
+[1] [onkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqm5kXSFz5_aAk8SQCBNS1q7k-Lm_PC_Be0_kXy97hHWu1Gijf6c9G5G5tMjWJuv4ilhh3FQE8I4S8k3m_DPopjngLYSE4mekozqlXquZyvBx12nmjRC3zzKoV2yU0Cq9Ux18p1A==)
+[2] [gamejob.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1M9Pa7qUHL-oX-c29a_EPrSKUCECu3KIjYaBDpBBgdw6YQ04bjgXd-8LRx7e_KMBPd4DhTylJOHTTwulCojXypmLylHUf77IOJvhIi04PN2lWv5lC3vBiSTkDIIi-izTnqSw2gHbKKQ==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS7AOwIHK4kOc4WdZZhxlt9W63VQedz0bdsVZkVRiW-Qi2k0_fVI1A9W3v4SbfAknF8yAm9WViWlEpUZl6Uqcw_iR8XDkxrupjkemWG9n-SZtVXUGS8M-39lQ=)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnaWCZEqSS78RMSWtXyKnk9C08LSAUOWzrSm4xvgDniWFWnwN62fvylzIk6q9zwolsz9wkHmjdRj9ER_JWNqIL0z1-ViHmLQsmGyZKyTbMxLwmGP6S3cDuV7f1h_urqy52XSVn)
+[5] [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrPRnUwt-a3DQenCVihQgRsDZ-RMnADmet58fnFnd2i7yv_93s_npL4jK_6zzTbzI6NIHKwTxx4qCf0mjQy4DxJ_Gvnh8CkYjW0hy8gaUJelQJs2wGERg89ZipkAhmPFymUSdErAgSvomlHEPeThs=)
+[6] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU_s2rBi8e8eBODZoc1n2rVo1EnNAGPKGckyK_Ixr_EHR6L33B74tSUJYohbwVSCLonswtff45FUtBVuH3vB0yoVL_qMoBj1cY5ppD2Rdf0rcTMgIxTay93ab6tXMQAd2zgGmxug7rxuCnbnRpyn4JZcLz52etce4Da5RTBW0WQZRNDl3lU4wDdhKKHT4S8K9V2gnMj4bfOvxyJyt7lSbPAA==)
+[7] [busanstartup.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlV86bG1VutE65VsfUAu2d4v3u6J6F1DFAPVp8I_Pne9yJWwh49_VPWguEsRxoKsoPczur9ulZF7gsYTxJ1X9dXlrGBBdz6bF4ojA6qCDV1w42oMV4on_dJA=)

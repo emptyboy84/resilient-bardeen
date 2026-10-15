@@ -1,0 +1,27 @@
+### Result
+[
+  {
+    "id": "gnb_my_lyr_iframe",
+    "src": ""
+  },
+  {
+    "id": "gnb_notice_lyr_iframe",
+    "src": ""
+  },
+  {
+    "id": "gnb_service_lyr_iframe",
+    "src": ""
+  },
+  {
+    "id": "gnb_svc_more_iframe",
+    "src": ""
+  },
+  {
+    "id": "ncaptcha-iframe-cbdzhv",
+    "src": "https://wtm.pstatic.net/011fc84/iframe.html"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframes = Array.from(document.querySelectorAll(\'iframe\'));\n  return iframes.map(f => ({ id: f.id, src: f.src }));\n}');
+```

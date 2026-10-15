@@ -1,0 +1,560 @@
+### Result
+[
+  {
+    "idx": 1,
+    "rawBizno": "6090653247",
+    "rawName": "청우정공",
+    "found": true,
+    "industry": "자동차 엔진용 신품 부품 제조업",
+    "matchedName": "청우정공",
+    "matchedRep": "이만우",
+    "matchedAddr": "경남 창원시 의창구 차상로 66, 103호",
+    "source": "bizno"
+  },
+  {
+    "idx": 2,
+    "rawBizno": "6090657239",
+    "rawName": "도경테크",
+    "found": true,
+    "industry": "선박 구성 부분품 제조업",
+    "matchedName": "도경테크",
+    "matchedRep": "하임숙",
+    "matchedAddr": "경남 창원시 의창구 평산로70번길 20, (주)롤코리아 내",
+    "source": "bizno"
+  },
+  {
+    "idx": 3,
+    "rawBizno": "6090657409",
+    "rawName": "한웅정공",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedName": "한응정공",
+    "matchedRep": "한기수",
+    "matchedAddr": "경남 함안군 칠원읍 무기로 69",
+    "source": "bizno"
+  },
+  {
+    "idx": 4,
+    "rawBizno": "6090658771",
+    "rawName": "백봉제어기계",
+    "found": true,
+    "industry": "배전반 및 전기 자동제어반 제조업",
+    "matchedName": "백봉제어기계",
+    "matchedRep": "이춘봉",
+    "matchedAddr": "경남 창원시 성산구 완암로 50 (성산동,창원SK테크노파크 메카존 818호)",
+    "source": "bizno"
+  },
+  {
+    "idx": 5,
+    "rawBizno": "6090658790",
+    "rawName": "선도",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "선도",
+    "matchedRep": "윤양호",
+    "matchedAddr": "경남 창원시 의창구 차룡로 1",
+    "source": "bizno"
+  },
+  {
+    "idx": 6,
+    "rawBizno": "6090659111",
+    "rawName": "진양산업",
+    "found": true,
+    "industry": "그 외 기타 일반목적용 기계 제조업",
+    "matchedName": "진양산업",
+    "matchedRep": "하희자",
+    "matchedAddr": "경남 창원시 의창구 팔용로 446, 101동 1405호",
+    "source": "bizno"
+  },
+  {
+    "idx": 7,
+    "rawBizno": "6090662896",
+    "rawName": "한국열처리",
+    "found": true,
+    "industry": "금속 열처리업",
+    "matchedName": "한국열처리",
+    "matchedRep": "이희영",
+    "matchedAddr": "경남 창원시 의창구 팔용로 383",
+    "source": "bizno"
+  },
+  {
+    "idx": 8,
+    "rawBizno": "6090663046",
+    "rawName": "호성정기",
+    "found": true,
+    "industry": "유압기기 제조업",
+    "matchedName": "호성정기",
+    "matchedRep": "이상민",
+    "matchedAddr": "경남 창원시 성산구 연덕로9번길 11",
+    "source": "bizno"
+  },
+  {
+    "idx": 9,
+    "rawBizno": "6090663347",
+    "rawName": "코리아펀치",
+    "found": true,
+    "industry": "그 외 기타 특수목적용 기계 제조업",
+    "matchedName": "코리아펀치",
+    "matchedRep": "김향곤",
+    "matchedAddr": "경남 창원시 의창구 차룡로 49, 1층",
+    "source": "bizno"
+  },
+  {
+    "idx": 10,
+    "rawBizno": "6090665646",
+    "rawName": "철원정밀공업사",
+    "found": true,
+    "industry": "산업용 냉장 및 냉동 장비 제조업",
+    "matchedName": "철원정밀공업사",
+    "matchedRep": "박진철",
+    "matchedAddr": "경남 창원시 의창구 차룡단지로 27",
+    "source": "bizno"
+  },
+  {
+    "idx": 11,
+    "rawBizno": "6090665909",
+    "rawName": "거성정밀",
+    "found": true,
+    "industry": "금속 절삭기계 제조업",
+    "matchedName": "거성정밀",
+    "matchedRep": "송경복",
+    "matchedAddr": "경남 창원시 마산회원구 봉암북13길 43-25",
+    "source": "bizno"
+  },
+  {
+    "idx": 12,
+    "rawBizno": "6090671376",
+    "rawName": "광진전자",
+    "found": true,
+    "industry": "기타 반도체소자 제조업",
+    "matchedName": "광진전자",
+    "matchedRep": "정삼열",
+    "matchedAddr": "경남 김해시 진영읍 하계로 65-13",
+    "source": "bizno"
+  },
+  {
+    "idx": 13,
+    "rawBizno": "6090673281",
+    "rawName": "청록엔지니어링",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedName": "청록엔지니어링",
+    "matchedRep": "유이경",
+    "matchedAddr": "경남 창원시 의창구 차룡단지로 27",
+    "source": "bizno"
+  },
+  {
+    "idx": 14,
+    "rawBizno": "6090678568",
+    "rawName": "PLUS산전",
+    "found": true,
+    "industry": "전기회로 개폐, 보호장치 제조업",
+    "matchedName": "풀스산전",
+    "matchedRep": "이규준",
+    "matchedAddr": "강원 삼척시 도계읍 891-12번지",
+    "source": "bizno"
+  },
+  {
+    "idx": 15,
+    "rawBizno": "6090679913",
+    "rawName": "태창산업",
+    "found": true,
+    "industry": "구조용 금속제품 제조업",
+    "matchedName": "태창산업",
+    "matchedRep": "박창옥",
+    "matchedAddr": "경남 창원시 성산구 웅남로 328",
+    "source": "bizno"
+  },
+  {
+    "idx": 16,
+    "rawBizno": "6090680972",
+    "rawName": "대현제어",
+    "found": true,
+    "industry": "배전반 및 전기 자동제어반 제조업",
+    "matchedName": "대현제어",
+    "matchedRep": "최준관",
+    "matchedAddr": "경남 창원시 성산구 완암로 50, 메카동 318호 (성산동,에스케이테크노파크)",
+    "source": "bizno"
+  },
+  {
+    "idx": 17,
+    "rawBizno": "6090681627",
+    "rawName": "화성감리",
+    "found": true,
+    "industry": "기타 엔지니어링 서비스업",
+    "matchedName": "화성감리",
+    "matchedRep": "김대우",
+    "matchedAddr": "경남 창원시 성산구 반지로 57-1",
+    "source": "bizno"
+  },
+  {
+    "idx": 18,
+    "rawBizno": "6090687000",
+    "rawName": "진메탈테크",
+    "found": true,
+    "industry": "그 외 자동차용 신품 부품 제조업",
+    "matchedName": "진메탈테크",
+    "matchedRep": "조국제",
+    "matchedAddr": "경남 김해시 진영읍 본산로269번길 15-17",
+    "source": "bizno"
+  },
+  {
+    "idx": 19,
+    "rawBizno": "6090687257",
+    "rawName": "LC하이텍",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "LC하이텍",
+    "matchedRep": "이희현",
+    "matchedAddr": "경남 창원시 마산회원구 봉암공단6길 15",
+    "source": "bizno"
+  },
+  {
+    "idx": 20,
+    "rawBizno": "6090687499",
+    "rawName": "태린정밀",
+    "found": true,
+    "industry": "자동차용 신품 동력전달장치 제조업",
+    "matchedName": "태린정밀",
+    "matchedRep": "김춘희",
+    "matchedAddr": "경남 창원시 의창구 평산로8번길 37-49, 태평양정기내",
+    "source": "bizno"
+  },
+  {
+    "idx": 21,
+    "rawBizno": "6090689497",
+    "rawName": "K．T．S",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "K．T．S",
+    "matchedRep": "박치영",
+    "matchedAddr": "경남 창원시 성산구 반월로68번길 5, A동 1층 102호",
+    "source": "bizno"
+  },
+  {
+    "idx": 22,
+    "rawBizno": "6090694189",
+    "rawName": "전도기계",
+    "found": true,
+    "industry": "그 외 기타 일반목적용 기계 제조업",
+    "matchedName": "전도기계",
+    "matchedRep": "전형도",
+    "matchedAddr": "경남 창원시 의창구 평산로38번길 35 (팔용동,차룡단지)",
+    "source": "bizno"
+  },
+  {
+    "idx": 23,
+    "rawBizno": "6090695719",
+    "rawName": "신영산업",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "신영산업",
+    "matchedRep": "양기우",
+    "matchedAddr": "경남 창원시 의창구 죽전로 6",
+    "source": "bizno"
+  },
+  {
+    "idx": 24,
+    "rawBizno": "6090696270",
+    "rawName": "에이치에스티",
+    "found": true,
+    "industry": "금속 절삭기계 제조업",
+    "matchedName": "에이치에스티",
+    "matchedRep": "박정만",
+    "matchedAddr": "경남 창원시 성산구 월림로 74",
+    "source": "bizno"
+  },
+  {
+    "idx": 25,
+    "rawBizno": "6090696284",
+    "rawName": "지원정비공업사",
+    "found": true,
+    "industry": "자동차 종합 수리업",
+    "matchedName": "지원정비공업사",
+    "matchedRep": "최지원",
+    "matchedAddr": "경남 창원시 의창구 무역로503번길 5-26, 1층",
+    "source": "bizno"
+  },
+  {
+    "idx": 26,
+    "rawBizno": "6090697487",
+    "rawName": "성신전자",
+    "found": true,
+    "industry": "기타 반도체소자 제조업",
+    "matchedName": "성신전자",
+    "matchedRep": "박선옥",
+    "matchedAddr": "경남 창원시 의창구 죽전로74번길 33",
+    "source": "bizno"
+  },
+  {
+    "idx": 27,
+    "rawBizno": "6090711429",
+    "rawName": "알파 테크노파크점",
+    "found": true,
+    "industry": "문구용품, 회화용품, 사무용품 도매업",
+    "matchedName": "알파테크노파크점",
+    "matchedRep": "이장곤",
+    "matchedAddr": "경남 창원시 성산구 성산동 창원SK테크노파크 넥스존 B120",
+    "source": "bizno"
+  },
+  {
+    "idx": 28,
+    "rawBizno": "6090713067",
+    "rawName": "신광테크",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedName": "신광테크",
+    "matchedRep": "이기두",
+    "matchedAddr": "경남 창원시 성산구 완암로 50, 2층 219호",
+    "source": "bizno"
+  },
+  {
+    "idx": 29,
+    "rawBizno": "6090716972",
+    "rawName": "진영산업",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "진영산업",
+    "matchedRep": "정진영",
+    "matchedAddr": "경남 김해시 진례면 고모로 71-15",
+    "source": "bizno"
+  },
+  {
+    "idx": 30,
+    "rawBizno": "6090717175",
+    "rawName": "혜원테크",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "혜원테크",
+    "matchedRep": "정성일",
+    "matchedAddr": "경남 창원시 성산구 남면로 219, 1동 5호",
+    "source": "bizno"
+  },
+  {
+    "idx": 31,
+    "rawBizno": "6090721228",
+    "rawName": "서부테크",
+    "found": true,
+    "industry": "기타 엔지니어링 서비스업",
+    "matchedName": "서부테크",
+    "matchedRep": "임진태/김덕희",
+    "matchedAddr": "경남 창원시 성산구 완암로 50, B동 117호 (성산동,SK테크노파크 넥스동)",
+    "source": "bizno"
+  },
+  {
+    "idx": 32,
+    "rawBizno": "6090723871",
+    "rawName": "예성테크",
+    "found": true,
+    "industry": "일반 목적용 기계 제조업",
+    "matchedName": "예성테크",
+    "matchedRep": "성윤복/김종현",
+    "matchedAddr": "경남 김해시 진례면 고모로216번길 73",
+    "source": "bizno"
+  },
+  {
+    "idx": 33,
+    "rawBizno": "6090725151",
+    "rawName": "부민에프에이씨",
+    "found": true,
+    "industry": "비동력식 수공구 제조업",
+    "matchedName": "부민에프에이씨",
+    "matchedRep": "김종관",
+    "matchedAddr": "경남 창원시 월림동 102-5",
+    "source": "bizno"
+  },
+  {
+    "idx": 34,
+    "rawBizno": "6090725340",
+    "rawName": "원일정밀",
+    "found": true,
+    "industry": "기타 일반 목적용 기계 제조업",
+    "matchedName": "원일정밀",
+    "matchedRep": "조제건",
+    "matchedAddr": "경남 창원시 성산구 월림로65번길 6-55",
+    "source": "bizno"
+  },
+  {
+    "idx": 35,
+    "rawBizno": "6090725471",
+    "rawName": "거성정밀",
+    "found": true,
+    "industry": "그 외 기타 일반목적용 기계 제조업",
+    "matchedName": "거성정밀",
+    "matchedRep": "이철현",
+    "matchedAddr": "경남 창원시 의창구 동읍 백월로 479-1",
+    "source": "bizno"
+  },
+  {
+    "idx": 36,
+    "rawBizno": "6090731236",
+    "rawName": "주미엔지니어링",
+    "found": true,
+    "matchedName": "주미엔지니어링",
+    "matchedRep": "강희승",
+    "matchedAddr": "경남 창원시 성산구 가음동",
+    "source": "bizno"
+  },
+  {
+    "idx": 37,
+    "rawBizno": "6090731798",
+    "rawName": "한길정밀",
+    "found": true,
+    "industry": "기어 및 동력전달장치 제조업",
+    "matchedName": "한길정밀",
+    "matchedRep": "이성일",
+    "matchedAddr": "경남 창원시 의창구 북면 감계로156번길 6-9",
+    "source": "bizno"
+  },
+  {
+    "idx": 38,
+    "rawBizno": "6090732351",
+    "rawName": "원테크",
+    "found": true,
+    "industry": "도장 및 기타 피막처리업",
+    "matchedName": "원테크",
+    "matchedRep": "박종원",
+    "matchedAddr": "경남 창원시 성산구 반월로60번길 34-16",
+    "source": "bizno"
+  },
+  {
+    "idx": 39,
+    "rawBizno": "6090732856",
+    "rawName": "유선정밀",
+    "found": true,
+    "industry": "금속 성형기계 제조업",
+    "matchedName": "유선정밀",
+    "matchedRep": "최석근",
+    "matchedAddr": "경남 창원시 의창구 평산로38번길 46",
+    "source": "bizno"
+  },
+  {
+    "idx": 40,
+    "rawBizno": "6090733097",
+    "rawName": "우경테크",
+    "found": true,
+    "industry": "동력식 수지공구 제조업",
+    "matchedName": "우경테크",
+    "matchedRep": "박민식",
+    "matchedAddr": "경남 김해시 진영읍 김해대로 94-21",
+    "source": "bizno"
+  },
+  {
+    "idx": 41,
+    "rawBizno": "6090736279",
+    "rawName": "거산정밀",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedName": "거산정밀",
+    "matchedRep": "이두재",
+    "matchedAddr": "경남 창원시 성산구 월림로65번길 17",
+    "source": "bizno"
+  },
+  {
+    "idx": 42,
+    "rawBizno": "6090737152",
+    "rawName": "지오시스",
+    "found": true,
+    "industry": "전자기 측정, 시험 및 분석기구 제조업",
+    "matchedName": "지오시스",
+    "matchedRep": "김철주",
+    "matchedAddr": "경남 창원시 성산구 완암로 3, 1동 303호 (웅남동,제4아파트형공장)",
+    "source": "bizno"
+  },
+  {
+    "idx": 43,
+    "rawBizno": "6090743426",
+    "rawName": "선우테크",
+    "found": true,
+    "industry": "기타 가공 공작기계 제조업",
+    "matchedName": "선우테크",
+    "matchedRep": "이정환",
+    "matchedAddr": "경남 창원시 의창구 죽전로82번길 35",
+    "source": "bizno"
+  },
+  {
+    "idx": 44,
+    "rawBizno": "6090745235",
+    "rawName": "동우하이텍",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "동우하이텍",
+    "matchedRep": "최석호",
+    "matchedAddr": "경남 함안군 칠원읍 원서로 139-28",
+    "source": "bizno"
+  },
+  {
+    "idx": 45,
+    "rawBizno": "6090769877",
+    "rawName": "하이텍",
+    "found": true,
+    "industry": "금속 절삭기계 제조업",
+    "matchedName": "하이텍",
+    "matchedRep": "최기용",
+    "matchedAddr": "경남 창원시 북면 감계리 286-1",
+    "source": "bizno"
+  },
+  {
+    "idx": 46,
+    "rawBizno": "6090771922",
+    "rawName": "신원정밀",
+    "found": true,
+    "industry": "주형 및 금형 제조업",
+    "matchedName": "신원정밀",
+    "matchedRep": "신석동",
+    "matchedAddr": "경남 창원시 의창구 죽전로74번길 47, 1층",
+    "source": "bizno"
+  },
+  {
+    "idx": 47,
+    "rawBizno": "6090771956",
+    "rawName": "동일정공",
+    "found": true,
+    "industry": "자동차 엔진용 신품 부품 제조업",
+    "matchedName": "동일정공",
+    "matchedRep": "이도연",
+    "matchedAddr": "경남 창원시 의창구 북면 천주로769번길 90-16",
+    "source": "bizno"
+  },
+  {
+    "idx": 48,
+    "rawBizno": "6090773333",
+    "rawName": "신광산기",
+    "found": true,
+    "industry": "그 외 기타 일반목적용 기계 제조업",
+    "matchedName": "신광산기",
+    "matchedRep": "정순오",
+    "matchedAddr": "경남 창원시 성산구 성산패총로38번길 14, 1층",
+    "source": "bizno"
+  },
+  {
+    "idx": 49,
+    "rawBizno": "6090774671",
+    "rawName": "성화기계",
+    "found": true,
+    "industry": "기타 특수 목적용 기계 제조업",
+    "matchedName": "성화기계",
+    "matchedRep": "이석규",
+    "matchedAddr": "경남 창원시 성산구 연덕로9번길 15",
+    "source": "bizno"
+  },
+  {
+    "idx": 50,
+    "rawBizno": "6090775326",
+    "rawName": "대상정공",
+    "found": true,
+    "industry": "금속파스너, 스프링 및 금속선 가공제품 제조업",
+    "matchedName": "대상정공",
+    "matchedRep": "황종구",
+    "matchedAddr": "경남 창원시 성산구 완암로 50, 메카동 B 114",
+    "source": "bizno"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n  const list = [{"idx":1,"bizno":"6090653247","name":"청우정공","rep":"이상원","addr":"경남 김해시 생림면 상동로 78-73 (나전리)"},{"idx":2,"bizno":"6090657239","name":"도경테크","rep":"하임숙","addr":"경남 창원시 의창구 평산로70번길 20 (팔용동)"},{"idx":3,"bizno":"6090657409","name":"한웅정공","rep":"한기수","addr":"경남 함안군 칠원읍 무기로 69 (무기리)"},{"idx":4,"bizno":"6090658771","name":"백봉제어기계","rep":"","addr":"경남 창원시 성산구 완암로 50"},{"idx":5,"bizno":"6090658790","name":"선도","rep":"윤양호","addr":"경남 창원시 의창구 차룡로 1 (팔용동)"},{"idx":6,"bizno":"6090659111","name":"진양산업","rep":"하희자","addr":"경남 창원시 의창구 대산면 봉강가술로537번길 36 (가술리)"},{"idx":7,"bizno":"6090662896","name":"한국열처리","rep":"","addr":"경상남도 창원시"},{"idx":8,"bizno":"6090663046","name":"호성정기","rep":"이상민","addr":"경남 창원시 성산구 공단로474번길 15 (성산동)"},{"idx":9,"bizno":"6090663347","name":"코리아펀치","rep":"김향곤","addr":"경남 창원시 의창구 차룡로 49, 1층 (팔용동)"},{"idx":10,"bizno":"6090665646","name":"철원정밀공업사","rep":"박진철","addr":"경남 창원시 의창구 차룡단지로 27"},{"idx":11,"bizno":"6090665909","name":"거성정밀","rep":"송경복","addr":"경남 창원시 마산회원구 봉암북13길 43-25 (봉암동)"},{"idx":12,"bizno":"6090671376","name":"광진전자","rep":"","addr":"경상남도 김해시"},{"idx":13,"bizno":"6090673281","name":"청록엔지니어링","rep":"유이경","addr":"경남 창원시 마산회원구 봉암공단5길 81"},{"idx":14,"bizno":"6090678568","name":"PLUS산전","rep":"이규준","addr":"경남 창원시 의창구 태복산로11번길 7 (도계동)"},{"idx":15,"bizno":"6090679913","name":"태창산업","rep":"박창옥","addr":"경남 창원시 성산구 웅남로 328 (웅남동)"},{"idx":16,"bizno":"6090680972","name":"대현제어","rep":"최준관","addr":"경남 창원시 성산구 완암로 50, 메카동 318호 (성산동,창원sk테크노파크)"},{"idx":17,"bizno":"6090681627","name":"화성감리","rep":"","addr":"경상남도 창원시"},{"idx":18,"bizno":"6090687000","name":"진메탈테크","rep":"조국제","addr":"경남 김해시 진영읍 본산로269번길 15-17 (본산리)"},{"idx":19,"bizno":"6090687257","name":"LC하이텍","rep":"이희현","addr":"경남 창원시 마산회원구 봉암공단6길 15 (봉암동)"},{"idx":20,"bizno":"6090687499","name":"태린정밀","rep":"김춘회","addr":"경남 창원시 의창구 팔용로346번길 21 (팔용동)"},{"idx":21,"bizno":"6090689497","name":"K．T．S","rep":"박치영","addr":"경남 창원시 성산구 반월로68번길 5, A동 102호 (신촌동)"},{"idx":22,"bizno":"6090694189","name":"전도기계","rep":"전형도","addr":"경남 창원시 의창구 평산로38번길 35, 차룡단지 (팔용동)"},{"idx":23,"bizno":"6090695719","name":"신영산업","rep":"양기우","addr":""},{"idx":24,"bizno":"6090696270","name":"에이치에스티","rep":"박정만","addr":"경남 창원시 성산구 월림로 74 (신촌동)"},{"idx":25,"bizno":"6090696284","name":"지원정비공업사","rep":"최지원","addr":"경남 창원시 의창구 무역로503번길 5-26, 1층 (팔용동,유통단지)"},{"idx":26,"bizno":"6090697487","name":"성신전자","rep":"박선옥","addr":"경남 창원시 의창구 죽전로74번길 33 (팔용동)"},{"idx":27,"bizno":"6090711429","name":"알파 테크노파크점","rep":"","addr":"경남 창원시 성산구 완암로 50"},{"idx":28,"bizno":"6090713067","name":"신광테크","rep":"이기두","addr":"경남 창원시 성산구 완암로 50, 창원SK테크노파크 메카존 2층 219호 (성산동)"},{"idx":29,"bizno":"6090716972","name":"진영산업","rep":"정진영","addr":"경남 김해시 진례면 고모로 71-15 (산본리)"},{"idx":30,"bizno":"6090717175","name":"혜원테크","rep":"정성일","addr":"경남 창원시 성산구 남면로 219, 1동 5호"},{"idx":31,"bizno":"6090721228","name":"서부테크","rep":"임진태","addr":"경남 진주시 사봉면 산업단지로 102 (사곡리)"},{"idx":32,"bizno":"6090723871","name":"예성테크","rep":"성윤복","addr":"경남 김해시 진례면 고모로216번길 73 (송현리)"},{"idx":33,"bizno":"6090725151","name":"부민에프에이씨","rep":"김종관","addr":"경남 창원시 성산구 월림로39번길 63-35 (신촌동)"},{"idx":34,"bizno":"6090725340","name":"원일정밀","rep":"조제건","addr":"경남 창원시 성산구 월림로65번길 6-55 (신촌동)"},{"idx":35,"bizno":"6090725471","name":"거성정밀","rep":"이철현","addr":"경남 창원시 의창구 동읍 백월로 489-14 (화양리)"},{"idx":36,"bizno":"6090731236","name":"주미엔지니어링","rep":"강희승","addr":"경남 창원시 의창구 차상로150번길 32, 3층 203-1호 (팔용동,팔용종합프라자)"},{"idx":37,"bizno":"6090731798","name":"한길정밀","rep":"이성일","addr":"경남 창원시 의창구 북면 감계로156번길 6-9 (감계리)"},{"idx":38,"bizno":"6090732351","name":"원테크","rep":"박종원","addr":"경남 창원시 성산구 반월로60번길 34-16 (신촌동)"},{"idx":39,"bizno":"6090732856","name":"유선정밀","rep":"최석근","addr":"경남 창원시 의창구 반계로 31, 1층 103호 (팔용동,공장동)"},{"idx":40,"bizno":"6090733097","name":"우경테크","rep":"박민식","addr":"경남 김해시 진영읍 김해대로 94-21 (좌곤리)"},{"idx":41,"bizno":"6090736279","name":"거산정밀","rep":"이두재","addr":"경남 창원시 성산구 월림로65번길 17 (신촌동)"},{"idx":42,"bizno":"6090737152","name":"지오시스","rep":"","addr":"경상남도 창원시"},{"idx":43,"bizno":"6090743426","name":"선우테크","rep":"이정환","addr":"경남 창원시 의창구 죽전로82번길 35 (팔용동)"},{"idx":44,"bizno":"6090745235","name":"동우하이텍","rep":"최석호","addr":"경남 함안군 칠원읍 원서로 139-28 (용정리)"},{"idx":45,"bizno":"6090769877","name":"하이텍","rep":"최기용","addr":"경남 창원시 의창구 북면 동전로45번길 9 (감계리)"},{"idx":46,"bizno":"6090771922","name":"신원정밀","rep":"신석동","addr":"경남 창원시 의창구 죽전로74번길 47, 1층 (팔용동)"},{"idx":47,"bizno":"6090771956","name":"동일정공","rep":"이도연","addr":"경남 창원시 의창구 북면 천주로769번길 90-16 (동전리)"},{"idx":48,"bizno":"6090773333","name":"신광산기","rep":"정순오","addr":"경남 창원시 성산구 성산패총로38번길 14, 1층 (성산동,(주)대림메탈공장)"},{"idx":49,"bizno":"6090774671","name":"성화기계","rep":"이석규","addr":"경남 창원시 성산구 곰절길9번길 26 (성주동)"},{"idx":50,"bizno":"6090775326","name":"대상정공","rep":"황종구","addr":"경남 창원시 성산구 완암로 50, SK테크노파크 메카동 B114 (성산동)"}];\n\n  async function queryNice(keyword) {\n    if (!keyword) return { keyword, totalCount: 0, results: [] };\n    store.isFetched = false;\n    const input = document.querySelector(\'input[placeholder*="기업명"]\');\n    input.value = keyword;\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n    \n    input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keyup\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n\n    for (let i = 0; i < 40; i++) {\n      await new Promise(r => setTimeout(r, 100));\n      if (store.isFetched && store.searchKeyword === keyword) break;\n    }\n\n    return {\n      keyword,\n      totalCount: store.totalCount || 0,\n      results: (store.searchResultList || []).map(r => ({\n        bizno: r.bizno,\n        name: r.korentrnm,\n        rep: r.korreprnm,\n        addr: r.koraddr,\n        industry: r.sanupscd_kor\n      }))\n    };\n  }\n\n  const output = [];\n  for (const item of list) {\n    let res = await queryNice(item.bizno);\n    let match = null;\n    let source = \'bizno\';\n\n    if (res.results && res.results.length > 0) {\n      match = res.results[0];\n    } else if (item.name) {\n      res = await queryNice(item.name);\n      if (res.results && res.results.length === 1) {\n        match = res.results[0];\n        source = \'name_exact\';\n      } else if (res.results && res.results.length > 1) {\n        const byRep = res.results.find(r => item.rep && r.rep && (r.rep.includes(item.rep) || item.rep.includes(r.rep)));\n        if (byRep) {\n          match = byRep;\n          source = \'name_rep_match\';\n        } else {\n          const byRegion = res.results.find(r => r.addr && (r.addr.includes(\'경남\') || r.addr.includes(\'창원\') || r.addr.includes(\'김해\') || r.addr.includes(\'함안\')));\n          if (byRegion) {\n            match = byRegion;\n            source = \'name_region_match\';\n          }\n        }\n      }\n    }\n\n    output.push({\n      idx: item.idx,\n      rawBizno: item.bizno,\n      rawName: item.name,\n      found: !!match,\n      industry: match ? match.industry : \'\',\n      matchedName: match ? match.name : \'\',\n      matchedRep: match ? match.rep : \'\',\n      matchedAddr: match ? match.addr : \'\',\n      source: match ? source : \'not_found\'\n    });\n\n    await new Promise(r => setTimeout(r, 100));\n  }\n\n  return output;\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6090775326
+- Page Title: '6090775326' - 검색상세
+- Console: 1 errors, 0 warnings

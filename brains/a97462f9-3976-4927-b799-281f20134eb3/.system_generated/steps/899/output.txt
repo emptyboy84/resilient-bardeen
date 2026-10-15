@@ -1,0 +1,152 @@
+
+The command exited with code 0.
+Output:
+=== FILLS IN 배현명_.xlsx ===
+Fill: {"theme":7,"tint":0.7999816888943144} (count sample: 5) [
+  { rNum: 1, colNum: 1, val: '구분' },
+  { rNum: 1, colNum: 2, val: '순번' },
+  { rNum: 1, colNum: 3, val: '사업체명' },
+  { rNum: 1, colNum: 4, val: '사업자번호' },
+  { rNum: 1, colNum: 5, val: '설립연도(연도)' }
+]
+Fill: {"theme":5,"tint":0.7999816888943144} (count sample: 5) [
+  { rNum: 1, colNum: 13, val: '컨택결과' },
+  { rNum: 1, colNum: 14, val: '폐업 날짜' },
+  { rNum: 1, colNum: 15, val: '비고' },
+  { rNum: 9, colNum: 14, val: 2023-08-31T00:00:00.000Z },
+  { rNum: 9, colNum: 15, val: '폐업자' }
+]
+Fill: {"theme":8,"tint":0.7999816888943144} (count sample: 5) [
+  { rNum: 126, colNum: 4, val: '627-40-00252' },
+  { rNum: 508, colNum: 4, val: '535-20-00519' },
+  { rNum: 568, colNum: 4, val: '709-86-03340' },
+  { rNum: 589, colNum: 4, val: '602-33-02670' },
+  { rNum: 598, colNum: 4, val: '139-80-09994' }
+]
+Fill: {"theme":0} (count sample: 3) [
+  { rNum: 690, colNum: 8, val: '051-990-0390' },
+  { rNum: 1056, colNum: 3, val: '이매진스튜디오' },
+  { rNum: 1749, colNum: 8, val: '051-205-8999' }
+]
+Fill: {"argb":"FFF5F6F8"} (count sample: 2) [
+  { rNum: 862, colNum: 5, val: 2015 },
+  { rNum: 863, colNum: 4, val: '대표자명' }
+]
+Fill: {"argb":"FFFFFF00"} (count sample: 5) [
+  { rNum: 1285, colNum: 3, val: '한국산업정보사' },
+  { rNum: 1971, colNum: 11, val: '동구 범일동 자성공원로   ' },
+  { rNum: 2048, colNum: 3, val: '정광사' },
+  { rNum: 2283, colNum: 7, val: '남득현' },
+  { rNum: 2291, colNum: 4, val: '229-81-00046' }
+]
+Fill: {"argb":"FFDDEBF7"} (count sample: 2) [
+  { rNum: 1769, colNum: 4, val: '295-81-02546' },
+  { rNum: 1800, colNum: 4, val: '714-11-01026' }
+]
+Fill: {"theme":8,"tint":0.7998901333658864} (count sample: 5) [
+  { rNum: 1798, colNum: 4, val: '607-92-00714' },
+  { rNum: 1845, colNum: 4, val: '617-81-95003' },
+  { rNum: 1874, colNum: 4, val: '111-87-00112' },
+  { rNum: 1913, colNum: 4, val: '221-81-50940' },
+  { rNum: 1923, colNum: 4, val: '255-47-00774' }
+]
+Fill: {"argb":"FFFFFFFF"} (count sample: 3) [
+  { rNum: 2081, colNum: 11, val: '부산광역시 사상구 모라로 22, 1413호' },
+  {
+    rNum: 2282,
+    colNum: 11,
+    val: '부산광역시 해운대구 센텀중앙로 48, 13층 1304호 씨에프-에프46(우동, 에이스하이테크21)'
+  },
+  {
+    rNum: 2283,
+    colNum: 11,
+    val: '부산광역시 해운대구 센텀중앙로 97, 비동 6층 604호 46실(재송동, 센텀스카이비즈)'
+  }
+]
+Fill: {"theme":9,"tint":0.3999755851924192} (count sample: 5) [
+  { rNum: 2273, colNum: 3, val: '겜스터즈' },
+  { rNum: 2273, colNum: 4, val: '316-81-30602' },
+  { rNum: 2273, colNum: 7, val: '손민기' },
+  { rNum: 2274, colNum: 3, val: '블루솜' },
+  { rNum: 2274, colNum: 4, val: '617-81-57256' }
+]
+
+=== FONTS IN 배현명_.xlsx ===
+Font Color: {"theme":1} (count sample: 5) [
+  { rNum: 1, colNum: 1, val: '구분' },
+  { rNum: 2, colNum: 1, val: '25년 모집단' },
+  { rNum: 3, colNum: 1, val: '25년 모집단' },
+  { rNum: 4, colNum: 1, val: '25년 모집단' },
+  { rNum: 5, colNum: 1, val: '25년 모집단' }
+]
+Font Color: {"argb":"FFFF0000"} (count sample: 5) [
+  { rNum: 56, colNum: 4, val: '163-10-01084' },
+  { rNum: 56, colNum: 11, val: '부산진구 서전로37번길 25-9 예일프라자 312호' },
+  { rNum: 126, colNum: 4, val: '627-40-00252' },
+  { rNum: 126, colNum: 7, val: '박정현' },
+  { rNum: 126, colNum: 14, val: 2026-04-30T00:00:00.000Z }
+]
+Font Color: {"argb":"FF424242"} (count sample: 5) [
+  { rNum: 161, colNum: 11, val: '부산광역시 해운대구 센텀중앙로 97, 에이동 6층 605호' },
+  { rNum: 690, colNum: 4, val: ' 542-85-01984' },
+  { rNum: 726, colNum: 4, val: '602-81-18659' },
+  {
+    rNum: 1658,
+    colNum: 11,
+    val: '부산광역시 해운대구 수영강변대로 140, 9층 906호(우동, 부산문화콘텐츠컴플렉스)'
+  },
+  { rNum: 1833, colNum: 7, val: '김소연' }
+]
+Font Color: {"argb":"FF222222"} (count sample: 2) [
+  {
+    rNum: 524,
+    colNum: 4,
+    val: '주소부산 부산진구 서전로37번길 25-9, 307호(전포동,예일프라자)'
+  },
+  { rNum: 863, colNum: 4, val: '대표자명' }
+]
+Font Color: {"argb":"FF666666"} (count sample: 5) [
+  { rNum: 574, colNum: 4, val: '617-81-81741' },
+  { rNum: 574, colNum: 11, val: '부산 해운대구 센텀동로 45, 1층 101호 (우동,웹스빌딩)' },
+  { rNum: 637, colNum: 4, val: '607-14-91629' },
+  { rNum: 637, colNum: 11, val: '경남 양산시 죽전1길 24-19(용당동)' },
+  { rNum: 731, colNum: 4, val: '621-08-95260' }
+]
+Font Color: {"indexed":8} (count sample: 5) [
+  { rNum: 690, colNum: 8, val: '051-990-0390' },
+  { rNum: 739, colNum: 11, val: '동래구 온천동 미남로 ' },
+  { rNum: 774, colNum: 11, val: '금정구 남산동 금강로 도루코' },
+  { rNum: 1652, colNum: 3, val: '젠투' },
+  { rNum: 1654, colNum: 3, val: '굿써클게임즈' }
+]
+Font Color: {"argb":"FF111111"} (count sample: 2) [
+  {
+    rNum: 690,
+    colNum: 11,
+    val: '부산광역시 강서구 명지국제6로 168, 3층 3100호(명지동, 스타필드 시티 명지점)'
+  },
+  { rNum: 699, colNum: 7, val: '곽성욱' }
+]
+Font Color: {"argb":"FF2B2B2B"} (count sample: 5) [
+  {
+    rNum: 699,
+    colNum: 11,
+    val: '부산광역시 해운대구 센텀동로 41 3층 308호 (우동, 센텀벤처타운)'
+  },
+  { rNum: 726, colNum: 9, val: '051-932-0002' },
+  { rNum: 726, colNum: 11, val: '부산광역시 사상구 대동로 290, 6층 (감전동)' },
+  { rNum: 1521, colNum: 7, val: '문봉성' },
+  { rNum: 1614, colNum: 7, val: '양대현' }
+]
+Font Color: {"argb":"FF232327"} (count sample: 2) [
+  { rNum: 1653, colNum: 4, val: ' 818-88-02673' },
+  { rNum: 1662, colNum: 11, val: '부산광역시 남구' }
+]
+Font Color: {"argb":"FF767676"} (count sample: 1) [
+  {
+    rNum: 1663,
+    colNum: 11,
+    val: '부산 해운대구 수영강변대로 140 (우동, 부산문화콘텐츠컴플렉스) 9층 909호'
+  }
+]
+

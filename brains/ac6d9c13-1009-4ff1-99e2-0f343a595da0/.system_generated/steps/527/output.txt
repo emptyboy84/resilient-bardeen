@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Successfully updated TXT report with 5 platform results!
+

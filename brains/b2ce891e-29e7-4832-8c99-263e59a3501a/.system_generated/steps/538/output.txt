@@ -1,0 +1,9 @@
+The search for "site:seainfotec.com "전화" OR "051" OR "Tel" OR "연락처" OR "contact"" returned the following summary:
+(주)세아인포텍(SEA Infotec)의 연락처 및 위치 정보는 다음과 같습니다[1]:
+
+* **전화번호:** 051-781-0707[1]
+* **이메일:** less240@seainfotec.com[1]
+* **주소:** 부산광역시 해운대구 센텀북대로 60, 1612호 (재송동, 센텀아이에스타워)[1]
+
+Sources:
+[1] [seainfotec.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGbwmApMmwpNVAgH-knr8Sp4ZypFAYzutBtZs-Q-q5I_EpQyjZEksnuD2QlYaycjubtwkyzhiMkMayftHm3Uws97EWd8sNYT6mWkEEKPGWrL2DklwBuA==)

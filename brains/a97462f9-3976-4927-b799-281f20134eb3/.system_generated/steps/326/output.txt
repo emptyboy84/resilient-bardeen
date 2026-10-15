@@ -1,0 +1,22 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119_list.txt","LineNumber":94,"LineContent":"[94] Row 2117 (순번 2116): 스튜디오더블린 | Type: 애니메이션 | Rep:  | Phone: 051-557-2381 | Addr: "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unresolved_119.json","LineNumber":842,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_summary.txt","LineNumber":39,"LineContent":"  스튜디오더블린 (Row 2117, 순번 2116)"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\unmatched_rows.json","LineNumber":3099,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\real_unmatched_274.json","LineNumber":3099,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\final_master_resolution.json","LineNumber":1821,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_unverified.json","LineNumber":1756,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\bizno_274_results.json","LineNumber":4543,"LineContent":"      \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\228844c1-7cf3-4d15-8f56-9f1d0de8a851\\scratch\\all_empty_rows.json","LineNumber":3021,"LineContent":"    \"사업체명\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\verified_results.json","LineNumber":2032,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\unpopulated_271.json","LineNumber":2478,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\exact_blanks_229.json","LineNumber":2540,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_blanks.json","LineNumber":2540,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\remaining_229_blanks.json","LineNumber":1643,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\22cde527-6a05-4644-ad41-9385bbc0ffd2\\scratch\\missing_421.json","LineNumber":3065,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\bizno_turbo_matches.json","LineNumber":1227,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\final_318_resolved.json","LineNumber":2979,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\target_318_companies.json","LineNumber":3681,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\master_matches.json","LineNumber":1947,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_utf8.txt","LineNumber":95,"LineContent":" 95 | Row 2117 | 스튜디오더블린                   | CEO:            | Tel: 051-557-2381   | Addr:                                    "}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132_detail.json","LineNumber":1980,"LineContent":"    \"name\": \"스튜디오더블린\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\cc5f8116-f40f-4d66-a990-d85efe7bc64f\\scratch\\unmatched_132.txt","LineNumber":97,"LineContent":"[95] Row 2117 | 상호: 스튜디오더블린 | 대표:  | 전화: 051-557-2381 | 시군구:  | 주소:  | 업종: 애니메이션"}

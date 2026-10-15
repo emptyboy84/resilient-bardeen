@@ -1,0 +1,45 @@
+Row 20410:
+  Col 1~7: (None, None, '해우림', 8978702441, '김해몽', None, '경남 창원시 의창구 북면 감계로156번길 15, 1층 (감계리)')
+  Col 8~15: ('055-295-2441', '055-296-2441', None, None, None, '20230403', None, None)
+  Col 18(NICE): 일반용 전기 조명장치 제조업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20411:
+  Col 1~7: (None, None, '주식회사이루리', 8978800756, None, None, '부산 강서구 미음산단5로41번길 71, 605호 (미음동,부산글로벌테크비즈센터)')
+  Col 8~15: ('052 277 1996', '052 277 1998', None, 'kchun@yiruri.com', None, '20170215', None, 3)
+  Col 18(NICE): 제조업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20412:
+  Col 1~7: (None, None, '(주)미라벨', 8978801342, '임준현', None, '대구광역시 수성구 시지로 20, 1층(시지동)')
+  Col 8~15: ('053-761-2235', '-', None, None, None, '2018. 11. 15.', None, 3)
+  Col 18(NICE): 아파트 건설업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20413:
+  Col 1~7: (None, None, '제프리', 8981701554, '박*진', None, '부산광역시 사하구 신산로 120, 없음동 1층 108호 (신평동) 없음동 1층 108호')
+  Col 8~15: (None, None, None, None, None, None, None, 1)
+  Col 18(NICE): 시각 디자인업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20414:
+  Col 1~7: (None, None, '투투', 8985800242, '서현석', None, '부산광역시 해운대구 센텀중앙로 48, 13층 1308 (우동, 에이스하이테크21)')
+  Col 8~15: ('010-3842-5782', None, None, None, None, '20190823', None, 2)
+  Col 18(NICE): 시장조사 및 여론조사업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20415:
+  Col 1~7: (None, None, '(주)이밸류', 8988102082, '정동훈', None, '부산 남구 용소로40번길 4-2, 1층,2층 (대연동)')
+  Col 8~15: (None, None, None, None, None, '20211101', None, None)
+  Col 18(NICE): 정보통신업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20416:
+  Col 1~7: (None, None, '(주)들의곰', 8988602578, '최원문,\xa0용승준', None, '경기 수원시 권선구 금곡로 5-42 3층 들의곰')
+  Col 8~15: ('0507-1356-2895', None, None, 'dregom@dregom.com', None, '2022. 2. 28.', None, 4)
+  Col 18(NICE): 응용 소프트웨어 개발 및 공급업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20417:
+  Col 1~7: (None, None, '츄캣', 8988802062, None, None, '경남 진주시 동부로169번길 12, 에이동 401호(12)  (충무공동)')
+  Col 8~15: (None, None, None, None, None, '20210902', None, None)
+  Col 18(NICE): None, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)
+Row 20418:
+  Col 1~7: (None, None, '케이안전기술원', 8988802742, None, None, '경남 진주시 동부로169번길 12, A동 7층 710호 (충무공동,윙스타워)')
+  Col 8~15: (None, None, None, None, None, '20231109', None, 7)
+  Col 18(NICE): 기타 엔지니어링 서비스업, Col 25(법인번호): None, Col 31(결산월): None
+  Col 48~50(대중소): (None, None, None)

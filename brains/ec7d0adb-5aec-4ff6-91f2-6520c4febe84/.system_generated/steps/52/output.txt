@@ -1,0 +1,26 @@
+The search for ""제11차 한국표준산업분류" "27199"" returned the following summary:
+제11차 한국표준산업분류(KSIC)에서 **27199** 코드는 **'그 외 기타 의료용 기기 제조업'**입니다[1][2].
+
+이 분류에 대한 상세 정보는 다음과 같습니다.
+
+*   **분류 정의:** 달리 분류되지 않은 각종 의료용 기기 제품을 제조하는 산업활동을 포함합니다[2][3].
+*   **주요 예시:**
+    *   기계적 요법 기구 및 물리요법용 기기 제조[2]
+    *   시력 측정기 및 안과용 기기 제조[2]
+    *   임신 진단기 제조[2]
+    *   주사기 및 주사 바늘 제조[2]
+    *   수혈 세트 및 수액 세트 제조[2]
+    *   인공 신장기용 투석기 제조[2]
+    *   산소 흡입기 제조[2]
+    *   심리학적 적성 검사용 기기 제조[2]
+    *   산부인과용 기기 제조[2]
+    *   의료용 검사 램프 제조[2]
+    *   광학식 내시경 제조 등[2]
+
+제11차 개정에서도 해당 코드는 기존(제10차)과 동일하게 '그 외 기타 의료용 기기 제조업'으로 유지되고 있습니다[4].
+
+Sources:
+[1] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFazDcILV8o4TN15i9h3G6bKb64w6dFeDhcSgraiOyz8G9H_gKSZZaR-AlXOiD3CHKbmnKoRs_ODmkKU7OKRqA8qcZvPte2pmcSLi4jw6jErteOvDy2PaJ-6hSlGhBgzg6HixsygbUuP8GZslvIBaHD7hR7xw-3HiHWecGXE_E=)
+[2] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXd8kQbm7N6H3wW_9I0_iV41zVIDccHuLKoSnvHwVBToRRTXMvJnnTun6z5WPFeKyiwMxYC2LmgReiYe8l3HVBJeJL3feMi1N0UXM4WxcbrbZvQHxDkJqmhfE76jtyxdTp-0RCVJc=)
+[3] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFazDcILV8o4TN15i9h3G6bKb64w6dFeDhcSgraiOyz8G9H_gKSZZaR-AlXOiD3CHKbmnKoRs_ODmkKU7OKRqA8qcZvPte2pmcSLi4jw6jErteOvDy2PaJ-6hSlGhBgzg6HixsygbUuP8GZslvIBaHD7hR7xw-3HiHWecGXE_E=)
+[4] [mods.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3n3G8Q6qyY7GRwDJ2h9Kmzc3qO5ezvdJborjGq3LMdXXWGOJ1xXShB6SvAC_EysiGIJ9UJheGzz1PaKtCw6Ms3Z4xNGXVanJmYNz5BW7jEPAOng-vpGU3hcn94xbkACZueWbARrIYoVsdkIssvq4P74qjoWI_)

@@ -1,0 +1,31 @@
+### Result
+[
+  {
+    "id": "gnb_my_lyr_iframe",
+    "text": ""
+  },
+  {
+    "id": "gnb_notice_lyr_iframe",
+    "text": ""
+  },
+  {
+    "id": "gnb_service_lyr_iframe",
+    "text": ""
+  },
+  {
+    "id": "gnb_svc_more_iframe",
+    "text": ""
+  },
+  {
+    "id": "searchIframe",
+    "text": "cross-origin"
+  },
+  {
+    "id": "ncaptcha-iframe-cbdzhv",
+    "text": "cross-origin"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframes = Array.from(document.querySelectorAll(\'iframe\'));\n  return iframes.map(f => {\n    try {\n      return { id: f.id, text: f.contentDocument ? f.contentDocument.body.innerText : \'cross-origin\' };\n    } catch(e) {\n      return { id: f.id, err: e.message };\n    }\n  });\n}');
+```

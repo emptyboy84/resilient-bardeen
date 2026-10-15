@@ -1,0 +1,35 @@
+
+The command exited with code 0.
+Output:
+      </td>
+                        </tr>
+                    
+                    
+                        <tr class="mbz-tab-wrop-tr">
+                            <th class="mbz-tab-wrop-th">주소(영문)<i style="display: none;" class="fa fa-comment mbz-icon"
+                                                                 data-col-name="" data-change-val=""
+                                                                 title="변경 직전 값 보기"></i></th>
+                            
+                            <td colspan="3" class="mbz-td">
+                                <button type="button" class="mbz-access-cta mbz-access-cta--free mbz-free-view-btn" onclick="fn_joinFree();" aria-label="로그인 또는 무료회원 가입 후 보기">
+                                    <span>로그인·무료가입 후 보기</span><span class="mbz-free-view-arrow" aria-hidden="true">›</span>
+                                </button>
+                            </td>
+                        </tr>
+                    
+                    
+                    </tbody>
+                </table>
+            </div>
+            <script language="javascript">
+                $(document).ready(function () {
+                    $('.pop-update-address').click(function () {
+                        $.ajax({
+                            url: "/mbz/api/time/available",
+                            method: "GET",
+                            dataType: "json",
+                            success: function (data) {
+                                if (data.available) {
+                                    alert('주소 변경을 위해 확인 절차가 필요합니다\n회원가입 후 진행해주세요');
+         
+

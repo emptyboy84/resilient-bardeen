@@ -1,0 +1,34 @@
+The search for ""족보만드는곳" OR "족보만드는곳족보관"" returned the following summary:
+족보 제작과 관련하여 전문적인 서비스(수단 접수, 편집, 인쇄, 인터넷/전자족보 구축 등)를 제공하는 대표적인 업체 및 기관들은 다음과 같습니다.
+
+### 주요 족보 제작 전문 업체
+*   **한국족보문화진흥원**: 뿌리 찾기, 족보 고증, 책자 족보 제작, 전자족보 및 모바일 족보 구축, 종친회 홈페이지 제작 등 종합적인 서비스를 제공합니다[1][2].
+*   **한얼족보사**: 족보 수단(자료 수집) 대행부터 입력, 편집, 인쇄, 발송까지 전 과정을 전문으로 수행하며 인터넷 족보 제작도 지원합니다[3][4].
+*   **뿌리정보미디어**: 족보 및 문집 제작, 인터넷/모바일 족보, 종친회 홈페이지 제작, 수단 접수 대행 등을 수행하는 족보 전문 출판사입니다[5][6].
+*   **대보사**: 전자족보 및 인터넷/모바일 족보 제작에 특화되어 있으며, 종친회 홈페이지 제작 및 족보 편집 프로그램 등을 제공합니다[7][8][9].
+*   **MYRoot (마이루트)**: 인터넷 족보 토탈 솔루션을 제공하며, 별도의 프로그램 설치 없이 웹 환경에서 족보를 편집하고 열람할 수 있는 시스템을 운영합니다[10][11].
+*   **한국인 족보 연구소**: 1990년 설립된 곳으로 조상의 뿌리 찾기, 족보 제작 및 출판, 전자영상족보 제작 등을 전문으로 합니다[12][13].
+
+### 참고 사항
+*   **서비스 범위**: 대부분의 업체가 종친회 단위의 대규모 족보 편찬 업무를 주력으로 하며, 가승(개인 족보) 제작이나 뿌리 찾기 상담 등도 병행하는 경우가 많습니다[1][14].
+*   **디지털 전환**: 최근에는 전통적인 책자 족보뿐만 아니라 언제 어디서나 쉽게 열람하고 수정할 수 있는 **인터넷 족보, 모바일 족보** 제작이 활발히 이루어지고 있습니다[7][9].
+*   **선택 기준**: 종친회의 규모나 예산, 필요로 하는 기능(실시간 업데이트, 홈페이지 연동 등)에 따라 적합한 업체를 선택하는 것이 좋습니다[11][15][4].
+
+각 업체의 홈페이지를 방문하시면 제작 실적과 샘플, 상담 문의 정보를 확인하실 수 있습니다.
+
+Sources:
+[1] [alljokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzLHwSigPtHbRdkej_pth4iDYhMpxhKGYVtvXiRmtnUGtY2IWrwfxaDc5jfCLZYBvUzEH-zhFGVG2qXYTnPBU7-XnYEECgfnofPHr3s8Yj)
+[2] [alljokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzLHwSigPtHbRdkej_pth4iDYhMpxhKGYVtvXiRmtnUGtY2IWrwfxaDc5jfCLZYBvUzEH-zhFGVG2qXYTnPBU7-XnYEECgfnofPHr3s8Yj)
+[3] [daum.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXxQPA6DOh6dtV5Iy19bvPyg7RbSmx5y2y4VdO9YQVXOwDs9IcEGKp_R66w3nXeOTU7uTOndPV6mr2jghK-D38IEgNlEnk2Ue_PCtCq7U3FtMvvlGvrEZqvLA=)
+[4] [hanaljokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHflNM84cVkSHrVIOMxLTe4JHM5lWbSnD-8THQOJN-Lk-7gNKaQtr4AUlWNiGcQZp1hcK2i1H6QZaB_4PgZtN4qlaLfeVoZac9pYiDZDXFXJi7PtaHRvTalShhwcQ==)
+[5] [yesjokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG97v0He3xHQHlYLbN9rxlvQheQph1yZbo63gWEoClhtEYIKyMzKjUuPt6z0nnsQLm1il0lIuInXqie86B0-QcQ9ffeTGPtMU5s6-wDdP2E2I6_iZEQb61WN0z4-XMF4Co=)
+[6] [yesjokbo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgkFGFESy4oLCXjAvcZMdFuVTjIuTrkGMUvaJCwqMDB9f3lVxpuKXT8ae_--YMwZ_Vz_C2_jxl32KuuoAO0AnFoaWF30loJxWI9JiRdvOE)
+[7] [daebosa.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeBWYaX0fgurm5M1BDY8sLoXCBHiH9RrYMlOyDpPzjsE7__wSFjvhZlP5FK7wWqbCWOoouX3YJC8trVcRHQRMyPRe4qRd1HsJ-kDh79cL2vCLJTxqmdAhgKajdVn_oEA==)
+[8] [daebosa.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC73pqkMyyWmBpTsHmOQXB9W3ks5N4YqsfrTz8dvsuZBcu6ijuKHl6hV2rUyMc5DzwgEu-Kel9_OX93yeMvxe64Ak0047bx3EglUelazprBQVBHrT3enxbLTMfJRM=)
+[9] [daebosa.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeBWYaX0fgurm5M1BDY8sLoXCBHiH9RrYMlOyDpPzjsE7__wSFjvhZlP5FK7wWqbCWOoouX3YJC8trVcRHQRMyPRe4qRd1HsJ-kDh79cL2vCLJTxqmdAhgKajdVn_oEA==)
+[10] [myroot.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagjJ_ZceDYsC8Jg1OmsMD6i9Awi0ZdL3NxzfWG8xutqdbhKFkpVogiPVwP7xIq8xb_ilL9Uea7ruA5FcdQDqjhuOkUC9GUL_XKYB7YXr6)
+[11] [myroot.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEagjJ_ZceDYsC8Jg1OmsMD6i9Awi0ZdL3NxzfWG8xutqdbhKFkpVogiPVwP7xIq8xb_ilL9Uea7ruA5FcdQDqjhuOkUC9GUL_XKYB7YXr6)
+[12] [ijokbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRMuqXPqlouGgqqIZE4rMcSm2eMappj48G5cnSrYln-1kYaUzMcZFbUKbRmJ9mZJmrH5duaOnq23je5Q9EE5xW6ZphQU9XH3Neyts-XwQ=)
+[13] [ijokbo.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRMuqXPqlouGgqqIZE4rMcSm2eMappj48G5cnSrYln-1kYaUzMcZFbUKbRmJ9mZJmrH5duaOnq23je5Q9EE5xW6ZphQU9XH3Neyts-XwQ=)
+[14] [xn--ok0b03zhngu4bdtb.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjHYBwIN23kvm9ztE7fcnVEGofVt-2B72MDddOBNzMiiHNT7IpeX6krcz_dWLODvZjl8CAWIEvSEn_F63hxYVj4ECOI4c2uhXXhNWZLFfQEGOsSTzcS9SgGAYaTbspx9KKd391ZpTU)
+[15] [haenamyun.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtS58uW7VCvWcRSC9793NaHXmvJBcAKKe67yghac_vgNV_6gTFPVw4oNbFs3bcl4mK7YFlePWkZBfx8cLsjqQTHSulM9ybDVA-b7Rj5AhvcyWmzCo-ekmH5Q==)

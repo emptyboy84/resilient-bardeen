@@ -1,0 +1,11 @@
+The search for ""에코캡" "사업자등록번호" DART OR NICE" returned the following summary:
+금융감독원 전자공시시스템(DART) 및 기업 정보 데이터에 등록된 **에코캡 주식회사(ECOCAB)**의 사업자등록번호 및 기업 식별 정보는 다음과 같습니다[1][2].
+
+* **회사명:** 에코캡 주식회사 (ECOCAB CO., LTD.)[1]
+* **사업자등록번호:** **605-81-84196**[1]
+* **법인등록번호:** 180111-0602755 (DART 표기 기준: 18011-0602755)[1][2]
+* **DART 종목코드 (상장코드):** 128540 (코스닥 상장)[1]
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZ6rZChz2ZuEJZb_YyB66RJOzb3JppEfuOgL-ynQjVBOLRaG4YHP_zwpnI2kR6ONrtt0zo5SpnMFAcMQSQrUX7ouDovw5LpsL7idVUnn5-kn_YL1_KgDEGdvk0zzccKjDeVH7jx5-l-ggo_gUtpaKVsTtpv6tvGR38Swgsw==)
+[2] [dartpoint.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXBqCe5SW952lqQ4rhe9S7ts1NQibbavt2W3s5_ChMZZ-vzK_TK7QQOEHyYiaVnwrPjvrE55Q6Nr_iOGlYFI85P5s4Oug6qyUntAUEQO2naOSZSA==)

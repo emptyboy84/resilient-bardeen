@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Masked phone found for (주)에스오더 3558802361 : 010-7103-1*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+Masked phone found for 부산디지털자산거래소(주) 1518103492 : 010-2983-1*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+Masked phone found for (주)위너스매니지먼트 3438802150 : 010-5757-9*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+Masked phone found for 아타드(주) 5128602989 : 010-4000-1*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+Masked phone found for (주)에이엠매니지먼트 3888702272 : 010-3789-0*** &nbsp;&nbsp;&nbsp; (※휴대폰번호는 ***로 표시됩니다)
+

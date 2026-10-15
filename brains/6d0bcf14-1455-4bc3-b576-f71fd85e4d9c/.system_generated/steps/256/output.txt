@@ -1,0 +1,11 @@
+The search for "site:nanumsol.com "부산" OR "051" OR "센텀"" returned the following summary:
+검색 결과 `nanumsol.com`(나눔솔루션) 웹사이트 내에서 '부산' 키워드가 포함된 내용은 다음과 같습니다[1]:
+
+* **부산지사 위치**: 부산광역시 부산진구 서면로 64 창석빌딩 9층[1]
+* **부산지사 담당자 이메일**: kimsungwook0516@nanumsol.com[1]
+* **주요 파트너사**: 부산은행 등이 포함되어 있습니다[1].
+
+*(참고로 '051'이나 '센텀' 키워드 자체는 해당 검색 결과의 본문 텍스트 내 직접 매칭되지는 않았으나, 부산지사 정보 및 부산지역 파트너(부산은행) 내용이 확인됩니다.)*
+
+Sources:
+[1] [nanumsol.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmddH6Sk37q6rQ2TpBy6QxBNCIcaLxTd9PeFugML_kl67gSwIjEEt_mAaJvLewJqILRVBK90_Vy4Zcwk13QEnjGEBx_7zzABJodeyXfU4=)

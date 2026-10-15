@@ -1,0 +1,17 @@
+The search for "타스 황성현 김해" returned the following summary:
+경상남도 김해시에 위치한 **주식회사 타스(TASS)**의 CEO는 **황성현** 대표입니다[1][2].
+
+주식회사 타스는 자동화 설비 분야의 기업으로, 주요 사업 분야는 다음과 같습니다[1][2].
+
+*   **주요 사업:** 피팅 및 밸브 설비, 자동차 용품 설비, 2차 전지 설비, 자동화 검사 설비 등[1][2]
+*   **소재지:** 경상남도 김해시 주촌면 서부로 1403번길 75[2][3]
+*   **연락처:** 070-5067-6285[2][3]
+
+참고로, '황성현'이라는 이름을 가진 법조인(법률사무소 확신 대표변호사)도 있으나[4][5], 김해시 주촌면에 위치한 자동화 설비 업체 '타스'의 대표와는 다른 인물입니다[1][5].
+
+Sources:
+[1] [k-tass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5o4TzFAeQZIsSac-XlLay23llyI0kggBLt4XVteFvvQmi_ZY_c709Gh8eR6jDP5xK3Huu4fGlK6tCOUlDI6vA2zEwwPA1Q17V-P41woe5TRo=)
+[2] [k-tass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTYfmlJh9I04pohDH-sKkPNYfaHMBcpS80u3QM4bFaebnXcxH-fTN1S5t3hUgbPNlykmGvBynm4DhSLTEVbAa60QrBSapYDHAg)
+[3] [k-tass.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5o4TzFAeQZIsSac-XlLay23llyI0kggBLt4XVteFvvQmi_ZY_c709Gh8eR6jDP5xK3Huu4fGlK6tCOUlDI6vA2zEwwPA1Q17V-P41woe5TRo=)
+[4] [conviction.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK5KpzhBr7F5PFHprlhh1anQskvyODHkXDevbOolv_W7M8Jyq_4QVmYtz0Eq1R7yfEU4s0Apzat_2lPmux59ES5CZSnVMq1UJ3YGxa2KM=)
+[5] [conviction.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW-lnW_K5sDGHariyDW00lletk62h_IgHLZoyuqNSwogEZ47Kyr1HOD_YmlaTe6Yv4r9UJxj4fiMhmaI5qH_BwjcU9bLsaFnmfWJ1UzkNCuEKeVjwZGNSlb9f3onXP-2nB6-6f_w==)

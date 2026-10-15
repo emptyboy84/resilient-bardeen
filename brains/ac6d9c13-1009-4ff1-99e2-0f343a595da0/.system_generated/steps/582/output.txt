@@ -1,0 +1,113 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=JV1101
+- Page Title: (주)에스티에스 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [active] [ref=e6]:
+    - banner [ref=e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=e8]
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - heading "(주)에스티에스 기업정보" [level=1] [ref=e11]:
+            - link "(주)에스티에스 기업정보" [ref=e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=e14]:
+            - listitem [ref=e15]
+            - listitem [ref=e18]
+            - listitem [ref=e20]
+            - listitem [ref=e22]
+        - generic [ref=e25]:
+          - navigation [ref=e26]:
+            - heading "주요 네비게이션" [level=2] [ref=e27]
+            - list [ref=e28]
+          - search [ref=e42]:
+            - heading "검색" [level=2] [ref=e43]
+            - generic [ref=e45]
+    - main [ref=e63]:
+      - link "대기번호 없는 빠른 대출! 기다릴 필요 없이 바로 확인 나이스지키미에서 내 신용으로 가능한 대출을 비교해 보세요" [ref=e66] [cursor=pointer]:
+        - /url: "#"
+        - img "대기번호 없는 빠른 대출! 기다릴 필요 없이 바로 확인 나이스지키미에서 내 신용으로 가능한 대출을 비교해 보세요" [ref=e67]
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - paragraph [ref=e71]: (주)에스티에스
+            - generic [ref=e72]
+          - generic [ref=e79]:
+            - term [ref=e80]
+            - definition [ref=e93]
+        - generic [ref=e154]:
+          - term [ref=e155]:
+            - generic [ref=e156]: 보고서 구매
+          - definition [ref=e157]:
+            - generic [ref=e158]
+        - generic [ref=e294]:
+          - term [ref=e296]:
+            - generic [ref=e297]: 등급/재무 정보
+          - generic [ref=e299]:
+            - paragraph [ref=e300]: 등급 및 재무 정보를 보고서에서 확인해보세요.
+            - button "보고서 구매하기" [ref=e301] [cursor=pointer]
+        - paragraph [ref=e303]:
+          - generic [ref=e304]: 보고서 구매 시 기업평가등급, WATCH 등급 및 재무 정보를 보고서 내에서 확인하실 수 있습니다.
+        - paragraph [ref=e305]:
+          - generic [ref=e306]:
+            - text: 실제 평가등급을 반영하고 싶다면 나이스평가정보에서 평가받으세요.
+            - link "[법인]" [ref=e307] [cursor=pointer]:
+              - /url: https://www.ecredit.co.kr/partner/NBI2
+        - generic [ref=e308]:
+          - generic [ref=e309]:
+            - term [ref=e310]
+            - definition [ref=e324]
+          - paragraph [ref=e346]:
+            - generic [ref=e347]: 연봉정보와 종업원수 정보는 정부3.0 공공데이터로 추정된 값으로 실제와는 차이가 있을 수 있습니다.기업 정보 구매 후 상세한 정보를 확인하실 수 있습니다.
+        - generic [ref=e349]:
+          - term [ref=e350]:
+            - generic [ref=e351]
+          - definition [ref=e361]:
+            - generic [ref=e362]
+            - generic [ref=e401]
+        - generic [ref=e410]:
+          - term [ref=e411]:
+            - generic [ref=e412]: 산업 위험
+            - paragraph [ref=e415]
+          - definition [ref=e417]:
+            - generic [ref=e418]
+            - generic [ref=e437]
+            - generic [ref=e456]
+        - generic [ref=e475]:
+          - generic [ref=e476]:
+            - term [ref=e478]
+            - term [ref=e493]
+            - generic [ref=e509]
+          - paragraph [ref=e514]:
+            - generic [ref=e515]: 본 화면의 신용정보는 참고용으로만 제공되는 것이며, 신용평가 인증자료로 활용하거나 홈페이지 및 보도자료 등을 통해 외부에 제공할 수 없습니다.
+      - link "로그인하고, 해당 기업의 모든 콘텐츠를 확인해보세요! 국내 최대 정보로 기업 정보를 정리하여 보고서로 제공해 드립니다." [ref=e518] [cursor=pointer]:
+        - /url: "#"
+        - img "로그인하고, 해당 기업의 모든 콘텐츠를 확인해보세요! 국내 최대 정보로 기업 정보를 정리하여 보고서로 제공해 드립니다." [ref=e519]
+    - button "KakaoChannel" [ref=e520] [cursor=pointer]
+    - button "FAQ" [ref=e523] [cursor=pointer]
+    - contentinfo [ref=e526]:
+      - generic [ref=e527]:
+        - heading "NICE BizINFO" [level=2] [ref=e528]
+        - generic [ref=e529]:
+          - generic [ref=e530]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=e531]
+            - generic [ref=e532]
+            - generic [ref=e548]
+            - paragraph [ref=e558]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=e560] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=e561]
+        - paragraph [ref=e562]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

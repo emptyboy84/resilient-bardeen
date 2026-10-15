@@ -1,0 +1,394 @@
+### Page
+- Page URL: https://map.kakao.com/?q=%EB%B6%80%EC%82%B0%20%EC%88%98%EC%98%81%EA%B5%AC%20%EA%B3%BC%EC%A0%95%EB%A1%9C%2043
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f469e1]:
+  - generic:
+    - link "본문 바로가기" [ref=f469e2] [cursor=pointer]:
+      - /url: "#localInfo"
+    - link "메뉴 바로가기" [ref=f469e3] [cursor=pointer]:
+      - /url: "#info"
+  - banner [ref=f469e5]:
+    - heading [level=1] [ref=f469e6]:
+      - link "kakaomap" [ref=f469e7] [cursor=pointer]:
+        - /url: "?nil_profile=title&nil_src=local"
+    - button "더보기 메뉴 열기" [ref=f469e8] [cursor=pointer]
+  - heading [level=2] [ref=f469e9]:
+    - link "로그인" [ref=f469e10] [cursor=pointer]:
+      - /url: "#"
+  - generic [ref=f469e11]:
+    - generic [ref=f469e12]:
+      - navigation [ref=f469e14]:
+        - heading "검색 메뉴" [level=2]
+        - list [ref=f469e15]:
+          - listitem [ref=f469e16]:
+            - link "검색" [ref=f469e17] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e18]:
+            - link "길찾기" [ref=f469e19] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e20]:
+            - link "버스" [ref=f469e21] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e22]:
+            - link "지하철" [ref=f469e23] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e24]:
+            - link "MY" [ref=f469e25] [cursor=pointer]:
+              - /url: "#"
+      - strong: 검색
+      - group "검색어 입력폼" [ref=f469e28]:
+        - heading "지도 검색" [level=2]
+        - generic [ref=f469e29]:
+          - textbox "지도 검색" [ref=f469e30]: 부산 수영구 과정로 43
+          - button "검색" [ref=f469e31] [cursor=pointer]
+        - blockquote
+      - generic [ref=f469e156]:
+        - list [ref=f469e157]:
+          - listitem [ref=f469e158]:
+            - link "전체" [ref=f469e159] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e160]:
+            - link "장소" [ref=f469e161] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e162]:
+            - link "주소" [ref=f469e163] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e164]:
+            - link "버스" [ref=f469e165] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f469e166]:
+            - link "정류장" [ref=f469e167] [cursor=pointer]:
+              - /url: "#"
+        - link "모두 지우기" [ref=f469e168] [cursor=pointer]:
+          - /url: "#none"
+        - generic: 전체
+    - generic [ref=f469e33]:
+      - paragraph [ref=f469e173]:
+        - emphasis [ref=f469e174]: 부산 수영구 과정로 43
+        - text: 검색결과
+      - generic [ref=f469e175]:
+        - link "광고 대한적십자사 독립운동가 후손 돕기 캠페인 대한적십자사 AD 광복절 독립운동가 후손 돕기 캠페인" [ref=f469e177] [cursor=pointer]:
+          - /url: https://tr.ds.kakao.com/clk?wa=bB_c5MxngBzhbWPsMSpTMyrq2Yvp8rnO1RTuUbIjNiQ&enc=SmQiRRP5h6AjleS0nnt_SEk3usozm6FbKPIUvSXHYRgvFVJszlWF4tYg3LxvwQDxfJ2V1Ra9-9VJ35ZnGW1rFvzYY7Hf-7jRnbXtJXnzFSIQSfCcQ-Ch3r6OcSxh_gh2rIJc_NtMkJ4sFqYelW7zmL2TWHy-22xntEcy4lW7VF__qazO4DzeGy0MOcfh57itdJwft1ZQTMGN8lcvuSe70jb04S9caezUKOHGXX9Mb5vK8C613qoNZ7Ejk3KcZjLVIusQpFVcdwHBCqxfUjMXZNli7k6fp7aRTnwnUdHOe7kS5tJbu7HLDMz19T8QdHTyrKBJ_ZQU2XqsZ9w7VF3wcDtsBB41ORgaHPkgMdMvnPJ7T_D6wS9Tqml8nM9YPjwlpMbWK6-k5eJlgnM4KN2iDrxVtbN3_uPbna7vPCrN36d_BmkoHB86bl6dGWB2-v7NOvJd8rZ2c7kFGutGCS6BTUTdPftssHb5oPWYyc0IM2iAQkN6KlxgjzfHakEjE2hcYapg8-G5ZNrO_Y8F_LEIZ-EsAeQW4QC9EkH1jSyQKubXbr6FMP6CQJA220IfHp1VCWyYWuzka_WKx8HGPjpgmlklMV70xaaNAXtgFU932pU7Yfzew10NmTkPQyqylI7pR_LDBtIsfRRw9Wca3w9nYcdnQGLR_iLnjwNEzJOMuWXN8Gedk7Dp5C8Oo614OKmc&signature=d95f757db955c2f5a90d60c952c5bfe3&lc=1
+          - img "광고 대한적십자사 독립운동가 후손 돕기 캠페인" [ref=f469e179]
+          - generic [ref=f469e181]:
+            - strong [ref=f469e182]:
+              - text: 대한적십자사
+              - generic [ref=f469e183]: AD
+            - paragraph [ref=f469e184]: 광복절 독립운동가 후손 돕기 캠페인
+        - generic [ref=f469e185]:
+          - generic [ref=f469e186]:
+            - heading "주소" [level=3] [ref=f469e187]
+            - emphasis [ref=f469e189]: "1"
+          - list [ref=f469e190]:
+            - listitem [ref=f469e191]:
+              - strong: 부산 수영구 과정로 43
+              - link "즐겨찾기" [ref=f469e193] [cursor=pointer]:
+                - /url: "#none"
+              - generic [ref=f469e195]:
+                - link "부산 수영구 과정로 43" [ref=f469e196] [cursor=pointer]:
+                  - /url: "#none"
+                - generic [ref=f469e198]:
+                  - strong: 유사주소 선택상자
+                  - emphasis: "선택내용 :"
+                  - generic [ref=f469e199]: (지번)
+                  - generic [ref=f469e200]:
+                    - link "망미동 431-9" [ref=f469e201] [cursor=pointer]:
+                      - /url: "#none"
+                    - emphasis: 선택옵션
+                - generic [ref=f469e202]:
+                  - text: (우) 48210
+                  - generic [ref=f469e203]: "|"
+                  - text: 부산은행
+        - generic [ref=f469e204]:
+          - generic [ref=f469e205]:
+            - heading "장소" [level=5] [ref=f469e206]
+            - emphasis [ref=f469e208]: "6"
+            - list [ref=f469e209]:
+              - listitem [ref=f469e210]:
+                - link "정확도순" [ref=f469e211] [cursor=pointer]:
+                  - /url: "#none"
+              - listitem [ref=f469e212]:
+                - link "인기도순" [ref=f469e213] [cursor=pointer]:
+                  - /url: "#none"
+          - list [ref=f469e214]:
+            - listitem [ref=f469e215]:
+              - generic [ref=f469e216]:
+                - generic: BNK부산은행 망미동지점
+                - link "즐겨찾기" [ref=f469e217] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e219] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e220]:
+                - strong [ref=f469e221]:
+                  - link "A" [ref=f469e222] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "BNK부산은행 망미동지점" [ref=f469e223] [cursor=pointer]:
+                    - /url: "#none"
+                - text: 은행
+              - link [ref=f469e225] [cursor=pointer]:
+                - /url: https://place.map.kakao.com/10464487#blogreview
+                - text: 리뷰
+                - emphasis [ref=f469e226]: "0"
+              - generic [ref=f469e227]:
+                - generic [ref=f469e228]:
+                  - paragraph [ref=f469e229]: 부산 수영구 과정로 43
+                  - paragraph [ref=f469e230]: (지번) 망미동 431-9
+                - paragraph [ref=f469e232]:
+                  - generic [ref=f469e233]: 영업중
+                  - link "월~금 09:00 ~ 16:00" [ref=f469e234] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/10464487?openhour=1
+                - generic [ref=f469e235]:
+                  - generic [ref=f469e236]: 051-754-3000
+                  - link "상세보기" [ref=f469e238] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/10464487
+                  - link "홈페이지" [ref=f469e240] [cursor=pointer]:
+                    - /url: http://www.busanbank.co.kr
+            - listitem [ref=f469e241]:
+              - generic [ref=f469e242]:
+                - generic: 자격증공장독서실
+                - link "즐겨찾기" [ref=f469e243] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e245] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e246]:
+                - strong [ref=f469e247]:
+                  - link "B" [ref=f469e248] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "자격증공장독서실" [ref=f469e249] [cursor=pointer]:
+                    - /url: "#none"
+                - text: 독서실
+              - generic [ref=f469e250]:
+                - generic [ref=f469e251]:
+                  - generic: 별점
+                  - emphasis [ref=f469e252]: "0.0"
+                  - link "0건" [ref=f469e254] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/1477747590#review
+                - link [ref=f469e256] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/1477747590#blogreview
+                  - text: 리뷰
+                  - emphasis [ref=f469e257]: "45"
+              - generic [ref=f469e258]:
+                - generic [ref=f469e259]:
+                  - paragraph [ref=f469e260]: 부산 수영구 과정로 43 3층
+                  - paragraph [ref=f469e261]: (지번) 망미동 431-9
+                - link "상세보기" [ref=f469e263] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/1477747590
+            - listitem [ref=f469e264]:
+              - generic [ref=f469e265]:
+                - generic: 대박만화
+                - link "즐겨찾기" [ref=f469e266] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e268] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e269]:
+                - strong [ref=f469e270]:
+                  - link "C" [ref=f469e271] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "대박만화" [ref=f469e272] [cursor=pointer]:
+                    - /url: "#none"
+                - text: 만화방
+              - generic [ref=f469e273]:
+                - generic [ref=f469e274]:
+                  - generic: 별점
+                  - emphasis [ref=f469e275]: "0.0"
+                  - link "0건" [ref=f469e277] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/511432746#review
+                - link [ref=f469e279] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/511432746#blogreview
+                  - text: 리뷰
+                  - emphasis [ref=f469e280]: "0"
+              - generic [ref=f469e281]:
+                - generic [ref=f469e282]:
+                  - paragraph [ref=f469e283]: 부산 수영구 과정로 43 지하1층
+                  - paragraph [ref=f469e284]: (지번) 망미동 431-9
+                - link "상세보기" [ref=f469e286] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/511432746
+            - listitem [ref=f469e287]:
+              - generic [ref=f469e288]:
+                - generic: 혜민의원
+                - link "즐겨찾기" [ref=f469e289] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e291] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e292]:
+                - strong [ref=f469e293]:
+                  - link "D" [ref=f469e294] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "혜민의원" [ref=f469e295] [cursor=pointer]:
+                    - /url: "#none"
+                - text: 일반의원
+              - generic [ref=f469e296]:
+                - generic [ref=f469e297]:
+                  - generic: 별점
+                  - emphasis [ref=f469e298]: "0.0"
+                  - link "0건" [ref=f469e300] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9596689#review
+                - link [ref=f469e302] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/9596689#blogreview
+                  - text: 리뷰
+                  - emphasis [ref=f469e303]: "0"
+              - generic [ref=f469e304]:
+                - generic [ref=f469e305]:
+                  - paragraph [ref=f469e306]: 부산 수영구 과정로 43
+                  - paragraph [ref=f469e307]: (지번) 망미동 431-9
+                - paragraph [ref=f469e309]:
+                  - generic [ref=f469e310]: 진료중
+                  - link "금 09:00 ~ 15:00" [ref=f469e311] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9596689?openhour=1
+                - generic [ref=f469e312]:
+                  - generic [ref=f469e313]: 051-761-2388
+                  - link "상세보기" [ref=f469e315] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9596689
+            - listitem [ref=f469e316]:
+              - generic [ref=f469e317]:
+                - generic: 최동준치과의원
+                - link "즐겨찾기" [ref=f469e318] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e320] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e321]:
+                - strong [ref=f469e322]:
+                  - link "E" [ref=f469e323] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "최동준치과의원" [ref=f469e324] [cursor=pointer]:
+                    - /url: "#none"
+                - text: 치과
+              - generic [ref=f469e325]:
+                - generic [ref=f469e326]:
+                  - generic: 별점
+                  - emphasis [ref=f469e327]: "5.0"
+                  - link "7건" [ref=f469e330] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9969979#review
+                - link [ref=f469e332] [cursor=pointer]:
+                  - /url: https://place.map.kakao.com/9969979#blogreview
+                  - text: 리뷰
+                  - emphasis [ref=f469e333]: "0"
+              - generic [ref=f469e334]:
+                - generic [ref=f469e335]:
+                  - paragraph [ref=f469e336]: 부산 수영구 과정로 43
+                  - paragraph [ref=f469e337]: (지번) 망미동 431-9
+                - paragraph [ref=f469e339]:
+                  - generic [ref=f469e340]: 진료중
+                  - link "월~금 09:30 ~ 18:00" [ref=f469e341] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9969979?openhour=1
+                - generic [ref=f469e342]:
+                  - generic [ref=f469e343]: 051-758-4474
+                  - link "상세보기" [ref=f469e345] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/9969979
+            - listitem [ref=f469e346]:
+              - generic [ref=f469e347]:
+                - generic: BNK부산은행 365코너 망미동지점
+                - link "즐겨찾기" [ref=f469e348] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e350] [cursor=pointer]:
+                  - /url: "#none"
+              - generic [ref=f469e351]:
+                - strong [ref=f469e352]:
+                  - link "F" [ref=f469e353] [cursor=pointer]:
+                    - /url: "#none"
+                  - link "BNK부산은행 365코너 망미동지점" [ref=f469e354] [cursor=pointer]:
+                    - /url: "#none"
+                - text: ATM
+              - link [ref=f469e356] [cursor=pointer]:
+                - /url: https://place.map.kakao.com/1672256529#blogreview
+                - text: 리뷰
+                - emphasis [ref=f469e357]: "0"
+              - generic [ref=f469e358]:
+                - generic [ref=f469e359]:
+                  - paragraph [ref=f469e360]: 부산 수영구 과정로 43
+                  - paragraph [ref=f469e361]: (지번) 망미동 431-9
+                - paragraph [ref=f469e363]:
+                  - generic [ref=f469e364]: 영업중
+                  - link "매일 07:00 ~ 24:00" [ref=f469e365] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/1672256529?openhour=1
+                - generic [ref=f469e366]:
+                  - link "상세보기" [ref=f469e367] [cursor=pointer]:
+                    - /url: https://place.map.kakao.com/1672256529
+                  - link "홈페이지" [ref=f469e369] [cursor=pointer]:
+                    - /url: https://www.busanbank.co.kr
+    - generic [ref=f469e108]:
+      - link "고객센터" [ref=f469e109] [cursor=pointer]:
+        - /url: https://cs.kakao.com/helps?locale=ko&service=101
+      - link "신규 장소 등록" [ref=f469e110] [cursor=pointer]:
+        - /url: "#none"
+      - link [ref=f469e111] [cursor=pointer]:
+        - /url: https://www.kakao.com/policy/privacy?type=p&lang=ko
+        - strong [ref=f469e112]: 개인정보처리방침
+  - generic [ref=f469e114] [cursor=pointer]
+  - generic [ref=f469e115]:
+    - heading "지도 영역" [level=2]
+    - link "이번 영역은 지도부분입니다. 스크린 리더 사용자분께서는 현재 링크를 눌러주시면 본문 영역으로 넘어가실 수 있습니다":
+      - /url: "#info.main"
+    - generic [ref=f469e116]:
+      - generic [ref=f469e118]:
+        - heading "지도타입" [level=3]
+        - link "지도" [ref=f469e119] [cursor=pointer]:
+          - /url: "#"
+        - link "스카이뷰" [ref=f469e120] [cursor=pointer]:
+          - /url: "#"
+      - generic:
+        - link [ref=f469e121] [cursor=pointer]:
+          - /url: "#"
+        - link [ref=f469e122] [cursor=pointer]:
+          - /url: "#"
+      - heading [level=3] [ref=f469e124]:
+        - link "내보내기" [ref=f469e125] [cursor=pointer]:
+          - /url: "#none"
+      - generic [ref=f469e126]:
+        - generic [ref=f469e373]:
+          - button "닫기" [ref=f469e374] [cursor=pointer]
+          - strong [ref=f469e376]: 부산 수영구 과정로 43
+          - generic [ref=f469e377]:
+            - paragraph [ref=f469e378]: (지번)부산 수영구 망미동 431-9
+            - paragraph [ref=f469e379]: (우) 48210 부산은행
+            - paragraph [ref=f469e381]:
+              - link "정보 수정 제안" [ref=f469e382] [cursor=pointer]:
+                - /url: "#none"
+          - generic [ref=f469e383]:
+            - generic:
+              - generic [ref=f469e384]:
+                - link "즐겨찾기" [ref=f469e385] [cursor=pointer]:
+                  - /url: "#none"
+                - link "로드뷰" [ref=f469e387] [cursor=pointer]:
+                  - /url: "#none"
+                - link "지도공유" [ref=f469e389] [cursor=pointer]:
+                  - /url: "#none"
+              - button "길찾기" [ref=f469e392] [cursor=pointer]
+        - generic [ref=f469e130]:
+          - generic [ref=f469e131]: 30m
+          - link [ref=f469e135] [cursor=pointer]:
+            - /url: http://map.kakao.com/
+            - img "Kakao 맵으로 이동(새창열림)" [ref=f469e136]
+      - generic "드래그하여 지도에 놓으세요" [ref=f469e140] [cursor=pointer]
+      - generic [ref=f469e141]:
+        - heading [level=3] [ref=f469e142]:
+          - link "주변" [ref=f469e143] [cursor=pointer]:
+            - /url: "#none"
+        - strong: 주변탐색 목록
+      - generic [ref=f469e144]:
+        - link "현위치" [ref=f469e145] [cursor=pointer]:
+          - /url: "#none"
+        - generic [ref=f469e147]:
+          - button "확대" [ref=f469e148] [cursor=pointer]
+          - button "축소" [ref=f469e149] [cursor=pointer]
+        - generic [ref=f469e150]:
+          - heading "측정" [level=3]
+          - link [ref=f469e151] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=f469e152] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=f469e153] [cursor=pointer]:
+            - /url: "#"
+        - link [ref=f469e155] [cursor=pointer]:
+          - /url: "#"
+    - button "이 지역 재검색" [ref=f469e395] [cursor=pointer]
+    - generic:
+      - link "닫기":
+        - /url: "#"
+      - link "지도보기":
+        - /url: "#"
+  - list
+```

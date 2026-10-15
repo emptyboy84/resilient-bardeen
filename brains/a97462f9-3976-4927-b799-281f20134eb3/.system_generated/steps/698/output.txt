@@ -1,0 +1,23 @@
+The search for ""오픈와이즈" "김현정" OR "지플러스디자인" "김상식" 사업자등록번호 부산" returned the following summary:
+문의하신 기업의 사업자 정보는 다음과 같습니다.
+
+### 1. (주)오픈와이즈
+*   **대표자:** 김현정[1]
+*   **소재지:** 부산광역시 사하구 낙동대로[1]
+*   **기업 정보:** 공공관계 서비스업 등을 영위하는 기업으로 확인됩니다[1]. 정확한 사업자등록번호는 보안 및 개인정보 보호 정책에 따라 공개된 웹 검색 결과에서는 확인이 어려울 수 있으니, 국세청 '사업자등록상태조회' 서비스를 통해 사업자등록번호로 직접 조회하시기 바랍니다.
+
+### 2. 지플러스디자인
+*   **대표자:** 김상식[2] (관련 ISBN 발행자 배정 내역 기준)
+    *   *참고: 다른 기업 정보 사이트 등에서 확인되는 '이수경' 대표는 동명의 다른 법인일 가능성이 있습니다[3][4].*
+*   **사업자등록번호:** **659-12-00090**[5]
+*   **소재지:** 부산광역시 사상구[5]
+*   **기업 정보:** 인쇄업 및 디자인 관련 업종으로 확인됩니다[5].
+
+위 정보는 검색 시점에 따라 변동될 수 있으며, 보다 정확한 법적 정보나 재무 정보 확인이 필요하신 경우 국세청 홈택스나 신용평가사(NICE평가정보, KED 등)의 공식 기업 조회 서비스를 이용하시는 것을 권장합니다.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHs4Ltr7cdGEUQWsmAvW1t3wuV_Fq0LluqmyUnISr0U0eCRxD7bumbvHQcdJ36b01pZq4c3XWlxuka50RTkBAGp7sReMwp7uY_gtEYn-8dqwNYJIaxz0FolTKudiiW6F9ZOkj4tausac_8ikg2jdnS-88g)
+[2] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcKkYjG2mzzlkk9WZCAdGempkfnS3bwrXakhDGiWyRZUR1jDrGIxMWLTiONMGzgMnRcyHpuuDYgJZGEVQukEMtbRg9PaDpQ6SZ4XGduinYMSgMCFdsqb2OysIy_torCm1X8U=)
+[3] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-JYAEuAGji3QM5jBVAY_oKMz2syNx_5vZcO8OUFQ3VLi2xTfU331DhICYy4SfJbhVlZ1uXKaa7_fYwHJBc6gNzUMK5TdX5TY5OqiU17pqFuNtBzhBqEHFhKOAyAzy01NRz7RtPJCi9C5UYgw=)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgulqMwjykduPdzJJOuSdcfzppkFHK0He9we3VYLLvOHlcvatShsGWAytkwxFoMcQO6OrVeNmWf5zTWUiQrN0b7HMyi51hRF085cxCvc_eaMZ8t_MOnTacfYpeYqQYuzz7rB32o4PtlIeuDoMn86DLqOYJal-cp0aJ4Pwu3Onf5nKslQpjy_XaX_Vz_Dsb8MJsSK2dC_tqoV_igSzwLdIHii0RUj4bWLfJc8sGUuf2g4VTScioVW5rpc47iDYSSbrWLiOFLE-4dWGRib1c_T0v55ghxIJp80J2JMSgzXN571lZvVb0GNq5WNMYNH-z_sss8oM4W7_Q3I_73STRnV1r)
+[5] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF9DmUfgGeUvaHthOHiBaT8HFr3fXj5x1r17NAH_NsehcfbVOuuSHQfEIFdRKq7hb0DZblcf93IdX6FPzF3xyiYWvmo17uegJbLVaYi7vIWS9ZWygGQoWidfVnWMxFBjf14U8=)

@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+Found script tag: </script>
+<script id="gtm-script" type="text/javascript">
+        (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+          const f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l !== 'dataLayer' ? '&l=' + l : '';
+          j.async = true;
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PHL28XQ9');
+      </script>
+<style>@font-face{font-display:block;font-family:Material Icons;font-style:normal;font-weight:400;src:url(/_nuxt/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.D-x-0Q06.woff2) format("woff2"),url(/_nuxt/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.OUIwM9U8.woff) format("woff")}.material-icons{display:inline-block;font-family:Material Icons;font-style:normal;font-weight:400;letter-spacing:normal;line-height:1;text-transform:none;word-wrap:normal;direc
+

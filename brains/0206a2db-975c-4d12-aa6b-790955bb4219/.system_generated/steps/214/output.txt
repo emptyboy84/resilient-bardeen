@@ -1,0 +1,1708 @@
+### Page
+- Page URL: https://www.i-um.co.kr/kr/companies?search=%EC%BC%80%EC%9D%B4%EC%95%88%EC%A0%84%EA%B8%B0%EC%88%A0%EC%9B%90
+- Page Title: 기업 탐색 - I:UM(이음) B2B 파트너 찾기
+- Console: 2 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - button "설문 참여하기":
+            - generic:
+              - generic: 🌍 글로벌 출시 설문
+              - generic:
+                - generic: I:UM의 다음 진출 국가를 함께 정해주세요
+                - generic: "|"
+                - generic: 3분 설문 참여 후 얼리 액세스 혜택을 받아보세요
+              - generic: 설문 참여하기
+          - button "Close"
+        - banner:
+          - generic:
+            - generic:
+              - generic:
+                - button "메뉴"
+                - link "I:UM(이음)":
+                  - /url: /kr/index
+              - generic:
+                - combobox:
+                  - generic: 기업명
+                - generic:
+                  - generic:
+                    - textbox "기업명 검색..."
+                    - button
+              - generic:
+                - 'button "탐색 국가 선택 (현재: 대한민국 KR)"':
+                  - generic: 탐색 국가
+                  - generic:
+                    - generic: 대한민국
+                    - generic: (KR)
+                - 'button "언어 선택 (현재: 한국어)"':
+                  - generic: 언어
+                  - generic: 한국어
+                - generic:
+                  - button "로그인"
+                  - button "회원가입"
+      - main:
+        - generic:
+          - generic:
+            - generic:
+              - heading "기업 탐색" [level=1]
+              - paragraph: 당신의 비즈니스에 완벽한 파트너를 찾아보세요.
+              - generic:
+                - button "가이드 다시보기"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "AI 자연어 기업 검색" [level=3]
+                    - paragraph: 원하는 기업을 자연스러운 문장으로 검색해보세요. AI가 검색 조건을 분석해드립니다.
+                    - generic:
+                      - generic:
+                        - 'textbox "예: 창원에서 플라스틱 사출 가능한 업체"'
+                      - button "AI 검색"
+                    - generic:
+                      - paragraph: "예시 검색어:"
+                      - generic:
+                        - generic: 화성시 광고 업체
+                        - generic: 서울 건설업 회사
+                        - generic: 경기도 소매업 회사
+                        - generic: 경영 컨설팅 업체
+                        - generic: 화장품 제조 업체
+            - generic:
+              - generic:
+                - generic:
+                  - button "경영 컨설팅업"
+                  - button "응용 소프트웨어 개발 및 공급업"
+                  - button "그 외 기타 생활용품 도매업"
+                  - button "그 외 기타 달리 분류되지 않은 제품 제조업"
+                  - button "시스템 소프트웨어 개발 및 공급업"
+                  - button "화장품 및 화장용품 도매업"
+                  - button "상품 종합 도매업"
+                  - button "시각 디자인업"
+                  - button "그 외 기타 식료품 제조업"
+                  - button "수산동물 냉동품 제조업"
+                  - button "그 외 기타 플라스틱 제품 제조업"
+                  - button "그 외 기타 의료용 기기 제조업"
+            - generic:
+              - heading "회사 검색" [level=3]
+              - generic:
+                - combobox:
+                  - generic: 🌐 전체 국가
+                - generic:
+                  - textbox "기업명 검색"
+                - generic:
+                  - generic:
+                    - textbox "업종 로딩 중..." [disabled]
+                - combobox:
+                  - generic: 시/도 선택
+                - combobox [disabled]:
+                  - generic: 전체
+                - generic:
+                  - generic:
+                    - textbox "주요 생산품목 검색"
+              - generic:
+                - button "검색하기"
+                - button "필터 초기화"
+              - generic:
+                - button "상세 검색 (내 주변 · 태그)"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "파쉬"
+                    - generic:
+                      - generic:
+                        - heading "파쉬" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 건축자재 도매업 · 경기 성남시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 유리섬유메쉬
+                      - generic: 유리섬유직물
+                      - generic: 지오그리드
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/da0fafe8-c9a8-4b61-a85c-607f79cf40cc
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "유앤아이"
+                    - generic:
+                      - generic:
+                        - heading "유앤아이" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 옥외 광고업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 안내판
+                      - generic: 간판
+                      - generic: 게비온
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/47ee224c-3f39-4691-b1b6-0c275203a234
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "이음네트웍스"
+                    - generic:
+                      - generic:
+                        - heading "이음네트웍스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 옥외 광고업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: B2B플랫폼
+                      - generic: 안내판
+                      - generic: 식재
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/da415fbf-051c-41ec-bf53-7a9b8677c65e
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 쏘유컴퍼니"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 쏘유컴퍼니" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 옥외 광고업 · 인천 서구
+                  - generic: 안내판
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/7b61d8a8-ec84-4117-8dc9-839f17858851
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 동광
+                    - generic:
+                      - generic:
+                        - heading "주식회사 동광이엔지" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 절삭 가공 및 유사 처리업 · 경북 구미시
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 기계 부품
+                      - generic: 장비 부품
+                      - generic: 반도체장비부품
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/2feb4f2d-38fc-41c1-8720-b379064f49c2
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "피피티브랜딩"
+                    - generic:
+                      - generic:
+                        - heading "피피티브랜딩" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시각 디자인업 · 경기 시흥시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 회사소개서
+                      - generic: 공사지명원
+                      - generic: 제안서
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/a51f4aa9-ecda-46b3-becc-719c199fd87c
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 이하이코리아푸드"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 이하이코리아푸드" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 식료품 제조업 · 서울 마포구
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 소스류
+                      - generic: 간편식류
+                      - generic: 식재료류
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/1e7b71af-be97-4370-9f4d-46a40b7459e3
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 휴리
+                    - generic:
+                      - generic:
+                        - heading "휴리스틱" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 달리 분류되지 않은 제품 제조업 · 경남 함안군
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 하드웨어 시제품
+                      - generic: IoT 및 계측·제어 장치
+                      - generic: 기구 설계 및 전산해석
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/564b96fd-6069-45b4-ba5a-18ee6ab51dd1
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "풍년(깨볶는신사)"
+                    - generic:
+                      - generic:
+                        - heading "풍년(깨볶는신사)" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 식료품 제조업 · 광주 동구
+                  - generic:
+                    - generic:
+                      - generic: "+3"
+                      - generic: 국산생들기름
+                      - generic: 국산참기름
+                      - generic: 국산들기름
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/886d7798-4201-4292-bd20-0c9b91715c84
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 파인
+                    - generic:
+                      - generic:
+                        - heading "(주)파인피스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 경영 컨설팅업 · 경기 고양시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 자문업무
+                      - generic: 자금조달
+                      - generic: M&A
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/a252ac69-7969-4ec8-865a-f9e6d859d39b
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)다크호스"
+                    - generic:
+                      - generic:
+                        - heading "(주)다크호스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 식료품 제조업 · 경기 부천시
+                  - generic:
+                    - generic:
+                      - generic: 세정제
+                      - generic: 가공식품
+                      - generic: 생활용품
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/f17d6a84-5ef3-4f97-aabc-aa6b84dbe6ef
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "스튜디오 잽"
+                    - generic:
+                      - generic:
+                        - heading "스튜디오 잽" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시각 디자인업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 홈페이지 제작
+                      - generic: 상세페이지 제작
+                      - generic: 랜딩페이지 제작
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/026b1edb-d601-44c3-a271-e2539576b4a6
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주) 디센시아소프트"
+                    - generic:
+                      - generic:
+                        - heading "(주) 디센시아소프트" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 응용 소프트웨어 개발 및 공급업 · 대구 남구
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: AI 업무자동화 시스템
+                      - generic: 웹 서비스 개발
+                      - generic: 모바일 앱 개발
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/b6806c7c-639a-4719-bd9e-cad5be363f18
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 백년
+                    - generic:
+                      - generic:
+                        - heading "백년칸막이" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 유리 및 창호 공사업 · 경기 시흥시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 강화유리칸막이
+                      - generic: 래핑칸막이
+                      - generic: 사무실 칸막이
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/8db815e0-c772-4c67-a804-9ae3c9862f00
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 링커스시스템"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 링커스시스템" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 자동차용 신품 전기장치 제조업 · 인천 연수구
+                  - generic:
+                    - generic:
+                      - generic: "+3"
+                      - generic: 와이어링 하네스
+                      - generic: 전기배선 제조
+                      - generic: 산업자동화 시스템
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/4d9c6f46-e307-46b4-8ec5-cac9933b8f45
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)대현에벤에셀"
+                    - generic:
+                      - generic:
+                        - heading "(주)대현에벤에셀" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 건강 기능식품 제조업 · 서울 동대문구
+                  - generic:
+                    - generic:
+                      - generic: "+3"
+                      - generic: 타블릿정
+                      - generic: 경질캡슐
+                      - generic: 대환
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/78f52a84-a3b2-44cb-9b94-2d6c20a094fb
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 티티엘"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 티티엘" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 응용 소프트웨어 개발 및 공급업 · 서울 영등포구
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 블록체인
+                      - generic: 웹
+                      - generic: 앱
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/baf3ff4f-098f-4281-aaac-35f2adbf6d2d
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사마망뜨"
+                    - generic:
+                      - generic:
+                        - heading "주식회사마망뜨" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 화장품 제조업 · 전북특별자치도 군산시
+                  - generic:
+                    - generic:
+                      - generic: 마망뜨 리바이탈워터
+                      - generic: 마망뜨 리바이오 에센스
+                      - generic: 마망뜨 루미너스 크림
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/a22b0b03-d0bb-4626-ab2a-5beb19385586
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)윤서컴퍼니"
+                    - generic:
+                      - generic:
+                        - heading "(주)윤서컴퍼니" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 주방용 전기 기기 제조업 · 서울 송파구
+                  - generic:
+                    - generic:
+                      - generic: 무인카페머신
+                      - generic: 전자동커피머신
+                      - generic: 캔시머
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/cb08a980-27d7-4dd3-9c8d-9e4ad0ee7efc
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "인권침해예방활동연구소"
+                    - generic:
+                      - generic:
+                        - heading "인권침해예방활동연구소" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 기타 교육지원 서비스업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+3"
+                      - generic: 법정의무교육
+                      - generic: 인권가이드라인
+                      - generic: 성희롱매뉴얼
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/68818177-aaf1-4b9a-acb6-21d0b395e419
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "DS대성산업"
+                    - generic:
+                      - generic:
+                        - heading "DS대성산업" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 스크린 인쇄업 · 서울 금천구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/c918f4e8-0393-459a-bced-4dae80a9818d
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 큐비
+                    - generic:
+                      - generic:
+                        - heading "큐비노드" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 경영 컨설팅업 · 부산 강서구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/418b4436-a731-4c64-81ec-e340ab474c23
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 진엔
+                    - generic:
+                      - generic:
+                        - heading "진엔터테인먼트" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 가방 및 보호용 케이스 도매업 · 경남 진주시
+                  - generic: 생활용품
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/e82fbe40-52e0-41c9-bbe2-5034f17ecd97
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 동북
+                    - generic:
+                      - generic:
+                        - heading "동북아취업" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 상용 인력 공급 및 인사관리 서비스업 · 서울 영등포구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/c4a73f6e-f692-40dc-89ad-b1eb9940b908
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "씨닉스"
+                    - generic:
+                      - generic:
+                        - heading "씨닉스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시스템 소프트웨어 개발 및 공급업 · 경북 포항시
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 데이터서비스플랫폼
+                      - generic: PASCAL2
+                      - generic: PASCAL2-Vision
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/fc17736e-c017-4590-a965-4ca13562180f
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 세아
+                    - generic:
+                      - generic:
+                        - heading "세아스크린" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 스크린 인쇄업 · 경기 부천시
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 플라스틱 용기 UV 실크인쇄
+                      - generic: PP·PE·PET 용기 인쇄
+                      - generic: 화장품용기 실크인쇄
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/9f028f62-37ed-4541-bf60-7c07a2f4c596
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 부경
+                    - generic:
+                      - generic:
+                        - heading "부경공장공인중개사사무소" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 부동산 중개 및 대리업 · 부산 강서구
+                  - generic:
+                    - generic:
+                      - generic: 부동산중개
+                      - generic: 부동산컨설팅
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/048a5e61-9c7e-408d-8a83-7edf16a3fef7
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "재원솔루션"
+                    - generic:
+                      - generic:
+                        - heading "재원솔루션" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 유선 통신장비 제조업 · 인천 서해구
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 산업기계
+                      - generic: 키오스크
+                      - generic: 시험장비함체
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/5602ed39-2e81-4a5e-80e3-502df6ac2021
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)유엔아이철강"
+                    - generic:
+                      - generic:
+                        - heading "(주)유엔아이철강" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 1차 철강 제조업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: 철근
+                      - generic: 커플러
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/4f39f39a-5d72-40ce-81e5-7bfe0978c7a4
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "언폴드랩"
+                    - generic:
+                      - generic:
+                        - heading "언폴드랩" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 데이터베이스 및 온라인 정보 제공업 · 서울 강남구
+                  - generic:
+                    - generic:
+                      - generic: TickerFlow
+                      - generic: PeachBond
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/a69e120e-2e28-4730-b78d-152a26821cbf
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "일사천리시스템"
+                    - generic:
+                      - generic:
+                        - heading "일사천리시스템" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 화물 운송 중개, 대리 및 관련 서비스업 · 서울 마포구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/108ffa84-ea09-45bf-96a7-3fef1cd96f75
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 동원
+                    - generic:
+                      - generic:
+                        - heading "동원실크인쇄" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 기타 인쇄관련 산업 · 인천광역시 서구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/5122a0b3-b3d7-4ed7-99f4-e78fb8229fe3
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 비스텍"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 비스텍" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 디스플레이 제조용 기계 제조업 · 동탄첨단산업1로27
+                  - generic:
+                    - generic:
+                      - generic: 머신비전 검사 장비
+                      - generic: 검사 알고리즘 개발
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/e33accf3-d642-4a7b-a361-a7dac6605325
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 동명
+                    - generic:
+                      - generic:
+                        - heading "동명산업" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 플라스틱 제품 제조업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 플라스틱 사출
+                      - generic: 사출성형 제품
+                      - generic: 플라스틱 제품
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/d036c5b3-4efe-46db-b9ac-3104ae1c98a5
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "인천독일보청기"
+                    - generic:
+                      - generic:
+                        - heading "인천독일보청기" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 의료용품 도매업 · 인천 남동구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/a69ab8c7-5f26-40ce-8030-4dc0dd276acf
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 다몽"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 다몽" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시스템 소프트웨어 개발 및 공급업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: AI 그룹웨어
+                      - generic: 업무자동화
+                      - generic: 쇼핑몰
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/5e0ed72d-c8b3-4991-8165-82f6d9200ef1
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "위고솔루션"
+                    - generic:
+                      - generic:
+                        - heading "위고솔루션" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 응용 소프트웨어 개발 및 공급업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: Odoo ERP 구축 및 컨설팅 Service
+                      - generic: 제조업 맞춤형 MES (생산관리시스템)
+                      - generic: B2B/B2C 수주/발주 데이터 연동 소프트웨어
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/4fd48a0b-4064-45ee-a279-60d84e064644
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 금찬
+                    - generic:
+                      - generic:
+                        - heading "금찬씰테크" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 고무, 화학섬유 및 플라스틱 성형기 제조업 · 부산 강서구
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 오일씰
+                      - generic: 고무패킹
+                      - generic: 방진고무
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/4b7489f2-5d4a-4a18-8f67-2e3858e2ffac
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 행정
+                    - generic:
+                      - generic:
+                        - heading "행정사사무소 창(窓)" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 기타 전문 서비스업 · 경기 오산시
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/d0d35f38-0763-45c1-a05a-272bd9cf868f
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "가든프렌즈"
+                    - generic:
+                      - generic:
+                        - heading "가든프렌즈" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 생활용 가구 도매업 · 경기 포천시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 가구
+                      - generic: 의자
+                      - generic: 테이블
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/036fc731-a621-4af2-b41f-0a57777b78da
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 웍스
+                    - generic:
+                      - generic:
+                        - heading "웍스프리" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 응용 소프트웨어 개발 및 공급업 · 경기 하남시
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/0f7549e3-eae2-45e6-9ffd-205c0d924cb1
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 트리
+                    - generic:
+                      - generic:
+                        - heading "트리플렛" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 생활용품 도매업 · 장안구 금당로39번길
+                  - generic: AX 솔루션
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/db89de67-ae95-4859-a38a-77b6d2a5831f
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 솔브랩"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 솔브랩" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 경영 컨설팅업 · 서울 동대문구
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 법인컨설팅
+                      - generic: 기업인증
+                      - generic: 바우처사업
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/77ab6921-1b10-482a-ab97-501c9454a08a
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사젊음티엔에스"
+                    - generic:
+                      - generic:
+                        - heading "주식회사젊음티엔에스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 상품 종합 도매업 · 경기 의정부시
+                  - generic: 프로그램개발
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/7ff77573-e5da-48c2-a1b1-0590d107df69
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "주식회사 대한인쇄"
+                    - generic:
+                      - generic:
+                        - heading "주식회사 대한인쇄" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 오프셋 인쇄업 · 경기 부천시
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: 스티커
+                      - generic: 라벨
+                      - generic: 명판
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/acf994eb-e31f-499b-8573-856a59d88241
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)아이오티플렉스"
+                    - generic:
+                      - generic:
+                        - heading "(주)아이오티플렉스" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시스템 소프트웨어 개발 및 공급업 · 부산 해운대구
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: GPS
+                      - generic: 운행기록장치
+                      - generic: 위치관제시스템
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/fa45940c-a98e-43ab-a9aa-91081876ff25
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "아이디어랜드"
+                    - generic:
+                      - generic:
+                        - heading "아이디어랜드" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 플라스틱 제품 제조업 · 경기도 용인시
+                  - generic:
+                    - generic:
+                      - generic: 산타폴더 클래식(백자도자기 소재)
+                      - generic: 산타폴더 엘레강스(멜라민 소재)
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/1787f239-345d-4a94-bfe1-e7d09e50c2fc
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)뉴로저니"
+                    - generic:
+                      - generic:
+                        - heading "(주)뉴로저니" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 응용 소프트웨어 개발 및 공급업 · 서울 관악구
+                  - generic:
+                    - generic:
+                      - generic: 뉴트로픽
+                      - generic: 리서치 대행
+                      - generic: R&D 대행
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/eeae5824-2968-4f62-b780-51ac0b07c613
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 체리
+                    - generic:
+                      - generic:
+                        - heading "주식회사체리디자인" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 도배, 실내 장식 및 내장 목공사업 · 제주특별자치도 제주시
+                  - generic:
+                    - generic:
+                      - generic: "+6"
+                      - generic: 실내건축업
+                      - generic: 제주인테리어
+                      - generic: 제주관급공사
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/62037cd3-d598-4cba-b78c-3186d69d841a
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 커터
+                    - generic:
+                      - generic:
+                        - heading "커터코리아" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 의료용 기기 제조업 · 인천 남동구
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: 세라믹핀
+                      - generic: 세라믹닥터블레이드(독터날)
+                      - generic: MLCC커팅블레이드
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/9a61bf0d-33bd-4af7-9168-5a7d7365fcae
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "(주)스페셜메이커"
+                    - generic:
+                      - generic:
+                        - heading "(주)스페셜메이커" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 그 외 기타 특수목적용 기계 제조업 · 서울 금천구
+                  - generic:
+                    - generic:
+                      - generic: "+1"
+                      - generic: VR시뮬레이터
+                      - generic: 4축와이어캠
+                      - generic: 서보윈치(LED업다운용)
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/e75da9a4-329f-4fae-b353-20ae0d252c79
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "블루글로벌"
+                    - generic:
+                      - generic:
+                        - heading "블루글로벌" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 남녀용 겉옷 및 셔츠 도매업 · 인천 연수구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/35b32757-4b47-4865-9a5a-c8d3b9b0ae80
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "베럴유(better U)"
+                    - generic:
+                      - generic:
+                        - heading "베럴유(better U)" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 기타 가정용 전기 기기 제조업 · 경기 화성시
+                  - generic:
+                    - generic:
+                      - generic: "+2"
+                      - generic: "위생용품: 휴대용면도기살균기"
+                      - generic: "위생용품: 유아용 세척살균기"
+                      - generic: "위생용품: 클린 스마트휴지통"
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/aa53252f-3308-45ac-be64-3d479b9c5e66
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "미래세무회계"
+                    - generic:
+                      - generic:
+                        - heading "미래세무회계" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 세무사업 · 서울 광진구
+                  - generic:
+                    - generic:
+                      - generic: "+3"
+                      - generic: 기장대행
+                      - generic: 신고대행
+                      - generic: 환급금
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/79509a2a-de65-4c44-93ca-7a1a9607dc06
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 에이
+                    - generic:
+                      - generic:
+                        - heading "에이스크린텍" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 건축물 일반 청소업 · 경기 부천시
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/50b830d3-fcd2-4e95-a26e-1a4e776e4b04
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 예지
+                    - generic:
+                      - generic:
+                        - heading "예지상사" [level=3]
+                        - generic "사업자 인증"
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 화장품 및 화장용품 도매업 · 경기 고양시
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/cff49d7d-1d87-4b89-9585-5e5b8613b483
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 드림
+                    - generic:
+                      - generic:
+                        - heading "드림커뮤니케이션" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 전시, 컨벤션 및 행사 대행업 · 수원시 장안구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/66f52a9e-42ec-483c-80cc-6f9bfa943622
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 케이
+                    - generic:
+                      - generic:
+                        - heading "(주)케이스탯리서치" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 시장 조사 및 여론 조사업 · 서울 서초구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/0aee0364-a626-40da-946a-f3016c95a287
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 프로
+                    - generic:
+                      - generic:
+                        - heading "(주)프로디지랩" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 컴퓨터 프로그래밍 서비스업 · 경기 용인시
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/5ea33c28-d9d3-41af-aa1c-db0dd707baea
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 몰마
+                    - generic:
+                      - generic:
+                        - heading "몰마마" [level=3]
+                      - generic:
+                        - generic:
+                          - generic: 🇰🇷
+                          - text: 대한민국
+                        - generic: 건강 보조식품 소매업 · 서울 송파구
+                  - generic:
+                    - link "자세히 보기":
+                      - /url: /kr/companies/7969effe-5a43-4c3a-b98f-d8d27af37637
+            - generic:
+              - navigation "pagination":
+                - list:
+                  - listitem:
+                    - link "Go to previous page":
+                      - /url: "#"
+                      - generic: Previous
+                  - listitem:
+                    - link "1":
+                      - /url: "#"
+                  - listitem:
+                    - link "2":
+                      - /url: "#"
+                  - listitem:
+                    - link "3":
+                      - /url: "#"
+                  - listitem:
+                    - link "4":
+                      - /url: "#"
+                  - listitem:
+                    - link "Go to next page":
+                      - /url: "#"
+                      - generic: Next
+            - generic:
+              - generic:
+                - heading "외부 기업 정보" [level=2]
+                - generic: 확인된 기업 18개 이상
+              - paragraph: 아직 가입하지 않은 기업의 기본 정보입니다. 상세 정보는 가입 후 확인할 수 있습니다.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "PetroTech Lubricants and Grease MFG LLC" [level=3]:
+                        - link "PetroTech Lubricants and Grease MFG LLC":
+                          - /url: /kr/companies/external/02bc204a-a134-4def-aaf9-f53f401d8dde
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": oil;grease;lubricants
+                    - generic: Al Jurf Industrial Area 2, 1, Ajman
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=02bc204a-a134-4def-aaf9-f53f401d8dde
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Ducast" [level=3]:
+                        - link "Ducast":
+                          - /url: /kr/companies/external/043ee99f-b104-4c11-b099-fdc992383403
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - generic: Street 26, دبي
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=043ee99f-b104-4c11-b099-fdc992383403
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Al Shahama Slaughterhouse" [level=3]:
+                        - link "Al Shahama Slaughterhouse":
+                          - /url: /kr/companies/external/054916a4-3656-4a76-bea0-3155397ddfbb
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 도축·육가공
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=054916a4-3656-4a76-bea0-3155397ddfbb
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "transmak" [level=3]:
+                        - link "transmak":
+                          - /url: /kr/companies/external/05cd7086-1518-40b8-8393-b2819477ba14
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 기계
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=05cd7086-1518-40b8-8393-b2819477ba14
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Distribution Centre for Borouge" [level=3]:
+                        - link "Distribution Centre for Borouge":
+                          - /url: /kr/companies/external/0787a452-c571-4cb6-989e-9befb466fccf
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 공장
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=0787a452-c571-4cb6-989e-9befb466fccf
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Fabcon Heavy Engineering RMC FZC" [level=3]:
+                        - link "Fabcon Heavy Engineering RMC FZC":
+                          - /url: /kr/companies/external/0cf20e8b-8d55-48cb-b8bd-b4d6b07ba857
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": steel_fabrication
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=0cf20e8b-8d55-48cb-b8bd-b4d6b07ba857
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "مصنع وندورو للنوافذ" [level=3]:
+                        - link "مصنع وندورو للنوافذ":
+                          - /url: /kr/companies/external/0faee121-fe0f-4937-aba7-e3276b4c4ff1
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=0faee121-fe0f-4937-aba7-e3276b4c4ff1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Al Foaah Canning Factory" [level=3]:
+                        - link "Al Foaah Canning Factory":
+                          - /url: /kr/companies/external/126232a4-e276-4c3e-88d0-c1a4515ddae0
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 공장
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=126232a4-e276-4c3e-88d0-c1a4515ddae0
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Cheese Land" [level=3]:
+                        - link "Cheese Land":
+                          - /url: /kr/companies/external/136f6286-8b11-4dae-b651-78bd75a9ccd1
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - generic: 52 Street
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=136f6286-8b11-4dae-b651-78bd75a9ccd1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "منطقة الحيل الصناعية" [level=3]:
+                        - link "منطقة الحيل الصناعية":
+                          - /url: /kr/companies/external/1860bd89-7031-411e-9d2d-423d4e77373a
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=1860bd89-7031-411e-9d2d-423d4e77373a
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Bustanica - Emirates CropOne" [level=3]:
+                        - link "Bustanica - Emirates CropOne":
+                          - /url: /kr/companies/external/1ada030d-6224-44d1-8ea0-9d36928fcc03
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 식품 제조
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=1ada030d-6224-44d1-8ea0-9d36928fcc03
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Air Products (Middle East) FZE" [level=3]:
+                        - link "Air Products (Middle East) FZE":
+                          - /url: /kr/companies/external/1c8f3a5a-3ad3-4172-bf45-feac8cfb37da
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=1c8f3a5a-3ad3-4172-bf45-feac8cfb37da
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "RAK Paint" [level=3]:
+                        - link "RAK Paint":
+                          - /url: /kr/companies/external/1f8ead66-694f-451a-b38f-4be424aac631
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=1f8ead66-694f-451a-b38f-4be424aac631
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Falconpack" [level=3]:
+                        - link "Falconpack":
+                          - /url: /kr/companies/external/23071d6e-86d6-4094-bc7f-46214f0adf88
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=23071d6e-86d6-4094-bc7f-46214f0adf88
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "أحواض دبي الجافة" [level=3]:
+                        - link "أحواض دبي الجافة":
+                          - /url: /kr/companies/external/24e962ef-63ad-4e6b-9e2b-fb0f62c0e72e
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 조선
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=24e962ef-63ad-4e6b-9e2b-fb0f62c0e72e
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Premier Composite Technologies" [level=3]:
+                        - link "Premier Composite Technologies":
+                          - /url: /kr/companies/external/26091d57-8a18-47b8-8ca0-394afcb6c523
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - generic: 70 Street
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=26091d57-8a18-47b8-8ca0-394afcb6c523
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "PCT 8" [level=3]:
+                        - link "PCT 8":
+                          - /url: /kr/companies/external/2ab7e584-ad7f-4274-b57c-de82c215e8ad
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=2ab7e584-ad7f-4274-b57c-de82c215e8ad
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "PCT 7" [level=3]:
+                        - link "PCT 7":
+                          - /url: /kr/companies/external/2bf97ca4-ed73-4cf1-a014-69e96e76c7bb
+                    - generic:
+                      - generic: 미가입 기업
+                      - generic:
+                        - generic: 🇦🇪
+                        - text: 아랍에미리트
+                    - generic:
+                      - generic "업종 (원문)": 제조업
+                    - paragraph: 공개 정보가 부족합니다. 거래 전 기업 정보를 확인해주세요.
+                    - button "상세정보 요청"
+                    - link "이 회사의 담당자이신가요? 무료로 프로필 가져오기":
+                      - /url: /kr/auth?tab=signup&claim=2bf97ca4-ed73-4cf1-a014-69e96e76c7bb
+              - generic:
+                - navigation "pagination":
+                  - list:
+                    - listitem:
+                      - link "Go to previous page" [disabled]:
+                        - /url: "#"
+                        - generic: Previous
+                    - listitem: "1"
+                    - listitem:
+                      - link "Go to next page":
+                        - /url: "#"
+                        - generic: Next
+      - contentinfo:
+        - generic:
+          - generic:
+            - generic:
+              - paragraph: I:UM(이음)
+              - paragraph: "주식회사 이음네트웍스 | 대표: 김윤기 | 사업자등록번호: 503-87-03865"
+              - paragraph: "경기도 화성시 정남면 서봉로903-12, 1층 | Tel: 010-9259-6498 | E-mail: contact@i-um.co.kr"
+            - generic:
+              - link "회사소개":
+                - /url: /kr/about
+              - link "공지사항":
+                - /url: /kr/notice
+              - link "블로그":
+                - /url: /kr/blog
+              - link "이용약관":
+                - /url: /kr/terms
+              - link "광고 이용약관":
+                - /url: /kr/ad-terms
+              - link "개인정보처리방침":
+                - /url: /kr/privacy
+              - link "문의하기":
+                - /url: /kr/consultation
+          - generic:
+            - paragraph: © 2026 I:UM(이음) Inc. All rights reserved.
+  - dialog [ref=e194]:
+    - button "Close" [active] [ref=e195] [cursor=pointer]: ×
+    - banner [ref=e196]: 기업을 찾는 방법을 알려드릴게요
+    - generic [ref=e197]: 우리 플랫폼에는 원하는 거래처를 찾는 여러 도구가 있어요. 30초만에 둘러볼까요?
+    - contentinfo [ref=e198]:
+      - generic [ref=e199]: 1 / 8
+      - generic [ref=e200]:
+        - button "이전" [disabled]
+        - button "다음" [ref=e201] [cursor=pointer]
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-10-12T00-39-43-420Z.log#L1

@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Total items: 200
+Found: 198
+Not found: 2
+Not found details: [
+  { idx: 62, bizno: '6090817814', name: '가야정기' },
+  { idx: 150, bizno: '6091156404', name: '선진광학' }
+]
+By source: { bizno: 197, not_found: 2, name_region_match: 1 }
+

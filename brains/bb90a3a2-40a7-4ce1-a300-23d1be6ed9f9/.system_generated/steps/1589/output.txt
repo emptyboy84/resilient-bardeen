@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+�ġ �:8 �:49
++     const links = data.match(/href=[\"']([^\"']+)[\"']/g) || [];
++                                                 ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:8 �:51
++     const links = data.match(/href=[\"']([^\"']+)[\"']/g) || [];
++                                                   ~
+'[' �ڿ� � �̸� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

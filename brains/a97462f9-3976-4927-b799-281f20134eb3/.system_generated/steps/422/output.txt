@@ -1,0 +1,46 @@
+
+The command exited with code 0.
+Output:
+Header length: 19
+Total parsed rows (including header): 2314
+Rows with internal newlines: [
+  { idx: 508, seq: '508', name: '가온메탈', fieldsWithNewline: [ 7 ] },
+  { idx: 534, seq: '534', name: '로터스프로그게임즈', fieldsWithNewline: [ 7 ] },
+  { idx: 542, seq: '542', name: '맵시', fieldsWithNewline: [ 7 ] },
+  { idx: 543, seq: '543', name: '나우유컴퍼니', fieldsWithNewline: [ 7 ] },
+  {
+    idx: 548,
+    seq: '548',
+    name: '네츄럴코어전문판매점',
+    fieldsWithNewline: [ 7 ]
+  },
+  { idx: 566, seq: '566', name: '다인컴즈', fieldsWithNewline: [ 7 ] },
+  { idx: 582, seq: '582', name: '더엘컴퍼니', fieldsWithNewline: [ 7 ] },
+  { idx: 842, seq: '842', name: '스토리텔링', fieldsWithNewline: [ 7 ] },
+  { idx: 1588, seq: '1588', name: '에스씨제이', fieldsWithNewline: [ 10 ] },
+  {
+    idx: 1849,
+    seq: '1849',
+    name: '티앤북스(TEA N BOOKS)',
+    fieldsWithNewline: [ 10 ]
+  },
+  {
+    idx: 1882,
+    seq: '1882',
+    name: '에스팀컴퍼니(S TEAM COMPANY)',
+    fieldsWithNewline: [ 10 ]
+  },
+  {
+    idx: 2076,
+    seq: '2076',
+    name: '제이앤제이(J&J)커뮤니케이션즈',
+    fieldsWithNewline: [ 10 ]
+  },
+  {
+    idx: 2095,
+    seq: '2095',
+    name: '주식회사 글리처프롭(Glitchor Prop)\n',
+    fieldsWithNewline: [ 2 ]
+  }
+]
+

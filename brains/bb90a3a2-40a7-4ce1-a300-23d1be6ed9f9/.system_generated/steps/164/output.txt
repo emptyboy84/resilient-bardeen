@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Saved TXT to: C:\Users\lg\Desktop\Today\부산기업_전화번호검증_완료본_20261014.txt
+Copied XLSX to: C:\Users\lg\Desktop\Today\부산기업_전화번호검증_완료본_20261014.xlsx
+TXT size: 193038 bytes
+XLSX size: 100549 bytes
+

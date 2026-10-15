@@ -1,0 +1,17 @@
+The search for ""제일에프앤에스" "사하구" OR "을숙도대로" OR "신평동"" returned the following summary:
+**(주)제일에프앤에스**에 대한 정보는 다음과 같습니다.
+
+*   **소재지:** 부산광역시 사하구 을숙도대로 651 (신평동)[1][2][3]
+*   **주요 업종:** 남자용 겉옷 제조업 등[1][2]
+
+참고로, 일부 공장등록 현황 자료 등에서는 본사 주소지가 부산 연제구 연산동으로 기재되어 있기도 하나[4][5][6], 사하구 신평동 소재의 주소지가 해당 업체의 부산공장으로 확인됩니다[7][8][3].
+
+Sources:
+[1] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2nans6Amc5Xmy34GFWCU9drbFHqgbaF5MRau6TYnC2SljEjyeMe_DnhLT-5ol2vu0B-FMrjdFhm3d_L-fisq2K4MJCq1LINQRvazIwSi-qTBKILaLlRPNzSHcQQdUTRsRKLVI-SE90PZB4DY3zza1Aygr3Gyk7xGPBJ2eq-ToReAim4hVw==)
+[2] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2nans6Amc5Xmy34GFWCU9drbFHqgbaF5MRau6TYnC2SljEjyeMe_DnhLT-5ol2vu0B-FMrjdFhm3d_L-fisq2K4MJCq1LINQRvazIwSi-qTBKILaLlRPNzSHcQQdUTRsRKLVI-SE90PZB4DY3zza1Aygr3Gyk7xGPBJ2eq-ToReAim4hVw==)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw2nans6Amc5Xmy34GFWCU9drbFHqgbaF5MRau6TYnC2SljEjyeMe_DnhLT-5ol2vu0B-FMrjdFhm3d_L-fisq2K4MJCq1LINQRvazIwSi-qTBKILaLlRPNzSHcQQdUTRsRKLVI-SE90PZB4DY3zza1Aygr3Gyk7xGPBJ2eq-ToReAim4hVw==)
+[4] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU30L8-ek5ek_rcmq_c8mD7c7hBAis6lT8TD6ybJ91cc7H_lmsSxSUkOxiHTOH_aDrDfp1SL60MtT1tZas5LOpfqK5M-GO9ZZyzY8wo5Gv7JamQuV5uVB3BxCUuAjzZPBM-Jtnssko5PKDbINHO_f5gburDb-F7hY=)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj7e9hgXKFfG285m7SZizxeIdOEyQ_tpLJjPYviCt5t9lLVe0JhSEz5h4hVK31mbgtkVmqnAkJ7SBbpdlV7n-l7JKdXpvwvU6gt2Mz8-S7CJ2goGbP_w==)
+[6] [ilovebusiness.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU30L8-ek5ek_rcmq_c8mD7c7hBAis6lT8TD6ybJ91cc7H_lmsSxSUkOxiHTOH_aDrDfp1SL60MtT1tZas5LOpfqK5M-GO9ZZyzY8wo5Gv7JamQuV5uVB3BxCUuAjzZPBM-Jtnssko5PKDbINHO_f5gburDb-F7hY=)
+[7] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSz1gT8D-i8JRXcgOm56Ek983Q09_eJGrBiU0W0oo9dzt8biFAbtPVhQxlXdZ5WIivOScD-GqdfiFxkBT9gl8VqcN5N-1Gyva-Gzjg-Ro-AVioNlNgbh55MgOPKNjCOneiQw==)
+[8] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSz1gT8D-i8JRXcgOm56Ek983Q09_eJGrBiU0W0oo9dzt8biFAbtPVhQxlXdZ5WIivOScD-GqdfiFxkBT9gl8VqcN5N-1Gyva-Gzjg-Ro-AVioNlNgbh55MgOPKNjCOneiQw==)

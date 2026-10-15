@@ -1,0 +1,285 @@
+
+The command exited with code 0.
+Output:
+Sheet name: 기업체 리스트
+Row count: 2469
+Total RED cells in current original file: 107
+Sample red cells: [
+  {
+    row: 56,
+    col: 4,
+    val: '163-10-01084',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    row: 56,
+    col: 11,
+    val: '부산진구 서전로37번길 25-9 예일프라자 312호',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    row: 161,
+    col: 4,
+    val: '605-26-54301',
+    font: {
+      bold: true,
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    row: 217,
+    col: 4,
+    val: '365-40-00320',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    row: 242,
+    col: 3,
+    val: '㈜일비랩',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  }
+]
+
+Row 639 in current original file:
+[
+  {
+    col: 1,
+    val: '25년 모집단',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 2,
+    val: 638,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 3,
+    val: '디자인에코',
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 4,
+    val: '603-10-85753',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 5,
+    val: 2009,
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 6,
+    val: 10,
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 7,
+    val: '이돈희',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 8,
+    val: '051-207-3530',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 9,
+    val: '051-517-3500',
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 10,
+    val: '금정구',
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 11,
+    val: '부산 금정구 장전동 222-39 서강빌딩 4층',
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 12,
+    val: '캐릭터',
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 13,
+    val: null,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 14,
+    val: null,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 15,
+    val: null,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 16,
+    val: 10,
+    font: {
+      size: 10,
+      color: [Object],
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 17,
+    val: null,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  },
+  {
+    col: 18,
+    val: null,
+    font: {
+      size: 10,
+      name: '맑은 고딕',
+      family: 3,
+      charset: 129,
+      scheme: 'minor'
+    }
+  }
+]
+

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+FTC HTML length: 3373
+ 통신판매 사업자정보 조회 위에 보이는 문자를 입력해 주세요. 
+

@@ -1,0 +1,29 @@
+
+The command exited with code 0.
+Output:
+=== Reading CSV ===
+Original data rows: 2313
+Writing XLSX to: C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx
+XLSX written successfully!
+Could not write to (!!): EBUSY: resource busy or locked, open 'C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑!!.xlsx'
+Writing CSV with UTF-8 BOM to: C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.csv
+CSV written successfully!
+
+===== FULL POPULATION STATISTICS =====
+Total rows in dataset: 2313
+Total newly filled cells (styled with RED font): 2670
+{
+  "biznoFilled": 150,
+  "yearFilled": 132,
+  "monthFilled": 134,
+  "ceoFilled": 0,
+  "telFilled": 17,
+  "faxFilled": 39,
+  "districtFilled": 0,
+  "addressFilled": 0,
+  "closeDateFilled": 26,
+  "remarkFilled": 0,
+  "empFilled": 142,
+  "sourceFilled": 2030
+}
+

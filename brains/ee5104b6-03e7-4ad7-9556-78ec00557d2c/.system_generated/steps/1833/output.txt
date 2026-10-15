@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/5600801623');
+```
+### Page
+- Page URL: https://bizno.net/article/5600801623
+- Page Title: 이엔에프 에너지
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-08T02-10-49-237Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-08T02-10-45-186Z.log#L1-L32

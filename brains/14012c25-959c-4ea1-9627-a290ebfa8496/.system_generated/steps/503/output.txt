@@ -1,0 +1,14 @@
+The search for ""비솜" site:dart.fss.or.kr OR "부산일보" 감사보고서 "비솜"" returned the following summary:
+전자공시시스템(DART) 조회 결과, **'비솜(비솜주식회사)'**은(는) 주권상장법인 또는 외부감사 대상 법인이 아니거나 금융감독원 DART에 감사보고서가 공시되는 대상 기업이 아닐 가능성이 높아 관련 감사보고서 검색 결과가 존재하지 않습니다[1][2]. 
+
+다만 언론사 및 기업 정보 등을 통해 확인되는 바에 따르면, **비솜(주)**은 《부산일보》의 관련 계열사(또는 자회사 성격의 법인)로[3][4], 주로 미디어·서비스 관련 사업 등을 영위하는 중소기업으로 식별됩니다[5]. 
+
+일반 비상장 중소기업의 경우 주식회사의 외부감사에 관한 법률(외감법)에 따른 외부감사 대상에 해당하지 않는 한 금융감독원 DART 시스템에 공식적인 감사보고서가 의무 공시되지 않으므로, 해당 기업의 재무제표나 세부 감사보고서는 DART가 아닌 다른 기업정보 플랫폼(사람인, 잡코리아 등)이나 일반 경영공시 채널을 통해 확인해야 할 수 있습니다[5][6].
+
+Sources:
+[1] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3wS0aTDG7vMuX9v4TCzUf90lCvqCFPutWYxK8Y2mi9LouZDYQnPUniWHpwB6ISNSWJwWjfBG-pL5tSuc-jM8rOMdF4yvApfee2WZFxpIn0mTkTQvwlrsCYAHCmg==)
+[2] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3wS0aTDG7vMuX9v4TCzUf90lCvqCFPutWYxK8Y2mi9LouZDYQnPUniWHpwB6ISNSWJwWjfBG-pL5tSuc-jM8rOMdF4yvApfee2WZFxpIn0mTkTQvwlrsCYAHCmg==)
+[3] [lpk.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRrufemO8361gy8XBUBkC1Iquh3qEwiknMwB-i6mJ8HMD0Ia_Yba-mFIzGuLH__UwXZ5CyNqXZAPo631aSUq6aToesrwqg_ib_Ouof8aRecwm8dZNEqXQun1C6WiPxrxjlXcajdQ==)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgkuZAWMIjIWi7_WE2q5yjFqgGJRB8CJHKWG6lixaRpAoLP_xv-MefSiHCsZThX6_OwclmuUGZ4s0y5IBRUj1cR2z9qWtqvoqkwO8mnT3EMn9RBJOwMo50q37hbzuuablSvNvt)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWqH6F43jq1-QnV8ON7G1s09vT0ZMLypBHGJfafldfy3Aw7X39wErt-5V3O0uxesIAmH8oUop_VwOI6uVAL8b1E3UOxt96YR9FnnejIOthBfE9JEU-XyRJKQjZ6t7NDDqDa5HNMXJ9yS3KF3Lugk0Kv1rUXr5bjjvN24DzW1ttQ6u32bHCXdARFyYRjVqtHawcEYEt-oFsHL8SFUWulAsgBXfKoKovPoFRI6rB9aEifQkgrUUYd7cOfFCsiQ==)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEupQJ7-JrLeC-Ram3SSxYkZ-dSJg6t3YvkqQc4QzJYnSCtvatLc7Ptdr6p7WcOEePXcylVnDXm2ALB7zHPpjXOR_CLPoGatdb4vbD60CUzfYdUby9ixcY-PtkFHAmeOMg7XLn8DE1TwYWUwlSTkfcU05DqFQTfbKiBYL8rHVmLref9mp-fe_C8kI6urUrdHbFltB5f_5XiLuZf2rfIag5YwEvh1OSNZKqwkVXr3Q==)

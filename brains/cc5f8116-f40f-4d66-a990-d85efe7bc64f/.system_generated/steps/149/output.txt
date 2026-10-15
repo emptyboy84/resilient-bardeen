@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Wrote sample 10 to sample_10.txt
+

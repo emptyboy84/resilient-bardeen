@@ -1,0 +1,15 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:86
++ ... all(r'href=[\"\']/article/(\d{10})[\"\'].*?<h[34][^>]*>(.*?)</h[34]>' ...
++                                                                 ~
+'<' �ڴ� �߿� �ϵ� �Ǿ� �ֽ�ϴ�.
+�ġ �:12 �:31
++             print(f'{art}: {t}')
++                               ~~
+�ڿ� ' �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : RedirectionNotSupported
+ 
+

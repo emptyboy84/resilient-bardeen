@@ -1,0 +1,13 @@
+The search for ""251002013000013"" returned the following summary:
+해당 번호(251002013000013)는 문화체육관광부 '출판사·인쇄사 검색시스템'에 등록된 출판사 등록번호로 조회됩니다[1][2].
+
+검색 결과상으로는 동일한 등록번호가 서로 다른 지역 및 업체와 연관되어 나타나고 있습니다.
+
+*   **주식회사 디자인그룹상상연구소**: 전남광주통합특별시 남구 소재 (등록일자: 2013-09-12)[1]
+*   **사회적협동조합그림책도시**: 강원특별자치도 원주시 소재 (등록일자: 2013-08-06)[2]
+
+출판사 등록번호는 지자체별로 관리되므로, 특정 업체에 대한 정확한 정보 확인이 필요하신 경우 해당 지자체의 문화예술과로 문의하시거나 [출판사·인쇄사 검색시스템](https://www.pub-in.go.kr/)에서 업체명을 통해 다시 확인하시는 것을 권장합니다[1][2].
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8XLokva-MNH-4hYTUpF-XnZ3JWJbSrtRMBdwp5yFGXOwmWV5GgDfzGayo0i4T1NPlyI0IhbxfxrSjJ1QBiIL19YWqmk3BG8bSxyOM6lvdN9VduKcgdup0sW7XDXXr1GAJyqHorH6Eapah7lu_h7u1jaWpycEypfaqiG7cxV58gEmnCLmZwC-AGxHtEfQMUxvarRpPzL7UDMXeAW7IO9aMAQcGTS1VUGmlykDLgS28-fcUfnGO_mV7ouWQNpDLl6UgfO5MyZxVNwGWxBYWeukh9WZUD98d9kdjQM8humVPdGhyekz5bmTfVclFtB9De5-8EY9V94ohbcahr2DIndszibWDjmtO3Rgh4RvoSP-k8AoVEiv)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH3hrXTxWijsz7FPMrppxmSsQ4bNcPE8AqTicC467xnMgwA7kjyRg8VrRzOcqZV_39oqnFs7ptK7pqx7BCn_lAtfpP-PR0DxQzknY1ZWO4xwon--a-4K3O6cV0jVgVH81Ar2zyVdePgcJv9bw5c9ZilWqTTowwKuMJ9WFr2RTngRp6Tr0_J25_Z908cCBAxrDOrHNxcDao_ZRUGFKyOHwQFRb4L1cmGwxIL_pF3HvOakP3SvxOo9RLD929RQBkh02GTozrWf0fnng18Iu3_C3tXo-zvAwy1mjMY4r1F7j9mvuBX7eNlMkKPo_3OAyV976TEJuG2m250MxgViVLYUcEgFVyiMFrrCaFBHPnA9q0)

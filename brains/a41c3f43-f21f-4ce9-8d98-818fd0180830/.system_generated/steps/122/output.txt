@@ -1,0 +1,4 @@
+Script ran on page and returned:
+```json
+[{"href":"https://smartstore.naver.com/meshlink/profile","text":"소프트웨어는 메쉬링크"},{"href":"https://smartstore.naver.com/meshlink/profile?cp=1","text":"판매자 정보"}]
+```

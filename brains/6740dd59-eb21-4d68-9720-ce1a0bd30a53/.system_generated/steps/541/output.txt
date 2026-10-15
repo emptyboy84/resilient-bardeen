@@ -1,0 +1,18 @@
+The search for ""클린스쿨" OR "279-88-01812" "최보필" 매출액 OR 부산" returned the following summary:
+**(주)클린스쿨 기업 정보**
+
+*   **기업명:** 주식회사 클린스쿨[1][2]
+*   **대표자:** 최보필[1][2]
+*   **사업자등록번호:** 279-88-01812[1][3]
+*   **본점 소재지:** 부산광역시 사상구 모라로 22, 부산벤처타워[1][4]
+*   **주요 사업:** 초·중·고교 위생 안전 제품 개발 및 서비스, 냉난방기 종합 화학 세척, 시설물 관리 등[1][2]
+*   **매출액:** 약 21억 33만 원 (2024년 기준)[4][2][5]
+
+(주)클린스쿨은 부산 사상구에 위치한 중소기업으로, 주로 학교 및 공공기관 등을 대상으로 위생 안전 관리 및 관련 제품 서비스를 제공하고 있습니다[1][4][2].
+
+Sources:
+[1] [kmx.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Tptc6jUPefFenvvfhzim5V7386iVFHrbJrS3wyxV8irPTpsaUy9Sw_N1LXFaDeb9bgkg5KyNL7GgOS4zhAJavZzIeqxeOD9BkUnMukz7-4dkBjiDjrGwlEIymF6kRsyVsZzJzdqOd6s6N1vhh36eadOGCi54OzhPMMCEGBd7VD5Gy4m3bxL_CycFXHXJw1NO5O2CU3Q=)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNas4Dwae_83h0otATSkCDjrA9dlhHSk6Ixcr8jP6Qevvs0h3lNFOSzQaKZHfiC6h-ED8RUCHX6wGYIvG_nqgyrvSwF3cmAVTXWfwTjKpRX5MDSmJYpq27Xgxx2XsBpQsyNkPBW4F8WQJf)
+[3] [wegift.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLR-vdGz5wKX2bZtT5KYv2hpCyGf7GzIBee0_-Tnde8R6dXP7c95PhWT-2j2oTx_aYBgdzwv_dd731H2Kt3fsHcHKaWVX3wA==)
+[4] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOJJlvLTY4GydwNoeH-Y1ePqzlKW8qePBez1CLCkMzXHV_NpvSYBqRhOj32Isszj1wqHAEgZcexXFW4M5Gi-3rYliGla4sSd6pc_N6qwoU8__x1d1B9sFIa0dH5oEhunBb4X0V46nSCfxrR15SooAVo6eE1k8mCh3LDVt8lNvO3KGAd4Vdn4H102RYaQ7hyx2rSOYRpHd4cQqSW7jO2lRrAc-B8GvCkvNEwpT_4F75nTODEUagiS4icuYX4yC1G5Ql1li-UyB-Zh04-g4A)
+[5] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPiANPp5GrOBw8nBOZINEyfRa2WmBcYS0pB708N9xyVku9kaXH1Gfsi9o-XyBJO5EzzWqkgACe4Ga88jPgGZXvNzoHslGW1Yt-4wEsriN2a0jcAL7eBcS1fP-Jn5MwJBjK)

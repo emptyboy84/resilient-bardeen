@@ -1,0 +1,87 @@
+### Result
+[
+  {
+    "text": "비솜주식회사\n주거용 건물 임대업\n정상\n부산 동구",
+    "href": "https://www.gongsinara.com/company/4359964"
+  },
+  {
+    "text": "베비솜\n폐업\n경기도 남양주시",
+    "href": "https://www.gongsinara.com/company/11404635"
+  },
+  {
+    "text": "루비솜\n정상\n경기도 김포시",
+    "href": "https://www.gongsinara.com/company/11391266"
+  },
+  {
+    "text": "나비솜\n폐업\n전라북도 익산시",
+    "href": "https://www.gongsinara.com/company/11546914"
+  },
+  {
+    "text": "베이비솜스튜디오\n인물 사진 및 행사용 영상 촬영업\n폐업\n경기 동두천시",
+    "href": "https://www.gongsinara.com/company/4496772"
+  },
+  {
+    "text": "베이비솜스튜디오\n인물 사진 및 행사용 영상 촬영업\n폐업\n경기도 동두천시\n개인",
+    "href": "https://www.gongsinara.com/company/5493376"
+  },
+  {
+    "text": "(누비솜)nubisom\n정상\n인천광역시 서구\n개인",
+    "href": "https://www.gongsinara.com/company/97137"
+  },
+  {
+    "text": "비솔아트（besolart）\n패션, 섬유류 및 기타 전문 디자인업\n폐업\n서울특별시 서대문구\n개인\n2011년 개업\n15년\n업력",
+    "href": "https://www.gongsinara.com/company/2136"
+  },
+  {
+    "text": "비손\n폐업\n서울특별시 도봉구\n개인",
+    "href": "https://www.gongsinara.com/company/11347"
+  },
+  {
+    "text": "비손\n광고 대행업\n폐업\n서울특별시 강서구\n개인",
+    "href": "https://www.gongsinara.com/company/59335"
+  },
+  {
+    "text": "비손트레이딩\n폐업\n서울특별시 구로구\n개인",
+    "href": "https://www.gongsinara.com/company/128762"
+  },
+  {
+    "text": "비손\n그 외 기타 달리 분류되지 않은 제품 제조업\n정상\n경기도 용인시\n개인\n1998년 개업\n28년\n업력",
+    "href": "https://www.gongsinara.com/company/152754"
+  },
+  {
+    "text": "비송예가\n정상\n경기도 포천시\n개인",
+    "href": "https://www.gongsinara.com/company/161261"
+  },
+  {
+    "text": "비손\n통신기기 소매업\n정상\n경기도 고양시\n개인",
+    "href": "https://www.gongsinara.com/company/167220"
+  },
+  {
+    "text": "비소리 스토어\n옥외 및 전시 광고업\n정상\n경기도 양주시\n개인",
+    "href": "https://www.gongsinara.com/company/168728"
+  },
+  {
+    "text": "비손레더월드\n기타 산업용 농산물 도매업\n폐업\n경기도 부천시\n개인",
+    "href": "https://www.gongsinara.com/company/183924"
+  },
+  {
+    "text": "비솔\n폐업\n경기도 부천시\n개인",
+    "href": "https://www.gongsinara.com/company/185555"
+  },
+  {
+    "text": "비손홈스\n정상\n충청남도 당진시\n개인",
+    "href": "https://www.gongsinara.com/company/203712"
+  },
+  {
+    "text": "비손\n한식 일반 음식점업\n폐업\n경기도 용인시\n개인",
+    "href": "https://www.gongsinara.com/company/241058"
+  },
+  {
+    "text": "비소라 153\n폐업\n경기도 용인시\n개인",
+    "href": "https://www.gongsinara.com/company/259200"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const cards = Array.from(document.querySelectorAll(\'a[href*="/company/"]\'));\n  return cards.map(c => ({\n    text: c.innerText.trim(),\n    href: c.href\n  }));\n}');
+```

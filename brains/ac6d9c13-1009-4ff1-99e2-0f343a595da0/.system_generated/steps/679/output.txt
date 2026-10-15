@@ -1,0 +1,141 @@
+
+The command exited with code 0.
+Output:
+[
+  {
+    "seq": "1667",
+    "name": "(유한)라군",
+    "corpNo": "180114-0014730",
+    "targetCeo": "엄철민",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "엄철민"
+  },
+  {
+    "seq": "1680",
+    "name": "(주)신다인",
+    "corpNo": "180111-1342128",
+    "targetCeo": "김외선",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김외선"
+  },
+  {
+    "seq": "1697",
+    "name": "(주)왓컴퍼니",
+    "corpNo": "180111-1221330",
+    "targetCeo": "박민우",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "박민우"
+  },
+  {
+    "seq": "1852",
+    "name": "(주)코드스테이션",
+    "corpNo": "180111-1551373",
+    "targetCeo": "김민수",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김민수"
+  },
+  {
+    "seq": "1895",
+    "name": "(유한)팜므온",
+    "corpNo": "180114-0015275",
+    "targetCeo": "심장현",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "심장현"
+  },
+  {
+    "seq": "2000",
+    "name": "(주)오엔솔루션",
+    "corpNo": "180111-0165441",
+    "targetCeo": "김오녕",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김오녕"
+  },
+  {
+    "seq": "2261",
+    "name": "(주)미스터엔터",
+    "corpNo": "180111-1446962",
+    "targetCeo": "이동규",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "이동규"
+  },
+  {
+    "seq": "2270",
+    "name": "(주)엑센트리아빠문화산업전문회사",
+    "corpNo": "180111-1234317",
+    "targetCeo": "윤우근",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "윤우근"
+  },
+  {
+    "seq": "2272",
+    "name": "(유한)천상의에이아이",
+    "corpNo": "180114-0004029",
+    "targetCeo": "구종수",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "구종수"
+  },
+  {
+    "seq": "2273",
+    "name": "아인북(주)",
+    "corpNo": "180111-0163148",
+    "targetCeo": "김재규",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "김재규"
+  },
+  {
+    "seq": "2278",
+    "name": "(주)티디엔터테인먼트",
+    "corpNo": "180111-0168506",
+    "targetCeo": "문진영",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "문진영"
+  },
+  {
+    "seq": "2284",
+    "name": "유튜브리(주)",
+    "corpNo": "180111-1478379",
+    "targetCeo": "이태준",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "이태준"
+  },
+  {
+    "seq": "2288",
+    "name": "유아이리서치(주)",
+    "corpNo": "180111-1553048",
+    "targetCeo": "김경래",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "도해현"
+  },
+  {
+    "seq": "2289",
+    "name": "(주)라햄",
+    "corpNo": "180111-0166978",
+    "targetCeo": "강현권",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "강현권"
+  },
+  {
+    "seq": "2320",
+    "name": "(주)퍼펙트사인",
+    "corpNo": "180111-1511393",
+    "targetCeo": "최은경",
+    "count": "1",
+    "bizNo": "-",
+    "foundCeo": "최은경"
+  }
+]
+

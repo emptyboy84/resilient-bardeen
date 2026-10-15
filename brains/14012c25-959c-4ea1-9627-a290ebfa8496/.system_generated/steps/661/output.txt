@@ -1,0 +1,19 @@
+The search for "site:play.google.com/store/apps/details?id= "com.seyeonsoft"" returned the following summary:
+The developer **SeyeonSoft** has published several popular dress-up and casual simulation games on Google Play[1][2]:
+
+* **[Lily Style : Dress Up Game](https://play.google.com/store/apps/details?id=com.seyeonsoft.lily.style)**[3]
+* **[Lily Diary : Dress Up Game](https://play.google.com/store/apps/details?id=com.seyeonsoft.lily.diary)**[4]
+* **[Lily Story : Dress Up Game](https://play.google.com/store/apps/details?id=com.seyeonsoft.lilystory)**[5]
+* **[Pastel Party : Dress Up Game](https://play.google.com/store/apps/details?id=com.seyeonsoft.pastel.party)**[6]
+* **[Pastel Girl : Dress Up Game](https://play.google.com/store/apps/details?id=com.seyeonsoft.pastelgirl)**[2]
+* **Pastel Friends : Dress Up Game**[1]
+
+If you are looking for a specific app package ID (`com.seyeonsoft.______`), please specify which title you need, or you can browse their entire catalog directly on their [Google Play Developer Page](https://play.google.com/store/apps/dev?id=8449622934953332159)[1].
+
+Sources:
+[1] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmmxtd8YUGacRSKE2wRgmXeGYOnT9YC_sw7hfiYY7q2ve55K-ZV7be7KjmFDorbww1g8gdyNkCZBdWGRUbOfhs_XLJJFVZI-03QdSsznP6FfNeYGjssrYrR4ABKtpOIz6cJLoFoMAbFiE5WFu_nhepRArjwudENDRJ)
+[2] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGAymIFgqOUSCrw_fcQLYxVwUNpIQhCqMfE0syOKy2m6jbFxErOG5iZhgK2XW0zxifmUxkz9THrkln3gzbWrNVmjOZ-EbvJCr_ufNkrn9tJijFNdGYljZvzYn4m6M6Zh8v_qLMYGV74Any8CdlxW8zxALso8tbdx1BkFimP7uw)
+[3] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERGUll33HSB7ZrvQunRuJCLS9i3pevqk8B-u_5pCNiIGeo2JygXZ48k2tAPYK7I1GAFDIvG4kCZOhtmWXlies8sXSdaoun5jFIWFdtyUXCypOioduLxdq7bQkLqqs45-OVP0GUf4mB3CoHq0NuBrWTKXgpAiVKDtLe5i90czY=)
+[4] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVSdwqU4t4-IS4LNw201smthJvftzybG17EvFUIy5KaLgX4yVT601ULIcCTbePQw3ddrckAzfTl1B1Gm8auD5SfRRAlcXMVOamaomg7_9Pn5KDEJH1U1uMLva0gt8DabKISaDL-7WbHh979QtWiHAYcOEbMMBbN8I2QcE6B4=)
+[5] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwRjFafg1Y93dFzD0hmMkht5eU0b6TU5C2o8Cx66pseTNGIHrXYMDQqYePiodXF7S6TYG82Ofh81zMSEyPh9R-4zdIfyrZv1TjiEjtpGI1PbMLhvLbqgbuacUDb47SMGo9lFKqgHPh3ZcsuRgTtJ9X_wv6VZA9jFNRUWi8Bw==)
+[6] [google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfGRk0OOrQibtBq4mHCXcT3gHXBtEwLlyZIAVMfjJKhXjrDdwlHieryiXMWNI8cuH8QhefeZlbT3jok8VIyVEniA5GAf6chnMRGyisjmp2kG0ow13qU3xlEtoGwlDRIRPS0_veWJvkaOl7OGW4yhCcVK4nbVaWSymBsXeQab0=)

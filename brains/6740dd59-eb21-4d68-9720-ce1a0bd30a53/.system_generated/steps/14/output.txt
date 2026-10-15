@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+On branch add_kyobo_popup_store
+nothing to commit, working tree clean
+

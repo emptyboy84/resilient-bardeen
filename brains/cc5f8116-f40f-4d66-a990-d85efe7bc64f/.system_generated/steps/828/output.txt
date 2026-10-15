@@ -1,0 +1,21 @@
+
+The command exited with code 0.
+Output:
+Loading original backup and updated workbook for verification...
+Original row count: 2469, Updated row count: 2469
+
+[Verification 1] Non-target rows checked: 2151
+  PASS: 100% of non-target rows (1,995 rows) are perfectly identical and preserved!
+
+[Verification 2] Target 318 rows statistics:
+  - Target rows modified: 203 / 318
+  - Business numbers populated: 203 / 318
+  - Bizno employee counts populated (P col): 162 / 318
+  - Closed status marked in note (O col): 30 / 318
+  - Safe blanks maintained for unverified rows: 115 / 318
+
+[Verification 3] '개인 리스트' sheet checked:
+  PASS: '개인 리스트' sheet is 100% untouched!
+
+ALL VERIFICATIONS PASSED SUCCESSFULLY!
+

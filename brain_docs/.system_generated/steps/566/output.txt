@@ -1,0 +1,14 @@
+The search for "site:bigmade.co.kr OR ("빅메이드" "051" OR "070" OR "02" OR "1" OR "TEL")" returned the following summary:
+종합광고대행사 **빅메이드(BIGMADE)**의 공식 정보는 다음과 같습니다[1]:
+
+* **웹사이트:** [bigmade.co.kr](https://www.bigmade.co.kr)[1]
+* **대표 전화번호(T):** 070-7642-7000[1]
+* **팩스(F):** 0508-923-4846[1]
+* **이메일:** 
+  * 대표 메일: bigmade@bigmade.co.kr[1]
+  * 광고 문의: ad@bigmade.co.kr[1]
+* **주소:** 부산광역시 동구 조방로49번길 29, 203호 (범일동, 호림빌딩)[1][2]
+
+Sources:
+[1] [bigmade.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7-fxkfcO7KHlOkV0OLOSb16GjPbSQf090xMHUMy5uiOte0x3XM7G4OO7LBF_8VY08WLOxh2oispXUA5862B9UG8xf6KeCA35ITzQEXLUJTg==)
+[2] [bigmade.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN0nj5866YLdMfg3FZM38ehgl8vygc0iXmltjCIqy2WMq0LrVSlswoxpo7iWAs1CA-lN5lw7Tl2cSyJVg376FyJDRQp1b5ArtgsohSwcJff3UyPRmbY2XUUDh8fg==)

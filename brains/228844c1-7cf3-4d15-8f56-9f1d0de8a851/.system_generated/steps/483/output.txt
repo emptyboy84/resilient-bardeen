@@ -1,0 +1,72 @@
+### Result
+{
+  "heading": "\"에프지엔터테인먼트\" 키워드로 0 개의 결과를 찾았습니다",
+  "items": [
+    {
+      "text": "케이에스에이엔에프 무역\n장일*",
+      "href": null
+    },
+    {
+      "text": "케이에스에이엔에프 무역",
+      "href": "/article/6058173710"
+    },
+    {
+      "text": "케이에스에이엔에프 무역",
+      "href": null
+    },
+    {
+      "text": "하이퍼스톤",
+      "href": null
+    },
+    {
+      "text": "하이퍼스톤",
+      "href": "/article/3368703585"
+    },
+    {
+      "text": "하이퍼스톤",
+      "href": null
+    },
+    {
+      "text": "주식회사 에이치브이케이",
+      "href": null
+    },
+    {
+      "text": "주식회사 에이치브이케이",
+      "href": "/article/3368703208"
+    },
+    {
+      "text": "주식회사 에이치브이케이",
+      "href": null
+    },
+    {
+      "text": "지산",
+      "href": null
+    },
+    {
+      "text": "지산",
+      "href": "/article/3368702441"
+    },
+    {
+      "text": "지산",
+      "href": null
+    },
+    {
+      "text": "햇빛사랑에너지",
+      "href": null
+    },
+    {
+      "text": "햇빛사랑에너지",
+      "href": "/article/3368603569"
+    },
+    {
+      "text": "햇빛사랑에너지",
+      "href": null
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const heading = document.querySelector(\'h3\');\n    const items = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return { heading: heading ? heading.innerText : \'\', items: items.slice(0, 15) };\n}');
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-09-15T00-53-11-538Z.log#L9-L11

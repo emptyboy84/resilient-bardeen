@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+MX Host: gmail-smtp-in.l.google.com
+S: 220 mx.google.com ESMTP 41be03b00d2f7-cc45542ad54si16524840a12.90 - gsmtp
+S: 250 mx.google.com at your service
+S: 250 2.1.0 OK 41be03b00d2f7-cc45542ad54si16524840a12.90 - gsmtp
+S: 250 2.1.5 OK 41be03b00d2f7-cc45542ad54si16524840a12.90 - gsmtp
+FINAL RCPT RESULT: 250 2.1.5 OK 41be03b00d2f7-cc45542ad54si16524840a12.90 - gsmtp
+

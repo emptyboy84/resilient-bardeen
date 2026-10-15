@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Reading final master Excel...
+=== BROWN FILL & CLEANING APPLIED ===
+1. 전화번호 없는 셀 갈색 채우기: 254개
+2. 사업자번호 없는 셀 갈색 채우기: 222개
+3. 대표자명 없는 셀 갈색 채우기: 438개
+4. 주소 없는 셀 갈색 채우기: 568개
+5. 매출액 결측치[-] 제거 및 갈색 채우기: 12개
+총 갈색 음영 채우기 완료 셀: 1494개
+Saved updated Excel to: C:\Users\lg\Desktop\Today\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_배현명_최종제출본.xlsx
+Synchronized updated CSVs.
+

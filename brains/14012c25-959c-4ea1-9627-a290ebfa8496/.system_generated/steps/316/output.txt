@@ -1,0 +1,12 @@
+The search for ""343-86-01031" OR ("유진주택" 배성우) 전화번호 OR 연락처" returned the following summary:
+제시해주신 사업자등록번호 `343-86-01031`은 공공데이터 및 기업 정보 상에서 **‘주식회사 유진주택’**(대표자: 배성우)의 사업자번호와 일치합니다[1]. 
+
+해당 기업(주식회사 유진주택, 대표 배성우)의 공식적인 대표 전화번호나 상세 연락처는 공공 개방된 일반 기업 데이터베이스 및 인터넷상에 구체적으로 명시되어 있지 않아 직접 안내해 드리는 데 한계가 있습니다[2][1].
+
+정확한 연락처가 필요하실 경우 아래의 방법을 통해 확인하시는 것을 권장합니다.
+* **국세청 홈택스 / 세무서:** 사업자등록번호(`343-86-01031`)를 바탕으로 세금계산서 발행 등의 민원 업무나 공식 등록 정보를 조회할 수 있습니다.
+* **기타 기업 정보 플랫폼:** 나이스(NICE) 평가정보나 사람인, 잡코리아 등의 기업 신용조회/채용 플랫폼을 통해 상세한 기업 정보(주소, 연락처 등)를 확인하실 수 있습니다.
+
+Sources:
+[1] [chungoose.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0omuz2qKiIaxq-Mvb5IEUfk4Y-_qRtrH_8RrXLaEtzuXXksqOby07OO-anOMit7ydZDR3puEZKrJ1_CGbC1-79mTB6KU4mLU2gJl_RiAySBFd9CJMVS9D8Q==)
+[2] [thinkzon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2xthO4DHdDZttwImbZiPaIsE-EcoGNxG_5ETQvhI3mRD-6LqaSHqff54U_lT9g3tckqV8_-hsYYHemlRpmzuKVz_BbbkzplRKHHUu88ytPDPQsmTA8ee-x88GuuEAtRl--KOj)

@@ -1,0 +1,6 @@
+### Result
+undefined
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const input = document.querySelector(\'input[placeholder*="기업명, 대표자명"]\');\n  input.focus();\n  input.value = \'희웹툰\';\n  input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n  input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n}');
+```

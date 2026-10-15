@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+R1852: ('25년 모집단', 1851, 'CJ만화휴게실 사직동', '607-91-60603', 2012, 7, '최창묵', '070-4312-3938', None, '동래구', '부산 동래구 사직북로 12, 5층 (사직동,덕성빌딩)', '만화', None, None, None, None, None, None, None)
+R1853: ('25년 모집단', 1852, '프라자만화', None, None, None, None, '051-523-6320', None, '동래구', '', '만화', None, None, '확인불가(미등록 만화방/폐업)', None, None, None, None)
+R1854: ('25년 모집단', 1853, '괴정만화', None, None, None, None, '051-206-3991', None, '사하구', '사하구 괴정동 낙동대로 성현빌딩  ', '만화', None, None, '확인불가(미등록 만화방/폐업)', None, None, None, None)
+

@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+14890ab docs: add full chat conversation history, readable markdown summary, and brain logs
+

@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Total verified so far: 21
+Duplicate phones: [ [ '051-750-7200', 3 ], [ '051-620-9200', 2 ] ]
+

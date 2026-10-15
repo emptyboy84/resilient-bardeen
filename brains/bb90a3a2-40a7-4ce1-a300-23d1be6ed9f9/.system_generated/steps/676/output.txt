@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.114.co.kr/search/result/all?query=%EB%B6%80%EC%82%B0+%EC%8B%A0%EC%B9%B4');
+```
+### Page
+- Page URL: https://www.114.co.kr/search/result/all?query=%EB%B6%80%EC%82%B0+%EC%8B%A0%EC%B9%B4
+- Page Title: 부산 신카 | No.1 전화번호검색 - 114On
+- Console: 192 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-00-52-594Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-00-45-305Z.log#L1-L493

@@ -1,0 +1,15 @@
+The search for ""에코캡" "사업자등록번호" OR "대표자" "김창규"" returned the following summary:
+자동차 부품 제조업체인 **에코캡 주식회사(ECOCAB CO., LTD.)**와 관련된 기업 정보는 다음과 같습니다[1][2].
+
+* **대표자:** 김창규 (대표이사)[2]
+* **사업자등록번호:** 605-81-84196[3]
+* **법인등록번호:** 180111-0602755[3]
+* **본사 소재지:** 울산광역시 울주군 언양읍 반천반송산업로 137-66[4]
+* **주요 사업:** 자동차용 전선, 와이어링 하네스, 벌브 소켓, LED 모듈 등 전기·전자장치 부품 제조 및 도매[1][2]
+* **상장 시장:** 코스닥 시장 (종목코드: 128540)[3][2]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlHX7enJGJO3sQljRVAyNm2YJTa0zesxZjvm4I7jM5WseW0uUyYEPVrz70hWkjHLoJG_Ha4ti1Rae59df2u7NMlixbMRWYk31SckP1bHJxYmjGjxysIRK8wIA=)
+[2] [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0fCHABnGZdJ_nS6u5FQiN0jzsAh-l6TuixSJRosfGColRZHqaJ-ezpmj85cZRI38TkZbz9XoNXgGLfoJBo9wNM_84TB-LVH-o60h3zatu9w_XQh_5tOQfCR7SvYmNEowxPwKiKux7CM8VroVfg0=)
+[3] [fss.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLiBtaR3w4sW27V8ga-MfsRZ59l-twB9gGmwysIl3H8l7autkzE7pMiRRzpLraKOwjTJkkMmVT0XY_gd1pTUd9kMkWfXZuhrYpWZjJ_c7kCMeuDedNPtKQdbjMahbw0bP14R68zeFoVfdcdJZaDdfQRxlibe2aFpodv8j5Jg==)
+[4] [albamon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqG5HjuUhCIG0wAvNuD-uREYE8_AcPsKL2ev3Te9YtnqwOr1zvR9AlIOJ6MCxx7GXgXFTWTCFHDSNDKfOCIRzExojV9pvMDqYTQW6Q_DdTlC1EWOxv6h3T_n-fig4JUP5Vok3DexhQbovRv5aTsMJ3dtnjb0AfyJo=)

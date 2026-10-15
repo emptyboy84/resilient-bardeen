@@ -1,0 +1,42 @@
+### Result
+{
+  "scripts": [
+    "\n  {\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"LocalBusiness\",\n    \"name\": \"(주)브이알코리아\",\n    \"description\": \"(주)브이알코리아은(는) 부산광역시 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)에 위치한 film screenings입니다. 영업상태: 영업/정상.\",\n    \"url\": \"https://life.easehub.co.kr/index.php/film_screenings/511\",\n    \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"부산광역시 해운대구 수영강변대로 140, 3층 2호 (우동, 부산문화콘텐츠콤플렉스)\",\n        \"addressLocality\": \"부산광역시 해운대구\",\n        \"addressCountry\": \"KR\"\n    },\n    \"telephone\": \"0517471634\"\n}  "
+  ],
+  "matches": [
+    "2026091101",
+    "0517471634",
+    "6686738239",
+    "4125759614",
+    "4272225274",
+    "1789432776",
+    "8929114579",
+    "1789432746",
+    "0000157111",
+    "5314320599",
+    "4874905967",
+    "1210557170",
+    "3934930065",
+    "1789432778",
+    "1789432777",
+    "1591338458",
+    "2860179214",
+    "2956174132",
+    "1783984569",
+    "3518289467",
+    "2012-10-26",
+    "1789136703",
+    "1204098626",
+    "3493120292",
+    "3119996176",
+    "1788362987",
+    "1812271804",
+    "3025194257",
+    "2147483647",
+    "1812271808"
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const scripts = Array.from(document.querySelectorAll(\'script[type="application/ld+json"]\')).map(s => s.innerText);\n    const allText = document.documentElement.outerHTML;\n    // Look for numbers like management number, registration number etc.\n    const matches = allText.match(/\\d{3}-\\d{2}-\\d{5}|\\d{10}|\\d{4}-\\d{2}-\\d{2}/g);\n    return { scripts, matches: Array.from(new Set(matches || [])) };\n}');
+```

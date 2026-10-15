@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://m.place.naver.com/place/1625293474/home');
+```
+### Open tabs
+- 0: (current) [네이버 플레이스](https://m.place.naver.com/place/1625293474/home)
+- 1: [디지털포토2017 - 네이버지도](https://map.naver.com/p/entry/place/88044695?placePath=%2Fhome%3Fentry%3Dplt%26from%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609291211%26locale%3Dko%26svcName%3Dmap_pcv5&searchType=place&lng=129.2337952&lat=35.2651747&c=15.00,0,0,0,dh)
+### Page
+- Page URL: https://m.place.naver.com/place/1625293474/home
+- Page Title: 네이버 플레이스
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-17-49-254Z.yml)

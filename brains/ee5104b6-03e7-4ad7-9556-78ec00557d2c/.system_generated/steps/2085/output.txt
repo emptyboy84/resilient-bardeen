@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EC%95%8C%EB%94%94%EC%97%A0');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=%EC%95%8C%EB%94%94%EC%97%A0
+- Page Title: '알디엠' - 검색상세
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-09T01-41-44-225Z.yml)

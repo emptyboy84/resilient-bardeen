@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+Total diff rows between Target and sep21: 254
+Range of diff rows: 126 to 2307
+Diff cells with RED font in Target: 638
+Diff cells with NON-RED font in Target: 389
+

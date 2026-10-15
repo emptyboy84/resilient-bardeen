@@ -1,0 +1,40 @@
+
+The command exited with code 0.
+Output:
+
+
+    �͸�: C:\Users\lg\resilient-bardeen\data
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-09-07   � 9:22       11200645 (�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx                 
+-a----      2026-08-27  � 12:24         193688 �_�ǻ�DB_16�÷�_�Ϸ�_�.xlsx                        
+-a----      2026-08-26  � 10:22          30094 �_�ǻ�DB_�̹�_īī�_�ȭ�ȣ�Ʈ.csv             
+
+
+    �͸�: C:\Users\lg\resilient-bardeen\brain_logs
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----      2026-09-02  � 12:49                scratch                                                              
+-a----      2026-09-02  � 12:49         425407 README_�ȭ�.md                                                   
+-a----      2026-09-02  � 12:49         669851 transcript.jsonl                                                     
+-a----      2026-09-02  � 12:49        1261754 transcript_full.jsonl                                                
+
+
+    �͸�: C:\Users\lg\resilient-bardeen\brain_logs\scratch
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----      2026-09-01  � 12:48           3449 audit_74.js                                                          
+-a----      2026-09-01  � 12:48            126 audit_74.js.metadata.json                                            
+-a----      2026-09-01  � 12:48          18955 check_74.tsv                                                         
+-a----      2026-09-01  � 12:48            107 check_74.tsv.metadata.json                                           
+-a----      2026-09-02  � 12:44           1150 prep_repo.js                                                         
+-a----      2026-09-02  � 12:44            112 prep_repo.js.metadata.json                                           
+
+
+

@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+grep : 'grep' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ�
+� Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:1 �:43
++ git show 20488d3:merged_500_perfect.tsv | grep -E "�÷ο�|12288|110111 ...
++                                           ~~~~
+    + CategoryInfo          : ObjectNotFound: (grep:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

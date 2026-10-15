@@ -1,0 +1,16 @@
+The search for "site:saramin.co.kr "코니" "김병일"" returned the following summary:
+사람인(Saramin) 사이트 내에 등록된 기업 정보 중 '코니'와 대표자명 '김병일'이 포함된 기업 정보는 다음과 같습니다[1][2].
+
+1. **기업명**: 코니 (KONEE)[2]
+   * **대표자명**: 김병일[2]
+   * **주소**: 부산 해운대구 센텀서로 30, 27층 2701, 2702호 (우동, 센텀KNN타워)[2]
+   * **사업내용**: 응용 소프트웨어 개발 및 공급업, 선박구성부분품 제조, 수송용운송장비 도소매 등[2]
+
+2. **기업명** (부동산 임대업 관련)[1]
+   * **대표자명**: 김병일[1]
+   * **주소**: 서울 강남구 개포로 623, 4층 437호[1]
+   * **사업내용**: 비주거용 건물 임대업 (부동산 임대)[1]
+
+Sources:
+[1] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzUfd_IZhBgDDwW_X6M5nCfyshykYdOBlZO-CoGh-sz5ODp4P62IWcL257_1oZxZcUpUtYjBQhWReU-8RLyPN7-V5egAtAMxVB5cG-Z-jNZ7EngSnQ5QdnPW7ovP5y2AaTRMoX1kXiJbAA_CEWBMNUw4ACsJbddDdyoxKnObPcFjeTLWEjUWPSg1a3ugmGBf_F0rFiNeTkrHp8bWDznIBSN0fHpyiGQS2KevSElOLzR4n4AavR)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO_H68kGhJKy0DmmdUa4kQQnOZTg4NS0MebV_llUxPaO0_fb9u0pkE9GY3POVQuix8GbjYIsb7k8heVjsvDRnyV6-_1cTwLg6UIz2hfbbPOdbyVPrdz1-IKjYbifHml0oMusJ6CwX01sali5XJ2p3KIhXlOmUYr_IlOx751DyEs7yH_JUg_8vNQKXasnX_yGQNnlBdwCxkcp-zjFLBWDbtbxdnyT05vHoE-qeGYC1W0ZKl-g==)

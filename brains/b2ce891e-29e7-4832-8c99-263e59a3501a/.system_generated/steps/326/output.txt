@@ -1,0 +1,9 @@
+The search for ""577-88-03373" OR "5778803373"" returned the following summary:
+검색 결과, 해당 번호(`577-88-03373`)는 대한민국의 사업자등록번호로 확인되며, 등록된 기업 정보는 다음과 같습니다[1]:
+
+* **업체명:** (주)비쓰리디[1]
+* **업종:** 패션, 섬유류 및 기타 전문 디자인업[1]
+* **소재지:** 부산광역시 동구[1]
+
+Sources:
+[1] [bolta.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjSPwNdRHsTQ0qWD4qPIQlpb4lNdwAGUqyA2NK6ghRmdYGjI3QMzAoL4FENaT3UWfNk3C4PA0dIDaDngXpPzP_PNLjqRCRXXFmqURqMVqYqefxBeo=)

@@ -1,0 +1,292 @@
+### Page
+- Page URL: https://bizno.net/article/6033796242
+- Page Title: 이소민
+- Console: 0 errors, 5 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f214e1]:
+  - text: 
+  - banner [ref=f214e2]:
+    - generic [ref=f214e4]:
+      - link [ref=f214e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f214e7]:
+        - list:
+          - listitem [ref=f214e8]:
+            - link "Home" [ref=f214e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f214e10]:
+            - link "사업자등록번호조회" [ref=f214e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f214e12]:
+            - link "법인등록번호조회" [ref=f214e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f214e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f214e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f214e16]:
+            - link "전화번호로 조회" [ref=f214e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f214e18]:
+            - link "대표자이름으로 조회" [ref=f214e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f214e20]:
+            - link "API" [ref=f214e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f214e22]:
+            - link "고객문의" [ref=f214e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f214e31]:
+    - generic [ref=f214e34]:
+      - link [ref=f214e37] [cursor=pointer]:
+        - /url: "#"
+        - heading "이소민" [level=1] [ref=f214e38]
+      - 'table "이소민에 대한 사업자정보 법인구분 : 개인 과세유형 : 부가가치세 일반과세자 법인형태 : 개인과세사업자 홈페이지 : https://naver.me/xquaCX91 업종분류 : 도매 및 소매업 > 소매업; 자동차 제외 > 무점포 소매업 > 통신 판매업 > 전자상거래 소매업 업태 : 도매 및 소매업 업종 : 전자상거래 소매업 통신판매업번호 : 2026-경기구리-0039 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일(신고/인허가일) : 2026-01-08 대표자명 : 이소민 사업자등록번호 : 603-37-96242" [ref=f214e39]':
+        - rowgroup [ref=f214e40]:
+          - row [ref=f214e41]:
+            - cell [ref=f214e42]:
+              - insertion [ref=f214e43]:
+                - iframe [ref=f214e45]:
+                  - generic [ref=f223e1]:
+                    - generic [ref=f223e5]:
+                      - link [ref=f223e6] [cursor=pointer]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUaDvJZSsapLnIYCRpt8Pgaaw8ArCjMmchgHgxPf2tBWd6_qPthAQASDOlNUhYJuD6YScKaAB373yyULIAQmpApMyUDAm5Qg-qAMByAPLBKoE_QFP0F6JIPrlK55pC906ODSQaWFF7osYGYj8VrhQiHbSuK7POcn2LD7sk198_XPaSd5ixrzQTQ6dHdOgMwINWFRfeJvtGOXe_NFx0FHS3vmk8RDWV35VJp5oGUUnYmsnz39V2mhYnti5otNFlwzEE7R7gG1bsdPTD8w7mxR93a-6r8V_V1tTBYlh52mUKFZ2QWYjB21G14ULVCDvwNsyPFy25cN9u-qahbKYT2xnpaoR1L-pnqTLIONVOXNJ2oAwLmNqdyGVonqN4RdkFCp1NxylS4nPmPTyn2HmxceY9oMPfzuQ1LGYPc1nT3CZSZo0g-6CocIJhR_eXBbRrnNywAT4qeaS3QWIBfKH05NYoAYugAff9cKpHagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgH_uixAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgHn-GxAqgHpuuxAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGB8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljw7Ke8_faWA2ABsQnw_hMRnJRlqYAKAZgLAcgLAYAMAaoNAktSyA0B6g0TCK-SqLz99pYDFYCI6QUdARMMrvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXEBgBKgo3NzMyMjM1NDM4UAa6FwI4AaoYFwkAAAAAIJ8PQRIKNzczMjIzNTQzOBgBshgJEgKgVBguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE&num=1&cid=CAQS9AEAQM4h3LFvE400AYXM4cR3M0CmU3hQwLhPNQ4vbMdHHMhDSAsm6qxTv2k_uae84dOse7WJ_roEsje_q5vfX5CsOWSjvqhfXhTsieLVCBGRHSQ9yfgVSmnD2LB-8ETRlW-3M0dJ33SHpbxhiLPsYsypd2TI94E7oS3uyFCeDTE12pH_O2bMYMbznBXWDxF_nM6zOiZci2S7U-eBC-jHaA19d75mkHrmMYuOW33t6mZTezjkJK2-RWIlIvOxg7HylfDfZHrv87KpNF90sX__R8o2os8G9PEr8O11WNvb5nFGAqMw12pysYTH2JCbJgPEa-bbDeA-GAE&sig=AOD64_0cCU8oydCZTFoIZmX5oFE2aP03Dw&client=ca-pub-4075541721927467&rf=1&nb=9&adurl=http://daerigo.trism.co.kr/mainPage.do%3Fgad_source%3D5%26gad_campaignid%3D23663526898%26gclid%3DEAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE
+                      - generic [ref=f223e8]:
+                        - link "기업대리운전" [ref=f223e11] [cursor=pointer]:
+                          - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUaDvJZSsapLnIYCRpt8Pgaaw8ArCjMmchgHgxPf2tBWd6_qPthAQASDOlNUhYJuD6YScKaAB373yyULIAQmpApMyUDAm5Qg-qAMByAPLBKoE_QFP0F6JIPrlK55pC906ODSQaWFF7osYGYj8VrhQiHbSuK7POcn2LD7sk198_XPaSd5ixrzQTQ6dHdOgMwINWFRfeJvtGOXe_NFx0FHS3vmk8RDWV35VJp5oGUUnYmsnz39V2mhYnti5otNFlwzEE7R7gG1bsdPTD8w7mxR93a-6r8V_V1tTBYlh52mUKFZ2QWYjB21G14ULVCDvwNsyPFy25cN9u-qahbKYT2xnpaoR1L-pnqTLIONVOXNJ2oAwLmNqdyGVonqN4RdkFCp1NxylS4nPmPTyn2HmxceY9oMPfzuQ1LGYPc1nT3CZSZo0g-6CocIJhR_eXBbRrnNywAT4qeaS3QWIBfKH05NYoAYugAff9cKpHagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgH_uixAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgHn-GxAqgHpuuxAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGB8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljw7Ke8_faWA2ABsQnw_hMRnJRlqYAKAZgLAcgLAYAMAaoNAktSyA0B6g0TCK-SqLz99pYDFYCI6QUdARMMrvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXEBgBKgo3NzMyMjM1NDM4UAa6FwI4AaoYFwkAAAAAIJ8PQRIKNzczMjIzNTQzOBgBshgJEgKgVBguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE&num=1&cid=CAQS9AEAQM4h3LFvE400AYXM4cR3M0CmU3hQwLhPNQ4vbMdHHMhDSAsm6qxTv2k_uae84dOse7WJ_roEsje_q5vfX5CsOWSjvqhfXhTsieLVCBGRHSQ9yfgVSmnD2LB-8ETRlW-3M0dJ33SHpbxhiLPsYsypd2TI94E7oS3uyFCeDTE12pH_O2bMYMbznBXWDxF_nM6zOiZci2S7U-eBC-jHaA19d75mkHrmMYuOW33t6mZTezjkJK2-RWIlIvOxg7HylfDfZHrv87KpNF90sX__R8o2os8G9PEr8O11WNvb5nFGAqMw12pysYTH2JCbJgPEa-bbDeA-GAE&sig=AOD64_0cCU8oydCZTFoIZmX5oFE2aP03Dw&client=ca-pub-4075541721927467&rf=1&nb=0&adurl=http://daerigo.trism.co.kr/mainPage.do%3Fgad_source%3D5%26gad_campaignid%3D23663526898%26gclid%3DEAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE
+                        - generic [ref=f223e12]:
+                          - generic [ref=f223e13]:
+                            - link "고정 출퇴근 기사" [ref=f223e15] [cursor=pointer]:
+                              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUaDvJZSsapLnIYCRpt8Pgaaw8ArCjMmchgHgxPf2tBWd6_qPthAQASDOlNUhYJuD6YScKaAB373yyULIAQmpApMyUDAm5Qg-qAMByAPLBKoE_QFP0F6JIPrlK55pC906ODSQaWFF7osYGYj8VrhQiHbSuK7POcn2LD7sk198_XPaSd5ixrzQTQ6dHdOgMwINWFRfeJvtGOXe_NFx0FHS3vmk8RDWV35VJp5oGUUnYmsnz39V2mhYnti5otNFlwzEE7R7gG1bsdPTD8w7mxR93a-6r8V_V1tTBYlh52mUKFZ2QWYjB21G14ULVCDvwNsyPFy25cN9u-qahbKYT2xnpaoR1L-pnqTLIONVOXNJ2oAwLmNqdyGVonqN4RdkFCp1NxylS4nPmPTyn2HmxceY9oMPfzuQ1LGYPc1nT3CZSZo0g-6CocIJhR_eXBbRrnNywAT4qeaS3QWIBfKH05NYoAYugAff9cKpHagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgH_uixAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgHn-GxAqgHpuuxAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGB8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljw7Ke8_faWA2ABsQnw_hMRnJRlqYAKAZgLAcgLAYAMAaoNAktSyA0B6g0TCK-SqLz99pYDFYCI6QUdARMMrvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXEBgBKgo3NzMyMjM1NDM4UAa6FwI4AaoYFwkAAAAAIJ8PQRIKNzczMjIzNTQzOBgBshgJEgKgVBguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE&num=1&cid=CAQS9AEAQM4h3LFvE400AYXM4cR3M0CmU3hQwLhPNQ4vbMdHHMhDSAsm6qxTv2k_uae84dOse7WJ_roEsje_q5vfX5CsOWSjvqhfXhTsieLVCBGRHSQ9yfgVSmnD2LB-8ETRlW-3M0dJ33SHpbxhiLPsYsypd2TI94E7oS3uyFCeDTE12pH_O2bMYMbznBXWDxF_nM6zOiZci2S7U-eBC-jHaA19d75mkHrmMYuOW33t6mZTezjkJK2-RWIlIvOxg7HylfDfZHrv87KpNF90sX__R8o2os8G9PEr8O11WNvb5nFGAqMw12pysYTH2JCbJgPEa-bbDeA-GAE&sig=AOD64_0cCU8oydCZTFoIZmX5oFE2aP03Dw&client=ca-pub-4075541721927467&rf=1&nb=7&adurl=http://daerigo.trism.co.kr/mainPage.do%3Fgad_source%3D5%26gad_campaignid%3D23663526898%26gclid%3DEAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE
+                              - text: 고정 출퇴근기사
+                            - link "trism.co.kr" [ref=f223e17] [cursor=pointer]:
+                              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUaDvJZSsapLnIYCRpt8Pgaaw8ArCjMmchgHgxPf2tBWd6_qPthAQASDOlNUhYJuD6YScKaAB373yyULIAQmpApMyUDAm5Qg-qAMByAPLBKoE_QFP0F6JIPrlK55pC906ODSQaWFF7osYGYj8VrhQiHbSuK7POcn2LD7sk198_XPaSd5ixrzQTQ6dHdOgMwINWFRfeJvtGOXe_NFx0FHS3vmk8RDWV35VJp5oGUUnYmsnz39V2mhYnti5otNFlwzEE7R7gG1bsdPTD8w7mxR93a-6r8V_V1tTBYlh52mUKFZ2QWYjB21G14ULVCDvwNsyPFy25cN9u-qahbKYT2xnpaoR1L-pnqTLIONVOXNJ2oAwLmNqdyGVonqN4RdkFCp1NxylS4nPmPTyn2HmxceY9oMPfzuQ1LGYPc1nT3CZSZo0g-6CocIJhR_eXBbRrnNywAT4qeaS3QWIBfKH05NYoAYugAff9cKpHagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgH_uixAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgHn-GxAqgHpuuxAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGB8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljw7Ke8_faWA2ABsQnw_hMRnJRlqYAKAZgLAcgLAYAMAaoNAktSyA0B6g0TCK-SqLz99pYDFYCI6QUdARMMrvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXEBgBKgo3NzMyMjM1NDM4UAa6FwI4AaoYFwkAAAAAIJ8PQRIKNzczMjIzNTQzOBgBshgJEgKgVBguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE&num=1&cid=CAQS9AEAQM4h3LFvE400AYXM4cR3M0CmU3hQwLhPNQ4vbMdHHMhDSAsm6qxTv2k_uae84dOse7WJ_roEsje_q5vfX5CsOWSjvqhfXhTsieLVCBGRHSQ9yfgVSmnD2LB-8ETRlW-3M0dJ33SHpbxhiLPsYsypd2TI94E7oS3uyFCeDTE12pH_O2bMYMbznBXWDxF_nM6zOiZci2S7U-eBC-jHaA19d75mkHrmMYuOW33t6mZTezjkJK2-RWIlIvOxg7HylfDfZHrv87KpNF90sX__R8o2os8G9PEr8O11WNvb5nFGAqMw12pysYTH2JCbJgPEa-bbDeA-GAE&sig=AOD64_0cCU8oydCZTFoIZmX5oFE2aP03Dw&client=ca-pub-4075541721927467&rf=1&nb=1&adurl=http://daerigo.trism.co.kr/mainPage.do%3Fgad_source%3D5%26gad_campaignid%3D23663526898%26gclid%3DEAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE
+                          - link "열기" [ref=f223e19] [cursor=pointer]:
+                            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUaDvJZSsapLnIYCRpt8Pgaaw8ArCjMmchgHgxPf2tBWd6_qPthAQASDOlNUhYJuD6YScKaAB373yyULIAQmpApMyUDAm5Qg-qAMByAPLBKoE_QFP0F6JIPrlK55pC906ODSQaWFF7osYGYj8VrhQiHbSuK7POcn2LD7sk198_XPaSd5ixrzQTQ6dHdOgMwINWFRfeJvtGOXe_NFx0FHS3vmk8RDWV35VJp5oGUUnYmsnz39V2mhYnti5otNFlwzEE7R7gG1bsdPTD8w7mxR93a-6r8V_V1tTBYlh52mUKFZ2QWYjB21G14ULVCDvwNsyPFy25cN9u-qahbKYT2xnpaoR1L-pnqTLIONVOXNJ2oAwLmNqdyGVonqN4RdkFCp1NxylS4nPmPTyn2HmxceY9oMPfzuQ1LGYPc1nT3CZSZo0g-6CocIJhR_eXBbRrnNywAT4qeaS3QWIBfKH05NYoAYugAff9cKpHagHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgH_uixAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgHn-GxAqgHpuuxAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHANIIMgiAYRABGB8yCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljw7Ke8_faWA2ABsQnw_hMRnJRlqYAKAZgLAcgLAYAMAaoNAktSyA0B6g0TCK-SqLz99pYDFYCI6QUdARMMrvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXEBgBKgo3NzMyMjM1NDM4UAa6FwI4AaoYFwkAAAAAIJ8PQRIKNzczMjIzNTQzOBgBshgJEgKgVBguIgEA0BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE&num=1&cid=CAQS9AEAQM4h3LFvE400AYXM4cR3M0CmU3hQwLhPNQ4vbMdHHMhDSAsm6qxTv2k_uae84dOse7WJ_roEsje_q5vfX5CsOWSjvqhfXhTsieLVCBGRHSQ9yfgVSmnD2LB-8ETRlW-3M0dJ33SHpbxhiLPsYsypd2TI94E7oS3uyFCeDTE12pH_O2bMYMbznBXWDxF_nM6zOiZci2S7U-eBC-jHaA19d75mkHrmMYuOW33t6mZTezjkJK2-RWIlIvOxg7HylfDfZHrv87KpNF90sX__R8o2os8G9PEr8O11WNvb5nFGAqMw12pysYTH2JCbJgPEa-bbDeA-GAE&sig=AOD64_0cCU8oydCZTFoIZmX5oFE2aP03Dw&client=ca-pub-4075541721927467&rf=1&nb=8&adurl=http://daerigo.trism.co.kr/mainPage.do%3Fgad_source%3D5%26gad_campaignid%3D23663526898%26gclid%3DEAIaIQobChMI0o2ovP32lgMVgIjpBR0BEwyuEAEYASAAEgJD9_D_BwE
+                    - generic [ref=f223e24] [cursor=pointer]
+                    - button [ref=f223e29] [cursor=pointer]
+                    - iframe
+          - row [ref=f214e46]:
+            - rowheader "통신판매업번호" [ref=f214e47]
+            - cell "2026-경기구리-0039" [ref=f214e48]
+          - row [ref=f214e49]:
+            - rowheader "국세청산업분류" [ref=f214e50]
+            - cell [ref=f214e51]:
+              - paragraph [ref=f214e52]: "대분류 : 도매 및 소매업"
+              - paragraph [ref=f214e53]: "중분류 : 소매업; 자동차 제외"
+              - paragraph [ref=f214e54]: "소분류 : 무점포 소매업"
+              - paragraph [ref=f214e55]: "세분류 : 통신 판매업"
+              - paragraph [ref=f214e56]: "세세분류 : 전자상거래 소매업"
+          - row [ref=f214e57]:
+            - rowheader "업 태" [ref=f214e58]
+            - cell "도매 및 소매업" [ref=f214e59]
+          - row [ref=f214e60]:
+            - rowheader "종 목" [ref=f214e61]
+            - cell "전자상거래 소매업" [ref=f214e62]
+          - row [ref=f214e63]:
+            - columnheader "주요제품" [ref=f214e64]
+            - cell [ref=f214e65]
+          - row [ref=f214e66]:
+            - columnheader "전화번호" [ref=f214e67]
+            - cell [ref=f214e68]
+          - row [ref=f214e69]:
+            - columnheader "팩스번호" [ref=f214e70]
+            - cell [ref=f214e71]
+          - row [ref=f214e72]:
+            - rowheader "법인구분" [ref=f214e73]
+            - cell "개인" [ref=f214e74]
+          - row [ref=f214e75]:
+            - rowheader "과세유형" [ref=f214e76]
+            - cell "부가가치세 일반과세자" [ref=f214e77]
+          - row [ref=f214e78]:
+            - rowheader "법인형태" [ref=f214e79]
+            - cell "개인과세사업자" [ref=f214e80]
+          - row [ref=f214e81]:
+            - rowheader "등록일" [ref=f214e82]
+            - cell "2026-01-08" [ref=f214e83]
+          - row [ref=f214e84]:
+            - rowheader "홈페이지" [ref=f214e85]
+            - cell [ref=f214e86]:
+              - link "https://naver.me/xquaCX91" [ref=f214e87] [cursor=pointer]:
+                - /url: "http://naver.me/xquaCX91\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+          - row [ref=f214e88]:
+            - columnheader "IR홈페이지" [ref=f214e89]
+            - cell [ref=f214e90]
+          - row [ref=f214e91]:
+            - columnheader "회사이메일" [ref=f214e92]
+            - cell [ref=f214e93]
+          - row [ref=f214e94]:
+            - rowheader "대표자명" [ref=f214e95]
+            - cell "이소민" [ref=f214e96]
+          - row [ref=f214e97]:
+            - rowheader "사업자 현재 상태" [ref=f214e98]
+            - cell "계속사업자 ※국세청 홈택스 실시간 정보제공" [ref=f214e99]
+          - row [ref=f214e100]:
+            - cell [ref=f214e101]:
+              - insertion [ref=f214e102]:
+                - iframe [ref=f214e104]:
+                  - generic [ref=f224e2]:
+                    - iframe [ref=f224e5]:
+                      - generic [ref=f231e2] [cursor=pointer]
+                    - generic [ref=f224e6]:
+                      - generic:
+                        - generic [ref=f224e7] [cursor=pointer]
+                        - button [ref=f224e12] [cursor=pointer]
+          - row [ref=f214e105]:
+            - rowheader "사업자등록번호" [ref=f214e106]
+            - cell "603-37-96242" [ref=f214e107]
+          - row [ref=f214e108]:
+            - columnheader "법인등록번호" [ref=f214e109]
+            - cell [ref=f214e110]
+          - row [ref=f214e111]:
+            - columnheader "종업원수" [ref=f214e112]
+            - cell [ref=f214e113]
+          - row [ref=f214e114]:
+            - rowheader "회사주소" [ref=f214e115]
+            - cell [ref=f214e116]:
+              - paragraph
+          - row [ref=f214e117]:
+            - rowheader "관할세무서" [ref=f214e118]
+            - cell [ref=f214e119]:
+              - text: "서부산세무서 (전화번호 : 051-250-6200)부산광역시 서구 대영로 10 (서대신동2가 288-2)"
+              - generic [ref=f214e120]: ※ 주소정보가 없는 경우엔 사업자번호 앞3자리의 세무서 코드를 기준으로관할세무서를 출력였으나 사실과 다를 수 있습니다
+          - row [ref=f214e121]:
+            - columnheader "결산월" [ref=f214e122]
+            - cell [ref=f214e123]
+          - row [ref=f214e124]:
+            - cell [ref=f214e125]:
+              - link "정정문의" [ref=f214e126] [cursor=pointer]:
+                - /url: /voc
+      - blockquote [ref=f214e129]:
+        - paragraph [ref=f214e130]:
+          - text: ※ 법인(개인사업자 포함)이나 단체에 관한 정보는 개인정보에 해당하지 않으며, 개별사업주의 동의 없이도 이용 가능한 정보입니다.
+          - link "[관련자료]" [ref=f214e131] [cursor=pointer]:
+            - /url: "#"
+        - paragraph [ref=f214e132]: ※ 사업주의 요청이 있는 경우에는 등록/수정/비공개등의 처리를 해드리고 있으며 대표자명/전화번호/주소/직원수 항목별 비공개 처리가 가능합니다.
+        - paragraph [ref=f214e133]: ※ 폐업자 또는 회사주소에 "아파트,빌라"등의 키워드가 포함된 경우 비공개 또는 주소일부가**로 표시됩니다.
+        - paragraph [ref=f214e134]: ※ 휴대폰번호는 뒷자리가 ***로 표시됩니다.
+        - paragraph [ref=f214e135]: ※ 직원수 정보는 국민연금>고용보험>산재보험>기타 행정기관 순으로 업데이트(분기/연단위) 됩니다.
+        - paragraph [ref=f214e136]: ※ 비즈노의 기업정보는 공공기관으로 부터 주기적으로 자료를 수집 및 제공받아 2차가공하여 서비스하는 것으로 각각의 행정기관의 자료 갱신시점에 따라 현재 정보와 상이할 수 있으며, 자료의 완전성과 정확성을 보장할 수 없으니 단순참고용으로만 활용바랍니다.
+        - paragraph [ref=f214e137]: ※ 비즈노는 사용자 본인판단에 따른 정보이용 결과에 대해 어떠한 책임도 지지 않음을 양지바랍니다.
+    - generic [ref=f214e141]:
+      - heading "실시간 조회기업" [level=4] [ref=f214e143]
+      - list [ref=f214e144]:
+        - listitem [ref=f214e145]:
+          - link [ref=f214e146] [cursor=pointer]:
+            - /url: /article/8278503001
+            - paragraph [ref=f214e147]: 엘칸토
+        - listitem [ref=f214e148]:
+          - link [ref=f214e149] [cursor=pointer]:
+            - /url: /article/8278503296
+            - paragraph [ref=f214e150]: 파이브나인
+        - listitem [ref=f214e151]:
+          - link [ref=f214e152] [cursor=pointer]:
+            - /url: /article/5011753027
+            - paragraph [ref=f214e153]: 신비당
+        - listitem [ref=f214e154]:
+          - link [ref=f214e155] [cursor=pointer]:
+            - /url: /article/5428603714
+            - paragraph [ref=f214e156]: 한국건설기계
+        - listitem [ref=f214e157]:
+          - link [ref=f214e158] [cursor=pointer]:
+            - /url: /article/8072201697
+            - paragraph [ref=f214e159]: 크린토피아 장성점
+        - listitem [ref=f214e160]:
+          - link [ref=f214e161] [cursor=pointer]:
+            - /url: /article/8708102968
+            - paragraph [ref=f214e162]: 동행손해사정앤인력개발센터
+        - listitem [ref=f214e163]:
+          - link [ref=f214e164] [cursor=pointer]:
+            - /url: /article/3388802560
+            - paragraph [ref=f214e165]: 주식회사 아트디스트릭(Art distric crop.)
+        - listitem [ref=f214e166]:
+          - link [ref=f214e167] [cursor=pointer]:
+            - /url: /article/4963801106
+            - paragraph [ref=f214e168]: 큰마을
+        - listitem [ref=f214e169]:
+          - link [ref=f214e170] [cursor=pointer]:
+            - /url: /article/4963901234
+            - paragraph [ref=f214e171]: 엠(M)헤어
+        - listitem [ref=f214e172]:
+          - link [ref=f214e173] [cursor=pointer]:
+            - /url: /article/4963901350
+            - paragraph [ref=f214e174]: 청호2
+        - listitem [ref=f214e175]:
+          - link [ref=f214e176] [cursor=pointer]:
+            - /url: /article/4964101203
+            - paragraph [ref=f214e177]: 유한켐
+        - listitem [ref=f214e178]:
+          - link [ref=f214e179] [cursor=pointer]:
+            - /url: /article/4964100505
+            - paragraph [ref=f214e180]: 지영
+        - listitem
+  - contentinfo [ref=f214e181]:
+    - generic [ref=f214e182]:
+      - generic [ref=f214e183]:
+        - generic [ref=f214e185]:
+          - heading "주요기능" [level=6] [ref=f214e186]
+          - list [ref=f214e187]:
+            - listitem [ref=f214e188]:
+              - link "사업자등록번호조회" [ref=f214e189] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f214e190]:
+              - link "법인등록번호조회" [ref=f214e191] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f214e192]:
+              - link "상호명으로 사업자등록번호조회" [ref=f214e193] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f214e194]:
+              - link "전화번호조회" [ref=f214e195] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f214e196]:
+              - link "대표자이름으로 조회" [ref=f214e197] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f214e198]:
+              - link "정정문의" [ref=f214e199] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f214e201]:
+          - heading "사업자검색" [level=6] [ref=f214e202]
+          - paragraph [ref=f214e203]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f214e206]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f214e208]
+            - button "검색 " [ref=f214e210] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f214e211]: 
+      - generic [ref=f214e212]:
+        - paragraph [ref=f214e213]: Copyright ©2019 All rights reserved.
+        - generic [ref=f214e214]:
+          - link "" [ref=f214e215] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f214e217] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f214e219] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f214e221] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f214e223]:
+    - list [ref=f214e224]:
+      - listitem [ref=f214e225]:
+        - link "Home" [ref=f214e226] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f214e227]:
+        - link "사업자등록번호조회" [ref=f214e228] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f214e229]:
+        - link "법인등록번호조회" [ref=f214e230] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f214e231]:
+        - link "상호명으로 사업자등록번호조회" [ref=f214e232] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f214e233]:
+        - link "전화번호로 조회" [ref=f214e234] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f214e235]:
+        - link "대표자이름으로 조회" [ref=f214e236] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f214e237]:
+        - link "API" [ref=f214e238] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f214e239]:
+        - link "고객문의" [ref=f214e240] [cursor=pointer]:
+          - /url: /voc
+```

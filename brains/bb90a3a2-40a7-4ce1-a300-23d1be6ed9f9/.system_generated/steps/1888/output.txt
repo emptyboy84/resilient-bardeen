@@ -1,0 +1,40 @@
+The following changes were made by the replace_file_content tool to: C:\Users\lg\.gemini\antigravity\worktrees\resilient-bardeen\find_company_phone_numbers\test_exchange.js. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -1,16 +1,23 @@
+ const https = require('https');
+ 
+-async function testExchange() {
+-  const url = 'https://search.daum.net/search?w=tot&q=' + encodeURIComponent('"051-923-"');
+-  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+-  const text = (await res.text()).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+-  const matches = text.match(/051-923-[0-9]{4}/g);
+-  console.log('Matches for 051-923:', [...new Set(matches || [])]);
+-  let idx = 0;
+-  while ((idx = text.indexOf('051-923-', idx)) !== -1) {
+-    console.log('Context:', text.slice(Math.max(0, idx - 60), idx + 100));
+-    idx += 20;
++async function testW() {
++  const queries = [
++    '우리미디어 051-923',
++    '우리미디어 팩스',
++    '우리미디어 fax',
++    '051-923-0404 팩스',
++    '우리미디어 051-923-0405'
++  ];
++  for (const q of queries) {
++    const url = 'https://search.naver.com/search.naver?query=' + encodeURIComponent(q);
++    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
++    const text = (await res.text()).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
++    console.log('=== ' + q + ' ===');
++    let idx = text.indexOf('0405');
++    if (idx !== -1) console.log('0405 hit:', text.slice(Math.max(0, idx - 40), idx + 80));
++    let idx2 = text.indexOf('0404');
++    if (idx2 !== -1) console.log('0404 hit:', text.slice(Math.max(0, idx2 - 40), idx2 + 80));
+   }
+ }
+-testExchange();
++testW();
+ 
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.

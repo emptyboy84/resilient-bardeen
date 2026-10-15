@@ -1,0 +1,25 @@
+Task: bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9/task-610
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\bb90a3a2-40a7-4ce1-a300-23d1be6ed9f9\.system_generated\tasks\task-610.log
+Log output:
+<truncated 23 lines>
+산 수영구 연수로275번길 18-1)
+Progress: 168 / 2542 | Found new: 21, Upgraded: 6
+Progress: 248 / 2542 | Found new: 29, Upgraded: 6
+Progress: 328 / 2542 | Found new: 34, Upgraded: 10
+[KAKAO FOUND 50] Seq 1083 (주)초이스 -> 051-581-9996 (부산 금정구 금강로 173)
+Progress: 408 / 2542 | Found new: 39, Upgraded: 11
+Progress: 488 / 2542 | Found new: 46, Upgraded: 11
+Progress: 568 / 2542 | Found new: 55, Upgraded: 11
+Progress: 648 / 2542 | Found new: 64, Upgraded: 11
+Progress: 728 / 2542 | Found new: 67, Upgraded: 12
+Progress: 808 / 2542 | Found new: 72, Upgraded: 12
+Progress: 888 / 2542 | Found new: 79, Upgraded: 12
+Progress: 968 / 2542 | Found new: 84, Upgraded: 12
+[KAKAO FOUND 100] Seq 1926 보물상자 -> 010-5005-4873 (부산 강서구 녹산산단232로 38-3)
+Progress: 1048 / 2542 | Found new: 89, Upgraded: 12
+Progress: 1128 / 2542 | Found new: 97, Upgraded: 13
+Progress: 1208 / 2542 | Found new: 104, Upgraded: 13
+Progress: 1288 / 2542 | Found new: 106, Upgraded: 13
+
+Last progress: 1s ago

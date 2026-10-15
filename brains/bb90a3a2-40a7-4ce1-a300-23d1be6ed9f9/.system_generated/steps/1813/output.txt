@@ -1,0 +1,20 @@
+
+The command exited with code 0.
+Output:
+=== Daum: 051-923-0405 ===
+Phones: [ '051-923-0405' ]
+0405 snippet: um.net%2Fsearch%3Fw%3Dtot%26q%3D051-923-0405"); 
+=== Daum: 923-0405 ===
+Phones: []
+0405 snippet: h.daum.net%2Fsearch%3Fw%3Dtot%26q%3D923-0405"); 
+=== Daum: 유네이드 051 ===
+Phones: []
+=== Daum: 이병상 051 ===
+Phones: []
+=== Daum: 대저중앙로 46 051 ===
+Phones: []
+=== Daum: 대저중앙로 46 202호 ===
+Phones: []
+=== Daum: 유통단지1로 50 216동 205호 ===
+Phones: []
+

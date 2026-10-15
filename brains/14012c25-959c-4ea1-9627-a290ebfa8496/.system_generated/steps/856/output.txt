@@ -1,0 +1,13 @@
+The search for "site:store.steampowered.com/app "1594940" OR "Little Witch in the Woods"" returned the following summary:
+**Little Witch in the Woods** is available on Steam under App ID **1594940**[1]. 
+
+* **Developer / Publisher:** SUNNY SIDE UP[1]
+* **Release Date:** September 14, 2025[1]
+* **Store Price:** $19.99 USD[2]
+* **Overview:** Players step into the shoes of Ellie, an apprentice witch sent to Lucerine Ortu, where they explore a mystical forest, craft potions, interact with charming village residents, fish, decorate, and spend time with cats in a cozy adventure setting[1][3][4].
+
+Sources:
+[1] [steampowered.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1W3y4qhiYLQCKhJkFcWV6DVSOF0L6Y8hqPuJyejGbc2Ou5GW9UbHD-STgujTDp1F2OL91hjKet8K3clGPkg5cGetlrvXE0LPGkatXDSxETbF6tEHCkCaHP0FprI0rOPmzezmXoIXokoxICdSK-fCLb5JZTKQrKmZYhA==)
+[2] [steamcommunity.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw3DdVUYv3KBVGzjWnVhBTvK-xq9B0ftrhsS2uCvdruahGfwmzewU_E8avIdmGKWK0e5Iq_T1iielf8Ha447QuC3ImlLTSou-PDeGiw9EopIG8ObBKj66mvwuX)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4O2UPZhAj8Nt-Uq8WlTnYo80TTUVejqm9ZXV9CBfbXkOPx3xSFdWaHurDaykL-y19X6S3OHYmzgKYGAIFMhAvcQmgOmo2HSu9YpTY1skNLKJWKtDt8aCbY7LLjv_Nj4Y=)
+[4] [steampowered.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKFuEQgVxQioun30ECxNi84VnQj02JrgPY_YIV48_e_zcgVchw-YFkvwqDx6knNmilG--bXphQdvM5ZFfkwCNTuRtxFJcjdLVl4nifhBm3Ax97bNKRzlRruxX-9ho8eAFtqzy-sKCL0Q8H4rvCCFlZNuatICzksx5neVul0EZX)

@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+https://www.ssg.com/sellerhome/214249/info.ssg -> Status: 404 Len: 2194
+https://m.ssg.com/sellerhome/214249/info.ssg -> Status: 404 Len: 2604
+https://www.ssg.com/sellerhome/sellerInfoAjax.ssg?sellerId=214249 -> Status: 200 Len: 57540
+https://m.ssg.com/api/seller/214249 -> Status: 404 Len: 2604
+https://m.ssg.com/sellerhome/getSellerInfo.ssg?sellerId=214249 -> Status: 200 Len: 90879
+https://www.ssg.com/item/sellerInfoPop.ssg?sellerId=214249 -> Status: 404 Len: 2194
+

@@ -1,0 +1,168 @@
+### Page
+- Page URL: https://www.114.co.kr/search?keyword=%EB%85%B8%EB%A7%A4%EB%93%9C%ED%97%90
+- Page Title: No.1 전화번호검색 - 114On
+- Console: 143 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=f21e2]:
+  - banner [ref=f21e4]:
+    - generic [ref=f21e5]:
+      - img "114" [ref=f21e7] [cursor=pointer]
+      - navigation:
+        - heading "주메뉴" [level=2]
+        - generic:
+          - list:
+            - listitem [ref=f21e8]:
+              - link "업체등록" [ref=f21e9] [cursor=pointer]:
+                - /url: /connection/regMyBusiness
+            - listitem [ref=f21e10]:
+              - link "스팸DB조회" [ref=f21e11] [cursor=pointer]:
+                - /url: /search?tab=scam
+            - listitem [ref=f21e12]:
+              - link "주요서비스" [ref=f21e13] [cursor=pointer]:
+                - /url: /life/localBillStore/list
+            - listitem [ref=f21e14]:
+              - link "OnDB판매" [ref=f21e15] [cursor=pointer]:
+                - /url: /dbcenter/dbPackageList
+            - listitem [ref=f21e16]:
+              - link "114소개" [ref=f21e17] [cursor=pointer]:
+                - /url: /common/contents/W00013
+            - listitem [ref=f21e18]:
+              - link "고객센터" [ref=f21e19] [cursor=pointer]:
+                - /url: /board/boardList?cat_org_id=NOTI
+          - link "검색" [ref=f21e20] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "사이트맵 전체메뉴" [ref=f21e21] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic: 사이트맵
+            - generic [ref=f21e22]: 전체메뉴
+        - list [ref=f21e23]:
+          - listitem [ref=f21e24]:
+            - link "홍보센터" [ref=f21e25] [cursor=pointer]:
+              - /url: /common/contents/W00005
+          - listitem [ref=f21e26]:
+            - link "회원가입" [ref=f21e27] [cursor=pointer]:
+              - /url: /sign/signupInfo
+          - listitem [ref=f21e28]:
+            - link "로그인" [ref=f21e29] [cursor=pointer]:
+              - /url: /sign/signin
+  - generic [ref=f21e31]:
+    - insertion [ref=f21e35]:
+      - iframe [ref=f21e37]:
+        - generic [ref=f25e1]:
+          - link "Roblox 무료로 적 제거 다운로드하기" [ref=f25e6] [cursor=pointer]:
+            - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7qYObwLPapSUEKCf2roPmvnK4QLe_cS-iQGqpcyVuxazkB8QASCamsJlYJuD6YScKaABx_XEvEPIAQGoAwHIA8sEqgSwAk_QM5GraLr8WeOiyvzlAARp0qkOvTkgTWf8S5rzjz8LQqB9lUJC4eKYxE7xv-Rnb8ssFI-jRbSbPNKHYQnGFygHog7f7U73LHd-4bO8adigW4UKS96Y4NQYeXnw4s5lAORFWK5UoKMSLyXnFVN1jGCPjDkwKV-BfADKRGd9xJ1VAbKaObwVMCljJRKmFxUF6Ehi6INk9pxwAHfQiFM8cnEN5RMuztu4tRt1rQo7FbCN8Zas-hlmlCfwA32uEckMfYyZpGSRKzqsxhg_lmzTDHXiy7tWDlNPrqHmG_4CZTec41e2eONVG-nJ6iO1YGScZKZBdXv3KQO-fLVREopelygeVxThGyEIgKr6-bO7Ac-Xlk0CspDtpFXRNR64Kb5Rezi-1OxeUYSNBAoZbiH3w5TABLSL7aTrBYgF17jC6FmAB8etlZweqAenzLECqAfi2LECqAeo7bECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAem67ECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggyCIBhEAEYHzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAGEi9_cE6WNXemLfTuJcDYAGxCTJEFfRRJKe6gAoBigrdAWh0dHBzOi8vZ3NnaHQuY29tL2Mvc3U4b2Z0P2NhbXBhaWduPTI0MTA5OTQ3OTkxJmFkX2dyb3VwPTIwMDU5ODU3MDQyMCZhZD04MjMzNjkwNTAxMjgmdGFyZ2V0PSZjcmVhdGl2ZT04MjMzNjkwNTAxMjgma2V5d29yZD0mYWRfdHlwZT1kJnNpdGVfaWQ9d3d3LjExNC5jby5rciZwbGFjZW1lbnQ9JmdjbGlkPXtnY2xpZH0md2JyYWlkPXt3YnJhaWR9JmRlc3RpbmF0aW9uX3VybD17bHB1cmx9mAsByAsB4AsBogw4YhkKF2NvbS5yb2Jsb3gucm9ibG94bW9iaWxlahMKEWNvbS5yb2Jsb3guY2xpZW50eAGIAQGQAQGqDQJLUsgNAeoNEwi3i5m307iXAxWgj1YBHZq8MizwDQKIDgnYEwyIFAHQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgoyOTY3NzAzOTU2UAa6FwI4AaoYFwkAAAAAePUHQRIKMjk2NzcwMzk1NhgBshgQCgW1hfOeAhICsFMYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI1IeZt9O4lwMVoI9WAR2avDIsEAEYASAAEgIKDPD_BwE&num=1&cid=CAQS9AEAQM4h3IyZjrvonNNQLUYh3y_ssnXoGBMchQJDbumFSORnPVbkGz0SX9DuuARqS0hvt6fBRQxzUec7YYSh1wbNvimG0QdSazg-FzVztryWEMynl-bS8A_j5LrSoWseF1-JFytwPPPaiR7Hl_3MBaw0DtfCoGQVgp1msm9T6EwhSOfuTEoFtBmNjV9B2QCKLGQxBoKcX37qmb2EB175QTZhO4aS1uRQM9dCpuHR4j-NCe2c9wlnyS5LdqhhmT621CDCLqUM5_qmGF7qUECIKYzu5tdEMeO4ZiGuAZjtLPOOpwyXNdtiv8qZLO4FFYKRXGESdKk7GAE&sig=AOD64_2lrQ1jJ-fKthbWyFjwxEQZCQ0MBg&rf=1&nb=2&adurl=https://www.roblox.com/ko/spotlight/shooter%3Fshow_app_download%26gsrbx%3D1%26utm_source%3Dadwords%26utm_campaign%3D24109947991%26utm_term%3D200598570420%26utm_content%3D823369050128%26gsc%3D1%26utm_medium%3Dd_5653096%26gad_source%3D5%26gad_campaignid%3D24109947991%26gclid%3DEAIaIQobChMI1IeZt9O4lwMVoI9WAR2avDIsEAEYASAAEgIKDPD_BwE
+            - generic [ref=f25e7]:
+              - generic [ref=f25e10]:
+                - generic "Roblox" [ref=f25e11]
+                - generic "Roblox" [ref=f25e12]: 무료로 적 제거
+              - generic [ref=f25e15]: 다운로드하기
+          - generic [ref=f25e21] [cursor=pointer]
+          - button [ref=f25e26] [cursor=pointer]
+          - iframe
+    - generic [ref=f21e39]:
+      - list [ref=f21e40]:
+        - listitem [ref=f21e41] [cursor=pointer]: 스팸/범죄/사기 조회
+        - listitem [ref=f21e42] [cursor=pointer]: 통합검색
+        - listitem [ref=f21e43] [cursor=pointer]: 업종검색
+        - listitem [ref=f21e44] [cursor=pointer]: 전화번호 검색
+        - listitem [ref=f21e45] [cursor=pointer]: 휴대폰번호 검색
+        - listitem [ref=f21e46] [cursor=pointer]: 상가/건물 검색
+        - listitem [ref=f21e47] [cursor=pointer]: 전통시장 검색
+        - listitem [ref=f21e48] [cursor=pointer]: 지역번호 검색
+      - generic [ref=f21e50]:
+        - generic [ref=f21e51]:
+          - heading "스팸/범죄/사기번호를 조회해보세요." [level=2] [ref=f21e52]
+          - group "스팸/범죄/사기번호 조회" [ref=f21e53]:
+            - combobox "스팸/범죄/사기번호 선택" [ref=f21e54]:
+              - option "전화번호" [selected]
+              - option "계좌번호"
+            - generic [ref=f21e55]:
+              - searchbox "안심번호(스팸/범죄/사기) 번호입력" [ref=f21e57]
+              - button "검색" [ref=f21e58] [cursor=pointer]
+        - generic [ref=f21e59]:
+          - term [ref=f21e60]: 인터넷 사기 예방 5계명
+          - definition [ref=f21e61]:
+            - list [ref=f21e62]:
+              - listitem [ref=f21e63]:
+                - generic [ref=f21e64]: "01"
+                - text: 인터넷거래는 가능한 신용카드를 이용한다.
+              - listitem [ref=f21e65]:
+                - generic [ref=f21e66]: "02"
+                - text: 신뢰 할 수 있는 쇼핑물 등을 이용한다.
+              - listitem [ref=f21e67]:
+                - generic [ref=f21e68]: "03"
+                - text: 대형 오픈마켓이라고 하더라도 사업자정보를 확인하는 등 주의를 게을리 하지 않는다.
+              - listitem [ref=f21e69]:
+                - generic [ref=f21e70]: "04"
+                - text: 턱 없이 싼 가격을 제시하며 직거래를 제안하는 사람은 주의한다.
+              - listitem [ref=f21e71]:
+                - generic [ref=f21e72]: "05"
+                - text: 직거래를 하는 경우 가능한 직접 만나서 물품을 받는다.
+    - insertion [ref=f21e76]:
+      - iframe [ref=f21e78]:
+        - iframe [ref=f26e1]:
+          - generic:
+            - link [ref=f27e1] [cursor=pointer]:
+              - /url: https://krrtb.c.appier.net/xclk?bidobjid=tvM9QPkGAKSj6TwRbwLPag&cid=UDiGMZwTQ_ShWe_BSffJzQ&crid=47V9yhubTtKc_iVzkdbFtQ&crpid=FEozriixQCuhuJBisV_bhw&soid=Plk9&partner_id=03mSf3HNecb-&bx=Cylxwnu_70uDKqGs7qMxoqIQ7P6zo0w-uY79uqa1orGRKY7BKYWyu1x1w8Q121uVorM9wmA9cDu1K4lEUHM12qG-uYSxJ4u_o1x13LM12qu-uYOPuqa1Jmg9u1x1U8A121uV2nu-uYOPJ1u_uqGzKqd9o4QxujR&ui=CylNZLTE3HlewmOBcmggHDiE34u_uflF3PoVnL7fMRs0c0lmIjla8Liww8Z1K4ljUmOjUbisc8M121l0MIirtIt3JG7-ZiSYUbSuw8zaUfsFtHfWoLZ1K4lYc8Myuqa1ordmKqGxonQVoPw9oqMR2qaV2nlO&consent=1&ddhh=orMWoM&flanding_rdr=
+            - button [ref=f27e4] [cursor=pointer]
+  - generic [ref=f21e79] [cursor=pointer]: 💬 챗봇상담
+  - contentinfo [ref=f21e80]:
+    - generic:
+      - list [ref=f21e81]:
+        - listitem [ref=f21e82]:
+          - link "서비스소개" [ref=f21e83] [cursor=pointer]:
+            - /url: /common/contents/W00013
+        - listitem [ref=f21e84]:
+          - link "이용약관" [ref=f21e85] [cursor=pointer]:
+            - /url: /common/contents/W00014
+        - listitem [ref=f21e86]:
+          - link "개인정보처리방침" [ref=f21e87] [cursor=pointer]:
+            - /url: /common/contents/W00015
+        - listitem [ref=f21e88]:
+          - link "공지사항" [ref=f21e89] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=NOTI
+        - listitem [ref=f21e90]:
+          - link "FAQ" [ref=f21e91] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=FAQ
+        - listitem [ref=f21e92]:
+          - link "문의/건의" [ref=f21e93] [cursor=pointer]:
+            - /url: /board/boardList?cat_org_id=QUESTION
+        - listitem [ref=f21e94]:
+          - link "제휴문의" [ref=f21e95] [cursor=pointer]:
+            - /url: /board/boardForm?cat_org_id=QUESTION
+      - complementary [ref=f21e96]:
+        - generic [ref=f21e97] [cursor=pointer]: Family Site
+    - generic [ref=f21e98]:
+      - generic:
+        - generic [ref=f21e99]:
+          - list [ref=f21e100]:
+            - listitem [ref=f21e101]: kt is
+            - listitem [ref=f21e102]: "대표이사 : 양율모"
+            - listitem [ref=f21e103]: "통신판매업신고 : 제2006-04260호(2006.06.05)"
+            - listitem [ref=f21e104]: "사업자등록번호 : 101-81-71660"
+            - listitem [ref=f21e105]:
+              - generic [ref=f21e106]: (07320) 서울특별시 영등포구 여의대로 14, 10층(여의도동, 주식회사케이티여의도빌딩)
+            - listitem [ref=f21e107]:
+              - text: 오류문의는 1:1이메일문의 또는 문의 게시판을 이용하세요.
+              - link "1:1 이메일문의" [ref=f21e108] [cursor=pointer]:
+                - /url: /chatbot/faq/form
+              - link "오류 신고하기" [ref=f21e109] [cursor=pointer]:
+                - /url: /search/report/companyErrorPage
+          - paragraph [ref=f21e110]: Copyright© 2020 kt is Corp. All rights reserved.
+        - list [ref=f21e111]:
+          - listitem [ref=f21e112]:
+            - link "페이스" [ref=f21e113] [cursor=pointer]:
+              - /url: https://www.facebook.com/media114/
+          - listitem [ref=f21e114]:
+            - link "인스타그램" [ref=f21e115] [cursor=pointer]:
+              - /url: https://www.instagram.com/media114/?hl=ko
+          - listitem [ref=f21e116]:
+            - link "네이버블로그" [ref=f21e117] [cursor=pointer]:
+              - /url: https://blog.naver.com/ktis02114
+          - listitem [ref=f21e118]:
+            - link "유튜브" [ref=f21e119] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCE3obiL_RWa-_aE5g0IaFjg
+```
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T04-17-49-641Z.log#L183-L431

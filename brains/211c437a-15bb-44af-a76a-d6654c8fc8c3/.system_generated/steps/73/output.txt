@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+powershell.exe : ScriptBlock� Command �Ű� � �θ� �Ǿ� �մϴ�.
+�ġ �:1 �:1
++ powershell -NoProfile -Command "`$asm = [System.Reflection.Assembly]: ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : IncorrectValueForCommandParameter
+ 
+

@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:35 �:44
++       return '\"' + s.replace(/\"/g, '\"\"') + '\"';
++                                            ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:36 �:5
++     }
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:38 �:3
++   }).join(',');
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:38 �:4
++   }).join(',');
++    ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:39 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:46 �:23
++ rawLines.forEach((line, idx) => {
++                       ~
+�Ű� � �Ͽ� �μ� �ϴ�.
+�ġ �:49 �:28
++   let company = p[2]?.trim() || '';
++                            ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:49 �:30
++   let company = p[2]?.trim() || '';
++                              ~~
+'||' �ū� � � �ùٸ� � � �ȣ� �ƴմϴ�.
+�ġ �:49 �:33
++   let company = p[2]?.trim() || '';
++                                 ~~
+� � ù �° �ҷμ� � � �ֽ�ϴ�.
+�ġ �:50 �:26
++   let bizno = p[3]?.trim() || '';
++                          ~
+'(' �ڿ� � �;� �մϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

@@ -1,0 +1,12 @@
+The search for ""771-23-00455" OR "7712300455" OR "know0419@naver.com" OR ("코코로" "김권정")" returned the following summary:
+검색하신 정보와 관련된 내용은 다음과 같습니다.
+
+*   **사업자 정보**: '코코로(COCORO)'라는 상호의 개인 사업자로, 대표자명은 **김권정**입니다[1].
+*   **사업자등록번호**: **771-23-00455**입니다[1].
+*   **사업장 소재지**: 경기도 의정부시 민락동(의정부민락우미린더스카이)에 위치하고 있으며, 통신판매업 신고가 되어 있는 일반과세자입니다 [1.1].
+
+제시하신 이메일 주소(`know0419@naver.com`)와 관련된 공개적인 정보는 검색 결과에서 확인되지 않았습니다. 또한, 김권정이라는 이름은 출판물 저자 목록 등에서도 언급된 바 있습니다[2].
+
+Sources:
+[1] [bz-lounge.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0CtoPJl7TbQzDsLWURLHMPCnKe0ISz3vdwlW-1MgS5h6q2ZoF4-NtmCm0mTVMfKch29bp-nao09l1lx71G9jZzR6iAyeNe_0l9AUy3CZEAJdE5e0_Q==)
+[2] [kpa21.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo1iLsO8zd7bjZlcx2BOEs40krBCo_J2433OB1wCqbqUJUKFZqApjzeMNzqqABkTuj_AuS5i1aUufjMUWo5Al1ji83ZWpO8FwZrDJJdQ5LciWvErQylR-QQP08U0KmFZklfo1PR2taSdVQ7UXGd74tnifa7P1v7gK0682eCfCsA0GLj91CXRPljyz34bROx96gZ9umFnCYVZdOpwdSy9T_s-tk1ObDOma36jJMKeM=)

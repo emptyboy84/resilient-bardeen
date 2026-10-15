@@ -1,0 +1,223 @@
+### Result
+[
+  {
+    "text": "본문 바로가기",
+    "href": "http://www.k-steelpower.com/#container"
+  },
+  {
+    "text": "",
+    "href": "http://www.k-steelpower.com/shop"
+  },
+  {
+    "text": "회사소개",
+    "href": "http://www.k-steelpower.com/sub/greetings.php"
+  },
+  {
+    "text": "CEO 인사말",
+    "href": "http://www.k-steelpower.com/sub/greetings.php"
+  },
+  {
+    "text": "연혁",
+    "href": "http://www.k-steelpower.com/sub/history.php"
+  },
+  {
+    "text": "찾아오시는 길",
+    "href": "http://www.k-steelpower.com/sub/location.php"
+  },
+  {
+    "text": "제품정보",
+    "href": "http://www.k-steelpower.com/sub/texture.php"
+  },
+  {
+    "text": "재질",
+    "href": "http://www.k-steelpower.com/sub/texture.php"
+  },
+  {
+    "text": "생산품",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=10"
+  },
+  {
+    "text": "품질정보",
+    "href": "http://www.k-steelpower.com/sub/organization.php"
+  },
+  {
+    "text": "품질조직도",
+    "href": "http://www.k-steelpower.com/sub/organization.php"
+  },
+  {
+    "text": "검사설비",
+    "href": "http://www.k-steelpower.com/sub/test.php"
+  },
+  {
+    "text": "연구 및 기술",
+    "href": "http://www.k-steelpower.com/sub/research.php"
+  },
+  {
+    "text": "인증 및 특허현황",
+    "href": "http://www.k-steelpower.com/sub/license.php"
+  },
+  {
+    "text": "제조공정",
+    "href": "http://www.k-steelpower.com/sub/process.php"
+  },
+  {
+    "text": "제조공정",
+    "href": "http://www.k-steelpower.com/sub/process.php"
+  },
+  {
+    "text": "제조설비",
+    "href": "http://www.k-steelpower.com/sub/facility.php"
+  },
+  {
+    "text": "고객지원",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice"
+  },
+  {
+    "text": "공지사항",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice"
+  },
+  {
+    "text": "문의하기",
+    "href": "http://www.k-steelpower.com/bbs/write.php?bo_table=inquiry"
+  },
+  {
+    "text": "Youtube",
+    "href": "https://youtu.be/USi4NrOoCq8"
+  },
+  {
+    "text": "",
+    "href": "http://www.k-steelpower.com/shop"
+  },
+  {
+    "text": "회사소개",
+    "href": "http://www.k-steelpower.com/sub/greetings.php"
+  },
+  {
+    "text": "CEO 인사말",
+    "href": "http://www.k-steelpower.com/sub/greetings.php"
+  },
+  {
+    "text": "연혁",
+    "href": "http://www.k-steelpower.com/sub/history.php"
+  },
+  {
+    "text": "찾아오시는 길",
+    "href": "http://www.k-steelpower.com/sub/location.php"
+  },
+  {
+    "text": "제품정보",
+    "href": "http://www.k-steelpower.com/sub/texture.php"
+  },
+  {
+    "text": "재질",
+    "href": "http://www.k-steelpower.com/sub/texture.php"
+  },
+  {
+    "text": "생산품",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=10"
+  },
+  {
+    "text": "품질정보",
+    "href": "http://www.k-steelpower.com/sub/organization.php"
+  },
+  {
+    "text": "품질조직도",
+    "href": "http://www.k-steelpower.com/sub/organization.php"
+  },
+  {
+    "text": "검사실비",
+    "href": "http://www.k-steelpower.com/sub/test.php"
+  },
+  {
+    "text": "연구 및 기술",
+    "href": "http://www.k-steelpower.com/sub/research.php"
+  },
+  {
+    "text": "인증 및 특허현황",
+    "href": "http://www.k-steelpower.com/sub/license.php"
+  },
+  {
+    "text": "제조공정",
+    "href": "http://www.k-steelpower.com/sub/process.php"
+  },
+  {
+    "text": "제조공정",
+    "href": "http://www.k-steelpower.com/sub/process.php"
+  },
+  {
+    "text": "제조설비",
+    "href": "http://www.k-steelpower.com/sub/facility.php"
+  },
+  {
+    "text": "고객지원",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice"
+  },
+  {
+    "text": "공지사항",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice"
+  },
+  {
+    "text": "문의하기",
+    "href": "http://www.k-steelpower.com/bbs/write.php?bo_table=inquiry"
+  },
+  {
+    "text": "자세히 보기",
+    "href": "http://www.k-steelpower.com/sub/greetings.php"
+  },
+  {
+    "text": "밸브",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=10"
+  },
+  {
+    "text": "펌프",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=20"
+  },
+  {
+    "text": "선박 의장품",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=30"
+  },
+  {
+    "text": "산업기계 발전 설비",
+    "href": "http://www.k-steelpower.com/shop/list.php?ca_id=40"
+  },
+  {
+    "text": "MORE",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice"
+  },
+  {
+    "text": "코리아스틸파워 홈페이지가 오픈되었습니다.\n\n코리아스틸파워 홈페이지가 오픈되었습니다.\n\n2024-07-26",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=notice&wr_id=27"
+  },
+  {
+    "text": "문의하기",
+    "href": "http://www.k-steelpower.com/bbs/board.php?bo_table=inquiry"
+  },
+  {
+    "text": "개인정보처리방침",
+    "href": "http://www.k-steelpower.com/sub/sub03_02.php"
+  },
+  {
+    "text": "찾아오시는 길",
+    "href": "http://www.k-steelpower.com/sub/location.php"
+  },
+  {
+    "text": "055-338-4920",
+    "href": "tel:055-338-4920"
+  },
+  {
+    "text": "kspc0686@naver.com",
+    "href": "mailto:kspc0686@naver.com"
+  },
+  {
+    "text": "Design by 메이크디자인",
+    "href": "http://pibs.co.kr/"
+  },
+  {
+    "text": "",
+    "href": "http://www.k-steelpower.com/shop"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```

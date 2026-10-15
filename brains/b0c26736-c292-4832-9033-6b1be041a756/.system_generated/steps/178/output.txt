@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query=%22%EB%8D%94%EC%B2%9C%EC%9C%A0%22');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22%EB%8D%94%EC%B2%9C%EC%9C%A0%22
+- Page Title: "더천유" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-14T01-29-57-372Z.yml)

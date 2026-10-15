@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+current_pasted_batch.tsv rows: 508
+First: <USER_REQUEST>
+Last: </ADDITIONAL_METADATA>
+

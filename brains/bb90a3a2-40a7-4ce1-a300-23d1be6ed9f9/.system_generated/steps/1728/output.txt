@@ -1,0 +1,19 @@
+The search for ""명지국제8로10번길 51" "101호" "부동산" OR "공인중개사"" returned the following summary:
+검색하신 주소 **"부산광역시 강서구 명지국제8로10번길 51 (명지동 3587-1)"**은 **'씨엘주차타워'**라는 상가 및 주차장 건물입니다[1]. 
+
+해당 건물의 **101호**와 관련하여 부동산 또는 공인중개사무소 상호가 직접 등록되어 있지는 않으나, 본 건물 내 또는 인근 상가 위치와 관련해 참고할 수 있는 정보는 다음과 같습니다.
+
+* **건물 기본 정보**: 부산 강서구 명지동 3587-1, 씨엘주차타워 (지상 9층 / 지하 1층 규모)[1][2]
+* **건물 내 주요 입점 시설 예시**: 
+  * 1층에 악기 소매점('바람의언덕') 등이 입점해 있으며[3][4], 상가 및 사무실 용도의 호실들이 있습니다.
+  * 3~6층에는 키즈·놀이시설('원더스페이스 부산명지점') 등이 입점해 있습니다[5].
+
+만약 특정 공인중개사 사무소가 해당 주소(101호)로 최근 이전하였거나 등록된 상세 매물 정보를 찾으시는 경우, 포털 지도 서비스나 국토교통부 '브이월드(부동산중개업조회)'[6] 또는 관할 구청인 **부산광역시 강서구청 토지민원과**를 통해성 허가·등록된 공인중개사무소 명칭을 정확히 확인하시는 것을 권장합니다.
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXAJVUgbqdYIE1nrPRYb2t_lDp9rIq2aIbVeS-TiF6FeCXu3uZKF6YfkwGX6wnUVUHVf7zeDqgK406IWggGIB_s3OutPrLUQz4FMZPZHeXvwsdv6nx5k6Qr6JYpWwkwehnq1KmUBgBm3p2r0_7KD0PKRAkrBRfpXK4LBu8_u9wx_CUK95QeE4iLUAiZ2DHJGRzw4pkwPpLWPrTgvaKqKVTxrjhayMAu5URUoy6HdTp8liV6X5u-eP35xKEduwIgJgmO_ik8Rwn5RVDWh5kmwv83Hj1F6PHhGiFpw1zHMiX6sQoSbl7fCTQaKkmeuHojg==)
+[2] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4gMRKLrbW3jiQqMNWI4oJwEUoJt1m639kuERwdj5r9a458z9ONZ980qQowDpUGCcau25a9F44wM144f3YhKAJi6z9wGWXppEjtxs0WVgC-g==)
+[3] [114-service.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwKzO1LVDxJ8DLhW5NQa7Fryj5aW6LljVsbhZHLJqDUdkUAHlDlONKJWfn4ZJ08qhWa0Jhrm6XVTaLPuccbl7SKFww6TQEhZry1g-owKHDEAzY_5CiAmCEYpzSp3TQJm0koc5b-icVbMCteaHEOFWw3-E=)
+[4] [disco.re](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4gMRKLrbW3jiQqMNWI4oJwEUoJt1m639kuERwdj5r9a458z9ONZ980qQowDpUGCcau25a9F44wM144f3YhKAJi6z9wGWXppEjtxs0WVgC-g==)
+[5] [nolbal.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ulVua56FlzSjk7w_H2DclMFQ5u4XKf0p3dW80Bm0XQmM9J1C087cwUFtQzZF1e8pNGNvxC6xB2uhfotbzuo5v0TpbpH94itShMs0SB_zm6nr6LgKpV2STHCAK_A=)
+[6] [molit.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1iIjdADhcJwHpl1sav9MdufuGHQkv47uDM85nOls-jTy-cEBxsRi_xQvWQG7bm-vX8mDfy4kIhBISxQ7oD1tFtt9LdoNz0SGMvzXu6sBc80H5wMDVAuzhkAZYXxkwt1BZg0jWb5k3qBco4N-mhtDWOcoHfa413Qru7hsSLybeQIY=)

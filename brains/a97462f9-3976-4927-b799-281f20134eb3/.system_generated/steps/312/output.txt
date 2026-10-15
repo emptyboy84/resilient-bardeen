@@ -1,0 +1,25 @@
+The search for ""스튜디오바다" "증산서로 52" OR "류수환" 출판사 신고번호 OR 등록번호" returned the following summary:
+"스튜디오바다"와 관련하여 검색된 정보는 다음과 같습니다.
+
+*   **스튜디오바다(Studio Bada):** 부산광역시 동구 증산서로 52에 위치한 독립서점 및 출판사로 확인됩니다[1][2][3].
+*   **류수환:** 해당 출판사(스튜디오바다)에서 도서를 출간한 저자입니다[4][5][6]. (※ 류수환 저자는 다수의 경제·취업 관련 도서를 집필한 인물로, 다른 출판사들과도 협업한 경력이 있습니다[7][8][9].)
+
+문의하신 **'출판사 신고번호'** 및 **'등록번호'**와 관련해서는, 일반 공개 데이터베이스상에서 개별 출판사의 고유한 신고번호가 즉각적으로 노출되지 않을 수 있습니다. 통상적으로 출판사 등록 정보는 '출판사인쇄사 검색시스템(문화체육관광부 운영)'을 통해 정확한 확인이 가능합니다[10].
+
+현재 확인 가능한 관련 정보는 다음과 같습니다:
+*   **국립중앙도서관 ISBN 발행자번호 배정내역:** 스튜디오바다는 2025년 7월 23일자로 발행자번호(993891)를 배정받은 내역이 있습니다[11].
+
+추가적인 상세 등록번호나 신고번호가 반드시 필요하신 경우, **[문화체육관광부 출판사인쇄사 검색시스템](https://www.iebook.or.kr/)**에 접속하여 '스튜디오바다'를 검색하시면 해당 기관에 등록된 정확한 신고번호를 조회하실 수 있습니다[10].
+
+Sources:
+[1] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHDHf_j1KXRlAQSgNvfONeA5dgw-L_X6fnMIp_1YAMmBj3vOHqTvIDGwVaNdA_YMqMBG6UVDC5wly3Wbl7JW7NoMzSDhtsPjFNCjLpCQyovFE=)
+[2] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8NSgE0GUQevq6FcjmwSjrMspOIHAUo8z4uqNDzQIb3bFg_BG3MgWnB6zSDKjTHaq3zMDHOiQN5Na2hKlUc9nS8L3WL7xYHeszHmAEABekAZ76wyWPDIiVwTt17sP8mVU0JN-FcYmmcnNx9PQECyH_Eto0wNH0VPtbkg8gUcdSh8WYlpJf5OjxLq3lOCNxV4xzi3cJ8EDBeNqUn-dfNjOdkH1JboApL9zjZe6JAN4fNzKYSl_aBDwlAEbTWtNn_NafxKfKuonWoMsURqG2d2TnINvVJCSB1UHx3v7G-1_gUad3)
+[3] [dbmon.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Q2LuVehl2aj5OhZcbHR-Mh8xuYGRSIaJatXI4aWJ1XLiqhHcDzsat9b-0W-ehzhvrq7s-O8vv-9-v2Xal_gX5NyecqYi_cSWlb24EiOBJ5oSYAys5nK-7BWpdpJmp8BCrT-hciG7H5tvYomCKV66J3c5kwmh)
+[4] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGksdgGF_u6RIzuNOF0gNiIGEG7_lGuJ_9WQ-HtFo9d9xmXsgcdQH6i-n_-onFN7XaD-UNla_xCTqBvIPYfVyAjNjKuG49axj_izVnlVdVZomDv6AgzYgq7fG7dJB9u8Yo0bSAn8ssvdsDw6y-NpdQYyTV1HYvmv6McLqzW5n-7PkjDibT5pMEmpmzPpDWmE1IvbVjnoIcIrT_fiZyCnfPDo959ZrNNpQiGQcjyV4RtXF7swOyz3wAgsZYkcQ==)
+[5] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRrwRhsCYH2EWm5ez2JCDGLZ4dgimWGdtMVmJJImBr4H5kJeNYDtFkj-usEyCOYT9U9WGm06hTeZYKAPvGT-tM5N0f7VZpH6MdMReAu1oCygqXQM0dkY1Zv68IdiFfKa-GqeUcPo8uMzR-)
+[6] [lotteimall.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqrhaRYfkbfPiYOQOq1w5nzv0yiC2n5OFWtaGEFU-qen1rGwULYrEBOy4Ot2Cl-Lcs-3CBhgEB4YT8NTqYNioJncm9hWtm0Ko-q43o3qNt32MtUBbouwW0AMmuUApmkvrmldbME7bFaAWNPTbBjU_jnqyjX0rGuA0Rg-Ajo30=)
+[7] [kyobobook.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE29tubuCZBtLdD815Pq8gzxHUjmm7vCF5k529upVhyO5tH2UFNjVmv8LTHI20I5kcc5m53lUz8eWXSuDuJynMpQi-wkGnWQYYiwo79cm4LfuFQpQjzdRGAin84sVEMIRKgyalQ31oP1JAR)
+[8] [yes24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5M7UCZeoNhOk4QTcHCAnSR4qdt1PjlXnjfiTUdxl7ZsTKUUa0EueA9t5_g_zM4_Uv-auYYufcbRzYSboeV8YLXA70m82J1wyNqfi3ZofEJS_EUz6jqv817JruCGLMgyHYhQ==)
+[9] [aladin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuyBvi_7BmklCd5ZBnvLncs5zo2L68jJFzrWuWHSLIF2Vzj6ssyl2isBp25l0zJkx8L3L1DD4R238PRmmxIQ9C8zYTF76go51qecSgbgHzsaMhLuVaH4lQHTzBqqjHKlvhRW-bf-hZjxOHh4hKnrGP5A==)
+[10] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6S2zaTkm5HVPVZ_IvvsEZAdL5um5u4-pwxKfggaKdJE-U-86DN1X6IPfa6CqUNJprB-44wVVooI_n6SlU1WxYix-pa5Q31oagMOjqQ1kzyeNCSi19aBjK77Xukn-bHu_YvMyYlTFRzbcXKzxCl_TqDuCsDGVr2bNSIS1VSnKoK5StUL0o3eca1offTdLxCETi-wcfRmnOWn-1nYVL4RjOPf1S9ScRq71mc4XW_O-ZzZe16owmivp0LDqzSWnsYQJXMnzmdQuHcoxyrz1ztXNOba962Rbk6DSK6Qh-1Ra2RiQL-UwqLf32rVxelA==)
+[11] [nl.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvqctA15bZIOiAzs0IaRgfmjst9n7HSmgr3s-38Jsv27j7YVPrPduVHGaBxvYyZ14KnLVi_MNgsLX1JgnPyt0XI2i9LRFRT0JQPjTaE1mOptm7vF7xQFtc3CmiWvvtiFt7Ls=)

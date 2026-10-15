@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Step 320 [
+  {
+    "name": "run_command",
+    "args": {
+      "CommandLine": "node -e \"\nconst fs = require('fs');\nconst ExcelJS = require('exceljs');\n\nasync function updateFactCheckedExcel() {\n  const filePath = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';\n  const backupSrc = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_11847_12346.xlsx';\n  \n  console.log('Reading fact-checked TSV...');\n  c
+Step 322 [
+  {
+    "name": "run_command",
+    "args": {
+      "CommandLine": "node -e \"\nconst fs = require('fs');\nconst ExcelJS = require('exceljs');\n\nasync function updateFactCheckedExcel() {\n  const filePath = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx';\n  const backupSrc = 'C:\\\\\\\\Users\\\\\\\\lg\\\\\\\\Desktop\\\\\\\\오늘\\\\\\\\(데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_11847_12346.xlsx';\n  \n  if (!fs.existsSync(filePath)) {\n    console.log
+

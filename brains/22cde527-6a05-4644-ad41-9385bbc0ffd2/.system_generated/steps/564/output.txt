@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Row 1 Cell 3 (Name header): 사업체명
+Row 1 Cell 4 (Biz header): 사업자번호
+Row 1 Cell 19 (Source header): 데이터 출처
+Row 639 Seq: 638 Name: 디자인에코 Biz: 603-10-85753 Font color: FFFF0000
+Row 2307 Seq:  Name: 피커스튜디오 Biz: 606-16-43962 Font color: FFFF0000
+

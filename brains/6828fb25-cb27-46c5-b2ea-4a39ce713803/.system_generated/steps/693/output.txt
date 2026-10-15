@@ -1,0 +1,6 @@
+### Result
+"No iframe or content"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframe = document.querySelector(\'#searchIframe\');\n  if (iframe && iframe.contentDocument) {\n    return iframe.contentDocument.body.innerText;\n  }\n  return \'No iframe or content\';\n}');
+```

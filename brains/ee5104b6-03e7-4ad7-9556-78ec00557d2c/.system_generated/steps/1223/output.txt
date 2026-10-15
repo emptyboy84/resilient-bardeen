@@ -1,0 +1,477 @@
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M002GE.nice?kiscode=H47836
+- Page Title: (주)비케이피 - 2026년 기업정보 - 매출액, 재무제표, 신용등급보고서
+### Snapshot
+```yaml
+- generic [ref=f2e2]:
+  - generic:
+    - list:
+      - listitem:
+        - link ">메뉴 헤더 바로가기" [ref=f2e3] [cursor=pointer]:
+          - /url: "#gnb"
+      - listitem:
+        - link "본문 바로가기" [ref=f2e4] [cursor=pointer]:
+          - /url: "#content"
+      - listitem:
+        - link "하단 푸터 바로가기" [ref=f2e5] [cursor=pointer]:
+          - /url: "#footer"
+  - generic [ref=f2e6]:
+    - banner [ref=f2e7]:
+      - heading "사이트 메인 헤더" [level=2] [ref=f2e8]
+      - generic [ref=f2e9]:
+        - generic [ref=f2e10]:
+          - heading [level=1] [ref=f2e11]:
+            - link "(주)비케이피 기업정보" [ref=f2e12] [cursor=pointer]:
+              - /url: /
+          - list [ref=f2e14]:
+            - listitem [ref=f2e15]:
+              - button "쿠폰" [ref=f2e16] [cursor=pointer]
+            - listitem [ref=f2e18]:
+              - link "로그인" [ref=f2e19] [cursor=pointer]:
+                - /url: /cm/CM0200M001GE.nice
+            - listitem [ref=f2e20]:
+              - link "장바구니" [ref=f2e21] [cursor=pointer]:
+                - /url: /sp/SP0100M001GE.nice
+            - listitem [ref=f2e22]:
+              - button "추천 서비스 메뉴보기" [ref=f2e23] [cursor=pointer]
+        - generic [ref=f2e25]:
+          - navigation [ref=f2e26]:
+            - heading "주요 네비게이션" [level=2] [ref=f2e27]
+            - list [ref=f2e28]:
+              - listitem [ref=f2e29]:
+                - link "홈" [ref=f2e30] [cursor=pointer]:
+                  - /url: /cm/CM0100M001GE.nice
+              - listitem [ref=f2e31]:
+                - button "내 사업장 관리" [ref=f2e32] [cursor=pointer]
+              - listitem [ref=f2e34]:
+                - link "비즈마켓" [ref=f2e35] [cursor=pointer]:
+                  - /url: /bm/BM0100M001GE.nice
+              - listitem [ref=f2e36]:
+                - link "블로그 새 창 열림" [ref=f2e37] [cursor=pointer]:
+                  - /url: https://nice-info.inblog.io/
+                  - text: 블로그
+                  - generic [ref=f2e38]: 새 창 열림
+              - listitem [ref=f2e39]:
+                - button "고객센터" [ref=f2e40] [cursor=pointer]
+          - search [ref=f2e42]:
+            - heading "검색" [level=2] [ref=f2e43]
+            - generic [ref=f2e45]:
+              - heading "기업명, 사업자번호, 법인번호, 대표자명 검색영역" [level=2] [ref=f2e46]
+              - generic [ref=f2e47]:
+                - generic [ref=f2e51]:
+                  - generic [ref=f2e52]:
+                    - textbox "키워드검색" [ref=f2e53]:
+                      - /placeholder: 기업명, 사업자번호, 법인번호, 대표자명
+                    - generic [ref=f2e54]: 키워드검색
+                  - button "검색하기" [ref=f2e56] [cursor=pointer]
+                - button "조건검색" [ref=f2e59] [cursor=pointer]
+    - main [ref=f2e63]:
+      - link [ref=f2e66] [cursor=pointer]:
+        - /url: "#"
+        - img "대기번호 없는 빠른 대출! 기다릴 필요 없이 바로 확인 나이스지키미에서 내 신용으로 가능한 대출을 비교해 보세요" [ref=f2e67]
+      - generic [ref=f2e68]:
+        - generic [ref=f2e69]:
+          - generic [ref=f2e70]:
+            - paragraph [ref=f2e71]: (주)비케이피
+            - generic [ref=f2e72]:
+              - generic "폐업" [ref=f2e73]
+              - generic "중소기업" [ref=f2e76]
+          - generic [ref=f2e79]:
+            - term [ref=f2e80]:
+              - generic [ref=f2e81]:
+                - generic [ref=f2e82]: 기업 정보
+                - generic [ref=f2e83]:
+                  - button "툴팁 활성화 버튼" [ref=f2e85] [cursor=pointer]:
+                    - generic [ref=f2e86]: 기업 정보 툴팁 닫힘 상태
+                  - tooltip "기업 개요입니다. 사업자 및 법인 등록 정보를 기준으로 제공합니다." [ref=f2e88]
+              - button "기업 정보 수정요청" [ref=f2e91] [cursor=pointer]
+            - definition [ref=f2e93]:
+              - table "기업 정보에 관련된 표입니다. 사업자번호,법인번호,대표자,설립일자등 정보를 제공합니다." [ref=f2e94]:
+                - caption: 기업 정보에 관련된 표입니다. 사업자번호,법인번호,대표자,설립일자등 정보를 제공합니다.
+                - rowgroup [ref=f2e102]:
+                  - row [ref=f2e103]:
+                    - rowheader "사업자번호" [ref=f2e104]
+                    - cell "617-81-9****" [ref=f2e105]
+                    - rowheader "법인번호" [ref=f2e106]
+                    - cell "180111-0******" [ref=f2e107]
+                    - rowheader "대표자명" [ref=f2e108]
+                    - cell "양재호" [ref=f2e109]
+                  - row [ref=f2e110]:
+                    - rowheader [ref=f2e111]:
+                      - text: 설립일자
+                      - generic [ref=f2e112]:
+                        - button "툴팁 활성화 버튼" [ref=f2e114] [cursor=pointer]:
+                          - generic [ref=f2e115]: 설립일자 툴팁 닫힘 상태
+                        - tooltip [ref=f2e117]:
+                          - generic [ref=f2e119]: 법인등기부등본 설립일자이며,존재하지 않을 경우 사업자등록증 상 개업일자 표시
+                    - cell "2011.03.15" [ref=f2e120]
+                    - rowheader "주소" [ref=f2e121]
+                    - cell "(52915) 경남 고성군 회화면 배둔공단길 ***" [ref=f2e122]
+                  - row [ref=f2e123]:
+                    - rowheader "그룹명" [ref=f2e124]
+                    - cell "-" [ref=f2e125]
+                    - rowheader "표준산업분류" [ref=f2e126]
+                    - cell "컴퓨터 및 주변장치, 소프트웨어 도매업(G46510)" [ref=f2e127]
+                  - row [ref=f2e128]:
+                    - rowheader "인증현황" [ref=f2e129]
+                    - cell "-" [ref=f2e130]
+                  - row [ref=f2e132]:
+                    - rowheader "마케팅" [ref=f2e133]
+                    - cell "-" [ref=f2e134]
+        - generic [ref=f2e137]:
+          - term [ref=f2e138]:
+            - generic [ref=f2e139]: 보고서 구매
+          - definition [ref=f2e140]:
+            - generic [ref=f2e141]:
+              - list [ref=f2e142]:
+                - listitem [ref=f2e143]:
+                  - generic [ref=f2e144]:
+                    - img "기업 분석 보고서 표지 이미지" [ref=f2e145]
+                    - generic [ref=f2e146]:
+                      - button "샘플보기" [ref=f2e147] [cursor=pointer]
+                      - button "상세정보" [ref=f2e150] [cursor=pointer]
+                  - generic [ref=f2e153]:
+                    - generic [ref=f2e154]: 기업신용 알리미
+                    - checkbox "1년 무제한" [ref=f2e158] [cursor=pointer]:
+                      - generic [ref=f2e159]:
+                        - text: 1년 무제한
+                        - generic [ref=f2e160]: (20,000원)
+                - listitem [ref=f2e161]:
+                  - generic [ref=f2e162]:
+                    - img "보고서 이미지" [ref=f2e163]
+                    - generic [ref=f2e164]: 구매불가
+                    - generic [ref=f2e165]:
+                      - button "요약 샘플" [ref=f2e166] [cursor=pointer]
+                      - button "상세 샘플" [ref=f2e169] [cursor=pointer]
+                  - generic [ref=f2e172]:
+                    - generic [ref=f2e173]: 기업 분석 보고서
+                    - generic [ref=f2e174]:
+                      - checkbox "요약" [disabled] [ref=f2e177]:
+                        - generic [ref=f2e178]:
+                          - text: 요약
+                          - generic [ref=f2e179]: (7,000원)
+                      - checkbox "상세" [disabled] [ref=f2e182]:
+                        - generic [ref=f2e183]:
+                          - text: 상세
+                          - generic [ref=f2e184]: (14,000원)
+                - listitem [ref=f2e185]:
+                  - generic [ref=f2e186]:
+                    - img "보고서 이미지" [ref=f2e187]
+                    - generic [ref=f2e188]: 구매불가
+                    - generic [ref=f2e189]:
+                      - button "국문 샘플" [ref=f2e190] [cursor=pointer]
+                      - button "영문 샘플" [ref=f2e193] [cursor=pointer]
+                  - generic [ref=f2e196]:
+                    - generic [ref=f2e197]: 재무제표
+                    - generic [ref=f2e198]:
+                      - checkbox "국문" [disabled] [ref=f2e201]:
+                        - generic [ref=f2e202]:
+                          - text: 국문
+                          - generic [ref=f2e203]: (44,000원)
+                      - checkbox "영문" [disabled] [ref=f2e206]:
+                        - generic [ref=f2e207]:
+                          - text: 영문
+                          - generic [ref=f2e208]: (55,000원)
+                - listitem [ref=f2e209]:
+                  - generic [ref=f2e210]:
+                    - img "보고서 이미지" [ref=f2e211]
+                    - generic [ref=f2e212]: 구매불가
+                    - generic [ref=f2e213]:
+                      - button "요약 샘플" [ref=f2e214] [cursor=pointer]
+                      - button "상세 샘플" [ref=f2e217] [cursor=pointer]
+                  - generic [ref=f2e220]:
+                    - generic [ref=f2e221]: 기업 분석 보고서(영문)
+                    - generic [ref=f2e222]:
+                      - checkbox "요약" [disabled] [ref=f2e225]:
+                        - generic [ref=f2e226]:
+                          - text: 요약
+                          - generic [ref=f2e227]: (33,000원)
+                      - checkbox "상세" [disabled] [ref=f2e230]:
+                        - generic [ref=f2e231]:
+                          - text: 상세
+                          - generic [ref=f2e232]: (55,000원)
+                - listitem [ref=f2e233]:
+                  - generic [ref=f2e234]:
+                    - img "보고서 이미지" [ref=f2e235]
+                    - generic [ref=f2e236]: 구매불가
+                    - generic [ref=f2e237]:
+                      - button "요약 샘플" [ref=f2e238] [cursor=pointer]
+                      - button "상세 샘플" [ref=f2e241] [cursor=pointer]
+                  - generic [ref=f2e244]:
+                    - generic [ref=f2e245]: 기업 분석 보고서(일문)
+                    - generic [ref=f2e246]:
+                      - checkbox "요약" [disabled] [ref=f2e249]:
+                        - generic [ref=f2e250]:
+                          - text: 요약
+                          - generic [ref=f2e251]: (40,000원)
+                      - checkbox "상세" [disabled] [ref=f2e254]:
+                        - generic [ref=f2e255]:
+                          - text: 상세
+                          - generic [ref=f2e256]: (60,000원)
+              - generic [ref=f2e257]:
+                - generic [ref=f2e258]:
+                  - paragraph [ref=f2e259]:
+                    - text: 총
+                    - strong [ref=f2e260]: 0건
+                    - text: 상품 금액 =
+                  - paragraph [ref=f2e261]: 0원
+                - generic [ref=f2e262]:
+                  - generic [ref=f2e263]:
+                    - term [ref=f2e264]:
+                      - generic [ref=f2e266]: 꼭 확인해 주세요!
+                    - definition [ref=f2e267]:
+                      - list [ref=f2e268]:
+                        - listitem [ref=f2e269]: 상세정보에서 재무기준일, 정보변동일, 미포함 데이터를 확인해주세요. 미확인 시 발생하는 불이익은 책임지지 않습니다.
+                  - generic [ref=f2e270]:
+                    - button "장바구니" [ref=f2e271] [cursor=pointer]
+                    - button "구매하기" [ref=f2e274] [cursor=pointer]
+        - generic [ref=f2e277]:
+          - term [ref=f2e279]:
+            - generic [ref=f2e280]: 등급/재무 정보
+          - generic [ref=f2e282]:
+            - paragraph [ref=f2e283]: 등급 및 재무 정보를 보고서에서 확인해보세요.
+            - button "보고서 구매하기" [ref=f2e284] [cursor=pointer]
+        - paragraph [ref=f2e286]:
+          - generic [ref=f2e287]: 보고서 구매 시 기업평가등급, WATCH 등급 및 재무 정보를 보고서 내에서 확인하실 수 있습니다.
+        - paragraph [ref=f2e288]:
+          - generic [ref=f2e289]:
+            - text: 실제 평가등급을 반영하고 싶다면 나이스평가정보에서 평가받으세요.
+            - link "[법인]" [ref=f2e290] [cursor=pointer]:
+              - /url: https://www.ecredit.co.kr/partner/NBI2
+        - generic [ref=f2e291]:
+          - generic [ref=f2e292]:
+            - term [ref=f2e293]:
+              - generic [ref=f2e294]:
+                - generic [ref=f2e295]: 연봉/종업원 정보
+                - generic [ref=f2e296]:
+                  - button "툴팁 활성화 버튼" [ref=f2e298] [cursor=pointer]:
+                    - generic [ref=f2e299]: 연봉/종업원 정보 툴팁 닫힘 상태
+                  - tooltip "3인 이상 법인 사업자에 한하여 연봉정보를 제공하며, 실제 정보와 차이가 발생할 수 있습니다." [ref=f2e301]
+              - paragraph [ref=f2e305]:
+                - strong [ref=f2e306]: 기준년월
+                - text: "-"
+            - definition [ref=f2e307]:
+              - list [ref=f2e308]:
+                - listitem [ref=f2e309]:
+                  - generic [ref=f2e310]:
+                    - term [ref=f2e311]: 예상 평균 연봉
+                    - definition [ref=f2e312]:
+                      - generic [ref=f2e313]: 데이터가 없습니다.
+                - listitem [ref=f2e314]:
+                  - generic [ref=f2e315]:
+                    - term [ref=f2e316]: 올해 입사자 평균 연봉
+                    - definition [ref=f2e317]:
+                      - generic [ref=f2e318]: 데이터가 없습니다.
+                - listitem [ref=f2e319]:
+                  - generic [ref=f2e320]:
+                    - term [ref=f2e321]: 입사율 (연간 입사자)
+                    - definition [ref=f2e322]:
+                      - generic [ref=f2e323]: 데이터가 없습니다.
+                - listitem [ref=f2e324]:
+                  - generic [ref=f2e325]:
+                    - term [ref=f2e326]: 퇴사율 (연간 퇴사자)
+                    - definition [ref=f2e327]:
+                      - generic [ref=f2e328]: 데이터가 없습니다.
+          - paragraph [ref=f2e329]:
+            - generic [ref=f2e330]: 연봉정보와 종업원수 정보는 정부3.0 공공데이터로 추정된 값으로 실제와는 차이가 있을 수 있습니다.기업 정보 구매 후 상세한 정보를 확인하실 수 있습니다.
+        - generic [ref=f2e332]:
+          - term [ref=f2e333]:
+            - generic [ref=f2e334]:
+              - generic [ref=f2e335]: 산업 정보
+              - generic [ref=f2e336]:
+                - button "툴팁 활성화 버튼" [ref=f2e338] [cursor=pointer]:
+                  - generic [ref=f2e339]: 산업정보 툴팁 닫힘 상태
+                - tooltip "기업이 영위하는 대표 산업에 대한 정보로, 통계청의 11차 표준산업분류코드를 기준으로 제공합니다." [ref=f2e341]
+          - definition [ref=f2e344]:
+            - generic [ref=f2e345]:
+              - generic [ref=f2e346]:
+                - term [ref=f2e347]:
+                  - generic [ref=f2e348]: 산업명
+                - definition [ref=f2e349]:
+                  - strong [ref=f2e350]: 컴퓨터 및 주변장치, 소프트웨어 도매업 (G46510)
+                  - generic [ref=f2e351]: Wholesale of computers, computer peripheral equipment and software
+              - generic [ref=f2e352]:
+                - term [ref=f2e353]:
+                  - generic [ref=f2e354]: 산업 내 순위
+                  - generic [ref=f2e355]:
+                    - paragraph [ref=f2e356]:
+                      - strong [ref=f2e357]: 기준
+                      - text: 매출액
+                    - paragraph [ref=f2e358]:
+                      - strong [ref=f2e359]: 기준년도
+                      - text: "2025"
+                - definition [ref=f2e360]:
+                  - generic [ref=f2e362]:
+                    - generic [ref=f2e363]:
+                      - generic [ref=f2e364]:
+                        - link "(주)컴퓨존" [ref=f2e366] [cursor=pointer]:
+                          - /url: /ep/EP0100M002GE.nice?kiscode=090253
+                        - generic [ref=f2e368]: "2"
+                      - generic [ref=f2e369]: "2위 (주)컴퓨존: 60점"
+                    - generic [ref=f2e370]:
+                      - generic [ref=f2e371]:
+                        - link "애플코리아(유)" [ref=f2e373] [cursor=pointer]:
+                          - /url: /ep/EP0100M002GE.nice?kiscode=123338
+                        - generic [ref=f2e375]: "1"
+                      - generic [ref=f2e376]: "1위 애플코리아(유): 80점"
+                    - generic [ref=f2e377]:
+                      - generic [ref=f2e378]:
+                        - link "대원씨티에스(주)" [ref=f2e380] [cursor=pointer]:
+                          - /url: /ep/EP0100M002GE.nice?kiscode=113247
+                        - generic [ref=f2e382]: "3"
+                      - generic [ref=f2e383]: "3위 대원씨티에스(주): 40점"
+            - generic [ref=f2e384]:
+              - term [ref=f2e385]:
+                - generic [ref=f2e386]: 산업 내 위치
+                - paragraph [ref=f2e388]:
+                  - strong [ref=f2e389]: 기준년도
+                  - text: "2025"
+              - definition [ref=f2e390]:
+                - generic [ref=f2e391]: 데이터가 없습니다.
+        - generic [ref=f2e393]:
+          - term [ref=f2e394]:
+            - generic [ref=f2e395]: 산업 위험
+            - paragraph [ref=f2e398]:
+              - strong [ref=f2e399]: 기준연월
+              - text: "2026.07"
+          - definition [ref=f2e400]:
+            - generic [ref=f2e401]:
+              - term [ref=f2e402]:
+                - generic [ref=f2e403]:
+                  - text: 부도율
+                  - generic [ref=f2e404]:
+                    - button "툴팁 활성화 버튼" [ref=f2e406] [cursor=pointer]:
+                      - generic [ref=f2e407]: 부도율 툴팁 닫힘 상태
+                    - tooltip [ref=f2e409]:
+                      - generic [ref=f2e411]:
+                        - generic:
+                          - generic [ref=f2e412]:
+                            - paragraph [ref=f2e413]: 부도 업체 수 (과거 1년간 부도발생)
+                            - paragraph [ref=f2e414]: 기준 업체 수 (1년 전 정상 상태)
+                          - paragraph [ref=f2e415]: X 100 (%)
+                          - paragraph [ref=f2e416]: = 부도율 (%)
+                        - generic:
+                          - paragraph: "부도 발생 : 일반적으로 신용등급 D등급이 부여되는 사건이 관측되는 경우, 예를 들면 90일 이상 연체, 법정관리 신청 등"
+                          - paragraph: "정상 업체 : 금융권에서 신용공여가 이루어졌고, 부도 상태가 아닌 기업"
+              - definition [ref=f2e417]:
+                - paragraph [ref=f2e418]:
+                  - strong [ref=f2e419]: "1.58"
+                  - text: "%"
+            - generic [ref=f2e420]:
+              - term [ref=f2e421]:
+                - generic [ref=f2e422]:
+                  - text: 연체율
+                  - generic [ref=f2e423]:
+                    - button "툴팁 활성화 버튼" [ref=f2e425] [cursor=pointer]:
+                      - generic [ref=f2e426]: 연체율 툴팁 닫힘 상태
+                    - tooltip [ref=f2e428]:
+                      - generic [ref=f2e430]:
+                        - generic:
+                          - generic [ref=f2e431]:
+                            - paragraph [ref=f2e432]: 연체 상태 업체 수 (기준년월)
+                            - paragraph [ref=f2e433]: 정상+연체 상태 업체 수 (기준년월)
+                          - paragraph [ref=f2e434]: X 100 (%)
+                          - paragraph [ref=f2e435]: = 연체율 (%)
+                        - generic:
+                          - paragraph: "연체 상태 : 10일 이상 연체금 및 대지급금을 보유 정상 업체 : 금융권에서 신용공여가 이루어졌고, 연체금이나 대지급금이 없는 기업"
+              - definition [ref=f2e436]:
+                - paragraph [ref=f2e437]:
+                  - strong [ref=f2e438]: "8.30"
+                  - text: "%"
+            - generic [ref=f2e439]:
+              - term [ref=f2e440]:
+                - generic [ref=f2e441]:
+                  - text: 휴폐업 발생률
+                  - generic [ref=f2e442]:
+                    - button "툴팁 활성화 버튼" [ref=f2e444] [cursor=pointer]:
+                      - generic [ref=f2e445]: 휴폐업 발생률 툴팁 닫힘 상태
+                    - tooltip [ref=f2e447]:
+                      - generic [ref=f2e449]:
+                        - generic:
+                          - generic [ref=f2e450]:
+                            - paragraph [ref=f2e451]: 휴폐업 업체 수 (과거 1년간 휴폐업 발생)
+                            - paragraph [ref=f2e452]: 정상 업체 수 (1년 전 정상 운영)
+                          - paragraph [ref=f2e453]: X 100 (%)
+                          - paragraph [ref=f2e454]: = 휴폐업 발생률 (%)
+              - definition [ref=f2e455]:
+                - paragraph [ref=f2e456]:
+                  - strong [ref=f2e457]: "2.11"
+                  - text: "%"
+        - generic [ref=f2e458]:
+          - generic [ref=f2e459]:
+            - term [ref=f2e461]:
+              - generic [ref=f2e462]:
+                - generic [ref=f2e463]: 고용성장지수
+                - generic [ref=f2e464]:
+                  - button "툴팁 활성화 버튼" [ref=f2e466] [cursor=pointer]:
+                    - generic [ref=f2e467]: 고용성장지수 툴팁 닫힘 상태
+                  - tooltip "기업의 종업원수 변동 추이 분석으로 고용창출을 통해 성장하는 기업을 사전적으로 파악할 수 있는 지수입니다. 1~10등급으로 산출되며, 1등급에 가까울수록 고용이 성장할 가능성이 높습니다." [ref=f2e469]
+              - paragraph [ref=f2e473]:
+                - strong [ref=f2e474]: 평가 일자
+                - text: "-"
+            - term [ref=f2e476]:
+              - generic [ref=f2e477]:
+                - generic [ref=f2e478]: 재무성장지수
+                - generic [ref=f2e479]:
+                  - button "툴팁 활성화 버튼" [ref=f2e481] [cursor=pointer]:
+                    - generic [ref=f2e482]: 재무성장지수 툴팁 닫힘 상태
+                  - tooltip "매출 및 영업이익 변동 추이분석을 통해 재무적인 성장을 하는 기업을 사전적으로 파악할 수 있는 지수입니다. 1~10등급으로 산출되며, 1등급에 가까울수록 재무적으로 성장할 가능성이 높습니다." [ref=f2e484]
+              - paragraph [ref=f2e488]:
+                - strong [ref=f2e489]: 평가 일자
+                - text: "-"
+            - generic [ref=f2e492]:
+              - paragraph [ref=f2e493]: 고용성장지수와 재무성장지수를 확인해 보세요.
+              - button "로그인 하고 전체 보기" [ref=f2e495] [cursor=pointer]
+          - paragraph [ref=f2e497]:
+            - generic [ref=f2e498]: 본 화면의 신용정보는 참고용으로만 제공되는 것이며, 신용평가 인증자료로 활용하거나 홈페이지 및 보도자료 등을 통해 외부에 제공할 수 없습니다.
+      - link [ref=f2e501] [cursor=pointer]:
+        - /url: "#"
+        - img "로그인하고, 해당 기업의 모든 콘텐츠를 확인해보세요! 국내 최대 정보로 기업 정보를 정리하여 보고서로 제공해 드립니다." [ref=f2e502]
+    - button "KakaoChannel" [ref=f2e503] [cursor=pointer]
+    - button "FAQ" [ref=f2e506] [cursor=pointer]
+    - contentinfo [ref=f2e509]:
+      - generic [ref=f2e510]:
+        - heading "NICE BizINFO" [level=2] [ref=f2e511]
+        - generic [ref=f2e512]:
+          - generic [ref=f2e513]:
+            - heading "회사 정보 및 저작권" [level=3] [ref=f2e514]
+            - generic [ref=f2e515]:
+              - heading "고객 지원 및 정보" [level=4] [ref=f2e516]
+              - list [ref=f2e517]:
+                - listitem [ref=f2e518]:
+                  - link "회사소개" [ref=f2e519] [cursor=pointer]:
+                    - /url: https://www.niceinfo.co.kr/main.nice
+                - listitem [ref=f2e520]:
+                  - link "이용약관" [ref=f2e521] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=TRM
+                - listitem [ref=f2e522]:
+                  - link [ref=f2e523] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=PIP
+                    - strong [ref=f2e524]: 개인정보 처리방침
+                - listitem [ref=f2e525]:
+                  - link "법적근거" [ref=f2e526] [cursor=pointer]:
+                    - /url: /cs/CS0100M001GE.nice?mbrclucd=LEG
+                - listitem [ref=f2e527]:
+                  - link "문의/도움말" [ref=f2e528] [cursor=pointer]:
+                    - /url: /cs/CS0100M007GE.nice?tab=Question
+                - listitem [ref=f2e529]:
+                  - link "사이트맵" [ref=f2e530] [cursor=pointer]:
+                    - /url: /cs/CS0100M008GE.nice
+            - generic [ref=f2e531]:
+              - generic [ref=f2e532]: 주소 서울특별시 영등포구 은행로 17 (여의도동) NICE평가정보
+              - generic [ref=f2e533]:
+                - paragraph [ref=f2e534]: 대표자 김종윤
+                - paragraph [ref=f2e535]: 사업자번호 116-81-15020
+                - paragraph [ref=f2e536]: 통신판매업신고번호 2024-서울영등포-1095
+              - generic [ref=f2e537]:
+                - paragraph [ref=f2e538]: TEL 02-3771-1514
+                - paragraph [ref=f2e539]:
+                  - text: Email
+                  - link "help@nicebizinfo.com" [ref=f2e540] [cursor=pointer]:
+                    - /url: mailto:help@nicebizinfo.com
+            - paragraph [ref=f2e541]: Copyright ⓒ NICE Information Service Co., LTD. ALL RIGHTS RESERVED.
+          - link [ref=f2e543] [cursor=pointer]:
+            - /url: http://webwatch.or.kr
+            - img "과학기술정보통신부 WA(WEB접근성) 품질인증 마크, 웹와치(WebWatch) 2026.7.16 ~ 2027.7.16" [ref=f2e544]
+        - paragraph [ref=f2e545]: NICE평가정보(주)의 서비스 데이터베이스를 수집해가는 행위는 고의성의 여부를 불문하고 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반 될 수 있습니다.
+```

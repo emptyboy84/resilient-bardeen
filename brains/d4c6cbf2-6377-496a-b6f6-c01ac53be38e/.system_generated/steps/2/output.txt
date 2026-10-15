@@ -1,0 +1,11 @@
+{"name":".agents","isDir":true}
+{"name":"fix_clipboard_admin.ps1","sizeBytes":"2111"}
+{"name":"node_modules","isDir":true}
+{"name":"package-lock.json","sizeBytes":"36759"}
+{"name":"package.json","sizeBytes":"370"}
+{"name":"public","isDir":true}
+{"name":"scratch","isDir":true}
+{"name":"server.js","sizeBytes":"16611"}
+{"name":"skills-lock.json","sizeBytes":"503"}
+
+Summary: This directory contains 4 subdirectories and 5 files.

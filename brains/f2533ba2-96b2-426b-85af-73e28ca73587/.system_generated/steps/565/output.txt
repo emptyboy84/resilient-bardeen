@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://bizno.net/article/7758100670');
+```
+### Page
+- Page URL: https://bizno.net/article/7758100670
+- Page Title: (주) 바른중량
+- Console: 0 errors, 5 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-07T02-51-40-682Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-51-37-857Z.log#L1-L7

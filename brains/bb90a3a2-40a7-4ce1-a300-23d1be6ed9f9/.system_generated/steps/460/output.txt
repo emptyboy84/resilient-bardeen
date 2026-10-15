@@ -1,0 +1,57 @@
+
+The command exited with code 0.
+Output:
+<footer id="footer">
+<div class="container ">
+<div class="d-flex footer-links jc-between threeColFooterNav">
+<div class="col">
+<h4 class="font24 colorWhite">Shop</h4>
+<ul class="footer-menu">
+<li><a href="https://www.hugeDomains.com/index.cfm" class="link whiteLink">Home</a></li>
+<li><a href="https://www.hugeDomains.com/categories.cfm" class="link whiteLink">Categories</a></li>
+<li><a href="https://www.hugeDomains.com/payment-plans.cfm" class="link whiteLink">Payment plans</a></li>
+<li><a href="https://www.hugeDomains.com/payment-plan-login.cfm" class="link whiteLink">My account</a></li>
+</ul>
+</div>
+<div class="col">
+<h4 class="font24 colorWhite">Safe and secure</h4>
+<ul class="footer-menu">
+<li><a href="https://www.hugeDomains.com/satisfaction_guaranteed.cfm" class="link whiteLink">Money back guarantee</a></li>
+<li><a href="https://www.hugeDomains.com/escrow.cfm" class="link whiteLink">Escrow.com</a></li>
+<li><a href="https://www.hugeDomains.com/namebright.cfm" class="link whiteLink">NameBright.com</a></li>
+<li><a href="https://www.hugeDomains.com/testimonials.cfm" class="link whiteLink">Testimonials</a></li>
+</ul>
+</div>
+<div class="col">
+<h4 class="font24 colorWhite">Helpful Tips</h4>
+<ul class="footer-menu">
+<li><a href="https://www.hugeDomains.com/buying_guide.cfm" class="link whiteLink">Buying guide</a></li>
+<li><a href="https://www.hugeDomains.com/case-studies.cfm" class="link whiteLink">Case studies</a></li>
+<li><a href="https://www.hugeDomains.com/faq.cfm" class="link whiteLink">FAQs</a></li>
+</ul>
+</div>
+<div class="col">
+<h4 class="font24 colorWhite">About us</h4>
+<ul class="footer-menu">
+<li><a href="https://www.hugeDomains.com/about.cfm" class="link whiteLink">Overview</a></li>
+<li><a href="https://www.hugeDomains.com/contact.cfm" class="link whiteLink">Contact us</a></li>
+<li><a href="https://www.hugeDomains.com/terms.cfm" class="link whiteLink">Terms and conditions</a></li>
+<li><a href="https://www.hugeDomains.com/privacy_policy.cfm" class="link whiteLink">Privacy policy</a></li>
+</ul>
+</div>
+</div>
+<div class="d-flex badge-row ai-center threeColFooterNavLogos" >
+<div class="d-flex jc-center threeColFooterNavLogo1"><a href="https://www.hugeDomains.com/buying_guide.cfm" aria-label="Explore the HugeDomains buying guides to learn about .com domains"><img src="https://static.hugedomains.com/images/hdv3-img/footer-logo-1.png" alt="" border="0"></a></div>
+<div class="d-flex jc-center threeColFooterNavLogo2"><a href="https://www.hugeDomains.com/namebright.cfm" aria-label="NameBright.com is a HugeDomains partner" ><img src="https://static.hugedomains.com/images/hdv3-img/footer-logo-2.png" alt="" border="0"></a></div>
+<div class="d-flex jc-center threeColFooterNavLogo3"><img src="https://static.hugedomains.com/images/hdv3-img/footer-logo-3.png" alt=""></div>
+<div class="d-flex jc-center threeColFooterNavLogo4"><img src="https://static.hugedomains.com/images/hdv3-img/footer-logo-4.png" alt=""></div>
+<div class="d-flex jc-center threeColFooterNavLogo5"><a href="https://www.hugeDomains.com/escrow.cfm" aria-label="Escrow.com is a HugeDomains partner"><img src="https://static.hugedomains.com/images/hdv3-img/footer-logo-5.png" alt="" border="0"></a></div>
+</div>
+<div class="text-center">
+<span class="cta font24">Talk to a domain expert: <a href="tel:1-303-893-0552" class="link">+1-303-893-0552</a></span>
+</div>
+<p class="copyright text-center">&copy; 2026 HugeDomains.com. All rights reserved.</p>
+<a href="https://www.hugeDomains.com/more-info.cfm" tabindex="-1" aria-label="more." ></a>
+</div>
+</footer>
+

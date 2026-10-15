@@ -1,0 +1,13 @@
+The search for "site:bizno.net "6040126041"" returned the following summary:
+한독메디칼 사업자 정보 (사업자등록번호: 604-01-26041)[1]
+
+*   **회사명:** 한독메디칼 (Handok Medical)[1]
+*   **대표자명:** 이평환[1]
+*   **사업자 현재 상태:** 계속사업자[1]
+*   **설립일:** 1997-05-01[1]
+*   **업종:** 제조업 (그 외 기타 의료용 기기 제조업)[1]
+*   **전화번호:** 051-816-7085[1]
+*   **주소:** 부산광역시 금정구 개좌로 273-20, 5층 508호, 509호(회동동, 브이원타워)[1]
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeVWEY9FGdYFPgg7P8mSyhsDol7-sVjK2s237DcmtoJCi0rNq16PMn9F7LZlycajeYIzxsysMrMorDatuELH2cgVkuJHIPEJ_tZyKeuVNjjc_6lvg06FD9Huo=)

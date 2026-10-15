@@ -1,0 +1,13 @@
+The search for ""신산로 120" ("윤슬" OR "1017호")" returned the following summary:
+부산광역시 사하구 신산로 120(신평동, 펜타플렉스) 주소지에 등록된 정보는 다음과 같습니다.
+
+*   **윤슬컴퍼니**: 부산광역시 사하구 신산로 120, B동 10층 1017호에 위치하고 있으며, 주요 업종은 임대업으로 등록되어 있습니다[1][2].
+*   **(주)엘앤씨**: 동일한 주소지인 B동 10층 1017호에 위치한 전자상거래 소매업체입니다[3].
+*   **기타 정보**: 같은 건물(신산로 120, 펜타플렉스) 내에 다른 호수를 사용하는 업체들도 다수 입주해 있습니다(예: 520호 등)[4][5].
+
+Sources:
+[1] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09WvZlPCPLZ4RrLetUv012aIRl-olSIHaISddqUjJuu6bFAyoT8d0Nb4mZSnNkR5dVhnUUFJnu3CWMkYT43viAkg3bcX-LshRfLQ53368k9rIfh_HL_lM0k0VDkLjvQPJnc_uCIMHac9BuJDnH0bpkSq_5To4BDZ4zdlphniGBzqUmSo8chU=)
+[2] [i-um.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09WvZlPCPLZ4RrLetUv012aIRl-olSIHaISddqUjJuu6bFAyoT8d0Nb4mZSnNkR5dVhnUUFJnu3CWMkYT43viAkg3bcX-LshRfLQ53368k9rIfh_HL_lM0k0VDkLjvQPJnc_uCIMHac9BuJDnH0bpkSq_5To4BDZ4zdlphniGBzqUmSo8chU=)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFds4d-3Jy6RvbFrhD6wpyWUmC4gNh0jN-l2_PBR9Zgz8qebti2FD-Jo_FDe2IKM-Ih7g4BNeeqgHHbqTNpN4ApTuP0916dZovZ-gCSgDNYY-CAMv5gkY0H922k-17sMooYP29y2Qw_YCNcVGax0xhCQ2M_tlesJy6yhhreFtmpWdEIu4r5AT7P4vEjsliVNYZfLH1sTkB0hA-KexP48qKbh7A-zsU5emz35yAd1w79XMxsnM-FmBJCxD3_NoCwsw04IJHfmg==)
+[4] [11st.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20PMa8yzYe0m_n-OtImoPUoSDDW55jN0m0A-aRjhLxQdsFlu0iaTJistHcR6vfgqCP5TIbAysArKCuK5Nk-mN1Owrw0j4I9bZTE2jFKJoFq3CZxKOrmkUYeCQ6pbUgRHILKhW4o8XbSHxMS3-T7IRrL0izZ-yUY5b1nvSocJ_-EPY3Koj32069JYDZ98GqItX3w==)
+[5] [kro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRrNfw2folB_1oeu36YeC6LbWmfdOYQrUMPuPxhei8jRmwxj39GvvjtDVN7ET7Ba36SE4YX8NTjW1QMhv3Me8YCQIgG7RhPU1o7lnZ7o_QUkiRgbmVRKmU_OJLhvPKgyMny-2wWXBmEIVj8ljomXyb9gsYTHioVRF2vXYibfy88UDOAmNpmt6D978pUHLvQXHCmRXhtcSViXOEzUNnfralki-HBrh82-vo5fFjdwBB86K1BgzuTP7fuDMxV5MR89CwEKQ34BBZ78xgsgpaE3NaYA==)

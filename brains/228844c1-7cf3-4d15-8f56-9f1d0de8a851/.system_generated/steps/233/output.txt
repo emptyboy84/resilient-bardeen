@@ -1,0 +1,143 @@
+### Result
+[
+  {
+    "text": "(주)부산비전스\n박학*",
+    "href": null
+  },
+  {
+    "text": "(주)부산비전스",
+    "href": "/article/6058122773"
+  },
+  {
+    "text": "(주)부산비전스",
+    "href": null
+  },
+  {
+    "text": "삼룡건설(주)\n박학*",
+    "href": null
+  },
+  {
+    "text": "삼룡건설(주)",
+    "href": "/article/3018115593"
+  },
+  {
+    "text": "삼룡건설(주)",
+    "href": null
+  },
+  {
+    "text": "(주)스타머스피어\n박학*\n일반 영화 및 비디오물 제작업",
+    "href": null
+  },
+  {
+    "text": "(주)스타머스피어",
+    "href": "/article/6178178912"
+  },
+  {
+    "text": "(주)스타머스피어",
+    "href": null
+  },
+  {
+    "text": "(주)룩스커뮤니케이션\n박학*",
+    "href": null
+  },
+  {
+    "text": "(주)룩스커뮤니케이션",
+    "href": "/article/6078162956"
+  },
+  {
+    "text": "(주)룩스커뮤니케이션",
+    "href": null
+  },
+  {
+    "text": "은수정\n박학*",
+    "href": null
+  },
+  {
+    "text": "은수정",
+    "href": "/article/5165900390"
+  },
+  {
+    "text": "은수정",
+    "href": null
+  },
+  {
+    "text": "박학문\n박학*",
+    "href": null
+  },
+  {
+    "text": "박학문",
+    "href": "/article/5622301355"
+  },
+  {
+    "text": "박학문",
+    "href": null
+  },
+  {
+    "text": "뉴 테크산업\n박학*",
+    "href": null
+  },
+  {
+    "text": "뉴 테크산업",
+    "href": "/article/4101370834"
+  },
+  {
+    "text": "뉴 테크산업",
+    "href": null
+  },
+  {
+    "text": "실시간 조회기업",
+    "href": null
+  },
+  {
+    "text": "동인빌딩",
+    "href": "/article/5940700810"
+  },
+  {
+    "text": "세류빌드협동조합",
+    "href": "/article/4398602495"
+  },
+  {
+    "text": "오토 갤러리 29호",
+    "href": "/article/6035300407"
+  },
+  {
+    "text": "링코모(LINCOMO)",
+    "href": "/article/8123501215"
+  },
+  {
+    "text": "모쓰코퍼레이션",
+    "href": "/article/1380853564"
+  },
+  {
+    "text": "예스넷(YESNET)",
+    "href": "/article/7201202236"
+  },
+  {
+    "text": "(주)자연에너지 삼정주유소",
+    "href": "/article/5048545700"
+  },
+  {
+    "text": "월드푸드",
+    "href": "/article/5484800542"
+  },
+  {
+    "text": "엠스퀘어 복합상가 513호",
+    "href": "/article/4647100107"
+  },
+  {
+    "text": "나리양과점",
+    "href": "/article/8980401705"
+  },
+  {
+    "text": "엘투케이파트너스",
+    "href": "/article/6108636406"
+  },
+  {
+    "text": "씨드소프트",
+    "href": "/article/2311601808"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const titles = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return titles;\n}');
+```

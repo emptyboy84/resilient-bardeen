@@ -1,0 +1,38 @@
+
+The command exited with code 0.
+Output:
+Sheet name: 기업체 리스트
+Actual rowCount on read: 2469
+Row 2314: 게임사업단 리스트 | 2314 | 주식회사 이데아디엑스 | 4708703279
+Row 2315: null | null | null | null
+Total RED cells in verified file: 16595
+
+Row 2 (original record, should be black):
+  Col 1: 25년 모집단 [BLACK]
+  Col 2: 2 [RED]
+  Col 3: 아이티에프씨 [RED]
+  Col 4: 243-86-01731 [RED]
+  Col 5: 2020 [RED]
+  Col 6: 9 [RED]
+  Col 7: 곽서준 [RED]
+  Col 8: 051-256-8500 [RED]
+  Col 10: 서구 [RED]
+  Col 11: 서구 보수대로 111 , 2층(부용동1가, 동아빌딩) [BLACK]
+  Col 12: 콘텐츠솔루션 [RED]
+
+Row 639 (디자인에코, blanks filled in RED):
+  Col 1: 25년 모집단 [BLACK]
+  Col 2: 639 [RED]
+  Col 3: 디자인에코 [RED]
+  Col 4: 603-10-85753 [RED]
+  Col 5: 2009 [BLACK]
+  Col 6: 10 [BLACK]
+  Col 7: 이돈희 [BLACK]
+  Col 8: 051-207-3530 [BLACK]
+  Col 9: 051-517-3500 [BLACK]
+  Col 10: 금정구 [RED]
+  Col 11: 부산 금정구 장전동 222-39 서강빌딩 4층 [RED]
+  Col 12: 캐릭터 [RED]
+  Col 16: 10 [BLACK]
+  Col 19: https://bizno.net/article/6031085753 [RED]
+

@@ -1,0 +1,5 @@
+- [x] Delete Desktop shortcut `C:\Users\lg\Desktop\Hermes.lnk`
+- [x] Delete AppData Local Hermes folder `C:\Users\lg\AppData\Local\hermes`
+- [x] Delete AppData Roaming Hermes folder `C:\Users\lg\AppData\Roaming\Hermes`
+- [x] Delete AppData Local Setup folder `C:\Users\lg\AppData\Local\com.nousresearch.hermes.setup`
+- [x] Delete downloaded installer `C:\Users\lg\Downloads\Hermes-Setup.exe`

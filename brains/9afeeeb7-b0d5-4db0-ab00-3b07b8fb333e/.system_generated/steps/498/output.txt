@@ -1,0 +1,22 @@
+
+The command exited with code 0.
+Output:
+Category matches: [ '"category":"바(BAR)"' ]
+businessCategory matches: null
+categoryName matches: null
+categories matches: null
+commonAddress matches: null
+roadAddress matches: [ '"roadAddress":"경남 김해시 진영읍 김해대로335번길 8 1층 삼십육점칠도"' ]
+name matches: [
+  '"name":"삼십육점칠도"',
+  '"name":"12"',
+  '"name":"진영병원"',
+  '"name":"16"',
+  '"name":"16A"',
+  '"name":"44"',
+  '"name":"44A"',
+  '"name":"진영중앙초등학교"',
+  '"name":"14-1A"',
+  '"name":"진영중앙초등학교"'
+]
+

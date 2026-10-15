@@ -1,0 +1,88 @@
+
+The command exited with code 0.
+Output:
+const fs = require('fs');
+const path = require('path');
+
+const filePath = path.join(__dirname, 'check_74.tsv');
+const lines = fs.readFileSync(filePath, 'utf-8').split('\n').filter(l => l.trim().length > 0);
+
+function getBizType(bizno) {
+  const clean = bizno.replace(/[^0-9]/g, '');
+  if (clean.length !== 10) return 'UNKNOWN';
+  const mid = clean.substring(3, 5);
+  const midNum = Number(mid);
+  if ((midNum >= 1 && midNum <= 79) || (midNum >= 90 && midNum <= 99)) return '개인사업자';
+  if (['81', '86', '87', '88'].includes(mid)) return '영리법인본점';
+  if (mid === '85') return '영리법인지점';
+  if (mid === '82') return '비영리법인';
+  if (mid === '33') return '사내근로복지기금/단체';
+  return '기타';
+}
+
+function isValidCorpNo(corpNo) {
+  if (!corpNo) return false;
+  const clean = corpNo.replace(/[^0-9]/g, '');
+  if (clean.length !== 13) return false;
+  const weights = [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2];
+  let sum = 0;
+  for (let i = 0; i < 12; i++) {
+    sum += Number(clean[i]) * weights[i];
+  }
+  const remainder = sum % 10;
+  const checkDigit = (10 - remainder) % 10;
+  return Number(clean[12]) === checkDigit;
+}
+
+const audit = lines.map((l, idx) => {
+  const p = l.split('\t');
+  const company = (p[2] || '').trim();
+  const bizno = (p[3] || '').trim();
+  const corpNo = (p[13] || '').trim();
+  const bizType = getBizType(bizno);
+  const isCorpEntity = ['영리법인본점', '영리법인지점', '비영리법인'].includes(bizType) || company.includes('(주)') || company.includes('주식회사') || company.includes('㈜');
+  
+  return {
+    no: idx + 1,
+    company,
+    bizno,
+    corpNo,
+    bizType,
+    isCorpEntity,
+    hasCorpNo: !!corpNo,
+    validCheckDigit: isValidCorpNo(corpNo)
+  };
+});
+
+console.log('=== 74개 기업 법인번호 전수 분석 ===');
+const withCorpNo = audit.filter(a => a.hasCorpNo);
+const missingCorpNo = audit.filter(a => a.isCorpEntity && !a.hasCorpNo);
+const individualWithCorpNo = audit.filter(a => !a.isCorpEntity && a.hasCorpNo);
+const checkDigitFailed = audit.filter(a => a.hasCorpNo && !a.validCheckDigit);
+const valid = audit.filter(a => a.hasCorpNo && a.validCheckDigit);
+
+console.log('총 기업 수:', audit.length);
+console.log('법인번호 기재:', withCorpNo.length, '개');
+console.log('정상 유효 번호:', valid.length, '개');
+console.log('법인인데 법인번호 누락(빈값):', missingCorpNo.length, '개');
+console.log('개인사업자인데 법인번호 기재:', individualWithCorpNo.length, '개');
+console.log('체크섬 불일치:', checkDigitFailed.length, '개');
+
+console.log('\n[1. 법인인데 법인번호가 누락된 목록]:');
+missingCorpNo.forEach(m => console.log(`[${m.no}번] ${m.company} (사업자: ${m.bizno}, 유형: ${m.bizType})`));
+
+if (individualWithCorpNo.length > 0) {
+  console.log('\n[2. 개인사업자인데 법인번호 기재된 목록]:');
+  individualWithCorpNo.forEach(m => console.log(`[${m.no}번] ${m.company} (사업자: ${m.bizno}, 기재번호: ${m.corpNo})`));
+}
+
+if (checkDigitFailed.length > 0) {
+  console.log('\n[3. 체크섬 의심 상세]:');
+  checkDigitFailed.forEach(m => console.log(`[${m.no}번] ${m.company} (${m.corpNo})`));
+}
+
+console.log('\n[4. 기재된 법인번호 전체 목록 (유효성 체크)]:');
+withCorpNo.forEach(m => {
+  console.log(`[${m.no}번] ${m.company} | ${m.bizno} | ${m.corpNo} | ${m.validCheckDigit ? '✅ 정상' : '⚠️ 확인필요'}`);
+});
+

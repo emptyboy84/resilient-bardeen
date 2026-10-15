@@ -1,0 +1,16 @@
+The search for "site:musticker.com "010" OR "051" OR "070" OR "전화" OR "고객센터" OR "Tel"" returned the following summary:
+맞춤 스티커 제작 쇼핑몰 **머스티커(Musticker, 운영사: (주)글로픽스)**의 고객센터 및 연락처 정보는 다음과 같습니다[1][2]:
+
+* **고객센터 전화번호:** **1899-5529**[1]
+* **운영 시간:** 평일 09:00 – 18:00 (토·일·공휴일 휴무)[1]
+* **이메일 문의:** 
+  * 구매/판매 문의: sales@musticker.com[1]
+  * 일반 지원/기타 문의: support@musticker.com[3]
+* **주소:** 부산광역시 해운대구 해운대해변로 203 오션타워 1014호[2]
+* **기타 소통 채널:** 웹사이트 내 1:1 문의하기, 카카오채널, 네이버 톡톡[1][4]
+
+Sources:
+[1] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFUNFYw0zlKYI-5w7ZNs5Zsrb3H9K4Thxijps4Tkc-6ll1K8EChR2o8HYswu015K8Ea2GGnURU_2kwgpL6DF0UTggRsxz-jwW363Uig0iFshVeGA==)
+[2] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENTL7oKHKBr5dNNAxOVaBm1F0dROSzhmpkaCxmi8hLsq0cCHsDlqezoMkg6JJEGsMdvWbrnWxKBbtwlZpNu3lY2gMmcE8AydjqojQKdVgRKgJLK0salmrz)
+[3] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzjfteN5CSRiy5XVMQawIrKf-uKBAKFXWw8nhx0ZioGa8Yts0I-kI6gEwlOIPuVltOLTjhkEIWEaTkZhLo-OG-lslnlVzMrHmm4z7hN0xZObFZF1nrzvK27zGa30ZDXA==)
+[4] [musticker.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzjfteN5CSRiy5XVMQawIrKf-uKBAKFXWw8nhx0ZioGa8Yts0I-kI6gEwlOIPuVltOLTjhkEIWEaTkZhLo-OG-lslnlVzMrHmm4z7hN0xZObFZF1nrzvK27zGa30ZDXA==)

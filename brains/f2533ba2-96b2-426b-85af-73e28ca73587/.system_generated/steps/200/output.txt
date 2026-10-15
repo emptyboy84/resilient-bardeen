@@ -1,0 +1,20 @@
+The search for ""7698601439" OR ("센텀동로 35" "리콘") OR ("리콘" "김지나")" returned the following summary:
+검색하신 정보와 관련된 주요 내용은 다음과 같습니다.
+
+**주식회사 리콘 (RECON)**에 관한 기업 정보입니다.
+
+*   **기업명:** 주식회사 리콘 (RECON)[1][2]
+*   **대표자:** 김지나[1][2][3]
+*   **주소:** 부산광역시 해운대구 센텀동로 35, 센텀SH밸리 905호[1][4][2]
+*   **사업 내용:** 편의식품, 화장품, 생활용품 등을 기획 및 개발하는 기업으로, 자체 브랜드(바로컵라면떡볶이 등)를 통해 러시아, 대만, 베트남 등으로 제품을 수출하고 있습니다[1][2].
+*   **사업자등록번호:** 796-86-01439[4]
+    *   *참고: 검색어에 기재하신 '7698601439'는 해당 기업의 사업자등록번호 '7968601439'와 숫자가 일부 다른 것으로 확인됩니다[4].*
+
+해당 기업은 2024년 중소벤처기업부 주관 K-뷰티·푸드 분야 글로벌 진출 유망 기업으로 선정된 바 있습니다[3][5].
+
+Sources:
+[1] [k-expo.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkDKiH7SPaJj-7mTzj3Il45wNQVOFG6zD3HkEVILJAX75a52JPoaU7ZlVpYPlM_FEHch7juFn3QzW5Sem0jWJzwU8KjmTKsdAyVRoz7O4HAkqPVW_obYsbRcXm-o6_T9AXIo0fYJRw-RvXpzhksJREAFqXEUfV_2LMOZkd)
+[2] [k-expo.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkDKiH7SPaJj-7mTzj3Il45wNQVOFG6zD3HkEVILJAX75a52JPoaU7ZlVpYPlM_FEHch7juFn3QzW5Sem0jWJzwU8KjmTKsdAyVRoz7O4HAkqPVW_obYsbRcXm-o6_T9AXIo0fYJRw-RvXpzhksJREAFqXEUfV_2LMOZkd)
+[3] [aitimes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3f2fOZ0_3wqeAiZigr7cPgO4d6Xys89weAWRTquEFWmmmajcdmThKkMf4xW5TqD2CamR6mqUdn-zqQ7irSD13ejhA6jjrn7M1Yz5I65t6TCnapikl29zUyzKnbaw7kEYOHutUYCX3s52TNMvFw==)
+[4] [cafe24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPNZGlYg2jyePeJLnlivK_6j1T-yLpbbtlgv6bBv39U0oQYE85hyRsMi7FA8yKyE5_d1BM07dO2PiUVg57yWHWNAe1hczKpZRBtnHWXPhNypThf-w=)
+[5] [smarttoday.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOmGWxkPQC34w3MBjp7i3XnHpF7H-dAddfJsHaRoBHbm3pKU0S6tUUcH4PmtECPOvexRys5-55weWtbCP_O7patvORWkzsSPB3ckwVMOw9MAWA2D428d0ElTQL0nEhCMSnM7WplNgp)

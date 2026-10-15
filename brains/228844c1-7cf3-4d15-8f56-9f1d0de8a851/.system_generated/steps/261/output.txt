@@ -1,0 +1,239 @@
+### Result
+[
+  {
+    "text": "성공종합설비",
+    "href": null
+  },
+  {
+    "text": "성공종합설비",
+    "href": "/article/3331402813"
+  },
+  {
+    "text": "성공종합설비",
+    "href": null
+  },
+  {
+    "text": "워터캐논",
+    "href": null
+  },
+  {
+    "text": "워터캐논",
+    "href": "/article/3331202731"
+  },
+  {
+    "text": "워터캐논",
+    "href": null
+  },
+  {
+    "text": "조은애견미용",
+    "href": null
+  },
+  {
+    "text": "조은애견미용",
+    "href": "/article/3331102224"
+  },
+  {
+    "text": "조은애견미용",
+    "href": null
+  },
+  {
+    "text": "금화정밀\n정영*",
+    "href": null
+  },
+  {
+    "text": "금화정밀",
+    "href": "/article/6092428612"
+  },
+  {
+    "text": "금화정밀",
+    "href": null
+  },
+  {
+    "text": "그린상사\n조복*",
+    "href": null
+  },
+  {
+    "text": "그린상사",
+    "href": "/article/6161958269"
+  },
+  {
+    "text": "그린상사",
+    "href": null
+  },
+  {
+    "text": "더리터24 합정점",
+    "href": null
+  },
+  {
+    "text": "더리터24 합정점",
+    "href": "/article/3330403152"
+  },
+  {
+    "text": "더리터24 합정점",
+    "href": null
+  },
+  {
+    "text": "현대성우메탈 사내근로복지기금\n차병*",
+    "href": null
+  },
+  {
+    "text": "현대성우메탈 사내근로복지기금",
+    "href": "/article/8438200058"
+  },
+  {
+    "text": "현대성우메탈 사내근로복지기금",
+    "href": null
+  },
+  {
+    "text": "스카이노래빠",
+    "href": null
+  },
+  {
+    "text": "스카이노래빠",
+    "href": "/article/3330202843"
+  },
+  {
+    "text": "스카이노래빠",
+    "href": null
+  },
+  {
+    "text": "문창기업사\n문인*\n철물, 금속 파스너 및 수공구 도매업",
+    "href": null
+  },
+  {
+    "text": "문창기업사",
+    "href": "/article/6054570210"
+  },
+  {
+    "text": "문창기업사",
+    "href": null
+  },
+  {
+    "text": "대박 아이스크림 할인점 서재점",
+    "href": null
+  },
+  {
+    "text": "대박 아이스크림 할인점 서재점",
+    "href": "/article/3330103210"
+  },
+  {
+    "text": "대박 아이스크림 할인점 서재점",
+    "href": null
+  },
+  {
+    "text": "여월 포도 농장",
+    "href": null
+  },
+  {
+    "text": "여월 포도 농장",
+    "href": "/article/3329201027"
+  },
+  {
+    "text": "여월 포도 농장",
+    "href": null
+  },
+  {
+    "text": "에스티밸리",
+    "href": null
+  },
+  {
+    "text": "에스티밸리",
+    "href": "/article/3328803498"
+  },
+  {
+    "text": "에스티밸리",
+    "href": null
+  },
+  {
+    "text": "복스토리",
+    "href": null
+  },
+  {
+    "text": "복스토리",
+    "href": "/article/3328803334"
+  },
+  {
+    "text": "복스토리",
+    "href": null
+  },
+  {
+    "text": "클락",
+    "href": null
+  },
+  {
+    "text": "클락",
+    "href": "/article/3328801772"
+  },
+  {
+    "text": "클락",
+    "href": null
+  },
+  {
+    "text": "세방건설중기(동인건기)\n허연*",
+    "href": null
+  },
+  {
+    "text": "세방건설중기(동인건기)",
+    "href": "/article/4892701306"
+  },
+  {
+    "text": "세방건설중기(동인건기)",
+    "href": null
+  },
+  {
+    "text": "실시간 조회기업",
+    "href": null
+  },
+  {
+    "text": "세류빌드협동조합",
+    "href": "/article/4398602495"
+  },
+  {
+    "text": "오토 갤러리 29호",
+    "href": "/article/6035300407"
+  },
+  {
+    "text": "링코모(LINCOMO)",
+    "href": "/article/8123501215"
+  },
+  {
+    "text": "모쓰코퍼레이션",
+    "href": "/article/1380853564"
+  },
+  {
+    "text": "예스넷(YESNET)",
+    "href": "/article/7201202236"
+  },
+  {
+    "text": "(주)자연에너지 삼정주유소",
+    "href": "/article/5048545700"
+  },
+  {
+    "text": "월드푸드",
+    "href": "/article/5484800542"
+  },
+  {
+    "text": "엠스퀘어 복합상가 513호",
+    "href": "/article/4647100107"
+  },
+  {
+    "text": "나리양과점",
+    "href": "/article/8980401705"
+  },
+  {
+    "text": "엘투케이파트너스",
+    "href": "/article/6108636406"
+  },
+  {
+    "text": "씨드소프트",
+    "href": "/article/2311601808"
+  },
+  {
+    "text": "설탕",
+    "href": "/article/3207900292"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n    const titles = Array.from(document.querySelectorAll(\'h4, .titles, a[href*="/article/"]\')).map(el => ({\n        text: el.innerText.trim(),\n        href: el.getAttribute(\'href\')\n    }));\n    return titles;\n}');
+```

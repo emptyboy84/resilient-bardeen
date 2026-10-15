@@ -1,0 +1,13 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.ftc.go.kr/bizCommPop.do');
+```
+### Page
+- Page URL: https://www.ftc.go.kr/bizCommPop.do
+- Page Title: 400
+- HTTP status: 400 Bad Request
+- Console: 1 errors, 0 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-07T02-30-10-454Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-09-07T02-30-09-693Z.log#L1

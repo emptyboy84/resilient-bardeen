@@ -1,0 +1,23 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-156
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-156.log
+Log output:
+<truncated 205 lines>
+오테크놀리지" | 대표: "공기정" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[99/421] Row 1627 | "삼주" | 대표: "백승용" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[100/421] Row 1629 | "나웅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 100/421 | Matched: 12 | Unverifiable: 88 <<<
+[101/421] Row 1630 | "한스이엔지" | 대표: "김종균" | 구: "해운대구"
+  => MATCH CONFIRMED: 603-81-24251 () | 주소: "부산광역시 강서구 녹산산단381로 29 (송정동, 햇님토이)" | 대표: "김" [계속사업자]
+[102/421] Row 1642 | "헤윰아이씨티" | 대표: "우석규" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[103/421] Row 1643 | "웅진씽크빅" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[104/421] Row 1645 | "한솔교육" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+[105/421] Row 1647 | "한국전화번호부부산센터" | 대표: "김용섭" | 구: "해운대구"
+
+Last progress: 0s ago

@@ -1,0 +1,9 @@
+The search for ""8614-1122"" returned the following summary:
+The string "8614-1122" appears in two primary contexts:
+
+*   **Manufacturing/Standards:** It is listed as a product code (OKP code) in Soviet-era standard **GOST 5717-81** for glass jars used in canning[1]. Specifically, it refers to an 800 cm³ capacity glass jar (type II or III, semi-white glass)[1].
+*   **Phone Numbers:** It appears as part of a list of Japanese mobile phone number formats (specifically with the prefix `090-8614-xxxx`)[2].
+
+Sources:
+[1] [stroyinf.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfDZ9sEnbjW2i2B7RTrcGaCXiznbO-NY6lsq4AMcvncKxZToW7JWQjLYJQ4dzUbtFlh5VcCfxxccFTEc5uUR8Av-HGVFGhf6PQrA2s9x4y203KPWGjCSFGc82lospMV56BmTnKHoRBpK3X0y1bmA==)
+[2] [jpnumber.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeP4iBxQVijSHqU_sfXMiLeuVD9PQzcnEY2yTgBgv6V50jjGPVK1N4Ly7baD17hE9UrTjB-bn7aesYZsAPf1CU1-yW9_cioenWbVI0JntoIqFd78xAQFaz3b3Lx54ppblesiLTUw798AXNscOvFmXV)

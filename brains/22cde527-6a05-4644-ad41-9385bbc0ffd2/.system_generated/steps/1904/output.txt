@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Surrounding HTML around 매출액 (first):
+9년차, 기업형태 : 중소기업, 업종 : 응용 소프트웨어 개발 및 공급업 | (주)브이드림의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요." >
+<meta name="keywords" content="(주)브이드림, (주)브이드림 기업정보, (주)브이드림 기업소개, (주)브이드림 직원수, 매출액, 자본금, (주)브이드림 영업이익, (주)브이드림 공시정보, (주)브이드림 재무제표, (주)브이드림 감사보고서, 취업사이트, 채용정보, 기업뉴스, 복지, 구인, 구직, 사람인" >
+<meta name="writer" content="사람인" >
+<meta name="naver" content="nosublinks" >    <meta property
+

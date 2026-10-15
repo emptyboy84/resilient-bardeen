@@ -1,0 +1,58 @@
+
+The command exited with code 0.
+Output:
+- Page Title: No.1 전화번호검색 - 114On
+- /url: /search?tab=scam
+- link "검색" [ref=e20] [cursor=pointer]:
+- group "통합검색" [ref=e53]:
+- generic: 검색어 입력
+- searchbox "검색어 입력" [ref=e54]
+- button "검색" [ref=e55] [cursor=pointer]
+- link "상세 검색" [ref=e56] [cursor=pointer]:
+- link "지도 검색" [ref=e58] [cursor=pointer]:
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=수영장"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=스포츠웨어"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=이비인후과"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=공중전화"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=이비인후과"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=내과"
+- /url: "/search/result/all?\n\t\t\t\t\t\t\t\t\tquery=약국"
+- /url: /search?tab=scam
+- heading "전국 병의원 검색서비스" [level=2] [ref=e218]
+- paragraph [ref=e219]: 가까운 병원/의원/요양병원114On에서 간편하게 검색하세요
+- button "병의원 검색 바로가기" [ref=e220] [cursor=pointer]
+- /url: /search/detail?comp_id=30658628&comp_tp_cd=SEL&upjong_cd=601201
+- /url: /search/detail?comp_id=30658639&comp_tp_cd=SEL&upjong_cd=693504
+- /url: /search/detail?comp_id=30658638&comp_tp_cd=SEL&upjong_cd=693504
+- /url: /search/detail?comp_id=30658637&comp_tp_cd=SEL&upjong_cd=432002
+- /url: /search/detail?comp_id=30658636&comp_tp_cd=SEL&upjong_cd=839401
+- /url: /search/detail?comp_id=30658635&comp_tp_cd=SEL&upjong_cd=679300
+- /url: /search/detail?comp_id=30658634&comp_tp_cd=SEL&upjong_cd=561900
+- /url: /search/detail?comp_id=30658633&comp_tp_cd=SEL&upjong_cd=561601
+- /url: /search/detail?comp_id=30658632&comp_tp_cd=SEL&upjong_cd=432000
+- /url: /search/detail?comp_id=30658631&comp_tp_cd=SEL&upjong_cd=693504
+- /url: /search/detail?comp_id=30658630&comp_tp_cd=SEL&upjong_cd=549900
+- /url: /search/detail?comp_id=30658629&comp_tp_cd=SEL&upjong_cd=481200
+- /url: /search/detail?comp_id=30658628&comp_tp_cd=SEL&upjong_cd=601201
+- /url: /search/detail?comp_id=30658639&comp_tp_cd=SEL&upjong_cd=693504
+- heading "검색해도 안나온다면? 직접 물어보세요." [level=2] [ref=e286]
+- heading "실시간 검색어" [level=2] [ref=e333]
+- /url: /search/result/all?query=경기 고양시 통신판매
+- /url: /search/result/all?query=경기 고양시 통신판매
+- /url: /search/result/all?query=경기 고양시 통신판매
+- /url: /search/result/all?query=경기 용인시 통신판매
+- /url: /search/result/all?query=경기 용인시 통신판매
+- /url: /search/result/all?query=경기 용인시 통신판매
+- /url: /search/result/all?query=서울 강남구 통신판매
+- /url: /search/result/all?query=서울 강남구 통신판매
+- /url: /search/result/all?query=서울 강남구 통신판매
+- /url: /search/result/all?query=전북 전주시 음식점
+- /url: /search/result/all?query=전북 전주시 음식점
+- /url: /search/result/all?query=전북 전주시 음식점
+- /url: /search/result/all?query=경기 남양주시 통신판매
+- /url: /search/result/all?query=경기 남양주시 통신판매
+- /url: /search/result/all?query=경기 남양주시 통신판매
+- /url: /search/result/all?query=경기 남양주시 통신판매업
+- /url: /search/result/all?query=경기 남양주시 통신판매업
+- /url: /search/report/companyErrorPage
+

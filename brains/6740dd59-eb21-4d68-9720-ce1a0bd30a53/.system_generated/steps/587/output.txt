@@ -1,0 +1,45 @@
+
+The command exited with code 0.
+Output:
+Row 1785 [isBlue:false] | 소년동아일보부산지사 | Biz: 601-94-12521 | Rep: 권오인 | Phone: 051-469-7781 | 24: null | 25: null
+Row 1786 [isBlue:true] | 영풍문고 신세계 센텀시티점 | Biz: null | Rep: null | Phone: 051-745-1250 | 24: null | 25: null
+Row 1787 [isBlue:false] | 브레인나우스튜디오강서명지점 | Biz: 191-94-01508 | Rep: 이윤서 | Phone: 070-111-1111 | 24: 565524000 | 25: null
+Row 1788 [isBlue:false] | 애드4950 | Biz: 607-31-46908 | Rep: 도남희 | Phone: 051-701-7701 | 24: null | 25: null
+Row 1789 [isBlue:true] | （주）교보문고 해운대 팝업스토어 | Biz: null | Rep: null | Phone: 051-709-5958 | 24: null | 25: null
+Row 1790 [isBlue:false] | 한국기독신문 | Biz: 696-69-00661 | Rep: 신상준 | Phone: 051-245-1235 | 24: null | 25: null
+Row 1791 [isBlue:false] | 현천휴먼타워 | Biz: 622-10-68565 | Rep: 천판상 | Phone: 051-362-2171 | 24: null | 25: null
+Row 1792 [isBlue:false] | 생각하는사람들 | Biz: 601-90-08335 | Rep: 김규남 | Phone: 051-464-7973 | 24: null | 25: null
+Row 1793 [isBlue:true] | 도서출판CTM | Biz: 605-91-52150 | Rep: 김성철 | Phone: 051-442-0702 | 24: null | 25: null
+Row 1794 [isBlue:false] | 도서출판세움 | Biz: 216-98-91568 | Rep: 기양진 | Phone: 051-556-3107 | 24: null | 25: null
+Row 1795 [isBlue:true] | 노블레스미디어인터내셔날부산 | Biz: null | Rep: 명재열 | Phone: 051-747-4475 | 24: null | 25: null
+Row 1796 [isBlue:false] | 영광도서 | Biz: 605-81-21847 | Rep: 김윤환 | Phone: 051-816-9500 | 24: 10536406000 | 25: 10650137000
+Row 1797 [isBlue:true] | 도서출판양업서원 | Biz: 617-85-19793 | Rep: 민병선 | Phone: 051-852-3377 | 24: null | 25: null
+Row 1798 [isBlue:true] | 한얼꿈출판사 | Biz: 607-92-00714 | Rep: 조서목 | Phone: 051-853-8801 | 24: null | 25: null
+Row 1799 [isBlue:false] | 상상매거진 | Biz: 605-26-52661 | Rep: 김태영 | Phone: 051-868-7311 | 24: null | 25: null
+Row 1800 [isBlue:true] | 케이텍 | Biz: 714-11-01026 | Rep: 오상민 | Phone: 070-7757-9434 | 24: null | 25: null
+Row 1801 [isBlue:false] | 탄제토우&야생화 | Biz: 621-13-95380 | Rep: 문선희 | Phone: 051-508-4092 | 24: null | 25: null
+Row 1802 [isBlue:false] | PIPOSDOLL | Biz: 605-21-39983 | Rep: 곽종철 | Phone: 051-818-8123 | 24: null | 25: null
+Row 1803 [isBlue:false] | 대보름오시리아 | Biz: 839-81-02180 | Rep: 박정선 | Phone: 010-7618-0403 | 24: 3430142000 | 25: 3206093000
+Row 1804 [isBlue:true] | 롯데쇼핑(주)토이저러스 동부산점 | Biz: null | Rep: null | Phone: 051-901-2130 | 24: null | 25: null
+Row 1805 [isBlue:true] | 유한회사 키즈플레이타운 | Biz: 413-87-02355 | Rep: 이정엽 | Phone: 051-940-1405 | 24: null | 25: null
+Row 1806 [isBlue:true] | 미디어CAPSULE | Biz: 607-10-88688 | Rep: 정태선 | Phone: 051-558-0104 | 24: null | 25: 2200080000
+Row 1807 [isBlue:true] | (주)삼성출판사 롯데동래점 | Biz: 343-85-00791 | Rep: null | Phone: 051-553-4388 | 24: null | 25: null
+Row 1808 [isBlue:false] | 합진물산 | Biz: 606-01-73119 | Rep: null | Phone: 051-315-5570 | 24: null | 25: null
+Row 1809 [isBlue:false] | (주)에이제이트레이드 | Biz: 590-87-00130 | Rep: 안주영 | Phone: 070-7012-2470 | 24: 2880227000 | 25: null
+Row 1810 [isBlue:true] | 주식회사 로파스튜디오(ROPA STUDIO) | Biz: null | Rep: null | Phone: 051-711-7131 | 24: null | 25: null
+Row 1811 [isBlue:false] | 반다이남코코리아 | Biz:   | Rep:   | Phone: 051-745-1468 | 24: null | 25: null
+Row 1812 [isBlue:true] | 레고스토어 | Biz: null | Rep: null | Phone: 051-745-1927 | 24: null | 25: null
+Row 1813 [isBlue:false] | 주식회사 삼쩜일사 | Biz: 593-81-00097 | Rep: 채덕병 | Phone: 070-5102-9367 | 24: 2368375000 | 25: 1249170000
+Row 1814 [isBlue:false] | 우아즈 | Biz: 299-86-03464 | Rep: 김지은 | Phone: 010-9639-1426 | 24: null | 25: 400530000
+Row 1815 [isBlue:true] | 야야토이 | Biz: null | Rep: 김영식 | Phone: 051-245-0001 | 24: null | 25: null
+Row 1816 [isBlue:true] | 또래나라 | Biz: null | Rep: null | Phone: 051-508-8225 | 24: null | 25: null
+Row 1817 [isBlue:true] | 함께가는사람들김해지점 | Biz: null | Rep: 이상덕 | Phone: 051-896-9009 | 24: null | 25: null
+Row 1818 [isBlue:true] | 이소민 | Biz: null | Rep: 이소민 | Phone: 010-2801-2662 | 24: null | 25: null
+Row 1819 [isBlue:false] | 주식회사그리니어 | Biz: 460-81-03213 | Rep: 김채겸 | Phone: 050-6751-7279 | 24: 53893000 | 25: 152515000
+Row 1820 [isBlue:true] | 주식회사하날 | Biz: null | Rep: 최유경 | Phone: 010-5850-6025 | 24: null | 25: null
+Row 1821 [isBlue:false] | 신라대학교산학렵력단 | Biz: 606-82-06977 | Rep: 최인순 | Phone: 051-999-5675 | 24: null | 25: null
+Row 1822 [isBlue:false] | 경남정보대학교산학협력단 | Biz: 606-82-06773 | Rep: 임준우 | Phone: 051-320-1349 | 24: null | 25: null
+Row 1823 [isBlue:false] | 여름의기억 | Biz: 662-05-02946 | Rep: 권범준 | Phone: 010-9956-5945 | 24: null | 25: null
+Row 1824 [isBlue:false] | 밍글무드 | Biz: 612-52-00914 | Rep: 황다교 | Phone: 010-4347-0365 | 24: 56010000 | 25: null
+Row 1825 [isBlue:true] | 에이치앤제이 | Biz: null | Rep: 이수룔 | Phone: 010-3227-1759 | 24: null | 25: null
+

@@ -1,0 +1,23 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-181
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-181.log
+Log output:
+<truncated 467 lines>
+beon-gil, Saha-gu, Busan, Republic of Korea" | 대표: "오주환" [폐업자]
+[223/421] Row 2051 | "신한교육사" | 대표: "" | 구: "서구"
+  => MATCH CONFIRMED: 510-29-00793 (신한교육사) | 주소: "부산광역시 서구 대영로85번길 38" | 대표: "" [계속사업자]
+[224/421] Row 2052 | "아이사랑" | 대표: "" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[225/421] Row 2053 | "리연" | 대표: "" | 구: "서구"
+  => UNVERIFIED / PENDING PASS 2
+[226/421] Row 2054 | "부산더락" | 대표: "" | 구: "수영구"
+  => UNVERIFIED / PENDING PASS 2
+[227/421] Row 2055 | "과정문구점" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[228/421] Row 2056 | "달디 디자인스튜디오" | 대표: "" | 구: "연제구"
+  => UNVERIFIED / PENDING PASS 2
+[229/421] Row 2057 | "교보핫트랙스(주)센텀시티점" | 대표: "" | 구: "해운대구"
+  => UNVERIFIED / PENDING PASS 2
+[230/421] Row 2058 | "두형통발" | 대표: "" | 구: "해운대구"
+
+Last progress: 2s ago

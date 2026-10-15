@@ -1,0 +1,35 @@
+
+The command exited with code 1.
+Output:
+�ġ �:9 �:32
++   console.log('Company links:', links);
++                                ~
+',' �ڿ� � �ϴ�.
+�ġ �:9 �:33
++   console.log('Company links:', links);
++                                 ~~~~~
+� �Ǵ� � �ġ � 'links' �ū�Դϴ�.
+�ġ �:9 �:32
++   console.log('Company links:', links);
++                                ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:9 �:38
++   console.log('Company links:', links);
++                                      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:10 �:1
++ }
++ ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:11 �:6
++ test();"
++      ~
+'(' �ڿ� � �;� �մϴ�.
+�ġ �:11 �:8
++ test();"
++        ~
+�ڿ� " �ڰ� �ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingExpressionAfterToken
+ 
+

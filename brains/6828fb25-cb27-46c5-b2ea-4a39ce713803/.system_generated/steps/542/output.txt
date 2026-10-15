@@ -1,0 +1,79 @@
+Task: 6828fb25-cb27-46c5-b2ea-4a39ce713803/task-538
+Status: DONE
+Log: C:\Users\lg\.gemini\antigravity\brain\6828fb25-cb27-46c5-b2ea-4a39ce713803\.system_generated\tasks\task-538.log
+Log output:
+<truncated 351 lines>
+",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "6063739541",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "관리부",
+      null,
+      "051-327-8484"
+    ]
+  },
+  {
+    "rowNumber": 15060,
+    "values": [
+      null,
+      null,
+      null,
+      "우일금속",
+      6090794172,
+      "박정수",
+      null,
+      "경남 창원시 의창구 죽전로 15, (삼양공업사 내) (팔용동)",
+      "055-299-0388",
+      "-",
+      null,
+      "-",
+      null,
+      "19910801",
+      null,
+      null,
+      null,
+      null,
+      "기타 무선 통신장비 제조업",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "6090794172"
+    ]
+  }
+]
+
+Last progress: 3s ago

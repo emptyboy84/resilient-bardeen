@@ -1,0 +1,9 @@
+The search for "site:bizno.net "괴정만화"" returned the following summary:
+검색하신 `site:bizno.net "괴정만화"` 조건에 일치하는 결과는 없었습니다[1].
+
+참고로, "괴정만화"라는 명칭은 비즈노(bizno.net)와 같은 사업자 정보 사이트에서 직접적으로 확인되는 상호가 아니거나, 과거에 존재했던 장소의 이름일 가능성이 있습니다[1][2]. 외부 검색 결과에서는 부산 사하구 괴정동 지역 내의 상호명이나 특정 장소와 관련된 언급으로 확인되나[1][3], 비즈노 사이트 내의 데이터로 직접 연결되지는 않는 것으로 보입니다.
+
+Sources:
+[1] [ssadaaircon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF06fLwlJkSMDQlT8egrKLLLYLrN1cMoIaXdCSrNXvG-pH672haEI7vguEZQEvxHClEj2JHwN8JrtirjsP-7LFQzC72QfymXEnhxGJkm4jjtpInTmIBLe_8rTN9aSy3gy2bhpZi-JvJGRMMzIUXHvOh4XVeg5QuIysQSfLODP-niq1-NGIzysrpysPd)
+[2] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaoDnKlDJ3un7HuYh3ENomnCEnILDWLlFtjQYB29JMj-vBZle88npnp-P0My0pHOafWhH7YZonIxnPQJslvRscBWoqdl_70dQ=)
+[3] [amazingtalker.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvZ38ZYmcGBiS2otp1gVUO6Um0NoWV6SCOrvcAQ2n_Tr3vMKtrd6PxEbhjS92ASHZQzbsmYyFKYkXrWXZQZC0phjxq-a9s5ABVInWZ0cJmc6jiPCePUeQW8FkzM1AisNptK58tkz_BkvHztEm_6QmUcUqTnbU2JJIhPs2BTnkL)

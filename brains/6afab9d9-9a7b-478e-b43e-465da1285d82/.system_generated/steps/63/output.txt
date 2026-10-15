@@ -1,0 +1,367 @@
+### Page
+- Page URL: http://localhost:3000/
+- Page Title: AetherOS - Premium Virtual Desktop
+- Console: 27 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [ref=e2] [box=0,0,1536,720]:
+  - generic [ref=e5] [box=0,0,1536,660]:
+    - generic [ref=e6] [cursor=pointer] [box=24,24,100,110]:
+      - img [ref=e72] [box=62,53,24,24]
+      - generic [ref=e11] [box=33,100,82,19]: 웹 브라우저
+    - generic [ref=e12] [cursor=pointer] [box=24,154,100,110]:
+      - img [ref=e75] [box=62,183,24,24]
+      - generic [ref=e17] [box=33,230,82,19]: 네이버 지도
+    - generic [ref=e18] [cursor=pointer] [box=24,284,100,110]:
+      - img [ref=e78] [box=62,313,24,24]
+      - generic [ref=e23] [box=33,360,82,19]: 메모장
+    - generic [ref=e24] [cursor=pointer] [box=24,414,100,110]:
+      - img [ref=e81] [box=62,443,24,24]
+      - generic [ref=e27] [box=33,490,82,19]: 환경 설정
+    - generic [ref=e28] [cursor=pointer] [box=144,24,100,110]:
+      - img [ref=e82] [box=182,53,24,24]
+      - generic [ref=e32] [box=153,100,82,19]: 작업 관리자
+    - generic [ref=e84] [box=100,80,900,600]:
+      - generic [ref=e85] [box=101,81,898,48]:
+        - generic [ref=e86] [box=117,94,91,20]:
+          - img [ref=e87] [box=117,96,16,16]
+          - generic [ref=e90] [box=141,94,67,20]: 웹 브라우저
+        - generic [ref=e91] [box=895,92,88,24]:
+          - button "최소화" [ref=e92] [cursor=pointer] [box=895,92,24,24]:
+            - img [ref=e93] [box=895,92,24,24]
+          - button "최대화" [ref=e94] [cursor=pointer] [box=927,92,24,24]:
+            - img [ref=e95] [box=927,92,24,24]
+          - button "닫기" [ref=e97] [cursor=pointer] [box=959,92,24,24]:
+            - img [ref=e98] [box=959,92,24,24]
+      - generic [ref=e102] [box=101,129,898,550]:
+        - generic [ref=e103] [box=101,129,898,48]:
+          - button "뒤로 가기" [ref=e104] [cursor=pointer] [box=113,136,32,32]:
+            - img [ref=e105] [box=117,140,24,24]
+          - button "앞으로 가기" [ref=e107] [cursor=pointer] [box=153,136,32,32]:
+            - img [ref=e108] [box=157,140,24,24]
+          - button "새로고침" [ref=e110] [cursor=pointer] [box=193,136,32,32]:
+            - img [ref=e111] [box=197,140,24,24]
+          - button "홈" [ref=e116] [cursor=pointer] [box=233,136,32,32]:
+            - img [ref=e117] [box=237,140,24,24]
+          - generic [ref=e120] [box=273,135,674,34]:
+            - img [ref=e121] [box=286,140,24,24]
+            - textbox [ref=e124] [box=318,144,540,16]: https://map.naver.com/p/
+            - generic [ref=e125] [box=866,143,69,18]: PROXY ON
+          - button "새 탭으로 열기 (CORS 비상 버튼)" [ref=e126] [cursor=pointer] [box=955,136,32,32]:
+            - img [ref=e127] [box=959,140,24,24]
+        - iframe [ref=e132] [box=101,177,898,502]:
+          - generic [ref=f1e3] [box=0,0,898,502]:
+            - generic [box=0,502,63,0]:
+              - link "본문 바로가기" [ref=f1e4] [cursor=pointer] [box=0,-30,140,30]:
+                - /url: "#section_content"
+                - generic [ref=f1e5] [box=33,-29,74,28]: 본문 바로가기
+              - link "주 메뉴 바로가기" [ref=f1e6] [cursor=pointer] [box=0,-30,140,30]:
+                - /url: "#header"
+                - generic [ref=f1e7] [box=27,-29,87,28]: 주 메뉴 바로가기
+            - banner [ref=f1e8] [box=0,0,63,502]:
+              - heading "네이버지도" [level=1] [ref=f1e9] [box=0,0,63,76]:
+                - link "네이버지도" [ref=f1e10] [cursor=pointer] [box=11,17,41,41]:
+                  - /url: https://www.naver.com
+                  - generic [ref=f1e11] [box=41,26,1,1]: 네이버지도
+              - navigation [ref=f1e12] [box=0,76,63,323]:
+                - list [ref=f1e13] [box=0,76,63,323]:
+                  - listitem [ref=f1e14] [box=0,76,63,66]:
+                    - button "지도 홈 선택됨" [ref=f1e15] [cursor=pointer] [box=0,76,62,66]:
+                      - img [ref=f1e18] [box=0,89,62,24]
+                      - generic [ref=f1e21] [box=0,116,61,15]: 지도 홈
+                      - generic [ref=f1e22] [box=30,130,1,1]: 선택됨
+                  - listitem [ref=f1e23] [box=0,142,63,66]:
+                    - button "길찾기" [ref=f1e24] [cursor=pointer] [box=0,142,62,66]:
+                      - img [ref=f1e27] [box=0,155,62,24]
+                      - generic [ref=f1e29] [box=0,182,61,15]: 길찾기
+                  - listitem [ref=f1e30] [box=0,208,63,66]:
+                    - button "버스" [ref=f1e31] [cursor=pointer] [box=0,208,62,66]:
+                      - img [ref=f1e34] [box=0,221,62,24]
+                      - generic [ref=f1e36] [box=0,248,61,15]: 버스
+                  - listitem [ref=f1e37] [box=0,274,63,66]:
+                    - button "지하철" [ref=f1e38] [cursor=pointer] [box=0,274,62,66]:
+                      - img [ref=f1e41] [box=0,287,62,24]
+                      - generic [ref=f1e43] [box=0,314,61,15]: 지하철
+                  - listitem [ref=f1e44] [box=0,340,63,66]:
+                    - button "기차" [ref=f1e45] [cursor=pointer] [box=0,340,62,66]:
+                      - img [ref=f1e48] [box=0,353,62,24]
+                      - generic [ref=f1e50] [box=0,380,61,15]: 기차
+                  - listitem [ref=f1e51] [box=0,406,63,66]:
+                    - button "new 저장" [ref=f1e52] [cursor=pointer] [box=0,406,62,66]:
+                      - generic [ref=f1e54] [box=38,419,1,1]: new
+                      - img [ref=f1e57] [box=0,419,62,24]
+                      - generic [ref=f1e59] [box=0,446,61,15]: 저장
+                  - listitem [ref=f1e60] [box=0,472,63,66]:
+                    - button "더보기" [ref=f1e61] [cursor=pointer] [box=0,472,62,66]:
+                      - img [ref=f1e64] [box=0,485,62,24]
+                      - generic [ref=f1e66] [box=0,512,61,15]: 더보기
+              - strong [ref=f1e68] [box=-1,398,1,1]: 사용자 링크
+            - generic [box=63,0,835,502]:
+              - application [ref=f1e71] [box=63,0,835,502]:
+                - generic [ref=f1e192] [box=718,481,180,21]:
+                  - img "NAVER" [ref=f1e194] [cursor=pointer] [box=724,482,45,10]
+                  - generic [ref=f1e196] [box=778,481,25,12]: 300m
+              - generic [ref=f1e199] [box=63,0,390,502]:
+                - generic [ref=f1e201] [box=88,15,340,45]:
+                  - button "검색" [ref=f1e202] [cursor=pointer] [box=105,26,25,24]
+                  - generic [ref=f1e203] [box=135,17,292,42]:
+                    - generic [ref=f1e204] [cursor=pointer] [box=135,17,292,42]: 네이버지도 검색
+                    - combobox "네이버지도 검색" [ref=f1e205] [box=135,17,249,42]
+                - generic [ref=f1e207] [box=63,75,390,427]:
+                  - status [ref=f1e208] [box=62,74,1,1]
+                  - generic [ref=f1e210] [box=63,75,390,427]:
+                    - heading "지도 홈" [level=2] [ref=f1e211] [box=62,74,1,1]
+                    - generic [ref=f1e212] [box=88,75,340,40]:
+                      - heading "공지사항" [level=3] [ref=f1e213] [box=87,74,1,1]
+                      - generic [ref=f1e215] [box=88,75,340,40]:
+                        - link "네이버지도 앱에서 주문 시, Live Activity로 알려 드려요! 새창열기" [box=88,55,340,40]:
+                          - /url: https://blog.naver.com/PostView.naver?blogId=naver_map&navType=tl&logNo=224299247284
+                          - generic [box=127,67,287,17]: 네이버지도 앱에서 주문 시, Live Activity로 알려 드려요!
+                          - generic [box=126,75,1,1]: 새창열기
+                        - link "지도앱 업데이트 안내 - 실시간 도보 길안내 (v6.7.0) 새창열기" [box=88,90,340,40]:
+                          - /url: https://blog.naver.com/PostView.naver?blogId=naver_map&navType=tl&logNo=224317612191
+                          - generic [box=127,102,285,17]: 지도앱 업데이트 안내 - 실시간 도보 길안내 (v6.7.0)
+                          - generic [box=126,110,1,1]: 새창열기
+                        - link "지도 앱 업데이트 안내 - 내비게이션 제보, 안전운행모드 신호등, 카메라 안내 개선 (v6.7.1 이상) 새창열기" [ref=f1e274] [cursor=pointer] [box=88,75,340,40]:
+                          - /url: https://blog.naver.com/PostView.naver?blogId=naver_map&navType=tl&logNo=224317599545
+                          - generic [ref=f1e275] [box=127,87,287,17]: 지도 앱 업데이트 안내 - 내비게이션 제보, 안전운행모드 신호등, 카메라 안내 개선 (v6.7.1 이상)
+                          - generic [ref=f1e276] [box=126,95,1,1]: 새창열기
+                    - generic [ref=f1e220] [box=88,135,340,24]:
+                      - button "남원시 사매면" [ref=f1e221] [cursor=pointer] [box=88,135,104,24]
+                      - button "오류신고" [ref=f1e222] [cursor=pointer] [box=384,135,44,24]
+                    - generic [ref=f1e224] [box=63,175,390,327]:
+                      - iframe [ref=f1e228] [box=88,176,334,80]:
+                        - generic [ref=f6e3] [box=0,0,334,80]:
+                          - button "AD" [ref=f6e16] [cursor=pointer] [box=301,4,31,20]:
+                            - generic [ref=f6e17] [box=316,13,1,1]: AD
+                          - link "새 창 AI 활용 광고 이미지 주유비 부담 없는 전기차 중고리스! 전기차 중고리스, 주유비 부담 없는 똑똑한 선택!" [ref=f6e4] [cursor=pointer] [box=0,0,334,80]:
+                            - /url: https://g.tivan.naver.com/gfa/UL7-vJa-8W1zv6vg2ois1l2DLTu5xMoqyu0XOmppoLFmMs5mpWGXYVQgqr_5ncPNDWhYA5C92XyrTUUXDBsJp7yC107l9uRlIbQDHZ0Gx2HnaL2vSSkoZaIvDQmcQ7UfoDiVMDtfl-l5va2S6PytBi9Zsn6JoUu1izIh4_RVUuiF0amJfyGABSmPRrZYOK8k9WcE_j9EImTaFBWjlSVLUE6AZNNjakvrwwGfh_y6SjTiE98MwERBTMfOBIfrbc4GEeLbr2msmUoP2AXbgsNvDNRADaHtFlMhPPUFlQmiWdr0eWxbCrFhSCpqjilTMp0VrshJT3eEeZaJOrgK7CxN1HjubNkw6Cs6TcwKcoCSjrTsHP09whzN0Ob1bzRJa7yqKv9td4RM7bk7Ow1MRYabWFRkiYoiocr8BENRE7fPI9iH4dfICuVJ4jPOeRq89liW55fK7cJY4m9jLaa1AkZ3WujS3L4iFO1N7vS6NHi9VLe0S-Uk0rtvjXF5bdTarr-1mgOQBgVKsI0SqqgoGSFL_eUzRLufTEOfr621UzhYPf6mqt24bYDHQ_IFQC2T2tQDX_aBSLibYEw6Rb3g7o5RXw3FOBOa53NHhhoNibmWG2Ez_ECu_9f1jMRsvNbVyk4xTQRXjkhJGiGrlRdlHlnTFX4tgFZbJefYXPndoc-bE8c8GR9RfNJgfWGvHTq29sy6ebRG4FHJ6FbXItAaz33Dnaw1BCtxb7imvoH-E52NweazTdQJTje1IKKuUOu-oLHL-NvYtYQZqWnh20KUuKZUAjDmzFly4K-AcmLBIrd4YDxvyg1RBo1g6_-bRPdZ1mARswBFRQTDZiH83TriNZN7t7Hz_NiV_J_ZHJqS8JhdyNsaULswzqhKBF0I9xN9xz8YGK3i5E-mYfRQgDGpcR66UAPrJJe2Cf6cNClGZQA_PfLyUYRWe37rRT-OlDV1yDHwV0oT2yIv8d3BFemHs1hgAaY9vSKUtkaFJwkYInzi3wQ-k2rRlWwcgjAzsSlkiSQOZf-DNSEEIql1WC_pzhYVlaDC6wDBqY1Kyiy8fX0GKesXUOMMDV-K6LbWPYWtNYilyUidtU1f4Xuqq_05RagWe2Dg21G6IXk5jtHW1-7LmwVLnMRQLlJ8yt7fK4H6038D6OqTrZj1EVSO-dTbbxQg5JJLHAodg2k_plQFDqnxnt3WS9-41s5VKfAmX79piTnUVC1sSCVxuegnAcOi8PBHcY-l85Id5R9-Rjux4xD2ED5_7_A_CKEFhTGDQqRFLLP_zFXAvQsC0rfbnat4cLQjb_w-oojKg6AGA3XEtiOvf8EF-xC-rOjSgcyZnt_QhZfhLggUczxgCsGesrPX2IFGIR1Rj0DQaw-rSGv8eEFm3PhiREhQjpQBEpHaC4nJqam-yRmgxXzT4DYfIZNm_ogXPd2fE46aiR-RaTpsrx6iNGNe1Wnqrda3bhN5rEPndrAmIPP4NZ5p9itLn-J-Imz5z9FA6mAcDeisKl-9BY9n93QDNML7EB2aaRo3_kvm1-FvFc0bXMA5jBSqcKGsmfUL_A==/
+                            - generic [ref=f6e5] [box=-1,-1,1,1]: 새 창
+                            - generic [ref=f6e6] [box=0,0,334,80]:
+                              - generic [ref=f6e8] [box=10,12,87,56]:
+                                - img "AI 활용" [ref=f6e19] [box=16,18,40,18]
+                                - img "광고 이미지" [ref=f6e9] [box=10,12,87,56]
+                              - generic [ref=f6e12] [box=107,22,185,36]:
+                                - strong [ref=f6e13] [box=107,22,185,14]: 주유비 부담 없는 전기차 중고리스!
+                                - paragraph [ref=f6e14] [box=107,42,185,17]: 전기차 중고리스, 주유비 부담 없는 똑똑한 선택!
+                      - heading "Smart Around" [level=3] [ref=f1e229] [box=63,276,384,14]:
+                        - generic [ref=f1e230] [box=177,275,1,1]: Smart Around
+                      - generic [ref=f1e278] [box=63,306,384,1273]:
+                        - heading "주변" [level=3] [ref=f1e279] [box=63,306,384,27]
+                        - button "점심 시간대 추천순 설정 펼치기" [ref=f1e280] [cursor=pointer] [box=293,304,134,28]:
+                          - strong [ref=f1e281] [box=298,308,29,20]: 점심
+                          - text: 시간대
+                          - strong [ref=f1e282] [box=369,308,39,20]: 추천순
+                          - generic [ref=f1e283] [box=406,307,1,1]: 설정 펼치기
+                        - generic [ref=f1e285] [box=88,345,334,278]:
+                          - button "사매매화언덕 총 2개의 이미지 중 1번 이미지 사매매화언덕카페 즉석에서 구워주는 따끈한 붕어빵 리뷰 16 / 평균 5,000원" [ref=f1e286] [cursor=pointer] [box=88,345,334,278]:
+                            - generic [ref=f1e287] [box=88,345,334,180]:
+                              - img "사매매화언덕" [ref=f1e289] [box=85,345,340,180]
+                              - generic [ref=f1e290] [box=381,355,31,20]:
+                                - generic [ref=f1e291] [box=385,354,1,1]: 총 2개의 이미지 중 1번 이미지
+                                - generic [ref=f1e292] [box=386,356,21,19]:
+                                  - emphasis [ref=f1e293] [box=386,356,8,19]: "1"
+                                  - text: /2
+                            - generic [ref=f1e294] [box=88,525,334,98]:
+                              - generic [ref=f1e295] [box=88,541,334,26]:
+                                - strong [ref=f1e296] [box=88,541,93,26]: 사매매화언덕
+                                - text: 카페
+                              - paragraph [ref=f1e297] [box=88,575,334,22]: 즉석에서 구워주는 따끈한 붕어빵
+                              - generic [ref=f1e298] [box=88,601,334,22]:
+                                - generic [ref=f1e299] [box=88,603,48,21]:
+                                  - term [ref=f1e300] [box=88,603,28,21]: 리뷰
+                                  - definition [ref=f1e301] [box=116,603,21,21]:
+                                    - strong [ref=f1e302] [box=116,605,21,17]: "16"
+                                - generic [ref=f1e303] [box=136,603,99,21]:
+                                  - text: /
+                                  - term [ref=f1e304] [box=152,603,28,21]: 평균
+                                  - definition [ref=f1e305] [box=180,603,56,21]:
+                                    - strong [ref=f1e306] [box=180,605,42,17]: 5,000
+                                    - text: 원
+                          - button "저장" [ref=f1e307] [cursor=pointer] [box=404,541,18,18]:
+                            - generic [ref=f1e308] [box=412,549,1,1]: 저장
+                        - generic [ref=f1e310] [box=88,654,334,278]:
+                          - button "춘풍원 총 1개의 이미지 중 1번 이미지 춘풍원중식당 신선한 재료로 청결하고 맛좋은 한그릇을 드리는 춘풍원으로 오세요. 양도 시골 인심으로 원하는 양만큼 넉넉히 드립니다. 면부터 육수, 재료하나하나까지 사장님이 직접 고르시고 맛을 냅니 리뷰 75 / 평균 5,000원" [ref=f1e311] [cursor=pointer] [box=88,654,334,278]:
+                            - generic [ref=f1e312] [box=88,654,334,180]:
+                              - img "춘풍원" [ref=f1e314] [box=85,654,340,180]
+                              - generic [ref=f1e315] [box=381,664,31,20]:
+                                - generic [ref=f1e316] [box=385,663,1,1]: 총 1개의 이미지 중 1번 이미지
+                                - generic [ref=f1e317] [box=386,664,21,19]:
+                                  - emphasis [ref=f1e318] [box=386,664,8,19]: "1"
+                                  - text: /1
+                            - generic [ref=f1e319] [box=88,834,334,98]:
+                              - generic [ref=f1e320] [box=88,850,334,26]:
+                                - strong [ref=f1e321] [box=88,850,47,26]: 춘풍원
+                                - text: 중식당
+                              - paragraph [ref=f1e322] [box=88,883,334,22]: 신선한 재료로 청결하고 맛좋은 한그릇을 드리는 춘풍원으로 오세요. 양도 시골 인심으로 원하는 양만큼 넉넉히 드립니다. 면부터 육수, 재료하나하나까지 사장님이 직접 고르시고 맛을 냅니
+                              - generic [ref=f1e323] [box=88,910,334,22]:
+                                - generic [ref=f1e324] [box=88,911,48,21]:
+                                  - term [ref=f1e325] [box=88,911,28,21]: 리뷰
+                                  - definition [ref=f1e326] [box=116,911,21,21]:
+                                    - strong [ref=f1e327] [box=116,914,21,17]: "75"
+                                - generic [ref=f1e328] [box=136,911,99,21]:
+                                  - text: /
+                                  - term [ref=f1e329] [box=152,911,28,21]: 평균
+                                  - definition [ref=f1e330] [box=180,911,56,21]:
+                                    - strong [ref=f1e331] [box=180,914,42,17]: 5,000
+                                    - text: 원
+                          - button "저장" [ref=f1e332] [cursor=pointer] [box=404,850,18,18]:
+                            - generic [ref=f1e333] [box=412,858,1,1]: 저장
+                        - generic [ref=f1e335] [box=88,962,334,278]:
+                          - button "강고집 총 4개의 이미지 중 1번 이미지 강고집한식 밑반찬은 정성과 맛으로 매일 다른 메뉴로 나옵니다. 음식에 들어가는 고기는 당일 새벽에 삶아 조리합니다. 리뷰 33 / 평균 5,000원" [ref=f1e336] [cursor=pointer] [box=88,962,334,278]:
+                            - generic [ref=f1e337] [box=88,962,334,180]:
+                              - img "강고집" [ref=f1e339] [box=85,962,340,180]
+                              - generic [ref=f1e340] [box=381,972,31,20]:
+                                - generic [ref=f1e341] [box=385,971,1,1]: 총 4개의 이미지 중 1번 이미지
+                                - generic [ref=f1e342] [box=386,973,21,19]:
+                                  - emphasis [ref=f1e343] [box=386,973,8,19]: "1"
+                                  - text: /4
+                            - generic [ref=f1e344] [box=88,1142,334,98]:
+                              - generic [ref=f1e345] [box=88,1158,334,26]:
+                                - strong [ref=f1e346] [box=88,1158,47,26]: 강고집
+                                - text: 한식
+                              - paragraph [ref=f1e347] [box=88,1192,334,22]: 밑반찬은 정성과 맛으로 매일 다른 메뉴로 나옵니다. 음식에 들어가는 고기는 당일 새벽에 삶아 조리합니다.
+                              - generic [ref=f1e348] [box=88,1218,334,22]:
+                                - generic [ref=f1e349] [box=88,1220,48,21]:
+                                  - term [ref=f1e350] [box=88,1220,28,21]: 리뷰
+                                  - definition [ref=f1e351] [box=116,1220,21,21]:
+                                    - strong [ref=f1e352] [box=116,1222,21,17]: "33"
+                                - generic [ref=f1e353] [box=136,1220,99,21]:
+                                  - text: /
+                                  - term [ref=f1e354] [box=152,1220,28,21]: 평균
+                                  - definition [ref=f1e355] [box=180,1220,56,21]:
+                                    - strong [ref=f1e356] [box=180,1222,42,17]: 5,000
+                                    - text: 원
+                          - button "저장" [ref=f1e357] [cursor=pointer] [box=404,1158,18,18]:
+                            - generic [ref=f1e358] [box=412,1166,1,1]: 저장
+                        - generic [ref=f1e360] [box=88,1270,334,278]:
+                          - button "이미지 준비중 춘강식당한식 전라북도 남원시 사매면 오신리 610-1 리뷰 1" [ref=f1e361] [cursor=pointer] [box=88,1270,334,278]:
+                            - generic [ref=f1e365] [box=221,1332,1,1]: 이미지 준비중
+                            - generic [ref=f1e366] [box=88,1450,334,98]:
+                              - generic [ref=f1e367] [box=88,1466,334,26]:
+                                - strong [ref=f1e368] [box=88,1466,62,26]: 춘강식당
+                                - text: 한식
+                              - paragraph [ref=f1e369] [box=88,1500,334,22]: 전라북도 남원시 사매면 오신리 610-1
+                              - generic [ref=f1e371] [box=88,1528,40,21]:
+                                - term [ref=f1e372] [box=88,1528,28,21]: 리뷰
+                                - definition [ref=f1e373] [box=116,1528,13,21]:
+                                  - strong [ref=f1e374] [box=116,1530,13,17]: "1"
+                          - button "저장" [ref=f1e375] [cursor=pointer] [box=404,1466,18,18]:
+                            - generic [ref=f1e376] [box=412,1474,1,1]: 저장
+                - button "패널 접기" [expanded] [ref=f1e237] [cursor=pointer] [box=453,228,23,46]:
+                  - generic [ref=f1e238] [box=464,250,1,1]: 패널 접기
+              - generic [box=453,0,445,502]:
+                - generic [box=453,0,445,502]:
+                  - generic [box=468,15,415,472]:
+                    - button "구름많음 24° 기온 미세 좋음 초미세 좋음" [ref=f1e378] [cursor=pointer] [box=468,424,94,64]:
+                      - generic [ref=f1e379] [box=469,425,92,62]:
+                        - generic [ref=f1e380] [box=477,429,34,53]:
+                          - generic [ref=f1e382] [box=501,428,1,1]: 구름많음
+                          - generic [ref=f1e383] [box=477,463,34,19]:
+                            - text: 24°
+                            - generic [ref=f1e384] [box=505,462,1,1]: 기온
+                        - generic [ref=f1e385] [box=519,438,30,44]:
+                          - generic [ref=f1e388] [box=519,444,30,13]:
+                            - text: 미세
+                            - generic [ref=f1e389] [box=543,443,1,1]: 좋음
+                          - generic [ref=f1e392] [box=519,467,30,13]:
+                            - text: 초미세
+                            - generic [ref=f1e393] [box=548,466,1,1]: 좋음
+                    - generic [box=883,15,0,472]:
+                      - generic [box=681,15,203,248]:
+                        - generic [ref=f1e239] [box=681,15,203,58]:
+                          - button "일반지도" [ref=f1e240] [cursor=pointer] [box=681,15,64,58]:
+                            - generic [ref=f1e241] [box=681,50,62,22]: 일반지도
+                          - button "위성지도" [ref=f1e242] [cursor=pointer] [box=750,15,64,58]:
+                            - generic [ref=f1e243] [box=751,50,62,22]: 위성지도
+                          - button "지형지도" [ref=f1e244] [cursor=pointer] [box=820,15,64,58]:
+                            - generic [ref=f1e245] [box=821,50,62,22]: 지형지도
+                        - generic [ref=f1e246] [box=840,87,44,176]:
+                          - button "테마" [ref=f1e247] [cursor=pointer] [box=841,87,42,43]:
+                            - generic [ref=f1e248] [box=861,108,1,1]: 테마
+                          - button "저장" [ref=f1e249] [cursor=pointer] [box=841,130,42,44]:
+                            - generic [ref=f1e250] [box=861,152,1,1]: 저장
+                          - button "지적편집도" [ref=f1e251] [cursor=pointer] [box=841,174,42,44]:
+                            - generic [ref=f1e252] [box=861,196,1,1]: 지적편집도
+                          - button "거리뷰" [ref=f1e253] [cursor=pointer] [box=841,218,42,44]:
+                            - generic [ref=f1e254] [box=861,239,1,1]: 거리뷰
+                      - generic [box=847,361,37,127]:
+                        - button "접속위치" [ref=f1e257] [cursor=pointer] [box=848,361,35,35]:
+                          - generic [ref=f1e258] [box=851,364,29,29]:
+                            - generic [ref=f1e259] [box=850,363,1,1]: 접속위치
+                            - img [ref=f1e261] [box=851,364,29,29]
+                        - generic [ref=f1e263] [box=847,409,37,63]:
+                          - button "확대" [ref=f1e264] [cursor=pointer] [box=848,410,35,30]:
+                            - generic [ref=f1e265] [box=864,424,1,1]: 확대
+                          - button "축소" [ref=f1e267] [cursor=pointer] [box=848,442,35,30]:
+                            - generic [ref=f1e268] [box=864,456,1,1]: 축소
+              - generic [ref=f1e269] [box=428,212,400,260]:
+                - iframe [ref=f1e396] [box=428,212,400,260]:
+                  - link "올 여름 휴가비, 네이버가 쏜다! 6천명에게 드리는 역대급 선물" [ref=f7e4] [cursor=pointer] [box=0,0,400,260]:
+                    - /url: https://tivan.naver.com/gc/101/OWahSmTGuG61Ti2KuAA-R2k5D3FugpUYl3Scyi7kicoSWkSfN1h8f8l8lVPSjVuxYiYxuz4AScXy3ibMpocCnvdRqi6jn_PFp3nlXqVtniGUWsLfoBdwDo5PB2FDcklPJzlu6FqmSzaF_hVhV-Mk3yLI5Uym9e_QpG2_ps_avWERMNjAQNqFAB50vpoLOBtl0I6pYoRAJW96ru7u_Svim7FzqUWJSkUJt9Awr_J3U5vufZqIbL2Yrs-UH2Fr_l9YjlXOr9c-M_OxIeQdvm0xzdxO5QjuijfX-i__GwsTQUMrJkbLMoD5RXSlCn3WIpWvlfp1_Xi5pG0kUnYBka8XgU3kgQkNTwx-ykjegbLQv0zlApnHo6JdKZOYxCbxYL6-1w6THRxXOGKrGn2m5M5falcOKQuBYMe8HnBM76ofuZIEDNab1o5RxeN9t1e2xhRCPSEwzgHnRxbMaeCgqYqEqqV2rlw0MqV8kDLxj6mD2rtko1atueqGxEqxb-GwTMJ0_uly6gJIxhutrM17FhI8tgl_eVJ0DCJ4_CFkzccYZcUe30UOG8C9MtTKskKqgYZwYZG95KwJ80Y_B8sS0-M65qnUH6HRcMVSG3PFnuY49w99RuqjNB2MN-0SpH7XEXpDHqlwYFPplro7NybD5jhaDc4XFvs6isRrbQZ_2u053ZCmcThuzhgSEl9L8DUT3uRlDbl0tOGK5NNhGkWjMw8QLdSgC_DuN6P435bl-D9ciXoZpgNT_De8b0HkLcJMfvShUwa9uk9wzfymS2ehxqOjBxrdjvT_qlC3gzvrMnyLrplDQADN09Oee2Iq5mt-OQdZyjpor-psxYMvSisIE1bU_KLdPp-CpLtZ-O7-NuhllaqUyarf-KNc0oQo2Wv4U86i6EG4fBIsuBfoXIFwtRbSiHaJBQaBUmL7wT2klJ2_1V0/NE
+                    - img "올 여름 휴가비, 네이버가 쏜다! 6천명에게 드리는 역대급 선물" [ref=f7e5] [box=0,0,400,260]
+                - generic [ref=f1e270] [box=428,432,400,40]:
+                  - button "일주일 동안 보지 않기" [ref=f1e271] [cursor=pointer] [box=428,432,200,40]
+                  - button "닫기" [ref=f1e272] [cursor=pointer] [box=738,432,90,40]
+            - status [ref=f1e273] [box=-1,-1,1,1]
+  - contentinfo [ref=e36] [box=0,660,1536,60]:
+    - button "Start" [ref=e37] [cursor=pointer] [box=16,668,97,44]:
+      - img [ref=e141] [box=32,678,24,24]
+      - generic [ref=e43] [box=64,681,33,18]: Start
+    - button "웹 브라우저" [ref=e147] [cursor=pointer] [box=138,668,121,44]:
+      - img [ref=e148] [box=151,678,24,24]
+      - generic [ref=e151] [box=183,681,63,19]: 웹 브라우저
+    - generic [ref=e45] [box=259,672,140,38]:
+      - button "이전 화면 (Ctrl+Left)" [ref=e46] [cursor=pointer] [box=264,676,28,28]:
+        - img [ref=e152] [box=266,678,24,24]
+      - generic [ref=e49] [box=300,686,58,8]:
+        - generic "Main Work (화면 1)" [ref=e50] [cursor=pointer] [box=302,685,10,10]
+        - generic "Web Surf (화면 2)" [ref=e51] [cursor=pointer] [box=318,686,8,8]
+        - generic "Drafting (화면 3)" [ref=e52] [cursor=pointer] [box=332,686,8,8]
+        - generic "Settings (화면 4)" [ref=e53] [cursor=pointer] [box=346,686,8,8]
+      - button "다음 화면 (Ctrl+Right)" [ref=e54] [cursor=pointer] [box=366,676,28,28]:
+        - img [ref=e154] [box=368,678,24,24]
+    - generic [ref=e58] [box=423,676,147,29]:
+      - generic "인터넷 연결됨" [ref=e59] [cursor=pointer] [box=435,678,24,24]:
+        - img [ref=e156] [box=435,678,24,24]
+      - generic "볼륨 100%" [ref=e64] [cursor=pointer] [box=475,678,24,24]:
+        - img [ref=e160] [box=475,678,24,24]
+      - generic [ref=e69] [box=515,676,55,29]:
+        - generic [ref=e70] [box=523,676,48,16]: 12:37 PM
+        - generic [ref=e71] [box=515,692,55,13]: 2026-06-23
+  - generic [box=16,322,340,360]:
+    - generic [box=17,322,339,72]:
+      - generic [box=34,339,37,37]:
+        - img [box=42,348,20,20]
+      - generic [box=81,343,70,29]:
+        - heading "Aether User" [level=3] [box=81,343,70,16]
+        - paragraph [box=81,360,70,13]: Local Account
+    - generic [box=17,394,339,225]:
+      - generic [box=34,411,305,191]:
+        - heading "시스템 응용 프로그램" [level=4] [box=34,411,305,14]
+        - generic [box=34,439,305,164]:
+          - button "웹 브라우저" [box=34,439,95,77]:
+            - generic [box=64,449,34,34]:
+              - img [box=71,456,20,20]
+            - generic [box=57,490,49,14]: 웹 브라우저
+          - button "네이버 지도" [box=139,439,95,77]:
+            - generic [box=169,449,34,34]:
+              - img [box=176,456,20,20]
+            - generic [box=162,490,49,14]: 네이버 지도
+          - button "메모장" [box=244,439,95,77]:
+            - generic [box=274,449,34,34]:
+              - img [box=281,456,20,20]
+            - generic [box=277,490,28,14]: 메모장
+          - button "환경 설정" [box=34,526,95,77]:
+            - generic [box=64,536,34,34]:
+              - img [box=71,543,20,20]
+            - generic [box=61,577,40,14]: 환경 설정
+          - button "작업 관리자" [box=139,526,95,77]:
+            - generic [box=169,536,34,34]:
+              - img [box=176,543,20,20]
+            - generic [box=162,577,49,14]: 작업 관리자
+    - generic [box=17,619,339,62]:
+      - button "시스템 종료" [box=231,634,108,34]:
+        - img [box=244,641,20,20]
+        - generic [box=272,643,53,16]: 시스템 종료
+```

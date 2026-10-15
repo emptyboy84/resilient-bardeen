@@ -1,0 +1,35 @@
+
+The command exited with code 0.
+Output:
+Descriptions: [
+  '"description":"매장 내 주문부터 포장주문까지 편하게"',
+  '"description":"실시간 예약관리를 온라인으로 한번에"',
+  '"description":"전화를 대신 받고 응대까지 해드려요!"',
+  '"description":"19:30에 영업 시작"',
+  '"description":"정기휴무 (매주 일요일)"',
+  '"description":"놀러오세요 010 6491 4151"'
+]
+Names/Menus: [
+  '"name":"삼십육점칠도"',
+  '"name":"12"',
+  '"name":"진영병원"',
+  '"name":"16"',
+  '"name":"16A"',
+  '"name":"44"',
+  '"name":"44A"',
+  '"name":"진영중앙초등학교"',
+  '"name":"14-1A"',
+  '"name":"진영중앙초등학교"',
+  '"name":"140A"',
+  '"name":"중흥에코시티"',
+  '"name":"진영자이"',
+  '"name":"진영기업은행"',
+  '"name":"길찾기"',
+  '"name":"공유"',
+  '"name":"전화"',
+  '"name":"알림받기"',
+  '"name":"다이닝코드"',
+  '"name":"홈"'
+]
+Phone: [ '"phone":"0507-1409-8678"' ]
+

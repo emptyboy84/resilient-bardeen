@@ -1,0 +1,22 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-156
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-156.log
+Log output:
+<truncated 179 lines>
+속사업자]
+[86/421] Row 1570 | "신우사" | 대표: "김갑수" | 구: ""
+  => MATCH CONFIRMED: 603-01-84752 () | 주소: "부산광역시 사하구 승학로151-2 (괴정동)" | 대표: "김갑수" [계속사업자]
+[87/421] Row 1571 | "명진공업사" | 대표: "이명성" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[88/421] Row 1573 | "디자인필" | 대표: "정민주" | 구: "사상구"
+  => UNVERIFIABLE / EMPTY
+[89/421] Row 1582 | "디앤아이솔루션" | 대표: "이경은" | 구: "사하구"
+  => UNVERIFIABLE / EMPTY
+[90/421] Row 1586 | "플레이그라운드" | 대표: "" | 구: "해운대구"
+  => UNVERIFIABLE / EMPTY
+  >>> Progress Saved: 90/421 | Matched: 10 | Unverifiable: 80 <<<
+[91/421] Row 1589 | "에스씨제이" | 대표: "윤성원" | 구: "사하구"
+  => MATCH CONFIRMED: 607-81-83801 () | 주소: "부산광역시 연제구 법원남로16번길 21, 301호" | 대표: "윤성원" [폐업자]
+[92/421] Row 1601 | "성창산업" | 대표: "" | 구: "수영구"
+
+Last progress: 2s ago

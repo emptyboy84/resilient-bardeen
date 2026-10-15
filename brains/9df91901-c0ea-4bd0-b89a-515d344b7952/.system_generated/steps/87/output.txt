@@ -1,0 +1,23 @@
+
+The command exited with code 0.
+Output:
+Seoji status: 200
+Seoji body: <!DOCTYPE html>
+<html lang="ko">
+<!-- <script src="/seoji/resource/common/jquery_plugin/common_functions.js"></script> -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>오류</title>
+<script type="text/javascript">
+//<![CDATA[
+
+			alert("해당 페이지는 존재하지 않습니다.");
+		location.href='/seoji';
+//]]>
+</script>
+</head>
+<body>
+
+</body>
+</html>
+

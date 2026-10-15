@@ -1,0 +1,17 @@
+The search for ""동명로" "만화" "부산"" returned the following summary:
+부산광역시 남구에는 **동명로(同明路)**라는 도로명이 존재합니다[1]. 다만, '동명로'와 '만화'를 함께 검색하셨을 때 나타나는 주요 정보들은 다음과 같이 분산되어 있습니다.
+
+*   **동명대학교 웹툰애니메이션학과:** 부산 남구에 위치한 동명대학교에는 웹툰 및 애니메이션 산업 인재를 양성하는 관련 학과가 있습니다[2].
+*   **부산의 만화 관련 시설:** 부산 남구 동명로 인근이 아닌, 부산 동구 등지에는 '동구 만화체험관' 및 'VR 만화카페'와 같은 만화 관련 문화 시설이 운영되고 있습니다[3][4][5].
+*   **기타 지역의 동명로:** 광주광역시 동구에도 동명로가 있으며, 이곳과 관련된 문화 예술 활동이나 시설이 검색될 수 있습니다[6][7].
+
+혹시 찾으시는 정보가 특정 만화 카페나 만화 관련 행사, 혹은 특정 위치에 대한 것인지 추가적인 정보를 알려주시면 더 정확한 답변을 드릴 수 있습니다.
+
+Sources:
+[1] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4M5IiwxDfHk6EB1dgVCtinC2otppoFXrI7g9BQG0yvV07vxxbeSl0tUu_aWtbWoRdkPYjPeED9BpNHq15RAnCO2Zi-vrIZ-YuKGWOGeMwHcYZm0EJR-r5zESdwUkRSYrRrnE7KRynTgOYGKU)
+[2] [tu.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6TpPcFkU32zzC164nCYfajhvBdvZ2AJn2aVVDLCcV3EmnSIdGuAdWGkMqfOoIjBGWl9tihczVQf9cnSgi94fVWbyXVXBTqODGySIOV4YlFq-vFsZZ9HzeHcEpqFGVBkoJ6s992oQGDPSP3dCjqlPWTO4y6MYCsGcDc3ufRB7Fvyrfe9oZAE9lQnZxIGw40-ADjMYrhe1_18fJY8pA1MaBR9yianjO7PDjpNEWC59Ke90TaZ14nlf7kL56jJQvWhYMCpcki6VLtHqJH9HXD0B20-rP0NKk73kPPJcDA-8gKlbhx5dKZ6eTbGBLuqyaVioCP7J6-lwQqyO8xhnVXqtCS2-3B-Nq-N2wo8MJf1XULaWUSxbt8mk8pSSq4QXtJVjfc2FTFPjInUxJ0yiJuZyOdnOZrICnIjFj3t8LCNmTLJnt_xFUXIc7BrWCKkkejvXkGHVRz0gS2javKH_e78c4fFj64eYrnjqcAHSKMsZYQUlAK2XXyOvNZCsXwBd1rGXZTo1xp7Pba5q8PkvbKnYMEVef)
+[3] [bsdonggu.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFam48xb8Z18eyK2ohwJjvvNl3EU1qbf0znqy1wG65P2gjiZzILMJzeOYAtpBtxNoPyRyLbJKJj8HTVh0KBuUEwrncaEqClxs0zXN3uOesF9b5dE8zIGeOqBw93AAi47fnXQwygvx6FLc5Bo-tEeDSymWDzPg9IUeTzB89KyrVf8d-fzlnz4MwBSbf7ehtZwLD_7NR6QR_AXQXKj_5UkqDvs6gYZOdiGCJ7FVGg5WK7)
+[4] [civicnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwxfB7PBDhw4lwWiD1ojHpMnUNDpAUxs-Rt275iJrgpXuxEMfS-0kF-UQeSvLrqz2I348I6QbS3kXJ6phjhbX7WcTLYo_BIW72rH7XGgsgkSUkeztIWPdAM8JLcwKeQyzuUN4EulsIR6i0C5FiOlt4)
+[5] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX4SP0dzHffujfspJggqQeBmWdyRaYsNyK1eRc6_mTTdGMAJubdfiPyYvTjQAmR2e0CfK8mhE2gfz0TftfxbOU1hihr-FCNOaJX03wlsZcStPc)
+[6] [playgwangju.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE66Ku_9RFG9soBDk0AVzq0jyPjHZ4FQblcpjFSKpbNllfj-66BLBFQO9CeE9vola_53wSyiuc1550hOPccebJe8waUwFVDpabCXNfaMcyvdJocdvmg7eEQn5AmhUvAIYFL3vJAmNLPzAxapQ==)
+[7] [gjcf.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5g1ytbiOgJ90T41NT2mYhKHnX2j_BTTfqM8XOvmkivEbq4ovlehtJ9yMP0GIQVJIejDdr_EyvT4Cdr282O9UmzjggBET3xK82FbZGVj22eXlWxEGx9VcgG53dAD0uPquanb8UQ==)

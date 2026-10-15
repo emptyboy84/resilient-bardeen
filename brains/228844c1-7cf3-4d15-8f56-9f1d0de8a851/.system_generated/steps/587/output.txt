@@ -1,0 +1,519 @@
+### Page
+- Page URL: https://bizno.net/%EB%8C%80%ED%91%9C%EC%9E%90%EC%A1%B0%ED%9A%8C/?area=&query=%EC%9A%B0%EC%88%98%EA%B2%BD
+- Page Title: 우수경
+### Snapshot
+```yaml
+- generic [ref=f210e1]:
+  - text: 
+  - banner [ref=f210e2]:
+    - generic [ref=f210e4]:
+      - link [ref=f210e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f210e7]:
+        - list:
+          - listitem [ref=f210e8]:
+            - link "Home" [ref=f210e9] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f210e10]:
+            - link "사업자등록번호조회" [ref=f210e11] [cursor=pointer]:
+              - /url: /사업자등록번호조회/
+          - listitem [ref=f210e12]:
+            - link "법인등록번호조회" [ref=f210e13] [cursor=pointer]:
+              - /url: /법인등록번호조회/
+          - listitem [ref=f210e14]:
+            - link "상호명으로 사업자등록번호조회" [ref=f210e15] [cursor=pointer]:
+              - /url: /상호명으로사업자등록번호조회/
+          - listitem [ref=f210e16]:
+            - link "전화번호로 조회" [ref=f210e17] [cursor=pointer]:
+              - /url: /전화번호조회/
+          - listitem [ref=f210e18]:
+            - link "대표자이름으로 조회" [ref=f210e19] [cursor=pointer]:
+              - /url: /대표자조회/
+          - listitem [ref=f210e20]:
+            - link "API" [ref=f210e21] [cursor=pointer]:
+              - /url: /openapi
+          - listitem [ref=f210e22]:
+            - link "고객문의" [ref=f210e23] [cursor=pointer]:
+              - /url: /voc
+  - generic [ref=f210e28]:
+    - heading "대표자이름으로 사업자등록번호조회" [level=1] [ref=f210e29]
+    - paragraph [ref=f210e30]:
+      - text: 대표자이름으로
+      - generic [ref=f210e31]: 
+      - text: 사업자정보(회사명,사업자등록번호,주소,업종)
+    - 'heading "총 등록된 사업자 : 12,294,440" [level=2] [ref=f210e32]'
+    - paragraph [ref=f210e33]: "오늘 등록 사업자 : 13,854 | 오늘 업데이트 : 18,293"
+    - generic [ref=f210e35]:
+      - combobox "Select your city" [ref=f210e37]:
+        - option "지역전체" [selected]
+        - option "서울"
+        - option "경기"
+        - option "충북"
+        - option "충남"
+        - option "경북"
+        - option "경남"
+        - option "전북"
+        - option "전남"
+        - option "강원"
+        - option "제주"
+        - option "인천"
+        - option "부산"
+        - option "대구"
+        - option "대전"
+        - option "울산"
+        - option "광주"
+        - option "세종"
+      - textbox "대표자명 입력" [active] [ref=f210e39]
+      - button " 검색" [ref=f210e41] [cursor=pointer]:
+        - generic [ref=f210e42]: 
+        - text: 검색
+    - heading [level=3] [ref=f210e43]:
+      - text: "\"우수경\" 키워드로"
+      - strong [ref=f210e44]: "30"
+      - text: 개의 결과를 찾았습니다
+  - generic [ref=f210e47]:
+    - generic [ref=f210e48]:
+      - separator [ref=f210e49]
+      - generic [ref=f210e51]:
+        - generic [ref=f210e53]:
+          - link [ref=f210e54] [cursor=pointer]:
+            - /url: /article/1278062832
+            - heading "빌리브어린이집" [level=4] [ref=f210e55]
+          - heading "우수*" [level=5] [ref=f210e56]
+          - heading "보육시설 운영업" [level=5] [ref=f210e57]
+        - paragraph [ref=f210e58]: 대구광역시 달서구 와룡로 186
+      - separator [ref=f210e59]
+      - generic [ref=f210e61]:
+        - generic [ref=f210e63]:
+          - link [ref=f210e64] [cursor=pointer]:
+            - /url: /article/8368300023
+            - heading "경상북도교육청 경상북도예천교육지원청 새벗유치원" [level=4] [ref=f210e65]
+          - insertion [ref=f210e67]:
+            - iframe [ref=f210e69]:
+              - iframe [ref=f219e1]:
+                - generic:
+                  - link "흔해빠진 직업으로 세계최강 바로가기" [ref=f227e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=9J9WpP6aCke74866WZmoag&cid=UxlrFFogTOymLn6IkVdnCA&crid=EgaGY3tTR4CvrzbpZku9WA&crpid=rimzL_ZMT3yhKQYHlIra4A&soid=q68I&partner_id=03mSf3HNecb-&bx=Cylxwnu_oPMyKqdsoPGmorwyordzoPZDK4lqU1u_uYlECYzBKYzgJ4u-uYS9uqa1wYg_UYA9UYiRu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1Jmg9u1x1U8A121uV2nu-uYOPJ1u_uqGzKqd9o4QxujR&ui=CylNZLTE3HlewmOBcmggHDiE34u_uflF3PoVnL7fMRs0c0lmIjla8Liww8Z1K4ljUmOjUbisc8M121l0MIirtIt3JG7-ZiSYUbSuw8zaUfsFtHfWoLZ1K4lYc8Myuqa1ordmKqGxonQVoq69oqdR2qaV2nlO&consent=1&ddhh=orIWod&flanding_rdr=
+                    - generic [ref=f227e2]:
+                      - button [ref=f227e6]
+                      - generic [ref=f227e10]:
+                        - generic [ref=f227e11]: 흔해빠진 직업으로 세계최강
+                        - generic [ref=f227e12]: 바로가기
+                  - button [ref=f227e14] [cursor=pointer]
+          - heading "우수*" [level=5] [ref=f210e70]
+          - heading "유아 교육기관" [level=5] [ref=f210e71]
+        - paragraph [ref=f210e72]: 경상북도 예천군 호명면 양지1길 ...
+      - separator [ref=f210e73]
+      - generic [ref=f210e75]:
+        - generic [ref=f210e77]:
+          - link [ref=f210e78] [cursor=pointer]:
+            - /url: /article/1272299794
+            - heading "GS25 광릉수목원점" [level=4] [ref=f210e79]
+          - heading "우수*" [level=5] [ref=f210e80]
+          - heading "체인화 편의점" [level=5] [ref=f210e81]
+        - paragraph [ref=f210e82]:
+          - text: 경기도 포천시 소흘읍 광릉수목원로...
+          - link "지역별 정보" [ref=f210e83] [cursor=pointer]
+      - separator [ref=f210e87]
+      - generic [ref=f210e89]:
+        - generic [ref=f210e91]:
+          - link [ref=f210e92] [cursor=pointer]:
+            - /url: /article/1191568481
+            - heading "디에스테크" [level=4] [ref=f210e93]
+          - heading "우수*" [level=5] [ref=f210e94]
+          - heading [level=5] [ref=f210e95]:
+            - text: 건설용 석제품
+            - link "제조업" [ref=f210e96] [cursor=pointer]:
+              - /url: "#"
+        - paragraph [ref=f210e99]: 경기도 화성시 봉담읍 덕우공단1길...
+      - separator [ref=f210e100]
+      - generic [ref=f210e102]:
+        - generic [ref=f210e104]:
+          - link [ref=f210e105] [cursor=pointer]:
+            - /url: /article/1089091539
+            - heading "우리이비인후과의원" [level=4] [ref=f210e106]
+          - insertion [ref=f210e108]:
+            - iframe [ref=f210e110]:
+              - iframe [ref=f220e1]:
+                - generic:
+                  - link [ref=f224e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=TWsr9qzJBEqMmHjrWZmoag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=KEuI890DSgq_9CkMwbpSYA&crpid=AKKZ5mYWSICj_v49mhIADw&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_ordx74QyoP6Vo0My706x70wzK4lqU1u_uYlECYzBKYzgJ4u-uYgWJ4u_onx1wHTRuqayK4lBZyu_ujJEU1u-uYsBuqa1ord1K4lBZDw121uVo4QxKqd9o4lO&ui=CylYc8Myuqa1ordmKqGxonQVoq69oqdR2qaVo4lO&consent=1&ddhh=orIWod&flanding_rdr=
+                  - button [ref=f224e4] [cursor=pointer]
+          - heading "우수*" [level=5] [ref=f210e111]
+          - heading "일반의원" [level=5] [ref=f210e112]
+        - paragraph [ref=f210e113]: 서울특별시 영등포구 대림로 157
+      - separator [ref=f210e114]
+      - generic [ref=f210e116]:
+        - generic [ref=f210e118]:
+          - link [ref=f210e119] [cursor=pointer]:
+            - /url: /article/5719300668
+            - heading "경희우수한의원" [level=4] [ref=f210e120]
+          - heading "우수*" [level=5] [ref=f210e121]
+          - heading "한의원" [level=5] [ref=f210e122]
+        - paragraph [ref=f210e123]:
+          - text: 경기도 구리시 경춘북로 252
+          - link "지도" [ref=f210e124] [cursor=pointer]
+      - separator [ref=f210e128]
+      - generic [ref=f210e130]:
+        - generic [ref=f210e132]:
+          - link [ref=f210e133] [cursor=pointer]:
+            - /url: /article/1408800913
+            - heading "주식회사 지광" [level=4] [ref=f210e134]
+          - insertion [ref=f210e136]:
+            - iframe [ref=f210e138]:
+              - iframe [ref=f221e1]:
+                - generic:
+                  - link [ref=f228e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=gT4ur8P-AZ-ox6TOWZmoag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=KEuI890DSgq_9CkMwbpSYA&crpid=AKKZ5mYWSICj_v49mhIADw&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_ordx74QyoP6Vo0My706x70wzK4lqU1u_uYlECYzBKYzgJ4u-uYgWJ4u_onx1wHTRuqayK4lBZyu_ujJEU1u-uYsBuqa1ord1K4lBZDw121uVo4QxKqd9o4lO&ui=CylYc8Myuqa1ordmKqGxonQVoq69oqdR2qaVo4lO&consent=1&ddhh=orIWod&flanding_rdr=
+                  - button [ref=f228e4] [cursor=pointer]
+          - heading "우수*" [level=5] [ref=f210e139]
+          - heading "페인트, 창호 및 기타 건설자재 소매업" [level=5] [ref=f210e140]
+        - paragraph [ref=f210e141]:
+          - text: 경기도 고양시 일산동구 대산로11...
+          - link "여행 가이드 및 여행기" [ref=f210e142] [cursor=pointer]
+      - separator [ref=f210e146]
+      - generic [ref=f210e148]:
+        - generic [ref=f210e150]:
+          - link [ref=f210e151] [cursor=pointer]:
+            - /url: /article/5031778572
+            - heading "고령명품한우" [level=4] [ref=f210e152]
+          - heading "우수*" [level=5] [ref=f210e153]
+          - heading "한식 일반 음식점업" [level=5] [ref=f210e154]
+        - paragraph [ref=f210e155]: 경상북도 고령군 다산면 성암로 4...
+      - separator [ref=f210e156]
+      - generic [ref=f210e158]:
+        - generic [ref=f210e160]:
+          - link [ref=f210e161] [cursor=pointer]:
+            - /url: /article/6082017638
+            - heading "세기보청기" [level=4] [ref=f210e162]
+          - heading "우수*" [level=5] [ref=f210e163]
+          - heading "의료용 기구 소매업" [level=5] [ref=f210e164]
+        - paragraph [ref=f210e165]: 경상남도 창원시 마산회원구 3·1...
+      - separator [ref=f210e166]
+      - generic [ref=f210e168]:
+        - generic [ref=f210e170]:
+          - link [ref=f210e171] [cursor=pointer]:
+            - /url: /article/8080301651
+            - heading "에프엑스365" [level=4] [ref=f210e172]
+          - heading "우수*" [level=5] [ref=f210e173]
+          - heading [level=5] [ref=f210e174]:
+            - link "전자상거래" [ref=f210e175] [cursor=pointer]:
+              - /url: "#"
+            - text: 소매업
+        - paragraph [ref=f210e178]:
+          - text: 서울특별시 강남구 봉은사로 477...
+          - link "지역별 정보" [ref=f210e179] [cursor=pointer]
+      - separator [ref=f210e183]
+      - generic [ref=f210e185]:
+        - generic [ref=f210e187]:
+          - link [ref=f210e188] [cursor=pointer]:
+            - /url: /article/2170889706
+            - heading "뷰티24" [level=4] [ref=f210e189]
+          - insertion [ref=f210e191]
+          - heading "우수*" [level=5] [ref=f210e193]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e194]
+        - paragraph [ref=f210e195]: 서울특별시 노원구 노원로 532,...
+      - separator [ref=f210e196]
+      - generic [ref=f210e198]:
+        - generic [ref=f210e200]:
+          - link [ref=f210e201] [cursor=pointer]:
+            - /url: /article/1041105598
+            - heading "대경텍스" [level=4] [ref=f210e202]
+          - heading "우수*" [level=5] [ref=f210e203]
+          - heading "수입한 기타의 물품 도소매업" [level=5] [ref=f210e204]
+        - paragraph [ref=f210e205]: 경기도 안성시 죽산면 죽산향교길 ...
+      - separator [ref=f210e206]
+      - generic [ref=f210e208]:
+        - generic [ref=f210e210]:
+          - link [ref=f210e211] [cursor=pointer]:
+            - /url: /article/2902001274
+            - heading "가온 대리점" [level=4] [ref=f210e212]
+          - heading "우수*" [level=5] [ref=f210e213]
+          - heading "방문 판매업" [level=5] [ref=f210e214]
+        - paragraph [ref=f210e215]: 경기도 화성시 동탄원천로 382-...
+      - separator [ref=f210e216]
+      - generic [ref=f210e218]:
+        - generic [ref=f210e220]:
+          - link [ref=f210e221] [cursor=pointer]:
+            - /url: /article/2310700146
+            - heading "수인터내셔날" [level=4] [ref=f210e222]
+          - heading "우수*" [level=5] [ref=f210e223]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e224]
+        - paragraph [ref=f210e225]:
+          - text: 경상남도 진주시 강남로189번길 ...
+          - link "지도" [ref=f210e226] [cursor=pointer]
+      - separator [ref=f210e230]
+      - generic [ref=f210e232]:
+        - generic [ref=f210e234]:
+          - link [ref=f210e235] [cursor=pointer]:
+            - /url: /article/8419401447
+            - heading "펀잇푸드" [level=4] [ref=f210e236]
+          - insertion [ref=f210e238]
+          - heading "우수*" [level=5] [ref=f210e240]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e241]
+        - paragraph [ref=f210e242]:
+          - text: 경기도 하남시 조정대로 35
+          - link "지역별 정보" [ref=f210e243] [cursor=pointer]
+      - separator [ref=f210e247]
+      - generic [ref=f210e249]:
+        - generic [ref=f210e251]:
+          - link [ref=f210e252] [cursor=pointer]:
+            - /url: /article/3122218142
+            - heading "주원상사" [level=4] [ref=f210e253]
+          - heading "우수*" [level=5] [ref=f210e254]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e255]
+        - paragraph [ref=f210e256]: 충청남도 천안시 서북구 성거읍 소...
+      - separator [ref=f210e257]
+      - generic [ref=f210e259]:
+        - generic [ref=f210e261]:
+          - link [ref=f210e262] [cursor=pointer]:
+            - /url: /article/5380900871
+            - heading "컴리시그널" [level=4] [ref=f210e263]
+          - heading "우수*" [level=5] [ref=f210e264]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e265]
+        - paragraph [ref=f210e266]: 비공개
+      - separator [ref=f210e267]
+      - generic [ref=f210e269]:
+        - generic [ref=f210e271]:
+          - link [ref=f210e272] [cursor=pointer]:
+            - /url: /article/5233100225
+            - heading "하이솔루션" [level=4] [ref=f210e273]
+          - heading "우수*" [level=5] [ref=f210e274]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e275]
+        - paragraph [ref=f210e276]: 인천광역시 부평구 주부토로 ***...
+      - separator [ref=f210e277]
+      - generic [ref=f210e279]:
+        - generic [ref=f210e281]:
+          - link [ref=f210e282] [cursor=pointer]:
+            - /url: /article/4052347984
+            - heading "오늘도,꽃" [level=4] [ref=f210e283]
+          - heading "우수*" [level=5] [ref=f210e284]
+          - heading "화초 및 식물 소매업" [level=5] [ref=f210e285]
+        - paragraph [ref=f210e286]:
+          - text: 서울특별시 서초구 방배중앙로 10...
+          - link "여행 가이드 및 여행기" [ref=f210e287] [cursor=pointer]
+      - separator [ref=f210e291]
+      - generic [ref=f210e293]:
+        - generic [ref=f210e295]:
+          - link [ref=f210e296] [cursor=pointer]:
+            - /url: /article/8885300707
+            - heading "더블유커머스" [level=4] [ref=f210e297]
+          - heading "우수*" [level=5] [ref=f210e298]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e299]
+        - paragraph [ref=f210e300]: 부산광역시 북구 효열로220번길 ...
+      - separator [ref=f210e301]
+      - generic [ref=f210e303]:
+        - generic [ref=f210e305]:
+          - link [ref=f210e306] [cursor=pointer]:
+            - /url: /article/1080465891
+            - heading "김귀순왕세숫대야냉면앤드왕돈까스" [level=4] [ref=f210e307]
+          - heading "우수*" [level=5] [ref=f210e308]
+          - heading "한식 면 요리 전문점" [level=5] [ref=f210e309]
+        - paragraph [ref=f210e310]: 서울특별시 영등포구 신길로 158
+      - separator [ref=f210e311]
+      - generic [ref=f210e313]:
+        - generic [ref=f210e315]:
+          - link [ref=f210e316] [cursor=pointer]:
+            - /url: /article/4121123406
+            - heading "꾸밈(의류,잡화)" [level=4] [ref=f210e317]
+          - heading "우수*" [level=5] [ref=f210e318]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e319]
+        - paragraph [ref=f210e320]: 충청남도 천안시 서북구 성거읍 수...
+      - separator [ref=f210e321]
+      - generic [ref=f210e323]:
+        - generic [ref=f210e325]:
+          - link [ref=f210e326] [cursor=pointer]:
+            - /url: /article/4109527672
+            - heading "마음돌봄연구소" [level=4] [ref=f210e327]
+          - heading "우수*" [level=5] [ref=f210e328]
+        - paragraph [ref=f210e329]: 서울특별시 중구 동호로 186-7...
+      - separator [ref=f210e330]
+      - generic [ref=f210e332]:
+        - generic [ref=f210e334]:
+          - link [ref=f210e335] [cursor=pointer]:
+            - /url: /article/5260602477
+            - heading "읍천리382 기흥점" [level=4] [ref=f210e336]
+          - heading "우수*" [level=5] [ref=f210e337]
+          - heading "한식 일반 음식점업" [level=5] [ref=f210e338]
+        - paragraph [ref=f210e339]:
+          - text: 경기도 용인시 기흥구 갈곡로7번길...
+          - link "지역별 정보" [ref=f210e340] [cursor=pointer]
+      - separator [ref=f210e344]
+      - generic [ref=f210e346]:
+        - generic [ref=f210e348]:
+          - link [ref=f210e349] [cursor=pointer]:
+            - /url: /article/6209070499
+            - heading "행복한고기마을" [level=4] [ref=f210e350]
+          - heading "우수*" [level=5] [ref=f210e351]
+          - heading "육류 소매업" [level=5] [ref=f210e352]
+        - paragraph [ref=f210e353]: 울산광역시 북구 염포로 673(염...
+      - separator [ref=f210e354]
+      - generic [ref=f210e356]:
+        - generic [ref=f210e358]:
+          - link [ref=f210e359] [cursor=pointer]:
+            - /url: /article/6592401864
+            - heading "더벤티 용현SK뷰점" [level=4] [ref=f210e360]
+          - heading "우수*" [level=5] [ref=f210e361]
+          - heading "커피 전문점" [level=5] [ref=f210e362]
+        - paragraph [ref=f210e363]: 인천광역시 미추홀구 용정공원로 3...
+      - separator [ref=f210e364]
+      - generic [ref=f210e366]:
+        - generic [ref=f210e368]:
+          - link [ref=f210e369] [cursor=pointer]:
+            - /url: /article/7510200626
+            - heading "해라" [level=4] [ref=f210e370]
+          - heading "우수*" [level=5] [ref=f210e371]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e372]
+        - paragraph [ref=f210e373]: 경기도 성남시 수정구 산성대로52...
+      - separator [ref=f210e374]
+      - generic [ref=f210e376]:
+        - generic [ref=f210e378]:
+          - link [ref=f210e379] [cursor=pointer]:
+            - /url: /article/4362800315
+            - heading "어반그레이" [level=4] [ref=f210e380]
+          - heading "우수*" [level=5] [ref=f210e381]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e382]
+        - paragraph [ref=f210e383]: 경상북도 경산시 대학로32길 12...
+      - separator [ref=f210e384]
+      - generic [ref=f210e386]:
+        - generic [ref=f210e388]:
+          - link [ref=f210e389] [cursor=pointer]:
+            - /url: /article/1753400537
+            - heading "코레앙" [level=4] [ref=f210e390]
+          - heading "우수*" [level=5] [ref=f210e391]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e392]
+        - paragraph [ref=f210e393]:
+          - text: 서울특별시 관악구 남부순환로131...
+          - link "여행 가이드 및 여행기" [ref=f210e394] [cursor=pointer]
+      - separator [ref=f210e398]
+      - generic [ref=f210e400]:
+        - generic [ref=f210e402]:
+          - link [ref=f210e403] [cursor=pointer]:
+            - /url: /article/5884000165
+            - heading "졸도" [level=4] [ref=f210e404]
+          - heading "우수*" [level=5] [ref=f210e405]
+          - heading "전자상거래 소매업" [level=5] [ref=f210e406]
+        - paragraph [ref=f210e407]: 강원도 원주시 백간공원길 6-2,...
+      - separator [ref=f210e408]
+    - generic [ref=f210e410]:
+      - heading "실시간 조회기업" [level=4] [ref=f210e412]
+      - list [ref=f210e413]:
+        - listitem [ref=f210e414]:
+          - link [ref=f210e415] [cursor=pointer]:
+            - /url: /article/4364600911
+            - paragraph [ref=f210e416]: 청라큐브 904
+        - listitem [ref=f210e417]:
+          - link [ref=f210e418] [cursor=pointer]:
+            - /url: /article/4383300111
+            - paragraph [ref=f210e419]: 최정필외2명
+        - listitem [ref=f210e420]:
+          - link [ref=f210e421] [cursor=pointer]:
+            - /url: /article/4388803705
+            - paragraph [ref=f210e422]: 서원기중기
+        - listitem [ref=f210e423]:
+          - link [ref=f210e424] [cursor=pointer]:
+            - /url: /article/4528104211
+            - paragraph [ref=f210e425]: 에스비삼보산업
+        - listitem [ref=f210e426]:
+          - link [ref=f210e427] [cursor=pointer]:
+            - /url: /article/8440402686
+            - paragraph [ref=f210e428]: 페인트,옥상방수,건물방수,오일스테인,바닥에폭시,전문,영광공사
+        - listitem [ref=f210e429]:
+          - link [ref=f210e430] [cursor=pointer]:
+            - /url: /article/4622201311
+            - paragraph [ref=f210e431]: 동탄레이크원 B동541호
+        - listitem [ref=f210e432]:
+          - link [ref=f210e433] [cursor=pointer]:
+            - /url: /article/4648803704
+            - paragraph [ref=f210e434]: 케이와이포춘
+        - listitem [ref=f210e435]:
+          - link [ref=f210e436] [cursor=pointer]:
+            - /url: /article/4662301611
+            - paragraph [ref=f210e437]: 바로고
+        - listitem [ref=f210e438]:
+          - link [ref=f210e439] [cursor=pointer]:
+            - /url: /article/2838103936
+            - paragraph [ref=f210e440]: 제이에이치텍스
+        - listitem [ref=f210e441]:
+          - link [ref=f210e442] [cursor=pointer]:
+            - /url: /article/4689502011
+            - paragraph [ref=f210e443]: 전농노마즈402호
+        - listitem [ref=f210e444]:
+          - link [ref=f210e445] [cursor=pointer]:
+            - /url: /article/4716000808
+            - paragraph [ref=f210e446]: 대성빙과
+        - listitem [ref=f210e447]:
+          - link [ref=f210e448] [cursor=pointer]:
+            - /url: /article/4724000711
+            - paragraph [ref=f210e449]: 선남태양광발전소
+        - listitem
+  - contentinfo [ref=f210e450]:
+    - generic [ref=f210e451]:
+      - generic [ref=f210e452]:
+        - generic [ref=f210e454]:
+          - heading "주요기능" [level=6] [ref=f210e455]
+          - list [ref=f210e456]:
+            - listitem [ref=f210e457]:
+              - link "사업자등록번호조회" [ref=f210e458] [cursor=pointer]:
+                - /url: /사업자등록번호조회
+            - listitem [ref=f210e459]:
+              - link "법인등록번호조회" [ref=f210e460] [cursor=pointer]:
+                - /url: /법인등록번호조회
+            - listitem [ref=f210e461]:
+              - link "상호명으로 사업자등록번호조회" [ref=f210e462] [cursor=pointer]:
+                - /url: /상호명으로사업자등록번호조회
+            - listitem [ref=f210e463]:
+              - link "전화번호조회" [ref=f210e464] [cursor=pointer]:
+                - /url: /전화번호조회
+            - listitem [ref=f210e465]:
+              - link "대표자이름으로 조회" [ref=f210e466] [cursor=pointer]:
+                - /url: /대표자조회
+            - listitem [ref=f210e467]:
+              - link "정정문의" [ref=f210e468] [cursor=pointer]:
+                - /url: /voc
+        - generic [ref=f210e470]:
+          - heading "사업자검색" [level=6] [ref=f210e471]
+          - paragraph [ref=f210e472]: 비즈노의 데이터베이스를 무단으로 수집해가는 행위는 경우에 따라 저작권 침해 또는 정보통신망 이용촉진 및 정보보호에 관한 법률 등에 위반될 수 있습니다.
+          - generic [ref=f210e475]:
+            - textbox "상호명,사업자등록번호,법인등록번호" [ref=f210e477]
+            - button "검색 " [ref=f210e479] [cursor=pointer]:
+              - text: 검색
+              - generic [ref=f210e480]: 
+      - generic [ref=f210e481]:
+        - paragraph [ref=f210e482]: Copyright ©2019 All rights reserved.
+        - generic [ref=f210e483]:
+          - link "" [ref=f210e484] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f210e486] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f210e488] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f210e490] [cursor=pointer]:
+            - /url: "#"
+  - navigation [ref=f210e492]:
+    - list [ref=f210e493]:
+      - listitem [ref=f210e494]:
+        - link "Home" [ref=f210e495] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f210e496]:
+        - link "사업자등록번호조회" [ref=f210e497] [cursor=pointer]:
+          - /url: /사업자등록번호조회/
+      - listitem [ref=f210e498]:
+        - link "법인등록번호조회" [ref=f210e499] [cursor=pointer]:
+          - /url: /법인등록번호조회/
+      - listitem [ref=f210e500]:
+        - link "상호명으로 사업자등록번호조회" [ref=f210e501] [cursor=pointer]:
+          - /url: /상호명으로사업자등록번호조회/
+      - listitem [ref=f210e502]:
+        - link "전화번호로 조회" [ref=f210e503] [cursor=pointer]:
+          - /url: /전화번호조회/
+      - listitem [ref=f210e504]:
+        - link "대표자이름으로 조회" [ref=f210e505] [cursor=pointer]:
+          - /url: /대표자조회/
+      - listitem [ref=f210e506]:
+        - link "API" [ref=f210e507] [cursor=pointer]:
+          - /url: /openapi
+      - listitem [ref=f210e508]:
+        - link "고객문의" [ref=f210e509] [cursor=pointer]:
+          - /url: /voc
+```

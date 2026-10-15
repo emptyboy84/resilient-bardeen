@@ -1,0 +1,7 @@
+The search for ""비솜" "전성록" "부산"" returned the following summary:
+검색 결과에 따르면, **‘비솜(주)’**은 부산일보 관련 법인(또는 자회사 등)으로 보이며, **전성록** 대표는 해당 **비솜㈜의 사장**으로 재직하고 있습니다[1]. 
+
+2023년 11월 부산일보사의 주요 인사이동 보도 등에서 ‘비솜㈜ 사장 전성록’이라는 직함과 이름이 확인됩니다[1].
+
+Sources:
+[1] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNz4q-u8-IS-SZQE8cO559UFBZK03f32KPX8xe6ssIuy42zE3T04qi2RKxDWk-TKHvdaJPYWWWZ8mbdTUMBJXO2RRBuzKBm006Z1Ufmq-XNQ5rn68LZVmbNWsTmzWPnbaXGAP2)

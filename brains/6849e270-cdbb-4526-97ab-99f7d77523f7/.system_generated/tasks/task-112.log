@@ -1,0 +1,11 @@
+Loading workbook in read_only mode...
+Authors summary in Excel: {'�': 280, '�': 211, '�': 157, '�ο�': 338, '�̼�': 499, '�ȣ': 426, '�': 1100, '�': 1000, '�(7.20)': 43, '�(7.20)': 120, '�ο�(7.20~)': 562, '�(7.20)': 89, '�ȣ(7.20~)': 574, '�(7.20~)': 600, '�̼�(7.20~)': 500, '�(7.20~)': 500, '�(7.20~)': 500, '�(7.20~)': 500, '': 12434}
+Total rows for '�': 1000
+Header mapping: {'author': 0, 'note': 1, 'name': 2, 'biz_no': 3, 'ceo': 4, 'zip': 5, 'address': 6, 'phone': 7, 'fax': 8, 'homepage': 9, 'email': 10, 'emp': 14, 'nice_ind': 15, 'corp_no': 24, 'settle': 30, 'ind_l': 47, 'ind_m': 48, 'ind_s': 49}
+BHM Excel Rows: 1000
+BHM Status Stats: {'�': 914, '�': 82, '�޾�': 4, '�Ÿ': 0}
+BHM Biz No Errors: 47
+BHM Duplicate Biz Nos: 1
+BHM Corp No Errors: 10
+BHM Missing Corp for Corps: 12
+BHM Critical Missing: 5

@@ -1,0 +1,50 @@
+
+The command exited with code 0.
+Output:
+130: 									</div>
+131: 										<table class="table_guide01" style="display:none">
+132: 										<tr>
+133: 											<td colspan="2"></td>
+134: 										</tr>
+135: 										<tr>
+136: 											<th></th>
+137: 											<td></td>
+138: 										</tr>
+139: 										</table>
+140: 										<table class="table_guide01" summary="유한회사티지씨에 대한 사업자정보  과세유형 : 부가가치세 일반과세자 법인형태 : 영리법인의 본점 업종분류 : 전문, 과학 및 기술 서비스업 > 전문 서비스업 > 회사 본부 및 경영 컨설팅 서비스업 > 경영 컨설팅 및 공공 관계 서비스업 > 경영 컨설팅업 		 업태 : 전문, 과학 및 기술 서비스업 업종 : 경영 컨설팅업 사업자 현재 상태(※국세청 홈택스 실시간 정보제공) : 계속사업자 설립일 (신고/인허가일) : 2022-09-25 주소 : 경상남도 창원시 의창구 차룡로48번길 54 54, Charyong-ro 48beon-gil, Uichang-gu, Changwon-si, Gyeongsangnam-do, Republic of Korea 종업원수 : 5명 사업자등록번호 : 770-87-02511 법인등록번호 : 194214-0015889">
+141: 										
+142: 										<tr>
+143: 											<td colspan="2">
+144: 											 
+145: 											 
+146: 
+147: 											<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+148: 											 
+149: 											<ins class="adsbygoogle"
+150: 												 style="display:block"
+151: 												 data-ad-client="ca-pub-4075541721927467"
+152: 												 data-ad-slot="7732235438"
+153: 												 data-ad-format="auto"></ins>
+154: 											<script>
+155: 											(adsbygoogle = window.adsbygoogle || []).push({});
+156: 											</script>
+157: 											 
+158: 											</td>										 
+159: 										</tr>
+160: 										
+161: 										 
+162: 											<tr>
+163: 												<th>국세청산업분류</th>
+164: 									 
+165: 												<td><p>대분류 : 전문, 과학 및 기술 서비스업</p><p>중분류 : 전문 서비스업</p><p>소분류 : 회사 본부 및 경영 컨설팅 서비스업</p><p>세분류 : 경영 컨설팅 및 공공 관계 서비스업</p><p>세세분류 : 경영 컨설팅업</p>
+166: 												
+167: 												
+168: 												
+169: 												</td>
+170: 											 
+171: 											</tr>
+172: 										
+173: 										<
+174: 
+175: 
+

@@ -1,0 +1,12 @@
+The search for ""디아트워크" "부산"" returned the following summary:
+"디아트워크"에 대한 정보는 다음과 같습니다.
+
+*   **소재지:** 부산광역시 해운대구 센텀중앙로 90 (재송동)[1][2][3]
+*   **업종 및 형태:** 사업자 정보에 따르면 문화레저 관련 업종으로 등록된 개인사업체입니다[2]. 일부 자료에서는 기타 상품 소매나 전문 서비스업으로 분류되기도 합니다[1].
+
+해당 위치는 센텀시티 인근으로 확인되나, 일반적인 매장보다는 사무실 또는 사업장 주소로 등록되어 있는 것으로 보입니다[1][2]. 구체적인 서비스나 운영 내용에 대해서는 추가적인 확인이 필요할 수 있습니다.
+
+Sources:
+[1] [udanax.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxbAqkuNolikRmkVg7WTuTE3Ep8hz6mZIFELwNRBBRj_8Y-ApwePcfIvmfLaEvfl_3VKTNvG-V6yh_j6oUxCdu7xOW2OPuFnJCQbSvvHNu4iifqrgDzOei4jBZgyO4pOojtfDdd15HBuk1JdOeP9E6Bv_u3uoeIadG_s9-JWSiXAfhUNxNhA==)
+[2] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkFyIQwlo87Xlq_Pn5zjq8Ne7iGa_PaVvNj4Q1nYa0ECHDGdo7sDVTpY6JPNAx64Dq4SuwiI675Ab51Yvpl2Ss3mWx1U1foly-qTsPu7T3zGkcWqZkSONMEMAud0c3RXLsNw==)
+[3] [bigvalue.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkFyIQwlo87Xlq_Pn5zjq8Ne7iGa_PaVvNj4Q1nYa0ECHDGdo7sDVTpY6JPNAx64Dq4SuwiI675Ab51Yvpl2Ss3mWx1U1foly-qTsPu7T3zGkcWqZkSONMEMAud0c3RXLsNw==)

@@ -1,0 +1,1446 @@
+{
+  "639": {
+    "regDate": "2009-04-20",
+    "year": "2009",
+    "month": "4",
+    "tel": "051-207-3530",
+    "fax": "051-517-3500",
+    "employees": "10",
+    "status": "계속사업자",
+    "ceo": "이돈희",
+    "address": "부산광역시 금정구 금정로 147, 4층(장전동)"
+  },
+  "701": {
+    "regDate": "2007-10-11",
+    "year": "2007",
+    "month": "10",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 동구 망양로 739 739, Mangyang-ro, Dong-gu, Busan, Republic of Korea"
+  },
+  "703": {
+    "regDate": "2018-01-25",
+    "year": "2018",
+    "month": "1",
+    "tel": "1644-8619",
+    "fax": "051-711-8573",
+    "employees": "27",
+    "status": "계속사업자",
+    "ceo": "김민지",
+    "address": "부산광역시 동구 중앙대로 216, 13층(초량동, 교원부산빌딩) 216, Jungang-daero, Dong-gu, Busan, Republic of Korea"
+  },
+  "750": {
+    "regDate": "2015-12-01",
+    "year": "2015",
+    "month": "12",
+    "employees": "13",
+    "status": "계속사업자",
+    "ceo": "공원주",
+    "address": "부산광역시 동구 범일로 102, 1층(범일동, .) 102, Beomil-ro, Dong-gu, Busan, Republic of Korea"
+  },
+  "848": {
+    "regDate": "2012-11-07",
+    "year": "2012",
+    "month": "11",
+    "tel": "070-7579-5330",
+    "status": "폐업자",
+    "ceo": "백병수",
+    "address": "부산광역시 남구 석포로91번길 82 (대연동) 82, Seokpo-ro 91beon-gil, Nam-gu, Busan, Republic of Korea",
+    "closeDate": "2013-03-18",
+    "isClosed": true
+  },
+  "1061": {
+    "regDate": "2017-02-20",
+    "year": "2017",
+    "month": "2",
+    "tel": "051-832-1023",
+    "fax": "051-832-1019",
+    "employees": "4",
+    "status": "폐업자",
+    "ceo": "이정석",
+    "address": "부산광역시 강서구 과학산단1로60번길 31(지사동, 부산테크노파크) 31, Gwahaksandan 1-ro 60beon-gil, Gangseo-gu, Busan, Republic of Korea",
+    "closeDate": "2023-05-04",
+    "isClosed": true
+  },
+  "1342": {
+    "regDate": "2000-11-01",
+    "year": "2000",
+    "month": "11",
+    "tel": "051-242-4837",
+    "fax": "051-242-4840",
+    "employees": "7",
+    "status": "폐업자",
+    "ceo": "이진수",
+    "address": "부산광역시 중구 흑교로75번길 10, 2층 10, Heukgyo-ro 75beon-gil, Jung-gu, Busan, Republic of Korea",
+    "closeDate": "2021-07-25",
+    "isClosed": true
+  },
+  "1367": {
+    "regDate": "2022-05-01",
+    "year": "2022",
+    "month": "5",
+    "employees": "5",
+    "status": "계속사업자",
+    "address": "부산광역시 수영구 감포로8번길 15"
+  },
+  "1522": {
+    "regDate": "2011-05-01",
+    "year": "2011",
+    "month": "5",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "신지선",
+    "address": "부산광역시 해운대구 센텀중앙로 97, A동 1605호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "1565": {
+    "tel": "051-866-7818",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김주환",
+    "address": "부산광역시 부산진구 중앙대로 940-1 940-1, Jungang-daero, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "1567": {
+    "regDate": "2020-06-09",
+    "year": "2020",
+    "month": "6",
+    "tel": "051-323-3007",
+    "fax": "051-797-8720",
+    "employees": "10",
+    "status": "계속사업자",
+    "ceo": "최보필",
+    "address": "부산광역시 사상구 모라로 22, 4층 416호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea"
+  },
+  "1570": {
+    "regDate": "2013-08-01",
+    "year": "2013",
+    "month": "8",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김갑수",
+    "address": "부산광역시 사하구 승학로151-2 (괴정동)"
+  },
+  "1573": {
+    "regDate": "2001-07-15",
+    "year": "2001",
+    "month": "7",
+    "tel": "051-441-0170",
+    "fax": "051-441-0170",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "정민주",
+    "address": "부산광역시 부산진구 황령대로64번길 14, 2층"
+  },
+  "1589": {
+    "regDate": "2008-05-29",
+    "year": "2008",
+    "month": "5",
+    "tel": "080-080-0149",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "윤성원",
+    "address": "부산광역시 연제구 법원남로16번길 21, 301호",
+    "closeDate": "2026-06-30",
+    "isClosed": true
+  },
+  "1606": {
+    "regDate": "2012-01-06",
+    "year": "2012",
+    "month": "1",
+    "tel": "070-8254-3988",
+    "employees": "14",
+    "status": "계속사업자",
+    "ceo": "박해승",
+    "address": "부산광역시 기장군 기장읍 대청로8번길 43 (기장읍)"
+  },
+  "1674": {
+    "tel": "051-803-1088",
+    "employees": "5",
+    "status": "계속사업자",
+    "address": "부산광역시 부산진구 중앙대로702번길 33"
+  },
+  "1684": {
+    "regDate": "2023-05-26",
+    "year": "2023",
+    "month": "5",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "황종필",
+    "address": "부산광역시 동래구 충렬대로202번가길 3 (수안동) 102호"
+  },
+  "1718": {
+    "regDate": "2018-09-16",
+    "year": "2018",
+    "month": "9",
+    "tel": "051-505-1009",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김성희",
+    "address": "부산광역시 동래구 사직북로 4, 8층 1호(사직동, 삼정자이언츠파크) 4, Sajikbuk-ro, Dongnae-gu, Busan, Republic of Korea"
+  },
+  "1720": {
+    "regDate": "2018-08-01",
+    "year": "2018",
+    "month": "8",
+    "employees": "1",
+    "status": "폐업자",
+    "address": "부산광역시 동래구 충렬대로 420",
+    "closeDate": "2023-09-06",
+    "isClosed": true
+  },
+  "1731": {
+    "regDate": "2020-01-06",
+    "year": "2020",
+    "month": "1",
+    "tel": "051-322-1067",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "임오철",
+    "address": "부산광역시 사상구 농산물시장로 22"
+  },
+  "1744": {
+    "regDate": "2019-08-29",
+    "year": "2019",
+    "month": "8",
+    "tel": "051-784-9664",
+    "fax": "051-784-9665",
+    "employees": "5",
+    "status": "폐업자",
+    "ceo": "정민근",
+    "address": "부산광역시 해운대구 센텀중앙로 90, 큐비이센텀 1204호 (재송동)",
+    "closeDate": "2026-07-20",
+    "isClosed": true
+  },
+  "1755": {
+    "regDate": "1991-01-01",
+    "year": "1991",
+    "month": "1",
+    "tel": "051-510-1932",
+    "fax": "051-512-7812",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "차정인",
+    "address": "부산광역시 금정구 부산대학로63번길 2-1(장전동) 2-1, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea"
+  },
+  "1763": {
+    "regDate": "1998-10-01",
+    "year": "1998",
+    "month": "10",
+    "tel": "051-504-4880",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "김대희",
+    "address": "부산광역시 동래구 아시아드대로 127"
+  },
+  "1767": {
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "김재익",
+    "address": "부산광역시 부산진구 당감로45번길 19",
+    "closeDate": "2025-12-20",
+    "isClosed": true
+  },
+  "1769": {
+    "regDate": "2022-06-07",
+    "year": "2022",
+    "month": "6",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "강해숙",
+    "address": "부산광역시 부산진구 서전로 11-1, 2층(부전동, 신전빌딩) 11-1, Seojeon-ro, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "1778": {
+    "regDate": "2023-06-29",
+    "year": "2023",
+    "month": "6",
+    "tel": "051-202-7258",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김은호",
+    "address": "부산광역시 사하구 낙동대로 443"
+  },
+  "1793": {
+    "regDate": "2004-06-22",
+    "year": "2004",
+    "month": "6",
+    "tel": "051-463-0628",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "김성철",
+    "address": "부산광역시 동구 초량상로 102, 3층 102, Choryangsang-ro, Dong-gu, Busan, Republic of Korea",
+    "closeDate": "2020-07-31",
+    "isClosed": true
+  },
+  "1800": {
+    "regDate": "2019-01-02",
+    "year": "2019",
+    "month": "1",
+    "tel": "070-7757-9434",
+    "fax": "050-4289-9434",
+    "employees": "6",
+    "status": "계속사업자",
+    "ceo": "오상민",
+    "address": "부산광역시 금정구 오륜대로 57, 정보공학관 B동 001호(부곡동, 부산가톨릭대학교)"
+  },
+  "1805": {
+    "regDate": "2024-04-01",
+    "year": "2024",
+    "month": "4",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 기장군 장안읍 정관로  1133 2층 262호 (부산광역시 프리미엄 아울렛) 1133, Jeonggwan-ro, Jangan-eup, Gijang-gun, Busan, Republic of Korea"
+  },
+  "1806": {
+    "regDate": "2004-01-01",
+    "year": "2004",
+    "month": "1",
+    "tel": "051-557-2332",
+    "employees": "7",
+    "status": "계속사업자",
+    "ceo": "정태선",
+    "address": "부산광역시 동래구 쇠미로17번길 20 1층 (사직동)"
+  },
+  "1827": {
+    "regDate": "2021-01-08",
+    "year": "2021",
+    "month": "1",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "최효준",
+    "address": "부산광역시 해운대구  센텀동로 41 (우동, 센텀벤처타운) 308호 41, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "1845": {
+    "regDate": "2011-12-01",
+    "year": "2011",
+    "month": "12",
+    "tel": "051-710-5657",
+    "fax": "051-710-5668",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "장정화",
+    "address": "부산광역시 해운대구 센텀동로 35, 602호 35, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "1862": {
+    "regDate": "2012-11-05",
+    "year": "2012",
+    "month": "11",
+    "tel": "070-7835-6376",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "한태우",
+    "address": "부산광역시 금정구 반송로 417-1 지하1층 (금사동)"
+  },
+  "1879": {
+    "regDate": "2021-08-25",
+    "year": "2021",
+    "month": "8",
+    "tel": "070-7776-4576",
+    "fax": "050-4208-8165",
+    "employees": "9",
+    "status": "폐업자",
+    "ceo": "김건우",
+    "address": "부산광역시 금정구 오륜대로 262",
+    "closeDate": "2026-03-01",
+    "isClosed": true
+  },
+  "1898": {
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "권만우",
+    "address": "부산광역시 남구 수영로 309, 301호(대연동, 경성대학교내 23호관) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "1901": {
+    "employees": "2",
+    "status": "계속사업자",
+    "address": "부산광역시 남구 진남로 82"
+  },
+  "1907": {
+    "regDate": "2022-09-15",
+    "year": "2022",
+    "month": "9",
+    "status": "폐업자",
+    "ceo": "정재규",
+    "address": "부산광역시 동래구 시실로 ******** ******동 ******호 (명장동** 동래동*****",
+    "closeDate": "2023-02-01",
+    "isClosed": true
+  },
+  "1912": {
+    "tel": "051-803-3177",
+    "employees": "1",
+    "status": "폐업자",
+    "address": "부산광역시 부산진구 전포대로199번길 15 15, Jeonpo-daero 199beon-gil, Busanjin-gu, Busan, Republic of Korea",
+    "closeDate": "2018-12-31",
+    "isClosed": true
+  },
+  "1913": {
+    "regDate": "2021-08-25",
+    "year": "2021",
+    "month": "8",
+    "tel": "051-609-9019",
+    "fax": "051-609-9016",
+    "employees": "11",
+    "status": "계속사업자",
+    "ceo": "이대흥",
+    "address": "부산광역시 사상구 모라로 22, 1303호, 1505호(모라동, 부산벤처타워) 22, Mora-ro, Sasang-gu, Busan, Republic of Korea"
+  },
+  "1928": {
+    "regDate": "2024-03-07",
+    "year": "2024",
+    "month": "3",
+    "tel": "1074732770",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "신무현",
+    "address": "부산광역시 해운대구 센텀중앙로 48, 1304호 48, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "1932": {
+    "regDate": "2023-02-13",
+    "year": "2023",
+    "month": "2",
+    "tel": "1027546931",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "유성훈",
+    "address": "부산광역시 해운대구 센텀중앙로 97, A동 9층 904호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "1950": {
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "최원재",
+    "address": "부산광역시 강서구 명지국제6로 107, 2층 B-208,209,210,211,212,213호(명지동) 107, Myeongjigukje 6-ro, Gangseo-gu, Busan, Republic of Korea"
+  },
+  "1953": {
+    "regDate": "2014-07-01",
+    "year": "2014",
+    "month": "7",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "황치원",
+    "address": "부산광역시 금정구 중앙대로1893번길 13(구서동) 13, Jungang-daero 1893beon-gil, Geumjeong-gu, Busan, Republic of Korea"
+  },
+  "1981": {
+    "regDate": "1990-01-15",
+    "year": "1990",
+    "month": "1",
+    "tel": "051-645-0515",
+    "fax": "051-645-1800",
+    "employees": "140",
+    "status": "계속사업자",
+    "ceo": "정택수",
+    "address": "부산광역시 부산진구 범일로 181(범천동) 181, Beomil-ro, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "1984": {
+    "regDate": "2001-07-01",
+    "year": "2001",
+    "month": "7",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "우태곤",
+    "address": "부산광역시 부산진구 가야대로755번길 42 42, Gaya-daero 755beon-gil, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "1988": {
+    "regDate": "2016-12-01",
+    "year": "2016",
+    "month": "12",
+    "tel": "051-342-1803",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "장희목",
+    "address": "부산광역시 북구 금곡대로616번길 9(금곡동) 9, Geumgok-daero 616beon-gil, Buk-gu, Busan, Republic of Korea"
+  },
+  "1992": {
+    "regDate": "2022-11-10",
+    "year": "2022",
+    "month": "11",
+    "status": "계속사업자",
+    "ceo": "정지호",
+    "address": "부산광역시 사상구 백양대로******번길 ****** ******동 ******호 (주례동** 엘지신주*****"
+  },
+  "1997": {
+    "regDate": "2010-06-08",
+    "year": "2010",
+    "month": "6",
+    "tel": "051-701-9237",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "정길석",
+    "address": "부산광역시 수영구 광일로20번길 50, 101호 50, Gwangil-ro 20beon-gil, Suyeong-gu, Busan, Republic of Korea"
+  },
+  "2009": {
+    "regDate": "2019-04-22",
+    "year": "2019",
+    "month": "4",
+    "tel": "160-170-0974",
+    "fax": "0502-989-9321",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "심정원",
+    "address": "부산광역시 중구 대청로135번길 (중앙동3가)"
+  },
+  "2014": {
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 재반로212번길 45"
+  },
+  "2032": {
+    "regDate": "2013-05-01",
+    "year": "2013",
+    "month": "5",
+    "tel": "051-900-1400",
+    "status": "계속사업자",
+    "ceo": "이성현",
+    "address": "부산광역시 강서구 평강로171번길 248(대저1동)"
+  },
+  "2040": {
+    "regDate": "2010-06-01",
+    "year": "2010",
+    "month": "6",
+    "tel": "070-7760-8806",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "박윤실",
+    "address": "부산광역시 부산진구  백양순환로 97 (부암동) 2층"
+  },
+  "2050": {
+    "regDate": "2021-09-27",
+    "year": "2021",
+    "month": "9",
+    "tel": "051-204-7766",
+    "status": "폐업자",
+    "ceo": "오주환",
+    "address": "부산광역시 사하구 하단동492-25 33, Nakdong-daero 516beon-gil, Saha-gu, Busan, Republic of Korea",
+    "closeDate": "2024-12-11",
+    "isClosed": true
+  },
+  "2051": {
+    "regDate": "2021-12-01",
+    "year": "2021",
+    "month": "12",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 서구 대영로85번길 38"
+  },
+  "2059": {
+    "regDate": "2001-07-01",
+    "year": "2001",
+    "month": "7",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "탁기만",
+    "address": "부산광역시 사하구 하신중앙로3번가길 26 (장림동) 26, Hasinjungang-ro 3beonga-gil, Saha-gu, Busan, Republic of Korea",
+    "closeDate": "2025-01-31",
+    "isClosed": true
+  },
+  "2060": {
+    "regDate": "2013-04-01",
+    "year": "2013",
+    "month": "4",
+    "tel": "051-510-7509",
+    "fax": "051-955-2001",
+    "employees": "2",
+    "status": "폐업자",
+    "ceo": "강민수",
+    "address": "부산광역시 수영구  수영로 648 (광안동, 광안동롯데골드로즈) 201호 648, Suyeong-ro, Suyeong-gu, Busan, Republic of Korea",
+    "closeDate": "2022-12-01",
+    "isClosed": true
+  },
+  "2065": {
+    "employees": "10",
+    "status": "폐업자",
+    "address": "부산광역시 남구 용소로14번길 10, 4층 (대연동,대성빌딩) 10, Yongso-ro 14beon-gil, Nam-gu, Busan, Republic of Korea",
+    "closeDate": "2026-03-16",
+    "isClosed": true
+  },
+  "2067": {
+    "regDate": "2004-03-22",
+    "year": "2004",
+    "month": "3",
+    "tel": "051-663-5085",
+    "fax": "051-663-5059",
+    "employees": "38",
+    "status": "계속사업자",
+    "ceo": "최주용",
+    "address": "부산광역시 남구 수영로 309(대연동, 경성대학교  내) 309, Suyeong-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2068": {
+    "regDate": "2021-12-09",
+    "year": "2021",
+    "month": "12",
+    "tel": "051-320-1703",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "송승근",
+    "address": "부산광역시 사상구 주례로 47 , 901호(주례동, 동서대학교 뉴밀레니엄관)"
+  },
+  "2071": {
+    "regDate": "2022-09-13",
+    "year": "2022",
+    "month": "9",
+    "tel": "070-4242-8559",
+    "fax": "0508-901-8559",
+    "employees": "8",
+    "status": "계속사업자",
+    "ceo": "김유성",
+    "address": "부산광역시 연제구 연제로 24, 201호(연산동) 24, Yeonje-ro, Yeonje-gu, Busan, Republic of Korea"
+  },
+  "2073": {
+    "regDate": "2014-07-28",
+    "year": "2014",
+    "month": "7",
+    "tel": "051-244-8478",
+    "status": "계속사업자",
+    "ceo": "강정원",
+    "address": "부산광역시 중구 중앙대로 21, 1층 1다1,2호(동광동1가, 부산데파트)"
+  },
+  "2074": {
+    "regDate": "2019-04-23",
+    "year": "2019",
+    "month": "4",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "정용석",
+    "address": "부산광역시 해운대구 반여로185번길 74-46 (반여동) 2동"
+  },
+  "2076": {
+    "regDate": "2000-09-05",
+    "year": "2000",
+    "month": "9",
+    "tel": "051-712-7801",
+    "fax": "051-712-7810",
+    "employees": "38",
+    "status": "계속사업자",
+    "ceo": "이근재",
+    "address": "부산광역시 해운대구 센텀북대로 60 11층"
+  },
+  "2094": {
+    "regDate": "2024-10-04",
+    "year": "2024",
+    "month": "10",
+    "employees": "3",
+    "status": "계속사업자",
+    "address": "부산광역시 남구 수영로 295 (대연동) 407호 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2095": {
+    "regDate": "2022-04-14",
+    "year": "2022",
+    "month": "4",
+    "tel": "051-703-9463",
+    "fax": "051-000-0000",
+    "employees": "7",
+    "status": "계속사업자",
+    "ceo": "황수웅",
+    "address": "부산광역시 해운대구 세실로27번길 11-0 (좌동) 3층 303호 (좌동, 대승코아)"
+  },
+  "2096": {
+    "regDate": "2019-07-25",
+    "year": "2019",
+    "month": "7",
+    "tel": "051-741-1050",
+    "fax": "051-741-1050",
+    "employees": "14",
+    "status": "계속사업자",
+    "ceo": "손지형",
+    "address": "부산광역시 해운대구 센텀동로 45, 305호(우동, (주)웹스)"
+  },
+  "2098": {
+    "regDate": "2021-05-03",
+    "year": "2021",
+    "month": "5",
+    "tel": "051-752-0103",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "차니은",
+    "address": "부산광역시 금정구 금정로 113 383-5 3층 304호"
+  },
+  "2103": {
+    "regDate": "2022-02-28",
+    "year": "2022",
+    "month": "2",
+    "employees": "12",
+    "status": "계속사업자",
+    "ceo": "고진호",
+    "address": "부산광역시 해운대구 달맞이길117번길 30 (중동) 지하1층"
+  },
+  "2104": {
+    "regDate": "2022-08-01",
+    "year": "2022",
+    "month": "8",
+    "employees": "15",
+    "status": "계속사업자",
+    "ceo": "정훈일",
+    "address": "부산광역시 해운대구 센텀6로 21 (우동) 3층 307호"
+  },
+  "2110": {
+    "regDate": "2013-04-09",
+    "year": "2013",
+    "month": "4",
+    "tel": "051-294-2001",
+    "fax": "051-294-2006",
+    "employees": "27",
+    "status": "계속사업자",
+    "ceo": "전원석",
+    "address": "부산광역시 사하구 하신중앙로 323, 1~6층 7층일부 (2층제외)(하단동, 전원빌딩) 323, Hasinjungang-ro, Saha-gu, Busan, Republic of Korea"
+  },
+  "2112": {
+    "regDate": "2009-10-01",
+    "year": "2009",
+    "month": "10",
+    "tel": "051-553-4168",
+    "fax": "051-553-4169",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "원성훈",
+    "address": "부산광역시 수영구 수영로624번길 46"
+  },
+  "2114": {
+    "regDate": "2012-01-20",
+    "year": "2012",
+    "month": "1",
+    "tel": "051-817-7610",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "김옥희",
+    "address": "부산광역시 부산진구 동성로 143, 2층 85호 143, Dongseong-ro, Busanjin-gu, Busan, Republic of Korea",
+    "closeDate": "2023-12-27",
+    "isClosed": true
+  },
+  "2119": {
+    "regDate": "2021-05-31",
+    "year": "2021",
+    "month": "5",
+    "tel": "051-850-1433",
+    "employees": "4",
+    "status": "폐업자",
+    "ceo": "이영주",
+    "address": "부산광역시 연제구 고분로 170 (연산동, 부산경상대학교 창조관) 2층 203호",
+    "closeDate": "2024-04-08",
+    "isClosed": true
+  },
+  "2121": {
+    "regDate": "2014-09-22",
+    "year": "2014",
+    "month": "9",
+    "tel": "051-442-2600",
+    "employees": "2",
+    "status": "폐업자",
+    "ceo": "선태미",
+    "address": "부산광역시 해운대구 센텀중앙로 90, 본동 819호",
+    "closeDate": "2022-12-31",
+    "isClosed": true
+  },
+  "2127": {
+    "regDate": "2015-08-01",
+    "year": "2015",
+    "month": "8",
+    "fax": "050-8092-9152",
+    "employees": "4",
+    "status": "폐업자",
+    "ceo": "정동휘",
+    "address": "부산광역시 해운대구 양운로 56-0 (좌동) SK허브올리브 1414호",
+    "closeDate": "2024-12-31",
+    "isClosed": true
+  },
+  "2130": {
+    "regDate": "2025-03-01",
+    "year": "2025",
+    "month": "3",
+    "tel": "051-515-8875",
+    "employees": "2",
+    "status": "계속사업자",
+    "address": "부산 금정구 금정로60번길 37 (장전동) 37, Geumjeong-ro 60beon-gil, Geumjeong-gu, Busan, Republic of Korea"
+  },
+  "2133": {
+    "regDate": "2022-11-01",
+    "year": "2022",
+    "month": "11",
+    "tel": "051-710-2695",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "황순옥",
+    "address": "부산광역시 남구 문현금융로 40-0 (문현동) BIFC 8층 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2134": {
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "김영식",
+    "address": "부산광역시 남구 신선로 365 6층 602호 (용당동, 부경대학교용당캠퍼스 10공학관) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2135": {
+    "regDate": "2014-04-09",
+    "year": "2014",
+    "month": "4",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "김진목",
+    "address": "부산광역시 해운대구 센텀동로 35 (우동) 센텀SH밸리 409호"
+  },
+  "2136": {
+    "regDate": "2015-10-23",
+    "year": "2015",
+    "month": "10",
+    "tel": "070-8228-8116",
+    "fax": "070-4369-4080",
+    "employees": "32",
+    "status": "폐업자",
+    "ceo": "정일화",
+    "address": "부산광역시 해운대구 센텀동로 35",
+    "closeDate": "2025-12-31",
+    "isClosed": true
+  },
+  "2137": {
+    "regDate": "2022-01-17",
+    "year": "2022",
+    "month": "1",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "옥혜경",
+    "address": "부산광역시 해운대구 센텀중앙로 97, A동 17층 1703호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2138": {
+    "regDate": "2018-01-01",
+    "year": "2018",
+    "month": "1",
+    "employees": "2",
+    "status": "휴업자",
+    "ceo": "황재섭",
+    "address": "부산광역시 해운대구 센텀중앙로 97, 에이동 1607호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2139": {
+    "regDate": "2016-04-01",
+    "year": "2016",
+    "month": "4",
+    "tel": "1040664656",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "송봉균",
+    "address": "부산광역시 부산진구 서면로 39, 6층 606호(부전동, KT&amp;G 상상마당부산) 39, Seomyeon-ro, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "2140": {
+    "regDate": "2013-01-21",
+    "year": "2013",
+    "month": "1",
+    "tel": "051-1599-3288",
+    "fax": "02-6442-7724",
+    "employees": "41",
+    "status": "계속사업자",
+    "ceo": "염상준",
+    "address": "부산광역시 부산진구 서면로 39, 6층 9,10호(부전동, KT\\u0026amp;G 상상마당부산)"
+  },
+  "2141": {
+    "regDate": "2018-02-28",
+    "year": "2018",
+    "month": "2",
+    "tel": "1644-8725",
+    "employees": "68",
+    "status": "계속사업자",
+    "ceo": "곽수용",
+    "address": "부산광역시 부산진구 서면로 39, 6층 601,602,603호(부전동,KT&G 상상마당부산)"
+  },
+  "2149": {
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "이철규",
+    "address": "부산광역시 사하구 장평로132번길 16-4(장림동) 16-4, Jangpyeong-ro 132beon-gil, Saha-gu, Busan, Republic of Korea"
+  },
+  "2150": {
+    "regDate": "2018-04-04",
+    "year": "2018",
+    "month": "4",
+    "tel": "051-611-5060",
+    "fax": "050-7562-4733",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "조현주",
+    "address": "부산광역시 해운대구 대천로 92-6, 4층(좌동) 92-6, Daecheon-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2151": {
+    "regDate": "2011-01",
+    "year": "2011",
+    "month": "1",
+    "tel": "051-921-2107",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "박건윤",
+    "address": "부산광역시 해운대구 APEC로 17 17, APEC-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2156": {
+    "regDate": "2012-06",
+    "year": "2012",
+    "month": "6",
+    "tel": "070-7313-1394",
+    "employees": "3",
+    "status": "폐업자",
+    "ceo": "사동화",
+    "address": "부산광역시 금정구 부산대학로63번길 2, 401 (장전동, 부산대학교 효원산학협동관) 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, Republic of Korea",
+    "closeDate": "2022-01-14",
+    "isClosed": true
+  },
+  "2158": {
+    "regDate": "2006-07",
+    "year": "2006",
+    "month": "7",
+    "tel": "051-621-0500",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "황정욱",
+    "address": "부산광역시 남구 수영로 300, 503호",
+    "closeDate": "2019-10-29",
+    "isClosed": true
+  },
+  "2159": {
+    "regDate": "2012-09-18",
+    "year": "2012",
+    "month": "9",
+    "tel": "051-744-1901",
+    "fax": "051-744-1903",
+    "employees": "8",
+    "status": "폐업자",
+    "ceo": "조형래",
+    "address": "부산광역시 해운대구 센텀중앙로 97, A동 405호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "closeDate": "2020-05-31",
+    "isClosed": true
+  },
+  "2161": {
+    "regDate": "2001-12",
+    "year": "2001",
+    "month": "12",
+    "tel": "070-4084-9990",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "김휘복",
+    "address": "부산광역시 사상구 주례로 148"
+  },
+  "2167": {
+    "regDate": "2018-05-18",
+    "year": "2018",
+    "month": "5",
+    "fax": "050-4226-3731",
+    "employees": "23",
+    "status": "폐업자",
+    "ceo": "홍순기",
+    "address": "부산광역시 해운대구 센텀중앙로 66, 901호 (우동, 센텀 T타워)",
+    "closeDate": "2024-05-31",
+    "isClosed": true
+  },
+  "2170": {
+    "regDate": "2018-08-01",
+    "year": "2018",
+    "month": "8",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "이준호",
+    "address": "부산광역시 수영구  민락수변로7번길 60"
+  },
+  "2172": {
+    "regDate": "2015-07-01",
+    "year": "2015",
+    "month": "7",
+    "tel": "051-714-0414",
+    "fax": "051-714-0415",
+    "employees": "12",
+    "status": "계속사업자",
+    "ceo": "안호준,정휘석",
+    "address": "부산광역시 남구 신선로 365, 7공학관 201호(용당동, 부경대학교용당캠퍼스) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2173": {
+    "regDate": "2013-04-22",
+    "year": "2013",
+    "month": "4",
+    "tel": "051-743-0905",
+    "fax": "051-743-6905",
+    "employees": "6",
+    "status": "계속사업자",
+    "ceo": "서영우",
+    "address": "부산광역시 해운대구 센텀중앙로 97, A동 2507호 (재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2174": {
+    "regDate": "2025-04-01",
+    "year": "2025",
+    "month": "4",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 좌동로 88 (좌동, 울트라타워) 14층 88, Jwadong-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2176": {
+    "regDate": "2005-06-15",
+    "year": "2005",
+    "month": "6",
+    "tel": "051-624-8813",
+    "employees": "4",
+    "status": "계속사업자",
+    "address": "부산광역시 남구 용소로 4"
+  },
+  "2187": {
+    "regDate": "2023-04-01",
+    "year": "2023",
+    "month": "4",
+    "employees": "27",
+    "status": "계속사업자",
+    "ceo": "이근조",
+    "address": "부산광역시 강서구 녹산산업중로 224 224, Noksansaneopjung-ro, Gangseo-gu, Busan, Republic of Korea"
+  },
+  "2188": {
+    "regDate": "2016-07-01",
+    "year": "2016",
+    "month": "7",
+    "employees": "2",
+    "status": "계속사업자",
+    "address": "부산광역시 강서구 화전산단6로 46 (화전동) 46, Hwajeonsandan 6-ro, Gangseo-gu, Busan, Republic of Korea"
+  },
+  "2189": {
+    "regDate": "2024-01-22",
+    "year": "2024",
+    "month": "1",
+    "employees": "5",
+    "status": "계속사업자",
+    "address": "부산광역시 남구 수영로266번길 10 101동 8층 2호 10, Suyeong-ro 266beon-gil, Nam-gu, Busan, Republic of Korea"
+  },
+  "2190": {
+    "regDate": "2024-08-31",
+    "year": "2024",
+    "month": "8",
+    "employees": "7",
+    "status": "계속사업자",
+    "address": "부산광역시 남구 수영로 295 3층 301호 (대연동, 세웅빌딩) 295, Suyeong-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2191": {
+    "regDate": "2021-01-01",
+    "year": "2021",
+    "month": "1",
+    "employees": "1",
+    "status": "폐업자",
+    "address": "부산광역시 남구  용소로 56",
+    "closeDate": "2026-05-21",
+    "isClosed": true
+  },
+  "2192": {
+    "regDate": "2012-08-24",
+    "year": "2012",
+    "month": "8",
+    "employees": "28",
+    "status": "계속사업자",
+    "ceo": "이진아",
+    "address": "부산광역시 남구 수영로 312 15층 1515호 (대연동)"
+  },
+  "2193": {
+    "regDate": "2022-06-24",
+    "year": "2022",
+    "month": "6",
+    "tel": "1038043808",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김선미",
+    "address": "부산광역시 남구 수영로322번길 20 3층 (대연동 리젠시빌딩)"
+  },
+  "2195": {
+    "regDate": "2022-02-21",
+    "year": "2022",
+    "month": "2",
+    "tel": "051-992-5839",
+    "status": "계속사업자",
+    "ceo": "강효진",
+    "address": "부산광역시 남구 석포로 102, 지하1층(대연동)"
+  },
+  "2197": {
+    "regDate": "2019-11-14",
+    "year": "2019",
+    "month": "11",
+    "fax": "0504-493-0542",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "현미희",
+    "address": "부산광역시 남구 신선로 365, 302호(용당동, 부경대학교 10공학관)"
+  },
+  "2201": {
+    "regDate": "2023-04-01",
+    "year": "2023",
+    "month": "4",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "양영철",
+    "address": "부산광역시 남구 문현금융로 40 (문현동) 부산국제금융센터 8층 11호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2202": {
+    "regDate": "2023-01-02",
+    "year": "2023",
+    "month": "1",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 남구  문현금융로 40 (문현동) 8층 8호 40, Munhyeongeumyung-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2206": {
+    "regDate": "2016-03-16",
+    "year": "2016",
+    "month": "3",
+    "fax": "051-626-2690",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김순자",
+    "address": "부산광역시 남구 신선로 365, 203호 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2208": {
+    "regDate": "2025-01-17",
+    "year": "2025",
+    "month": "1",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "박성수",
+    "address": "부산광역시 사상구 대동로 303 (감전동) 부산디지털밸리 502호 303, Daedong-ro, Sasang-gu, Busan, Republic of Korea"
+  },
+  "2213": {
+    "regDate": "2024-09-02",
+    "year": "2024",
+    "month": "9",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "오형석",
+    "address": "부산광역시 사하구 낙동대로 542, 3층 302-에이171호 (하단동, 대우에덴프라자) 542, Nakdong-daero, Saha-gu, Busan, Republic of Korea"
+  },
+  "2214": {
+    "regDate": "2022-05-12",
+    "year": "2022",
+    "month": "5",
+    "tel": "070-8691-2287",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "이정숙",
+    "address": "서울특별시 강서구 강서로47길 165, 9층 25호(내발산동, 신원메디칼프라자) 165, Gangseo-ro 47-gil, Gangseo-gu, Seoul, Republic of Korea"
+  },
+  "2216": {
+    "regDate": "1989-01-14",
+    "year": "1989",
+    "month": "1",
+    "tel": "070-4733-1000",
+    "fax": "051-955-3001",
+    "employees": "104",
+    "status": "계속사업자",
+    "ceo": "최장수",
+    "address": "부산광역시 해운대구 반송로513번길 66-39(석대동) 66-39, Bansong-ro 513beon-gil, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2218": {
+    "regDate": "2020-01-01",
+    "year": "2020",
+    "month": "1",
+    "employees": "9",
+    "status": "계속사업자",
+    "ceo": "신진영",
+    "address": "부산광역시 해운대구 센텀동로 71"
+  },
+  "2220": {
+    "regDate": "2024-02-20",
+    "year": "2024",
+    "month": "2",
+    "tel": "1082161520",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "김경태",
+    "address": "부산광역시 해운대구 센텀서로 30 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2222": {
+    "regDate": "2021-06-07",
+    "year": "2021",
+    "month": "6",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "박영미",
+    "address": "부산광역시 해운대구 센텀6로 21, 7층 701호 21, Centum 6-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2223": {
+    "regDate": "2021-07-20",
+    "year": "2021",
+    "month": "7",
+    "tel": "051-710-9956",
+    "fax": "051-710-9958",
+    "employees": "12",
+    "status": "계속사업자",
+    "ceo": "최기석",
+    "address": "부산광역시 해운대구 해운대해변로 203, 729호(우동, 오션타워) 203, Haeundaehaebyeon-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2224": {
+    "employees": "3",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 센텀중앙로 78 78, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2225": {
+    "regDate": "2023-11-01",
+    "year": "2023",
+    "month": "11",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "박성국",
+    "address": "부산광역시 해운대구 센텀중앙로 78, 1708호"
+  },
+  "2226": {
+    "regDate": "2023-01-09",
+    "year": "2023",
+    "month": "1",
+    "tel": "1050378819",
+    "employees": "12",
+    "status": "계속사업자",
+    "ceo": "조호",
+    "address": "부산광역시 해운대구 센텀중앙로 78 (우동, 센텀그린타워) 504호"
+  },
+  "2227": {
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "어경현",
+    "address": "부산광역시 해운대구 센텀중앙로 48, 1202호(우동, 에이스하이테크21)"
+  },
+  "2228": {
+    "regDate": "2023-09-18",
+    "year": "2023",
+    "month": "9",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "조보성",
+    "address": "부산광역시 해운대구 센텀중앙로 48, 1304호(우동, 에이스하이테크21) 48, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2230": {
+    "regDate": "2023-06-15",
+    "year": "2023",
+    "month": "6",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "권소망",
+    "address": "부산광역시 해운대구 센텀동로 57 (우동)"
+  },
+  "2231": {
+    "regDate": "2018-05-01",
+    "year": "2018",
+    "month": "5",
+    "tel": "1098837821",
+    "employees": "7",
+    "status": "계속사업자",
+    "ceo": "조형근",
+    "address": "부산광역시 해운대구 수영강변대로 140 6층 621호 (우동) 140, Suyeonggangbyeon-daero, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2232": {
+    "regDate": "2014-01-01",
+    "year": "2014",
+    "month": "1",
+    "tel": "02-1588-1159",
+    "fax": "051-743-3007",
+    "employees": "10",
+    "status": "계속사업자",
+    "ceo": "김수민",
+    "address": "부산광역시 해운대구 센텀동로 71, 1207호"
+  },
+  "2233": {
+    "regDate": "2016-01-01",
+    "year": "2016",
+    "month": "1",
+    "employees": "37",
+    "status": "계속사업자",
+    "ceo": "송봉춘",
+    "address": "부산광역시 해운대구 센텀서로 30 (우동, 케이엔엔타워) 2203호 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2235": {
+    "regDate": "2018-08-01",
+    "year": "2018",
+    "month": "8",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "김대희",
+    "address": "부산광역시 해운대구 센텀서로 30 (KNN타워 806호) 30, Centum seo-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2236": {
+    "regDate": "2015-05-08",
+    "year": "2015",
+    "month": "5",
+    "employees": "3",
+    "status": "계속사업자",
+    "ceo": "이경일",
+    "address": "부산광역시 해운대구 센텀중앙로 48 (우동, 에이스하이테크21 1304호)"
+  },
+  "2240": {
+    "employees": "23",
+    "status": "계속사업자",
+    "ceo": "이홍배",
+    "address": "부산광역시 해운대구 센텀동로 45 45, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2241": {
+    "regDate": "2023-08-01",
+    "year": "2023",
+    "month": "8",
+    "tel": "1040862140",
+    "fax": "051-629-6478",
+    "employees": "10",
+    "status": "계속사업자",
+    "ceo": "최성철",
+    "address": "부산광역시 해운대구 센텀동로 45 (우동) 1층"
+  },
+  "2243": {
+    "regDate": "2018-04-26",
+    "year": "2018",
+    "month": "4",
+    "tel": "1833-9119",
+    "fax": "02-558-9861",
+    "employees": "77",
+    "status": "계속사업자",
+    "ceo": "박재병",
+    "address": "부산광역시 부산진구 중앙대로 799-1, (삼성동, 이케이타워) 14층"
+  },
+  "2244": {
+    "regDate": "2019-08-22",
+    "year": "2019",
+    "month": "8",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김동훈",
+    "address": "부산광역시 해운대구 센텀동로 45, 1층"
+  },
+  "2245": {
+    "regDate": "2025-04-01",
+    "year": "2025",
+    "month": "4",
+    "employees": "9",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 센텀중앙로 97 (재송동, 센텀스카이비즈) A동 16층 1606호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2246": {
+    "regDate": "2023-05-15",
+    "year": "2023",
+    "month": "5",
+    "employees": "1",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 센텀중앙로 97 제이에이동 2305호(재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2247": {
+    "regDate": "2023-03-14",
+    "year": "2023",
+    "month": "3",
+    "tel": "02-6672-0010",
+    "employees": "1",
+    "status": "폐업자",
+    "ceo": "김범진",
+    "address": "부산광역시 해운대구  센텀중앙로 97 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea",
+    "closeDate": "2023-12-31",
+    "isClosed": true
+  },
+  "2249": {
+    "regDate": "2020-09-24",
+    "year": "2020",
+    "month": "9",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "박장식",
+    "address": "부산광역시 해운대구 센텀북대로 60 60, Centum buk-daero, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2251": {
+    "regDate": "2025-03-04",
+    "year": "2025",
+    "month": "3",
+    "employees": "3",
+    "status": "계속사업자",
+    "address": "부산 해운대구 센텀동로 99 (재송동, 벽산이센텀클래스원) 412호 99, Centum dong-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2252": {
+    "regDate": "2017-07-01",
+    "year": "2017",
+    "month": "7",
+    "employees": "4",
+    "status": "계속사업자",
+    "address": "부산광역시 해운대구 센텀중앙로 97, 1904호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2253": {
+    "regDate": "2019-07-01",
+    "year": "2019",
+    "month": "7",
+    "tel": "051-784-7703",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "김동칠",
+    "address": "부산광역시 해운대구 센텀중앙로 97, 에이동 2101호(재송동, 센텀스카이비즈) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2254": {
+    "regDate": "2021-10-31",
+    "year": "2021",
+    "month": "10",
+    "employees": "1",
+    "status": "휴업자",
+    "ceo": "이득명",
+    "address": "부산광역시 해운대구  센텀중앙로 97 (재송동) 스카이비즈 A동 2907호 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2255": {
+    "regDate": "2024-11-11",
+    "year": "2024",
+    "month": "11",
+    "employees": "4",
+    "status": "계속사업자",
+    "ceo": "홍정현",
+    "address": "부산광역시 해운대구 센텀중앙로 97, 센텀스카이비즈 A동 6-2호 (재송동) 97, Centum jungang-ro, Haeundae-gu, Busan, Republic of Korea"
+  },
+  "2256": {
+    "regDate": "2016-09-01",
+    "year": "2016",
+    "month": "9",
+    "employees": "5",
+    "status": "계속사업자",
+    "ceo": "조현제",
+    "address": "부산광역시 남구 신선로 365, 학생회관 302호(용당동, 부경대학교용당캠퍼스) 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea"
+  },
+  "2258": {
+    "regDate": "2020-03-02",
+    "year": "2020",
+    "month": "3",
+    "tel": "051-902-9003",
+    "fax": "051-747-9896",
+    "employees": "7",
+    "status": "계속사업자",
+    "ceo": "김정훈",
+    "address": "부산광역시 해운대구 센텀중앙로 48 (우동) 에이스하이테크21, 713호"
+  },
+  "2259": {
+    "regDate": "2023-01-01",
+    "year": "2023",
+    "month": "1",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "송석태",
+    "address": "부산광역시 강서구 명지국제2로 41, 판매시설동 1층 206호(명지동, 더샵 명지퍼스트월드 3단지)"
+  },
+  "2260": {
+    "regDate": "2015-12-22",
+    "year": "2015",
+    "month": "12",
+    "employees": "75",
+    "status": "계속사업자",
+    "ceo": "이영준"
+  },
+  "2261": {
+    "regDate": "2022-02-08",
+    "year": "2022",
+    "month": "2",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "김승욱",
+    "address": "부산광역시 해운대구 센텀중앙로 90 (재송동, 큐비이센텀) 705호"
+  },
+  "2262": {
+    "regDate": "2023-07-17",
+    "year": "2023",
+    "month": "7",
+    "employees": "2",
+    "status": "계속사업자",
+    "ceo": "김삼문",
+    "address": "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교) 산학협력관동508호 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "2263": {
+    "regDate": "2023-02-20",
+    "year": "2023",
+    "month": "2",
+    "employees": "3",
+    "status": "계속사업자",
+    "address": "부산광역시 부산진구 엄광로 176 802-3,4호 (가야동, 동의대학교 산학협력관) 176, Eomgwang-ro, Busanjin-gu, Busan, Republic of Korea"
+  },
+  "2307": {
+    "regDate": "2014-03-20",
+    "year": "2014",
+    "month": "3",
+    "tel": "070-7370-5758",
+    "fax": "051-749-9174",
+    "employees": "1",
+    "status": "계속사업자",
+    "ceo": "이현철",
+    "address": "부산광역시 해운대구 센텀동로 45-0 (우동)"
+  }
+}

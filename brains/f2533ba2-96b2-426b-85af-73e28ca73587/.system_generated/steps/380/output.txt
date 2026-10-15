@@ -1,0 +1,18 @@
+The search for ""돌마로 46" "김규식" OR "뉴스본다" OR "뉴스본다코리아"" returned the following summary:
+검색하신 **"경기도 성남시 분당구 돌마로 46"**은 **'광천프라자'** 건물의 도로명 주소입니다[1][2].
+
+해당 주소와 관련하여 질의하신 키워드들에 대한 정보는 다음과 같습니다.
+
+*   **김규식:** 검색 결과상 '김규식'이라는 이름은 다른 지역의 기업 관계자[3]나 다른 소재지의 이비인후과 의원[4] 등과 연관되어 검색될 뿐, '돌마로 46'번지 내에 특정된 인물로 확인되는 정보는 없습니다.
+*   **뉴스본다 / 뉴스본다코리아:** 검색 결과에서 해당 주소(돌마로 46)와 '뉴스본다' 또는 '뉴스본다코리아'를 연관 짓는 정보는 찾을 수 없었습니다.
+
+**참고:** '돌마로 46(광천프라자)'에는 다양한 병원, 학원(그린컴퓨터아카데미 등), 비즈니스 센터, 협동조합 등이 입주해 있는 건물입니다[4][5][1][6][7]. 특정 업체나 인물을 찾으시는 경우, 해당 건물 내 상호명을 구체적으로 확인하시는 것이 좋습니다.
+
+Sources:
+[1] [theonsc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC4At_5F74l8S8ffyDgPWS7hnMZBQsCVrax3jRa2UlC90aKnZqZ15JiwNRdjOhOCHa_iJmqOws5nSYeGznzVQDEfwzaL8EUz_KpL_iriC9KbRx0CQR8G9-uN_gy6X6GNhdxG6BKSMEa-0=)
+[2] [juso.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvVeGCWKVxToIU2jBpQedJM_s1C5tyAxuwRIPOmqD-Onrx34dJxxAm64HipbOjgmoRsidgL70OZbAtAP9uo2VycqddznC82eIjFxHtMuMOJPM=)
+[3] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1scPat2pjNz7UhvLqqUpQg7Fb6FNRENKvK3LnDQtZbNgXYccQg_jIA66H1cu3xMlWbq8Fwy2g--bwEqtwKOjiKsW7EwuFpIBnzkTJs5LjGgIdnKe1Na5245C-9w==)
+[4] [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvAOK5ix0nfezaAwsoj92do-JwtpNCqCfhfBi567dQsdxXgiLcPujLJ8njshpkZNWzx_7-jogNO-tI6wIlcXY5S6Zs9UWxeWNRsQTxW_YPzbzB9SneOtOw2xvd)
+[5] [greenart.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF75x2v3OsswsPK47ywbb89u2OjNyrX6Dt44MwCcIU3JSkoEY3FYSFywNrhgpDqCSPVijHlpiFNFqKxtPOvEa-oV6AEJjnd3YUdJ4kY076Bh90s94kh5li1T9usLbeI_9n5GS_INb-P5I9nLA==)
+[6] [metro-mg.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8BweXNysRmhRJS5R0WB8uFgQU1hNzh1hxRZjPXiFlzgkuwtszyY2BVfDP_S2FCEgFwQ1VwUJRUzVsVGR_SDDNH8hNydX9RZev9RQ=)
+[7] [kakao.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp3ZZMuVxY-qP7JFKlard3-CDJTA83NF5mN8g39_XwJ8lpqx675AbK5MdQm6Wgs4jRhd4V1ASIvBqYlZ-dARDV1_m7p2_JxqFAanUGRFbcx2oLBEo=)

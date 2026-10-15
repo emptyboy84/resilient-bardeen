@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+�ġ �:10 �:38
++     const matches = d.match(/href=\"[^\"]*(?:financial|salary|info)[^ ...
++                                      ~
+�迭 �ε� � �ų� �߸�Ǿ�ϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingArrayIndexExpression
+ 
+

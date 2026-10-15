@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://search.naver.com/search.naver?query="051-464-0761"');
+```
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%22051-464-0761%22
+- Page Title: "051-464-0761" : 네이버 검색
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-09-29T03-34-07-688Z.yml)

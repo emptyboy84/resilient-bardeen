@@ -1,0 +1,875 @@
+### Page
+- Page URL: https://search.naver.com/search.naver?query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94
+- Page Title: 우수경 만화 : 네이버 검색
+### Snapshot
+```yaml
+- generic [active] [ref=f270e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f270e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f270e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f270e6]:
+    - generic [ref=f270e8]:
+      - generic [ref=f270e9]:
+        - generic [ref=f270e11]:
+          - heading [level=1] [ref=f270e12]:
+            - link "NAVER" [ref=f270e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=f270e15]:
+            - group "검색" [ref=f270e16]:
+              - combobox "검색어를 입력해 주세요." [ref=f270e18]:
+                - text: 우수경 만화
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=f270e20] [cursor=pointer]
+              - button "검색" [ref=f270e22] [cursor=pointer]
+        - generic [ref=f270e1230]:
+          - strong [ref=f270e1231]: 사용자 링크
+          - list [ref=f270e1232]:
+            - listitem [ref=f270e1233]:
+              - link "로그인" [ref=f270e1234] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25EC%259A%25B0%25EC%2588%2598%25EA%25B2%25BD%2B%25EB%25A7%258C%25ED%2599%2594
+            - listitem [ref=f270e1238]:
+              - link "서비스 더보기" [ref=f270e1239] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=f270e24]:
+        - generic [ref=f270e26]:
+          - generic [ref=f270e27]:
+            - tab "AI new" [ref=f270e29] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f270e30]: new
+            - tab "블로그" [ref=f270e33] [cursor=pointer]
+            - tab "카페" [ref=f270e35] [cursor=pointer]
+            - tab "클립" [ref=f270e37] [cursor=pointer]
+            - tab "이미지" [ref=f270e39] [cursor=pointer]
+            - tab "지식iN" [ref=f270e41] [cursor=pointer]
+            - tab "동영상" [ref=f270e43] [cursor=pointer]
+            - tab "쇼핑 새 창 열림" [ref=f270e45] [cursor=pointer]:
+              - text: 쇼핑
+              - generic [ref=f270e46]: 새 창 열림
+            - tab "뉴스" [ref=f270e48] [cursor=pointer]
+            - tab "어학사전 새 창 열림" [ref=f270e50] [cursor=pointer]:
+              - text: 어학사전
+              - generic [ref=f270e51]: 새 창 열림
+          - button "더보기" [ref=f270e53] [cursor=pointer]
+        - list [ref=f270e56]:
+          - listitem [ref=f270e57]:
+            - button "공유" [ref=f270e58] [cursor=pointer]
+    - main [ref=f270e59]:
+      - generic [ref=f270e60]:
+        - heading "우수경 만화 검색 결과" [level=1] [ref=f270e61]
+        - generic [ref=f270e62]:
+          - generic [ref=f270e63]:
+            - generic [ref=f270e68]:
+              - generic [ref=f270e69]:
+                - generic [ref=f270e70]:
+                  - link "미스터블루 www.mrblue.com›webtoon 새 창 열림" [ref=f270e71] [cursor=pointer]:
+                    - /url: https://www.mrblue.com/webtoon/wt_dearmyuni_wz
+                    - generic [ref=f270e73]:
+                      - generic [ref=f270e77]: 미스터블루
+                      - generic [ref=f270e79]: www.mrblue.com›webtoon
+                    - generic [ref=f270e83]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e85] [cursor=pointer]
+                - generic [ref=f270e90]:
+                  - link "디어 마이 유니버스의 이미지 새 창 열림" [ref=f270e91] [cursor=pointer]:
+                    - /url: https://www.mrblue.com/webtoon/wt_dearmyuni_wz
+                    - img "디어 마이 유니버스의 이미지" [ref=f270e93]
+                    - generic [ref=f270e95]: 새 창 열림
+                  - link "디어 마이 유니버스 새 창 열림" [ref=f270e97] [cursor=pointer]:
+                    - /url: https://www.mrblue.com/webtoon/wt_dearmyuni_wz
+                    - generic [ref=f270e98]: 디어 마이 유니버스
+                    - generic [ref=f270e99]: 새 창 열림
+                  - link "디어 마이 유니버스 그림/글 우수경 15세 이용가 위즈덤하우스 1.7만 5.0점 / 9건 작품소개 첫 화 무료보기 찜 알림 공유 최대 30000점 추가적립 (~9/1) 대여 소장 7일 대여10% 할인 회차순 최신순 1회 2019.11.05 2MB 무료 2회 2019.11.05 2MB 무료 3회 2019.11.05 3MB 무료 4회 2019.11.05 2MB 무료 5회 2019.11.05 3MB 무료 6회 2019.11.05 2MB 200원... 새 창 열림" [ref=f270e101] [cursor=pointer]:
+                    - /url: https://www.mrblue.com/webtoon/wt_dearmyuni_wz
+                    - generic [ref=f270e102]:
+                      - text: 디어 마이 유니버스 그림/글
+                      - mark [ref=f270e103]: 우수경
+                      - text: 15세 이용가 위즈덤하우스 1.7만 5.0점 / 9건 작품소개 첫 화 무료보기 찜 알림 공유 최대 30000점 추가적립 (~9/1) 대여 소장 7일 대여10% 할인 회차순 최신순 1회 2019.11.05 2MB 무료 2회 2019.11.05 2MB 무료 3회 2019.11.05 3MB 무료 4회 2019.11.05 2MB 무료 5회 2019.11.05 3MB 무료 6회 2019.11.05 2MB 200원...
+                    - generic [ref=f270e104]: 새 창 열림
+              - generic [ref=f270e105]:
+                - generic [ref=f270e107]:
+                  - link "우수경 - 미스터블루 새 창 열림" [ref=f270e108] [cursor=pointer]:
+                    - /url: https://www.mrblue.com/author?id=16418
+                    - generic [ref=f270e109]:
+                      - mark [ref=f270e110]: 우수경
+                      - text: "- 미스터블루"
+                    - generic [ref=f270e111]: 새 창 열림
+                  - generic [ref=f270e112]: 미스터블루(주)대표자 조승진사업자등록번호 107-88-30967통신판매업번호 2023-서울강서-1024사업자정보 확인 서울특별시 강서구 양천로 570, 18층 대표전화 02-337-0610팩스 02-337-0630고객문의 *********@mrblue.com ⓒ Mr.Blue Corp. All rights reserved.
+                - link "관련문서 더보기" [ref=f270e115] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94+site%3Awww.mrblue.com&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f270e123]:
+              - generic [ref=f270e124]:
+                - generic [ref=f270e125]:
+                  - link "미스터블루 모바일 m.mrblue.com›webtoon 새 창 열림" [ref=f270e126] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/detail/wt_dearmyuni_wz
+                    - generic [ref=f270e128]:
+                      - generic [ref=f270e132]: 미스터블루 모바일
+                      - generic [ref=f270e134]: m.mrblue.com›webtoon
+                    - generic [ref=f270e138]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e140] [cursor=pointer]
+                - generic [ref=f270e145]:
+                  - link "디어 마이 유니버스 - 웹툰 - 미스터블루의 이미지 새 창 열림" [ref=f270e146] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/detail/wt_dearmyuni_wz
+                    - img "디어 마이 유니버스 - 웹툰 - 미스터블루의 이미지" [ref=f270e148]
+                    - generic [ref=f270e150]: 새 창 열림
+                  - link "디어 마이 유니버스 - 웹툰 - 미스터블루 새 창 열림" [ref=f270e152] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/detail/wt_dearmyuni_wz
+                    - generic [ref=f270e153]: 디어 마이 유니버스 - 웹툰 - 미스터블루
+                    - generic [ref=f270e154]: 새 창 열림
+                  - link "1.7만 ; 5.0 · 9 건 · 작품정보 새 창 열림" [ref=f270e156] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/detail/wt_dearmyuni_wz
+                    - generic [ref=f270e157]: 1.7만 ; 5.0 · 9 건 · 작품정보
+                    - generic [ref=f270e158]: 새 창 열림
+              - generic [ref=f270e159]:
+                - generic [ref=f270e161]:
+                  - link "미스터블루 모바일의 이미지 새 창 열림" [ref=f270e162] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/genre?genreIds=22&page=9&sort=RANK&outlink=ok&n_media=8753&n_query=BL&n_rank=2&n_ad_group=grp-a001-01-000000018329546&n_ad=nad-a001-01-000000485330795&n_keyword_id=nkw-a001-01-000003295885217&n_keyword=BL&n_campaign_type=1&n_ad_group_type=1&n_match=1
+                    - img "미스터블루 모바일의 이미지" [ref=f270e164]
+                    - generic [ref=f270e166]: 새 창 열림
+                  - link "미스터블루 모바일 새 창 열림" [ref=f270e167] [cursor=pointer]:
+                    - /url: https://m.mrblue.com/webtoon/genre?genreIds=22&page=9&sort=RANK&outlink=ok&n_media=8753&n_query=BL&n_rank=2&n_ad_group=grp-a001-01-000000018329546&n_ad=nad-a001-01-000000485330795&n_keyword_id=nkw-a001-01-000003295885217&n_keyword=BL&n_campaign_type=1&n_ad_group_type=1&n_match=1
+                    - generic [ref=f270e168]: 미스터블루 모바일
+                    - generic [ref=f270e169]: 새 창 열림
+                  - generic [ref=f270e170]: 일어나서 사랑을 시작해 ; 귀여워 ; 햇살보다 눈부신 ; 완벽한 대체품 ; 같은 공기 마시기 [개정판] ; 그들의 사정 ; 진솔한 세계 ; 호랑이꽃 [개정판] ; 그 뱀파이어를 모시는 법 [개정판] ; 피치러브
+                - link "관련문서 더보기" [ref=f270e173] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94+site%3Am.mrblue.com&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f270e182]:
+              - generic [ref=f270e183]:
+                - link "리디 ridibooks.com›author 새 창 열림" [ref=f270e184] [cursor=pointer]:
+                  - /url: https://ridibooks.com/author/102079
+                  - generic [ref=f270e186]:
+                    - generic [ref=f270e190]: 리디
+                    - generic [ref=f270e192]: ridibooks.com›author
+                  - generic [ref=f270e196]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e198] [cursor=pointer]
+              - generic [ref=f270e203]:
+                - link "우수경 - 리디 새 창 열림" [ref=f270e205] [cursor=pointer]:
+                  - /url: https://ridibooks.com/author/102079
+                  - generic [ref=f270e206]:
+                    - mark [ref=f270e207]: 우수경
+                    - text: "- 리디"
+                  - generic [ref=f270e208]: 새 창 열림
+                - link "2019.08.12.BL 웹툰 ; <책소개> 어떤 연유로 자신의 행성을 떠나 지구에 당도한 우주인 ‘파이’는 우주선을 잃고 거지 신세가 되어 부산 앞바다에 떨어진다. 그곳에서 처음 만난 지구인인 '우주'의 도움이 깊게 각인되어 그를 찾으려 애쓰는 파이지만, 어쩐지 일이 꼬이기만 하는데…. 새 창 열림" [ref=f270e210] [cursor=pointer]:
+                  - /url: https://ridibooks.com/author/102079
+                  - generic [ref=f270e211]:
+                    - generic [ref=f270e212]: 2019.08.12.
+                    - text: BL 웹툰 ; <책소개> 어떤 연유로 자신의 행성을 떠나 지구에 당도한 우주인 ‘파이’는 우주선을 잃고 거지 신세가 되어 부산 앞바다에 떨어진다. 그곳에서 처음 만난 지구인인 '우주'의 도움이 깊게 각인되어 그를 찾으려 애쓰는 파이지만, 어쩐지 일이 꼬이기만 하는데….
+                  - generic [ref=f270e213]: 새 창 열림
+            - generic [ref=f270e218]:
+              - generic [ref=f270e219]:
+                - generic [ref=f270e220]:
+                  - link "알라딘 www.aladin.co.kr›shop 새 창 열림" [ref=f270e221] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401724280
+                    - generic [ref=f270e223]:
+                      - generic [ref=f270e227]: 알라딘
+                      - generic [ref=f270e229]: www.aladin.co.kr›shop
+                    - generic [ref=f270e233]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e235] [cursor=pointer]
+                - generic [ref=f270e240]:
+                  - link "영유아미술교육 | <mark>우수경</mark> 외의 이미지 새 창 열림" [ref=f270e241] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401724280
+                    - img "영유아미술교육 | <mark>우수경</mark> 외의 이미지" [ref=f270e243]
+                    - generic [ref=f270e245]: 새 창 열림
+                  - link "영유아미술교육 | 우수경 외 새 창 열림" [ref=f270e247] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401724280
+                    - generic [ref=f270e248]:
+                      - text: 영유아미술교육 |
+                      - mark [ref=f270e249]: 우수경
+                      - text: 외
+                    - generic [ref=f270e250]: 새 창 열림
+                  - link "알라딘 만권당 삼성카드, 알라딘 15% 청구 할인 ; 최대 1만원 또는 2만원 할인(전월 30만원 또는 60만원 이용 시) / 카드 발급월 1개월까지는 전월 실적이 없어도 최대 1만원 혜택 제공 새 창 열림" [ref=f270e252] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401724280
+                    - generic [ref=f270e253]: 알라딘 만권당 삼성카드, 알라딘 15% 청구 할인 ; 최대 1만원 또는 2만원 할인(전월 30만원 또는 60만원 이용 시) / 카드 발급월 1개월까지는 전월 실적이 없어도 최대 1만원 혜택 제공
+                    - generic [ref=f270e254]: 새 창 열림
+              - generic [ref=f270e255]:
+                - generic [ref=f270e257]:
+                  - link "<mark>우수경</mark> 저자의 프로필과 대표작의 이미지 새 창 열림" [ref=f270e258] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@952310
+                    - img "<mark>우수경</mark> 저자의 프로필과 대표작의 이미지" [ref=f270e260]
+                    - generic [ref=f270e262]: 새 창 열림
+                  - link "우수경 저자의 프로필과 대표작 새 창 열림" [ref=f270e263] [cursor=pointer]:
+                    - /url: https://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@952310
+                    - generic [ref=f270e264]:
+                      - mark [ref=f270e265]: 우수경
+                      - text: 저자의 프로필과 대표작
+                    - generic [ref=f270e266]: 새 창 열림
+                  - generic [ref=f270e268]:
+                    - text: 주제 분류별 · 소설 l 에세이 l 시 l 희곡 l 문학일반 l 문화평론 l
+                    - mark [ref=f270e269]: 만화
+                    - text: l 어린이/유아 l 인문/사회과학 l 역사 l 경제경영/자기계발 l 과학/공학/기술 l 여행 l 예술 l 취미/실용/레저 l 가정/건강/요리/교육 l 외국어/사전 l 잡지 l 종교/역학 l 컴퓨터/인터넷 l 학습서/수험서 l 교재 l 번역 l · 사진/그림 ; 가나다별 · 가 l 나 l 다 l 라 l 마 l 바 l 사 l 아 l 자 l 차 l 카 l 타 l 파 l 하 l 기타
+                - link "관련문서 더보기" [ref=f270e271] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94+site%3Awww.aladin.co.kr&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f270e280]:
+              - generic [ref=f270e281]:
+                - link "WEBTOONGUIDE www.webtoonguide.com›content-info 새 창 열림" [ref=f270e282] [cursor=pointer]:
+                  - /url: https://www.webtoonguide.com/ko/db/content-info/814396
+                  - generic [ref=f270e284]:
+                    - generic [ref=f270e288]: WEBTOONGUIDE
+                    - generic [ref=f270e290]: www.webtoonguide.com›content-info
+                  - generic [ref=f270e294]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e296] [cursor=pointer]
+              - generic [ref=f270e301]:
+                - link "디어 마이 유니버스 새 창 열림" [ref=f270e303] [cursor=pointer]:
+                  - /url: https://www.webtoonguide.com/ko/db/content-info/814396
+                  - generic [ref=f270e304]: 디어 마이 유니버스
+                  - generic [ref=f270e305]: 새 창 열림
+                - 'link "연재시작일: 2022.04.15 내 사랑은 우주를 인식했을 때부터 시작됐어 어떤 연유로 자신의 행성을 떠나 지구에 당도한 우주인 ‘파이’는 우주선을 잃고 거지 신세가 되어 부산 앞바다에 떨어진다. 그곳에서 처음 만난 지구인인 ''우주''의 도움이 깊게 각인되어 그를 찾으려 애쓰는 파이지만, 어쩐지 일이 꼬이기만 하는데…. 새 창 열림" [ref=f270e307] [cursor=pointer]':
+                  - /url: https://www.webtoonguide.com/ko/db/content-info/814396
+                  - generic [ref=f270e308]: "연재시작일: 2022.04.15 내 사랑은 우주를 인식했을 때부터 시작됐어 어떤 연유로 자신의 행성을 떠나 지구에 당도한 우주인 ‘파이’는 우주선을 잃고 거지 신세가 되어 부산 앞바다에 떨어진다. 그곳에서 처음 만난 지구인인 '우주'의 도움이 깊게 각인되어 그를 찾으려 애쓰는 파이지만, 어쩐지 일이 꼬이기만 하는데…."
+                  - generic [ref=f270e309]: 새 창 열림
+          - generic [ref=f270e310]:
+            - generic [ref=f270e316]:
+              - generic [ref=f270e317]:
+                - link "부산광역시 www.busan.go.kr›nbtnews 새 창 열림" [ref=f270e318] [cursor=pointer]:
+                  - /url: https://www.busan.go.kr/nbtnews/1335716
+                  - generic [ref=f270e320]:
+                    - generic [ref=f270e324]: 부산광역시
+                    - generic [ref=f270e326]: www.busan.go.kr›nbtnews
+                  - generic [ref=f270e330]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e332] [cursor=pointer]
+              - generic [ref=f270e337]:
+                - 'link "부산 웹툰의 두 번째 이야기, 제2회 부산웹툰페스티벌 개최 : 부산소식 : 보도·해명자료 새 창 열림" [ref=f270e339] [cursor=pointer]':
+                  - /url: https://www.busan.go.kr/nbtnews/1335716
+                  - generic [ref=f270e340]: "부산 웹툰의 두 번째 이야기, 제2회 부산웹툰페스티벌 개최 : 부산소식 : 보도·해명자료"
+                  - generic [ref=f270e341]: 새 창 열림
+                - link "2018.09.10.올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기, 우수경, 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은, 구은민 작가 등의 홍보영상 릴레이가 이어지고 있다. 한편, 개막식은 14일 오후 4시 부산문화콘텐츠콤플렉스 2층 메인무대에서 개최된다. 국내외 웹툰(만화)작가 및 관계자 등 100여 명이 참석하며 웹툰 어워즈 시상, 웹툰 뮤지컬 공연, 전시관 관람... 새 창 열림" [ref=f270e343] [cursor=pointer]:
+                  - /url: https://www.busan.go.kr/nbtnews/1335716
+                  - generic [ref=f270e344]:
+                    - generic [ref=f270e345]: 2018.09.10.
+                    - generic [ref=f270e346]:
+                      - text: 올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기,
+                      - mark [ref=f270e347]: 우수경
+                      - text: ", 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은, 구은민 작가 등의 홍보영상 릴레이가 이어지고 있다. 한편, 개막식은 14일 오후 4시 부산문화콘텐츠콤플렉스 2층 메인무대에서 개최된다. 국내외 웹툰("
+                      - mark [ref=f270e348]: 만화
+                      - text: )작가 및 관계자 등 100여 명이 참석하며 웹툰 어워즈 시상, 웹툰 뮤지컬 공연, 전시관 관람...
+                  - generic [ref=f270e349]: 새 창 열림
+            - generic [ref=f270e355]:
+              - generic [ref=f270e356]:
+                - link "양주시도서관 www.libyj.go.kr›dklib 새 창 열림" [ref=f270e357] [cursor=pointer]:
+                  - /url: https://www.libyj.go.kr/dklib/menu/10505/program/30014/plusSearchResultDetail.do?searchType=NEW&recKey=5340912051&bookKey=5340912053&publishFormCode=BO
+                  - generic [ref=f270e359]:
+                    - generic [ref=f270e363]: 양주시도서관
+                    - generic [ref=f270e365]: www.libyj.go.kr›dklib
+                  - generic [ref=f270e369]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e371] [cursor=pointer]
+              - generic [ref=f270e376]:
+                - link "유아교육개론 = An introduction to early childhood education 새 창 열림" [ref=f270e378] [cursor=pointer]:
+                  - /url: https://www.libyj.go.kr/dklib/menu/10505/program/30014/plusSearchResultDetail.do?searchType=NEW&recKey=5340912051&bookKey=5340912053&publishFormCode=BO
+                  - generic [ref=f270e379]: 유아교육개론 = An introduction to early childhood education
+                  - generic [ref=f270e380]: 새 창 열림
+                - 'link "신착자료검색 자료검색 신착자료검색 도서 유아교육개론 = An introduction to early childhood education 표제/책임사항 유아교육개론= An introduction to early childhood education/ 우수경 외 저 판사항 2판 발행사항 서울: 학지사, 2019 형태사항 412 p.: 삽화; 24 cm 주기사항 공저자: 김현자, 신선희, 유영의, 김호, 김현정, 참고문헌(p. 387-399)과 색인수록... 새 창 열림" [ref=f270e382] [cursor=pointer]':
+                  - /url: https://www.libyj.go.kr/dklib/menu/10505/program/30014/plusSearchResultDetail.do?searchType=NEW&recKey=5340912051&bookKey=5340912053&publishFormCode=BO
+                  - generic [ref=f270e383]:
+                    - text: 신착자료검색 자료검색 신착자료검색 도서 유아교육개론 = An introduction to early childhood education 표제/책임사항 유아교육개론= An introduction to early childhood education/
+                    - mark [ref=f270e384]: 우수경
+                    - text: "외 저 판사항 2판 발행사항 서울: 학지사, 2019 형태사항 412 p.: 삽화; 24 cm 주기사항 공저자: 김현자, 신선희, 유영의, 김호, 김현정, 참고문헌(p. 387-399)과 색인수록..."
+                  - generic [ref=f270e385]: 새 창 열림
+            - generic [ref=f270e391]:
+              - generic [ref=f270e392]:
+                - generic [ref=f270e393]:
+                  - link "새 창 열림" [ref=f270e395] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jibinpark0212
+                  - link "§§§ 새 창 열림" [ref=f270e401] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jibinpark0212
+                    - generic [ref=f270e402]: §§§
+                    - generic [ref=f270e403]: 새 창 열림
+                  - generic [ref=f270e404]: 2026.03.31.
+                - button "옵션 메뉴 열기" [ref=f270e408] [cursor=pointer]
+              - generic [ref=f270e414]:
+                - generic [ref=f270e415]:
+                  - link "짜베짜부 짜미슈범 !!!! 새 창 열림" [ref=f270e416] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jibinpark0212/224236159511
+                    - generic [ref=f270e417]: 짜베짜부 짜미슈범 !!!!
+                    - generic [ref=f270e418]: 새 창 열림
+                  - link "일단 우수경 발언은 하나도 도움이 되지 않은건 확실 ;;; 선배에게 책도 받고 와플도 받아먹는 나 누나노릇을 못하고 후배 놀이를 잘하는 편 ✌✌✌ 그냥 ㅊㄹㄱ는 나의 웃음버튼임... 첫 발에 10점을 쏘고 호형이 가볍게 이겨줌 연습해오렴 깔깔 만화카페 가서 오랜만에 약속의 네버랜드 봐주는데 ! 필이 너무 귀여웠어 앙 !!! 유명한 축구 선수? 누군지 모르겠어서 슬쩍... 새 창 열림" [ref=f270e420] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jibinpark0212/224236159511
+                    - generic [ref=f270e421]:
+                      - text: 일단
+                      - mark [ref=f270e422]: 우수경
+                      - text: 발언은 하나도 도움이 되지 않은건 확실 ;;; 선배에게 책도 받고 와플도 받아먹는 나 누나노릇을 못하고 후배 놀이를 잘하는 편 ✌✌✌ 그냥 ㅊㄹㄱ는 나의 웃음버튼임... 첫 발에 10점을 쏘고 호형이 가볍게 이겨줌 연습해오렴 깔깔
+                      - mark [ref=f270e423]: 만화
+                      - text: 카페 가서 오랜만에 약속의 네버랜드 봐주는데 ! 필이 너무 귀여웠어 앙 !!! 유명한 축구 선수? 누군지 모르겠어서 슬쩍...
+                    - generic [ref=f270e424]: 새 창 열림
+                - link "100 새 창 열림" [ref=f270e425] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jibinpark0212/224236159511
+                  - generic [ref=f270e426]: "100"
+                  - generic [ref=f270e433]: 새 창 열림
+              - link "2026년은 내 계획에 없었어 새 창 열림" [ref=f270e437] [cursor=pointer]:
+                - /url: https://blog.naver.com/jibinpark0212/224123820158
+                - generic [ref=f270e438]: 2026년은 내 계획에 없었어
+                - generic [ref=f270e439]: 새 창 열림
+            - generic [ref=f270e444]:
+              - generic [ref=f270e445]:
+                - generic [ref=f270e446]:
+                  - link "이그잼플러스 examplus.co.kr›공동체-우수경-외-영유아음악교육 새 창 열림" [ref=f270e447] [cursor=pointer]:
+                    - /url: https://examplus.co.kr/product/%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9A%B0%EC%88%98%EA%B2%BD-%EC%99%B8-%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%8C%EC%95%85%EA%B5%90%EC%9C%A1/37767/category/145/display/1/
+                    - generic [ref=f270e449]:
+                      - generic [ref=f270e453]: 이그잼플러스
+                      - generic [ref=f270e455]: examplus.co.kr›공동체-우수경-외-영유아음악교육
+                    - generic [ref=f270e459]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e461] [cursor=pointer]
+                - generic [ref=f270e466]:
+                  - link "이그잼플러스 | 영유아음악교육 개정 교육과정 반영 교재의 이미지 새 창 열림" [ref=f270e467] [cursor=pointer]:
+                    - /url: https://examplus.co.kr/product/%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9A%B0%EC%88%98%EA%B2%BD-%EC%99%B8-%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%8C%EC%95%85%EA%B5%90%EC%9C%A1/37767/category/145/display/1/
+                    - img "이그잼플러스 | 영유아음악교육 개정 교육과정 반영 교재의 이미지" [ref=f270e469]
+                    - generic [ref=f270e471]: 새 창 열림
+                  - link "이그잼플러스 | 영유아음악교육 개정 교육과정 반영 교재 새 창 열림" [ref=f270e473] [cursor=pointer]:
+                    - /url: https://examplus.co.kr/product/%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9A%B0%EC%88%98%EA%B2%BD-%EC%99%B8-%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%8C%EC%95%85%EA%B5%90%EC%9C%A1/37767/category/145/display/1/
+                    - generic [ref=f270e474]: 이그잼플러스 | 영유아음악교육 개정 교육과정 반영 교재
+                    - generic [ref=f270e475]: 새 창 열림
+                  - 'link "(공동체 우수경 외) 영유아음악교육 ; 판매가 : 21,600원 · 10%, 배송방법 : 택배, 배송비 : 2,500원 (50,000원 이상 구매 시 무료), 제조사 : 공동체, 브랜드 : 우수경, 채승희, 정혜윤, 박소연, 제조일자 : 2026-09-01, 페이지수 : 308, ISBN : 9791175542334, 적립금 : 440원 (2%) 새 창 열림" [ref=f270e477] [cursor=pointer]':
+                    - /url: https://examplus.co.kr/product/%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9A%B0%EC%88%98%EA%B2%BD-%EC%99%B8-%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%8C%EC%95%85%EA%B5%90%EC%9C%A1/37767/category/145/display/1/
+                    - generic [ref=f270e478]:
+                      - text: (공동체
+                      - mark [ref=f270e479]: 우수경
+                      - text: "외) 영유아음악교육 ; 판매가 : 21,600원 · 10%, 배송방법 : 택배, 배송비 : 2,500원 (50,000원 이상 구매 시 무료), 제조사 : 공동체, 브랜드 :"
+                      - mark [ref=f270e480]: 우수경
+                      - text: ", 채승희, 정혜윤, 박소연, 제조일자 : 2026-09-01, 페이지수 : 308, ISBN : 9791175542334, 적립금 : 440원 (2%)"
+                    - generic [ref=f270e481]: 새 창 열림
+              - generic [ref=f270e482]:
+                - generic [ref=f270e484]:
+                  - link "(공동체 우수경 외) 영유아미술교육 새 창 열림" [ref=f270e485] [cursor=pointer]:
+                    - /url: https://examplus.co.kr/product/%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9A%B0%EC%88%98%EA%B2%BD-%EC%99%B8-%EC%98%81%EC%9C%A0%EC%95%84%EB%AF%B8%EC%88%A0%EA%B5%90%EC%9C%A1/38001/category/145/display/1/
+                    - generic [ref=f270e486]:
+                      - text: (공동체
+                      - mark [ref=f270e487]: 우수경
+                      - text: 외) 영유아미술교육
+                    - generic [ref=f270e488]: 새 창 열림
+                  - generic [ref=f270e490]:
+                    - text: "소비자가 ; 판매가 : 23,520원 · 2%, 배송방법 : 택배, 배송비 : 2,500원 (50,000원 이상 구매 시 무료), 제조사 : 공동체, 브랜드 :"
+                    - mark [ref=f270e491]: 우수경
+                    - text: ", 고정리, 정혜윤, 김지윤, 송애란, 제조일자 : 2026-09-01, 페이지수 : 314, ISBN : 9791175542365, 적립금 : 240원 (1%)"
+                - link "관련문서 더보기" [ref=f270e493] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94+site%3Aexamplus.co.kr&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f270e502]:
+              - generic [ref=f270e503]:
+                - link "서울특별시교육청 노원평생학습관 nwllc.sen.go.kr›우수경 새 창 열림" [ref=f270e504] [cursor=pointer]:
+                  - /url: https://nwllc.sen.go.kr/nwllc/intro/search/index.do?menu_idx=4&editMode=normal&search_text=%EC%9A%B0%EC%88%98%EA%B2%BD
+                  - generic [ref=f270e506]:
+                    - generic [ref=f270e510]: 서울특별시교육청 노원평생학습관
+                    - generic [ref=f270e512]: nwllc.sen.go.kr›우수경
+                  - generic [ref=f270e516]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e518] [cursor=pointer]
+              - generic [ref=f270e523]:
+                - link "<mark>우수경</mark> - 서울특별시교육청 노원평생학습관의 이미지 새 창 열림" [ref=f270e524] [cursor=pointer]:
+                  - /url: https://nwllc.sen.go.kr/nwllc/intro/search/index.do?menu_idx=4&editMode=normal&search_text=%EC%9A%B0%EC%88%98%EA%B2%BD
+                  - img "<mark>우수경</mark> - 서울특별시교육청 노원평생학습관의 이미지" [ref=f270e526]
+                  - generic [ref=f270e528]: 새 창 열림
+                - link "우수경 - 서울특별시교육청 노원평생학습관 새 창 열림" [ref=f270e530] [cursor=pointer]:
+                  - /url: https://nwllc.sen.go.kr/nwllc/intro/search/index.do?menu_idx=4&editMode=normal&search_text=%EC%9A%B0%EC%88%98%EA%B2%BD
+                  - generic [ref=f270e531]:
+                    - mark [ref=f270e532]: 우수경
+                    - text: "- 서울특별시교육청 노원평생학습관"
+                  - generic [ref=f270e533]: 새 창 열림
+                - 'link "도서. (35년 현직 영업맨, 우수경이 들려주는) 실전세일즈 노하우 ; 발행처: 한국경제신문i ; 자료형태: 도서 ; 도서관 : 노원평생학습관 새 창 열림" [ref=f270e535] [cursor=pointer]':
+                  - /url: https://nwllc.sen.go.kr/nwllc/intro/search/index.do?menu_idx=4&editMode=normal&search_text=%EC%9A%B0%EC%88%98%EA%B2%BD
+                  - generic [ref=f270e536]:
+                    - text: 도서. (35년 현직 영업맨,
+                    - mark [ref=f270e537]: 우수경
+                    - text: "이 들려주는) 실전세일즈 노하우 ; 발행처: 한국경제신문i ; 자료형태: 도서 ; 도서관 : 노원평생학습관"
+                  - generic [ref=f270e538]: 새 창 열림
+            - generic [ref=f270e544]:
+              - generic [ref=f270e545]:
+                - link "웃긴대학 web.humoruniv.com›board 새 창 열림" [ref=f270e546] [cursor=pointer]:
+                  - /url: https://web.humoruniv.com/board/humor/read.html?table=pride&number=1205391
+                  - generic [ref=f270e548]:
+                    - generic [ref=f270e552]: 웃긴대학
+                    - generic [ref=f270e554]: web.humoruniv.com›board
+                  - generic [ref=f270e558]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e560] [cursor=pointer]
+              - generic [ref=f270e565]:
+                - link "저기서 매일 우수경님과 교성을.. 새 창 열림" [ref=f270e567] [cursor=pointer]:
+                  - /url: https://web.humoruniv.com/board/humor/read.html?table=pride&number=1205391
+                  - generic [ref=f270e568]:
+                    - text: 저기서 매일
+                    - mark [ref=f270e569]: 우수경
+                    - text: 님과 교성을..
+                  - generic [ref=f270e570]: 새 창 열림
+                - link "2026.01.14.아흣 전 받데기에요 새 창 열림" [ref=f270e572] [cursor=pointer]:
+                  - /url: https://web.humoruniv.com/board/humor/read.html?table=pride&number=1205391
+                  - generic [ref=f270e573]:
+                    - generic [ref=f270e574]: 2026.01.14.
+                    - text: 아흣 전 받데기에요
+                  - generic [ref=f270e575]: 새 창 열림
+            - generic [ref=f270e580]:
+              - generic [ref=f270e581]:
+                - generic [ref=f270e582]:
+                  - link "예스24 www.yes24.com›product 새 창 열림" [ref=f270e583] [cursor=pointer]:
+                    - /url: https://www.yes24.com/product/goods/196017504
+                    - generic [ref=f270e585]:
+                      - generic [ref=f270e589]: 예스24
+                      - generic [ref=f270e591]: www.yes24.com›product
+                    - generic [ref=f270e595]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e597] [cursor=pointer]
+                - generic [ref=f270e602]:
+                  - link "영유아음악교육 | <mark>우수경</mark> | 공동체의 이미지 새 창 열림" [ref=f270e603] [cursor=pointer]:
+                    - /url: https://www.yes24.com/product/goods/196017504
+                    - img "영유아음악교육 | <mark>우수경</mark> | 공동체의 이미지" [ref=f270e605]
+                    - generic [ref=f270e607]: 새 창 열림
+                  - link "영유아음악교육 | 우수경 | 공동체 새 창 열림" [ref=f270e609] [cursor=pointer]:
+                    - /url: https://www.yes24.com/product/goods/196017504
+                    - generic [ref=f270e610]:
+                      - text: 영유아음악교육 |
+                      - mark [ref=f270e611]: 우수경
+                      - text: "| 공동체"
+                    - generic [ref=f270e612]: 새 창 열림
+                  - 'link "정가 : 24,000원, 판매가 : 24,000원, YES포인트 : 0원 · 5만원이상 구매 시 2천원 추가적립 새 창 열림" [ref=f270e614] [cursor=pointer]':
+                    - /url: https://www.yes24.com/product/goods/196017504
+                    - generic [ref=f270e615]: "정가 : 24,000원, 판매가 : 24,000원, YES포인트 : 0원 · 5만원이상 구매 시 2천원 추가적립"
+                    - generic [ref=f270e616]: 새 창 열림
+              - generic [ref=f270e617]:
+                - generic [ref=f270e619]:
+                  - link "실전세일즈 노하우 | 우수경 | 한국경제신문i 새 창 열림" [ref=f270e620] [cursor=pointer]:
+                    - /url: https://www.yes24.com/product/goods/59801402
+                    - generic [ref=f270e621]:
+                      - text: 실전세일즈 노하우 |
+                      - mark [ref=f270e622]: 우수경
+                      - text: "| 한국경제신문i"
+                    - generic [ref=f270e623]: 새 창 열림
+                  - generic [ref=f270e624]: "정가 : 16,000원, 판매가 : 14,400원 (10% 할인), YES포인트 : 800원 (5% 적립) · 5만원이상 구매 시 2천원 추가적립"
+                - link "관련문서 더보기" [ref=f270e627] [cursor=pointer]:
+                  - /url: "?page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94+site%3Awww.yes24.com&qvt=0&ssc=tab.ur.all"
+            - generic [ref=f270e636]:
+              - generic [ref=f270e637]:
+                - generic [ref=f270e638]:
+                  - link "새 창 열림" [ref=f270e640] [cursor=pointer]:
+                    - /url: https://blog.naver.com/k3a3n3g3
+                  - link "한 걸음, 더 가서 넘어지는 방법 새 창 열림" [ref=f270e646] [cursor=pointer]:
+                    - /url: https://blog.naver.com/k3a3n3g3
+                    - generic [ref=f270e647]: 한 걸음, 더 가서 넘어지는 방법
+                    - generic [ref=f270e648]: 새 창 열림
+                  - generic [ref=f270e649]: 2024.10.03.
+                - button "옵션 메뉴 열기" [ref=f270e653] [cursor=pointer]
+              - generic [ref=f270e659]:
+                - generic [ref=f270e660]:
+                  - link "9월 교도소 법보시 결과 내역 새 창 열림" [ref=f270e661] [cursor=pointer]:
+                    - /url: https://blog.naver.com/k3a3n3g3/223605932596
+                    - generic [ref=f270e662]: 9월 교도소 법보시 결과 내역
+                    - generic [ref=f270e663]: 새 창 열림
+                  - link "사두 사두 사두 ^^ (우수경 30,000원, 장재희 10,000원, 미카엘 10,000원, 이철 50,000원, 강민수 10,000원, 임성효 30,000원, 권윤영 25,000원, 익명 10,000원, 박서현 10,000원, 김용호 10,000원... 유경민님도 <만화 법구경>(전재성 글, 마정원 그림) 5권을 안양교도소에 보시해주셨습니다. 我無말들 출판사에서 많은 분들의 법보시로 인쇄한 <자애 수행>(찬매 사야도 법문) 책을... 새 창 열림" [ref=f270e665] [cursor=pointer]:
+                    - /url: https://blog.naver.com/k3a3n3g3/223605932596
+                    - generic [ref=f270e666]:
+                      - text: 사두 사두 사두 ^^ (
+                      - mark [ref=f270e667]: 우수경
+                      - text: 30,000원, 장재희 10,000원, 미카엘 10,000원, 이철 50,000원, 강민수 10,000원, 임성효 30,000원, 권윤영 25,000원, 익명 10,000원, 박서현 10,000원, 김용호 10,000원... 유경민님도 <
+                      - mark [ref=f270e668]: 만화
+                      - text: 법구경>(전재성 글, 마정원 그림) 5권을 안양교도소에 보시해주셨습니다. 我無말들 출판사에서 많은 분들의 법보시로 인쇄한 <자애 수행>(찬매 사야도 법문) 책을...
+                    - generic [ref=f270e669]: 새 창 열림
+                - link "5 새 창 열림" [ref=f270e670] [cursor=pointer]:
+                  - /url: https://blog.naver.com/k3a3n3g3/223605932596
+                  - generic [ref=f270e671]: "5"
+                  - generic [ref=f270e678]: 새 창 열림
+            - generic [ref=f270e684]:
+              - generic [ref=f270e685]:
+                - generic [ref=f270e686]:
+                  - link "새 창 열림" [ref=f270e688] [cursor=pointer]:
+                    - /url: https://blog.naver.com/vermilion80
+                  - link "버밀리온 새 창 열림" [ref=f270e694] [cursor=pointer]:
+                    - /url: https://blog.naver.com/vermilion80
+                    - generic [ref=f270e695]: 버밀리온
+                    - generic [ref=f270e696]: 새 창 열림
+                  - generic [ref=f270e697]: 2026.02.13.
+                - button "옵션 메뉴 열기" [ref=f270e701] [cursor=pointer]
+              - generic [ref=f270e707]:
+                - generic [ref=f270e708]:
+                  - link "대구 경북기계공고 비누 수업/클레이 페인팅 솝 만들기로 만나는 특별한 비누 공예 이야기/단체 .... 새 창 열림" [ref=f270e709] [cursor=pointer]:
+                    - /url: https://blog.naver.com/vermilion80/224182544839
+                    - generic [ref=f270e710]: 대구 경북기계공고 비누 수업/클레이 페인팅 솝 만들기로 만나는 특별한 비누 공예 이야기/단체 ....
+                    - generic [ref=f270e711]: 새 창 열림
+                  - link "풍경을 표현한 작품부터 자신이 좋아하는 만화의 캐릭터, 감각적인 색 조합으로 구성한 디자인까지 다양하게 표현되었습니다. 페인팅 작업이 끝난 뒤에는 투명 비누 베이스를 부어 굳히는 마감 과정을 진행해 디자인을 안정적으로 고정하고 실제 사용이 가능하도록 완성했습니다. 같은 재료를 사용했지만 완성된 비누는 모두 다른 분위기로 완성되었습니다. 클레이 페인팅... 새 창 열림" [ref=f270e713] [cursor=pointer]:
+                    - /url: https://blog.naver.com/vermilion80/224182544839
+                    - generic [ref=f270e714]:
+                      - text: 풍경을 표현한 작품부터 자신이 좋아하는
+                      - mark [ref=f270e715]: 만화
+                      - text: 의 캐릭터, 감각적인 색 조합으로 구성한 디자인까지 다양하게 표현되었습니다. 페인팅 작업이 끝난 뒤에는 투명 비누 베이스를 부어 굳히는 마감 과정을 진행해 디자인을 안정적으로 고정하고 실제 사용이 가능하도록 완성했습니다. 같은 재료를 사용했지만 완성된 비누는 모두 다른 분위기로 완성되었습니다. 클레이 페인팅...
+                    - generic [ref=f270e716]: 새 창 열림
+                - link "26 새 창 열림" [ref=f270e717] [cursor=pointer]:
+                  - /url: https://blog.naver.com/vermilion80/224182544839
+                  - generic [ref=f270e718]: "26"
+                  - generic [ref=f270e725]: 새 창 열림
+            - generic [ref=f270e731]:
+              - generic [ref=f270e732]:
+                - link "천지일보 www.newscj.com›news 새 창 열림" [ref=f270e733] [cursor=pointer]:
+                  - /url: https://www.newscj.com/news/articleView.html?idxno=136249
+                  - generic [ref=f270e735]:
+                    - generic [ref=f270e739]: 천지일보
+                    - generic [ref=f270e741]: www.newscj.com›news
+                  - generic [ref=f270e745]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e747] [cursor=pointer]
+              - generic [ref=f270e752]:
+                - link "이순구 ‘웃는 얼굴’ 그림 “보는 것만으로 웃음이 퍼져요”의 이미지 새 창 열림" [ref=f270e753] [cursor=pointer]:
+                  - /url: https://www.newscj.com/news/articleView.html?idxno=136249
+                  - img "이순구 ‘웃는 얼굴’ 그림 “보는 것만으로 웃음이 퍼져요”의 이미지" [ref=f270e755]
+                  - generic [ref=f270e757]: 새 창 열림
+                - link "이순구 ‘웃는 얼굴’ 그림 “보는 것만으로 웃음이 퍼져요” 새 창 열림" [ref=f270e759] [cursor=pointer]:
+                  - /url: https://www.newscj.com/news/articleView.html?idxno=136249
+                  - generic [ref=f270e760]: 이순구 ‘웃는 얼굴’ 그림 “보는 것만으로 웃음이 퍼져요”
+                  - generic [ref=f270e761]: 새 창 열림
+                - link "2012.06.11.이 작가는 국내 최초의 만화학 박사라는 색다른 이력도 가지고 있다. 만화에서 사용되는 공간의 다양한 해석과 접근으로 다각적인 연구를 통해 작품을 완성시킨다. 또 기호학과... 한편 ‘너랑 나랑 웃자!’라는 주제로 열리는 ‘제20회 아시테지 여름축제’에는 아프리카 터키 이스라엘 호주 일본 등 해외초청작 6작품, 국내 우수경연작 4작품으로 총 10개의 작품이... 새 창 열림" [ref=f270e763] [cursor=pointer]:
+                  - /url: https://www.newscj.com/news/articleView.html?idxno=136249
+                  - generic [ref=f270e764]:
+                    - generic [ref=f270e765]: 2012.06.11.
+                    - generic [ref=f270e766]:
+                      - text: 이 작가는 국내 최초의
+                      - mark [ref=f270e767]: 만화
+                      - text: 학 박사라는 색다른 이력도 가지고 있다.
+                      - mark [ref=f270e768]: 만화
+                      - text: 에서 사용되는 공간의 다양한 해석과 접근으로 다각적인 연구를 통해 작품을 완성시킨다. 또 기호학과... 한편 ‘너랑 나랑 웃자!’라는 주제로 열리는 ‘제20회 아시테지 여름축제’에는 아프리카 터키 이스라엘 호주 일본 등 해외초청작 6작품, 국내
+                      - mark [ref=f270e769]: 우수경
+                      - text: 연작 4작품으로 총 10개의 작품이...
+                  - generic [ref=f270e770]: 새 창 열림
+            - generic [ref=f270e776]:
+              - generic [ref=f270e777]:
+                - generic [ref=f270e778]:
+                  - link "새 창 열림" [ref=f270e780] [cursor=pointer]:
+                    - /url: https://blog.naver.com/yoon_seo_0705
+                  - link "감은 눈 아래 들켜버린 꽃 한송이 사랑이여라 새 창 열림" [ref=f270e786] [cursor=pointer]:
+                    - /url: https://blog.naver.com/yoon_seo_0705
+                    - generic [ref=f270e787]: 감은 눈 아래 들켜버린 꽃 한송이 사랑이여라
+                    - generic [ref=f270e788]: 새 창 열림
+                  - generic [ref=f270e789]: 6일 전
+                - button "옵션 메뉴 열기" [ref=f270e793] [cursor=pointer]
+              - generic [ref=f270e799]:
+                - generic [ref=f270e800]:
+                  - link "으뜨 팔월 새 창 열림" [ref=f270e801] [cursor=pointer]:
+                    - /url: https://blog.naver.com/yoon_seo_0705/224405415868
+                    - generic [ref=f270e802]: 으뜨 팔월
+                    - generic [ref=f270e803]: 새 창 열림
+                  - link "그냥 우수경) 토이스토리 개봉한 김에 까까 만들었어 엄청난 힐링의 시간 너무 고달팠지만 나름 즐거웠어 내버킷리스트에있었거든✦‿✦ 주말에는 광주시가서 전주대 보조 맞췄어... TV만화2020일본 MBS,애니플러스 민채랑 릴스에서 뜨는 거 찍엇어 오랜만에 완!전 잘나와서 기분 좋았어ʕ•͡ω•ʔ 행운이 필요해서 염주를 샀어 아름다운 체리목 조금만 더... 새 창 열림" [ref=f270e805] [cursor=pointer]:
+                    - /url: https://blog.naver.com/yoon_seo_0705/224405415868
+                    - generic [ref=f270e806]:
+                      - text: 그냥
+                      - mark [ref=f270e807]: 우수경
+                      - text: ) 토이스토리 개봉한 김에 까까 만들었어 엄청난 힐링의 시간 너무 고달팠지만 나름 즐거웠어 내버킷리스트에있었거든✦‿✦ 주말에는 광주시가서 전주대 보조 맞췄어... TV
+                      - mark [ref=f270e808]: 만화
+                      - text: 2020일본 MBS,애니플러스 민채랑 릴스에서 뜨는 거 찍엇어 오랜만에 완!전 잘나와서 기분 좋았어ʕ•͡ω•ʔ 행운이 필요해서 염주를 샀어 아름다운 체리목 조금만 더...
+                    - generic [ref=f270e809]: 새 창 열림
+                - link "81 새 창 열림" [ref=f270e810] [cursor=pointer]:
+                  - /url: https://blog.naver.com/yoon_seo_0705/224405415868
+                  - generic [ref=f270e811]: "81"
+                  - generic [ref=f270e818]: 새 창 열림
+            - generic [ref=f270e824]:
+              - generic [ref=f270e825]:
+                - link "예천뉴스 www.ycn24.co.kr›news 새 창 열림" [ref=f270e826] [cursor=pointer]:
+                  - /url: http://www.ycn24.co.kr/news/articleView.html?idxno=75876
+                  - generic [ref=f270e828]:
+                    - generic [ref=f270e846]: 예천뉴스
+                    - generic [ref=f270e848]: www.ycn24.co.kr›news
+                  - generic [ref=f270e852]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e854] [cursor=pointer]
+              - generic [ref=f270e859]:
+                - link "새벗유치원, 학부모 참관수업 실시의 이미지 새 창 열림" [ref=f270e860] [cursor=pointer]:
+                  - /url: http://www.ycn24.co.kr/news/articleView.html?idxno=75876
+                  - img "새벗유치원, 학부모 참관수업 실시의 이미지" [ref=f270e862]
+                  - generic [ref=f270e864]: 새 창 열림
+                - link "새벗유치원, 학부모 참관수업 실시 새 창 열림" [ref=f270e866] [cursor=pointer]:
+                  - /url: http://www.ycn24.co.kr/news/articleView.html?idxno=75876
+                  - generic [ref=f270e867]: 새벗유치원, 학부모 참관수업 실시
+                  - generic [ref=f270e868]: 새 창 열림
+                - link "2024.10.07.새벗유치원(원장 우수경)은 2일 새벗유치원 유아 및 학부모를 대상으로 ‘학부모 참관수업’을 실시했다. 이번 ‘학부모 참관수업’은 학부모가 유치원 교육환경과 놀이를 통한 다양한 학습의 경험을 참관함으로써 유치원 교육에 대한 이해 증진과 놀이 중심 교육과정에 대한 만족도 제고를 목적으로 한다. 학부모 참관수업의 주제로는, 솔샘반과 깊은샘반, 빛가람반은 ‘전통 .... 새 창 열림" [ref=f270e870] [cursor=pointer]:
+                  - /url: http://www.ycn24.co.kr/news/articleView.html?idxno=75876
+                  - generic [ref=f270e871]:
+                    - generic [ref=f270e872]: 2024.10.07.
+                    - generic [ref=f270e873]:
+                      - text: 새벗유치원(원장
+                      - mark [ref=f270e874]: 우수경
+                      - text: )은 2일 새벗유치원 유아 및 학부모를 대상으로 ‘학부모 참관수업’을 실시했다. 이번 ‘학부모 참관수업’은 학부모가 유치원 교육환경과 놀이를 통한 다양한 학습의 경험을 참관함으로써 유치원 교육에 대한 이해 증진과 놀이 중심 교육과정에 대한 만족도 제고를 목적으로 한다. 학부모 참관수업의 주제로는, 솔샘반과 깊은샘반, 빛가람반은 ‘전통 ....
+                  - generic [ref=f270e875]: 새 창 열림
+            - generic [ref=f270e881]:
+              - generic [ref=f270e882]:
+                - link "연합뉴스 www.yna.co.kr›연합뉴스›최신뉴스 새 창 열림" [ref=f270e883] [cursor=pointer]:
+                  - /url: https://www.yna.co.kr/view/AKR20210610150800004
+                  - generic [ref=f270e885]:
+                    - generic [ref=f270e889]: 연합뉴스
+                    - generic [ref=f270e891]: www.yna.co.kr›연합뉴스›최신뉴스
+                  - generic [ref=f270e895]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=f270e897] [cursor=pointer]
+              - generic [ref=f270e902]:
+                - link "[부고] 박주경(KBS 뉴스광장 앵커)씨 부친상 새 창 열림" [ref=f270e904] [cursor=pointer]:
+                  - /url: https://www.yna.co.kr/view/AKR20210610150800004
+                  - generic [ref=f270e905]: "[부고] 박주경(KBS 뉴스광장 앵커)씨 부친상"
+                  - generic [ref=f270e906]: 새 창 열림
+                - link "2021.06.10.▲ 박윤창씨 별세, 박주경(KBS 뉴스광장 앵커)·박주택(한국기후변화연구원 사무처장)씨 부친상, 우수경(KBS 중동지국장)씨 시부상, 김수웅(대림산업 부장)씨 장인상 = 10일, 경기 고양시 일산장례식장, 발인 12일, ☎ 031-923-7000 (서울=연합뉴스) 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2021/06/10 16:56 송고 새 창 열림" [ref=f270e908] [cursor=pointer]:
+                  - /url: https://www.yna.co.kr/view/AKR20210610150800004
+                  - generic [ref=f270e909]:
+                    - generic [ref=f270e910]: 2021.06.10.
+                    - generic [ref=f270e911]:
+                      - text: ▲ 박윤창씨 별세, 박주경(KBS 뉴스광장 앵커)·박주택(한국기후변화연구원 사무처장)씨 부친상,
+                      - mark [ref=f270e912]: 우수경
+                      - text: (KBS 중동지국장)씨 시부상, 김수웅(대림산업 부장)씨 장인상 = 10일, 경기 고양시 일산장례식장, 발인 12일, ☎ 031-923-7000 (서울=연합뉴스) 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2021/06/10 16:56 송고
+                  - generic [ref=f270e913]: 새 창 열림
+            - link "검색결과 더보기" [ref=f270e915] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=1"
+              - generic [ref=f270e916]: 검색결과
+              - generic [ref=f270e917]: 더보기
+          - generic [ref=f270e921]:
+            - generic [ref=f270e923]:
+              - heading "뉴스" [level=2] [ref=f270e925]
+              - generic [ref=f270e927]:
+                - link "관련도순" [ref=f270e928] [cursor=pointer]:
+                  - /url: "?nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_smr&sort=0&ssc=tab.news.all"
+                - link "최신순" [ref=f270e933] [cursor=pointer]:
+                  - /url: "?nso=so%3Add%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_smr&sort=1&ssc=tab.news.all"
+                - link "모바일 메인 언론사" [ref=f270e938] [cursor=pointer]:
+                  - /url: "?nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&service_area=1&sm=tab_smr&sort=0&ssc=tab.news.all"
+                  - switch "모바일 메인 언론사"
+            - generic [ref=f270e939]:
+              - generic [ref=f270e940]:
+                - generic [ref=f270e941]:
+                  - generic [ref=f270e942]:
+                    - link "한국강사신문의 프로필 이미지 새 창 열림" [ref=f270e944] [cursor=pointer]:
+                      - /url: http://www.lecturernews.com
+                      - img "한국강사신문의 프로필 이미지" [ref=f270e947]
+                      - generic [ref=f270e948]: 새 창 열림
+                    - link "한국강사신문 새 창 열림" [ref=f270e951] [cursor=pointer]:
+                      - /url: http://www.lecturernews.com
+                      - generic [ref=f270e952]: 한국강사신문
+                      - generic [ref=f270e953]: 새 창 열림
+                    - generic [ref=f270e954]: 2018.09.10.
+                  - button "옵션 메뉴 열기" [ref=f270e960] [cursor=pointer]
+                - generic [ref=f270e965]:
+                  - generic [ref=f270e966]:
+                    - link "웹툰(만화) 전시·웹툰작가 토크쇼·웹툰 체험·웹툰 뮤지컬 등 '제2회 ... 새 창 열림" [ref=f270e967] [cursor=pointer]:
+                      - /url: http://www.lecturernews.com/news/articleView.html?idxno=6858
+                      - generic [ref=f270e968]:
+                        - text: 웹툰(
+                        - mark [ref=f270e969]: 만화
+                        - text: ) 전시·웹툰작가 토크쇼·웹툰 체험·웹툰 뮤지컬 등 '제2회 ...
+                      - generic [ref=f270e970]: 새 창 열림
+                    - link "올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기, 우수경, 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은, 구은민 작가 등의 홍보영상 릴레이가 이어지고 있다. 한편, 개막식은 14일 오후 4시 부산문화콘텐츠콤플렉스 2층 메인무대에서 개최된다. 국내외 웹툰(만화)작가 및 관계자 등 100여 명이... 새 창 열림" [ref=f270e971] [cursor=pointer]:
+                      - /url: http://www.lecturernews.com/news/articleView.html?idxno=6858
+                      - generic [ref=f270e972]:
+                        - text: 올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기,
+                        - mark [ref=f270e973]: 우수경
+                        - text: ", 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은, 구은민 작가 등의 홍보영상 릴레이가 이어지고 있다. 한편, 개막식은 14일 오후 4시 부산문화콘텐츠콤플렉스 2층 메인무대에서 개최된다. 국내외 웹툰("
+                        - mark [ref=f270e974]: 만화
+                        - text: )작가 및 관계자 등 100여 명이...
+                      - generic [ref=f270e975]: 새 창 열림
+                  - link "웹툰(<mark>만화</mark>) 전시·웹툰작가 토크쇼·웹툰 체험·웹툰 뮤지컬 등 '제2회 ...의 이미지 새 창 열림" [ref=f270e976] [cursor=pointer]:
+                    - /url: http://www.lecturernews.com/news/articleView.html?idxno=6858
+                    - img "웹툰(<mark>만화</mark>) 전시·웹툰작가 토크쇼·웹툰 체험·웹툰 뮤지컬 등 '제2회 ...의 이미지" [ref=f270e978]
+                    - generic [ref=f270e980]: 새 창 열림
+                - generic [ref=f270e983]:
+                  - generic [ref=f270e984]:
+                    - link "제2회 부산웹툰페스티벌 개최 새 창 열림" [ref=f270e985] [cursor=pointer]:
+                      - /url: http://www.bzeronews.com/news/articleView.html?idxno=367196
+                      - generic [ref=f270e986]: 제2회 부산웹툰페스티벌 개최
+                      - generic [ref=f270e987]: 새 창 열림
+                    - generic [ref=f270e989]:
+                      - generic [ref=f270e990]: 공뉴스
+                      - generic [ref=f270e992]: 2018.09.10.
+                  - generic [ref=f270e997]:
+                    - link "제2회 부산웹툰페스티벌 ‘웹툰을 기다리며’ 14일 개막 새 창 열림" [ref=f270e998] [cursor=pointer]:
+                      - /url: http://www.newsis.com/view/?id=NISX20180910_0000413827&cID=10811&pID=10800
+                      - generic [ref=f270e999]: 제2회 부산웹툰페스티벌 ‘웹툰을 기다리며’ 14일 개막
+                      - generic [ref=f270e1000]: 새 창 열림
+                    - generic [ref=f270e1002]:
+                      - generic [ref=f270e1003]: 뉴시스
+                      - generic [ref=f270e1005]:
+                        - generic [ref=f270e1007]: 2018.09.10.
+                        - link "네이버뉴스 새 창 열림" [ref=f270e1012] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/003/0008798672?sid=102
+                          - generic [ref=f270e1013]: 네이버뉴스
+                          - generic [ref=f270e1014]: 새 창 열림
+              - generic [ref=f270e1016]:
+                - generic [ref=f270e1017]:
+                  - generic [ref=f270e1018]:
+                    - link "KBS의 프로필 이미지 새 창 열림" [ref=f270e1020] [cursor=pointer]:
+                      - /url: https://media.naver.com/press/056
+                      - img "KBS의 프로필 이미지" [ref=f270e1023]
+                      - generic [ref=f270e1024]: 새 창 열림
+                    - link "KBS 새 창 열림" [ref=f270e1027] [cursor=pointer]:
+                      - /url: https://media.naver.com/press/056
+                      - generic [ref=f270e1028]: KBS
+                      - generic [ref=f270e1029]: 새 창 열림
+                    - generic [ref=f270e1030]:
+                      - generic [ref=f270e1032]: 2021.05.18.
+                      - link "네이버뉴스 새 창 열림" [ref=f270e1037] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/056/0011046299?sid=104
+                        - generic [ref=f270e1038]: 네이버뉴스
+                        - generic [ref=f270e1039]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=f270e1041] [cursor=pointer]
+                - generic [ref=f270e1046]:
+                  - generic [ref=f270e1047]:
+                    - link "이-팔 분쟁 두고 처음 갈라진 이슬람권…이스라엘 규탄 vs 침묵 새 창 열림" [ref=f270e1048] [cursor=pointer]:
+                      - /url: https://news.kbs.co.kr/news/view.do?ncd=5188332&ref=A
+                      - generic [ref=f270e1049]: 이-팔 분쟁 두고 처음 갈라진 이슬람권…이스라엘 규탄 vs 침묵
+                      - generic [ref=f270e1050]: 새 창 열림
+                    - 'link "해당 해시태그는 지난 4월 팔레스타인 출신 만화가가 무함마드 사우디 왕세자를 풍자하는 만화를 공개한 것에 대응해 만들어진 것으로 알려졌습니다.... 미래계획에 가치가 있다고 여기는 이스라엘과 신흥동맹을 흔들지 않을 것이라는 신호를 보내는 것\"이라고 덧붙였습니다. [사진 출처 : AFP=연합뉴스] 우수경 새 창 열림" [ref=f270e1051] [cursor=pointer]':
+                      - /url: https://news.kbs.co.kr/news/view.do?ncd=5188332&ref=A
+                      - generic [ref=f270e1052]:
+                        - text: 해당 해시태그는 지난 4월 팔레스타인 출신
+                        - mark [ref=f270e1053]: 만화
+                        - text: 가가 무함마드 사우디 왕세자를 풍자하는
+                        - mark [ref=f270e1054]: 만화
+                        - text: "를 공개한 것에 대응해 만들어진 것으로 알려졌습니다.... 미래계획에 가치가 있다고 여기는 이스라엘과 신흥동맹을 흔들지 않을 것이라는 신호를 보내는 것\"이라고 덧붙였습니다. [사진 출처 : AFP=연합뉴스]"
+                        - mark [ref=f270e1055]: 우수경
+                      - generic [ref=f270e1056]: 새 창 열림
+                  - link "이-팔 분쟁 두고 처음 갈라진 이슬람권…이스라엘 규탄 vs 침묵의 이미지 새 창 열림" [ref=f270e1057] [cursor=pointer]:
+                    - /url: https://news.kbs.co.kr/news/view.do?ncd=5188332&ref=A
+                    - img "이-팔 분쟁 두고 처음 갈라진 이슬람권…이스라엘 규탄 vs 침묵의 이미지" [ref=f270e1059]
+                    - generic [ref=f270e1061]: 새 창 열림
+              - generic [ref=f270e1063]:
+                - generic [ref=f270e1064]:
+                  - generic [ref=f270e1065]:
+                    - link "일요신문의 프로필 이미지 새 창 열림" [ref=f270e1067] [cursor=pointer]:
+                      - /url: https://www.ilyo.co.kr/
+                      - img "일요신문의 프로필 이미지" [ref=f270e1070]
+                      - generic [ref=f270e1071]: 새 창 열림
+                    - link "일요신문 새 창 열림" [ref=f270e1074] [cursor=pointer]:
+                      - /url: https://www.ilyo.co.kr/
+                      - generic [ref=f270e1075]: 일요신문
+                      - generic [ref=f270e1076]: 새 창 열림
+                    - generic [ref=f270e1077]: 2018.09.11.
+                  - button "옵션 메뉴 열기" [ref=f270e1083] [cursor=pointer]
+                - generic [ref=f270e1088]:
+                  - generic [ref=f270e1089]:
+                    - link "부산시, '제2회 부산웹툰페스티벌' 14일 개막 새 창 열림" [ref=f270e1090] [cursor=pointer]:
+                      - /url: http://ilyo.co.kr/?ac=article_view&entry_id=309457
+                      - generic [ref=f270e1091]: 부산시, '제2회 부산웹툰페스티벌' 14일 개막
+                      - generic [ref=f270e1092]: 새 창 열림
+                    - link "드로잉’ △가족만화그리기대회 △작가실 개방 등의 다양한 행사가 준비돼 있다. 지난해 부산웹툰페스티벌은 작가들이 릴레이 포스터를 페이스북 등에 연재해 페스티벌을 홍보했다. 올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기, 우수경, 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은... 새 창 열림" [ref=f270e1093] [cursor=pointer]:
+                      - /url: http://ilyo.co.kr/?ac=article_view&entry_id=309457
+                      - generic [ref=f270e1094]:
+                        - text: 드로잉’ △가족
+                        - mark [ref=f270e1095]: 만화
+                        - text: 그리기대회 △작가실 개방 등의 다양한 행사가 준비돼 있다. 지난해 부산웹툰페스티벌은 작가들이 릴레이 포스터를 페이스북 등에 연재해 페스티벌을 홍보했다. 올해는 박수동, 가스파드, 김혜린, 남정훈, 배민기,
+                        - mark [ref=f270e1096]: 우수경
+                        - text: ", 송진우, 이지현, 이소현, 김석년, 안나보니따, 김혜원, 황가은..."
+                      - generic [ref=f270e1097]: 새 창 열림
+                  - link "부산시, '제2회 부산웹툰페스티벌' 14일 개막의 이미지 새 창 열림" [ref=f270e1098] [cursor=pointer]:
+                    - /url: http://ilyo.co.kr/?ac=article_view&entry_id=309457
+                    - img "부산시, '제2회 부산웹툰페스티벌' 14일 개막의 이미지" [ref=f270e1100]
+                    - generic [ref=f270e1102]: 새 창 열림
+              - generic [ref=f270e1104]:
+                - generic [ref=f270e1105]:
+                  - generic [ref=f270e1106]:
+                    - link "천지일보의 프로필 이미지 새 창 열림" [ref=f270e1108] [cursor=pointer]:
+                      - /url: http://www.newscj.com
+                      - img "천지일보의 프로필 이미지" [ref=f270e1111]
+                      - generic [ref=f270e1112]: 새 창 열림
+                    - link "천지일보 새 창 열림" [ref=f270e1115] [cursor=pointer]:
+                      - /url: http://www.newscj.com
+                      - generic [ref=f270e1116]: 천지일보
+                      - generic [ref=f270e1117]: 새 창 열림
+                    - generic [ref=f270e1118]: 2012.06.11.
+                  - button "옵션 메뉴 열기" [ref=f270e1124] [cursor=pointer]
+                - generic [ref=f270e1129]:
+                  - generic [ref=f270e1130]:
+                    - link "이순구 '웃는 얼굴' 그림 \"보는 것만으로 웃음이 퍼져요\" 새 창 열림" [ref=f270e1131] [cursor=pointer]:
+                      - /url: http://www.newscj.com/news/articleView.html?idxno=136249
+                      - generic [ref=f270e1132]: 이순구 '웃는 얼굴' 그림 "보는 것만으로 웃음이 퍼져요"
+                      - generic [ref=f270e1133]: 새 창 열림
+                    - link "이 작가는 국내 최초의 만화학 박사라는 색다른 이력도 가지고 있다. 만화에서 사용되는 공간의 다양한 해석과 접근으로 다각적인 연구를 통해 작품을... 한편 '너랑 나랑 웃자!'라는 주제로 열리는 '제20회 아시테지 여름축제'에는 아프리카 터키 이스라엘 호주 일본 등 해외초청작 6작품, 국내 우수경연작... 새 창 열림" [ref=f270e1134] [cursor=pointer]:
+                      - /url: http://www.newscj.com/news/articleView.html?idxno=136249
+                      - generic [ref=f270e1135]:
+                        - text: 이 작가는 국내 최초의
+                        - mark [ref=f270e1136]: 만화
+                        - text: 학 박사라는 색다른 이력도 가지고 있다.
+                        - mark [ref=f270e1137]: 만화
+                        - text: 에서 사용되는 공간의 다양한 해석과 접근으로 다각적인 연구를 통해 작품을... 한편 '너랑 나랑 웃자!'라는 주제로 열리는 '제20회 아시테지 여름축제'에는 아프리카 터키 이스라엘 호주 일본 등 해외초청작 6작품, 국내
+                        - mark [ref=f270e1138]: 우수경
+                        - text: 연작...
+                      - generic [ref=f270e1139]: 새 창 열림
+                  - link "이순구 '웃는 얼굴' 그림 &quot;보는 것만으로 웃음이 퍼져요&quot;의 이미지 새 창 열림" [ref=f270e1140] [cursor=pointer]:
+                    - /url: http://www.newscj.com/news/articleView.html?idxno=136249
+                    - img "이순구 '웃는 얼굴' 그림 &quot;보는 것만으로 웃음이 퍼져요&quot;의 이미지" [ref=f270e1142]
+                    - generic [ref=f270e1144]: 새 창 열림
+            - link "뉴스 더보기" [ref=f270e1146] [cursor=pointer]:
+              - /url: "?nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_smr&sort=0&ssc=tab.news.all"
+              - generic [ref=f270e1151]:
+                - generic [ref=f270e1152]: 뉴스
+                - generic [ref=f270e1153]: 더보기
+          - generic [ref=f270e1158]:
+            - generic [ref=f270e1159]: 이전
+            - generic "페이지 탐색" [ref=f270e1161]:
+              - link "1 페이지" [ref=f270e1162] [cursor=pointer]:
+                - /url: "?nso=&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.nx.all"
+                - text: "1"
+                - generic [ref=f270e1163]: 페이지
+              - link "2 페이지" [ref=f270e1164] [cursor=pointer]:
+                - /url: "?nso=&page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=1"
+                - text: "2"
+                - generic [ref=f270e1165]: 페이지
+              - link "3 페이지" [ref=f270e1166] [cursor=pointer]:
+                - /url: "?nso=&page=3&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=21"
+                - text: "3"
+                - generic [ref=f270e1167]: 페이지
+              - link "4 페이지" [ref=f270e1168] [cursor=pointer]:
+                - /url: "?nso=&page=4&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=41"
+                - text: "4"
+                - generic [ref=f270e1169]: 페이지
+              - link "5 페이지" [ref=f270e1170] [cursor=pointer]:
+                - /url: "?nso=&page=5&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=61"
+                - text: "5"
+                - generic [ref=f270e1171]: 페이지
+              - link "6 페이지" [ref=f270e1172] [cursor=pointer]:
+                - /url: "?nso=&page=6&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=81"
+                - text: "6"
+                - generic [ref=f270e1173]: 페이지
+              - link "7 페이지" [ref=f270e1174] [cursor=pointer]:
+                - /url: "?nso=&page=7&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=101"
+                - text: "7"
+                - generic [ref=f270e1175]: 페이지
+              - link "8 페이지" [ref=f270e1176] [cursor=pointer]:
+                - /url: "?nso=&page=8&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=121"
+                - text: "8"
+                - generic [ref=f270e1177]: 페이지
+              - link "9 페이지" [ref=f270e1178] [cursor=pointer]:
+                - /url: "?nso=&page=9&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=141"
+                - text: "9"
+                - generic [ref=f270e1179]: 페이지
+              - link "10 페이지" [ref=f270e1180] [cursor=pointer]:
+                - /url: "?nso=&page=10&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=161"
+                - text: "10"
+                - generic [ref=f270e1181]: 페이지
+            - link "다음" [ref=f270e1182] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%EC%9A%B0%EC%88%98%EA%B2%BD+%EB%A7%8C%ED%99%94&sm=tab_pge&ssc=tab.ur.all&start=1"
+        - generic [ref=f270e1187]:
+          - link [ref=f270e1188] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f270e1190]:
+              - strong [ref=f270e1191]: 태그 하나로, 기록은 더 멀리
+              - paragraph [ref=f270e1192]: 오늘의 경험을 기록하고 포인트 적립
+          - link [ref=f270e1193] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2609-shopping-002&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F6a4f0fb8e73d32500f261a71%3FlayerId%3DL_260811143826330%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2609-shopping-002
+            - generic [ref=f270e1195]:
+              - strong [ref=f270e1196]: 추석+세일
+              - paragraph [ref=f270e1197]: 선물핫딜부터 선착순 쿠폰까지!
+          - link [ref=f270e1198] [cursor=pointer]:
+            - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt
+            - generic [ref=f270e1200]:
+              - strong [ref=f270e1201]: 적립적인 멤버십 전용카드
+              - paragraph [ref=f270e1202]: 네이버 현대카드 Ed.3
+          - link [ref=f270e1203] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f270e1205]:
+              - strong [ref=f270e1206]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f270e1207]: 검색이 대화가 되다
+    - generic [ref=f270e1208]:
+      - link "맨위로" [ref=f270e1210] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f270e1213]:
+        - link "전체서비스 새 창 열림" [ref=f270e1215] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+          - text: 전체서비스
+          - generic [ref=f270e1216]: 새 창 열림
+        - link "이용약관 새 창 열림" [ref=f270e1218] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+          - text: 이용약관
+          - generic [ref=f270e1219]: 새 창 열림
+        - link "개인정보처리방침 새 창 열림" [ref=f270e1221] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f270e1222]: 개인정보처리방침
+          - generic [ref=f270e1223]: 새 창 열림
+        - link "검색 고객센터 새 창 열림" [ref=f270e1225] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+          - text: 검색 고객센터
+          - generic [ref=f270e1226]: 새 창 열림
+        - link "© NAVER Corp. 새 창 열림" [ref=f270e1228] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
+          - text: © NAVER Corp.
+          - generic [ref=f270e1229]: 새 창 열림
+```

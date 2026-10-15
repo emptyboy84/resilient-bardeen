@@ -1,0 +1,12 @@
+Task: 22cde527-6a05-4644-ad41-9385bbc0ffd2/task-1389
+Status: RUNNING
+Log: C:\Users\lg\.gemini\antigravity\brain\22cde527-6a05-4644-ad41-9385bbc0ffd2\.system_generated\tasks\task-1389.log
+Log output:
+<truncated 42 lines>
+014&ac1=6260000&ac2=3380000&area_code=6260000&area_code2=&page_type=&cpage=1
+   - 해오름융합교육 | 출판사 | 부산광역시 수영구 | 전출 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=해오름&search_state=13&regn=251002017000004&ac1=6260000&ac2=3310000&area_code=6260000&area_code2=&page_type=&cpage=1
+   - 해오름교육 | 출판사 | 부산광역시 금정구 | 영업 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=해오름&search_state=13&regn=251002025000008&ac1=6260000&ac2=3350000&area_code=6260000&area_code2=&page_type=&cpage=1
+[FOUND 9] Row 1974: 미카 -> 1 matches:
+   - 미카북 | 출판사 | 부산광역시 강서구 | 전출 | https://book.mcst.go.kr/html/searchView.php?search_area=6260000&search_kind=&search_type=1&search_word=미카&search_state=13&regn=251002012000001&ac1=6260000&ac2=3360000&area_code=6260000&area_code2=&page_type=&cpage=1
+
+Last progress: 1s ago

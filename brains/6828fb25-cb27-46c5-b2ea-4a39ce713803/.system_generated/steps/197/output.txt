@@ -1,0 +1,13 @@
+The search for ""765-86-01226" OR "7658601226" OR ("주영" "조용순")" returned the following summary:
+검색하신 정보에 대한 내용은 다음과 같습니다.
+
+*   **사업자번호 765-86-01226**: 경상남도 거제시에 소재했던 **'주식회사주영'**의 사업자 등록번호입니다[1][2]. 해당 기업은 선박부품 관련 서비스를 제공했으나, 현재는 **폐업** 상태입니다[1][2].
+*   **"주영"과 "조용순"**: 
+    *   상기 '주식회사주영'의 대표자 성함이 **조용순**으로 확인됩니다[3].
+    *   그 외에도 과거 언론 보도(신설법인 현황 등)에서 '조용순'이라는 대표자명으로 운영되던 '뉴한일테크'와 같은 다른 기업들이 검색되나[4], 사업자번호 765-86-01226과 직접적으로 연결되는 기업은 '주식회사주영'입니다[1][2].
+
+Sources:
+[1] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYbNbrHTMLONX2y5Kj8SNEzeRYxPpB-aEZNYb6rNyGMteqnX34iS_5JIsD1mKDksH1WIPrPOijKtAclSdsudWozPoobCBATOb5Y7DLSM_kdDIsyVVEDISvCzJ7WnBBE6fE9Q==)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYbNbrHTMLONX2y5Kj8SNEzeRYxPpB-aEZNYb6rNyGMteqnX34iS_5JIsD1mKDksH1WIPrPOijKtAclSdsudWozPoobCBATOb5Y7DLSM_kdDIsyVVEDISvCzJ7WnBBE6fE9Q==)
+[3] [happycampus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKf8v0tCquGgW4OCc6qTjNvnJdFRXXyj4Fnb9gkVPYBFbeVR2j0tJlPgSPeMT44Zr1-k-l-87ZL0fC61HjUNXUbT-T6wIJzLpnqd9fxmFZQh6PVHjUkAEQ2_V1qFupOxo=)
+[4] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErSJri2W-AN_vDBWyJUghihPUjyb9DCi7IY3_KlhSfCF04_01xsihJcQfUHC1beIWr5PjD9pU1p4MS68RzbA6M6BLxdrNR_TrDGeL2G6MqYPci-Lfaxy95iYihTF1Swfa-L18=)

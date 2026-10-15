@@ -1,0 +1,37 @@
+### Result
+[
+  {
+    "text": "건설업체정보조회안내",
+    "href": "javascript:void(0)"
+  },
+  {
+    "text": "정보조회방법",
+    "href": "https://www.kiscon.net/gongsi/uisconinfo/uiscon_info05.asp"
+  },
+  {
+    "text": "건설업체정보조회",
+    "href": "https://www.kiscon.net/gongsi/ksc_dft.asp"
+  },
+  {
+    "text": "건설업체정보조회안내",
+    "href": "https://www.kiscon.net/gongsi/uisconinfo/uiscon_info01.asp"
+  },
+  {
+    "text": "정보조회방법",
+    "href": "https://www.kiscon.net/gongsi/uisconinfo/uiscon_info05.asp"
+  },
+  {
+    "text": "건설업체정보조회",
+    "href": "javascript:void(0);"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\'));\n  return links.filter(a => a.innerText.includes(\'건설업체\') || a.innerText.includes(\'업체조회\') || a.innerText.includes(\'정보조회\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n}');
+```
+### Page
+- Page URL: https://www.kiscon.net/
+- Page Title: 건설산업지식정보 시스템
+- Console: 6 errors, 2 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-07T02-53-49-213Z.log#L9

@@ -1,0 +1,11 @@
+### Result
+{
+  "state": [
+    "pageTitle"
+  ],
+  "actions": []
+}
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const epStore = pinia._s.get(\'Ep0100M002Ge\');\n  return {\n    state: Object.keys(epStore.$state || {}),\n    actions: Object.keys(epStore).filter(k => typeof epStore[k] === \'function\' && !k.startsWith(\'$\'))\n  };\n}');
+```

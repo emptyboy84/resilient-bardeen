@@ -1,0 +1,24 @@
+
+The command exited with code 0.
+Output:
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260820.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260820.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260821_industry.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260821_industry.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260825_1116.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260825_1116.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260826_091624.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_backup_20260826_091624.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_교정완료.csv
+Found bizno in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_여기까지했어요.csv
+Found company/rep in: (데이터검증팀)실사 DB 취합_전달용_260720_배현명_여기까지했어요.csv
+Found bizno in: 부산기업_전화번호검증_완료본_20261014.txt
+Found company/rep in: 부산기업_전화번호검증_완료본_20261014.txt
+Found bizno in: 크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+Found company/rep in: 크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt
+

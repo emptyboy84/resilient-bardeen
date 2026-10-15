@@ -1,0 +1,11 @@
+
+The command exited with code 0.
+Output:
+parts count: 16
+0 "샐리북"
+4 "임은선"
+5 "010-2434-0942"
+7 "연제구"
+8 "연제구 고분로 17"
+9 "출판"
+

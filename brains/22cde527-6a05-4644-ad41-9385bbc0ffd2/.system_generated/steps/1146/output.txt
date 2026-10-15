@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Biz numbers found on saramin: []
+Ceo snippet: 대표자명","csvw:primaryKey":"2"},{"csvw:value":"사업내용","csvw:primaryKey":"3"}]},{"csvw:name":"내용","csvw:datat
+Addr snippet: 주소 <p class
+

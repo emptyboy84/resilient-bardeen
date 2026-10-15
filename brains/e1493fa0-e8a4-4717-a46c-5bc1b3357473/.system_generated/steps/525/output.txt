@@ -1,0 +1,46 @@
+### Result
+{
+  "r36": [
+    {
+      "bizno": "6090731236",
+      "engentrnm": "Jumi Engineering",
+      "koraddr": "경남 창원시 성산구 가음동",
+      "korreprnm": "강희승",
+      "korentrnm": "주미엔지니어링",
+      "ipodivcd": "60",
+      "scaledivcd": "0",
+      "upchecd": "DU7131"
+    }
+  ],
+  "r108": [
+    {
+      "bizno": "6090977804",
+      "engentrnm": "Daea Machinery",
+      "koraddr": "경남 창원시 성산구 양곡동 8블럭 1로트",
+      "korreprnm": "박식",
+      "korentrnm": "대아기계",
+      "ipodivcd": "60",
+      "scaledivcd": "0",
+      "upchecd": "DU7449"
+    }
+  ],
+  "r167": [
+    {
+      "bizno": "6091222328",
+      "engentrnm": "Youngjin Co.",
+      "koraddr": "경남 김해시 월산로 112-55",
+      "korreprnm": "이재현",
+      "korentrnm": "영진",
+      "ipodivcd": "60",
+      "scaledivcd": "2",
+      "upchecd": "699470"
+    }
+  ]
+}
+### Ran Playwright code
+```js
+await page.evaluate('async () => {\n  const nuxt = window.useNuxtApp();\n  const pinia = nuxt.$pinia || nuxt.vueApp.config.globalProperties.$pinia;\n  const store = pinia._s.get(\'searchStore\');\n\n  async function queryNice(keyword) {\n    store.isFetched = false;\n    const input = document.querySelector(\'input[placeholder*="기업명"]\');\n    input.value = keyword;\n    input.dispatchEvent(new Event(\'input\', { bubbles: true }));\n    input.dispatchEvent(new Event(\'change\', { bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keydown\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    input.dispatchEvent(new KeyboardEvent(\'keyup\', { key: \'Enter\', code: \'Enter\', keyCode: 13, bubbles: true }));\n    for (let i = 0; i < 40; i++) {\n      await new Promise(r => setTimeout(r, 100));\n      if (store.isFetched && store.searchKeyword === keyword) break;\n    }\n    return store.searchResultList || [];\n  }\n\n  const r36 = await queryNice(\'6090731236\');\n  const r108 = await queryNice(\'6090977804\');\n  const r167 = await queryNice(\'6091222328\');\n  return { r36, r108, r167 };\n}');
+```
+### Page
+- Page URL: https://www.nicebizinfo.com/ep/EP0100M001GE.nice?keyword=6091222328
+- Page Title: '6091222328' - 검색상세

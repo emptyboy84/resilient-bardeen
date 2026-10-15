@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+Nuxt part length: 38520
+Phones in Nuxt part: []
+

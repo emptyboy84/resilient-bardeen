@@ -1,0 +1,26 @@
+
+The command exited with code 0.
+Output:
+brain_docs/chat_history.md
+brain_docs/implementation_plan.md
+brain_docs/scratch/add_full_url_sources.py
+brain_docs/scratch/add_source_columns.py
+brain_docs/scratch/auto_fill_from_web.py
+brain_docs/scratch/build_perfect_output_files.py
+brain_docs/scratch/enrich_and_validate.py
+brain_docs/scratch/fill_61_representatives_now.py
+brain_docs/scratch/fill_all_representatives_final.py
+brain_docs/scratch/fill_missing_industries.py
+brain_docs/scratch/fill_representatives.py
+brain_docs/scratch/fix_color_rules.py
+brain_docs/scratch/force_resave_all_files.py
+brain_docs/scratch/generate_final_files_all_locations.py
+brain_docs/scratch/process_excel.py
+brain_docs/scratch/process_full_enrichment.py
+brain_docs/scratch/run_full_cross_validation.py
+brain_docs/scratch/scrape_missing_info.py
+brain_docs/scratch/update_skyauto_and_representatives.py
+brain_docs/transcript.jsonl
+"\353\260\260\355\230\204\353\252\205_\353\215\260\354\235\264\355\204\260\354\266\234\354\262\230_FullURL_\354\232\224\354\225\275.xlsx"
+"\353\260\260\355\230\204\353\252\205\353\247\214\354\204\270.xlsx"
+

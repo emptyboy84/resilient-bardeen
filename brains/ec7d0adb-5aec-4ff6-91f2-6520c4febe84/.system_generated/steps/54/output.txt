@@ -1,0 +1,21 @@
+The search for ""27199" "국세청" "업종코드"" returned the following summary:
+'27199'은 한국표준산업분류(KSIC)상의 **'그 외 기타 의료용 기기 제조업'**을 의미하는 코드입니다[1][2].
+
+이와 관련하여 참고하실 주요 내용은 다음과 같습니다.
+
+*   **업종 설명**: 달리 분류되지 않은 각종 의료용 기기 제품을 제조하는 산업 활동을 포함합니다[3]. 
+    *   **예시**: 기계적 요법 기구, 물리요법용 기기, 시력 측정기, 주사기 및 주사 바늘, 수혈 및 수액 세트, 의료용 살균기, 의료 마사지용 기기 등이 해당합니다[3].
+    *   **제외**: 전기·전자식 진단 기기(27112), 방사선 장비(27111), 비의료용 전기 안마기(28519) 등은 다른 코드로 분류됩니다[3].
+*   **국세청 업종코드와의 관계**:
+    *   사업자등록 시 사용하는 '국세청 업종코드'는 한국표준산업분류를 기반으로 세원 관리 등 행정 목적에 맞게 구성된 것입니다[3][4].
+    *   따라서 한국표준산업분류의 27199와 국세청 업종코드의 명칭이 같더라도, 실제 사업자등록 시 사용하는 6자리 코드는 다를 수 있으므로 **홈택스(국세청)**의 업종코드 조회 메뉴를 통해 정확한 코드를 다시 한번 확인하시는 것이 좋습니다[3][4][5].
+
+구체적인 사업자등록 업종 선택이 필요하신 경우, 국세청 홈택스 웹사이트의 '업종코드 조회' 기능을 이용하시면 귀하의 사업 내용에 딱 맞는 정확한 코드를 확인하실 수 있습니다[6][5].
+
+Sources:
+[1] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4YRuLmPaPGFkN2imGWmDOsOY_SsE1YCmm196980FkZrRKZ3DQ13oQKnD40gPCsaTCD4NML53HH2fZNsYHIiaUDumJ7bGsVAbkZJctPH8deCDWng9tACX0iVtFyjetYB-GdhkEfsiBE6jWwIVj9UnpS0-llUMNNP4yckuyVQ==)
+[2] [innobiz.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECEKBL99A6-x3j2mpqWvAHtSy96Soev1yISFxNzcmAUgmgOWVc_VdILi9mE0WzkXRIzlh7ZaXcWStF2QqB4rbFQ69pbTQqMfqcqN3UkDvVPid8e8A98piY605BXLfqYZaG_9Kvpg==)
+[3] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl-7SoFavHW6IuJOZgq81R8QffzvcMq8ivegPWyROG-d4YhLlcxFGeMleSf-orM-zXrk-LRvHkZcoav6g2AODB7Xq98mm3KGOy1gYZNxDp-sYbtNgeSj0UGQmrHwNf1QqF4EsgPA==)
+[4] [categoryofbusiness.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-aE09ubgHGRz_3s0pfB27U7HMRpvre_3Cjm2m_qZx8X_HW8dNQxVRnPo-0i7hEK8PAD_XDSpNk_GQdqGmlTUs9ruvtlGFquGtiS8vpEE7dHY8AxeaWPObkR62TXYBwR6KfH8=)
+[5] [indicode.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAm9lasHb7xdewp5QMRgKbPfWScJP_MIjc7zNk9yKF1sL4nRC0xTMq5Ozko_B4ddq4aeKVO4InXa-iqjgU0JsYc2TB2P9vQ7gwR6a236mGvzED7hPLqkPPNwwsLMdTQERU8A==)
+[6] [upjong.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbId8cPdZyt8nuo95G7V9ErJARR_m5jyN-80gKi6V_YSZZJ4O55zze53q94kiA2CXUrjYirw0xwFv7M26i0095iEds6AeQGznWhw==)

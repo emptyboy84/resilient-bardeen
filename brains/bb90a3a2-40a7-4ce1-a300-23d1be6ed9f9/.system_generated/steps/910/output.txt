@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+051-750-7200: ttps://captcha.search.daum.net/show?redirect=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26q%3D051-750-7200");  
+051-620-9200: ttps://captcha.search.daum.net/show?redirect=https%3A%2F%2Fsearch.daum.net%2Fsearch%3Fw%3Dtot%26q%3D051-620-9200");  
+

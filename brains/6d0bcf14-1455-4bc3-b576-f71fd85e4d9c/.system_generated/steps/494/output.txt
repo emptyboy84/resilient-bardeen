@@ -1,0 +1,15 @@
+The search for ""780-88-00875" OR ("주식회사 티라" "강옥희")" returned the following summary:
+제시해주신 검색어는 소프트웨어 개발 및 공급업 등을 영위하는 중소기업 **‘주식회사 티라’**와 대표자(강옥희)에 관한 정보입니다[1]. 
+
+기업의 주요 정보는 다음과 같습니다:
+
+* **기업명:** 주식회사 티라[1]
+* **대표자:** 강옥희, 최광일[1]
+* **설립일:** 2017년 12월 6일[1]
+* **업종:** 소프트웨어 개발 및 공급업, 컴퓨터 프로그래밍, 경영컨설팅, 전산관련 제품 제조업 및 도소매 등[1]
+* **소재지:** 부산광역시 부산진구 신암로 66, 판매시설동 216호 (범천동, 범천엘에이치아파트)[1]
+
+*(참고: 입력하신 번호 `780-88-00875` 형태의 문자열은 일반적인 국내 사업자등록번호 체계와는 형식이 다르며, 공공 데이터나 기업 데이터베이스 등에서 특정 문서·관리 번호 또는 식별자로 사용되는 코드일 수 있습니다.)*
+
+Sources:
+[1] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDr6EOsTeSaQgs99K1Y4gXVi_LgMEoAUyz_Htubp5qRn8JLAbdEehwLpcHg82HP8MYWhyzeefO0f_R0LbfQ0ikk0Y8f34UAV2GDjQyFhiO86zjpp1P-ujlEh4-jKZXXpWl9w==)

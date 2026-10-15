@@ -1,0 +1,15 @@
+The search for ""짱구네 팜" OR "짱구네팜" "박민수"" returned the following summary:
+'짱구네팜'(대표 박민수)은 전라북도 고창군 성내면에 위치한 농식품 업체입니다[1][2].
+
+주요 정보는 다음과 같습니다.
+
+*   **주요 생산품 및 판매:** 구운 단호박, 군고구마, 멜론, 국내산 100% 땅콩버터 등 농산물 및 가공식품을 판매합니다[3][4][5][2].
+*   **관련 활동:** 고창식품산업연구원과 협력하여 단호박 분말 생산성 향상을 위한 공정 개선 사업 등에 참여한 바 있으며[1][2], 타오바오 등을 통한 온라인 판매 활동도 수행하고 있습니다[2].
+*   **연락처:** 010-3160-7654[4][5]
+
+Sources:
+[1] [gfi.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELmGiiavZC4irS-28fEDh75WdoAUdTGBM6pAuEIuhaMhHhzeaHLOENeq8a_bQ9Xo9H5la2JZzZmx4IrPWzqLE-4dR1xXnu8S8Ql2XmM55-Z4i18XPHWEgEJCyMl96hxHzhJ5zarbe2Vc-dlVshF5_VazcvYkxTeekQQS2p_lgpQAYN2PGfI4xPE6Q20Q==)
+[2] [gfi.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELmGiiavZC4irS-28fEDh75WdoAUdTGBM6pAuEIuhaMhHhzeaHLOENeq8a_bQ9Xo9H5la2JZzZmx4IrPWzqLE-4dR1xXnu8S8Ql2XmM55-Z4i18XPHWEgEJCyMl96hxHzhJ5zarbe2Vc-dlVshF5_VazcvYkxTeekQQS2p_lgpQAYN2PGfI4xPE6Q20Q==)
+[3] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAbFZx9oAzRT1L5WIuBpgkG3oV9L9hlvGja-O80-P2COg773kN1z-Zr7lUKjgUxxkdAjDItrCGozk6SOe0zPJfmb2kljp3iEmjEzAfALBNgjlGa4Jfx09psg8l3JNx7Rt6HQ==)
+[4] [gochang-market.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF28pJGuRRDU8nq8G43ttGjgwSpWfbKVU8be8FmJD4iFDvLntR8QcmhLcWaPxN5o0Q6twmwvJdi3NI0HCMGIVd6dQmNttYYGGW5NBu6dmc1LZNOBWo1TiaD31g8dZsFsaST7PT4cY_)
+[5] [firstmall.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJjh1HA7d7NHhUz_jUj9CG-gxWRtDuEYYzOFGiFikL1TI7ykIXkBMoWoJHxnad9t3dWx2a63FNwPUxHj1hNvSjAIHY0v92uEofTU8pTI4nlkcpbrelfvMjs9z3MZml-jIV2_VZpA==)

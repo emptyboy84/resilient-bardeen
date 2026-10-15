@@ -1,0 +1,21 @@
+The search for ""하이라이트스튜디오" OR "하이라이트 스튜디오" 애니메이션" returned the following summary:
+"하이라이트스튜디오" 또는 "하이라이트 스튜디오"라는 명칭과 관련하여 애니메이션 분야에서 직접적으로 알려진 특정 제작사는 확인되지 않습니다. 검색 결과에 나타난 관련 정보들은 다음과 같습니다.
+
+*   **소프트웨어/앱:** '하이라이트 스튜디오(Highlight Studio)'라는 이름의 화면 녹화 및 편집 도구(맥용 앱)가 존재하며, 이는 비디오에 애니메이션 효과나 줌인 효과 등을 추가하는 기능을 제공합니다[1][2].
+*   **기술 용어:** 3D 애니메이션에서 셀 애니메이션 스타일의 하이라이트를 표현하는 '하이라이트 셰이더(Highlight shader)' 기술이나 기법에 관한 연구가 있습니다[3].
+*   **기타:** 
+    *   픽셀11 프로의 알림 조명을 제어하는 비공식 앱 이름이 '하이라이트 스튜디오'로 언급된 사례가 있습니다[4][5].
+    *   뮤지컬 등의 공연 녹음판 명칭에 '하이라이트 스튜디오 녹음(Highlight Studio Recording)'이라는 표현이 포함되는 경우가 있습니다[6][7].
+    *   영상 제작이나 이벤트 기획을 전문으로 하는 'Highlight Studios'라는 해외 기업이 있으나, 애니메이션 제작사로 분류되지는 않습니다[8].
+
+찾으시는 정보가 특정 애니메이션 작품이나 제작사를 의미하는 것이라면, 조금 더 구체적인 문맥(예: 애니메이션 제목, 관련 플랫폼 등)을 확인해 보시는 것이 좋습니다.
+
+Sources:
+[1] [highlightstudio.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRFcHMPmbc5f2zLgRPitvCHhyPO5LKY-xrc5bL_d7syg2yh4ktEKyxwf1IJpfd_3HZNgeSLPeiRkmMr1uoyuLPMpcFTx410XHPo2H3_BaLDfv)
+[2] [producthunt.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFan2HmwOVKv5cdHnenKZXJegTBpjKKxYF8XBMFcqV825x0eWERiB9DUZaHPRweF4Io-H8qXfGGYKomtnC5To03ffh2qcrd0nLXkeir2sOTWOefWiYWM-C9z9Vptj8O3Rzv6w33hAuPv2r5Ag==)
+[3] [computer.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0tLRjBtgy9NpdRbFTkhLHQiQPACiTRbQqYT0w8FgZiOBnFWw1bXXP45-Tc_8SZreGvBu0pn4AP92Kt8PH2n8yvWvrEzmA96IyEBj9UF7K0_f8U3aUeCucV2B9Qnh-NPkreJpIWd29tMAaacB0d4PyC0A7S8f2lmhkbt6eScBrq4=)
+[4] [economyseen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxULtUfK9lLksAg0jwqXubbK9NaWeBm9gqsNJJ0Z8UqEoBkwo6y_zu1hrAaAjCWLnKR8Ne8l4JmMIDJsaaCfvx_I4n8CLZkt_eRsFOgx1op-z2Kdb5emamBfxQU8uA4kzngC2TJyq1yXVW2sPr8KDpOWeTVchC81ZsjtqeS8nJGL5dQ-uJtxmS51Ol7_jpwQfHlsS1FRsJs4UsG0fbkZ-pX405i3x0VOGa1bRhRGPlHYmaWY35URKX1ls_damHY2t8c4y1tgjCQWPdJBIO-1tdnr_edws8PMu__Hbp6S2X1woTiGHzpa2ulCXd3p_eBbZ-VCi03jnE5WuW43IWkPNjmNV6T_9KqFzOFxMa8w==)
+[5] [economyseen.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxULtUfK9lLksAg0jwqXubbK9NaWeBm9gqsNJJ0Z8UqEoBkwo6y_zu1hrAaAjCWLnKR8Ne8l4JmMIDJsaaCfvx_I4n8CLZkt_eRsFOgx1op-z2Kdb5emamBfxQU8uA4kzngC2TJyq1yXVW2sPr8KDpOWeTVchC81ZsjtqeS8nJGL5dQ-uJtxmS51Ol7_jpwQfHlsS1FRsJs4UsG0fbkZ-pX405i3x0VOGa1bRhRGPlHYmaWY35URKX1ls_damHY2t8c4y1tgjCQWPdJBIO-1tdnr_edws8PMu__Hbp6S2X1woTiGHzpa2ulCXd3p_eBbZ-VCi03jnE5WuW43IWkPNjmNV6T_9KqFzOFxMa8w==)
+[6] [namu.wiki](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAdn1u30fjxJqFQP7hmeuKQk0O59PJURbRpx3-rNzb213iKVkC2eRZQ0EaUdAsMDPk8ZWvQ0kh5l1XJZHXJwEgi2vpCPa26M4pbDs2ENh3Ux40olFDevqcYaI-MOKojgH9ROQ6PAaNF45XLVbjkh4u9UvCDJizHcXghQkHh8qAYuQsZ6DHJiAUlKedMw==)
+[7] [gaonwiki.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdiUF11ud1byh9pViPBi7-P3FvlPBulHssn4GVeOXczbUUmWT0KQdlJMdP1yXKn4ahMo4QWL2m_LsVNSFHfFNp-PhIUl4ivus0VfngyVK6Ikef5QXs45rZ40z_ZL7juMlU3dSrZipjWxh_HvMsxBpllsQU3LXuVMfm9e5aSYkI7TWNR57kPCNUzL45Q_ZJIJuJ)
+[8] [highlightstudios.eu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zbnkROntaWCzFdBcrvhy9y8Kqok1Tj4kAo17uzj8CCzb05zIxw9v-CX7gP-H4q6Fgyh6PvASTiYn0vMbDXtq8snSpNRMX7WZDjA9KRenH5ofewwuZg==)

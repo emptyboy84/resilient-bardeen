@@ -1,0 +1,6 @@
+### Result
+" Company Profile - representatives, employees ...&quot;,&quot;Its business address is 경남 창원시 마산회원구 구암2동 83-29번지 2층. Its bu...&quot;,&quot;https://encrypted-tbn2.gstatic.com/faviconV2?url\\u003dhttps://cookiedeal.io\\u0026client\\u003dAIM\\u0026size\\u003d128\\u0026type\\u003dFAVICON\\u0026fallback_opts\\u003dTYPE,SIZE,URL&quot;,&quot;https://cookiedeal.io&quot;,[&quot;cookiedeal.io&quot;],&quot;/goto?url\\u003dCAESeQHrOzAVeAtKTpv1jboIIraB0iWRA8mGRIxXiawpYYcr1SfkiBArnFcNyTSpBAzVxb6sgXhPgFfqHOLjjSaFTBi_s8KwyEjD6kZ1c91P6BXAgdWMYER_ABhnSJPlFSeEafKLFCxqD3s2_kjBtNP1fw1Igbx0MqXLu34&quot;,null,0,&quot;1&quot;,n"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const idx = document.body.innerHTML.indexOf(\'cookiedeal\');\n  if (idx === -1) return \'none\';\n  return document.body.innerHTML.slice(Math.max(0, idx - 200), Math.min(document.body.innerHTML.length, idx + 400));\n}');
+```

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Lines count: 3979
+Last line cols: 17
+All lines checked successfully!
+

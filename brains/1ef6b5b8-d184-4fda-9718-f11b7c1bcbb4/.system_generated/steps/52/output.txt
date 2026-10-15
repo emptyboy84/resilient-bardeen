@@ -1,0 +1,10 @@
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\output.tsv","LineNumber":370,"LineContent":"배현명\t폐업\t디에스케미칼\t5481701760\t전도석\t51796\t경상남도 창원시 마산합포구 진전면 삼진의거대로 366-48\t0507-1480-0938\t\t\t\t\t합성수지 및 기타 플라스틱 물질 제조업\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\nice_cache.json","LineNumber":4083,"LineContent":"  \"5481701760\": {"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\nice_cache.json","LineNumber":4084,"LineContent":"    \"bizno\": \"5481701760\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\input_raw.txt","LineNumber":370,"LineContent":"배현명\t\t디에스케미칼\t5481701760\t전도석\t\t경남 창원시 마산합포구 진전면 삼진의거대로 366-48 (율티리)\t0507-1480-0938\t-\t\t-\t\t합성수지 및 기타 플라스틱 물질 제조업\t\t\t\t\t"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\user_uploaded_raw.tsv","LineNumber":375,"LineContent":"배현명\t\t디에스케미칼\t5481701760\t전도석\t\t경남 창원시 마산합포구 진전면 삼진의거대로 366-48 (율티리)\t0507-1480-0938\t-\t\t-\t\t합성수지 및 기타 플라스틱 물질 제조업\t\t\t\t\t\r"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\targets_500.json","LineNumber":14105,"LineContent":"      \"5481701760\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\targets_500.json","LineNumber":14122,"LineContent":"    \"bno\": \"5481701760\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\6849e270-cdbb-4526-97ab-99f7d77523f7\\scratch\\bizno_crawled_500.json","LineNumber":6682,"LineContent":"    \"bno\": \"5481701760\","}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\cache\\5481701760.html","LineNumber":18,"LineContent":"\t\t\u003cmeta property=\"og:url\" content=\"https://bizno.net/article/5481701760\"\u003e"}
+{"File":"C:\\Users\\lg\\.gemini\\antigravity\\brain\\fc47ed12-b523-4d84-9421-40e6756ddcef\\scratch\\bno_list.json","LineNumber":1479,"LineContent":"    \"bno\": \"5481701760\","}

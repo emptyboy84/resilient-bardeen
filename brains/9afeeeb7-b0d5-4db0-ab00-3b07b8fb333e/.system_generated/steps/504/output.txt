@@ -1,0 +1,27 @@
+
+The command exited with code 1.
+Output:
+�ġ �:6 �:49
++ const desc = content.match(/\"description\":\"([^\"]+)\"/g);
++                                                 ~
+'[' �ڿ� � �̸� �ϴ�.
+�ġ �:7 �:29
++ console.log('Descriptions:', desc);
++                             ~
+',' �ڿ� � �ϴ�.
+�ġ �:7 �:30
++ console.log('Descriptions:', desc);
++                              ~~~~
+� �Ǵ� � �ġ � 'desc' �ū�Դϴ�.
+�ġ �:7 �:29
++ console.log('Descriptions:', desc);
++                             ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:7 �:34
++ console.log('Descriptions:', desc);
++                                  ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingTypename
+ 
+

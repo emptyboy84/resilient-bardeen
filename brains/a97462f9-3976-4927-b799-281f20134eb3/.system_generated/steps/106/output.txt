@@ -1,0 +1,27 @@
+{"name":".git", "isDir":true}
+{"name":".gitignore", "sizeBytes":"43"}
+{"name":"AGENTS.md", "sizeBytes":"851"}
+{"name":"all_500_factchecked.tsv", "sizeBytes":"134221"}
+{"name":"all_500_verified.tsv", "sizeBytes":"137558"}
+{"name":"article_test.html", "sizeBytes":"25343"}
+{"name":"bizno_filtered_result.csv", "sizeBytes":"128152"}
+{"name":"bizno_filtered_result.tsv", "sizeBytes":"129594"}
+{"name":"bizno_filtered_result_nice.csv", "sizeBytes":"130977"}
+{"name":"bizno_filtered_result_nice.tsv", "sizeBytes":"129594"}
+{"name":"bizno_test.html", "sizeBytes":"24211"}
+{"name":"brain_logs", "isDir":true}
+{"name":"current_pasted_batch.tsv", "sizeBytes":"110577"}
+{"name":"data", "isDir":true}
+{"name":"merged_500_perfect.tsv", "sizeBytes":"137949"}
+{"name":"node_modules", "isDir":true}
+{"name":"package-lock.json", "sizeBytes":"40116"}
+{"name":"package.json", "sizeBytes":"79"}
+{"name":"query_test.html", "sizeBytes":"16842"}
+{"name":"rows_11847_12000_16col.tsv", "sizeBytes":"36652"}
+{"name":"rows_11847_12000_17col.tsv", "sizeBytes":"36962"}
+{"name":"rows_11847_12000_verified.tsv", "sizeBytes":"38502"}
+{"name":"user_pasted_rows.tsv", "sizeBytes":"192160"}
+{"name":"법인등록번호_추적_및_검증_가이드_110111-8382593.md", "sizeBytes":"4076"}
+{"name":"법인등록번호_추적_및_검증_가이드_110111-8382593.pdf", "sizeBytes":"169882"}
+
+Summary: This directory contains 4 subdirectories and 21 files.

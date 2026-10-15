@@ -1,0 +1,9 @@
+
+The command exited with code 0.
+Output:
+Total lines: 719
+Line 716 length: 97 에스링크	3218700155	공병철	49315	부산광역시 사하구 낙동대로550번길 37, 421호						응용 소프트웨어 개발 및 공급업	180111-0977158	12월
+Line 717 length: 25 <truncated 107991 bytes>
+Line 718 length: 1 
+Line 719 length: 133 NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range
+

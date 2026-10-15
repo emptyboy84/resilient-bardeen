@@ -1,0 +1,10 @@
+The search for ""010-9194-9" OR "010-9194" "부산"" returned the following summary:
+검색하신 조건(`"010-9194-9"` 또는 `"010-9194"`와 `"부산"` 키워드 조합)에 정확히 일치하는 특정 단일 결과나 공신력 있는 공식 문서는 확인되지 않습니다. 
+
+다만, 해당 번호 대역(`010-9194-XXXX`)을 포함한 연락처나 부산 지역과 관련된 민원·구직·행사 등의 개별 데이터 조각들이 존재할 수 있습니다[1][2]. 
+
+찾으시는 구체적인 정보(인물, 업체, 사건 등)가 있다면 추가 키워드(상호명, 성함, 용도 등)를 함께 입력해 주세요.
+
+Sources:
+[1] [c114.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrw_u_gouOtXf9iJ7cxwqMVaWoKYYtIqRIlri6WE5G9TfcSzW98Sf5C9kiUjWRQ7eGEx3xmoyFqqPZnS_jWlMtHUBZANeJcdq3ah2txq0Ft8pzq7jOPbNx8QJdbMvGZx9HC2dRhIQ9Y9jh_yD6nirIQ5My-paS7ePRbLIlX0enYk4soX6D6lADYdX-rXL6OG8iF9QZc2tNYVywqiFkQ-zDd2m7Y1K3uoE=)
+[2] [pa.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUMs7mEyvS-j94wR7CaxqkGtPtUOCdvvQbXlToo7hXk-r-snrJ05qCHlgK7dTsLcNA7LF5VX6g-vuZykNP4An4ZAlSKKyn2b5fh0X93KENF8vyxVRYac_Yw_TM1F9oYA1zGHCcjp29RH5AXLgbJH3Iv1elOaBXeqQn7IIKNw==)

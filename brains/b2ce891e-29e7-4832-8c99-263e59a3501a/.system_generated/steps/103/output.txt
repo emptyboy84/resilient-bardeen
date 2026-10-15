@@ -1,0 +1,12 @@
+### Result
+"현재 접속인원이 많아 접속이 지연되고 있습니다.\n\n접속대기중 이오니 잠시만 기다려 주세요.\n금방 열릴 거예요...\n\nThere are many people currently connected,\nso you're reservation in stand-by state.\nPlease try again. (1)\n\n이전페이지 비즈노 홈\n\n\n"
+### Ran Playwright code
+```js
+await page.evaluate('() => document.body.innerText');
+```
+### Page
+- Page URL: https://bizno.net/article/5918703125
+- Page Title: 접속대기_no1
+- Console: 0 errors, 1 warnings
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-41-48-413Z.log#L1-L3

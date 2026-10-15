@@ -1,0 +1,38 @@
+The search for ""구글 또 앞서가네요.. 안티그래비티 최신업데이트~! 신규 플랜기능과 서브에이전트 구축방법 총정리~!"" returned the following summary:
+구글의 차세대 에이전트 중심(Agent-First) 개발 플랫폼인 **‘구글 안티그래비티(Google Antigravity)’**의 최신 업데이트 소식과 관련된 내용이네요[1]! 
+
+최근 업데이트(버전 2.17 및 관련 패치 등)에서 주목받고 있는 핵심 포인트인 **신규 플랜 기능(`/plan`)**과 **서브에이전트 구축 및 활용 방식**의 주요 내용을 요약해 드립니다[2].
+
+---
+
+### 1. 신규 플랜 기능 (`/plan` 명령어 및 아키텍처)
+* **무분별한 코드 수정 방지 (Research → Plan → Approve → Execute):**
+  기존 AI 코딩 툴들은 프롬프트를 넣으면 곧바로 코드를 수정해버려 원치 않는 오류나 비싼 비용을 유발하는 경우가 있었습니다[2]. 최신 업데이트된 `/plan` 기능을 사용하면, 안티그래비티가 곧바로 코드를 건드리는 대신 **프로젝트 코드를 먼저 분석(Research)**하고 의존성을 검사합니다[2].
+* **사용자 인터뷰 및 명확화 단계 (Clarification Phase):**
+  필요한 경우 AI가 사용자에게 추가 질문을 던져 요구사항을 명확히 한 뒤[2], 체계적인 **구현 계획(Implementation Plan)과 작업 목록(Task List)**을 아티팩트(Artifacts) 형태로 먼저 제시합니다[3][2].
+* **계획 승인 정책 (Plan Review Policies):**
+  사용자는 AI가 수립한 계획을 미리 읽어보고 수정(댓글 작성 등)하거나 **최종 승인(Approve)**한 후에만 실행(Execute) 단계로 넘어가도록 제어할 수 있어 신뢰성과 안정성이 대폭 강화되었습니다[3][2].
+
+---
+
+### 2. 서브에이전트(Subagent) 구축 및 활용
+* **병렬 에이전트 오케스트레이션 (Parallel Agents):**
+  안티그래비티는 단일 에이전트 구조를 넘어, 여러 작업을 동시에 처리할 수 있는 다중 에이전트 환경을 지원합니다[1][3]. 
+  * 예: 프론트엔드 UI 수정, 백엔드 테스트 코드 작성, 브라우저 제어 등을 각각의 서브에이전트에 할당하여 병렬로 구동할 수 있습니다[3].
+* **전용 서브에이전트의 역할 분담:**
+  * **브라우저 서브 에이전트 (Browser Subagent):** 크롬 확장 프로그램 등과 연동되어 실제 웹 브라우저 화면을 보며 클릭, 스크롤, 입력 등의 테스트와 검증을 자율 수행합니다[4][5].
+  * **커스텀 서브 에이전트 및 SDK:** 공식 Python SDK 등을 통해 사용자가 직접 커스텀 에이전트를 구성하고, 클라우드 모델뿐만 아니라 로컬 모델과도 연동하여 특정 작업에 특화된 서브에이전트를 구축할 수 있는 기반을 제공합니다[6][7][2].
+
+---
+
+이번 업데이트는 단순히 코드를 자동 완성해 주는 비서 수준을 넘어, **개발자가 '미션 컨트롤(Mission Control)'의 관점에서 AI 에이전트 팀을 조율하고 철저한 계획 검증(Plan-driven)을 거쳐 개발을 진행**할 수 있도록 판도를 바꿨다는 평가를 받고 있습니다[3]. 세부적인 구축 가이드나 블로그 원문 내용을 참고하시면 실무 적용에 더욱 도움이 될 것입니다[8].
+
+Sources:
+[1] [bespinglobal.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkD_jCjnoyK1iGMW4UEhPZdqk6SB8IWTIIaKyaRdzgHisa-sf8yc8H_GIPVNAVaeU7SwezlSnmLRNFCkRTcUKW-DrvGGU0usT87-SMne7W8U39hxhJy5i9lmT8HsFPbDft2IkiVtBhy8uqE3yq5tN_d7IOud6qJKXJkA==)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0OcIrElGsSBhfHNkyaaDrpwcOvl8_sUvkCWriUmSC4MDUkAI0a8BH6tg1QhaGPYFmFkXbKO9DgGhNzwGc-2FZZNodRK7T9hVyB2S7VDIfPehe6Kla38I2F3xQjKSpG_s=)
+[3] [seahrin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb-AD_Cd8g1Jjfz_OP492ptwEcK6Zoy2jk9zVgqDzpi7mNH7FtnMVmCVThuhOkxAp6aTl3p3kLw12UxsWop21mJcl9_j9ea74k8lkVm8e4wR7t8YqRBR5oQNeQfWPQaVczYMN55RWpBE7p8MCsO4xxLn30gT6yHb2eXeMzKvU7aeZgnK6wy3tDddsMVGzdoCr34lPaZdk6uZ29sbX2tATpn0VwPnDv-KAuCuj0T_HU6P054MhMPo3sT6TLojLtJWh_AXdLTvNq1UAbGtt2Zwt6nQiLl9za9FVedumocRKe8_I2a2TyG5OqbPOPtEMj6DejaiB_oWeRny1MorFiKOlz71YETAitFdvwbtHYnzNwUl6G7WqqAaUGGh4v3cjUp65NSvvbMVITC2uRNh5TszV4RUPiFLKBqZG0m0Xv1E0yHE4yzhR9qUzzAv7SKPOWPYmZbJE6aFe0zeQ=)
+[4] [github.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAnSNWvxRd63CnjmBjmse9Yh_jJDW4AGoW249HEeOEN-3QZn4551km42brWuxixFJSDmmmYxZAqNvIg79eoTAhMrRj4BM0319UGnOmQ2qJ1o6Huc7EjN8LpNlS0Fw_DvIQpfIhvhDghb37ohcXu3-OAKM=)
+[5] [twobegood.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAT_xeEp3AehUUV41VaXdditHD3PKs1zL8GtvBz09sN2DDFj6xyGht-Q_QGiIT5An0YFOCN3v_iRCZqqyQacjHRnd6j5Qj6amz1YkFEdlF70sc8mI=)
+[6] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCAtgSfTRk-YMz7FEjI9mxl3NoKWyavydqJT2rKe-oQI0QC7Cxa8h0-T7HtDPFA66VoQWSgk9omiYUYeApAeh3Koadw0xQSzUr9CahqXJCsGVbimw95JEHTIHh4U5w6a3ol4zZWadIExMoHYtiP6jmKiOTqi8GDK0tEstX9E1KzYvD-fSrk1tPFOTvgyawHvBGr8vKRyUcBEeoj6QXov-P-w==)
+[7] [antigravity.google](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh6AsaWsAYUKxFrwgJ0MAd1faiztV_IjQzLdxY3CSwggpF5-CJRpObvCCl0aJ-ggNZKRlbMWQw9Kkx0Pra3gKYf_dbHSY6WUR6IbQIPxsgId1wLZKmXfeNJQ==)
+[8] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoYv-OwAi4vbTpwQrwaUZqlhY3akQH54BRWcOxtFSXvPbCdNLHT6di__4GPeTUaXYhyQ6W7IGjMxKcFEdJ-rdYhJ4IUmKq4mMm4qJnCUXQTuMzhDbzpjV2eUIGYDgIFt0=)

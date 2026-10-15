@@ -1,0 +1,22 @@
+The search for ""주식회사 맥스폼" OR ("맥스폼" "소프트웨어")" returned the following summary:
+**주식회사 맥스폼((주)맥스폼)**은 대한민국의 중소기업이자 법인 사업자로, 응용 소프트웨어 개발 및 공급업을 주력으로 하는 기업입니다[1][2]. 
+
+### 1. 기업 개요 및 정보
+* **업종:** 응용 소프트웨어 개발 및 공급업 (시스템·패키지 소프트웨어 개발 및 도입 서비스 등)[3][4]
+* **설립일:** 2022년 3월 (개업일 2022년 2월)[4]
+* **소재지:** 서울특별시 강서구 공항대로 242 (마곡동 일대)[5][6]
+* **사업자등록번호:** 239-81-02702[5]
+
+### 2. 주요 특징
+* 소프트웨어 사업자로서 웹 및 모바일 어플리케이션, 패키지 소프트웨어 개발과 관련된 기술 용역 및 공급 사업을 주로 수행하고 있습니다[7][4].
+* 공공기관 입찰 및 소프트웨어 관련 사업에 참여 이력이 있는 기업입니다[8][7].
+
+Sources:
+[1] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIL5O9YrgmZ-UIIcA3Xi5Q_qs7DzEbDj1fPzsluwib2Ol5_PYDjj4eTym1nSwanjbaI9Vs9kBbuYuFCeg6Hi50DIugNvi8Moa7DgIWBiYW6xa0H1zRWdwSBWk=)
+[2] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPU2nOsBRBeUIIAkQ-hsbcu3h-gUOr0NCx14RfvijCsfYTV8Dv3Ste79pfl7kiE98Wkk91r0wMDCh5-0lH9y5R3Vi3y4uc6hAv0gM9PrvmBccB-j-4wAJB-gkVe7fAT8odi-rE9RkaQ_teEum_reX-Dt4Ij2oajIhaYCazUH4Hyppdhqi6TNOGS-FGle87usoQKrxD6HPP54hav0GippKk008f5QYTU-ZjpJYnz3RLsg75UeahbY5UfcI7g8olmhlCFGuJxGBhFLHPSf6l8w==)
+[3] [bizno.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT7V80KoegYUGTulEKyYsqLMpL-OmcUyDt0r0NoDrCutTww7xp1N1AN3Y7XcGWZLVbvndQbHZhEFu_5bcEgpMdFdyAxMktOc2HxQYurhMfYct5tPrKtjd-HvY=)
+[4] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-kaStLAfJ3UauAgBUXPvYfe0KIbyDVOTzd0bcGM7tdax2t3XltdXMyLVPfgSg3FvQ5iDCDEIjgM25umkZN1mueZJ1Bp5r3M4NEX0uQ-bsPlcJW6GRrbHAwEm_tWlGuMv-r0pQk0BNUM=)
+[5] [114.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5tZWsscidha_KkxAZp_JiiDFqKU5tuKgo1oSeB8bV0AMDX7Z_c9Um_lp--WlBIRvy-7VamEyB6w9myIHnUsY0CYSIdjy5cgi2P52ESvs3rsKXZD3mGiz24IomlVgREH2g-S-HvBF3UzU=)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzmzwdGv3jTZa3BLEeVb2rQPFBDMv03SroOu6EO-_V5A1cE5Hvh-2YyWA_NZm7uJm5e3LYNgKZjEII1UZFEQNIm7mfS4q3IlBCRRITxn4FyFFH7Jh3JdYa21DEIeZ6GMmXCTG8f7X7sU8Jwp2iIlM-awWVbf8-OkRygZnFv612khixu5xfLQLo9Up2Gi5_Qq8DpKlQzYN90jCZTZUDcTkAFsegfVPvETUaLK9fOAbtdE_RJ-3USWdGEoAqhd-8j_5DS05rLBgL6GIElj5-3pxHnzUrVRSU)
+[7] [kjebi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMQR6QrwVkGILANxumLp-azfRy83KzObEgVEixV4lSiJPii_LpSrnj4UOMNdScTeD0Izm4_ERk-nZwS93Pxq1XrzbqqplIP-bRBUhdMmLmCpWjkqkH37OREdiOBAxysqO088Kd5SgcwARIDqpZhrjB2A==)
+[8] [kjebi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOi93_qlkMduIcdtQpliIlgQpACpltcshdWW_aQiE9hHrOZkxLhZ4QNdoGhGIHF_ZizBmzgIYkzamE7_JN4TN4yIY6MNjOQUvgHgyo42sVzITJrSy5VKJ28XEUw3ud7PGfCHDsCRZyaLKpU5h73lheA==)

@@ -1,0 +1,9 @@
+The search for ""삼정그린코아 더 시티" "1223호" OR "메기로 199" "1223"" returned the following summary:
+검색하신 내용과 관련된 정보는 다음과 같습니다.
+
+*   **송정 삼정그린코아 더시티**: 해당 건물은 업무시설로 이용되며, 1223호를 포함한 다수의 호실 정보를 포함하고 있습니다[1].
+*   **메기로 199**: 이 주소는 '양산신도시 삼정그린코아 더시티'의 소재지로 확인됩니다[2]. 관련 자료에서 해당 주소지의 특정 호실(213호)에 등록된 업체 정보가 확인되나[2], 요청하신 '1223호'와 직접적으로 연결된 상세 정보는 검색 결과에서 명확히 나타나지 않습니다.
+
+Sources:
+[1] [safehomes.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1zu668z7OKTU48ueIhMHrOtF-yXI4SlbBtXOavnFlu8no8xDAICtvhn03-ZTOidofry9tF-oLZY5E0_0Tprm2daixq669nWC1vhqke_drV6nUSuBRdQ-3srVZCzZYP3IZoITtAyciLhFuo8ItEAVJh6bT-LHX3xukGOWszNEX8t6ulGFqSGoyjrhD2I2lDsqMlj_v5_6tmBfWacbSb4R-A5_7c5_TfIx5vxtCc70-vxgbNpgtHaPeqwahUBSjyYQOkY-KNefm4BTzmK6a5xF-9PlLb0NFYdu48FPu9k-xgR8FCc7gxDwwgFeyTgBAHV8mLLKq-u7Ctyd0An9qhcEFUqKgpQgaVDkobNFBivIzoD7v8iVe7PcHJ2HotU9VKtztlzY2rnbE-zKqq94Sw3rjdei2eaiqVpulFoI_LejblL1HqHn-ISO-6YPEFvG2rPH3wCi6tK22tUtCCw==)
+[2] [kro.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnmWdpq28N8NlXbOft0TlVk2y9LHzF9pAVXlQDGSHKINpjO8irL5VYIjOZSiEnFXXp_HHWeKvZ7mUo_YrD-x0UaUqB5ulsWHU_oIEYLWxAGi7w9QzfyB30QRkJgT_K0jw2WT8RHC4-BV67IFV0QD0i051fdyMp5vrep75MM3B7xtslho9Bisy887QG0QTDiCRf9bdFWrsZuAiUdcUZzxrvu0m7bGqx5DbpjxpA-3XnXPH0bB05YO1s1sUesl2OyRFURElG36LPB2Ct_x9V2f35ew==)

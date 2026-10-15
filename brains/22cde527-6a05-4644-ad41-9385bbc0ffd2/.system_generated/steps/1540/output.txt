@@ -1,0 +1,8 @@
+
+The command exited with code 0.
+Output:
+detailLayer.js mstView: function mstView(type,code){
+	if($.trim(type)=='' || $.trim(code)=='') return;
+	if(dtlReq(type,code,'','Y','',createNewDtlLayer())=='err') dtlPrev();
+}
+

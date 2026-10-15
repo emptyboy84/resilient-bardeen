@@ -1,0 +1,48 @@
+
+The command exited with code 1.
+Output:
+�ġ �:20 �:56
++       const m = data.match(/https:\/\/weseb\.com[^\"]+/);
++                                                        ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:22 �:34
++         console.log('Weseb URL:', m[0]);
++                                  ~
+',' �ڿ� � �ϴ�.
+�ġ �:22 �:35
++         console.log('Weseb URL:', m[0]);
++                                   ~~~~
+� �Ǵ� � �ġ � 'm[0]' �ū�Դϴ�.
+�ġ �:22 �:34
++         console.log('Weseb URL:', m[0]);
++                                  ~
+�Ŀ� �ݴ� ')'� �ϴ�.
+�ġ �:21 �:14
++       if (m) {
++              ~
+� � �Ǵ� � �ǿ� �ݴ� '}'� �ϴ�.
+�ġ �:22 �:39
++         console.log('Weseb URL:', m[0]);
++                                       ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:23 �:7
++       }
++       ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:24 �:5
++     });
++     ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�ġ �:24 �:6
++     });
++      ~
+� �Ǵ� � �ġ � ')' �ū�Դϴ�.
+�ġ �:25 �:3
++   });
++   ~
+� �Ǵ� � �ġ � '}' �ū�Դϴ�.
+�Ϻ� � �м� � � �ʾҽ�ϴ�. � � �ذ� � �ٽ� �õ�Ͻʽÿ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+ 
+

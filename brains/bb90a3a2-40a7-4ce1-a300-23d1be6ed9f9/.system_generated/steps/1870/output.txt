@@ -1,0 +1,18 @@
+
+The command exited with code 0.
+Output:
+ 우리미디어 박성제 051-923-0404 : 네이버 검색 try{performance.mark('nx-head-start')}catch(e){} naver = window.nave
+e_agent = 0 ; var headerfooter_query = "우리미디어 박성제 051-923-0404" ; var headerfooter_query_encoded = "%EC%9A%B0%EB%A6%AC%EB%AF%B8%EB%94%94%EC%
+r g_ssc = "tab.nx.all" ; var g_query = "우리미디어 박성제 051-923-0404" ; var g_puid = "jWsxMlqosq4ssEP2X6o-173842" ; var g_suid = "yHYrE+uGppDmL0+V
+2R", "r": 5},{"n": "urB_b3R", "r": 6}]; 우리미디어 박성제 051-923-0404 검색 결과 naver.search.option = {} ; naver.search.option.params = {} ; naver.sear
+ 창 열림 Keep에 저장 Keep에 바로가기 새 창 열림 새 창 열림 우리미디어 - 부산컨벤션산업협회 새 창 열림 우리미디어 는 홍보영상, 기업영상, VR, 3DVR, 항공촬영 및 특수촬영, 행사중계, 라이브방송, 유튜브중계, 웨비나등 영상 제작 전
+ {}; var depIds = []; for (var i = 0; i 우리미디어 는 홍보영상, 기업영상, VR, 3DVR, 항공촬영 및 특수촬영, 행사중계, 라이브방송, 유튜브중계, 웨비나등 영상 제작 전문 기업입니다.","bodyVariants":
+b-normal-doc-root","table":{},"title":" 우리미디어 - 부산컨벤션산업협회","titleVariant":"1line","topstorys":{},"type":"basic"},"templateId":"webItem"}],"c
+co.kr 새 창 열림 Keep에 저장 Keep에 바로가기 새 창 열림 우리미디어 | AI 행사중계 &amp; 영상제작 종합광고대행사 새 창 열림 2006년 설립된 우리미디어 는 AI 기술과 뉴 미디어 솔루션을 결합한 종합광고대행사입니다. 숙련된 노하
+사중계 &amp; 영상제작 종합광고대행사 새 창 열림 2006년 설립된 우리미디어 는 AI 기술과 뉴 미디어 솔루션을 결합한 종합광고대행사입니다. 숙련된 노하우로 AI 홍보영상, 방송, 광고, 항공 촬영, 실시간중계 및 웨비나등 영상 전 분야 원스톱 
+ {}; var depIds = []; for (var i = 0; i 우리미디어 는 AI 기술과 뉴 미디어 솔루션을 결합한 종합광고대행사입니다. 숙련된 노하우로 AI 홍보영상, 방송, 광고, 항공 촬영, 실시간중계 및 웨비나등 영상 전 분야 원스톱 
+b-normal-doc-root","table":{},"title":" 우리미디어 | AI 행사중계 &amp; 영상제작 종합광고대행사","titleVariant":"1line","topstorys":{},"type":"basic"},"templateI
+ 창 열림 Keep에 저장 Keep에 바로가기 새 창 열림 새 창 열림 우리미디어 - 부산컨벤션산업협회 새 창 열림 2023.09.06. 우리미디어 는 홍보영상, 기업영상, VR, 3DVR, 항공촬영 및 특수촬영, 행사중계, 라이브방송, 유튜브중계, 
+ {}; var depIds = []; for (var i = 0; i 우리미디어 는 홍보영상, 기업영상, VR, 3DVR, 항공촬영 및 특수촬영, 행사중계, 라이브방송, 유튜브중계, 웨비나등 영상 제작 전문 기업입니다.","bodyVariants":
+b-normal-doc-root","table":{},"title":" 우리미디어 - 부산컨벤션산업협회","titleVariant":"1line","topstorys":{},"type":"basic"},"templateId":"webItem"}],"c
+

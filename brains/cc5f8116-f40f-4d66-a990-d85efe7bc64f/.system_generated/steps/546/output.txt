@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+.*? : '.*?' � cmdlet, �Լ�, �ũ�Ʈ � �Ǵ� � � �ִ� �α׷� �̸� �νĵ� �ʽ�ϴ�. �̸� �Ȯ�
+ Ȯ�ϰ� �ΰ� �Ե� � �ΰ� �ùٸ� � � �ٽ� �õ�Ͻʽÿ�.
+�ġ �:10 �:41
++         m_desc = re.search(r'content=\"(.*?)\"', html)
++                                         ~~~
+    + CategoryInfo          : ObjectNotFound: (.*?:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+

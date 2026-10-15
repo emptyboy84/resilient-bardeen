@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.naver.com/p/search/글로픽스');
+```
+### Page
+- Page URL: https://map.naver.com/p/search/%EA%B8%80%EB%A1%9C%ED%94%BD%EC%8A%A4
+- Page Title: 글로픽스 검색 - 네이버지도
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-44-09-469Z.yml)

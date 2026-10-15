@@ -1,0 +1,34 @@
+The search for ""비문인쇄" localdata OR "지방행정인허가" OR "인허가" OR "해운대구"" returned the following summary:
+제시해주신 검색어들은 주로 공공행정 및 인허가 데이터, 그리고 특정 지자체(해운대구)의 행정 관련 정보와 관련되어 있습니다. 각 키워드의 주요 맥락은 다음과 같습니다.
+
+### 1. 주요 키워드 관련 정보
+*   **지방행정 인허가 (localdata)**
+    *   행정안전부에서 운영하는 '지방행정 인허가 데이터 개방 포털(localdata.go.kr)'은 전국 지방자치단체의 다양한 업종별(일반음식점, 미용업, 통신판매업 등) 인허가 정보를 통합하여 제공하는 시스템입니다[1][2].
+    *   최근에는 이용자의 편의를 위해 해당 데이터들이 **'공공데이터 포털(data.go.kr)'로 통합**되어 일원화되었습니다[1][3].
+*   **해운대구 인허가**
+    *   해운대구청은 건축, 주택건설사업, 옥외광고물 등 다양한 분야의 인허가 업무를 처리하고 있으며, 관련 정보를 누리집을 통해 공표하고 있습니다[4][5][6].
+    *   건축과 등 관련 부서에서는 건축 허가, 신고, 용도 변경, 지구단위계획 관리 등의 업무를 수행하며, 실무적인 안내와 상담을 제공합니다[7][8].
+*   **비문인쇄**
+    *   일반적인 의미로는 문서나 물품 등에 특정 문구를 인쇄하는 작업을 뜻합니다[9][10].
+    *   공공기관의 예산서 등에서는 민방위나 비상대비 업무와 관련하여 '비문 인쇄' 비용이 포함되기도 하며, 이는 대외비나 암호화된 문서 등의 인쇄를 의미할 수 있습니다[11][12].
+
+### 2. 참고 가능한 사이트
+*   **[공공데이터 포털 (data.go.kr)](https://www.data.go.kr)**: 전국 지방자치단체의 인허가 데이터를 검색하고 활용할 수 있는 공식 통합 플랫폼입니다[1][3].
+*   **[해운대구청 (haeundae.go.kr)](https://www.haeundae.go.kr)**: 부서별 업무 담당자 안내, 인허가 관련 고시, 건축 및 민원 안내 등 해운대구 행정 서비스의 상세 정보를 확인할 수 있습니다[4][7][13].
+
+특정 인허가 데이터 검색이나 행정 절차에 대한 도움이 필요하신 경우, 위 공공데이터 포털이나 해운대구청 홈페이지 내 '부서소개'를 활용하시면 담당 부서와 직통 전화번호를 정확하게 찾으실 수 있습니다[7].
+
+Sources:
+[1] [kdi.re.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjwFvJMdgd35lLyTqKTAERUP3kp7WglrdwuG5KGYkxgLeLIQhps0c3EfOl3Z_3MrXZ7TOcMLmKJDGr8LX1ZfskZhlHsFLlcNvI5hVV4y8wHwE_HJ_AS_aUlAoNvlEfw80MhNAWtS07m0zGtCl0fpvpOLj7Fnyo_VK4HS7cnWdHZugHLnf9Jeo1Era0TWw=)
+[2] [edmgr.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRSAtSvZGgYIRAIugcpw98KfeH18LofVIWIJMNKLrvjRUnWU1FRB0nS4SASWtQwK2y7JsrKQNNp1E9fh4KILTmsmi4aXlSj0XhsLOPlhkPM-KD7B_zom9twHlUeoHlLQg9w3uP-QdV-3gG-aaB5yBI_Z01IXdwlV5NzcwkuPNLQ==)
+[3] [korea.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaEOJSIVrokC5HDhdEh286UIJY3v5d_RifnKZ_rBvDppqj3X4YcDPHjKWhDC7QYvX5h9kWJI3LHesf2CspkB3Do_PPpP9xOxGArtCoXzxxF-6opYG8NI2ei6QEXVWdOjzzg-sNhc64FTC3da1JzYgTJHuWrk77t6YcW36AqcZT6gIGANdSByfV)
+[4] [haeundae.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2wjUtuSFrCKT9X7G_0IbH1wCTWqio17bkG2GRbD_vj-xCfJALAqx440T1Ds1Q70xkQ7ipx7hWOOe-v1QPk60q8NRDaqGUj17mgtJL1UXa5ka5k6-bE0-kuOrtMXjk97a4LGwWHjh57CGITFlBD-h0Ms4gf-klF9zzAHkkTvEmNnsUrqtUI03fdjMU8A4xwlPa3ruOyqjh0xz1m02cbqXDaamfr69EnkKpGlzmPr5jebbMptNt9o95yRYGJhoDY0swRoNe-Nsc1HdY90afv44K4bi3fR_qTWgKXfR3uG8VQhFvPisFRMmMbUpH2zQDuq2fZPWl5lU1ZA==)
+[5] [eum.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm46FJ02zGmw42zCdpppeS6xbZcwZtBpSrELJ75H6agzCec5mZaDV5qI_rWdoSIIll50D6Escxv3h9L9CkB2NsctkqmPkfE99KXEFhPzGbI3y_AsvERXEet2UgkKpN97OxKfLLcDr-K5YZHeEUig==)
+[6] [haeundae.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjSf8LxVT4ShZVMrm3d9thvz3stGjQnLX8PC5P65tIhxtTi-Z1DuVrWu7MPFyjCvyS517TOGTtqn1pWCCREhkeWVWCCJPKNmxHSPuw816XOahw0oQ-QKNehVZkVxHMkCmOgi0E27XacprVzIjfYC4YsNu-tb_7jg==)
+[7] [haeundae.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhsDgl0r79TM4C56GKqI8W0fZPLgV7huBLpFwiI8gEdtA22dm_giWmohhjmGh6fgOptwdBxwWZIpU1sKHeIwEx4y5Rkk-rgyX-kOBBAidrSxu7CH324k2jrixsCjfeS__V8rRXnV718E8sBrXIwyHdqcTGhsjp6A==)
+[8] [repthemis.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOullGyWmLk0Q-YIR14OpahFhSD3zSSnLqqdigxQmXuFej-vDcUK47Ls2YsSP93lIdl1G25gXPWoAh9EluZFnoW5VEGt3b7w23Pljqp6t0Dx5ma5N2yyup3K4K3w47xj381-HzsXCnhYsHJfuxBwcQTxlQz4FlShdXYKS_ozcEzAnamPNJTLe18hbg0QZmU4m5_KmYpRV973eWkRxegabvl2RcseJlBX1mIUEh2a18vze7syhjMFi8W-1kdNEU-iiq2lMIqUuglw-PJbLaR1T9MnPkWhWtNm9BB4QCDk5lRxGRGMVydxKTMmYe2E3dNEexnVRxFMKeKh8J7YqGo8Pfy7FIXFGYIOtcMx1aPjvPfHcO5rPY_8QwLg5JvM8hQU5wTAHwd9szuSNN0eIv9WCUyS2q2ZLfj7NzOmYbkLvKDbHHzWxWUp-Kz4YirmVzwo93tsBFFZy63AjfqGdni57cbkDAzVnzuE3oZE1mfHxFLRpk_8WVPSMdirmXRrgDkDCkcc9en9D4RSjLG5-mxdxP2D_gk4tjQyRLs3waKM7DInXbqzYhRUvaNNd_XJvvJC6aGcSfTKvVgzu01X9ahEoRbYqlLitx_Wl4uxdm2jFkm3H43qewrfPshAMWcQWmh21ALGyYLxnFyeyZ_E4kcI0PxjitM9MuvalViuAqq1PObFnJ4f2TbFX9kp-YnzyTJJRRybZUHuLUyXmADoXaeEp65u0=)
+[9] [haftkomputerowy.com.pl](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLSoCquBVufE-DZgwohQCVb7_OYzPAO7qFDl5zD8Tg3nFaytW_jtngnYMRzygtjS41zxBeHawjjESfN6diHI8-RsWYfPir9ZyYJo64ol4KG1VoDfZSQDz6Pirvvw0BHPDItIS6JbHIf4D80ieVvbjOzw4hBdogjXEBskpicJT4lbDFOBP6MEhRvQ15PrxwGgvbpMpgSinOLke7306quhT8-9eEHmf5kOFOhzLA98Qo36So6cnczuip0XViGA==)
+[10] [artairworks.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMY2Q07R5I1ZyNxqqfWH-Gtn0X7rtjfnNDWyjo0KCzBxk7DEitab_D1RnlCd3Ro_7lJ8xUrOqq6LXSjvdzEWiX5hL2y-A12_dTdIg8FuCRKH5N0EC7iBupf5Bxe0nZ7dmizLlInnyZTbkgRZeHx-wIY5lfvpiMgz7NmDgm7zWE1Nh5W1-xG7qVNC6ynQEyAnRUux0U4L8ewAktOWe_7HWM12cS-QX83Wxb4Y2iXT3clPhpR3rzffl2tGay5ZPpm653C1M=)
+[11] [geumjeong.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl7e98UKfPDetFeRqM5WhyS_LYBhKRWqAvZkvWJWVoFiMpC75d2Ak1Hrx0ZqEfDttU7r0zLZxD9BXnu65LMtMmEswR1d0ns07wfFmGEbDyXhzqXJ6MVIfbOB-J_NEAIzTRaWyrHxO6qtGzz14SrbdN)
+[12] [dalseong.daegu.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7aN4c7XeolEjhBG1gTVA_kDSnOug15I6TiybDO06l0_OCEpeXQAJol9W0vkKPSzfICQ2rT7uGgtqiLY3LowHt4PSq_SD1WVu5sUEkqqFWOIIpD7Q1Ks17hkB_3-JlC5FimXOigBcAw_3ijoKmYCl1NCoVYIdYDRjiSd40Pe3Jy_-NJHj_jaEKxCZoUp_3F0c7Oyk=)
+[13] [haeundae.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJZN1Ij5qM3MmzWwZLAKu4n4YQU9O22gOuVhFSSmc8Qi2RwTwExEHA06pKEA1gsCkySqXnwacQFd_fUGelJjTimy6qy4KR_adg4Eh2J0qo_66K18MCQS54dW8yNDRl3ShmAPbv616966fQygjOi-mDi0OEhh-HnQ==)

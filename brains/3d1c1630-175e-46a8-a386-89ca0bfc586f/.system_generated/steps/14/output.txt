@@ -1,0 +1,10 @@
+
+The command exited with code 0.
+Output:
+
+FullName                                                      Length LastWriteTime         
+--------                                                      ------ -------------         
+C:\Users\lg\Desktop\오늘\(데이터검증팀)실사 DB 취합_전달용_260720_배현명.xlsx 12160444 2026-09-08 오후 12:09:23
+
+
+

@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Cell 1 fill: undefined
+Cell 2 fill: { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF8CBAD' } }
+Cell 3 fill: undefined
+

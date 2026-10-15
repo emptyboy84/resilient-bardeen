@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+"스튜디오비오": 결과 있음! 크기: 240696
+부산 인디랩 이한빈 결과 포함 여부: true
+이한빈 전화번호 결과 포함 여부: true
+

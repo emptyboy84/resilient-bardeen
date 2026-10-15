@@ -1,0 +1,5 @@
+
+The command exited with code 0.
+Output:
+Line 23 in workspace TSV: 	신영산업	6090695719	양기우	51399	경상남도 창원시 의창구 죽전로 6	055-551-5958	055-297-4701		sinteck@daum.net	8	주형 및 금형 제조업			제조업	기타 기계 및 장비 제조업	특수 목적용 기계 제조업
+

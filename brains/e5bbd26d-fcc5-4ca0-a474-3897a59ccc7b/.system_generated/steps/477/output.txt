@@ -1,0 +1,39 @@
+
+The command exited with code 0.
+Output:
+
+=== NAVER VIEW: 010-2799-3270 ===
+  -> 010-2799-3270 : 네이버 검색 try{performance.mark('nx-head-start')}ca
+  -> _mobile_agent = 0 ; var headerfooter_query = "010-2799-3270" ; var headerfooter_query_encoded = "010-279
+  -> 9-3270" ; var headerfooter_time_year = 2026 ; var header
+  -> " ; var g_ssc = "tab.nx.all" ; var g_query = "010-2799-3270" ; var g_puid = "jqyCDsqosq6uBzFDGvl-212729"
+  -> "nws_all", "r": 6},{"n": "urB_b3R", "r": 7}]; 010-2799-3270 검색 결과 naver.search.option = {} ; naver.searc
+
+=== NAVER VIEW: 01027993270 ===
+  -> 01027993270 : 네이버 검색 try{performance.mark('nx-head-start')}ca
+  -> x_mobile_agent = 0 ; var headerfooter_query = "01027993270" ; var headerfooter_query_encoded = "01027993
+  -> 5" ; var g_ssc = "tab.nx.all" ; var g_query = "01027993270" ; var g_puid = "jqyCDsqosq7ipzFTISV-015893"
+  -> "urB_b2R", "r": 5},{"n": "urB_b3R", "r": 6}]; 01027993270 검색 결과 naver.search.option = {} ; naver.search
+  -> e/46/search.naver?api_type=pc_lens&mode=&query=01027993270&ssc=tab.image.all&vintageid=&where=image&p_nv
+
+=== NAVER VIEW: 2799-3270 조진성 ===
+  -> 2799-3270 조진성 : 네이버 검색 try{performance.mark('nx-head-start')}ca
+  -> r nx_mobile_agent = 0 ; var headerfooter_query = "2799-3270 조진성" ; var headerfooter_query_encoded = "279
+  -> 9-3270+%EC%A1%B0%EC%A7%84%EC%84%B1" ; var headerfooter_t
+  -> = "5" ; var g_ssc = "tab.nx.all" ; var g_query = "2799-3270 조진성" ; var g_puid = "jqyCDdqosq6YhzFTITG-470
+  -> n": "urB_b2R", "r": 5},{"n": "urB_b3R", "r": 6}]; 2799-3270 조진성 검색 결과 naver.search.option = {} ; naver.s
+
+=== NAVER VIEW: 부산이야 조진성 ===
+  -> 부산이야 조진성 : 네이버 검색 try{performance.mark('nx-head-start')}ca
+  -> r nx_mobile_agent = 0 ; var headerfooter_query = "부산이야 조진성" ; var headerfooter_query_encoded = "%EB%B6%8
+  -> = "5" ; var g_ssc = "tab.nx.all" ; var g_query = "부산이야 조진성" ; var g_puid = "jqyCDlqosq6K3vFDG4w-137405"
+  -> n": "urB_boR", "r": 3},{"n": "nws_all", "r": 4}]; 부산이야 조진성 검색 결과 naver.search.option = {} ; naver.search
+  -> 18:30 □ 장소 : 동 행정복지센터 3층 간 사 부위원장 위원장 결 재 정원열 윤근주 조진성 협 조 행정팀장 변상일 동장 이동은 참 석 사 항 재적위원 24명 중 14명(불참 10명
+
+=== NAVER VIEW: 조진성 부산진구 ===
+  -> 조진성 부산진구 : 네이버 검색 try{performance.mark('nx-head-start
+  -> r nx_mobile_agent = 0 ; var headerfooter_query = "조진성 부산진구" ; var headerfooter_query_encoded = "%EC%A1%
+  -> = "5" ; var g_ssc = "tab.nx.all" ; var g_query = "조진성 부산진구" ; var g_puid = "jqyCDwqosq6nBzFDGKN-088227"
+  -> n": "kwX_ndT", "r": 2},{"n": "urB_boR", "r": 3}]; 조진성 부산진구 검색 결과 naver.search.option = {} ; naver.searc
+  -> 96 새 창 열림 네이처힐코리아 주식회사(615-81-70796) 사업자 정보 — 대표자 조진성 , 계속사업자, 일반과세자, 부산 부산진구 , 통신판매업 신고, 법인사업자. 국세청·공정
+

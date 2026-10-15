@@ -1,0 +1,13 @@
+The search for ""유잇츠" 양산 건축" returned the following summary:
+"유잇츠"라는 명칭은 양산 지역의 일부 건축물이나 사업체 관련 정보에서 검색되나, '양산 건축'과 직접적으로 연관된 유명 건축사사무소나 건축 관련 대표 브랜드로는 확인되지 않습니다[1][2].
+
+검색 결과에서 확인되는 "유잇츠" 관련 정보는 다음과 같습니다:
+
+*   **관련 업종:** 일부 부동산 정보 사이트에서 '유잇츠'라는 상호가 '기타 엔지니어링 서비스업' 또는 '건축물 일반 청소업' 등으로 분류되어 나타나는 경우가 있습니다[1][2].
+*   **지역적 맥락:** 양산시 물금읍 가촌리 일대의 건물 정보와 연관되어 언급되는 경우가 있으나, 이는 건축 설계나 시공을 전문으로 하는 건축사사무소라기보다는 해당 건물에 입주한 소규모 업체이거나 사업자 등록 정보일 가능성이 높습니다[1][2].
+
+만약 찾으시는 곳이 특정 건축사사무소라면 명칭이 정확한지 확인해 보시거나, 건축물대장 또는 관할 지자체(양산시청)의 건축 관련 인허가 자료를 통해 해당 업체의 정확한 상호를 검색해 보시는 것을 권장합니다.
+
+Sources:
+[1] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRtuujucQmgFH86px0B4rcMpYsIwh4aOqPuf-1jCyvOWOBJQpeW9mEawzp3LWpLjWsrsoJmdOwY2sZzjRc73Cq3CtsEwPSLC2dBfJkFBkhJmSN-ACDlPta5epj4FltCuS0rJosSJkCafNsEebOVPd8ZPl7pT2NyXE2-iDm-Sgewvcf8wB7NEcBszTOi6CO19iJ4_kcVTmPWhQ73l3fbzqyfwT2ER1h4DfSoaRLEc331JkabJGX9W8t-s7jWo9Vpgla50Eyckt9YyraKv_KDWylBuHCs_pVD5BNDQbNHpQ07A0yHylTzRaT1XmaCytw_g==)
+[2] [zippoom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRtuujucQmgFH86px0B4rcMpYsIwh4aOqPuf-1jCyvOWOBJQpeW9mEawzp3LWpLjWsrsoJmdOwY2sZzjRc73Cq3CtsEwPSLC2dBfJkFBkhJmSN-ACDlPta5epj4FltCuS0rJosSJkCafNsEebOVPd8ZPl7pT2NyXE2-iDm-Sgewvcf8wB7NEcBszTOi6CO19iJ4_kcVTmPWhQ73l3fbzqyfwT2ER1h4DfSoaRLEc331JkabJGX9W8t-s7jWo9Vpgla50Eyckt9YyraKv_KDWylBuHCs_pVD5BNDQbNHpQ07A0yHylTzRaT1XmaCytw_g==)

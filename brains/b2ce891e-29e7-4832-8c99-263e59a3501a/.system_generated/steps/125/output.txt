@@ -1,0 +1,12 @@
+### Ran Playwright code
+```js
+await page.goto('https://map.kakao.com/?q=해운대해변로 203');
+```
+### Page
+- Page URL: https://map.kakao.com/?q=%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EB%B3%80%EB%A1%9C%20203
+- Page Title: 카카오맵
+- Console: 0 errors, 2 warnings
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-14T02-43-21-508Z.yml)
+### Events
+- New console entries: .playwright-mcp\console-2026-10-14T02-43-18-620Z.log#L1-L2

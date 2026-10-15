@@ -1,0 +1,71 @@
+### Result
+[
+  {
+    "text": "머니핀\nmoneypin.biz›bizno\n새 창 열림",
+    "href": "https://moneypin.biz/bizno/detail/5600702488/"
+  },
+  {
+    "text": "니쥬상점 - 머니핀\n새 창 열림",
+    "href": "https://moneypin.biz/bizno/detail/5600702488/"
+  },
+  {
+    "text": "니쥬상점은 전문, 과학 및 기술서비스업 기반 광고 대행업 기업입니다. 업력 4년 차의 부가가치세 일반과세자 과세개인사업자로 현재 계속사업자 입니다. 사업장은 서울특별시 금천구 가산디지털1로 58, 709호(가산동, 에이스한솔타워)에 있습니다.\n새 창 열림",
+    "href": "https://moneypin.biz/bizno/detail/5600702488/"
+  },
+  {
+    "text": "114On\nwww.114.co.kr›biznumber\n새 창 열림",
+    "href": "https://www.114.co.kr/biznumber/detail/a87797a1158f"
+  },
+  {
+    "text": "니쥬상점 - 114On\n새 창 열림",
+    "href": "https://www.114.co.kr/biznumber/detail/a87797a1158f"
+  },
+  {
+    "text": "니쥬상점은 서울특별시 관악구에 위치한 업체로기타자유업종 업종에 종사하고 있으며 사업자등록번호는 5600702488, 560-07-02488입니다. 자세한 사항은 114on에서 확인하세요.\n새 창 열림",
+    "href": "https://www.114.co.kr/biznumber/detail/a87797a1158f"
+  },
+  {
+    "text": "기업형태\n중소기업\n대표자명\n이주희\n새 창 열림",
+    "href": "https://www.114.co.kr/biznumber/detail/a87797a1158f"
+  },
+  {
+    "text": "사람인\nwww.saramin.co.kr›company-info\n새 창 열림",
+    "href": "https://www.saramin.co.kr/zf_user/company-info/view?csn=ckdlWC9WWldOSEhZWmY1bW44SE5adz09"
+  },
+  {
+    "text": "니쥬상점 2026년 기업정보\n새 창 열림",
+    "href": "https://www.saramin.co.kr/zf_user/company-info/view?csn=ckdlWC9WWldOSEhZWmY1bW44SE5adz09"
+  },
+  {
+    "text": "니쥬상점 기업소개 - 업력 : -년차, 기업형태 : 중소기업, 업종 : 광고 대행업 | 니쥬상점의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요.\n새 창 열림",
+    "href": "https://www.saramin.co.kr/zf_user/company-info/view?csn=ckdlWC9WWldOSEhZWmY1bW44SE5adz09"
+  },
+  {
+    "text": "대표자명\n이주희\n사업내용\n광고 대행업,전자상거래 소매업,광고물 문안, 도안, 설계 등 작성업\n새 창 열림",
+    "href": "https://www.saramin.co.kr/zf_user/company-info/view?csn=ckdlWC9WWldOSEhZWmY1bW44SE5adz09"
+  },
+  {
+    "text": "니쥬상점 직무리포트\n새 창 열림",
+    "href": "https://www.saramin.co.kr/zf_user/company-info/view-job-report/csn/ckdlWC9WWldOSEhZWmY1bW44SE5adz09/company_nm/%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90"
+  },
+  {
+    "text": "관련문서 더보기",
+    "href": "https://search.naver.com/search.naver?page=2&qdt=0&query=%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90+site%3Awww.saramin.co.kr&qvt=0&ssc=tab.ur.all"
+  },
+  {
+    "text": "",
+    "href": "https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=91149309561&cat_id=50004301&query=%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90&t=mts17wbj&h=981b75a46e530720a0783ad5cee38e6a3a135c4f&frm=NVSCPRO"
+  },
+  {
+    "text": "서바이벌 졸업사진 덤블 초록 3급 망토 카무플라주 길리슈트 위장복 니쥬 이즈 카무플라주 망토 프 이즈",
+    "href": "https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=91149309561&cat_id=50004301&query=%EB%8B%88%EC%A5%AC%EC%83%81%EC%A0%90&t=mts17wbj&h=981b75a46e530720a0783ad5cee38e6a3a135c4f&frm=NVSCPRO"
+  },
+  {
+    "text": "추석+세일\n\n선물핫딜부터 선착순 쿠폰까지!",
+    "href": "https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2609-shopping-002&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F6a4f0fb8e73d32500f261a71%3FlayerId%3DL_260811143826330%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2609-shopping-002"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const links = Array.from(document.querySelectorAll(\'a\')).map(a => ({ text: a.innerText.trim(), href: a.href }));\n  return links.filter(l => l.href.includes(\'moneypin\') || l.href.includes(\'saramin\') || l.href.includes(\'114\'));\n}');
+```

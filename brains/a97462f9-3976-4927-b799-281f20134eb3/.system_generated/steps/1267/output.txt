@@ -1,0 +1,23 @@
+The search for ""로웰프라이빗에쿼티" OR "지엠씨랩스" OR "진엔터테인먼트" "매출액" site:saramin.co.kr OR site:jobkorea.co.kr OR site:incruit.com OR site:catch.co.kr" returned the following summary:
+요청하신 기업들의 매출액 정보는 다음과 같습니다.
+
+### 1. 지엠씨랩스 (GMC LABS)
+*   **2023년 매출액:** 약 3억 7,754만 원[1][2]
+*   사람인 및 잡코리아 등의 기업 정보 서비스에서 제공하는 최신 재무 데이터 기준입니다[3][1].
+
+### 2. 진엔터테인먼트
+*   **2025년 매출액:** 약 2억 3,843만 원[4][5]
+*   참고로, '진엔터테인먼트AI'라는 별도 법인의 경우 2026년 기준 매출액이 2,698만 원으로 확인됩니다[6].
+
+### 3. 로웰프라이빗에쿼티
+*   검색된 취업 포털(사람인, 잡코리아, 인크루트, 캐치) 내에서 해당 기업의 매출액 정보는 확인되지 않습니다.
+
+※ 위 정보는 각 채용 포털 사이트에 공개된 기업 재무 정보를 바탕으로 하며, 업데이트 시점에 따라 실제 수치와 차이가 있을 수 있습니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmpyXfqaaeohX4QbnodNf_bR5EP6yY8jkijup_UFF6qmN5l9qC5fOYJSH0PftZFJgRCkj5MHeMcQ7fsD5HNnW8IHnaE1I2uwH8QhbFXSgFRbh-o611XFwtYWwLL9VojWtkcIUh3bB2w3BRChkB)
+[2] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmpyXfqaaeohX4QbnodNf_bR5EP6yY8jkijup_UFF6qmN5l9qC5fOYJSH0PftZFJgRCkj5MHeMcQ7fsD5HNnW8IHnaE1I2uwH8QhbFXSgFRbh-o611XFwtYWwLL9VojWtkcIUh3bB2w3BRChkB)
+[3] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcabYBWHKlaBmympNIyOB7YXhF5p196MNGK8v8pS7td8IY9mJRG7t2UkTLcFRGvscitIzXa9y9gaIUXoa6Vp6j6uQ1ksnqfn9FxqU6cQyFgCW-kKwTHTKGD7GRPygf_hQ44LzDV9acfs9jpqFCT-ql7yt1dwlzZF6aJdrwNklGuvOIGZ0suO72t6npr5TmBDWJZ_VOeTk8Gw28fawqJmhTNYitYzD5lTbmU07CjnkuwkpxZhKLFoMuG4SfWwUH7zs34P9rDdmOxXmWY4XfPDHK_XIu)
+[4] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM3nu3N7-_QgiyJuQJA6CbhV75lunjeMbhDziE37TgaHDqsIqXwDUfA-hQ1SE5R2acnuaTzl9hyBePle_b_29iWTX71zLSlofpgDY8lk8FwYpMN2sW3xkxGOhvwcYUMIYX)
+[5] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6jADb_rO_CtB_f9Vjczaiw45zgPEkCXTr_F8bX47jkKdX9n2Qh5WYlAmIK0Lf6ko3smSe2QT5AHE7AI5y_BM6BEx6e_DTYWQSAUYIex4x-YImhJiWEL-PwSfYt19pXY1l-7IjdEAtY3a-XGoA5cuTYN9DKt1PpQL3NUFNuqFQFKQ3onobq3_s6Rkj3l_ktJTu96vD5hhVuM4VAFLBBovLVkBqnksrCVwxAF2yfgm9W_rxzSWAO_P8ASuZYUmxRJnmnpjcNQp7SBXZ8BrPXdxwWL_QEQmPDA2B09E31im2nL3asZTjZDLiZVhC95H87SH_Etp_7j0D7t5K)
+[6] [saramin.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgTuU5rpRZh8HauD1nsOSUjURizP51SCkLKlQ4V2EDO-m0XBZX9KUgSBQ8lPVd_52Q4Vk87bKqwo43Lu8l7DsxWnwTBpKYA4ansn3sJWzEGn6OUy0P8vPxxVYw8HgVC8Q6WCby9BaJjreYcg-iUpGHD2yJn43dQDusJvt-AyHsF3UXziYPc_iPA0Da9jIbPrl166rBfx-ulO-og5diOEx54kKe05MPIC2EcgyPp0IpEU2HEqRc0wdNT25xykhMi8YcI7MSbNF8B7WivYHiA6ZleDi9TOZdbBE1NJ-OCg==)

@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+Moneypin URL: https://moneypin.biz/bizno/detail/5208102646/
+Context: href="https://moneypin.biz/bizno/detail/5208102646/" target="_blank" data-heatmap-target=".link"> <div class="sds-comps-base-layout sd
+Moneypin URL: https://moneypin.biz/bizno/detail/5208102646/
+Context: href="https://moneypin.biz/bizno/detail/5208102646/" target="_blank" data-heatmap-target=".link"> 주식회사 스튜디오비오 엠 새 창 열림 <a class="sds-comps-horizontal-layout sds-comps-inline-layout fds-anchor-layout fender-ui_fa383987 fvfBbpR3IV8tmZEx" nocr="1" href="https://moneypin.biz/bizno/detail/5208102646/" target="_blank" data-heatmap
+Moneypin URL: https://moneypin.biz/bizno/detail/5208102646/
+Context: href="https://moneypin.biz/bizno/detail/5208102646/" target="_blank" data-heatmap-target=".link"> 사업분야- / - · 지역- ; 주식회사 스튜디오비오 엠은 - 기반 - 기업입니다. 업력 -년 차의 부가가치세 일반과세자로 영리법인의 본점입니다. 사업장은 -에 위치하고 있으며 현재 폐업자입니다. 새 창 열림 <div class="sds-comps-vertical-layout sds-comps-full-layout XyTEI
+Moneypin URL: https://moneypin.biz/bizno/detail/8071202232/
+Context: href="https://moneypin.biz/bizno/detail/8071202232/" target="_blank" data-heatmap-target=".link"> 스튜디오비오 의방 - 머니핀 새 창 열림 사업분야정보통신업 / 녹음시설 운영업 · 지역경기도 평택시 ;
+

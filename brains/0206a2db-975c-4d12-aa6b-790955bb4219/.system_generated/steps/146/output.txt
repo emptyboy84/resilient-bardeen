@@ -1,0 +1,9 @@
+### Ran Playwright code
+```js
+await page.goto('https://www.i-um.co.kr/kr/companies/external/2b229f5b-7635-4014-933d-abcabf873b72');
+```
+### Page
+- Page URL: https://www.i-um.co.kr/kr/companies/external/2b229f5b-7635-4014-933d-abcabf873b72
+- Page Title: I:UM(이음) - 중소기업 홍보·비즈니스 네트워킹 플랫폼
+### Snapshot
+- [Snapshot](.playwright-mcp\page-2026-10-12T00-29-02-060Z.yml)

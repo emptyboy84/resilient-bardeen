@@ -1,0 +1,78 @@
+
+The command exited with code 0.
+Output:
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>접속대기_no1</title>
+<link rel="stylesheet" href="/css/500.css">
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+</head>
+<body>
+<div class="connect_wait">
+ 
+  <main class="content" role="main">
+    <h2 class="title">현재 접속인원이 많아 접속이 지연되고 있습니다.</h2>
+	<p><b style="color:red">접속대기중</b> 이오니 잠시만 기다려 주세요.<br>금방 열릴 거예요...</p>
+    <p class="desc">There are many people currently connected,<br>so you're reservation in stand-by state.<br>Please try again. (1)</p>
+	<p><progress value="0" max="10" id="progressBar"></progress></p>
+    <p>
+		<div class="btn_box">
+      <a href="javascript:history.back();" class="btn btn_back">이전페이지</a>
+      <a href="https://www.bizno.net" class="btn btn_home">비즈노 홈</a>
+    </div>
+	</p><br/>
+	<p>
+		<div>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- 반응형 -->
+			<ins class="adsbygoogle"
+				 style="display:block"
+				 data-ad-client="ca-pub-4075541721927467"
+				 data-ad-slot="7732235438"
+				 data-ad-format="auto"
+				 data-full-width-responsive="true"></ins>
+			<script>
+				 (adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+</div>
+	</p>
+  </main>
+</div>
+
+</body>
+</html>
+<script>
+
+
+var timeleft = 10;
+var downloadTimer = setInterval(function(){
+  if(timeleft <= 0){
+	document.location.reload();
+/*
+	var strURL= document.location.href;
+	goURL = strURL.replace("https://bizno.net", "https://www.bizno.net");
+	$(location).attr('href',goURL);
+
+    clearInterval(downloadTimer);
+*/	
+  } 
+  document.getElementById("progressBar").value = 10 - timeleft;
+  timeleft -= 1;
+}, 1000);
+</script>
+ 
+ 
+
+
+			<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+			<script type="text/javascript">
+			if(!wcs_add) var wcs_add = {};
+			wcs_add["wa"] = "29d6cd0a469df6";
+			wcs_do();
+			</script>
+

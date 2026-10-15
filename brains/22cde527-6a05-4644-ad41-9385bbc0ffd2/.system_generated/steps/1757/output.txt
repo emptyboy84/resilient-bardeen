@@ -1,0 +1,48 @@
+
+The command exited with code 0.
+Output:
+Reading base file...
+
+=== EXECUTION SUMMARY ===
+Total verified rows updated: 192
+Total RED BOLD cells set: 1285
+
+Writing to: C:/Users/lg/Desktop/오늘/(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑.xlsx...
+Excel written!
+CSV written!
+
+=== VERIFICATION (re-read from file) ===
+Total RED cells in output: 43947
+Expected RED cells: 1285
+RED rows: 2313
+Match: YES ✓
+
+First 5 red rows:
+  Row 2: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 3: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 4: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 5: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 6: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Last 5 red rows:
+  Row 2310: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 2311: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 2312: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 2313: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+  Row 2314: cols 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+
+--- Row 639 detailed ---
+  Col 1: "25년 모집단" argb=FFFF0000 bold=true
+  Col 2: "639" argb=FFFF0000 bold=true
+  Col 3: "디자인에코" argb=FFFF0000 bold=true
+  Col 4: "603-10-85753" argb=FFFF0000 bold=true
+  Col 5: "2009" argb=FFFF0000 bold=true
+  Col 6: "4" argb=FFFF0000 bold=true
+  Col 7: "이돈희" argb=FFFF0000 bold=true
+  Col 8: "051-207-3530" argb=FFFF0000 bold=true
+  Col 9: "051-517-3500" argb=FFFF0000 bold=true
+  Col 10: "금정구" argb=FFFF0000 bold=true
+  Col 11: "부산 금정구 장전동 222-39 서강빌딩 4층" argb=FFFF0000 bold=true
+  Col 12: "캐릭터" argb=FFFF0000 bold=true
+  Col 16: "10" argb=FFFF0000 bold=true
+  Col 19: "https://bizno.net/article/6031085753" argb=FFFF0000 bold=true
+

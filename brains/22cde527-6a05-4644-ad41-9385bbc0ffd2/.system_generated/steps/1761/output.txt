@@ -1,0 +1,32 @@
+
+The command exited with code 0.
+Output:
+
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž!!.xlsx
+Length        : 359851
+LastWriteTime : 2026-09-14 � 10:39:07
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž.csv
+Length        : 437617
+LastWriteTime : 2026-09-14 � 11:18:45
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž.xlsx
+Length        : 302302
+LastWriteTime : 2026-09-14 � 11:18:45
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_automation.xlsx
+Length        : 294138
+LastWriteTime : 2026-09-14 � 9:53:35
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_crawling.xlsx
+Length        : 294498
+LastWriteTime : 2026-09-14 � 9:47:01
+
+Name          : (�Ȼ�)(STI)_(�ȭ)_�λ�_2026_�λ�_CT�_�_260910_ũ�ž_�.xlsx
+Length        : 331775
+LastWriteTime : 2026-09-14 � 10:29:28
+
+
+
+

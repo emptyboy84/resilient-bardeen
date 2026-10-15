@@ -1,0 +1,13 @@
+
+The command exited with code 0.
+Output:
+
+Checking (안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_최종.xlsx...
+[기업체 리스트 R249] (3270): 25년 모집단 | 249 | 떨기나무C&M | 803-50-00025 | 2015 | 3 | 박홍준 | 051-805-3270 | 051-803-3271 | 중구 | 중구중구로 71 | 음악
+[기업체 리스트 R1867] (부산이야): 25년 모집단 | 1867 | 부산이야 | 조진성 | 010-2799-3270 | 부산진구 | 부산진구 진연로 9번길 19 산호빌딩 302호 | 방송
+File not found: C:\Users\lg\Desktop\오늘\(안상숙)(STI)_(모집단현행화)_부산정보산업진흥원_2026_부산_CT산업_실태조사_260910_크레탑_최종_배현명_.xlsx
+File not found: C:\Users\lg\Desktop\오늘\CT산업_실태조사_미매칭실사_최종과업_작업.xlsx
+File not found: C:\Users\lg\Desktop\오늘\사업자번호_찾아_192개.xlsx
+File not found: C:\Users\lg\Desktop\오늘\사업자번호_찾아_192개_완.xlsx
+File not found: C:\Users\lg\Desktop\오늘\추가찾음.xlsx
+

@@ -1,0 +1,12 @@
+The search for ""656-81-03167" OR ("조벡스" "이원준")" returned the following summary:
+검색하신 키워드와 일치하는 기업 및 대표자 정보는 다음과 같습니다.
+
+* **기업명:** 주식회사 조벡스 (ZORVEX)[1]
+* **대표자:** 이원준[1]
+* **사업자등록번호:** 656-81-03167[2]
+* **주요 사업:** AI 기반 스마트 농업(AgTech) 솔루션 개발 및 위성·환경·종자 데이터 통합 분석 서비스(‘팜지니어스’ 등) 제공[3][1]
+
+Sources:
+[1] [thevc.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPSKEB12VwfI3pF73ao1KrcuG66XiJdCPjJDbjDQGA-sJfsSLDyKwx7J8O67WUeO2rPINO2XPXX9sFWgBe6u8rJ8QMRaJ2Yr4GwPRA)
+[2] [seoul.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbQBz6nEVw7-kjQaS1_ppbEoRGwwmhim4RDxUbWT9wM8gSeAm-T3BgFK-MY8A93kT_z3iHz6t5mKu9E54o88aGT3hsPU9nfvr7c5Pa7GaZBl1FPaHt737VDot12nqhpgHgO2-QLwTesiaNmeCpZRXb2tpMIEMkjcEJSR7V)
+[3] [oopy.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs3maPsCrqAI4rjtekLM6Zw-7j5z3G6yR9Ppi3lnpSfpRPqvd_ua66lEjtcvxhuHlA06Vqtiod6pLZ1RR_WeCzmSkMHrDIUag_u_W5hRrN2ux6IqkhLeljgpAGMBLLgPuE)

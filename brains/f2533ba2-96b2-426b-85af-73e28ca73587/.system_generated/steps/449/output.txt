@@ -1,0 +1,7 @@
+
+The command exited with code 0.
+Output:
+Cleaned file line count: 58
+Row 16: ㈜파리로엠엔비 Corp: 164811-0168886
+Row 35: 대원오토텍 Corp: 
+

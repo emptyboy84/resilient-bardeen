@@ -1,0 +1,14 @@
+### Result
+[
+  {
+    "id": "f_f2482492-e26a-4970-890c-10bbe4e0472d",
+    "name": "",
+    "type": "text",
+    "placeholder": "기업명, 사업자번호, 법인번호, 대표자명",
+    "className": "q-field__native q-placeholder"
+  }
+]
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const inputs = Array.from(document.querySelectorAll(\'input\'));\n  return inputs.map(i => ({ id: i.id, name: i.name, type: i.type, placeholder: i.placeholder, className: i.className }));\n}');
+```

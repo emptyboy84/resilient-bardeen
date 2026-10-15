@@ -1,0 +1,17 @@
+The search for "site:wanted.co.kr "에이비엠랩"" returned the following summary:
+원티드(Wanted) 플랫폼 및 관련 채용 정보에 따르면, **에이비엠랩(ABMLab)**은 AI와 빅데이터를 기반으로 대학생 라이프스타일 및 마이데이터 솔루션, 플랫폼(예: 대학생 공유 캘린더 '캘박' 등)을 구축하고 있는 IT 기반 스타트업입니다[1][2]. 
+
+* **주요 사업 영역**: AI·빅데이터 기반 대학생 데이터 가공 및 솔루션 개발, 디지털 마케팅, 웹/앱 서비스 제공[1]
+* **대표 서비스**: 대학생 라이프스타일 플랫폼 '엔퍼센트', 공유 캘린더 '캘박' 등[1][3]
+* **주요 연혁 요약**:
+  * 2023년: 주식회사 에이비엠랩 법인 설립 및 중소벤처기업부 팁스(TIPS) 선정[1]
+  * 2025년: AI 기반 대학생 공유 캘린더 '캘박' 런칭, 시리즈 A 브릿지 투자 유치[1]
+
+원티드 내 기업 페이지 및 과거 채용 공고(영업 및 제휴 담당 등)에서는 주로 젊고 유연한(Flexible) 사내 분위기 속에서 비즈니스 제휴 및 서비스 확장을 함께할 인재를 찾는 공고들이 등록된 바 있습니다[1][4]. 상세한 채용 현황이나 진행 중인 포지션은 원티드 공식 웹사이트의 '에이비엠랩' 기업 페이지에서 직접 확인할 수 있습니다[5].
+
+Sources:
+[1] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9j7UGcVmsHNnxudBqHeWQDeaDNTLn1x6v3imGsjBD2GvgGEg4rSIsupFVqO4w_Mv_bm8WysjzAa2iRg7wlly3gEP-b-At8fC0uJq-lNldy8OKtQvCIEZo1t7)
+[2] [mt.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzsuaIXBtlUGOS2qUJNBkDN8h9PkMfFQZ0o2dMY9mweCSOrrlBslhGB5pBYJQU9-bDuwM76PZNK5aqjv53ts6_uQYApR0gq5K5FAX9jTjUT3GlJDZmzHZWAMvdMjJPmESsqWJvfqex4EN7_GjEGls=)
+[3] [techcntlab.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWS2dksjm5OcO8hMfMvk0-ygzjdXut2eWEih0iGVAN813taAU0WRz1x7878hlRQi4GMFY0yx7FIc4yqLIpH1Wf7nNWyNjgmFDg-Zxay0rITgou4yywEs5erI1wJM_7HS_xtnoP2hqDnjKw3TPeqEckMWsdpEja0e9YvtfyPWo_IjZUyS5U3SjGaxlWk1vTNqDmQZOa8K5lnCESj4oC6bByMquqP9yHq4_L7ayOlnoRjE1FbBXQl-KI0blWfO1G0LgKHWEL6w0tyuK7BJt5JuycY8MVu55vDV_V27Pqy69OOpoZbAQ_eDfTgKplpLjF54E2N5Lyi_zsdNyYE4YVkPhlFpZeZket_9KIfTMblaBoZX5Xcw==)
+[4] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKEoyL0YXA7ESKevFN4TK2F5McW2GbVo020ZN1gwj2fLxjKCqxvWl9_vzPT9jShuNVjR5MkFQHppLh03-imqYsOh1t0QEN04JcWyDxFPBi8b418qZw2TE=)
+[5] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9j7UGcVmsHNnxudBqHeWQDeaDNTLn1x6v3imGsjBD2GvgGEg4rSIsupFVqO4w_Mv_bm8WysjzAa2iRg7wlly3gEP-b-At8fC0uJq-lNldy8OKtQvCIEZo1t7)

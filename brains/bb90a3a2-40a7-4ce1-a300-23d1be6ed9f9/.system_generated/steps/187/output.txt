@@ -1,0 +1,14 @@
+
+The command exited with code 0.
+Output:
+Loading original file: C:/Users/lg/Documents/카카오톡 받은 파일/크레탑_부산CT산업현황_261012_전략팀 전달 (1).xlsx
+
+=== Merge Statistics ===
+Total companies: 3978
+Originally had phone: 730
+Newly verified & added: 590
+Still missing: 2658
+Total with phone now: 1320 (33.2%)
+Saved TXT to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.txt (899743 bytes)
+Saved XLSX to: C:\Users\lg\Desktop\Today\크레탑_부산CT산업현황_전화번호검증완료_전체3978개사.xlsx (427919 bytes)
+

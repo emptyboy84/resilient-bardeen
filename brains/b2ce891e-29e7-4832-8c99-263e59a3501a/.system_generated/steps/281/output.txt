@@ -1,0 +1,14 @@
+The search for "site:jobkorea.co.kr "에이비엠랩"" returned the following summary:
+잡코리아에 등록된 주식회사 **에이비엠랩(ABMLab)** 관련 채용 정보 및 기업 개요 요약입니다[1][2]:
+
+* **기업 개요**: AI 및 빅데이터를 기반으로 대학생 데이터 가공, 마케팅 솔루션, 그리고 대학생 공유 캘린더 '캘박' 등의 웹·앱 서비스를 제공하는 IT 기반 스타트업입니다[3][2].
+* **잡코리아 채용 공고 이력**: 
+  * 브랜드마케터, 퍼포먼스·온라인마케터, 경영·비즈니스 기획, 웹기획, 영업관리, 백엔드 개발자 등 다양한 직무의 채용 공고가 등록된 이력이 있습니다[1].
+  * 과거 마케팅 팀장, 기획팀, 대외협력팀, 영업/제휴, 개발자 등의 정규직 및 경력직 채용을 진행한 바 있습니다[1].
+
+잡코리아의 구체적인 기업 상세 정보나 진행 중인 공고 세부 내용은 [잡코리아 에이비엠랩 페이지](https://www.jobkorea.co.kr)를 통해 직접 확인하실 수 있습니다.
+
+Sources:
+[1] [jobkorea.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCy-KIwqdH6zr1Wozn3doZag7T5JBDLRu2R00d3IyvuSQ3sGl9ue2F5TB-Af9i3npUbHCfypo-8DRbNVNSdeoD5Qxlg8m6ge9vNXuNKMQW-ohtqVLyiLsipDKlHHfVz79TrUqzo02sGQ==)
+[2] [incruit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ3GqqyVmw2IC8BAqbmgdRgksj_KaCcvtlvMAYkt3HI0bqe1V3otgbenwJGnuybcrmYl6emGAfP2dXIma41yTm3DLXIjM-EiTtJPTb5KG-fhPJCx3UUFIeK8MMHslZIrs=)
+[3] [wanted.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh9RQBufFALiXqenPlGiHE6jau2nsIHFjaTmZ5wgTQUZj9oDP5QY3CW7ZwZF6dn29_PyrqLr8QDCgesyuWayaIDmXN7qCny6_MPB-3FyOm9zrxbCT8skAmCmho)

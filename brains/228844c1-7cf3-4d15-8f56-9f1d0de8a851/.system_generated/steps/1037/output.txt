@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+Name                                                       Length
+----                                                       ------
+(�Ͱ�)�ǻ� DB �_�޿�_260720_�.xlsx     11200645
+�_�ǻ�DB_16�÷�_�Ϸ�_�.xlsx              193688
+�_�ǻ�DB_�̹�_īī�_�ȭ�ȣ�Ʈ.csv    30094
+
+
+

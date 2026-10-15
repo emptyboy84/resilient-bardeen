@@ -1,0 +1,16 @@
+The search for ""하늘경제" "신정환" OR "새롬홀딩스" "최진환" OR "센텀미디어" "임선혜" OR "소프트퀘이사" "이월순"" returned the following summary:
+제시하신 검색어 조합은 국내 기업 및 법인 데이터베이스(신설법인 공고 등)에 등록된 **[기업명과 대표자(또는 주요 관계자)]** 데이터의 일부로 보입니다. 각 항목별 확인되는 내용은 다음과 같습니다.
+
+1. **(주)하늘경제** / (신정환 관련 검색어는 동명이인 또는 별개의 연예인 관련 이슈가 함께 검색된 것으로 보이며, 기업명 자체로는 법인 데이터에 존재합니다.)
+2. **(주)새롬홀딩스** — **최진환** (또는 관련 법인 임원진·설립 이력과 연관된 기업 정보)[1][2]
+3. **센텀미디어** — **임선혜** (부산 센텀시티 및 미디어·문화·예술 관련 사업 또는 관련 기관/인물 연관 정보)[3][4]
+4. **소프트퀘이사** — **이월순** (정보통신 및 소프트웨어 개발·컨설팅업 등을 목적으로 부산 지역에 설립된 법인 및 대표자 정보)[5]
+
+특정 기업의 재무 정보, 사업자등록 번호, 혹은 인물에 대한 상세한 조회가 필요하신 경우 구체적인 내용을 말씀해 주세요.
+
+Sources:
+[1] [nicebizinfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlKVJSZ_AeE1AbrUFybRm0btaA70Zw91p75g4Bbh_UkK8fNbPoChbLOKU3LdjlHksfLF_7lE3fW8taAVSozQIuEKtO2IeTPyuzztdSuOHkOA283BlCRYAxpLpHQ05j2QjcijUkGZObDZBhPrwRAjR94vyQ)
+[2] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVQY_LqhyS3kGxfok0Xb8LRbs1ltu3nUsPACe6UaCFxAg2iW28ILRefE28IoMMiJ9TmOcL9L6YX3xBw9DdNcMkipD_giATld9aJDoLZbWOH5DmvdIFcSrf4-nC4O6UEtaBEIp7)
+[3] [yedosystem.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGAo-t2MVRnxDB6PyCFTzIncrVOfzJorLl6SUTaf2nLT0SPQNQU1qvC2mIOL0h1YMDIxClr5ORG8jNZZ8BW8bXm_7JusYSyD40VioIQhhvd5L0qaNkLOwWlbxZ9nDbswiC-78MHpTFOdBRwhp4LxBv65aA-iJGgIFE6maAnWjn2-L3a0om6JGn1H3ih8MvUipdznlenwHQoqkAcbs_m3Qq_g==)
+[4] [fnnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHey4H0dyjKvvU_CrKXhp_j9SRTECO4xL7lKtMXilDgpNlTEcjftJ696wOSN5HfBFIiSnZZgpetMhkaQGG4guastrS4HokPVbpLLM8SXOiBv4sZdatv-a71LSbU8Uz3S4kc0jV)
+[5] [hankyung.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGedAczs7Zvt9FVGlGi1SFDRoXSmJwZZSirxX9omOgkgeQEdnBS_fDfFqKnxQ6u7himLGu8S2ZGfoRlOoyzUP0HYcjkGl-oqN8mJb9XdmJEhhFWP2W9n5MRXWDgpe7BBT8x6NN5)

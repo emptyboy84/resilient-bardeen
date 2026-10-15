@@ -1,0 +1,6 @@
+
+The command exited with code 0.
+Output:
+First 100 bytes: <Buffer eb b0 b0 ed 98 84 eb aa 85 09 ed 8f 90 ec 97 85 09 ec a3 bc ec 8b 9d ed 9a 8c ec 82 ac 20 eb a3 a9 ec 8a a4 ed 85 8d 09 35 31 33 31 39 30 39 36 32 35 ... 50 more bytes>
+UTF-8 check: 배현명	폐업	주식회사 룩스텍	5131909625	김길연	39263	경상북도 구미시 산호대�
+

@@ -1,0 +1,270 @@
+
+The command exited with code 0.
+Output:
+<truncated 24 lines>
+				
+			}else if (display == "block") {
+				affiliation.style.display = 'none';
+				document.getElementById("local_openclose").className = "open";
+			}
+			
+		}
+	}
+//-->
+</script>
+</head>
+
+<body>
+
+	<!-- wrap -->
+	<div id="wrap">
+		<!-- Skip Navigation -->
+		<div id="accessibility">
+			<ul>
+			<li><a href="#content">본문 바로가기</a></li>	
+			</ul>
+		</div>
+		<!-- //Skip Navigation -->
+
+		<!-- header -->
+		<div class="header">
+			<h1><a href="main.php"><img src="/images/logo.png" alt="출판사/인쇄사 검색시스템" /></a></h1>
+			<ul class="util">
+				<li><a class="home" href="/html/main.php">HOME</a></li>
+			</ul>
+
+		</div>
+		<!-- //header -->		<!-- container-->
+		<div class="container">
+			<!-- search -->
+			
+			<script type="text/javascript">
+			<!--
+			
+			function send(){
+				
+				var frm = document.frm;
+				var chkElement = "";				
+				for(var i=0; i<frm.search_area.length; i++) { 
+					if(frm.search_area[i].selected == true) {
+						chkElement = frm.search_area[i].value; 
+					}
+				}	
+				if(chkElement == ""){
+					alert("검색지역을 선택해 주시기 바랍니다.");
+					frm.search_area[0].focus();
+					return false;
+				}
+
+				var chkElement2 = "";	
+				for(var i=0; i<frm.search_kind.length; i++) { 
+					if(frm.search_kind[i].selected == true) {
+						chkElement2 = frm.search_kind[i].value; 
+					}
+				}
+				/*	
+				if(chkElement2 == ""){
+					alert("업종구분을 선택해 주시기 바랍니다.");
+					frm.search_kind[0].focus();
+					return false;
+				}
+				*/
+
+				if(frm.search_word.value != ""){
+					var chkElement3 = "";	
+					for(var i=0; i<frm.search_type.length; i++) { 
+						if(frm.search_type[i].selected == true) {
+							chkElement3 = frm.search_type[i].value; 
+						}
+					}	
+					if(chkElement3 == "" ){
+						alert("검색항목을 선택해 주시기 바랍니다.");
+						frm.search_type[0].focus();
+						return false;
+					}
+				}
+				
+			}
+			//-->
+			</script>
+			<div class="search">
+				
+				<div class="search_in">
+				<p class="ment">전국 출판사/인쇄사 검색 시스템입니다.<br />
+				전국 또는 지역별로 등록현황을 검색할 수 있습니다.</p>	
+				<form name="frm" method="get" action="searchList.php" onsubmit="return send();" >
+					<div class="select_box" style="width:133px;">
+					<label class="hidden" for="search_area" >지역 선택을 선택하세요</label>
+						<select name="search_area"  id="select">
+						<option value="">지역 선택</option> 
+						<option value="전체"  >-전체-</option> 
+						<option value="6110000"  >서울특별시</option> 
+						<option value="6410000"  >경기도</option>
+						<option value="6280000"  >인천광역시</option>
+						<option value="6530000"  >강원특별자치도</option>
+						<option value="6260000"  >부산광역시</option>
+						<option value="6270000"  >대구광역시</option>
+						<option value="6430000"  >충청북도</option>
+						<option value="6440000"  >충청남도</option>
+						<option value="5690000"  >세종시</option>
+						<option value="6300000"  >대전광역시</option>
+						<option value="6290000"  >전남광주통합특별시</option>
+						<option value="6540000"  >전북특별자치도</option>
+						<option value="6470000"  >경상북도</option>
+						<option value="6480000"  >경상남도</option>
+						<option value="6310000"  >울산광역시</option>
+						<option value="6500000"  >제주도</option>
+						</select>
+					</div>
+					
+					
+					<div class="select_box" style="width:70px;">
+					<label class="hidden" for="search_state">영업유무를 선택하세요</label>
+						<select name="search_state" class="form02" id="search_state">
+						<option value="13"  >전체</option>
+						<option value="1"   >영업</option>
+						<option value="3"   >폐업</option>
+						</select>
+					</div>
+
+					<br />
+				
+					<div class="select_box"  style="width:133px;">
+						<label class="hidden" for="search_kind">업종구분을 선택하세요</label>
+						<select name="search_kind"  id="select1" >
+						<option value="">업종구분</option>
+						<option value="1" >출판사</option>
+						<option value="2" >인쇄사</option>
+						</select>
+					</div>
+				
+					<div class="select_box"  style="width:70px;">
+					<label class="hidden" for="search_type" >항목을 선택하세요</label>
+					<select name="search_type" id="select2" >
+					<option value="">항목</option>
+					<option value="1" >상호</option>
+					<option value="3" >주소</option>
+					</select>
+					</div>
+
+					<label class="hidden" for="search_word" >검색어를 입력하세요</label>
+					<input name="search_word" class="input" type="text" id="textfield" value="" />
+
+					<input class="search_btn" type="image" src="/images/btn_search.gif" alt="검색" onsubmit="return send();" border="0" />
+            	</form>
+				
+				</div>
+					
+				
+			</div>
+			<!-- //search -->
+
+			<div class="main_img"><img src="/images/main_img.gif" alt="출판사/인쇄사 검색시스템" /></div>
+
+
+			<!-- content -->
+			<div id="content" class="content">
+
+				<!-- right -->
+				<div class="right_full">
+					
+					<!-- 세부컨텐츠 -->
+					<div id="sub_content">
+											<!-- view -->
+						<table class="content" summary="출판사인쇄사의 상호, 등록신고번호, 자료, 영업구분 세부내용보기 페이지입니다." >
+						<caption style="display:none">출판사인쇄사 - 내용보기</caption>
+						<colgroup>
+						<col style="width:20%" />
+						<col style="width:30%" />
+						<col style="width:20%" />
+						<col />
+						</colgroup>	
+						
+						<tbody>
+						<tr>
+						<th class="bg" scope="row">상호</th>
+						<td colspan="3" class="al">비전조이</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">등록신고번호</th>
+						<td class="al">251002013000013</td>
+						<th class="bg" scope="row">지역</th>
+						<td class="al">부산광역시 해운대구</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">자료구분</th>
+						<td class="al">출판사</td>
+						<th class="bg" scope="row">등록번호</th>
+						<td class="al">251002013000013</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">등록일자</th>
+						<td class="al">2013-04-24</td>
+						<th class="bg" scope="row">등록청</th>
+						<td class="al"> </td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">소재지</th>
+						<td class="al" colspan="3">부산광역시 해운대구</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">변경등록 사항</th>
+						<td class="al"></td>
+						<th class="bg" scope="row">폐업일자</th>
+						<td class="al">
+						2018-03-08						</td>
+						</tr>
+						<tr>
+						<th class="bg" scope="row">영업구분</th>
+						<td class="al">폐업</td>
+						<th class="bg" scope="row">일자</th>
+						<td class="al">2018-03-08</td>
+						</tr>
+						</tbody>
+						</table>
+
+						<!-- //view -->
+
+						<p class="last_date">최종수정일시 2025-10-28</p>
+
+						<!--view_btn -->
+						<p class="ac mt20"><a href="searchList.php?search_area=&amp;search_kind=&amp;search_type=&amp;search_word=&amp;search_state=&amp;area_code=&amp;area_code2=&amp;cpage=1&amp;page_type=" class="btn_gray">목록</a></p>
+						<!-- //viewt_btn -->
+						
+										
+					</div>
+					<!-- //세부컨텐츠 -->
+
+				</div>
+				<!-- //right -->
+	
+
+			</div>
+			<!-- //content -->
+
+		</div>
+		<!-- //container-->
+
+
+		<!-- footer -->
+		<div class="footer">
+			<div class="footer_in">
+			<span class="b">출판사, 인쇄사 관련 문의</span> : 해당 지자체 문화예술과<br /><br />
+			
+			<address>문화체육관광부 (우)30119 세종특별자치시 갈매로 388 정부세종청사 15동</address>
+			<p class="copyright">Copyright ⓒ Ministry of Culture, Sports and Tourism</p>
+			</div>
+		</div>
+		<!-- //footer -->	
+				
+	</div>
+	<!-- //wrap -->
+
+</body>
+</html>
+
+				
+
+			
+
+

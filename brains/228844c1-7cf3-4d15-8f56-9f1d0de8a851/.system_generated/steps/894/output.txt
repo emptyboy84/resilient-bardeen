@@ -1,0 +1,9 @@
+
+The command exited with code 1.
+Output:
+Row 757 [� 756]: �̾�ڸ� | �ڹ�ȣ:  | �ǥ�:  | �ּ�: �λ� �ؿ�뱸 � 140, 3� 2ȣ (�쵿, �λ깮ȭ�÷�)
+Traceback (most recent call last):
+  File "C:\Users\lg\.gemini\antigravity\brain\228844c1-7cf3-4d15-8f56-9f1d0de8a851\scratch\check_prev_items.py", line 14, in <module>
+    print(f"Row {i+1} [� {r[1]}]: {r[2]} | �ڹ�ȣ: {r[3]} | �ǥ�: {r[6]} | �ּ�: {r[10]}")
+UnicodeEncodeError: 'cp949' codec can't encode character '\xa0' in position 67: illegal multibyte sequence
+

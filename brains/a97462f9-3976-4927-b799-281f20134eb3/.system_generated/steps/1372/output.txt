@@ -1,0 +1,6 @@
+### Result
+"\n---\n\n---\n\n---\n"
+### Ran Playwright code
+```js
+await page.evaluate('() => {\n  const iframes = Array.from(document.querySelectorAll(\'iframe\'));\n  let res = [];\n  iframes.forEach(f => {\n    try {\n      if (f.contentDocument && f.contentDocument.body) {\n        res.push(f.contentDocument.body.innerText);\n      }\n    } catch(e) {}\n  });\n  return res.join(\'\\n---\\n\') || document.body.innerText;\n}');
+```

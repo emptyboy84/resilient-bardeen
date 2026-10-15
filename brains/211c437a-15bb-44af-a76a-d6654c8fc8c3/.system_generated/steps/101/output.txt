@@ -1,0 +1,12 @@
+
+The command exited with code 0.
+Output:
+
+FieldType     Name           
+---------     ----           
+System.String prefix         
+System.Int32  FwiPackageSmall
+System.Int32  FwiPackageLarge
+
+
+

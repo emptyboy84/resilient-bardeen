@@ -1,0 +1,15 @@
+The search for ""응카" "180111-1227958" OR "507-86-01751" OR "법인등록번호"" returned the following summary:
+입력하신 검색어 조합은 전기차 전문 렌트·리스 기업 **'주식회사 응카'**(상호명: 응카)와 관련된 정보[1][2] 또는 사업자 정보 조회용 키워드로 보입니다. 
+
+* **상호명:** 주식회사 응카 (응카)[1][2]
+* **사업자등록번호:** 769-86-01330[1]
+* **대표자:** 류지훈[1]
+* **소재지:** 부산광역시 동래구 명안로9번길 85 (안락동)[1][3]
+* **업종:** 사업 및 무형 재산권 중개업 (전기차 단·장기 렌트 서비스 등)[1][2]
+
+만약 특정 계약서, 사업자 정보 진위 확인, 혹은 다른 목적(법인등록번호나 특정 번호 조회 등)으로 검색하신 내용이 있다면 필요한 구체적인 내용을 말씀해 주세요.
+
+Sources:
+[1] [mk1rent.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHekIYkGliQvyfAdclJDF1B7JEDNO0WtnDP0ReshK5IUmNqwG3L3pcRw7BY_MZtmNlEpDNWJmVkc3SPnxo08WZCclO-D3pBfZ0OlnjSmsqe)
+[2] [marketbz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY8hsVTIHawZpIufoDGSIzoXp0W4ga9fHh3k5oiSpnr5FdzwvT-aXmCns3ckEvQPExikGSSrJ0fktomu7G00WTSeW3M8MiWOr8wbNrowTFZKONGDHdh-lDzaFdhEMMguHPBA==)
+[3] [centum.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5f5J5-KhCqs3esMJZ6cabIqZ0rwWbekIfRgHgAduLymJVCipS1JfBlPBaehGxXrxO7dZc6fFcUQLYl17lYaGBBw78tLmhv0_Y2JczGLnhZmUD5FnN2oToEmSejmQgKuNNf9D8uO9LFCjw0rm6-P9eDj86q5oDJ8jbis57Hj5YmRb7IJxSM8s_4FZb3U94nANEHAaSf8kiHFhH3SzSsVBLb2SX4lyexjrreKkHMwV4WVhNf6B9jnt18UythRLBOL7UhefUp26kdraOqFMaeGRsETSScvObdu6G39Mr51JKXh4geiMhKuP49uQxpr7pspWdia8gia-zzB9J0epWp14n33k2XCMS9NA6Bp3zwPEB5iUFFrHmAD8nF4nDx1lDpisKearGgIyeodo3EnYDxq0L37-o-yzd_xVpJxaQFF20rfposlZys3d3aEB6sUEmQdnfVlEhcSplP6vsf4vhtnGdrI0PYM0MTtA3QGMhTWmdpDEpeKpx3HobeSjynhWGoWgS8-29T2AjzIb_Jjd2kO313PYLkc7ST6ItpHChmpi55J3GvIIH50iWsydnvXCj-8ykgxf1ikiwl0mBPgO2H5aliS8Us6Zgo61J)

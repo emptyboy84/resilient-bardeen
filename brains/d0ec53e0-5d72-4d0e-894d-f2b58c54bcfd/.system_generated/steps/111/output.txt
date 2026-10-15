@@ -1,0 +1,148 @@
+
+The command exited with code 0.
+Output:
+<truncated 43 lines>
+  Col 2 [순번]: 750 | Font: DEFAULT
+  Col 3 [사업체명]: '불교텔레비젼' | Font: DEFAULT
+  Col 8 [연락처]: '051-852-9309' | Font: DEFAULT
+  Col 10 [시군구]: '해운대구' | Font: DEFAULT
+  Col 11 [주소]: '부산 해운대구 센텀중앙로 97(다른 정보안나옴)' | Font: DEFAULT
+  Col 12 [업종분류]: '방송' | Font: DEFAULT
+Row 764: 블루레코딩 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 763 | Font: DEFAULT
+  Col 3 [사업체명]: '블루레코딩' | Font: DEFAULT
+  Col 8 [연락처]: '010-9514-1435' | Font: DEFAULT
+  Col 12 [업종분류]: '음악' | Font: DEFAULT
+Row 768: 비문 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 767 | Font: DEFAULT
+  Col 3 [사업체명]: '비문' | Font: DEFAULT
+  Col 8 [연락처]: '0505-349-8000' | Font: DEFAULT
+  Col 10 [시군구]: '해운대구' | Font: DEFAULT
+  Col 11 [주소]: '부산 해운대구 센텀1로 9 롯데갤러리움센텀(다른 정보 안나옴)' | Font: DEFAULT
+  Col 12 [업종분류]: '출판' | Font: DEFAULT
+Row 1015: 우수경 (Rep: 이석창)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1014 | Font: DEFAULT
+  Col 3 [사업체명]: '우수경' | Font: DEFAULT
+  Col 7 [대표자 성함]: '이석창' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1034: 위컴퍼니 (Rep: 강현주)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1033 | Font: DEFAULT
+  Col 3 [사업체명]: '위컴퍼니' | Font: DEFAULT
+  Col 4 [사업자번호]: '607-20-38703' | Font: FFFF0000
+  Col 7 [대표자 성함]: '강현주' | Font: FFFF0000
+  Col 8 [연락처]: '0507-1418-1230' | Font: DEFAULT
+  Col 10 [시군구]: '연제구' | Font: DEFAULT
+  Col 12 [업종분류]: '음악' | Font: DEFAULT
+  Col 14 [폐업 날짜]: datetime.datetime(2019, 9, 30, 0, 0) | Font: FFFF0000
+  Col 15 [비고]: '폐업자' | Font: FFFF0000
+  Col 16 [종사자수(명) 25년 기준]: 20 | Font: FFFF0000
+Row 1035: 위플라이엔터테인먼트 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1034 | Font: DEFAULT
+  Col 3 [사업체명]: '위플라이엔터테인먼트' | Font: DEFAULT
+  Col 8 [연락처]: '051-412-2700' | Font: DEFAULT
+  Col 10 [시군구]: '영도구' | Font: DEFAULT
+  Col 11 [주소]: '부산 영도구 남항동2가 236-4번지 멀티미디어지원센터 201호' | Font: DEFAULT
+  Col 12 [업종분류]: '게임' | Font: DEFAULT
+  Col 13 [컨택결과]: '게임사업단 요청으로 제외' | Font: DEFAULT
+  Col 15 [비고]: '확인불가' | Font: DEFAULT
+Row 1048: 희웹툰 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1047 | Font: DEFAULT
+  Col 3 [사업체명]: '희웹툰' | Font: DEFAULT
+  Col 5 [설립연도(연도)]: 2021 | Font: DEFAULT
+  Col 8 [연락처]: '010-8074-7622' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1062: 이수연 (Rep: 최유창)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1061 | Font: DEFAULT
+  Col 3 [사업체명]: '이수연' | Font: DEFAULT
+  Col 7 [대표자 성함]: '최유창' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1070: 이지현 (Rep: 곽재홍)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1069 | Font: DEFAULT
+  Col 3 [사업체명]: '이지현' | Font: DEFAULT
+  Col 7 [대표자 성함]: '곽재홍' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1071: 이진수 (Rep: 이진수)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1070 | Font: DEFAULT
+  Col 3 [사업체명]: '이진수' | Font: DEFAULT
+  Col 7 [대표자 성함]: '이진수' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1091: 작은통일출판사 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1090 | Font: DEFAULT
+  Col 3 [사업체명]: '작은통일출판사' | Font: DEFAULT
+  Col 8 [연락처]: '010-5091-1589' | Font: DEFAULT
+  Col 10 [시군구]: '강서구' | Font: DEFAULT
+  Col 11 [주소]: '부산 강서구 명지오션시티10로 17' | Font: DEFAULT
+  Col 12 [업종분류]: '출판' | Font: DEFAULT
+Row 1113: 조나단/이은석 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1112 | Font: DEFAULT
+  Col 3 [사업체명]: '조나단/이은석' | Font: DEFAULT
+  Col 12 [업종분류]: '애니메이션' | Font: DEFAULT
+Row 1115: 족보만드는곳족보관 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1114 | Font: DEFAULT
+  Col 3 [사업체명]: '족보만드는곳족보관' | Font: DEFAULT
+  Col 8 [연락처]: '051-248-9529' | Font: DEFAULT
+  Col 10 [시군구]: '중구' | Font: DEFAULT
+  Col 11 [주소]: '부산 중구 구덕로 19' | Font: DEFAULT
+  Col 12 [업종분류]: '출판' | Font: DEFAULT
+Row 1146: 창작집단1407 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1145 | Font: DEFAULT
+  Col 3 [사업체명]: '창작집단1407' | Font: DEFAULT
+  Col 5 [설립연도(연도)]: 2021 | Font: DEFAULT
+  Col 8 [연락처]: '010-6767-9391' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1147: 창작집단한 (Rep: )
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1146 | Font: DEFAULT
+  Col 3 [사업체명]: '창작집단한' | Font: DEFAULT
+  Col 8 [연락처]: '010-9980-9771' | Font: DEFAULT
+  Col 12 [업종분류]: '공연' | Font: DEFAULT
+Row 1342: 다인커뮤니케이션즈 (Rep: 이진수)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1341 | Font: DEFAULT
+  Col 3 [사업체명]: '다인커뮤니케이션즈' | Font: DEFAULT
+  Col 4 [사업자번호]: '602-02-99846' | Font: FFFF0000
+  Col 5 [설립연도(연도)]: 2000 | Font: FFFF0000
+  Col 6 [설립연도(월)]: 11 | Font: FFFF0000
+  Col 7 [대표자 성함]: '이진수' | Font: FFFF0000
+  Col 8 [연락처]: '010-8006-9878' | Font: DEFAULT
+  Col 10 [시군구]: '부산진구' | Font: FFFF0000
+  Col 12 [업종분류]: '캐릭터' | Font: DEFAULT
+  Col 14 [폐업 날짜]: datetime.datetime(2021, 7, 25, 0, 0) | Font: FFFF0000
+  Col 15 [비고]: '폐업자' | Font: FFFF0000
+  Col 16 [종사자수(명) 25년 기준]: 7 | Font: FFFF0000
+Row 1526: 티앤북스경성대점 (Rep: 이지현)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1525 | Font: DEFAULT
+  Col 3 [사업체명]: '티앤북스경성대점' | Font: DEFAULT
+  Col 4 [사업자번호]: '213-07-74602' | Font: DEFAULT
+  Col 7 [대표자 성함]: '이지현' | Font: DEFAULT
+  Col 8 [연락처]: '051-626-2399' | Font: DEFAULT
+  Col 10 [시군구]: '남구' | Font: DEFAULT
+  Col 11 [주소]: '부산 남구 수영로 274-17, 301호(대연동)' | Font: DEFAULT
+  Col 12 [업종분류]: '만화' | Font: DEFAULT
+Row 1856: 아이비문화사 (Rep: 조성환)
+  Col 1 [구분]: '25년 모집단' | Font: Values must be of type <class 'str'>
+  Col 2 [순번]: 1855 | Font: DEFAULT
+  Col 3 [사업체명]: '아이비문화사' | Font: DEFAULT
+  Col 4 [사업자번호]: '606-91-56858' | Font: DEFAULT
+  Col 5 [설립연도(연도)]: 2009 | Font: DEFAULT
+  Col 6 [설립연도(월)]: 10 | Font: DEFAULT
+  Col 7 [대표자 성함]: '조성환' | Font: DEFAULT
+  Col 8 [연락처]: '051-464-9993' | Font: DEFAULT
+  Col 10 [시군구]: '수영구' | Font: DEFAULT
+  Col 11 [주소]: '수영구 감포로 36 (민락동)' | Font: DEFAULT
+  Col 12 [업종분류]: '출판' | Font: DEFAULT
+

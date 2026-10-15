@@ -1,0 +1,18 @@
+The search for ""박학문" "브이알코리아" "법인" OR "사업자" OR "대표이사"" returned the following summary:
+박학문 대표가 이끄는 **브이알코리아(주)**에 관한 정보는 다음과 같습니다.
+
+*   **기업 정보**: 브이알코리아(주)는 2009년 8월 1일에 설립된 중소기업으로, 솔루션, SI(시스템 통합), ERP, CRM 등을 주요 산업군으로 하고 있습니다[1].
+*   **대표자**: 박학문 대표이사가 기업을 이끌고 있습니다[1][2].
+*   **주요 활동**: 과거 2010년 'IT 엑스포 부산' 등에 참가하여 홀로그램 광고 제품인 '홀로박스', '역피라미드' 및 가상 현실 기반 장비와 콘텐츠를 선보인 바 있습니다[3][4][2].
+*   **소재지**: 부산광역시 해운대구 수영강변대로 140, 부산문화콘텐츠콤플렉스 302호에 위치하고 있습니다[1].
+
+참고로, '브이알코리아'라는 명칭과 유사한 다른 기업들(예: 어메이즈브이알코리아, 클래스브이알코리아, 오큘러스브이알코리아 등)이 존재하므로 혼동하지 않도록 주의가 필요합니다[5][6][7].
+
+Sources:
+[1] [jobplanet.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8eM4mVbMEXJcu20M_GNPHLYHF35jfp_jfFAtHkCgY435OcrdwB_ToJR3jhq-eadR-S5qMuL7lem0SyscaxXQOmOEuwiGGs5LLIBtt0qMDR-_blrE-M7MEOJbjbQhIcPPNFVM00iusIrtLUWICRNRQpa79BxKgh2L0nsLR7jkxE6gwhEuyKc1uK9vz3LGn52zmBmy_uYpGwwZRZbQGod8wKQ==)
+[2] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWW6i_SNCyXamaokEsopiA9xHVC2jfmvUyjaRpY-vtJuHV6dti9S4mWrOGj_P3Z6xB9SPzOC-4KQy_CYa5KTrPChFXOY9Xc8TrUzO0FeQPmyAwIPyJOLSzfzTG3kMEdn1zgcck7Kf8nMy7UY8R)
+[3] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgCyjwm-LVdTf6d3bgQQKm6xYQLuq1tRafyGZyoDViWFF6FYCKwRzrPWEg8MCF7FgvlFuDur_pLMNV8JFzt64or93R7Kbmw8mt5SXyyVcsAlVyX2vuem-4aq5fs_qNKMfIqtEFsBjQvM5JkiKn)
+[4] [aving.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxUG-3IVWtrlInO1wiA9nyQKiW21A5Iw4fKSw2SIOg0QNwSr7u78-skzXxOAboUcBwu7GUFAx_FLTarARdJ4k1uRxwxGNICaWQLADUkBxt7iIc0CdO88vfpEcaVMiTC4YUYxD_wU4gUF3-EVfA)
+[5] [rememberapp.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8v35zcyZmy_NYG1Eo2yx-Hr3_tSnElJS4fYClYEHTu-s32jSdvpbPCzEJSFpfe3dFb_YfEFNWaHObj2s3b_g_l8QyDWd8T6_oJy2zjSY7VngU6a4MyIfVhg0ao1XgfEBCJ4Wqv3ApwA0=)
+[6] [meta.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH89Zxn5KRWKCfhMy2AsZpOA0jBt5i9W0bG3pCNYMDjBQK7wA1gKBwDzVYOLZQkHMJ694DRTTnK7Ds1EQ86GWdqr8AwYandPs5AGQ155oKdLRLXpM6EryqI-63ThwthWs7UnhbKHUUQ_Q4D_kypUlYbFntMkKW7rmARLDrVEVoMQ==)
+[7] [nipa.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeYGGdhrHcnYPvL2QFLjvIrqn1_EVSbbRVbwNUGCegbnI-wbZ1J4MFZPWOl73wRD1G_0OPE5W62Ok1xSKm9gIv_k2H0jGl6bke8apVzHWe-mb5zRiH-f2krt4r9fwcIDFiUGjPs5djf7o7FoUKIAZwHqQKkOH-LvnfONQ=)

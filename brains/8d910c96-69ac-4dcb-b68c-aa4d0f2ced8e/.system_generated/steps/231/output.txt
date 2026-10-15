@@ -1,0 +1,18 @@
+The search for ""작은통일출판사" OR "작은통일" 출판사" returned the following summary:
+문화체육관광부의 '출판사인쇄사 검색시스템'에 따르면, 부산광역시 강서구에 **'작은통일'**이라는 상호로 등록된 출판사가 존재합니다[1].
+
+또한, '작은통일'이라는 표현은 남북 관계나 교류, 혹은 평화와 관련된 다양한 맥락에서 관용적으로 자주 사용되는 단어이기도 합니다[2][3][4]. 이와 관련하여 혼동될 수 있는 정보는 다음과 같습니다.
+
+*   **출판사 등록:** 부산광역시에 '작은통일'이라는 명칭의 출판사가 등록되어 운영 중인 것으로 확인됩니다[1].
+*   **유사한 명칭/키워드:** '작은통일'이라는 키워드는 출판사 이름 외에도 남북 단일팀 관련 도서의 부제(예: 《20일의 기적, 작은 통일》)[5]나 통일 관련 연재 기사, 행사 등에서 폭넓게 사용되고 있습니다[6][7].
+
+찾으시는 특정 도서나 정보가 있다면, 위 출판사에서 발행한 것인지 혹은 다른 맥락의 '작은 통일'인지 확인해 보시는 것이 좋습니다.
+
+Sources:
+[1] [mcst.go.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyC8DIy2vVxC_2-i6qNDiNy84GxJcPNzMMhRVBbrI45IbNhYhgo40zs2B5WuhFDlfDEvgHD5Xc9ui2aMgF4f924g7o0RcyvhFsvJYk9SlzNrV0Mj8sARvet7efRmB05V0oiRPNAX1yDepjBw9YG7NK8r2GvFzAmXtS5kOlA6e_LH5iDpvzltIh_AvsEUorgK7Qk8TnR_VCAB4h3FPP05Mfid5vf7CPH0_S252f3loyGtHVAzpdOD-8bKX3RO49x1W69VTmJF0VmPBi-rZm6zM3xorwlCRZbOrLjK8o_pIoj8gurgs4ym_bTAwW)
+[2] [sisajournal.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJDZECkVwjLIRGKuoJ_Fp6QCsz8l2DZICwYorPx9SZB5-ht0oc0JDsLMaurNUNN3Jf7NqLfY1gI2RvrzkpUntvCnnOpKSKDruqhtRM2iS-MqAWzXnrOht_bkdPXOSpOcpvnkZa9lHrOYS_mcnGAmguAin_gQ==)
+[3] [sungshin.ac.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqconx6AK7x7SWdmFIjzY1EJow6HefwjhhavX_Rf5MEtRIjYOKYyj7BjLiECi_hWWfXj8wCiGeb31D19Z7uUYj5gynJC55je9qXysxV3E5K4d7kQphf8U8ro2kK1OGfHId8FoLu2vVLiKzbCm_oYityA==)
+[4] [foodsecurity.or.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhPKqZtcIazO1eO-o9AQhM2Izeu-ZMboVGVfHALAAm8Qo9jNY553w8u51ThzEvFLi58hfX9EjiiXi7p7mErL6eK4Uh0iV3pyiFcUgS1gaI0JA_xtdLSulBDnHgLGHf3uWd9RAIancm3RdlG0acwCkGdOtF3cIL8SB-olqEMLlPY9TXp8yV4PNDGa8z)
+[5] [newswire.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglhFHcMvVBJxS8ITKZfalLfQhE3cPJlHjhY3oKhzpG4SUGiV-Iby8aDccBNsWS8Z5s_ks8hLitYZ7g0-CKlGCJblEc-rxP86gGiVVBEFjAwRikcDk0hdXG082tMvX25EWxDXBShmN)
+[6] [dailynk.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3MOcjPHE_0OUwg7fADuiFLCfT2JurUQFqbvYjMK6PU1Mus32YkOaF4nsEi9DHVxqNQLsVj8HUEuUxBJXxxiUlBBvNgPDkm-N_HFlvkEDbbQlo-IXRGhoUwiDJAIv3sTGyncR8Uucre8r-BiI6C_q_4UKjLPJY6IOOFrRurNlFanjrcznIFeHXKWPH_2A2nfnWlivcXe9A9Pi0W4cIbwy_ITWmr87WjLk5qScfuRnhuEiGb2G_Frqp-Hk8tWc0J0_mkW4jlGfufQHFZ2S2d581ba-M9A==)
+[7] [tongilnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3O-McmtNy2cOTYw5ywZeV2tOxZSGtVwDfze3jgdVKcqcsn4_JXdg_WsvEM0fveupAFxaWuFmjHV8GDM2GDorm-OQk4HHLUF390nxolKHQykfERR_Hzayxk6yUQ2gBBpDCRtcHAK8zXw48zNKlM4UXipI=)

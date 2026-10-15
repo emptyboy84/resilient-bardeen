@@ -1,0 +1,17 @@
+
+The command exited with code 0.
+Output:
+--- Probing Bizno ---
+Bizno len: 24538
+Row: 전화번호
+Row: 팩스번호
+Row: 대표자명 장현수
+Row: 회사주소 부산광역시 해운대구 센텀1로 9 S동 2704호 (우동, 롯데갤러리움센텀) 부산 해운대구 우동 1470
+Row: 관할세무서 해운대세무서 (전화번호 : 051-660-9200) 부산광역시 해운대구 좌동순환로 17(좌동) 해운대세무서(본관)
+
+--- Probing Saramin ---
+Saramin len: 285616
+JSON-LD: 
+{"@context":"http:\/\/schema.org","@type":"Organization","name":"(주)더블유에스컴퍼니 기업정보","description":"(주)더블유에스컴퍼니 기업소개 - 업력 : -년차, 기업형태 : 중소기업, 업종 :  | (주)더블유에스컴퍼니의 직원수, 연봉, 채용, 근무환경, 복리후생, 재무정보 등이 궁금하시다면, 사람인에서 더 많은 정보를 확인해보세요.","url":"https:\/\/www.saramin.co.kr\/zf_user\/company-info\/view\/csn\/dzgzSUV5S1VzQ0JYTkZoQzJNRVFnZz09\/company_nm\/(주)더블유에스컴퍼니","legalName":"(주)더블유에스컴퍼니","logo":"https:\/\/clogo.saramin.co.kr\/company\/logo\/202511\/11\/t5jyha93_fx5q-vbbx9e_logo.jpg","address":{"@type":"PostalAddress","name":"부산 해운대구 센텀중앙로 48, 511호"}}
+Saramin phones: [ '02-6226-5000', '02-6937-0039', '02-6937-0035' ]
+

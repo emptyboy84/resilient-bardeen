@@ -1,0 +1,72 @@
+
+The command exited with code 0.
+Output:
+
+================ Searching: 블루레코딩 ================
+[BNO: 510-13-63818] 동양 종합식자재 -> https://bizno.net/article/5101363818
+[BNO: 591-15-02115] 아온 -> https://bizno.net/article/5911502115
+[BNO: 232-17-02239] 깡우동 원주단계점 -> https://bizno.net/article/2321702239
+[BNO: 134-32-85808] 유아이엔 -> https://bizno.net/article/1343285808
+[BNO: 510-10-51723] 상상예찬 -> https://bizno.net/article/5101051723
+[BNO: 412-18-01172] 가화실내포장 -> https://bizno.net/article/4121801172
+[BNO: 269-88-03526] 팜앤가든코리아 -> https://bizno.net/article/2698803526
+[BNO: 255-17-01626] 우리2 태양광발전소 -> https://bizno.net/article/2551701626
+[BNO: 610-26-82323] 에이스 -> https://bizno.net/article/6102682323
+[BNO: 513-15-39723] 911헤어아트 -> https://bizno.net/article/5131539723
+[BNO: 514-03-78217] 오성상사 -> https://bizno.net/article/5140378217
+[BNO: 271-17-00823] 김가이가 -> https://bizno.net/article/2711700823
+[BNO: 568-96-00023] 하늘플라워 -> https://bizno.net/article/5689600023
+[BNO: 608-34-14623] 에덴물류 -> https://bizno.net/article/6083414623
+[BNO: 596-11-00623] 용종특수운수 -> https://bizno.net/article/5961100623
+
+================ Searching: 블루 레코딩 ================
+[BNO: 510-13-63818] 동양 종합식자재 -> https://bizno.net/article/5101363818
+[BNO: 591-15-02115] 아온 -> https://bizno.net/article/5911502115
+[BNO: 232-17-02239] 깡우동 원주단계점 -> https://bizno.net/article/2321702239
+[BNO: 134-32-85808] 유아이엔 -> https://bizno.net/article/1343285808
+[BNO: 510-10-51723] 상상예찬 -> https://bizno.net/article/5101051723
+[BNO: 412-18-01172] 가화실내포장 -> https://bizno.net/article/4121801172
+[BNO: 269-88-03526] 팜앤가든코리아 -> https://bizno.net/article/2698803526
+[BNO: 255-17-01626] 우리2 태양광발전소 -> https://bizno.net/article/2551701626
+[BNO: 610-26-82323] 에이스 -> https://bizno.net/article/6102682323
+[BNO: 513-15-39723] 911헤어아트 -> https://bizno.net/article/5131539723
+[BNO: 514-03-78217] 오성상사 -> https://bizno.net/article/5140378217
+[BNO: 271-17-00823] 김가이가 -> https://bizno.net/article/2711700823
+[BNO: 568-96-00023] 하늘플라워 -> https://bizno.net/article/5689600023
+[BNO: 608-34-14623] 에덴물류 -> https://bizno.net/article/6083414623
+[BNO: 596-11-00623] 용종특수운수 -> https://bizno.net/article/5961100623
+
+================ Searching: 010-9514-1435 ================
+[BNO: 510-13-63818] 동양 종합식자재 -> https://bizno.net/article/5101363818
+[BNO: 591-15-02115] 아온 -> https://bizno.net/article/5911502115
+[BNO: 232-17-02239] 깡우동 원주단계점 -> https://bizno.net/article/2321702239
+[BNO: 134-32-85808] 유아이엔 -> https://bizno.net/article/1343285808
+[BNO: 510-10-51723] 상상예찬 -> https://bizno.net/article/5101051723
+[BNO: 412-18-01172] 가화실내포장 -> https://bizno.net/article/4121801172
+[BNO: 269-88-03526] 팜앤가든코리아 -> https://bizno.net/article/2698803526
+[BNO: 255-17-01626] 우리2 태양광발전소 -> https://bizno.net/article/2551701626
+[BNO: 610-26-82323] 에이스 -> https://bizno.net/article/6102682323
+[BNO: 513-15-39723] 911헤어아트 -> https://bizno.net/article/5131539723
+[BNO: 514-03-78217] 오성상사 -> https://bizno.net/article/5140378217
+[BNO: 271-17-00823] 김가이가 -> https://bizno.net/article/2711700823
+[BNO: 568-96-00023] 하늘플라워 -> https://bizno.net/article/5689600023
+[BNO: 608-34-14623] 에덴물류 -> https://bizno.net/article/6083414623
+[BNO: 596-11-00623] 용종특수운수 -> https://bizno.net/article/5961100623
+
+================ Searching: 9514-1435 ================
+[BNO: 510-13-63818] 동양 종합식자재 -> https://bizno.net/article/5101363818
+[BNO: 591-15-02115] 아온 -> https://bizno.net/article/5911502115
+[BNO: 232-17-02239] 깡우동 원주단계점 -> https://bizno.net/article/2321702239
+[BNO: 134-32-85808] 유아이엔 -> https://bizno.net/article/1343285808
+[BNO: 510-10-51723] 상상예찬 -> https://bizno.net/article/5101051723
+[BNO: 412-18-01172] 가화실내포장 -> https://bizno.net/article/4121801172
+[BNO: 269-88-03526] 팜앤가든코리아 -> https://bizno.net/article/2698803526
+[BNO: 255-17-01626] 우리2 태양광발전소 -> https://bizno.net/article/2551701626
+[BNO: 610-26-82323] 에이스 -> https://bizno.net/article/6102682323
+[BNO: 513-15-39723] 911헤어아트 -> https://bizno.net/article/5131539723
+[BNO: 514-03-78217] 오성상사 -> https://bizno.net/article/5140378217
+[BNO: 271-17-00823] 김가이가 -> https://bizno.net/article/2711700823
+[BNO: 568-96-00023] 하늘플라워 -> https://bizno.net/article/5689600023
+[BNO: 608-34-14623] 에덴물류 -> https://bizno.net/article/6083414623
+[BNO: 596-11-00623] 용종특수운수 -> https://bizno.net/article/5961100623
+
